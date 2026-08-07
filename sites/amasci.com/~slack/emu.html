@@ -1,0 +1,259 @@
+<HEAD>
+<TITLE> The Linux Emulation Guide </TITLE>
+</HEAD>
+<BODY BACKGROUND="img/tile.gif" TEXT="#A0A0A0" link="#FF0000" vlink="#CD7F32" alink="#871f78">
+<IMG SRC="img/icon-emu.gif" border=0><font size=7>
+A guide to emulation on linux
+</font><hr>
+<img src="img/disc.gif" border=0 alt=*> == download<br>
+<img src="img/link.gif" border=0 alt=*> == download link (my other webspace)
+<hr>
+Caution! Warning! Disclaimer!: roms you do not own must be deleted within 24 hours.
+<hr>
+Computers / Operating systems:<br>
+[<a href=#x86>Intel x86</a>] [<a href=#dos>Dos</a>] [<a href=#win>Windows 3.1</a>] [<a href=#amiga>Amiga</a>] [<a href=#mac>Macintosh</a>] [<a href=#appleII>AppleII</a>] [<a href=#atarist>Atari ST</a>] [<a href=#msx>MSX</a>] [<a href=#c64>C64</a>] [<a href=#c64>C128</a>] [<a href=#c64>VIC20</a>] [<a href=#c64>PET</a>] [<a href=#pdp>PDP 11</a>]
+<p>Game systems:<br>
+[<a href=#snes>SuperNES</a>] [<a href=#nes>NES</a>] [<a href=#gb>GameBoy</a>] [<a href=#lynx>Lynx</a>] [<a href=#vpce>PC-Engine</a>] [<a href=#sms>Sega Mastersystem/GameGear</a>] [<a href=#coleco>Coleco</a>]
+<p>Misc:<br>
+[<a href=#hp48>HP-48</a>] [<a href=#pilot>USR Pilot</a>] [<a href=#ti92>TI-92</a>]
+<hr>
+<a name=x86>
+* <font size=7>Intel x86</a><p><ul></font>
+&nbsp;&nbsp;Bochs:<br>
+</ul>
+This nifty program emulates x86 systems, meaning once its completed you can boot win95, another linux, plan9, etc in an X window. I managed to get minix and win3.1 working on it,I didn't try win95 because i dont have it, although it is said to run. Graphics are slow, even on a ppro200 and a diamond stealth 64 2mb vram<p>
+homepage: <a href="http://world.std.com/~bochs">http://world.std.com/~bochs</a>
+<hr>
+<a name=dos>
+* <font size=7>Dos</font><p><ul>
+&nbsp;&nbsp;DOSEMU:<br>
+</ul>
+A stable dos emulator for console and X (limited graphic support in X), runs pretty much anything except certian graphical & sound apps, got doom working in it though.<p>
+homepage: <a href="http://www.suse.com/~dosemu/">http://www.suse.com/~dosemu/</a><br>
+how-to: <a href="http://sunsite.unc.edu/mdw/HOWTO/DOSEMU-HOWTO.html">http://sunsite.unc.edu/mdw/HOWTO/DOSEMU-HOWTO.html</a><br>
+ftp: <a href="ftp://tsx-11.mit.edu/pub/linux/ALPHA/dosemu/">ftp://tsx-11.mit.edu/pub/linux/ALPHA/dosemu/</a><br>
+You'll also need:
+Any old dos operating system, ms-dos, dr. dos, <a href="http://www.caldera.com/dos/">opendos</a>.....<br>
+<hr>
+<a name=win>
+* <font size=7>Windows 3.1</font><p><ul>
+&nbsp;&nbsp;Wine:<br>
+</ul>
+Beta emulator, runs less programs then wabi but I got an older groliers electronic encyclopedia working. Networking works too (mIrc works, for those who enjoy pain). Runs 16 bit netscape, wabi dosnt, can also run several win95 programs (mspaint, wordpad, mirc32?)...<p>
+faq: <a href="http://www.asgardpro.com/wine/">http://www.asgardpro.com/wine/</a><br>
+homepage: <a href="http://www.winehq.com/">http://www.winehq.com/</a><br>
+ftp: <a href="ftp://tsx-11.mit.edu/pub/linux/ALPHA/Wine/">ftp://tsx-11.mit.edu/pub/linux/ALPHA/Wine/</a><p>
+<ul>
+&nbsp;&nbsp;Wabi:<br>
+</ul>
+A MUCH more stable emulator then wine, the only drawback is that it costs 200 bucks<p>
+homepage: <a href="http://www.caldera.com/wabi/">http://www.caldera.com/wabi/</a><br>
+You'll also need:
+Microsnot Windows 3.1<p>
+<ul>
+&nbsp;&nbsp;The Blue Screen of Death for Linux:<br>
+</ul>
+Very accurate....<p>
+ftp: <a href="ftp://uiarchive.uiuc.edu/pub/systems/linux/sunsite/system/emulators/bsod.tar.gz">ftp://uiarchive.uiuc.edu/pub/systems/linux/sunsite/system/emulators/bsod.tar.gz</a>
+<hr>
+<a name=amiga>
+* <font size=7>Amiga</font><p><ul>
+&nbsp;&nbsp;UAE:<br>
+</ul>
+A very stable emulator, free source code, ported to many systems.
+Version 0.6.0 is incompatible with newer binutils, but 0.6.8-beta seems pretty stable.<p>
+Homepage: <a href="http://www.freiburg.linux.de/~uae/">http://www.freiburg.linux.de/~uae/</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: 
+<a href="download/kickstart-3.1.rom.gz">kickstart-3.1.rom.gz</a>(313326 bytes)<br>
+<img src="img/disc.gif" border=0 alt=*>You also might want: 
+<a href="download/workbench.zip">a workbench 3.1 bootdisk</a>(431465 bytes)<br>
+Software links:<br>
+<hr>
+<a name=mac>
+* <font size=7>Macintosh</font><p>
+<ul>
+&nbsp;&nbsp;vMac:<br>
+</ul>
+Beta freeware mac-plus emulator, emulates a mac plus, can run system 7.5.5<p>
+homepage: <a href="http://leb.net/vmac/">http://leb.net/vmac/</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need:
+<a href="download/vmacrom.zip">Mac+ rom v. 3</a>(92821 bytes)<br>
+<img src="img/disc.gif" border=0 alt=*><a href="download/vmacboot.zip">System 6.0.8 bootdisk</a>(756758 bytes)<br>
+<!--
+<img src="img/link.gif" border=0 alt=*>or a <a href="http://loki.unf.com/download/sys755.hfv.gz">System 7.5.5 bootimage</a>(3767243 bytes)<br>
+-->
+<a name=exe>
+<ul>
+&nbsp;&nbsp;Executor:<br>
+</ul>
+Stable emulator, someone ran photoshop on it I hear, but no network support, and its 100 bucks (you can download a 10-minute per session demo tho).<p>
+homepage: <a href="http://www.ardi.com">http://www.ardi.com</a><br>
+<hr>
+
+<a name=appleII>
+* <font size=7>AppleII</font><p><ul>
+&nbsp;&nbsp;Apple2/Linux:<br>
+</ul>
+Svgalib AppleII emulator, pretty good, sound and joystick support.<p>
+ftp: <a href="ftp://sunsite.unc.edu/pub/Linux/system/emulators/apple2-emul-v004-linux.tar.gz">ftp://sunsite.unc.edu/pub/Linux/system/emulators/apple2-emul-v004-linux.tar.gz</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: <a href="download/appleIIroms.tar.gz">AppleII roms</a>(10501 bytes)<p>
+<ul>
+&nbsp;&nbsp;XGS:<br>
+</ul>
+Emulates an appleII GS, can boot the GUI os that came with those.<p>
+homepage: <a href="http://www.jurai.org/~funaho/emulators/XGS/">http://www.jurai.org/~funaho/emulators/XGS/</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: <a href="download/xgs.rom.gz">A GS rom</a>(88954 bytes)<br>
+A version of the os is available at <a href="ftp://ftp.apple.com/Apple.Support.Area/Apple.Software.Updates/US/Apple_II/Apple_IIGS_System_6.0.1/">Apple's ftp site</a>(They're SFX mac archives, use <a href="#exe">executor</a> to extract).<br>
+<hr>
+
+<a name=atarist>
+* <font size=7>Atari ST</font><p><ul>
+&nbsp;&nbsp;STonX:<br>
+</ul>
+Looks pretty stable from what ive seen, except its 8 bpp X only and no joystick support yet.<p>
+homepage: <a href="http://www.complang.tuwien.ac.at/nino/stonx.html">http://www.complang.tuwien.ac.at/nino/stonx.html</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need:
+<a href="download/atari-st.tos206.zip">an image of the st tos rom</a>(129884 bytes)<br> 
+<hr>
+<a name=msx>
+* <font size=7>MSX</font><p><ul>
+&nbsp;&nbsp;fMSX:<br> 
+</ul>
+Looks stable, didnt get to mess with it much. Written by Marat Fayzullin, the same one who did several other emulators listed here.<p>
+homepage: <a href="http://www.komkon.org/fms/fMSX">http://www.komkon.org/fms/fMSX</a><br>
+<hr>
+<a name=c64>
+* <font size=7>Commodore 64</font><p><ul>
+&nbsp;&nbsp;Vice:<br>
+</ul>
+This good set of programs emulates c64s c128s vic20s and pets<p>
+homepage: <a href="http://www.tu-chemnitz.de/~fachat/vice/vice.html">http://www.tu-chemnitz.de/~fachat/vice/vice.html</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: <a href="download/vice-roms.tar.gz">roms for all the systems emulated</a>(98628 bytes)<p>
+<ul>&nbsp;&nbsp;Frodo:</ul><br>
+Better then VICE as far as commodore 64 emulation goes.<p>
+homepage: <a href="http://www.uni-mainz.de/~bauec002/FRMain.html">http://www.uni-mainz.de/~bauec002/FRMain.html</a>
+<hr>
+<a name=pdp>
+* <font size=7>PDP 11, 8, etc</font><p><ul>
+&nbsp;&nbsp;Bob Supnik's PDP Emulator:<br>
+</ul>
+Emulates pdp 1,4,7,8,9,11,15's and novas, the pdp11 program can run unix version 5,6,7<p>
+ftp site: <a href="ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/">ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/</a><br>
+You'll also need system software at: <a href="ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/software/">ftp://minnie.cs.adfa.oz.au/pub/PDP-11/Sims/Supnik_2.3/software/</a>
+<hr>
+<a name=snes>
+* <font size=7>Super Nintendo</font><p><ul>
+&nbsp;&nbsp;Snes9x:<br>
+</ul>
+The BEST snes emulator out there, sound (!), snapshot saves, game genie, transparancy, super-fx, runs most games.<p>
+After months of delay a new version is released which supports alot more<br>
+Now has source code released!<br>
+<!--
+<img src="img/disc.gif" border=0 alt=*>But you can download the last linux elf binary here :) <a href="download/snes9x_linux0.23.tar.gz">snes9x_linux0.23.tar.gz</a>(182738 bytes), or <a href="http://www.neosoft.com/~slack/snes9x_linux0.23.tar.gz">here</a><br>
+-->
+homepage: <a href="http://www.snes9x.com/">http://www.snes9x.com/</a><br>
+<ul>&nbsp;&nbsp;SNEmul:<br></ul>
+New emulation project, pretty good.<p>
+homepage: <a href="http://www.mygale.org/09/cassiop/">http://www.mygale.org/09/cassiop/</a><br>
+snes rom links: no.<br>
+<hr>
+<a name=nes>
+* <font size=7>Nintendo</font><p><ul>                                   
+&nbsp;&nbsp;iNES:<br>
+</ul>
+This emulator supports saves, has problems with only a few games, shareware for windows, free for unix (no source)<p>
+homepage: <a href="http://www.komkon.org/fms/iNES/">http://www.komkon.org/fms/iNES/</a><p>
+<ul>&nbsp;&nbsp;Xnes:</ul><br>
+New nes emulator, ported to linux svgalib.<p>
+homepage: <a href="http://emu.simplenet.com/xnes/index.html">http://emu.simplenet.com/xnes/index.html</a><p>
+nintendo rom links: no.
+<hr>
+<a name=gb>
+* <font size=7>Nintendo Gameboy</font><p><ul>
+&nbsp;&nbsp;Virtual GameBoy:<br>
+</ul>
+The BEST gameboy emulator out there, nuff said. Supports saves and game genie codes.<p>
+homepage: <a href="http://www.komkon.org/fms/VGB/">http://www.komkon.org/fms/VGB/</a><p>
+<ul>
+&nbsp;&nbsp;Hans de Goede's enhanced VGB:<br>
+</ul>
+Based on vgb 0.7, it supports 16/32-bpp xdisplays, joystick,  and has a svgalib version.<p>
+homepage: <a href="http://electron.et.tudelft.nl/~jdegoede/index.html">http://electron.et.tudelft.nl/~jdegoede/index.html</a><p>
+gameboy rom links: no.<br>
+<hr>
+<a name=lynx>
+* <font size=7>Atari Lynx</font><p><ul>
+&nbsp;&nbsp;Handy:<br></ul>
+Linux port of the lynx emulator<p>
+homepage: <a href="http://emu.simplenet.com/lynx/">http://emu.simplenet.com/lynx/</a><br>
+Handy homepage: <a href="http://www.geocities.com/SiliconValley/Heights/1148">http://www.geocities.com/SiliconValley/Heights/1148</a>
+<hr>
+<a name=vpce>
+&nbsp;&nbsp;* <font size=7>TurboGraphx16 / PC-Engine</font><p><ul>
+VPCE:<br></ul>
+Unix port of VPCE, has sound, runs slow<p>
+homepage: <a href="http://www.fortunecity.com/roswell/vanthal/10/index.html">http://www.fortunecity.com/roswell/vanthal/10/index.html</a><br>
+VPCE homepage: <a href="http://www.geocities.com/SiliconValley/Way/3340/vpce.html">http://www.geocities.com/SiliconValley/Way/3340/vpce.html</a>
+<hr>
+<a name=sms>
+* <font size=7>Sega Mastersystem & GameGear</font><p><ul>
+&nbsp;&nbsp;MasterGear:<br>
+</ul>
+Havn't found a problem with this one yet. Supports saves.<p>
+homepage: <a href="http://www.komkon.org/fms/MG/">http://www.komkon.org/fms/MG/</a><br>
+my upgrade to the 16/32 bpp fix: <a href="software.html">is here</a><br>
+rom links: no.
+<hr>
+<a name=coleco>
+* <font size=7>Coleco</font><p><ul>
+&nbsp;&nbsp;Colem:<br>
+</ul>
+Pretty stable emulator with sound.<p>
+homepage: <a href="http://www.komkon.org/fms/ColEm/">http://www.komkon.org/fms/ColEm/</a><p>
+<ul>
+&nbsp;&nbsp;Adamem:<br>
+</ul>
+Much better emulator then colem.<p>
+homepage: <a href="http://www.komkon.org/~dekogel/adamem.html">http://www.komkon.org/~dekogel/adamem.html</a><br>
+<hr>
+<a name=hp48>
+* <font size=7>HP-48 Calculator</font><p><ul>
+&nbsp;&nbsp;X48:<br>
+</ul>
+Pretty good emulator of the HP48 series, supports data transfers so you can run mario ;><p>
+ftp: <a href="ftp://sunsite.unc.edu/pub/Linux/system/emulators/x48-0.4.0.tar.gz">ftp://sunsite.unc.edu/pub/Linux/system/emulators/x48-0.4.0.tar.gz</a>(134814 bytes)<br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need:
+<a href="download/hp48g.rom.gz">hp48g.rom.gz</a>(329558 bytes)
+<hr>
+
+<a name=pilot>
+* <font size=7>USR Pilot PDA</font><p><ul>
+&nbsp;&nbsp;XCopilot:<br>
+</ul>
+The emulation seems stable, but it does something strange with the files it creates, trying to read them causes an I/O error, use at your own risk<p>
+homepage: <a href="http://www.isaac.cs.berkeley.edu/pilot/">http://www.isaac.cs.berkeley.edu/pilot/</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: <a href="download/pilotrom.zip">a personal edition rom</a>(248606 bytes)
+<br><img src="img/disc.gif" border=0 alt=*>or a <a href="download/pilot-pro.rom.gz">professional edition rom</a>(454781 bytes)
+<!--
+<br><img src="img/link.gif" border=0 alt=*>or a <a href="http://loki.unf.com/download/pilot-pro-deutsch.rom.gz">pro edition rom in german (deutsch)</a>(460774 bytes)
+-->
+<hr>
+
+<a name=ti92>
+* <font size=7>TI-92 Calculator/PDA</font><p><ul>
+&nbsp;&nbsp;Tiger:<br>
+</ul>
+New emulator, runs quite a few things already.<p>
+homepage: <a href="http://www.student.nada.kth.se/~md94-jmi/tiger/">http://www.student.nada.kth.se/~md94-jmi/tiger/</a><br>
+<img src="img/disc.gif" border=0 alt=*>You'll also need: <a href="download/ti92.rom.gz">a rom (v 1.4)</a>(460222 bytes)
+<hr>
+
+Misc shit<p>
+<!--
+<img src="img/link.gif" border=0 alt=*>Dunno why you would need an <a href="http://loki.unf.com/download/newton-mp130-52xxxx.img.gz">Apple newton Messagepad 130 rom</a>(3089827 bytes), there isnt an emulator planned or anything :)<br>
+-->
+<a href="http://www.csh.rit.edu/~shaggy/software.html">ACE Atari 800 emu is here</a><br>
+<a href="http://www4.ncsu.edu/~bwmott/www/2600/">Stella: "A multi-platform Atari 2600 VCS emulator"</a><br>
+<a href="ftp://sunsite.unc.edu/pub/Linux/system/emulators/!INDEX.html">ftp://sunsite.unc.edu/pub/Linux/system/emulators/</a><br>
+<HR>
+<a href="index.html"><img src="img/back.gif" border="0" alt="<">Go back..</a>

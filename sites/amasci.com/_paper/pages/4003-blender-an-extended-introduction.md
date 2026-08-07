@@ -1,0 +1,151 @@
+---
+title: "Blender - an Extended Introduction"
+source_domain: amasci.com
+source_path: ~johnnyb/computers/blender/Blender_Tutorial_List.html
+order: 4003
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:10:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Blender - an Extended Introduction
+
+*Source page: `~johnnyb/computers/blender/Blender_Tutorial_List.html`*
+
+# Blender - an Extended Introduction
+
+## Blender Basics
+
+### Navigating Blender
+
+- Blender User Interface Tutorial - <http://www.blender3d.org/_media/education/quickstart/Blender_User_Interface.html>
+- Blender Windows Tutorial - <http://www.blender3d.org/_media/education/quickstart/Blender_Windows.html>
+- Navigating in 3D Space Tutorial - <http://www.blender3d.org/_media/education/quickstart/Navigating_3D_Space.html>\
+
+### Setting Up Your Screen
+
+### Getting Something to Render
+
+- Getting Started Tutorial - <http://10secondclub.org/users/juicy/mid_tute101.html>\
+
+### Basic Keys, Mouse Actions, and Parenting\
+
+- Parenting Objects - <http://www.ingiebee.com/Blendermania/Basic%20Parenting.htm>
+- Reusing Objects from Other Scenes - <http://oldsite.blender3d.org/showitem.php?id=142>\
+
+## Mesh Modelling
+
+### Points, Lines, and Faces
+
+### Extrusion - Mesh Modelling's Great Power
+
+- Building a Hammer Tutorial - <http://10secondclub.org/users/juicy/mid_tute102.html>\
+- Building a Castle Tutorial - <http://www.blender3d.org/_media/education/quickstart/Building_Castle.html>
+- Modelling a Human Head - <http://www.ingiebee.com/Blendermania/face_modelling.htm>
+- Modelling Buildings for Beginners - <http://www.ingiebee.com/Blendermania/basic%20buildings.htm>\
+
+### Subsurfing to Realistic Models
+
+- Subsurface Discussion - <http://www.museum.state.il.us/ismdepts/library/linuxguides/blender/blender_faq_60.html>
+- Subsurf Modelling Tutorial - [http://argoslabs.com/~malefico/tutor/subsurf-e.html](http://argoslabs.com/%7Emalefico/tutor/subsurf-e.html)
+- Head Modelling with Subsurfs - <http://www.linuxgraphic.org/section3d/blender/pages/didacticiels/head-subsurf/index-ang.html>
+
+## Getting Real with Materials
+
+### Setting the Color of Materials
+
+- Basic Materials Tutorial - <http://10secondclub.org/users/juicy/mid_tute104.html>
+- More with Materials - <http://www.linuxgraphic.org/section3d/blender/pages/didacticiels/blender_material/index-ang.html>\
+
+### Adding Textures
+
+- Texture Types Tutorial - <http://www.elysiun.com/tutorials.php?id=4>\
+- Texturing a Castle Tutorial - <http://www.blender3d.org/_media/education/quickstart/Texturing_Castle.html>
+- Refraction Tutorial - <http://reblended.com/tutorials/refraction.html>
+- Adding Decals - <http://www.ingiebee.com/tutorials/Decal%20Mirror%20Modelling/theeth%20decal.htm>
+- Texturing a Shockwave - <http://www.elysiun.com/tutorials.php?id=5>
+- UV-Mapped Textures - <http://membres.lycos.fr/bobois/Tuts/uvmapping/uvmapping01.html>
+
+### Environment Map Textures
+
+- Reflection in Blender - <http://oldsite.blender3d.org/showitem.php?id=100>
+- Chrome Effect Tutorial - [http://www.ualberta.ca/~nwy/blender/blender_tut1.htm](http://www.ualberta.ca/%7Enwy/blender/blender_tut1.htm)
+- More Chrome - <http://www.elysiun.com/tutorials.php?id=8>
+- More Chrome - <http://www.ingiebee.com/tutorials/Digital-Mark.htm>\
+
+### Lighting Your Scene
+
+- Basic Lighting Tutorial - <http://10secondclub.org/users/juicy/mid_tute103.html>
+- Mastering Shadows - <http://www.linuxgraphic.org/section3d/blender/pages/didacticiels/shadows/index-ang.html>
+- Explanation of lighting parameters - <http://www.ingiebee.com/tutorials/Dissolve%20Lights/theeth%20desolve%20n%20lights.htm>\
+
+### Advanced Lighting
+
+- Introduction to Radiosity from the Blender Manual - <http://download.blender.org/documentation/html/chapter_rendering_radiosity.html>\
+- Radiosity for Global Illumination - <http://oldsite.blender3d.org/showitem.php?id=122>
+- More Radiosity - <http://blenderman.free.fr/tut/radiosity/uk/>\
+
+## Keyframe and Path Animation
+
+- Path Animation - <http://www.ingiebee.com/tutorials/Path/theeth%20paths.htm>
+- Juicy Blender Keyframe Tutorial - <http://10secondclub.org/users/juicy/mid_tute105.html>
+- Other Juicy Blender Keyframing Tutorials - <http://10secondclub.org/users/juicy/>\
+
+## Modelling with Curves
+
+- Double Sweep Surface Modelling - <http://www.ingiebee.com/tutorials/Digital-Mark.htm>
+- Modelling a Fork - <http://www.ingiebee.com/Blendermania/fork.htm>
+- Modelling Characters with NURBS - <http://oldsite.blender3d.org/showitem.php?id=117>
+- Modelling with Dupliverts/Dupliframes - <http://www.ingiebee.com/tutorials/Path/theeth%20paths.htm>
+- Modelling/Animating a Tank - <http://oldsite.blender3d.org/showitem.php?id=166>
+- Curves and Bevels - <http://www.ingiebee.com/Blendermania/curves%20and%20Bevels.htm>\
+
+## Constraints
+
+- Basic Constraints - [http://argoslabs.com/~malefico/tutor/mecano-en.html](http://argoslabs.com/%7Emalefico/tutor/mecano-en.html)\
+
+## Animation Effects
+
+- Animating a Candle Flame with Particles - <http://oldsite.blender3d.org/showitem.php?id=93>
+- Blender Animation Effects - <http://www.linuxgraphic.org/section3d/blender/pages/didacticiels/animation_effects/index-ang.html>
+- Effects in the Blender Manual - <http://download.blender.org/documentation/html/c1585.html>
+- Particles for Explosions - <http://www.geocities.com/robbie_e_stuart/RobbiesPage.html>
+- Particle Animations - <http://oldsite.blender3d.org/showitem.php?id=154>
+- Particle Shadows - <http://oldsite.blender3d.org/showitem.php?id=57>\
+
+## Inverse Kinematics and Non-Linear Animation
+
+- Armatures for Animation and Games - <http://www.elysiun.com/tutorials/animation/>
+- Walking - [http://argoslabs.com/~malefico/tutor/walking.html](http://argoslabs.com/%7Emalefico/tutor/walking.html)
+- The best tutorial was on the blendedplanet.com site, but they were taking down this week for an unknown reason.
+- Non-Linear Animation Tools - [http://argoslabs.com/~malefico/tutor/nla-en.html](http://argoslabs.com/%7Emalefico/tutor/nla-en.html)
+- Blender 2 Bone System - <http://members.yourlink.net/gruff/bones/>\
+
+## Game Blender
+
+- Game Engine Basics - <http://oldsite.blender3d.org/showitem.php?id=14>
+- Controlling Game Objects - <http://oldsite.blender3d.org/showitem.php?id=13>\
+- Game Textures - <http://oldsite.blender3d.org/showitem.php?id=177>\
+- UV Texturing Tutorial - <http://oldsite.blender3d.org/showitem.php?id=20>
+- Low Poly Models - <http://www.elysiun.com/tutorials.php?id=1>\
+
+## Miscellaneous
+
+- Skies 1 - [http://argoslabs.com/~malefico/tutor/skies.html](http://argoslabs.com/%7Emalefico/tutor/skies.html)
+- Skies 2 - [http://argoslabs.com/~malefico/tutor/skies2.html](http://argoslabs.com/%7Emalefico/tutor/skies2.html)
+- Focus Tutorial - [http://argoslabs.com/~malefico/tutor/dof-en.html](http://argoslabs.com/%7Emalefico/tutor/dof-en.html)
+- Camera Handling - [http://argoslabs.com/~malefico/tutor/camera.html](http://argoslabs.com/%7Emalefico/tutor/camera.html)
+- Changing Camera Views - <http://www.elysiun.com/tutorials.php?id=7>
+- Focal Blur Tutorial - <http://www.elysiun.com/tutorials.php?id=2>\
+
+\
+
+## Where to Go From Here
+
+- <span style="font-weight: bold; font-style: italic;">Blender Contest</span> - <http://www.blenderama.com/?contest>\
+  [](http://oldsite.blender3d.org/showitem.php?id=166)
+- Elysiun - <http://www.elysiun.com/>
+- Blender User Site - <http://www.blender3d.org/>
+- Blender Developer Site - <http://www.blender.org/>\

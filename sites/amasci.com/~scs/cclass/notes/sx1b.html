@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>1.2 Second Example</title>
+<link href="sx1a.html" rev=precedes>
+<link href="sx1c.html" rel=precedes>
+<link href="sx1.html" rev=subdocument>
+</head>
+<body>
+<H2>1.2 Second Example</H2>
+
+<p>Our second example is of little more practical use than the first,
+but it introduces a few more programming language elements:
+<pre>
+#include &lt;stdio.h&gt;
+
+/* print a few numbers, to illustrate a simple loop */
+
+main()
+{
+int i;
+
+for(i = 0; i &lt; 10; i = i + 1)
+	printf("i is %d\n", i);
+
+return 0;
+}
+</pre>
+As before, the line <TT>#include &lt;stdio.h&gt;</TT> is 
+boilerplate
+
+which is
+necessary since we're calling the <TT>printf</TT> 
+function, and <TT>main()</TT> and the pair of braces 
+<TT>{}</TT> indicate and delineate the function named
+<TT>main</TT> we're (again) writing.
+</p><p>The first new line is the line
+<pre>
+	/* print a few numbers, to illustrate a simple loop */
+</pre>
+which is a <dfn>comment</dfn>.
+Anything between the characters <TT>/*</TT> and <TT>*/</TT> 
+is ignored by the compiler, but may be useful to a person 
+trying to read and understand the program.
+You can add comments anywhere you want to in the program,
+to document what the program is, what it does,
+who wrote it,
+how it works,
+what the various functions are for and how <em>they</em> work,
+what the various variables are for,
+etc.
+</p><p>The second new line, down within the function <TT>main</TT>,
+is
+<pre>
+	int i;
+</pre>
+which <dfn>declares</dfn> that our function will use a 
+variable named <TT>i</TT>.
+The variable's type is <TT>int</TT>,
+which is a plain integer.
+</p><p>Next, we set up a <dfn>loop</dfn>:
+<pre>
+	for(i = 0; i &lt; 10; i = i + 1)
+</pre>
+The keyword <TT>for</TT> indicates that we are setting up a 
+``<TT>for</TT> loop.''
+A <TT>for</TT> loop
+is controlled by three expressions, enclosed in parentheses and 
+separated by semicolons.
+These expressions say that,
+in this case,
+the loop starts by setting <TT>i</TT> to 0,
+that it continues as long as <TT>i</TT> is less than 10,
+and that after each iteration of the loop,
+<TT>i</TT> should be incremented by 1
+(that is, have 1 added to its value).
+</p><p>Finally, we have a call to the <TT>printf</TT> function,
+as before, but with several differences.
+First, the call to <TT>printf</TT> is within the <dfn>body</dfn>
+of the <TT>for</TT> loop.
+This means that control flow does not pass once through the 
+<TT>printf</TT> call, but instead that the call is performed 
+as many times as are dictated by the <TT>for</TT> loop.
+In this case, <TT>printf</TT> will be called several times:
+once when <TT>i</TT> is 0,
+once when <TT>i</TT> is 1,
+once when <TT>i</TT> is 2,
+and so on until <TT>i</TT> is 9,
+for a total of 10 times.
+</p><p>A second difference in the <TT>printf</TT> call is that the 
+string to be printed, <TT>"i is %d"</TT>, contains a percent sign.
+Whenever <TT>printf</TT> sees a percent sign,
+it
+
+indicates
+that <TT>printf</TT> is not supposed to print the exact text 
+of the string, but is instead supposed to read another one of 
+its arguments to decide what to print.
+The letter after the percent sign tells it
+what type of argument to expect and how to print it.
+In this case, the letter <TT>d</TT> indicates that 
+<TT>printf</TT> is to expect an <TT>int</TT>, and to print 
+it in decimal.
+Finally, we see that <TT>printf</TT> is in fact being called 
+with another argument, for a total of two, separated by commas.
+The second argument is the variable <TT>i</TT>, which is in 
+fact an <TT>int</TT>, as required by <TT>%d</TT>.
+The effect of all of this is that each time it is called,
+<TT>printf</TT> will print
+a line containing
+the current value of the variable <TT>i</TT>:
+<pre>
+	i is 0
+	i is 1
+	i is 2
+	...
+</pre>
+</p><p>After several trips through the loop,
+<TT>i</TT> will eventually equal 9.
+After that trip through the loop,
+the third control expression 
+<TT>i = i + 1</TT> will increment its 
+value to 10.
+
+The condition <TT>i &lt; 10</TT> is no longer true,
+so no more trips through the loop are taken.
+Instead, control flow jumps down to the statement following the 
+<TT>for</TT> loop, which is the <TT>return</TT> statement.
+The <TT>main</TT> function returns, and the program is finished.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx1a.html" rev=precedes>prev</a>
+<a href="sx1c.html" rel=precedes>next</a>
+<a href="sx1.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<li><a href="http://transit.metrokc.gov">Metro Riderlink Bus Sched.</a>
+<li><a href="http://www.wsdot.wa.gov/regions/northwest/NWFLOW"> Washington DOT Traffic Map</a> </ul>
+<li><a href="http://www.eskimo.com/test/seattle2.html">Index of Seattle WWW pages</a> 
+<LI><a href="telnet://140.142.41.2/">University of Washington Information Navigator (UWIN)</a>
+<li><a href="telnet://198.104.1.63">Seattle Public Library</a>login:library (telnet) 
+<li><a href="telnet://198.137.188.2">King County Library</a>login:kcls (telnet) 
+
+
+

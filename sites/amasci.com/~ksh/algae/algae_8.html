@@ -1,0 +1,113 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Projects</TITLE>
+
+<META NAME="description" CONTENT="Algae: Projects">
+<META NAME="keywords" CONTENT="Algae: Projects">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC53"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_7.html#SEC47"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_9.html#SEC54"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  8. Projects </H1>
+<!--docid::SEC53::-->
+<P>
+
+Below is a list of improvements that we'd like to make to Algae.  These
+items run the gamut from specific changes that would take only an hour
+or so to implement to vague, half-baked ideas that might take months.
+The items are in no particular order--we haven't identified priorities
+on most of them.  We'd be very happy to have some help.</P><P>
+
+<UL>
+<LI>
+Algae should incorporate the ARPACK sparse matrix routines.  This will
+be a bit of work, but pretty straightforward.  I consider this a high
+priority.<P>
+
+<LI>
+Algae's FFT routines are old and crusty, but they work well.  Still, we
+ought to take a look at the FFTW code and consider using it.<P>
+
+<LI>
+The <CODE>atan</CODE> and <CODE>atanh</CODE> functions need improvement for complex
+arguments.  They are based on simple formulas, but better algorithms are
+available that are faster, more accurate, and less prone to
+overflow.<P>
+
+<LI>
+In the old days, getting Readline to do context-based completion (as on
+variable names) was nearly impossible.  This may have changed - we
+ought to take a new look at it.<P>
+
+<LI>
+The <CODE>printf</CODE> and related functions should be given additional
+capabilities to accept array arguments.<P>
+
+<LI>
+I'm interested in exploring a better arrangement for the help system.
+Users should be able to tie in documentation for their own code.<P>
+
+<LI>
+With the <CODE>builtin</CODE> function, <CODE>algae</CODE> has dynamic linking
+capability.  To make this useful, though, we have to document the
+interface and reorganize the header files.<P>
+
+<LI>
+Wouldn't a <A HREF="http://www.gtk.org/">GTK+</A> interface be nice?<P>
+
+<LI>
+We need to complete the <CODE>fread</CODE> and <CODE>fwrite</CODE> implementation,
+and we'll probably want an <CODE>fseek</CODE> function as well.<P>
+
+<LI>
+Symbolic debugging of Algae code would be very helpful.
+<P>
+
+</UL>
+<P>
+
+<A NAME="Bugs"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_7.html#SEC47"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_9.html#SEC54"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

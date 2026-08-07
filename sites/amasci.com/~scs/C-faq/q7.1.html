@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 7.1</title>
+<link href="q6.21.html" rev=precedes>
+<link href="q7.2.html" rel=precedes>
+<link href="s7.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 7.1</H3>
+<p>Why doesn't
+this fragment
+work?
+<pre>	char *answer;
+	printf("Type something:\n");
+	gets(answer);
+	printf("You typed \"%s\"\n", answer);
+</pre></p><hr>
+<p>The pointer variable <TT>answer</TT>,
+which is handed to
+<TT>gets()</TT>
+as the location into which the response should be
+stored,
+has not been set to
+point to any valid storage.
+That is,
+we cannot say where the pointer <TT>answer</TT>
+points.
+(Since local variables are not initialized,
+and typically contain garbage,
+it is not even guaranteed that <TT>answer</TT> starts out as a
+null pointer.
+See questions
+<a href=q1.30.html>1.30</a>
+and
+<a href=q5.1.html>5.1</a>.)
+</p><p>The simplest way to correct
+the question-asking program
+is to
+use a local array, instead of a
+pointer, and let the compiler
+worry about
+allocation:
+<pre>#include &lt;stdio.h&gt;
+#include &lt;string.h&gt;
+
+char answer[100], *p;
+printf("Type something:\n");
+fgets(answer, sizeof answer, stdin);
+if((p = strchr(answer, '\n')) != NULL)
+	*p = '\0';
+printf("You typed \"%s\"\n", answer);
+</pre></p>This example also uses <TT>fgets()</TT>
+instead of <TT>gets()</TT>,
+so that
+the end of the array
+cannot be overwritten.
+(See question
+<a href=q12.23.html>12.23</a>.
+Unfortunately for this example,
+<TT>fgets()</TT> does not automatically delete the trailing <TT>\n</TT>,
+<TT>gets()</TT> would.)
+It would also be possible to use <TT>malloc()</TT> to allocate the <TT>answer</TT>
+buffer.
+<hr>
+<p>
+Read sequentially:
+<a href="q6.21.html" rev=precedes>prev</a>
+<a href="q7.2.html" rel=precedes>next</a>
+<a href="s7.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

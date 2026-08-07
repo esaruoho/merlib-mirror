@@ -1,0 +1,434 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0128.htm
+order: 6790
+reachable_from_entry: false
+images: 17
+internal_links: 0
+extracted: 2026-08-07T17:14:12Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0128.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **The golden lemon is not made\
+> but grows on a green tree:\
+> A strong man & his crystal eyes\
+> is a man born free.**
+>
+>        *Herbert Read*
+
+[]()\
+[]()\
+\
+--
+
+**JANUARY 28**
+
+JOSE MARTI\
+The Original Cuban revolutionary.\
+
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > U.S.: NATIONAL KAZOO DAY.
+> >
+> > LOVE AMONG NATIONS DAY. Yup.
+> >
+> > CHINESE NEW YEAR.
+> >
+> > ------------------------------------------------------------------------
+>
+>  []()\
+>
+> []()\
+> \
+> --
+>
+> > "The seer of now pours his vision on sheets of paper, on banks of arid craters where armored bullies stand guard & demand the password, Positive Evidence. No vision can pass by their gates. The only song that passes is a song gone as dry & cadaverous as the fossils in the sands."
+> >
+> > 
+> >
+> > Fredy Perlman, Against His-story, Against Leviathan\
+> > <http://www.primitivism.com/leviathan.htm>\
+> > <http://www.geocities.com/~johngray/indx1.htm>\
+> > \
+
+[]()\
+[]()\
+\
+1393 -- Aimery Poitiers, French nobleman, burned at royal ball.\
+Stuff happens; see Burning Man,\
+<http://www.fray.com/bm/>\
+<http://abirato.free.fr/9autres/Derive.htm>\
+\
+<img src="http://www.drakesbay.com/cover.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="284" height="393" alt=" ? " />\
+1595 -- Sir Francis Drake, English navigator/pirate (Porto Bello West Indies), dies at about 50, of dysentery, off the coast of Panama. (or 1/29/1596?)\
+<http://www.mcn.org/2/oseeler/drake.htm>\
+<http://www.drakesbay.com/>\
+\
+1613 -- Galileo may have unknowingly viewed undiscovered planet Neptune, when interrupted by the knock of the boy from Pizza Express. []()\
+[]()\
+\
+1787 -- The Free Africa Society organizes in Philadelphia, Pennsylvania.\
+
+> []()\
+> []()\
+> \
+> 1814 -- Stendhal's first book published, containing partially plagiarized biographies of Mozart & Haydn.\
+> <http://www.eskimo.com/~recall/bleed/0123b.htm#1783>\
+> []()\
+> \
+> 1832 -- Lydia Maria Child's first piece, "Stand From Under," written for William Lloyd Garrison's anti-slavery weekly The Liberator, is published.\
+> []()\
+> []()\
+> \
+> 1841 -- Henry Morton Stanley (1841-1904) lives, Denbigh in North Wales, the illegitimate son of John Rowlands & Elisabeth Parry. American journalist & adventurer, who took the "New York Herald's" mission "to go & find Livingstone".
+>
+> "Then sing, O friends, sing the journey is ended;\
+> Sing aloud, O friends, sing to the great sea."
+>
+>  <http://www.kirjasto.sci.fi/hstanley.htm>\
+>
+> []()\
+> \
+> 1846 -- Charlotte Bront writes to a London publisher about the poems of her sister Emily & their worthiness for publication. []()\
+> []()\
+> \
+> 1853 -- Cuban revolutionist Jos Mart (1853-1895) lives, Havana. Cuban poet, essayist & journalist, who became symbol of Cuba's struggle for independence. The popular song "Guantanamera" is based on a poem by Marti'. Worked on underground papers & sent to jail & forced into exile (three columns & you're out?)
+>
+> > *"No man has any special right because he belongs to any specific race; just by saying the word man, we have already said all the rights."* 
+> >
+> > Jose Marti
+> >
+> > <http://members.aol.com/enriques/index.html>\
+> > <http://www.patriagrande.net/cuba/jose.marti/>\
+>
+> \
+> []()\
+> \
+> 1854 -- US: 30 miners attack a peaceful Indian village on the Coquille River near Randolph, Oregon, killing 16.
+>
+> > "The West did not provide what they needed. Make-believe fandangos, transvestite laundresses, hydrophobic wolves, ant-fights, crazed foreigners, pretty sunsets--this was not enough. The West was not dull, it was stupendously dull, & when it was not dull it was murderous. A man could get killed without realizing it. There were unbelievable flash floods, weird snakes, and God Himself did not know what else, along with Indians descending as swiftly as the funnel of a tornado."
+> >
+> > 
+> >
+> > Evan S. Connell
+>
+>  <http://members.tripod.com/~PHILKON/January4.html>\
+> <http://www.zmag.org/zmag/articles/dec95barsamian.htm>\
+>
+> []()\
+> \
+> <img src="http://www.earldotter.com/images/lee_hipshire.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="193" height="285" alt="?" />\
+> 1861 -- US: American Miners Association, first national coal miners' union, founded. []()\
+> []()\
+> \
+> 1861 -- US: State convention in Texass to consider secession from the Union convenes in Austin. Lots of Little Grey Men & the music scene prove too too distracting. []()\
+> []()\
+> \
+> 1873 -- French sexual liberationist writer (Sidonie-Gabrielle) Colette lives, Saint-Sauveur-en-Puisaye. Begins her writing career ghostwriting stories for her author-husband "Willy" who locks her into a room until she finishes each assignment. Wrote Cherie, Gigi (filmed), etc. Her novels are characterized by a representation of erotic instinct & sensuous experience & a sympathy with nature, especially flowers & animals.
+>
+> *I was by chance spared the sight of Rene dying, then dead. She carried off with her more than one secret, & beneath her purple veil, Rene Vivien, the poet, led away her throat encircled with moonstones, beryls, aquamarines, & other anemic gems the immodest child, the excited little girl who taught me, with unembarrassed competence: "There are fewer ways of making love than they say, & more than one believes."*
+>
+>        Colette, as quoted by Dolores Klaich in "Woman Plus Woman"
+>
+> > Natalie,
+> >
+> > my husband kisses your hands, 
+> >
+> > & I the rest. 
+> >
+> >        Colette, in a note to Natalie Barney
+> >
+> >  <http://www.kirjasto.sci.fi/colette.htm>\
+> >
+> > []()\
+> > \
+> > <img src="http://newmedia.cgu.edu/stageart/freedlander/chairguys.jpg" data-border="0" data-hspace="10" data-vspace="10" width="222" height="345" alt="?" />\
+> > 1874 -- Innovative movement theorist Vsevolod Meyerhold lives\
+> > (Jan 28 old style; Feb 9 new style), Penzq, Russia.
+> >
+> > > > Visionary radical Soviet theatre director, choreographer. Founding member of the Moscow Art Theater. Symbolist, talented experimental director of the 1920s & 1930s whose work inspired revolutionary artists & filmmakers of his era.. 
+> > > >
+> > > > A victim of Beloved & Respected Comrade Leader Uncle Stalins terror, Meyerhold was arrested & imprisoned in 1939, then executed in 1940.
+> > > >
+> > > >  <http://muse.jhu.edu/demo/theatre_topics/6.1muza.html>\
+> > > > <http://newmedia.cgu.edu/stageart/freedlander/meyerhold.html>\
+> >
+> > []()\
+> > \
+> > 1883 -- France: The trial to suppress the anarchists of the First International concludes in Lyon, against those known as "The 66 ". 
+> >
+> > > "The 66" are accused of promoting workers' strikes, the abolition of the rights of property, of family, of fatherland, of religion, & thus undermining the public peace. Stiff sentences are handed down: "Leaders" such as Peter Kropotkin, Emile Gautier, Bernard, & Bordat get four years in prison, while 39 of their companions are sentenced from six months to three years. Antoine Cyvoct, a Lyon citizen, received five years.
+> > >
+> > > <http://perso.club-internet.fr/ytak/janvier2.html#proces66>\
+> >
+> > []()\
+> > \
+> > 1912 -- American Jackson Pollock lives, in the abstract realm of art. []()\
+> > []()\
+> > \
+> > 1917 -- US forces withdraw from Mexico after failing to find Pancho Villa. []()\
+> > []()\
+> > \
+> > 1918 -- Germany: General Strike in the large cities. 
+> >
+> > > <img src="http://www.free.de/dada/b_u_a2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="260" alt="?" />
+> > >
+> > > \
+> > >
+> > > At a rally of 10,000 workers in Munich, the anarchist poet/playwright
+> > >
+> > > ### Erich Mhsam
+> > >
+> > > calls for the continuation of the strike movement. \
+> > > He is seized afterwards by police & put under house arrest. 
+> > >
+> > > <http://recollectionbooks.com/bleed/sinners/MuhsamErich.htm>
+> > >
+> > > 
+> > >
+> > > 
+> >
+> > 
+> >
+> > alt; Erich Mhsam:
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > <img src="http://fbuch.com/images/t1918ab.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="196" height="274" alt="?" />\
+> > 1918 -- Leon Trotsky denounces the German Peace Terms as unacceptable & walks out of the peace negotiations at Brest-Litovsk.In March the Bolsheviks accept the dictated peace of Brest-Litovsk. The Left SRs denounce the peace & leave the government.
+> >
+> >  <http://www.barnsdle.demon.co.uk/russ/rusrev.html%0B>\
+> > <http://fbuch.com/posters.htm>
+> >
+> > The Bolsheviks & Workers Control, 1917 - 1921:The State & Counter-Revolution:\
+> > <http://www.geocities.com/WestHollywood/2163/bolintro.html>\
+> > []()\
+> > \
+> > 1927 -- No Second Fiddle?: Aaron Copland's First Piano is first performed.\
+> > <http://memory.loc.gov/ammem/achtml/actime.html>\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> > 1928 -- Vicente Blasco Ibez, author of Blood & Sand (1908) &The Four Horsemen of the Apocalypse (1916), among many other works, dies.\
+> > []()\
+> > []()\
+> > \
+> > 1928 -- Norway: Millenium Bug?: Christopher Hornsrud chosen Prime Minister at age 101. []()\
+> > []()\
+> > \
+> > 1932 -- US: First unemployment compensation law enacted, Wisconsin. []()\
+> > []()\
+> > \
+> > 1933 -- George Saintsbury, popular & authoritative author of many books on literary criticism & noted oenophile, dies in Bath, Somerset. During his 20-year post as the Regius chair of rhetoric & English Literature at the University of Edinburgh, he produced no fewer than 10 volumes on the history of English prosody. []()\
+> > []()\
+> > \
+> > 1934 -- First rope ski tow operation begins. Better now than in July. []()\
+> > []()\
+> > \
+> > 1935 -- Iceland becomes the first country to legalize abortion.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/archpin.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="63" alt="?" />\
+> > 1938 -- France: Emile Bidault (1869-1938) dies. 
+> >
+> > > > Anarchist militant & organizer. With Joseph Tortelier & others, Bidault founded the "Ligue des antipatriotes" (League of Antipatriots) to combat militarism, the war it promotes, & its corollary, patriotism. 
+> > > >
+> > > > Editor of the "Brochure Mensuelle" &, in 1934, manager of the "Conqute du pain" (Conquest of Bread), a libertarian review open to all the tendencies of anarchism (N 1 appeared on October 13, 1934).
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" width="50" height="30" alt="old book" />\
+> > 1939 -- William Butler Yeats dies, Roquebrune, France, age 73. His gravestone in Ireland bears the epitaph he composed: "Cast a cold eye / On life, on death. / Horseman, Pass by." Larry McMurtry took the title of his first novel from these lines (filmed as Hud.)\
+> > <http://www.lit.kobe-u.ac.jp/~hishika/yeats.htm>\
+> > []()\
+> > \
+> > 1945 -- Italy: Beginning of the Naples Congress, first congress of the united trade union movement in liberated Italy. []()\
+> > []()\
+> > \
+> > 1951 -- XXX?: "La Vie Commence Demain," which depicts artificial insemination & is the first X-rated movie, opens in London.\
+> > 
+> >
+> > > I have this opening in London on Jan. 9, 1951. I think my source was Patrick Robertson's "The Book of Firsts," generally a reliable work for British dates, but I'm not sure... I also couldn't find anything conclusive on the Internet... You might also want to mention that the cast of this movie included Sarte, Picasso, Gide, Le Corbusier & Rostand (the real people). See\
+> > > <http://us.imdb.com/Title?0140679%0B>\
+> > >
+> > > ---Bleedster Bobby B.\
+> > > []()\
+> > > \
+> > > 1958 -- US: 17-yr. old Charles Starkweather, accompanied by his 14-yr. old girlfriend Caril Fugate, shoots a wealthy elderly couple & their maid in their Lincoln, Nebraska home, his 8th, 9th, & 10th of 11 victims. []()\
+> > > []()\
+> > > \
+> > > 1960 -- Black American folklorist, writer Zora Neale Hurston dies, Ft. Pierce, Florida. Important influence on writers as diverse as Toni Morrison & Ralph Ellison.
+> > >
+> > > <http://i.am/zora>\
+> > > <http://www.levity.com/corduroy/ellison.htm>\
+> > > \
+> > > <http://www.english.upenn.edu/~afilreis/50s/ellison-main.html>\
+> > > \
+> > > 1960 -- England: Goon Show's final episode on BBC.\
+> > > <http://www.goon.org/>\
+> > > []()\
+> > > \
+> > > 1961 -- US: Committee for Nonviolent Action demonstrates against nuclear-armed ships, New London, Connecticut. []()\
+> > > []()\
+> > > \
+> > > 1967 -- Michael Nesmith of The Monkees tells the Saturday Evening Post: *"Tell the world we're synthetic, because, damn it, we are... The music had nothing to do with us. It was totally dishonest."*
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.seattlehempfest.com/images/caduceus.jpg" data-border="0" data-hspace="10" data-vspace="10" width="153" height="350" alt="?" />\
+> > > 1967 -- First sacred plant conference.\
+> > > <http://www.seattlehempfest.com/>\
+> > >
+> > > []()\
+> > > \
+> > > 1978 -- Rocker Ted Nugent autographs a man's arm with a bowie knife. Will David Bowie become a Teddy Boy?
+> > >
+> > > \
+> > > []()\
+> > > []()\
+> > > \
+> > > 1986 -- US: Moments after liftoff, the space shuttle Challenger explodes, killing 6 astronauts & Christa McAuliffe, a New Hampshire teacher. Investigations found NASA abandoned "good judgement & common sense" regarding safety problems causing the explosion.
+> > >
+> > > *The Ford Motor Company announces the cancellation of it's advertising campaign linking its Aerostar minivan to the space shuttle.*
+> > >
+> > > > News that the explosion was caused by an o-ring failure was followed by revelation that virtually every safety system in U.S. nuclear power plants uses such o-rings to prevent leaks. In 1981, the government found that viton, a material in the o-rings, slowly disintegrates when exposed to large amounts of radiation. By 1986, over 60 reports document o-ring failure in nuclear plants.
+> > >
+> > > *"On the truck, in the garbage cans, were the bodies of three astronauts from the space shuttle Challenger...*
+> > >
+> > >  []()\
+> > >
+> > > []()\
+> > > \
+> > > <img src="http://www.micanoa.com/imghome/bushbin.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="130" alt="?" />\
+> > > 1987 --
+> > >
+> > > > **"On the surface, selling arms to a country that sponsors terrorism, of course, clearly, you'd have to argue it's wrong, but it's the exception sometimes that proves the rule."**
+> > > >
+> > > > 
+> > > >
+> > > > Beloved & Respected Comrade Leader George Bush speaking on TV
+> > > >
+> > > > 
+> > > >
+> > > > <img src="http://www.gwbush.com/images/bfb2k.gif" data-border="0" data-hspace="10" data-vspace="10" width="180" height="73" alt="?" />
+> > > >
+> > > > <http://www.gwbush.com/pows.htm>\
+> > >
+> > > []()\
+> > > \
+> > > <img src="http://www.amazon.com/covers/0/22/613/649/0226136493.m.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="88" height="144" alt="?" />\
+> > > 1989 -- US: Arthur Weinberg, lawyer, Industrial Workers of the World (IWW) member & author of Attorney for the Damned, dies.\
+> > > <http://www.omega23.com/books/bios/darrow.html>\
+> > > [http://iww.org](http://iww.org/)\
+> > > <http://www.lbbs.org/forums/zinnlaw.htm>\
+> > > \
+> > > 1994 -- William Levitt, urban planner & father of suburbia, creates a sprawling mess, then dies, Manhasset, NY.\
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.web.net/~blakrose/woodcock.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="175" height="241" alt="?" />\
+> > > 1995 -- Canada: George Woodcock, Canadian literary critic, anarchist & historian, dies, age 82.
+> > >
+> > > > One-time editor, in England, of the anarchist paper "Freedom", & during WWII, the anti-war anarchist paper, "War Commentary". 
+> > > >
+> > > > George Woodcock's anarchist literary journal Now began to appear in 1940, with poems by Alex Comfort, Roy Fuller, Kenneth Rexroth & Julian Symons...
+> > > >
+> > > > 
+> > > >
+> > > > Woodcock published a significant number of books, articles, & poetry, as well as biographies of Godwin, Proudhon & Kropotkin.
+> > > >
+> > > > He also wrote Anarchism: A History of Libertarian Ideas & Movements, where he pronounced the movement dead, then lived to see its resurgence in the 1960s. <http://flag.blackened.net/revolt/ws95/woodcock45.html>\
+> > > > <http://www.web.net/~blakrose/woodcock.htm>
+> > >
+> > > \
+> > > []()\
+> > > \
+> > > 1995 -- Russia: Over 100 Solders' Mothers Committee members go to a training camp to reclaim their sons from the Army.
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.supermanbook.com/graphics/logo200.gif" data-border="0" data-hspace="10" data-vspace="10" data-="" width="350" height="150" alt=" ? " />\
+> > > 1996 -- Jerry Siegel, comic book writer (Superman), dies at 81.\
+> > > <http://www.fandom.com/superman/>\
+> > > <http://www.supermanbook.com/index.php3?gg_id=0128656769>\
+> > >
+> > > []()\
+> > > \
+> > > 1996 -- Russian Joseph Brodsky dies. Winner of the Nobel Prize for Literature in 1987 for his lyric & elegiac poems. Though Russian, he is exiled in 1972, living thereafter in the US, & becoming poet laureate in 1991.\
+> > > <http://www.kirjasto.sci.fi/brodsky.htm>\
+> > > <http://www.ralphmag.org/BC/brodsky.html>\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/humor/farmer.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="170" height="100" alt="?" />\
+> > > 1998 -- France: 200 members of the Farmers Confederation, opposing the government decision to authorize the use of bioengineered corn, break into the Novartis Seed Company warehouse in southwest France, & "ripped open the sacks & drenched the corn with a fire hose, in order to call attention to the dangers posed to humanity by the agricultural use of bioengineering." 
+> > >
+> > > According to the Confederation, the bioengineered corn "risks transmitting to man a resistance to the effect of certain antibiotics."
+> > >
+> > > \
+> > > []()\
+> > > []()\
+> > > \
+> > > 3000 --
+> > >
+> > > > "I feel envious, when I think back, of the privileged little urchin I was in those days. As an accompaniment to my modest, fill-in meals a chop, a leg of cold chicken, or one of those hard cheeses, "baked" in the embers of a wood fire & so brittle that one blow of the fist would shatter them into pieces like a pane of glass I drank Chateau Lafites, Chambertins, & Cortons which had escaped capture by the "Prussians" in 1870. Certain of these wines were already fading, pale & scented still like a dead rose; they lay on a sediment of tannin that darkened their bottles, but most of them retained their aristocratic ardor & their invigorating powers. The good old days!"
+> > >
+> > >        Colette
+> >
+> > []()\
+> > []()\
+> > \
+> > 4000 --\
+> > 
+> >
+> > \
+> > <span class="small">Collage by SaintMeister James Koehnline</span>\
+> > [http://www.isomedia.com/homes/harpo/](http://www.isomedia.com/homes/harpo/default.htm)\
+> >
+> > > > > []()\
+> > > > >
+> > > > > []()\
+> > > > >
+> > > > > ------------------------------------------------------------------------
+> > > > >
+> > > > > anti-CopyRite 2000-3000, more or less\
+> > > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > > or send questions, suggestions, additions, corrections to:\
+> > > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > > >
+> > > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > > >
+> > > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > > >
+> > > > > anarchist, labor, radical books
+> > > > >
+> > > > > See also: Anarchist Encyclopedia\
+> > > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > > Stan Iverson Memorial Library\
+> > > > > http://recollectionbooks.com/siml/\
+> > > > > Anarchist Time Line / Chronology\
+> > > > > http://recollectionbooks.com/bleed/indexTimeline.htm

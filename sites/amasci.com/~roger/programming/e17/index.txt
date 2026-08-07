@@ -1,0 +1,10 @@
+Index of /~roger/programming/e17 
+
+ Index of /~roger/programming/e17 
+ Name Last modified Size Description 
+
+ Parent Directory 02-Mar-2003 01:25 - 
+ blokkie.spec 31-Aug-2002 19:23 1k 
+ build_E_17.bash 31-Aug-2002 19:23 8k 
+ e17-edb.spec 31-Aug-2002 19:23 2k 
+ enlightenment-orig.spec 31-Aug-2002 19:23 12k

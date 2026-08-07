@@ -1,0 +1,233 @@
+---
+title: "Vortex Ring Launcher"
+source_domain: amasci.com
+source_path: amateur/vortgen.html
+order: 88
+reachable_from_entry: true
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:04:22Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Vortex Ring Launcher
+
+*Source page: `amateur/vortgen.html`*
+
+<table data-cellpadding="10">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://www.eskimo.com/~billb">TOP</a><br />
+</td>
+<td><a href="http://www.eskimo.com/~billb/amasci.html">AMATEUR SCIENCE</a><br />
+</td>
+<td><a href="http://www.eskimo.com/~billb/scied.html">PHYSICS DEMOS</a><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+# RING VORTEX LAUNCHERS
+
+### Other similar sites:
+
+- [Santa Barbara Sci](http://www.west.net/~science/acannon.htm)
+- [U. of Houston Vortex Technology Center](http://www.ifdt.uh.edu/vtc/)
+- [Vortex cooler, thesis](http://club.eng.cam.ac.uk/~ttc/)
+- [Falaco Solitons](http://www22.pair.com/csdc/car/carfre3.htm), underwater half-rings
+- [Wirbelrohr](http://www.eskimo.com/~billb/wirbel.txt), vortex tube acoustics
+
+## SMALL SMOKE-RING CANNONS
+
+    Many years ago WHAM-O sold a plastic air-puff gun.  The puffs of air could
+    fly across a room and knock over cardboard targets.
+
+    It turns out that this gun used ring-vortices, or "invisible smoke rings" 
+    as its ammunition.  Also turns out that smoke-ring guns are extremely easy
+    to make.  Take a soup can, cut out the top and bottom, tape a piece of
+    cardboard over one end, and cut a 1" hole in the center of the cardboard.
+    Tape a disk of thin card stock or heavy paper over the other end (or
+    better yet, snip a balloon in half and stretch it across the other end.) 
+
+    When you gently whack the covered end of your vortex launcher, a
+    transparent ring of spinning air will shoot out of the hole.  Aim the
+    device at your face or arm, and you'll feel the puff of air when it hits
+    your skin.
+
+                          __________________________________
+                         /                                 /\
+                        |                                 |  |
+                       |        SOUP CAN                 |    |
+                       |                                 |    |
+                      |                                 |      |
+                      |                                 |  __  |
+       RUBBER         |                                 | (  ) |
+        OR     ___\   |                                 | (__) |      CARDBOARD
+     CARDSTOCK    /   |                                 |      |   /___ WITH
+                      |                                 |      |   \    HOLE
+                       |                                 |    |
+                       |                                 |    |
+                        |                                 |  |
+                         \_________________________________\/
+
+    The vortex rings can be made visible with a bit of smoke.  I use stick
+    incense, and just shove the end of the stick into the hole for awhile
+    (don't set the cardboard on fire!!)
+
+    Tap the bottom gently, and slowly spinning smoke rings will be launched. 
+    Tap it hard, and the smoke rings will zoom so fast that you'll only see a
+    grey blur.  Tap it too hard and you generate air turbulence but no smoke
+    rings. 
+
+    To see the details of the smoke rings it helps to have bright lights and a
+    dark background.  Work in a darkened room while placing your device
+    between you and a bright table lamp.  The light should shine towards you,
+    through the smoke, but position things so you observe the smoke against a
+    darkened wall.  Smoke rings are similar to tornadoes, but the ends
+    of the tornado is curved around so its ends are joined into a circle.
+
+    Try shooting slow rings then immediately shoot faster ones.  The faster
+    ones will catch up to the slower ones and move through them (the slower
+    ones open wider to allow the fast ones to pass.) 
+
+    Rather than using smoke, you could instead use scent.  Any fumes in the
+    can will end up inside the air in the smoke ring.  Try putting perfume in
+    the can.  When you launch your ring vortices, they will be invisible.  But
+    if you target a distant nose, your victim will know when they've been hit. 
+
+    Or even easier than building the soup-can launcher, K. Larsen suggests
+    using a 1-gallon polyethelene milk jug.  Whack the bottom and a vortex
+    ring is launched from the spout.  Aim it at your face and you can feel the
+    rings of air hitting you, even if you don't use smoke.
+
+    HINTS FOR SCIENCE FAIR
+
+    The vortex cannon is a cool physics demonstration.  How can we convert it
+    into an experiment?  Easy.  Ask a question, change your question into a
+    statement, then perform an experiment to prove or disprove your statement.
+
+    For example, ask this question: how far can a 4-inch vortex cannon send a
+    ring vortex?  Change this into: "A 4-inch vortex cannon can project a
+    smoke
+    ring across xx centimeters."  Then do the experiment, and find out what xx
+    is. (PLEASE DON'T USE THIS EXAMPLE AS YOUR EXPERIMENT.  THAT'S BORING.  BE
+    DIFFERENT.  THINK UP A WEIRD AND INTERESTING QUESTION, ONE THAT YOU
+    DON'T KNOW THE ANSWER FOR.)  
+
+## GIANT VORTEX CANNON
+
+    It's not hard to make a giant vortex cannon.  Instead of a soup can, get
+    an old plastic garbage can.  Cut a six inch circular hole in the center of
+    the bottom.  Put the plastic can cover on the can and whack on the cover
+    to launch vortices.  Or better, use duct-tape and a plastic garbage bag to
+    form a sort of "drum head" over the open top of the garbage can.
+
+                          ----------------__________________
+                         /                                 /\
+                        |                                 |  |
+                       |    PLASTIC GARBAGE CAN          |    |
+                       |                                 |    |
+                      |                                 |      |
+                      |                                 |  __  |
+      PLASTIC BAG     |                                 | (  ) |
+          OR   ____\  |                                 | (__) |       6" HOLE
+       CAN LID     /  |                                 |      |   /___  CUT
+                      |                                 |      |   \    IN THE
+                       |                                 |    |         BOTTOM
+                       |                                 |    |
+                        |                                 |  |
+                         \               __________________\/
+                          ---------------
+
+    COMPUTER INTERFACE VERSION
+
+    Suppose we replace the drumhead with a large bass loudspeaker, hook the
+    speaker to a power amp, and drive the power amp with the output of a
+    soundblaster card?  This would give us total control of the impulse
+    waveform applied to the vortex generator.  Instead of a garbage can, use a
+    wastebasket for the body of the device, and maybe mount it on a tilt/pan
+    tripod.
+
+    I haven't completed one of these devices.  I went as far as building the
+    body, then using an audio power amp and a square wave generator to run the
+    device.  Even this was pretty cool, since the amplifier level controlled
+    the speed of vortex launch, the duty cycle controlled launch speed and
+    spin rate (I think!), and the repetition rate of the square wave generator
+    allowed me to create streams of vortices.
+
+    As far as sound cards go, in theory there should be some shapes of pulse
+    waveform which give very robust smoke rings.  I would try creating various
+    shapes with a waveform editor, then see how far and fast the resulting
+    smoke ring would travel.  It might be possible to vastly extend the
+    maximum range of vortex travel by designing the perfect waveform.
+
+    Also, fast-spinning vortices act as "time bombs", they drift along for
+    awhile and then suddenly shatter into turbulent smoke.  Perhaps a
+    particular wave form will make this effect programmable.  The resulting
+    smoke rings would move for a particular distance, then shatter into a
+    smoke cloud.  A stream of these rings would fly out and shatter, which
+    would allow me to pump smoke out to a distant cloud which just sits there
+    in the air. 
+
+    OTHER STUFF
+
+    In messing with the square-wave generator mentioned above, it looks like
+    the "stink gun" is feasible.  The vortex launcher emitted a beam of fast
+    smoke rings which went all the way across the room.  Lots of smoke drifted
+    out of the generator though, so if I were to put a nasty odor in the
+    device, the operator (me) would suffer as much as the victims. 
+
+    Suppose the computer-based launcher created a string of smoke rings with
+    varying speeds.  If the string was made of fast-slow-fast-slow rings, then
+    pairs of rings would pass through each other periodically, as if they were
+    square dancing.  Or, what if you shot a string of slow-fast-faster-faster
+    rings?  In this case the later rings would overtake the first, and the
+    whole string might squash down to the length of a single ring.  The string
+    of smoke rings would momentarily become a disk of concentric smoke rings! 
+    If the vortex generator was fairly powerful, maybe this "vortex disk" 
+    would be able to knock over larger objects.  The vortex generator sends
+    out energy in a long stream of rings, but then the varying speeds make it
+    concentrate into a brief burst.  Remember, a stick of dynamite will burn
+    for hours as fuel, or it will "burn" all at once in a fraction of a
+    second. 
+
+    Pure argon gas allows you to create very long electric sparks.  When a
+    stream of argon is sprayed at a tesla coil, long sparks jump up through
+    the stream.  So, what would happen if a string of pure argon smoke-rings
+    was sent towards a very large tesla coil?  Would the arcs jump from ring
+    to ring, so the "lightning" would reach out and strike the smoke ring
+    generator?  What would happen if a battery-powered smoke ring device (and
+    an argon tank) was installed inside the oblate terminal of a really large
+    tesla coil?  Hobbyists' directed energy weapon?
+
+    A VandeGraaff electrostatic generator with a wire connected to its sphere
+    is a source of charged air.  Electrified air flows out from the wire tip. 
+    If a VDG was used to supply electrified air to a vortex launcher, the
+    result would be a "static electricity gun".  Victims would suddenly feel
+    'lethal' levels of clothes-dryer cling, and they'd get zapped by anyone
+    they might bump against.  If the string of charged vortices was sent to a 
+    pop-bottle electrostatic motor, the motor should spin without needing any
+    wire connections.  Can you say "perpetual motion hoax?"  And if the vortex
+    generator was supplied with pure argon, maybe you'd see a blue flash
+    whenever a charged argon smoke ring touched a grounded object or person. 
+    (Note: the body of the vortex launcher might need to be metal, or at least
+    cover the interior with grounded aluminum foil.)
+
+------------------------------------------------------------------------
+
+Want books? Try searching [amazon.com](http://www.amazon.com/exec/obidos/redirect-home/scihobby):\
+
+(try "science fair" too)
+
+Help Support [the Science Club](http://www.scienceclub.org), use the above form to order books.\
+(We make a few \$\$ on any books ordered via these links.)
+
+------------------------------------------------------------------------
+
+Created and maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email

@@ -1,0 +1,18 @@
+Find String 
+
+ Find String 
+
+In a book or lengthy report, the subject at hand is not always easily divided into chapters,
+sections, or subsections in a way that will suit all readers. Indexes are generated to assist the
+reader in choosing the material to be read. The Dbase Find String function creates an index to
+nodes containing the word or phrase (string) of interest. The reader may then select the
+appropriate node. 
+
+ The Decision Maker expert system includes its own search engine. New hypertext, added through
+the SmartdataBase product is automatically added to the index. In the above example the phrase
+" expert system " was typed and the software found all items containing that phrase. 
+
+ [ Home ] [ Case Study ] [ Decision Tree ] [ Deep Knowledge ] 
+
+http://www.eskimo.com/~mighetto/lsfind.htm - last update September 21,
+1996

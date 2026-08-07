@@ -1,0 +1,136 @@
+The Loadlin+Win95/98/ME mini-HOWTO: FAQ - Domande Frequenti: 
+
+ 4. FAQ - Domande Frequenti: 
+
+ 4.1 Dove posso trovare maggiori informazioni su Loadlin? 
+
+ Potte trovare Loadlin sul CD della vostra distribuzione preferita. Cercate usando come stringa 'loadlin'. 
+
+ Il manuale manual.txt disponibile al sito: 
+
+ ftp://ftp.eskimo.com/u/p/praxis/manual.txt 
+
+ N.d.T. Esiste anche una versione tradotta in italiano del manuale. Per ottenerne una copia scrivete a:
+
+ mailto:mm@madeinlinux.com 
+
+ Altre informazioni sono reperibili al sito:
+
+ http://metalab.unc.edu/LDP/HOWTO/BootPrompt-HOWTO-2.html#ss2.2 
+
+ 4.2 Non sono sicuro su quale partizione e' installato Linux. Come faccio a scoprirlo? 
+
+ Al prompt della shell di Linux, lanciate l'utility /df . 
+Se vedete una linea con /boot , dovrebbe trovarsi nel percorso 
+associato (che dovrebbe cominciare con /dev ). Se no cercate 
+una riga con un solo" / ". 
+
+ 4.3 Dove trovo l'immagine del kernel e come faccio a copiarla nella mia partizione DOS? 
+
+ L'immagine del kernel si chiama di solito vmlinuz e dovrebbe
+trovarsi nella directory '/boot'. Spesso vmlinuz solamente 
+un link simbolico all'immagine reale. (Per scoprirlo digitate 'ls -l' 
+nella directory /boot - il file cui il link fa riferimento comparira' 
+a destra del nome 'vmlinuz'). Se proprio non riuscite a trovarlo, 
+scrivete: 
+
+ find / -name vmlinuz*
+
+al prompt di Linux. Questo comando cerchera' il file vmlinuz in tutte 
+le partizioni Linux. Se vengono trovati piu' d'un vmlinuz, assicuratevi
+di scegliere il file corretto. Per sicurezza usate il piu' recente. Per copiare il file nella partizione DOS, dovete rendere la partizione 
+DOS visibile da Linux, montandola sul filesystem (se non lo e' gia').
+Solitamente questo viene impostato durante l'installazione.
+(N.d.T. Se cio' non fosse vero seguite le istruzioni seguenti.
+In generale se il DOS (e Windows) si trova nella prima partizione del 
+disco, digitate:
+
+ mount -t vfat /dev/hda1 /mnt/dos 
+
+ dopo avere eventualmente creato la directory /mnt/dos.)
+Fatto questo dovrete solamente copiare il file in una directory del 
+filesystem DOS con il comando cp. 
+(N.d.T.: Tenete presente che C:\ si trova adesso nella posizione 
+/mnt/dos )
+ In ogni caso, se Linux non dovesse riconoscere la vostra partizione
+DOS, potete copiare vmlinuz su di un floppy. Prendete un floppy 
+formattato DOS (che disponga di spazion sufficiente a contenere
+il kernel) e inseritelo nel vostro floppy drive. Poi digitate: 
+
+ mount /dev/fd0 /mnt/floppy
+
+ Dopodich spostatevi nella directory contenente il kernel e digitate:
+
+ cp vmlinuz /mnt/floppy
+
+ Il kernel sara' cosi' copiato sul floppy. Riavviate il computer e 
+entrate in DOS (Windows) e copiate il kernel dal floppy alla directory 
+C:\ o un'altra directory di vostra scelta.
+Se ricompilate il kernel non dimenticatevi di copiare la nuova immagine
+nella partizione DOS. Ricordatevi eventualmente di rinominare il kernel
+vecchio prima di sovrascriverlo, in caso quello nuovo non funzioni.
+
+ In alternativa, se avete le utility mtools potete digitare:
+
+ mcopy vmlinuz a:
+
+ 4.4 Fa differenza se installo prima Linux o Windows 95/98/ME? 
+
+ Tecnicamente no. Comunque e' molto piu' semplice
+installare prima Windows. In questo modo sara' piu' semplice 
+impostare Linux perche' riconosca la partizione DOS, poiche' sara'
+possibile farlo durante l'installazione di Linux. 
+
+ 4.5 Attualmente ho installato LILO, ma vorrei usare Loadlin. Come faccio a rimuovere LILO? 
+
+Dovrete reimpostare l'MBR (Master Boot Record, settore di avvio del 
+disco) che LILO ha sovrascritto al momento della sua installazione.
+Al prompt del DOS digitate:
+
+ fdisk /mbr
+
+ 4.6 Cosa posso fare se ho gia' un dual boot per selezionare tra Windows 95 e Windows 3.x, e volessi usare lo stesso metodo per avviare Linux? 
+
+ Francamente, in questo caso vi suggerirei di usare LILO. 
+In ogni modo, se proprio non volete usare LILO, dovrete avviare 
+Windows 3.x prima, e poi utilizzare Loadlin. (Assicuratevi che 
+Windows 3.x non sia in esecuzione, ma di trovarvi piuttosto in 
+DOS 5.0 o 6.x). 
+
+ 4.7 E' possibile avviare Linux dal desktop di Windows 95/98/ME? 
+
+ Si. Prima di tutto create un file batch chiamato "linux.bat".
+Inserite il seguente comando all'interno del file:
+
+ loadlin f:\vmlinuz root=/dev/hdc2 ro
+
+ Adesso salvate il file sul vostro desktop. Dopo cliccate con il tasto destro del mouse sul file Linux.bat e selezionate Proprieta'. 
+Selezionate l'etichetta Programma, e poi cliccate su Avanzate.
+Selezionate la casella "Modalita' MS-DOS" e la casella "Avvisa prima 
+di entrare in modalita' MS-DOS". Cliccate su OK e poi ancora su OK.
+Adesso quando farete un doppio clic sull'icona del file Linux.bat
+una finestra vi chiedera' conferma prima di entrare in modalita' DOS.
+Se cliccate su "Si" Windows entra in modalita' DOS e esegue il file 
+Linux.bat. 
+ NOTE: Dovrete essere in modalita' DOS per avviare Loadlin, 
+confrontate anche il manuale di Loadlin menzionato alla sezione 
+ Section 4.1 
+di questo documento 
+ FAQ 
+per maggiori informazioni. 
+
+ 4.8 Dove posso trovare una versione in formato testo di questo documento? 
+
+ Una versione in formato testo si trova al sito:
+
+ ftp://ftp.eskimo.com/u/p/praxis/loadlin.txt 
+
+ 4.9 Loadlin e' l'unica alternativa a LILO? 
+
+ No. Ci sono altre utility che si possono usare: 
+
+ GRUB : Il GNU GRand Unified Bootloader o GRUB
+
+ XOSL : eXtended Operating System Loader
+
+ Altri Bootloader e Link

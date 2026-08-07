@@ -1,0 +1,116 @@
+---
+title: "Introduction to Messages"
+source_domain: amasci.com
+source_path: ~htak/win32asm/window03.htm
+order: 3490
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:10:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Introduction to Messages
+
+*Source page: `~htak/win32asm/window03.htm`*
+
+# Introduction to Messages
+
+Messages are at the heart of Windows GUI programming. Almost everything a GUI program does is triggered by messages. Writing a program that repeatedly waits for messages, results in an ***event-driven*** style of programming.
+
+\[ [Back to Win32 ASM Page](win32asm.htm) \]
+
+### Sending and Posting
+
+Usually, message loops are used to dispatch received messages. And these messages are usually dispatched by invoking window procedures. However, messages can be either ***sent*** to a window or ***posted*** to a thread. Thus a posted message needn't invoke a window procedure. The most obvious example of a posted message that doesn't go to a window is WM_QUIT, which is usually posted with PostQuitMessage.\
+Message loops usually wait for messages by calling GetMessage. If any "sent" messages have arrived, GetMessage directly invokes the proper window procedure (bypassing any visible message handling code). If there are any "posted" messages, it returns to the calling program and lets the message loop handle the message. If a window is associated with the message, the proper window procedure is usually invoked via DispatchMessage.\
+Some messages do not need to be processed by the message loop. These messages are the ones **sent** with SendMessage in one thread to a window in the **same** thread. In this case, the window procedure is invoked directly, as if it were a subroutine. \[See [More on Messages](winmsg.htm).\]\
+Windows produces a lot of messages, but the typical application will provide a custom response to only a small percentage of them. Most of the messages can be classified as notifications--"this happened" or "this is about to happen" messages. A few messages, e.g., WM_PAINT, can be interpreted as commands.
+
+### Message identifiers
+
+A message is a packet of information that contains an identifying number. Although we could use raw numbers, by convention we give them all names. These become the "message names".\
+The message names/numbers are allocated as follows:
+
+- 0 to WM_USER - 1\
+  Standard window messages. These are the WM\_ messages.
+- WM_USER to WM_APP - 1\
+  Class-specific messages.
+- WM_APP to 0BFFFh\
+  Application-specific messages.
+- 0C000h to 0FFFFh\
+  System-global messages. The RegisterWindowMessage function creates messages in this range.
+- 10000h to 0FFFFFFFFh\
+  Internal messages. Because they require more than 16 bits, these cannot be used to communicate with old 16-bit Windows programs.
+
+The message name WM_USER has the value of 0400h and WM_APP has the value of 8000h.
+
+## The example program
+
+Our example program, **winclick.asm**, responds to left and right mouse button clicks by changing the title bar. Below, we show what's different from the basic GUI program.
+
+### Titles
+
+We define two titles and set up our window to display one of them on startup. The window width is made long enough to avoid clipping of the title text.
+
+    DEFAULT_STYLE equ WS_VISIBLE + WS_OVERLAPPED + WS_CAPTION + WS_SYSMENU + \
+                      WS_THICKFRAME + WS_MINIMIZEBOX + WS_MAXIMIZEBOX 
+    DEFAULT_EXSTYLE equ WS_EX_WINDOWEDGE + WS_EX_CLIENTEDGE 
+    DEFAULT_X  equ 100 
+    DEFAULT_Y  equ 100 
+    DEFAULT_WIDTH equ 400 
+    DEFAULT_HEIGHT equ 200 
+
+        .data 
+
+        align 4 
+
+    cwargs CREATEARGS <DEFAULT_EXSTYLE,wndclsname,title1,DEFAULT_STYLE, \
+              DEFAULT_X,DEFAULT_Y, DEFAULT_WIDTH,DEFAULT_HEIGHT, 0,0, 0, 0> 
+    title1 db 'Left-click to change title',0 
+    title2 db 'Restore title by right-clicking',0
+
+### Dispatch
+
+The following is one way to dispatch messages. It's not bad because there are so few messages. A bigger set of messages would be easier to handle with an address table.\
+Each message handler uses exactly the same argument list block (we could call it the message packet) as WndProc.
+
+       extrn DefWindowProc:near 
+
+        .code
+    WndProc:
+        mov    eax,[esp+4+4]      ; message ID
+        cmp    eax,WM_LBUTTONDOWN ; left mouse button pressed
+        je     left_mouse_down
+        cmp    eax,WM_RBUTTONDOWN ; right mouse button pressed
+        je     right_mouse_down
+        cmp    eax,WM_DESTROY     ; about to start window destruction
+        je     start_destroy
+        jmp    DefWindowProc      ; delegate other message processing
+
+### Mouse messages
+
+This is how we respond to the mouse messages. The selected title depends on which button is pressed. The code is left unoptimized so that it shows more clearly where the hwnd parameter is coming from. (The +4 skips the stacked EIP, and +0 is the offset of the first argument.)
+
+       extrn  SetWindowText:near 
+
+        .code
+    left_mouse_down: 
+        mov    eax,[esp+4+0] ; get hwnd before changing ESP 
+        push   offset title2 
+        push   eax 
+        call   SetWindowText 
+
+        xor    eax,eax 
+        ret    16 
+
+    right_mouse_down: 
+        mov    eax,[esp+4+0] ; get hwnd before changing ESP 
+        push   offset title1 
+        push   eax 
+        call   SetWindowText 
+
+        xor    eax,eax 
+        ret    16
+
+------------------------------------------------------------------------

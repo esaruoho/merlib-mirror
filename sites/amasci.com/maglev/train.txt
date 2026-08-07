@@ -1,0 +1,91 @@
+SIMPLE MAGLEV TRAIN                          (c)1996 William J. Beaty
+
+Lots of people have emailed me about building some sort of maglev train as
+a science project.  A truely levitated maglev train is a very complex
+device.  Permanent magnets alone cannot statically suspend a train car; 
+coils, amplifiers, and negative feedback are also required.  I'd only
+recommend the coils/sensors approach to college students or fairly
+advanced highschoolers.
+
+However, there's a way to make a simple permanent-magnet maglev train which 
+involves guide rails on the sides of the track.  Because real science 
+involves striking out into the unknown, I'm not going to give detailed 
+plans here.  Just enough info to get you started.
+
+The "rails" of your train will be small square ceramic magnets.  Radio
+Shack stores in the US sell a good type, the 1" x 3/4" square with a hole
+in the center.  Each foot of train track will require 32 of these magnets. 
+
+First mark your magnets so you later can lay them down with the same
+"pole" facing upwards.  To do this, stick your magnets all together in one
+big stack.  Now use a permanent marker to make an "X" on flat face of the
+end magnet of the stack, pull that magnet off the stack, make an "X" on
+the next one, etc., until you're out of magnets. 
+
+Before building an entire huge track, make a "test bed" about one foot
+long.  For a base, you can use cardboard or wood.  Don't use iron or steel
+of course.  You'll be lining up your magnets side by side in long rows. 
+One way to do this is to stick them to a strip of duct tape, then lay the
+strip down on the cardboard or wood and rub the tape down to hold the
+magnets.  Position each magnet carefully on the tape so the row is very
+straight.  Make two parallel rows of magnets with about 5cm of space
+between the rows.  Make sure the rows are perfectly parallel.  It might
+help to draw lines on the base first. 
+
+For a temporary "car", cut out a square of cardboard 9cm by 15cm .  Tape
+four magnets to the corners, flipping the magnets correctly so they will
+repel from the tracks when the cardboard is layed down, and positioned so
+the magnets on the cardboard will be exactly over the magnets on the
+track. 
+
+If you place your cardboard "car" on your magnet track, you'll find that 
+it will twist or flip over and fall, and will not hover.  But if you 
+gently hold it by its sides, you can keep it floating in position.  Does 
+this give you an idea?  What if you place one long board on each side of 
+your track?  The "car" will touch the boards and will stop slipping 
+sideways, but the boards will not stop the car from slipping down the 
+track.
+
+                   MAGLEV TRACK,
+    board          VIEW FROM THE END         board
+    ____                                      ____
+   |    |                                    |    |
+   |    |                                    |    |
+   |    |        magnet         magnet       |    |
+   |    |        row            row          |    |
+   |    |     _____                _____     |    |
+ __|____|____|_____|______________|_____|____|____|__
+|____________________________________________________|
+                      wood or cardboard
+
+
+
+
+               MAGLEV TRACK, WITH FLOATING
+               CARDBOARD CAR IN PLACE   
+    ____       (end view)                     ____
+   |    |                                    |    |
+   |    |                                    |    |
+   |    | __________________________________ |    |
+   |    ||__________________________________||    |
+   |    |    |_____|              |_____|    |    |
+   |    |     _____                _____     |    |
+ __|____|____|_____|______________|_____|____|____|__
+|____________________________________________________|
+
+
+
+Once you get this part working, you can build a much longer track.  You
+can build a real car too, though you'll have to find very lightweight
+construction materials.  You can try thinking up ways to reduce the
+friction with the side rails.  Maybe try aluminum angle strips instead of
+wood, or sand the wood smooth and paint it with something. 
+
+But how can you drive your train forward?  I don't know.  You'll have to
+think of something.  There are only two ways to move a hovering object. 
+One is to grab something on the ground and pull or push forwards (this
+includes tilting the rail to becom a ramp, using gravity to pull the car
+forwards.)  The other way is to force something out the back, which drives
+the car forward.  Marbles rolling down a ramp?  Propellor?  Squirt water? 
+Rocket engine?
+

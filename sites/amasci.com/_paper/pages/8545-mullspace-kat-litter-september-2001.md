@@ -1,0 +1,379 @@
+---
+title: "Mullspace | Kat Litter | September, 2001"
+source_domain: amasci.com
+source_path: ~strange/litter/septlitter01.html
+order: 8545
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T17:16:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | September, 2001
+
+*Source page: `~strange/litter/septlitter01.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# September, 2001
+
+\
+\
+
+posted: September 06, 2001
+
+\
+
+## Back Again and Truly Annoyed....
+
+\
+
+(mutter, mutter... still journaling online, like a bloody teenager....)
+
+There are times when I really have the urge to scream.
+
+The past 12 days, or so, have been in that category, intermittently. First we move the boat and are told that we should have reserved a move-date for the cable in advance.
+
+This is odd, since, when I called earlier to do just that, I was told that could not be done, which I was pretty sure was a load of male-bovine droppings, but I let it ride as I was a little busy with other things.
+
+But the boat was moved successfully into the new slip. Which was supposed to have 30 amp electric service. I know because the manager made a point of telling me so. So I attempt to plug in the power line to the dock receptacle and the stupid thing just won't go. Am I a fumble-fingered idiot?
+
+Oh, no.... It's a 20-amp receptacle. I have the wrong plug. This is a bit of a problem. Luckily one of our neighbors has a 30-to-20 amp adapter and we are currently borrowing it until we can get a new power chord or make an arrangement with the management to upgrade the receptacle.
+
+In the meantime, I attempt to finish work on this website (I spent waaaay too much time on that picture on the portal page), do some editing and writing, go back to the gym after a long absence and complete a dance class.
+
+My dicey knee is not at all happy with the gym. Neither is the rest of me.
+
+People across the weight-room can probably hear my calcified little muscles screaming at me "What do you *mean* 50-pound press?! We don't *do* that anymore. We thought you were retiring to sloth-hood! No fair!" And they did their level best to make me regret it for the rest of the week. But I got even with them.
+
+I went to dance class.
+
+Creaking like an old rocker, I ignored my protesting knees and did the class sessions anyhow. I think I may have frightened a few partners....
+
+My knees are still giving me a ration of shit about it and last night was the last class of a 5-class session. I get just under 2 weeks off and then the next session starts. Whoopee. With any luck (hah! make that old-fashioned stubbornness) I should have those knees back in line by then. (Imagines giving her knees a stern talking-to... and possibly a lashing with ice-cold ice.)
+
+Anyhow. Having been gone a while leads to backlogs of mail and ICQ messages. So, while wading through 242 e-mails and 6 ICQs, I discover that a project which was having a few problems has had itself a little reincarnation... without anyone's permission. Well, I should say, without the permission of the rest of the team. One team member seems to have wandered off and assumed that, as a member of the team, he had implied permission to do with the collective work as he pleased.
+
+Now, I can understand having a certain amount of enthusiasm and letting it get a little away from him, but, as a person who makes her (nominal) living off of intellectual property, I'm appalled with his lack of respect for the work of the rest of us. Also, he seems to have taken a long-ago "yeah, that would be a cool project" as carte blanche to make it public. If the project as he envisioned it had stayed in the quiet, maybe I wouldn't be so pissed, but, instead, a public call for collaborators was put out. What are we, if not the original collaborators? Effectively, this locks those of us who have already busted our asses on this project, including the principal creator and yours-truly, out of our own work. Thanks a lot, buddy. I created that character, and a lot of the supporting technical material. When were you planning on asking me if it was all right to cast someone else to play my voice? Or to use my tech-work, writing and plot-points? Hmmm...? Very uncool of you.
+
+So, I find myself re-starting my online work amid a shit-storm and a certain amount of annoyance and disappointment.
+
+~sigh~
+
+Life is just too interesting.
+
+And I still haven't had a chance to get the archives in shape. I'm working on that next. Then the gallery, which will include the infamous Pigeon of Death animation and pictures of the critters as well as the usual vanity shots of me and my very weird city. (How many people live in a city with underground toilets and a troll under the major freeway bridge?)
+
+Better get back to work....
+
+\
+\
+
+posted: September 12, 2001
+
+\
+
+I prepared this before our national tragedy struck. After considering it, I still think it is better to put it up, as it is, than to give in to the desire to weep in public. I am not hard to what has happened, here, far from it, but I hope a little levity will aid us all in getting on with what is important in the face of any tragedy: living through it. -KR
+
+\
+
+## Dirty fingers
+
+\
+
+Why is it that after more than a hundred years of newspaper technology, modern paper manufacturing and advanced pigments, they still can't make newspaper ink that doesn't rub off on your fingers? This I find utterly appalling. What? Do the folks at certain papers never wear any light-colored garments? Or perhaps they all have dirty fingerprints all over their undies which simply will not wash out. (I suppose that's how one can always spot a freebie-rag journalist in the can.)
+
+I made the horrific error of leafing through one of our local free rags recently. Usually I flip straight to the film section, read the theater listing and put the damned thing back in the trash where it belongs. But not this time. (Woe betide me.) For some reason that is quite beyond me, I found myself overcome with the idea of seeking a certain advertisement out, which I had spotted once before. (Geeze, not anything like that, you freaks! I'm a respectable married lady, ya know.)
+
+Alas for me and my clothing, said ad was not in the film section this time and I was forced to browse the entire collection of post-consumer trash before I found the ad lurking in the book review (if you can call tirades against the authors for their political positions, regardless of the quality of their prose, a review, but such is the stuff of ragingly--and self-consciously--hip, free papers).
+
+Having discovered the information I was seeking (that's what a newspaper is supposed to be for, yes?) I made a note and tossed the paper onto the recycling heap. (This is also known as the floor.)
+
+As I raised my hands to shove my spectacles into a less cartoon-character-esque position, I noticed that my fingertips were now a repellant shade of dark gray. Normally a comforting rosy pink, they now appeared to have taken up smoking by association and gone for a tip-toe through the nearest ashtray. Gag! Looking about, I saw a smeary spot on the pocket of my jeans where I had reached for the pen I didn't have. I checked the PDA and saw a matching swatch of gunge on the case.
+
+The world's cheapest ink was apparently spreading to everything I owned.
+
+So what do I do? The stupidest thing in the world; that little annoying and disgusting trick perpetrated by mothers the world over in embarrassingly public places upon only-ordinarily scruffy children. Looking discouragingly at the filthy fingers, I used spit.
+
+Bleh, bleh, bleh! Poo! Phoo! Gag! Bleck-o! Agghhh! I've been poisoned! And I have a gray stripe down my tongue and wet, gray fingers. Yerk!
+
+And figuring that it couldn't get any worse, I wiped the gray goo on the hem of my jeans. Hey, don't say you've never done it.
+
+So I come back to wondering why this has to happen. I worked in the industry and I've handled plenty of printed pages and rare was the page which smeared disgusting printers sludge onto my fingers. So, why this?
+
+As far as I can surmise, all cheap-ass free papers, whatever their political or social bent, believe that their reputation as purveyors of "the real truth" and "socially relevant news" or whatever (smut, anyone?) will be irretrievably damaged if they don't validate their authenticity with the fingerprint stamp of approval by using the cheapest quality ink and paper available.
+
+And don't start in about costs for free papers. I'm not talking about the Weekly World Worker, here. I'm talking about major distribution "alternative" tabloids which are supported by advertising.
+
+That's right. They are free, not because they want to endear themselves to you and spread the truth at any cost to themselves, but because they rake in more-than-sufficient advertising dollars in exchange for market demographics to local businesses. This is not altruism. This is not selfless journalistic truth. This is business.
+
+(A fine business it is, too, considering that one of our little "alternative" papers is actually owned and operated by a major national paper consortium whose only business is running papers like this in every major city in the US. So I guess that makes it an official alternative view, eh?)
+
+And I wish they would give in and upgrade, or at least retrograde. (Curiously, when the paper was bought out, the quality of the printing went downhill.) Holy hell, folks, spend the extra per press run for a decent ink. I, for one, will not question the integrity of the drivel printed in smear-resistant pages. (Any more than I already do, that is, as I already question the veracity and necessity of pretty much everything these bastions of hipness have to say, not to mention the qualification and intentions of the staff.) Wiping my hands down with alcohol and paper towels will only be necessary to remove the reek of such verbal garbage as is contained in the columns, not merely to be presentable in public and avoid leaving fingerprints on the cat.
+
+The ancient Romans said *"In Vino, Veritas"* (In wine, there is truth) and apparently these papers feel similarly that in Whining there is Truth, so long as it's done in bottom-grade carbon ink. If they're so damned forward-looking, how come they can't manage to use modern ink? Addison and Steele would have sneered at this crap, and that's getting pretty ancient. Heck, they probably used the same (batch of) ink.
+
+It's not necessary to come all the way up to the minute with fancy LCD ink and junk like that, but how 'bout the late 20th century, hmm?
+
+'Scuse me: I have to go wash the cat, now....
+
+\
+\
+
+posted: September 22, 2001
+
+\
+
+## Phooey!
+
+\
+
+(damn it, still journaling....)
+
+My husband does not like the graphic on the portal page. He says it's unflattering. I'm not so sure I'm all that crazy about it, myself. It's too large and the deliberate pixelization does work against it a little. That 6 hours wasn't a total waste, though: I learned my way around PhotoShop and Gimp to at least some degree, at last, though I certainly still suck at both of them. Well... I guess this will mean going back into that ridiculous process. Considering how bad I am at it, this is a daunting prospect, but I can live with it. (No, I'm not gonna say that overused phrase "suck it down", 'cause as we all know, "suck" may be operative, but this really blows.)
+
+When I will find time for it may be another matter, entirely. I'm into a couple of projects right now which are rather demanding of my time, which is part of the reason there is no new Kat Litter, yet. (I'm sure you can imagine where other complications have been coming from in recent weeks.) In addition to the spewings for which people have agreed to give me money (yay!), there are projects I simply want to do. Game projects, Flash projects, fiction projects, even a couple of non-fiction essays and research projects, as well as wanting to read a few good books. Or even a few trashy ones. And viewing a few DVDs. There's a stack of John Woo films just calling to me from the depths of Scarecrow Video.... The Killer is sitting on the table right now, in fact, and some day it would probably behoove me to watch some of those great gamer-reference animes like Akira and Ghost in the Shell. Gonna work the industry: gotta know the cultural references.
+
+Must prioritize....
+
+But, in the meantime, I'm working on Kat Litter and should have that up, soon. Late, but soon. Yeah, yeah... I know: I said I was going to be better about posting every Friday or so, but, well, I'm humped. Tough it out. I know you can hold out a little longer for you Kat-fix.
+
+And I am still scratching my head over the newest contract. I send them cyber-punk and they ask for Tolkein. Did I miss something? Are there are cyber-elves running amok with protein rings in the eldritch depths of the electronic forest, questing for the heart of Evil? (It's located in Redmond, I think.) And if there are, what have they done to my e-mail?
+
+I'll have to hunt them down....
+
+\
+\
+
+posted: September 23, 2001
+
+\
+
+## Food of Color
+
+\
+
+"Yargh! Ugh! It's green!"
+
+"Is not." I look. "Well... all right, it's... greenish."
+
+"It's fucking green! That just looks so... unappetizing."
+
+"It's chicken sausage with cilantro."
+
+"I can read," Jim reminds me.
+
+I inspect the offending package of tubular meat product. Its contents are the usual tan and pinkish with many large, dark green flecks. I'm sure it would look fine, once cooked, but it does have a slight forest-green cast to it. "Looks like chicken sausage with cilantro, to me. What's so bad?"
+
+"It looks like it already has gone bad. Moldy."
+
+"Oh, it does not."
+
+"Does too. That doesn't look like something you should eat."
+
+"No...," I say, putting down the package and pointing to another. "That looks like something you shouldn't eat."
+
+The package claims that the contents are sausage with green apple, but the color is video-game radiation green and it seems to be floating freely about under the vacuum-packed plastic, like some kind of Nickelodeon slime display.
+
+"But that doesn't look like food."
+
+"No, it looks like the nuclear rods in the engine room of that submarine in Voyage to the Bottom of the Sea. But it definitely looks worse than the cilantro sausages."
+
+"No, it doesn't. That doesn't look like food and, therefore, it's not nearly as disgusting as something which looks like it ought to have been food and isn't anymore."
+
+"That's silly. You think something which looks like disgusting food is more awful than something passing itself off as food when it clearly is nuclear waste?"
+
+"Would you eat nuclear waste?"
+
+"Not knowingly, but I have eaten at McDonald's."
+
+"Not the same thing at all. Food that's gone bad is much worse than food which isn't food."
+
+"I disagree. I submit that food which has gone bad is simply the natural process of leaving your food lying around too long, but food which is not really food is much worse, since it represents an anathema to the concept of food."
+
+"One just shouldn't eat food that looks green and moldy."
+
+A woman with a shopping cart looks over our shoulders at the sausages in question. "It does look green...," she says. "Generally, I stay away from green meat."
+
+"See?" Jim declares, vindicated.
+
+"But we were talking about green food in general. Are you saying that green food is universally bad?"
+
+"Yes!"
+
+"This from the man holding a blue cheese."
+
+"That is an entirely different matter. Or is it?"
+
+"Well, it is a form of mold."
+
+"Mold is a bad thing," the woman says and begins to trundle off.
+
+"But blue cheese is good," Jim defends.
+
+"Hmm... yes, but it's blue and not green," the woman replies and wanders off with the final comment: "Green food is bad. Avoid green food, unless it's veggies: they are supposed to be green."
+
+"Well, unless they are supposed to be red or yellow," I say, but she is gone down the pasta aisle.
+
+"So," I say, putting both of the packages of sausage aside and heading for the chocolate, "green food is bad, but blue food is ok?"
+
+"No, blue food is bad, too--no, wait! Ooo... you've got me all confused. Moldy food is bad, unless it's blue cheese, then it's ok."
+
+"Properly cultured mold is good, but wild mold is bad?"
+
+"Yeah!"
+
+"Doesn't that discriminate against wild molds? Are you saying that native molds are bad? Are you against the native mold? Is that it?"
+
+"No! That's not what I said. Oh, you are just trying to trick me!"
+
+"No, I'm just trying to get you to admit your prejudice against foods of color."
+
+"I'm not against colored food. I'm against food that's gone bad."
+
+"Oh, now you're making a lifestyle judgment against the food. Just because it looks a little moldy, you say it's gone bad, turned to a life of crime."
+
+I imagine the cilantro sausages joining forces with the radiation-green apple ones to assault the wimpy tan sausages and intimidate the fish in the seafood case.
+
+Jim just growls at me.
+
+"Ok, so what do you want for dinner?"
+
+"Not green sausages."
+
+"Umm... how 'bout pasta?"
+
+We agree on something and wander into the potato chip area. The lady from the meat case is coming toward us.
+
+"Hey, did you find something to eat?" she asks.
+
+"Yep. Pasta."
+
+"Ah, good. No green food, then."
+
+"Umm.. well...." I hold up the container. "It's pesto. But the noodles are the regular color."
+
+"Ah, well then. Just stay away from the black corn chips."
+
+We look down the aisle and regard a row of midnight-blue tortilla chips with grave suspicion.
+
+"Hmm.... They do look unpleasant," Jim says.
+
+"There you go again. At this rate, you'll insult all the food in the store. We could be in the middle of a food fight at any minute. A riot between the blue corn chips and the Veggie Booty."
+
+"Don't say that. It sounds like broccoli with a butt."
+
+"Sex, sex, sex, that's all you ever think about."
+
+"Hehehehe...."
+
+See how much fun you can have in the food aisles at Trader Joe's?
+
+\
+\
+
+posted: September 28, 2001
+
+\
+
+## It's Alarming
+
+\
+
+Honk, honk, honk, honk....! Screech, howl, drone!
+
+(I imagine rolling over and shooting the noisy motherfucker right through the electronic heart.)
+
+Have I mentioned that I am not a morning person? I'm not a car-alarm person either. Why do people have the damned things if they then ignore them or park the car so far away that they don't know the stupid thing is screaming at the top of its fake-o lungs for attention? Geeze, it's like listening to a really neurotic cheerleader in a slasher flick. Just stab it a few times and get it over with.
+
+And if you're going to have a car alarm, make sure it's really noisy and obnoxious, not wimpy and amusing. I passed a parking lot in which a car was honking pathetically: "henk, henk, henk" as if it were too demure to scream. Imagine a fainting-flower cartoon character saying "oh... help... oh... somebody... help me... oh...." and you'll have the idea. I started laughing and walked on. Anybody with a car alarm that ditzy is not serious about saving the car, in my opinion.
+
+I used to live in an apartment above a garage and one of my neighbors had a fancy car with a Viper talking alarm. Unfortunately, it was a very insecure and chatty car and it talked to itself. Right under my window. All night.
+
+"Viper is armed."
+
+"With what?" I thought, "can't be a gun: you ain't got no hands. Fangs? Where? in the fenders?"
+
+"Step back from the car."
+
+A good trick since the moron always parked it closest to the doorway and the stalls were so tight no one could get in and out of their car without being friendly with the car next door.
+
+I always wondered what would happen if you invaded its space too often. Would it have a nervous breakdown?
+
+"Get away from me! Just get away! Oh, I'm going home to mother! You monster!"
+
+Or was it really just a tease?
+
+"Ooo... stay away... or I'll scream...."
+
+One night, someone (and no, it wasn't me) attacked the car savagely with a key and a tire iron. Either the other apartment dwellers had had enough, or the car's owner was as big a jerk as his alarm.
+
+And, of course, he knew nothing about this until the next morning because... yes, you guessed it, he hadn't heard the alarm going off. Why? He parked on my side of the building, remember? Because it was as far as possible from his apartment so he wouldn't hear it going off all night. Well, he surely didn't. I did, but I decided I wasn't going to take the bait that time. The tinkling of broken glass did get my attention eventually, but (Ok, so call me a bitch) I chose to sleep, instead of calling the police. Pity, that. They might have shut the stupid thing off a little earlier.
+
+A surfer-dude version of the alarm might have been more effective.
+
+"Hey, dude, like, chill on the wheels, ok?"
+
+"I really mean it, dude."
+
+"If you don't back the Hell off, man, I'm calling the Man. Y'know?"
+
+"Get off my back, man."
+
+"OK. That's it! Fuck you! Fuck you and the board you rode in on! Just piss off, Ok? OK?!"
+
+And then the car would start spewing Mountain Dew on its would-be assailant, who would be blinded and run off screaming into the night.
+
+"Yeah... cool...."
+
+Of course, that only works on the West Coast. In the East, there'd have to be a "New York Minute" version.
+
+"Hey! Yeah, you! Back the fuck off!"
+
+"Who am I? I'm the frickin' car alarm. Who the hell are you?"
+
+"Oh, yeah? You want some a' this? Well, I got a siren right here says you can get your eardrums blasted to Hoboken or you can back your sorry ass on out a' here."
+
+And then the screaming starts, punctuated by the sound of simulated gunshots which would make any Hollywood foley artist proud.
+
+As the car thief wanabee runs off into the night, clutching his head in pain, the car alarm chuckles, "Yeah... an' don' come back, neither. Punk."
+
+Much more amusing.
+
+But what to do in the Midwest (outside of Chicago, that is, where the New York version would be well-established)? Some how, I don't think a car thief in St. Louis is going to be intimidated by the local approach.
+
+"'Scuse me."
+
+"You'll pardon me, but I really don't think you want to be getting too close, here."
+
+"You're startin' to make me a little nervous, there, son, and I may have to call on the local police."
+
+"Well... I did warn you."
+
+At which point, the car unexpectedly smacks the thief across the kneecaps and calls the cops from its built in cell phone. Then it apologizes to the downed thief while waiting for said cops to arrive.
+
+It may be painful, but at least it's polite. And quiet. Quiet is good....
+
+\
+
+Err... sorry I'm still not really finished with all of the site stuff. Several other projects have claimed my attention and since I get paid for those (or will eventually, in some cases) I've been unable to do much here. I'll get to it soon, I promise.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2001-2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

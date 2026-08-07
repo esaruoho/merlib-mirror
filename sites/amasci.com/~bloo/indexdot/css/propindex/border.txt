@@ -1,0 +1,50 @@
+CSS Property Index: Borders 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Borders&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About Border Properties... ] 
+
+ border 
+ &#160;-&#160; border-top 
+ &#160;-&#160; border-right 
+ &#160;-&#160; border-bottom 
+ &#160;-&#160; border-left 
+ border-width 
+ &#160;-&#160; border-top-width 
+ &#160;-&#160; border-right-width 
+ &#160;-&#160; border-bottom-width 
+ &#160;-&#160; border-left-width 
+
+ border-style 
+ &#160;-&#160; border-top-style 
+ &#160;-&#160; border-right-style 
+ &#160;-&#160; border-bottom-style 
+ &#160;-&#160; border-left-style 
+ border-color 
+ &#160;-&#160; border-top-color 
+ &#160;-&#160; border-right-color 
+ &#160;-&#160; border-bottom-color 
+ &#160;-&#160; border-left-color 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

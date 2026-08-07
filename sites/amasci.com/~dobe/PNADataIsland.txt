@@ -1,0 +1,161 @@
+Dobe Doinat's Punny Name Archive using XML and ADO 
+
+ ********* -->
+
+ Dobe Doinat's Punny Name XML Data Islands
+
+ Demonstration of Data Binding using XML and ADO 
+
+ Index #: 
+
+ First: 
+
+ Second: 
+
+ Third: 
+
+ Last: 
+
+ Census #: 
+
+ Literal: 
+
+ Ranking: 
+
+ Notes: 
+
+ Use these buttons to scroll up and down the PNA List 
+ Matt Mason found a bug in this code in May. See description below! 
+
+ Setting the XML source file 
+
+ Using an inline xml tag, the src attribute sets
+ the URL to the XML data file, while the id attribute provides a unique
+ value used by the <span> tag as an internal link. 
+
+ <!-- //PNA500_XML.XML is a raw XML file, without XSLT transformations -->
+
+ <xml id="xmlPNA" src="PNA500_XML.XML"> 
+ </xml>
+
+ Setting the <span> element's datasrc and datafld attributes 
+
+ XML data will be inserted into the placeholder <span> tag position ,
+ since it is being used for data binding . The datasrc attribute 
+ links to the inline <xml> tag , using the <xml> tag
+ id value . Recall that the use of the pound sign # to denote the link,
+ means it is internal to the page, rather than an external file. It is the
+ datafld attribute that binds the xml data value to the span tag . 
+
+ Index #: <span datasrc="#xmlPNA" datafld="PNAindexNum"></span> 
+ First: <span datasrc="#xmlPNA" datafld="PNAfirst_name"></span> 
+ Second: <span datasrc="#xmlPNA" datafld="PNAmid1_name"></span> 
+ Third: <span datasrc="#xmlPNA" datafld="PNAmid2name"></span> 
+ Last: <span datasrc="#xmlPNA" datafld="PNAlast_name"></span> 
+ Census #: <span datasrc="#xmlPNA" datafld="PNAcensusNum"></span> 
+ Literal: <span datasrc="#xmlPNA" datafld="PNAliteral"></span> 
+ Ranking: <span datasrc="#xmlPNA" datafld="PNAranking"></span> 
+ Notes: <span datasrc="#xmlPNA" datafld="PNAnotes"></span>
+
+ Setting the User buttons 
+
+ The Buttons clicked by the User, are events that are responded to
+ by Client-Side JavaScript.
+
+ <center> 
+ <input type="button" value=" First " onclick="First()" /> 
+ <input type="button" value=" Previous " onclick="Previous()" /> 
+ <input type="button" value=" Next " onclick="Next()" /> 
+ <input type="button" value=" Last " onclick="Last()" /> 
+ <br /> 
+ <small>Use these buttons to scroll up and down the PNA List</small> 
+ </center>
+
+ Here's the JavaScript Event Code 
+
+ The Button-click Event code contained in this page:
+
+ <!-- you can use either the JavaScript or JScript language --> 
+ <script language="JavaScript"> 
+ <!-- // Hide 
+ // MoveFirst() and MoveLast() are methods of the ADO Recordset object 
+ // MoveNext() and MovePrevious() are methods of the ADO Recordset object 
+ // RecordCount and AbsolutePosition are properties of the ADO Recordset object 
+
+ // NOTE! On May 18th and 19th, 2002, 
+ // Matt Mason <m.mason@PalmBasket.com> 
+ // sent me emails to the effect that: 
+
+ // "if you click the LAST button then 
+ // the FIRST button it does not 
+ // revert to the first button. 
+
+ // You must click the PREV button first and then 
+ // the FIRST button works...." 
+
+ // I believe your IF statement is wrong and should read: 
+
+ // if(count >= xmlPNA.recordset.AbsolutePosition) 
+ // xmlPNA.recordset.moveFirst(); 
+
+ // Thank you, Matt! Good troubleshooting! 
+
+ function First() 
+ { 
+ // Do not allow a move past the first record! 
+ // Should be greater than or equal to (>=) 
+ var count=xmlPNA.recordset.RecordCount 
+ if(count 
+ >= 
+ xmlPNA.recordset.AbsolutePosition) 
+ xmlPNA.recordset.moveFirst(); 
+ } 
+
+ function Previous() 
+ { 
+ // we do not allow a move to before the first record 
+ if(xmlPNA.recordset.AbsolutePosition > 1) 
+ xmlPNA.recordset.movePrevious(); 
+ } 
+
+ function Next() 
+ { 
+ // we do not allow a move past the last record 
+ var count=xmlPNA.recordset.RecordCount 
+ if(count > xmlPNA.recordset.AbsolutePosition) 
+ xmlPNA.recordset.moveNext(); 
+ } 
+
+ function Last() 
+ { 
+ // we do not allow a move past the last record 
+ var count=xmlPNA.recordset.RecordCount 
+ if(count > xmlPNA.recordset.AbsolutePosition) 
+ xmlPNA.recordset.moveLast(); 
+ } 
+ --> 
+ </script> 
+
+ What the XML file looks like 
+
+ The Buttons clicked by the User, are events that are responded to
+ by Client-Side JavaScript.
+
+ <PNA> 
+ <PNArecord> 
+ <PNAindexNum> 1 </PNAindexNum> 
+ <PNAfirst_name> Buddy </PNAfirst_name> 
+ <PNAmid1_name></PNAmid1_name> 
+ <PNAmid2_name></PNAmid2_name> 
+ <PNAlast_name> System </PNAlast_name> 
+ <PNAcensusNum> 0 </PNAcensusNum> 
+ <PNAliteral> Buddy system </PNAliteral> 
+ <PNAranking> 9 </PNAranking> 
+ <PNAnotes> Any applicable notes </PNAnotes> 
+ </PNArecord> 
+ <PNA> 
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

@@ -1,0 +1,359 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 15 May 2005 to 21 May 2005"
+source_domain: amasci.com
+source_path: ~tegan/blog/20050515-20050521.html
+order: 8818
+reachable_from_entry: false
+images: 28
+internal_links: 9
+extracted: 2026-08-07T17:16:43Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 15 May 2005 to 21 May 2005
+
+*Source page: `~tegan/blog/20050515-20050521.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, May 21, 2005 <span id="111673752936009378"></span></p>
+<strong>No Sketch</strong>
+<p><span class="rss:item">No sketch this weekend. I've only got three left to post, so I'm holding off for a week. Besides, I'm going to have nightmares tonight thanks to Doctor Who...</span></p>
+by Tegan at <a href="#111673752936009378">9:50 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/no-sketch.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111673752936009378&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111673752936009378" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111673752936009378&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111673637215007909"></span>
+<strong>Mom-my!</strong>
+<p><span class="rss:item">I really, really wish I had Steven Moffat's phone number right now. I would DEFINITELY give him a call and say "Mommy! Are you my mommy?" in a sinister high voice.<br />
+<br />
+If you don't know what I'm writing about, you didn't watch the most recent episode of Doctor Who. Must rewatch <a href="http://www.albinoblacksheep.com/flash/kittycat.php">kitty cat dance</a> to stave off nightmares. *shudder*</span></p>
+by Tegan at <a href="#111673637215007909">9:30 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/mom-my.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111673637215007909&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111673637215007909" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111673637215007909&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111668849054637019"></span>
+<strong>Bunny</strong>
+<p><span class="rss:item"><a href="http://www.frozenreality.co.uk/comic/bunny/">Bunny</a>. This is a bizarre and simple cartoon. I'm afraid that <a href="http://www.frozenreality.co.uk/comic/bunny/index.php?id=9">this one</a> is probably my favorite so far. [<a href="http://www.metafilter.com/mefi/42177">MeFi</a>]</span></p>
+by Tegan at <a href="#111668849054637019">8:14 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/bunny.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111668849054637019&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111668849054637019" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111668849054637019&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, May 20, 2005 <span id="111664729453585646"></span></p>
+<strong>Muppet Wizard of Oz</strong>
+<p><span class="rss:item">Ok, this is really fun. And much closer to the book than the MGM movie. Although it's not really that close...<br />
+<br />
+Gonzo is pretty cool as the Tin Thing, and I like Fozzie's Lion... he's a natural. Ashanti is great as Dorothy. And Toto was... a surprise. I'm still laughing. And there are bits of The Wiz in this one, too. All original music.<br />
+<br />
+Halfway through, I'm really enjoying this.</span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/muppetsoz.jpg" width="340" height="400" />
+<p>Update: Well, it was fun and lighthearted, had some good muppet moments and some good Oz moments... the design of the Emerald City was particularly nice. I also liked that they somehow fit the penguins into the whole thing. Some interesting special effects at times... goofy as well. The flying monkeys were great, and fit the basic outline of what happened in the book. I suppose rats can substitute for field mice in a pinch. All four witches of Oz showed up, and the Good Witch of the North actually was named correctly! Yup. It was fun. Exactly what I expected from the muppets.<br />
+<br />
+And Toto... heh. Toto...</p>
+by Tegan at <a href="#111664729453585646">8:40 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/muppet-wizard-of-oz.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111664729453585646&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111664729453585646" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111664729453585646&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111663801546552022"></span>
+<strong>Ah, Finished...</strong>
+<p><span class="rss:item">I read <a href="http://www.amazon.com/exec/obidos/ASIN/1932051341/theaquamanwebsit">it</a> last night. Very very good, as expected. I was particularly struck by the conversations Lily and Tom had about publishing his work as a comic book. I also enjoyed the scenes in a comic shop where you could read the titles of other comics on the shelves behind the characters. Heh.<br />
+<br />
+I am sated now. What a good read for a stormy evening.</span></p>
+by Tegan at <a href="#111663801546552022">6:11 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/ah-finished.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111663801546552022&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111663801546552022" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111663801546552022&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, May 19, 2005 <span id="111655882623795979"></span></p>
+<strong>Larry, You Are An Evil Man...</strong>
+<p><span class="rss:item">There is officially now NO hope of me getting ANYTHING done tonight... guess what <a href="http://www.ait-planetlar.com/">Larry</a> sent me?</span></p>
+<a href="http://www.amazon.com/exec/obidos/ASIN/1932051341/theaquamanwebsit"><img src="http://www.eskimo.com/~tegan/blog/blogpics/shop_tsstg2.jpg" data-border="0" width="100" height="150" /></a>
+<p>I just hope that the power doesn't go out, because if it does, I'll be reading <a href="http://www.amazon.com/exec/obidos/ASIN/1932051341/theaquamanwebsit">True Story, Swear To God: This One Goes To Eleven</a> by candlelight. I'd better make hot chocolate now, just in case...</p>
+by Tegan at <a href="#111655882623795979">8:09 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/larry-you-are-evil-man.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111655882623795979&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111655882623795979" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111655882623795979&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111655773763117952"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">Polite Scott finishes his <a href="http://www.politedissent.com/archives/734">dissection of Aquaman #30</a>. Ouch. Not that I disagree with any of it. In fact, I'm happy that someone with medical knowledge came in and confirmed my initial disgust at the attempt to create a plot in this one.<br />
+<br />
+<a href="http://www.thisoldtoy.com/fisher-price/whoops/custom-heroes.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/aquamanlittlepeople.jpg" data-align="right" data-border="0" width="73" height="152" /></a>I agree with <a href="http://progressiveruin.com/archives/2005_05_15_archive.html#111631144028322385">Mike</a> on the really cool custom superhero figures.<br />
+<br />
+<a href="http://www.neilgaiman.com/journal/2005/05/cows-and-crows-and-doing-sf-trifecta.asp">Says Neil Gaiman</a>: "I'm a planet in Star Wars, a character in Star Trek and a race of aliens in Babylon 5. It's the first time I've ever truly felt like the answer to a trivia question."<br />
+<br />
+Fanboy Rampage <a href="http://progressiveruin.com/archives/2005_05_15_archive.html#111631144028322385">talks about Jeff Parker</a> who talks about Vampire By Night. I can't <em>afford</em> any more books!<br />
+<br />
+<a href="http://www.warrenellis.com/">Warren Ellis' Website</a> keeps killing my router. I don't know whether to take that as a sign or not.<br />
+<br />
+<a href="http://darkbutshining.blogspot.com/2005/05/different-kind-of-naked-lunch.html">Dark, But Shining</a> links to some safe sex ads that are creepier than ANY I've ever seen before.<br />
+<br />
+I don't really have a stance on the Rann/Thanagar war, but since <a href="http://absorbascon.blogspot.com/">Absorbascon</a> is asking, I suppose I'd lean ever so slightly toward Rann. Retro-50's spacesuits just turn me on, I guess.<br />
+<br />
+Girl in Little League <a href="http://sportsillustrated.cnn.com/2005/baseball/more/05/19/perfect.game.ap">pitches perfect game</a>. Anything to distract me from the Mariners performance this year.<br />
+<br />
+The mystery <a href="http://news.bbc.co.uk/2/hi/uk_news/england/4557619.stm">piano man</a> may have been identified. It's possible he's not talking because he doesn't know any English.<br />
+<br />
+Yum, <a href="http://www.boingboing.net/2005/05/19/dalek_cake.html">Dalek Cake</a>.<br />
+<br />
+If you want cheap gas, move to Minnesota. <a href="http://www.fuelgaugereport.com/">AAA's Daily Fuel Gauge Report</a>. Check out the <a href="http://www.fuelgaugereport.com/sbsavg.asp">State By State Average</a>. When I checked, the only two states higher than Washington were California and Hawaii. Ouch.<br />
+<br />
+<a href="http://www.thewall-usa.com/">The Vietnam Veteran's Memorial Website</a>. There is a page for each person listed on the wall. Yes, I looked up my uncle's name.<br />
+<br />
+<a href="http://science.slashdot.org/article.pl?sid=05/05/17/0255256">Making Diamonds</a>. I have never been inclined to wear diamonds as jewelry, but the idea of having industrial diamonds for all kinds of uses, like <a href="http://science.slashdot.org/comments.pl?sid=149744&amp;cid=12552516">in laptops</a> or <a href="http://science.slashdot.org/comments.pl?sid=149744&amp;cid=12552282">cookware</a>, would be pretty cool.<br />
+<br />
+A man claims he was fired <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/ap/20050518/ap_on_fe_st/wrong_beer_3">for drinking the wrong beer</a>. Just goes to show that beer is bad for you. [<a href="http://www.metafilter.com/mefi/42084">MeFi</a>]<br />
+<br />
+After yesterday's power outage, I was hunting for "Lost" on bittorrent (for a friend, I don't watch the show) when I spotted Star Wars Episode III... already up. Sheesh. It wasn't even midnight on the West Coast yet. <a href="http://www.boingboing.net/2005/05/19/star_wars_iii_online.html">Boing Boing has more</a>.<br />
+<br />
+It's easy to <a href="http://www.museumofhoaxes.com/hoax/weblog/nba_draft_prank/">get into the NBA draft</a>. heh.<br />
+<br />
+<a href="http://www.albinoblacksheep.com/flash/kittycat.php">Kitty Cat Dance</a>.<br />
+<br />
+Newspaper front pages from <a href="http://www.newsdesigner.com/archives/000569.php">the day Mt St Helens erupted</a>. [<a href="http://www.metafilter.com/mefi/42110">MeFi</a>]<br />
+<br />
+Mark Evanier's touches on a <a href="http://www.newsfromme.com/archives/2005_05_19.html#009877">political topic</a> that I've already expressed my view on a couple of times.<br />
+<br />
+Bob Harris on <a href="http://www.bobharris.com/content/view/537/1/">how democracies end</a>.<br />
+<br />
+<a href="http://www.wonkette.com/politics/patriotism/the-one-who-lives-with-the-most-toys-wins-104017.php">Bomb-hunting on the cheap</a>. It seems that if you have a friend in the military in Iraq, maybe it would be a good idea to send them some remote controlled toy cars.</span></p>
+by Tegan at <a href="#111655773763117952">7:55 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/random-thoughts_19.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111655773763117952&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111655773763117952" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111655773763117952&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, May 18, 2005 <span id="111643388071586494"></span></p>
+<strong>25 Years</strong>
+<p><span class="rss:item">It's been twenty-five years since Mt St Helens exploded on a peaceful and beautiful Sunday morning. I was in church at the time, and I don't recall how it happened, but my memory shifted from being <em>in</em> church to standing outside the church, with half the congregation, looking south. The sky was clear, not a cloud in sight... except to the south, where a strange cloud was bubbling up on the horizon, barely visible. I remember standing there, looking at the cloud, and wondering if it was the beginning of the end. After all, a teacher had told us in school that Mt Rainier is also a volcano and might explode. I don't remember anything else from that day.<br />
+<br />
+Here's a NASA image of the mountain...</span></p>
+<a href="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=16546"><img src="http://www.eskimo.com/~tegan/blog/blogpics/mtsthelensfromspace.jpg" data-border="0" width="400" height="300" /></a>
+<p>And you can also visit the <a href="http://maps.google.com/maps?ll=46.210556,-122.177925&amp;spn=0.132866,0.250626&amp;t=k&amp;hl=en">Google Maps image</a>, which might be more current and certainly looks a bit different, even if it isn't more current.<br />
+<br />
+And lastly, the <a href="http://en.wikipedia.org/wiki/Mount_St._Helens">Wikipedia entry for Mount St Helens</a> is pretty good. Worth a peek if you are at all interested in the mountain.</p>
+by Tegan at <a href="#111643388071586494">8:58 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/25-years.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111643388071586494&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111643388071586494" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111643388071586494&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, May 17, 2005 <span id="111638700147646464"></span></p>
+<strong>Rapid Reviews - 27 April 2005 - Part II</strong>
+<p><span class="rss:item"><strong>New Avengers #5</strong>: "Breakout Part 5": Nice treatment of Wolvie in this one. I kind of wish I knew what was happening. Kind of. Maybe. Though much of me doesn't care. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Wonder Woman #215</strong>: "The Bronze Doors Part One": It's an interesting concept for a story. I can't bring myself to really like it, but it's not horrible. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>The Flash #221</strong>: "Rogue War Chapter 2": The battle is heating up, and I find it very strange and interesting. It makes me wish that Aquaman had as interesting a group of bad guys. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Legion of Super-Heroes #5</strong>: This book is getting better and better as it goes along. I never understood the appeal of the Legion before, but I'm beginning to actually like it now. It <em>almost</em> makes me want to go back and read the original Legion stories... <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Day of Vengeance #1</strong>: "One Last Drink At The End Of Time": I like the mention of the Atlantean Sorcery Schools. That will make continuity easier to clean up... someday. As for the rest of the story... well, I'm interested. I mean, the Spectre taking out DC's magic class is something to wonder about. I am curious if Tempest will ever show up, as he's quite a powerful magician. I doubt it, since everyone forgets about him, but then... Willingham remembered Atlantis' recent history, so there's hope. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a></span></p>
+by Tegan at <a href="#111638700147646464">8:29 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/rapid-reviews-27-april-2005-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111638700147646464&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111638700147646464" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111638700147646464&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111636963354603171"></span>
+<strong>Happy Syttende Mai!</strong>
+<p><span class="rss:item">Well, at least if you are <a href="http://www.norway.ie/facts/17may/nationalday.htm">Norwegian</a>. With a name like "Gjovaag", how could I not blog this?<br />
+<br />
+<a href="http://www.sofn.com/members/languagelessons/Lesson29.html">Learn how to say it</a> or <a href="http://www.syttendemaiseattle.com/what.shtml">more about the history</a>.</span></p>
+by Tegan at <a href="#111636963354603171">3:35 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/happy-syttende-mai.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111636963354603171&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111636963354603171" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111636963354603171&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111635169424905854"></span>
+<strong>Why I Will Never Buy From Netgear Again</strong>
+<p><span class="rss:item">My first router was a Netgear router, and it worked great. It wasn't wireless, and I had to run lines back and forth around the house, but the router was fast and reliable.<br />
+<br />
+My second router was a Netgear router, because the first one was so good. It was my first wireless router and it was surprisingly easy to set up. It wasn't fast, but it was reliable and had a solid range. I could 'net from anywhere in the house.<br />
+<br />
+My third router is a Netgear router, because of my good experiences with the first two. It's also wireless, but faster than the second. It is, however, completely unreliable and we have to reset it daily, sometimes hourly, and I cannot download large files without it dying. Certain websites make the router die, and any fast download at all tends to kill it. The problem really defeats the purpose of buying a fast router.<br />
+<br />
+I contacted Netgear support about the problem and received a mostly useless e-mail asking me to do some basic troubleshooting steps, all of which I had already tried. I responded to the e-mail and said the problem wasn't fixed and asked for more help. I never got a response. A couple of weeks passed and I tried contacting them again. They told me the issue had been resolved, and that I needed to open another issue.<br />
+<br />
+WHAT?<br />
+<br />
+I opened another issue, stating clearly in my comments that the first issue had never been resolved because the support guy had never responded to my e-mail. A completely different support guy responded to this new issue... with EXACTLY the same instructions that the first guy had sent with the lovely addition of: "This issue has been marked closed because these instructions will be suitable for fixing the problem."<br />
+<br />
+Extremely angry at this point, I wrote back and said that the issue was NOT closed, and I was pretty insulted that they would close an issue without ever getting feedback from the customer. I got no response.<br />
+<br />
+It's clear that the support guys are getting paid by issues closed, and since they are in charge of marking an issue closed they have no interest in actually making sure that the issue is fixed. They send a band aid when stiches are needed and claim they did the job because nobody will follow up. Who cares if the patient bleeds to death, as long as they get credit for a job done?<br />
+<br />
+I attempted to reach someone above them in the Netgear hierarchy, but apparently they aren't at all interested in the average customer. I was unable to get any response from Netgear.<br />
+<br />
+So that's it. I'll never buy another one of their products again. And if anyone asks me, I'll tell them to avoid Netgear like the plague, because Netgear doesn't care about its customers.<br />
+<br />
+Now. I need a new wireless router. Preferably one from a company that has some sort of tech support available if I should run into an annoying problem. Hubby-Eric is leaning toward getting the Mac router, which I know works well because Eric's parents have one. I'm hemming and hawing at the price. Do any of you folks out there reading have a favorite router, or know of a brand like Netgear that I should be avoiding? Any advice is appreciated at this point.</span></p>
+by Tegan at <a href="#111635169424905854">10:25 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/why-i-will-never-buy-from-netgear.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111635169424905854&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111635169424905854" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111635169424905854&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, May 16, 2005 <span id="111630117432752778"></span></p>
+<strong>More Random Thoughts</strong>
+<p><span class="rss:item">Check out <a href="http://slithytoves.sytes.net/~dave/wordpress/?p=972">Legomancer's Anti-Cancer image</a>. And send some cash his way, too, if you can spare it. He's doing the Relay for Life.<br />
+<br />
+Nancy Pearl is <a href="http://www.librarystuff.net/2005/05/nancy-pearl-on-loose.html">on the loose</a>. I want that action figure. She's my hero.<br />
+<br />
+Mystery man <a href="http://www.guardian.co.uk/uk_news/story/0,3604,1484698,00.html">plays the piano</a>.<br />
+<br />
+TangognaT directs us to <a href="http://www.tangognat.com/2005/05/14/could-have-been-better-could-have-been-worse/">patterns for making knitted Marvins</a>.<br />
+<br />
+Cory Doctorow on <a href="http://www.boingboing.net/2005/05/14/why_writers_should_s.html">eBook piracy</a>. Again, getting new readers is a <em>good</em> thing. Way more on the subject <a href="http://www.scalzi.com/whatever/003538">here</a>.<br />
+<br />
+Speaking of eBooks, the BBC is offering <a href="http://www.bbc.co.uk/cult/doctorwho/ebooks/index.shtml">Doctor Who Novels</a> free on-line in HTML format.<br />
+<br />
+Ike on <a href="http://www.snopes.com/politics/quotes/ike.asp">abolishing Social Security</a>. Originally spotted <a href="http://www.davidsirota.com/2005/05/ike-predicted-gop-demise-over-social.html">here</a>. The full letter (linked from the Snopes article) is an interesting read.<br />
+<br />
+<a href="http://www.mindjack.com/feature/piracy051305.html">Piracy is Good: How Battlestar Galactica Killed Broadcast TV</a>. Key paragraph: <em>While you might assume the SciFi Channel saw a significant drop-off in viewership as a result of this piracy, it appears to have had the reverse effect: the series is so good that the few tens of thousands of people who watched downloaded versions told their friends to tune in on January 14th, and see for themselves. From its premiere, Battlestar Galactica has been the most popular program ever to air on the SciFi Channel, and its audiences have only grown throughout the first series. Piracy made it possible for "word-of-mouth" to spread about Battlestar Galactica.</em><br />
+<br />
+Do you live near a Brothel? <a href="http://www.metafilter.com/mefi/41987">Google Maps</a> thinks you do. Take a look at all the <a href="http://maps.google.com/maps?q=95833+brothels&amp;hl=en">Brothels in Seattle</a>, including the Varsity Theatre, Metro Cinemas, and The Swedish American Chamber of Commerce. Um. Right.<br />
+<br />
+The shop I work at used to carry <a href="http://www.boingboing.net/2005/05/13/xrays_of_kids_who_sw.html">these toys</a>.<br />
+<br />
+<a href="http://littleoslo.com/eng/blogpoly.htm">Blogpoly</a>.<br />
+<br />
+I think I want this <a href="http://www.boingboing.net/2005/05/13/tetris_shelving.html">Tetris Shelving</a>. Don't know where I'd put it, but I want it. Maybe when I'm rich.<br />
+<br />
+Hmmm, I got attacked by a golf ball on one of my recent training walks. I wonder if it had anything to do with <a href="http://www.freewebs.com/golfballarmy/">these guys</a>.<br />
+<br />
+Polite Scott tackles fill-in issue <a href="http://politedissent.com/archives/731">Aquaman #30</a>, and finds plenty wrong with it. Heck, I don't know much about medicine and <em>I</em> found it to be complete dreck medically.</span></p>
+by Tegan at <a href="#111630117432752778">8:38 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/more-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111630117432752778&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111630117432752778" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111630117432752778&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111629612362158914"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item">Oooh, a really cool <a href="http://www.palaeoblog.blogspot.com/">dinosaur blog</a>. Check it out! Via <a href="http://parkerspace.blogspot.com/">Jeff Parker</a><br />
+<br />
+This is my kind of comics blog: <a href="http://snarkfree.blogspot.com/">Snark Free Happy Joy Comic Blog</a>. Many thanks to <a href="http://brillbuilding.blogspot.com/">Brill Building</a> for the pointer.<br />
+<br />
+If you watch the Simpsons, you need to check out <a href="http://xrayspex.blogspot.com/2005/05/stupid-flanders.html">Will Pfeifer's Latest</a>.<br />
+<br />
+Rich Johnson wants to be <a href="http://www.comicbookresources.com/columns/?column=13">a journalist</a>. And he's letting the readers vote on it.<br />
+<br />
+Peter David and Mike Wieringo on <a href="http://www.newsarama.com/forums/showthread.php?s=1ba74a67e953092418ec262ae80f49e8&amp;threadid=33919">Spider-Man</a>. Crap. I'm trying to cut my list DOWN.<br />
+<br />
+DC's <a href="http://dccomics.com/comics/?dat=20050801&amp;s=31">August Solicits</a> are up. Love the cover to Aquaman, HATE the solicit. The solicit actually made me growl. Aloud.</span></p>
+<a href="http://dccomics.com/comics/?cm=3993"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra433.jpg" data-border="0" width="200" height="300" /></a>
+by Tegan at <a href="#111629612362158914">7:14 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/random-thoughts_16.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111629612362158914&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111629612362158914" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111629612362158914&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111628741523461187"></span>
+<strong>Idle Thinking Freewrite</strong>
+<p><span class="rss:item">So I've been blogging light recently, mostly because I've been hard at training for the 3-Day, something that's going to take much more effort on my part than I realized when I signed up for it. That's the way these things usually go. I'm going to have an unintentional break now, though, as we figured out that I <a href="http://gjovaag.blogspot.com/2005/05/bad-news.html">strained a muscle</a> in my ankle, possibly during the <a href="http://realtegan.blogspot.com/2005/05/sunday-audioblog_08.html">Marymoor to Bothell</a> walk a week ago, and I've been ordered to stay off my feet for three days. Maybe that will allow me to catch up with comics blogging... but probably not. I'm just not as interested in reviewing comics right now as usual. Sometimes my interests drift. There are very few constants in what I love at any given time. Certain music maybe, certain fiction... but even then, I sometimes go through phases where I simply cannot read books for awhile. I have to force myself to get through even a chapter, and don't enjoy it when I do. Then a few days later I try again and find that it's the best thing I've ever read. Well, maybe not the best thing, but certainly more readable than I would have thought from my earlier reaction. Just recently, a couple of weeks ago, I found that I had absolutely no interest in any comic book at all. None. I couldn't read them. I would pick one up, get through a page or two, and just put it down. However, I had a <em>huge</em> desire to reread (yes, reread) the <a href="http://www.dendarii.com/">Wormhole Nexus</a> books by Bujold, particularly Memory. How nutty is that? Then I noticed a blog mention of <a href="http://www.ethshar.com/thesprigganexperiment0.html">The Spriggan Mirror</a> and suddenly wanted to read all the Ethshar books in order. I don't even know if I've read all of them in the first place, though I'm pretty sure I managed to catch most of them. I've got a huge stack of Free Comic Book Day comics I still haven't gotten through, and last week's comics... and the week before that... I think the only book I've read recently was Aquaman, and that wasn't very good. Better than last month's, but that's not saying much. Maybe reading all that Manga threw off my tastes or something. Heh. I found an excellent exercise program. Fansubbed anime. I have to concentrate on the subtitles, so I don't stress about walking. I got a few episodes of the fansubbed Hikaru No Go to watch, and really enjoyed them. I don't want to watch too far ahead, though. I'm enjoying reading Hikaru as it comes out from Shonen Jump. My time's up already... I'll put in a few links and post this. I'm writing slower than ever these days.<br />
+<br />
+<em>Note: A freewrite is when you write nonstop for exactly ten minutes. It's a type of writing exercise I used to do a lot, but don't do so much anymore. If you do it correctly, you don't spend any time self-editing, you just write, and the result is a non-linear collection of your thoughts. It's particularly useful if you are suffering from writer's block.</em></span></p>
+by Tegan at <a href="#111628741523461187">4:33 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/idle-thinking-freewrite.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111628741523461187&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111628741523461187" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111628741523461187&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, May 15, 2005 <span id="111618003237452685"></span></p>
+<strong>Sunday Audioblog</strong>
+<p><span class="rss:item"></span></p>
+<div class="audblog">
+<a href="http://www.audioblogger.com/media/48378/190657.mp3" class="audLink"><img src="http://www.audioblogger.com/media/images/audioblogger.gif" class="audImg" data-border="0" alt="this is an audio post - click to play" /></a>
+</div>
+<p>11:00 am: Transcript Coming Soon</p>
+<div class="audblog">
+<a href="http://www.audioblogger.com/media/48378/190704.mp3" class="audLink"><img src="http://www.audioblogger.com/media/images/audioblogger.gif" class="audImg" data-border="0" alt="this is an audio post - click to play" /></a>
+</div>
+<p>12:34 pm: Transcript Coming Soon</p>
+<div class="audblog">
+<a href="http://www.audioblogger.com/media/48378/190738.mp3" class="audLink"><img src="http://www.audioblogger.com/media/images/audioblogger.gif" class="audImg" data-border="0" alt="this is an audio post - click to play" /></a>
+</div>
+<p>1:41 pm: Transcript Coming Soon</p>
+by Tegan at <a href="#111618003237452685">11:00 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/05/sunday-audioblog_15.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111618003237452685&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111618003237452685" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111618003237452685&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20050508-20050514.html">05/08/2005 - 05/14/2005</a><br />
+05/15/2005 - 05/21/2005<br />
+<a href="20050522-20050528.html">05/22/2005 - 05/28/2005</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

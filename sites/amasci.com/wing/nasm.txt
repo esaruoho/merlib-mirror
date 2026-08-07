@@ -1,0 +1,8 @@
+The Wrong Explanation...
+
+Many books state that air speeds up over a wing because it has further to
+travel than air moving under the wing. This implies that air separates at
+the front of the wing (point A) and must rejoin behind the wing (point B),
+but this isn't true. Air moving over the top of a wing speeds up so much
+that it arrives at point B sooner than air that travels beneath the wing. 
+

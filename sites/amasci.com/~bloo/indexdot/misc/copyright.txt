@@ -1,0 +1,58 @@
+Copyright Information about this site 
+
+ Copyright Information About This Site 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML
+ Support History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Company and Other Copyrights 
+
+The names Microsoft Internet Explorer, JScript, VBScript, NCSA Mosaic, Netscape
+Navigator, JavaScript, Opera Software's Opera, and Sun Microsystems Java are
+registered trademarks of the respective companies. By referencing their products
+in these documents this site in no way endorses or is affiliated with these
+companies. The information is listed for public benefit and only serves to
+document historical information about the Internet and World Wide Web. The
+publicly available W3C HTML specifications and terminology (such as CSS and
+XML) carry their own
+ trademarks and
+copyrights . Links to external sites about certain topics are not guaranteed
+to be fully functional (the sheer number of them will prevent frequent
+integrity checks.) I can not guarantee the content of these external sites, but
+they are made available as additional references for readers.
+
+ Personal Copyrights 
+
+I claim copyright where possible over the many portions of the two sites which
+are original work (such as many parts of the Cascading Style Sheet site) and
+over the both sites as a singular, evolving work, along with the general HTML
+formatting scheme (look and feel.) All images are copyright 1996-2003
+Brian Wilson.
+
+Information about version history of tag and property support in the mentioned 
+browsers and other data was gathered though a series of sometimes painstaking 
+manual verifications. The information is as accurate as I could determine given 
+my resources and appears to be the most complete resource to date (that I can
+find at least) on this topic. While neither I nor anyone else can claim direct
+copyright over the content of the tag history pages (anyone who has the ability
+and or patience could duplicate this work), it is unlikely that many will try
+to duplicate this silly feat. =) Please at least cite me as the source if you
+reference the information that I have gathered here for another purpose.
+
+Aside from that, if you can help add to this resource, please let me know so
+that it can be updated. These sites are meant to create a single, cohesive
+resource on the HTML language, CSS and the popular browsers that support them;
+it would be a waste of efforts (I think) if this did not succeed.
+
+ Brian Wilson 
+Copyright(&copy;) 1996 - 2003
+
+ [ Please see also: Site License Information ]

@@ -1,0 +1,60 @@
+---
+title: "Index of /~nickz/pro350"
+source_domain: amasci.com
+source_path: ~nickz/pro350/index.html
+order: 5464
+reachable_from_entry: false
+images: 39
+internal_links: 1
+extracted: 2026-08-07T17:12:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~nickz/pro350
+
+*Source page: `~nickz/pro350/index.html`*
+
+# Index of /~nickz/pro350
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        14-Jul-2004 13:32      -  
+     0304disk.dsk            04-Mar-2001 10:52   400k  
+     0304disk.zip            04-Mar-2001 10:52     1k  
+     402to401.com            29-Oct-1997 13:21     2k  
+     DmpDeHex.zip            01-Dec-1997 02:38     7k  
+     caltime.dsk             17-Feb-2001 16:46   400k  
+     cmpbin.mac              25-Aug-1985 15:32     3k  
+     dattst4.doc             15-Feb-1999 05:34     5k  
+     dtime11.zip             23-Feb-2000 09:54    60k  
+     dtime11d.zip            24-Feb-2000 16:34    86k  
+     dtime11m.zip            24-Feb-2000 16:55    55k  
+     dtime2.zip              23-Feb-2000 12:03     1k  
+     f11init.com             04-May-1998 02:40     4k  
+     f11read.com             18-Jul-1998 04:17     6k  
+     indxread.mac            25-Dec-1984 20:41     5k  
+     iofiche.html            29-May-2001 11:56     3k  
+     iofiche/                29-May-2001 11:51      -  
+     main0102.zip            02-Jan-2001 23:56     3k  
+     more.to.come.soon       16-Feb-1998 06:37     1k  
+     pro350rom.zip           16-Feb-1998 05:53    10k  
+     proclk.info             22-Mar-1998 09:27     1k  
+     proclk.sav              19-Mar-1998 21:00     2k  
+     pspecs.zip              06-Oct-1998 03:07     1k  
+     qioini.mac              16-Dec-1985 21:24     3k  
+     r50asc.zip              24-Jun-1998 14:34     1k  
+     resscr.mac              09-Jan-1985 18:11     1k  
+     rk6blank.zip            18-Jul-1998 05:12    16k  
+     rt11dir.mac             19-Mar-1998 00:15     9k  
+     rt11dir.readme          24-Jun-1998 14:57     1k  
+     rt11dir.tsk             19-Mar-1998 00:16     6k  
+     rtutil.doc              17-Feb-1998 10:11     1k  
+     rtutil.zip              17-Feb-1998 10:11     2k  
+     savscr.mac              09-Jan-1985 18:49     1k  
+     specs.cmd               20-Sep-1985 18:04     1k  
+     specs.odl               20-Sep-1985 18:05     1k  
+     specs.zip               06-Oct-1998 03:04     1k  
+     vbn2lbn.zip             24-Jun-1998 01:22     8k  
+     vdfgrk.mac              14-Mar-1985 21:34    12k  
+
+------------------------------------------------------------------------

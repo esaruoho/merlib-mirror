@@ -1,0 +1,357 @@
+<HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 14/12/98 18:25 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Climbing Reference</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=0 BOTTOM=0 LEFT=0 RIGHT=0>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<H2>Climbing Reference Pages
+
+<HR SIZE=8>
+
+</H2>
+
+<P><HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 26/06/99 13:52 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Mountaineers Climbing Pages: Reference</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+<script language="JavaScript"></script>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<P><TABLE BORDER=1 CELLPADDING=0 WIDTH=450><CAPTION ALIGN="TOP"><B>Basic Climbing Material</B></CAPTION>
+<A HREF="#Basic"></A>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/bcm2001.pdf">Basic Course Student Handbook</A><FONT SIZE="-2"> (requires
+         </FONT><A HREF="http://www.adobe.com/prodindex/acrobat/readstep.html"><FONT SIZE="-2">Adobe
+         Acrobat</FONT></A><FONT SIZE="-2">)</FONT></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/basic-climbing.shtml#schedule">Basic
+         Course Schedule</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/basic-climbs-reference.html">Basic
+         Climbs Reference</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/basic-course-survey.html">Basic
+         Course Survey Form</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/basic-climbs-rules.shtml">Basic
+         Climbs Signup Rules</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/basic-climbs-reservations.html">Basic
+         Climbs Reservation System</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/basic-signup-tips.html">Basic
+         Climbs Signup Tips</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/required-equipment-matrix.html">Basic
+         Equipment Matrix</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="javascript:queryClimbsDB('Seattle','BAS')">Basic
+         Climbs Schedules</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/branch-field-trips.html">Branch
+         Field Trip Dates</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/basic-grade-book.html">Basic
+         Student Gradebook</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;</P>
+      </TD>
+   </TR>
+</TABLE>
+<BR>
+<TABLE BORDER=1 CELLPADDING=0 WIDTH=450 HEIGHT=138><A HREF="#Other"></A>
+<CAPTION ALIGN="TOP"><B>Other Material</B></CAPTION>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;Intermediate Course Manual<FONT SIZE="-2">
+         (requires </FONT><A HREF="http://www.adobe.com/prodindex/acrobat/readstep.html"><FONT SIZE="-2">Acrobat</FONT></A><FONT SIZE="-2">)</FONT></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/intermediate-climbing.shtml#schedule">Intermediate
+         Course Schedule</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/ccm.html">Crag
+         Climbing Manual</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/crag-climbing.shtml#schedule">Crag
+         Course Schedule</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/records.html">Recent
+         Climbing Records</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/History/history.shtml">Historical
+         Climbing Records</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/climbing-4th-grade.html">The
+         4th grade goes climbing</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/WWW/wilderness-without-wheels.html" TARGET="_parent">Wilderness
+         without Wheels</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/daylight.html">Hours
+         of daylight</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://aa.usno.navy.mil/AA/data/docs/RS_OneYear.html">Sunrise/Moonrise
+         Times</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/usgs-gt.html">USGS
+         to Green Trails crossreference</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Gallery/climbs-gallery.shtml">Mountaineer
+         Climbs Photo Gallery</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Gallery/field-trips-gallery.shtml">Mountaineer
+         Field Trips Photo Gallery</A></P>
+      </TD>
+      <TD WIDTH="50%" HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/History/history.shtml">Mountaineer
+         Historic Photo Gallery</A></P>
+      </TD>
+   </TR>
+</TABLE>
+<BR>
+<TABLE BORDER=1 CELLPADDING=0 WIDTH=450><A HREF="#Information"></A>
+<CAPTION ALIGN="TOP"><B>Information Exchange</B></CAPTION>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Bboard/wwwboard.html">Mountaineer
+         Climber's Bulletin Board</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.mountaineers.org/mtneers/caleve.htm" TARGET="_parent">Mountaineers
+         Events at the Clubhouse</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.climbing.com/" TARGET="_parent">Climbing
+         Magazine</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.rocknice.com/" TARGET="_parent">Rock
+         &amp; Ice Magazine</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.gorp.com/gorp/activity/climb.htm" TARGET="_parent">Climbing
+         Related Links</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Cliffnotes/CN1198.html">Cliff
+         Notes</A></P>
+      </TD>
+   </TR>
+</TABLE>
+<BR>
+<TABLE BORDER=1 CELLPADDING=0 WIDTH=450><A HREF="#Safety"></A>
+<CAPTION ALIGN="TOP"><B>Safety Related Material</B></CAPTION>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/ten-essentials.html">The
+         10 Essentials</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/mountain-accidents.html">Safety
+         in the Mountains</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/SMR/smr.html" TARGET="_parent">Seattle
+         Mountain Rescue</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.wta.org/wta/trails.html" TARGET="_parent">WTA
+         Trail Reports</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.csac.org/Bulletins/Northwest/current-av.html" TARGET="_parent">Cascade
+         Avalanche Forecast</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.csac.org/Bulletins/Northwest/current-wx.html" TARGET="_parent">Cascade
+         Weather Forecast</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.wta.org/scripts/wta/cgi-pvt/teams.pl">WTA
+         Trails Work Parties</A></P>
+      </TD>
+      <TD WIDTH="50%">
+         <P>&nbsp;<A HREF="http://www.eskimo.com/~pc22/CC/Reference/ranger-stations.html">Local
+         Ranger Stations</A></P>
+      </TD>
+   </TR>
+</TABLE>
+<BR>
+<TABLE BORDER=1 CELLPADDING=0 WIDTH=446 HEIGHT=79><A href="#Local"></A>
+<CAPTION ALIGN="TOP"><B>Local Climbing Clubs</B></CAPTION>
+   <TR>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.icomm.ca/wac/welcome.htm" TARGET="_parent">Washington
+         Alpine Club</A></P>
+      </TD>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.boealps.org" TARGET="_parent">BoeAlps</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.mazamas.org/" TARGET="_parent">The
+         Mazamas</A></P>
+      </TD>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://students.washington.edu/climb" TARGET="_parent">Climbing
+         Club at the UW</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.scn.org/rec/womenclimbers/index.htm" TARGET="_parent">Women
+         Climbers Northwest</A></P>
+      </TD>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.crosswinds.net/~skagitalpine/" TARGET="_parent">Skagit Alpine Club</A></P>
+      </TD>
+   </TR>
+   <TR>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.americanalpineclub.org/" TARGET="_parent">American
+         Alpine Club</A></P>
+      </TD>
+      <TD HEIGHT=17>
+         <P>&nbsp;<A HREF="http://www.culturenet.ca/acc/" TARGET="_parent">Alpine
+         Club of Canada</A></P>
+      </TD>
+   </TR>
+</TABLE>
+</P>
+</BODY>
+</HTML>
+</P>
+</BODY>
+</HTML>

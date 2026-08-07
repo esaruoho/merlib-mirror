@@ -1,0 +1,201 @@
+C.M. Connelly: Blog: Archive for September, 2002 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for September, 2002 
+
+ September 1, 2002 (Sun) 
+
+ Went to see One-Hour
+Photo . Dopey audience, as ever. Apparently many of them
+knew nothing about the film except that Robin Williams was in it, and
+Robin Williams == funny, right? 
+
+ Not so much. 
+
+ I thought the film was pretty good. Williams was excellent. He was
+creepy and sad. The very last two scenes (examining his photographs
+and the very last photograph) were clever, although Sy's speech
+allowed me to predict the content of the photos. As for the last,
+well, fantasy or reality? Who can say...? 
+
+ The cinematography was excellent&#8212;various scenes reminded me of
+scenes in Manhunter and The Boston
+Strangler . Wall^H^H^H^HSavMart was depicted chillingly well.
+Some of the shots were beautiful&#8212;especially those resembling
+carefully framed photographs. 
+
+ Not quite as good as Fraility , but trying hard. 
+
+ September 2, 2002 (Mon) 
+
+ Labor Day, and I'm not at work, but I'm working, along with a lot of
+other people at Mudd, I suspect. 
+
+ I'm excused from the convocation, where M is right now, but I still
+have to get the account-request form sorted out. Shouldn't be too
+difficult, I hope, since I gave up on getting the web form working for
+this semester and decided to just go with paper. 
+
+ I did get the computing
+support site up and running, which is cool for a couple of
+reasons. 
+
+ I finally figured out how to indicate when a reader is within
+a subsection on the navigation bar while keeping it as a link&#8212;which
+was easy, only took a couple of lines of code and a few minutes
+tinkering 
+
+ I got my publish script sorted out so I could update
+ this site&#8212;I had stuff I'd written that never made it to
+the site because the behavior of wget , which I use to
+extract the site into a flat-file format, changed 
+
+ Another cool thing I wanted to write about earlier but didn't: After
+various positive comments about TechTV 's Big
+Thinkers program, and generally positive feelings about TechTV
+from their airings of Max Headroom and
+ Thunderbirds , we gave it a try. 
+
+ The show is generally good, but I was struck by how much it reminded
+me of Errol Morris's First Person , which we watch on IFC . In particular, the shows tend to have a bunch of
+weirdly apropos black & white footage from 1940s and 1950s
+documentaries. 
+
+ It turns out that the archive footage comes from The Internet Archive , home of the WayBack Machine that archives the web. They've done a
+deal with Rick Prelinger ,
+who's been collecting these ephemeral films for years, and who had
+released some of them on CD-ROMs titled &#8220;Our Secret Century&#8221;. I
+couldn't afford them when they were available, and now they're out of
+print. 
+
+ But now many of them are available for download and viewing from The Internet Moving Images Archive . Scary fun.... 
+
+ Somewhat related, I was always a bit confused about why Douglas
+Coupland, who's a few years older than I am and grew up in Vancouver,
+BC, is so obsessed and was so traumatized by the prospect of nuclear
+war. 
+
+ As a longtime pessimist, I've been aware of the threat hanging over
+all our heads for many years. But I never really worried about it&#8212;after all, what's the point? When it happens, it happens, and chances
+are pretty good you'll be vaporized or die not long after an attack,
+anyway. Since you, as an ordinary citizen, can't really affect
+whether or not such an attack occurs, why ruin your life worrying
+about it? 
+
+ (Besides, it's more likely that we'll all die from some new influenza
+variant carried around the world by international air travellers, and
+that hasn't happened yet.) 
+
+ Anyway, while I was tracking down Robert Bringhurst's books on Haida
+mythology, I happened across an announcement of Coupland's latest
+book, Souvenir of Canada , which sounded like a
+pan-Canadian version of his Vancouver-oriented City of
+Glass . So when I found that the UBC Bookstore not only had
+ A Story as Sharp as a Knife but Souvenir of
+Canada on sale, I ordered them both. 
+
+ It turned out to be pretty much what I expected. It's way fun, and
+made me feel really homesick for Canada, where I lived for four years
+and left only a bit over a year ago. The immigration stuff was a pain
+in the ass, but the country was great, and Vancouver, especiall, was
+beautiful, fun, and sophisticated in a way that southern California
+has yet to even approach, let alone beat. Not only that, but the copy
+I got was signed, which is a really nice extra. 
+
+ Oh, yeah, my point... So, Coupland, growing up in Vancouver, is
+obsessed with atomic war, and so are many of his characters. It turns
+out that when he was in school, they were drenched in information
+about NATO, the DEWline, and Canada's precarious place on the ICBMs'
+path between Russia and the U.S. They were told of the need for
+constant vigilance, and that the war could start at any moment. They
+hung on the news about U.S.-Soviet relations. He built model ICBMs
+and ABMs. 
+
+ Now I get it.... 
+
+ September 8, 2002 (Sun) 
+
+ Wow, are Americans lame. Finally got around to listening to the
+ Weekend Edition Sunday interview
+with Stephen Fry , about his book The Stars' Tennis
+Balls , which M received for Christmas last year, and which has
+just been published in the States with the mundane title,
+ Revenge . [The original title is taken from the play
+ The Duchess of Malfi .] 
+
+ Still&#8212;Stephen Fry is always worth listening to. However, be warned&#8212;the interview contains some significant spoilers. 
+
+ older entries 
+
+ Activity 
+
+ << 
+ September, 2002 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+
+ 30 
+
+ More Archives... 
+
+ August, 2002 
+ July, 2002 
+ June, 2002 
+ May, 2002 
+ April, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 12:23 AM PDT, Sunday, September 8, 2002; last rendered at 
+ 12:23 AM PDT, Sunday, September 8, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

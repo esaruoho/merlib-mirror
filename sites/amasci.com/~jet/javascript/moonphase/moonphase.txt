@@ -1,0 +1,19 @@
+Moon Phase 
+
+ Notes: 
+
+ Uses approximate, not exact, equation to compute percent of moon in sunlight
+
+There are bugs/holes in the Date functions for various
+NetScape 2.0 platforms which may cause errors up to 24 hours
+
+Code shows an interesting way to draw circle/ellipse type objects in JavaScript
+
+Mostly harmless
+
+ Moon Phase by James Thiele who can be reached:
+
+at his home page http://www.eskimo.com/~jet 
+
+via email at
+ jet@eskimo.com

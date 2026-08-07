@@ -1,0 +1,3 @@
+PERFORMANCE DATA 0-60: 5.1 sec 1/4 Mile: 13.5 sec Skidpad: 0.95g Top Speed: 154 MPH Braking 60-0: 115 ft 
+
+ SPECIFICATIONS 3.0L DOHC 24 Valve I-6 Twin-Turbo Intercooled Horsepower: 320 bhp @ 5600 rpm Torque: 315 lb-ft @ 4000 rpm Curb Weight: 3480 lb

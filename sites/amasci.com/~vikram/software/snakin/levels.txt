@@ -1,0 +1,97 @@
+Snakin' Home Page - Copyright 1998, Vikram Madan, All Rights Reserved 
+
+ Snakin'
+Level Exchange 
+
+ The Snakin' Level Editor, which is
+ part of the Snakin' game package, allows you to create
+ your own Snakin' levels. Registered users of Snakin' can
+ load these new levels into Snakin' and have lots of fun
+ playing them. 
+ If you are a registered user of
+ Snakin', visit this page often to see if there are new
+ downloadable levels available for you. 
+ If you have created Snakin' levels
+ using the Snakin' level editor, and would like to share
+ these levels with other Registered Snakin' users, e-mail
+ your levels to one of the following addresses: Vikram@Eskimo.com or vmadan@bigfoot.com or v_madan@msn.com . Include
+ your name and the name of your level and attach your
+ Snakin' Level files as attachments to your email message.
+ Once we receive your Snakin' level, we will add it to
+ this page so that other users can then download the
+ level. 
+ [ We reserve the right to refuse
+ adding your levels to this page, for any reason
+ whatsoever. ] 
+
+ Downloadable Snakin'
+ Levels To download a level, click on the
+ level name below. The level files are zipped up. You will
+ need an unzip utility like pkunzip or WinZip to open these files
+ and get the level files out of them. If you don't already
+ have a unzip utility, I highly recommend obtaining one
+ before proceeding ( Click here to get
+ Winzip ). Enjoy! 
+
+ Date
+ Uploaded 
+ Level Name 
+ Level
+ Author 
+
+ 2/20/98 
+ Diversity 
+ Vikram
+ Madan 
+
+ 3/10/98 
+ Inter-locked 
+ Vikram
+ Madan 
+
+ 3/12/98 
+ Posion city 
+ Vikram
+ Madan 
+
+ 3/12/98 
+ Just another level 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Sticks and Stones 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Golden Bars 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Apples and Oranges 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Prison Grey 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Tiger 
+ Vikram
+ Madan 
+
+ 3/23/98 
+ Cactus Eden 
+ Tobias
+ Landes 
+
+ Zip file with
+ all the levels 
+
+ [ Back to the main
+page ]. [ Back to the software page
+]. ( [ Contact Vikram Madan ] )

@@ -1,0 +1,34 @@
+Algae Sources 
+
+ Algae Sources 
+
+ The Algae sources are at this site: 
+
+ftp://ftp.eskimo.com/u/k/ksh/algae 
+
+Algae is distributed (source code and all) as a compressed tar 
+file. If you have a Unix system, then you surely have tar .
+Compression (and decompression) is done with gzip . Both
+ tar and gzip are available for
+ ftp download 
+from the GNU
+Project . (The primary ftp site is
+ prep.ai.mit.edu in the
+directory /pub/gnu.) 
+
+The distribution files for Algae have names like "algae-x.y.z.tar.gz",
+where "x", "y", and "z" are, respectively, the major, minor, and patch
+release numbers. In addition to the source distributions, there may
+also be binary distributions available. These contain executable
+files that have already been compiled for a particular machine. For
+example, a file called "algae-3.2.0-i586-unknown-linux.tar.gz" would
+be suitable for a Pentium computer (of unknown make) running
+linux. 
+
+Algae might also be available as a
+
+Red Hat Package Manager 
+(RPM) distribution. Files in this form end with the .rpm 
+extension. 
+
+ Algae Home

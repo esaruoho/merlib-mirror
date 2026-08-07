@@ -1,0 +1,144 @@
+---
+title: "explist"
+source_domain: amasci.com
+source_path: amateur/explist.html
+order: 705
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:06:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# explist
+
+*Source page: `amateur/explist.html`*
+
+Experimental Science Instrumentation mailing list
+
+    ***********************************************************************
+    *   SAFETY NOTE FROM BILL BEATY: Parents be warned, this list is not  *
+    *   intended for beginners, is not censored in any way, and from      *
+    *   time to time may contain discussions about dangerous experiments  *
+    *   without reference to the many safety requirements.                *
+    ***********************************************************************
+
+      Moderator: Jim Choate, ravage@ssz.com
+      List server addr: tesla-request@ssz.com
+      List address: tesla@ssz.com
+
+      To subscribe, send a message with the word "subscribe" in the message
+      body, (no quotes around "subscribe").  Send it to tesla-request@ssz.com
+
+      To unsubscribe, send a message with the word "unsubscribe" in the
+      message body, (no quotes around "unsubscribe").  Send it to
+      tesla-request@ssz.com
+
+    ------------------------------------------------------------------------
+    Welcome to the Experimental Science Instrumentation mailing list. This
+    list is hosted by CyberTects in Austin, Tx. If you have questions or
+    problems please send email to 'list@ssz.com'. You should receive a
+    responce shortly afterward. 
+
+    There is a place for a webpage on the SSZ homepage. However, currently
+    nobody is involved in any sort of project. If interested please send a
+    note to the list. To see what else is up at CyberTects look at
+    http://www.ssz.com/. It ain't much, but it is home...;) 
+
+    This mailing list is intended for the rigorous exploration of nature.  One
+    of the primary areas of experimentation is instrumentation and data
+    reduction.  This list is intended as a resource for the advancement of
+    knowledge in both areas. As a consequence off-topic discussions are
+    STRONGLY avoided. 
+
+    This list is NOT intended for beginners. They are certainly welcome but
+    are expected to stay out of discussions they are not experienced in.
+    General questions are welcome from any party on relevant issues. We
+    strongly believe the novice experimenter should be helped. Discussions at
+    all levels are available. It is not acceptable behaviour to expound on
+    personalities or other 'flame bait' topics. 
+
+    Sale and advertisment of services are permitted with due consideration of
+    the other members of the list. Each 'ad' should appear ONLY ONCE per
+    calendar year. The 'ad' MUST be relevant to the mailing list members and
+    its charter topic. All responces should be by direct email. 
+
+    As a member of this list it is expected you pursue active experiments or
+    projects. We would very much like to hear about what you are up to and
+    where you are taking it. A working knowledge of diff-eq's, computer
+    programming, basic electronics (analog & digital), physics, chemistry,
+    safety proceedures, etc. is assumed for most discussions. 
+
+    The person behind the email is Jim Choate. I would like to tell you a
+    little about myself and provide some insight into the mailing list. 
+
+    This list is NOT for the exploration of pseudo-science, space aliens, etc. 
+    I named the list after Nikola Tesla because I admire his accomplishments
+    and his strong indipendant nature. 
+
+    I have been building 'projects' since I was a kid of 8-9, I am now 37. 
+    For seven years I built projects at Discovery Hall, a hands-on science
+    museum in Austin, Tx. I am currently working on a hexapod robot and a
+    high-performance rocket. I am currently a computer engineer for Tivoli -
+    IBM as well as run my own business, CyberTects. In both cases I play with
+    what I lovingly refer to as the 'bleeding edge'. Through CyberTects I
+    support several hands-on technology mailing lists and two user groups. 
+
+    I started the list a couple of years ago with the intent of finding others
+    who like to build 'professional' quality projects. Since that time it has
+    grown slowly but steadily by word of mouth. The folks who participate in
+    the mailing list are truely an impressive lot. Don't feel hesitant about
+    starting a dialogue. Historicaly the list has been very low traffic. The
+    majority of traffic is cross-posts from other sources. I would really like
+    to see more discussion about current projects. 
+
+                 "Reality is observer dependant"
+                                  \
+                                    \   \\/////
+                                        |     |
+                                        (.) (.)
+          ===========================oOO==(_)==OOo==========================
+
+                                      James Choate
+
+             Tivoli an IBM company                  CyberTects: SSZ
+             Customer Support Engineer              SOHO-VR-HPR-Robotics
+
+             9442 Capitol of Texas Highway North    4312 Avenue A
+             Suite 500
+             Austin, TX 78759                       Austin, TX  78751
+
+             Email: jchoate@tivoli.com              Email: ravage@ssz.com
+             Phone: (512) 436-8893                  Phone: (512) 451-7087
+                                                    HelpDesk: (512) 259-2994
+             Fax:   (512) 345-2784                  Fax: n/a
+             WWW:   www.tivoli.com                  WWW: www.ssz.com
+             Modem: n/a                             Modem: (512) 451-7009
+             Pager: n/a                             Pager: n/a
+             Cellular: n/a                          Cellular: n/a
+
+    ===================================================================
+
+             Political ideal: The Constitution says "Congress shall make no
+             law..." & What happened to the 9th & 10th Amendments?
+
+             Philosophy: Pantheism - the belief that everything is divine,
+                                     that God is not seperate but totaly
+                                     identified with the cosmos, and that
+                                     God does not possess personality or
+                                     transcendence.
+
+    ===================================================================
+
+             The end of our exploring will be to arrive at where we
+             started, and to know the place for the first time.
+
+                                                    T.S. Eliot
+
+    ===================================================================
+
+                             Chance favors the prepared mind.
+
+                                                    Anon.
+
+    ===================================================================

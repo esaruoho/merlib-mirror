@@ -1,0 +1,27 @@
+Question 6.7 
+
+ Question 6.7 
+ How can an array be an lvalue, if you can't assign to it?
+
+ The ANSI C Standard defines a ``modifiable lvalue,''
+which an array is not.
+
+ References:
+
+ANSI Sec. 3.2.2.1
+
+ISO Sec. 6.2.2.1
+
+Rationale Sec. 3.2.2.1
+
+H&S Sec. 7.1 p. 179
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

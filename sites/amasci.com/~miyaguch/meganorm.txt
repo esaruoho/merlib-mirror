@@ -1,0 +1,1293 @@
+Mega Test Norms 
+
+ Mega Test Norms 
+
+ Maintained by Darryl
+Miyaguchi 
+ Last updated: November 1, 1997 
+
+ Table T1 shows raw scores on the Mega Test and
+the corresponding I.Q. scores, using 16 I.Q. points per standard
+deviation. These I.Q. assignments are the results of Ronald
+Hoeflin's sixth norming of the Mega Test. 
+
+ Table T1 
+
+ Raw Score 
+ Sigma 
+ I.Q. 
+ Percentile 
+ Rarity (1/x) 
+ High-I.Q. Society minimum cut-off 
+
+ 1 
+ 0.0 
+ 100 
+ 50 
+ 2 
+ . 
+
+ 2 
+ 0.675 
+ 111 
+ 75 
+ 4 
+ . 
+
+ 3 
+ 1.0 
+ 116 
+ 84 
+ 6 
+ . 
+
+ 4 
+ 1.25 
+ 120 
+ 89 
+ 9 
+ . 
+
+ 5 
+ 1.5 
+ 124 
+ 93 
+ 14 
+ . 
+
+ 6 
+ 1.7 
+ 127 
+ 95 
+ 20 
+ . 
+
+ 7 
+ 1.8 
+ 129 
+ 96 
+ 25 
+ . 
+
+ 8 
+ 1.9 
+ 130 
+ 97 
+ 33 
+ . 
+
+ 9 
+ 1.975 
+ 132 
+ 97.6 
+ 40 
+ . 
+
+ 10 
+ 2.05 
+ 133 
+ 98 
+ 50 
+ Mensa 1 ,
+ Camelopard 1 
+
+ 11 
+ 2.125 
+ 134 
+ 98.3 
+ 60 
+ . 
+
+ 12 
+ 2.2 
+ 135 
+ 98.6 
+ 70 
+ . 
+
+ 13 
+ 2.275 
+ 136 
+ 98.8 
+ 85 
+ . 
+
+ 14 
+ 2.35 
+ 138 
+ 99 
+ 100 
+ TOPS 2 ,
+ Intertel 1 
+
+ 15 
+ 2.425 
+ 139 
+ 99.2 
+ 130 
+ . 
+
+ 16 
+ 2.5 
+ 140 
+ 99.4 
+ 160 
+ . 
+
+ 17 
+ 2.575 
+ 141 
+ 99.5 
+ 200 
+ . 
+
+ 18 
+ 2.65 
+ 142 
+ 99.6 
+ 250 
+ . 
+
+ 19 
+ 2.725 
+ 144 
+ 99.7 
+ 300 
+ . 
+
+ 20 
+ 2.8 
+ 145 
+ 99.75 
+ 400 
+ . 
+
+ 21 
+ 2.875 
+ 146 
+ 99.8 
+ 500 
+ . 
+
+ 22 
+ 2.95 
+ 147 
+ 99.84 
+ 600 
+ . 
+
+ 23 
+ 3.025 
+ 148 
+ 99.87 
+ 800 
+ . 
+
+ 24 
+ 3.1 
+ 150 
+ 99.9 
+ 1,000 
+ OATH 2 ,
+ TNS 4 , ISPE 3 ,
+ IQuadrivium 2 , Glia 2 
+
+ 25 
+ 3.175 
+ 151 
+ 99.92 
+ 1,300 
+ . 
+
+ 26 
+ 3.25 
+ 152 
+ 99.94 
+ 1,700 
+ . 
+
+ 27 
+ 3.325 
+ 153 
+ 99.95 
+ 2,000 
+ . 
+
+ 28 
+ 3.4 
+ 154 
+ 99.97 
+ 3,000 
+ . 
+
+ 29 
+ 3.475 
+ 156 
+ 99.975 
+ 4,000 
+ . 
+
+ 30 
+ 3.55 
+ 157 
+ 99.98 
+ 5,000 
+ . 
+
+ 31 
+ 3.625 
+ 158 
+ 99.986 
+ 7,000 
+ . 
+
+ 32 
+ 3.7 
+ 159 
+ 99.989 
+ 9,000 
+ . 
+
+ 33 
+ 3.775 
+ 160 
+ 99.992 
+ 12,000 
+ . 
+
+ 34 
+ 3.85 
+ 162 
+ 99.994 
+ 17,000 
+ . 
+
+ 35 
+ 3.925 
+ 163 
+ 99.996 
+ 23,000 
+ . 
+
+ 36 
+ 4.0 
+ 164 
+ 99.997 
+ 30,000 
+ Prometheus 2 
+
+ 37 
+ 4.075 
+ 165 
+ 99.998 
+ 40,000 
+ . 
+
+ 38 
+ 4.15 
+ 166 
+ 99.9983 
+ 60,000 
+ . 
+
+ 39 
+ 4.265 
+ 168 
+ 99.999 
+ 100,000 
+ . 
+
+ 40 
+ 4.375 
+ 169 
+ 99.9994 
+ 165,000 
+ . 
+
+ 41 
+ 4.5 
+ 172 
+ 99.9997 
+ 300,000 
+ . 
+
+ 42 
+ 4.625 
+ 174 
+ 99.9998 
+ 500,000 
+ . 
+
+ 43 
+ 4.8 
+ 177 
+ 99.9999 
+ 1,000,000 
+ Mega 2 
+
+ 44 
+ 5.0 
+ 180 
+ 99.99997 
+ 3,000,000 
+ . 
+
+ 45 
+ 5.2 
+ 183 
+ 99.99999 
+ 10,000,000 
+ . 
+
+ 46 
+ 5.4 
+ 186 
+ 99.999997 
+ 30,000,000 
+ . 
+
+ 47 
+ 5.6 
+ 190 
+ 99.999999 
+ 100,000,000 
+ . 
+
+ 48 
+ 5.6+ 
+ 190+ 
+ 99.999999+ 
+ 100,000,000+ 
+ .. 
+
+ 1 Does not accept scores from
+unsupervised tests such as the Mega as qualifying for admission. 
+ 2 Accepts Mega Test scores as
+qualifying for admission. 
+ 3 No longer accepts the Mega
+Test as qualifying for admission (it used to, up until 1992). Its
+own self-administered tests are acceptable, though. 
+ 4 Currently (11/97) debating
+whether or not it will continue to accept the Mega Test. It
+doesn't appear likely that it will. 
+
+ The Sixth Norming of the Mega
+Test 4 
+ by Ronald K. Hoeflin 
+
+ The chief impetus behind this new norming of
+the Mega Test was my acquisition of data from the Educational
+Testing Service showing combined verbal plus mathematical
+aptitude SAT scores (on a scale from 400 to 1600) for the years
+1985, 1986, 1987, and 1988, supplementing the data I already had
+for 1984, upon which my fifth norming was entirely based. I had
+hoped that with data on over 5 million SAT test subjects I would
+be enabled to refine my norms for the upper end of the Mega Test
+scale, in particular permitting me to pinpoint the
+one-in-a-million level more accurately. Unfortunately, this goal
+could not be achieved by means of this extra data since the
+number of SAT scores reported to me by Mega Test participants,
+222, remains inadequate. I did succeed, however, in finding a
+striking new approach to extrapolating the Mega Test scale to the
+one-in-a-million level and beyond. 
+
+ I began by calculating that there were almost
+precisely one-third as many SAT participants from 1984 to 1988 as
+there were 18-year-olds, namely about 5 million vs. 15 million. I
+assumed that close to 100% of 18-year-olds in the top few percent
+in ability would attempt the SAT, and that whatever shortfall
+there might be would be roughly balanced by the extra foreign
+participants. I then found the percentile equivalents of standard
+deviations (sigmas) ranging from 1.25 to 4.25 above the mean at
+intervals of 0.25 sigmas, using standard statistical tables for
+the normal (Gaussian) distribution curve, since my aim was to map
+Mega Test raw scores into this curve. I then made a factor-of-3
+shift in these percentiles to allow for the above-average ability
+of SAT participants. These adjusted percentiles were then
+converted into SAT scores for each year at each sigma level using
+the data supplied by the Educational Testing Service. After
+averaging these scores for all five years, I equated the
+resulting SAT averages with Mega Test raw scores at each sigma
+level by ranking all the reported SAT scores from 1 to 222 and by
+ranking all the Mega Test raw scores achieved by those reporting
+SAT scores likewise from 1 to 222 and equating scores of equal
+rank. These results are reported in tables T2 and T3 
+below. 
+
+ I then examined the data I had compiled in my fourth norming,
+in which I had used scores reported on five other tests: the AGCT
+(Army General Classification Test), CTTM (California Test of
+Mental Maturity), LAIT (Langdon Adult Intelligence Test), S-B
+(Stanford-Binet), and the WAIS (Wechsler Adult Intelligence
+Scale). In the fourth norming I had found the equivalent Mega
+Test scores for each of these tests at each sigma level from 1.25
+to 4.50 at intervals of 0.25 and then averaged these figures. The
+resulting graph had a noticeable dip in it between 3.50 and 4.50
+sigmas. This dip can be largely eliminated, however, by weighting
+the results for each test by the number of persons who had
+reported scores for each test. These weighted averages differ
+from the SAT-based results reported in table T3 
+by less than one Mega Test raw score point at each of the twelve
+sigma levels from 1.25 to 4.00, overall, the SAT-based results
+averaging just one-sixth of a point higher than the weighted
+averages from the other five tests. But at 4.25 sigmas the
+results differ by 2.4 Mega Test raw score points, which suggests
+that the data from these tests is becoming too unreliable to be
+trusted at any higher levels. I averaged the SAT-based and
+non-SAT-based results and report the outcome in table T5 below. 
+
+ 4 The norming date was not specified, but
+I believe it was performed sometime in 1989 (DTM). 
+
+ Table
+ T2. SAT scores Equivalent to the SAT %ile: 1984-88 
+
+ Sigma 
+ %ile 
+ SAT %ile 
+ 1984 
+ 1985 
+ 1986 
+ 1987 
+ 1988 
+ Average 
+
+ 1.25 
+ 89.44 
+ 68.32 
+ 993.3 
+ 1002.8 
+ 1003.2 
+ 1003.6 
+ 1000.9 
+ 1000.8 
+
+ 1.50 
+ 93.32 
+ 79.96 
+ 1075.9 
+ 1084.8 
+ 1087.8 
+ 1089.4 
+ 1084.2 
+ 1084.4 
+
+ 1.75 
+ 95.99 
+ 87.97 
+ 1151.4 
+ 1159.4 
+ 1163.9 
+ 1166.2 
+ 1159.1 
+ 1160.0 
+
+ 2.00 
+ 97.72 
+ 93.16 
+ 1220.9 
+ 1228.6 
+ 1233.0 
+ 1236.4 
+ 1228.6 
+ 1229.5 
+
+ 2.25 
+ 98.78 
+ 96.34 
+ 1284.6 
+ 1293.4 
+ 1295.7 
+ 1300.7 
+ 1292.3 
+ 1293.3 
+
+ 2.50 
+ 99.38 
+ 98.14 
+ 1340.0 
+ 1349.3 
+ 1350.4 
+ 1356.4 
+ 1347.3 
+ 1348.7 
+
+ 2.75 
+ 99.70 
+ 99.10 
+ 1390.3 
+ 1396.9 
+ 1397.6 
+ 1403.0 
+ 1395.8 
+ 1396.7 
+
+ 3.00 
+ 99.8650 
+ 99.5950 
+ 1434.4 
+ 1437.9 
+ 1437.6 
+ 1442.9 
+ 1436.2 
+ 1437.8 
+
+ 3.25 
+ 99.9402 
+ 99.8206 
+ 1471.0 
+ 1471.7 
+ 1471.6 
+ 1475.6 
+ 1468.6 
+ 1471.7 
+
+ 3.50 
+ 99.9767 
+ 99.9301 
+ 1504.6 
+ 1504.3 
+ 1503.7 
+ 1506.3 
+ 1498.7 
+ 1503.5 
+
+ 3.75 
+ 99.9912 
+ 99.9736 
+ 1530.7 
+ 1530.4 
+ 1527.4 
+ 1531.3 
+ 1524.6 
+ 1528.9 
+
+ 4.00 
+ 99.9968 
+ 99.9904 
+ 1549.7 
+ 1552.3 
+ 1551.2 
+ 1554.9 
+ 1544.1 
+ 1550.4 
+
+ 4.25 
+ 99.9989 
+ 99.9967 
+ 1570.0 
+ 1570.3 
+ 1571.3 
+ 1575.4 
+ 1560.6 
+ 1569.5 
+
+ Table T3 
+
+ Sigma 
+ Of 222 SAT scores reported by Mega
+ Test participants, number falling below each SAT average
+ given in the last column of the previous table 
+ Equivalent Mega Test raw scores: of
+ the 222 SAT-score-reporting participants, the same number
+ had Mega Test scores below these as had SAT scores below
+ those given in the last column of the previous table 
+
+ 1.25 
+ 3 
+ 4.0 
+
+ 1.50 
+ 4 
+ 4.5 
+
+ 1.75 
+ 12 
+ 6.5 
+
+ 2.00 
+ 25.5 
+ 9.0 
+
+ 2.25 
+ 49.5 
+ 12.7 
+
+ 2.50 
+ 86 
+ 16.2 
+
+ 2.75 
+ 118 
+ 19.9 
+
+ 3.00 
+ 144.5 
+ 22.3 
+
+ 3.25 
+ 165.5 
+ 25.4 
+
+ 3.50 
+ 189 
+ 30.0 
+
+ 3.75 
+ 203 
+ 32.8 
+
+ 4.00 
+ 212 
+ 35.75 
+
+ 4.25 
+ 217.5 
+ 40.0 
+
+ Table
+ T4. Equivalent Mega Test Scores for Five Other Tests 
+
+ Sigma 
+ %ile 
+ AGCT (N=28) 
+ CTMM (N=75) 
+ LAIT (N=76) 
+ S-B (N=46) 
+ WAIS (N=34) 
+ Average 
+
+ 1.25 
+ 89.44 
+ -- 
+ 5 
+ 3 
+ -- 
+ 5.5 
+ 4.5 
+
+ 1.50 
+ 93.32 
+ 9 
+ 5 
+ 5 
+ 3 
+ 6 
+ 5.6 
+
+ 1.75 
+ 95.99 
+ 11 
+ 5 
+ 7 
+ 7.5 
+ 6.5 
+ 7.4 
+
+ 2.00 
+ 97.72 
+ 13 
+ 7 
+ 7 
+ 8.5 
+ 8 
+ 8.7 
+
+ 2.25 
+ 98.78 
+ 17 
+ 12 
+ 13 
+ 11 
+ 10 
+ 12.6 
+
+ 2.50 
+ 99.38 
+ 21 
+ 16.5 
+ 15 
+ 15 
+ 12 
+ 15.9 
+
+ 2.75 
+ 99.70 
+ 28 
+ 20 
+ 16 
+ 17 
+ 20 
+ 20.2 
+
+ 3.00 
+ 99.8650 
+ 28.5 
+ 25 
+ 17 
+ 20.5 
+ 23 
+ 22.8 
+
+ 3.25 
+ 99.9402 
+ 29 
+ 31 
+ 21 
+ 26 
+ 25 
+ 26.4 
+
+ 3.50 
+ 99.9767 
+ -- 
+ 37 
+ 24 
+ 26.5 
+ 30 
+ 29.4 
+
+ 3.75 
+ 99.9912 
+ -- 
+ 38 
+ 29 
+ 28.5 
+ 31 
+ 31.6 
+
+ 4.00 
+ 99.9968 
+ -- 
+ 40 
+ 34 
+ 29.5 
+ 32.5 
+ 34.0 
+
+ 4.25 
+ 99.9989 
+ -- 
+ 41 
+ 38 
+ 34 
+ 34 
+ 36.8 
+
+ Table T5 
+
+ Sigma 
+ Weighted average for the five tests
+ listed in the previous table (N=259) 
+ SAT results from the previous Table T3 (N=222) 
+ Weighted average for the SAT and the
+ five other tests 
+
+ 1.25 
+ 4.3 
+ 4.0 
+ 4.1 
+
+ 1.50 
+ 5.2 
+ 4.5 
+ 4.9 
+
+ 1.75 
+ 6.5 
+ 6.5 
+ 6.5 
+
+ 2.00 
+ 8.05 
+ 9.0 
+ 8.5 
+
+ 2.25 
+ 12.4 
+ 12.7 
+ 12.5 
+
+ 2.50 
+ 15.7 
+ 16.2 
+ 15.9 
+
+ 2.75 
+ 19.2 
+ 19.9 
+ 19.5 
+
+ 3.00 
+ 22.0 
+ 22.3 
+ 22.1 
+
+ 3.25 
+ 26.2 
+ 25.4 
+ 25.8 
+
+ 3.50 
+ 29.6 
+ 30.0 
+ 29.8 
+
+ 3.75 
+ 32.1 
+ 32.8 
+ 32.5 
+
+ 4.00 
+ 34.8 
+ 35.75 
+ 35.3 
+
+ 4.25 
+ 37.6 
+ 40.0 
+ 38.7 
+
+ Table
+ T6. Extrapolations to higher percentiles based on changes
+ in the ratios of observed to expected participants
+ scoring above five selected percentiles 
+
+ Percentile 
+ Sigma 
+ Mega Test score 
+ Observed Participants 
+ Expected Participants 
+ Ratio 
+
+ 90 
+ 1.282 
+ 4.2 
+ 3,740.7 
+ . 
+ . 
+
+ 99 
+ 2.326 
+ 13.5 
+ 2,249.0 
+ 374.07 
+ 6.0 : 1 
+
+ 99.9 
+ 3.090 
+ 23.4 
+ 826.6 
+ 224.90 
+ 3.8 : 1 
+
+ 99.99 
+ 3.719 
+ 32.2 
+ 229.0 
+ 82.66 
+ 2.8 : 1 
+
+ 99.999 
+ 4.265 
+ 38.9 
+ 54.8 
+ 22.90 
+ 2.4 : 1 
+
+ 99.9999 
+ 4.753 
+ (42.6) 
+ (12.06) 
+ 5.48 
+ (2.2 : 1) 
+
+ 99.99999 
+ 5.199 
+ (45.2) 
+ (2.54) 
+ 1.21 
+ (2.1 : 1) 
+
+ 99.999999 
+ 5.612 
+ (47.0) 
+ (0.50) 
+ 0.25 
+ (2.0 : 1) 
+
+ (figures in
+ parentheses are extrapolations) 
+
+ Graph G1. depicts the foregoing calculations
+and extrapolations 
+
+ Discussion: Six times as many participants
+scored above the 99th percentile as would have been expected to
+on the basis of the number who scored above the 90th percentile
+divided by 10; 3.8 times as many scored above the 99.9th
+percentile as would have been expected to on the basis of the
+number who scored above the 99th percentile divided by 10; and so
+forth. Graph G1 suggests that the last three ratios for table T6 
+should be approximately 2.2, 2.1, and 2.0. Multiplying these
+numbers by the expected number of participants yields the number
+that ought to be observed above these levels, from which the Mega
+Test score can be determined. 
+
+ Table
+ T7. Performance on Problem 36, The
+ 3-interpenetrating-Cubes Problem 
+
+ Total problems solved 
+ Participants who scored this high 5 
+ Participants who solved problem 36 
+ % who solved problem 36 per 6-point
+ range 
+
+ 48 
+ 0 
+ 0 
+ . 
+
+ 47 
+ 1 
+ 1 
+ . 
+
+ 46 
+ 1 
+ 1 
+ 61.5 
+
+ 45 
+ 2 
+ 2 
+ . 
+
+ 44 
+ 3 
+ 2 
+ . 
+
+ 43 
+ 6 
+ 2 
+ . 
+
+ . 
+
+ 42 
+ 12 
+ 4 
+ . 
+
+ 41 
+ 15 
+ 5 
+ . 
+
+ 40 
+ 7 
+ 2 
+ 31.2 
+
+ 39 
+ 13 
+ 4 
+ . 
+
+ 38 
+ 15 
+ 6 
+ . 
+
+ 37 
+ 18 
+ 4 
+ . 
+
+ . 
+
+ 36 
+ 27 
+ 7 
+ . 
+
+ 35 
+ 25 
+ 2 
+ . 
+
+ 34 
+ 28 
+ 2 
+ 10.5 
+
+ 33 
+ 41 
+ 1 
+ . 
+
+ 32 
+ 50 
+ 10 
+ . 
+
+ 31 
+ 49 
+ 1 
+ . 
+
+ . 
+
+ 30 
+ 40 
+ 6 
+ . 
+
+ 29 
+ 62 
+ 3 
+ . 
+
+ 28 
+ 76 
+ 4 
+ 4.9 
+
+ 27 
+ 61 
+ 1 
+ . 
+
+ 26 
+ 88 
+ 2 
+ . 
+
+ 25 
+ 80 
+ 4 
+ . 
+
+ . 
+
+ 24 
+ 96 
+ 0 
+ . 
+
+ 23 
+ 106 
+ 2 
+ . 
+
+ 22 
+ 118 
+ 2 
+ 0.7 
+
+ 21 
+ 133 
+ 0 
+ . 
+
+ 20 
+ 130 
+ 0 
+ . 
+
+ 19 
+ 164 
+ 1 
+ . 
+
+ . 
+
+ 18 
+ 130 
+ 1 
+ . 
+
+ 17 
+ 160 
+ 1 
+ . 
+
+ 16 
+ 165 
+ 2 
+ 0.6 
+
+ 15 
+ 176 
+ 0 
+ . 
+
+ 14 
+ 151 
+ 1 
+ . 
+
+ 13 
+ 171 
+ 1 
+ . 
+
+ . 
+
+ 12 
+ 172 
+ 0 
+ . 
+
+ 11 
+ 193 
+ 0 
+ . 
+
+ 10 
+ 165 
+ 0 
+ 0.0 
+
+ 9 
+ 185 
+ 0 
+ . 
+
+ 8 
+ 145 
+ 0 
+ . 
+
+ 7 
+ 163 
+ 0 
+ . 
+
+ . 
+
+ 6 
+ 153 
+ 0 
+ . 
+
+ 5 
+ 118 
+ 0 
+ . 
+
+ 4 
+ 89 
+ 0 
+ . 
+
+ 3 
+ 53 
+ 0 
+ 0.0 
+
+ 2 
+ 34 
+ 0 
+ . 
+
+ 1 
+ 24 
+ 0 
+ . 
+
+ 0 
+ 6 
+ 0 
+ . 
+
+ Total: 3920 
+ Total: 87 
+ Total: 2.2 
+
+ 5 As of the
+date of this norming, Ron still believed that "Eric
+Hart's" score of 47 was a result of a first attempt at the
+Mega. Marilyn vos Savant's first-attempt score is shown as the
+sole 46 (DTM). 
+
+ Graph G2. Equivalencies between Mega Test raw
+scores and standard deviations above the mean (with IQs) 
+
+ In order to extrapolate to the 99.9999 percentile and beyond,
+I determined the equivalent sigma scores for the 90, 99, 99.9,
+99.99, and 99.999 percentiles from standard statistical tables
+for the normal distribution curve. I then equated these
+percentiles with raw scores on the Mega Test by interpolating
+between (or, in the case of the 99.999 percentile, extrapolating
+slightly beyond) the results given in table T5 .
+I then determined how many Mega Test participants had scored
+above each of these raw scores (and hence above each of these
+percentiles) using the distribution of Mega Test raw scores shown
+in Table T7 . I obtained fractional
+results by assuming, for example, that the 96 people who scored
+24 right were spread evenly over the interval from 23.5 to 24.5.
+By comparing one-tenth of the number who exceeded each of these
+percentiles with the number who actually exceeded the next higher
+percentile, I found that 6.0 times as many people exceeded the
+99th percentile as would have been expected to by dividing the
+number who exceeded the 90th percentile by 10, and the
+corresponding figures for the 99.9, 99.99, and 99.999 percentiles
+were 3.8, 2.8, and 2.4, respectively. Graphing these data points,
+one finds that they are leveling off fairly quickly. I estimated
+that the next three figures would probably be about 2.2, 2.1, and
+2.0. Since 54.8 people exceeded the 99.999 percentile, I
+estimated that 2.2 times (54.8/10) = 12.06 people ought to have
+exceeded the 99.9999 percentile, that 2.1 times (12.06/10) = 2.54
+people ought to have exceeded the 99.99999 percentile, and that
+2.0 times (2.54/10) = 0.50 people ought to have exceeded the
+99.999999 percentile. Using the table of actual score
+distribution in table T7 , I found that
+12.06 people exceeded a raw score of 42.6, that 2.54 people
+exceeded a raw score of 45.2, and that 0.5 people exceeded a raw
+score of 47.0. Extrapolating from these results, the ceiling of
+the test 6 would
+appear to be roughly the one-in-300,000,000 level or 99.9999997
+percentile for a perfect score of 48. The results described in
+this paragraph are compiled in table T6 ,
+graph G1 , and the associated discussion. 
+
+ In Graph G2 I graphed the results from
+tables T5 and T6 ,
+the table T5 results appearing as black dots and the table T6
+data appearing as small circles with unfilled-in interiors. I
+then drew a line through these sixteen data points, using a
+straightedge for the middle section and French curves for the
+lower and upper curved sections. 
+
+ Finally, in table T1 I compiled my
+final norms, based on graph G2 . A uniform
+scaling of 0.075 sigmas per raw score point was used for the
+straight-line section from a raw score of 8 to 38. Since I use 16
+I.Q. points per standard deviation, this works out to 1.2 I.Q.
+points per raw score point. The percentiles were then, of course,
+derived using a standard statistical table for a normal curve,
+which can be found in any statistics book, since for example 3
+standard deviations above the mean or 148 I.Q. is always
+equivalent to the 99.87 percentile for a normal curve. The
+right-hand column lists nine high-IQ societies next to their
+respective minimum qualifying scores, of which all but Mensa and
+Intertel accept the Mega Test for admission purposes 7 . 
+
+ 6 Ron no longer assigns a specific IQ
+level for a Mega raw score of 48 right; thus the ceiling is IQ
+190+ rather than IQ 193. 
+ 7 Table T1 has been updated to reflect
+existing high-IQ societies and the new ceiling (DTM). 
+
+ Graph G3 below shows the Mega Test score distribution as
+tabulated in table T7 . The median score
+of all 3920 participants is 15 (IQ = 139). 
+
+ Graph G3. Mega Test Score Distribution as of
+the Sixth Norming (1989) 
+
+ Return to the Uncommonly
+Difficult I.Q. Tests page.

@@ -1,0 +1,132 @@
+---
+title: "Tinnitus Retraining Therapy"
+source_domain: amasci.com
+source_path: ~carol/t/ah.html
+order: 1835
+reachable_from_entry: false
+images: 1
+internal_links: 10
+extracted: 2026-08-07T17:08:10Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Tinnitus Retraining Therapy
+
+*Source page: `~carol/t/ah.html`*
+
+# **Tinnitus Retraining Therapy**
+
+Tinnitus Retraining Therapy (TRT), is a fairly new procedure for managing tinnitus and/or hyperacusis. It happens to be the treatment I chose for my own tinnitus & hyperacusis. The process normally takes 1-2 years and as I write this in 1997 I've just begun, so there are no comments here about my own "results".
+
+There is a lot of interest and some debate about this treatment, and it doesn't lend itself to a one-line description. My own interest in TRT and questions from friends and from other people with tinnitus, prompted me to collect some information about it in one place.\
+It is NOT an attempt to "explain" the treatment; I don't have the expertise. Primarily it is a description of my own experience of the initial stage.\
+
+### References to Tinnitus Retraining Therapy
+
+<a href="http://www.tinnitus-pjj.com/approaches.html" target="_top">Theoretical basis of Tinnitus Retraining Therapy</a>
+
+and <a href="http://www.tinnitus-pjj.com/reading.html" target="_top">Further reading</a>
+
+------------------------------------------------------------------------
+
+### Partial list of clinics offering Tinnitus Retraining Therapy
+
+Note: Despite the disclaimer attached to the earlier version of this list, I have changed it to include only the clinics of the originators of this treatment, Dr. Pawel Jastreboff and Dr. Jonathan Hazell. Others can be found via referral and web search. As with any treatment or clinic, please use care in selection should you wish to pursue it yourself.\
+
+- <a href="http://www.tinnitus-pjj.com/" target="_top">Tinnitus &amp; Hyperacusis Center, Emory University, Atlanta, Georgia</a>
+- <a href="http://www.tinnitus.org/home/frame/THC1.htm" target="_top">The Tinnitus and Hyperacusis Centre, London UK</a>
+
+\
+\
+
+------------------------------------------------------------------------
+
+## 
+
+One patient's-eye-view
+
+This is a description of my own experience visiting one clinic in early 1997 to begin tinnitus retraining therapy, answering the questions I've been asked most frequently. Note that the clinic visit is only the beginning of the habituation process, which generally takes 1-2 years or so. This description is written about 2 months after the visit.
+
+### Before the clinic visit
+
+I filled out a questionnaire covering tinnitus and hyperacusis onset and symptoms, medical history, lifestyle and other questions. Shortly before my appointment I was asked to obtain earmold impressions and send them to the clinic. The impressions were needed to tailor the habituator devices for me, should I choose to try them. Since the clinic I attended was not local to me, this saved time and/or an extra trip.
+
+Obtaining the earmold impressions was simple. I went to a local audiologist who put thick goo in each ear, let it set, took it out, and handed both impressions to me in a mailing box. It cost me \$30.
+
+### Clinic Visit
+
+I visited the clinic on two consecutive days; each appointment lasted several hours.
+
+The first day
+
+The first hour or two were spent with an audiologist. After reviewing my symptoms with me and explaining basic anatomy of the hearing system, she performed several tests. She explained the purpose and procedure of each test before beginning the test. Many of the tests were similar to various hearing tests I'd had when first seeking help with tinnitus. They also measured (matched) my tinnitus pitch and loudness, and tested noise tolerance to measure my hyperacusis. Much time was devoted to explanation of the tests and to any questions I had.
+
+One of the tests which startled me, involved applying increasing levels of white noise to each ear, individually. My tinnitus was in my right ear only, so I was not surprised when the tinnitus increased slightly when the noise was first applied. I **was** surprised when my tinnitus reacted the same way when white noise was applied to my left ear. This makes perfect sense according to the explanations I'd received about both physiology and the theory/model behind habituation treatment -- however it still took me by surprise and is one of my clearest memories from the battery of tests.
+
+When the tests were completed I had some "time off" while the preliminary results were analyzed. I spent the rest of the appointment with another audiologist, beginning the "directive counseling". This required intensive listening, as a LOT of information was being transferred. The audiologist showed and explained to me the results of my tests and explained the theory behind the treatment. I had read all I could find before going to the clinic, but this information was in more detail and was being related directly to my situation. Throughout, my questions were encouraged.
+
+At the end of the appointment the audiologist explained the general sequence of events for the next day's appointment. This included the fact that I would choose, at that time, whether or not to try wearing the habituator devices to help manage my tinnitus and hyperacusis.
+
+The second day
+
+My second appointment began with an examination by an ear/nose/throat doctor. (All normal, in my case, as was expected based on history & the results of previous examinations, obtained before I came to the clinic.) Then I received more directive counseling, particularly focused on questions I had from the previous day (and night's thinking).
+
+At that point I was to choose whether or not I wanted to use the Viennatones devices as part of habituation treatment. I chose to use them, so the rest of the appointment was spent with the audiologist on this subject. She explained how to use, put on, & care for the devices. I was told that Viennatones are sold as maskers, and are useful in habituation because of their broad-spectrum noise and because their volume could be set to the lower levels they prescribed for habituation. My tinnitus existed in one ear only, but I was given two habituators with ear inserts made from the impressions I sent the clinic before I arrived. (After my previous day's experience with one-ear tinnitus being affected by noise in the other ear, this didn't surprise me.) I practiced putting the devices on and setting their volume to a level that blended with, but did not cover, the sound of my tinnitus. I also received information about the return policy, warranty and insurance. She mentioned that in some patients, tinnitus gets louder soon after using the devices, but that this is temporary and is in fact considered a positive indication that habituation is/will take place. She went over the schedule of followup appointments, as applied to patients like me who were not local to the clinic.
+
+The audiologist finished the appointment by making sure my questions had been answered and emphasizing the importance of follow-up contact.
+
+### Viennatones
+
+<img src="images/vtone.jpg" data-border="1" data-align="left" width="200" height="243" alt="Viennatones" />
+
+> This is a picture of one of the devices I'm wearing as part of Tinnitus Retraining Therapy. (Actually it's one of the photographer's pair; thanks Andy!) This one would be worn with the tan noise generator behind my right ear. The noise generator is attached by tubing to a clear insert shaped to my ear (from the impressions made before I went to the clinic). It fits into my ear without blocking any sound, and its purpose is to position the tubing so that the white noise is audible. The length of tubing is adjustable; in my own pair the tubing is shorter past the earmold insert. The wheel on the back is the volume control; below that is the on/off switch and the cover of the battery compartment.\
+> \
+> Ed. Note, 1999: White noise generators for TRT are now available as in-the-ear models as well as the behind-the-ear model shown here.
+
+\
+\
+\
+
+### Money
+
+Unless circumstances have changed since my clinic visit, the facts are that tinnitus retraining therapy is expensive and that medical insurance coverage can be difficult to obtain. Based solely on limited hearsay, I haven't personally heard of treatment in the USA for much less than \$2,000, not counting any followup visits. The Viennatones themselves were about half that amount when I got them; remaining fees varied depending on the extent of the tests & examinations performed and the amount of time spent in directive counseling etc.
+
+USA medical insurance coverage for Tinnitus Retraining Therapy appears to be rare as well. The treatment is relatively new and most insurance companies lump it in with prescribing hearing aids, which they often do not cover. This may be changing, slowly, as insurance companies are educated, and I have heard of cases where insurance coverage was complete.
+
+### After the Visit
+
+In the weeks following my visit to the clinic, I gradually increased the time I wore the Viennatones until I was wearing them all waking hours. Per the clinic's advice, I continue to keep some level of background noise around me as much as possible, in addition to the Viennatones. I checked back with the clinic at a prescribed interval. I had the apparently infrequent reaction of soreness at the top of my ears from wearing the Viennatones for extended periods. This was fixed by adjusting the length of the tubing. I still periodically contact the clinic and will be returning for an in-person checkback in several months.
+
+### Some personal impressions
+
+These are in response to questions I get asked. Your mileage may vary!\
+\
+Viennatones noise\
+Many people have asked me how I tolerate the "white noise" sound of the Viennatones, when I already hear tinnitus sounds. For some reason I never expected to be bothered by this. I had already discovered that white noise doesn't mask my tinnitus well (water sounds work better for me), but I had also discovered that low-level background sounds help me tolerate tinnitus better. This was a hard lesson for me -- like most of us, I crave \*silence\* -- but since my tinnitus doesn't currently allow that, it's not an option, and background sound + tinnitus is less intolerable for me than no-background-sound + tinnitus. The Viennatones do not bother my hyperacusis at all; for that matter I can tolerate sounds slightly better with them on.
+
+Immediate benefits for me personally   (Gotta say it again: this is about me, not anyone else.)\
+\
+Tinnitus Retraining Therapy is known to be a time-intensive treatment, so that little short-term benefit is expected. At least this was my impression; the knowledgeable may differ. However I was pleasantly surprised by some benefits immediately, none of which involved any change in the tinnitus itself.\
+\
+First, there was relief associated with the directive counseling, which built on the information and support I had gathered after my first ignorant tinnitus days. I found that it helped me to listen and talk with the people who treated me at the clinic, no matter how much I had learned about TRT beforehand. Also, when the tinnitus is especially distressing or circumstances change, it helps to have access to people who are familiar with my individual case and have the relevant expertise.
+
+Second, my mild but annoying hyperacusis bothers me less when I'm wearing the Viennatones.
+
+Third, wearing the Viennatones frees me from the need to spend so much time making sure noise is around me. Before I went to the clinic, I had already discovered that having some sort of noise (TV, radio, some kinds of music, pc fans, sound machine) around me made it easier to tolerate my tinnitus. However I began to feel chained to these noisemakers. Going outside was unpleasant; it was either too loud for my hyperacusis or too quiet for my tinnitus. Now, I still keep noise around me, but I don't think about it so much. Transiently quiet surroundings aren't so threatening. Situations which alternate quiet with noise, such as meetings at work, are less unpleasant. I used to practically plan my route through the house to be near something making noise at all times. Now it's a relief not to have to do that, and not to feel so constrained.\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+<div class="foot">
+
+[Home](tmain.html) \| [Tinnitus Info](moretinn.html) \| [Chats (IRC)](tchat.html) \| [IRC Help](irchelp.html)\
+[Chat People](chatpeople.html) \| [Tinnitus Retraining Therapy](ah.html) \| [Yahoo Chats](tyahoochat.html)\
+[\#t Meet \#1](tmeet1.html) \| [Chat Babies](tbabies.html) \| [Chat Sounds](tchatsounds.html)
+
+</div>
+
+------------------------------------------------------------------------
+
+<span class="foot"> This page last modified: </span>

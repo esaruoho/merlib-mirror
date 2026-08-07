@@ -1,0 +1,35 @@
+Question 10.25 
+
+ Question 10.25 
+ I've got this tricky preprocessing I want to do
+and
+I can't figure out a way
+to do it.
+
+ C's preprocessor
+is not intended as a general-purpose tool.
+(Note also that it is not guaranteed to be available
+as a separate program.)
+Rather than forcing it to do something inappropriate,
+consider
+writing
+your own little special-purpose preprocessing tool, instead.
+You can easily get a utility like
+make(1)
+
+to run it for you automatically.
+ If you are trying to preprocess something other than C,
+consider using a general-purpose preprocessor.
+(One older one
+available on most Unix systems
+is m4 .)
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

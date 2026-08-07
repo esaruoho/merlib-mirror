@@ -1,0 +1,33 @@
+Jon's Web Page 
+
+ A Call for a New Kind of Seminary 
+
+ Great News! 
+
+ Jon's Web Page 
+
+Welcome to my web page. I've got lots of stuff here (or will eventually). 
+Feel free to mail me with any
+comments or criticisms. 
+
+ NEW BOOKS! 
+
+ Programming from the Ground Up is my new, latest book. It is an introduction to programming using Linux assembly language. If you are a new programmer, or an experienced programmer who just has never had the time to learn how your computer "really" works, this book is for you! It covers Linux assembly language programming on x86 processors .
+
+ Email Marketing without the Spam is my previous book. If you've had trouble convincing your manager not to spam, or want to know how to email market effectively without spam, this book is for you!
+
+Actually, I'm starting a publishing empire for openly-licensed work (Creative Commons, GFDL, etc) at Bartlett Publishing (http://www.bartlettpublishing.com/) .
+
+Sign up to receive my newsletter, and find out when I complete new books!
+
+ Contents 
+
+ About Me 
+ Johnnyb's Quick Guide to Dieting 
+ Technical Essays and Projects 
+ Spiritual and Ethical Essays 
+ Free Education Resources 
+ Music 
+ Things and Stuff 
+
+I sure hope you enjoy!

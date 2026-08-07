@@ -1,0 +1,115 @@
+Neodymium supermagnets: about spheres 
+
+ TOP | 
+
+ MAIN MAGNETS PAGE | 
+
+ GOOD STUFF | 
+
+ NEW STUFF | 
+
+ SEARCH 
+
+ ABOUT SPHERICAL SUPERMAGNETS 
+ (c)2004 William Beaty 
+
+ Uncle Al wrote in message news: ...
+
+> Why would one fabricate a rare earth dipole magnet as sphere? 
+
+ 1.5" supermagnet sphere 
+ http://www.houseofscience.com/is/mag/mag/mag.html 
+
+No earthly reason. But the guys at wondermagnet.com had some small 
+spheres made up.
+
+They sold. You can form them into little chains. Then they started
+selling large 3/4 inch supermagnet spheres. A discovery! While two 
+cylindrical 0.75" supermagnets, if they slam together, will grab 
+the edges of finger tips and leave blood blisters, the spheres tend 
+to push the flesh out of the way as they come together. Also, two 
+cylinders will spall off little chips which travel at eye-piercing 
+velocity, while the spheres do this only rarely. Sometimes the 
+cylinder magnets even shatter. The spheres never do (not so far
+as I've experienced, and I have lots them here.) 
+
+So now an unskilled adult can play with the larger supermagnets 
+without experiencing unexpected violent pain. Don't worry, it 
+still takes plenty of skill to handle the 1.5" spheres. Even the 
+experts have scars and stitches. Don't leave them out on your desk, 
+or you'll be performing some inadvertent Selection upon curious 
+passersby. Plus erasing all their credit card stripes. At work
+I leave my big ones stuck to a big nitrogen cylinder chained to the wall. 
+Some people can't even figure out how to pull them loose.
+
+Then the guy at http://www.engconcepts.net/ started selling 3/8" supermagnet
+beads at very low quantity prices (like $.30 each.)
+
+The things are VERY COOL in quantity. Long chains of them act 
+like biology: rings will merge or peel apart like bacterial plasmids. 
+You can spiral the chains up to make spiral-phase nanotubes or tobacco
+mosaic viruses. Make a ring-triangle of 3 beads, then roll a 4th towards 
+it. The ring eats the bead, becoming a square. Chemical reaction?
+Molecular self-assembly? Roll a 5th in, and the ring snaps it up, 
+becoming a pentagon. Add another, and sometimes it just sticks to the
+outside. The surface energy of your 2D molecule is too low. It needs
+to be highly stressed. So make a long linear chain, stick an extra magnet 
+bead to the side, then pull on the chain. The chain eats the bead, 
+becoming longer. Repeat!
+
+Take 60 beads, make twelve rings of 5 magnets each, then carefully merge
+them into a pseudo-buckyball (4 bonds per atom, with squares instead of
+hexagons! Smaller than a true buckyball.) Note that the sense/antisense
+north-souch ring polarity of the pentagons cannot be ignored (you can make
+chiral buckyballs, some with CW surface polarity, some with CCW.) 
+Someone needs to make some beads with quadrupole magnetization rather than
+dipole, so a *true* buckyball can easily be made. (You can still make a
+true buckyball using 60 steel balls with lots of short supermagnet rods
+connecting them. But it's a big pain when compared to a buckyball made
+all of spheres.) 
+
+After a couple of hours I was able to simulate a buckyball origin: 
+two hemispheres of 30 magnets each, which when brought together will 
+suddenly knit up into the 'buckyball' (and entrap any ions which happen 
+to get between 'em. Always wondered how that occurred.)
+
+The girlfriend likes chains of alternating gold and black beads. Make nice
+looking spiral-wrap bracelets... *or* disassemble and then play with
+dipole-chain pseudo-biomolecules when bored at work. (Hmmm. Reassemble
+them with Morse Code patterns, to attract amateur radio nerds ?!!) 
+
+> It's a great price for the big one! The obvious thing to do is to order 
+> two and see how the pair is shipped. Kinda hard to envision a "keeper" 
+> to lessen field decay/time.
+
+Put them in a thick styrofoam box. The fields at the box surface are
+low. Then wrap the box in thin iron sheets. The iron doesn't
+saturate. Or, if you bought a bunch of the things, they can be
+shipped formed into a ring where the field is internal to the ring 
+and only 'leakage' fields escape. A single enormous magnet is
+harder to ship. Two of them can be rotated oppositely to mostly
+eliminate the distant dipole field.
+
+ "House of science" supermagnets (note the 1.5" sphere) 
+ http://www.houseofscience.com/is/mag/mag/mag.html 
+
+ "Force field" supermagnets 
+ http://www.wondermagnet.com 
+
+ "Mr. George" supermagnets 
+ http://www.engconcepts.net/ 
+
+Want books? Try searching 
+
+amazon.com : 
+
+ (try "science fair" too) 
+
+Help Support the Science Club ,
+ use the above form to order books. 
+(We make a few $$ on any books ordered via these links.) 
+
+Created and maintained by Bill Beaty . Mail me at: billb@eskimo.com .
+
+If you are using Lynx, type "c" to email . 
+Best if viewed with ANY Browser.

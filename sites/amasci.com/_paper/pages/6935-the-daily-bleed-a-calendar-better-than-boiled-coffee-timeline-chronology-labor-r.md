@@ -1,0 +1,517 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists... Daily Bleed: On this day, October 29: anarchists, Victor Loquier, Freedom newspaper, Emma Goldman, Wilhelmshaven Revolt, Chicago Eight Trial, George Brassens"
+source_domain: amasci.com
+source_path: ~recall/bleed/1029.htm
+order: 6935
+reachable_from_entry: false
+images: 17
+internal_links: 0
+extracted: 2026-08-07T17:14:28Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists... Daily Bleed: On this day, October 29: anarchists, Victor Loquier, Freedom newspaper, Emma Goldman, Wilhelmshaven Revolt, Chicago Eight Trial, George Brassens
+
+*Source page: `~recall/bleed/1029.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+Daily Bleed: On this day, October 29: anarchists, Victor Loquier, Freedom newspaper, Emma Goldman, Wilhelmshaven Revolt, Chicago Eight Trial, George Brassens
+
+> **Beware\
+> the pomegranate\
+> set loose \
+> in an Airport.**
+
+  
+
+[]()\
+[]()\
+\
+--
+
+**OCTOBER 29**
+
+ALAN TURING\
+
+
+> British computer theorist, fatal victim of gay oppression.\
+> 
+>
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > Iroquois FEAST OF THE DEAD. \
+> > > Held every 12 years, the dead are reinterred & honored, with huge a grave dug & lined with beaver skins.
+> > >
+> > > FESTIVAL OF GLOBAL CLIMATE CHANGE.
+> > >
+> > > ------------------------------------------------------------------------
+>
+> []()\
+> \
+>
+> > > > []()\
+> > > > \
+> > > > 539 -- \[BC\] Babylon falls to Cyrus the Great of Persia. []()\
+> > > > []()\
+> > > > \
+> > > > <img src="http://www.rjgeib.com/thoughts/dust/raleigh.jpg" data-border="" data-hspace="10" data-vspace="10" data-="" width="161" height="200" alt=" ? " />\
+> > > > 1618 -- 1618 -- England: Got Canned? Due to a failed expedition to exploit Guiana, Sir Walter Raleigh (History of the World) executed, Tower of London
+> > > >
+> > > > > At his execution in 1618 in the Tower of London, Sir Walter Raleigh asked to see the axe that was to behead him & said, *"This is a sharp Medicine, but it is a Physician for all Diseases."* As was common at the time, his head was embalmed & presented to his wife. She apparentlycarried it with her at all times until she died 29 years later at the age of 82.
+> > >
+> > > <http://www.rjgeib.com/thoughts/dust/dust.html>\
+> > >
+> > > <http://www.sportingcollectibles.com/tobacco.htm>\
+> > > \
+> > > 1740 -- James Boswell, biographer of Dr. Johnson, lives, Edinburgh.\
+> > > <http://history.hanover.edu/early/boswell.htm>\
+> > > <http://andromeda.rutgers.edu/~jlynch/Johnson/>\
+> > > \
+> > > 1745 -- English poet, biographer, & patron of the arts, William Hayley lives, Chichester, Sussex. Remembered for his friendships with William Cowper & [William Blake](http://recollectionbooks.com/bleed/saints/StBlakeWilliam.htm). Cowper wrote, when turning down his offer of housing, *"Thy friendship oft has made my heart to ache: / Do be my Enemy for Friendship's sake."* <http://library.utoronto.ca/www/utel/rp/authors/cowper.html>\
+> > > []()\
+> > > \
+> > > 1839 -- US: Littefutchi, an Upper Creek village in Alabama, burned by white settlers. []()\
+> > > []()\
+> > > \
+> > > 1859 -- Queen Victoria finishes George Eliot's Adam Bede & notes in her journal: *"It has made a deep impression on me. Albert likes & is much interested."*\
+> > > <http://lang.nagoya-u.ac.jp/~matsuoka/Eliot.html>\
+> > > []()\
+> > > \
+> > > 1866 -- Victor Loquier (1866-1944) lives. French hair dresser & anarchist propagandist. Ardent anarchist obvious in all he does but in hairdressing. Wrote for "La Vrille" from 1903 to 1914, & some of his anti-military articles earned him some jail time. Member of Cercle d'Etudes sociales & the Fdration Communiste Anarchiste & wrote for "Libertaire". []()\
+> > >   []()\
+> > > \
+> > > 1867 -- Tom MacInnes lives, Dresden, Ontario. Canadian writer whose works range from vigorous, slangy recollections of the Yukon gold rush (Lonesome Bar, 1909), to a translation & commentary on the philosophy of Lao-tzu, irreverently titled The Teaching of the Old Boy (1927).
+> > >
+> > > > *"Many men lost their minds on the Dead Horse Trail. Others lost their lives as a diet of rotten horse flesh led to raging fever. Screams of pain echoed through the canyons like deranged spirits throughout the winter of 1897."*
+> > > >
+> > > > []()\
+> > > > <http://www.arts.uwo.ca/canpoetry/cpjrn/vol07/bentley.htm>\
+> > >
+> > > []()\
+> > > \
+> > > 1882 -- Jean Giraudoux lives, Bellac, France. Playwright. []()\
+> > > []()\
+> > > \
+> > > 1886 -- England: ["Freedom"](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Freedom) newspaper begins publication in London, as a monthly, in October 1886. 
+> > >
+> > > <img src="http://recollectionbooks.com/bleed/images/anarchist/freedomLogo.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="384" height="100" alt="Freedom Logo" />
+> > >
+> > > From the start it was intended not as the mouthpiece of a particular group but as an independent voice in a wider movement. At first described as a journal of "Anarchist Socialism," in June 1889 it became a "Journal of Anarchist Communism"; it attempts to represent the mainstream tradition of anarchism, through giving a voice to differing views. Continues to publish today.\
+> > > []()\
+> > > []()\
+> > > \
+> > > 1889 -- Canada: Stanley Park dedicated in Vancouver, BC. []()\
+> > > []()\
+> > > \
+> > > 1889 -- US: Katsu Goto is lynched. A prominent Hawaiian merchant, labor sympathizer & interpreter, Goto was an immigrant killed by some fine upstanding American businessmen who didn't like the advocacy work he performed on behalf of Japanese plantation workers.\
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/10ref.htm#29/1889) []()\
+> > > []()\
+> > > \
+> > > 1896 -- US: Every twelve years on this day, the Amerindian Iroquois tribe celebrates its Feast of the Dead, to honour the souls of departed loved ones. 
+> > >
+> > > > "No one owns their own property. The property owns them"
+> > > >
+> > > > Robert G Ingersoll (1896)
+> > > >
+> > > > \
+> > > > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/04ref.htm#Riots)
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1897 -- Henry George dies.
+> > >
+> > > > "The equal right of all men to the use of land is a clear as their equal right to breathe the air it is a right proclaimed by the fact of their existence."
+> > > >
+> > > > 
+> > > >
+> > > > Henry George, Progress & Poverty
+> > > >
+> > > > 
+> > >
+> > > []()\
+> > > <http://www.progress.org/cg/>\
+> > > <http://www.henrygeorge.org/%0B>\
+> > > \
+> > > 1901 -- US: Leon Czolgosz, self-proclaimed anarchist, electrocuted for the assassination of US President McKinley. [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma), while repudiating Czolgosz's act, & harrassed because of a tenuous link to him, is one of the few anarchists who refuses to disown him.
+> > >
+> > > > <img src="http://recollectionbooks.com/bleed/images/emma_goldman.jpeg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="100" alt="?" />[Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) expresses her sympathy for Czolgosz in an article, "The Tragedy at Buffalo," published in Free Society (Chicago), prompting many of her close anarchist associates to distance themselves from her. 
+> > > >
+> > > > For the next two months, with ill-feeling running high, she avoids public appearances. Finding much difficulty in securing an apartment & job, [Emma](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) adopts the pseudonym "E. G. Smith."
+> > > >
+> > > > [\[Details, click here\]](http://recollectionbooks.com/bleed/10ref.htm#29/1901)
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1902 -- The Dinwiddle Quartet from Virginia is the first African-American singing group on record when they record six single-sided discs, including "Down at the Old Camp Ground," on the Victory Talking Machine Company's Monarch label. []()\
+> > > []()\
+> > > \
+> > > 1902 -- Fredric Brown, American writer, lives. One of the most ingenious American crime & mystery writers, Brown also wrote science fiction to overcome as he said the too real aspect of detective fiction. He also wrote television plays for Alfred Hitchcock series.\
+> > > <http://www.Catch22.com/SF/ARB/SFB/>\
+> > > <http://www.kirjasto.sci.fi/fbrown.htm>\
+> > > []()\
+> > > []()\
+> > > \
+> > > 1918 -- Germany: Wilhelmshaven Revolt. Sailors mutiny, take over naval base, garrison & city of Kiehl; Soldiers, Sailors & Workers Councils elected. The German government falls on November 10.
+> > >
+> > > 
+> > >
+> > > See "The Wilhelmshaven Revolt," by 'Ikarus,' (Jan Appel, who co-wrote Memoirs of Revolutionarieswith Otto Ruhle.) See also "Jan Appel's Story", where he provides an important link, in this at times humourous account, between theproletarian revolutions of 1917-1919 & the modern day.
+> > >
+> > > anarchist
+> > >
+> > > <http://www.geocities.com/Athens/Acropolis/8195/ger_int.htm>\
+> > >
+> > > On Council Communism, see,\
+> > > <http://www.geocities.com/WallStreet/9973/council.html>
+> > >
+> > > The German Revolution of 1918, see,\
+> > > <http://mars.wnec.edu/~grempel/courses/germany/lectures/18rev1918.html>
+> > >
+> > > On Left Communism & Council Communism, see also the links at the bottom of Robert Barsky's Reading Room,\
+> > > <http://www.arts.uwo.ca/chomsky/mit/>\
+
+[]()\
+\
+1919 --
+
+
+
+US: October 29 to November 29 in Washington DC, the International Labour Organization (ILO) convenes:  
+
+
+
+  
+
+
+
+Huge International International Labour Convention, organitzada to per the Societat de Nacions, convenes. They propose the "Unemployment Convention" & "Reciprocity of Treatment Recommendation".
+
+[\[Source: Congressos Obrers\]](http://recollectionbooks.com/bleed/sources.htm#Cronologia)
+
+See also the ILO page,\
+<http://ilolex.ilo.ch:1567/cgi-lex/convde.pl?C002>\
+
+
+
+
+
+[]()\
+[]()\
+\
+1921 -- Bill Mauldin, political cartoonist (Pulitzer-1945, 59), lives.\
+<http://www.stlouiswalkoffame.org/inductees/bill-mauldin.html>\
+[]()\
+\
+1922 -- Italy: The Beloved & Respected Comrade Leader King thingie entrusts to Beloved & Respected Comrade Leader Mussolini control of the government. The new violent ones (fascists) are now legitimized by the state the supreme organ of organized violence. This rightwing takeover is similar to the Bolshevik counter-revolution in Russia in the control & suppression of its people.\
+[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+[]()\
+\
+1923 -- "Runnin' Wild" (introducing the Charleston) opens on Broadway. []()\
+[]()\
+\
+1923 -- Desmond Bagley lives. British thriller writer, big in the 1960s. Also published 16 popular adventure novels. On his rough, several years long trip from England to South Africa he gathered colorful experiences highly useful later, when he began writing.\
+<http://www.kirjasto.sci.fi/dbagley.htm>\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/avant3.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="289" height="300" alt="Dollars on Avant Garde mag cover" />\
+1929 -- US: Pandemonium on Wall Street as stocks crash. American securities lose 26 billion dollars in value.\
+
+------------------------------------------------------------------------
+
+<img src="http://lcweb.loc.gov/exhibits/goldstein/48t.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="250" alt="?" />In Dies Irae ("Day of Wrath"), James Rosenberg created an expressionist nightmare of teetering skyscrapers, suicidal stockbrokers, storm clouds, & maddened crowds to convey the sense of panic that overwhelmed Wall Street & the nation in the last days of October 1929. 
+
+A bankruptcy lawyer in Manhattan who also studied lithography under master printmaker George Miller, Rosenberg recalls: 
+
+> *"In the afternoon of October 28, 1929, the terrible day when nine million shares were slaughtered on the New York Stock Exchange, I rushed to Miller's place & made my lithograph Dies Irae."*
+>
+> *Dies Irae ("Days of Wrath"), 1929. James N. Rosenberg, 1874-1970. Lithograph. Printed by George Miller*
+>
+> <http://lcweb.loc.gov/exhibits/goldstein/goldrad.html>
+
+\
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> 
+>
+> 
+>
+> "Happy Days Are Here Again" Casa Loma Orchestra, conducted by Glen Gray, 10/29/29   
+
+
+
+  
+
+
+
+The date on which the Casa Loma Orchestra waxed this cheery tune is better remembered as Black Tuesday, the day of thestock market crash. Variety's October 30, 1929 headline read "WALL STREET LAYS AN EGG." 
+
+How big an egg? An average 40 percent loss in stock values by mid-November, representing nearly 30 billion dollars! This song (sans vocals here) expressed pre-crash exuberance in the film Chasing Rainbows (a young Jack Benny appeared in it), & it became a 'wishful thinking' anthem as the Depression darkened. 
+
+Mark Humphrey, ["The Great Depression: American Music in the '30s"](http://www2.blackside.com/blackside/PublishingNewMedia/Depressionmusic2.html)
+
+See also\
+<http://www.authentichistory.com/audio/1930s/1930smusic01.html>\
+<http://imusic.artistdirect.com/store/artist/album/0,,301462,00.html>
+
+------------------------------------------------------------------------
+
+
+
+
+
+\
+[]()\
+[]()\
+\
+1936 -- Singer Hank Snow makes his first recordings, "Lonesome Blue Yodel" & "Prisoned Cowboy." []()\
+[]()\
+\
+1940 -- US: First compulsory peace-time draft initiated. []()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/authors/dlstamp1.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="136" height="177" alt="d.a. levy stamp" />\
+1942 -- d.a. levy lives (1942-1968), Cleveland, Ohio. Poet. 
+
+See also See [24 November 1968](http://www.eskimo.com/~recall/bleed/1124.htm#Levy).\
+\
+<http://www.charm.net/~brooklyn/People/DALevy.html>\
+<http://www.thing.net/~grist/lnd/dalevyc.htm>\
+\
+1942 -- 16,000 Jews killed in Pinsk, Russia. []()\
+[]()\
+\
+1945 -- Re-writing History?: First ball point pen goes on sale, 57 years after it was patented. []()\
+[]()\
+\
+1947 -- US: Flying in a specially outfitted aircraft, Vincent Schaefer of the General Electric Company drops small dry-ice pellets into cumulus clouds over a forest fire near Concord, Massachusetts, in an attempt to produce artificial rain & douse the flames.
+
+<img src="http://images.barnesandnoble.com/images/530000/537140.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="137" alt="?" />
+
+I'll sit down on a burnin' ring of fire\
+I will try to flush it down\
+But the flames they'll get higher\
+And it'll burn, burn, burn\
+That ring of fire\
+That ring of fire!
+
+
+
+"Thank God I'm a ChileHead,"\
+sung to the tune of Johnny Cash's\
+Ring of Fire\
+<http://www.wallofsound.go.com/artists/johnnycash/home.html>\
+
+[]()\
+\
+1956 -- Israel attacks Sinai, Egypt. []()\
+[]()\
+\
+1958 -- Boris Pasternak, under intense pressure from the Soviet government & press, wires the Swedish Royal Academy his "voluntary refusal" of the Nobel Prize for Literature. One of his crimes is to have written in his novel, Dr. Zhivago too sympathetically of the anarchists, & not kindly enough of the Bolsheviks.
+
+> > **"Am I a gangster or murderer?**
+> >
+> > Of what crime do I stand condemned?
+> >
+> > I made the whole world weep at the beauty of my land."
+> >
+> > 
+>
+> <http://www.nobel.se/>\
+> <http://www.rjgeib.com/heroes/pasternak/paster.html>\
+> \
+> <img src="http://www.abqjournal.com/trinity/blastBB.jpg" data-border="0" data-hspace="10" data-vspace="1" data-="" width="150" height="258" alt=" ? " />\
+> 1958 -- Good Ol' US: Atomic bomb named 'Santa Fe' exploded above ground; winds blow fallout over LA where thermal inversion holds it over the city for several days. Not that the residents can tell the difference it's a glow in the dark kinda place. []()\
+> []()\
+> \
+> 1961 -- Russia: Not to be outdone, the first 50-megaton bomb explodes, USSR.
+>
+> []()\
+> []()\
+> \
+> 1962 -- Cuban missile crisis ends when USSR agrees to withdraw missiles from Cuba & U.S. agrees to end blockade. []()\
+> []()\
+> \
+> 1964 -- US: Star of India gems stolen from Natural History Museum, New York City. []()\
+> []()\
+> \
+> 1966 -- US: National Organization for Women founded in Washington, D.C. The 30 attendees elect Betty Friedan as NOW's first president. []()\
+> []()\
+> \
+> 1968 -- US: A "foamy mass" of industrial waste kills massive numbers of fish in Pennsylvania's Allegheny River.
+
+[]()\
+[]()\
+\
+<img src="http://lists.village.virginia.edu/sixties/Graphics/Track16/chicago_8.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="106" height="172" alt="?" />\
+1969 -- US: During the Chicago Eight Trial, Beloved & Respected Comrade Leader Judge Hoffman orders Bobby Seale bound & gagged for the next 4 days (after Seale is refused permission to act as or have his own defense counsel).\
+<http://boomersint.org/octhist.html>\
+<http://www.law.umkc.edu/faculty/projects/ftrials/Chicago7/Chi7_imag.htm>\
+[]()\
+[]()\
+\
+1969 -- US: Too Easy? 100 demonstrators disrupt university ROTC with "nonviolent ridicule," Buffalo, NY. []()\
+[]()\
+\
+1970 -- US: Sans Hose? Anti-war protesters pelt Beloved & Respected Comrade Leader Prez Dick M Nixon's motorcade with rocks & eggs in San Jose, California. []()\
+[]()\
+\
+1970 -- US: A Wall Street Journal article today dicusses the reasons why union & management agreed on the necessity of a strike.
+
+> As William Serrin succinctly put it: 
+>
+> "A strike, by putting the workers on the street, rolls the steam out of them it reduces their demands & thus brings agreement & ratification; it also solidifies the authority of the union hierarchy."\
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/10ref.htm#29/1970)
+
+[]()\
+[]()\
+\
+1971 -- Biker songster dude Duane Allman killed riding motorcycle. []()\
+[]()\
+\
+1974 -- Zaire: Muhammad Ali defeats George Foreman to regain his heavyweight crown in a fight billed as "The Rumble in the Jungle." In addition to the fight being the first heavyweight title fight held in Africa, it is the 14th Anniversary of Ali's professional boxing debut. []()\
+[]()\
+\
+1979 -- US: "Up Against The Wall Street Journal" direct actions disrupt New York Stock Exchange & financial district on 50th Anniversary of the stock market crash of 1929. Over 1,000 arrested. []()\
+[]()\
+\
+1981 -- George Brassens, French anarchist poet/songster, dies. See [22 October 1921](http://www.eskimo.com/~recall/bleed/1022.htm).
+
+### **"La camarde, qui ne m'a jamais pardonn d'avoir sem des fleurs dans les trous de son nez, me poursuit d'un zle imbcile..."**
+
+
+
+**"Supplique pour tre enterr la plage de Ste"**
+
+
+
+
+
+[]()\
+[]()\
+\
+1982 -- US: Car maker John DeLorean, arrested on the 19th, indicted for drug trafficking; later acquitted.
+
+> "It's better than gold. Gold weighs more than that, for God's sake."
+
+[]()\
+[]()\
+\
+1986 -- US: Three days after Beloved & Respected Comrade Leader Acting President Ron Reagan's veto, & days before an election, U.S. House of Representatives votes to override veto on a bill to impose trade sanctions against South Africa. Empty, symbolic gesture, as the Senate does not follow suit. []()\
+[]()\
+\
+<img src="http://www.evote.com/library/evote/parody/smokingman.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="174" height="146" alt=" ? " />\
+1988 -- China: Heads Up, Herb?! China announces a herbal male contraceptive.\
+<img src="http://recollectionbooks.com/bleed/images/humor/smokeman.gif" data-border="0" data-hspace="10" data-vspace="10" width="80" height="112" alt="?" /> <http://www.survival.com.mx/herbs.html>\
+\
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/misc/title.gif" data-border="0" data-hspace="10" data-vspace="10" data-="" width="254" height="53" alt="Alger Hiss logo" />\
+1992 -- A high-ranking Russian official says a review of newly opened archives clears Alger Hiss of accusations that he ever spied for the Soviet Union.
+
+<img src="http://recollectionbooks.com/bleed/images/misc/dickMNixon.jpg" data-border="1" data-hspace="10" data-vspace="10" width="500" height="175" alt="Dick M Nixon with paper, Hiss headline" />
+
+
+
+> *""It's what I've been fighting for for 44 years,"* said Mr. Hiss, now 87 years old, during an interview this week in his Upper West Side apartment."
+>
+> Whittaker Chambers accused Hiss of being a spy. Hiss denied the charges & sued for slander. Failing any proof, & under pressure from right-wing whackos seeking to blame someone for all America's ills, Hiss was indicted & convicted for perjury (claimed he did not know Chambers, a former communist fanatic who became, fittingly, reverse-mirror, a right-wing Cold Warrior & edited the Republican mouthpiece, "Time" magazine).Got five-years. Paroled in 1954, still maintaining his innocence. Beloved & Respected Comrade Leader Dick M Nixon used Red-baiting publicity to catapult his odious career to the White House. (See Halberstam's The Fifties).
+
+<http://www.mdarchives.state.md.us/ecp/10/214/html/00010016.html>\
+[]()\
+\
+1998 -- SABBATAI SEVI\
+Radical Jewish mystic, Kabbalist. Daily Bleed Saint 1998.\
+[]()\
+[]()\
+\
+1998 -- Britain's poet laureate Ted Hughes, whose stormy marriage to American poet Sylvia Plath dogged his reputation for many years, dies, just months after the publication of Birthday Letters, a book of poems about his relationship with Plath.
+
+> He sang\
+> How the swan blanched forever\
+> How the wolf threw away its telltale heart\
+> & the stars dropped their pretense\
+> The air gave up appearances\
+> Water went deliberately numb\
+> The rock surrendered its last hope\
+> & cold died beyond knowledge
+>
+> He sang\
+> How everything had nothing more to lose
+>
+> Then sat still with fear
+>
+> Seeing the clawtrack of star\
+> Hearing the wingbeat of rock
+>
+> & his own singing
+>
+>  Ted Hughes, "Owl's Song"
+
+> []()\
+> []()\
+> \
+> 2001 -- Soviet filmmaker Grigory Chukhrai dies. Earned fame but angered Kremlin leaders for portraying human side of war & among the first directors to convey the horrors of Stalin's rule in such films as Ballad of a Soldier (1959), & Clear Skies (1961).\
+> <http://www.imagesjournal.com/issue09/features/russia2/text.htm>\
+> <http://www.slavweb.com/eng/Russia/cinema-e.html>\
+>
+> []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/library.jpg" data-"fine"="" data-used="" data-books="" data-border="1" data-hspace="10" data-vspace="10" width="409" height="267" alt="Recollection" />\
+> 3000 --
+>
+> I have always imagined that Paradise would be a kind of library.
+>
+>  Jorge Luis Borges
+>
+> <http://www.empirezine.com/spotlight/borges/borges.htm>\
+>
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/misc/eyehands.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="200" height="350" alt="Eye with four hands pointing" />\
+> > 4000 --
+> >
+> > <div align="RIGHT">
+> >
+> > []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm
+> >
+> > </div>

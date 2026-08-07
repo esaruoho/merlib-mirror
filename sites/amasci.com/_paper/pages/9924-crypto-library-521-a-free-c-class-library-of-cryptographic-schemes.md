@@ -1,0 +1,373 @@
+---
+title: "Crypto++ Library 5.2.1 - a Free C++ Class Library of Cryptographic Schemes"
+source_domain: amasci.com
+source_path: ~weidai/cryptlib.html
+order: 9924
+reachable_from_entry: false
+images: 2
+internal_links: 6
+extracted: 2026-08-07T17:18:16Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Crypto++ Library 5.2.1 - a Free C++ Class Library of Cryptographic Schemes
+
+*Source page: `~weidai/cryptlib.html`*
+
+[news](#news)
+
+[platforms](#platforms)
+
+[download](#download)
+
+[manual](http://cryptopp.sourceforge.net/docs/ref521/)
+
+[CVS](http://sourceforge.net/cvs/?group_id=6152)
+
+[FAQ](http://www.eskimo.com/~weidai/cgi-bin/fom.cgi)
+
+[mailing lists](#lists)
+
+[related links](http://www.mobiuslinks.com/links.asp?sid=1)
+
+# Crypto++<sup>®</sup> Library 5.2.1
+
+## What is it?
+
+Crypto++ Library is a free C++ class library of cryptographic schemes. Currently the library consists of the following, some of which are other people's code, repackaged into classes.
+
+- a class hierarchy with an API defined by abstract base classes
+- [AES](http://www.nist.gov/aes) ([Rijndael](http://www.esat.kuleuven.ac.be/~rijmen/rijndael/)) and AES candidates: [RC6](http://www.rsa.com/rsalabs/rc6), [MARS](http://www.research.ibm.com/security/mars.html), [Twofish](http://www.counterpane.com/twofish.html), [Serpent](http://www.cl.cam.ac.uk/~rja14/serpent.html), [CAST-256](http://www.ietf.org/rfc/rfc2612.txt)
+- other [symmetric block ciphers](algorithms.html#symmetric): IDEA, DES, [Triple-DES](http://csrc.nist.gov/cryptval/des.htm) (DES-EDE2 and DES-EDE3), DESX (DES-XEX3), RC2, RC5, Blowfish, Diamond2, TEA, SAFER, 3-WAY, GOST, SHARK, CAST-128, Square, Skipjack, Camellia, SHACAL-2
+- generic [cipher modes](algorithms.html#modes): ECB, CBC, CBC ciphertext stealing (CTS), CFB, OFB, counter mode (CTR)
+- stream ciphers: Panama, ARC4, SEAL, WAKE, WAKE-OFB, BlumBlumShub
+- [public key cryptography](algorithms.html#assymetric): [RSA, DSA](http://csrc.nist.gov/cryptval/dss.htm), ElGamal, Nyberg-Rueppel (NR), Rabin, Rabin-Williams (RW), LUC, LUCELG, DLIES (variants of DHAES), ESIGN
+- padding schemes for public-key systems: [PKCS#1](http://www.rsasecurity.com/rsalabs/pkcs/pkcs-1/) v2.0, OAEP, PSSR, [IEEE P1363](http://grouper.ieee.org/groups/1363/) EMSA2
+- key agreement schemes: Diffie-Hellman (DH), Unified Diffie-Hellman (DH2), Menezes-Qu-Vanstone (MQV), LUCDIF, XTR-DH
+- [elliptic curve cryptography](http://world.std.com/~dpj/elliptic.html): ECDSA, ECNR, ECIES, ECDH, ECMQV
+- one-way hash functions: [SHA-1](http://www.nist.gov/sha), MD2, MD4, MD5, HAVAL, RIPEMD-128, RIPEMD-256, RIPEMD-160, RIPEMD-320, Tiger, SHA-2 (SHA-256, SHA-384, and SHA-512), Panama, Whirlpool
+- message authentication codes: MD5-MAC, HMAC, XOR-MAC, CBC-MAC, DMAC, Two-Track-MAC
+- [cipher constructions based on hash functions](algorithms.html#hash_cipher): Luby-Rackoff, MDC
+- pseudo random number generators (PRNG): ANSI X9.17 appendix C, PGP's RandPool
+- password based key derivation functions: PBKDF1 and PBKDF2 from PKCS \#5
+- Shamir's [secret sharing scheme](http://www.rsa.com/rsalabs/faq/html/3-6-12.html) and Rabin's information dispersal algorithm (IDA)
+- [DEFLATE](http://www.faqs.org/rfcs/rfc1951.html) (RFC 1951) compression/decompression with [gzip](http://www.faqs.org/rfcs/rfc1952.html) (RFC 1952) and [zlib](http://www.faqs.org/rfcs/rfc1950.html) (RFC 1950) format support
+- fast multi-precision integer (bignum) and polynomial operations, with SSE2 optimizations for Pentium 4 processors
+- finite field arithmetics, including GF(p) and GF(2^n)
+- prime number generation and verification
+- various miscellaneous modules such as base 64 coding and 32-bit CRC
+- class wrappers for these operating system features (optional):
+  - high resolution timers on Windows, Unix, and MacOS
+  - Berkeley and Windows style sockets
+  - Windows named pipes
+  - /dev/random and /dev/urandom on Linux and FreeBSD
+  - Microsoft's CryptGenRandom on Windows
+- A high level interface for most of the above, using a [filter/pipeline](http://cryptopp.sourceforge.net/cgi-bin/fom?file=29) metaphor
+- [benchmarks](benchmarks.html) and validation testing
+- [FIPS 140-2 Validated](#fips)
+
+One purpose of Crypto++ is to act as a repository of public domain (not copyrighted) source code. Although the library is copyrighted as a compilation, the individual files in it (except for a few exceptions listed in the [license](License.txt)) are in the public domain.
+
+## <span id="news">What's new?</span>
+
+- 7/21/2004 - Updated [reference manual](http://cryptopp.sourceforge.net/docs/ref521/) to version 5.2.1.
+- 7/21/2004 - Version 5.2.1 released.
+  - fixed bug in the "dlltest" DLL testing program
+  - fixed compiling with STLport using VC .NET
+  - fixed compiling with -fPIC using GCC
+  - fixed compiling with -msse2 on systems without memalign()
+  - fixed inability to instantiate PanamaMAC
+  - fixed problems with inline documentation
+- 6/29/2004 - Version 5.2 released.
+  - merged in changes for 5.01 - 5.0.4
+    - added option to compile Crypto++ as Windows DLL
+    - fixed vulnerabilities in GetNextIV for CTR and OFB modes
+  - added support for using encoding parameters and key derivation parameters with public key encryption (implemented by OAEP and DL/ECIES)
+  - added Camellia, SHACAL-2, Two-Track-MAC, Whirlpool, RIPEMD-320, RIPEMD-128, RIPEMD-256, Base-32 coding
+  - added ThreadUserTimer for timing thread CPU usage
+  - added option for password-based key derivation functions to iterate until a mimimum elapsed thread CPU time is reached
+  - added option (on by default) for DEFLATE compression to detect uncompressible files and process them more quickly
+  - improved compatibility and performance on 64-bit platforms, including Alpha, IA-64, x86-64, PPC64, Sparc64, and MIPS64
+  - fixed ONE_AND_ZEROS_PADDING to use 0x80 instead 0x01 as padding.
+  - fixed encoding/decoding of PKCS \#8 privateKeyInfo to properly handle optional attributes
+- 6/29/2004 - Added [patch](crypto51gcc34patch) to compile Crypto++ 5.1 with GCC 3.4.
+- 4/7/2004 - Added [patches](#platforms) to compile Crypto++ 4.2 and 5.0 with VS .NET 2003.
+- 9/5/2003 - Crypto++ 5.0.4 has received FIPS 140-2 level 1 validation! Added [download and certificate links](#fips).
+- 8/5/2003 - Added [patches](#platforms) to compile Crypto++ 4.2 and 5.0 with GCC 3.3.
+- 4/22/2003 - Added fixed [project file for CodeWarrior Pro 8.2](http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/*checkout*/cryptopp/c5/crypto%2b%2b.mcp?rev=1.2)
+- 4/19/2003 - Added [patch for VS .NET 2003](crypto51vsnet2003patch)
+- 3/22/2003 - Version 5.1 released.
+  - added PSS padding and changed PSSR to track IEEE P1363a draft standard
+  - added blinding for RSA and Rabin to defend against timing attacks on decryption operations
+  - changed signing and decryption APIs to support the above
+  - changed WaitObjectContainer to allow waiting for more than 64 objects at a time on Win32 platforms
+  - fixed a bug in CBC and ECB modes with processing non-aligned data
+  - fixed standard conformance bugs in DLIES (DHAES mode) and RW/EMSA2 signature scheme (these fixes are not backwards compatible)
+  - fixed a number of compiler warnings, minor bugs, and portability problems
+  - removed Sapphire
+
+## <span id="platforms">Platforms</span>
+
+These porting notes will help you compile Crypto++ on various platforms. If you need to compile Crypto++ 4.1 or earlier, please click [here](cryptlib.v42.html#platforms).
+
+Compiler
+
+OS
+
+To Compile Crypto++ 4.2
+
+To Compile Crypto++ 5.0
+
+To Compile Crypto++ 5.1
+
+To Compile Crypto++ 5.2.1
+
+MSVC 6.0 SP5
+
+WIN32
+
+no changes needed
+
+no changes needed\
+[Processor Pack](http://msdn.microsoft.com/vstudio/downloads/tools/ppack/default.asp) supported/recommended
+
+MSVC .NET 2002
+
+WIN32
+
+no changes needed
+
+not tested
+
+MSVC .NET 2003
+
+WIN32
+
+[patch](crypto42vsnet2003patch) by Daniel Fruzynski
+
+[patch](crypto50vsnet2003patch) by Daniel Fruzynski
+
+[patch](crypto51vsnet2003patch) available
+
+no changes needed
+
+Borland C++Builder
+
+WIN32
+
+not possible (at least until bccx is released)
+
+GCC 2.95.2
+
+UNIX/WIN32/BeOS/\
+MSDOS (DJGPP 2.03)
+
+no changes needed
+
+GCC 3.3
+
+UNIX/WIN32/BeOS
+
+[patch](crypto42gcc33patch) available
+
+[patch](crypto50gcc33patch) available
+
+no changes needed
+
+GCC 3.4
+
+UNIX/WIN32/BeOS
+
+not tested
+
+[patch](crypto51gcc34patch) by Mikael Kilpelinen
+
+no changes needed
+
+Apple GCC 932.1 (2.95.2)
+
+MacOS X (Darwin)
+
+[patch](crypto42darwinpatch) available
+
+[patch](crypto50fixes-20030310) available
+
+no changes needed
+
+Apple GCC 1161 (3.1)
+
+not tested
+
+CodeWarrior Pro 6.1
+
+MacOS/WIN32
+
+no changes needed\
+[project file](crypto++.v41.mcp.zip) available
+
+not tested
+
+CodeWarrior Pro 8.3
+
+not tested
+
+updated [project file](crypto++.v50.mcp.zip) by Aparajita Fishman
+
+fixed [project file](http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/*checkout*/cryptopp/c5/crypto%2b%2b.mcp?rev=1.2) available
+
+no changes needed
+
+Sun WorkShop 6, Forte C++
+
+Solaris
+
+[note](forte6.txt) and [diff](forte6-diff.txt) by David Lamkin
+
+not tested
+
+## <span id="download">Download</span>
+
+US Original
+
+[SourceForge Mirrors](https://sourceforge.net/project/showfiles.php?group_id=6152)
+
+[Austrian Mirror](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib)
+
+[Australian Mirror](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib)
+
+[Crypto++ 4.2](http://www.eskimo.com/~weidai/crypto42.zip)
+
+[Crypto++ 4.2](http://prdownloads.sourceforge.net/cryptopp/crypto42.zip)
+
+[Crypto++ 4.2](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto42.zip)
+
+[Crypto++ 4.2](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto42.zip)
+
+[Crypto++ 5.0](http://www.eskimo.com/~weidai/crypto50.zip)
+
+[Crypto++ 5.0](http://prdownloads.sourceforge.net/cryptopp/crypto50.zip)
+
+[Crypto++ 5.0](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto50.zip)
+
+[Crypto++ 5.0](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto50.zip)
+
+[Crypto++ 5.1](http://www.eskimo.com/~weidai/crypto51.zip)
+
+[Crypto++ 5.1](http://prdownloads.sourceforge.net/cryptopp/crypto51.zip)
+
+[Crypto++ 5.1](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto51.zip)
+
+[Crypto++ 5.1](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto51.zip)
+
+[Crypto++ 5.2](http://www.eskimo.com/~weidai/crypto52.zip)
+
+[Crypto++ 5.2](http://prdownloads.sourceforge.net/cryptopp/crypto52.zip)
+
+[Crypto++ 5.2](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto52.zip)
+
+[Crypto++ 5.2](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto52.zip)
+
+[Crypto++ 5.2.1](http://www.eskimo.com/~weidai/cryptopp521.zip)
+
+[Crypto++ 5.2.1](http://prdownloads.sourceforge.net/cryptopp/cryptopp521.zip)
+
+[Crypto++ 5.2.1](http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/cryptopp521.zip)
+
+[Crypto++ 5.2.1](http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/cryptopp521.zip)
+
+Remember to use the "-a" (auto-convert text files) option when unzipping on a Unix machine. The zip files should have the following hashes:
+
+**crypto42.zip:**
+
+    MD5: C1700E6E15F3189801E7EA47EEE83078
+    SHA-1: 505EC40485519971A07DF6708B7DED3E5D3D08C4
+    RIPEMD-160: 5D4CC8E5987B2416CF7D71AA6276AFAC61702E55
+    SHA-256: CDF8A1EBB142759E928A323F47F228F4F93CEB2FE97C19DC59D6868989E0D76E
+
+**crypto50.zip:**
+
+    MD5: fe8d4ef49b69874763f6dab30cbb6292
+    SHA-1: d0d83e60b6c03408370ca6c13aa5cac5e2220bf1
+    RIPEMD-160: 150db13d4df29020829f0fe817f54ee5a0595e50
+    SHA-256: c67c64693f32195e69d3d7e5bdf47afbd91e8b69d0407a2bc68a745d9dbebb26
+
+**crypto51.zip:**
+
+    MD5: f4bfd4ac39dc1b7f0764d61a1ec4df16
+    SHA-1: 95905714c85f6fb563e66edb5478818df787fe2d
+    RIPEMD-160: 8b7420c421be39e9976f1ce2a80840d7ed6b38ef
+    SHA-256: d183a98c28feb1e0f7d21d177469831e5052aa8ca446475e95a5ebe7a7feb3cd
+
+**crypto52.zip:**
+
+    MD5: 5c09d632ef36e889f1727fb50cb21c4d
+    SHA-1: 1fef7da7d7cdc23a4d51906d585e0b91c163693d
+    RIPEMD-160: abc73242f96b2bbd0a09786803a693a2883c1003
+    SHA-256: 103bf2cab8f3a0e245c50af9992aca1583796b4c2dcccc16a0207a09a17a2a66
+
+**cryptopp521.zip:**
+
+    MD5: 82a00c44235ccbae2bedf9cb16c40ac3
+    SHA-1: 4b84311d1cbde04df5d88b5375d29c2e35ccb89c
+    RIPEMD-160: 7c4d3cf702a1cf38f2a19cb5cebf170dabc23a35
+    SHA-256: d578d297f1804a6b1c3f9090cc77091e49ae6d0311846a45117e79d4d20c2a39
+
+## While You Are Downloading
+
+- Take a look at the [related links](http://www.mobiuslinks.com/links.asp?sid=1) page. It includes links to crypto libraries for other languages, products that use Crypto++, etc.
+- Consider the list of [recommended books](http://www.mobiuslinks.com/links.asp?sid=102) for Crypto++ users.
+- Examine the [Crypto++ license agreement](License.txt).
+- Read denis bider's [Crypto++ User Guide](http://www.bitvise.com/users-guide.html)
+- Browse the [Crypto++ Reference Manual](http://cryptopp.sourceforge.net/docs/ref5/) ([mirrored here](http://trolocsis.com/crypto++)).
+- <span id="charts"></span>View these Crypto++ class hierarchy charts to see how Crypto++ is organized. Note that these charts only include a small number of actual algorithms as examples.
+  - [symmetric algorithms and hash functions](filters.gif)
+  - [public key algorithms](pubkey.gif)
+
+## <span id="fips">FIPS 140-2 Conformance</span>
+
+The following versions of Crypto++ have been validated by NIST and CSE for [FIPS 140-2](http://csrc.nist.gov/cryptval/140-2.htm) level 1 conformance. Because only compiled executable code can receive FIPS validation, these versions are listed separately from the other source-code-only downloads. These download packages include the validated binary object, header files, API reference, and FIPS related documentation. Source code is also included for debugging purposes. (You cannot compile Crypto++ yourself and claim FIPS 140-2 conformance on the resulting module, unless the it goes through the validation process again.)
+
+Because these packages contain compiled executable code, they have been signed with a PGP public key which is included inside the package. You can verify the PGP key's fingerprint by following the certificate link and obtaining a copy of the Crypto++ Library Security Policy from NIST's web site. The fingerprint is given in the Security Policy.
+
+- Crypto++ Library 5.0.4 (Windows DLL, calling application must be compiled with MSVC 6.0) \[[download package](http://prdownloads.sourceforge.net/cryptopp/cryptopp504win32.zip)\] \[[download PGP signature](http://prdownloads.sourceforge.net/cryptopp/cryptopp504win32.zip.sig)\] \[[certificate \#343](http://csrc.nist.gov/cryptval/140-1/1401val2003.htm)\]
+
+(Currently only one version of Crypto++ has been validated. In the future there will probably be more.)
+
+## <span id="lists">Mailing Lists</span>
+
+There are two mailing lists for Crypto++.
+
+- cryptopp-announce@lists.sourceforge.net - [Crypto++ announcements (follow this link to subscribe)](http://lists.sourceforge.net/mailman/listinfo/cryptopp-announce)
+- cryptopp-list@eskimo.com - user questions and general discussion related to Crypto++
+
+The discussion list is archived at <http://www.escribe.com/software/crypto>. An alternate archive is available at <http://www.mail-archive.com/cryptopp-list@eskimo.com>. The eScribe archive goes back further but does not permit searches on 3-letter words or acronyms.
+
+To subscribe to the discussion list, send an email to [cryptopp-list-request@eskimo.com](mailto:cryptopp-list-request@eskimo.com?subject=subscribe) with the subject "subscribe", and use the subject "unsubscribe" to unsubscribe. When posting a question to the mailing list, please provide the following information, if applicable:
+
+- exact error message
+- stack trace
+- a minimal program with a main() function, that reproduces the problem
+- version of Crypto++, operating system (output of "uname -a" command if using Unix), and compiler (output of "gcc -v" if using GCC)
+
+## To Contribute
+
+The Crypto++ source code and FAQ are hosted on [<embed src="http://sourceforge.net/sflogo.php?group_id=6152&amp;type=1" data-border="0" width="88" height="31" />](http://sourceforge.net/projects/cryptopp/).
+
+- The [SourceForge CVS Repository](http://sourceforge.net/cvs/?group_id=6152) allows you to view the latest (unreleased) Crypto++ source code and to contribute bug fixes or new features. The CVS repository contains two modules:
+  - src - version 4.x and earlier.
+  - c5 - version 5.x.
+- The [Crypto++ Faq-O-Matic](http://www.eskimo.com/~weidai/cgi-bin/fom.cgi) allows you to view frequently asked questions and to contribute new questions or answers.
+
+## <span id="paid">Paid Support and Consulting</span>
+
+If you are interested in paid support for Crypto++ or consulting on a Crypto++ related project, please take a look at this [list of companies and individuals providing such services](http://cryptopp.sourceforge.net/cgi-bin/fom?file=39). This listing is a free service for the Crypto++ community, and anyone may sign up to be listed by following the above link.
+
+------------------------------------------------------------------------
+
+Please bookmark and link to this page as <http://www.cryptopp.com>.\
+
+<a href="http://www.statcounter.com" target="_blank"><embed src="http://c1.statcounter.com/counter.php?sc_project=270255&amp;java=0" data-border="0" /></a>
+
+visitors since 4/7/2004.
+
+Written by: [Wei Dai](http://www.weidai.com) \<<webmaster@weidai.com>\> Last modified: 7/21/2004

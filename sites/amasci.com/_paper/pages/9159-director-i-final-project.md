@@ -1,0 +1,41 @@
+---
+title: "Director I - Final project"
+source_domain: amasci.com
+source_path: ~turnip/lwtc/assg/Director_Final.htm
+order: 9159
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Director I - Final project
+
+*Source page: `~turnip/lwtc/assg/Director_Final.htm`*
+
+**MMDP 125 "Director I"\
+Final Project: "A Shockwave Multimedia Greeting Card"**
+
+**Due: Friday March 22<sup>nd</sup>. *Be prepared to present your project in class!*\
+Project size limit: 200kb\
+Value: 25 points**
+
+**YOUR SPEC**: Create a Director Shockwave movie & HTML page that achieves the functionality listed below.
+
+You will create a multimedia greeting card (for example, a birthday, Christmas, Hanukkah card) that should contain both graphical and audio elements, and a MESSAGE for the recipient. Your project should be formatted like a real greeting card; that is, it should begin with an opening screen like the outside of a card. This screen must provide an "Open" button that the user clicks to open the card (it must wait for the user). When the button is clicked, the card should open using either animation or a transition. Inside there should be additional text, graphics, sound, animation, etc. You should also provide a "Close" button to return to the beginning.
+
+Your movie must contain EACH of the following elements, although how you use them is up to you:
+
+- Animation - Either at the outside of the card, the inside, or both. And it must be more elaborate than just sliding text or a marquee, I want to see frame-based animation! Have fun!
+- Music - You must have some looping background music, at the outside, inside or both - again, where you use it is up to you. Keep it short & appropriate, and it must loop indefinitely.
+- Buttons - "Open" and "close" at the very least, and don't use Director's built-in buttons - make your own that react visibly to the mouse *and* make a sound when clicked.
+- Other mouse interactivity of your own design - By this point you know how to make objects react to the mouse by playing sounds, changing appearance (cast members), etc. I want some part of the piece to be responsive to the user. Be creative! Providing secret "Easter eggs" is always fun for the user!
+
+*If you meet all of the above requirements, you will receive at least a "B" for your project. Want a better grade? Impress me!*
+
+DELIVERY: You may either (1) copy your files to the Director drop box as always, OR (2) you may post your project to the web & supply me with your URL! Remember, your project requires exactly TWO files: the Shockwave file (dcr), and an HTML page to host it. *Remember, your dcr must not exceed 200k!!!*
+
+\* \* \* This is the last day of class; absolutely NO late assignments can be accepted!
+
+[Back](javascript:history.back())

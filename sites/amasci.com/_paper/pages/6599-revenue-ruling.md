@@ -1,0 +1,52 @@
+---
+title: "Revenue Ruling"
+source_domain: amasci.com
+source_path: ~rarnold/revenue_ruling.htm
+order: 6599
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:13:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Revenue Ruling
+
+*Source page: `~rarnold/revenue_ruling.htm`*
+
+Internal Revenue Service\
+Revenue Ruling
+
+Rev. Rul. 75-384
+
+1975-2 C.B. 204
+
+Sec. 501
+
+IRS Headnote
+
+Antiwar protest organization. A nonprofit organization formed to promote world peace and disarmament by nonviolent direct action and whose primary activity is the sponsoring of antiwar protest demonstrations in which demonstrators are urged to commit violations of local ordinances and breaches of public order does not qualify for exemption under section 501(c)(3) or (4) of the Code.
+
+Full Text
+
+Rev. Rul. 75-384
+
+Advice has been requested whether a nonprofit organization formed to promote world peace and disarmament by nonviolent direct action including acts of civil disobedience qualifies for exemption from Federal income tax under section 501(c)(3) or 501(c)(4) of the Internal Revenue Code of 1954.
+
+The purposes of the organization are to educate and inform the public on the principles of pacificism and nonviolent action including civil disobedience. Its primary activity is the sponsoring of protest demonstrations and nonviolent action projects in opposition to war and preparations for war.
+
+Protest demonstrations are conducted at military establishments, Federal agencies, and industrial companies involved with military and defense operations. Other activities consist of peace marches and protests against the use of tax monies for war purposes. The protest demonstrations constitute the primary activity of the organization. They are designed to draw public attention to the views of the organization and to exert pressure on governmental authorities. To derive the maximum publicity of an event, demonstrators are urged to commit acts of civil disobedience. Participants deliberately block vehicular or pedestrian traffic, disrupt the work of government, and prevent the movement of supplies. These activities are violations of local ordinances and breaches of public order. Incidental to demonstrations, leaflets are dispersed presenting the views of the organization.
+
+Section 501(c)(3) of the Code provides for the exemption from Federal income tax of organizations organized and operated exclusively for charitable purposes.
+
+Section 1.501(c)(3)-1(d)(2) of the Income Tax Regulations provides that the term "charitable" is used in section 501(c)(3) of the Code in its generally accepted legal sense. The regulation further states that the term "charity" includes lessening the burdens of government and the promotion of social welfare by organizations designed (i) to lessen neighborhood tensions; (ii) to eliminate prejudice and discrimination; (iii) to defend human and civil rights secured by law; or (iv) to combat community deterioration and juvenile delinquency.
+
+As a matter of trust law, one of the main sources of the general law of charity, no trust can be created for a purpose which is illegal. The purpose is illegal if the trust property is to be used for an object which is in violation of the criminal law, or if the trust tends to induce the commission of crime, or if the accomplishment of the purpose is otherwise against public policy. IV Scott on Trusts Sec. 377 (3d. ed. 1967). Thus, all charitable trusts (and by implication all charitable organizations, regardless of their form) are subject to the requirement that their purposes may not be illegal or contrary to public policy. See Rev. Rul. 71-447, 1971-2 C.B. 230; Restatement (Second), Trusts (1959) Sec. 377, Comment (c).
+
+In this case the organization induces or encourages the commission of criminal acts by planning and sponsoring such events. The intentional nature of this encouragement precludes the possibility that the organization might unfairly fail to qualify for exemption due to an isolated or inadvertent violation of a regulatory statute. Its activities demonstrate an illegal purpose which is inconsistent with charitable ends. Moreover, the generation of criminal acts increases the burdens of government, thus frustrating a well recognized charitable goal, i.e., relief of the burdens of government. Accordingly, the organization is not operated exclusively for charitable purposes and does not qualify for exemption from Federal income tax under section 501(c)(3) of the Code.
+
+Section 501(c)(4) of the Code describes civic leagues or organizations not organized for profit but operated exclusively for the promotion of social welfare.
+
+Section 1.501(c)(4)-1(a)(2)(i) of the regulations provides that an organization is operated exclusively for the promotion of social welfare if it is primarily engaged in promoting in some way the common good and general welfare of the people of the community. An organization embraced within this section is one which is operated primarily for the purpose of bringing about civic betterments and social improvements.
+
+Illegal activities, which violate the minimum standards of acceptable conduct necessary to the preservation of an orderly society, are contrary to the common good and the general welfare of the people in a community and thus are not permissible means of promoting the social welfare for purposes of section 501(c)(4) of the Code. Accordingly, the organization in this case is not operated exclusively for the promotion of social welfare and does not qualify for exemption from Federal income tax under section 501(c)(4).

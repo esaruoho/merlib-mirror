@@ -1,0 +1,223 @@
+---
+title: "From a Dreamer's Scratch Pad"
+source_domain: amasci.com
+source_path: ~tegan/poems/index.html
+order: 8875
+reachable_from_entry: false
+images: 0
+internal_links: 9
+extracted: 2026-08-07T17:16:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# From a Dreamer's Scratch Pad
+
+*Source page: `~tegan/poems/index.html`*
+
+# From a Dreamer's Scratch Pad
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### Hi, I'm Laura Gjovaag...
+
+This is a page where I have put my poetry, starting with stuff I wrote years ago (as Laura Dunham), and continuing to the more recent poems I've written. I don't claim to be good. I don't even claim to be mediocre. However, I've won a couple of prizes, been published in a couple of books. I guess that means that someone, somewhere, liked my poetry once upon a time. I truly hope you do, too.
+
+------------------------------------------------------------------------
+
+### From a Dreamer's Scratch Pad
+
+#### Click on the section title to go to that page of poetry
+
+### [From a Dreamer's Scratch Pad](p01.html)
+
+- Manifest Destiny
+- Los Libros
+- An American Sonnet: Newsweek
+- With the Future Left Behind
+- The Bus Driver Enroute to the First Stop Makes-Believe She is a Poet
+- Dreamscape Painted in Grey with Hints of Green Canvas
+- Unprepared to Accept Death
+- Loneliness Tastes Like a Math Book
+- 60 Years or 6,000 Silent Miles are too Near
+- Basketball Champs
+
+### [Short Thoughts Run Faster](p02.html)
+
+- A Poetic Morning
+- The Nurse's Office, Third Period
+- January Bantu
+- Origami Is My Favorite Pastime on Thursdays
+- My Homework Thinks It's a Kansas Tornado
+- Clarinet to Soloist
+- After a Basketball Game
+- Geometry at 11 O'Clock
+- So This is Writer's Block
+
+### [The New Nightmare](p03.html)
+
+- The Sun Sets Before It Can Rise
+- Cramming For The Calculus Test
+- The Road off Cemetery
+- The New Nightmare
+- while Listening to Rod Stewart on KUBE...
+- Landlocked in a Nightmare
+- I'd Rather be an Evergreen
+- The Final Day in an Alexandria Hotel with Friends
+- But it was only Memory
+- Walk Towards the Brightest Dark
+- Nonwishes from Middle Students
+
+### [A Blue Balloon into a Summer Sky](p04.html)
+
+- A Dream so Heavy it woke the Cat
+- Horizon Poem with the Hazen Jazz Ensemble
+- Love Letter and Drifting Pink Hearts
+- Living in the Megascopic World
+- Self Portrait
+- Writing in my Journal...
+- Poem Written on a Grease-Stained McDonald's Wrapper...
+
+### [Undefined Edges](p05.html)
+
+- Ten Natural Poems of Stories
+- The Race (Hazen 1990)
+- Band Waiting Area, Abbottsford B.C.
+- Nightmares Through an Open Window
+- Green M&M's and Legos
+- Black Walls Encrusted with Silence
+- Proud Experiences
+- Daydream/Nightmare
+- After a Quarrel at Girls' Camp
+- The Football Game
+- From a Dreamer's Scratch Pad
+- Starburst Wrappers and Typewriter Thoughts
+
+### [Louder Echoes](p06.html)
+
+- The Alygator Man
+- A Past to Create, A Future to Remember
+- The Taste of a Hospital is Linen Precision
+- One Step Closer to the Cliff
+- Leader, Friend
+- The First-Grade Carpet was Green
+- Symptoms of Daymares
+- Return from the Funeral
+- Reading about Beijing, July, 1989
+
+*This is all post high school stuff from here on out.*
+
+### [Respite](p07.html)
+
+- Untitled Love Poem
+- Respite
+- Waiting for the First Snow
+- Paper Clips
+- A Kiss
+- Rendezvous at Breakfast
+- The First Week at College
+- Dorm Dreamin'
+- Seeing You in Class the Next Day
+- Homework
+- Finals Week
+
+### [Holding Ragnarok Away](p08.html)
+
+- Poem for the Return of the Poet
+- The Poet Becomes Abstruse
+- Off to Grad School
+- Statue
+- Sigyn Talks to Her Husband
+- Lovepoem
+- Chorale of Youth
+
+### [Slivers of Memory](p09.html)
+
+- Embrace
+- Evening, Valentine's Day
+- That Old Cloud of Black Again
+- The Weave
+- The New Us
+- Poem for Dale
+- The Land of Fiction
+- Riding the Internet
+- Wedding Ring
+- Ars Poetica
+
+### [Another Life](p10.html)
+
+- Seattle Haiku
+
+I'll add more recent poems as I write them, I suppose.
+
+------------------------------------------------------------------------
+
+### All poetry on this site is Copyright ©1999 by Laura Gjovaag
+
+#### All rights reserved
+
+##### This poetry may be used and copied only with the inclusion of the copyright notice on each poem.\
+These poems are mine, I wrote them, I bled my soul into them, I don't want anyone else taking credit or blame for them.
+
+------------------------------------------------------------------------
+
+### Poetry Webring
+
+This [Poetry Webring](http://www.webring.org/cgi-bin/webring?ring=poetry&home) site owned by [Laura Gjovaag](mailto:realtegan@excite.com).\
+\[ [Previous 5 Sites](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&prev5) \| [Skip Previous](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&sprev) \| [Previous](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&prev) \| [Next](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&next) \| [Skip](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&skip) \| [Next 5 Sites](http://www.webring.org/cgi-bin/webring?ring=poetry&id=1612&next5) \| [Random Site](http://www.webring.org/cgi-bin/webring?ring=poetry&random) \| [List Sites](http://www.webring.org/cgi-bin/webring?ring=poetry&list) \]
+
+------------------------------------------------------------------------
+
+### The Manuscript
+
+##### Or, How I Used to Present My Poems
+
+My collection of poetry has been known for a long time as "From a Dreamer's Scratch Pad". It was a simple loose leaf notebook with a title page, quote page, dedication page and table of contents, then nearly uninterrupted poetry from there on out.
+
+My quote probably came out of Reader's Digest, my high school writing teacher, Mr Mitsui, couldn't stand Reader's Digest so we often slipped as many references to it as possible in our poetry.
+
+                              "Be careful of your thoughts;
+                          they may become words at any moment."
+                                                       -Iara Gassen
+
+I did divide my poems into sections, and what was included in each section changed through the years. I tried to always present my best poetry, with a sprinkling of older stuff (including some I had written in Middle School).
+
+The sections were as follows:
+
+- Short Thoughts Run Faster - Light poetry, stuff that didn't probe too deeply or think too hard. Simple thoughts.
+- The New Nightmare - Mostly dream stuff. Bizarre, floating stuff. For awhile, every poem in this section seemed to end with me hitting my alarm clock to shut it off.
+- A Blue Balloon into a Summer Sky - Love Poems. Enough said.
+- Undefined Edges - Some serious poetry. Some of these showed my true potential, some hinted at better writing.
+- Louder Echoes - Mostly death poems. Some of these are about as serious as I get. One poem that I usually included in this section won my first place in a Washington State poetry contest when I was still a Freshman in High School.
+
+The dedication read: "To my grandma, from whom I inherited writing" and included a poem by my favorite poet Langston Hughes, "The Dream Keeper".
+
+I've added several sections to the current version.
+
+- From A Dreamer's Scratch Pad - Lots of early poems, or poems that don't fit into the other categories.
+- Respite - College and my life during that time. These show me growing up, I think.
+- Holding Ragnarok Away - A mixed bag of poetry I've written as an adult.
+- Slivers of Memory - More recent poems. Some of my best poems are in these two sections.
+- Another Life - Stuff I've written as a married woman, some of it jointly with my husband.
+
+I have included virtually all the poetry I've written, bad and good. This makes the collection a bit lopsided in favor of the bad, but I know there are people out there who like all types. You may have to read several sections before finding something you can stand.
+
+------------------------------------------------------------------------
+
+### How To Write Freeverse Poetry
+
+1.  Look around you. There are things in your life, pictures that exist in your eyes. Look at them. *Look* at them.
+2.  Say, aloud, what you see. Say: "I see a tree bent by the wind." Say: "I see the fog rolling in."
+3.  Now say it with more detail. Say: "I see a young willow, in the wind, bending over to look at the delicate daisy at its foot." Say: "Like spilt milk, the fog is flowing over the valley, obscuring everything."
+4.  Write it down.
+5.  Arrange it so it looks *right*. Nobody knows what *right* is, except you. Listen to what your eyes tell you.
+6.  You have a picture, add tension: "The young willow bends to tell his friend the daisy how short life promises to be." The tension is in the message. The tension can be anything, put it in, or the poem won't give anything to its readers.
+7.  When you have the right combination of picture and tension, the poem is done.
+8.  Rinse.
+9.  Repeat.
+
+------------------------------------------------------------------------
+
+Please send comments to [realtegan@excite.com](mailto:realtegan@excite.com?subject=Poetry).\
+-Laura "Tegan" Gjovaag

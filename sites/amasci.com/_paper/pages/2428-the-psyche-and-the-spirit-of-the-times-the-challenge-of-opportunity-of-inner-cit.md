@@ -1,0 +1,31 @@
+---
+title: "The Psyche and the Spirit of the Times: The Challenge of Opportunity of Inner Citizenship"
+source_domain: amasci.com
+source_path: ~dcs/s05/spanglerabstract.html
+order: 2428
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T17:08:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Psyche and the Spirit of the Times: The Challenge of Opportunity of Inner Citizenship
+
+*Source page: `~dcs/s05/spanglerabstract.html`*
+
+### *The Psyche and the Spirit of the Times*
+
+# The Challenge and Opportunity of Inner Citizenship
+
+<img src="David%20Spangler%20Photo.jpg" data-align="left" width="123" height="123" alt="Spangler photo" />Inner Citizenship is a spiritual complement to whatever we do outwardly in the physical world to fulfill our civic duties and enhance our country's life. It recognizes that we are individuals of energy and spirit operating in an environment that also includes subtle realms of energy and spirit. What we do in those realms using our inner resources of mind, heart and spirit can affect our nation as surely as our votes.
+
+**David Spangler** is a writer and spiritual teacher. Since childhood, he has been aware of the subtle realms of life beyond the physical. He began teaching in 1964 and from 1970 to 1973 was co-director of the Findhorn Foundation Community in northern Scotland. He is a co-founder of the Lorian Association, a not-for-profit spiritual educational institution that provides both online and face-to-face programs in incarnational spirituality and world work, including a two-year master's degree program in contemporary spirituality. David is the author of many books on spirituality, including *The Call*, *Parent as Mystic*, *Mystic as Parent*, *Blessing*, and *The Story Tree*, a book of short stories. His most recent publication is *Manifestation*, a combination card deck and manual for exploring personal creativity.  His Web site is <u>[www.Lorian.org](http://www.Lorian.org)</u>.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 18 March 2005\
+\
+<webmaster@jungseattle.org>

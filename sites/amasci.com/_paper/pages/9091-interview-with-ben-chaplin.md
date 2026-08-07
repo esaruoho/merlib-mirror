@@ -1,0 +1,55 @@
+---
+title: "Interview with Ben Chaplin"
+source_domain: amasci.com
+source_path: ~toates/malick/trl/interviews/benif.html
+order: 9091
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:17:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Interview with Ben Chaplin
+
+*Source page: `~toates/malick/trl/interviews/benif.html`*
+
+# Inside Film Interview With Ben Chaplin
+
+This interview originally appeared in Inside Film on a date I can't find anywhere contained in it. Interview by Simon Goodman. Copyright of A&R Publishing, Limited.
+
+Game Over
+
+**Ben Chaplin's apprenticeship as the latest export of Cool Britannia is over. Simon Goodman spoke to him about how he manages to keep sane in a world full of poodle parlors, plastic surgeons and directors who send you off to boot camp.**
+
+Ben Chaplin moved to Hollywood by default. It wasn't work that sent him there. It wasn't ambition to become the greatest British living legend. He wasn't hankering to be to be the next boy from over here who's doing rather well over there.
+
+"It wasn't really a conscious move. I was chasing romance more than work. Then I met a couple of people there who saw me in a play in London and then I got an agent."
+
+That led to his film debut in *The Truth About Cats and Dogs* in which he starred opposite Uma Thurman. Chaplin then took the leading role opposite Jennifer Jason Leigh in Agnieszka Holland's version of Henry James' novel *Washington Square.* His next big feature film project is *Lost Souls.*
+
+Not bad for a lad who made his name on British TV as Matt, the surfing skunk pussy with agoraphobic tendencies in BBC sit-com *Game On.* Despite the fact that Ben has spent "more time out there than I have done over here in the past four years" and much to the disapointment of the cynics and the wannabes, he will never lose touch with his roots. Or dye them for that matter because he is not an advocate of Beverly Hills chic.
+
+"It's an interesting phenomenan. Some people think that just because I am working in Hollywood I have rejected England. That's so English. I'd never pretend to be American or adopt any aspect of the accent." Perhaps it is Chaplin's nostalgia for his home turf that influenced Terence Malick's decision to cast him in the role of Pvt. Bell.
+
+"You always make it better than it is when you're away from your loved ones. Terry always had this thing about Bell's wife--that my imaginings, my memories of the relationship were rose-tinted. The memories needed to be as good as that to keep Bell going."
+
+Chaplin acknowledges that, like the other actors in *The Thin Red Line*, he was a receptacle for Terence Malick's vision. "My journey is Terry's: he chose the journey for all the characters. We all represented something different. My character was the embodiment of love. I myself had this whole other journey in the film so I never felt more powerful as an actor as I did working on that film. Terry was a big enabler. However, I never felt more powerless as well. Terry's a visionary. You trust it because you are there for him. All of us were there to serve him."
+
+Chaplin's personal journey reflects one that most of the cast seem to travel through while filming.
+
+"The whole film was a massive life experience. I am now Ben Chaplin plus that film. It was intense." The intensity began with a nine-day World War II style boot camp hosted by a couple of Vietnam vets. "You had to have your rife with you the whole time and if you didn't you were seriously punished. Not just you but the entire platoon were sent on a two mile run in the tropics. I can't tell you how hot it was."
+
+Did anyone throw a wobbly?
+
+"No, but we all wanted to. We thought that it was going to make us all sick before filming. And we were! But during the process we all realised how absolutely necessary it was".
+
+What followed was an exhausting schedule that lasted five months. Though Chaplin is adamant that it wasn't on *Apocalypse Now* levels.
+
+"There were a few times when I went stir crazy. One time I took a production car without permission and just drove it back to the hotel. That is sinful and I could have been fired for it. No one found out. Once I got back to the town I rang up and told them where I was. I was going nuts.
+
+"When you partied you partied very hard and not in a particularly sensitive way. it was very male. You felt it happening to yourself. It wasn't anything you could control. There was a lot of drinking. We played pool. I was actually quite good. They were playing American rules, you've got Australian rules, then there's Queensland rules which are different to the New South Wales rules. We were close to few punch-ups around the table a lot of the time."
+
+Chaplin, however, is very aware that to compare his five months in the jungle with that of a real life experience smacks of the kind of luvvie bravado that gives his profession a bad name. "It seems disrespectful to to compare the bond that was created between all the actors with the bond between the soldiers who died in the actual conflict. On my level it was the most intense bonding I have ever gone through, There's a tenderness there which really comes across in the film. An experience like that stays with you forever."
+
+[Back to The Thin Red Line Interviews Page](index.html)

@@ -1,0 +1,114 @@
+From eskimo!uunet!newstf01.news.aol.com!newsbf01.news.aol.com!not-for-mail Mon Dec  5 15:55:06 1994
+Xref: eskimo alt.mindcontrol:1306
+Path: eskimo!uunet!newstf01.news.aol.com!newsbf01.news.aol.com!not-for-mail
+From: wha33@aol.com (Wha33)
+Newsgroups: alt.mindcontrol
+Subject: *seeking info: GWEN (w/Robert Becker excerpt,short)*
+Date: 3 Dec 1994 14:20:15 -0500
+Organization: America Online, Inc. (1-800-827-6364)
+Lines: 100
+Sender: news@newsbf01.news.aol.com
+Message-ID: <3bqgdf$3ai@newsbf01.news.aol.com>
+NNTP-Posting-Host: newsbf01.news.aol.com
+
+
+I'm seeking further info on something called the 'Ground-Wave Emergency
+Network" a nation-wide military communication system of VLF transmitters
+apparently already in place across the U.S. The first and only reference
+I've found to GWEN comes from the book Cross Currents by Robert Becker,
+author of The Body Electric . The pages concerning GWEN are excerpted
+below. While Dr. Becker may muffle his suspicions concerning a more
+sinister purpose to GWEN, his arguments concerning EMP and GWEN hint that
+he may privately feel otherwise. It certainly makes one wonder what the
+real purpose of this system might be. Anyone with any info or ideas
+concerning GWEN is urged to post here and/or send email.
+
+
+< excerpted from Cross Currents: The Startling Effects of Electro-Magnetic
+Radiation on your Health  by Dr. Robert O. Becker (Bloomsbury Publishing,
+1991- ISBN 0 7475 0761 9) >
+
+The Ground-Wave Emergency Network (GWEN)
+
+(...) GWEN is a communications system currently under construction that
+operates in the very low frequency (VLF) range, with transmissions between
+150 and 175 kHz. This VLF range was selected because its signals travel by
+means of ground waves- electromagnetic fields that hug the ground- rather
+than by radiating into the atmosphere. The signals drop off sharply with
+distance, and a single GWEN station transmits to a 360-degree circle
+radiating out from it to a distance of about 250 to 300 miles.
+
+The GWEN system consists of approximately 300 such stations, each with a
+tower 300-500 feet high. The stations are spaced from 200 to 250 miles
+apart, so that a signal can go from coast to coast by hopping from one
+station to another. When the system is completed in the early 1990's, the
+entire civilian population of the United States will be exposed to the
+GWEN transmissions.
+
+The rationale for the existence of this network is the government's
+concept that nuclear war is winnable if a fail-safe communications system
+is available for use during and following a nuclear attack. Such a system
+would permit the United States to order its nuclear-missile submarine
+fleet to launch an attack against the aggressor nation. The physical
+nature of nuclear war requires that this system operate by ground-wave
+transmission.
+
+Electromagnetic Pulse (EMP)
+
+One aspect of nuclear war that is not well publicized is the EMP
+phenomenon. An electromagnetic pulse  is a very short, intense burst of
+electromagnetic energy that is produced by the explosion of a nuclear
+weapon in space. If an EMP were produced by a nuclear explosion 100 miles
+above Kansas City, its energy would be so intense that it would shut off
+all electric-power systems, destroy all computers and magnetic disks or
+tape records, destroy the guidance systems of missiles and the computer
+and communications systems of military and commercial aircraft, and shut
+down all radio communications- across the entire United States <emphasis
+author's>.  The military organism would be decapitated. In the military
+scenario, the United States would then be faced with capitulation or
+nuclear destruction.
+
+Theoretically, ground-wave communications would still be possible.
+However, the theory is tenuous. The GWEN hardware is transistor based;
+even if placed in "hardened" bunkers, it would be vulnerable to an EMP. In
+addition, the EMP would produce major ground currents in the path of the
+GWEN signals that could decrease their transmission capabilities. Finally,
+the locations of all GWEN stations are known to the Soviets and thus are
+vulnerable to attack.
+
+Nevertheless, the military mind has conceived of using the GWEN network to
+maintain communications following such a decapitating EMP attack. This is
+not the place for a full argument concerning the values and options of
+nuclear war, but in my opinion the reason for the existence of GWEN is
+specious. Nuclear war is not winnable.
+
+And the potential harm to the civilian population has not been addressed.
+I am concerned not only because of the of the data summarized in chapter
+8, but because of the potential for behavioral and cognitive that have
+been discussed in this book. GWEN is a superb system, in combination with
+cyclotron resonance*, for producing behavioral alterations in the civilian
+population. The average strength of the steady geomagnetic field varies
+from place to place across the United States. Therefore, if one wished to
+resonate a specific ion in living things in a specific locality, one would
+require a specific frequency for that location. The spacing of GWEN
+transmitters 200 miles apart across the United States would allow such
+specific frequencies to be "tailored" to the geomagnetic-field strength in
+each GWEN area. While I doubt that this potential use has occurred to the
+planners of the GWEN network, or that such action could be deliberately
+taken by any portion of the federal government, the mere existence
+<emphasis author's> of the GWEN system may, at some future date, prove
+irresistible. 
+
+<end of excerpt>
+
+* Defined in Cross Currents as : " ... a mechanism of action that enables
+very low-strength electromagnetic fields, acting in concert with the
+Earth's geomagnetic field, to produce major biological effects by
+concentrating the energy in the energy in the applied field upon specific
+particles, <emphasis author's> such as the biologically important ions of
+sodium, calcium, potassium, and lithium. " and "(...has nothing to do with
+the cyclotron, an early type of particle accelerator used in atomic
+physics)." See the book for a fuller explanation of various kinds of
+resonance.
+
+

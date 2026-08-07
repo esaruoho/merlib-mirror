@@ -1,0 +1,14 @@
+Index of /~mwirkk/chess/laser 
+
+ Index of /~mwirkk/chess/laser 
+ Name Last modified Size Description 
+
+ Parent Directory 30-Jul-1998 20:25 - 
+ alc/ 14-Jan-2001 21:06 - 
+ au/ 14-Jan-2001 21:08 - 
+ fod/ 28-Jul-1998 12:24 - 
+ lc/ 28-Jul-1998 12:23 - 
+ lc98/ 28-Jul-2003 17:39 - 
+ misc/ 28-Jul-1998 12:24 - 
+ ow/ 14-Jan-2001 21:07 - 
+ pc/ 14-Jan-2001 21:07 -

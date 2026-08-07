@@ -1,0 +1,69 @@
+Question 10.4 
+
+ Question 10.4 
+ What's the best way to write a multi-statement macro?
+
+ The usual goal is to
+write
+
+a macro that can be invoked as if it
+were
+a statement
+consisting of a single function call.
+This means that the ``caller'' will be supplying the final semicolon,
+so the macro body should not.
+The macro body cannot therefore
+be a simple
+brace-enclosed
+compound statement,
+because
+syntax errors would result
+if it were invoked (apparently
+as a single statement, but with a resultant extra semicolon)
+as the if branch of an if/else statement with an explicit else
+clause.
+ The traditional solution,
+therefore, 
+is to use
+ #define MACRO(arg1, arg2) do { \
+ /* declarations */ \
+ stmt1; \
+ stmt2; \
+ /* ... */ \
+ } while(0) /* (no trailing ; ) */
+
+When the caller appends a semicolon, this expansion
+becomes a single statement regardless of context.
+
+(An optimizing compiler will remove any ``dead'' tests or
+branches on the constant condition 0, although lint may complain.)
+ If all of the statements in the intended macro are simple expressions,
+with no declarations
+or loops,
+another technique is to
+write a single, parenthesized expression
+using one or more comma operators.
+(For an
+example,
+see the
+first DEBUG() 
+macro in question
+ 10.26 .)
+This technique also allows a value
+to be ``returned.''
+
+ References:
+
+H&S Sec. 3.3.2 p. 45
+
+CT&P Sec. 6.3 pp. 82-3
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

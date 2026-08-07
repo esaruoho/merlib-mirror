@@ -1,0 +1,249 @@
+CSS specification/browser support page: Font Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ CSS 
+
+ Browsers 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ IExplorer 
+ Netscape 
+ Opera 
+
+ font-size-adjust 
+ -- X 
+ -- -- -- 
+
+ inherit 
+ -- X 
+ -- -- -- 
+
+ none 
+ -- X 
+ -- -- -- 
+
+ [Number] 
+ -- X 
+ -- -- -- 
+
+ font-stretch 
+ -- X 
+ -- -- -- 
+
+ inherit 
+ -- X 
+ -- -- -- 
+
+ [Relative Stretch] 
+ -- X 
+ -- -- -- 
+
+ [Explicit Stretch] 
+ -- X 
+ -- -- -- 
+
+ font 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ [Font-style] 
+ X X 
+ 3.0 4.0B2 
+ 3.5 
+
+ [Font-variant] 
+ X X 
+ 4.0 6.0 
+ 3.5 
+
+ [Font-weight] 
+ X X 
+ 3.0 4.0B2 
+ 3.5 
+
+ [Font-size] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ [Line-height] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ [Font-family] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ [caption|icon|menu] 
+ -- X 
+ 4.0 6.0 
+ 6.0 
+
+ [message-box|small-caption status-bar] 
+ -- X 
+ 5.5 6.0 
+ 6.0 
+
+ [messagebox|smallcaption statusbar] 
+ -- -- 
+ 4.0 -- -- 
+
+ [button|desktop|dialog 
+ document|field|info list|pull-down-menu workspace] 
+ -- -- 
+ -- 6.0 -- 
+
+ font-style 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ normal 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ italic 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ oblique 
+ X X 
+ 4.0B1 6.0 
+ 3.5 
+
+ font-variant 
+ X X 
+ 4.0B1 6.0 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ normal 
+ X X 
+ 4.0B1 6.0 
+ 3.5 
+
+ small-caps 
+ X X 
+ 4.0B1 6.0 
+ 3.5 
+
+ font-weight 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ [Weight Scale] 
+ X X 
+ 4.0B1 4.0B2 
+ 3.5 
+
+ [Explicit Weight] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ [Relative Weight] 
+ X X 
+ 4.0B1 4.0B2 
+ 3.5 
+
+ font-size 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ [Explicit Size] 
+ X X 
+ 3.0B1 4.0B3 
+ 3.5 
+
+ [Relative Change] 
+ X X 
+ 4.0B1 4.0B3 
+ 3.5 
+
+ [Length] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X X 
+ 3.0B1 4.0B3 
+ 3.5 
+
+ font-family 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ [Generic Family] 
+ X X 
+ 3.0 4.0B2 
+ 3.5 
+
+ [Specific Family] 
+ X X 
+ 3.0B1 4.0B2 
+ 3.5 
+
+ Boring Copyright Stuff...

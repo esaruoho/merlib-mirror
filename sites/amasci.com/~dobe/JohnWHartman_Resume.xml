@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO8859-1" standalone="no"?>
+<!-- Calls external XSL stylesheet -->
+<?xml-stylesheet type="text/xsl" href="JohnWHartman_Resume.xsl" ?>
+<!-- New format for Dobe's Punny Name Archive on 12-21-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: JohnWHartman_Resume.xml -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright June 7, 2002
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+ -->
+
+<resume xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
+	    xsi:schemaLocation="file:DobeResume.xsd">
+ <header>
+  <title>John W. Hartman's Resume in XML format</title>
+  <street>418 Avenue H</street>
+  <city>Snohomish</city>
+  <state>WA</state>
+  <zipCode>98290</zipCode>
+  <phone>360-568-0336</phone>
+  <email>dobe@eskimo.com</email>
+  <website>http://www.eskimo.com/~dobe/</website>
+ </header>
+
+ <name>John W. Hartman</name>
+
+ <docbody>
+  <objective>
+   <location>Permanent employment in North Puget Sound Region of Washington State</location>
+  </objective>
+  
+  <objective>
+   <primary>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Application, Web or Web Services development utilizing&#160;</primary>
+   <primary1>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Visual Basic.NET / ASP.NET and XML / XSLT</primary1>
+  </objective>
+  <objective>
+   <secondary>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;C# / VB 6.0 / Java / XHTML / Technical Editing / Documentation / </secondary>
+   <secondary1>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Office Automation (VBA) / API Support / Consulting / Help Desk /</secondary1>
+   <secondary2>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Systems Management / Troubleshooting / Customer Service</secondary2>
+   
+  </objective>
+  <objective>
+   <tertiary>Visual Basic .NET Reference in compiled Help format (.CHM)</tertiary>
+   <tertiary1>Visual Basic 6.0 projects with source code and screenshots</tertiary1>
+   <tertiary2>XHTML / ASP / CSS / JavaScript projects and references</tertiary2>
+   <tertiary3>XML / XSLT example includes my own resume in XML</tertiary3>
+  </objective>
+
+  <education>
+
+   <college>
+    <collegeName>Intensive study in Visual Basic.NET</collegeName>
+    <townState>Snohomish, WA</townState>
+    <years>2001-2002</years>
+    <note1>Visual Basic.NET Reference as shareware on website
+    </note1>
+   </college>
+
+   <college>
+    <collegeName>Everett Community College</collegeName>
+    <townState>Everett, WA</townState>
+    <years>1999-2000</years>
+    <program GPA="3.9+ GPA">Advanced Programming Certificate</program>
+    <note1>Visual Basic, Java, C++, API, SQL, XHTML, XML, XSLT,
+    Systems Analysis and Design, Access, Excel, Word, VBA,
+    Interpersonal Communications
+    </note1>
+   </college>
+
+   <college>
+    <collegeName>Pierce Community College</collegeName>
+    <townState>Puyallup, WA</townState>
+    <years>1983-1985</years>
+    <program GPA="3.2+ GPA">Electronic Engineering</program>
+     <note1>A.A. Technology - Electronic Engineering Certificate
+     </note1>
+   </college>
+
+  </education>
+
+  <experience>
+
+   <company>
+    <companyName>Self-Employed</companyName>
+    <position>Development Consultant</position>
+    <townState>Snohomish, WA</townState>
+    <years>2001-2002</years>
+    <workNotes>
+	Application / Web / Tutoring / Automation / Troubleshooting
+    </workNotes>
+   </company>
+
+   <company>
+    <companyName>Attachmate</companyName>
+    <townState>Bellevue, WA</townState>
+    <years>2000-2001</years>
+    <position>API Team Developer Support</position>
+
+   <workNotes>
+	Successful Helpdesk experience on API Team, supporting core host-to-terminal product applications and interfaces, using OLE, HLLAPI, and Objects in various environments and languages including Visual Basic 6, ASP, XHTML, Java, XML, C++, as well as Scripting and more, on virtually every Win9X, WinNT and Win2K Operating System platform and version	
+	</workNotes>
+   </company>
+
+   <company>
+    <companyName>Boeing Commercial Aircraft</companyName>
+    <townState>Everett, WA</townState>
+    <years>1985-1999</years>
+    <position>Flight Test Instrumentation Engineering Technician</position>
+    <workNotes>
+	Extensive successful experience in international customer service, electronics,
+	and engineering team communications.  Utilized a wide range of computers,
+	transducers and other electronic equipment for fourteen years.
+    </workNotes>
+   </company>
+
+  </experience>
+
+  <distinctions>
+	<notes>http://www.eskimo.com/~dobe/index.html&#160; &#160; &#160;(since 1996)</notes>
+	<notes>http://www.eskimo.com/~dobe/JohnWHartman_Resume.xml</notes>
+  </distinctions>
+ </docbody>
+
+ </resume>

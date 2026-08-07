@@ -1,0 +1,103 @@
+moved to http://amasci.com/wing/rotbal.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AIRPLANE FLIGHT ANALOGY                           1997 William Beaty
+
+Imagine a huge, disk-shaped helium balloon floating in the air.  The disk
+stands on edge.  A small platform sticks out of its rim.  (If you feel the
+need, you should imagine a counterweight on the opposite rim to the
+platform, so the balloon hovers without rotating.)
+
+            _____
+         _--     --_
+        /           \    DISK-BALLOON WITH
+     __|      .      |   A SMALL PLATFORM
+       |             |
+        \_         _/
+          --_____--
+
+Now suppose I were to leap from the top of a ladder and onto the balloon's
+small platform.  The balloon would move downwards.  It would also rotate
+rapidly counterclockwise, and I would be dumped off. 
+
+Next, suppose we have TWO giant disk-shaped balloons stacked adjacent to
+each other like pancakes.  They do not touch each other.  Both have
+platforms.  If I jump onto the first platform, but then I immediately leap
+onto the next platform, I can stay up for a tiny bit longer. 
+
+Next, suppose we have a row of these disk-balloons one KM long.  Now I can
+run from platform to platform, and I will stay aloft until I run out of
+balloons.  Behind me I leave a trail of rotating, downward-moving
+balloons.  I can remain suspended against gravity because I am flinging
+mass downwards in the form of helium mass trapped inside the balloons.  I
+am also doing much more work than necessary, since the energy I expend in
+rotating the balloons does not contribute to my fight against gravity. 
+(In truth, all my work is really not necessary, I could simply walk along
+the Earth's surface with no need to move any massive gasbags!) 
+
+To make the situation more symmetrical, we shall add a second row of
+platform-bearing balloons: 
+
+            _____                 _____
+         _--     --_           _--     --_
+        /           \         /           \    END VIEW OF TWO LONG
+       |      .      |__   __|      .      |   ROWS OF DISK-BALLOONS
+       |             |       |             |
+        \_         _/         \_         _/
+          --_____--             --_____--
+
+There's one platform for each of my feet.  I can run forwards, leaving a
+trail or "wake turbulence" behind me.  The "wake" is composed of rotating,
+descending balloons. 
+
+An aircraft does much the same thing as me and my balloons: it remains
+aloft by throwing down a spinning wake of mass.
+sive, vortex-threaded
+air.  My balloons represent cylindrical parcels of air which can move with
+closed streamlines.  Real aircraft use "invisible balloons."  The
+"invisible balloons" have no set boundaries, although they contain
+significant amounts of constrained mass.
+
+            _____                 _____
+         _--     --_           _--     --_
+        /           \    |    /           \    FRONT VIEW OF AIRCRAFT,  
+       |      -----_____/ \_____-----      |   W/ROTATING AIR MASSES
+       |             |  \_/  |             |
+        \_         _/         \_         _/
+          --_____--             --_____--
+
+If I walk slowly along my rows of balloons, I must leap upwards to each
+platform, and each balloon is thrown violently downward.  If I run very
+fast, my feet touch each platform briefly, and the situation resembles my
+running along the solid ground.  Similarly, if a plane flys slowly, it
+must fling the vortex violently downward.  If it flys fast, it needs only
+to barely touch each "balloon."  Hence, faster flight is desireable
+because it requires that far less work be performed upon the air.
+
+All of my reasoning implies that modern aircraft actually remain aloft by
+launching "smoke rings" downwards.  Imagine one of the cars in the old
+cartoon 'The Jetsons,' with those little white rings shooting down out of
+the underside!  But rather than launching a great number of individual
+rings, modern aircraft throw just one very long ring downwards, and they
+are lifted by the upward reaction force. 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L
+
+

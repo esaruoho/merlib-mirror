@@ -1,0 +1,76 @@
+JBM - Bibliography
+
+ Bibliography 
+ |
+ Calculations 
+ |
+ Downloads 
+ |
+ FAQ 
+ |
+ JBM 
+ |
+ Links 
+ |
+ Personal 
+ |
+ Software 
+ |
+ Topics 
+
+ A new topic, Elevation , has been added. It shows
+ the differences in trajectories when zeroing at different atmospheric conditions and how to calculate
+ a trajectory for different atmospheric conditions.
+
+ about these ads... 
+
+ JBM - Bibliography
+
+ This bibliography is divided into three sections, 
+ interior ,
+ exterior and
+ miscellaneous . It's not
+ meant to be the last word on ballistics. It is a list of the 
+ references I and others have used in creating ballistics programs. 
+ If you have any references that may be of use to others, please email 
+ me.
+
+ Exterior 
+
+ Exterior ballistics references. Ballistics dealing with bullet flight
+ after leaving the effects of the propellant gases.
+
+ Interior 
+
+ Interior ballistics references. Ballistics dealing with the propellant
+ effects.
+
+ Miscellaneous 
+
+ Other references, I've used that aren't necessarily related to ballistics.
+ Or, they just didn't seem to fit into "just interior" or "just exterior".
+
+ Information Sources...
+
+ Aside from public and university libraries, the following have been very
+ useful in obtaining many of documents. Both NTIS and DTIC reference the
+ documents by the "AD" numbers listed in the references.
+
+ NTIS 
+
+ (National Technical Information Service), U.S. Department of Commerce, 
+ 5285 Port Royal Road, Springfield, Virginia, 22151. (703) 487-4650.
+
+ DTIC 
+
+ (Defense Technical Information Center), DTIC Customer Service Help Desk, 
+ Special Programs Branch (DTIC-BLS), 8725 John J. Kingman Road, Suite 
+ 0944, Ft. Belvoir, VA 22060-6218, Commercial (703) 767-8222 / DSN 427-8222, 
+ 1-800-CAL-DTIC (225-3842), [menu selection 0].
+
+ about these ads... 
+
+ JBM Small Arms Ballistics . 
+ Last update 30 June 2007, Copyright &copy; 1996-2007
+ JBM 
+ [V]

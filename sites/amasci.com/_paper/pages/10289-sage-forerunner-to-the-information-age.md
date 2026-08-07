@@ -1,0 +1,79 @@
+---
+title: "SAGE forerunner to the information age"
+source_domain: amasci.com
+source_path: ~wow-ray/sage28.html
+order: 10289
+reachable_from_entry: false
+images: 7
+internal_links: 0
+extracted: 2026-08-07T17:18:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SAGE forerunner to the information age
+
+*Source page: `~wow-ray/sage28.html`*
+
+**<img src="25ad2.gif%20(converted%206).gif" data-align="right" width="161" height="160" />*SAGE* **** Cold-War Forerunner to the Information Age**
+
+The anxiety caused by a Cold-War with an adversary unexpectedly equipped with nuclear weapons induced the United States to rapidly develop a number of [surveillance and warning](http://earlywarning.westgeorgia.org/) systems. Among the more famous are Distant Early Warning (DEW) radar and the Ballistic Missile Early Warning System (BMEWS). Their massive radomes or huge phased array antenna made a dramatic profile in the arctic landscape. Far less well known but actually more widespread and expensive was the SAGE air defense command and control system network.
+
+SAGE which means Semi-Automated Ground Environment was the brain child of [Dr. George E. Valley](valley.jpg), an MIT Physics Professor who was looking for a way to protect his neighborhood from low-flying bombers. He thought up a way to interconnect hundreds of simple continuous-wave radar via telephone lines and computers to provide the low-altitude coverage missing in conventional Ground Control of Interception (GCI) radar systems. It wouldn't work quite that way, but George had a lot to do with how it did work.
+
+George Valley needed a computer and he found one called "[Whirlwind](http://ei.cs.vt.edu/~history/50th/whirlwind.b2.jpg)" that was being developed by MIT Servo-Lab graduate-student engineers, led by [Jay Forrester and Robert Everett](http://theory.lcs.mit.edu/classes/6.972/Core%20Report.html), to control a Navy flight simulator. By 1949, they were having difficulty with the simulator, and Valley agreed to take over their computer for an Air Force interception experiment called "Project Charles". Somewhat successful with the "Charles" experiment, MIT formed the "Lincoln Laboratories", and teamed up with IBM, Bell Labs and others to build the SAGE continental air defense network. [Twenty-two](http://www.pinetreeline.org/boundary/bound14.jpg) interconnected SAGE centers were constructed in the United States and one [underground](http://www.pinetreeline.org/slides/slide24.html) center was built in Canada.
+
+<img src="sage_h.jpg" data-x-sas-useimagewidth="" data-x-sas-useimageheight="" data-align="right" width="250" height="176" />SAGE buildings, like the one shown here at Grant County Airport, WA, were hardened concrete blocks or bricks with no decoration or distinctive architectural features. Radar inputs were brought in from all over the country-side over common telephone lines, so there were no classy radomes or antenna masts. With over one-hundred thirty thousand square feet of floor space, each center consisted of either a 150x150 foot four story block or a 150x270 three story brick. A center contained two 55,000 vacuum tube, 32 bit, three megawatt computers. Except for their size and the fact that they consumed more electricity that the City of Moses Lake, they were a lot like circa 1987 personal computers. Like the Grant County blockhouse, SAGE control centers were often located in the middle of Strategic Air Command Bases so that most folks never got to see one.
+
+Some have suggested that SAGE would not have worked in a "hot war"; fortunately we never had to find out. Even though, on at least one surprise attack SAC did thoroughly penetrate SAGE defenses, the 1962 level of SAGE deployment helped to make the US an uninviting bomber target during the Cuban Missile crisis.
+
+Considering the functionality obtained from a couple of early-PC-sized computers, SAGE was one of the engineering marvels of the century. In fact if it looked better, it might have been ranked with the Eiffel Tower, the Saturn Rocket or the Golden Gate Bridge for engineering accomplishment. It also pioneered some of the most of the important technology used to facilitate internet processing today: i.e., the modem, the mouse \[light gun\], multi-tasking, array processing, computer learning, fault detection, magnetic memory, and interactive computer graphics. Most important, it worked well enough for each center to coordinate about 100 [operators](http://www.pinetreeline.org/slides/slide25.html), track 300 simultaneous flights, control numerous sorties against a maneuvering radar-jamming "enemy", and coordinate "friendly" NIKE and Bomarc defenses.
+
+<img src="gfcenter.gif" data-x-sas-useimagewidth="" data-x-sas-useimageheight="" data-border="2" data-align="right" width="238" height="271" alt="Great Falls Air Defense Sector" />One of the more interesting SAGE centers was the 28th Air Division in Great Falls Montana. While most centers were reliable (Average system down time was about four hours/year --both computers). During most years, 28th Air Division had zero down time because the 28th shared her computer and displays with the FAA Great Falls Air Route Traffic Control Center. Great Falls Center was operated from 1962 to 1976 from the Malmstrom AFB SAGE site. As the first computerized ARTCC in the FAA, Great Falls was generally ignored by the FAA, both as history and technology, because FAA directors had already decided to go for "modern" equipment for the [National Air Space](http://www.faa.gov/history.htm) System. Never-the-less the Great Falls Center was maintained to console the Air Force after the FAA had rejected most options for sharing equipment. Great Falls Center worked from the beginning with few hitches other than the need for regular programming changes to reinstall separation boxes, which were ignored when "vanilla" SAGE software versions were released. Great Falls Air Traffic Controllers were among the most productive in the country, which they advertised whenever controllers in Chicago or New York got raises to compensate for the immense workload at those centers.
+
+I was a 2nd Lt. "blue-suit" programmer at Great Falls from 1966 to 1969 when the Air Force replaced the civilian System Development Corporation personnel with military staff for site program maintenance. I would like to contact airmen or civilians who have worked in SAGE, the Great Falls ARTCC or any others who had notable SAGE operational or design experiences. In particular, I am interested in SAGE operations during the Cuban Missile Crisis or the famous SAC sneak attack.
+
+<img src="drum.jpeg" data-x-sas-useimagewidth="" data-x-sas-useimageheight="" data-border="1" data-align="right" width="196" height="130" />I would also like to contact anyone with knowledge of unique or significant hardware features. Such as flying drum heads (like in the baumeister patent), input-output logic or fault detection. I would like to obtain copies of programming specifications or operational specifications for SAGE, the Whirlwind Cape Cod. project Charles, etc.
+
+Please send comments, corrections or insights to [Jim Ray](jim.gif) at: <wow-ray@eskimo.com>
+
+ 
+
+Interesting Cold-War air defense links:
+
+> <table width="550" height="26">
+> <colgroup>
+> <col style="width: 50%" />
+> <col style="width: 50%" />
+> </colgroup>
+> <tbody>
+> <tr>
+> <td data-valign="top"><p><a href="http://earlywarning.westgeorgia.org/">Early Warning</a></p>
+> <p><a href="http://www.radomes.org/museum/">Air Defense Museum</a></p>
+> <p><a href="http://www.togger.com/_main_page.shtml">Jeff's Sage Site</a></p>
+> <p><a href="http://www.mitre.org/pubs/showcase/sage/sage_feature.html">MITRE Sage Site</a></p>
+> <p><a href="http://www.jps.net/ethelen/t_tour.html#2100">NIKE site tour (San Francisco)</a></p>
+> <p><a href="http://www.pinetreeline.org/">Pinetree Line (Canada)</a></p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p>
+> <p> </p></td>
+> <td><p><img src="lightgun2.jpg" data-border="1" data-align="top" width="220" height="93" /></p>
+> <p>Light Gun</p>
+> <p><a href="mailto:wow-ray@eskimo.com"><img src="../../../../Desktop%20Folder/whirlwind%20lite/corelittle.jpg" data-border="1" data-align="middle" width="216" height="102" /></a></p>
+> <p>Core Memory</p>
+> <p><a href="mailto:wow-ray@eskimo.com"><img src="../../../../Desktop%20Folder/whirlwind%20lite/modulator.jpg" data-border="1" data-align="bottom" width="226" height="101" /></a></p>
+> <p>Modem</p></td>
+> </tr>
+> <tr>
+> <td></td>
+> <td></td>
+> </tr>
+> </tbody>
+> </table>

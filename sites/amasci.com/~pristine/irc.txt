@@ -1,0 +1,1184 @@
+Pure Mac: IRC, MUD & Instant Messaging - Software for Macintosh 
+
+ IRC, MUD & Instant Messaging 
+
+ Web 
+
+ Pure-Mac.com 
+
+ IRC 
+ Multiple IM 
+ AIM 
+ LAN 
+ MUD/MUSH 
+
+ Colloquy 
+ Conversation 
+ IdentD 
+ ircII 
+ Ircle 
+ Irssi 
+ MacIrssi 
+ Mice iRC 
+ ShadowIRC 
+ Snak 
+ X-Chat Aqua 
+ Xirc 
+ IRC Bots 
+ Eggdrop 
+ infobot 
+ iroffer 
+
+ Adium 
+ Fire 
+ JBuddy 
+ Proteus 
+ Jabber 
+ Adium 
+ Coccinella 
+ Fire 
+ iChat 
+ JBuddy 
+ Proteus 
+ Psi 
+
+ AIM 
+ iChat 
+ ICQ 
+ AIM 
+ ICQ 
+ Icy Juice 
+ MSN 
+ aMSN 
+ Mac Messenger 
+ Mercury 
+ MSN Messenger 
+ Yahoo 
+ ChitChat 
+ Yahoo! Messenger 
+
+ Adium 
+ BitWise 
+ JBuddy 
+ iChat 
+ QuickPopup 
+ SnapMail 
+ Visual Chat 
+ PalaceChat 
+ The Manor 
+ Add-Ons 
+ Chax 
+
+ Atlantis 
+ Cantrip 
+ GGMud 
+ MudMagic 
+ MudWalker 
+ Nuntius 
+ Rapscallion 
+ Savitar 
+ TinTin++ 
+ TinyFugue 
+ Trebuchet Tk 
+
+ Internet Relay Chat (IRC) Help 
+ MUD Connector 
+ Rachel's MOO List 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Adium X 1.2 
+
+Adium is a free instant messaging application for Mac OS X, released
+under the GNU GPL and developed by the Adium team. With Adium, you can
+connect to any number of messaging accounts on any combination of
+supported messaging services and then chat with other people using those
+services.
+
+Adium supports AIM (OSCAR), ICQ, Yahoo!, Yahoo! Japan, MSN, Jabber,
+Lotus Sametime, Bonjour, MySpace IM, Novell GroupWise, QQ, and Gadu-Gadu.
+
+ License : Freeware
+ Author/Publisher : The Adium Team
+ Modification Date : January 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 19.2 MB
+
+ Version History 
+
+ Home Page 
+
+ aMSN 0.97 
+
+aMSN is a free open source MSN Messenger clone, with features such as:
+ * Display pictures
+ * Custom emoticons
+ * Multi-language support (around 40 languages currently supported)
+ * Webcam support
+ * Sign in to more than one account at once
+ * Full-speed File transfers
+ * Group support
+ * Normal, and animated emoticons with sounds
+ * Chat logs
+ * Timestamping
+ * Event alarms
+ * Conferencing support
+ * Tabbed chat windows
+
+ License : Freeware
+ Author/Publisher : AMSN Project
+ Modification Date : December 25, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 11.6 MB
+
+ Home Page 
+
+ AOL Instant Messenger 4.7 
+
+AOL Instant Messenger(AIM) allows you to send instant messages to other people who use AOL, AIM, ICQ, or certain mobile phones.
+The Mac version is not currently being developed by AOL. iChat is now the official AIM client for Macs.
+
+ License : Adware
+ Author/Publisher : AOL
+ Modification Date : February 20, 2004
+ Requirements : Mac OS X 10.1 or later or Mac OS 9 or later
+
+ Download 
+File Size: 3.4 MB - version 4.7
+
+ Download 
+File Size: 2.6 MB - version 4.3
+
+ Download 
+File Size: 3.3 MB - version 4.0.972
+
+ Home Page 
+
+ Atlantis 0.9.8.6 
+
+Beginning with the earliest MUDs (Multi User Dungeons), on through
+today's MUSHes, MUXes, MOOs, MUCKs and all the other varied offspring of
+the original MUD, there have been text-based multiuser games around
+since the early days of the Internet. But to connect to these MU*s, you
+generally need a client slightly more advanced than plain old telnet!
+
+Atlantis is a client specifically designed to aid in playing those type
+of games. It is designed from the ground up entirely in Cocoa, and
+integrates with system services - such as the Mac OS X spellchecker - as
+much as possible.
+
+ License : Freeware
+ Author/Publisher : Riverdark Studios
+ Modification Date : December 23, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.5 MB
+
+ User Manual 
+
+ Home Page 
+
+ BitWise IM 1.7.3 
+
+BitWise IM: The power and privacy you should expect from IM 
+Text, File Sharing, Whiteboards, Voice, Encryption and more.
+BitWise is the first cross platform, encrypted, direct-connect instant
+messenger offering the same features on Windows, Linux and Mac OS X.
+Without ads or spyware, BitWise is loaded with powerful features like
+encryption, a "tabbed" interface, whiteboards, logging, offline
+messaging and more.
+
+ License : Shareware, $4 a month per user
+ Author/Publisher : Bitwise Communications, LLC
+ Modification Date : June 24, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.9 MB
+
+ Home Page 
+
+ Cantrip 0.8a16 
+
+Cantrip is a client for connecting to Multi-User
+Dungeons/Domains/Dimensions, otherwise known as MUDs. MUDs are, put
+simply, online multiplayer text-based adventure games. There are
+hundreds of MUDs that one can play, most of which for free.
+
+ License : Freeware
+ Author/Publisher : James Callender
+ Modification Date : May 1, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.1 MB - For Tiger
+
+ Download 
+File Size: 1.1 MB - For Panther
+
+ Home Page 
+
+ Chax 2.1 
+
+Chax is a collection of minor modifications and additions that make using Apple's iChat more enjoyable.
+
+Features include:
+ - Growl notifications for new messages and users changing status
+ - Automatically resize the contact list to fit the number of visible users
+ - Built-in log viewer
+ - Activity log that displays your contacts' status changes
+ - Toggle text status visibility of users
+ - Always on top option for contact list, message windows and AV chats
+ - Set font of names, status messages, and group separators
+ - Option to auto-accept text chats, skipping new message notification window
+ - Show status changes directly in the message window
+ - Additional unread message notifications in the dock
+ - Properly use ICQ accounts without sending text formatting in messages
+
+ License : Freeware
+ Author/Publisher : Kent Sutherland
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 1.1 MB - Chax 2.1 for Leopard
+
+ Download 
+File Size: 1.1 MB - Chax 1.5 for Tiger
+
+ Home Page 
+
+ ChitChat 1.2.2 
+
+ChitChat, an open source client for Yahoo! Chat. It enables the user to
+communicate with others over the global Yahoo! Chat network.
+
+ License : Freeware
+ Author/Publisher : GostCoder
+ Modification Date : October 19, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Coccinella 0.96.4.1 
+
+Jabber chat client with whiteboard communication
+Share a common window on your computer with two or more other Coccinella users.
+It runs in two different network topologies, each with its specific
+feature. The peer-to-peer mode allows client to connect directly to each
+other, without an intermediate server. The Jabber server system of
+instant messaging (IM) contains central management of user resources,
+such as buddy lists, gateways to other IM systems (ICQ, IRC, MSN
+Messenger, ...), and much more.
+
+ License : Freeware
+ Author/Publisher : Mats Bengtsson
+ Modification Date : January 8, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.1 MB
+
+ Home Page 
+
+ Colloquy 2.1 (3761) 
+
+Traditionally, chat clients on the Mac have been anything but glamorous.
+Colloquy is an advanced IRC & SILC client which aims to fill this void.
+By adhering to Mac OS X interface conventions, Colloquy has the look and
+feel of a quality Mac application.
+
+ License : Freeware
+ Author/Publisher : Timothy Hatcher
+ Modification Date : October 15, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 7.0 MB
+
+ Home Page 
+
+ Conversation 2.14 
+
+Conversation is a unique IRC client developed with ease of use in mind.
+It offers the true Mac OS X experience.
+
+The discussion layout is clear and easy to read. Users names all have a
+unique color. In version 2 you can modify this color for your favorite
+on-line friends. It displays Smileys and URLs are clickable.
+
+Manage your channels like your play list. In addition to the original
+iChat like interface, Conversation 2.0 offers an optional single window
+mode, like iTunes. Switch between the two modes by clicking on the Zoom
+(green) button.
+
+Simplicity. Menu organisation respects Mac OS X standards - so you
+already know how to use it. The interface is simple but gives you access
+to most IRC commands - No /commands to learn.
+
+Connect to multiple servers at the same time. The Favorite window is now
+organised hierachically, showing you which channel belongs to which
+server.
+
+ License : Freeware
+ Author/Publisher : Philippe Robin
+ Modification Date : June 19, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Eggdrop 1.6.17 
+
+Eggdrop is the world's most popular Open Source IRC bot, designed for
+flexibility and ease of use, and is freely distributable under the GNU
+General Public License (GPL). Eggdrop was originally developed by Robey
+Pointer; however, he no longer works on Eggdrop so please do not contact
+him for help solving a problem or bug.
+
+The oldest IRC bot still in active development (Eggdrop was created in 1993)
+
+ License : Freeware
+ Author/Publisher : EggHEADS.org
+ Modification Date : August 22, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 998 Kb
+
+ Download Page 
+
+ Home Page 
+
+ Fire 1.5.6 
+
+Fire is a multi-protocol internet Instant Messaging client based on
+freely available libraries for each service. It is released under the
+GNU GPL. All services are built off of GPL'd libraries, including
+firetalk, libicq2000, libmsn, jabber, and libyahoo2 (Linux libraries).
+Fire can handle similtaneous connections to AIM, ICQ, Yahoo!, IRC, MSN
+and Jabber.
+
+ License : Freeware
+ Author/Publisher : Epicware
+ Modification Date : February 15, 2006 - No Longer in Development
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.8 MB
+
+ Home Page 
+
+ GGMud 0.7 
+
+An open source MUD client based on TinTin+.
+
+ License : Freeware
+ Author/Publisher : GGSoft
+ Modification Date : July 25, 2007
+ Requirements : Mac OS X 10.3 or higher and X11
+
+ Download 
+File Size: 17.4 MB
+
+ Home Page 
+
+ iChat 4.0 
+
+Filled with cool new features, iChat turns any video chat into an event.
+Video backdrops, Photo Booth effects, photo slideshows, Keynote
+presentations, even movies on your Mac- you can share it all using
+iChat.
+
+ License : Included with Mac OS X
+ Author/Publisher : Apple
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.5
+
+ Home Page 
+
+ ICQ 3.4 
+
+One of the world's largest cross-platform online communities. Version
+3.4 of ICQ for Mac Brings you AOL interoperability, as well as better
+compatibility with Mac OS X.
+
+ License : Freeware
+ Author/Publisher : Mirabilis
+ Modification Date : July 31, 2003
+ Requirements : Mac OS X or Mac OS 9
+
+ Download 
+File Size: 3.7 MB
+
+ Download 
+File Size: 1597 Kb
+
+ Home Page 
+
+ Icy Juice 1.0.2 
+
+Icy Juice is still not feature-complete, and the current release is a
+preview and an invitation for users to express their needs and
+expectations from an ICQ client.
+
+ License : Freeware
+ Author/Publisher : Mitz Pettel
+ Modification Date : August 24, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ IdentD 2.5.1 
+
+Since Mac OS X 10.3, there is no identd server on the system.
+
+So I've decided to build a standalone identd server.
+
+This server runs on Panther and Tiger and is provided with a preference
+pane that allows you to easily start or stop it.
+
+This identd server returns the short username of the user which is
+currently logged in or your choice of username.
+
+This kind of server could be useful if your Macintosh is behind a proxy
+server which requires authentication or when you use IRC.
+
+ License : Freeware
+ Author/Publisher : Gallerand Sebastien
+ Modification Date : March 12, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 272 Kb
+
+ Home Page 
+
+ infobot 0.45.3 
+
+The infobot connects to an Internet Relay Chat (IRC) server, joins some
+channels (maybe), and begins accumulating factoids. To run one, download
+the source, uncompress it, untar it, edit the config files, and its up.
+Interacting with the bot is pretty straightforward. The bot will
+interact via message or on-channel.
+
+ License : Freeware
+ Author/Publisher : infobot.org
+ Modification Date : January 2, 2001
+ Requirements : Mac OS X
+
+ Download 
+File Size: 110 Kb
+
+ Download Page 
+
+ Home Page 
+
+ ircII 20060725 
+
+ircII is an IRC and ICB client that runs under most UNIX platforms. It comes in source
+form and is completely free of any charges or fees. The ircII project is a group of people
+who maintain the source code, incorporating fixes and new features.
+
+ License : Freeware
+ Author/Publisher : ircII Project
+ Modification Date : July 25, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 700 Kb
+
+ Home Page 
+
+ Ircle 3.1.2 
+
+Ircle is a Macintosh program to use IRC (Internet Relay Chat). IRC enables you to talk with typed messages, in realtime, to other Internet users around the world. IRC is
+organized in channels on a specific topic. You can also talk privately with someone.
+ircle supports multiple server connections, AppleScript, video sending and more.
+
+ License : Shareware, $20
+ Author/Publisher : Onno R. Tijdgat
+ Modification Date : February 12, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 997 Kb - version 3.1.2
+
+ Download 
+File Size: 636 Kb - version 3.1.2
+
+ Download 
+File Size: 538 Kb - version 3.1.2
+
+ Home Page 
+
+ iroffer 1.3b11 
+
+iroffer is a software program that acts as a fileserver for IRC. It is
+similar to a FTP server or WEB server, but users can download files
+using the DCC protocol of IRC instead of a web browser. Unlike similar
+programs, iroffer is not a script, it is a standalone executable written
+entirely in c from scratch with high transfer speed and efficiency in
+mind. iroffer has been found to transfer over 50MByte/sec over a gigabit
+ethernet connection.
+
+ License : Freeware
+ Author/Publisher : iroffer.org
+ Modification Date : December 12th, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 124 Kb
+
+ Download Page 
+
+ Home Page 
+
+ Irssi 8.11 
+
+Irssi is a terminal based IRC client for UNIX systems. It also supports SILC and ICB
+protocols via plugins.
+
+ License : Freeware
+ Author/Publisher : The Irssi Project
+ Modification Date : April 25, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ JBuddy Messenger Pro 2.4.0822 
+
+Java based multi-protocol instant messenger. 
+Choose your Enterprise IM backend: 
+JBuddy Message Server 
+Lotus Sametime 
+Jabber (XMPP) 
+Instant Messaging promises to streamline business communications and
+help avoid phone tag and endless meetings. You need the benefits, yet
+are unhappy with the compromises in other IM clients - virus exploits,
+distracting ads, limited OS support, multiple clients. The list goes
+on... Now, there's a choice. JBuddy Messenger Pro was built from the
+ground up as a full strength enterprise IM client for the busy business
+professional.
+
+ License : Demo, $30
+ Author/Publisher : Zion Software
+ Modification Date : August 22, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 3.6 MB - Pro version
+
+ Download 
+File Size: 2.1 MB - Freeware version
+
+ Home Page 
+
+ MacIrssi 0.8.2 
+
+Based on the *nix IRC client irssi ( http://www.irssi.org ), MacIrssi is a
+powerful, free of charge, open source IRC client. It combines the power
+of the irssi engine with an elegant and flexible GUI.
+
+ License : Freeware
+ Author/Publisher : Nils Hjelte
+ Modification Date : November 4, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.8 MB
+
+ Home Page 
+
+ The Manor 1.0 
+
+The Manor is a 2D visual chat experience that runs on almost any
+personal computer. And it offers a wide range of virtual online worlds,
+where you can be anyone -- or anything -- at all.
+
+ License : Freeware
+ Author/Publisher : Madwolf
+ Modification Date : April 15, 2007
+ Requirements : Mac OS X 10.2 or higher and Mac OS 8.6 and higher
+
+ Download 
+File Size: 2.5 MB
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ MICE iRC 1.0b18 
+
+iRC is an IRC client for Mac OS X. It includes the following:
+ * Native MacOS X application written using Objective C and Cocoa
+ * Multiple servers
+ * mIRC colours and text formatting codes
+ * Message highlighting
+ * Private messages and DCC chat
+ * DCC file transfer, including resume and drag-and-drop
+ * Auto-connect to servers
+ * Configurable colours and fonts
+ * Multi-window or single-window operation
+ * Tab completion and command history
+ * Plugin architecture
+
+ License : Shareware, $15
+ Author/Publisher : Colin Munro
+ Modification Date : January 27, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 917 Kb
+
+ Home Page 
+
+ Mac Messenger 3.5.4 
+
+Mac Messenger, a client for the MSN instant messaging protocol, is our
+main product. It is fast, stable, and easy to use. It also comes with
+loads of features. If you like MSN, you'll love Mac Messenger.
+
+ License : Freeware
+ Author/Publisher : Jef Geskens/Spark Technologies
+ Modification Date : July 9, 2005
+ Requirements : Mac OS X 10.1 or higher and Mac OS 8.6 or higher 
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ Mercury 1.9 
+
+Mercury is a Java Based MSN client.
+ With Mercury you can do the same things as with your normal messenger:
+ Talk to friends
+ Change your nickname and status
+ Add a display picture (also know as avatar)
+ Send files through the msn server (for people with a firewall etc..) or direct
+ Play games (Tic Tac Toe and Connect4 only at the moment)
+ Watch the webcam of your friends (Mercury auto-saves these sessions
+on the disk and can convert them to Quicktime movies)
+ Allow other people to watch your webcam 
+
+ License : Freeware
+ Author/Publisher : Mercury Team
+ Modification Date : October 20, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 10.7 MB
+
+ Home Page 
+
+ Microsoft Messenger 6.0.3 
+
+Microsoft's instant messenger.
+
+ License : Freeware
+ Author/Publisher : Microsoft
+ Modification Date : January 16, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.5 MB - version 6.0.3
+
+ Home Page 
+
+ MudMagic 1.9 
+
+The Mud Magic Mud Client is written in gtk and runs on Windows, most
+Linux distros and MAC OS X. The source code is free for download and
+open source. The client supports MXP, MSP, MCCP, and ZMP with PCRE
+regular expression handling and Python script engine. The plugins
+shipped with the client currently include an automapper, note system,
+and database front end.
+
+ License : Freeware
+ Author/Publisher : mudmagic.com
+ Modification Date : September 6, 2006
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 17.2 MB
+
+ Home Page 
+
+ MudWalker 0.3.2 
+
+MudWalker is an in-development open-source MUD client for Mac OS X (OSX).
+ Features
+ Compact connection windows that use no unnecessary screen space.
+ Supports Telnet, MCP, ANSI color, and TWin protocols.
+ Full support for extended character sets, including Unicode and Windows encodings.
+ Scripting using the Lua programming language.
+ Automatic login scripts with support for multiple accounts.
+ Command aliases.
+ Automatic logging.
+ Library feature automatically remembers servers you've connected to and the location of your settings files for them.
+ URLs become clickable links. Scripts can make arbitrary text into links which send commands.
+ Local text editing (MCP-based, requires server support).
+ Native Mac OS X Cocoa application.
+
+ License : Freeware
+ Author/Publisher : Kevin Reid
+ Modification Date : July 13, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ Nuntius 1.0 
+
+Remember the days when computer displayed only characters, green on
+black? That's also the time when the first Multi User Dungeons were
+created, not so long ago incarnated as online chats in the modern
+Internet.
+
+Surprisingly, these ancient arenas of computer aided communication and
+game place still flourish nowadays, despite the fancy graphics and
+animations of modern web technology. Nuntius is a client software that
+brings you right in there and connects yout to the most popular MUDs
+worldwide.
+
+Nuntius features a wide variety of features of modern MUD clients,
+including ANSI control sequences, triggers, text capturing, full
+customization of colors and behaviour and even audio speech output of
+what's been talked on the MUD. All of this you'll get in a convenient
+MacOS X Aqua interface.
+
+ License : Shareware, $10
+ Author/Publisher : Lobotomo Software
+ Modification Date : March 21, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 382 Kb
+
+ Home Page 
+
+ PalaceChat 3.0.41 
+
+PalaceChat is chat software that allows you to interact with other users
+within a 2d enviornment online. You can wear, make and share Avatars
+made from images or maybe your own imagination! You can also design your
+own virtual world (if you're up for the challenge), with animations,
+video, games, prop rooms, using whatever imagery suites your taste.
+
+ License : Shareware, $20
+ Author/Publisher : Jameson Heesen
+ Modification Date : September 3, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 8.7 MB
+
+ Home Page 
+
+ Proteus 4.16 
+
+Proteus is an all in one Instant Messaging program for OSX. What does
+this mean? Well, no longer do you need all your instant messaging
+applications open at once, cut it down to one clean application, with
+better management across board! (And prettier too!) What services
+does it support? So far, ICQ, AOL Instant Messenger (including
+.Mac), MSN Messenger, Yahoo Messenger, Yahoo Japan, Gadu Gadu, Jabber,
+and iChat Rendezvous. More are always in the works!
+
+ License : Freeware
+ Author/Publisher : proteusx.org
+ Modification Date : January 1, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.3 MB
+
+ Home Page 
+
+ Psi 0.11 
+
+Are you tired of the barriers between typical Instant Messaging
+Networks? Have you had enough of having to use five chat programs to
+talk to all your friends? These problems can be easily solved by
+switching to the Jabber network!
+
+ License : Freeware
+ Author/Publisher : Justin Karneges
+ Modification Date : October 16, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 17.1 MB
+
+ Home Page 
+
+ QuickPopup 4.5 
+
+Meet QuickPopup, the easy way to communicate with everybody on your
+office, school and home network. It's cross-platform, ready to run on
+all flavors of Windows, Mac OS/Mac OS X and Linux. Quite simply, it's
+the complete solution for all your messaging needs.
+
+ License : Demo (30 days), $25 per user
+ Author/Publisher : Kanex Group, Inc.
+ Modification Date : August 23, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 2.0 MB
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Rapscallion 2.0.2.1 
+
+Rapscallion is a MUD client. Features include triggers and blocks,
+multi-channel sessions, aliases, command history, travel, ansi color
+translation etc.
+
+ License : Freeware - Name: Rapscallion Copies: 100 Serial: 0000-64L3-LD54 - no longer in development
+ Author/Publisher : Andy Lewis
+ Modification Date : January 20, 1999
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 2.6 MB
+
+ Savitar 1.4.1 
+
+Savitar is a software application designed to connect people using
+Macintosh computers to MUVE (Multi-user Virtual Environment) servers.
+These MUVE servers are found throughout the Internet. Savitar works as a
+"client" application which basically means it hooks your computer to one
+or more of these servers and allows you to interact with the people you
+find there.
+
+ License : Shareware, $15
+ Author/Publisher : Heynow Software
+ Modification Date : November 4, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ ShadowIRC 1.1 
+
+ShadowIRC is a MacOS IRC client, written specifically with speed and extensibility in mind.
+
+ License : Freeware
+ Author/Publisher : John Bafford
+ Modification Date : November 20, 2001
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 363 Kb
+
+ Home Page 
+
+ Snak 5.3.3 
+
+Snak will let you participate in discussions in virtual meeting rooms on
+the Internet, called IRC channels. There are thousands of meeting rooms
+full of people from all over the world.
+
+ License : Shareware, $25
+ Author/Publisher : Kent Sorensen
+ Modification Date : November 15, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.0 MB
+
+ Home Page 
+
+ SnapMail 5.2.1 
+
+Secure messaging, alerts, reminders and file transfers provide
+full-featured inter- and intra-office communication.
+
+ License : Shareware, $32 per user
+ Author/Publisher : Glass Bead Software
+ Modification Date : January 14, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.7 MB
+
+ Download 
+File Size: 4.5 MB
+
+ Home Page 
+
+ TinTin++ 1.97.6 
+
+TinTin++ is a free mud client that runs on the Windows, Linux, and Mac OS X platforms.
+
+ License : Freeware
+ Author/Publisher : TinTin++ development team
+ Modification Date : October 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 191 Kb
+
+ Home Page 
+
+ TinyFugue 4.0s1 
+
+TinyFugue, aka "tf", is a flexible, screen-oriented MUD client, for use with any type of MUD. TinyFugue is one of the most popular and powerful mud clients
+
+Originally developed by Ken Keys, it compiles on virtually every UNIX, and most Unix-like environments. Unfortunately, the very thought of compiling anything scares many users of other environments. We here at Druware don't have that fear and feel that by providing both the tweaks needed to build a TinyFugue distribution and binary installers, we can expand the acceptance of TinyFugue.
+
+ License : Freeware
+ Author/Publisher : Kevin Keys
+ Modification Date : March 6, 1999
+ Requirements : Mac OS X
+
+ Download 
+File Size: 341 Kb
+
+ Download 
+File Size: 835 Kb - Precompiled Binary, February 16, 2003
+
+ Druware Home Page 
+
+ TinyFugue Home Page 
+
+ Trebuchet Tk 1.070 
+
+Trebuchet Tk is a client program for connecting to TinyMUD style social
+MUD servers on the InterNet. This program is designed to be
+used with TinyMUD, TinyMUCK, TinyMUSH, MOO, and several other variants.
+It's probably not well designed for combat oriented MUDs like LPMUD and
+Diku, but it does support them.
+
+ License : Freeware
+ Author/Publisher : Fuzzball Software
+ Modification Date : December 2, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.3 MB
+
+ Home Page 
+
+ X-Chat Aqua 0.16.0 
+
+X-Chat Aqua is a MacOS X IRC client. If you are familiar with XChat for
+UNIX/GTK+/X Windows, then you will be at home with X-Chat Aqua. X-Chat
+Aqua uses the IRC engine from XChat and has been designed to look and
+feel like XChat.
+
+ License : Freeware
+ Author/Publisher : Steve Green
+ Modification Date : October 24, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Scripts and Plug-ins 
+
+ Home Page 
+
+ XChat Home Page 
+
+ Xirc 0.9.9 
+
+Xirc is an internet relay chat (IRC) application only for MacOSX (Jaguar
+and Panther) written in pure Objective-C using Cocoa frameworks. Xirc is
+fully integrated with the MacOSX technologies, as like sheets,
+drag & drop, AddressBook, etc. It is fully scriptable using the flexible
+and powerful simil 'C' internal language or the AppletScript language.
+It supports the plugins to extend a scripting capabilities or create
+applications through the IRC engine. Xirc implements DCC Send,Chat and
+TurboDCC, SSL connections (SSLv2 and SSLv3) with certificate and private
+key, connections through proxy server (HTTP, SocksV4, SocksV4a, SocksV5)
+and many others features.
+
+ License : Shareware, $24
+ Author/Publisher : Gian Luca Cannata
+ Modification Date : July 22, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ Yahoo! Messenger 3.0b78326 
+
+Stay connected to Messenger on your mobile phone.
+
+Use webcam to share live video with your friends.
+
+Send files of any size directly to your online friends.
+
+Express your feelings in a conversation using little animated smiley faces.
+
+ License : Freeware
+ Author/Publisher : Yahoo! Inc.
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.2 MB - version 3.0b78326
+
+ Download 
+File Size: 3.4 MB - version 2.5.3 for Classic Mac OS
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

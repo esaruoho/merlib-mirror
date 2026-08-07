@@ -1,0 +1,278 @@
+THIS FILE IS OLD!
+
+See the newest one at http://www.amasci.com/emotor/ikelv.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keywords: science fair ideas
+
+AN IN-LINE WATERDROP ELECTROSTATIC GENERATOR     (c)1996 William Beaty
+
+Electricity and water do not mix?  Wrong! This device creates electrical
+energy by slowing down water droplets as they fall.  It separates the
+positive and negative charges naturally present in all substances. It
+gives a high voltage DC output at a current of microamperes.  The water
+exiting the bottom is uncharged, and you could easily feed it to another
+complete unit stacked in series. 
+
+The diagram below depicts a version built from funnels and aluminum
+jello molds or bundt pans (the ring-shaped kind with the large opening
+in the center.)  However, you could build an enormous version if you
+were to replace the jello molds with large wooden barrels or 55gal
+drums with their bottoms cut out.        ** bzZAP! **
+
+This thing looks like some sort of particle accelerator.  Actually, it
+is just the opposite.  It decelerates particles and provides electrical
+energy, rather than using up electrical energy in order to accelerate
+particles.
+
+Note that this project is an advanced version of the classic Kelvin
+Thunderstorm device outlined in www.eskimo.com/~billb/emotor/kelvin.txt. 
+To get the hang of these devices,
+
+   I STRONGLY SUGGEST THAT YOU BUILD THE OTHER, SIMPLER ONE FIRST.
+
+Also, the other article gives hints on making the generator blink a little
+neon bulb, or make clicks in an AM radio, deflect tissue strips, etc.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                                    Optional rain collector?
+       |____                _____|
+            \______________/
+                 \    /
+                  \  /        Metal                           SIDE VIEW
+                   ||         Funnel
+                   ||                                          BILL B's
+                                                               WATERDROP
+               __________     Jello Mold                       ELECTROSTATIC
+              / \      / \   (positive inducer)                GENERATOR
+             |___|____|___|
+                                                               (Connecting
+               __________                                      wires not
+              / \....../ \    Jello Mold with                  shown)
+             |___|____|___|   metal screen
+                             (negative charge collector)
+                 ______
+                 \    /
+                  \  /       Metal
+                   ||        Funnel
+                   ||
+               __________
+              / \      / \    Jello Mold
+             |___|____|___|  (negative inducer)
+
+               __________
+              / \....../ \    Jello Mold with
+             |___|____|___|   metal screen
+                             (positive collector)
+
+
+
+            \               /  Bowl to catch
+             \             /   water
+              \___________/
+
+
+Note: actual polarity of charges is spontaneously chosen at start-up.  The
+above "positive" and "negative" labels are for convenience, and will end
+up backwards half the time.
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+PARTS:
+
+    4 - Metal bundt pans or jello molds ( $0.50 each at garage sales! )
+
+    2 - Metal funnels, or plastic bowls w/holes poked in the bottom
+
+    2 - Cones made from metal window screen
+
+    3 - lengths of thin plastic tubing or fishing line, about 3ft long,
+        used to hang the parts of the device from the ceiling.
+
+ misc - Tape or glue for the screen and the fish line, 
+        alligator clipleads to connect the pans together,
+        old scissors to cut the metal screen.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+THE SCREENS
+
+You should shape the metal screens in the collectors to make them either
+bowl-shaped or funnel-shaped.  This will force the water to fall from the
+center of the screen rather than running down the edge of the charge
+collector pan.  If water drips from the edge of the charge collector
+rather than from the screen, it will remove charge from the collector. 
+And if the water from the screen forms a long solid stream whose tip
+extends vertically past the bottom edge of the pan, it will discharge the
+collector pan and the device will stop working.   Only droplets, not
+streams, should leave the collector ring's central hole.
+
+If you use a simple, pointed, cone-shaped screen, and if all the water
+falls from the tip in a solid stream, the collector ring discharges itself
+and the device stops working.  I've found that a good shape for the screen
+is a shallow cone with the tip punched inside-out like this (cross
+section):
+
+                    _
+         \         / \         /
+           \     /     \     /
+             \_/         \_/
+
+
+The water falls as droplets from the bottom edge.  Make the screen
+cones fairly shallow, so no parts of them extend vertically outside the
+central hole of the ring pan.  The pan acts as an electrostatic shield,
+and when water touches the inner, shielded part of the pan, *all* of
+its excess charge will travel to the metal.  If the screen is within
+the sheilded volume, it will extract all the excess charge from each
+water drop.  The screen must remain down inside the donut-hole of the
+pan.
+
+      _____                           _____
+     /     \                         /     \
+    |       |           _           |       |        Bundt pan with screen
+    |       |\         / \         /|       |        cone within the hole.
+    |       |  \     /     \     /  |       |
+   |         |   \_/         \_/   |         |
+   |         |                     |         |
+   |- - - - -|                     |- - - - -|
+
+
+I used black electrical tape on the edges of the screen to hold it
+in place in the pans.  You could tack it with silicone caulk for a
+more permanent design.  Don't forget, the metal screens must make
+electrical connection to the metal pans.  Keep each screen and pan
+touching together in at least one spot; don't accidentally break
+their connection with insulating silicone caulk.
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+CONSTRUCTION:
+
+The entire assembly of bundt pans and funnels can be suspended by
+fishlines from a hook on the ceiling, or instead you could build some sort
+of plastic structure to hold the parts. 
+
+The upper rain collector can be plastic or metal, or possibly use the
+downspout from a convenient roof, or a hose, etc.  The water supply
+should be small enough that the funnels don't fill to overflowing.
+
+Whether you use a funnel or a bowl with small holes, you must somehow
+limit the amount of water flow so that it either comes from the bowl or
+funnel as single drops, or as a short stream that breaks into drops inside
+the inducer ring.  If the stream is too long and the drops break loose
+below the inducer ring, the inducer ring won't charge the drops and the
+device won't work
+
+You can increase the electric output current by fitting some sort of metal
+"shower head" assemblies onto the ends of the metal funnels.  These are
+sold in garden stores as adapters for watering-can spouts.
+
+If metal funnels are too expensive, you can also try using Tupperware
+bowls with numerous small holes drilled in their centers.  I put six holes
+in mine, spaced in a circle about 2cm apart to prevent the water streams
+from sticking together.  To connect the plastic bowls to ground, stick a
+piece of aluminum foil in the water in the bowl and clip your alligator
+clipleads to the foil. "Ground" can be a water faucet, the screw on an
+electric outlet, a big sheet of aluminum foil laid on the floor, or even
+your body if the humidity is high. 
+
+The rings and funnels should be one or two inches apart.  It's OK to let
+the end of each funnel extend within the hole of each inducer ring below,
+as long as the droplets break free of the stream before the stream exits
+bottom edge of the inducer ring. 
+
+To suspend the rings and bowls, I glued three small Plexiglas "ears" on
+all the rings and funnels.  Then I ran three lengths of #20 plastic
+insulation "spagetti" tubing up the sides, tying it to each "ear," then
+tying the whole thing to a hook in the ceiling.  I could have used fishing
+line instead.  Don't use wire to support the rings, not even if it's
+insulated wire.  The support must be a very good insulator.  To speed
+things up you might try simply tying knots in the right places in the
+fishline, then glue the knots to the pans with gobs of silicone caulk.
+(Use tape to hold the lines in place while the caulk sets.)  Hang the
+whole thing from a ceiling hook.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+ELECTRICAL CONNECTIONS:
+
+                 ______
+                 \    /  Grounded
+             _____\  /   Funnel
+            |      ||    w/shower head
+            V      ||
+                   /\
+               __________
+         ____ / \      / \ _____________________o
+        |    |___|____|___|
+        |                                          Output leads
+        |                           ____________o
+        |      __________          |
+        |     / \....../ \ ________|
+        |    |___|____|___|        |
+        |                          |
+        |                          |
+        |        ______            |
+        |        \    / Grounded   |
+        |    _____\  /  Funnel     |     Connect the bundt pans together
+        |   |      ||              |     using bare wires and tape, or
+        |   V      ||              |     using alligator clipleads found
+        |          /\              |     at Radio Shack stores.
+        |                          |
+        |      __________          |
+        |     / \      / \ ________|
+        |    |___|____|___|
+        |
+        |      __________
+        |____ / \....../ \
+             |___|____|___|
+
+
+
+This device seems to work even in extremely high humidity. Apparently
+the electrical leakage along the surfaces of the thin plastic fishline
+is small enough that the device can still work even with that leakage
+present.  Thinner fishing line might work even better, since the thinner
+the support lines, the less their surface area.  The less their surface
+area, the less the electrical leakage during high humidity.
+
+Any liquid can be used as long as it is slightly conductive.  In theory
+oil will not work because it's an insulator.  Too bad liquid mercury is
+poisonous, mercury would work fine.  Tapwater works OK, since impurities
+make it conductive enough.  I doubt that salt water would work better, but
+it would be something to experiment with.  Ultra-pure de-ionized water
+might not work because it's almost an insulator.  For a science fair
+project you could even try fruit juice.  When people ask you why, just say
+"because acids create mobile ions, leading to higher conductivity, and
+also because I wanted to make a big, sticky, disgusting mess!"   :)
+
+
+For further info, debugging, references, and "how it works," see my other
+article, LORD KELVIN'S WATERDROP GENERATOR,
+http://www.eskimo.com/~billb/emotor/kelvin.txt
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L
+
+

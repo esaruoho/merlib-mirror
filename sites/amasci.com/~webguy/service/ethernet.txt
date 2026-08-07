@@ -1,0 +1,39 @@
+Ethernet Summary
+
+Ethernet Summary
+
+Al Wong
+
+May 10, 2003
+
+The ethernet network functionality is pretty simple. You have machines connected
+to a backbone party line. These machines broadcast their messages on this 
+party line.
+If two machines broadcast at the same time, you have a collision 
+where nothing meaningful is sent. In this case, the two machines
+wait a random amount of time before broadcasting again. Only one machine
+may communicate over the party line at any time.
+
+A HUB changes the topology of the backbone from a line to a 
+ star shape.
+Machines still broadcast to every other machine on the network. Only one
+machine can talk at any one time.
+
+A SWITCH is like a HUB except
+a SWITCH creates a dedicated communication line between two machines.
+More than one machine may talk at the same time if they are talking
+to different machines.
+
+A ROUTER is a like a SWITCH except
+a ROUTER connects directly to a DSL connection (to the Internet)
+ as well as to the local network.
+A router may also have other capabilities like provide a firewall
+and DHCP (Dynamic Host Configuration Protocol).
+
+Internet Connection Sharing
+
+ My Writings 
+
+Last updated : May 12, 2003
+
+Copyright 2003 Al Wong, Los Angeles, California, USA

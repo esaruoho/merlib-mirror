@@ -1,0 +1,489 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0211.htm
+order: 6805
+reachable_from_entry: false
+images: 20
+internal_links: 0
+extracted: 2026-08-07T17:14:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0211.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > A harmful truth is better than a useful lie.
+> >
+> > Thomas Mann
+> >
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > 
+
+[]()\
+[]()\
+\
+--
+
+**FEBRUARY 11**
+
+
+
+<img src="http://sunsite.unc.edu/wm/gif/painttool.gif" data-border="0" width="59" height="33" alt="?" />
+
+A. J. MUSTE\
+American pacifist, revolutionist, anarcho-socialist.
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > "SAINT" CAEDMAN'S DAY.
+> >
+> > France: FEAST OF OUR LADY OF LOURDES.
+> >
+> > ------------------------------------------------------------------------
+>
+> []()\
+>
+> []()\
+> \
+> 1650 -- Rennie Descartes, philosopher, "I think therefore I am," thought about it, then quit thinking. []()\
+> []()\
+> \
+> 1657 -- Philosopher / writer Bernard Fontenelle nephew of Corneille & last of the "Precieux" writers lives, Rouen. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> 1778 -- France: Over 300 people come-a-calling on Voltaire upon his return to Paris after 28 years in exile for satiric writing & impudence.\
+> <http://www.voltaire.ox.ac.uk/voltaire_english.html>\
+> []()\
+> \
+> 1780 -- The poet Karoline von Gnderode lives, Karlsruhe. Became friends of many romantic German poets & write herself: *"The past was behind me! I belonged only to the present. But a yearning was within me, which knew not its object. I searched constantly, but every thing found was not what was sought, & longingly I propelled myself into the infinite."* []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/Encyclopedia/BlakeWilliam/ancientBlake_sm.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="216" height="280" alt=" ? " />\
+> 1787 -- William Blake's brother Robert gets buried in Bunhill Fields. At his deathbed at the moment of death, Blake saw his brother's spirit ascend heavenward "clapping its hands for joy." Blake reflected this moment in many images & attributed his innovations in printing to the inspiration of his dead brother. See Daily Bleed Saints Gallery page, <http://recollectionbooks.com/bleed/saints/StBlakeWilliam.htm>\
+> <http://www.kirjasto.sci.fi/wblake.htm>\
+> []()\
+> \
+> 1790 -- US: Society of Friends petition Congress to emancipate slaves. []()\
+> []()\
+> \
+> 1790 -- US: Long after colonists had invaded upstate New York & natives had fought back successfully (including in alliance with the British during the American Revolution), US signs first treaty with Iroquois. []()\
+> []()\
+> \
+> 1805 -- US: Sacajawea gives birth to Jean-Baptist Charbonneau while leading Lewis & Clark Expedition. []()\
+> []()\
+> \
+> 1812 -- US: At Beloved & Respected Comrade Leader Republican Governor Elbridge Gerry's behest, Massachusetts is redistricted to give Republicans advantage in the election of State legislators. One grotesquely shaped new district, described as looking like a salamander, results in the coining of the word gerrymander.
+>
+> []()\
+> []()\
+> \
+> <img src="http://recollectionbooks.com/bleed/images/luddite.jpg" data-hspace="10" data-vspace="10" data-align="LEFT" width="70" height="70" alt="Luddite!" />\
+> 1812 -- England: Stockport workers ask for meeting with masters on subject of wages; manufacturers agreed then withdrew offer at later Manchester meeting. Also during this month shearing frames in small establishments in Huddersfield destroyed by Luddites.\
+> <http://ourworld.compuserve.com/homepages/SpanSoft/labourer.txt>\
+> \
+> []()\
+> \
+> <img src="http://www.isomedia.com/homes/harpo/gallery/9195/images/fm007.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="432" height="218" alt="Collage by James Koehnline" />\
+> 1847 -- Patent thief, inventor of the modern timeclock, among other widgets, Thomas Edison lives.\
+> <span class="small">*[Collage by SaintMeister James Koehnline](http://www.isomedia.com/homes/harpo/)\*
+> </span> []()\
+>
+> > []()\
+> > \
+> > 1861 -- US: House unanimously passes resolution guaranteeing noninterference with slavery in any state. []()\
+> > []()\
+> > \
+> > 1861 -- England: Troops have to be called in to suppress the riot that follows a prisoners' breakout from Chatham prison in Kent.\
+> > 'Calendar Riots' []()\
+> > \
+> > <http://www.geocities.co.jp/MusicStar/6282/pistols/discography/boot.html> []()\
+> > \
+> > 1862 -- Elizabeth Siddell dies; husband Gabriel Rossetti buries his unpublished manuscript poems with her but he changes his mind in October 1869 & has her disinterred to get them back. Has them published in 1870.\
+> > 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1878 -- WhiteWash?: Suprematist painter, anarchist Kazimir Malevich lives, Kiev, Russia. His painting ["White on White"](http://www.friendlyco.com/WOWframed4body.htm) will really drive em nuts.
+> >
+> > <img src="http://sunsite.unc.edu/wm/gif/painttool.gif" data-border="0" width="59" height="33" alt="?" />
+> >
+> > KAZIMIR MALEVICH\
+> > Daily Bleed Saint 2002. Soviet anarchist artist, founder of the Suprematist movement.\
+> >
+> > <img src="http://www.english.batrussia.ru/principles/p/malevich_selfportrait.jpg" data-border="0" data-hspace="10" data-vspace="10" width="274" height="309" alt="?" />\
+> > 
+> >
+> > > Alexander Bruner, a young painter, stunned the art world in 1992 by entering an Amsterdam museum & defacing Kazimir Malevich's renowned "White Cross" \[or "Suprematism 1922-1927"?\] with a spray-painted green dollar sign in protest of the increasing commercialization of modern art.
+> > >
+> > > Feb 11, 1997 -- statement issued in support of Alexander Bruner for defacing Malevich's painting, is apparently no longer online.
+> >
+> > <http://sunsite.unc.edu/wm/paint/auth/malevich/>\
+> > \
+> >
+> > <http://metalab.unc.edu/wm/paint/auth/malevich/>\
+> > \
+> > 1887 -- France: [Clement Duval](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Duval), anarchist expropriator & member of the "Panthers of Batignolles" is condemned to death. See also [March 29, 1935](http://www.eskimo.com/~recall/bleed/0329.htm).
+> >
+> > Clment Duval
+> >
+> > > Following the protests organized by the anarchists, his sentence was commuted to life. On April 14, 1901, he escaped from servitude in Guyana to New York, where he lived until the ripe young age of 85, surrounded by beloved Italian anarchist comrades who aided him.
+> > >
+> > > 
+> > >
+> > > See the Anarchist Encyclopedia\
+> > > <http://recollectionbooks.com/bleed/Encyclopedia/DuvalClement.htm>\
+> >
+> > []()\
+> > []()\
+> > \
+> > 1890 -- US opens 11 million acres of Sioux land to white settlers. []()\
+> > []()\
+> > \
+> > <img src="http://perso.club-internet.fr/ytak/images/andrea_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="73" height="94" alt="?" />\
+> > 1890 -- Italy: [Virgilia d'Andrea](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#d'Andrea) (1890-1932) lives, Sulmona- Abruzzi. Italian poet, teacher, writer. Met [Armando Borghi](http://www.eskimo.com/~recall/bleed/sinners/BorghiArmando.htm) while a teacher & from then on was a dedicated anarchist. Her anti-fascist activities forced her to leave Italy, & she continued the struggle in Germany, Holland, France & the US. Wrote Tormento, a volume of poetry published in 1922 in Italy; LOra di Marmaldo, a collection of prose published in France in 1928; & Torce nella Notte, a collection of articles & treatises published in NY a few days before her death.
+> >
+> > <img src="http://recollectionbooks.com/bleed/images/dingbats/typewriter.gif" data-border="0" data-hspace="1" data-vspace="1" data-align="LEFT" width="88" height="89" alt="Ty[pewriter" />
+> >
+> > > "[Virgilia d'Andrea](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#d'Andrea) is a reminder of the passion that anarchism could (& should!) inspire. It is the ideal, the source of hope & beauty. Like Luigi Galleani she writes in emotive & powerful language- a far cry from the formulaic and cold prose that can be found in some areas of our movement. Anarchism is about life, about individual realization, about infinite possibility... "
+> >
+> > []()\
+> > []()\
+> > \
+> > 1905 -- US: James Blackstone, Seattle, bowls 299 --last pin breaks but stands. []()\
+> > []()\
+> > \
+> > 1911 -- From an article appearing today in "Regeneracion" (Mexican anarchist paper), titled "The Social War",
+> >
+> > 
+> >
+> > > *"A revolution which does not guarantee people the right to live is a revolution of politicians &, disinheriting us, we must turn our backs on them. We, the poor, need a social revolution (...) that is, we need a revolution which gives to all, men & women, the land which up to now was the exclusive inheritance of some privileged people of fortune".*
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/labor/iwwRelief.jpg" data-border="0" data-hspace="10" data-vspace="10" width="200" height="138" alt="?" />\
+> > 1913 -- IWW (Industrial Workers of the World) leads rubber strike in Akron, Ohio. The Akron Rubber Workers will do it again in 1936-37, at the General Tire Company of Akron, scene of the first sitdown strike in rubber. (see below).
+> >
+> > > The first major strike, in 1913, represented an end of innocence. The action, which included workers from all of Akron's rubber shops, began after the introduction of machinery that made tires easier to build and resulted in lower piece rates for the workers.
+> > >
+> > > The strike was loosely directed by the Industrial Workers of the World, a radical group nicknamed the "Wobblies." It lasted more than five weeks. The workers made no gains -- they didn't even manage to shut down the rubber shops. The strike served chiefly to disillusion company executives.
+> > >
+> > >  <http://www.infoshop.org/texts/iww.html>\
+> >
+> > []()\
+> > \
+> > 1916 -- Black feminist & civil-rights activist Flo Kennedy is born in Kansas City, Missouri. As a lawyer, Kennedy represented Billie Holiday, Charlie Parker & H. Rap Brown.
+> >
+> > > In 1966, she founded the Media Workshop to confront racism in media & advertising. In 1972 she forms the Feminist Party & files an Internal Revenue Service complaint alleging that the Catholic Church violates tax-exempt requirements by spending money to influence political decisions. Kennedy describes herself (quote)
+> > >
+> > >  "I'm just a loud-mouthed middle-aged colored lady . . . & a lot of people think I'm crazy. Maybe you do too, but I never stop to wonder why I'm not like other people. The mystery to me is why more people aren't like me."
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://faculty.washington.edu/gregoryj/strike/russia.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="140" height="216" alt="?" />\
+> > 1919 -- Seattle [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike) ends.\
+> > Harvey O'Connor's sympathetic Revolution in Seattle remains the best book on this event.\
+> > Online, see Howard Zinn's People's History of the U.S.:
+> >
+> > <http://iww.org/history/strike.html>
+> >
+> > Also see the excellent Seattle General Strike Project page:\
+> > <http://faculty.washington.edu/gregoryj/strike/strikehome.htm>\
+> >  []()\
+> > <http://www.washington.edu/uwired/outreach/cspn/curcan/main.html>\
+> > <http://flag.blackened.net/revolt/hist_texts/seattle1919.html>\
+> > \
+> > []()\
+> > \
+> > 1929 -- Gone To Heaven? Vatican declares itself a separate enclave from Italy. []()\
+> > []()\
+> > \
+> > 1929 -- Italy: Stipula dei Patti Lateranensi tra lo stato italiano e il Vaticano. La Chiesa viene adescata e comprata per avvallare e benedire il regime. Essa accetta che i Vescovi giurino fedelt allo stato in cambio del monopolio assegnato alla religione cattolica come religione di stato e di un risarcimento pari a 1miliardo e 750 milioni.\
+> > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+> > []()\
+> > \
+> > 1932 -- US: Duke Ellington & his orchestra records "Creole Love Call." []()\
+> > []()\
+> > \
+> > 1934 -- Austria: Troops raid Socialist Party; uprising & bombardment of Karl Marx Co-op housing complex in Vienna follows.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1935 -- US: First airplane flight with auto slung beneath the fuselage, New York. Inspires pot-bellies around the nation.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1937 -- US: 48,000 GM workers, who began a 44-day sit-down strike on December 30, 1936, win today.
+> >
+> > Called "The Great Flint Sit-Down Strike", Flint was possibly the most completely controlled of any company town in the country.
+> >
+> > The idea for the sit-down strike arose from an incident on a baseball field when auto workers playing a baseball game discovered the ump was a non-union man & sat down on the field in protest.
+> >
+> > General Motors recognizes the United Auto Workers (UAW) ... Two months later, company guards beat up UAW leaders at the River Rouge, Michigan plant.
+> >
+> > > Then I led the audience in some of our union songs Solidarity Forever, Hold the Fort, & others, one of the younger men playing an accompaniment on the banjo. They made the walls ring with words familiar to many as a paraphrase of an old hymn:
+> > >
+> > > 
+> > >
+> > > > Hold the fort, for we are coming Union men, be strong; Side by side we battle onward -- Victory will come!
+> > >
+> > > "Rosie," said Germer afterward, "we'll make you chairman of the entertainment committee."
+> > >
+> > > ...Frequently the entertainment would be interrupted, as a man in a checkered red-&-black windbreaker called through the"mike" for volunteers to relieve pickets: "Three men to Mae West Post . . . two men to Camp Argonne . . . four men to PostNo. 14."
+> > >
+> > > See [Rose Pesotta](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Pesotta) Bread upon the Waters ,\
+> > > <http://dwardmac.pitzer.edu/Anarchist_Archives/bright/pesotta/chap19.htm>\
+> > >
+> > > > Instantly, the noise stopped. The whole room lay in perfect silence. The tirebuilders stood in long lines, touching each other, perfectly motionless, deafened by the silence. A moment ago there had been the weaving hands, the revolving wheels, the clanking belt, the moving hooks, the flashing tire tools. Now there was absolute stillness, no motion anywhere, no sound.
+> > > >
+> > > > 
+> > > >
+> > > > Out of the terrifying quiet came the wondering voice of a big tirebuilder near the windows: "Jesus Christ, it’s like the end of the world."
+> > > >
+> > > > 
+> > > >
+> > > > He broke the spell, the magic moment of stillness. For now his awed words said the same thing to every man, "We done it!’ We stopped the belt! By God, we done it!"’ And men began to cheer hysterically, to shout and howl in the fresh silence. Men wrapped long sinewy arms around their neighbors’ shoulders, screaming, "We done it! We done it!"
+> > > >
+> > > > 
+> > > >
+> > > > For the first time in history, American mass-production workers had stopped a conveyor belt and halted the inexorable movement of factory machinery.
+> > > >
+> > > > 
+> > >
+> > > 
+> > >
+> > > —From *Industrial Valley,* by Ruth McKenney, NY, 1939, pp. 261-2.
+> > >
+> > >  
+> >
+> > []()\
+> > \
+> > 1939 -- Jane Yolen, children's book author, lives. []()\
+> > []()\
+> > \
+> > 1948 -- US: Local 598 workers begin to honor the 1937 Sit-Downers on today's annual White Shirt Day.
+> >
+> > > As a result of a suggestion from Bert Christensen, a member of the Education Committee, Local 598 members begin what has become a UAW tradition, honoring those who sat down in 1936-37 (the Great Sit-Down strike) by wearing white shirts into work on the day that the first UAW-GM agreement was reached. 
+> > >
+> > > Brother Chistensen felt that by wearing white shirts (traditionally worn by management) we would show that we were as good as white collar workers & also when management walked up & down the factory floor & saw everyone wearing white shirts, it would demonstrate the strength & unity of UAW workers, as well as the dignity of all UAW working men & women.
+> > >
+> > > <http://www.uawlocal598.org/history/history.html>\
+> >
+> > []()\
+> > \
+> > 1951 -- Canadian poet Tom MacInnes dies in Vancouver. (Complete Poems (1923); In the Old of My Age (1947)). []()\
+> > []()\
+> > \
+> > 1952 -- US: Third major air crash in two months, in Elizabeth, New Jersey, results in the withholding of a report praising Newark Airport as "one of the nation's safest." []()\
+> > []()\
+> > \
+> > <img src="http://www.usatoday.com/zkatie/books/splath.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="152" height="165" alt="?" />\
+> > 1963 -- Sylvia Plath, a suicide, in London, age 30, on her third attempt.
+> >
+> > > \
+> > > \
+> > > Dying\
+> > > is an art like everything else.\
+> > > I do it exceptionally well.\
+> > > I do it so it feels like hell.
+> > >
+> > >  "Lady Lazarus" (1962)
+> >
+> > <http://www.usatoday.com/life/enter/books/b203.htm>\
+> > \
+> > []()\
+> > \
+> > 1963 -- US: CIA Domestic Operations Division created.
+> >
+> > > "The highest ambition of the integrated spectacle is still to turn secret agents into revolutionaries, & revolutionaries into secret agents."
+> > >
+> > >        GUY DEBORD, 1988
+> >
+> > 
+> >
+> > > "A few years back, a man high up in the CIA name Ray cline was asked if the CIA, by its survellance of protest organizations in the United States, was violating the free speech provision of the First Amendment. He Smiled & said: 'It's only an amendment.'"
+> > >
+> > > Howard Zinn, The Zinn Readerpp412-13.
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.vanguardrecords.com/baez/Assets/BD-JB.JPEG" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="160" alt="?" />\
+> > 1964 -- Beatles do Washington D.C. "I Want to Hold Your Hand" topped the charts in January. It is about this time Bob Dylan, having released "The Times They Are A-Changin'" in January, visits the southern US & writes "Chimes of Freedom"; he & Joan Baez will appear together at the Berkeley Community Theater later in the month.\
+> > <http://bobdylan.com/>\
+> > <http://www.fortunecity.com/tinpan/parton/2/history.html>\
+> > \
+> > []()\
+> > \
+> > 1965 -- Italy: il ministro degli Interni Paolo Emilio Taviani proibisce la rappresentazione a Roma del dramma Il Vicario" di Rolf Hochhuth, che criticava l'operato di Pio XII nei confronti degli ebrei nella Germania nazista.\
+> > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+> > []()\
+> > \
+> > 1967 -- US: Less than two months after his return from Hanoi, A.J. Muste, renowned US pacifist, dies at age 82.\
+> > []()\
+> > []()\
+> > \
+> > 1967 -- The Monkees announce they'll play their own instruments on all future recordings. This is, of course, the beginning of the end. []()\
+> > []()\
+> > \
+> > 1968 -- Oviedo: se celebra el Congreso Provincial de Gitanos.\
+> > <http://www.el-mundo.es/larevista/num132/textos/crono.html>\
+> > []()\
+> > \
+> > 1969 -- Canada:: At St. George Williams College, Montreal, 200 students smash computers with axes & set computer center on fire during sit-in protesting prof's racism. []()\
+> > []()\
+> > \
+> > 1970 -- John Lennon pays 1,344 pounds in fines for protesting the South African rugby team playing in Scotland. []()\
+> > []()\
+> > \
+> > 1971 -- Deep-Six?: Treaty on non-militarization of sea bed signed, London, Moscow & Washington. Means the subs have to stay 4-feet off the bottom or else.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.inhs.uiuc.edu/cbd/main/pictures/crayfish.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="177" height="281" alt=" ? " />\
+> > 1977 -- LobSang?: 20.2-kg lobster caught off Nova Scotia (heaviest known crustacean). []()\
+> > []()\
+> > \
+> > 1978 -- US: "Longest Walk" begins, 300 Native Americans start march from Frisco to Washington D.C.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/giger2Falls.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="420" height="657" alt="?" />\
+> > 1978 -- Lois Gibbs brings U.S. to awareness of "Love Canal" (near Niagara Falls, NY). 
+> >
+> > Residents will be evacuated this year. 
+> >
+> > Inspires TV programs called "The Love Boat", "Survivors" & "I Want To Be A Millionaire".\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/dingbats/pencil4.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="92" height="138" alt="Pencil stabbing worker" />\
+> > 1978 -- Working-class Swedish writer Harry Martinson, dies in Stockholm. His best works are Passad ("Trade Wind"), a collection of poetry; a novel Vgen till Klockrike (The Road); & his epic poem, Aniara: A Review of Man in Time & Space.\
+> > <http://www.kirjasto.sci.fi/harrymar.htm>\
+> > \
+> > []()\
+> > \
+> > 1979 -- Iran's premier Bakhtiar flees town, Beloved & Respected Comrade Leader Ayatollah Khomeini seizes power. We lovingly know him as him "Chuckles".
+> >
+> > > *Travel Tip of the Day* Stuck on a bus in the middle of a revolution, where the natives have the impression you're a bunch CIA/Mafia spies? I highly recommend a big sack of "Hash Brownies".
+> > >
+> > >        HemoMeister, who speaks from personal experience.
+> >
+> > []()\
+> > []()\
+> > \
+> > 1981 -- US: Eight workers contaminated when 100,000 gallons of radioactive coolant leaks into containment building of the Tennessee Valley Authority's (TVA) Sequoyah I plant in Tennessee. []()\
+> > []()\
+> > \
+> > 1985 -- US: Wyandot Indians of Kansas & Oklahoma receive \$5.5 million for aboriginal lands sold in 1842 for less than fair market value. []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/radical/mandela.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="160" height="240" alt="Mandella poster" />\
+> > 1990 -- South Africa: Political prisoner Nelson Mandela released, after 27 years in prison, by the US-supported apartheid government of South Africa for the crime of "high treason."
+> >
+> > > Mandela & scores of other "Rivonia treason trialists" were arrested after a raid on a farmhouse in Rivonia, Johannesburg, in which plans for a guerrilla confrontation with the apartheid state was planned, & sent to prison following a seven-month trial in 1964 at the Palace of Justice in Pretoria.
+> >
+> > <http://www-sul.stanford.edu/depts/ssrg/africa/history.html>\
+> > <http://www.obs-us.com/obs/english/books/Mandela/Mandela.html>\
+> > \
+> > <http://www.anc.org.za/ancdocs/history/>\
+> > \
+> > <img src="http://www.suppose.de/cover/feyerabendpaolino.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="200" alt="?" />\
+> > 1994 -- Paul Feyerabend dies, Geneva, Switzerland. Swiss anti-scientist "Against Method", anarchist philosopher.\
+> > 
+> >
+> > "Anything goes."
+> >
+> > <http://toolshed.artschool.utas.edu.au/moci/encyc/entries/feyerabend.html>\
+> > <http://lists.village.virginia.edu/~spoons/feyerabend/>\
+> > <http://www.suppose.de/texte/feyerabendpaolino.html>\
+> > <http://www.hinet.hr/kosta-krauth/anarchists/feyerabend_paul.html>\
+> > \
+> > 1994 -- <span id="Comaposada"></span>Mercedes Comaposada Guillen dies (1901-1994), Paris, France. Militant & anarchist teacher. 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > 
+> >
+> > > Daughter of a self-educated socialist shoe-maker, Comaposada became involved in a cinema production company & joined the [C.N.T.](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#CNT) \[Confederacion Nacional del Trabajo\]. Sensitized by the condition of women, she became a teacher, providing private courses to victims of the misery of machismo.
+> > >
+> > > From her meeting with the poet & painter Lucia Sanchez Saornil came the idea to create a specific women's group within the libertarian movement, & thus, "Mujeres Libres" (MM.LL) was founded (with the aid, also, of Amparo Poch) in April 1936, which also began publishing a review of the same name. This publication was illustrated by Composada's companion, sculptor Baltasar Lobo.
+> > >
+> > > With the outbreak of revolution in July, 1936, she joined another group of women in Barcelona, working to create a national federation. 
+> > >
+> > > Of fragile health, during the conflict she ardently continued her educational activities, participation in "Mujeres Libres", & in writing for the libertarian press. 
+> > >
+> > > Mercedes Comaposada took refuge in Paris with Lobo following defeat of the revolution, where they gained the protection of Pablo Picasso from French authorities who were hostile to all Spanish refugees. She became Picasso's secretary, then took up translation work & was devoted to the artistic work of of Lobo.
+> > >
+> > > <http://perso.club-internet.fr/ytak/fevrier2.html#11>\
+> > > 
+> > >
+> > > ------------------------------------------------------------------------
+> >
+> >  []()\
+> > []()\
+> > \
+> > 1999 -- Pluto is once again the farthest planet from the sun in our solar system. []()\
+> > []()\
+> > \
+> > 2000 -- Roger Vadim, French filmmaker, dies, aged 72, Paris. Made Barbarella, a high point for actress Jane Fonda.
+> >
+> > []()\
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > > *"I don't want you to follow me or anyone else.*
+> > > >
+> > > > I would not lead you into the promised land if I could, because if I could lead you in, somebody else would lead you out.
+> > > >
+> > > >        [Eugene Debs](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Debs)
+> > >
+> > > []()\
+> > >
+> > > > []()\
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > anti-CopyRite 2000-3000, more or less\
+> > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > or send questions, suggestions, additions, corrections to:\
+> > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > >
+> > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > >
+> > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > >
+> > > > anarchist, labor, radical books
+> > > >
+> > > > See also: Anarchist Encyclopedia\
+> > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > Stan Iverson Memorial Library\
+> > > > http://recollectionbooks.com/siml/\
+> > > > Anarchist Time Line / Chronology\
+> > > > http://recollectionbooks.com/bleed/indexTimeline.htm

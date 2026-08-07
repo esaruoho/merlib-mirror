@@ -1,0 +1,486 @@
+C.M. Connelly: Blog: Archive for March, 2001 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for March, 2001 
+
+ March 2, 2001 (Fri) 
+
+ Today I noticed that one of my function keys wasn't working in Emacs.
+That led me to investigate where and how the keyboard was set for X
+(remember, I recently updated to XFree4). In the process, I noticed
+some weird man pages, one of which turned out to be from the
+ xscreensaver package. I checked to see if someone had
+already filed a bug report (they had), and while I was there I noticed
+that someone had filed a bug saying there was a new version, so I
+decided to check and see what had changed. 
+
+ The changelog was on Jamie Zawinski's
+site , and there I found a fitting capstone to the &#8220;All your base
+are belong to us&#8221; thing: All Your Base Are
+Belong to Xscreensaver , a collection of &#8220;All your base&#8221; images
+from around the Web and around
+the world , with a script to show them in random order. 
+
+ While I was thinking of Jamie, I realized I hadn't checked in on his
+nightclub, the DNA Lounge for
+a while. Check it out&#8212; the
+craziness he's going through to try to get the place renovated,
+permitted, and reopened is hard to believe. 
+
+ March 3, 2001 (Sat) 
+
+ Ugh. 4:22 AM. And both of us are feeling pretty ill. I think&#8212;hope&#8212;that it's just because it's 4:22 AM. If not, well, you read
+it here first.... 
+
+ Well, I made it home safely. M should be on her 'plane by now, as
+well (she called to let me know). And I am sick, but luckily I held
+out 'til I got home. And now, back to bed.... 
+
+ March 5, 2001 (Mon) 
+
+ Oh, sure. M's on the east coast interviewing, and the planet decides
+to serve up &#8220;the worst nor'easter in fifty years&#8221;. 
+
+ March 7, 2001 (Wed) 
+
+ Rebecca has some interesting
+thoughts about Frontline 's &#8220;The
+Merchants of Cool&#8221; , including links to sites about media
+literacy. Worth checking out. 
+
+ Sadly, I can't claim to have been half as affected as she was. I've
+been aware for most of my life that corporations regard all humans as
+their property, and do their buying and selling via market share. 
+
+ I suppose being on the outside for much of your life helps you with
+that perspective&#8212;certainly when I was in high school I was able to
+see that most of the people there belonged to something that I didn't,
+and, frankly, to something I didn't want to belong to. Alas, it's
+becoming increasingly difficult to remain outside the grasp of the
+corporate world, as a couple of recent shopping trips for clothes have
+made eminently clear. No longer can you find decent clothes for
+reasonable prices (at least not near a mall or a shopping street like
+Robson in Vancouver). Instead you are presented with a variety of
+seventies fashion statements emblazoned with advertisements. If the
+ads aren't right out in front, in the form of a corporation's name
+emblazoned across the chest, back, or seat of a clothing item, they're
+still present in the selection and arrangement of colors, patterns, or
+other trademarked devices. (Think Tommy Hilfiger.) 
+
+ The book on architecture and city planning I've just finished reading,
+Philip Langdon's A Better Place to Live: Reshaping the American
+Suburb (Amherst: U-Mass Press, 1994), surprised me with the
+following (from the start of Chapter 3): 
+
+We live in what may go down in history as the Age of Marketing.
+As the field of business that focuses on developing salable products
+and motivating people to buy them, marketing has penetrated nearly
+every corner of American life. Little has been untouched by the
+one-third-useful, two-thirds-manipulative tactics of marketing
+specialists&#8212;those ingenious businesspeople who pretend to be
+democratic servants of consumer needs, interested in &#8220;giving the
+people what they want,&#8221; while in actuality they use their knowledge
+of human weakness to achieve what marketing values above all else:
+sales. 
+
+ A populace whose fears and vanities have been stirred by adroit
+marketing will do the strangest things. Who would have believed,
+until it happened, that the apparel industry could persuade people to
+be not only willing but eager to wear manufacturers' brand labels on
+the outside of their clothing? There was a time when, by almost
+universal agreement, clothing labels were discreetly hidden from
+view. However, the deep human need for social approval and the
+equally acute fear of looking out of step have been played upon
+expertly by the marketers of clothing, and a metamorphosis is now
+complete; Americans of all levels of taste and education trot around
+with advertisements stitched to the fronts of their shirts, sewn on
+the backs of their slacks, affixed to jacket pockets, stamped into the
+bodies of athletic shoes, and so on. This is just one instance of
+marketing's successfully striking one of mankind's psychological
+pressure points and generating almost overnight a new custom.
+
+ March 9, 2001 (Fri) 
+
+ Y'know, Northern
+Exposure is still an amazingly cool show, so much smarter
+than 90% of the stuff they're doing today. In the episode on today,
+Nikolai Ivanovich, a Russian singer, visits Cicely. He and Maurice,
+of course, hate each other, and eventually end up in a duel. But this
+is Northern Exposure : Joel tries to stop the duel by
+describing the possible outcomes in graphic detail, before giving up
+in frustration. Then the rest of the cast starts questioning the
+logic of the script . &#8220;What about the fifth draft?&#8221;, RuthAnn
+asks. &#8220;What about the version where Nikolai has an abcessed tooth?&#8221;
+Nikolai suggests that Maurice could trip and shoot someone else by
+accident. They finally decide to drop the duel and go on to the next
+scene, a celebration. Find me a show that could get away with that
+these days. 
+
+ M should be boarding her last 'plane for the day in about
+half-an-hour. (Just before noon.) 
+
+ She caught an earlier flight and is here now! (12:30 pm) Good thing,
+too, 'cause the 'plane she was supposed to be on has been &#8220;delayed for
+scheduled maintenance&#8221; (um, yeah, they scheduled maintenance for the
+same time as a flight?) and isn't even supposed to leave now until the
+time it was originally meant to arrive. 
+
+ March 12, 2001 (Mon) 
+
+ I just noticed that the Perl upgrade I did a couple of days ago broke
+my Web system. Swell. 
+
+ If you're reading this post, I've fixed it. 
+
+ The Register has a short
+story by one of my favorite writers, Pat Cadigan.
+
+ Via the null device . 
+
+ Hey, some good stuff in Salon ! (Sorry, I haven't been
+spending much time in front of the computer lately&#8212;I guess staring
+at the empty apartment just seems less angsty when I'm alone for days
+at a time.) 
+
+ Anyway, let's start with an interview
+with Norton Juster , the author of one of my all-time favorite
+&#8220;kids&#8221; books, The Phantom Tollbooth (it probably vies
+for first place with William Steig's Dominic ). 
+
+ Joyce Millman talks
+about Buffy , particularly about the last new episode,
+the extremely intense &#8220;The Body&#8221;, dealing with the immediate
+aftermath of Buffy's mom's death. I watched that one all alone, after
+having been alone for a couple of days, and it really messed me up. 
+
+ Buffy is, by far, the best show on television. That was
+made extremely clear to me by my trawl through some of the other
+options available as I taped programs I would usually watch for M.
+Wow, there's some awful TV. 
+
+ Let me disrecommend CSI: Crime Scene Investigation , which
+starts off with two strikes because it 1) has clever initials in its
+title that it has to define and 2) is on CBS. The last strike comes
+from a combination of its lack of focus (is it a crime show or a
+character study?), fake computers (I hate fake computers),
+and bad forensic science. The last is worst. I can (and have)
+watched plenty of shows such as Exhibit A (on Discovery
+Canada; repackaged as Secrets of Forensic Science for
+TLC) and Medical Detectives , so I have a pretty good idea
+of what can and can't be done, and when it can be done, how it's done&#8212;what kinds of equipment they use, what it looks like, what the
+results look like, and so forth. And CSI: Crime Scene
+Investigation gets it wrong, over and over. Yuck. 
+
+ I also want to say some bad things about The Lone Gunmen ,
+which has replaced FreakyLinks . I'm
+not impressed. In fact, I'm so not impressed that I wonder if it
+might not be time for Chris Carter to take a long vacation. In an
+ideal world he'd get David E. Kelley to go with him. 
+
+ March 14, 2001 (Wed) 
+
+ Salon points
+out some of the inadequacies of The Lone Gunmen , and
+also suggests some better alternatives: Junkyard Wars and
+ BattleBots . 
+
+ They also have an
+interview with Esther Dyson where she talks about the long-term
+viability of ICANN's control over the domain-name system. My take on
+it is that she seems a bit too enthusiastic about maintaining ICANN's
+monopoly control over the namespace, and uses some scare tactics to
+try to discourage people from looking outside of ICANN for solutions.
+(&#8220;You won't be able to get e-mail! No one outside of your ISP will
+be able to reach your webserver!&#8221;) 
+
+ March 19, 2001 (Mon) 
+
+ My brother's up visiting, which is great as I was getting a bit
+depressed Saturday night. 
+
+ Meanwhile, I'm having lots of &#8220;fun&#8221; trying to find a dentist for M.
+She lost a piece of tooth, saw a dentist in the States, and found out
+she needs a root canal. Ouch! 
+
+ Of course most of the people we could ask about dentists are on
+vacation or otherwise not responding. Of the two people I did get
+recommendations for, one's busy (and doesn't work on the days M's
+going to be back here), and one hasn't gotten back to me yet. I think
+I might have to try to book her an appointment with one of the
+(astonishingly many) dentists in the Metrotown Mall who have chosen to
+advertise in the Yellow Pages, as much as I hate the idea. 
+
+ *sigh* Well, I ended up going with a mall dentist. On the plus side,
+they seem to have all the high-tech dentist toys&#8212;mouthcams, TV
+while they work, drill-less drilling. 
+
+In our wanderings, Brian mentioned an article
+about office chairs by Bruce Sterling from Wired .
+Interesting stuff if you're lusting after a new seat, as I am.... 
+
+ Apparently, the Leap is the next
+big thing&#8212;cooler, according to some, than the old ultimate, the Aeron . 
+
+ Cooler still, says Sterling, is the Freedom ,
+from HumanScale, which looks to me like a dentist's chair by
+Cronenberg. 
+
+ March 22, 2001 (Thu) 
+
+ The mall dentist turned out to be pretty good! Melissa survived her
+root canal just fine, after some initial nervousness. It turns out
+that Canada and the United States use different systems to identify
+(number) teeth. In fact, it's more complicated than that. In the
+U.S., there are two systems in use: the &#8220;Universal&#8221;, which starts by
+numbering the backmost molar on the upper right as 1, and moves left
+ending with 16. The bottom teeth are numbered from the backmost molar
+on the left (17) through 32. (Kids' &#8220;deciduous&#8221; teeth are
+lettered.) Orthodontists tend to use a different system, which
+numbers teeth within quadrants, starting with the front incisors. 
+
+ In Canada, teeth are numbered with the backmost right molar as 18 and
+ending with 28 on the top, and (starting again with the backmost right
+molar) on the bottom as 38, counting across to 48. 
+
+ Neither system is the international standard, which is even more
+bizarre and illogical. 
+
+ In any event, the difference in numbering systems meant that the
+estimate they gave me was for the wrong tooth, and was, of course,
+low. There also turned out to be four, rather than just three, roots. 
+
+ I got to watch the whole thing. It turns out that what they do is
+drill through the top of the tooth until they reach the pulp. They
+then clean out all the pulp, revealing the tops of the roots. They
+then use these tiny files to scrape out all of the organic material in
+each root, checking the depth against the X-ray, and, finally, with an
+electronic device (which I guess works by measuring resistance&#8212;one
+electrode touches the tongue, another clips onto the files). 
+
+ Once they've reached the bottom, they clean the roots out with thin
+paper spikes, then insert rubber spikes into the openings, dipping
+them in gutta percha to fill up any additional gaps and make them
+stick in place. When the roots are filled, they burn off the ends
+with a tool heated with a miniature torch, then seal them off with a
+layer of gutta percha. The rest of the cavity is filled with some
+composite material that has to be cured with ultraviolet light, and
+the top of the tooth is molded to appear more or less natural.
+Because of the amount of the tooth that's been removed, the dentist
+recommends a crown, which will protect against the tooth cracking or
+breaking. 
+
+ Fun! 
+
+ March 23, 2001 (Fri) 
+
+ You may or may not be aware of a controversy going on in
+scientific and government circles over the firing of Ian Thomas , a
+contract researcher who posted some maps of the Arctic National
+Wildlife Refuge showing that the areas George Bush plans to open to
+oil exploration just happen to be the most important breeding grounds
+for caribou. Thousands of other maps prepared by Thomas showing the
+distributions of wildlife populations in national wildlife refuges
+were also removed. (See also the
+Red Rock Eater message that clied me in about the situation.) 
+
+ The original
+site's maps are supposedly &#8220;undergoing review&#8221; for &#8220;scientific
+credibility&#8221;. The particular maps that resulted in Thomas's firing
+have not reappeared. You can, however, find those maps, along with
+some others, at Thomas's new
+website . 
+
+ There was also a followup
+message with more information from other folks, including the
+official response from the United States Geological Survey. 
+
+ Via Red Rock Eater mailing list . 
+
+Roger Ebert really let us down with his
+review of Fight
+Club . The marketers didn't bail themselves out, either.
+Based on Ebert's review and the commercials, Fight Club 
+looked completely unappealing. 
+
+ Those factors also discouraged us from finding out much more about the
+film. Little things, such as the fact that the film was directed by
+ David Fincher ,
+who made The
+Game , which we really liked. 
+
+ But M happened to catch the end of it in a hotel room, and various
+folks who seem trustworthy have said good things about it, so we
+rented it. 
+
+ It was amazing. Not the greatest film I've ever seen, and I
+definitely could have done with less of the middle section of the
+film, but I really liked the first part, and my interest was rekindled
+when Tyler began to recruit an army (although that was the obvious
+next step). Based on the reviews on Amazon, the book may be better
+because it's less focused on the brutal, sensationalistic fights that
+apparently upset Roger Ebert. 
+
+ March 24, 2001 (Sat) 
+
+ We had breakfast at De Dutch . Yum! 
+
+ Another thing to miss about Vancouver.... 
+
+Hit the library for another bunch of books about architecture and
+design: The Clock of the Long Now , Stewart Brand; A
+Pattern Language , Christopher Alexander, et al.;
+ Architecture, Form, Space & Order , Frank Ching;
+ Architectural Graphics , Frank Ching; A Visual
+Dictionary of Architecture , Frank Ching. 
+
+ Frank Ching's handwriting is the basis of Adobe's ubiquitous Tekton typeface,
+designed by David Siegel . 
+
+ I've just sent M on her way again, this time to
+Toronto. She's almost done with her interviews, and should, we hope,
+be able to make a decision in early April. 
+
+ March 26, 2001 (Mon) 
+
+ Wow! My friend John Tynes has
+a couple of articles in Salon about the Wizards of the Coast: Part
+I and Part
+II . 
+
+ March 27, 2001 (Tue) 
+
+ The
+Nation has Jonah
+Peretti's account of his attempt to order customized Nike shoes with
+&#8220;SWEATSHOP&#8221; on the side . 
+
+ Bill Moyer's Trade
+Secrets site . (Chemical companies would conspire to keep
+information about health risks from their products away from the
+government and users? Unimaginable!) 
+
+ Law.com on the
+Bush Administration's rejection of ABA vetting of judicial
+candidates .
+
+ Via Red Rock Eater mailing list . 
+
+ Jakob Nielsen talks about non-mobile uses of
+wireless technology . He has a point&#8212;I know I'm looking forward
+to &#8220;semimobile&#8221; uses, such as being able to sit anywhere in (or even
+near) the house with a laptop and still be able to poke around on the
+Web, get files from our servers, and so forth. 
+
+ I'm reading about the &#8220;New Urbanism&#8221; right now, and public wireless
+net access seems to fit right in&#8212;to be practical, you need to have
+some reasonable level of density to support the necessary
+infrastructure. A few wireless nodes in a somewhat dense mixed-use
+neighborhood might be a lot more practical than trying to string
+enough nodes to cover your average cancerous suburban sprawl. 
+
+ But who knows? Right now, I have absolutely no idea where I might be
+living in four months. Not in Vancouver, almost certainly. But maybe
+nowheresville, Indiana, valley L.A., shady Salem, Oregon, or even
+Toronto. Or maybe somewhere else altogether, and only visiting M from
+time to time. Sadly, none of the for-sure options or even the maybes
+really sound all that attractive for one reason or another. 
+
+ Health Canada has introduced new graphic
+warnings on cigarette packets. Now, Health Canada has always had
+better labelling than the States (&#8220;Cigarettes cause cancer&#8221;,
+&#8220;Smoking can kill you&#8221;), but their new TV commercials annoy me.
+&#8220;It's time to see cigarettes for what they really do,&#8221; they say, but
+if cigarettes are so awful, how can they justify continuing to allow
+their sale? Seems hypocritical to me. (And, yes, I know exactly why
+they keep allowing them to be sold. It's still hypocritical.) 
+
+ March 29, 2001 (Thu) 
+
+ Damn. My great
+aunt died today . She was 88. 
+
+In response, I made fudge from this recipe (only using
+Fry's Cocoa powder instead of Hershey's). After over an hour of
+heating and stirring, I was able to add the butter and vanilla, wait a
+bit, and mix it up to form what looked like a giant cowpat. It turned
+out to taste great, though. 
+
+ March 30, 2001 (Fri) 
+
+ M's back, and with a cold! 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ March, 2001 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+ 4 
+
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+ More Archives... 
+ May, 2003 
+ April, 2003 
+ March, 2003 
+ February, 2003 
+ January, 2003 
+ December, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 10:38 PM PDT, Monday, May 12, 2003; last rendered at 
+ 10:38 PM PDT, Monday, May 12, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

@@ -1,0 +1,196 @@
+CSS specification/browser support page: Table Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ border-collapse 
+ -- 
+ X 
+ 5.0 
+ -- 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ collapse 
+ -- 
+ X 
+ 5.0 
+ -- 
+ 4.0 
+
+ separate 
+ -- 
+ X 
+ 5.0 
+ -- 
+ 4.0 
+
+ border-spacing 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Length Length] 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ caption-side 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ top|bottom 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ left|right 
+ -- 
+ X 
+ -- 
+ -- 
+ 4.0 
+
+ empty-cells 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ show 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ hide 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ speak-header 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ once 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ always 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ table-layout 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ fixed 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ Boring Copyright Stuff...

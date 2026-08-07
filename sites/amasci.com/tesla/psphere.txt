@@ -1,0 +1,94 @@
+See PLASMA GLOBE page,
+http://amasci.com/tesla/plasplan.html
+
+See DAVE'S RESEARCH LAB,
+http://lynx.neu.edu/home/httpd/d/dlima/davelab.htm
+
+Date: Sun, 13 Jul 1996
+From: "Lima, David" <dlima@analogic.com>
+Reply to: usa-tesla@usa.net
+Subject: Plasma Junky
+
+
+1. Globes require either rarefied atmosphere (air) or any noble gas or
+combination thereof. i.e Helium, Argon, Krypton.... Different
+combinations produce different colours. Eye of the Storm is rumoured
+to use Helium and Neon.
+
+2. A source of Helium is your local party store. They sell disposable
+canisters for filling party balloons.  However the quality of this helium
+may not be suitable for globes. Experimentation is required. 
+
+2.5 Carbon Dioxide seems to work too (color is white)
+
+3. A source of globes is your local lighting store. I have ordered 14 inch
+clear globes from my local dealer.  I can get an 18 incher too. Your local
+Home Depot will have some globes up to about 9 inches. 
+
+4. The globes need to be evacuated to about 1-2 torr. However the rumour
+persists that commercial globes (Eye of the Storm)  are at high pressure
+and a secret mixture of noble gases allows this. I have created plasma at
+15 inches of mercury in rarefied helium. Helium seems to increase the
+pressure at which plasma will happen.
+
+5. There is a 'Plasma God' out there somewhere named Bill Parker who has   
+all the answers.
+
+6. Don't bother using a hand vacuum pump unless you want carpal-tunnel
+syndrome and a nifty wrist sling. It takes a few thousand pumps to get the
+globe down to the right vacuum. The mechanical action of this pump makes
+it very hard to go below 5 torrs. An oil based vacuum pump does the job in
+seconds. You'll have to make a few calls to vacuum engineering companies
+in your area to find one. Play the 'starving student' and you'll get one
+for about $200-250. These pumps retain their value. 
+
+
+7. I am fortunate enough to have an Eye of the Storm to experiment with. 
+In my quest to recreate quality plasma, I have found that power supply is
+not the critical factor in plasma quality. Connecting my common 'flyback'
+(you know, the one with the two 3055's) supply to the Eye of the Storm,
+the plasma was identical to the 'Storms own supply.  BTW, the 'Storm uses
+an astable configured 555 timer driving a flyback.  The HV output is
+considerably small, a 1/4 inch arc can be drawn. 
+
+8. You may notice that most professional globes have their center terminal
+encased in glass. This is to prevent electrical migration.  I have
+experimented with this in the lab, hollowing out small round GE vanity
+bulbs and carefully stuffing a Chore-Boy copper scrub pad inside. I coated
+the inside of the bulb with a conductive silver paint beforehand. It
+looked really nice but I think an uncoated bulb with the Chore-Boy inside
+looks even better. Performance wasn't effected either way. The inside of
+this assembly in professional globes is not evacuated. This makes it a
+chore, boy, to seal everything airtight (bulb to standoff, standoff to
+base with HV lead inside) 
+
+1. Safety glasses must be worn ALWAYS.
+
+2. Do not use Propane or Hydrogen unless you dislike your face.
+
+3. Implosion is a consideration, a globe used must be able to withstand   
+   the vacuum applied. Even though my globes are thick wall, I still keep
+   a plexi-glass barrier between me and the experiment.
+
+4. See rule 1
+
+My nagging questions are:
+
+1. Is purity an issue? i.e. Is my pump favouring certain molecules when
+   evacuating thus leaving 'junk' in the globe -effecting plasma?
+
+2. Do I need a diffusion pump and cryo-trap to create a hard vacuum
+   before backfilling?
+
+2. Is outgassing an issue? Do my vinyl tubes hinder me?
+
+3. Where does one get neon? Is it expensive?
+
+I appreciate your comments, criticisms, knowledge. I have collected
+several mag articles containing plasma-plans, I can post the names
+and dates if there is interest.
+
+Dave
+dlima@analogic.com
+
+ ----------------------------------------  

@@ -1,0 +1,45 @@
+---
+title: "The Loadlin+Win95 mini-HOWTO: Introduction"
+source_domain: amasci.com
+source_path: ~praxis/loadlin-1.html
+order: 6114
+reachable_from_entry: false
+images: 6
+internal_links: 2
+extracted: 2026-08-07T17:13:12Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Loadlin+Win95 mini-HOWTO: Introduction
+
+*Source page: `~praxis/loadlin-1.html`*
+
+[![Next](next.gif)](loadlin-2.html) ![Previous](prev.gif) [![Contents](toc.gif)](loadlin.html#toc1)
+
+------------------------------------------------------------------------
+
+## <span id="s1">1. Introduction</span>
+
+This document describes how to easily use a combination of Windows 95's Boot Menu and Loadlin.exe to autoboot Linux using the F4 Function Key. This procedure should work with Windows 95 versions 4.00.950, 4.00.950a, and 4.00.95b with FAT16, and all versions of Linux that support Loadlin. If you prefer to use the LILO boot manager, please consult the [Linux+Win95 Mini-HOWTO](http://metalab.unc.edu/LDP/HOWTO/mini/Linux+Win95.html).
+
+There are also two alternate methods for dual booting between Linux and Windows 95 using Loadlin for users using FAT32 with Windows 95 version 4.00.950b.
+
+## <span id="ss1.1">1.1 Copyright</span>
+
+The Loadlin+Win95 mini-HOWTO is copyright (C) 1997- 1998 by Protek Computer Solutions. This document may be reproduced and distributed in whole or in part, in any medium physical or electronic, as long as this copyright notice is retained on all copies. Commercial redistribution is allowed and encouraged; however, the author would *like* to be notified of any such distributions.
+
+## <span id="ss1.2">1.2 New Versions Of This Document and Windows 98</span>
+
+This mini-HOWTO is posted first at [The Linux+Windows 95 Reference Page](http://www.eskimo.com/~praxis), so check there to make sure you have the most recent revision of this mini-HOWTO. You will also find a link there for dual booting with Windows 98. The next revision of this mini-HOWTO will be a major revision and will include information on dual booting with Windows 98.
+
+## <span id="ss1.3">1.3 Feedback</span>
+
+Questions, comments, and suggestions are welcome. I am always looking for ways to improve and expand this mini-HOWTO. I rely heavily on feedback to make improvements, and will do my best to be prompt with a helpful response. I can be reached at <protek@brigadoon.com>.
+
+## <span id="ss1.4">1.4 Disclaimer</span>
+
+Every attempt has been made to ensure that the information presented in this mini-HOWTO is safe and accurate. However, this information is given without any warranty, either expressed or implied, as to its suitability for a particular use. It is generally considered a GoodThing(TM) to make backups of your system files before changing system configurations and/or files. I suggest you take this precaution "just in case".
+
+------------------------------------------------------------------------
+
+[![Next](next.gif)](loadlin-2.html) ![Previous](prev.gif) [![Contents](toc.gif)](loadlin.html#toc1)

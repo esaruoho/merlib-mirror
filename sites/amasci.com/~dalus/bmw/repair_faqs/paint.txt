@@ -1,0 +1,685 @@
+Paint Touch-up Techniques 
+
+This page was originally hosted here: http://cbsgi1.bu.edu/bmw/bmw_new.html . But that site has gone down so I'm hosting these pages here.
+
+ Paint Touch-up Techniques from Subscribers to the BMW Mailing List 
+Compiled by Rich Gay , BMW CCA Lone Star Chapter member. 
+
+ On February 19, 1996, I posted the following question to the BMW mailing list : 
+
+Subject: Paint touch-up technique
+Sent: 2/19/96 11:59 AM
+To: BMW List, bmw-digest@lists.balltown.cma.com
+
+I'd like some advice on paint touch-up techniques.
+
+My two-month old '95 M3 ( Avus blue ) has a few paint chips on the front. 
+I bought the official BMW paint stick, and after washing the car, I made 
+a go at touching up the chips.
+
+Problem is, no matter how much I try to get the excess paint off the 
+small brush on the paint "stick", the pain has a tendency to glob up 
+rather than fill-in nicely.
+
+So, am I stuck with this, or is there a trick to getting the touch-up 
+pain to nicely fill-in the chip?
+
+And is there any way to smooth down the small "glob"-like structures 
+that I've got where there were chips? :) :)
+
+Thanks,
+
+Rich
+'95 M3
+
+ Most of the responses I received are listed below. I'm sharing them on this web page in the hopes that others will benefit from this information. 
+
+Subject: paint touch-up
+Sent: 2/19/96 12:42 PM
+Received: 2/19/96 12:47 PM
+From: PHILIP C ABRAMI, pabrami@alcor.concordia.ca
+To: digest bmw, bmw@homer.balltown.cma.com
+CC: Rich Gay, rich_gay@fsti.com
+
+The thick paint from the touch-up pencil is probably like that because it
+is old. Adding a bit of acetone (a few drops) to the bottle should thin
+it out nicely. But keep the acetone from coming in direct contact with
+your car's finish; it is a very effective solvent! (I use varsol to clean
+rusted paint chips without resorting to an abrasive.) Make sure you let
+the paint run all the way down the brush stalk and repeatedly wipe the
+bristles before applying. A toothpick is a good substitue for the touch-up
+brush when working very small spots. Place a small drop of touch-up paint
+in the centre of a clean chip. The paint will flow to the edges by itself; 
+don't brush. Too little paint is OK; too much is a bummer. Large or deep 
+chips may require two or more passes. Allow the touch-up paint to dry to 
+the touch before another pass is attempted. Other points to remember: 
+shake the touch-up stick WELL; avoid applying the paint in direct 
+sunlight, when its very hot or very cold, and when its windy or otherwise 
+dusty.
+
+Good luck. Now register your beautiful car for a CCA driving school where 
+it will really shine.
+
+Regards,
+
+Phil
+
+Subject: 
+Sent: 2/19/96 1:10 PM
+Received: 2/19/96 1:26 PM
+From: Ben John Feng, bfeng@ford.com
+To: Rich Gay, rich_gay@fsti.com
+
+Regarding your touch-up paint problems.
+
+That "globbing up" tendency is typical of 
+touchup paints. Start with a drop of thick liquid 
+with very high surface tension and sure enough,
+it beads up. On the positive side, it doesn't run
+all over the place, it doesn't accidently drip off the
+little brush, and it fills up the chip in one (or two)
+applications.
+
+If you thin some touchup paint with
+some 'fast' lacquer thinner you may be able to get it
+to flow out better but the trade off is that you'll
+have to do many applications to get the chip filled
+in. Also, too much lacquer thinner (whatever too
+much really is) can soften up the surrounding paint
+(and it may not harden back to the original condition).
+You're not likely to ever get a consistency that fills
+in those chips perfectly smoothly.
+
+What to do about those blobs that are already there?
+I'll assume you are using a two part, color
+and clear, touch up paint. Right? If yes, hopefully the 
+
+blob that sticks up above the surrounding paint is the
+clear coat (e.g. the color touchup layer is below the
+surrounding paint surface). What you can do is smooth out the
+clear coat blob with a sanding block and then hand rub to a gloss 
+with one of the newer polishing compounds.
+
+For a sanding block, see if your local auto refinishing retailer
+sells a kind of block that have a particular grit built into them.
+I believe Micro-Mesh is one such brand (popular among stringed 
+instrument makers for polishing the intricacies of violins etc.).
+They are usually available in tiny little blocks (1" x 2"). I'd
+start with 600 or 800 grit and then do 1000 followed by 1500 grit
+(all used wet). Be careful to ONLY sand the touchup spot itself. 
+
+You'll eventually end up sanding a tiny bit of the surrounding
+surface when you get to the 1000 grit, but that is what you want if 
+you want the surface level.
+
+After the 1500 grit sanding rub the area out by hand with a
+paint polish (NOT rubbing compound), also available at your local
+automotive paint refinish retailer.
+
+Subject: M3 touch-up
+Sent: 2/19/96 1:57 PM
+Received: 2/19/96 1:59 PM
+From: Roger Graves - X4076 - Rog Racer, rgraves@snake326.orl.mmc.com
+To: Rich Gay, rich_gay@fsti.com
+
+Rich,
+The brush on the touch-up paint is way too big. Go to an arts supply
+store and get a fine-tip brush - this works way better for small
+touch ups. 
+It is possible, though, to sand "blobs" to a flush match with the surrounding
+paint....try using 1000 grit sand paper wrapped around a small wooden block...
+go slow and try not to contact the surrounding paint. Once flush, use your
+new paint brush to apply a coat of clear, then sand as above, and finish
+with a *good* polish. This technique, with a little practice, will make
+the touch-up almost invisable. 
+Regards,
+Roger W. Graves
+'95 M3 
+
+Subject: Re: M3 touch-up
+Sent: 2/19/96 2:35 PM
+Received: 2/19/96 2:40 PM
+From: Roger Graves - X4076 - Rog Racer, rgraves@snake326.orl.mmc.com
+To: Rich Gay, rich_gay@fsti.com
+
+> 
+> Thanks for the pointers! I'll give them a try.
+> 
+> >Once flush, use your
+> >new paint brush to apply a coat of clear, then sand as above, and finish
+> >with a *good* polish.
+> 
+> For the polish, something like Zymol which I hear so much about? After 
+> polishing, then wax?
+> 
+> Rich
+> 
+
+I don't know anything, really, about Zymol. When I say polish, I mean a
+pro-grade silicone-free polish used specifically after a car is painted.
+I use 3M products, available at auto-paint supply stores. It's available
+in a number of "grades"...you need a light-duty polish, perhaps finishing
+up afterward with with 3M's "hand glaze". Do *not* use a wax of any sort
+on a freshly painted surface. It is my experience that the K-mart
+variety of "polishes" are to be avoided. You will need to go to an auto-paint
+supply store to get the right stuff. Incidently, I believe the OEM
+paint system for your M3 is made by Glasurit...though I have not used
+them, I believe they make a post-paint polishing system that might
+be perfect.
+
+Regards,
+Roger
+
+Subject: Touch up paint
+Sent: 2/19/96 2:17 PM
+Received: 2/19/96 2:40 PM
+From: Harvey Chao, Harvey_Chao@smtp.svl.trw.com
+To: Rich Gay, rich_gay@fsti.com
+
+Maybe too late for work already done, but in the future forget the brush that
+comes attached to the top of the paint container. Go to an art supply place
+and get a #000 sable brush (very fine) and use that to slowly fill and build
+up paint in the nick. I usually find enought paint sitting on the bottle lip
+(esp. after I "scrape" it off the stem of the cap brush) to use to wet my own
+brush. Works much better. Don't forget to keep the paint shaken so that the
+pigments and metalics stay eveny distrubuted.
+Harvey
+
+For
+ Your
+ Information
+dcp'90
+
+Subject: 
+Sent: 2/19/96 2:27 PM
+Received: 2/19/96 2:44 PM
+From: Ben John Feng, bfeng@ford.com
+To: Rich Gay, rich_gay@fsti.com
+
+Hi Rich,
+
+Okay, yes you can sand the color layer then apply your clear touch 
+up. The problem is that you'll never get this repair flush with the 
+surrounding paint. Why? To get it flush, you need to have a color 
+layer that's thinner than the factory paint (which is probably less 
+than 5 or 6 thousands in the first place). On the other hand, you 
+might make it look a little less obtrusive if you sand the color 
+touchup down flush then apply some slightly thinned clear coat. 
+
+Procedure is the same:
+
+1) Get 1 or more fine grit sanding blocks (600grit or finer). Get a
+ fairly hard/stiff block so you can take down the bump without
+ sanding the surrounding paint (until the bump is flush).
+2) Sand the bump down flush. Better to be conservative with the 
+ sanding than to rub thru the factory paint. By the way, 
+ always sand with a drizzle of water flowing over
+ the area. The water lubricates the sand paper (doesn't clog
+ up), and washes away grit that can cause deep scratches.
+3) Dry and clean the area
+4) Apply clear coat touch up paint. 
+
+As I mentioned before, you can thin the clear coat a little to get it 
+to go on flatter. Lacquer thinner is the probably solvent you'll use
+(get 'fast' thinner), but it maybe the case that your paint is 
+compatible with a reducer that isn't as aggressive as Lacq. thinner. 
+
+My concern is that too aggressive a thinner could soften/weaken the 
+surrounding factory clear/color coat bond. See if your dealer 
+knows what kind of paint that touch up stuff is. Then go down to the 
+local refinishing retailer and ask them what they would recommend for 
+thinning it out a little bit. If you're lucky, it will go on pretty 
+smoothly. If not, let it dry for a week or two and then sand and 
+polish. The obvious alternative is to dab it on just as you did with 
+the color touchup, then sand it down as close to flush as you can. It
+will be imperfect, but it should look pretty good from most viewing 
+positions.
+
+Subject: Re: Paint touch-up technique
+Sent: 2/19/96 2:47 PM
+Received: 2/19/96 2:49 PM
+From: Shane Callaghan, stc@ra.isisnet.com
+To: Rich Gay, rich_gay@fsti.com
+CC: BMW List, bmw-digest@lists.balltown.cma.com
+
+Rich Gay wrote:
+
+ I'd like some advice on paint touch-up techniques.
+
+ My two-month old '95 M3 (Avus blue) has a few paint chips on the
+ front. I bought the official BMW paint stick, and after washing
+ the car, I made a go at touching up the chips.
+
+ Problem is, no matter how much I try to get the excess paint off
+ the small brush on the paint "stick", the pain has a tendency to
+ glob up rather than fill-in nicely.
+
+ So, am I stuck with this, or is there a trick to getting the
+ touch-up pain to nicely fill-in the chip?
+
+There is a trick - don't use a brush! First of all, make sure the
+edges of the chip are not brittle (good adhesion), clean it as well
+as you can (you can use a fiber stick or a pencil eraser with
+sandpaper glued to it if the chip is that big), and use a toothpick
+dipped in paint. It is a gradual process, but it works well. Dab the
+paint into the chip in *small* amounts. Layer it until it is just
+barely above the surrounding surface, and then wet sand. It's been a
+while - maybe 2000 grit? You should be able to get a nicely blended
+repair - poilsh and wax.
+
+STC
+_____________________________________________________________
+Shane T. Callaghan Halifax, Nova Scotia
+'88 RX-7 Turbo (10th Anniversary)
+'89 BMW 525i
+
+Subject: Re: Paint touch-up technique
+Sent: 2/19/96 3:58 PM
+Received: 2/19/96 3:59 PM
+From: EDPM3@aol.com
+To: Rich Gay, rich_gay@fsti.com
+
+Rich,
+
+I just included this tech tip in our chapter newsletter. I can't personally
+vouch for the technique, but it sounds like it should work. I am not posting
+it to the Digest because it is really belongs to Glenn Racine. 
+
+So, for what it's worth.
+
+>>"Have you ever tried to touch up stone chips in your car's paint, and when
+you were finished you decided the chips really didn't look that bad after
+all? Well, this tech tip may inspire you to attack those ugly little paint
+pits with renewed vigor. All of this, of course, assumes a stone chip would
+be a noticeable blemish in your car's finish. This technique was demonstrated
+to me by Steve Slotten of Car Buff fame. It goes like this: 
+
+1. Find a chip and clean thoroughly with Zymol HD Cleanse. 
+2. Using a very fine paint brush, (from your local hobby store) place a small
+drop of paint in the crater. 
+3. Allow the paint to set up for 2-5 minutes. 
+4. Using your all-cotton rag with HD Cleanse and your fingertip, roll the
+paint into the edges of the chip. Begin to smooth the remainder of the drop
+by gently rubbing back and forth across the repair. Continue working the
+paint with a polishing action until the drop has been leveled. Your
+fingernail will remove any paint build up around the outside of the chip. 
+5. Repeat steps 2-4 as necessary to fill the void, allowing a couple of
+minutes between layers. 
+6. WAX!
+-Glenn Racine
+St. Louis BMW Club" If I've already got a few chips that I've got paint on, but it is too 
+> heavy, is there a way to smooth it (sanding?) without screwing things up?
+Yes. But be careful.Generally, to remove excess paint requires an 
+abrasive. You want to use the mildest abrasive and confine its use to 
+the smallest area Begin with a good quality paint cleaner (e.g., Zymol, 
+Mequiar's, 3M) and elbow grease applied strategically (e.g., a q-tip, a 
+tiny bit of cloth wrapped around a a small, hard, and thin object). If 
+that doesn't work, move up to polishing compound. If that doesn't work 
+try very fine grit (500-600) wet/dry sandpaper used wet. If that doesn't 
+work try rubbing compound or a heavier weight paper. Practice first in 
+an unseen spot (e.g., under a door, inside the spare wheel well, etc.) 
+. before you tackle--let me guess--that beautiful hood. Take your time and 
+relax. Its only a car. Did I mention be careful? 
+
+Good luck,
+
+Phil
+
+Subject: Re: touch up techniques
+Sent: 2/19/96 5:34 PM
+Received: 2/19/96 5:34 PM
+From: Herman Chan, hermanc2@sirius.com
+To: Rich Gay, rich_gay@fsti.com
+
+> I'd like some advice on paint touch-up techniques.
+> Problem is, no matter how much I try to get the excess paint off the
+>small brush on the
+> paint "stick", the pain has a tendency to glob up rather than fill-in nicely.
+>
+> So, am I stuck with this, or is there a trick to getting the touch-up
+>pain to nicely
+> fill-in the chip?
+
+Rich,
+
+Don't use the brush that comes inside the cap; it's always too big and
+clumsy unless you have a really big area to touch up. Go to an art store
+and buy a fine artist's brush, or get some paper (not wood) matches and cut
+the end into a V shape with some scissors. The matches work surprising
+well, as cutting them forms a very small but firm tip. This idea came from
+a detailing and bodywork book (also a good idea). Also, use some tape to
+mask off the chip. As with other types of paint, multiple thin coats are
+better than one thick one. You'll notice that as the paint dries and
+cures, it will shrink, so you'll need a few applications to bring the level
+of the color coat up the the original paint before applying the clear coat.
+
+> And is there any way to smooth down the small "glob"-like structures that
+>I've got where
+> there were chips? :) :)...
+
+You'll need to sand them down with ultra fine sandpaper from an auto body
+supply store. I have some 3M auto body wet sanding paper from 600 grit to
+2000 grit. Start out with a coarse grit to remove the glob and work up to
+the fine grit. Use VERY light pressure and keep water running over the
+sanding area. Then use a polish to take out the final small scratches,
+apply a glaze, then wax. Generally, you want to move from the coarsest
+product to the finest one.
+
+Look in the phone book under "Automobiles/Body work/paint and supplies" for
+an auto body shop supply place. A good one will have all the materials
+that body shops and detailers use.
+
+The most important thing to remember is that if you don't feel comfortable
+doing this, then leave it to a professional. Body work is hard to do right
+and I wouldn't want to go experimenting on my new M3. There's nothing
+worse than trying to fix something and then making it worse.
+
+HTH,
+Herman
+
+Subject: Re: Paint touch-up technique 
+Sent: 2/19/96 6:05 PM
+Received: 2/19/96 6:10 PM
+From: KKelly6788@aol.com
+To: Rich Gay, rich_gay@fsti.com
+
+Rich:
+
+E-Mail Larry Reynolds at Car Care Specialties in NJ. He is a nice guy and a
+Roundel advertiser. Tell him I referred you and ask him to E-mail you his
+"how to touch up chips" paper. His E-mail address is carcaresp@aol.com I
+am in CA and have never met him, but he has given me great advice on
+detailing.
+
+Kevin Kelly
+BMW CCA #50039
+
+Subject: paint chips
+Sent: 2/19/96 1:37 PM
+Received: 2/20/96 9:18 AM
+From: carnone@hogpa.ho.att.com
+To: Rich Gay, rich_gay@fsti.com
+
+It may be too late now since you filled them in, but in general, call
+and get the catalog from the Eastwood Company. They are based in
+Pennsylvannia, and have an 800 number. They are an auto restoration
+and paint and finish specialty catalog. In the catalog, you will find
+kits for refinishing. They usually include something to sand the area
+down with (of course, don't over do it. It may not be necessary on some
+chips), super small fine brushes to apply the paint with to prevent
+the "globbing" problem, and then a bottle of clearcoat to "seal" the painted
+area after it dries. If the chip is big and you are adventureous, they also
+sell a kit with an atomizer that you load your paint color into a small glass
+jar, pressurize it, and then are able to spray it onto the car. Of course,
+you'd have to mask the surrounding area with tape, cloths etc and not go nuts
+with the spray applicator (ie., its not like using Right Guard), but again
+it reduces the "globbing" effect of application via brush, which as you seem
+to have sadly learned, is almost completely useless. Get their catalog for next
+time, its a good mailing list to be on...
+
+carnone@hogpa.att.com
+
+Subject: touch- up
+Sent: 2/19/96 7:58 PM
+Received: 2/20/96 9:18 AM
+From: Mike Ottati, mottati@mailhost.hooked.net
+To: Rich Gay, rich_gay@fsti.com
+
+Rich, 
+First, I'd remove those globs with a mild rubbing compound or laquer
+thinner. A way I like doing touch up work is with the torn end of a match
+out of a book of matches. The cardboard like material soaks up the paint
+pretty well, so you just dab a small amount in the area and apply several
+coats, allowing some drying time in between, to build up the paint to match
+the level of the adjacent areas. Another method is to get a very fine brush
+at a hobby shop, instead of the match. If you really want it perfect, you
+could then wet sand with 1500 - 2000 grit sandpaper and then use a mild
+rubbing compound. In theory this should make it look perfect, in practice
+it usually ends up just removing the touch up paint. Good luck! 
+Mike Ottati 
+95 325i alpine white 
+95 318i jet black 
+
+Subject: Paint touch up
+Sent: 2/19/96 11:47 PM
+Received: 2/20/96 9:18 AM
+From: KLchmn@aol.com
+To: Rich Gay, rich_gay@fsti.com
+
+Rich,
+
+As an owner of a two-month old '95 M3 (Avus Blue, grey leather) too, I feel
+compelled to assist someone of obvious taste and style. :-)
+
+>I'd like some advice on paint touch-up techniques.
+
+I used to deal with aerospace painting applications all the time, so I'll put
+in my limited knowledge.
+
+>Problem is, no matter how much I try to get the excess paint off the 
+>small brush on the paint "stick", the pain has a tendency to glob up 
+>rather than fill-in nicely.
+
+>So, am I stuck with this, or is there a trick to getting the touch-up 
+>paint to nicely fill-in the chip?
+
+There is a saying the 90% of painting success is due to proper surface prep.
+ The surface to be painted need to be *clean*, not just washed. First, take
+a small piece of sand paper (400 or 600 grit) and 'rough up' the chipped
+area. You can glue the sandpaper to a pencil eraser to make this easier.
+ Then, remove the grit, etc. with a rubbing alcohol rinse (don't let it drip
+everywhere, soak it up with a clean rag). The next step will ensure success,
+but may not be required. Your local autobody supply store sells a surface
+cleaning chemical that strips any waxes, grease, or oils off of a car prior
+to repainting. Get a can of this stuff. Swab it on with a q-tip. Use a
+clean q-tip each time. I suggest three cleanings. 
+
+Now try painting the chip. It'll still glob alittle (very viscous touchup
+paint versus what was sprayed on) , but not nearly as much.
+
+>And is there any way to smooth down the small "glob"-like structures that 
+>I've got where there were chips? :) :)
+
+Take the really high spots off with the sandpaper trick. Then polishing
+compound. Alot of polishing compound. I hate this part.
+
+Kirk
+95 M3
+94 530i (manual)
+89 CRX Si (for sale...)
+
+Subject: Re: paint touch-up technique
+Sent: 2/20/96 12:45 AM
+Received: 2/20/96 9:18 AM
+From: CarcareSp@aol.com
+To: Rich Gay, rich_gay@fsti.com
+
+Dear Rich:
+
+I am enclosing the article I wrote on chip repair. If you would like a
+complete product description/price list/car care tips package, please send me
+your snail mail address.
+
+The repair of a scratch and a chip are the same. The only problem with a
+scratch is that it takes more time to be able to blend in the new paint. 
+
+| PAINT CHIP REPAIR
+
+ Items you need:
+
+ 1. Touchup or color matched paint
+ 2. Compatable primer - I like Wurth Rustop Primer
+ 3. Oganic cleaner -Wurth Citrus Degreaser or P21S Total Auto Wash
+ 4. Solvent - Rubbing Alcohol or Prepsol or Enamel Reducer
+ 5. 3M Imperial Hand Glaze
+ 5. Meguiar Finesse Sanding Block 2000 grit
+ 6. 600 grit wet/dry sandpaper
+ 7. Round undyed wooden toothpicks
+ 8. Large lightweight cardboard boxes (large shoe box or bigger)
+ 9. Several 100% cotton towels
+ 10. Magnifying glass - this helps we with older eyes 
+ 11. New Pencils with unused erasers
+ 12. Rubber glue
+ 13. Several heavy clean plastic cups
+ 14. Roll of quality paint masking tape
+
+ Realize that paint chip repair is a learned skill and should be practiced on
+an area of the car that is not that visible. The hood and nose are two areas
+that should be tackled last. Test all cleaners or solvents on the paint
+prior to usage. I like to use the seam underneath the rocker panels. Apply
+a little cleaner or solvent to a cloth and rub the seam. If you do not get
+any color on the rag, then the cleaner/solvent should be safe for the paint.
+ If you do get color on the rag, then you may wish to consider another
+solvent.
+
+| CHIP REPAIR STEPS:
+
+ 1. Twentyfour hours before you want to start, use the rubber glue to attach
+small 600 grit sandpaper circles (the diameter of the eraser) onto several
+new pencils. The eraser must be unused and flat on top. 
+
+ 2. Step #1:Wash the car with a quality car wash and dry thoroughly.
+
+ 3. Paint chips come in two flavors. The worst case has exposed the bare
+metal, while the less severe has left the original primer intact. Clean the
+area throughly with the Wurth or P21S citrus cleaner. If there is rust on
+the exposed metal, clean off with the pencil eraser. Use a toothpick to
+gently probe the area and make sure that the edges of the chip are secure and
+not waiting to fall off and destroy your work. Take a new pencil/sandpaper
+tool, dip into clean water and put a few drops of water on the chip area.
+ *SLIGHTLY* rough up the chip and a small portion of the surounding paint.
+ Lightly turning the pencil will rough up an area the diameter of the eraser
+and this should be more than enough. Keep the roughed up area as small as
+possible, the object is to give the new paint approximately 1 mm of old paint
+to "grab" around the perimeter of the chip and not dig scratches. 
+
+ 4. Move onto the next chip and repeat the above. Depending upon the amount
+of time available, you may wish to tackle 10-20 chips at one time. Try to
+stay within the area that may be covered by your box(es). 
+
+ 5. When finished sanding all your chips you are tackling at this time apply
+a small amount of Alcohol or Prepsol or Enamel Reducer to a rag and wipe each
+chip and surrounding area to remove any sanding dust and grease/oils. Use
+additional solvent and new area of the rag for each chip. Allow to dry
+(these are highly volatile and will evaporate quickly with no residue).
+
+ 6. If the original primer is intact, and "pencil sanding" does not disturb
+the primer, then skip the next step and go directly to painting (# 9)
+
+ 7. Make sure that the chip and surrounding area is clean. If not, reclean
+with the Prepsol, Alcohol or Enamel Reducer. Pour or spray a small amount of
+primer into a clean plastic cup. Dip the point of a wooden toothpick into
+the primer to get a thin coating on the first 1-2 mm of the toothpick. If
+there is a blob on the end, gently scrape it back into the bottle. Place the
+tip of the toothpick against the center of the chip and allow capillary
+action to literally flow a *THIN* coat of the primer into the depression of
+the chip. Move onto the next prepared chip. If you have finished priming all
+your prepared chips before two hours are up, cover with a box, taped down
+with masking tape and go have a beer. The key is to allow the first coat of
+primer to dry at least two hours. Dispose of your cup and start with a fresh
+cup and toothpick. Apply another thin coat of primer to each repair that
+needs primer. Priming is completed when no metal is visible and the level of
+the primer is *BELOW* the level of the surrounding paint. This is
+important! Cover and allow to dry for two hours or until dry. 
+
+ 8. Take a new pencil sander and dip into water and add a few drops of water
+to the repair area and gently sand the area to rough up the chip and a small
+portion of the surounding paint. Lightly turning the pencil will rough up an
+area the diameter of the eraser and this should be more than enough. Apply
+a small amount of Alcohol or Prepsol or Enamel Reducer to a rag and wipe the
+chip and surrounding area to remove any sanding dust and grease/oils. Allow
+to dry. Repeat for all the chips that are on today's list of victims.
+
+ 9. If you are using a touchup, shake the bottle thoroughly. If you are
+using color matched paint, mix thoroughly and pour a small amount into a
+clean plastic cup. 
+
+ 10. Dip the point of a new toothpick into the paint to get a thin coating on
+the first 1-2 mm of the toothpick. If there is a blob on the end, gently
+scrape it back into the bottle. Place the tip of the toothpick against the
+center of the chip and allow capillary action to literally flow the paint
+into the depression of the chip. Repeat for each chip. The key is not to
+use too much paint. Do not redip the toothpick. Use only the amount that
+will flow from one dip. Temptation to add more paint with each application
+will be almost overwhelming. Fight it! 
+
+ 11. Cover with your paint box and allow to dry 2 hours and repeat 8-12
+times till the depression is filled with paint and bulges slightly upward and
+covers the roughed up area with a thin coating of paint. The first 2-3
+coats may not completely hide the primer. This is fine because you have many
+more coats to go. Fight that urge!
+
+ 13. The paint application is completed when the new paint bulges slightly
+upward (a fraction of a millimeter) and had covered the roughed up area with
+a thin coat of new paint. Allow the paint to dry for at least a week.
+
+ 14. The touchup paint has been applied to the surface and allowed to dry for
+at least 1 week, and resembles a minute mound ( __o__ ) (this is exaggerated)
+on the flat plane of the existing paint. The object is to remove the mound
+and make the surface of the paint one continuous flat plane. The Finesse
+Block offers the ability to gently remove only the high spot of the repair.
+ Unlike sandpaper or polish on a rag, the five usable sides of the block are
+flat and act like a "wood plane" to remove only the elevated areas of the
+repair. The 2000 grit will not leave scratches.
+
+ 2. Soak the Finesse Block in clean water for 24 hours prior to use. Then
+gently "plane" the high spot on the paint. I prefer to "plane" in one
+direction (usually back to front - drawing the block towards me). If the
+block dries out, re-wet and continue use. When the new and existing paints
+are blended (smoothed to the flat plane) to your satisfaction, clean the area
+with a quality car wash and then use a quality glaze to restore the high
+gloss finish. I prefer 3M Imperial Hand Glaze. Don't use a machine on your
+car, as it deserves to be caressed by hand. Use the machine on your SO. 
+
+ 3. When applying either a glaze or a wax, apply to your soft cotton cloth or
+applicator pad (don't squirt the stuff on the car) and work in one direction
+only. Don't go around in circles like dear of dad . Circles are many times
+the cause of "swirl marks." A front-to-back, back-to-front motion (the way
+the air flows over the car) will help minimize swirl marks or at least make
+them less visible. Buff out with a soft cotton cloth. If it looks good, wax
+with a quality hard wax and you are done.
+
+ 4. Tip for applying wax. If you are using a quality carnuba based wax, try
+applying it with your fingers instead of a pad or cloth. Hold your fingers
+together and use your finger tips as an applicator pad. The tactile feedback
+from your fingers will tell you when the wax has been worked into the paint.
+If grit should lodge under your fingers, you will know immediately and not
+grind it into the paint. A pad will not allow this tactile feedback and these
+devil grits become sandpaper. A circular motion of the pad will make a 360
+degree swirl mark. All marks on paint are most visible at a 90 degree viewing
+angle. Thus the front to back marks are most visible from the sides, whereas
+a circle stands out from any viewing angle.
+
+ The question was also asked if clear touchup should be used as a final coat
+to repair chips on a clear coat paint. There are two view points to this
+question.
+
+ 1. The purist will say yes, the paint has a clear coat and thus, the repair
+should also. The process is the same as previously described, except the
+clear coat is substituted for the last 2-3 coats or paint.
+
+ 2. The practical world says no. The touchup paint is different from the
+original paint and is formulated only as a touchup paint. Once it is applied
+it should, according to the manufacturer, match well enough to be all but
+invisible. I have found this to be the case with the numerous repairs on the
+many cars/colors, I have completed. If you are using the original paint as a
+touchup (I have not done this with a clear coated car), then my understanding
+is that you should use the clear as a topcoat. The color coat of some paints
+ will many times be relatively dull in appearance. These paints rely on the
+clear coat to provide the "shine." 
+
+ Try one chip in an area that is not that visible. If the process works, then
+continue with the rest. If not try the clear coat top layer.
+
+ I hope that the above has added a little more food for thought on chips. (Or
+chips as a thought of food.) 
+
+ Larry Reynolds
+ Car Care Specialties, Inc.
+ Distributors of Quality Car Care Products
+ Post Office Box 535
+ Saddle Brook, NJ 07663-0535
+ Phone (201) 796-8300
+ Fax (201) 791-9743
+ E-mail carcaresp@aol.com
+ Old enough to remember when sex was safe and race cars were dangerous

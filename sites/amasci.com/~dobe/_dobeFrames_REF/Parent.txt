@@ -1,0 +1,7 @@
+Parent.htm 
+
+ Filename: "Parent.htm" 
+ Shows up in same window, replacing frames. 
+ 0_TOC_Frame_Target_dobeTutAll.htm 
+ in: (target="_parent") 
+ Click "BACK" in browser!

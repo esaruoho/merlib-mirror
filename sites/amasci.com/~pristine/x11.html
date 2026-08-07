@@ -1,0 +1,551 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="puremac.css">
+<link rel="shortcut icon" href="http://www.pure-mac.com/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pure-mac.com/puremac.xml">
+<title>Pure Mac: X Window System - Software for Macintosh</title>
+</head>
+<a href="http://www.pure-mac.com/"><img src="images/puremacsm.gif" align=right width="88" height="20" border="0" alt="Pure Mac"></a>
+<center>
+<table style="text-align: left; width: 80%;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+<td>
+<center><h1>X Window System</h1>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 90;
+google_ad_format = "160x90_0ads_al";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="Pure-mac.com">
+<input type="text" name="q" size="20" maxlength="255" value="">
+<input type="submit" name="sa" value="Google Search">
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="">
+<font size="-1" color="#000000">Web</font>
+</td>
+<td>
+<input type="radio" name="sitesearch" value="Pure-mac.com" checked="checked">
+<font size="-1" color="#000000">Pure-Mac.com</font>
+</td>
+</tr>
+</table>
+<input type="hidden" name="client" value="pub-9373990431833662">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:184;L:http://www.pure-mac.com/puremac.gif;S:http://;FORID:1">
+<input type="hidden" name="hl" value="en">
+</td></tr></table>
+</form>
+<!-- SiteSearch Google -->
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<hr>
+<b>There are a few  major X11 programs (eg. Gimp, OpenOffice) which have Mac OS X packages that install and run pretty
+much like any typical Mac program.  Most, however, you will have to tweak a bit to get running. Those who need more (scientists, network admins, assorted geeks), can install virtually any X11 program from source with
+<a href="http://www.apple.com/macosx/developertools/">Apple's Developer Tools</a> or use the ports from 
+<a href="http://www.macports.org/">MacPorts</a> or <a href="http://pdb.finkproject.org/pdb/index.php">Fink</a>.</b>
+<br><br><br>
+<center>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#ardour">Ardour</a></td></tr>
+<tr><td valign=top align=left><a href="#fontforge">FontForge</a></td></tr>
+<tr><td valign=top align=left><a href="#freeciv">Freeciv</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#gimp">GIMP</a></td></tr>
+<tr><td valign=top align=left><a href="#gimpshop">Gimpshop</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#imagemagick">ImageMagick</a></td></tr>
+<tr><td valign=top align=left><a href="#inkscape">Inkscape</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#openoffice">OpenOffice</a></td></tr>
+<tr><td valign=top align=left><a href="#wireshark">Wireshark</a></td></tr>
+<tr><td valign=top align=left><a href="#x11">X11</a></td></tr>
+</table>
+</td>
+</tr></table>
+</center>
+<br>
+<hr>
+<a href="http://www.apple.com/macosx/features/x11/">Apple - Mac OS X - X11</a><br>
+<a href="http://www.xfree86.org/">XFree86</a><br>
+<a href="http://www.x.org/">X.Org Foundation</a>
+<hr>
+<table style="text-align: left;" border="0" cellpadding="4" cellspacing="2">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<hr>
+<h3><a href="http://www.pure-mac.com/">Pure Mac</a></h3>
+<b><a href="http://www.pure-mac.com/education.html"><font color="#000000">Education</font></a></b><br>
+<font size=-1><a href="access.html">Accessibility</a><br>
+<a href="astronomy.html">Astronomy</a><br>
+<a href="calcmath.html">Calculators &amp; Math</a><br>
+<a href="collect.html">Collections</a><br>
+<a href="health.html">Health</a><br>
+<a href="hobbies.html">Hobbies &amp; Crafts</a><br>
+<a href="kids.html">Kid Stuff</a><br>
+<a href="language.html">Language</a><br>
+<a href="censor.html">Parental Control</a><br>
+<a href="recipes.html">Recipes</a><br>
+<a href="science.html">Science</a><br>
+<a href="teach.html">Teaching Aids</a><br>
+<a href="typing.html">Typing</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/games.html"><font color="#000000">Games</font></a></b><br>
+<font size=-1><a href="action.html">Action</a><br>
+<a href="arcade.html">Arcade</a><br>
+<a href="board.html">Board</a><br>
+<a href="card.html">Card</a><br>
+<a href="emu.html">Emulators</a><br>
+<a href="flight.html">Flight Sims</a><br>
+<a href="friv.html">Frivolous</a><br>
+<a href="gameutils.html">Game Utilities</a><br>
+<a href="mmog.html">MMOG</a><br>
+<a href="puzzle.html">Puzzle</a><br>
+<a href="adventure.html">RPG</a><br>
+<a href="sports.html">Sports &amp; Racing</a><br>
+<a href="strategy.html">Strategy</a><br>
+<a href="word.html">Word</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/internet.html"><font color="#000000">Internet</font></a></b><br>
+<font size=-1><a href="bbs.html">Collaboration</a><br>
+<a href="distributed.html">Distributed Computing</a><br>
+<a href="dlm.html">Download Managers</a><br>
+<a href="email.html">Email</a><br>
+<a href="ftp.html">FTP</a><br>
+<a href="intutils.html">Internet Utilities</a><br>
+<a href="iphone.html">iPhone</a><br>
+<a href="irc.html">IRC &amp; IM</a><br>
+<a href="intgames.html">Online Games</a><br>
+<a href="p2p.html">Peer-to-Peer</a><br>
+<a href="remote.html">Remote Access</a><br>
+<a href="usenet.html">Usenet</a><br>
+<a href="vidconf.html">Video Conferencing</a><br>
+<a href="voip.html">VoIP</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/multimedia.html"><font color="#000000">Multimedia</font></a></b><br>
+<font size=-1><a href="audio.html">Audio</a><br>
+<a href="cad.html">CAD</a><br>
+<a href="charts.html">Charts</a><br>
+<a href="dtp.html">DTP</a><br>
+<a href="ebook.html">Ebook</a><br>
+<a href="font.html">Font Utilities</a><br>
+<a href="graphics.html">Graphics</a><br>
+<a href="mp3.html">iTunes &amp; MP3</a><br>
+<a href="mediacenter.html">Media Center</a><br>
+<a href="music.html">Music</a><br>
+<a href="photoplug.html">Photoshop Plug-ins</a><br>
+<a href="presentation.html">Presentation</a><br>
+<a href="3d.html">3D &amp; Animation</a><br>
+<a href="screen.html">Screen Capture</a><br>
+<a href="video.html">Video</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/system.html"><font color="#000000">System</font></a></b><br>
+<font size=-1><a href="unix.html">Alternative OS</a><br>
+<a href="appud.html">Classic Updates</a><br>
+<a href="cli.html">Command Line</a><br>
+<a href="cmm.html">Contextual Menus</a><br>
+<a href="csm.html">CSMs</a><br>
+<a href="hard.html">Drivers</a><br>
+<a href="facelift.html">Face-Lift</a><br>
+<a href="launchers.html">Launchers</a><br>
+<a href="olden.html">Olden</a><br>
+<a href="screensaver.html">Screen Savers</a><br>
+<a href="security.html">Security</a><br>
+<a href="sys.html">System Enhancements</a><br>
+<a href="virus.html">Virus</a><br>
+<a href="widgets.html">Widgets</a><br>
+<a href="x11.html">X11</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/utilities.html"><font color="#000000">Utilities</font></a></b><br>
+<font size=-1><a href="backup.html">Backup</a><br>
+<a href="compen.html">Compression</a><br>
+<a href="cross.html">Cross-Platform</a><br>
+<a href="database.html">Database</a><br>
+<a href="diag.html">Diagnostics</a><br>
+<a href="diskfile.html">Disk &amp; File</a><br>
+<a href="finance.html">Finance</a><br>
+<a href="handhelds.html">Handhelds</a><br>
+<a href="network.html">Network</a><br>
+<a href="pims.html">PIMs</a><br>
+<a href="prog.html">Programming</a><br>
+<a href="spreadsheet.html">Spreadsheets</a><br>
+<a href="telephony.html">Telephony</a><br>
+<a href="textword.html">Text Editors</a><br>
+<a href="time.html">Time</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/www.html"><font color="#000000">WWW</font></a></b><br>
+<font size=-1><a href="auctions.html">Auctions</a><br>
+<a href="webb.html">Browsers</a><br>
+<a href="neten.html">Browser Enhancements</a><br>
+<a href="offline.html">Page Rippers</a><br>
+<a href="rss.html">RSS &amp; Podcasting</a><br>
+<a href="webmaint.html">Site Management</a><br>
+<a href="ticker.html">Stock Tickers</a><br>
+<a href="weather.html">Weather</a><br>
+<a href="webcam.html">Web Cams</a><br>
+<a href="webed.html">Web Editors</a><br>
+<a href="gifanim.html">Web Graphics</a><br>
+<a href="netsearch.html">Web Search</a><br>
+<a href="webserv.html">Web Server</a><br>
+<a href="services.html">Web Services</a><br>
+<a href="web20.html">Web 2.0</a><br>
+</font><br>
+<a href="http://www.pure-mac.com/extkey.html"><b>Extension Key</b></a><br>
+<a href="http://www.pure-mac.com/purepicks.html"><b>Pure Picks</b></a><br>
+<a href="http://www.pure-mac.com/softindex.html"><b>Software Index</b></a>
+<hr>
+</td>
+<td style="vertical-align: top;">
+<a name = "ardour"></a>
+<img align=top width="32" height="32" alt="icon" src="images/ardour.png"> <b>Ardour 2.1</b>
+<br><br>
+Ardour is a digital audio workstation. You can use it to record, edit and mix multi-track
+audio. You can produce your own CDs, mix video soundtracks, or just experiment with new
+ideas about music and sound. Ardour capabilities include: multichannel recording,
+non-destructive editing with unlimited undo/redo, full automation support, a powerful
+mixer, unlimited tracks/busses/plugins, timecode synchronization, and hardware control
+from surfaces like the Mackie Control Universal. If you've been looking for a tool similar
+to ProTools, Nuendo, Pyramix, or Sequoia, you might have found it.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Paul Davis
+<li><b>Modification Date</b>: October 1, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher and X11 and <a href="http://www.pure-mac.com/audio.html#jackosx">Jack OS X</a>
+</ul>
+<a href="http://www.pure-mac.com/downloads/ardourdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 34.2 MB
+<br>
+<a href="http://www.ardour.org/">Home Page</a>
+<hr><a name = "freeciv"></a>
+<img align=top width="32" height="32" alt="icon" src="images/freeciv.png"> <b>Freeciv 2.1.1</b>
+<br><br>
+Freeciv is an open-source, turn-based strategy game that originated from the Linux world.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: freeciv.org
+<li><b>Modification Date</b>: November 29, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher and X11
+</ul>
+<a href="http://www.pure-mac.com/downloads/freecivdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 29.4 MB
+<br>
+<a href="http://www.freeciv.org/index.php/Freeciv">Home Page</a>
+<hr><a name = "fontforge"></a>
+<img align=top width="32" height="32" alt="icon" src="images/x11.gif"> <b>FontForge 20071312</b>
+<br><br>
+An outline font editor that lets you create your own postscript, truetype, opentype,
+cid-keyed, multi-master, cff, svg and bitmap (bdf, FON, NFNT) fonts, or edit existing
+ones. Also lets you convert one format to another. FontForge has support for many
+macintosh font formats.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: George Williams
+<li><b>Modification Date</b>: March 12, 2007
+<li><b>Requirements</b>: Mac OS X 10.3 or higher and X11
+</ul>
+<a href="http://www.pure-mac.com/downloads/fontforgeinteldl.html">Download</a><img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.6 MB
+<br>
+<a href="http://www.pure-mac.com/downloads/fontforgeppcdl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.5 MB
+<br>
+<a href="http://fontforge.sourceforge.net/">Home Page</a>
+<hr><a name = "gimp"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/gimp.gif"> <b>GIMP.app 2.2.11</b>
+<br><br>
+The GIMP is the GNU Image Manipulation Program. It is a freely
+distributed piece of software for such tasks as photo retouching, image
+composition and image authoring. It works on many operating systems, in
+many languages.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Gimp Project
+<li><b>Modification Date</b>: April 21, 2006
+<li><b>Requirements</b>: Mac OS X 10.3 or higher, X11
+</ul>
+<a href="http://downloads.sourceforge.net/gimp-app/Gimp-2.2.11.dmg?download">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 82.6 MB
+<br>
+<a href="http://gimp-app.sourceforge.net/">Gimp.app Home Page</a>
+<br>
+<a href="http://www.gimp.org/">Gimp Home Page</a>
+<hr><a name = "gimpshop"></a>
+<img align=top width="32" height="32" alt="icon" src="images/gimpshop.png"> <b>Gimpshop 2.2.11</b>
+<br><br>
+If you've never used Photoshop before, you may not appreciate my GIMPshop hack. What I've
+done is renamed and reorganized GIMP's tools, options, windows, and menus to closely
+resemble Adobe Photoshop's menu structure and naming conventions. Many of the menu options
+and even whole menus were recreated to faithfully reproduce a Photoshop-like experience.
+After running my GIMPshop hack, you'll find that Photoshop and the GIMP are strikingly
+similar.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Plastic Bugs
+<li><b>Modification Date</b>: May 23, 2006
+<li><b>Requirements</b>: Mac OS X 10.3 or higher with X11
+</ul>
+<a href="http://www.plasticbugs.com/blogimg/Gimpshop-OSX-2.2.11.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 84.9 MB
+<br>
+<a href="http://plasticbugs.com/?page_id=294">Home Page</a>
+<hr><a name = "imagemagick"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>ImageMagick 6.3.6</b>
+<br><br>
+ImageMagick is a software suite to create, edit, and compose bitmap
+images. It can read, convert and write images in a large variety of
+formats. Images can be cropped, colors can be changed, various effects
+can be applied, images can be rotated and combined, and text, lines,
+polygons, ellipses and Bezier curves can be added to images and
+stretched and rotated.
+<br>
+Most of the functionality of ImageMagick can be used interactively from
+the command line; more often, however, the features are used from
+programs written in the programming languages C, Ch, C++, Java, Lisp,
+Pascal, Perl, PHP, Python, Ruby, Tcl/Tk, for which ready-made
+ImageMagick interfaces (MagickCore, MagickWand, PerlMagick, Magick++,
+PythonMagick, MagickWand for PHP, RMagick, TclMagick, L_Magick, and
+JMagick) are available. This makes it possible to modify or create
+images automatically and dynamically.
+<br>
+ImageMagick supports many image formats (over 95) including formats like
+GIF, JPEG, JPEG-2000, PNG, PDF, PhotoCD, TIFF, and DPX.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: ImageMagick Studio
+<li><b>Modification Date</b>: October 14, 2007
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.pure-mac.com/downloads/imagemagickdl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.9 MB
+<br>
+<a href="http://www.imagemagick.org/script/index.php">Home Page</a>
+<hr><a name = "inkscape"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/inkscape.png"> <b>Inkscape 0.45.1</b>
+<br><br>
+Inkscape is an Open Source vector graphics editor, with capabilities
+similar to Illustrator, Freehand, CorelDraw, or Xara X using the W3C
+standard Scalable Vector Graphics (SVG) file format. Supported SVG
+features include shapes, paths, text, markers, clones, alpha blending,
+transforms, gradients, patterns, and grouping. Inkscape also supports
+Creative Commons meta-data, node editing, layers, complex path
+operations, bitmap tracing, text-on-path, flowed text, direct XML
+editing, and more. It imports formats such as JPEG, PNG, TIFF, and
+others and exports PNG as well as multiple vector-based formats.
+<br>
+Inkscape's main goal is to create a powerful and convenient drawing tool
+fully compliant with XML, SVG, and CSS standards. We also aim to
+maintain a thriving user and developer community by using open,
+community-oriented development process, and by making sure Inkcape is
+easy to learn, to use, and to extend.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Inkscape Developers
+<li><b>Modification Date</b>: March 21, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher and X11
+</ul>
+<a href="http://www.pure-mac.com/downloads/inkscapedl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 22.9 MB - Universal
+<br>
+<a href="http://www.inkscape.org/">Home Page</a>
+<hr><a name = "openoffice"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/openoffice.png"> <b>OpenOffice 2.3</b>
+<br><br>
+OpenOffice.org the product is a multi-platform office productivity
+suite. It includes the key desktop applications, such as a word
+processor, spreadsheet, presentation manager, and drawing program, with
+a user interface and feature set similar to other office suites.
+Sophisticated and flexible, OpenOffice.org also works transparently with
+a variety of file formats, including those of Microsoft Office, and the
+vendor-neutral OpenDocument standard from OASIS.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: openoffice.org
+<li><b>Modification Date</b>: September 30, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher and X11
+</ul>
+<a href="http://www.pure-mac.com/downloads/openofficedl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12><img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12>
+File Size: 148 MB
+<br>
+<a href="http://porting.openoffice.org/mac/index.html">Home Page</a>
+<hr><a name = "wireshark"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/x11.gif"> <b>Wireshark 0.99.5</b>
+<br><br>
+Sniffing Problems A Mile Away
+<br>
+Same developers, same code, different name. The Ethereal network protocol analyzer has
+changed its name to Wireshark.
+<br>
+Wireshark's powerful features make it the tool of choice for network troubleshooting,
+protocol development, and education worldwide.
+<br>
+Wireshark was written by an international group of networking experts, and is an example
+of the power of open source. It runs on Windows, Linux, UNIX, and other platforms.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: wireshark.org
+<li><b>Modification Date</b>: February 1, 2007
+<li><b>Requirements</b>: Mac OS X 10.3 or higher, X11
+</ul>
+<a href="http://www.wireshark.org/download.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 13.3
+<br>
+<a href="http://www.finkconsulting.com/opensource/i386/WiresharkIntel.dmg">Download</a><img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12>
+File Size: 62.1 - Mac OS X Package by Andreas Fink
+<br>
+<a href="http://www.finkconsulting.com/opensource/ppc/WiresharkPPC.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 73.6 - Mac OS X Package by Andreas Fink
+<br>
+<a href="http://www.finkconsulting.com/page7.php">Download Page</a> - Mac OS X Package by Andreas Fink
+<br>
+<a href="http://www.wireshark.org/">Home Page</a>
+<hr><a name = "x11"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/x11.gif"> <b>X11 2006 1.1.3</b>
+<br><br>
+Prior to the introduction of Mac OS X, virtually the only way developers
+could create a graphical application in a UNIX-based operating system
+was with the X Window System, more commonly called X11. X11 for Mac OS X
+offers UNIX users the ability to run thousands of X11 applications
+concurrently with other Mac OS X applications.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Apple
+<li><b>Modification Date</b>: November 13, 2006
+<li><b>Requirements</b>: Mac OS X 10.4.8 or higher
+</ul>
+<a href="http://supportdownload.apple.com/download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/Mac_OS_X/downloads/061-2901.20061113.iUnrq/X11Update2006.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 49.7 MB - 2006 Update
+<br>
+<a href="http://www.apple.com/support/downloads/x11update2006113.html">Download Page</a>
+<br>
+<a href="http://www.apple.com/macosx/features/x11/">Home Page</a>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br>
+<table border=0>
+<tr>
+<td width=250 height=60 align=left valign=top>
+<img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel Native</font><br>
+<img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel &amp; PPC Native</font><br>
+<img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X PPC Native</font><br>
+<img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 8/9 PPC Native</font><br>
+<img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 680x0 Native</font><br>
+<img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Non-OS Specific Code</font><br>
+</td>
+<td width=60 height=60 align=right valign=top>
+<img align=left width="32" height="32" alt="blank" src="images/blank.gif">
+</td>
+<td width=270 height=60 align=center valign=top>
+<center><a href="http://www.pure-mac.com/"><b>Back to the Main Page of Pure Mac</b></a></center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</table>
+</body>
+</html>

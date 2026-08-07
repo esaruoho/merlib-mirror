@@ -1,0 +1,72 @@
+<HTML>
+<HEAD>
+<TITLE>Derivatives Quiz</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+
+function getSelectionText(selectObj)
+{
+	return selectObj.options[selectObj.selectedIndex].text
+}
+
+// the main function that writes the novel
+function writeNovel(form) {
+	var frame    = parent.frames[1]  // Hard coded number!? BOO HISS
+	// var frame    = parent.frames[0]  // Hard coded number!? BOO HISS
+	var frameDoc = frame.document
+	var result   = ""
+	
+	// Assemble content for bottom frame
+	result = "<BODY>"
+	theAnswer = getSelectionText(form.suddenEvent1)
+	result +='You answered: ' + theAnswer
+	if (theAnswer.indexOf("racehorse", 0) >= 0) {
+	result +="<BR>"
+	result +="That's lame.  "
+	result +="<BR>"
+	} else if (theAnswer.indexOf("rock band", 0) >= 0) {
+	result +="<BR>"
+	result +='What a bozo! '
+	result +="<BR>"
+	} else if (theAnswer.indexOf("porno film", 0) >= 0) {
+	result +="<BR>"
+	result +='No way! '
+	result +="<BR>"
+	result +="<BR>"
+	}
+	result +='Actually, Fannie MAE is a corporation in the mortgage business. '
+	result +="<BR>"
+	result += "</BODY>"
+
+	// Write the data
+	frameDoc.writeln(result)
+
+	// This doc.close() appears to flush all frame text to the screen
+	// if it is left out we may not see all the text.
+	// Bug or feature?
+	frameDoc.close()
+}
+
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<center>
+<H1>A quiz</H1>
+<H2>Test your knowledge!!</H2>
+<H4>Find out how much you really know!!</H4>
+</center>
+<hr>
+Select your answer, then press <em>Grade Quiz</em> to see how you did.
+<FORM>
+<hr>
+"Fannie Mae" is a
+<SELECT NAME="suddenEvent1">
+	<OPTION> racehorse
+	<OPTION> rock band
+	<OPTION> porno film
+</SELECT>
+<hr>
+<INPUT TYPE="button" NAME="Grade Quiz" VALUE="Grade Quiz" ALIGN="center"
+ onClick=writeNovel(this.form)>
+</FORM>
+</HTML>

@@ -1,0 +1,62 @@
+B@AB : An Any Branch Banking System 
+
+ Banks 
+ having centralized databases are offering their customers facilities wherein 
+ they can operate their accounts from any branch of a bank. Not all banks 
+ have centralized databases and those having distributed databases at their 
+ branches need to offer these facilities to compete in an increasingly 
+ competitive marketplace. 
+ Bankstar's B@AB system allows banks with distributed databases offer 
+ their customers these facilities with an implementation cost which is 
+ a fraction of banks having centralized databases. 
+
+ Key 
+ Features : 
+
+ Cost Effective 
+ B@AB integrates to existing baseline systems in operation at branches 
+ making it an extremely cost effective system. 
+
+ Flexible 
+ B@AB uses the TCP/IP protocol allowing a bank to choose between the Internet, 
+ Dial-Up lines, Leased Lines, VSAT's etc. for each of its branches depending 
+ on transaction volumes. 
+
+ Currency Independent 
+ B@AB can effect transactions in any currency and supports multiple exchange 
+ rates. 
+
+ Flexible Authorization Automation 
+ B@AB allows users to fine tune the automation of transaction authorization 
+ based on individual risk perceptions. 
+
+ Multiple Transaction Types 
+ A variety of services such as cash withdrawal, cash deposit, cheque deposit, 
+ statements etc are available. 
+
+ System 
+ Features : 
+
+ Structured Message Formats 
+ Messages are transmitted in a structured format allowing an interface 
+ to almost any external messaging system such as SWIFT, INFINET etc. 
+
+ Security 
+ B@AB uses server passwords, Testkeys, Symmetrical Encryption, Public Key 
+ Infrastructure (PKI) based Asymmetrical Encryption and Hardware tokens 
+ making it a highly secure system. 
+
+ User Defined Charges 
+ Banks can set up absolutely any type of charge structure using Bankstar's 
+ Rule Designer. 
+
+ Interface to PAY 
+ B@AB interfaces to PAY, Bankstar's payment system allowing banks to offer 
+ instantaneous funds transfer. 
+
+ Interface to BiLL 
+ B@AB interfaces to BiLL, Bankstar's billing system allowing banks to offer 
+ electronic billing. 
+
+ Interface to TEST 
+ B@AB is interfaced to TEST, Bankstar's Testkey and file transfer system.

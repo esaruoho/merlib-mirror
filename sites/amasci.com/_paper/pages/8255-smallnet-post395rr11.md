@@ -1,0 +1,137 @@
+---
+title: "SMALLnet post395RR11"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post395RR11.html
+order: 8255
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post395RR11
+
+*Source page: `~smallnet/Archive/post395RR11.html`*
+
+## SMALLnet Posting post395RR11
+
+------------------------------------------------------------------------
+
+**Date: Sun, 28 Oct 2001 15:15:31 EST**
+
+From \< <royce6@juno.com> \>\
+Roy Clough writes:\
+I must have missed something in the past 50 years, becauser this recent talk about sub piston induction has me buffaloed. The only engine I ever had that had a "sub-piston" and called it that in the manual, was an Atom--one of the best running .09s I ever had. Later I bought into the idea that three-port engines had "sub-piston" induction because the intake tube was uncovered by the piston skirt. My vintage Mills works this way. The Wasps I owned had rotary valves as does my Norvel. Please educate me as to the current useage of the term "sub-piston."\
+I've had great good luck with exhaust restrictor sleeve throttling on any Cox engine I 've used it on.
+
+This talk about diesel fuel put me in mind of a receipe somebody gave me years ago(disremember who,) for a diesel super fuel. I never tried it, and cannot vouch for it, but for anybody who wants to mix up a batch it goes like this:
+
+20% SAE 20 motor oil\
+20% Diethylene monobutyl ether\
+40% Diesel truck fuel (light grade)\
+20% Ordinary ether\
+to which mix add about 2% ethyl or amyl nitrate.\
+I mentioned once before that I fitted a Drone with a second needle valve to administer, water, alcohol, light fluid, etc., once it was running. Long time ago, kept no notes, but it seemed it kept going on some of the stuff I tried. I feel this might be a fun type experiment with some modern engines. I'll bet something interesting might happen with an injection of 30% hydrogen peroxide.\
+Roy C.
+
+From "Chris Murphy" \< <chrismurphy@inet.net.nz> \>\
+A couple of points raised by various correspondents.\
+\
+(1) I have the plans, article, and kitset for the Ace 'Littlest Stick'-plus several other Ace plans and kits. (in the 80's I must have been one of their better overseas customers!)\
+\
+(2) for those who are sticklers for authenticity. I also have the Ace Commander pulse propo set (on 27.145) with several actuators, if wanted\
+\
+(3) there are at least four Frog '049's-two diesel and two glow. The Frog 80D came out in the late 1950's (ca 1957) and was produced in two marks. Only the Mk1 had the O-ring contrapiston, the MkII had a conventional lapped contra piston. You can tell the difference by inspecting the cylinder head-on the Mk II, there is a raised boss where the compression screw sits-standing about 1mm proud of the head fins.(on the original 80 it is flush with the fins). Later a glow version of the 80 was produced (v.early 60s)-this had the same appearance as the diesel-twin exhaust stacks etc, but was not very powerful. Finally in the mid 70's Frog (which by that time was being manufactured by Davies-Charlton, who made the D-C 'Quickstart' range) produced the 'Venom' 049-which was simply the DC 'Wasp' tarted up a bit with a red anodised head and red anodised radial tank mount. It did have 'Frog' cast on the c/case. Finally the Frog range just faded away-but the Venom soldiered on a little longer in the guise of the DC 'Bee'-which was again the DC Wasp on a radial tank mount, but missing the beam mounting lugs of the standard Wasp.\
+\
+(4) someone was asking about methanol in diesel fuel.Not a hope in hell of working, sorry. The fuel component is kerosene-or 'paraffin' as the Brits call it. It seems to make no difference whether you use 'lighting' or 'power' kerosene. Coleman lamp fuel would do-or if you live near an airport-Jet A/1 (Av-tur) is simply refined grade kerosene. \[I might add that exhaustive experiments in the 80's conducted in NZ, Aust and the UK, could detect no improvement in performance through using Jet A-1 in preference to good old kerosene\]\
+Chris Murphy\
+Christchurch, NZ
+
+From AUSTIN NELSON \< <themouse7@excite.com> \>\
+
+For the guy lookin for plans for the ace littlest stick, I have the plans somewhere on my machine, I got them from some website somewhere. I have the plans from a kit also, but they are not full size(for that matter I don't know if the others are either since I haven't ever printed them up) I think the plans are in acrobat format but ain't sure. I have one I haven't flown in a while, I have a T.D. .020 on it and it scoots, my friend built one with a baby bee .049, and instead of dihedral swept the wings back looked cool and flew good too, mine had a better glide ratio, lighter I suppose. Anyway sooner or later I'm going to get around to converting them to a cad format, but not yet. I will e-mail them to you if you wish just let me know. I would also suggest, if you've never built one before, if you are going full house I would remove the incidence in the wing and some of the engine offset, I flew mine two channels and with the .020 it took down and left trim to make it fly straight. It was designed to be .010 powered and single channel, the extra power made it difficult to trim with the built in incedence and engine thrust line. But man is it fun!\
+Austin\
+\< <nekked_man_2000@yahoo.com> \>
+
+From "Ian L. McQueen" \< <imcqueen@nbnet.nb.ca> \>\
+Hi All-
+
+I have comments on a couple of letters in Sub 10.\
+\
+Bruce Stough wrote (w/snips):\
+
+> The second experiment was to add an air bleed hole to a VA throttle (supplied by David Larkin). These were developed for small copies of the Mills engines made by VA, but screw directly into the MP Jet Classic .040 engine. As well as drilling the air bleed hole, Andy added an adjustment screw. At first I had some problems with this carburetor, but this turned out to be caused by the throttle barrel closing first on the air inlet side rather than on the cylinder side. A needle file corrected this, and now the MP Jet Classic (purchased from Carlson Engine Imports) throttles fine. On a wood 7x4 prop it ranges from around 4k to 7.8k rpm, and response is quick.
+
+This comment on closing of the barrel is interesting. However, it is contrary to information supplied to me by Ray Gareau, who was a good friend of Ben Tarnofsky, manufacturer of the Tarno carbs once available for Cox engines. A secret of their success was that the air inlet closed the intake to the engine. This ensures that there is fuel available for the engine (assuming an air-bleed carb), otherwise the engine is going to starve and die. This approach seems logical to me, and having the barrel block the inlet to the engine first seems to be going about matters the wrong way.\
+Regarding sub-piston induction, Ray told me that it can cause problems when trying to use a carb. The solution when using a Tarno carb with a TD was to use a muffler. With a muffler, throttling is excellent. Without, very poor. Ben built a model with four TD/Tarno engines. It is now in Ray's possession. Ray gets all four engines running quickly, by hand, and throttling is nearly instantaneous and synchronized. The sound of four TDs is quite something!\
+Ian M
+
+8 From "bradley darville" \< <ellivradb@earthlink.net> \>\
+
+Do you recall the ACE "2T" ? I think Mr.Willard designed it. My father and I had many great flights with ours in the early seventies. Ours was robbins egg blue, with the wing wearing only a coat of polyurethane varnish. This humble ship survived repeated encounters with solid air....requiring only some new rubber bands ,and a small bit of 5min. hobbypoxy. I still have the plans, and I would love to build another one with modern radio and a tiny diesel. I vaguely remember reading of a source for the ACE foam wing panels used on the 2T, and many other ace kits. If you have any ideas, Id be happy to hear them. Thanks for your ever enjoyable column.\
+Take care, Brad.
+
+From "Larry Renger" \< <larry_renger@earthlink.net> \>\
+To jack Thompson:\
+Clancy Aviation's product line has been sold, I think to Tower. They should start having things in stock soon. Andy is concentrating on some personal projects, and being the creative type he is, wanted out of the day-to-day kit business. I am sure that the products will go on!
+
+To Nero Wolfe:\
+I have a Littlest Stik kit, and would be willing to copy the plans for whatever it costs to dupe and send. Probably under \$10. Not, however, willing to sell the kit....
+
+To Andy W and others:\
+Sub piston induction only degrades power when a restrictive muffler is used. Otherwise, it should have no effect on throttling. With a simple exhaust restrictor such as was made for the Medallion engines in the 60s, it can be a really good way to throttle an engine. Open exhaust at high throttle, exhaust feedback under the piston at low throttle.
+
+Best regards,\
+Larry Renger
+
+From \< <swiftweasel@webtv.net> \> (Nic Hallett)\
+For those of you wanting to mix your own diesel fuel using engine starting fluid, the John Deere product is probably the best choice. It contains 80% ether, and is now packaged in a gray aerosol can. Nic
+
+From "Oscar Aitken Corral"\
+I am rather new to diesls and I have not experienced any problems with the collector ring on the Paw 0.33 although I did the running in without it. It can be removed and repleced easily.
+
+From \< <dongarry@webtv.net> \> (Donald Garry)\
+Just a couple of weeks ago I was reading a short article on the old Noble receiver switch. The article was telling of the super redundancy the old switch had and how it was the standard switch for the famous Kraft radios, also was used on many Ace radios and kits. It also told of how you can get redundancy today by having two leads coming from your receiver battery and thus using 2 receiver switches ..... one switch plugs in to normal receiver battery slot, while the other can be pugged into any open channel on receiver.\
+My question is simply this: Does anyone know where I might have read this article? In what magazine or possible web site might I have read this? Is driving me crazy looking for it once again after just having read it recently ..... can not seem to find the article anywhere .... HELP anyone?? I sort of think I read it in one of the Model Magazines, but not certain? Thanks much! Donald Garry.
+
+Donald Garry\
+535 Clearview Drive\
+Cocoa, Florida 32927\
+Phone# (321)632-9115\
+
+From "Dave Cambell" \< <cdcampb@ismi.net> \>\
+
+> From "Nero Wolfe" \< <wolfe19@lightfirst.com> \>\
+> ACE apears to be out of buisness... i'm looking for the plans to the littlest stick. Or where I can get kits from. (either will do) I'm looking to make my first full house ship. I'm rather curious about the power source. Would a 0.010 be enough to fly it, or a 0.020 the minimum. Considdering I'm going to use HS-55 servos.. i was also planing on streaching the wingspan a little. say another 6" or so.
+
+I built a 2ch Littlest stick back in '93 or so.. It had a Cannon radio in it and weighed about 6-1/2oz, and flew very well on the T.D. 010. The wing area is ok, leave that stock and just change the wing incidence as it's intended for rudder only flight. There are copies of the plans and original building article on the internet, forgot where though... I think RCM carried the original article.
+
+Dave Campbell
+
+From "Dave Cambell" \< <cdcampb@ismi.net> \>\
+
+> From Dean Owen \< <de.owen@morehead-st.edu> \>\
+> A number of years ago I built and flew a wonderful little model produced by ACE. The plane was the GLH (Goes Like H\*LL). This little swept wing 1/2A sport plane would do anything you could ask of it and I want to build another....BUT it is no longer in production and I am writing to ask if anyone might have a kit squirreled away or a set of plans which might be photocopied. As I recall the plane came in two kit versions...a foam winged version and a built-up traditional rib and spar version. The version I flew used the built-up wing and it was a fantastic flyer so if anyone knows of a source for a kit or plans, I'd enjoy hearing from you......Cheers, Dean
+
+Ahh,.... This was a great flying airplane!! I bought one built at a swap show and flew it until it was just too oil-soaked to stay together. I remember it being really fast and groovy-it was my first "real" performance 1/2A. I have since gone on to other glow and Sp400 racers and molding my own fuselages, but I did pick up a GLH kit that could go to a good home for a modest price.\
+Plans are problematic because like all ACE kits, they are not full size-they look about 1/2 size. Nothing a copier can't fix if you come across a set.
+
+Dave
+
+From smlake@earthlink.net\
+Hi Randy,\
+First, I wanted to tell you how much I enjoy your column in Flying Models. In addition to the subject matter, there's something about your writing style that strikes a very comfortable chord and makes it that much more enjoyable. I've been having fun getting back into the hobby after a 35 year break by playing with a series of almost expendable (read that cheap!) models made entirely of blue building insulation foam and craft sticks painted with good old latex. I fly these little guys using a home built radio control system that gives me up to five proportional channels at a total airborne cost of under ten bucks using off the shelf Radio Shack parts. Finally, I wanted to recommend a website that may interest any other small & cheap types that read your column. Try www.sciplus.com for a very nice selection of batteries, motors and tools at some really low prices. Thanks again for all your good work - keep it up!
+
+Bart Prater\
+Moneta, VA
+
+\* \* \*E N D\* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,0 +1,111 @@
+---
+title: "Hage Article"
+source_domain: amasci.com
+source_path: ~rarnold/hage_article.htm
+order: 6517
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:13:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Hage Article
+
+*Source page: `~rarnold/hage_article.htm`*
+
+**GUEST OPINION**
+
+An Expert's View on the Battle for Nevada Water Rights
+
+ 
+
+by Wayne Hage
+
+Author, *Storm Over Rangelands: Private Rights in Federal Lands*
+
+ 
+
+ 
+
+**NEVADA SB 76 WRONG ANSWER TO THE WRONG QUESTION**
+
+ 
+
+Novelist Thomas Pynchon once said; If they can get you asking the wrong questions, they dont have to worry about the answers.  This would seem to be the case with Senate Bill 76, introduced by Nevada State Senator Dean Rhodes (R - Tuscarrora).  SB 76 is intended to amend 140 years of state water law by allowing the federal land management agencies to acquire water rights presently owned by Nevada ranchers and farmers.
+
+ 
+
+SB 76 is billed as remedial legislation answering to a Nevada Supreme Court overturn of District Court Judge Gambills ruling.  Judge Gambill ruled that the BLM and USFS do not qualify for stockwater rights in Nevada because Nevada law requires an applicant for stockwater rights to be able to put the water to beneficial use.  The BLM and US Forest Service own no commercial livestock. 
+
+ 
+
+The Nevada Supreme Court overturned Judge Gambills decision, holding that the State Water Engineer must allow the federal agencies to *apply* for water rights on *unappropriated* water on the *public lands.*
+
+* *
+
+Senator Rhodes, in his water bill, then proceeds to ask the wrong question:  How can we amend Nevadas water law to allow the federal agencies to demand all or a portion of a privately owned water right from Nevadas farmers and ranchers?  How this question is answered is somewhat meaningless, if the end result is the conveyance of private water rights into the hands of the federal government without compensation.  This being done at a time when Nevada citizens are facing the largest tax increase in the history of the state.
+
+ 
+
+When viewed within the worldwide rush to control water supplies, we can begin to see what SB 76 may accomplish if it is passed into law.
+
+ 
+
+The quest for control of the worlds fresh water reserves will probably prove to be the defining natural resource issue of the 21<sup>st</sup> century.  An underlying problem in the West Bank, between the Israelis and Palestinians, is that the West Bank of the Jordan River is the primary source of fresh water for the entire region.  The Golan Heights issue is underscored by the fact that whoever controls the Golan Heights can control the use of the water in the Jordan River, which Syria, Israel, Jordan and the Palestinians all rely on.  The tensions between Iraq and Turkey have been exacerbated by Turkeys control of the headwaters of the Tigris and Euphrates Rivers and Iraqs absolute dependence on the water they carry.
+
+ 
+
+Starving Ethiopia could develop massive food production areas if it could use the water of the Blue Nile River which originates in Ethiopias mountainous northwest.  The nations of Chad, Sudan, Egypt and foreign nations with investments in those countries, all live or die by the water flowing down the Nile.  Any attempt by Ethiopia to develop its water resources would bring immediate retaliation from the downstream nations.
+
+ 
+
+The quest for control of water is alive and well here in the U.S.  For example, the water in Idahos Boise Valley and the city of Boise itself is controlled by United Water Corporation.  United Water has been diligently working to gain control of the farmers irrigation water in the region through, in part, the Bureau of Reclamation.  United Water is a sub-corporation of a company called Suez.  Suez controls all the fresh water in South Korea.  Their prospectus states their goal is to become the largest owner of fresh water in the world.  Suez is owned by the United Arab Emirates.
+
+ 
+
+T. Boon Pickens, the great Texas oil entrepreneur, has now turned his interest to buying as many water rights in the Ogallala Aquifer as possible to satisfy the future needs of Dallas and other Texas cities.  In some places today, a barrel of fresh water is worth more than a barrel of oil.
+
+ 
+
+Here in Nevada, we have had numerous entities vying for control of Nevadas waters.  Vidler Water Company, Las Vegas Valley Water District, and others, have been buying and seeking to control as many water rights as possible.
+
+ 
+
+The federal government has participated, seeking to use the BLM and Forest Service as surrogates, to wrest water rights away from private individuals and into the hands of government and its creditors.  Most of the water in Nevada is controlled by the states farmers and ranchers.  The basic strategy behind the water grab is to use environmental rules and regulations through the BLM and USFS to drive ranchers out of business.  Then some entity, such as The Nature Conservancy, can obtain control of the ranch and its water for pennies on the dollar.  Nature Conservancy, or some other environmental group, can then convey the valuable asset to the hands of government or the governments creditors,  at a handsome markup. 
+
+ 
+
+This attack is impacting virtually every farmer and rancher in the state.  SB 76 will be an extension of this ongoing effort to take control of Nevada water resources and convey them to outside entities where their full profit potential can be exploited. 
+
+ 
+
+The Nevada Supreme Court did not rule that the state engineer **<u>must</u>** issue water rights to the BLM.  It only stated that the state engineer must allow the BLM to file on unappropriated waters, if any of those exist.
+
+ 
+
+SB 76 opens the door for the BLM and USFS to extort water rights from private individuals and/or drive them out of business in the process.  The valuable water resource then eventually finds its way into the hands of one of the water monopolies - such as Suez.  In the meantime, if some property owners wake up and bring a taking and compensation action against the federal government for the value of their property, they would find that SB 76 has shifted liability from the feds to the state of Nevada.  Nevada taxpayers would then pay the bill.
+
+ 
+
+The solution: obviously SB 76 needs to be recognized for what it is, and deep-sixed into oblivion before it can accomplish the mischief it will bring about.  The best solution though, is for individual water right holders to make sure their title to water rights and fee land is perfected.  Remember, the Nevada Supreme Court only said BLM could *apply* for unappropriated water on public lands.  The U.S. Supreme Court has clearly stated: It is well settled that lands to which any right or claim of another attaches is not public land.  Grazing allotments are not public lands and the water rights on them are not unappropriated.
+
+ 
+
+Nevada water law created these rights and has protected them well for almost 140 years.  Lets not tamper with success.  Leave the amending of Nevada water law alone, but make sure we use Nevada water law properly.
+
+ 
+
+Readers may contact Wayne Hage at:
+
+P.O. Box 513
+
+Tonopah, Nevada \[89049\]
+
+\(775\) 482-4187
+
+ewayne@direcway.com
+
+**<a href="issues.htm" style="text-decoration: none">RETURN TO ISSUES TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

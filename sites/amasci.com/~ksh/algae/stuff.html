@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Other Stuff</title>
+<link rev=made href="mailto:ksh@users.sourceforge.net">
+<meta name="description"
+content="other stuff you'll need to compile algae">
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EF"
+ vlink="#55188A" alink="#FF0000">
+
+<center>
+<table width=600>
+<tr><td>
+<h1><img src="brown.gif" align=middle> Other Stuff</h1>
+Below are listed some of the libraries and packages that are used with Algae.
+<dl>
+<dt><strong>gnuplot</strong>
+<dd>Algae's "plot" function is a front end for
+<a href="ftp://ftp.dartmouth.edu/pub/gnuplot/">gnuplot</a>.  This package
+is optional, but you can't plot without it.
+<p>
+<dt><strong>Readline</strong>
+<dd>The GNU <a href="ftp://prep.ai.mit.edu/pub/gnu/readline/">Readline</a>
+library is a command-line editing and history
+utility.  It isn't required, but it's pretty handy.
+<p>
+<dt><strong>BLAS</strong>
+<dd>The <a href="http://netlib.org/netlib/blas/">BLAS</a>
+(Basic Linear Algebra Subroutines) library is optional in that Algae
+supplies its own if you don't have it.  The version that Algae supplies
+is a subset of the generic version that comes with
+<a href="http://netlib.org/netlib/lapack/">LAPACK</a>.
+If your system provides a BLAS library, it may be faster than
+the one that comes with Algae.  Some systems, though, have
+BLAS libraries that are broken or that contain only a subset
+of the routines you'll need.
+<p>
+<dt><strong>LAPACK</strong>
+<dd>The <a href="http://netlib.org/netlib/lapack/">LAPACK</a>
+library is also optional, as Algae supplies its own if you don't have
+it.  It contains routines for
+many numerical linear algebra operations.  Version 3.0 is required.
+<p>
+<dt><strong>BCSLIB</strong>
+<dd>BCSLIB is a package of high-quality linear algebra routines
+from <a href="http://www.boeing.com/">Boeing</a>.  (BCS was the
+acronym for "Boeing Computer
+Services".)  If you have BCSLIB, Algae can use its
+sparse matrix capabilities to good advantage.  Actually, it's
+BCSLIB-EXT that we use -- it then calls BCSLIB.  I've been told that
+all <a href="http://www.cray.com/">Cray</a> machines have this.
+<p>
+<dt><strong>Info</strong>
+<dd>Algae provides its documentation in both html and info formats.
+You probably already have an html browser (like
+<a href="http://www.netscape.com/">Netscape</a>);
+if you prefer, the info format can be read
+either within <a href="ftp://prep.ai.mit.edu/pub/gnu/emacs/">Emacs</a> or
+with one of the stand-alone Info programs such as
+<a href="ftp://prep.ai.mit.edu/pub/gnu/texinfo/">Info</a> or
+<a href="http://math-www.uni-paderborn.de/~axel/tkinfo/">tkinfo</a>.
+</dl>
+<hr>
+<a href="index.html">
+<img src="icon.gif" border=0 align=middle> Algae Home</a>
+</table>
+</center>
+</body>
+</html>

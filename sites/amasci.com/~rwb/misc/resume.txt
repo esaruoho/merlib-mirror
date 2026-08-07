@@ -1,0 +1,181 @@
+Richard Bean
+Institute for Molecular Bioscience
+University of Queensland 4072
+Australia
+07-3721-8342 (home)
+07-3346-2627 (work)
+0431-893-907 (mobile)
+
+EDUCATION
+
+Ph.D. Mathematics 1998 - 2001. University of Queensland. Department of
+Mathematics.
+
+B.Sc. (Honours I) Computer Science and Mathematics. 1994 - 1997.
+University of Queensland.
+
+University Medal - Grade Point Average 6.55 out of 7.
+
+Senior Certificate 1993, Anglican Church Grammar School, Brisbane.
+
+Overall Position Score 1 (highest of 25). Field Positions (B,C,D):
+1,1,1 (each highest out of 10 positions). Core Skills Test: A.
+
+EMPLOYMENT
+
+Research         Research Officer, Institute for Molecular Bioscience,
+                 University of Queensland, December 2003 - current.
+
+                 Postdoctoral Associate, Institute for Studies
+                 in Theoretical Physics and Mathematics, Tehran, Iran, 
+                 April 2002 - October 2003.
+
+                 Research Assistant and Officer (Statistics),
+                 University of Queensland Mathematics Department, 
+                 April 2001 - March 2002.   
+
+                 Duties included:
+
+                 Programming in C, Fortran, Matlab, R, and UNIX shell;
+                 Analyzing microarray data; 
+                 Interpreting and co-authoring statistical and mathematical papers;
+                 Proof-reading and technical issues for a Wiley microarray book;
+                 Developing and optimizing algorithms related to graph theory,
+                 combinatorics, operations research, and statistics.
+
+Teaching         Tutor, University of Queensland, Mathematics and
+                 Computer Science Departments, February 1996 - June 2000.
+
+                 Subjects tutored include:
+
+                 Modelling and Simulation, Systems Programming, Graph Theory,
+                 Geometries and Designs, Calculus and Vectors I, Predicate 
+                 Calculus and Recursive Functions
+
+                 Private Tutor, University Mathematics, 1999 - 2001.
+
+                 Duties included:
+
+                 Explaining a wide range of mathematical concepts in group 
+                 environments and individually; Interacting with university 
+                 students of all ages and backgrounds.
+
+                 Lecturer, Sharif University of Technology,   Tehran,
+                 Department of Mathematics,   Second Semester 2002.
+
+                 English Teacher, Kish Air Institute, Tehran, August -
+                 December 2002.
+
+                 Private English Teacher, Tehran, 2003.
+
+Programming      Software Engineer, CiTR Pty Ltd, December 1996 - February 1997.
+
+                 Programmer, University of Queensland,
+                 Mathematics Department, March - May 2000.   Designed web pages 
+                 for mathematics subject; performed programming for 
+                 thesis supervisor.
+
+                 Duties included:
+
+                 Programming in C and C++ in Windows and UNIX environments; 
+                 Working as part of a team to interpret software specifications.
+
+JOURNAL AND CONFERENCE PAPERS (some available at http://www.eskimo.com/~rwb/papers)
+
+R. Bean and D. Donovan, ``Closing a gap in the spectrum of critical
+sets, Australasian Journal of Combinatorics, volume 22, 2000, pages
+191-200.
+
+P. Adams, R. Bean, and A. Khodkar, ``Disjoint critical sets in Latin
+squares, in Proceedings of the Thirty-second Southeastern
+International Conference on Combinatorics, Graph Theory and Computing
+(Baton Rouge, LA, 2001). Congressus Numerantium 2001, pages 3348.
+
+R. Bean, D. Donovan, A. Khodkar, and A. Street, ``Steiner trades that
+give rise to completably decomposable Latin interchanges, in 11th
+Australasian Workshop on Combinatorial Algorithms (Hunter Valley,
+2000, International Journal of Computer Mathematics,   volume 79, no.
+12, 2002, pages 1273--1284.
+
+R. Bean and E. S. Mahmoodian, ``A new bound on the size of the largest
+critical set in a Latin square, Discrete Mathematics volume 267, 2003,
+pages 13-21.
+
+P. Adams, R. Bean, and A. Khodkar, ``A census of critical sets in
+Latin squares of order at most six, to appear in Ars Combinatoria.
+
+G. J. McLachlan, D. Peel, and R. Bean, ``A Mixture Model-Based
+Approach to the clustering of microarray data, Bioinformatics, volume
+18, no. 3, 2002, pages 413-422.
+
+G. J. McLachlan, D. Peel and R. Bean, ``Modelling high-dimensional
+data by mixtures of factor analyzers, Computational Statistics and
+Data Analysis, volume 41, 2003, pages 379-388.
+
+K. Do, G. J. McLachlan, R. Bean, and S. Wen, ``Some recent results in
+clustering microarray gene expression data and applications, Technical
+Report, M. D. Anderson Cancer Center, Houston, Texas.
+
+K. Do, G. J. McLachlan, R. Bean, and S. Wen, ``A comparison of two
+methods of clustering gene microarray data, Technical Report, Centre
+for Statistics, University of Queensland.
+
+R. Bean, ``The size of the smallest uniquely completable set in order 8 Latin squares'',
+to appear in Journal of Combinatorial Mathematics and Combinatorial Computing.
+
+R. Bean, ``Critical sets in the elementary abelian 2- and 3- groups'', to appear
+in Utilitas Mathematica.
+
+R. Bean, ``Latin trades on three or four rows", submitted to a special issue
+of ``Discrete Mathematics'' for the International Workshop on Combinatorics,
+Algebra, and Graph Coloring, Tehran, August 9-14, 2003.
+
+G. J. McLachlan and R. Bean.  ``Contribution to the discussion of paper by 
+J. Friedman and J. Meulman''. Journal of the Royal Statistical Society B 66 (2004), 846.                                     
+
+G.J. McLachlan, S.K. Ng, and R.W. Bean.  ``Robust mixture         
+modeling.'' Proceedings of the American Statistical Association,           
+Physical and Engineering Sciences Section [CD-ROM], Toronto,             
+August 2004. Alexandria, Virginia: American Statistical Association.                                                             
+
+ACHIEVEMENTS, AWARDS AND MEMBERSHIPS
+
+Associate Fellow of the Institute of Combinatorics and its
+Applications;
+
+Life Member of the Combinatorial Mathematical Society of
+Australasia; and
+
+Graduate Member of the Australian Mathematical Society.
+
+Australian Postgraduate Award 1998 - 2001.
+
+Australian Mathematics Competition
+
+Prize Winner 1988 - 1993.   (Top 0.3% of candidates.)
+
+Medallist - 1989.   (Highest score in state.)
+
+Queensland Association of Mathematics Teachers Competition
+
+Prize Winner - 1989, 1991.
+
+Highly Commended - 1992, 1993.
+
+Chess Captain, Anglican Church Grammar School, 1993.
+
+Special Merit Prize (George Weatherlake Memorial) and
+
+Mathematics I Prize , Anglican Church Grammar School, 1993.
+
+Michael P. O'Donnell Memorial Prize for Pure Mathematics, 1996.
+
+Algebra and Combinatorics Seminar organiser, Department of
+Mathematics,
+
+University of Queensland, 1998 2001.
+
+OTHER INTERESTS
+
+Chess, fitness, travel
+

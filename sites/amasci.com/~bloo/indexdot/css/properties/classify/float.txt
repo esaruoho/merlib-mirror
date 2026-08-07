@@ -1,0 +1,143 @@
+Float - Cascading Style Sheets Properties 
+
+ float 
+ Support Key: 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Other Classification Properties 
+
+ display 
+ visibility 
+ position 
+ clear 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ All (excepting generated content and positioned elements) 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < applet|iframe|img|object|spacer|table 
+ ALIGN ="right,left"> 
+
+ What is it? 
+ Floating elements are elements whose rendering boxes are shifted to
+ the left or right side of the current line. Content boxes that follow
+ are rendered along the side of the floated element; down the right
+ side of elements floated to the left, and down the left side of elements
+ floated to the right. This property controls this floating behavior,
+ specifying an element float to the left, right, or not at all.
+ For correct rendering, a floated element needs to have an intrinsic
+ or assigned 'width' value.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ N6 | O7 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ The element box is not floated. 
+
+ left 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ The current element box will be floated to the left. Subsequent content
+ flows around it to the right, starting at the top of the element box
+ If this value is given, the 'display' property for the current element
+ is ignored, unless it has the value 'none'. 
+
+ right 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ The current element box will be floated to the right. Subsequent content
+ flows around it to the left, starting at the top of the element box
+ If this value is given, the 'display' property for the current element
+ is ignored, unless it has the value 'none'. 
+
+ Example 
+ Ext/Doc: img.test {
+ float: left } 
+ In-Line:&#160; < img 
+ SRC ="image.gif"
+ STYLE =" float: 
+ left">This is text following the image. It floats on the right. 
+
+ Notes 
+
+ If there isn't enough room on a line horizontally, a float will be
+ shifted downward, line by line, until a line has enough room.
+ Float element overlap - 
+ Inline boxes: content, background, and borders of the inline box should
+ be rendered in front of the float. 
+ Block boxes: background and borders of the block box should be rendered
+ behind the float (but visible for portions of the floated element that
+ are transparent.) The content of the block box should be rendered in
+ front of the float.
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 4.0: 
+ - This property does not apply to inline elements, list structures
+ (UL/OL/DL), list items (LI/DT/DD), TABLE or table cells (TH/TD.)
+ - Macintosh - Reported Elsewhere: Margins on floats do not work correctly.
+ 5.0: 
+ - This property now applies to inline elements, list structures
+ (UL/OL/DL), and list items (LI/DT/DD.)
+
+ Netscape 
+
+ 4.x: 
+ - This property does not apply to list items (LI/DT/DD), TABLE
+ or table cells (TH/TD.)
+ - Applying this property to SELECT or TEXTAREA elements destroys
+ the form field, strips out the content and floats it as specified
+ as plain text.
+ - Applying this property to OL lists changes it to a UL.
+ - Applying this property to OL/UL displays all markers as small
+ bullets (not the default size), with the default list-style-position
+ set to "inside" not "outside" as normal.
+ - This property appears to do odd things to inline elements. Difficult
+ to determine what is really going on, but it appears to be attempting
+ SOME sort of element floating.
+ - Netscape accepts an illegal value of "center" for this property,
+ floating the specified element and unmarked content before it to
+ the center of the page.
+ - Negative margins on some floated elements seem to ignore the float
+ specification and only apply the margin value.
+
+ Opera 
+
+ 3.5: 
+ - This property does not apply to list structures (OL/UL/DL), TABLE
+ or table cells (TH/TD.)
+ - Floating form elements (INPUT/SELECT) makes them disappear!
+ - Floating a TEXTAREA destroys it and instead displays garbage characters!
+ - Floating an IMG to the right causes horizontal scrollbars to
+ appear and the image to be placed partly off-screen.
+ - Floating a DT and DD to the same side places them on the same line.
+
+ Boring Copyright Stuff....

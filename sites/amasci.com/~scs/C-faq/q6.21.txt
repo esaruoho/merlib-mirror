@@ -1,0 +1,26 @@
+Question 6.21 
+
+ Question 6.21 
+ Why doesn't sizeof properly report the size of an array
+when the array
+is a parameter to a function?
+
+ The compiler pretends that the array parameter was declared as a
+pointer
+(see question
+ 6.4 ),
+and sizeof reports the size of the pointer.
+
+ References:
+
+H&S Sec. 7.5.2 p. 195
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

@@ -1,0 +1,235 @@
+~~~ ~~ ~ 
+ , 
+-->
+
+ Dobe Doinat's VB.NET Reference Registration 
+
+ Dobe Doinat's Visual Basic.NET Reference 
+ Registration
+
+ Introduction 
+
+ Table of Contents 
+
+ Glossary 
+
+ Object-Oriented Programming 
+ "Interfaces" Screenshot (Typical content) 
+
+ Objects 
+
+ Procedures 
+
+ "Methods" Screenshot (Typical content) 
+
+ Reference 
+
+ Syntax 
+
+ About 
+
+ To Register 
+
+ Download Unregistered VB.NET Reference Test File 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Introduction 
+
+ Back to the Beginning of this page 
+
+ I believe you will find my VB.NET Reference very extensive, since it 
+ is compiled from well over 70 separate XHTML pages into a single Help
+ file, yet easily traversed, since so much of it is hyperlinked to other
+ sections. All of the 
+ sample source code 
+ in the pages are selectable, 
+ which you can cut and paste into your own code as a template.
+
+ Sure, you can rely on the Help files which come with the Visual Studio.NET
+ product from Microsoft, but 
+ PNA_VB_NET_Ref.CHM 
+ is concise, it travels on a floppy, and 
+ you don't have to install the entire VS.NET to have access to syntax and 
+ code samples!
+
+ Further, I have sample code covering nearly every topic, which is easily 
+ read without getting lost in the Gigabytes supplied by MSDN or VS.NET.
+ Simply look up a topic and refresh your memory on theory, syntax and a 
+ cut-and-pastable code sample which works!
+
+ I have read many books on this subject, plus most of the MSDN articles as well as the 
+ Visual Studio.NET Help topics. PNA_VBdotNET_REF.CHM is a synthesis 
+ of all I have learned from the documentation and my own experimentation.
+ It comprises tens of thousands of lines of XHTML.
+
+ This 
+
+ VB.NET Reference 
+ is an unregistered version which has most of the content removed. The 
+ reason you might want to download it is to see that it works in your 
+ environment, and that you like the format.
+
+ When you register ,
+ I will email you the full version as an attachment. You are responsible to
+ make sure a .CHM file actually runs on your machine, but any computer that 
+ will run modern Help files will have no problem. Again, I supply the 
+ non-registered,
+ abbreviated version as a download to test this.
+
+ (Compiled Help format cannot be programmed 
+ to disable itself after a month of use, as most 
+ shareware would. Since I am determined to see some return for the months of labor 
+ I have committed to this project, I cannot just publish it and hope people 
+ will comply with support for my labor.) 
+
+ Please send in a 
+ Registration 
+ to support further updates to PNA_VBdotNET_Ref, as well as planned similar projects in C# and J#. 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Table of Contents 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Glossary 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Object-Oriented Programming 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Interfaces 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Objects 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Procedures 
+
+ Back to the Beginning of this page 
+
+ PNA_VBdotNET_REF.CHM &#169; : Methods 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Reference 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Syntax 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+ , 
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : About 
+
+ Back to the Beginning of this page 
+
+ ~~~ ~~ ~ 
+
+-->
+
+ PNA_VBdotNET_REF.CHM &#169; : Registration 
+
+ Back to the Beginning of this page 
+
+ Full Version License $24.00 USD 
+
+ Update Support for Two Years <$1/Month!> 
+
+ This means that for $24.00, you will receive updates to this Reference for a 
+ period of 2 years. It will be improved with additional sample code as time
+ goes on and support grows. All suggestions will be incorporated into the project, if feasible.
+
+ I am not set up to take credit cards, yet. I will be working on this aspect, but in the 
+ meantime, please send a check to the address below, specifying the name and address you
+ wish to have customized into the " About " section.
+ (Example below). Or email me at: dobe@eskimo.com about any questions. 
+
+ You will get product for your support. I have been at this email address for over 6 years
+ and have had the same snail mail address for over 10 years. If times were not so 
+ desperate for me, this product would be given out freely, although not customized, which 
+ I will do for your product!
+
+ Site License . . . . < Negotiable > 
+
+ Consulting Work . . . . < Negotiable > 
+
+ This means that I will customize this existing product and reduce the price for multiple
+ workstations and users to accomodate businesses who wish to use my Reference.
+
+ In addition, I am available for any consulting work for which my skills are
+ suitable. 
+
+ Please support my work! 
+
+ Remember, Free Registration for any quality job offer! 
+
+ John W. Hartman
+
+ <dobe@eskimo.com> 
+
+ 418 Avenue H 
+
+ Snohomish, WA. 98290 
+
+ Plea For Help 
+
+ Cover Letter 
+
+ Resume 
+
+ Portfolio 
+
+ (That's right, John W. Hartman and Dobe Doinat are the same person!)
+
+ ~~~ ~~ ~ 
+ , 
+ width="100%" 
+ height="100%" 
+-->
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

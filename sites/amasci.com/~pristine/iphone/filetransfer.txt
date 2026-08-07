@@ -1,0 +1,156 @@
+iPhone File Transfer Apps 
+
+ iPhone File Transfer Apps 
+
+ iPhone Apps 
+
+ AFPd 
+ File Download Plug-in 
+ Mobile DropCopy 
+ ncftp 
+ PureFTPd 
+ SendFile 
+ SendSong 
+
+ Web 
+
+ Pure-Mac.com 
+
+ AFPd 0.3 
+
+This native application sets up an AFP file server on your iPhone or
+iPod Touch and also provides a simple GUI interface for controlling the
+file server.
+
+ License : Freeware
+ Author/Publisher : James O'Brien/afpd and dns-d ported by Core
+ Modification Date : February 1, 2008
+ Requirements : iPhone
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ File Download Plug-in 0.2 
+
+File Download plug-in for MobileSafari
+
+This one lets you download most zip and tar files. I tried to make it
+download png, gif, and jpgs, but because Safari handles it already, I
+don't think I can ever make that work.
+
+How to use: Copy the plugin bundle into "/System/Library/Internet
+Plug-Ins", and then reboot the phone. It will create a folder called
+Downloads next to Library and Media in your root home folder. It will
+only download there.
+
+When you click on a link that is downloadable, a large button will
+appear. Click on it to download. Click the normal page back button to
+not download, or to go back when it's complete.
+
+ License : Freeware
+ Author/Publisher : hachu
+ Modification Date : December 2, 2007
+ Requirements : iPhone or iPod Touch
+
+ Download 
+File Size: 9 Kb
+
+ Home Page 
+
+ Mobile DropCopy 0.48 
+
+Mobile DropCopy (iPhone/iPod Touch)
+
+...where it all began. 10base-t interactive was founded on the idea that
+certain computing tasks should be dead simple and just work - like
+transferring your files from one machine to another as quickly and
+easily as possible.
+
+Now, with Mobile Dropcopy, that premise is a reality on your iPhone and
+iPod Touch as well. Mobile DropCopy is currently in beta, but file
+transfers are already working fine so if you have experience installing
+3rd party apps on your iPhone/Touch, give it a shot and let us know what
+you think!
+
+ License : Freeware
+ Author/Publisher : 10-base-t Interactive
+ Modification Date : April 6, 2008
+ Requirements : iPhone or iPod Touch
+
+ Download using Installer.app 
+File Size: 240 Kb
+
+ Home Page 
+
+ ncftp 
+
+Command line FTP client.
+
+ License : Freeware
+ Author/Publisher : Ported by core
+ Modification Date : August 16, 2007
+ Requirements : iPhone
+
+ Download 
+File Size: 493 Kb
+
+ Home Page 
+
+ PureFTPd 1.0.21 
+
+It's a minimal server (112KB) with directory aliases, virtual users,
+FTP/TLS capabilities and Bonjour support.
+
+It can transfer at 1.2MB/s (scp/sftp max speed is around 350KB/s).
+
+A default certificate for FTP/TLS is installed to /etc/pureftpd.pem. You
+can use this one or replace it by your own self-signed certificate.
+
+ License : Freeware
+ Author/Publisher : Ported by Jean-Matthieu
+ Modification Date : October 16, 2007
+ Requirements : iPhone or iPod Touch
+
+ Download 
+File Size: 51 Kb
+
+ Home Page 
+
+ SendFile 0.40 
+
+SendFile allows you to email any file placed into ~/Media/Documents.
+
+ License : Freeware
+ Author/Publisher : Erica Sadun
+ Modification Date : January 22, 2008
+ Requirements : iPhone
+
+ Download 
+File Size: 30 Kb
+
+ Home Page 
+
+ SendSong 0.32 
+
+Playback any song in your iPhone library, send it as an email
+attachment, or make it a Ringtone. Manage your add-on Ringtones, too.
+
+ License : Freeware
+ Author/Publisher : Erica Sadun
+ Modification Date : January 30, 2008
+ Requirements : iPhone
+
+ Download 
+File Size: 56 Kb
+
+ Home Page 
+
+ Denotes iPhone Native 
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Non-OS Specific Code 
+ Denotes Web App 
+
+ Back to Pure Mac's iPhone Software Home Page

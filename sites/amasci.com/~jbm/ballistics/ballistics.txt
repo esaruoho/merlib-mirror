@@ -1,0 +1,34 @@
+JBM - Ballistics
+
+ [Ballistics] 
+ [Bibliography] 
+ [Downloads] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Ballistics
+
+ This section deals with the actual calculations of small arms ballistics.
+ It is divided into three sections.
+
+ Calculations 
+
+ Online calculations for ballistic coefficient calculation, bullet drag,
+ trajectories, maximum point blank range, maximum range and sunrise/sunset.
+
+ Equations 
+
+ Derivations and definitions of various equations as used in
+ ballistics.
+
+ FAQ 
+
+ Frequently asked questions.
+
+ Last update 29 June 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

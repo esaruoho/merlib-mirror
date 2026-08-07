@@ -1,0 +1,49 @@
+Condorcet's Method Links (old) 
+
+ Links to Condorcet related material 
+
+Here's many (possibly outdated) links relating to Condorcet's method.
+
+ New (11/18/2000) - Randall Burns put up a U.S. Presidential poll based on the aformentioned Perl scripts.
+
+ New (10/19/2000) : Russ Paielli and Mike Ossipoff have put together an excellent new page on Condorcet's method ( http://electionmethods.org ) which is much more up-to-date with the current state of thinking, and probably explains it better than I do. It even has it's own domain name (fancy, huh?)
+
+ I'm not the only person who has written a program to calculate Condorcet
+winners. Lucien Saumur has also
+written a program. It does require downloading, and works only on Microsoft
+Windows. It has a lots of buttons and little clicky things though, so if
+you are into that sort of thing, you might want to try his. 
+
+ Mike Ossipoff wrote an
+explanation of comparison criterion for election methods that can be
+found on David
+Barnsdale's "Elections: Results and Voting systems" web page .
+
+ "Taking
+Turns and Majority Rule, Guinier and Condorcet, Minority Rights and Majority
+Welfare" by Michael
+Suk-Young Chwe . This paper explores a merging of Lani Guinier's goals
+for fairer democracy with the techniques proposed by Condorcet. 
+
+ A good explanation of the need for election reform can be found on
+ Robert Loring's page 
+concerning the subject. He also includes a sample program in written in 
+Microsoft Excel which you may find interesting. 
+ Blake Cretney has a great explanation on a Condorcet variant called Path Voting .
+ Lorrie Cranor explains Declared-Strategy Voting . Though DSV isn't Condorcet (nor does it even meet the criteria), she does explain the Condorcet criteria in the process. She also has a mailing list for discussing election methods. I largely disagree with her analysis of Condorcet, which she waves off by saying that it doesn't pick the Borda winner (a hopefully irrelevant criterion). Still, you can judge for yourself whether she's correct.
+ Michel Truchon has many papers on Condorcet's method, including a paper entitled Figure Skating and the Theory of Social Choice which evaluates judges' data from Olympic skating competitions using Condorcet's method. 
+ If you are interested in talking about Condorcet's method and other
+methods of election reform, by all means, join the Election
+Methods Mailing list . 
+ It looks as though the Debian Project has been using a variant on Condorcet for some time called the "Concorde Method". Read about it in the appendix of the group's constitution . For those that are unfamiliar with Debian, they are responsible for Debian GNU/Linux, which is one of the leading Linux operating system distributions.
+ The Condorcet Project .
+This is named after Marquis de Condorcet, and has little to do with Condorcet's
+method, but it is related. 
+
+ Back to the Condorcet's Method Home
+ Page Political Justification of
+ Condorcet's Method Interactive Demo of Condorcet's
+ Method Technical Explanation of
+ Condorcet's Method 
+
+ robla@eskimo.com

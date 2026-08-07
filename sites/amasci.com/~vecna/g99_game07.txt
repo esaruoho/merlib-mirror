@@ -1,0 +1,225 @@
+Ilona 
+
+Sample Character -- 
+
+Ilona of Clan Vancouver 
+
+ Ilona is a young female of a clan based
+in British Columbia, northeast of the 
+ Vancouver area. She is 48 years old and attractive, with
+yellow-green skin and dark 
+ brown hair. 
+ Ilona is of average strength, but
+is quick and clever and hardy. She has no mate and is 
+ somewhat solitary, preferring the company of animals
+and her own interests to 
+ spending time with others. 
+ When she was little more than a hatchling,
+Ilona found several animals that had been 
+ caught in illegal and inhumane traps. This caused her
+to develop a strong dislike for 
+ cruel hunting methods, a dislike which has extended to
+include all forms of animal 
+ cruelty. She gets along very well with animals; they
+trust and like her in return. 
+ Ilona's other main passion is growing
+things. She can often be found in her little 
+ garden, and has recently begun experimenting with bonsai
+after making the 
+ acquaintance of an elderly Japanese man who also taught
+her a little of his language. 
+ She is a regular visitor to area farms,
+secretly helping tend the crops and livestock. 
+ Her green thumb and herbal remedies are well known to
+her clan. 
+ She has a very strong "leap before
+you look" attitude, especially when she perceives 
+ some injustice to animals. This has given her quite a
+few narrow escapes over the 
+ year, ranging from nearly being shot by an irate farmer
+she caught mistreating his 
+ horses to getting caught up in an animal rights demonstration-turned-violent. 
+ Because she is so willful and feels
+so intensely about these issues, and worries too 
+ much about things beyond her control (endangered species,
+the state of zoo and lab 
+ animals), Ilona suffers from frequent migraine headaches
+that not even her medicines 
+ can much help. 
+ One of her favorite pastimes during
+hunting season is to seek out and disable snares 
+ and traps, even the legal ones. She also enjoys finding
+camps of hunters and leading 
+ them astray by mimicking animal sounds. More than once,
+these hunters have ended 
+ up lost, and on a couple of occasions they've ended up
+hurt or dead; Ilona argues 
+ often and bitterly with her clan leader that hunters
+set themselves apart from those 
+ that the clan should protect. 
+ She tries not to lecture her meat-eating
+clan members, seeking instead to lure them 
+ around to vegetarianism by experimenting with cooking
+tempting meatless dishes. 
+ Ilona wears an eagle's claw on a cord
+around her neck as a memory of her father, who 
+ got it embedded in his arm when he was a foolish youngster
+trying to raid a nest. He 
+ mended his ways and gave it to her as a reminder to always
+respect nature, a lesson 
+ that shaped her life. 
+
+ Got a mental image of Ilona? Okay, let's see how all of
+that translates into game 
+ terms ... the following is what Ilona's character sheet
+would look like. 
+ (Point costs are shown in parentheses) 
+
+ Name: Ilona 
+ Clan: British Columbia, Canada 
+ Age: 48 
+ Points: 200 
+
+ ST 15 
+ DX 13 (+30) 
+ IQ 13 (+30) 
+ HT 12 (+20) 
+
+ Thrust: 1d6+1 
+ Swing: 2d6+1 
+ Move: 6 - Encumberance 
+ Dodge: 6+PD 
+ Go: 6.25 
+
+ Description: 
+ Height: 6' 
+ Weight: 250 
+ Hair: dark brown, mid-back length, worn full in 
+ front, braided in back 
+ Skin: yellow-green 
+ Wings: pterodactylian 
+ Horns: row of wedge-shapes sticking up through 
+ her hair, from widow's peak to the 
+ back of her 
+ neck, and along the top of her tail;
+wedge-shape 
+ brow ridges. 
+
+ Advantages (total +124) 
+ Gargoyle (+95) -- +5 ST, Striker (tail), Extended 
+ Lifespan, Gliding, Claws, Regeneration, 
+ Temperature Tolerance, Nightvision,
+Recovery; 
+ Inconvenient Size, Sleepy,
+Nocturnal, Sense of 
+ Duty, Social Stigma, Secret 
+ Attractive (+5) -- slightly better-looking than 
+ average 
+ Alertness 1 (+5) -- adds one to any rolls to 
+ see/hear/smell/taste something 
+ Animal Empathy (+5) -- gives +4 to all skills 
+ dealing with animals; they trust her 
+ Plant Empathy (+5) -- gives +4 or +2 to various 
+ plant-related skills; green thumb 
+ Strong Will 1 (+4) -- adds 1 to any Will rolls. 
+
+ Disadvantages (total -30) 
+ Impulsiveness (-10) -- prefers action over 
+ talk/planning 
+ Obsession (-5) -- can't stand animal testing,
+zoos 
+ Migraine (-10) -- frequently afflicted with 
+ headaches 
+ Vow (-5) -- vegetarian 
+
+ Quirks (total -5) 
+ 1. Gets a thrill out of tricking hunters and trappers 
+ 2. Wears an eagle claw on a cord around her neck 
+ 3. Favors clothes in greens and browns 
+ 4. Regularly brings injured animals back to the clan's
+home 
+ 5. Clicks her talons together when agitated 
+
+ Skills, non-combat 
+ (first number is the amount of points spent in the
+skill; last number is the skill level, under which
+you must roll on 3d6 in order to succeed at that skill) 
+ 1/2 Agronomy M/A 15 
+ 1 Animal Handling M/H 15 
+ 1 Area Knowledge, protectorate M/E 13 
+ 1/2 Botany M/H 10 
+ 1/2 Camoflauge M/E 12 
+ 1 Climbing P/A 12 
+ 1 Cooking M/E 13 
+ 1 Escape P/H 11 
+ 1/2 Falconry M/A 15 
+ 1/2 Flower Arranging M/E 14 
+ 1/2 First Aid M/E 12 
+ 1/2 Gardening M/E 16 
+ 4 Gliding P/A 14 
+ 1/2 Herbary M/A 13 
+ 0 Language, English M/A 18 
+ 1/2 Language, Japanese M/A 12 
+ 1 Mimic, bird P/H 12 
+ 1 Mimic, animal P/H 12 
+ 1 Naturalist M/H 11 
+ 1/2 Packing M/H 14 
+ 1/2 Poisons M/H 10/12 (10 for non-plant based 
+ poisons, 12 for plant
+based) 
+ 1/2 Riding, horse P/A 15 
+ 2 Stealth P/A 13 
+ 1 Swimming P/E 10 
+ 1/2 Teamster M/A 15 
+ 1 Tracking M/A 12 
+ 1/2 Veterinary M/H 14 
+ 1/2 Zoology M/H 10 
+
+ Skills, combat: 
+ 2 Bolas P/A 13 Parry: none 
+ 2 Brawling P/E 14 Parry: 9+PD 
+ 1 Knife P/E 13 Parry: 6+PD 
+ 1/2 Fast Draw, Knife P/E 12 
+
+ Combat Damage: 
+ Damage, Bolas: special, entangle 
+ Damage, Brawling punch: 1d6+2 crushing 
+ Damage, Brawling punch w/ claws: 1d6+2 cutting 
+ Damage, Brawling kick: 2d6+1 crushing 
+ Damage, Brawling tail lash: 2d6 crushing 
+ Damage, Knife thrust: 1d6+1 impaling 
+ Damage, Knife swing: 1d6+2 cutting 
+
+ Notes on combat moves: 
+ Kicking -- the roll to Kick is at -2 to Brawling skill; 
+ after a Kick, roll vs. DX to see if 
+ you remain on 
+ your feet 
+ Tail Lash -- back and side hexes only 
+
+ Equipment: 
+ In addition to her clothing and weapons, when Ilona goes
+out on one of her expeditions she carries a little
+kit of gardening tools, wire snips for disabling traps, packets
+of seeds, and treats for befriending farmyard dogs and hunting hounds. 
+
+ Introduction 
+
+ Quickie GURPS Rules 
+
+ Being a Gargoyle 
+
+ How Combat Works 
+
+ Being of the Third Race 
+
+ How Magic Works 
+
+ Sample Character -- Ilona of Clan
+Vancouver 
+
+ Sample Character -- Nix the Water-Sprite 
+
+ Pre-Generated Character Descriptions 
+
+ E-mail the GM

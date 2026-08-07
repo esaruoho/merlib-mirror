@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="dialogue.css" type="text/css"?>
+<dialogue>
+<title>Ginomai</title>
+<subtitle>A Socratic dialogue dealing with the problems with having an Oklahoma lottery</subtitle>
+
+<!--Summary, 1) gambling is illegal for citizens, why should the state 
+practice it.  2) a lottery exploits the poor.  3) A lottery has more overhead
+than straight voluntary taxation.  4) We should not base our revenue on
+planning on people behaving immorally and exploiting people.  -->
+
+<speaker name="HW">My dear friend!  I haven't seen you in such a long time.  What have you been doing?</speaker>
+<speaker name="Ginomai">Quite a bit, actually, HW.  I've spent quite a bit of time in politics.</speaker>
+<speaker name="HW">Politics - quite a worthy profession.  I admire all those who are in public office, because they withstand the scrutiny of the people.  Not a lot of people - good or bad - can stand up to such criticisms.</speaker>
+<speaker name="Ginomai">I'm glad you think so, HW.  It seems that there is no issue on which at least some in the public don't get angry about.</speaker>
+<speaker name="HW">That's probably due to there being so many people with different ideas and backgrounds.  Luckily, you have nothing to fear from me.  I usually don't have ideas of my own - I simply help birth ideas from others.</speaker>
+<speaker name="Ginomai">Great to hear!  I could always use one less critic.  Especially when trying to get this Lottery legislation to pass.</speaker>
+<speaker name="HW">I have heard of that legislation.  I don't know much about it, though.  Do you mind helping me understand it?</speaker>
+<speaker name="Ginomai">It would be quite an honor.  It's simple, really.  We have a budget shortfall, and instead of taxing the people, we've decided to run a lottery instead, and just use the revenues generated from that.</speaker>
+<speaker name="HW">This much I knew already.  However, I did not understand why the government felt they needed a different method of revenue generation.  Why did you choose a lottery over direct taxation?</speaker>
+<speaker name="Ginomai">Oh, I see.  Yes, that's quite simple, too.  When trying to raise people's taxes, it generally causes problems - people don't like being taxed.  Many people believe they are overtaxed and are unwilling to budge on that issue even a little bit.</speaker>
+<speaker name="HW">That's a very creative way around the issue!  If our politicians in Rome were as keen as you, the Roman Empire might still be here today.  Anyway, I'm curious, how successful have lotteries been for private companies who run them in the state today?  Before venturing off into new methods of revenue generation, we should first check that they will raise the money we like.</speaker>
+<speaker name="Ginomai">That's what's so great about the idea.  Lotteries are currently illegal in Oklahoma.  That means that we will have a complete monopoly on the game, and not have to worry about outside competition.</speaker>
+<speaker name="HW">So the government wants to monopolize and industry it has banned for the rest of it's citizens?  A very interesting tactic indeed.  However, I believe I may be able to improve upon your tactic even more.  I will share it with you if you wish.</speaker>
+<speaker name="Ginomai">Oh please do, HW.  Any counsel from you is certainly among the best.</speaker>
+<speaker name="HW">It's a minor change, really.  It's just that with a lottery, you have to pay out so much money at the end.  I wonder if you couldn't find an industry that was even more profitable.</speaker>
+<speaker name="Ginomai">What industry would that be, HW?</speaker>
+<speaker name="HW">I was thinking about drug trafficking.  In addition to raising huge amounts of funds for the state, it would make Oklahoma an economic hub for the nation, and drastically improve the economy.</speaker>
+<speaker name="Ginomai">HW!  I had thought you a more moral person than that!  That is completely illegal!</speaker>
+<speaker name="HW">And so is running lotteries, at least at the present moment.</speaker>
+<speaker name="Ginomai">I guess you are correct in that.  However, I don't think they are both equally bad.  In fact, I'd say that the real problem with lotteries and gambling is that they bring a lot of other bad behaviors with them.</speaker>
+<speaker name="HW">A wise point indeed.  Perhaps you can enlighten me on something else as well.</speaker>
+<speaker name="Ginomai">Name it HW, and I will at least try.</speaker>
+<speaker name="HW">I always had thought you were on the side of progressive taxes, not regressive ones.</speaker>
+<speaker name="Ginomai">Who told you I believed in regressive taxation!?  The very thought of having higher taxes on the poor than the rich is absurd!  Who is spreading such slander about me?  Please tell me their name at once.</speaker>
+<speaker name="HW">I believe it to be your own name.  That's the essence of a lottery - regressive taxation - putting the tax burden on the poor instead of the rich.</speaker>
+<speaker name="Ginomai">Surely you cannot mean this!  The lottery is purely voluntary!  How can a voluntary system tax the poor disproportionately to the rich?</speaker>
+<speaker name="HW">Ginomai, I thought you to be a keener fellow.  If you were just going to implement a voluntary tax, why go to the trouble of putting together a lottery?  Why not just ask for donations on the tax form?  It would spare the overhead of running the lottery and the expense of paying out the prize money.</speaker>
+<speaker name="Ginomai">If it were so easy, HW, the problem wouldn't exist.  However, noone simply gives money to the government.  Therefore we have to have the lottery.</speaker>
+<speaker name="HW">Would I be correct in saying that a voluntary tax doesn't work because the people see no benefit in it for themselves, but that a lottery works because they have a chance at some benefit?</speaker>
+<speaker name="Ginomai">That is an accurate assessment.</speaker>
+<speaker name="HW">However, you and I both know that as with all gambling, for the individual the money is always better spent in other pursuits.</speaker>
+<speaker name="Ginomai">Yes, in gambling, the house always wins.  However, it's no secret - the people who play know the chances and still play voluntarily.  HW, I don't mean to be pushy, buy I am still curious how you think this is a regressive tax.</speaker>
+<speaker name="HW">I was getting to that.  Please, though, be patient with my questioning.  Tell me, do you know any astute, upperclass business men?  Specifically ones who started out originally with nothing.</speaker>
+<speaker name="Ginomai">Being in politics I get to meet many people.  I have met and become good friends with a number of people matching your description.</speaker>
+<speaker name="HW">How many of them would play the lottery?</speaker>
+<speaker name="Ginomai">Not a one.  Those people are usually very smart about what is and isn't a good investment, and are careful to only invest in the good ones.  Even the ones who gamble for entertainment don't play the lottery because there is no skill in it, and they already have plenty of money.</speaker>
+<speaker name="HW">So who does play the lottery?  Specifically, I would like to know why someone would want to do so.</speaker>
+<speaker name="Ginomai">People play the lottery to have a chance at getting out of their current existence and replacing it for a better one.  That would consist mostly of the poor and middle-classes - people who desperately want to improve their living situation.</speaker>
+<speaker name="HW">And why would they try to do this by playing the lottery?  If the astute businessmen know that the lottery is a losing proposition for their money, why would the lower classes who have much less to lose be interested?</speaker>
+<speaker name="Ginomai">Many of them see it as a possibility of a way out of poverty.</speaker>
+<speaker name="HW">So it appeals to the most desparate people trying to find a way out of their situation?</speaker>
+<speaker name="Ginomai">Yes, that is what it offers.</speaker>
+<speaker name="HW">But we, like the astute businessmen, know that it is really of no help in that situation, and that any other investment is probably a better choice.</speaker>
+<speaker name="Ginomai">Yes, indeed.</speaker>
+<speaker name="HW">Then it appears that the lottery is exploiting the desparation of the poor.  Since it certainly doesn't appeal to those of sound mind, those that it does appeal to must be so desparate that their desparation clouds their judgment.  And the lottery takes advantage of that to take their money.</speaker>
+<speaker name="Ginomai">You make the case very well for it.</speaker>
+<speaker name="HW">Please ease my mind by at least telling me that the funds from this exploitation at least go to benefit the poorest among us.</speaker>
+<speaker name="Ginomai">Why, yes!  The revenues from the lottery will go to the educational system, which benefits rich and poor alike.</speaker>
+<speaker name="HW">Getting back to your original question - it seems like the lottery is a regressive tax in every sense of the word.  It taxes the poor more than the rich, yet they both share equally in the benefits.</speaker>
+<speaker name="Ginomai">Well, it seems you may be correct.  I will have to think on this some more.  However, our educational system is in desparate need of money, and this may be the only way to get it to them, even if it does place a large burden on the poor.</speaker>
+<speaker name="HW">Education is certainly a fine goal.  One thing trouble me, though - do the revenues from the lottery go to special purpose activities, or will they be part of the school's base operating budget?</speaker>
+<speaker name="Ginomai">It will definitely be a part of the base operating budget.  The schools desparately need the money just for operations!  The situation is that bad.</speaker>
+<speaker name="HW">And it does not bother you that the education of the state of Oklahoma will be dependent on people engaging in what would normally be considered an illegal activity and actively exploiting the poor in their desparation?  It seems that Machievelli could hardly come up with a more interesting method of governing.</speaker>
+<speaker name="Ginomai">You bring up excellent points as always, my friend.  Talking with you, while always enlightening, always seems to leave me humbled.</speaker>
+<speaker name="HW">Take heart, Ginomai.  Careful analysis by questioning always leads to better, more enlightened answers.  We should not fear that our thoughts may be wrong, only that our thoughts may be wrong and we have not examined them carefully.  Not a single person have I found who was always right the first time, but great are the men which are willing to be corrected upon further evidence.  However, please do not change your mind on my account.  Ponder it and be certain of yourself when the time comes to make a decision.</speaker>
+<speaker name="Ginomai">Thank you, HW.  Well, it is late my friend.  Perhaps in a few days we can meet to discuss this further - perhaps we will each have new questions to explore.</speaker>
+<speaker name="HW">I look forward to it, my friend.  Goodnight!</speaker>
+</dialogue>

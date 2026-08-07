@@ -1,0 +1,253 @@
+PATH=/bin:/usr/local/bin:/usr/bin:/usr/ucb
+SHELL=/bin/sh
+VERBOSE=yes	# turn this off (set to 'no') if you don't want the log files
+
+LOGFILE=/dev/null	# quash default tracking, use only defined
+
+
+###########################    SPAM FILTERS    ##############################
+#
+# Important note:  If verbose=yes you're going to get big log files.
+# Do the following on them to see what hit:
+#    grep 'Match on' *.log
+# ... or run summary.pl on the server.
+#
+# Summary.pl only looks at *.log, so name a log file something else if
+#    you want a log file ignored.  Here, we are ignoring the outside wrap.
+#    It is the instruction that lets known friendly mail through.
+#
+# Make sure lines have no trailing spaces.
+#
+#############################################################################
+
+LOGFILE=$HOME/mail/wrap.logg
+
+# WRAP ENTIRE SECTION, LOOK FOR THESE FIRST ONES AND ALWAYS LET THEM THROUGH, THEN START CHECKING
+
+:0 H
+* !^(From|TO|Received|Reply-To):.*(apples|pears|oranges)  # Add keywords of friendly stuff.
+* !^(From|TO|Received|Reply-To):.*(xxx|yyy|zzz)           # Another line of them.  These scan headers only.
+{
+
+	# ===== Suspected_Spam: filters =====
+
+	#################
+	# TO
+	#################
+
+	LOGFILE=$HOME/mail/to.log
+
+	:0 H
+	* ^To.*undisclosed
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: To... Undisclosed"
+	}
+
+	:0 H
+	* ^To.*free
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: To... Free"
+	}
+
+
+	#################
+	# SUBJECT
+	#################
+
+	LOGFILE=$HOME/mail/subject.log
+
+	:0 H
+	* ^Subject:.*Secret
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Secret"
+	}
+
+	:0 H
+	* ^Subject:.*investigat
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Investigat"
+	}
+
+	:0 H
+	* ^Subject:.*free
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Free"
+	}
+
+	:0 H
+	* ^Subject:.*money
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Money"
+	}
+
+	:0 H
+	* ^Subject:.*email
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Email"
+	}
+
+	:0 H
+	* ^Subject:.*adult
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... Adult"
+	}
+
+	:0 H
+	* ^Subject:.*\$
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... \$"
+	}
+
+	# trying to catch digits at end of line
+	:0 H
+	* ^Subject:.*\ \ \ [0-9][0-9][0-9][0-9]$
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Subject... [0-9][0-9][0-9][0-9]$"
+	}
+
+	#################
+	# KEYWORDS
+	#################
+
+	LOGFILE=$HOME/mail/keywords.log
+
+	:0 HB
+	* click.*here
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Click here"
+	}
+
+	:0 HB
+	* toll.*free
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Toll free"
+	}
+
+	:0 HB
+	* American Express
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... American Express"
+	}
+
+	:0 HB
+	* Credit Card
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Credit Card"
+	}
+
+	:0 HB
+	* Money Order
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Money Order"
+	}
+
+	:0 HB
+	* not spam
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... not spam"
+	}
+
+	:0 HB
+	* 1618
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... 1618"
+	}
+
+	:0 HB
+	* \<center
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... \<center"
+	}
+
+	:0 HB
+	* \<p.*align.*=.*center
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... \<p.*align.*=.*center"
+	}
+
+	:0 HB
+	* \<table
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... \<table"
+	}
+
+	:0 HB
+	* removed
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... removed"
+	}
+
+	:0 HB
+	* name.*______
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... name.*______"
+	}
+
+	:0 HB
+	* \!\!\!
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... !!!"
+	}
+
+	:0 HB
+	* more information
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... More information"
+	}
+
+	:0 HB
+	* REMOVE.*subject
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... REMOVE.*subject"
+	}
+
+	:0 HB
+	* call.*[0-9][0-9][0-9].*-
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Call xxx-"
+	}
+
+	:0 HB
+	* guarantee
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... Guarantee"
+	}
+
+	:0 HB
+	* removeyou.com
+	{
+		:0 fhw
+		| formail -A "Suspected_Spam: Keyword... removeyou.com"
+	}
+
+}
+
+LOGFILE=/dev/null	# quash default tracking, use only defined
+

@@ -1,0 +1,113 @@
+Size - Cascading Style Sheets Properties 
+
+ size 
+ Support Key: 
+ [ CSS2 ] [ O4 ] 
+ Other Printing Properties 
+
+ page-break-before 
+ page-break-inside 
+ page-break-after 
+ page 
+ marks 
+ widows 
+ orphans 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ auto 
+ Applicable Elements: 
+ Page context 
+ Inherit From Parent: 
+ NA 
+ Applicable Media: 
+ Visual, Paged 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property describes the orientation or dimensions of the page box.
+ The 'size' property classifies a page box so that it is either 'relative' or
+ 'absolute'. 'Absolute' page boxes have a fixed size, whereas 'relative' page
+ boxes will be scaled to fit the target paged media. In the case where a page
+ box is smaller than the intended 'size', CSS2 recommends that it be centered
+ on the page to allow for better alignment of multiple pages.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ auto 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Description: 
+ This value defines a 'relative' page box, setting the values to the size and
+ orientation of the target page. 
+
+ portrait 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ This value defines a 'relative' page box, overriding the target page's
+ current default content orientation, using the typical paradigm where content flows
+ from left to right across the short dimension, and flowing down along the long
+ dimension. 
+
+ landscape 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ This value defines a 'relative' page box, overriding the target page's
+ current default content orientation, using the landscape method, where content
+ flows from left to right across the long dimension, and flowing down along the short
+ dimension. This method is often used when a given line will contain larger amounts of
+ content than normal. 
+
+ [length] 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Description: 
+ Giving length values for this property creates a page box with fixed dimensions, eg:
+ an 'absolute' page box. Setting only one length value with this value creates a
+ square page box of equal height and width. If two values are specified, the first
+ value represents the page width, and the second represents the page height. 
+
+ Syntax 
+
+ selector {
+ size: [length]{1,2} | auto | portrait | landscape | inherit }
+
+ Example 
+ Ext/Doc: body {
+ size: 8.5in 11in } 
+ In-Line: < body 
+ STYLE =" size: 
+ 8.5in 11in">test text in the paragraph</ body > 
+
+ Notes 
+
+ CSS2 notes that for page boxes that do not fit target page dimensions, a browser
+ should attempt to: 
+ - "Rotate the page box 90 degrees if this will make the page box fit." 
+ - "Scale the page to fit the target." 
+ CSS2 also states that the user should be consulted before making these changes.
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "CSS Printing Extensions" (6/26/97,
+ http://www.w3.org/TR/WD-print )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

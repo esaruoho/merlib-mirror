@@ -1,0 +1,301 @@
+CSS specification/browser support page: Printing Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ page-break-before 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ avoid 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ left|right 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ always 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ [Empty string] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ page-break-inside 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ avoid 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ page-break-after 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ avoid 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ left|right 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ always 
+ -- 
+ X 
+ 4.0 
+ -- 
+ 3.5 
+
+ [Empty string] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ page 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Identifier] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ size 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ portrait 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ landscape 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ [Lengths] 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ marks 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ crop 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ cross 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ widows 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Integer] 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ orphans 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Integer] 
+ -- 
+ X 
+ -- 
+ -- 
+ 3.5 
+
+ Boring Copyright Stuff...

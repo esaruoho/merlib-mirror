@@ -1,0 +1,415 @@
+Tinnitus Online Chats 
+
+ #tinnitus Online Chats 
+
+ Roger Williams came up with the idea of meeting on
+IRC for realtime chats, and he started the #tinnitus channel in July 1996.
+Thanks Roger!
+
+You can join the #tinnitus chats with an IRC program, or with
+a java-enabled web browser. 
+
+ Chat Schedule 
+
+ Day 
+ Time 
+ Comments 
+
+ Fridays 
+ 6:30-8 pm Pacific/9:30-11 pm Eastern 
+ English chat. May start late. 
+
+ Wednesdays 
+ 8 pm MET/2 pm Eastern 
+ German chat 
+
+ Saturdays 
+ 4 pm MET/10 am Eastern 
+ German chat 
+
+ Random 
+ Whenever more than 1 person shows up. 
+
+ More #tinnitus chat information 
+
+ How to join #tinnitus chats 
+
+ #tinnitus chat mailing list -- 
+discussion group for #tinnitus participants
+ People on #tinnitus 
+
+ -- list of some #tinnitus participants 
+
+ NewNet IRC servers 
+
+Time Zone Converter 
+ -- 
+Useful when setting up chat times! Uses 24-hr clock. 
+ Common chat abbreviations and acronyms 
+
+ Join #tinnitus using IRC 
+ Connect to the 
+ NewNet 
+IRC network, then /join channel #tinnitus.
+ Or if you don't know how to join a chat using an IRC program, see the
+documents in IRC Help. 
+
+ Join #tinnitus from your web browser 
+ To join #tinnitus using your web browser, it must enable Java.
+Please read these instructions first. 
+After clicking the link below:
+
+ Click the button labeled "Click here to enter"
+ Optionally, replace the text "Java-user" (after the word NickName)
+with your chat nickname. 
+Nicknames must be 9 characters or less and cannot contain blanks.
+ you MUST replace the text "Oasis-2000" after the word Channel,
+with the word tinnitus 
+ click Connect Now 
+
+ Join #tinnitus chat. 
+
+ Some of the people on #tinnitus 
+
+You can click on any nickname to view the details page, but be prepared for slow
+load time due to pictures. 
+
+ If you've become a frequent visitor to #tinnitus chats you can
+ add yourself to this participants list. 
+
+ Nickname 
+
+ 2nd nick 
+
+ Name 
+
+ Time Zone 
+
+arrow 
+
+ Tom McRae 
+
+ Eastern 
+
+Auzzie 
+
+ Gary 
+
+ Gary Winders 
+
+ Aust. EST (GMT+10) 
+
+Axy 
+
+ Axel Klein 
+
+ MEZ (GMT + 1) 
+
+badears 
+
+ Stephen Nagler 
+
+ Eastern 
+
+c[lass]y 
+
+ clssy 
+
+ Jenn 
+ Mountain 
+
+Conrad 
+
+ Mikael 
+
+ H&#229;kan 
+
+ MEZ (GMT + 1) 
+
+Dearie 
+
+ Jan 
+
+ Pacific 
+
+DingaLing 
+
+ Dingy 
+
+ Barbara Mandel 
+
+ Eastern 
+
+Faxman 
+
+ George M 
+
+ Eastern 
+
+flutist 
+
+ magna4 
+
+ Sheila Courtney 
+
+ Central 
+
+fytftr 
+
+ fyrftr1 
+
+ Ken McDonald 
+
+ Atlantic 
+
+ Horschd
+
+ Kaktus 
+
+ Thorsten 
+
+ CET 
+
+HowlEar 
+
+ HowlEars 
+
+ Charlie Brown 
+
+ Pacific 
+
+Keet 
+
+ Jack 
+
+ Eastern 
+
+Krawd 
+
+ Krawdad 
+
+ Dave 
+
+ Central 
+
+mojoe 
+
+ Joe Harrison 
+ Central 
+
+Mur 
+
+ Murray Dow 
+
+ Pacific 
+
+OlChum 
+
+ Chum 
+
+ Harry Conner 
+
+ Mountain 
+
+PatSang 
+
+ PatSangs 
+
+ Patricia Sangster 
+
+ Eastern 
+
+rightway 
+
+ Roger Williams 
+
+ Central 
+
+screech 
+
+ screech2 
+
+ Paul Saluk 
+
+ Eastern 
+
+shysoul 
+
+ Patricia 
+
+ Pacific 
+
+Sleak 
+
+ Paul W. Andrews 
+
+ GMT + 08:00 
+
+Steve927 
+
+ SC-927 
+
+Steve C 
+
+ Eastern 
+
+sTrey 
+
+ dRinger 
+
+Carol 
+
+ Pacific 
+
+tinman 
+
+ bassman 
+
+ Ron Yoli 
+
+ Eastern 
+
+Twodobes 
+
+ John Kenney 
+
+ Eastern 
+
+wit 
+
+ Elaine 
+
+ Elaine Matz 
+
+ Eastern 
+
+ #tinnitus chat mailing list 
+
+The #tinnitus chat mailing list is a small, low-activity discussion group for people
+who participate in tinnitus chats on IRC. It exists mainly to provide
+information about chat schedule changes or other IRC issues, and
+to supplement the IRC chats in terms of support, information & conversation.
+It's likely to be less T-oriented than alt.support.tinnitus simply because
+most general T discussion is probably better directed to the newsgroup.
+This list lets us deal with IRC without boring newsgroup readers, and also
+enjoy the group that's formed without having to "stay on topic" 100% of the
+time.
+
+To 
+ subscribe ,
+send email to tchat-list-request@eskimo.com 
+with the word subscribe in the Subject: of the message.
+You will receive confirmation email which also tells you how to
+send mail to the list, or how to
+ unsubscribe 
+if desired.
+
+ Short List of NewNet IRC servers 
+ Last updated August 2000 
+
+For more extensive and current information please see the official list of
+
+NewNet servers . 
+
+ Server 
+
+ Ports 
+
+ Location 
+
+irc.newnet.net 
+
+ 6667 
+
+ NewNet main rotary 
+
+aol.newnet.net 
+
+ 7000 
+
+ NewNet AOL rotary 
+
+eu.newnet.net 
+
+ 6667 
+
+ NewNet European rotary 
+
+irc.aohell.org 
+
+ 6667-6670 
+
+ Gainesville, FL, USA 
+
+irc.dragondata.com 
+
+ 6667 
+
+ Arlington Heights, IL, USA 
+
+irc.eskimo.com 
+
+ 6660-6669 
+
+ Seattle, WA, USA 
+
+irc.intergate.bc.ca 
+
+ 6667 
+
+ Vancouver, BC, CA 
+
+irc.klis.com 
+
+ 6660-6670 
+
+ Nova Scotia, Canada 
+
+irc.kvalito.no 
+
+ 6666-7000 
+
+ Norway 
+
+irc.secnet.de
+
+ 6667 
+
+ Germany 
+
+irc.tscnet.com 
+
+ 6660-6669 
+
+ Silverdale, WA, USA 
+
+Note: a "rotary" is a server name which will connect you to one of a group of
+servers in a round-robin fashion. They're used to distribute the network load
+more evenly and to make it easier for people to find servers.
+
+ You can ignore the "ports" column if it means nothing to you,
+except AOL users MUST use port 6670 or higher!
+When ports other 
+than the default port (6667) are available, they will often connect faster.
+
+ Home 
+ | 
+ Tinnitus Info 
+ | 
+ Chats (IRC) 
+ | 
+ IRC Help 
+
+ Chat People 
+ | 
+ Tinnitus Retraining Therapy 
+ | 
+ Yahoo Chats 
+
+ #t Meet #1 
+ | 
+ Chat Babies 
+ | 
+ Chat Sounds 
+
+This page last modified:

@@ -1,0 +1,53 @@
+Web Development 
+
+ Cars Cooking Resources Entertainment Dead Stuff Hardware Information Technology K-12 Education Real Estate Agent Information ResearchTools Selected Search Sites Shopping on the Web Travel Various Unsorted Sites Web Development 
+
+ [ HTML ] - [ Accessibility ] 
+
+ BigNoseBird 
+ Comprehensive Illustrated Encyclopedia 
+ of Web Technology Interhack 
+ - website security 
+ Intranet Design Magazine Web 
+ Developer's Search Tool 
+
+ HTML 
+
+ A 
+ Beginner's Guide to HTML 
+ Inside Dynamic HTML Startup Screen 
+
+ NCSA--A Beginner's Guide to HTML Home Page 
+ W3C - The World 
+ Wide Web Consortium 
+ W3C HTML Validation Service 
+
+ Yale C AIM WWW 
+ Style Manual 
+
+ [return to top] 
+
+ Accessibilty 
+
+ Accessible Web Page Design 
+ HTML / Accessibility Validation by 
+ Bobby 
+ Trace - Designing an Accessible 
+ Web 
+ WDG - Web Design Guide, making the 
+ Web available to all 
+ WebABLE! - the 
+ authoritative Web directory for disability-related internet resources 
+
+ [return to top] 
+
+ Unsorted Additions 
+
+ SiteBuilder Home 
+ ASP 
+ Developers Network 
+ Netcraft - Web 
+ Server Survey 
+
+ Last updated:
+ 09/20/2004

@@ -1,0 +1,78 @@
+---
+title: "C.G. Jung Society, Seattle: Winter 2005 Newsletter"
+source_domain: amasci.com
+source_path: ~dcs/w05/w05bosnak.html
+order: 2438
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T17:08:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Winter 2005 Newsletter
+
+*Source page: `~dcs/w05/w05bosnak.html`*
+
+# <img src="../testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+## ***Robert Bosnak, J.D.***
+
+------------------------------------------------------------------------
+
+## Dreams as Ecosystems: Incubation for Health and Imaginative Solutions
+
+***Lecture: Friday, January 14, 2005, 7 to 9 p.m. (check in 30 minutes early)\**
+Center for Urban Horticulture, 3510 NE 41st St\
+\$10 members, \$15 nonmembers\
+2 CEUs*
+
+<img src="ROBBosnak.jpg" data-hspace="2" data-vspace="2" data-align="left" width="140" height="176" alt="Grubbs photo" /> Three-thousand years ago, Western medicine started with dream incubation. The word "clinic" stems from the benches dreamers would lie on in the temple to receive a dream, the *klinai*. It was implicitly assumed that dreaming was part of an ecosystem, including health, a powerful geographic location, and the responsive presence of creative spirits (gods) surrounding us. The lecture will focus on 21st-century techniques to recapture this ancient method. The word solution, following Jung's work on the art of alchemy, is understood not just as an answer to a problem, but primarily as the dissolution of the problem itself, giving rise to a new orientation. Cases will be presented from work with physically ill\
+people and from work with actors and playwrights. Case presntations are being prepared to show how these techniques might work in contemporary software development.
+
+## Embodied Imagination: Learning the Ropes
+
+***Worshop: Saturday, January 15, 2005, 9 a.m. to 4:45 p.m. (check in 30 minutes early)\**
+Center for Urban Horticulture, 3510 NE 41st St.\
+\$60 members, \$70 nonmembers, \$50 student/senior member, \$60 student/senior nonmember\
+(after Jan. 10, add \$10)*\
+*6.5 CEUs*
+
+> To learn about preregistering for the workshop, see [Preregistration Policy and Form](http://www.jungseattle.org/preform.html).
+
+This workshop will focus on learning a variety of techniques to approach dreaming through a sense of body. The focus is on becoming familiar with incubation techniques and the subsequent work on the resulting dreams, in order to apply this to creative and health problems. Suggestions will be given about how to continue the work in peer dream groups.
+
+## A Special Event with Robert Bosnak
+
+***Full-day workshop: Sunday, January 16, 2005, 10 a.m. to 5 p.m., with breaks (check in 30 minutes early)\**
+University Inn, Lopez Room, 4140 Roosevelt Way NE\
+\$50 by January 7, \$60 after\
+Limited to 25 participants*\
+*6 CEUs*
+
+> To learn about preregistering for the workshop, see [Preregistration Policy and Form](http://www.jungseattle.org/preform.html). Incubation techniques learned on Friday and Saturday would be useful to participants attending Sunday event.
+
+In a hypnagogic state, a state of consciousness between waking and sleeping, a dream memory can\
+become a flashback experienced as identical or similar to the dreaming. Slow and careful observation\
+of elements in a dream while in a flashback state leads to the experience of multiple embodiments. By\
+interweaving the imaginal environment, the affective experience and the physical sensations, a network\
+of experience comes into being which is very different from habitual conscious experience. The dream can be approached from the ego perspective and from the point of view of non-ego positions. This expands the network of embodiments. By containing a network as differentiated at possible, new cognitive positions are obtained and deep psychophysical changes become possible. Embodied dream imagery can be applied in psychotherapy, in the treatment of physical illness, and in a variety of creative endeavors.
+
+**Education Objectives**: Participants will learn:to: 1) enter into hypnagogic state to re-enter dreaming 2) listen to dreams in an embodied way 3) unlink identification and subjectivity in order to reach non-ego positions 4) experience conflicting psychophysical states simultaneously 5) contain a differentiated network of embodiments and facilitate therapeutic changes and 6) apply what they have learned in their psychotherapy practice
+
+**Robert Bosnak, Ph.D.**, is a Dutch Jungian psychoanalyst and diplomate of the C. G. Jung Institute, who trained in Zurich, Switzerland from 1971 to 1977. Since then he has been in private practice in the United States (Cambridge, Massachusetts) and has recently moved to Sydney, Australia. He continues to travel to the U.S. three times a year to teach at Pacifica Graduate Institute and to practice on the East Coast. The Jung Society has scheduled a weekend for Robert Bosnak to lecture and do an intensive workshop on dream incubation techniques.
+
+At his Web site, [www.cyberdreamwork.com](http://www.cyberdreamwork.com/) you will find more information about Robert\
+Bosnak’s cyberdreamwork projects and his publications which include *A Little Course in\
+Dreams*, *Christopher’s Dreams: Dreaming and Living with Aids*, and *Tracks in the Wilderness\
+of Dreaming*.
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 13 December, 2004\
+\
+<webmaster@jungseattle.org>

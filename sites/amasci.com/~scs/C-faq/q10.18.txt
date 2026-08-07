@@ -1,0 +1,35 @@
+Question 10.18 
+
+ Question 10.18 
+ I inherited some code
+which contains far too many #ifdef 's for my taste.
+How can I preprocess
+the
+code
+to
+leave only one conditional compilation set,
+without running it through the preprocessor
+and expanding all of the #include 's and #define 's as well?
+
+ There are programs
+floating around
+called unifdef ,
+
+ rmifdef ,
+and
+
+ scpp 
+(``selective C preprocessor'')
+which do exactly this.
+See question
+ 18.16 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

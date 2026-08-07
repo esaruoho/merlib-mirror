@@ -1,0 +1,43 @@
+Rife Archive Search Engine 
+
+ Rife List Archive Search 
+
+Text To Search For: 
+
+Lines of context: 
+
+Before: 
+
+ 0 
+ 1 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+
+After: 
+
+ 0 
+ 1 
+ 2 
+ 4 
+ 6 
+ 8 
+ 10 
+ 12 
+ 14 
+ 18 
+ 20 
+
+Years to search: 
+
+ 1996 
+ 1997 
+ 1998 
+ 1999 
+ 2000 
+
+Search is not case sensitive, multiple words taken as phrase. 
+
+ Suggestions/Requests/Problem Reports to: rhoward@eskimo.com

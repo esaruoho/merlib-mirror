@@ -1,0 +1,152 @@
+PSAT Percentile Rankings 
+
+ Percentile ranks of PSAT subscores 
+ &#160; 
+ Discussion : The following tables&#160;are from my [DTM] 1977 PSAT/NMSQT score report. I have assigned 
+pseudo-IQ scores in parentheses (which assume a normal distribution) to the percentile ranks. I would 
+expect that this table shows approximately how IQ rises from age 15 (sophomore) to age 17 (senior) on a 
+test which does not correct for age. The average rise in verbal pseudo-IQ's from sophomore to junior is 
+about 5 points, and the average rise in verbal pseudo-IQ's from junior to senior is about 4 points. Since 
+some people drop out of high school at 16, the rise in IQ scores from junior to senior is probably less than 
+that indicated here. 
+ &#160; 
+
+ Verbal percentile ranks for juniors, sophomores, and seniors 
+
+ Score All sophomores All juniors All seniors College-bound 
+juniors 
+ 74 & above 99+ 99+ 99+ 99+ 
+ 73 99+ 99+ 99+ 99+ 
+ 72 99+ 99+ 99+ 99+ 
+ 71 99+ 99+ 99+ 99+ 
+ 70 99+ 99+ 99+ 99+ 
+
+ 69 99+ 99+ 99+ 99 
+ 68 99+ 99+ 99+ 99 
+ 67 99+ 99+ 99 99 
+ 66 99+ 99 99 99 
+ 65 99+ 99 99 98 
+ 64 99+ 99 99 98 
+ 63 99+ 99 99 97 
+ 62 99+ 99 98 97 
+ 61 99 98 97 96 (128) 
+ 60 99 98 96 95 (126) 
+
+ 59 99 98 95 94 (125) 
+ 58 99 97 95 93 (124) 
+ 57 99 97 94 (125) 92 (123) 
+ 56 98 96 93 (124) 90 (121) 
+ 55 98 95 92 (123) 89 (120) 
+ 54 97 95 90 (121) 87 (118) 
+ 53 97 93 (124) 89 (120) 85 (117) 
+ 52 96 92 (123) 88 (119) 83 (115) 
+ 51 96 91 (121) 86 (117) 80 (114) 
+ 50 95 (126) 90 (121) 84 (116) 78 (111) 
+
+ 49 94 (125) 89 (120) 82 (115) 75 (111) 
+ 48 93 (124) 87 (118) 80 (114) 72 (110) 
+ 47 92 (123) 85 (117) 78 (113) 70 (109) 
+ 46 91 (121) 84 (116) 76 (112) 66 (107) 
+ 45 90 (121) 81 (114) 74 (111) 63 (105) 
+ 44 88 (119) 79 (113) 71 (109) 60 (104) 
+ 43 86 (117) 77 (112) 68 (108) 55 (102) 
+ 42 83 (115) 75 (111) 65 (106) 53 (101) 
+ 41 81 (114) 73 (110) 62 (105) 48 
+ 40 79 (113) 71 (109) 60 (104) 45 
+
+ 39 77 (112) 68 (108) 57 (103) 41 
+ 38 74 (111) 64 (106) 54 (102) 38 
+ 37 72 (110) 61 (105) 52 (101) 34 
+ 36 69 (108) 58 (103) 49 31 
+ 35 65 (106) 54 (102) 45 26 
+ 34 62 (105) 51 (101) 43 24 
+ 33 59 (104) 50 (100) 39 21 
+ 32 56 (103) 47 36 18 
+ 31 51 (101) 44 32 16 
+ 30 47 37 29 12 
+
+ 29 44 35 26 11 
+ 28 41 32 24 9 
+ 27 38 28 22 7 
+ 26 32 25 18 5 
+ 25 27 22 15 4 
+ 24 24 20 13 3 
+ 23 21 17 10 2 
+ 22 17 11 9 2 
+ 21 13 9 7 1 
+ 20 -- -- -- -- 
+ Average score 32 34 37 41 
+
+ &#160; 
+
+ Mathematical percentile ranks for juniors, sophomores, and seniors 
+
+ Score All sophomores All juniors All seniors College-bound 
+juniors 
+ 74 & above 99+ 99+ 99+ 99+ 
+ 73 99+ 99+ 99+ 99 
+ 72 99+ 99+ 99 99 
+ 71 99+ 99+ 99 99 
+ 70 99+ 99 99 98 
+
+ 69 99+ 99 98 98 
+ 68 99+ 99 98 98 
+ 67 99+ 99 97 97 
+ 66 99+ 99 97 96 
+ 65 99+ 98 96 96 
+ 64 99 98 96 95 (126) 
+ 63 99 98 95 93 (124) 
+ 62 99 97 95 92 (123) 
+ 61 99 96 94 (125) 91 (121) 
+ 60 99 96 93 (124) 89 (120) 
+
+ 59 99 95 (126) 92 (123) 85 (117) 
+ 58 98 94 (125) 91 (121) 83 (115) 
+ 57 97 93 (124) 89 (120) 81 (114) 
+ 56 97 92 (123) 87 (118) 79 (113) 
+ 55 96 (128) 91 (121) 86 (117) 76 (112) 
+ 54 95 (126) 90 (121) 84 (116) 73 (110) 
+ 53 94 (125) 88 (119) 82 (115) 70 (109) 
+ 52 93 (124) 86 (117) 80 (114) 68 (108) 
+ 51 92 (123) 85 (117) 79 (113) 64 (106) 
+ 50 90 (121) 83 (115) 77 (112) 61 (105) 
+
+ 49 89 (120) 81 (114) 75 (111) 58 (103) 
+ 48 87 (118) 79 (113) 73 (110) 55 (102) 
+ 47 85 (117) 77 (112) 70 (109) 52 (101) 
+ 46 83 (115) 75 (111) 68 (108) 49 
+ 45 81 (114) 73 (110) 66 (107) 45 
+ 44 79 (113) 70 (109) 64 (106) 41 
+ 43 76 (112) 67 (107) 60 (104) 38 
+ 42 74 (111) 64 (106) 58 (103) 35 
+ 41 72 (110) 62 (105) 56 (103) 32 
+ 40 69 (108) 59 (104) 53 (101) 30 
+
+ 39 66 (107) 55 (102) 50 (100) 27 
+ 38 62 (105) 52 (101) 47 24 
+ 37 59 (104) 49 44 22 
+ 36 56 (103) 45 42 19 
+ 35 52 (101) 42 39 17 
+ 34 47 37 35 15 
+ 33 42 34 31 13 
+ 32 38 31 27 11 
+ 31 34 27 24 9 
+ 30 28 22 20 8 
+
+ 29 22 18 15 5 
+ 28 15 15 11 4 
+ 27 11 13 8 3 
+ 26 7 6 5 2 
+ 25 4 4 2 1 
+ 24 2 3 1 1 
+ 23 1 2 1 1 
+ 22 1- 1 1- 1- 
+ 21 1- 1- 1- 1- 
+ 20 -- -- -- -- 
+ Average score 36 39 41 46 
+
+ Percentile ranks for all juniors, all sophomores, and all seniors are based on a special administration of the 
+PSAT/NMSQT in 1974 and represent the performance of all students at these grade levels, not just those who would 
+normally take the test. Percentile ranks for college-bound juniors are based on the scores of United States citizens who 
+took the 1976 PSAT/NMSQT as juniors and indicated they would enter college in 1978. 
+ Return to the Uncommonly Difficult I.Q. Tests page.

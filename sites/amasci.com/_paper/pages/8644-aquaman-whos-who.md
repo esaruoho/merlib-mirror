@@ -1,0 +1,3391 @@
+---
+title: "Aquaman Who's Who"
+source_domain: amasci.com
+source_path: ~tegan/aqua/bios/whoswho.html
+order: 8644
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:16:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Aquaman Who's Who
+
+*Source page: `~tegan/aqua/bios/whoswho.html`*
+
+# Aquaman Who's Who
+
+------------------------------------------------------------------------
+
+The goal of this page is to give a simple list of who is who in Aquaman's corner of the universe. Many characters have more than one name, and might be listed more than once. Some characters have changed or have been retconned out. Many made only one appearance. This is a work in progress.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Pick a Letter... A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+[Places In Aquaman](#places)
+
+Name
+
+1st app with Aquaman
+
+Description of character
+
+<span id="a">**A**</span>
+
+Ahk-Orrd
+
+Aquaman \#24 (1994)
+
+Hunter/Gatherer leader trying to peacefully conquer Earth.
+
+AJ
+
+Aquaman \#7 (1991)
+
+Mera's second son, probably Aquaman's son. Born in the dimension of Thanatos, cannot live in Aquaman's dimension without rapidly aging.
+
+Albart of Ancinor
+
+Atlantis Chronicles \#1
+
+First Keeper of the Chronicles, follower of Shalako, also known as Albart-Son-of-Yarrow. Committed suicide.
+
+Aliena
+
+Aquaman \#39 (1962)
+
+An energy being who is sent by Venusians to kill Aquaman.
+
+Alloroc
+
+Atlantis Chronicles \#1
+
+Richest man in Atlantis during the time of Orin \[1\], father of Bazil.
+
+Alpha Colony
+
+Aquaman \#30 (1962)
+
+An ocean colony of air breathers supported by the Atlanteans but destroyed by Mongo.
+
+Amoeboids
+
+DC Special \#28
+
+Living oil creatures that devoir everything in their path.
+
+Amos, Mr.
+
+Adventure Comics \#462
+
+Head of Universal Food Products.
+
+Amphitrite
+
+Action Comics \#518
+
+Aquaman's mother who became a villain. See also *Curry, Atlanna*.
+
+Animal Man
+
+Aquaman \#35 (1994)
+
+Buddy Baker, a man able to mimic the abilities of animals.
+
+Anunnake
+
+Aquaman \#24 (1994)
+
+Lizard creatures who defeated the Hunter/Gatherers and now are trying to retake all HG colonies. Tiamat is an Anunnake.
+
+Arion
+
+?
+
+Atlantean Demi-god, left Atlantis during the Great Migration when part of Atlantis sank.
+
+Armadillo Men
+
+Aquaman \#22 (1962)
+
+People enslaved by Kandor, who later revolt.
+
+Artie Jr.
+
+Aquaman \#23 (1962)
+
+See *Arthur Curry \[3\]*.
+
+Asha
+
+Aquaman \#44 (1994)
+
+A dolphin friend of Aquaman.
+
+Aquababy
+
+Aquaman \#23 (1962)
+
+See *Arthur Curry \[3\]*.
+
+Aquabeast
+
+Aquaman \#34 (1962)
+
+See *Peter Dudley*.
+
+Aquacave
+
+Adventure Comics \#270
+
+Aquaman's home away from home, where he flees to when he's exiled from Atlantis by Karshon. Contains all his personal stuff, including copies of the Atlantis Chronicles and his own diary.
+
+Aquagirl \[1\]
+
+Adventure Comics \#266
+
+A woman named Lisa Morel, who has purple eyes and believes she has the abilities of Aquaman. Her abilites wear off suddenly.
+
+Aquagirl \[2\]
+
+World's Finest \#133
+
+An Atlantean girl named Selena who is trying to get an Atlantean boy to notice her by becoming Aquaman sidekick.
+
+Aquagirl \[3\]
+
+Aquaman \#33 (1962)
+
+See *Tula*.
+
+Aqualad
+
+Adventure Comics \#269
+
+See also *Garth*. Heroic nickname from Garth's youth. Companion and sidekick of Aquaman.
+
+Aquaman \[1\]
+
+More Fun \#73
+
+Water-based hero, son of an American scientist who discovered sunken Atlantis and was able to perform an operation on his son allowing him to live under the water.
+
+Aquaman \[2\]
+
+Adventure Comics \#260
+
+Water-based hero also known as Arthur Curry. Son of Tom Curry and Atlanna, an exile from Atlantis. Has telepathic powers, and a half-brother named Orm.
+
+Aquaman \[3\]
+
+The Legend of Aquaman
+
+Water-based hero also known as Arthur Curry and Orin. Son of Atlan the Wizard and Atlanna the Queen of Poseidonis. Was abandoned as a child on Mercy Reef. Has telepathic powers.
+
+Atlan
+
+Atlantis Chronicles \#5
+
+Second son of Honsu. Discovered the surface, became a great wizard. Fathered Orin and Orm. Lived a very long time thanks to magical potions.
+
+Atlanna
+
+Atlantis Chronicles \#7
+
+Queen of Poseidonis, Wife of Trevis, Mother of Aquaman. Seduced by Atlan in a dream. Died in prison under the Shalakites' rule. See also *Curry, Atlanna*.
+
+Atlantis
+
+?
+
+The continent of Atlantis, sank partially during the Great Migration, then completely after being hit by a meteorite.
+
+Atlena
+
+World's Finest Comics \#262
+
+An Atlantean scientist who tried to shift Atlantis into a limbo-world. Aquaman's aunt (Atlanna Curry's sister).
+
+Atom
+
+Action Comics \#530
+
+A scientist and superhero who helps Aquaman develop his powers.
+
+Attucka
+
+Aquaman \#25 (1962)
+
+Four-armed warrior once in the service of Genghis Khan and kept alive by Tamerkhan.
+
+Awesome Threesome
+
+Aquaman \#36 (1962)
+
+A trio of bad-guys: Torpedo-Man, Magneto, and Claw.
+
+<span id="b">**B**</span>
+
+Baker, Buddy
+
+Aquaman \#35 (1994)
+
+See *Animal Man*.
+
+Baker, Maxine
+
+Aquaman \#35 (1994)
+
+Animal Man's daughter.
+
+Basilia
+
+Aquaman \#22 (1994)
+
+A floating city guarded by the unfortunately named Spought.
+
+Bazil
+
+Atlantis Chronicles \#1
+
+Son of Alloroc, destined to marry Cora. A warlord of Poseidonis later in life.
+
+Beaki
+
+Aquaman \#2 (1991)
+
+Mother of Marin. Demands that Aquaman not let her daughter's sacrifice go in vain.
+
+Bean, Captain
+
+Detective Comics \#299
+
+A retired sea captain who likes to spin yarns about how he used to help Aquaman.
+
+Beard, Doctor Cyrus
+
+Aquaman \#12 (1962)
+
+Doctor who creates a device that turns land animals into water-breathers.
+
+Berra
+
+Adventure Comics \#455
+
+Garth's mother. Exiled from Shayeris due to the threat of her child freeing the evil Slizzath.
+
+Biggle
+
+Aquaman \#45 (1994)
+
+Magic Fish, servant of Atlan. Helps Charnox put Atlan in a magic bag.
+
+Black, Harry
+
+Detective Comics \#294
+
+Modern pirate who uses fish robots against Aquaman.
+
+Black Jack, Captain
+
+?
+
+Modern pirate, nemesis of Aquaman throughout the Golden Age.
+
+Black Manta
+
+Aquaman \#35 (1962)
+
+Mortal enemy of Aquaman, killer of his son. Originally intended to establish a homeland for outcasts underwater, but later lost his motives due to pure greed.
+
+Blake, Johnny
+
+Adventure Comics \#220
+
+Former Navy pilot and expert swimmer who developed a phobia of water after being shot down. Aquaman helps him cure his phobia.
+
+Blake, Tom
+
+World's Finest Comics \#139
+
+Member of the Daredevils' Club, Wally Welky's cousin.
+
+Blodgett, Phineas
+
+More Fun \#98
+
+An inventor who believes he can extract gold from sea water.
+
+Blubber Man
+
+Aquaman \#27 (1962)
+
+An alien from Jupiter who is captured by Xen for his intergalactic aquarium.
+
+Boduhr
+
+Aquaman \#28 (1962)
+
+A water-breathing gorrila who assists Dr. Starbuck in taking over Atlantis.
+
+Boretski, Paul
+
+Aquaman \#27 (1994)
+
+Member of US consul in Japan, who tries to prevent Aquaman from starting a war.
+
+Bradley, Captain
+
+Aquaman \#28 (1962)
+
+An old friend of Aquaman, has a shell that can summon Aquaman.
+
+Bragg
+
+Adventure Comics \#272
+
+See *Human Flying Fish*.
+
+Brant, Professor
+
+Aquaman \#21 (1962)
+
+Inventor who creates a quick growth serum, but is killed by the Fisherman's thugs.
+
+Bres
+
+Aquaman \#1 (1986)
+
+Sister of Nuada Silverhand, tried to overthrow Nuada to rule Thierna Na Oge.
+
+Brian
+
+Aquaman Annual \#3
+
+An intelligent thug who works for a toy company.
+
+Britton-Son-of-Cole
+
+Atlantis Chronicles \#2
+
+Second Keeper of the Chronicles, Nephew of Albart, the first Keeper.
+
+Bugala
+
+Aquaman \#44 (1962)
+
+Monster that Aqualad is forced to fight to save a dying race of people. He later battles a robot Bugala.
+
+Burke, Captain
+
+Aquaman \#29 (1962)
+
+Rescued Aquaman and Aqualad from the Ocean Master.
+
+<span id="c">**C**</span>
+
+Carmel, Todd (Doctor)
+
+Action Comics \#536
+
+A S.T.A.R. labs scientist researching Aquaman's powers.
+
+Castaigne
+
+Adventure Comics \#168
+
+Saboteur employee of Captain Rogers, tries to stop the S.S. Cathay.
+
+Cave of Death
+
+?
+
+A cave from which no living thing returns.
+
+Cerberus
+
+Aquaman \#46 (1994)
+
+The three-headed guardian of the gates of Hades.
+
+Cerne
+
+Aquaman \#43 (1994)
+
+A Millennium Giant who destroys Thierna Na Oge. Aquaman almost manages to communicate with it.
+
+Charnox
+
+Aquaman \#45 (1994)
+
+Magic Fish, servant of Atlan. Helps Biggle put Atlan in a magic bag.
+
+Charon
+
+Aquaman \#46 (1994)
+
+The Ferryman on the river Styx. Aquaman tosses him into the river and runs him over with his own boat.
+
+Charybdis
+
+Aquaman \#1 (1994)
+
+A villain who steals Aquaman's powers and is reponsible for the loss of Aquaman's hand.
+
+Chubb
+
+Aquaman \#0 (1994)
+
+Poseidonian child spared execution by Aquaman.
+
+Claw
+
+Aquaman \#36 (1962)
+
+A member of the Awesome Threesome.
+
+Claw, Captain
+
+World's Finest Comics \#125
+
+A pirate who tries to kill Aqualad.
+
+Clay, Captain
+
+Aquaman \#7 (1962)
+
+A sea raider who poses as a horticulturist to fool Quisp into helping him.
+
+Cleary, Captain Matt
+
+Adventure Comics \#168
+
+Captain of the S.S. Cathay. Aquaman helps him win an important shipping contract despite Captain Rogers cheating.
+
+Cook, John
+
+Showcase \#31
+
+A thief who steals a device that controls fish.
+
+Coombs, Jed
+
+Showcase \#32
+
+A criminal who steals a treasure so he can become the Creature King of the seas.
+
+Cora
+
+Atlantis Chronicles \#1
+
+Daughter of Orin and Narmea, born early because of Dardanus's magical intervention. Mother of Fiona and Kordax.
+
+Corona
+
+Aquaman \#7 (1994)
+
+See also *Kako*. Fire Elemental created out of Kako's death.
+
+Crane, Captain
+
+Aquaman \#9 (1962)
+
+An old friend of Aquaman's obsessed with finding the entrance to the kingdom of King Neptune.
+
+Crastinus
+
+?
+
+See *Shayeris*.
+
+Creature King
+
+Showcase \#32
+
+The criminal Jed Coombs, transformed into a powerful sea creature.
+
+Cron One-Eye
+
+Time and Tide \#1
+
+A shark that Aquaman injured as a child. Stood watch at the Old One's death, became human during The Shark's second takeover of Poseidonis.
+
+Crusader
+
+Aquaman \#56 (1962)
+
+A Detriot super-hero who puts up a satellite to provide daylight to the city at night, which also happens to cause environmental disaster.
+
+Cupid
+
+Aquaman Annual \#1
+
+A god of love, helped Aquaman and Mera fall in love in order to spite Poseidon.
+
+Curry, Arthur \[1\]
+
+The Legend of Aquaman
+
+See also *Curry, Tom*. Originally Tom Curry, name was changed to Arthur in The Legend of Aquaman. Was a lighthouse keeper who helped raise Aquaman and taught him English.
+
+Curry, Arthur \[2\]
+
+More Fun \#73
+
+See also *Aquaman*. Aquaman's surfacer name. Given to him by his human "father", the lighthouse keeper.
+
+Curry, Arthur \[3\]
+
+Aquaman \#23 (1962)
+
+Aquaman and Mera's first son. Commonly known as Artie Jr. Killed by Black Manta.
+
+Curry, Atlanna
+
+Adventure Comics \#260
+
+Aquaman's mother, wife of Tom Curry. An Atlantean exile. Later revealed to be a survivor of the first sinking, almost immortal.
+
+Curry, Orm
+
+Aquaman \#29 (1962)
+
+See also *Ocean Master*. Silver Age version of Aquaman's half brother. Always trying to outdo his powered brother, constantly in trouble. Lost his memory and became Ocean Master.
+
+Curry, Tom
+
+Adventure Comics \#260
+
+See also *Curry, Arthur \[1\]*. The original Silver Age name of Arthur Curry \[1\]. Tom was Aquaman's true father according to the Silver Age origin. Also the father of Orm Curry (Ocean Master).
+
+Curtis, Roger
+
+Adventure Comics \#241
+
+A circus performer who needs to train four dangerous fish to inherit the circus.
+
+Cuttle, Captain
+
+Adventure Comics \#242
+
+A crook who tries to steal treasure Aquaman was turning over to charity.
+
+Cybernetic Entity
+
+Aquaman \#15 (1994)
+
+The entity in control of the ship beneath Poseidonis, Aquaman uses the Martian Manhunter to force the entity to obey his will. The entity was apparently destroyed by Triton.
+
+<span id="d">**D**</span>
+
+Dan
+
+Atlantis Chronicles \#3
+
+Tritonian boy who helps save Bazil and Co during the Shark Hunt.
+
+Danton, Doctor
+
+Adventure Comics \#258
+
+A scientist who owns a whale, sawfish, octopus and electric eel, and dabbles in nuclear technology.
+
+Dardan
+
+Aquaman \#11 (1994)
+
+Shalakite priest later killed by Triton.
+
+Dardanus
+
+Atlantis Chronicles \#1
+
+Youngest child of Shalako, son of Loma. Father of Kordax. Told his people that his father Shalako had cursed them in revenge for his mother's murder.
+
+Daredevils' Club
+
+World's Finest Comics \#139
+
+A group that put on an undersea treasure hunt.
+
+Dark Gods
+
+Atlantis Chronicles \#1
+
+The gods to which Shalako turns when he realizes Suula has forsaken him.
+
+Darson, Phil
+
+Aquaman \#43 (1962)
+
+Surfacer, amateur explorer. Rescues Aquaman in the land of the giants. Later is killed blowing up polluting factories.
+
+Davidson, Professor
+
+Aquaman \#49 (1962)
+
+A scientist who discovers the factories are causing fish to go mad. Aqualad and Aquaman think he is a saboteur, but are later proven wrong.
+
+Deadline
+
+Aquaman \#9 (1994)
+
+An assassin hired by King Thesily to kill Aquaman.
+
+Deadman
+
+Aquaman \#50 (1962)
+
+A dead man who jolts Ocean Master's memory enough to remind him that he's Aquaman's brother.
+
+Deep Blue
+
+Aquaman \#23 (1994)
+
+Daughter of Tsunami and (possibly) Neptune Perkins.
+
+Deep Six
+
+Aquaman \#6 (1994)
+
+Evil group, minions of Darkseid, trying to turn Earth's new fire elemental evil. The members are: Jaffar, Gole, Slig, Trok, Shaligo, and Pyron.
+
+Deering, Doctor
+
+Aquaman \#15 (1962)
+
+Inventor who creates a machine to scavenge the ocean floor, but accidently turns himself into a water breather and goes mad.
+
+Deeter, Lt Jason
+
+Adventure Comics \#245
+
+A disguised policeman who helps Aquaman nab some thieves.
+
+Delphius Oracle
+
+Action Comics \#519
+
+An ancient oracle who proclaimed that a savior would come. Atlena was a priestess of the oracle.
+
+Demo, Captain
+
+Adventure Comics \#441
+
+Pirate who tries to take over Atlantis by planting bombs around the city.
+
+Demon Gate
+
+Aquaman \#26 (1996)
+
+Japanese villain who kills Porm in revenge. See also *Tanaka, Captain Kimon*
+
+Demonoids
+
+Aquaman \#34 (1962)
+
+Inhabitants of the forgotten place, sinister androids who stun people.
+
+The Depths
+
+Aquaman \#41 (1962)
+
+A dangerous underwater tunnel that Aquaman uses as a short-cut to the Maarzon colony. Inhabited by telepathic fish and strange people living symbiotically with monsters.
+
+Depuis, Captain
+
+Aquaman \#14 (1994)
+
+An airline pilot whose inexperience led to the death of Thanatos, set up by Major Disaster's Neron-enhanced powers.
+
+Derea
+
+Aquaman \#11 (1991)
+
+Peli the sea serpent's person. From Thierna Na Oge.
+
+Detox
+
+Adventure Comics \#464
+
+Stavros Markos' ship.
+
+Dex
+
+Aquaman \#47 (1962)
+
+Mupo's second-in-command during the revolution against Narkran. His impatience nearly gets Tula killed.
+
+Diana
+
+Aquaman Annual \#1
+
+See *Wonder Woman*.
+
+Diancecht
+
+Aquaman \#2 (1986)
+
+Friend of Nuada Silverhand.
+
+Dillon, T.N.T.
+
+Adventure Comics \#226
+
+Villain who tries to blow up Aquaman.
+
+Disaster, Major
+
+?
+
+See *Major Disaster*.
+
+Doc
+
+Adventure Comics \#257
+
+Criminal surgeon who turns Hadley into an imitation Aquaman.
+
+Doctor Light
+
+World's Finest Comics \#264
+
+A Justice League villain who tried to kill Aquaman.
+
+Doctor Polaris
+
+Aquaman \#40 (1994)
+
+See *Polaris, Doctor*.
+
+Dolphin
+
+Aquaman \#1 (1994)
+
+A water-breather who's abilities are stolen by Charybdis. She later shoots Charybdis. Is being controlled by Kordax. Falls in love with Aquaman, then with Tempest.
+
+Dona
+
+Atlantis Chronicles \#5
+
+Friend and companion of Haumond.
+
+Dorsal, Doctor
+
+Aquaman \#33 (1962)
+
+A water-breather from another dimension with a two-headed eel that hypnotizes people.
+
+Dreaming City
+
+Aquaman \#18 (1994)
+
+A city in the Himalayas that became Ocean Master's domain. Atlantean descendants, killed by Ocean Master in a fit of madness and anger.
+
+Drin
+
+Time and Tide \#2
+
+Aquaman's dolphin brother, critically injured by ship propellers after leaping too high. Aquaman took the harpoon the sailors would've finished him with.
+
+Dudley, Peter
+
+Aquaman \#34 (1962)
+
+A rich playboy who wants to become Aquaman after meeting Mera. The operation fails and turns him into Aquabeast. He later apparently dies saving Mera from Hammuri.
+
+Duff, Baldy
+
+More Fun \#98
+
+A thug who works for "Steal-A-Million" Sponsler.
+
+Duncan
+
+Atlantis Chronicles \#7
+
+King of Tritonis during the reign of Trevis.
+
+Dungeon Depths
+
+Aquaman \#19 (1962)
+
+An underwater prison, a pit from which nothing ever emerges.
+
+Durham, Cal
+
+Adventure Comics \#452
+
+Originally one of Black Manta's troopers, turned and helped Aquaman defeat Manta. Had the first of Manta's experimental gill implants, and no longer can live out of water.
+
+<span id="e">**E**</span>
+
+Eel Man
+
+Aquaman \#27 (1962)
+
+An alien from Pluto, captured by Xen for his intergalactic aquarium.
+
+Eldfur
+
+Aquaman \#43 (1962)
+
+A dying race of purple people who make Aqualad fight the Bugala to save them.
+
+Electric Man
+
+Adventure Comics \#254
+
+See also Pinto, Roy. A criminal immune to electric shock who supercharged himself so no one could touch him.
+
+Elementals
+
+Aquaman \#60 (1962)
+
+Guardians of Xebel's healing device in Mera's dimension.
+
+Enlil
+
+Flash \#66
+
+An ancient king whose power lives on in the form of his crown, which, if worn, will control the wearer.
+
+Eros
+
+Aquaman Annual \#1
+
+See *Cupid*.
+
+Eryx
+
+Aquaman Annual \#1
+
+Brother of Cupid (Eros), helped Aquaman and Mera fall in love in order to spite Poseidon.
+
+<span id="f">**F**</span>
+
+F'ancha, Minister
+
+Aquaman \#1 (1991)
+
+Started the war with Oumland by attacking an Oumlandian ship. Would've been revealed as Ocean Master had the 1991 series continued.
+
+Fatima
+
+Atlantis Chronicles \#5
+
+Eldest child of Fiona and Regin.
+
+Fiona
+
+Atlantis Chronicles \#4
+
+Bazil and Cora's Daughter, heir to the throne.
+
+Fire Trolls
+
+Aquaman \#1 (1962)
+
+Underwater lava beings who invade Aquaman's realm through a volcano.
+
+Firtf
+
+Aquaman \#3 (1991)
+
+King of Tritonis during the Oumland crisis. Overthrown by Iqula, who also put him on the throne originally.
+
+Fisherman
+
+Aquaman \#21 (1962)
+
+Wierd dude without any eyes.
+
+Flarer, Duke
+
+More Fun \#99
+
+A mechanical genius who creates a volcano as a hideaway from police.
+
+Flood, Jim
+
+Adventure Comics \#280
+
+Star of TV show "Sea Chase" who gets the bends.
+
+Flood, Ted
+
+Adventure Comics \#280
+
+Star of TV show "Sea Chase" who gets the bends.
+
+Fluorescent Water Man
+
+Aquaman \#27 (1962)
+
+An alien from Mercury, captured by Xen for his intergalactic aquarium.
+
+Fontaine
+
+Aquaman \#38 (1994)
+
+Partner of Stasy Russell in her publicity firm.
+
+Forrest, Horace
+
+Adventure Comics \#241
+
+A lawyer who wants to prevent Roger Curtis from inheriting a circus, so the circus will go to him instead.
+
+<span id="g">**G**</span>
+
+Gamesman
+
+Aquaman \#35 (1994)
+
+Hunter who goes after super-heroes, like Animal Man. Aquaman helps take him out.
+
+Gana
+
+Atlantis Chronicles \#5
+
+Wife of Kalunga. Claimed to have come from the surface.
+
+Gantz, Linda
+
+Aquaman \#38 (1994)
+
+Wife of Sam Gantz, ran off with yoga instructor named Bob. Both were killed by Rhombus.
+
+Gantz, Sam
+
+Aquaman \#38 (1994)
+
+Man killed by Rhombus' meteorite while sitting in traffic.
+
+Garth
+
+Adventure Comics \#269
+
+See also *Aqualad* and *Tempest \[1\]*. The exiled prince of Shayeris (the Hidden Valley). Has purple eyes and sorcery-based powers. Mother is Berra, father is Thar.
+
+Gilary, Captain
+
+Adventure Comics \#460
+
+Coast Guard captain who calls in Aquaman to deal with whale hunting outside his jurisdiction.
+
+Gole
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+Goo-Goo Eyes
+
+More Fun \#99
+
+Deep sea fish friend of Aquaman.
+
+Green Lantern
+
+Brave and the Bold \#28
+
+Heroic mantle passed down, Aquaman was on the Justice League with Hal Jordan and Kyle Rayner.
+
+Grifid
+
+Aquaman \#31 (1994)
+
+A whale-shark who is killed by Aquaman in his mutated form.
+
+The Grotto
+
+Showcase '96 \#1
+
+Place where Atlan takes Garth after he dies, and where Garth is trained to use his powers.
+
+Guardian of Hy-Brasil
+
+Aquaman \#17 (1994)
+
+Half-manta creature that is the leader of Hy-Brasil.
+
+Gulacia
+
+Atlantis Chronicles \#3
+
+Flirtatious woman who had an affair with Orin.
+
+Gulf of Terrors
+
+Aquaman \#23 (1962)
+
+Home of Sirens, Aquaman had to cross this territory to save Mera and Artie Jr.
+
+Gyro-Moleculizer
+
+Aquaman \#36 (1962)
+
+A device that makes people weightless.
+
+<span id="h">**H**</span>
+
+Hadley
+
+Adventure Comics \#257
+
+A crook who gets all Aquaman's abilities after undergoing and operation.
+
+Hades
+
+Aquaman \#46 (1994)
+
+Lord of the Underworld. Frees Poseidon at Aquaman's behest. Aquaman owes hima favor.
+
+Ha-Foth Tritos
+
+Aquaman 1000000 (1994)
+
+Leader of Jupiter in the 853rd Century.
+
+Hale, Jim
+
+Adventure Comics \#279
+
+A boy who takes a sailboat out for a day at sea without permission, with his buddies Eddie, Roy, and Tom.
+
+Hammuri
+
+Aquaman \#34 (1962)
+
+An alien who crashed on Earth and survived in the forgotten place due to the magnetic field there. Creator of the Demonoids. Apparently killed by Peter Dudley as Aquabeast.
+
+Harlanson, Eliot
+
+Aquaman \#53 (1962)
+
+A millionaire Californian convinced by O.G.R.E. agents to bomb Atlantis. Yes, the name is based on Harlan Ellison.
+
+Harte, Captain
+
+Adventure Comics \#268
+
+A captain who became blind, and didn't believe Aquaman really existed.
+
+Haskel, Commander
+
+Adventure Comics \#260
+
+Submarine commander to whom Aquaman relates his origin in order to prevent him from accidently bombing Atlantis.
+
+Hassen, Harry
+
+Aquaman Annual \#3
+
+Owner of a toy company that makes toys based on Tusky the Walrus.
+
+Haumond
+
+Atlantis Chronicles \#5
+
+Third son of Honsu. Killed his brother to end a war, then went into voluntary exile.
+
+Helga
+
+Adventure Comics \#465
+
+A descendant of Nazis living in the Antarctic who can breathe underwater for short periods of time.
+
+Helois
+
+Atlantis Chronicles \#5
+
+Chronicler of Atlantis during the time of Honsu.
+
+Hexapi
+
+Action Comics \#527
+
+The sea dwellers on the planet Vortuma.
+
+Hidden Valley
+
+?
+
+See *Shayeris*.
+
+Higgins, Jerry
+
+Adventure Comics \#150
+
+Teen who runs away to sea only to join the crew of Captain Black Jack. Rescued by Aquaman.
+
+High Seer of Hy-Brasil
+
+Aquaman \#18 (1994)
+
+A telepath who interrogates Dolphin and is killed by her.
+
+Hila
+
+Aquaman \#22 (1962)
+
+Mera's twin sister, troublemaker. Gets into trouble with Kandor.
+
+Honsu
+
+Atlantis Chronicles \#5
+
+Descendant of Manu. King of Atlantis. Attempted to conquer the surface world during his reign. Father of Kraken, Haumond, and Atlan. Grandfather of Aquaman.
+
+Horgan, General
+
+Adventure Comics \#442
+
+Hot-headed NATO commander who dislikes Aquaman but can't seem to keep away from his adventures.
+
+Horrkas
+
+Aquaman \#23 (1962)
+
+Undersea apes who are defeated by Aquababy (Artie Jr.).
+
+Horval, Bart
+
+Adventure Comics \#277
+
+A salvage expert who spies on Aquaman to see if he can find anything to make a profit with.
+
+Huff, Lawrence
+
+Aquaman \#42 (1994)
+
+The Sea Wolf's identity when Aquaman first meets him.
+
+Human Flying Fish
+
+Adventure Comics \#272
+
+A villain who can survive underwater, swim at a great speed, and fly through the air for short distances. Real name is Bragg.
+
+Hunter/Gatherers
+
+Aquaman \#22 (1994)
+
+Owners of the meteorite/ship that sank Atlantis. Laid waste to Earth, then colonized it. They were conquered by the Anunnake, and now are helping the Anunnake retake all the colony worlds.
+
+Huntress
+
+Aquaman \#26 (1962)
+
+O.G.R.E. agent who works with Typhoon on Operation Lost Island. Later helps Aquaman.
+
+Hy-Brasil
+
+Aquaman \#17 (1994)
+
+A city of Manta-like people who are guarded by their king.
+
+<span id="i">**I**</span>
+
+Iceberg Head
+
+The Ice Age
+
+An evil ice creature determined to freeze Atlantis. Distracted by Cup Cakes.
+
+Illya
+
+Atlantis Chronicles \#3
+
+The Third Keeper of the Chronicles, younger sister of Britton, One of Bazil's friends involved in the Shark Hunt.
+
+Imp
+
+Aquaman \#20 (1962)
+
+Aqualad's seahorse.
+
+Iqula (Iquila)
+
+Aquaman \#3 (1991)
+
+A lord of Tritonis. Overthrows King Firtf and becomes ruler. Nearly killed by Kordax and Koryak. Husband of Lady S'ona.
+
+<span id="j">**J**</span>
+
+Jaffar
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+Jared
+
+Aquaman \#1 (1988)
+
+Resistance leader against the jellyfish attackers.
+
+Jarsen
+
+Adventure Comics \#444
+
+Aquaman's Chief of Security when he was King. Supported Karshon because of the law.
+
+Jeffers
+
+Detective Comics \#300
+
+A thief who tricks Aquaman into assisting him.
+
+Jones, Claudia
+
+Aquaman \#14 (1994)
+
+See *Rasmussen, Claudia*.
+
+Jory, Admiral
+
+Aquaman \#5 (1994)
+
+A Hawaiian-based Navy Admiral who helps cover up for Admiral Strom.
+
+Jurgin
+
+Adventure Comics \#444
+
+One of Ocean Master's thugs.
+
+Justice League
+
+Brave and the Bold \#28
+
+An organization that Aquaman participated in, whose membership is constantly changing. Aquaman is generally familiar with members of the League.
+
+Juvor
+
+Aquaman \#18 (1962)
+
+King of Atlantis before Aquaman. Dies and causes a crisis which is averted by the crowning of Aquaman.
+
+<span id="k">**K**</span>
+
+Ka'arl
+
+Aquaman \#39 (1962)
+
+Evil Venusian who tries to use Aliena to kill Aquaman. Is killed by Uritrium.
+
+Kako
+
+Aquaman \#5 (1994)
+
+Inupiat living in a remote Alaskan village, mother of Koryak. Later became the Fire Elemental Corona.
+
+Kaladro
+
+Atlantis Chronicles \#7
+
+Priest of Shalako, leads the revolution to overthrow science in Poseidonis after Trevis's suicide.
+
+Kaltor
+
+Aquaman \#20 (1962)
+
+The first Atlantean Aquaman ever met, who trained him to live in the oceans. A gas makes him turn into a monster until Aquaman kills the monster, at which point Kaltor reverts to normal.
+
+Kalu
+
+Aquaman \#39 (1994)
+
+A Hawaiian tourist who came to Poseidonis and really enjoyed meeting the guys.
+
+Kalunga
+
+Atlantis Chronicles \#5
+
+Child of Fiona and Regin, considered an imbecile, might have suffered from hydrophobia.
+
+Kandor
+
+Aquaman \#22 (1962)
+
+An exile from Mera's world who loves Hila.
+
+Karla
+
+Aquaman \#24 (1962)
+
+A woman who's hair became a flame in an industrial accident. She can burn through Mera's hard water shields.
+
+Karshon
+
+Adventure Comics \#444
+
+The Shark in disguise, takes over Atlantis by causing dissent among the council.
+
+Kates, Horace
+
+Adventure Comics \#267
+
+See *Wizard, The*.
+
+Keerg
+
+Aquaman \#4 (1991)
+
+A friend of Aquaman.
+
+Kelp, Colonel
+
+Twinkies and Kelp
+
+Surfacer determined to introduce Aquaman and Atlantis to Hostess Twinkies.
+
+Kelt
+
+Aquaman \#16 (1994)
+
+Dolphin who is a friend of Dolphin.
+
+Kirk
+
+Aquaman \#12 (1962)
+
+Lab assistant to Dr Beard who tries to use Beard's inventions for evil.
+
+Kobra
+
+Aquaman \#58 (1962)
+
+A villain who works with the Fisherman and Black Manta.
+
+Korbo
+
+Aquaman \#11 (1994)
+
+Atlantean citizen.
+
+Kordax
+
+Atlantis Chronicles \#4
+
+Son of Cora and Dardanus. Completely scaled and green, like a fish, with blond hair. Had his left hand removed for trying to take the throne of Poseidonis. Has telepathy, can control fish. Worked for the Anunnake.
+
+Koryak
+
+Aquaman \#5 (1994)
+
+Son of Kako and Aquaman. Has hard water powers resembling Mera's. Attempted to overthrow his father and become king of Poseidonis.
+
+Kosnor
+
+Superman: The Man of Steel \#48
+
+A telepath controlling monsters near the remains of Engine City.
+
+Kraken
+
+Atlantis Chronicles \#5
+
+Son of Honsu, Heir. Killed by Haumond in Greece. One of his sons eventually became king.
+
+Kraken of Vexjor
+
+Aquaman 1000000 (1994)
+
+A beast from Vexjor that cannot live long in normal water, and due to pain tends to destroy things when in normal water.
+
+Krakka
+
+Aquaman \#28 (1962)
+
+A water-breathing sea eagle who assists Dr. Starbuck in taking over Atlantis.
+
+Krako
+
+Aquaman \#31 (1962)
+
+The twin of Aquaman's American intelligence contact the Tall Man.
+
+Krakor
+
+Adventure Comics \#445
+
+A plant creature that uses villagers of Toxxin's village to attract sharks to eat.
+
+Kreon, Professor
+
+Aquaman \#22 (1962)
+
+A scientist from Mera's dimension who restores Mera's powers.
+
+Krill, Doctor
+
+Adventure Comics \#272
+
+A criminal scientist who turns Bragg into the Human Flying Fish.
+
+<span id="l">**L**</span>
+
+Lador
+
+World's Finest Comics \#135
+
+An alien from another dimension who created a warp-machine that allowed him into Aquaman's world.
+
+Land-Masters
+
+Action Comics \#527
+
+Land-dwellers on the planet Vortuma, who turn out to be Hexapi in human suits.
+
+Landau, Colin
+
+Adventure Comics \#460
+
+Big game hunter who died because he refused help from a whale he had been hunting.
+
+Leland
+
+Aquaman \#49 (1962)
+
+Crooked factory owner who is dumping pollutants into the ocean.
+
+Lemur
+
+Aquaman \#8 (1962)
+
+Phrygian who passed up an uninhabited planet to steal water from Earth.
+
+Leron
+
+Aquaman \#11 (1962)
+
+Pretender to Mera's throne who follows her into Aquaman's world to make sure she doesn't return.
+
+Letifos
+
+Aquaman \#2 (1994)
+
+Sharkmaid of the Sher'Hedeen, later becomes friend of Garth and helps him fight his evil uncle.
+
+Leviathon
+
+Aquaman \#30 (1994)
+
+One of the dark gods, trapped and haunting its own body at the bottom of the deepest trench.
+
+Liat
+
+Aquaman \#25 (1962)
+
+Daughter of Tamerkhan, tries to take Artie Jr as her mate.
+
+Liquidator
+
+Aquaman \#38 (1962)
+
+A mutant who can sense and destroy evil.
+
+Lobo
+
+Aquaman \#4 (1994)
+
+Friend of space dolphins who meets Aquaman while trying to free captured dolphins.
+
+Loma
+
+Atlantis Chronicles \#1
+
+Dardanus' mother, helped save Narmea during the birth of Cora. Murdered by Shalako to create Tritonis' dome.
+
+Lora
+
+Atlantis Chronicles \#7
+
+Tritonian child. Finds a container of toxic waste with Uri.
+
+Lorelei
+
+Atlantis Chronicles \#5
+
+Descendant of Nala. Mysterious wife of Honsu the conqueror. Urged Honsu to conquer the surface world. Mother of Kraken, Haumond, and Atlan. Grandmother of Aquaman.
+
+Ludorf, Hans (Doctor)
+
+Aquaman \#34 (1962)
+
+A doctor who agrees to turn Peter Dudley into Aquaman for a million dollars to build a hospital in Africa.
+
+Lukhan
+
+Aquaman \#20 (1962)
+
+A bandit exiled from Atlantis who tries to kill Aquaman.
+
+Lun Ming
+
+More Fun \#96
+
+Chinese Olympic champion swimmer who helps his country battle the Japanese during World War II.
+
+Lunt, Mr.
+
+Aquaman \#38 (1994)
+
+Partner of Stasy Russell in her publicity firm.
+
+Lyndon, Mayor
+
+Adventure Comics \#264
+
+Mayor of New Venice who makes Aquaman temporary police chief.
+
+Lyndon, Senator John
+
+World's Finest Comics \#262
+
+A senator who vanished in the Sargasso Sea. Brother of the Mayor of New Venice.
+
+<span id="m">**M**</span>
+
+Maarzon
+
+Aquaman \#41 (1962)
+
+A band of savages who think Black Manta is a god.
+
+Mabel
+
+Detective Comics \#299
+
+Captain Bean's granddaughter.
+
+Magneto
+
+Aquaman \#36 (1962)
+
+A member of the Awesome Threesome.
+
+Magus, Vladimir
+
+Aquaman \#1 (1988)
+
+Russian scientist who becomes a giant bubble after playing around with mystic artifacts.
+
+Maia
+
+Atlantis Chronicles \#2
+
+Wife of Britton (?).
+
+Major Disaster
+
+Aquaman \#14 (1994)
+
+Villain with the talent of causing destruction. Killed Thanatos, thinking he was Aquaman, during Underworld Unleashed.
+
+Manta
+
+Aquaman \#35 (1962)
+
+See *Black Manta*.
+
+Manta-Men
+
+Aquaman \#35 (1962)
+
+Black Manta's thugs.
+
+Manu
+
+Atlantis Chronicles \#5
+
+Child of Fatima.
+
+Manuel
+
+Atlantis Chronicles \#7
+
+Member of Christopher Columbus's crew who spotted a Tritonian.
+
+Marin
+
+Aquaman \#2 (1991)
+
+Atlantean guard who sacrificed herself to save Aquaman's life.
+
+Marine Marauder \[1\]
+
+Adventure Comics \#449
+
+A villain who uses electronics to control air-breathing animals, including whales and dolphins. Stole a vital shipment of flu vaccine and tried to hold it for ransom.
+
+Marine Marauder \[2\]
+
+Flash \#66
+
+Woman who can control animals, and is searching for the crown of Enlil.
+
+Maritorn
+
+Aquaman \#48 (1994)
+
+Invaders attacking Oceanid, defeated by Aquaman.
+
+Marius, Orm
+
+Aquaman \#29 (1962)
+
+Another name for Ocean Master.
+
+Markos, Stavros
+
+Adventure Comics \#464
+
+A Greek shipping magnate who tries to loot Atlantis.
+
+Martian Manhunter
+
+Brave and the Bold \#28
+
+Longtime friend of Aquaman.
+
+Martinson, Gunter
+
+Aquaman \#39 (1994)
+
+Reporter covering the US Senate.
+
+Mason, Jim
+
+Adventure Comics \#263
+
+Governor of the island of Comstock, confessed to embezzling from public funds. Known as "Big Jim".
+
+Matsu, Colonel
+
+More Fun \#96
+
+Japanese commander who figured out that Lun Ming was getting past his security.
+
+Maurice
+
+Aquaman Annual \#3
+
+A fishy retainer of Aquaman's.
+
+Maxima
+
+Aquaman \#40 (1994)
+
+Bad girl who always tries to make Superman her husband... here trying to make Aquaman her husband.
+
+Maxwell, Edwin
+
+Aquaman \#54 (1962)
+
+A victim of Thanatos.
+
+Mcaan
+
+Adventure Comics \#444
+
+Man searching for his lost son, Syan, and confusing Aqualad for his possible kidnappers.
+
+McCoy, Doctor
+
+Aquaman \#9 (1994)
+
+Doctor at S.T.A.R. labs who developed Aquaman's hook.
+
+Melvin
+
+Adventure Comics \#242
+
+A clown who becomes Aqua-Melvin after receiving a transfusion from Aquaman.
+
+Mera
+
+Aquaman \#11 (1962)
+
+Wife of Aquaman, mother of Arthur Curry III and AJ. Queen from another dimension. Has powers over water that allow her to form 'hard water' creations using gestures of her hands, her powers can be negated by the presence of lead.
+
+Mercy Reef
+
+The Legend of Aquaman
+
+The reef upon which Aquaman's father left him to die. Aquaman buried his son, Artie Jr., there. Later destroyed by Black Manta.
+
+Merd
+
+Aquaman \#3 (1991)
+
+Tritonian who leaves his friend to be killed by sharks.
+
+Merdo the Wizard
+
+World's Finest Comics \#132
+
+A wizard whose mind was imprisoned in a helmet for trying to overthrow his king.
+
+Merlon
+
+World's Finest Comics \#133
+
+The man Selena was interested in. She became Aquagirl in order to impress him.
+
+Mermor
+
+Showcase \#33
+
+Venusian refugee who accidently get Aquaman involved.
+
+Merrevale Oil Company
+
+Aquaman \#9 (1991)
+
+Oil Company that the Sea Devils attack.
+
+Minkus
+
+Aquaman Annual \#3
+
+A thug who works for a toy company. Partner of Brian.
+
+Mission
+
+Aquaman \#8 (1991)
+
+The man who arranged for Aquaman to be Poseidonis' ambassador to the UN.
+
+Mongo
+
+Aquaman \#30 (1962)
+
+The leader of the evil city of Necrus.
+
+Morel, Lisa
+
+Adventure Comics \#266
+
+See also *Aquagirl \[1\]*. A purple-eyed exile from Atlantis, who is doomed to lose her ability to live underwater.
+
+Morel, Hugo (Doctor)
+
+Adventure Comics \#266
+
+Famed ichthyologist whose adopted daughter became the first Aquagirl.
+
+Morisca
+
+Atlantis Chronicles \#3
+
+One of Bazil's friends, involved in the Shark Hunt.
+
+Mort
+
+Aquaman Annual \#4
+
+Rivva's husband. See *Rivva*.
+
+Munson, Albert
+
+Aquaman \#42 (1994)
+
+Victim of the Sea Wolf. Later becomes the new identity of the Sea Wolf.
+
+Mupo
+
+Aquaman \#46 (1962)
+
+Rabble-rousing friend of Tula and Garth, helps overthrow Narkran.
+
+Muria
+
+Atlantis Chronicles \#7
+
+Queen of Tritonis during the reign of Trevis.
+
+Murphy, Admiral
+
+Action Comics \#536
+
+A Navy admiral working with S.T.A.R. labs to research Aquaman's powers.
+
+Myrot
+
+Aquaman \#12 (1962)
+
+An alien gladiator who can control water from a distance.
+
+<span id="n">**N**</span>
+
+Naiad
+
+Aquaman \#7 (1994)
+
+Earth's water elemental. There is a parallel Naiad in the Oceanid dimension.
+
+Nala
+
+Atlantis Chronicles \#5
+
+Child of Kalunga and Gana, one of the most formidable villains in Atlantean history.
+
+Narkran
+
+Aquaman \#41 (1962)
+
+The man Aquaman places in charge of Atlantis during his search for Mera. Was behind Mera's kidnapping, and became a tyrant in Aquaman's absence. Nearly overthrown by Mupo.
+
+Narmea
+
+Atlantis Chronicles \#1
+
+Wife of Orin, mother of Cora.
+
+Na-Tinth Sha
+
+Aquaman 1000000 (1994)
+
+Leader of Jupiter in the 853rd Century.
+
+Necrus
+
+Aquaman \#30 (1962)
+
+An ancient city of evil, ruled by Mongo, that appears at intervals on the ocean floor due to an orbiting object.
+
+Nelson, Horace
+
+More Fun \#100
+
+A man who always wanted to go to sea, but only got the chance as an adult.
+
+Nemek
+
+Aquaman \#28 (1994)
+
+A lightning whale, friend of Aquaman.
+
+Nemo
+
+Aquaman \#48 (1994)
+
+Leader of the Maritorn.
+
+Neptune
+
+Tempest \#1
+
+A god of the oceans who is tricked then captured by Slizzath.
+
+Neptune, King
+
+Aquaman \#9 (1962)
+
+An ancient sea protector, like Aquaman, who predicted an undersea volcanic eruption that could destroy the world. Used his powers to turn a later adventurer (Captain Crane) into himself.
+
+Neptune Perkins
+
+Aquaman \#23 (1994)
+
+Senator and long-time protector of the sea.
+
+Nera
+
+Time and Tide \#2
+
+Aquaman's dolphin girlfriend when he was a youth. His first crush.
+
+Nero
+
+Aquaman \#0 (1994)
+
+Atlantean Guard.
+
+New Order
+
+Adventure Comics \#442
+
+A terrorist group that hijacks a cargo ship full of radioactive material.
+
+New Venice
+
+Adventure Comics \#264
+
+Home of Aquaman and Mera, trashed by Ocean Master because Aquaman lived there.
+
+Niccol
+
+Aquaman \#13 (1962)
+
+A villain from the year 2098 who uses a thought-control ray on Mera.
+
+Nicodemus
+
+Aquaman \#8 (1991)
+
+Assassin who tries to kill Aquaman, using his "hour out of water" weakness.
+
+Nikkor
+
+Aquaman \#19 (1962)
+
+One of Mera's "friends", uses a potion to control Mera to conquer Atlantis. Apparently killed in the Dungeon Depths by a monster.
+
+Nilia
+
+Aquaman \#44 (1994)
+
+A dolphin friend of Aquaman.
+
+Noah, Captain
+
+Adventure Comics \#271
+
+A scientist who can extract gold from seawater, but causes storms when he does.
+
+No-Amun
+
+Atlantis Chronicles \#6
+
+Egyptian god, actually a descendant of the first Atlanteans to leave after the sinking of Atlantis. Shared his knowledge with Haumond.
+
+Norton, Shark
+
+Adventure Comics \#267
+
+An Aquaman villain who switches places with The Wizard, a Green Arrow villain.
+
+Noxden
+
+Aquaman \#55 (1962)
+
+An Atlantean politician who makes anti-Aquaman speeches and demands a democratically elected leader.
+
+Nuada Silverhand
+
+Aquaman \#1 (1986)
+
+King of Thierna Na Oge, and powerful enchantress. Friend of Aquaman.
+
+Nuliajuk
+
+Time and Time \#3
+
+Mother of Sea Beasts, not a friend to Aquaman.
+
+<span id="o">**O**</span>
+
+Ocean Master
+
+Aquaman \#29 (1962)
+
+Half brother of Aquaman, determined to become master and king of all the oceans. See also *Curry, Orm* and *Orm*.
+
+Oceanid
+
+Aquaman \#47 (1994)
+
+The other dimension where AJ and Mera were living after being saved from Thanatos' dimension by Atlan.
+
+Oceanus \[1\]
+
+Aquaman \#8 (1962)
+
+A water world, supposedly uninhabited, which Aquaman helps Phrygians secure water from.
+
+Oceanus \[2\]
+
+Aquaman \#18 (1962)
+
+A man from Mera's dimension who took away her powers and conquered Atlantis with her. When Mera defeats Oceanus, she becomes an honorary citizen and is allowed to marry Aquaman.
+
+Oconn
+
+Adventure Comics \#442
+
+Atlantean Councilman duped into supporting Karshon.
+
+O.G.R.E.
+
+Aquaman \#26 (1962)
+
+The Organization for General Revenge and Enslavement, an evil group of super-nasties who often battle Aquaman.
+
+Old One
+
+Aquaman \#10 (1994)
+
+A shark that attempted to warn Aquaman of the impending second takeover of Atlantis by The Shark.
+
+Orin \[1\]
+
+Atlantis Chronicles \#1
+
+King of Atlantis, scientist, father of Cora, husband of Narmea, brother of Shalako. Created the dome that saved Poseidonis, created a serum that allowed his people to live underwater.
+
+Orin \[2\]
+
+Atlantis Chronicles \#7
+
+See also *Aquaman*. Atlantean name of Aquaman, given to him by Atlan.
+
+Orm
+
+Aquaman \#29 (1962)
+
+See also *Ocean Master*. The other child Atlan tells Atlanna he will sire. Later known as Ocean Master. Aquaman's half-brother and nemesis.
+
+Oumland
+
+Aquaman \#1 (1991)
+
+A country that goes to war with Poseidonis, and attempts to annex Atlantis.
+
+<span id="p">**P**</span>
+
+Pairut, Omar
+
+DC Special Series \#1
+
+See *Sunburst*.
+
+Pakuul
+
+Aquaman Annual \#1
+
+A whale friend of Aquaman who saved him from Triton, killed by whalers as Artie Jr was being born.
+
+Pallais
+
+Atlantis Chronicles \#1
+
+Atlantean Sea Goddess.
+
+Palmer, Jean
+
+Action Comics \#530
+
+The Atom's wife.
+
+Palmer, Ray
+
+Action Comics \#530
+
+See *Atom*.
+
+Parademon 3g4
+
+Aquaman \#37 (1994)
+
+One of Darkseid's minions who sacrificed himself for Aquaman.
+
+Peli
+
+Aquaman \#11 (1991)
+
+A sea serpent that Aquaman accidently calls into New York while he sleeps.
+
+Percy, Doctor
+
+Aquaman \#9 (1991)
+
+Scientist working for Merrevale oil who kills sea life with a microbe that eats oil.
+
+Perkins, Neptune
+
+Aquaman \#23 (1994)
+
+See *Neptune Perkins*.
+
+Peters, Professor
+
+Detective Comics \#300
+
+An adventurer trying to study the Golden Idols of Idora.
+
+Peters, Roy
+
+Adventure Comics \#254
+
+See also Electric Man. An alias for Roy Pinto.
+
+Phrygia
+
+Aquaman \#8 (1962)
+
+Planet that was nearly destroyed by a rogue sun. Sent out an expedition led by Lemur to find water.
+
+Pilot
+
+Aquaman 1000000 (1994)
+
+Aquaman's tour guide to the 853rd century.
+
+Pine, Miss
+
+Adventure Comics \#278
+
+Aqualad's teacher on land for a short time.
+
+Pinto, Roy
+
+Adventure Comics \#254
+
+See also Electric Man. An escaped convict who poses as an aquarium owner specializing in electric eels.
+
+Pletus
+
+Aquaman \#1 (1989)
+
+King of Atlantis after Vulko's apparent death. Killed by jellyfish invaders.
+
+Polaris, Doctor
+
+Aquaman \#40 (1994)
+
+Villain who tries to take over Poseidonis and ends up battling Maxima.
+
+Polloy, Professor
+
+World's Finest Comics \#131
+
+A criminal scientist who creates a hard water ray.
+
+Pomoxis
+
+Aquaman \#3 (1962)
+
+Evil Atlantean who impersonated Aquaman, then later tries to take over the city with the help of Captain Clay.
+
+Popov, Yuri
+
+Aquaman \#1 (1988)
+
+Russian scientist involved in Vladimir Magus' experiments with mystic crystals.
+
+Porm
+
+Aquaman \#1 (1991)
+
+A dolphin friend of Aquaman's. Later retconned to be Aquaman's dolphin mother. Killed by Demon Gate.
+
+Porpy the Porpoise
+
+Aquaman \#3 (1962)
+
+One of Aquaman's fishy friends.
+
+Poseidon \[1\]
+
+Aquaman \#17 (1962)
+
+The Greek god, in Mera's dimension, who kidnaps Mera and is defeated by Aquaman.
+
+Poseidon \[2\]
+
+Adventure Comics \#476
+
+An android programmed with Tom Curry's memories who thinks he's the sea god.
+
+Poseidon \[3\]
+
+Aquaman Annual \#1
+
+The god of water, jealous of Aquaman's title of King of the Seas. Father of Triton.
+
+Poseidonis
+
+Atlantis Chronicles \#1
+
+An inland Atlantis city that survived the first sinkings, only to sink later when a meteorite hits.
+
+Power Girl
+
+Aquaman \#23 (1994)
+
+Grand-daughter of Arion, once thought she was Superman's cousin.
+
+Powers, Don
+
+Aquaman \#56 (1962)
+
+A Detriot super-hero called the Crusader who has poor eyesight. See *Crusader*.
+
+Proteus
+
+Aquaman \#17 (1962)
+
+Poseidon's court sorceror in Mera's dimension, creates time pods that allow Poseidon to kidnap Mera.
+
+Pyron
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+<span id="q">**Q**</span>
+
+Qeej
+
+Aquaman \#10 (1994)
+
+A dolphin friend of Dolphin.
+
+Queequeg
+
+Aquaman \#2 (1991)
+
+A totally nutso whaler dude gunning for Aquaman.
+
+Queen of Hy-Brasil
+
+Aquaman \#17 (1994)
+
+Queen of the city of Hy-Brasil who claims Aquaman as her mate. Later killed by her people.
+
+Quilp
+
+Aquaman \#10 (1962)
+
+One of Quirk's followers.
+
+Quink
+
+Aquaman \#6 (1962)
+
+Water Sprite. Quisp's brother. Has green hair.
+
+Quirk
+
+Aquaman \#6 (1962)
+
+Water Sprite. Criminal from Quisp's world. Has red hair.
+
+Quirp
+
+Aquaman \#6 (1962)
+
+Mispelling of Quirk.
+
+Quisp
+
+Aquaman \#1 (1962)
+
+Water Sprite, friend of Aquaman and Aqualad. Has green hair and likes to pull pranks on people.
+
+Qwsp
+
+JLA \#30
+
+5th Dimensional Imp that claimed to be Quisp, but was evil.
+
+<span id="r">**R**</span>
+
+Rader, Captain
+
+World's Finest Comics \#127
+
+A pirate who uses a submarine disguised as a fish to spy on Aquaman.
+
+Ragnar
+
+Aquaman \#38 (1962)
+
+Atlantean Lord who tries to frame Aquaman for the murder of Atlantean patrols.
+
+Raiden Industries
+
+Aquaman \#27 (1994)
+
+A Japanese Think-Tank organization that created Demon-Gate.
+
+Rajar
+
+Atlantis Chronicles \#1
+
+Advisor and childhood friend of Orin \[1\]. Murdered by savages thanks to Shalako's deceit.
+
+Ramses
+
+Atlantis Chronicles \#6
+
+Egyptian leader who spared Haumond's life.
+
+Rasmussen, Claudia
+
+Aquaman \#14 (1994)
+
+Soon-to-be-wed daughter of Officer Rasmussen, informed of her father's death by Major Disaster.
+
+Rasmussen, Officer
+
+Aquaman \#14 (1994)
+
+An airport guard killed by Major Disaster.
+
+Ray
+
+Aquaman \#4 (1994)
+
+The name of one of Captain Tanaka's dolphin hunters. Deceased.
+
+Rayner, Kyle
+
+Aquaman \#10 (1994)
+
+See also *Green Lantern*. Fellow hero that had to be prevented from killing sharks on a death-watch.
+
+Reefs, The
+
+Aquaman 1000000 (1994)
+
+A very powerful telepathic entity in the 853rd Century that helps Aquaman subdue the Kraken.
+
+Reeks, Peter
+
+More Fun \#100
+
+Childhood friend of Horace Nelson, who takes advantage of his former friend in an illegal whaling scheme.
+
+Regin
+
+Atlantis Chronicles \#4
+
+The Fourth Keeper of the Chronicles, son of Illya, later married Fiona.
+
+Rhombus
+
+Aquaman \#38 (1994)
+
+Villain who thinks he's Deep Blue's father.
+
+Richards, Professor
+
+Showcase \#31
+
+A scientist who invents a device that devolves and controls fish.
+
+Rivva
+
+Aquaman Annual \#4
+
+An Atlantean woman who killed her husband because he was so annoying. When ghosts came to Atlantis, her husband returned, and continued to haunt her.
+
+Robin
+
+Aquaman \#5 (1994)
+
+Inupiat who lived in the same village as Kako and Koryak.
+
+Rogers, Captain Jules
+
+Adventure Comics \#168
+
+Captain who tries to put Aquaman's friend Captain Cleary out of business. His ship is the S.S. Marlin.
+
+Ronal
+
+Atlantis Chronicles \#3
+
+Tritonian boy who helps save Bazil and Co during the Shark Hunt.
+
+Ropito Islands
+
+Aquaman \#10 (1962)
+
+Place where evil sprites led by Quirk try to start their own kingdom.
+
+Rovere
+
+Aquaman \#16 (1962)
+
+An alien shape-changer who disguises himself as Aquaman to avoid members of the gang he left.
+
+Russell, Stasy
+
+Aquaman \#38 (1994)
+
+One of the people who pitched the tourist idea to Aquaman and friends.
+
+<span id="s">**S**</span>
+
+Sargasso Sea
+
+World's Finest Comics \#262
+
+A limbo-world in which Atlena tried to pull Atlantis. Many wrecks, with the people who were on them, exist there.
+
+Scavenger
+
+Aquaman \#37 (1962)
+
+A technical genius who uses his science to retreive treasures on the ocean floor, no matter what the cost to others. Reformed in Aquaman \#13 (1991). His first name is Mort.
+
+Scylla
+
+Aquaman \#2 (1994)
+
+Charybdis' partner, who died when a bomb went off in her hands. Her death drove Charybdis mad. Aquaman never met the real Scylla.
+
+Sea Demon
+
+Detective Comics \#296
+
+A skin-diver who dresses up as a demon to scare islanders into giving him tribute.
+
+Sea Devils
+
+Aquaman \#9 (1991)
+
+A group of four environmentalists who get in trouble when they apparently blow up an oil rig. The members are: Biff Bailey, Dan Dorrance, Judy and Nickey.
+
+Sea Imp
+
+Aquaman \#20 (1962)
+
+See *Imp*.
+
+Sea Thief
+
+Justice League of America \#14
+
+A bandit paired up against Aquaman during a Justice League adventure.
+
+Sea Wolf
+
+Aquaman \#42 (1994)
+
+An Assassin werewaterbeast. He turns into a wolf in water, and is also undead and collects souls. When Aquaman kills it, he frees all the souls but the last victim. See also *Huff, Lawrence* and *Munson, Albert*.
+
+Seaquake
+
+Aquaman \#62 (1962)
+
+A robot.
+
+Seaville
+
+Detective Comics \#299
+
+Home of Captain Bean and Mabel, has a plaque honoring Aquaman.
+
+Selena
+
+World's Finest Comics \#133
+
+A girl who became a temporary Aqua-Girl in order to impress Merlon. See *Aquagirl \[2\]*.
+
+Serum X
+
+? Adventure Comics \#444
+
+A serum that can change air-breathing humans into water-breathers.
+
+Sett
+
+Adventure Comics \#451
+
+An Idylist.
+
+Shalako
+
+Atlantis Chronicles \#1
+
+Younger brother of Orin \[1\], spiritual leader of Poseidonis. Turned to the Dark Gods when Orin put up the dome. First king of Tritonis, killed by his people after cursing them with scaled legs (that turned to fins with the next generation).
+
+Shaligo
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+Shan
+
+Aquaman \#5 (1994)
+
+Inupiat who lived in the same village as Kako and Koryak.
+
+Shark \[1\]
+
+Adventure Comics \#267
+
+Nickname of one of Aquaman's foes. See *Norton, Shark*.
+
+Shark \[2\]
+
+Adventure Comics \#448
+
+A villain who took over Poseidonis at least twice.
+
+Shaxak
+
+Aquaman \#22 (1994)
+
+Hunter/Gatherer leader who introduces Ahk-Orrd.
+
+Shayera
+
+Atlantis Chronicles \#6
+
+The leader of the Idylists, devoted to peace. Leads them to the Hidden Valley and establishes a new home. Warned by Atlan to "Beware of babes with purple eyes".
+
+Shayeris
+
+?
+
+Crastinus, The Hidden Valley. Home of the Idylists. Homeland of Garth.
+
+Shell-Back Man
+
+Aquaman \#27 (1962)
+
+An alien from Saturn captured by Xen for his intergalactic aquarium.
+
+Sher'Hedeen
+
+Aquaman \#5 (1994)
+
+Shark people, Letifos' tribe.
+
+Shinobi, Doctor
+
+Aquaman \#4 (1994)
+
+A researcher studying dolphins, who is accepted by the dolphins and "buried" by them when he dies.
+
+Simpson, Professor R K
+
+Atlantis Chronicles \#1
+
+"Discoverer" of the Atlantis Chronicles, writer of several essays at the end of the issues.
+
+Sinker, J Oswald
+
+Adventure Comics \#240
+
+A children's book writer living on Christmas Island. Gets Aquaman to help him write an alphabet book based on the sea.
+
+Sinquo
+
+Aquaman \#23 (1962)
+
+A shape-changing exile from Atlantis who gives Aquaman a serum that will save Mera's life.
+
+Sirene
+
+Aquaman \#16 (1962)
+
+An alien shape-changer helping to hide her brother Rovere from a gang he quit.
+
+Slade, Captain
+
+Aquaman \#6 (1962)
+
+Pirate who fooled Quink into assisting him.
+
+Slade, Jim
+
+Adventure Comics \#226
+
+Seaman of the Year, who apparently makes Aquaman jealous.
+
+Slig
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+Slizzath
+
+Tempest \#2
+
+Garth's evil Uncle, who became incredibly powerful after he'd stolen Garth's birthright.
+
+Slud-Jak
+
+That Dirty Beach
+
+A reptilian sea creature with tentacles instead of legs who is so enraged at surfacer pollution that he sends sharks to eat them.
+
+Snark, Enos
+
+Adventure Comics \#284
+
+A criminal scientist who created a desalinization machine to protect himself from Aquaman's finny friends.
+
+Solon
+
+Atlantis Chronicles \#6
+
+Greek traveler and historian, visited Egypt and met Haumond.
+
+S'ona
+
+Aquaman \#3 (1991)
+
+Lady of Tritonis, wife of Lord Iqula.
+
+Sorcerors
+
+Aquaman \#40 (1962)
+
+Inhabitants of an underwater medieval-like city, whose queen looks exactly like Mera.
+
+Sorel, Doctor
+
+Aquaman \#8 (1994)
+
+Atlantean Doctor.
+
+Space Dolphins
+
+Aquaman \#4 (1994)
+
+Flying, space-faring dolphin friends of Lobo who sometimes visit Earth. During one visit with Aquaman's dolphin mother Porm, a space dolphin is killed.
+
+Sponsler, "Steal-A-Million"
+
+More Fun \#98
+
+A high-class thief who helps Phineas Blodgett so he can launder gold in Blodgett's factory.
+
+Spought
+
+Aquaman \#22 (1994)
+
+The guardian of Basilia. Lives in Thierna Na Oge after Basilia is destroyed. Saves a part of the magic of Thierna Na Oge from Cerne.
+
+Spreng
+
+Aquaman \#2 (1986)
+
+A monster magically controlled by Bres until Aquaman frees it with his telepathy.
+
+Staci
+
+Aquaman \#19 (1994)
+
+Minion of Ocean Master who is burned trying to help him.
+
+Stamar
+
+Aquaman \#7 (1962)
+
+Leader in Atlantis during Aquaman's pre-King days.
+
+Starbuck, Doctor
+
+Aquaman \#28 (1962)
+
+Evil scientist who takes over Atlantis and starts a war with the surface world.
+
+Starene
+
+Aquaman \#20 (1962)
+
+Daughter of Kaltor, makes Mera jealous.
+
+Starra
+
+Aquaman \#12 (1962)
+
+A rebel against Tiros on the planet Sidius.
+
+Starro
+
+Brave and the Bold \#28
+
+A Justice League villain who occassionally battled Aquaman.
+
+Stavros Markos
+
+Adventure Comics \#464
+
+See *Markos, Stavros*.
+
+Stearn
+
+Atlantis Chronicles \#3
+
+Chief Magistrate of Tritonis before the re-emergence of Dardanus.
+
+Stellor
+
+Aquaman \#16 (1962)
+
+A gang leader looking for Rovere to punish him for leaving the gang.
+
+Stillar, Captain
+
+Adventure Comics \#167
+
+Pirate who gets more than he bargained for when he tries to hold Aquaman's friends hostage.
+
+Stom
+
+Aquaman \#2 (1991)
+
+Oumland leader who actually listens to Aquaman.
+
+Storm
+
+?
+
+Aquaman's seahorse.
+
+Strom, Admiral
+
+Aquaman \#1 (1994)
+
+A Navy commander who calls on Aquaman to find a submarine leaking radiation, and knows things about Aquaman that he shouldn't. He's eventually killed by Tiamat.
+
+Styz
+
+Aquaman \#12 (1962)
+
+An alien gladiator who can boil or freeze the water around him.
+
+Sunburst
+
+DC Special Series \#1
+
+An Iranian who wants the return of the Persian Empire, and uses the Sun Stone to become a supervillain.
+
+Superboy
+
+Aquaman \#3 (1994)
+
+Hawaii-based superhero who tried to prevent Aquaman from reaching Admiral Strom.
+
+Superman
+
+Aquaman Annual \#1
+
+Fellow Justice League member. Met during a storm.
+
+Supreme One
+
+Aquaman \#26 (1962)
+
+O.G.R.E.'s primary agent on Operation Lost Island, actually the hotel manager.
+
+Suula
+
+Atlantis Chronicles \#1
+
+Atlantean Sky Goddess.
+
+Suvian
+
+Aquaman \#4 (1962)
+
+Alien race. Hostile Suvians tried to use a stone robot to destroy a town.
+
+Swamp Thing
+
+Aquaman \#32 (1994)
+
+The Earth Elemental, able to use The Green. Stepped in when Aquaman lost control over his powers and helped guide him to a solution.
+
+Syan
+
+Adventure Comics \#452
+
+Missing son of Mcaan.
+
+Sykes, Captain
+
+Aquaman \#2 (1962)
+
+Pirate captain of the SS Seahawk. Captured the Vulcan in order to trick Aquaman into finding a genie for him.
+
+Syx
+
+Aquaman \#8 (1962)
+
+An alien from Phrygia, who Aquaman helps.
+
+<span id="t">**T**</span>
+
+Taggert
+
+Aquaman \#19 (1962)
+
+Unethical showman who enslaves Atlanteans with Nikkor's help.
+
+Tall Man
+
+Aquaman \#31 (1962)
+
+Aquaman's contact in American intelligence. Has a twin brother named Krako.
+
+Tamerkhan
+
+Aquaman \#25 (1962)
+
+A scientist for Genghis Khan who invented a formula to keep himself and his companions alive over the centuries.
+
+Tanaka, Captain Kimon
+
+Aquaman \#4 (1994)
+
+A dolphin hunter who sees a flying dolphin and takes Porm to Doctor Shinobi. Is nearly killed by Lobo, and then left to die by Aquaman. See also *Demon Gate*.
+
+Tanaka, Doctor
+
+Aquaman \#27 (1994)
+
+Brother of Kimon Tanaka, works at Raiden Industries. Turned his brother into Demon Gate.
+
+Tara
+
+Aquaman \#38 (1994)
+
+Atlantean Citizen who adapts well to the changes the city is going through.
+
+Tempest \[1\]
+
+Aquaman \#20 (1994)
+
+See also *Garth*. After his training by Atlan, Garth took the name Tempest to better reflect his sorcerous abilities, and wears a version of the flag of Shayeris, his homeland.
+
+Tempest \[2\]
+
+Aquaman One Million (1994)
+
+A woman with weather control living in the 853rd century.
+
+Thanatos
+
+Aquaman \#54 (1962)
+
+An evil being that uses fantasy to control and destroy peoples' minds. Kidnapped Mera and drove her insane. Killed by Major Disaster in Underworld Unleashed.
+
+Thar
+
+Tempest \#3
+
+King of Shayeris, killed for preparing to fight Slizzath.
+
+Thedir Mon
+
+Showcase '96 \#1
+
+A giant robot in the Grotto that Garth has to battle to conquer his fears.
+
+Thesily
+
+The Legend of Aquaman
+
+King of Atlantis until Aquaman is discovered to be the rightful heir. Attempts to have Aquaman assassinated, dies in an earthquake.
+
+Thierna Na Oge
+
+Aquaman \#1 (1986)
+
+A city of magic, ruled by Nuada Silverhand. Destroyed by the Millenium Giants, rebuilt using magic preserved by Spought.
+
+Thoran
+
+Adventure Comics \#451
+
+An Idylist who knows Garth.
+
+Thorne
+
+Atlantis Chronicles \#2
+
+An Atlantean scientist who helps discover the serum that allows underwater breathing.
+
+Tiamat
+
+Aquaman \#15 (1994)
+
+Alien lizard that tries to kill Aquaman, and later busts up Washington DC. An Anunnake.
+
+Time Decelerator
+
+Aquaman \#37 (1962)
+
+A treasure that the Scavenger looks for, only to have it de-age him to nothing.
+
+Timmorn
+
+Aquaman \#44 (1994)
+
+Childhood monster friend of Aquaman's who accidently kills humans. Aquaman kills him to prevent more deaths. Timmorn's son becomes an instrument of Triton's revenge.
+
+Tiros
+
+Aquaman \#12 (1962)
+
+A tyrant on the planet Sidius who tries to keep the population under control with gladitorial games.
+
+Tlapallan
+
+Aquaman \#4 (1986)
+
+City that contains one of the twelve mystic crystals stolen by Ocean Master.
+
+Tony
+
+Aquaman \#13 (1991)
+
+A child with AIDS who goes on a quest to find his hero, Aquaman.
+
+Topo
+
+?
+
+Aquaman's loyal octopus friend, nearly strangled Arthur Jr while protecting him, injured by the Sea Wolf.
+
+Torpedo-Man
+
+Aquaman \#36 (1962)
+
+A villain who steals the Gyro-Moleculizer to rescue a trapped alien.
+
+Tourists
+
+Aquaman \#38 (1994)
+
+People who flocked into Poseidonis during the short time it was open to the public.
+
+Toxin
+
+Aquaman \#32 (1994)
+
+A terrorist making demands in Star Bay who is dealt with by Aquaman and Swamp Thing.
+
+Toxxin
+
+Adventure Comics \#445
+
+Leader of the peaceful orange-skinned natives that lived near the Aquacave. Forced Aquaman to fight a plant-creature that was protecting the natives.
+
+Tracy, Mr.
+
+Adventure Comics \#278
+
+The principal of Aqualad's school.
+
+Trevis
+
+Atlantis Chronicles \#7
+
+Called "The Weak". Last True King of Atlantis. Killed himself when his wife had a blond child that was not his.
+
+Trino
+
+Showcase \#30
+
+An amphibious alien who enslaves Atlantis.
+
+Triton
+
+Aquaman Annual \#1
+
+Son of Poseidon, hates Aquaman. Sent Aquaman to Hades after killing Poseidon. Ended up dead by Poseidon's hand.
+
+Tritonis
+
+Atlantis Chronicles \#2
+
+City where Shalako's followers went after leaving Poseidonis. Cursed by Shalako, they eventually have fins instead of legs.
+
+Trok
+
+Aquaman \#6 (1994)
+
+Member of the Deep Six.
+
+Troy, Captain
+
+Adventure Comics \#252
+
+Another pirate that Aquaman defeats.
+
+Tryton, Doctor
+
+Aquaman \#32 (1962)
+
+The man who built the dome over Atlantis by turning himself into a giant. He hoped to die by being buried, as the force that turned him giant would later turn him evil, but he breaks out and battles Aquaman.
+
+Tsunami
+
+Aquaman \#23 (1994)
+
+Wartime hero from Japan, lover of Neptune Perkins.
+
+Tufo
+
+Aquaman \#11 (1994)
+
+Atlantean Citizen.
+
+Tula
+
+Aquaman \#33 (1962)
+
+Lover of Garth (aka Aqualad). Known as Aquagirl. Killed during the Crisis on Infinite Earths by Chemo. Reanimated by Garth's evil uncle to torture Garth.
+
+Tusky the Walrus
+
+Aquaman \#36 (1962)
+
+Aqualad's pet walrus, tends to get into trouble. Leaves his wife and becomes a theme park attraction known as Wally Walrus.
+
+Tumol
+
+Aquaman \#18 (1962)
+
+Atlantean councilman who convinces Aquaman to be King after Juvor dies.
+
+Typhoon
+
+Aquaman \#26 (1962)
+
+O.G.R.E. agent who works with the Huntress on Operation Lost Island. Later helps Aquaman.
+
+<span id="u">**U**</span>
+
+U.F.P.
+
+Adventure Comics \#463
+
+See *Universal Food Products*.
+
+Un-Thing
+
+Aquaman \#24 (1962)
+
+A sexist man who is invisible underwater.
+
+Universal Food Products
+
+Adventure Comics \#461
+
+A company that goes into partnership with Atlantis, but actually is destroying Atlantis in the process.
+
+Uri
+
+Atlantis Chronicles \#7
+
+Younger brother of Trevis. Finds a container of toxic waste which falls on him, and suffocates him.
+
+Uritrium
+
+Aquaman \#39 (1962)
+
+A substance that kills Venusians like Ka'arl and Aliena.
+
+<span id="v">**V**</span>
+
+Varn, Doctor
+
+Adventure Comics \#251
+
+A criminal scientist from 6958 A.D. who tries to steal Zed-3's time travel device.
+
+Vibrus
+
+Action Comics \#530
+
+A sea animal on Vortuma that gives off high levels of vibration energy when attacked.
+
+Viro
+
+Atlantis Chronicles \#3
+
+One of Bazil's friends, is saved by Ronal and Dan during the Shark Hunt.
+
+Vlana
+
+Action Comics \#536
+
+A villain who takes over Mera's body. Was queen in Mera's dimension until Mera returned.
+
+Vortuma
+
+Action Comics \#527
+
+A planet that has sea-dwelling Hexapi fighting Land-Masters.
+
+Vulko
+
+Aquaman \#35 (1962)
+
+The best scientist in Atlantis during the reign of Trevis, became king when Aquaman abdicated the throne after the Karshon debacle.
+
+<span id="w">**W**</span>
+
+Wake, Vic
+
+Adventure Comics \#263
+
+Former treasurer of the island of Comstock, becomes governor with Aquaman's help.
+
+Wally Walrus
+
+Aquaman Annual \#3
+
+Tusky's stage name.
+
+Warnn, Brother
+
+Aquaman \#50 (1962)
+
+Leader of the Microscopic People.
+
+Waterman
+
+Aquaman \#26 (1962)
+
+Undercover name of Aquaman and Mera when they are searching for O.G.R.E.
+
+Weather Wizard
+
+Adventure Comics \#450
+
+Flash villain who has a run-in with Aquaman in the Bermuda Triangle. Injures Mera.
+
+Weisbogg
+
+Adventure Comics \#436
+
+Created a robot for Aquaman to take his place during boring state functions, but it was actually part of a plan to destroy Atlantis with a robot Bugala for Black Manta.
+
+Welky, Wally
+
+World's Finest Comics \#139
+
+Head of the Daredevils' Club, caught trying to murder his cousin by Aquaman.
+
+Wilo the Wizard
+
+Showcase \#32
+
+An ancient wizard who could transform himself into a powerful sea creature.
+
+Wizard, The
+
+Adventure Comics \#267
+
+A Green Arrow villain who switches places with Shark Norton. Real name is Horace Kates.
+
+Wonder Woman
+
+Aquaman Annual \#1
+
+Princess Diana, fellow Justice League member. Aquaman met her when Triton tried to take advantage of her.
+
+Wylie
+
+Aquaman \#9 (1991)
+
+Executive at Merrevale oil who orders Aquaman killed.
+
+<span id="x">**X**</span>
+
+Xebel \[1\]
+
+Aquaman \#11 (1962)
+
+Mera's Chief Scientist in her own dimension. Creates the dimensional gate that allows Mera into Aquaman's world.
+
+Xebel \[2\]
+
+Action Comics \#539
+
+The name given to Mera's dimension.
+
+Xen
+
+Aquaman \#27 (1962)
+
+An alien who tries to capture Aquaman and Mera for his intergalactic aquarium.
+
+Xeron, Professor
+
+Aquaman \#19 (1962)
+
+A scientist from Mera's dimension who fixes the dimensional gateway.
+
+Xuvia
+
+Aquaman \#12 (1962)
+
+An alien gladiator who can grow scales over his entire body to protect himself.
+
+<span id="y">**Y**</span>
+
+Yara
+
+Atlantis Chronicles \#7
+
+Poseidonian child. Finds a container of toxic waste with Uri.
+
+<span id="z">**Z**</span>
+
+Zancol
+
+Aquaman \#41 (1962)
+
+A wise Atlantean scholar.
+
+Zed-3
+
+Adventure Comics \#251
+
+A scientist in the year 6958 A.D. who has a time travel machine.
+
+Zeus
+
+Aquaman \#17 (1962)
+
+King of the Greek gods in Mera's dimension. Gives Aquaman the victory over Poseidon even though Aquaman didn't follow the rules.
+
+<span id="places"></span>
+
+# Places in Aquaman
+
+------------------------------------------------------------------------
+
+This section is where I'm collecting information about places that are a part of Aquaman's world. Not all of these are crucial to understanding Aquaman.
+
+Place Name
+
+Description of Place/People who live there
+
+Alpha Colony
+
+A colony established by air breathers but destroyed by Mongo.
+
+Aquacave
+
+Aquaman's home/refuge. Contains all his belongings.
+
+Atlantis
+
+The continent (now underwater) of Atlantis. Contained the cities of Poseidonis and Tritonis, among others.
+
+Basilia
+
+The floating city, destroyed by the Hunter/Gatherers during the invasion. The guardian, Spought, went to live in Thierna Na Oge.
+
+Cave of Death
+
+A dangerous cave that contains a flesh-eating whirlpool.
+
+City of the Golden Gate
+
+Ruins.
+
+Crastinus
+
+See *Shayeris*
+
+Depths, The
+
+A dangerous underwater tunnel inhabited by dangerous fish and people living symbiotically with monsters. Shortcut to Maarzon Colony from Poseidonis.
+
+Dreaming City of Himalayas
+
+Home to Atlanteans who left before the water-breathing serum was perfected. Destroyed by Ocean Master.
+
+Dungeon Depths
+
+An underwater prison/pit from which nothing can escape.
+
+Eldfur colony
+
+Home of the Eldfur, who are dying off from regular attacks by the Bugala.
+
+Forgotten Place
+
+Home of the alien Hammuri and his robotic Demonoids.
+
+Grotto, The
+
+An other-dimension where Garth was trained by Atlan.
+
+Gulf of Terrors
+
+Home of Sirens. Aquaman must pass through this place to save Mera and Artie Jr.
+
+Hidden Valley
+
+Location of Shayeris (also known as Crastinus)
+
+Horrka colony
+
+Land of the Horrkas, underwater ape-like creatures.
+
+Hy-Brasil
+
+Home to albino manta-like people.
+
+Maarzon colony
+
+Land of the Maarzons, a savage tribe of underwater peoples.
+
+Mercy Reef
+
+The place where Aquaman was left to die. Aquaman buried Artie Jr there. The reef was destroyed by Black Manta.
+
+Necrus
+
+An ancient city of evil that appears at intervals on Earth.
+
+New Venice
+
+Surface home of Aquaman and Mera for a time, trashed by Ocean Master because Aquaman lived there.
+
+Oceanid
+
+Another dimension, into which Mera and AJ went after escaping the dark dimension with Aquaman.
+
+Oumland
+
+A country that declares war on Poseidonis and attempts to annex Atlantis.
+
+Poseidonis
+
+Aquaman's ancestral home.
+
+Ropito Islands
+
+Place where evil sprites led by Quirk attempt to start a colony in Aquaman's world.
+
+Sargasso Sea
+
+A limbo-world in which Atlena tried to pull Atlantis. Many wrecks, with the people who were on them, exist there.
+
+Shayeris
+
+Home of the Idylists, birthplace of Garth.
+
+Thierna Na Oge
+
+Home of the magical people led by Nuada Silverhand. Destroyed by a Millenium Giant.
+
+Tlapallan
+
+City that contained one of the twelve mystic crystals that Ocean Master was trying to steal.
+
+Toxxin's Village
+
+Home of people terrorized by the Krakor, which uses them as bait to attract sharks to eat.
+
+Tritonis
+
+Home of the Mer-People, founded by Shalako.

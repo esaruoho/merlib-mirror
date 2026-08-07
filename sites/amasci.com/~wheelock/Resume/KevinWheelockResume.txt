@@ -1,0 +1,91 @@
+Kevin A. Wheelock 
+Bellevue, WA
+(206) 664-1064  
+kawheelock@excite.com
+ 
+*Software applications developer with experience in scientific programming and 
+computational physics on multiple platforms. 
+*Experienced software tester using wide variety of test techniques.
+*Extensive knowledge of operating systems, operating environments, and applications. 
+*Excellent verbal and written communication skills. 
+*Exceptional planning and organizational skills. 
+ 
+Skills---------------------------------------------
+Programming: C, Java , C++;  assembly language, Microsoft Visual Basic, FORTRAN, 
+Pascal, and BASIC
+Numerical Methods: Ordinary differential equations; linear regression and data modeling; 
+FFT and spectral analysis; boundary-value problems; and turbulence and chaos in 
+dynamical systems
+Testing: Functionality, scenario, usability, localization, load, stress, performance, and 
+hardware and software compatibility
+Systems: Linux/UNIX, Windows 2000/NT, Windows 9x, Windows 3.1x, OS/2, DOS 
+Hardware: PC setup, upgrades, hardware installation, troubleshooting, technical support; 
+Macintosh installation and troubleshooting
+ 
+Work Experience-----------------------------------------
+Consulting Software Engineer, Freelance, Seattle, Washington, 1996-present
+*Manage development of data analysis software and internal company website for Trans 
+Energy Research Associates.
+*Write many programs that numerically solve and analyze physical systems,  including 
+program that performs linear regression on petroleum distillation products and then 
+calculates expected yields in other temperature ranges.
+*Provide PC technical support to small businesses and individuals.
+*Developed data interface program for the Energy Information Agency at the US 
+Department of Energy to manage massive data files and convert text-based annual 
+reports to Microsoft Excel spreadsheets and an MS Access database that generate 
+appropriate reports. Program simplified use of petroleum predictor linear optimization 
+model.
+
+Senior Test Lead, Veritest, Bellevue, Washington, 1998-2001 
+*Acted as primary company resource for Linux testing, Windows network testing, and 
+heterogeneous networking testing.
+*Managed team of up to six Test Engineers. Provided technical support, mentoring, and 
+leadership. Managed personnel issues. Trained new test leads; mentored experienced leads 
+and test engineers.
+*Worked with and reported to clients such as Houghton Mifflin, Addison Wesley, Bedford-St. Martin's, Corel Software, Macmillan, and Wadsworth. Support efforts to bid on new 
+projects.
+*Oversaw (and usually led) all education testing projects.
+*Wrote and executed test plans. Executed test scripts.
+*Led 18-month project resulting in demonstration to major client that a product could not 
+be released without serious repercussions.
+*Directed Y2K review and testing of all Corel products.
+*Promoted from part-time Test Engineer to Senior Test Lead in less than two years.
+
+Materials Test Technician, intec Inc., Bothell, Washington, 1996-1998 
+*Performed mechanical fatigue and thermal testing, ultrasonic scanning, and microscopic 
+visual inspections.
+*Clients ranged from K2 Sports to Boeing Company.
+*Test technician on collaborative project among Boeing, NASA, and intec for the High-
+Speed Civil Transport Project to determine best materials to use.
+
+Emergency Medical Technician, King County, Washington, 1994-1996 
+
+Chemical Lab Technician, Resolex Corp., Radium Springs, New Mexico, 1992-1993 
+*Collected and analyzed data on the amounts of various contaminants in oleoresins 
+(primarily benzene and single-bond hydrocarbons) as a function of operating 
+temperature of the refining process and other factors.  
+*Performed spectroscopic and wet chemical analyses of oleoresins and organic powders.
+
+Teaching Experience------------------------------------
+Instructor, Physics/Astronomy, Bellevue Community College, Bellevue, Washington, 1999-
+present
+*Teach physics and astronomy courses for all ranges of students and majors (art to 
+engineering).
+
+Instructor, Math/Sciences, Olympic College, Bremerton, Washington, 1993-1994 
+*Designed and taught elementary numerical methods in FORTRAN, the first scientific 
+programming course taught at Olympic College in Bremerton. Trained students to 
+install and use FORTRAN compiler and oversaw installation.
+
+Instructor, Physics, New Mexico State University, Las Cruces, New Mexico, 1989-1991 
+*Helped design and construct physics lab experiments for the NMSU Physics 
+Department that utilize PCs for data collection and analysis. Helped install two dozen 
+PCs used in the new experiments, including installing and troubleshooting the Digital to 
+Analog cards and specialized sensors used for data collection. Rewrote several existing 
+student experiments to maximize value of the new equipment.
+*Introduced interactive teaching methods – which permitted students to immediately 
+apply topics covered in class – to standard physics courses.
+
+Education---------------------------------------------
+MS Physics, New Mexico State University, Las Cruces, New Mexico, 1992 
+BS Physics, California State Polytechnic University, Pomona, California, 1989

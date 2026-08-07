@@ -1,0 +1,80 @@
+---
+title: "About This Website"
+source_domain: amasci.com
+source_path: ~roger/about/index.html
+order: 7341
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T17:14:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# About This Website
+
+*Source page: `~roger/about/index.html`*
+
+<div class="c1">
+
+##### This page was last edited on: Wed Jan 22 02:02:50 PST 2003
+
+</div>
+
+\
+
+### My GnuPGP (GNU PGP) Public Key
+
+This is used to verify the  signature and integrity  of my public e-mail and other materials transmitted thru the internet.  Since there is always the possibility, on public forums, of media being inadvertently changed or forged, PGP usage is recommended preserve integrity.  Grab GnuPG v1.0.4 (GNU/Linux).\
+For more info, see <http://www.gnupg.org/>  (WIN32 Binaries are also available).
+
+My public key as of 09/13/2001, in armor format - [gnupgkey-roger.20020122.asc](../files/gnupgkey-roger.20020122.asc)\
+If you use Gnupg or PGP, please remember to 'sign keys' for those of whom that you can authenticate.
+
+\
+
+**Methods of contact:**
+
+**My Email**  roger\<at\>eskimo.com
+
+**My Jabber**  uid = roger-x (rarely)
+
+**My ICQ**  uin# = 21252173 (I mainly use this one)  [Or contact me thru ICQ's Web Page](http://web.icq.com/wwp?Uin=21252173)
+
+**My AOL**  uid = RogeryyX1 (deprecated - the above ICQ "21252173" is now considered AOL)
+
+**My MSN**  uid = roger_x1 at passport.com (sometimes)
+
+**My Yahoo**  uid = rogeryx1 (currently broken)
+
+**IRC Server** = irc.freenode.net Channels = \#mandrake \#kernel-panic (if I have the time to sit around on the internet). Just fire up your favorite irc client.
+
+**Mobile Number** = 619 504 8201 -- I'm currently in San Diego, California
+
+\
+
+### Tools used to maintain this site:
+
+<div class="c2">
+
+This site is maintained using Linux Mandrake 9.0, Mozilla and the  VIM Editor. I also try to use tidy and linkchecker for maintenance. To upload the site, I use sitecopy.
+
+[Eskimo.com](http://www.eskimo.com) is an ISP which provides 56k, dual 56k and ISDN access. With your account, you are also provided a shell account (depending on thier current marketing). The cost/space ratio of the webspace that eskimo.com provides is also well set. If you're looking for a dialup isp provider, consider eskimo.com!
+
+</div>
+
+\
+\
+
+<div class="c2">
+
+<img src="../images/roger.jpg" width="340" height="340" alt="In Tijuana, Mexico" />
+
+</div>
+
+<div class="c2">
+
+<img src="../images/edc_018.gif" width="32" height="32" />
+
+</div>
+
+\

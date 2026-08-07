@@ -1,0 +1,67 @@
+Cascading Style Sheets Overview 
+
+ Cascading Style Sheets Overview 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Style Sheet FAQ |
+ CSS1 Property Index 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Authors: Bert Bos, Ian Jacobs, H&aring;kon Lie, Chris Lilley, et al.
+ Specifications 
+ CSS 1 
+ CSS 2 
+ CSS 2.1 
+ CSS 3 and beyond 
+ Timelines: 
+ - Earliest CSS drafts available - May, 1995
+ - CSS1 first W3C Working Draft - November, 1995
+ - CSS1 becomes W3C recommendation - December 17, 1996
+ - First public working draft of CSS2 released - November 1997
+ - CSS2 becomes W3C proposed recommendation - March 1998
+ - CSS2 becomes W3C recommendation - May 1998
+ - W3C releases Note "List of suggested extensions to CSS" - December 1998
+ - First CSS 2.1 draft released - August 2002
+
+ What Are Cascading Style Sheets? 
+
+ &#160;&#160;&#160;&#160;&#160;If you have not heard the buzz about Style
+ Sheets in HTML yet, you will soon. 
+ &#160;&#160;&#160;&#160;&#160;Style Sheets are a simple yet powerful method of
+ allowing attachment of rendering information to HTML documents. The language
+ syntax for specifying Style Sheet information is quite different than HTML,
+ so significant explanation will be required. Matters are made difficult for
+ authors due to the
+ official CSS1 specification from
+ the W3C not being completely supported by the browsers that are attempting to implement
+ this functionality. 
+ &#160;&#160;&#160;&#160;&#160;HTML (a derivative of SGML) was designed primarily
+ as a content-based mark up language. The past few years have seen the introduction
+ of many new Physical Formatting and other elements/attributes by browser vendors which has
+ muddied the intention of HTML. One of the main reasons for Style Sheets is to stop the
+ creation of new HTML Physical Formatting elements
+ (like FONT ) by browser vendors that specify
+ style information.
+
+ Advantages of Style Sheets 
+
+ Increases download speed (using CSS syntax instead of images or sound files)
+ Allows for rendering control on systems other than paged screen
+ Properties are specified using common desktop publishing terminology
+ Easy to author and read
+ Produces nicer HTML markup that is more flexible and maintainable
+ Easy transition from HTML extensions
+ Many new visual control features
+ Easy extension for future capabilities
+
+ Boring Copyright Stuff....

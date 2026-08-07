@@ -1,0 +1,51 @@
+C.M. Connelly: Diziet 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Software 
+ | 
+
+ Weblog 
+ | 
+
+ Standards 
+ | 
+
+ Hardware 
+ | 
+
+ Me 
+ | 
+
+ Comments 
+ | 
+
+ Badges 
+
+ Diziet 
+
+ My old and much loved computer was diziet , a PowerComputing
+PowerCenter 132 . That's a Macintosh clone (from the brief reign
+of Mac clones) with a 132 MHz PowerPC 604e processor. Diziet has
+300&#160;MB of RAM, and a variety of hard drives, one of which holds
+my primary operating system, Debian GNU/Linux . I also have a cool
+monitor, the Portrait
+Display Labs Pivot 1700 , whose coolest feature&#8212;pivoting between
+landscape and portrait mode&#8212;I can't actually use under Linux. 
+
+ Diziet has now been replaced by fal . Even though fal
+is a lot more machine, I still miss diziet. 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 10:03 AM PST, Wednesday, February 12, 2003; last rendered at 
+ 10:03 AM PST, Wednesday, February 12, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

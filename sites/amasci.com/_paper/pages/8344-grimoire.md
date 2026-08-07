@@ -1,0 +1,53 @@
+---
+title: "grimoire"
+source_domain: amasci.com
+source_path: ~sonata/grimoire.html
+order: 8344
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# grimoire
+
+*Source page: `~sonata/grimoire.html`*
+
+~ grimoire ~
+
+\
+
+hands and hours and eyes
+
+\
+
+Vanity, all is vanity.
+
+A Goth sees the world as empty but does not despise the emptiness; for the world and all its imaginary creatures are her vessels, which she fills with longing and pure love. She only despises those the hateful who deny gentleness. She only despises the vulgar who deny grace. She only despises the moronic who deny instruction. In despising, she will leave only so she might protect herself from evil influences, but she will recall to mind that they're imaginary and endless, and she is less, for she will die and become as dust.
+
+Sex is not the aim of the Gothic Scene. Sensuality may be beautiful, sexuality is of the bodily thirsts and we might occasion to sup thus, but the Gothic Scene has the aim of romancing the endless night. Make love knowing with every touch that you will die, although there are prayers that consume the soul in their substance. The English Sorcerer Aleister Crowley knew this to be true and gave much good advice on the subject of sex magick. Regrettably he was an abhorred poet and a worse human, being indulgently racist and cruel beyond necessity although all of his era, or almost all, were racists and had the proclivity to misuse whatever power they could manage to grab, there being few paradigmal alternatives. At least he was better than that mediocre engineer of
+
+Androgyny is important, when it can be nurtured in an individual. Certainly, gender typing is not a part of the Gothic Scene, and should never be, as gender implies a violence of sorts; violence turned inward for those who designate themselves as female, and violence turned outward for the ones who classify themselves as male. Death Rock may just have been influenced by those transvestites who styled themselves as Death Queens, which was around, albeit rare, in England's underground gay clubs around the time Punk Rock was spreading wide. Thus the black eyeliner and the black lipstick, the dresses on men, and the white face paint, all of which might be said to emulate the style of Death Queens. Also, it was to emulate vampires and ghosts. As has been said before, much of the history Ours is secreted to individual experience. Even Lipstick Traces, the prolonged and careful history of Punk and New Wave is subject to the subjective. It is widespread knowledge that Bauhaus and Christian Death played the same clubs as punk bands, but everyone small played the same clubs at the time, the owners allowing the diversity to exist. People either got along or didn't; it was not as much a soup or stew even as people might wish it had been. Skins and Punks may have sat in the same room for awhile, but at other times, there were conflicts.
+
+O actually, the difference between Punk and Goth is simple.
+
+I'll stick my neck out and attempt to describe (but not define) Punk, having known Punks since I was a kid. Punk is a confrontation of the hypocrisies and social rules that typify the gentry through anarchic personal expression and those things Punk. Many another person who is not Punk might do the same, but they would not be Punk if they aren't Punk; it is the lifestyle that is Punk, not simply the word "punk rock" nor the clothing by itself, not only the lyrics nor just the style, not even the word Anarchy bandied about without the other articles without which an enemy of the state might be considered Punk for all his intentions of social renovation through disorder, no not one of these things but all these things, all of them and more. That's the closest one can approach the damned thing from the outside, even with love for it; and Gutter Punks are godly. I got drunk with one once and we staggered around Harvard Square shouting out our love for Woody Guthrie who is neither Goth nor Punk but a nice guy. September lets his hair down sometimes but does not allow such things to destroy his primary love.
+
+I've known quite a few Goths having been one myself for a decade. Goth is a drama of the self, a figurative theatre say, of an aesthetic the frontiers of which are abstract but real enough to any who participates within the aesthetic as a member rather than as a dabbler or a dilettante. Similitude between Goths are experienced in two separate ways, by the outsider and the insider. Just as the more complicated of philosophies and crafts are encountered as a product among many similar products by the outsider, so must Goth seem as a game without cost to those disaffected of its romance. To those who work and study the arts and sciences with the intensity of a lover or a nurturing parent, so as to those goths intent upon the Scene to exclusion of mundane affectations, the object of passions is subject to only the most astute observations and the most cautious and artful of touches.
+
+Then again, I have been destitute of more than weal; health is lacking and so is the capacity for rational thought. To answer all indignant comments and replies to my initial statement redux: the Alternative and the Gothic communities are separate entities entirely. It's no mistake that I do not speak of AlternaGoths or PaleoGoths or LabiaGoths or even NetGoths; these are terms that found their origin on the internet and are simply designations to cover for an incomplete concept of the Gothic Scene or a desire to stretch the boundaries to fit the individual and thus dissolving any Gothic Scene outside an Alternative Mainstream version.
+
+There was always the danger of the uninitiated confusing Metal and Goth, to the uninitiated of course, these groups appeared remarkably alike. Of course Heavy Metal was largely a struggle against power discourses in oppressive religion, specifically versus Christianity gone bad, and the American dysfunctional family. Death Metal (not Death Rock) seems to me to be the victory cry of Heavy Metal and is also a commercially salable revision. The attitude of the Gothic Scene tends to be an appreciation of any beauty coming out of human spiritual urges: heresy, the infernal, and the sacred all. I will avoid statements as concerns the relative levels of education simply because such a statement would be unfair and invalid. Most Heavy Metal avoids abstractions simply because it is an avoidance of the issue at hand, and the purpose of Heavy Metal, much similar to the purpose of Punk Rock, is to criticize and destroy social hypocrisy.
+
+Also, there was the problem of the unobservative overlooking the differences between Goths and Punks. There was not much alike, really. Even during the inception of Goth, when it was Death Rock, the style was more witchlike and focusing on the Drama of the Self. It was not rigidly hierarchial, nor was it as assertive as Punk. Most Death Rockers would far prefer to avoid a person than to confront them. Confrontation perforce a dionysiac lifestyle providing themselves and others with a social anarchy was the Punk mainstay, whereas Death Rockers preferred solitude and passivity. There was a great deal of personal variation, although I am certain they all were seen as one by outsiders. I've met aristocratic goths who were very reminiscent of a Sun-King era courtier except in that they practiced diabolism and were the gentlest, most considerate people I have known; also, they wore black constantly and made vague references to being vampires. I've met highly rational goths but even their minds were haunted, being kindly misanthropes. There were goths who eschewed the gothic lifestyle and clothing but these people soon left the fold. There were goths who would have put saints to shame, who would have drawn angels from the sky with their tears, whose mere touch could heal a migraine -- but they are dead, many of them, dead of heroin, dead of suicide, dead of murder, dead. There was a girl who killed my days, who brought me to my knees weeping in prayer, who sat on my lap and stared into my eyes, whispering questions I could not answer, why why why.
+
+I cannot say much now. All I can do is whisper why. All I can do is be a heart enflamed with prayer and desire. All I can do is die slowly and wish I were being brought into her eyes, into your eyes, into the world again. It is not night where I am, and I am hungry, I am wishing I could see the world as haunted and rearrange the constellations as once I did with word and wish. I love and I will never stop loving, not unto my aging body mutters inchoate finalities, not unto my last moments.
+
+Ours long for that which is beyond death and we are the brides of the primeval substance that is nothingness and night. Want.
+
+Newcomers will not know what you know. If they are true, love them as you should dote upon an orphan infant and reveal your knowledge to them. All are orphans; none recall their birth, and so our origin is a mystery and family consists of any you can trust. A Goth must not break the trust of another Goth, and should refrain from harming anyone unless death or augue would be the alternative. Violence destroys beauty.
+
+[Back to the beginning.](autumn.html)
+
+[Back to deadrose](deadrose.html)

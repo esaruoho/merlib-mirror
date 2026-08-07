@@ -1,0 +1,596 @@
+SMALLnet post418 
+
+ SMALLnet Posting post418
+
+Date: Tue, 16 Apr 2002 00:47:42 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+Mark Nankivil < > reports:
+
+Just a short note to say that Tom Runge passed away on April 15th
+at 6 PM. Please keep him and his family in your prayers.
+
+Mark Nankivil
+
+Bill Hook < > requests:
+
+I am restoring an Ace pulse proportional transmitter, and am
+looking for schematic diagrams. My intent is to install the
+transmitter into a slightly larger case. The old stick
+assembly is shot. In the rebuilding process I will use a D&R
+Stick assembly and use the elevator function to vary pulse rate.
+
+That is why I need the schematics: to modify the circuit. I also
+do not intend to use an encoder for the R-O/Escapement use.
+I have a couple of Controlaire 5 receivers and an O.S. and Citizenship
+escapement. I will use a momentary switch and my finger
+as the encoder. I will also add a switch to switch between the
+two modes.
+
+I did a lot of experiments with pulse back in the good old days.
+I must say I had better luck with it than I did with my first
+analog proportional gear. Bill Hook
+
+P.S. Would like to renew any old friendships. Anyone who thinks
+they may know me, please contact me by e-mail. I was active from
+the early fifties to early seventies in the San Diego area.
+
+< > wrote:
+
+The Chester Jeep racer was the first model I ever built -- about
+60 years ago. A rubber-powered dime model, of course, from
+Woolworth 5 & 10 cent store. I have loved that airplane design
+ever since.
+
+I built dozens of those 10-cent models in my youth. Now I want to
+build a small, slow-flying R/C version of the Jeep. Several months
+ago I came across an Internet plans list that advertised a gas-powered 
+Jeep free flight design by Dan Lutz. About 32" span.
+
+Now I can`t find the site again, and I have spent hours searching.
+Does any one know the source of this plan or another one of good
+scale? I sure would appreciate the help.
+
+...Dan Lutz's "Jeep" was a scale masterpiece. (Dan died last year;
+he was the last survivor of the old F.A.S.T. club, and a marvelous
+artist in modeling.) The Jeep was published in Model Airplane 
+News, but I don't know the date offhand. The plans were by far 
+the best quality I've yet seen for the Chester Jeep. [JW]
+
+Tom Arcoleo < > wrote about "scrounging":
+
+Why scrounge, you ask? Well the most important reason is serendipity. 
+If you are really a model builder, it's on your mind
+almost all the time. So when you go out shellfish fishing, as
+I did today, you can't look a mussel in the face without seeing
+a possible streamlined housing for a protruding servo in the
+form of the animal's shell.
+
+A while back, another answer to a problem appeared -- this one
+came blowing in the wind in the form of a large piece of polyethylene
+foam sheet (electronic packaging). It is extremely
+lightweight and provided the covering for about six planes until
+the wind again blew something in.
+
+The second reason for scrounging is to obtain material that you
+know to be useful, and isn't easily obtained from conventional
+sources. Examples include kiln-dried grade A ash wood scrap from
+a local furniture manufacturer's dumpster, or ash cut from old
+baseball bats; Kevlar cloth from used auto airbags (free from body
+shops), cardboard (anywhere), free kraft paper and plastic bags
+from retailers, scrap aluminum or fiberglass insect screening,
+and free Coroplast from sign shops.
+
+The third reason to saunter through junk shops, flea markets, scrap
+dealers, and the occasional industrial or recycle dumpster is to
+learn about stuff you didn't know existed. For example, we do know
+about the pink styrofoam sold at Home Depot, but a while back I
+discovered in a dumpster the higher-grade extruded white product
+made by Dow. The point is that this country is producing,
+consuming and discarding "stuff" at such an incredible rate that
+it is bursting at the seams. Do your part to clean up the planet
+and create something useful or beautiful to boot.
+
+Kitty litter bags look like great material, but I haven't found the
+adhesive technology to secure it to wood frames. The free Wal Mart
+pretty blue bags are made of the same tough plastic, with the same
+hard-to-adhere problem. Large Tyvek envelopes are available
+inexpensively at Staples. Trust "Welder" brand glue (Wal Mart)
+to do a great job with this heat-shrinkable cover material.
+
+Strengthening styrofoam can be done with insect screening (fiberglass
+or aluminum) using alcohol-thinned epoxy so as not to
+dissolve the foam. In Europe and in our club, brown Kraft paper
+will work with almost any glue. With or without spars, the
+reinforced styrofoam wing becomes strong because of the "exoskeleton"
+created. Fiberglass screening also makes great hinges.
+
+You don't have to buy expensive hardware for control surfaces.
+Bamboo pushrods are the best and cheapest (especially if you eat
+a lot of Chinese). Rods longer that 12" can be made by coupling
+lengths together with thin-wall brass tubing salvaged from telescoping
+TV antennae. That brass or stainless stuff is good for fuel
+tank parts as well.
+
+It pays to have a table saw so that you can (1) cut up old ash
+baseball bats, (2) cut nice grooves in styrofoam to glue in ash
+reinforcements, (3) resaw lightweight white cedar shakes (siding)
+as a substitute for balsa, (4) make parts you cannot make any
+other way. If there is one large power tool you should have,
+that's it. Tom Arcoleo
+
+Jim Moseley < > asks:
+
+Anyone have a new, or as-new, Cox Medallion .049 with slit
+exhausts, at a price I can't refuse ???? Jim Moseley
+
+Ed Stevens < > provides welcome information:
+
+I just wanted to let the SMALL group know that I can be e-mailed
+anytime at < >. If you ever receive a package 
+with damaged goods in it, as the one gentlemen did with some 
+of our gaskets, you should contact the shipper for replacements.
+
+A NORVEL .061 should haul a Cloud Ranger around with 
+absolute authority, so if it's not doing that, you can be sure there 
+is some problem. The range of possible problems is too long to 
+cover in writing, and a dialogue with a qualified technician is 
+the best way to resolve technical problems.
+
+If your engine is defective, it has a 3-year warranty, so there is
+no reason to discard it. The NORVEL 3-year warranty is 2 years
+and 9 months longer than the last Cox warranty I read, so we 
+are proud of our quality and stand behind it.
+
+Justin at Sig is the NORVEL service rep. He can be reached between
+8 AM and 3 PM (Central Time) at 641-623-0215. He is a *much* 
+better engine man than I, and he cares a lot about his work. If there 
+are ever any questions Justin hasn't been able to answer, or somebody
+would like to contact me directly, just email to < >.
+
+I travel frequently overseas, and sometimes I cannot answer in
+the same day. The more specific your question, the better I can
+answer it. My wife Robin has begun answering much of the 
+NORVEL email, too.
+
+I admit that we have had some shortages of parts over the last few
+months, which is unusual for us. I just pulled into our warehouse 
+a gigantic parts order, and another one is coming next week. 
+In a few months our parts inventory should be fully replenished.
+
+Finally, I am probably going to regret saying this, but we have
+begun development of a new series of very small internal combustion
+motors. Thank you to all SMALLsters who helped us define the
+characteristics of the engines. We received over 50 responses,
+believe it or not, from that one time I asked on this email list.
+
+We don't know how long the development cycle will be, but it 
+could be very long because it involves some new technologies and 
+a lot of requirements (quiet, powerful, light, cheap, safe, etc.). 
+And please don't ask me what the new technologies are, because 
+I'm not saying!
+
+All NORVEL engines are Revlite and have been for maybe 2 years
+or so. "Revlite" is the trademark for our proprietary hard-anodized
+ceramic cylinder lining.
+
+Thanks again to all of you for making us what we are today.
+Although our growth has pulled me away from the grass roots, 
+I hope you understand that somebody has to make sure all those 
+engines get made and delivered around the world. I do read every 
+SMALLnet Posting still and plan to forever.
+
+Best regards, Ed Stevens -- General Director, NORVEL, Ltd.
+
+Frank Weaver < > observes:
+
+Originally the Norvel engines were the AME, which was the high-performance
+type; and the Big Mig, which was the sport version.
+The throttle on the high performance was nothing more than an
+on/off switch; yet the sport model worked well.
+
+I replaced the pistons and sleeves of my AMEs for the BM ones, 
+and changed to the Freedom plug with one gasket. Now they 
+work great, even on 10% fuel. Also you can use the RJL head 
+and a hot plug or a Cox 1703 plug. The porting on the new Revlite 
+seems to reflect the advantages of the less radical sport version.
+
+I found my Norvel 074 so tight at TDC that there was no way 
+I could start it to break it in. The solution was to remove the 
+head, load it with lots of fuel and use my 1/2A electric starter on 
+it for about 10 seconds. I put the head back on and it started on 
+the second flip. I now have about 100 flights on it; another great
+small engine.
+
+I have a question. Is the MP Jet 061 to be discontinued? This
+is a wonderful small engine that I compare to a mini O.S. .61 FX.
+
+Fly SMALL, have a BALL, Frank
+
+George Edwards < > queries:
+
+I have a question. Have any of you tried the APC 4.2 X 2
+composite sport props on your COX TD .02 or PEE WEE .02's?
+
+I just got some and have not had a chance to try them. I e-mailed
+APC about the large hole in the prop hub, and they told me to 
+make a bushing out of K&S tubing or fuel tubing to fit the hub 
+and the Cox (#3-48) prop screw. The price is right at 6 props 
+for $1.75, through Tower Hobbies -- against $2.39 for one black 
+4.5 X 2 Cox prop.
+
+With the price of Cox parts going higher and higher, this might be
+a good alternative. Watch your fingers, though: these props look
+like real meat slicers. If you have used these props, let me know
+what you think of them. George Edwards
+
+...George, about 3 years ago Bob Langelius performed the most
+extensive testing on .020 propellers that I know of -- and I've
+done a lot of that myself. Bob told me that the most efficient
+all-round .020 prop he ever found was Graupner's grey 5-2.
+
+But it all depends on the airplane!!! I used a 7-2 on my half-size
+Miss America 40 years ago -- gad, has it been THAT long??? --
+and of about a dozen or 15 different propellers tested, the one
+that flew my Pee Wee powered Starling R/C (165 square inches,
+14 ounces) was an old-style plain nylon Top Flite 6-3. [JW]
+
+Roger Soliday < > wrote:
+
+Thanks for all the information posted here. It really helps me --
+and also the people are so nice. I am hoping to get some more
+help. I thought I saw in a model magazine that there was a small
+.010-powered Rascal. I looked in all my magazines and can't find it.
+Does anyone know if there was a .010 Rascal -- and if so, where to
+get plans?
+
+I have a Picco stick that I want to put a Lithium ion battery in,
+but don't know where to get one or what size to get. I heard that
+it will make the plane fly really long. Any information to help me?
+
+Roger Soliday
+
+Curt Hulett < > has troubles:
+
+I just returned from field testing my Playmate 25 built from plans.
+O.S. .15 FP, 3-channel (T,E,R), 2.5 pounds. The plane is not
+flyable, but I'm not sure what the trouble could be. Takeoff is
+prompt, but maintaining throttle-up after takeoff results in
+uncontrollable RIGHT turn.
+
+When I reduce throttle to idle, plane returns to normal flight and
+I can fly it somewhat acceptably by nursing the throttle -- but
+any attempt to achieve normal flight speed results in a snap to
+right. Plane balances at spar; if anything it may be SLIGHTLY
+nose-heavy.
+
+I swear that there is downthrust, and maybe 1 degree right thrust.
+Incidence LOOKS OK, but I loaned my meter to a guy who is on
+vacation. Anyone have pointers? I can't believe this thing didn't
+fly right off of the bench. Curt
+
+...Curt, your problem sure sounds like a wing warp to me. [JW]
+
+Bob Keathley < > asks:
+
+I just read in the latest Flying Scale Models about an American,
+Kurt Bengston, who is planning some WWI and Golden Age kits
+(apparently for geared Speed 400), and lightweight WWI wheel kits.
+
+Does anyone know of him or about his planes? Bob
+
+Eric Clutton < > insists:
+
+JW is right about keeping inquisitive fingers away from models!
+Even a reasonable glowmotor will bite you if primed with diesel
+fuel and idly flipped (don't ask me how I know!). If you have a
+glowmotor (God forbid) and the battery is only capable of producing
+smoke from the plug and no glow, just prime it in the exhaust with
+diesel fuel. It will start and then continue to run on that evil-
+smelling glow fuel! I had to put that in. ERIC CLUTTON.
+
+Dr. J. L. Campbell < > submitted:
+
+In a recent Posting, someone asked about a subject for a ducted
+fan model. As I recall, there was a plan published in MAN in the
+early 50's for a Fouga Magister (a French jet with a V-tail) which
+might fill the bill, especially with the electric ducted fan
+equipment available today. The original had an .049 with a "fan"
+cut from metal (boy! were we frisky and risky in those days!).
+
+If anyone's interested, I'll try to find the article and provide
+specific bibliographical data. Libby Campbell
+
+...Libby, I think you may have confused a couple of models. The
+Fouga "Cyclope" appeared as a construction project in MAN, but
+as a rather small Jetex-powered craft. However, there was another
+V-tailed D-F project published in MAN that used a "twisted disk"
+type of impeller: Bill Dean's semi-scale Supermarine 508 in the
+June 1953 issue.
+
+This was a sorta-profile free flight model of an experimental
+British shipboard fighter. Impeller diameter was around 4 1/4",
+span 35", and working wing area was about 156 square inches. [JW]
+
+Larry McFarland < > sent:
+
+In Posting #416, "Blaine" asked about the old Wen Mac 'Flying
+Platform'. This was a sport-scale rendition in plastic of Hiller's
+experimental Army "soldier-mover". I had one as a youngster, 
+and it definitely flew (hovered, etc.?).
+
+The engine performed flawlessly, even for a young kid who didn't
+know engines very well! I don't know what ever happened to my
+copy, but I wish I still had it. It was one of those early plastic 
+ARF's, and was quite well done by WenMac. The engine
+was of Atwood heritage.
+
+And for Jim Smith, also in #416, I got a copy of Comet's old
+Pacemaker 1/2A FF plan from John Pond some years back. Given 
+the questionable status of his service today, not sure about
+that avenue. You could try Allen Hunt < > 
+to see if this gentleman can help. Allen is also a definite source
+for Berkeley's ducted fan Skyray plan that Don Udey was asking
+about in #417. Allen has some plans that I have been beating 
+the bushes for for years!!
+
+For Larry in #416 who wondered about a motor/battery setup for
+Herr's 30" Cub, I would steer him (and others delving into these
+general subjects) to the Ezone discussion archives
+< http://www.ezonemag.com >. Once up there, select their
+"Discussion" link, and begin doing searches for the subject
+that interests you (e.g. - Herr Cub). Same for SP280 material.
+
+There's TONS of dialogue available to keep one occupied for 
+an eternity if you wish. Same goes for the question about
+capacitors across motor terminals. Do an Ezone search and
+you'll get some very good information, tested data that works.
+
+Larry A. McFarland
+
+Larry C. Vossbrink < > inquires:
+
+I'm looking for plans for a KWOD by Eric Clutton:
+plan # Pet 787X-5-61, from the May 1961 AeroModeller.
+
+Larry C. Vossbrink
+
+Dave Segal contributed:
+
+ Source: Aspect Aviation 
+
+It is hard to find kits for planes in the .10 to .25 engine size
+range. John Hoover in Michigan has a nice line of laser-cut kits
+that he sells under the name of Aspect Aviation. I have just
+completed and done one test flight on an exciting .25-powered
+delta wing, the Reflex. The kit is excellent and Hoover was
+willing to answer any questions I had. The line includes:
+
+ Source: Kits, Reflex 
+
+Reflex .25, 35"span
+
+ Source: Kits, Blitz 
+
+Blitz, 47" span for .25 to .32
+
+ Source: Kits, Hyper Bee 
+
+Hyper Bee, 31" span for .09 to .15
+
+ Source: Kits, Lil' Bubba 
+
+Lil' Bubba, 18" span for .05 to .06
+
+The telephone number is 248-681-1007 and email is
+< >
+
+ Source: Plans, Skyray 
+
+John Pond Old Time Plan Service has five Skyray plans listed,
+including the Berkeley plan. That one is plan no. 16F7.
+The telephone number is 408-292-3382.
+
+Dave Segal
+
+Larry Marshall < > amplifies further:
+
+Don Udey wanted plans for the old Berkeley Skyray kit.
+
+Larry Wolfe, of Jet Hangar Hobbies has done what Don's after. Not
+only does he have the original plans for sale, he's enlarged the
+drawings, framed the model and had an S300 fan in it the last time
+I saw him. You can see information on this and other EDF
+conversions of the Berkeley line at < http://www.jethangar.com/ >.
+
+An even better solution than the Deans products for small model
+antennas is the M72 (tuned to 72 mHz) antenna from E-Cubed
+< http://www.azarr.com/ >. These antennae are lighter than the
+Deans, smaller too, and they range-test far better.
+
+I tested them early on, and to the limits of my eyesight.
+I couldn't get one to glitch. George Steiner has tested them, and
+also found them better than the Deans: only 15% less effective than
+a full quarter-wave antenna. (This loss only matters if you want
+to control your model once it's out of sight :-)
+
+BTW, I'm in no way associated with E-Cubed, but I have bought a
+bunch of their antennae. Cheers --- Larry
+
+John Arbogast < > wrote:
+
+Many Speed 400-size pylon racer style R/C planes use a Deans'
+antenna. In my case, inside a Sokol, I just stick the antenna
+inside the fuselage and let it "rattle around" there. It is right
+next to the metal elevator pushrod, contrary to the directions.
+There is really no other way to do it, and it seems to work fine
+right up to out-of-sight range. Of course, that range is probably
+not terribly far with such a small aircraft and my old, tired eyes.
+
+This is also in conjunction with a "rubber ducky" antenna on my
+Hitec transmitter. I have never experienced an occasion where I
+lost a model from insufficient range.
+
+Another option is Azarr's M72 antenna which has worked perfectly
+for me -- but I have not tried one in a pylon racer type aircraft.
+In a "slow flyer" type, I have flown fairly large, 36-inch span planes, 
+to the edge of visibility with a M72 antenna and have had no
+signal loss even with receivers such as a Feather or GWS which are
+described as "limited range" equipment. I would, however, advise
+against flying low to the ground at distances of 1000 feet with
+such a setup.
+
+If you want to do a range check, fly upwind at about a 45 degree
+angle until you lose control or can't see the model. If you lose
+range, the motor will stop and you will drift back into control-
+lable range. That's just one of the advantages of electric power.
+
+John Arbogast
+
+Bob Davis < > contributed:
+
+If you have questions on diesel operation -- our system in
+particular, or need answers about applications -- please feel
+free to ask. We are celebrating our 27th year of production,
+so it is fair to say, "It works, or we would not be here."
+
+Bob Davis
+
+Fred Krueger < > submitted:
+
+I've been 'lurking about' on SMALLnet for some time and read each
+one with great interest. Recently, there have been some Postings
+regarding model diesel fuel. I fly a number of small PAW diesels
+(.09 to .19) in C/L sport/stunt applications. In the past I have
+always purchased my fuel from Eric Clutton and found his blends 
+to work quite well.
+
+Recently, I have acquired a supply of ether through some F2C
+competitors, plus some IPN from a former F2C'er. So, for now
+I blend my own.
+
+I store my ether and blended fuel in MSR camping fuel bottles.
+These are deep-drawn aluminum bottles with a plastic screw-in top
+with an O-ring seal. These are available in various sizes from
+camping supply stores.
+
+When I purchase a gallon of diesel fuel, I break it down into the
+33-ounce bottles, and fill my 11-ounce field bottle from these.
+You can fly small diesels all day on 11 ounces of fuel!
+
+I keep several fuel blends and mark the bottles accordingly.
+Storing it in smaller quantities assures minimal ether loss.
+On hot days, I carry my field bottle in a small 6-pack cooler.
+
+Fred Krueger
+
+Sam Brauer < > wrote:
+
+In a recent posting, you discussed the availability of small ducted
+fans. Recently, the product offerings have expanded. I'm no whiz
+at this, but I can give fellow SMALLsters my take on some of 
+what's out there.
+
+Smallest class: EDF 200, based on KP-00 motors or similar.
+Apparently very finicky -- suitable for airplanes with total
+flying weight under 8 ounces. Some success with A-10s: these
+units seem to work better in pairs. I have no direct experience.
+
+Somewhat larger diameter: GWS EDF-50 fan; somewhat larger 
+diameter & heavier. Seems to work OK with a 7-cell 300 mAh 
+NiMH pack. Again, will fly aircraft under 8 ounces. Probably
+more efficient than the EDF 200 units. No direct experience.
+
+Red Flame Blaster and Blue Flame Blaster: these are similar
+units. The lighter version is based around a Speed 300, while 
+the heavier version is based on a Speed 400. Some folks have 
+reported success using these fans in FF applications on far fewer 
+cells than have been used for R/C purposes. Not surprising; 
+R/C applications typically want more power and longer than 
+1-minute run times.
+
+These units are made from injected molded thermoplastic, and 
+are actually somewhat heavy. There have been a number of "hop 
+up" modifications, including aluminum spinners, and slight duct
+reworking. (Apparently split fuel tube around the intake ring of
+the duct helps.) Using one of these units with a Speed 400 and
+some of the modifications, I was able to fly a 17-ounce A-7.
+
+The airplane could roll readily, but was definitely marginal in
+power, and flights were pretty short. (Previously reported.)
+
+Wemotec Micro Fan: suitable for Speed 300 size motors. Some
+issues with rotor balance. Should fly airplanes in the 12-14
+ounce range. No direct experience; however, other products 
+by this firm have used more sophisticated blade shape and 
+ducting than Red Flame Blaster (RFB) units. Somewhat more 
+expensive than the RFB units.
+
+Vasa 55 fan. This fan has the highest price tag ($55 or so), but
+the most sophisticated design of the bunch. The fan uses carbon
+fiber reinforced thermoplastic for the housing, and epoxy molded
+carbon fiber blades. Beautifully done unit. Surprisingly, it's
+made to work with a Speed 300 and a 7-cell 600 AE pack. 
+
+Attempts to use brushless motors and higher cell counts yield 
+increased thrust, but the weight penalty may be too severe for 
+the relatively small aircraft this unit can fly.
+
+I'm fooling around with one in a 12.5 oounce Flying Styro (yech!)
+F-16 -- the new version of this airplane -- which at least is
+several ounces lighter than the older version, along with more
+wing area. My first launch ended in disaster, but I've Franken-
+steined the airplane back together.
+
+It's clear that this unit has some more get up and go than the 
+RFB unit. For R/C purposes, I think this fan makes the most 
+sense. When total cost of the aircraft is calculated, the 
+additional cost of this fan over the Blasters is insignificant.
+
+To folks starting to play around with these units: intake ducting
+and exhaust ducting is critical. One unit -- a modified RFB --
+could fly a 17-ounce airplane with adequate ducting, but failed
+miserably on a smaller, lighter airplane (15.5 ounces) -- clearly
+with ducting issues. One resource is the jets section of the
+E-zone -- < http://www.ezonemag.com >.
+
+For FF use, I might be tempted to try the EDF-50. It's pretty
+cheap and might do OK on a 5-6 cell 50 mAh nicad pack. 
+One of the problems with most of these units is that they've 
+been tweaked for R/C use, which leads to lower ampere draw 
+and higher cell counts. The Speed 300 does seem to be able 
+to deliver useful power with much lower cell counts though.
+
+Note: all of the above fans may fly an airplane, but don't expect
+jet-like performance. For that, you need to go to the next size
+larger fan (65 mm in diameter) such as the Wemotec Minifan or a
+Vasa 65 -- along with 300 watts plus of power. Expect to spend
+at least 3x the most expensive fan combination listed here.
+
+Hope this helps all the folks kicking around the fans. Note:
+I am by no means an expert. I just thought I'd share my initial
+findings and maybe save SMALLsters some experimentation.
+
+Oh yeah -- Bill Effinger used to put out plans in two sizes of the
+Berkeley Skyray -- a 24" and a 36" if I remember correctly.
+I think the 24" was designed for .049 power by the late Henry Struck.
+(I met Henry a couple of times when flying indoors. He was a
+character! I'm saddened by his passing.)
+
+I think the 36" version was designed to use the Kress RK-20 fan.
+There is now a kit of the Skyray (RBC produced in the Netherlands)
+intended for the serious fan unit mentioned above. Needless to say,
+I think electrics have a lot more going for them in fans compared
+to glow, unless you're really a whiz at starting engines in
+confined spaces.
+
+Cleaner duct flow can make up for the power/weight disadvantage
+as well. Sam Brauer, Stamford, Connecticut
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

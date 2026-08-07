@@ -1,0 +1,291 @@
+JBM - Software
+
+ [Ballistics] 
+ [Bibliography] 
+ [Downloads] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Software
+
+ Pointers to ballistics software available on the web (and elsewhere). 
+ I haven't used most of these programs, so I am not attempting to review 
+ or even recommend any of them. This page is meant to be a central place 
+ for people to find what is available. If you have or know of any other 
+ software that isn't listed here, please let 
+ me know. Dead links are removed
+ from time to time -- usually if 
+ Google can't find them anymore.
+
+ Programs are listed alphabetically by name in two sections. The 
+ first section, Programs lists those commercial
+ and free programs that I currently know about. The second section,
+ Web Based , lists web based calculation programs.
+
+ Programs 
+
+ Air Rifle Ballistics 
+
+ Exterior ballistics software specifically written for air rifles.
+ About $59 plus shipping charges.
+
+ ATEAM 
+
+ A T eam E asy A irgun B allistics
+ Program. $20 on 3.5" floppy.
+
+ Balcal 6.2 
+
+ Windows ballistics program written in Visual Basic. Has a lot of 
+ features (like many of the programs here). Price is $49.95 on a 
+ CD.
+
+ Ballistic Basics 
+
+ "Ballistic Basics is a complete reloaders program that stores, graphs 
+ and prints all reloading data and calculates trajectory, energy, time 
+ of flight and other parameters." The price is $40.00 US. There's an 
+ additional $5.00 if you want them to send you floppies.
+
+ Ballistic Explorer by Oehler Research 
+
+ External ballistics programs for DOS and Windows with demo. $60-$70.
+
+ Ballistics Solutions 
+
+ A suite of ballistics software "designed by air gun shooters for air
+ gun shooters". $32.95.
+
+ Ballistik Pro 1.1 
+
+ A shareware ballistics program by Helge Peters for Apple/Mac. 
+ The program containes 8 different functions for sport shooters, 
+ hunters and reloaders. The price is $20.00 US.
+
+ Barnes Ballistics for Windows 
+
+ Barnes' Windows based ballistics program, version 2. Runs on Windows
+ '95 or higher. Price is $49.95 ($19.95 upgrade is available).
+
+ Border Barrels 
+
+ They have some ballistics programs available, including a 22
+ caliber program, barrel twist and powder equivalence chart. Free.
+
+ ChronoCap 
+
+ Provides the capability to interface to a chronograph (Alpha, Beta
+ and Gamma Shooting Chrony) and store shot information in your Palm
+ or PC. Price is $19.99 for either and $34.99 for both (Palm and PC).
+ There is a note about DropTables being under development.
+
+ Chrony Ballistics II Software 
+
+ Exterior ballistics program from Shooting Chrony Inc. $19.95 to $54.95. Used to be
+ PC/Bullet.
+
+ EB4 (Exterior Ballistics 4) 
+
+ A DOS based program from R. Nennstiel. This program uses a modified point 
+ mass trajectory and is capable of doing simulations. There is now a demo
+ version available for 
+ download 
+ Price is 300 DM (about $180 US). 
+
+ Exbal 
+
+ Windows based ballistics program. Also has a program for the Palm
+ Pilot. From $30, accepts Pay-Pal.
+
+ Hornady Reloader for Windows 
+
+ I found a reference to some Windows software at the Hornady site, 
+ but it seemed to be the reloading manuals on disk. I have found their
+ ballistics program at 
+ Midway . 
+ Midway price is 
+ $31.99 (June 1997).
+
+ Horus Vision 
+
+ A number of software packages for PDAs. They also sell rifle scopes
+ to use with their software.
+
+ Keystone Enhanced Ballistics System 
+
+ Exterior (there is an interior ballistics program available)
+ Ballistics program for DOS. $12.95. Demo available for download.
+
+ Load From A Disk for Windows 
+
+ Windows based Interior and Exterior ballistics program. $74.95+S & H
+
+ McTraj4 
+
+ A rewrite of Bob McCoy's McTraj with drag models loaded from
+ disk. Free and includes source code (BASIC) and executable.
+ There is also a "Stopping Power" terminal ballistics program.
+
+ Modern Ballistics 
+
+ Currently in beta. Cost is $45 for the first year and $10/year
+ thereafter, including free upgrades.
+
+ MPM 
+
+ Currently in beta. It is a command line program I write (am writing)
+ that uses the modified point mass equations to find the trajectory
+ of a bullet. There are currently Windows and Linux executables
+ available. It's free.
+
+ Numerical 
+ Advanced Internal Ballistic Model (NABM) 
+
+ Free and shareware software (price is $29 + $2 S &amp H), interior ballistics
+ info and other references.
+
+ On Target Software 
+
+ "Windows based computer program for rifle, handgun, and shotgun shooters 
+ and reloaders." $49.95-$69.95. [NOTE: This is in no way associated with
+ the software, On Target!, which I used to sell.]
+
+ PCB 1.8 
+
+ DOS based ballistics software. FREE!
+
+ Pejsa Ballistics 
+
+ Exterior ballistics software for Windows, Macs, and PDAs, $29.95 - $49.95 depending
+ on platform.
+
+ Point Blank 
+
+ ...a Windows PC Ballistics and Reloading program. Free!
+
+ PRODAS 
+
+ Prodas, PRO jectile D esign and A nalysis 
+ S ystem. A professional system used by many countries.
+ I can't find a price anywhere -- I'm sure it's not cheap!
+
+ Projektil 2 
+
+ Freeware ballistics program from Reinhard Becker.
+
+ QuickTARGET and QuickLOAD 
+
+ External (QuickTARGET) and internal (QuickLOAD) ballistics programs.
+ You can read more about it here .
+
+ RCBS.Load 
+
+ RCBS' new program. The guys at GMDR have provided some nice graphs
+ and drawings from their bullet design program: 
+ 168 gn Int. , bullet and
+ Stability ,
+ 338 Millard case
+ drawing, and
+ 75 gn VMax . The software
+ is now available on CD-ROM.
+
+ Recreational Software Inc. 
+
+ Ballistics, Reloading and Recreational software for Macintosh and Windows.
+
+ Rob's Reloading Organizer, v3.0 
+
+ Combination reloading data storage and ballistics program. Price is 
+ $30.00 US.
+
+ RODBALL Small Arms Ballistics Calculator 
+
+ A new ballistics program from Rod Wiederin. Not shareware, price is $20.00.
+
+ Shoot! 
+
+ "Ballistics software for the hunter, reloader and target shooter". Free
+ 30 day trial. $39.95.
+
+ Sierra's Infinity Exterior Ballistics Computer
+ Software 
+
+ Sierra's new Window's ballistics program. It is supposed to be available
+ January, 1999. $59.99 + S &amp H.
+
+ Silhouette Ballistics Version 9.0 
+
+ A set of ten Window's programs for competitive and high power shooters. 
+ $38.50.
+
+ Small Arms Ballistics 
+
+ A new, free ballistics program for Unix and Windows. It is 
+ distributed under the GNU public license. Distributed as
+ a compilable "C" program, or in Python.
+
+ Tioga Ballistic Program
+
+ DOS ballistics program from Tioga Engineering, Pennsylvania. You can 
+ contact them at P.O. Box 913, Wellsboro, PA, 16901, (505) 724-3533 (thanks
+ Don!)
+ Lilja 
+ $24.
+
+ Trajectory Plot 
+
+ Shareware exterior ballistics software, $10 Registration Fee.
+ There is also a group size calculator, also $10.
+
+ WinBallistics 
+
+ Freeware ballistics program.
+
+ Web Based 
+
+ Big Game Info Advanced Ballistics Calculator 
+
+ An ASP.Net version of my online 
+ programs (the online versions are available under the GNU Public License
+ and are available for download .
+
+ fullbore-list Range Table Calculator 
+
+ An ActiveX ballistics implementation, using Art Pejsa's drag function.
+ It appears as though it requires Internet Explorer.
+
+ JBM Small Arms Ballistics 
+
+ My site dedicated to small arms ballistics (You're already here!). 
+ You'll find online calculations for Ballistic Coefficients, Maximum 
+ Range, Trajectories, etc. My online programs have been ported to 
+ the Zaurus by Patrick Heim and are available 
+ here .
+
+ Lost River Ballistics Ballisticator 
+
+ Java based ballistics program. NOTE: This link doesn't currently work. I'm trying
+ to find out if the service is still available before I remove the link.
+
+ Norma Ballistics 
+
+ Java based ballistics program that provides data for hunting and match
+ bullets.
+
+ NTInnovations 
+
+ "The ballistics website for reloaders and competition shooters."
+
+ Renegade Rifle Ballistics 
+
+ Small arms ballistics with graphical output! "...Based on the 
+ article Ballistics for the Home Computer by William 
+ C. Davis Jr. published in American Rifleman, June 1983."
+
+ Last update 29 June 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

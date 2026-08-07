@@ -1,0 +1,61 @@
+Seattle 
+
+ Seattle 
+
+ SEA 
+
+ Los Angeles 
+
+ LAX 
+
+ New York City 
+
+ NYC 
+
+ JFK Airport 
+
+ JFK 
+
+ La Guardia 
+
+ LGA 
+
+ Portland 
+
+ PDX 
+
+ Manila 
+
+ MNL 
+
+ San Francisco 
+
+ SFO 
+
+ Oakland 
+
+ OAK 
+
+ San Antonio 
+
+ SAT 
+
+ San Jos, CA 
+
+ SJC 
+
+ Dallas-Fort Worth 
+
+ DFW 
+
+ Love Field 
+
+ LUV 
+
+ St.Louis 
+
+ STL 
+
+ Burbank 
+
+ BUR

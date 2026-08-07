@@ -1,0 +1,27 @@
+Nutrition data (BETA) 
+
+ Baby Foods.html 
+ Baked Products.html 
+ Beef Products.html 
+ Beverages.html 
+ Breakfast Cereals.html 
+ Cereal Grains and Pasta.html 
+ Dairy and Egg Products.html 
+ Fast Foods.html 
+ Fats and Oils.html 
+ Finfish and Shellfish Products.html 
+ Fruits and Fruit Juices.html 
+ Lamb, Veal, and Game Products.html 
+ Legumes and Legume Products.html 
+ Meals, Entrees, and Sidedishes.html 
+ Nut and Seed Products.html 
+ Pork Products.html 
+ Poultry Products.html 
+ Sausages and Luncheon Meats.html 
+ Snacks.html 
+ Soups, Sauces, and Gravies.html 
+ Spices and Herbs.html 
+ Sweets.html 
+ Vegetables and Vegetable Products.html 
+ index.html 
+ make_nutr_html.pl

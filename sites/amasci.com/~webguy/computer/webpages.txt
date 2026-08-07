@@ -1,0 +1,188 @@
+Web Pages Al Has Created or Maintains 
+
+ Websites Al Has Created or Maintains 
+
+Below are webpages I have created and/or maintain. The most current
+pages are listed first. 
+
+ Web Page Title and Logo
+
+ Description
+
+ Tropical Rain Forest 
+ Information Center
+
+ A joint effort by JPL and Michigan State University to map out
+ the world's tropical rain forests. I am responsible only for the
+ radar data archive section of the website. Organizing all this data
+ is the tough part. A series of CDs mapping out the rain forests
+ will also be published. I am also involved in producing these CDs too.
+
+ New U.S. SAR Mission
+
+ This website contains
+ descriptions of the current synthetic aperture radar (SAR)
+ technology and new mission plans. A recent SAR mission,
+ Shuttle Radar Topography Mission (SRTM), which flew last February 2000
+ successfully returned the most precise maps of the world
+ to date. By the way, I was supporting webmaster for the SRTM
+ website too.
+
+ Unfortunately, access to this page is available only internally
+ at JPL so most websurfers will not be able to access it.
+
+ The Magic of John Carney
+
+ Mr. John Carney is a magician extraordinaire. His long and
+ distinguished career includes
+ performing at the Magic Castle in Hollywood, CA, 
+ appearances at several casinos
+ in Las Vegas and Lake Tahoe, and TV commercials for Mastercard.
+ There are also books and videos available that you may buy 
+ with an on-line shopping cart.
+
+ The Chinese American Museum
+
+ in Los Angeles
+
+ The people of El Pueblo de Los Angeles (near Olvera St.)
+ are opening a
+ museum of Chinese American history in the heart of Old Chinatown.
+ The museum will display pictures, artifacts and describe the
+ history of Chinese American life in Los Angeles. 
+ This is very significant simply because there is
+ no other place in
+ L.A. like this! Considering the Chinese are the largest Asian
+ ethnic group in the US, I am surprised a similar museum has not
+ materialized before this.
+ The museum is now scheduled to open in 2003! 
+
+ The museum people are not too familiar with 
+ the Web or what it can do
+ for them so they are getting in slowly.
+ I'm trying to get more pictures of their antiques, displays,
+ etc. to put up on the web page. They have some very cool stuff
+ from what I've seen.
+
+ I created and supported this website for over five years
+ but no longer maintain it.
+
+ The Galileo Project
+
+ I am the upgrade webmaster for the Galileo Home page.
+ The Galileo project recently sent a satellite and probe to 
+ investigate Jupiter and its moons. The mission was
+ extremely successful and continues in its extended phase.
+ Most recently, substantial amounts of ice/water were found
+ on Europa, one of Jupiter's moons. It is speculated that
+ life may exist inside the moon!
+
+ Builders Hardware Inc.
+
+ I am branching out from local businesses!
+ This is the home page of a hardware manufacturer located in
+ Buellton, CA (near Solvang).
+ Their entire catalog is now on-line! 
+ They offer hardware parts for automotive, patio doors,
+ storefronts and windows. This site is relatively
+ large with over 50 pages. 
+ Their target customers are builders and contractors.
+
+ (They have taken their website off-line and are reviewing
+ their marketing strategy.)
+
+ AAA Office Support Systems
+
+ This is the home page of a local office support service.
+
+ They started by offering a reliable answering service
+ and courier/messenger services. Now they also offer
+ secretarial, telemarketing and catalog order services!
+
+ Their target customers
+ are busy professionals, home-based businesses and
+ offices that need someone to handle their overruns.
+ They have never been on the Net before and have decided
+ they wanted the Web to be part of their marketing campaign
+ this year.
+
+ South Pasadena Travel
+
+ This is the home page of a local travel agency.
+ They have never been on the Net before and wanted
+ to take it slow so it's not a very big site yet.
+ There is a 
+
+ special travel deals page that
+ offers discounted deals for airfares, cruises and tours.
+
+ I kind of stumbled upon this opportunity. I happen
+ to be picking up reservation tickets and struck up a
+ conversation with the owner. I mentioned I did web pages
+ and the rest is history.
+
+ (Their website is currently off-line as they are reevaluating
+ their marketing strategy.)
+
+ SIRCED03: Educational CD-ROM
+
+ I recently created this 
+ educational CD-ROM about the SIR-C (Spaceborne
+ Imaging Radar C) missions.
+ This CD was written almost completely in HTML so it can be read
+ by any Web browser! Also, the CD follows the ISO-9660 
+ standard which means it can be read from many computer
+ platforms including the IBM-PC, Macintosh and Unix systems!
+ And because the CD can be read from Unix, I decided to put
+ it on-line! There may be a delay in accessing the CD
+ but please be patient. Remember, it's being read from a CD drive!
+
+ Among other things, the CD contains spectacular radar
+ pictures of the Earth, video clips, mission information, etc.
+ Needless to say, there is plenty of interest from
+ educational institutions to receive this CD.
+
+ Red Cross-JPL World Watch Page
+
+ This is a Red Cross-JPL joint effort for world disaster preparedness.
+ I was given a great deal of freedom when I created
+ this page. There's all kinds of cool stuff like regional
+ disaster information, client side clickable maps
+ (you'll need Netscape 2.01 ), radar pictures,
+ coloring pictures and even an interactive quiz!
+
+ JPL Section 334
+
+ Radar Science and Engineering
+
+ This is the home page for the section where I work.
+ Unfortunately, access to this page is available only internally
+ at JPL so most websurfers will not be able to access it.
+ I created most of this page but do not directly maintain it.
+
+ JPL Imaging Radar Page
+
+ This page is one of the more popular pages at JPL. It receives
+ thousands of hits per day. At this site, there are many, many beautiful
+ radar pictures of the Earth and planets of our solar system.
+ I help maintain this page.
+
+ JPL AIRSAR Page
+
+ This is the first Web page I created for JPL. There were a lot
+ of other firsts for me while working on this Web page.
+ First time I really worked on a Macintosh!
+ The first Web server I ever brought up (a Power Macintosh).
+ The page has an interactive CGI where a user may
+ search for, display and order on-line images from the AIRSAR
+ image database. This is also a first as no other NASA site
+ has this capability! The CGI was written entirely in Applescript!
+ (Another first!)
+ I created this page but do not actively maintain it. 
+ The AIRSAR group maintains it.
+
+Last updated : April 6, 2003
+
+Copyright 1995-2003 Al Wong, Los Angeles, California, USA
+
+&#32;

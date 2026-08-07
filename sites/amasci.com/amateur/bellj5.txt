@@ -1,0 +1,225 @@
+From HANSEN35@delphi.comSun Jan  7 08:23:55 1996
+Date: Sat, 06 Jan 1996 21:55:25 -0500 (EST)
+From: HANSEN35@delphi.com
+To: derrick.mancini@fysik.uu.se, cgek@cc.newcastle.edu.au,
+    74071.1155@compuserve.com, epv%pcsimail@pcsi.cirrus.com,
+    edharris@mps.ohio-state.edu, kintruj@uni-muenster.de,
+    tron!weso.dnet!odhner@uunet.uu.net, tony_smith@mbnet.mb.ca,
+    dave=sharp%legal%corp=hou@bangate.comaq.com,
+    collierb@mcmail.cis.mcmaster.ca, khamar@mailhost.tcs.tulane.edu,
+    shill@maui.com, mmeyer02@interserv.com, filchock@cup.edu,
+    kauffman@vnet.ibm.com, tomj@wps.com, covent@innet.be,
+    kukkonen@snakemail.hut.fi, mitton@mail.ip.portal.com,
+    sdl@harare.iafrica.com, billb@eskimo.com
+Subject: Vacuum Newsletter #5
+
+
+
+
+**************************************************************************
+*  -----------------------------------                -----------------  *  
+*   the Bell Jar (electronic version)                 #5 (January 1996)  *  
+*  -----------------------------------                -----------------  *  
+*                                                                        *
+*  This newsletter contains material which has been extracted from the   *
+*  hard-copy newsletter of the same name. Devoted to the vacuum          *
+*  experimenter, the intent of "the Bell Jar" is to broaden interest     *
+*  in vacuum technology through useful discussions of theory and         *
+*  technique, and to present ways in which a variety of apparatus may    *
+*  be assembled using common and inexpensive materials. Information      *
+*  on "the Bell Jar" may be obtained by sending email to the editor,     *
+*  Steve Hansen, at hansen35@delphi.com or by writing to 35 Windsor Dr., *
+*  Amherst, NH 03031. Please feel free to circulate this electronic      *
+*  version, intact, to others who might be interested in the subject     *
+*  matter. New numbers will be mailed at approx. quarterly intervals.    *
+*  Email subscriptions are free and may be obtained by contacting the    *
+*  editor. Comments, contributions and criticisms are always welcome.    *
+*  Copyright 1996, Stephen P. Hansen.                                    *
+**************************************************************************
+
+
+In this issue:
+
+Some Recollections (Franklin Lee)
+
+What's in the current issue of "the Bell Jar" (Print Version)
+
+
+                       ***********************
+
+
+For a number of us, Frank Lee's contributions to Scientific
+American's Amateur Scientist column were what sparked our
+interests in vacuum technology. Certainly, in my case, this
+teacher and advocate of hands-on science was a major factor in my
+life's interests. Frank recently commented that he felt that he
+never lived up to his potential, that he could have been another
+Edison. Well, perhaps the world didn't need another Edison. The
+inspiration that Frank provided to others to do science, in my
+opinion, is of similar value, albeit harder to recognize and
+measure. The following material has been pieced together from
+several correspondences with Frank that occurred between late-1994
+and mid-1995. This was before Scientific American revived The
+Amateur Scientist as a regular feature. - Ed.
+
+
+Some Recollections
+
+Franklin Lee
+
+   I was born in a small town, Granite Falls, Minnesota, population 1500. 
+For some reason that town was the home of a number of talented or famous 
+people. There was Doctor Wellcome, one of the founders of Burroughs 
+Wellcome Drug Company in England. There was Olai Lende, the inventor 
+of many automobile components such as the differential, screw drive 
+steering wheel, etc. Presidential candidate Hubert Humphrey's father 
+had a drug store in Granite Falls before moving to No. Dakota. Senator
+Volsted lived across the street from Grandma Lee and Archibald Bush, a 
+founder of 3M Company, came from Granite Falls. His charitable gifts 
+exceeded $1 billion with $5 million a year going to Granite Falls for 
+the schools, etc. Then there was Mildred Lee, my mother, first woman 
+admitted to the Minnesota Bar, recognized poet and historian, and an 
+early feminist.
+   My first attempt to use vacuum occurred in 1934 or 35. I  was trying 
+to make an electronic tube as my allowance was not enough to purchase a 
+ready-made tube. I was 13 at the time and didn'trealize what high 
+vacuum was. I tried a water aspirator which got me to 30 mm Hg, the 
+vapor pressure of water. What I got was a Geissler tube with blue 
+light. This ended my childhood involvement with vacuum.
+   My last year in high school was rather turbulent. I was 15 at the 
+time and running in all directions. I was making fireworks contrary to 
+my parent's views. For a dollar, one could get 5 lbs. of sodium chlorate 
+at the hardware store. It was used as a weedkiller. When mixed with 
+charcoal or other combustible material it was a nice explosive. With 
+a friend or two, I went outside town and blew up tin cans, split 
+logs, etc. It could also be used to make colored flares. I also made 
+a small cannon out of two pieces of steel pipe - 3/4" for the barrel 
+which was placed within a piece of 1" that served as reinforcement. 
+I would pack the barrel with 2" of "mix", put in a wad of cloth and 
+insert a 3/4" glass marble as the projectile. The marble would go 
+through 2-1/4" of pine. Once it missed the boards and went through 
+one wall of a shed and out the other. 
+   I did have the sense to stand behind the cannon while loading
+it. Once while loading it, the cannon went off and took one finger and 
+messed up my hand. Dad made me clean house. This occurred again when I 
+was caught bringing tear gas to school.
+   A more constructive endeavor was the analytical balance I made at 
+about this time. The fulcrums were razor blades, the weights were nickels 
+(about 5 gms), short lengths of rolled-up wire (1/10 to 2 gms) and 
+pieces of foil  (1 to 50 mg). I got interested in electronics at about 
+this time. 
+   The next project that involved vacuum was when I became employed by 
+Union Carbide in the research department. This was around 1943. The 
+project involved some work with a vacuum furnaces. The furnace consisted 
+of a 1-inch diameter ceramic tube with a boat of high carbon ferrochrome, 
+chromium oxide and calcium silicate flux. The idea was to get the carbon 
+in the ferrichrome to react with the oxygen in the chromium oxide. 
+The vacuum atmosphere was to improve the equilibrium. While the project 
+resulted in a production process, it was soon displaced by a better 
+method.
+   It wasn't until rotary compressors became commonplace that I realized 
+there could be an opportunity for an amateur system. When I started 
+teaching chemistry at Erie Community College in 1953 I had lots of 
+opportunity to make apparatus for the school lab. One item was a 
+molecular still which would fractionate mixtures like vegetable oil at 
+temperatures low enough to avoid decomposition. I didn't spend much 
+time on this as it was sort of dull.
+   When C.L. Stong took over the Amateur Scientist column he suggested 
+an article on a particle accelerator.  I don't know how he got the idea, 
+although Albert Ingalls, the previous editor of the column, had 
+produced an article on an amateur-built cyclotron. This used 
+commercial vacuum apparatus. Trying to make due with something simpler, 
+I got a lot of used refrigeration compressors and tried them out. 
+A local glassblower made me a McLeod Gauge (based on information in 
+"Review of Scientific Instruments" - there are lots of interesting 
+articles in that journal). The high vacuum mercury diffusion pump was 
+also based on material from "Review of Scientific Instruments." The
+resulting article, "A Homemade Atom Smasher," was published in May of 
+1957. The machine consisted of a 350 kV van de Graaff electrostatic 
+generator with an accelerating column that would produce a beam of 
+electrons. 
+   Later in 1957 I started supplying Van de Graaff terminals to hobbyists 
+who had read my article in Scientific American and one thing led to 
+another. After the accelerator article came out I was ready for requests 
+for information and supplies. My wife did not take kindly to my hobby as 
+it cluttered up the cellar, drew on my time and involved a lot of mail 
+and phone calls. 
+   My friend Morris Most had a sewing machine company that was not 
+doing well and he was willing to share my responsibilities. He took 
+care of the mail, bookkeeping and shipping & receiving. I recognized 
+a need for science education equipment and started adding this to the 
+line. There was a big market then and I went after what Science Kit 
+wanted but couldn't get from the other suppliers. This piece of the 
+business soon eclipsed the amateur market which remained more of a hobby 
+than an enterprise. 
+   When it came to having a turret lathe, punch press, two drill presses 
+and seven assistants in the cellar two nights a week my wife again 
+suggested that I clear it out. By 1975 Morris and Lee had a part time 
+crew of 10 and a turn-over of about $1M in current dollars.
+   Morris died in 1977 and I quit teaching to take over. The business 
+was a mess by this time and it took some 2 years to get back to 
+profitability. In 1984 my older daughter and her husband took the plunge 
+and came into the business. Ray and Nancy proceeded to cull out all the 
+products of marginal profit and reduced the product line from about 200 
+items to about 50. The company changed its name in 1992 to Science First 
+and is fairly sound with only 12 employees and a $1M turnover. 
+Competition is coming mainly from the Far East and I see a real challenge 
+ahead. Fortunately we have a large investment in high tech tooling which, 
+for now, allows us to compete.
+   Returning to the amateur products, the Morris and Lee customers were 
+a mixed lot. Some were experimenting with gravity devices - I tried to 
+talk them out of making purchases. Some were very talented with lots of 
+money to spend. One ambitious project was a full scale particle 
+accelerator that must have cost $5000 to build. All were people who wanted 
+to see things happen.
+   All of the amateur business was dropped in 1984. I did continue to 
+sell the 500,000 volt Van de Graaff kit but stopped advertising around 
+1990 and I only sell 5 or 6 a year by word of mouth. We do sell  200,000 
+and 500,000 volt generators through dealers like Edmund Scientific and 
+some hobby shops.
+   Scientific American pretty much dropped the Amateur Scientist column 
+around 1973 after Stong died. Virtually all the amateur business I had 
+came from his articles since he had included my name and address. I later 
+made gas chromatographs, electronic balances, spectrophotometers, air 
+liquifiers, etc. but just for my own entertainment.
+   One of the big differences today is a lack of supplies. Fear of 
+litigation has made suppliers unwilling to deal with amateurs. The fear of 
+law suits has also diverted some nice stuff away from people into the 
+dump. Its simply hard to buy something that you could possibly get hurt 
+on. Surplus dealers are one remaining good resource - they get the 
+original supplier off the hook to some degree.  Scientific American once 
+published an article on making amateur rockets using zinc powder and 
+sulfur as fuel. I think they got chewed out by some group for that one.
+   Also, we have become a nation of button pushers. I feel that one reason 
+for a lack of interest in such projects is the availability of computers - 
+many people prefer pushing buttons to using tools.  
+
+(Certainly, the Morris and Lee kits required a good degree of competence 
+on the part of the purchaser to put something together that worked. It 
+took me a couple or three years to really get my Hickman diffusion pump 
+to actually do something...but I learned a lot in the process. There seem 
+to be fewer people now who are willing to really work to make a project
+go, but they are there and they seem to feel like the group that
+business forgot. If they didn't exist, `the Bell Jar' would have
+no readership. - Ed.) 
+
+
+                       ***********************
+
+
+WHAT'S CURRENT IN "THE BELL JAR" (PRINT VERSION)
+
+In addition to the above, the Summer and Autumn 1995 issues of "tBJ" 
+contained articles on the following topics:
+
+     * Update on Chris Frye's transmission electron microscope
+     * Solder glass bibliography
+     * Backstreaming from oil-sealed mechanical pumps
+     * Replicas of antique cold-cathode tubes
+     * Evolution of the x-ray tube
+     * Some simple vacuum hardware for classroom use
+     * Demonstrate an electron microscope (easy and cheap)
+     * Introductory vacuum experiments
+     * Atmospheric pressure plasmas 
+
+                                                                    *tBJ*

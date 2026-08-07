@@ -1,0 +1,29 @@
+---
+title: "Court Abuse"
+source_domain: amasci.com
+source_path: ~rarnold/court_abuse.htm
+order: 6445
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:13:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Court Abuse
+
+*Source page: `~rarnold/court_abuse.htm`*
+
+American Forest Resource Council\
+September 20, 2002 Newsletter <http://www.afrc.ws/>\
+\
+**Sierra Club's abuse of the courts cited by judge.\
+Time for Congress to shut down the Club's lawsuit mill?**\
+\
+\
+**\$100,000 Bond Ordered\**
+On September 17, U.S. District Court Judge Owen Panner issued an order giving the Sierra Club and others plaintiffs until September 24 to post a \$100,000 bond or equivalent in cash to cover having an injunction issued pending appeal of their challenge of Stimson Lumber Companys approval to access its private land in northeastern Washington.  You may recall earlier this year, Judge Panner ruled against the environmentalists claims that the Forest Services decision to grant Stimson access would endanger several threatened species.  The case has been appealed to the Ninth Circuit, but the appeals court is letting Panner set the injunction bond amount.  The Sierra Club argued to Panner that they were a non-profit entity seeking an injunction in the publics interest and therefore should not be required to post a bond. \
+\
+In his decision the judge stated, I do not find this argument persuasive.  In many of the cited cases, the injunction was against a government agency.  By contrast, in this case the Plaintiffs are seeking an injunction against a private business.  That is an important distinction.  In addition, while the Sierra Club may be a non-profit, organization, it is hardly destitute.  The Sierra Clubs tax return reports gross revenues of \$72,432,099 in 2000 and net assets of \$37,537,568.  It has hundreds of paid employees The Sierra Club prosecutes approximately 80-100 lawsuits annually and typically has a docket of approximately 150-200 open cases.  Requiring the Sierra Club to post a substantial injunction bond will not deprive that venerable organization of access to the court.  What the Sierra Club cannot do is to act with utter disregard for the consequences of the many lawsuits it files each year.  These never-ending injunctions and delays cost private timber companies money, increase the risk of fire and cost timber workers jobs.  In the present case, Stimson submitted the proposed project in early 1997.  Stimson then endured almost five years of exhaustive environmental studies before gaining final approval from the federal agencies, only to have the Sierra Club and its allies file a merit less lawsuit demanding still more studies.  While the studies and lawsuits dragged on, bark beetles and other voracious insects are using Stimsons private lands as an open-air cafeteria and fire risks increase.\
+\
+The Ninth Circuit has a hearing on the appeal scheduled for early October and should the plaintiffs post a bond, they will likely argue that Judge Panner was excessive in setting the amount.  If you would like a copy of this opinion, contact AFRCs Portland Office.  Stay tuned.  */Chris West*\

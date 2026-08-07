@@ -1,0 +1,197 @@
+SQL Tutorial: Perl DBI and Optimizing Output 
+
+ SQL Tutorial III 
+ -- Perl DBI and Optimizing Output -- 
+
+ Back to the PostgreSQL Tutorials List 
+
+ Perl DBI 
+
+ With Perl's DBI interface, CGI scripts necessarily get more complicated,
+with commands to open a connection, execute queries, and close connections,
+rather than the simple form of CGI's used in the previous examples (one-line
+shell script entires for the most part). The logic is the same, it just
+needs to be spelled out in more detail. 
+
+ To open a database connection, I typically like to setup two variables
+at the top of a script, to help make it easy to edit a faulty query line if
+necessary: 
+
+ #!/usr/local/bin/perl5
+
+$database = "DBI:Pg:dbname=ericj";
+$dbquery = join(" ", "SELECT title, type, rating FROM video_rating",
+ "WHERE title LIKE 'G%'",
+ "ORDER BY title;");
+
+ The variable $database will tell our command (below) which database
+to open and which driver to use; replace 'ericj' with your own username. For
+these examples, you'll need the following modules from CPAN (already installed
+here on the eskimo servers): 
+
+ CGI -- Commands to make processing forms and outputting HTML easier 
+ DBI -- The database-independent portion of DBI 
+ DBD::Pg -- A PostgreSQL-specific driver for DBI use 
+
+ Then, the variable $dbquery will be used to create and execute an SQL
+command (also below). In case of typos or field-name changes, putting this at
+the top of the file can save some hunting later for lines of code to edit. 
+
+ To output an HTML page, open a connection to the PostgreSQL server, and run
+the query, we'll need a few commands to set this up: 
+
+ use CGI;
+$cgih = new CGI;
+print $cgih->header, "\n";
+
+use DBI;
+$dbh = DBI->connect("$database") or die $DBI::errstr;
+
+$sth = $dbh->prepare("$dbquery");
+$sth->execute;
+
+ With the perl DBI interface, however, we can format the output any way we
+like; not simply as a brute table showing all the data in the query. I'll show some examples of different formats with the same query below. Let's process
+things simply first -- remember the "rule" of perl: "There's more than one way
+to do it." 
+
+ while (@row = $sth->fetchrow_array) {
+ ($title, $type, $rating) = @row;
+
+ print "<TR><TD align=left>$title<TD>
+ " ",
+ "<TD align=right>$type<TD>
+ " ",
+ "<TD align=right>$rating<TD>
+ "<TR>n";
+}
+
+ Here, we're only printing the title, type, and rating from a video database;
+With a little extra printing of HTML code, we can manipulate individual field
+colors, make a full page surrounding the output, etc. 
+
+ Before we run the script, though, be sure to close the connections we
+opened ( $sth for the statement and $dbh for the database
+connection): 
+
+ $sth->finish;
+$dbh->disconnect;
+
+ Here's what the above lines will show, with a little extra HTML coding for
+the table, new column headers, and field colors: 
+
+ Title 
+ Type 
+ Rating 
+ Galaxy Express 999 TM* : 
+ Gasaraki T 12+ 
+ Ghost in the Shell M NR 
+ Grave of the Fireflies M NR 
+ Gunsmith Cats O 15+ 
+
+ Compare this to the shell-script method we used earlier (modified to use the
+same query as above): 
+
+ title 
+ type 
+ rating 
+
+ Galaxy Express 999 
+ TM* 
+ : 
+
+ Gasaraki 
+ T 
+ 12+ 
+
+ Ghost in the Shell 
+ M 
+ NR 
+
+ Grave of the Fireflies 
+ M 
+ NR 
+
+ Gunsmith Cats 
+ O 
+ 15+ 
+
+(5 rows) 
+
+ Optimizing Output 
+
+ We touched on a bit of optimization above, when we saw the differences
+between the shell-script and perl-manipulated scripts. But the script walked
+through above still does just a simple dump to the output. But it turns out
+that the "type" and "rating" codes are different on these lines. In order to
+make it understandable, let's expand the results (adding the listed code
+just before the 'print' command above): 
+
+ # Process "type"
+################
+ $typtmp = "";
+ $typmult = 0;
+ $typadd = 0;
+ if ($type =~ '\*') { $typtmp = "Multiple ";
+ $typmult = 1;
+ }
+ if ($type =~ 'T') { $typtmp = join("", $typtmp, "TV");
+ $typadd = 1;
+ }
+ if ($type =~ 'O') { $jointmp = "";
+ if ($typmult && $typadd) { $jointmp = "/"; }
+ $typtmp = join($jointmp, $typtmp, "OVA");
+ $typadd = 1;
+ }
+ if ($type =~ 'M') { $jointmp = "";
+ if ($typmult && $typadd) { $jointmp = "/"; }
+ $typtmp = join($jointmp, $typtmp, "Movie");
+ }
+ if ($typmult) { $typtmp = join("", $typtmp, "(s)"); }
+
+# Process "rating"
+##################
+ if ($rating =~ ':') { $rate = "Unknown/multiple rating(s)"; }
+ elsif ($rating =~ 'NR') { $rate = "Not Rated"; }
+ else { $rate = join("", "Rated ", $rating); }
+
+ $type = $typtmp;
+ $rating = $rate;
+
+ When the new script is run with these changes, the space-saving codes used
+in the actual data can be expanded to be read by humans: 
+
+ Title 
+ Type 
+ Rating 
+ Galaxy Express 999 Multiple TV/Movie(s) Unknown/multiple rating(s) 
+ Gasaraki TV Rated 12+ 
+ Ghost in the Shell Movie Not Rated 
+ Grave of the Fireflies Movie Not Rated 
+ Gunsmith Cats OVA Rated 15+ 
+
+ Another section of my pages here uses the full video database used as an
+example here. Entries include descriptions, number of episodes, reasons for 
+the various ratings, etc. You can check out a different implementation and
+extension of these same CGI scripts in the Eric's
+Recommended Anime pages. 
+
+ Next Part: 
+ Web-Based Searching 
+ (coming soon) 
+
+ Back to the PostgreSQL Tutorials List 
+
+-->
+
+ Home 
+ Reviews 
+ Clubs 
+ Conventions 
+ Shopping 
+ About Me 
+
+ Feedback Appreciated .
+
+ Copyright &copy;1994-2003 by Eric T. Jorgensen. 
+ All rights reserved. Do not copy/redistribute.

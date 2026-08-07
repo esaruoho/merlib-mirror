@@ -1,0 +1,126 @@
+PICS : A Clearing and Settlement System (CASS) for Central Banks 
+
+ Central 
+ Banks across the world are under pressure to bring in systems which 
+ can, not only automate clearing of current payment instruments, 
+ but be parameterized to such an extent that new payment instruments 
+ can also be set up by them in the future. 
+ Key 
+ Features of PICS are : 
+
+ User Defined Payment 
+ Instruments 
+
+ Non-Financial 
+ Messages 
+
+ Direct/Indirect 
+ participants 
+
+ Multiple 
+ Clearing Zones 
+
+ File 
+ Acknowledgement 
+
+ Charging 
+ Module 
+
+ Document 
+ Processor Interface 
+
+ Windows Platform 
+
+ Multiple 
+ Message Formats 
+
+ Encryption 
+
+ Compression 
+
+ FTP 
+ Transfer 
+
+ Database 
+ Independent 
+
+ User Defined Payment Instruments 
+ PICS allows a Central Bank to set up any type of financial instrument 
+ at any time. Some examples are Cheques, Bills, Drafts, Promissory Notes, 
+ Transfer Orders, Direct Debits etc. 
+
+ Non-Financial 
+ Messages 
+ PICS 
+ allows Central Banks to send Non-Financial Messages to Member Banks as 
+ well as route Non-Financial Messages between Member Banks. 
+
+ Direct/Indirect 
+ participants 
+ PICS 
+ supports Member Banks which are either Direct Participants, or Indirect 
+ Participants. Indirect Participants will present their instrument through 
+ a Direct Participant. 
+
+ Multiple 
+ Clearing Zones 
+ Most 
+ countries have different clearing zones with varying clearing periods 
+ attached to them. PICS supports multiple clearing zones. 
+
+ File 
+ Acknowledgement 
+ PICS 
+ acknowledges files sent by Member Banks. 
+
+ Charging 
+ Module 
+ PICS 
+ has an extremely flexible charging module allowing Central Banks to set 
+ up various charges to be collected from Member Banks and invoice them 
+ periodically. 
+
+ Document 
+ Processor Interface 
+ PICS 
+ can interface to a variety of document processors and encoders allowing 
+ Central Banks to compare electronic files with paper items. 
+
+ Windows Platform 
+ PICS 
+ operates in the Microsoft Windows environment on which there is a high 
+ availability of qualified personnel across the world. 
+
+ Multiple 
+ Message Formats 
+ PICS 
+ support both flat files and XML files for both Financial and Non-Financial 
+ Messages. 
+
+ Encryption 
+ Computer 
+ crimes have now become common. To ensure the Authentication, Integrity, 
+ Non-Repudiation and Confidentiality of files, PICS uses highly secure 
+ encryption techniques which conform to international standards. 
+
+ Compression 
+ Standard 
+ ASCII files, when compressed, can result in a huge saving in bandwidth 
+ and reliability of transfer. PICS compresses files using a sophisticated 
+ compression technology by up to 95% resulting in fast transfer times. 
+
+ FTP 
+ Transfer 
+ PICS 
+ has built in FTP capabilities over TCP/IP which allows the transfer files 
+ using Leased Line, Frame Relay, Dial-Up Line, VSAT or the Internet. 
+
+ Database 
+ Independent 
+ PICS 
+ is database independent allowing Central Banks to choose any RDBMS which 
+ is ANSI SQL compliant. For example, a Central Bank could choose to use 
+ Oracle, Microsoft SQL Server, Borland Interbase etc. 
+
+ * 
+ PICS was released in Q4 2001 and is running live at a Cental Bank

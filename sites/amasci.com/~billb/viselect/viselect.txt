@@ -1,0 +1,42 @@
+VISIBLE ELECTRIC CURRENT 
+
+ Visible Current 
+ An electronic device for explaining electricity 
+ A wire with giant moving electrons 
+
+Build it yourself! Or if not, this device is available through Arbor Scientific . Contact them for a
+current catalog and pricing. 
+( Catalog
+page ) Even if you don't intend to purchase this device, their catalog
+is worthwhile for the science toys and demos. 
+
+ Device construction info 
+ Suggested Demonstrations 
+ Schematic (9K GIF) 
+ PCB pattern for LED display strip (30K GIF)
+ PCB pattern for main board, component side (20K GIF)
+ PCB pattern for main board, circ side (20K GIF)
+ Component layout for main board (30K GIF)
+
+LOOKING FOR BOOKS? Try searching
+
+amazon.com : 
+
+ (try "science fair" too) 
+
+Help Support the Science Club ,
+ use the above form to buy your books. 
+(We make a few $$ on any books ordered via these links.) 
+
+ Other articles on making 'electricity' visible: 
+
+ Explaining 'electricity' visually with red and green plastic sheets
+ Electrometer Grid Panel makes e-fields visible
+ Ridiculously Sensitive Charge Detector 
+ Slow motion Lightning 
+ Magnetic and electric field viewing bottle 
+ Plasma globe without glass or a vacuum
+
+Created and maintained by Bill Beaty . Mail me at: billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

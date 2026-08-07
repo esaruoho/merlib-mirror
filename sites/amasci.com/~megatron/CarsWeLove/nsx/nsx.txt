@@ -1,0 +1,3 @@
+PERFORMANCE DATA 0-60: 5.2 sec 1/4 Mile: 13.7 sec Skidpad: 0.93g Top Speed: 162 MPH Braking 60-0: 117 ft 
+
+ SPECIFICATIONS 3.0L DOHC 24 Valve V-6 Horsepower: 270 bhp @ N/A Torque: 210 lb-ft @ 5300 rpm Curb Weight: 3020 lb

@@ -1,0 +1,72 @@
+Dobe Doinat's Punny Name Archive Directory (Source in Text) 
+
+ Dobe Doinat's PNA Source Code
+
+ (Converted to text for display) 
+
+ <root-PNA-dir> : Type Size 
+
+ dobeDefaultEN.CSS .TXT 11Kb 
+ dobeContextMenu_htm.TXT .TXT 11Kb 
+ PNA_dir.htm .TXT 1Kb 
+ index.html .TXT 11Kb 
+ PNA500_XHTML_htm.TXT .TXT 70Kb 
+ PNADataIsland_htm.TXT .TXT 12Kb 
+ PNAdobeWebTut_htm.TXT .TXT 362Kb 
+ PNASiteMap_htm.TXT .TXT 18Kb 
+
+ write_Copyright_EN_JS.TXT .TXT 1Kb 
+ write_MenuLinks_EN_JS.TXT .TXT 2Kb 
+
+ PNAReadme.TXT .TXT 1Kb 
+ write_MenuLinks_EN_js.TXT .TXT 2Kb 
+
+ JohnWHartman_Resume_XML.TXT .TXT 3Kb 
+ PNA.XML_TXT .TXT 151Kb 
+ PNA500_XML_XML.TXT .TXT 151Kb 
+ PNA500_XSLT_XML.TXT .TXT 151Kb 
+
+ JohnWHartman_Resume_XSL.TXT .XSL 9Kb 
+ PNA_XSL.TXT .TXT 2106 
+ PNA500_XSLT_XSL.TXT .TXT 3Kb 
+
+ <root-PNA-dir>/_dobeTutAllCommon : 
+ Source Not Shown (Graphics) 
+ See PNA_dir.htm 
+
+ '<root-PNA-dir>/_dobeFrames_REF': Type Size 
+ 0_TOC_Frames_START_dobeTutAll_htm.TXT .TXT 1Kb 
+ 0_TOC_Frame_Target_dobeTutAll_htm.TXT .TXT 4Kb 
+ Blank_htm.TXT .TXT 1Kb 
+ dobeIFrameTemplate_htm.TXT .TXT 1Kb 
+ dobeNest1FrameTemplate_htm.TXT .TXT 1Kb 
+ dobeNest2FrameTemplate_htm.TXT .TXT 1Kb 
+ dobeSimpleFrameTemplate_htm.TXT .TXT 1Kb 
+ Generic_htm.TXT .TXT 1Kb 
+ LinkedTextBANNERframe_htm.TXT .TXT 1Kb 
+ LinkedTextCENTERframe_htm.TXT .TXT 1Kb 
+ LinkedTextFOOTERframe_htm.TXT .TXT 1Kb 
+ LinkedTextRIGHTframe_htm.TXT .TXT 1Kb 
+ noframes_htm.TXT .TXT 1Kb 
+ OriginaltextBANNERframe_htm.TXT .TXT 1Kb 
+ OriginaltextCENTERframe_htm.TXT .TXT 1Kb 
+ OriginaltextFOOTERframe_htm.TXT .TXT 1Kb 
+ OriginaltextRIGHTframe_htm.TXT .TXT 1Kb 
+ OriginaltextTOCframe_htm.TXT .TXT 1Kb 
+ Parent_htm.TXT .TXT 1Kb 
+ Self_htm.TXT .TXT 1Kb 
+ text1_htm.TXT .TXT 1Kb 
+ text2_htm.TXT .TXT 1Kb 
+ text3_htm.TXT .TXT 1Kb 
+ text4_htm.TXT .TXT 1Kb 
+ Top_htm.TXT .TXT 1Kb 
+ typical_htm.TXT .TXT 1Kb 
+ units_htm.TXT .TXT 1Kb 
+ units2_htm.TXT .TXT 1Kb 
+ units3_htm.TXT .TXT 1Kb 
+ units4_htm.TXT .TXT 1Kb 
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

@@ -1,0 +1,30 @@
+
+Playoff Standings
+1st Round      2nd Round              3rd Round              Finals
+(Best of 5)    (Best of 7)            (Best of 7)            (Best of 7)
+1 SA  (3) __
+8 Min (1)   |_ 1 San Antonio (4) __
+             _ 5 Dallas (1)        |
+4 Uta (2) __|                      |_ 1 San Antonio (0) __
+5 Dal (3)                           _ 2 LA Lakers (4)     |
+                                   |                      |
+2 LAL (3) __                       |                      |
+7 Por (0)   |_ 2 LA Lakers (4)  ___|                      |
+             _ 3 Sacramento (0)                           |
+3 Sac (3) __|                                             |
+6 Pho (1)                                                 |_ 2 LA Lakers (4)
+                                                           _ 1 Philadelphia (1)
+                                                          |
+1 Phi (3) __                                              |
+8 Ind (1)   |_ 1 Philadelphia (4) _                       |
+             _ 5 Toronto (3)       |                      |
+4 NY  (2) __|                      |                      |
+5 Tor (3)                          |_ 1 Philadelphia (4) _|
+                                    _ 2 Milwaukee (3)   
+2 Mil (3) __                       |
+7 Orl (1)   |_ 2 Milwaukee (4) ____|
+             _ 6 Charlotte (3)  
+3 Mia (0) __|
+6 Cha (3)
+ 
+

@@ -1,0 +1,717 @@
+---
+title: "Winter Princess"
+source_domain: amasci.com
+source_path: ~vecna/princess.htm
+order: 9514
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:17:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Winter Princess
+
+*Source page: `~vecna/princess.htm`*
+
+# Winter Princess
+
+### by Christine Morgan
+
+------------------------------------------------------------------------
+
+    Winter Princess
+    1994 Christine Morgan (vecna@eskimo.com)
+        "Sir! Sir!"
+        Richard turned, masking an impatient scowl. He had just
+    come from the bathing chambers beneath the castle, and was eager
+    to get to his rooms and relax. The last thing he wanted was to see
+    one of the King's Stewards hurrying toward him.
+        "Yes?" he said, trying not to snap.
+        He had spent half the day with the Royal Treasurers, going
+    over the military budget for next year, and the other half with the
+    Talmaran ambassador. The king had been present for that meeting,
+    and tempers had run high as old greivances were dredged up like
+    muck from the bottom of a moat. Miraculously, the king had
+    presented himself as befits a proper monarch, for once showing none
+    of the madness that was both curse and tradition of Tarlakian kings.
+        "It's the king, Sir," the steward said breathlessly.
+        Spoken too soon, Richard thought. "What has His Majesty
+    done now?" he asked wearily, resigned to hearing another account of
+    setting cats afire or stripping off of clothes in the grand hall.
+        "He's gone mad!"
+        "He has been mad since he was seventeen," Richard pointed
+    out, not even trying not to snap this time. "Like his father and his
+    father's father before him. This is news to no one's ears."
+        "No, sir, worse than usual! He's taken the princess hostage,
+    and is unwilling to be reasoned with."
+        Alarm struck Richard like a whip. "Alexandra! Where is she?
+    What has he done?"
+        "This way." The steward led him, continuing to speak. "I've
+    not seen him this bad before, Sir Richard. He screams at those who
+    are not there, sometimes those long dead, and believes these
+    unseen foes to be attempting to wrest his daughter from him. In
+    vowing that she would come to no harm, he seized her and dragged
+    her to the north tower, locking her therein. He stands there now, axe
+    in hand, demanding masons come to wall up the door with the
+    princess within, to keep her safe."
+        "In the north tower?" Richard's long strides forced the man to
+    trot to keep up. "Dorian help us, she's hardly safe there! It's been
+    closed off for years. She'll be dead of the cold by morning."
+        "We've delayed him by promising that a mason has been
+    sent for, though of course one hasn't --"
+        "You've spoken falsehood to your king?"
+        The steward snorted. "When the king is known to insist that
+    white ships sail the sky, that giant snakes dwell beneath the privy,
+    and that his ladywife yet lives but is hidden from him, how is he to
+    know a falsehood from the truth? Even if we had sent for a mason,
+    with the storm it is unlikely that a messenger could reach the city.
+    The king has already nearly killed Grushen. We would have told him
+    anything in order that he might lay down the axe and let us get
+    Grushen to the Dorus. If only the priests could help the king! Alas that
+    we have no church to Lunari, for although his madness does not
+    seem moon-made, Lunari's priests might have some way to help."
+        They reached the north tower and began climbing the
+    curving stone stair. Richard could hear voices above, the wild shouts
+    of the king and the desperate attempts of others to calm him. He
+    could not hear Alexandra, and knew it to be for the best. Had she
+    been screaming, no force on earth would have prevented him from
+    going to her. Loyal though he was to Tarlak, he would kill the king
+    himself to prevent Alexandra from suffering the slightest harm.
+        "You alone might be able to make him hear sense," the
+    steward said. "Failing that, you alone in all Tarlak would dare lay
+    hands upon him, especially on the princess' behalf."
+        Chagrined that he could be seen through so easily, Richard
+    hastened his pace. He reached the landing just in time to see one of
+    the castle guards reel back, blood flying in a dark spray. The king's
+    axe swept back, ready to cleave the poor man's head from his neck.
+        "Ludwig!" Richard barked. His voice, trained to command
+    and hardened by years of leading armies, was thunder in the corridor.
+        The king faltered, his swing going wide. The wounded guard
+    scrambled out of reach. The group that had been clustered around
+    the king fell back to a safer distance.
+        King Ludwig of Tarlak had once been and still could be a
+    handsome man, when his face was not distorted by frenzied insanity.
+    Mad he assuredly was, but weak he was not. The axe he held before
+    him was called Bonesplitter, crafted by the same smith that had
+    forged Richard's own blade, Frostfire. Both weapons were of
+    exceptional quality, and also enchanted by one of Tarlak's few
+    sorcerors. Bonesplitter's etched blade was now sheathed in blood.
+        "Stay back!" the king cried, brandishing the axe. "You're no
+    different from the rest of them! You'll not take my daughter from me!"
+        "Sire," Richard said, moving cautiously closer and hoping he
+    would not be forced to draw steel on his own king, though glad that
+    Frostfire was securely belted to his waist. "Sire, it is cold in there.
+    Alexandra will not last the night. Let her go to her own rooms."
+        "You'd like that! They could reach her then. She stays where
+    she is, safe!"
+        "She is not safe there. She'll freeze." He raised his voice.
+    "Princess?"
+        "Richard?" She was muffled by the thick door, but she
+    sounded calm. Perhaps only he, who knew and loved her better than
+    any other, could hear the faint tremor of fear. "He's locked the door."
+        The king cackled. "Yes! It is locked! To keep you safe, my
+    angel! Your mother wants it thus. No one will hurt you now."
+        "Father, please. No one is going to hurt me."
+        "True, for I will see to it until my dying breath!" the king said.
+    He glared at Richard. "And you'll not go near my daughter! I'll not see
+    her sullied by your hands!"
+        "Sire, I vow to you, she will not be harmed," Richard said. He
+    advanced, keeping his hands well out to his sides. With luck, the king
+    would forget Frostfire's power to fly to its weilder's hand. "Have I not
+    always been your loyal servant?"
+        "Your loyalty is more to Orain than Tarlak!" the king sneered.
+    "You are as a brother to Orain's king. You are more often there than
+    here. Your father served me, but I see little of the father in the son!"
+        Richard refused to show his reaction, for that was what the
+    king wanted. Such was the way of the mad, to find by some nearly
+    divine instinct the accusations and insults most painful.
+        He had of late been wondering where his future lay. Tarlak
+    was his birthplace, his home. Tarlak was where dwelt the woman he
+    cherished above all others. Yet Orain welcomed him with a warmth
+    that Tarlak's snowy mountains could never rival.
+        King David was, as Ludwig had said, as a brother to Richard.
+    David's queen, Rowena, was a dear friend and had once been much
+    more, although they kept well-buried the secret of their affair. No one,
+    not even David, knew that for a brief time while the king was
+    supposedly dead and gone in an avalanche, Richard and Rowena had
+    turned to each other in grief and consoling passion.
+        It was in Orain that Eleanor lived, the daughter of David and
+    Rowena, now eighteen and more beautiful with each passing day.
+        Eleanor, no matter how young and beautiful and kind, could
+    not compare to Alexandra. The princess of Tarlak was as dark as
+    Eleanor was fair, with a strength of will more akin to that of Rowena.
+    Alexandra was Tarlakian, raised as he had been raised, not
+    expecting nor demonstrating outpourings of affection. Eleanor had
+    always protested Richard's outward coolness.
+        He shook the thoughts from him the way a dog might shake
+    off water. "Your Majesty," he said, emphasizing the words in hopes of
+    bringing Ludwig back to himself. "You must stand away from the
+    door. Lay down the axe."
+        "Who will take it from me? You, Richard?"
+        "If I must." He moved even closer. He was now within the
+    king's striking distance and so watched him carefully for the first
+    subtle hint of action.
+        "Another step and I'll cleave you in twain! If I do not protect
+    my daughter, who will?"
+        "I will, sire. I am sworn to."
+        "You cannot! Not from these foes! Your eyes cannot behold
+    them, but mine can! They are the same as those who stole my
+    Leonilla away. I yet can hear her screaming from her prison, and
+    none will aid me in finding her!"
+        "Permit me to aid you," Richard said. It was pointless to tell
+    the king that his wife was dead. He had never accepted it, not since
+    the Dorus had brought the terrible news that the queen had died in
+    childbirth. His madness, largely dormant until then, had surged forth
+    with frightening suddenness. "We will search the castle from spire to
+    dungeon if it will please you. We will find her if she is here."
+        "They'll move her! They do, whenever I search! I knew surely
+    as I knew my own name that she was in the nursery, but when I went
+    there they had hidden her elsewhere! They are to swift, too clever!
+    How am I to know that you are not in league with them?"
+        "Upon my honor, I am not."
+        The axe had lowered slightly, no longer ready to strike.
+    "You'll help me, then? Perhaps if we both search, seperately, they'll
+    not be quick enough."
+        "A wise plan, sire. Will you have need of Bonesplitter during
+    our search?"
+        "Nay, perhaps not." He leaned the axe against the wall.
+        The servants and guards sighed in relief, and Richard felt
+    some of the tension melt from his shoulders.
+        "Now, open the door and free Alexandra," he said.
+        The king turned to the door. He closed his hand around the
+    large iron key. He glanced back over his shoulder at Richard. "So
+    that's your plan, is it?" he growled. "You'll not fool me so easily!" With
+    the incredible strength born of madness, he snapped the key off in
+    the lock.
+        "Bugger!" Richard sprang forward.
+        Ludwig moved swiftly, whirling and seizing the axe.
+        Frostfire leaped to Richard's hand.
+        The axe rose in a deadly silver arc and poised at the top,
+    ready to fall.
+        Richard brought Frostfire's pommel down on Ludwig's
+    unprotected head.
+        Bonesplitter clattered to the floor. The king's eyes rolled
+    back. Richard caught him as he fell and gently lowered his
+    unconscious body.
+        "My apologies, sire," he said.
+        "Richard, what has happened?" Alexandra called through the
+    door.
+        He went to it, pressing his hand flat against it as if he could
+    touch her through it. "All will be well, princess. Your father is resting."
+    He examined the lock and tried the handle. "It seems the lock is well
+    and truly stuck, however."
+        The steward came up beside him. "Will the door not open?"
+        "It will not. 'Tis far too well-made to be broken down without
+    benefit of a battering ram, and the hall is too short and curved for
+    such. We must send for a locksmith."
+        "Sir?" the steward said hesitantly.
+        "What is it, man?"
+        "The storm, sir. We can no more send to the city for a
+    locksmith than we could have for a mason when the king demanded
+    one."
+        He swore again, a more vile oath this time, and hurled his
+    shoulder against the door.
+        "Richard!" Alexandra reprimanded him.
+        He winced, having momentarily forgotten that she could hear
+    him. "Forgive me. You appear to be trapped."
+        She would not panic. "It is rather cold in here. I've no means
+    to start a fire, and nothing to burn except the furniture."
+        "I'll have this door down if I must gnaw it with my teeth,"
+    Richard vowed.
+        "I hope that will not be necessary," she said. "You did have a
+    large supper."
+        "I am pleased that you maintain a sense of humor, princess,"
+    he said, studying the door. "I pray it is enough to keep you warm."
+        The servants had lifted the king and were carrying him away.
+    The wounded guard had likewise been taken downstairs. Richard
+    looked at the steward.
+        "Perhaps the axe?" the steward suggested.
+        Richard hefted Bonesplitter, considering. "Nay," he said at
+    last. "When King Boris built this section of the castle, he ordered the
+    doors made of ironwood around a core of solid metal. The hinges are
+    within -- Alexandra!"
+        "Yes?"
+        "Can you see the hinges?"
+        "It is too dark to see them. I've tried already to loosen them,
+    but there is naught here to use as a tool."
+        "No good anyway," he said. "They are likely enclosed. Tell
+    me what else is in the room."
+        "A fireplace, though dark and cold. A bed and other furniture,
+    all draped with cloth against the dust. That much I saw before the
+    door closed."
+        "Windows? Balcony?"
+        "A moment."
+        He heard her move away from the door, stumble over
+    something in the dark, and his fists clenched in anger at whatever
+    had tripped her. If she fell, if she got hurt ...
+        The distant whine of the wind suddenly loudened, and a chill
+    draft swept beneath the door. It cut off as suddenly.
+        "There is a balcony," she called. "I opened the door, but the
+    wind and snow are too fierce to see much more than that."
+        "Good enough. Alexandra, listen to me. Take some of the
+    dropcloths, dusty though they may be, and bundle yourself well. I will
+    be there soon."
+        "What?"
+        "Trust me, princess." He touched the door again, gently, then
+    caught himself and glanced at the steward. It would not do for the
+    other man to witness him further betraying his feelings.
+        The steward had not been paying attention, or else had
+    looked away in time. He now met Richard's eyes. "What do you plan,
+    sir?"
+        "Have my horse saddled. I will need a length of rope, a
+    bundle of wood, flint and steel, and some food. Oh, add some
+    brandy, and have one of Alexandra's maids fetch her warmest cloak
+    and boots."
+        "You cannot fly in this weather!" the steward said.
+        "I must."
+        "You can do no good to Tarlak if you seek your own death by
+    blizzard," the man argued. "The wind will surely throw you against the
+    battlements, or pluck you from your steed's back and send you to the
+    stones below."
+        He calmly grabbed the steward by the neck. "If I do not
+    attempt this, the princess will be dead by morning," he said flatly. "I
+    can do no good to Tarlak if I seek my own death by my sword, which
+    is what I would do if I failed to save her yet lived myself. Now be
+    quick about it!" He gave him a rough shake and let him go.
+        The steward wasted no time getting about his tasks. Richard
+    watched him go, then skimmed his fingers across the door once
+    more. Too quietly to be heard through the ironwood, he whispered
+    her name. Then he strode to his own chambers and donned heavier
+    furs over his clothes. He laced his hood, edged with wolverine fur that
+    did not collect frost, pulling it tight over his face so that only his eyes
+    peered out.
+        His sword, Frostfire, carried many enchantments. Not only
+    did the blade burst into flame or sheath itself in ice, hence it's name,
+    but it also had the power to protect him from the worst extremes of
+    weather. The icy Tarlakian snows or the blistering Symbyan heat
+    could not harm him so long as the blade was at his side. Still, he
+    bundled well for he dared not take chances.
+        The courtyard was a swirling white nightmare. Pellets of ice
+    stung when they chanced to strike his skin. The wind was like a living
+    thing, buffeting him with fists of air.
+        Korshoka was waiting, saddled and ready. He tossed his
+    head and spread his wings in anticipation, undaunted by the sounds
+    of the storm.
+        Richard looked over the items the steward had assembled.
+    He packed them into a large leather sack and strapped it to the
+    horse's back.
+        "If I fail," he said to the steward, "you must find some other
+    way to get her out of there. If that means risking a man's life to send
+    for a mason or locksmith, so be it. There ought not be a shortage of
+    men in this castle who would offer."
+        "It shall be done," the steward said.
+        Richard nodded curtly, led Korshoka out into the whirling
+    wind, and swung into the saddle. He patted the winged horse heartily
+    on the neck. "Let us fly, boy. To the north tower!"
+        Korshoka galloped into the teeth of the wind and spread his
+    majestic white wings. He did not soar gracefully into the air was was
+    his usual wont, but laboriously as an aged woman climbing steep
+    stairs. For the first time since taming the magnificent beast, Richard
+    feared falling. He wrapped his hands so tightly in the reins that he
+    could feel the constriction even through his thick gloves.
+        The freezing wind cut through Richard's clothes and would
+    have numbed him had he been unprotected by Frostfire's sorcery.
+    Hail battered him. He could only wonder how punishing it was to the
+    noble Korshoka, but the horse flew on, perhaps sensing the urgency
+    of Richard's mission.
+        The storm was stark white and dead black, silence and
+    deafening sound. Spires and rooftops loomed suddenly into view,
+    causing hair-raising narrow misses. Once a pennant flapped across
+    Korshoka's eyes. The winged horse's response to sudden blindness
+    was to fly as high as he could, to avoid more groundward obstacles,
+    but as they flew above the level of the buildings, the wind exploded
+    around them.
+        Leaning perilously forward, Richard let go of the reins with
+    one hand and grappled for the pennant. It eluded his grasp again and
+    again, until he finally snagged it and tore it loose. Sighted again,
+    Korshoka began descending.
+        Two tall catapult towers rose high above the keep. The wind
+    was channeled between these, and much as water channeled
+    between two stones gains in power and strength, so too did the air.
+    The result was a current of wind akin to the rapids of the deadly
+    Three Lost River. It was into these rapids that Korshoka's descent
+    took them.
+        Richard barely knew what had happened. One moment, they
+    had been fighting their way steadily downward. The next, they were
+    flung halfway across the sky. Earth and heaven swapped places
+    more than once. A new storm burst around Richard, not of snow but
+    of snow-white feathers shredded from his mount's wings. Gravity
+    tugged at them with terrible mortal force. Richard squeezed
+    Korshoka's sides tight with his legs.
+        Swift prayers flashed through his mind. He prayed to Dorian
+    to continue granting him precious life, for he risked it out of love for a
+    woman. He prayed to Aslan as well, on his horse's behalf. He prayed
+    to Stratos the storm god. He even offered a quick prayer, in case all
+    the others failed, to Lunari, whose task it was to judge the deceased
+    and assign them whatever reward they had earned.
+        One of the gods at least must have been listening. Korshoka
+    regained control, righting himself, and veering just in time to avoid the
+    bulk of a tower. Richard squinted into the hail, ascertaining that it was
+    their destination, and guided Korshoka close to the wall, where they
+    were shielded somewhat from the wind.
+        They flew alongside the tower until Richard saw the balcony.
+    His heart sank. It was barely wide enough to land upon even under
+    the best of conditions. Below was a sheer drop, not to the sloped
+    rooftops of other buildings but straight to the rocky ground. No snow
+    had piled in a comforting cushion here; the rocks had been scoured
+    clean by the wind.
+        "We must try," he shouted into the horse's ear, his words
+    snatched from his mouth the moment they passed his lips. He urged
+    the horse down.
+        Their first attempt was angled incorrectly. They pulled up and
+    looped around, riding the air currents when they could because the
+    horse was tiring. Richard slapped his neck encouragingly.
+        The second attempt was perfect, as if the sky had been
+    crystal-clear and the air still as a tomb. Korshoka's hooves struck the
+    stone and he folded his wings against his sides.
+        "Good lad!" Richard cheered. He unwound the reins from his
+    fist and prepared to dismount. He raised his voice to its loudest.
+    "Alexandra!"
+        She opened the door at once, as if she had divined his plan
+    and been waiting for his call. Wrapped all in white, strands of dark
+    hair escaping her braid to stream in the wind, she resembled a spirit
+    out of legend. She reached out one slim hand.
+        The balcony crumbled beneath them.
+        Richard was hurled back by the sudden motion. He tipped,
+    unbalanced. Only by seizing a handful of mane was he able to keep
+    his seat, and his life.
+        He heard Alexandra scream his name and looked up to see
+    her, framed in the doorway with the broken edge at her feet. She was
+    still reaching for him, receding in his vision.
+        Amid a shower of stones and masonry, they were falling.
+    Korshoka whinnied shrilly, desperately beating his wings. One of
+    them struck Richard with nearly bone-breaking force. A melon-sized
+    chunk of rock whistled past his head and smaller pieces pelted him.
+        He saw more of the balcony let loose and suffered the
+    terrible premonition of the princess falling after him. His own certain
+    death was suddenly a blessed relief, for he would not live to see her
+    body broken, her lovely dark eyes sightless and empty.
+        Korshoka banged against the wall and whinnied again, this
+    time in pain instead of fear. His shod hooves struck sparks when he
+    kicked off. Richard clung to the saddle. He'd lost his hold on the
+    mane when the fine white hair had torn out in clumps.
+        The wind gusted fiercely. Korshoka spread his wings and the
+    gust flipped them upward, allowing the horse time to recover.
+        When he felt control return and realized he would live after
+    all, Richard shrieked, "No!" into the howling storm.
+        A life without Alexandra was a life of incomprehensible
+    bleakness. He had lost another love when he was too young to fully
+    appreciate her, and that loss had been nearly unbearable. He would
+    lose Alexandra, after he'd loved and admired her for years and seen
+    her through suffering of her own. He had waited too long. They might
+    have been married ten years ago, there might have been children,
+    heirs for Tarlak, but he had been enchanted by wanderlust, seduced
+    by the languid warmth of southern climes, too busy with his friends in
+    Orain, and now she was gone, gone, gone!
+        Korshoka soared high and swung around and the hated
+    tower came into view again. The loyal steed was still trying to reach
+    the balcony.
+        Richard's heart stuttered in his chest when he saw the
+    slender figure still in the doorway. She waved to him and he laughed
+    aloud, permitting himself tears of joy because no one could see him
+    and no one would know of his momentary weakness.
+        They flew closer, but there was nowhere to land. The horse
+    could not fit through the opening. No other balconies were near, even
+    had they been sturdy enough. Richard saw as they passed how pale
+    Alexandra was. Whatever warmth the room might have held was
+    surely stolen now as she stood with the door open, watching him. He
+    wanted to motion to her to close it, but knew that he was her only
+    chance of survival.
+        He twisted in the saddle and fumbled with the sack secured
+    behind him. His fingers were stiff and clumsy in his gloves. It took
+    him too long to free the sack. Korshoka fought valiantly to keep to the
+    air, though by now the horse's wings must have ached and the chill
+    must be driven deep into his bones.
+        Richard tied the end of the rope around the sack and lowered
+    it, careful not to upset the rhythm of Korshoka's flight. Alexandra
+    moved back, understanding his intent to swing the bundle through
+    the door.
+        He urged the horse as close as he dared. Korshoka was not
+    made to hover in flight as a hummingbird, but he was able to stay
+    steady, as one swimming upstream against a strong current, by
+    exerting titanic effort against the strong wind.
+        The bundle swung, a heavy pendulum, fighting the wind. Just
+    as Richard was beginning to despair of ever getting it close to the
+    doorway, a freak gust caught it and tossed it neatly in. He had the
+    presence of mind to let go of the rope and saw Alexandra haul the
+    bundle away.
+        Another gust came up crosswise, flipping Korshoka. Richard
+    was flung from the saddle. He felt open sky and knew that there was
+    no chance this time. He had perhaps saved Alexandra, but at great
+    cost.
+        He heard her scream. Gods, how he wished it hadn't been
+    this way! She would see him die, the third death of a suitor she'd
+    been forced to witness.
+        He slammed into the wall, and despite a huge flash of pain
+    found the will to scrabble frantically for a handhold. Men of Tarlak
+    fought to the last.
+        His fingers snagged on the edge of the balcony. A stone
+    came loose in his hand. The horrid drop yawned beneath him. He
+    clung, feet flailing against the wall for purchase, finding none. The
+    wind snatched at him.
+        He lacked the strength to pull himself up. Soon the wind
+    would weary of this game, or his arms would give way.
+        A small, slim hand closed over his wrist. He jerked his head
+    up and looked into the velvet-dark eyes of Alexandra.
+        "No!" he gasped. "No, you'll fall!"
+        "Hold on!" she demanded. With her other hand, she passed
+    him the end of the rope.
+        Trusting her utterly, he seized it. It did not slither loose and
+    plunge him to his death. She must have tied it to something. He
+    began to climb. Alexandra half-dragged him into the room just as his
+    strength was about to give out. He slumped to his knees on the stone
+    floor, unable to control a fit of trembling.
+        "Korshoka!" he heard Alexandra command. "Stable! Stable,
+    Korshoka!" Then she slammed the door, struggling against the wind
+    that fought to fling it open.
+        The next thing he knew, she was kneeling beside him,
+    helping him stand. He unlaced his hood. She looked up at him. For a
+    long moment, they said nothing.
+        "By the gods, Richard, you're as mad as my father," she
+    finally said.
+        "Hardly. I would never lock you away from me," he replied,
+    able to jest although he was still shaking from the ordeal. He held her
+    gaze, his eyes speaking more than his mouth would ever dare, his
+    eyes speaking of his desire to take her in his arms, stroke her soft
+    hair, caress her smooth cheek, kiss her rosepetal lips.
+        In her eyes, he saw or imagined he did a similar yearning,
+    but then as a curtain dropped before a window the look was gone
+    and she was all princess once more.
+        "Your hands!" she said, turning them so the scraped palms
+    showed. "Where else are you hurt?"
+        "Why do you ask?" he ventured boldly, teasingly. "Do you
+    plan to kiss my wounds as a mother might?"
+        "Is that how you think of me, Richard? As a mother?"
+        "As Dorian is a mother, and also the embodiment of beauty.
+    So too are you."
+        She smiled. Alexandra had been surrounded by suitors since
+    she was fifteen. She had become expert at the subtle interplay of
+    flirtation. Richard had seen her offer such smiles to countless hopeful
+    men. Each would go away believing that he had thawed a bit of the
+    ice reputed to enseal her heart. Those smiles, though, never quite
+    reached her eyes as this one now did, telling him that he was unlike
+    the others, that there was genuine warmth in her regard for him.
+        Or else, he thought, it seemed that way to each man and he
+    was no different. How could he know otherwise? Alexandra was no
+    Orainian woman, to speak freely of love and affection. She was of the
+    royal house of Tarlak. More, she had been close to marriage twice,
+    nearly engaged. Both of those men had died untimely, in both cases
+    with her as witness. The tragedies had made her hesitant to
+    encourage others. In uncharacteristic solicitude, the royal court had
+    not pressed her to marry although she was the only heir to the throne
+    and had seen thirty winters already.
+        "And you are the very soul of bravery, to risk yourself and
+    your steed to bring me food and fire in my hour of need."
+        Seeing her breath, which puffed visible as she spoke,
+    Richard realized that the cold of the tower room was taking a toll on
+    her. "Fire? Not yet, though I shall at once see to it. Here, take
+    Frostfire. Its magic will ease your chill. You will find a cloak of yours
+    therein. I suggest you don it, and perhaps take some brandy as well."
+    He began stacking wood in the fireplace and coaxed it into a blaze.
+        When it was burning well, he turned and saw Alexandra. The
+    light did not so much illuminate her as love her, touching her dark
+    hair with auburn and gold. The braid falling to her hips, her fur cloak,
+    and her determined cheekbones made her seem a figure of northern
+    legend, a warrior-goddess.
+        She was twelve years his junior, though the difference in age
+    did not show because the men of his family were oddly blessed to
+    appear mature while still in boyhood, yet not showing signs of age
+    until well past sixty. His hair was untouched by frost, his face lined
+    only by experience, his body strong as it had been as a youth of
+    twenty.
+        As a youth of twenty, he had never imagined that he would
+    one day love the princess. She had been a child then, pretty but
+    unremarkable, and he had loved another. Vrushenka had been
+    childhood playmate, first love, sister-in-arms. They had trained as
+    warriors together over her mother's protests, gone to battle together,
+    and would have been married had other obligations not interfered.
+    Vrushenka had given her life to save Alexandra's, when the malicious
+    Count Markoff had kidnaped the young princess.
+        Looking at Alexandra now, he suddenly realized that his love
+    for her was due in part to his loss of Vrushenka. He had left Tarlak
+    after her death, wearing his sorrow like a yoke. During his travels, he
+    had befriended David, Prince of Orain. Their adventures together had
+    spanned many years. When Richard finally returned home, he found
+    that the princess had grown from child to woman, and loved her more
+    because Vrushenka had valued her enough to die on her behalf.
+        He went to her, meaning to crush her tenderly into his
+    embrace. Mistaking his intent, or perhaps recognizing his intent and
+    sidestepping it, she held out the flask of brandy. He drank from it as
+    she had, their lips touching the same surface moments apart. It was
+    a poor substitute for the kiss he had wanted.
+        She took it back from him, produced a handkerchief, and
+    wetted the end with brandy. "Now hold still," she commanded, holding
+    his wrist and dabbing the cloth against his abrasions.
+        Richard showed no pain except in the tightening of his jaw,
+    though it stung like fire. She cleaned both hands, then knelt
+    gracefully to tend a scraped knee through a hole in his trousers. The
+    sight of her kneeling before him, her head on a level with ... he
+    stumbled backwards, drawing in a sharp hiss of breath as he
+    banished the arousing thoughts from his mind.
+        She looked up, concerned. "The wound must be cleaned no
+    mater how it pains you," she scolded gently.
+        "I shall tend it myself," he said.
+        Carefully expressionless, she rose and offered him the cloth.
+    He took it without speaking. She retreated to the long sofa before the
+    fire, drawing her feet up beneath herself. The light flickered and
+    danced along her temples.
+        Finished with his wounds, he dug into the sack and came up
+    with the food the steward had provided. A hard round loaf of bread, a
+    wedge of cheese, a large chunk of smoked devilfish, some winter-
+    shriveled apples. He hadn't yet eaten and his stomach began
+    speaking. He sat by Alexandra, not as close as he would have liked,
+    and divided the food between them.
+        With food and fire, their spirits soon lightened. He told her
+    tales of his adventures, sharing the amusing or exciting and leaving
+    out those dark and grim. Her laughter was a delight to him. The men
+    who followed him on the battlefield might not have recognized their
+    commander, usually stern and silent, mimicking a goblin or the rapid
+    accents of a Rakvian merchant.
+        "Rakvi is the land of a thousand sayings," he told her. "Each
+    one more absurd yet profound than the last. You would find it
+    amusing, Highness. If, that is, you would consent to be veiled and go
+    nowhere without a male escort."
+        "Would you prefer that, Richard? Would you wish me to walk
+    at your heel docile as a lamb?"
+        "You would not walk at my heel. A free woman, being
+    courted, would walk at a man's side. Right or left, I disremember
+    which. But in answer, no. I would not want to see your beauty veiled.
+    Anatole Himself would be moved to tears if His divine light could fall
+    no more upon your face."
+        "I note that you made no mention of docility," she said with a
+    slight smile.
+        "You would never be docile, lady. Any man would be a fool to
+    wish it." He kissed her hand.
+        "You are not a fool, then?"
+        "I did not say that. If I am foolish, it is with different cause."
+    Still holding her hand, he turned it over and pressed a lingering kiss
+    into the palm, a daring move but well worth it as she allowed her eyes
+    to drift closed. He dared even more with his next words. "Alexandra.
+    Ah, gods, I feared you would be harmed, and the thought alone
+    nearly destroyed me."
+        "I, too, was frightened," she admitted. The dim light, the
+    solitude, seemed to make these confessions easier, Damon's
+    darkness a comforting cloak that permitted disclosure. "When I saw
+    you fall, I knew fear sharp as an icicle."
+        "I pray to never again cause you fear or sorrow," he said
+    earnestly. "I am and shall always be your devoted friend. Had
+    something happened to you, I know not what I would have done."
+        She slid closer to him, resting her hand on his arm. "I am
+    safe, dear Richard, my most loyal protector."
+        "I will always be so, if you are willing."
+        "Can you in faith make such a vow? You might someday
+    have other obligations."
+        "Only death could prevent me from fulfilling a promise to you.
+    Do not doubt me. My resolve is firm."
+        "Is it?" she asked, in her voice a sudden and surprising
+    throaty purr.
+        He blinked, startled at her boldness, then smiled. "Very. Firm
+    as iron, as it always is when I am with you."
+        She slid even closer, settling his arm around her as
+    comfortably as if it had been thus many times before, though aside
+    from dancing he had never touched her so intimately. She rested her
+    head on his shoulder. "For once, we are alone."
+        "Yes," he said, unsure, wondering what she meant by it, if
+    she was offering some invition or merely commenting on the
+    peacefulness. Probably the second, he decided. Now that they were
+    warm and rested, the sound of the storm outside seemed no longer
+    threatening but enclosing.
+        Alexandra sighed contentedly. "I could fall asleep here. Not
+    for a long time have I felt so secure."
+        "Sleep if you wish. There is little else to do until the locksmith
+    arrives, and that will not be until tomorrow at the earliest."
+        She laughed softly. "How many men, in this situation, would
+    say such a thing? Here, alone together with no way for anyone to
+    intrude, how many men would not attempt some indiscretion?"
+        He placed his fingertips under her chin and tipped her head
+    up. "I cannot speak for other men. For myself, I will let my actions be
+    the answer."
+        For a moment, she stiffened under his kiss and he was sure
+    he'd misjudged, but then she melted sweetly against him. How long
+    had it been since a man had kissed her, he wondered? Since the
+    death of her last suitor? He had been waiting for this moment,
+    anticipating it for more than a dozen years, and found to his happy
+    surprise that it was even better than his hopes.
+        When at last she leaned back, her eyes were dark and
+    dreamlike. "Was that indiscretion?" she murmured. "For it did feel like
+    purest bliss to me."
+        "Perhaps another might determine which it was?"
+        "Perhaps." She raised her lips to him again.
+        This time he dared kiss her openmouthed, and she readily
+    relaxed beneath the pressure of his lips, darting her tongue quickly
+    against his. He held her tightly, unable to believe that one woman
+    could fit so perfectly within the circle of his arms. A rush of intense
+    yet reverent desire went through him. No other woman, and there
+    had been many, had affected him in this way. Not even his first love,
+    Vrushenka, for theirs had been the guileless explorations and
+    exuberance of youthful curiosity. His passion for Alexandra was akin
+    to religion.
+        That second kiss became a third, then a fourth, and then
+    Richard lost count. Their embrace was warm and languid, sensual
+    yet oddly chaste. Conscious as he was of her full bosom pushing
+    against his chest, he would not even contemplate moving his hand
+    up from her slim waist. Until she took hold of his wrist, and with
+    gentle but firm insistance, moved it herself.
+        He gasped softly but did not resist. He caressed her
+    reverently, marveling at the warmth of her skin. He had been with
+    countless women in his time, from wenches to queens, and none of
+    his experiences with them, no matter how tempestuous, rivaled this
+    moment.
+        She broke their kiss and gazed at him. "I want you to make
+    love to me," she said.
+        "I want that too, more than anything," he replied.
+        "Tonight, Richard. Here tonight."
+        He stared at her, certain he had misheard, pulling slightly
+    away. "Alexandra ... I thought you planned to wait 'til you were wed?"
+        "Then be my husband, Richard. Promise that you will marry
+    me. For there is no one in Tarlak I love more than you."
+        "I am surely dreaming," he said. "Or dying, perhaps, and
+    Damon has in His mercy given me this last wondrous vision."
+        "It is no dream," she said, moving his hand again to her
+    breast. "Does that not feel real? Oh, Richard, I have waited too long
+    for you to speak! I know that you love me. Has Orain called to you so
+    strongly that you feel you cannot be mine?"
+        "Never! I have been yours from the moment I saw you grown
+    to womanhood! With all of your sorrows, I feared that you would be
+    reluctant to accept a new suit so soon. With wars and my travels,
+    there has never since been a right time. I would marry you tomorrow
+    if that is your desire, tonight, even, if we could but get to the chapel."
+        "A wedding, especially one for which the people have been
+    so long waiting, must be done amid proper pomp and ceremony.
+    That will take much time, but if you are willing, our own exchange of
+    vows will be binding in my eyes."
+        "How can it be, that after all of these years and all of my
+    intentions, it is you who does the asking? I have been a fool,
+    Alexandra."
+        "Be a fool no longer. Be my husband tonight." She kissed
+    him again, soft and brief. "What say you, Sir Richard?"
+        "I say yes, princess. Further, I promise you this: the day the
+    weather permits travel, I am bound for Orain, there to settle my
+    affairs and find another to hold my lands. I shall bid farewell to David
+    and Rowena and come home to Tarlak. Once that is done, I will be
+    forever at your side, as much as you'll allow."
+        "You will forsake Orain for me?"
+        "I would forsake my life for you."
+        "You'll have to rule Tarlak with me," she cautioned.
+        "That is a burden I am willing to bear." He touched her dark
+    hair, traced her lips with his fingertip. She sucked it into her mouth,
+    her eyes holding his captive. It was all too simple to imagine some
+    other part of him there in place of his finger. He had never expected
+    such suggestiveness of her!
+        Letting his finger slide from between her lips, she said, "How
+    kind of my father, in his desire to protect me, to lock me in a chamber
+    with a large bed."
+        "Yes, how kind," he murmured, still half-convinced that this
+    was some dream. Upon awakening, he would doubtless writhe in
+    shame at entertaining such thoughts of the princess.
+        "Shall we see if it has remained comfortable despite the
+    years?" She stood, holding out her slim arms to him.
+        He rose and let her lead him to the bed.
+    The End
+
+    Click here to return to the previous page.
+
+------------------------------------------------------------------------
+
+Winter Princess / Copyright 1996 - Tim Morgan / <vecna@eskimo.com>

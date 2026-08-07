@@ -1,0 +1,120 @@
+C.M. Connelly: teTeX Manpages 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ teTeX Manpages 
+
+ I'm working on writing manpages for Debian's tetex-bin 
+ package. Here's a table showing the missing man pages (based on
+ the links to /usr/share/man/man1/dh_undocumented.1.gz 
+ created by the dh_undocumented script) and the status
+ of these manpages: 
+
+ Progress 
+
+ Manpage tetex-bin_1.06 tetex-bin_1.07 Status 
+
+ e2pall.1 X X fourth draft 
+
+ fmtutil.cnf.5 X X second draft 
+
+ fmtutil.8 X X second draft 
+
+ fontinst.1 X X fourth draft 
+
+ kpsepath.1 X X second draft 
+
+ kpsetool.1 X X second draft 
+
+ kpsexpand.1 X X second draft 
+
+ mkfontdesc.8 X X second draft 
+
+ mkindex.1 X X second draft 
+
+ mkocp.1 X X second draft 
+
+ mkofm.1 X X second draft 
+
+ ofm2opl.1 X X second draft 
+
+ opl2ofm.1 X X second draft 
+
+ otp2ocp.1 X X second draft 
+
+ outocp.1 X X second draft 
+
+ ovf2ovp.1 X X second draft 
+
+ ovp2ovf.1 X X second draft 
+
+ pslatex.1 X X second draft 
+
+ rubibtex.1 X X second draft 
+
+ rumakeindex.1 X X second draft 
+
+ texdoc.1 X X second draft 
+
+ texexec.1 X second draft 
+
+ texi2pdf.1 X X second draft 
+
+ texlinks.8 X second draft 
+
+ texshow.1 X second draft 
+
+ texutil.1 X second draft 
+
+ thumbpdf.1 X second draft 
+
+ ttf2afm.1 X X second draft 
+
+ Take a look at the complete changelog . 
+
+ The &#8220;fourth draft&#8221; consists of changes in the author information
+for e2pall (1) and fontinst (1). 
+
+ The &#8220;third draft&#8221; was changes to the Makefile, addition of a
+changelog, and so forth, and wasn't actually released. 
+
+The &#8220;second draft&#8221; was the first draft that was &#8220;ready
+to go&#8221;. The main changes were
+
+ Adding information about authorship/bug-fixing responsibility for
+ various programs 
+ Replacement of stylistic markup with semantic markup (in the Yodl
+ files) 
+ New manpages for
+ texexec (1),
+ texshow (1), and
+ texutil (1) (the ConTeXt
+ manpages) written by Tobias Burnus based on the PDF
+ documentation for ConTeXt and rewritten by me. 
+ A new manpage for fmtutil.cnf (5) 
+
+ Feedback! 
+
+ I would greatly appreciate feedback on these manpages, especially
+from people who use or the authors of the scripts or programs being
+documented. Please send any such feedback to me . Thanks! 
+
+ If you want to look at the source, you can download one (or both)
+of the following tar files: 
+
+ tetex-manpages.tar.gz &#8212;*roff sources (20 kB) 
+ tetex-manpages-yodl.tar.gz &#8212;yodl sources (24 kB) 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 10:02 AM PST, Monday, March 25, 2002; last rendered at 
+ 2:41 PM PDT, Monday, September 2, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

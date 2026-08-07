@@ -1,0 +1,40 @@
+Professional 
+
+I've been crazy about computing since I played the old STARTREK
+game on a CDC 6600 in high school and I've been working 
+in the computing industry in one way or another
+since my freshman year in college. I've done operations,
+development, support, consulting, writing, and
+training (everything except sales and marketing!).
+
+I started my career in computing at the
+ UT Computation Center 
+(where I worked during much of the time I was in school).
+I learned more about
+Unix, the Internet before it was ``in,'' and computing there than in
+most of my classes.
+
+I've worked at Cyb Systems (which used to make 68000-based Unix
+machines),
+ Microelectronics and Computer Technology Corporation (MCC), 
+and
+ HaL Computer Systems. 
+I've also done consulting for several companies both in
+Aus tin
+and California.
+
+While doing my consulting work, I also contributed several
+ articles 
+to technical journals and completed a book entitled
+ The Keys To Successful Unix System Management 
+which was published by
+ Prentice-Hall 
+in 1994. A German edition was published 1997.
+
+I have also recently completed a new edition of another UNIX book
+by another author, Graham Glass.
+ UNIX For Programmers And Users is also available from Prentice-Hall. 
+
+My professional interests include systems programming and administration
+as well as development and refinement of networking and security tools and
+procedures.

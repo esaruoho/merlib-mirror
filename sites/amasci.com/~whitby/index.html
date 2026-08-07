@@ -1,0 +1,110 @@
+<HTML>
+<HEAD>
+<TITLE>GRASSY.net</Title>
+<META HTTP-EQUIV=REFRESH CONTENT="20;URL=http://www.grassy.net/intro.html">
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Hide from old browsers
+// Copyright  1999 Doug Popeney
+// Created by Doug Popeney (easyjava@easyjavascipt.com)
+// JavaScript Made Easy!! - http://www.easyjavascript.com
+
+var speed = 90 // decrease value to increase speed (must be positive)
+var pause = 5000 // increase value to increase pause
+var timerID = null
+var bannerRunning = false
+var ar = new Array()
+ar[0] = "Welcome to GRASSY.net!                                  "
+ar[1] = "Click on the grassy logo to proceed...                                            "
+
+var currentMessage = 0
+var offset = 0
+function stopBanner() {
+        if (bannerRunning)
+                clearTimeout(timerID)
+        bannerRunning = false
+}
+function startBanner() {
+        stopBanner()
+        showBanner()
+}
+function showBanner() {
+        var text = ar[currentMessage]
+        if (offset < text.length) {
+                if (text.charAt(offset) == " ")
+                        offset++                        
+                var partialMessage = text.substring(0, offset + 1) 
+                window.status = partialMessage
+                offset++ 
+                timerID = setTimeout("showBanner()", speed)
+                bannerRunning = true
+        } else {
+                offset = 0
+                currentMessage++
+                if (currentMessage == ar.length)
+                        currentMessage = 0
+                timerID = setTimeout("showBanner()", pause)
+                bannerRunning = true
+        }
+}
+// -->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#OOOOOO" TEXT="#FFFFOO" LINK="OOOOOO" VLINK="#OOOOOO" onLoad="startBanner()">
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+<TH>
+<A HREF="intro.html"><IMG SRC="grassynet1.gif"></A>
+</TH>
+</TR>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<TABLE border=0 cellPadding=10>
+  <TBODY>
+  <TR>
+    <TD valign="top">
+	<A HREF="intro.html"><IMG SRC="shamrock.gif" alt="shamrock"></A>
+    </TD>
+  </TR>
+</TABLE>
+</CENTER>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<P><FONT SIZE=2>Hosted by</FONT><A HREF="http://www.eskimo.com"><IMG SRC="eskinorth.gif" ALT="Eskimo North"></A>
+<IMG SRC="dot_clear.gif" WIDTH="50">
+</BODY>
+</HTML>
+
+
+

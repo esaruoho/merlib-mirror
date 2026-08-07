@@ -1,0 +1,58 @@
+---
+title: "all_mobil_1_filters"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_mobil_1_filters.html
+order: 2182
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_mobil_1_filters
+
+*Source page: `~dalus/bmw/all/engine/all_mobil_1_filters.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From bans2138@nova.gmi.edu Tue Nov 11 08:00:24 1997</span>\
+Date: Tue, 11 Nov 1997 10:58:47 -0500 (EST)\
+From: mahaRISHI \<bans2138@nova.gmi.edu\>\
+To: mjoury@metronet.com, pauls@ontario.com, alan.alfano@snet.com,\
+lukensj@graham-ed.com, eliabar@aol.com, dalus@eskimo.com,\
+donohue@azstarnet.com, garry_grigg@fmc.com\
+Subject: Mobil 1 Filters\
+
+bimmer-fiels,
+
+here is the mobil 1 filter info. you had requested. sorry if the formatting is kind of bad. enjoy the info.
+
+rishi
+
+------------------------------------------------------------------------
+
+Mobil Introduces\
+Mobil 1 High Efficiency Oil Filters Nationwide
+
+Mobil 1 Filters Outperform All Others In Cleaning and Durability --
+
+FAIRFAX, VA, November 5, 1997 -- Mobil Corporation today announced the nationwide introduction of Mobil 1 High Efficiency Oil Filters, the most advanced oil filters available for cars and trucks. The premium Mobil 1 oil filters remove significantly more contaminants than conventional filters and are the most durable oil filters on the market. Designed for all types of vehicles, Mobil 1 filters can be used on engines using conventional oil or synthetic oil.
+
+"By adding the world's best performing oil filters to the Mobil 1 brand, Mobil further insures its leadership in providing quality oil products and lubrications," said Kim Howry, Automotive Business Manager, Mobil Lubricants. "Together with Mobil 1 Synthetic Oils, we now provide a total package of the most superior lubrication and filtration." Synthetic Fibers For Cleaner Oil
+
+Mobil 1 High Efficiency oil filters feature an exclusive, unique synthetic filtering "media" (the fabrics in filters that trap contaminants). Manufactured with high polyester and fiberglass content, these synthetic fibers remove over 95 percent of harmful foreign particles.
+
+Mobil 1 oil filters achieve additional efficiency by using significantly more filtering media than other oil filters. For instance, the media area of a Mobil 1 High Efficiency oil filter (M1-301) is 377 square inches, versus 363 square inches in the closest competitor. Increased media area provides more surface space to capture contaminants and can also extend the life of the filter.
+
+In SAE J806 multiple pass efficiency testing, Mobil 1 High Efficiency oil filters demonstrated a 96.1 percent weighted average efficiency in removing damaging particles compared to an average of 82.07 percent (1) for conventional filters and 88.16 percent (2) for premium filters.\
+Stronger Construction
+
+Mobil 1 High Efficiency oil filters deliver unsurpassed durability, and are more than capable of withstanding the pressure that can build up in filters during cold engine starts. In Hydrostatic Burst Pressure Tests, Mobil 1 reached 601 psi before failure, while the nearest competitor failed at 303 psi.
+
+In another measure of durability (J806, 0-100 psi impulse fatigue) Mobil 1 oil filters dramatically outperform conventional filters at resisting hydrodynamic mechanical stress: 221,375 vs. 59,095 pressure impulse cycles to failure.
+
+One of several keys to superior durability is heavier gauge construction. The high strength metal shells and the base plates of Mobil 1 High Efficiency oil filters are designed with thicker and heavier metal gauges.
+
+All Mobil 1 oil filters are designed to withstand five times the normal system operating pressureof a typical automotive vehicle. A Partnership Of Industry Leaders\
+Mobil, the leader in high quality motor oil and lubricants, and developers of the world's leading synthetic motor oil collaborated with Champion Laboratories, Inc., America's second largest filter manufacturer. "Together our research and product development teams designed the first oil filters worthy of the Mobil 1 brand," said Mobil's Howry. Before the national roll-out, Mobil 1 High Efficiency oil filters were successfully test marketed through a national auto supply retailer as well as through car care professionals. Strong consumer satisfaction and repeat purchases led to the decision to market the high performance filters nationwide, making them available to car care professionals and do-it-yourselfers.

@@ -1,0 +1,38 @@
+Wei Dai's Home Page 
+
+ Wei Dai 
+
+Here you can find some software and articles that I've written.
+
+ cryptography:
+
+ Crypto++ , a free C++ library for cryptography
+ speed benchmarks for various ciphers and hash functions
+ a note about applications of Lucas sequences in cryptography
+
+ anonymity:
+
+ PipeNet , a protocol for low-latency anonymous communication
+ two attacks against a PipeNet-like protocol once used by the Freedom service
+ b-money , a scheme for a group of untraceable digital pseudonyms
+ to pay each other with money and to enforce contracts amongst themselves without outside help
+
+ social costs of intelligence:
+
+ Why good memory could be bad for you: game theoretic analysis of a monopolist with memory .
+ Why cleverness could be bad for you: a game where the smarter players lose .
+
+ other miscellaneous ideas:
+
+ A really simple interpretation of quantum mechanics .
+ How to make more money with your employee stock options at no extra risk.
+ What do advanced civilizations do with waste heat? Use black holes as heat sinks. 
+
+ MobiusLinks , a free service for people to host and manage their link collections
+
+ If you wish to encrypt your email to me, you can download my PGP
+public key here .
+
+Written by: Wei Dai 
+< webmaster@weidai.com >
+Last modified: 6/2/2004

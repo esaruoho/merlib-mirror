@@ -1,0 +1,370 @@
+Pure Mac: Docklings 
+
+ Docklings 
+
+ AudioCD Player Dockling 
+ Calindock 
+ Clockling 
+
+ DockAlarmTheClock 
+ Docking Maneuvers 
+ DockLock 
+
+ DVolume 
+ Eightball 
+ LoadInDock 
+ Moondock 
+
+ Memory Monitor 
+ Muter 
+ NetStatInDock 
+ Network Statistics Dockling 
+
+ Prefling 
+ Quitling 
+ SlashDock 
+ Snard 
+ Time-X 
+
+ Vanity Dockling 
+ Volume Dockling 
+ Weatherling 
+ WebTime Dockling 
+
+ AudioCD Player Dockling 2.0 
+
+Add this dockling to your dock and play audio CD's! What could be easier. 
+
+ License : Freeware
+ Author/Publisher : On-Core
+ Modification Date : October 2, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 546 Kb - version 2.0 - Mac OS X 10.1
+
+ Direct Download
+ File Size: 664 Kb - version 1.2.1 - Pre Mac OS X 10.1
+
+ Home Page 
+
+ Calindock 1.2 
+
+Puts a calendar in your dock 
+
+ License : Freeware
+ Author/Publisher : Critical Matter
+ Modification Date : July 2, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 74 Kb
+
+ Home Page 
+
+ Clockling 1.5 
+
+It is a full-featured alarm-clock with customizable display and many other options.
+
+ License : Shareware, $5
+ Author/Publisher : Infinity-to-the-Power-of-Infinity
+ Modification Date : July 20, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 330 Kb
+
+ Home Page 
+
+ DockAlarmTheClock 0.99 
+
+This one is an alarm dockling you might want to keep in your dock to remind you to go to lunch, or home, or go to work. 
+
+ License : Freeware
+ Author/Publisher : Cyril Godefroy
+ Modification Date : June 17, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 106 Kb
+
+ Home Page 
+
+ Docking Maneuvers 1.1 
+
+Docking Maneuvers lets you quickly and easily enable two hidden features of the Dock, orientation and pinning. To add these features, simply lauch Docking Maneuvers, check the features you want, and click Make Changes. When you are prompted, enter an administrator password.
+
+ License : Freeware
+ Author/Publisher : Austin Shoemaker
+ Modification Date : March 30, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 282 Kb
+
+ Home Page 
+
+ DockLock 2.0 
+
+Docking Maneuvers lets you quickly and easily enable two hidden features of the Dock, orientation and pinning. To add these features, simply lauch Docking Maneuvers, check the features you want, and click Make Changes. When you are prompted, enter an administrator password.
+
+ License : Freeware
+ Author/Publisher : Frank Vercruesse
+ Modification Date : July 8, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 77 Kb
+
+ Home Page 
+
+ DVolume 1.2 
+
+This dockling allows you to change the system volume or the alert volume, independently, from your dock.
+
+ License : Shareware, $2
+ Author/Publisher : Stas Pietrucha
+ Modification Date : May 12, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 106 Kb
+
+ Home Page 
+
+ Eightball 1.2 
+
+This dockling allows you to have the well-know magic Eightball right in your Mac OS X Dock ! Just ask a question out loud and press the EightBall to get a viable answer.
+
+ License : Freeware
+ Author/Publisher : Inferiis
+ Modification Date : July 2, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 126 Kb
+
+ Home Page 
+
+ LoadInDock 0.71 
+
+LoadInDock is a tiny application which shows the CPU load in the Dock. It also supports the modules to change the way of displaying the CPU load. 
+
+ License : Freeware
+ Author/Publisher : Takashi T. Hamada
+ Modification Date : August 31, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 38 Kb
+
+ Home Page 
+
+ Memory Monitor 1.0 
+
+a little Mac OS X application that displays the memory usage in its Dock icon.
+
+ License : Freeware
+ Author/Publisher : Bernhard Baehr
+ Modification Date : August 11, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 78 Kb
+
+ Home Page 
+
+ Moondock 1.2 
+
+MoonDock is a small utility application designed to run in your system dock and display upto-date images of the Moons phase. It also enables you to look at Moon phase information for specific dates and times (2001-2015). If you are an amateur astronomer, learning about the night sky or just like to have the Moon on your desktop this programme is for you.
+
+ License : Freeware
+ Author/Publisher : Gary Martin
+ Modification Date : September 25, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 1981 Kb
+
+ Home Page 
+
+ Muter 1.1 
+
+Controls the sound level.
+
+ License : Freeware
+ Author/Publisher : Cyril Godefroy
+ Modification Date : June 24, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 131 Kb
+
+ Home Page 
+
+ NetStatInDock 0.3 
+
+NetStatInDock is an In-Dock application that shows how many bytes of data have been sent and received through the all available network interfaces. It also supports the modules to change the appearance.
+
+ License : Freeware
+ Author/Publisher : Takashi T. Hamada
+ Modification Date : July 30, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 61 Kb
+
+ Home Page 
+
+ Network Statistics Dockling 1.0.3 
+
+This dockling displays the network traffic generated to your computer in your Dock. It is configurable to show transmit and/or receive in a graph form or text form. This dockling assumes that physical interface "en0" is the built-in Ethernet and "en1" is the Airport interface.
+
+ License : Freeware
+ Author/Publisher : Eric Clements
+ Modification Date : June 19, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 116 Kb
+
+ Home Page 
+
+ Prefling 1.2.2 
+
+Prefling is a Mac OS X dockling that lets you access all panes of the System Preferences directly from the Dock.
+
+ License : Freeware
+ Author/Publisher : Amar Sagoo
+ Modification Date : June 21, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 63 Kb
+
+ Home Page 
+
+ Quitling 1.0.1 
+
+With Quitling, you can terminate any application or background process from the comfort of your Dock, with or without its consent. Designed as a Dockling, Quitling sits in the Dock at all times and keeps a list of open applications. Select an application from the menu and it dies a quick death, regardless of whether it's launching, running normally or frozen.
+
+ License : Shareware, $10
+ Author/Publisher : Catchy Software
+ Modification Date : August 7, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 334 Kb
+
+ Home Page 
+
+ SlashDock 1.5 
+
+SlashDock is a simple Mac OS X dockling that fetches and updates headlines for the lastest postings on slashdot and MacSlash. Updates are obtained every 30 minutes, if new articles are available, the dock icon will flash with an image representing the article 'topic'. Selecting an article from the dockling menu will take you directly to that article in your preferred web browser.
+
+ License : Freeware
+ Author/Publisher : Stas Pietrucha
+ Modification Date : August 30, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 133 Kb
+
+ Home Page 
+
+ Snard 0.6.5 
+
+ Snard is a dock based launcher. Snard reduces dock clutter by replacing numerous app/document icons in the dock with a single docklet. Snard also includes the ability to :
+ - Launch An Application as the Admin
+ - Perform a search locally or internet wide using Sherlock
+ - Use Worksets to specify a list of files to open with one click of the mouse
+ - 1 Click access to System Preferences
+ - Organize items into Groups for easy access
+ - Optional Menu bar based access to snard contents
+ - Place your favorite folders in Snard for quick access
+
+ License : Shareware, $10
+ Author/Publisher : Gideon Softworks
+ Modification Date : July 19, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 1142 Kb
+
+ Home Page 
+
+ Time-X 1.5 
+
+Time-X is a new digital clock for Mac OS X. Time-X is fully skinnable with alpha channels so your clock can be just as lickable as the rest of Mac OS X. And now it's dockable. Plus it has tons of features like a chronograph stopwatch, a count-down timer and an alarm.
+And a whole bunch more that you'll have to download to see. 
+
+ License : Freeware
+ Author/Publisher : YourHead
+ Modification Date : August 29, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 1397 Kb
+
+ Home Page 
+
+ Vanity Dockling 1.2.1 
+
+It's a dockling which tells you how much time passed since you last booted your computer.
+
+ License : Freeware
+ Author/Publisher : Vincent Bernardi
+ Modification Date : July 24, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 76 Kb
+
+ Home Page 
+
+ Volume Dockling 2.0 
+
+Add this dockling to your dock and be able to control the system volume easily.
+
+ License : Freeware
+ Author/Publisher : On-Core
+ Modification Date : October 2, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 769 Kb - version 2.0 - Mac OS X 10.1
+
+ Direct Download
+ File Size: 878 Kb - version 1.2.1 - Pre Mac OS X 10.1
+
+ Home Page 
+
+ Weatherling 0.5 
+
+Weatherling is an easy access Dock Extra that interfaces with the National Oceanic & Atmospheric Administration's (NOAA) National Weather Service. The National Weather Service is the primary source of weather data, forecasts and warnings for the United States (and other international areas). Television weathercasters and private meteorology companies prepare their forecasts using this information. The NWS is the United States official voice for issuing warnings during life-threatening weather situations. With all the power of the NWS, NOAA and Mac OS X, Weatherling brings this powerful weather information right to your desktop!
+
+ License : Freeware
+ Author/Publisher : Javelin Systems
+ Modification Date : May 12, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 365 Kb
+
+ Home Page 
+
+ WebTime Dockling 1.0 
+
+Thanks to Eric Peyton from epicware, I've ported his WebTime application to dockling. It gives you the universal UDTTime or Universal SwatchTime in the dock, without the application.
+
+ License : Freeware
+ Author/Publisher : Cyril Godefroy
+ Modification Date : May 22, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 95 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

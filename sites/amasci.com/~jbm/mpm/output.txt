@@ -1,0 +1,164 @@
+JBM - MPM - Output
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - MPM - Output
+
+ Program output is divided 
+ into a number of sections:
+
+ Output File Header 
+
+ The output file header provides the date and time the file was created,
+ the name of the program, version and platform (either Linux or Windows)
+ and the input files. The header is always produced.
+
+ Bullet Information 
+
+ The bullet information section prints the input values for the selected
+ bullet and any calculated single values (those not dependent on mach 
+ number). This includes all the dimensions, selected drag function, 
+ design twist, boundary layer, specific gravities, sectional density,
+ moments of inertia, center of gravity and the nose radii ratio.
+
+ Bullet dimension units are dependent on the variable "bullet_units" in 
+ the bullet file. If this value is one, dimensions and the center
+ of gravity position must be in inches. If it is zero, the dimensions
+ must be in calibers.
+
+ For more information, see the explanations in the sample 
+ bullet file .
+
+ Coefficient Output 
+
+ The Coefficient Output section lists the calculated coefficients as
+ a function of mach number. The listed coefficients are:
+
+ Mach number
+ CD, Drag coefficient
+ Nose, portion of CD from nose drag
+ Bttl, portion of CD from boattail drag
+ Skin, portion of CD from skin friction
+ Base, portion of CD from base drag
+ Rbnd, portion of CD from rotating band
+ Total, sum of components (= CD).
+ CDa2, Drag coefficient, second derivative
+ BC, Ballistic coefficient for the input drag function.
+ FF, Form factor
+ Cla, Lift coefficient
+ Cma, Pitching moment coeffient
+ Clp, Spin damping moment coefficient
+ Cnpa, Magnus force coefficient
+ Cmpa, Magnus moment coefficient
+ Cmpa3, Magnus moment coefficient at 3 degrees
+ Cmpa5, Magnus moment coefficient at 5 degrees
+ Cpn, Location of center of pressure from nose, calibers
+
+ Stability Output 
+
+ This section lists the various stability values calculated. These
+ values come from the program SPINNER. (I still don't claim to
+ understand the importance of all of these!)
+
+ Mach number
+ Stab, gyroscopic stability factor at standard atmospheric 
+ conditions with the input "design twist".
+ Sbar1, dynamic stability factor at yaw level of 1 degree
+ Sbar5, dynamic stability factor at yaw level of 5 degrees
+ Recp1, 1.0 / [ Sbar1 * ( 2.0 - Sbar1 ) ]
+ Recp5, 1.0 / [ Sbar5 * ( 2.0 - Sbar5 ) ]
+ W1, nutation frequency, [pI x /2I y ]*[1 + sigma]
+ W2, nutation frequency, [pI x /2I y ]*[1 - sigma]
+ A1, A2, B1, B2, quasi linear nutation precession damping factors, 
+ at 1 and 5 degrees.
+ Disp, radius in mils of a circle which a projectile will
+ impact in a vertical plane when disturbed to a first maximum
+ yaw angle of 5 degrees or less.
+
+ where sigma = (1 - 1/Stab) 1/2 
+
+ Trajectory Output 
+
+ The Trajectory Output section lists the input values for the
+ trajectory and firearm. Corrected muzzle velocity is listed only
+ if the variable "correct_velocity" is set. This section also lists 
+ the calculated atmospheric conditions and a list of all options. 
+
+ The atmospheric conditions are calculated from the input conditions
+ at the shooter's position. During calculation, these values are 
+ corrected for the bullet height.
+
+ Maximum Point Blank Range 
+
+ The Maximum Point Blank Range section lists the calculated maximum
+ point blank range for the input vital zone radius. It also lists
+ the required zero range to achieve this point blank range, the time
+ to the maximum point blank range, and the velocity and energy at this
+ point, and the range at maximum height. This section is only printed
+ when the variable "point_blank_range" is set.
+
+ Target Hold 
+
+ The Target Hold section provides elevation and windage hold values
+ to hit a moving target at the input range. This section lists all
+ input values followed by the holds, and the impact ballistics. This
+ section is only printed if the variable "target_hold" is set.
+
+ Trajectory Table 
+
+ The trajectory table lists the trajectory parameters as a function 
+ of range (either yards or meters, depending on input file). Due to
+ width restrictions (I don't want 160 character lines...), it is now
+ broken up into two tables. The first one has the normal trajectory
+ values:
+
+ Range, distance from shooter along the line of sight
+ Wind, horizontal bullet position relative to the line of sight.
+ Left of the line of sight is negative, right is positive.
+ Drop, vertical bullet position relative to the line of sight.
+ Vel, bullet velocity
+ Mach, bullet mach number
+ Energy, bullet energy in foot pounds
+ Mom. bullet momentum
+ Spin, rate of spin, in revolutions per minute
+ Time, time to range, seconds
+ Stab, calculated stability -- should be greater than 1.5 for
+ stability.
+
+ Windage and drop units depend on the value of the variable 
+ "drop_windage_units". This section is only printed if the 
+ "include_trajectory" variable is set in the input trajectory file.
+
+ A second part of this table has been recently added and includes
+ the following values:
+
+ Range, distance from shooter along the line of sight
+ Bx, absolute X position of the bullet relative to the 
+ shooter's position.
+ By, absolute Y position of the bullet relative to the 
+ shooter's position.
+ Bz, absolute Z position of the bullet relative to the 
+ shooter's position.
+ Wx, calculated wind in X direction
+ Wy, calculated wind in Y direction
+ Wz, calculated wind in Z direction
+ G, magnitude of the gravity vector
+ Error, a measure of the "truncation error" of the 
+ trajectory integration. It's NOT really the error --
+ we would have to know the exact answer to really know
+ the error. Instead, it is the difference in the value
+ between successive iterations.
+
+ Last update 26 January 2005, Copyright &copy; 1996-2005
+ JBM 
+ [V]

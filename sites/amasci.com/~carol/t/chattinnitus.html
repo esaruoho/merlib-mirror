@@ -1,0 +1,170 @@
+<HTML>
+<HEAD>
+<TITLE>Chat</TITLE>
+<style type="text/css">
+<!--
+select {  color: #000000; text-decoration: none; background-color: #6384B5}
+-->
+</style>
+
+</head>
+<BODY bgcolor=#6384B5 leftmargin="1" marginwidth="1" topmargin="1" marginheight="1">
+<script language="JavaScript" src="/jirc/controls.js"></script>
+<form name="jform">
+    
+  <table width="755" cellspacing="0" cellpadding="0" bgcolor="#6384B5" height="500" align="center" bordercolor="#000000" border="1">
+    <tr> 
+      <td width="19" height="16">&nbsp;</td>
+      <td colspan="2" height="16" valign="middle"> 
+        <select name="channels" onChange="javascript:jpilot('join');" size="1">
+          <option selected>Channels</option>
+          <option value="#tinnitus">#tinnitus</option>
+        </select>
+        <select name="actions" onChange="javascript:jpilot('actions');" size="1">
+          <option selected>Actions</option>
+          <option value="is innocent O:o)">Innocent</option>
+          <option value="goes Awwww........">Aww</option>
+          <option value="giggles loudly">Giggle</option>
+          <option value="falls off chair from laughing">Fall laughing</option>
+          <option value="welcomes you to the channel">Welcome</option>
+          <option value="is going to bed,, nighty night">Going to bed</option>
+          <option value="yaaawns loudly enough to wake the entire channel">Yaaawn</option>
+          <option value="is incredible bored">Bored</option>
+          <option value="is rolling on the floor laughing!">rotfl</option>
+          <option value="is rolling on the floor laughing my arse off!">rotflmao</option>
+          <option value="will be back in a bit.">bbiab</option>
+          <option value="will be back in a few minutes.">bbiaf</option>
+          <option value="will be back in a while.">bbiaw</option>
+          <option value="other">Other?</option>
+        </select>
+        &nbsp;<a href="javascript:void(-1);" onClick="javascript:jpilot('away');"><img src="setaway.gif" width="70" height="20" vspace="2" hspace="1" name="away" border="0" alt="Away control" align="absmiddle"></a>&nbsp; 
+        <a href="javascript:void(-1);" onClick="javascript:jpilot('whois');"><img src="whois.gif" width="70" height="20" vspace="2" hspace="1" name="whois" border="0" alt="whois selected user" align="absmiddle"></a>&nbsp; 
+        <a href="javascript:void(-1);" onClick="javascript:jpilot('ping');"><img src="ping.gif" width="70" height="20" vspace="2" hspace="1" name="ping" border="0" alt="ping selected user" align="absmiddle"></a>&nbsp; 
+        <a href="javascript:void(-1);" onClick="javascript:jpilot('version');"><img src="version.gif" width="70" height="20" vspace="2" hspace="1" name="version" border="0" alt="Version selected user" align="absmiddle"></a>&nbsp; 
+        <a href="javascript:void(-1);" onClick="javascript:jpilot('time');"><img src="time.gif" width="70" height="20" vspace="2" hspace="1" name="time" border="0" alt="Check selected users time" align="absmiddle"></a>&nbsp; 
+        <a href="javascript:void(-1);" onClick="javascript:jpilot('sclear');"><img src="clear.gif" height="20" align="absmiddle" name="clear" border="0" alt="Clear screen" vspace="0" hspace="0"></a> 
+      </td>
+    </tr>
+    <tr> 
+      <td width="19" height="277" valign="top" align="center"> <a href="javascript:document.jchat.processJInput(':)');"><img src="smile.gif" border=0 alt="happy" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput(';)');"><img src="winkface.gif" border=0 width="15" height="15" alt="wink" hspace="0" vspace="2"></a><br>
+        <a href="javascript:document.jchat.processJInput(':(');"><img src="frown.gif" border=0 alt="sad" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput(':~(');"><img src="cry.gif" border=0 width="15" height="15" alt="cry" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput(':D');"><img src="biggrin.gif" border=0 alt="big grin" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput(':P');"><img src="tongue1.gif" border=0 alt="tongue" width="15" height="15" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput('>:)');"><img src="evil.gif" border=0 alt="evil" width="15" height="15" vspace="2" hspace="0"></a><br>
+        <a href="javascript:document.jchat.processJInput(':o)');"><img src="clown.gif" border=0 width="15" height="15" alt="clown" vspace="2" hspace="0"></a><br>
+      </td>
+      <td width="604" valign="top" height="277"> <applet name="jchat" archive="/jirc/jirc_nss.zip"  code=Chat.class width=600 height=350 vspace="1" hspace="1" >
+          <param name="CABBASE" value="/jirc/jirc_mss.cab">
+	    <param name="LicenseKey" 			value="3650693975-043417043488-668888865509090434170434881404348809-01349213340493449293777894566083136688779311198178679346936688888655090931281760831366881485064414043488">
+          <param name="ServerPort" 				value="6667">
+          <param name="ServerName1" 			value="irc.d0t.net">
+	  <param name="ServerName2"			value="irc.newnet.net">
+          <param name="Channel1" 				value="tinnitus">
+          <param name="AllowURL" 				value="true">
+          <param name="IgnoreMOTD" 				value="true">
+          <param name="WelcomeMessage" 			value="Welcome to NewNet">
+	    <param name="NickName" 				value="JavaUser">
+          <param name="RealName" 				value="NewNet java client">
+          <param name="UserName" 				value="Javauser">
+	    <param name="AllowIdentd"				value="true">
+	    <param name="AllowURL" 				value="true">
+	    <param name="AllowSound" 				value="true">
+          <param name="isLimitedServers" 			value="true">
+          <param name="isLimitedChannel" 			value="false">
+          <param name="BackgroundColor" 			value="99,132,181">
+          <param name="TextColor" 				value="black">
+          <param name="TextScreenColor" 			value="white">
+          <param name="ListTextColor" 			value="blue">
+          <param name="TitleBackgroundColor" 		value="black">
+          <param name="TitleForegroundColor" 		value="white">
+          <param name="NickNameColor" 			value="3">
+          <param name="IgnoreServerMsg" 			value="true">
+          <param name="TextFontName" 			value="Arial">
+          <param name="TextFontSize" 			value="12">
+          <param name="LogoBgColor" 			value="white">
+          <param name="BorderVsp" 				value="0">
+          <param name="DirectStart" 			value="true">
+          <param name="AliasList" 				value="/m=/msg,/t=/topic,lol=Laughing Out Loud">
+          <param name="FilterKeys" 				value="&gt;:) ;) :~( &sect;:o) :) :( :D :P lol LOL LoL">
+          <param name="FilterVals" 				value="evil.gif winkface.gif cry.gif clown.gif smile.gif frown.gif biggrin.gif tongue1.gif lol.gif lol.gif lol.gif">
+          <param name="FieldNamePrivateChatTitle" 	value="Private Chat with:">
+          <param name="FieldNameConnected" 		value="Connected to server, trying to login" >
+          <param name="DisplayConfigMisc" 		value="false">
+          <param name="DisplaySoundControl" 		value="false">
+          <param name="DisplayAbout" 			value="false">
+          <param name="NoConfig" 				value="true">
+                  </applet></td>
+      <td valign="top" align="center" width="130" height="277"> 
+	          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td align="center" height="93"> 
+              <table width="121" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000">
+                <tr> 
+                  <td width="119"><u><i>Op Control</i></u></td>
+                </tr>
+                <tr> 
+                  <td valign="middle" align="center" width="119"><b><u><a href="javascript:void(-1);" onClick="javascript:jpilot('opmode','+o');"><img src="op.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="op" alt="giver selected user +o (@)"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('opmode','-o');"><img src="deop.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="deop" alt="take ops away from selected user"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('opmode','+v');"><img src="voice.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="voice" alt="give selected user +v (+)"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('opmode','-v');"><img src="devoice.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="devoice" alt="take voice away from selected user"></a><br>
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('kick','fast');"><img src="kick.gif" width="39" height="20" vspace="0" hspace="2" border="0" name="kick" alt="kick selected user"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('kick','msg');"><img src="reason.gif" width="70" height="20" vspace="0" hspace="2" name="reason" border="0" alt="kick selected user with a reason"></a><br>
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('opmode','+b');"><img src="ban.gif" width="39" height="20" vspace="0" hspace="2" border="0" name="ban" alt="ban selected user"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('kickban');"><img src="kickban.gif" width="70" height="20" vspace="0" hspace="2" name="kickban" border="0" alt="kick and ban selected user from channel"></a></u></b></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td align="center" height="127" valign="top"> 
+              <table width="121" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000">
+                <tr> 
+                  <td width="116"><i>Channel modes</i><b><i></i></b></td>
+                </tr>
+                <tr> 
+                  <td valign="middle" align="center" width="116"><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+t');"><img src="opstopicon.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="opstopic" alt="Only ops set topic"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-t');"><img src="opstopicoff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="opstopic" alt="Only ops set topic"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+n');"><img src="noexternalon.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="noexternal" alt="No external messages"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-n');"><img src="noexternaloff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="noexternal" alt="No external messages"></a> 
+                    <br>
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+i');"><img src="inviteon.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="inviteonly" alt="Invite only"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-i');"><img src="inviteoff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="inviteonly" alt="Invite only"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+m');"><img src="moderateon.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="moderated" alt="moderated"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-m');"><img src="moderateoff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="moderated" alt="moderated"></a> 
+                    <br>
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+p');"><img src="privateon.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="private" alt="Private"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-p');"><img src="privateoff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="private" alt="Private"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','+s');"><img src="secreton.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="secret" alt="Secret"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('cmode','-s');"><img src="secretoff.gif" width="20" height="20" border="0" vspace="1" hspace="2" name="secret" alt="Secret"></a> 
+                    <br>
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('limit');"><img src="limit.gif" width="39" height="20" vspace="0" hspace="6" border="0" name="Limit" alt="Set or unset limit"></a> 
+                    <a href="javascript:void(-1);" onClick="javascript:jpilot('invite');"><img src="invite.gif" width="39" height="20" vspace="0" hspace="6" border="0" name="invite" alt="invite someone to the channel"></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+		      </td>
+    </tr>
+    <tr valign="top" align="center"> 
+      <td colspan="3"> 
+        <div align="left"> &nbsp;&nbsp;&nbsp;<i><b>Services (these only include 
+          some of the basic commands for easy access)...</b></i><br>
+        </div>
+        <table width="720" border="1" cellspacing="0" cellpadding="0" bordercolor="#000000" height="90">
+          <tr>
+            <td width="239"><i>Nickserv</i></td>
+            <td width="239"><i>Chanserv/botserv</i></td>
+            <td width="240"><i>Memoserv</i></td>
+          </tr>
+          <tr>
+            <td width="239" valign="top" align="center"><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','register');"><img src="register.gif" height="20" align="absmiddle" name="register" border="0" alt="Register your nickname" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','identify');"><img src="identify.gif" height="20" align="absmiddle" name="identify" border="0" alt="Identify your nickname" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','ghost');"><img src="ghost.gif" height="20" align="absmiddle" name="ghost" border="0" alt="Remove a ghost" vspace="1" hspace="2" width="70"></a><br>
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','recover');"><img src="recover.gif" height="20" align="absmiddle" name="recover" border="0" alt="Recover your nickname" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','release');"><img src="release.gif" height="20" align="absmiddle" name="release" border="0" alt="release a nickname from services" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','drop');"><img src="drop.gif" height="20" align="absmiddle" name="drop" border="0" alt="drop a nickname registration" vspace="1" hspace="2" width="70"></a><br>
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','setkill');"><img src="kill.gif" height="20" align="absmiddle" name="kill" border="0" alt="set kill on/off" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','setsecure');"><img src="secure.gif" height="20" align="absmiddle" name="secure" border="0" alt="set security on/off" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('nickserv','newpass');"><img src="npass.gif" height="20" align="absmiddle" name="newpassword" border="0" alt="change your nickname password" vspace="1" hspace="2" width="70"></a><br>
+            </td>
+            <td width="239" align="center" valign="top"><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','register');"><img src="register.gif" height="20" align="absmiddle" name="registerchan" border="0" alt="Register your channel" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','identify');"><img src="identify.gif" height="20" align="absmiddle" name="identifyowner" border="0" alt="Identify as founder" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','drop');"><img src="drop.gif" height="20" align="absmiddle" name="dropchan" border="0" alt="drop a channel registration" vspace="1" hspace="2" width="70"></a><br>
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('botserv','list');"><img src="listbots.gif" height="20" align="absmiddle" name="listbots" border="0" alt="List avaliable services bots" vspace="1" hspace="2" width="70"></a> 
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('botserv','assign');"><img src="assign.gif" height="20" align="absmiddle" name="assign" border="0" alt="Assign a bot to your channel" vspace="1" hspace="2" width="70"></a> 
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('botserv','unassign');"><img src="unassign.gif" height="20" align="absmiddle" name="unassign" border="0" alt="Un Assign a bot" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','accesslist');"><img src="accesslist.gif" height="20" align="absmiddle" name="accesslist" border="0" alt="Access list" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','add');"><img src="add.gif" height="20" align="absmiddle" name="addppl" border="0" alt="Add someone to access list" vspace="1" hspace="2" width="70"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('chanserv','del');"><img src="del.gif" height="20" align="absmiddle" name="delppl" border="0" alt="Delete someone from access list" vspace="1" hspace="2" width="70"></a></td>
+			<td width="240" align="center" valign="top"><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','send');"><img src="sendmemo.gif" width="70" height="20" vspace="1" hspace="2" name="sendmemo" alt="Send a memo to nick or channel" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','cancel');"><img src="cancelmemo.gif" width="70" height="20" vspace="1" hspace="2" name="cancelmemo" alt="Cancel your last send memo" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','list');"><img src="listmemos.gif" width="70" height="20" vspace="1" hspace="2" name="listmemos" alt="List your current memos" border="0"></a><br>
+              <a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','readlast');"><img src="readlastmemo.gif" width="70" height="20" vspace="1" hspace="2" name="readlast" alt="read last received memo" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','read');"><img src="readmemo.gif" width="70" height="20" vspace="1" hspace="2" name="read" alt="Read memo number ?" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','delete');"><img src="delmemo.gif" width="70" height="20" vspace="1" hspace="2" name="del" alt="Delete memo number ?" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','delall');"><img src="delall.gif" width="70" height="20" vspace="1" name="delall" alt="Delete all memos" border="0" hspace="2"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','setlimit');"><img src="setlimit.gif" width="70" height="20" vspace="1" hspace="2" name="setlimit" alt="Set limit of memos to receive" border="0"></a><a href="javascript:void(-1);" onClick="javascript:jpilot('memoserv','setnotify');"><img src="setnotify.gif" width="70" height="20" vspace="1" hspace="2" name="setnotify" alt="When to be notifyed about new memos" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+    </form>
+
+</BODY>
+
+
+
+</HTML>

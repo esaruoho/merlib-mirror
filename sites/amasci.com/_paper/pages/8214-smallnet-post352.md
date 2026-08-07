@@ -1,0 +1,345 @@
+---
+title: "SMALLnet post352"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post352.html
+order: 8214
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post352
+
+*Source page: `~smallnet/Archive/post352.html`*
+
+## SMALLnet Posting post352
+
+------------------------------------------------------------------------
+
+**Date: Tue, 10 Oct 2000 01:56:16 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+<div class="Joe">
+
+...I thought I'd be in Pennsylvania by this time, but storm damage to my workshop building keeps me here in Alabama until the repairs are done -- and they're not even started yet... \[JW\]
+
+</div>
+
+Ron Ferrer \< 
+
+ \> announces:
+
+Just a short note; the Sig Rascals are out; selling for under \$60.00. It is worth every penny. I just opened mine Saturday. It comes with everything: nylon pants, not ABS. The "tailwheel" is a dummy; novel setup. The design and cutting is beautiful. Every bit as good as Herr kits, but with more hardware. Will keep you all posted on progress of kit in weeks to come. Ron.
+
+Jim Simpson \< 
+
+ \> adds:
+
+We test flew the SIG Rascal this AM on a standard Speed 400 with gears turning an APC 9 x 6e composite prop on 7 x 600 AE Sanyo (greens) and:
+
+IT FLYS A H\*\*\* OF A LOT BETTER THAN IT LOOKS (AND IT LOOKS TERRIFIC) !!
+
+Folks, it's been awhile since I've been so excited about an R/C plane. Here's why.
+
+It is real pretty to look at. (So sez my wife of 44 years).
+
+It weighs 23 ounces RTF. and ROG's with authority.
+
+It rolls, loops spins, flys inverted and...well, you'll just have to wait for the kit review in MAN (soon) for the rest of the story......
+
+<div class="Joe">
+
+.....after all, I don't want to give TOO much away
+
+OBTW when you pick one up (or order), be sure to get a pair of Williams Brothers wheels (#150) and a 1 1/2" spinner......they do make a difference !!!
+
+Jimbo in New Mexico
+
+PS Ailerons ?? Why bother ?? Don't believe me - wait till you see one fly !!
+
+Dan Mcleod \< 
+
+ \> inquires:
+
+Many of us SMALLsters fly diesel power. My flying buddy Gerry asked me, "Why does the rubber stopper used for the diesel tank disintegrate due to the fuel? And also, what would be impervious to the ether or the kerosene?" He also mentioned that he has found a tubing, yellow in color, that will take gas and diesel fuel but it is only in big sizes, so is not very adaptable to small engines.
+
+I responded: I am not an expert, but I think that the ether and the kerosene act as an organic solvent for certain types of rubber, both the natural type and the synthetic type and for some types of plastics (e.g. Tygon) as well. Strictly speaking, you must know the exact composition of the rubber etc. to know if it will be affected by the solvent. In practical day-to-day use, certain brands seem to work best.
+
+I would appreciate any knowledgeable comment on this matter.
+
+I have recently been having some problems with glow plugs in a Thunder Tiger .25 in a Seniorita which I use for training student pilots. This resulted in my trying hotter or colder types of plugs. It probably had something to do with the overall cooler summer this year. I use Omega 5% or 10% fuel. Fresh batches of fuel gave no change in results, nor did putting in new plugs of brand X which I have used with good results for years -- but changing to an O.S. helicopter (used) plug sure fixed the problem. If there are any experts out there, I would appreciate some education about hot and cold plugs. Especially as the weather is cooling down and we do lots of cold-weather flying up here in Canada.
+
+Perhaps some company has an FAQ on this topic. Thanx, Dan
+
+...Dan, we've covered the "diesel compatibility" topic at least twice in earlier SMALLnet Postings, but here it is again. Most rubber products that contain natural latex or a synthetic version of that will deteriorate in contact with any kind of petroleum- based liquid. That includes gasoline and kerosene.
+
+For that reason, some makers of plastic clunk-type fuel tanks (e.g. Sullivan) supply "gasoline-resistant" rubber plugs for their tank kits. These are what you need for model diesel fuel.
+
+Silicone elastomers are also affected by exposure to petroleum fuel. That makes the silicone swell up to about twice its normal size.
+
+The yellow fuel tubing your friend Gerry found is Tygon, and it is now sold by DuBro in 3-foot lengths and in two sizes. Both are rather thick-walled, but I have been using the smaller of the two sizes on PAW .03 diesels without any problems.
+
+Eric Clutton (and maybe Dave Larkin) sells a thin-walled small- diameter Tygon tubing that works rather well in clunk tanks, provided that the tubing is longer than about an inch. (It also helps to make your own clunks, with a tinned brass tube center and a lead "body" cast around the brass tube.)
+
+As for glow plugs, they do differ a LOT, and some of my glow engines won't even pop on certain brands. For example, I have an early O.S. .06 that will only run on a 50-year-old Champion V-2 glow plug. Trial and error seems the only way to go... \[JW\]
+
+</div>
+
+Pat Beard \< 
+
+ \> asks:
+
+Around 1986 a friend gave me a Sunny Bipe and I flew it with an OS 25FP and a large prop (can't remember size). I flew it in close and slow and had fun doing aerobatics with only 3 channels. Does anyone know if this kit still exists? Pat
+
+Ken Park \< 
+
+ \> announces:
+
+When the summer is over then it's back to the basement to start building yet again -- and I am happy to say the Ottawa Remote Control Club is again doing a winter building project. This project is already in the early stages of development with a Prototype being built at this time.
+
+When we work out the bugs it will go into full production. This year's plane is the "Cassutt". Please check out our club web site at \< <http://www.ottawarcclub.com> \> and look under SMALL Planes button for further details on the project thus far. Ken Park
+
+Dave Segal \< 
+
+ \> contributed:
+
+<span id="133"></span>
+
+<div class="green">
+
+Source: Books\
+
+</div>
+
+Although this does not apply directly to building small models, I know that modelers often seek hard-to-find books relating to modeling and aviation. The greatest book search mechanism is on the Internet, at the Advanced Book Exchange: \< <http://www.abebooks.com> \>.
+
+It links together thousands of booksellers around the world and a search takes just seconds to conduct.
+
+Just as a test today I punched in Winter, William with a keyword of "Aviation", and a listing came up of 24 of Bill's books going back to 1941. I have purchased several books through this site and have been pleased with the results.
+
+Dave Segal
+
+Larry Renger \< 
+
+ \> mourns:
+
+Last week, two planes and two flight boxes were stolen from my garage (I left the door up overnight, accidentally {DUMB!}).
+
+The planes were my (Tim Meek's, actually) 1/2A Pathfinder with a Strickland-modified Norvel. It has yellow tissue wings and a white fuselage, the numbers 9246 in red on the left flap.
+
+My Swee'Pea racing plane with a silver-colored "Black Widow" on it. Silk covering, cream finish with green trim. Vee tail
+
+The flight boxes were my small one with the Nicad recharger and a Miller 1/2A starter, props, tools, Nicad starter, Solar charging panel, and lots of plugs, etc. a large one with a full power panel, fuel pump, stopwatch, my other Miller 1/2A starter, a big geared Hobby Lobby starter, 12v battery. Color is medium blue with red checkerboards on one drawer, and a box with plugs, wrenches, etc. etc..
+
+Total value is certainly many hundreds for the material replacement alone. If I have the models replaced professionally, I expect they will be \$1000 each or more. And I don't have time to do it myself just now.
+
+Insurance will probably cover most of the loss, but WHAT A PAIN! Why couldn't they have taken a couple of bikes and hedge trimmers and saleable stuff? (Actually, it was probably some kids on the way by and they have great taste, but no scruples.)
+
+Larry {:-(
+
+Sandy Ross \< 
+
+ \> is grateful:
+
+Just wanted to thank everyone who replied to my query re: electri- fying an Ace Whizard. Although my usual approach is to do things the hard way, I may make an exception in this case and pick another plane for my first R/C attempt, rather than try it with what may be too close to a "flying brick"!
+
+Thanks again for the input. Sandy Ross
+
+\< 
+
+ \> inquires:
+
+I am thinking of building a scale P-51D. I have seen the Herr kit and another from Pica, and a plan supplied in an American publication for electric power.
+
+I would like to use a Norvel .074 Revlite, as I already have one in a Fred Reese CAP 21 and it is a very good combination. I will use 1/2A retracts etc. and plan to use silver Solartrim in panels for a finish. It will weigh as much as 24 ounces.
+
+I am looking for the most accurate copy of this aircraft. Any ideas?
+
+Wormwood Scrubbs SMALLster
+
+Carl Risteen \< 
+
+ \> submitted:
+
+Information on our ultra-light (approximately 1/30 oz./square foot) MicroLite iron-on plastic covering that is available in 16 colors is now on our website: \< <http://ramicrolite.com> \>. We have recently developed a 12-micron thickness (0.0005") clear Mylar self-adhesive hinge material that makes for super-light and flexible hinges that are almost invisible, when used on models covered with MicroLite.
+
+They are used just like Monokote hinges, except that they are much lighter and more flexible, and won't noticeably distort the covering when ironed on and heat shrunk.
+
+Re the recent comments on John Worth's tab-operated control surfaces: they definitely do work, but I am inclined to regard them as, maybe, just a bit too cantankerous for most modelers. I have used simple boost tabs for over 18 years now on large outdoor models with excellent results. Reference: My article in Model Airplane News "Labor-Saving Devices for Overworked Servos", October 1993.
+
+The Douglas DC-9, for example, has both servo and boost tabs, and needs no hydraulic servo assist on its ailerons and elevators. The pilot's muscle power is more than adequate to give this large, heavy airplane top-notch control response and excellent "feel". The control column is connected directly by cables to the tabs at the trailing edges of the free-hinged and counterbalanced ailerons and elevators.
+
+For indoor RC, I have also used servo tabs that are operated by a tiny servo or actuator mounted in the control surface with reasonably good results, after a bit of hair-tearing (and about 20 crashes in deep snow or high grass).
+
+In indoor models, the tabs seem to work best on rather wide-chord control surfaces, and the tabs have to be much larger than on outdoor models; the boundary layer is rather thick at under 10 MPH. In addition, the control surface must have virtually frictionless hinges, and it must be 100% counterbalanced. I used the actuator itself as a counterbalance, in the interest of reducing weight to the minimum.
+
+I found aileron counterbalancing to be particularly tricky. My first attempt at tab-actuated ailerons on an indoor RC model (The one pictured in our website \< <http://ramicrolite.com> \> initially produced virtually uncontrollable pilot-induced roll oscillations. The reason for this was that the counterbalancing actuators were located too far inboard on the ailerons. The ailerons were thus balanced statically, but not dynamically.
+
+When, for example, the model was commanded to roll left, control surface inertia outboard of the balancers caused the right aileron to lower, and the left aileron to raise, causing further left roll, Further left roll resulted in further inertial deflection of the ailerons, until the ailerons were fully deflected left, causing a very rapid left roll.
+
+When I corrected with hard right aileron command, the left roll would cease, but then I had excessive right roll, with aileron inertia working the same trickery, but in the opposite direction, and so on.
+
+I solved the problem by moving the actuators about half-way out on the full-span ailerons, so that the unbalanced mass near the tips would not overpower the balancing. A further complication is that the tabs themselves must also be mass-balanced.
+
+Pure aerodynamic problems also reared their ugly heads. The spiral propwash deflected the full-span ailerons, producing a left roll that required nearly full left roll command to counteract, and that could not be trimmed out. This was cured by removing the inboard part of the ailerons, to get the ailerons out of the propwash. The rudder suffered the same affliction; it was corrected by adding a lot of rudder area below the thrust line.
+
+Only the full-span ailerons on the upper wing of my biplane escaped drastic modification, as they were well above most of the propwash.
+
+Tab-actuated control surfaces have enormous weight-saving potential, but they must be designed and built very carefully.
+
+Carl Risteen
+
+Mike Gillihan \< 
+
+ \> reports:
+
+I placed my order for four of the five-dollar Cox Naboo/Droid RTF's on the day that the original SMALLnet posting came out, and was happy to receive confirmation that my order should be shipped out shortly. I later received a call from Tower informing me that all Cox Star-Wars aircraft had been discontinued, and that my order would never be filled. My charge had already been processed.
+
+I asked the customer service agent if it would be possible to substitute ANY other Cox-powered products, and was told that I could, but only at their current prices. I asked that they credit my card back the amount of the charge.
+
+Below is the message I later received from Tower Hobbies. Although I am still disappointed that I will not be receiving the killer deal on the Naboo Fighters, I do feel that Tower has redeemed themselves somewhat in their response, and thus they will continue to receive my business.
+
+Mike Gillihan
+
+From: Tower_Customer_Service \[SMTP:CSEMAIL@towerhobbies.com\]\
+Sent: Monday, October 09, 2000 1:05 PM\
+To: Gillihan Mike\
+Subject: Re: Disappointed with Tower Hobbies\
+
+Dear Sir
+
+We do apologize for the situation. There was a miscount in the warehouse, in other words the computer showed items in stock at the time you placed your order, but when they went to pick your order the products were not on the shelf.
+
+Again we apologize for the situation. We are refunding your credit card and will also give you a \$5.00 inconvenience coupon.
+
+Thank you for writing Tower Hobbies. We appreciate your time and your business with us.
+
+\* Tower Hobbies\
+\< <http://www.towerhobbies.com/> \>
+
+Milton Dickey \< 
+
+ \> had his order filled:
+
+The message about the Cox "Naboo" on sale at Tower was great! I bought 5, and was delighted to find that the cylinder has the porting I was asking about on an earlier post! It has the normal twin bypass ports plus the extra (boost?) port on the side of each bypass! It comes with a black 6X3 prop and a neat heavy prop nut for tailheavy planes. All in all, a great deal!
+
+Milton Dickey
+
+Mike Cook \< 
+
+ \> contributed:
+
+RE the Cox Droid fighters, I ordered five, figuring one or two for me and the rest for grandchildren. After opening one, I carefully checked it over and found what I think is the reason for the cut- price sale. No place to put fuel into the tank!
+
+There are two holes in the body where tank fill and vent tubes would go, but they have little plastic plugs in them inserted from the inside. The photos of the model don't show any tubes either. Thus, after attaching the fuel line - also a job requiring more dexterity than the average impatient parent has on Christmas morning - the model is not usable.
+
+I tried off and on all day to talk to Cox to see if they have a technical solution but never got through and was disconnected several times due to "high volume of calls". I'm not surprised. I guess the rest of my squadron will go back to Tower with a warning to them.
+
+Mike Cook
+
+Jim Rundle \< 
+
+ \> comments:
+
+The Cox situation is really sad. My first engine was a Wen-Mac, and it was so hard to start that I'm sure the only reason I persisted is that someone down the street had a Baby Flitestreak with a Babe Bee that was a first-flip starter. When I got one of those I thought I'd died and gone to heaven--suddenly model airplanes were pure fun.
+
+Ran it on Missile Mist for years with zero maintenance other than glow heads. The TD .15 I got later was just as easy and reliable, and my only problem with it was it made my Junior Flitestreak so fast, even on a 9 x 4 prop, I could hardly keep up with it.
+
+The Coxes I have now just don't compare. For a while my Texaco was very good, but it became terribly erratic in spite of careful cleanings, blowing through vents and checking gaskets. I suspect not enough castor in my fuel recently has made the ball joint loose, but I'm not going to put much more effort into those engines.
+
+I think electrics will replace those C\*x toys, and then I wonder if someone will pick up the tooling and do the job right again.
+
+Best wishes, Jim
+
+\< 
+
+ \> reports:
+
+<span id="388"></span>
+
+<div class="green">
+
+Source: Cox parts\
+
+</div>
+
+A trip to my favorite hobby shop revealed all kinds of COX parts, including a .020 cylinder, piston and throttle sleeve. If interested, call
+
+HOBBY CITY\
+15751 Columbia Pike\
+Burtonsville, Maryland 20866\
+(301) 421-5977\
+
+Bob Chiang \< 
+
+ \> submitted:
+
+To follow up on the Tower Hobbies sale (thanks again Don for the tip on the Naboo fighters) and Bob Bruce's question about using a Speed 280 motor in an electric power pod:
+
+Tower Hobbies is currently selling a Mabuchi 280 motor for 83 cents! \< <http://www2.towerhobbies.com/> \>
+
+I have been flying a foam glider called the Pink Panther \< <http://members.aol.com/tsteelhead/panther.html> \> using a power pod consisting of an MG-1 motor from EMPS \< <http://www.empsinc.com/> \> and six 270 mAh nicads built from surplus cordless phone packs. With an all-up weight of over 20 ounces, the motor/battery combination still manages to give 3- minute flights -- and of course much more with help from thermal activity. At my level of flying ability, this combination takes much more room to fly than a soccer field provides.
+
+Also visit \< <http://www.ezonemag.com/articles/1999/may/forum400/forum400.htm> \> to see an article about a Speed 300 power pod.
+
+Best of luck, Bob Chiang
+
+David Williams \< 
+
+ \> asks:
+
+Has anyone used the new Sanyo 1000 mAh gold cells to make a 7-cell flight pack? I've bought a set and made a pack up; initial results look promising on my Speed 400 sport glider. Any comments? David Williams ENGLAND
+
+Carl Dowdy \< 
+
+ \> wrote:
+
+Quick note/reminder on Dick Scalone's inquiry about scales (because I think it has been mentioned on SMALLnet before). The Royal ex2 scale found at Sam's Club is a great deal. I bought mine for \$26 and I think they are now less. It's a digital platform (at least that's what I call it) scale that reads in 0.1 ounce increments up to 4 pounds, I think. Way heavier than most SMALL models, anyway.
+
+Carl Dowdy \< 
+
+ \>
+
+John Rossetti \< 
+
+ \> informs us:
+
+Following is a good source for basswood in Canada.
+
+<span id="445"></span>
+
+<div class="green">
+
+Source: Basswood\
+
+</div>
+
+<span id="446"></span>
+
+<div class="green">
+
+Vendor: Don's Bass and Balsa Wood\
+
+</div>
+
+Don's Bass and Balsa Wood\
+116 Main St. East\
+Grimsby, Ontario, Canada L3M 1N8\
+Phone (905) 945 5647\
+Fax (905) 945 4169\
+
+Remember all you guys in the U.S., your dollar is worth about \$1.45 in Canada, so Don's prices may be very attractive. I visited his booth at the recent Kitchener, Ontario scale rally, and his wood looks pretty good. John
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

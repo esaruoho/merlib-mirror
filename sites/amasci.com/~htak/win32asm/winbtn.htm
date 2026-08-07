@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>BUTTON Control</title>
+</head>
+<body>
+<h1>BUTTON Control</h1>
+
+Button controls are used as triggers or toggles. Toggles may be
+2-way or 3-way. 
+
+<p>[See <a href="winctl.htm">Introduction to Controls</a>]</p>
+
+<h3>Button types and styles</h3>
+
+Button types: 
+
+<p>BS_PUSHBUTTON<br>
+BS_DEFPUSHBUTTON</p>
+
+<p>BS_CHECKBOX<br>
+BS_AUTOCHECKBOX<br>
+BS_3STATE<br>
+BS_AUTO3STATE<br>
+ [ See <a href="winbtn2.htm">check box example (caption
+options)</a>. ]</p>
+
+<p>BS_RADIOBUTTON<br>
+BS_AUTORADIOBUTTON</p>
+
+<p>BS_GROUPBOX</p>
+
+<p>BS_USERBUTTON<br>
+BS_OWNERDRAW</p>
+
+<p>Button styles:</p>
+
+<p>BS_TEXT<br>
+BS_LEFTTEXT, BS_RIGHTBUTTON</p>
+
+<p>BS_ICON<br>
+BS_BITMAP</p>
+
+<p>BS_LEFT<br>
+BS_CENTER<br>
+BS_RIGHT<br>
+BS_TOP<br>
+BS_VCENTER<br>
+BS_BOTTOM</p>
+
+<p>BS_PUSHLIKE<br>
+BS_MULTILINE<br>
+BS_FLAT</p>
+
+<p>BS_NOTIFY</p>
+
+<h3>Button messages</h3>
+
+There are some APIs for buttons and there are some general APIs
+like SetFocus, EnableWindow, and SetWindowText. 
+
+<p>Button messages:</p>
+
+<p>BM_GETCHECK<br>
+BM_SETCHECK ; wParam = new check state<br>
+BM_GETSTATE<br>
+BM_SETSTATE ; wParam = new push state<br>
+BM_SETSTYLE ; wParam = new style, lParam = redraw<br>
+BM_CLICK ; simulate click<br>
+BM_GETIMAGE<br>
+BM_SETIMAGE ; lParam = new image handle</p>
+
+<p>Button states:</p>
+
+<p>BST_UNCHECKED<br>
+BST_CHECKED<br>
+BST_INDETERMINATE</p>
+
+<p>; Button state masks for BM_GETSTATE</p>
+
+<p>; get check state = 3h<br>
+BST_PUSHED ; get push/highlight state<br>
+BST_FOCUS ; get focus state</p>
+
+<h3>Button notifications</h3>
+
+Buttons notify their parents by sending a WM_COMMAND message to
+them with a notification code. 
+
+<p>Button notification codes:</p>
+
+<p>BN_CLICKED<br>
+BN_PAINT<br>
+BN_HILITE, BN_PUSHED<br>
+BN_UNHILITE, BN_UNPUSHED<br>
+BN_DISABLE<br>
+BN_DOUBLECLICKED, BN_DBLCLK<br>
+BN_SETFOCUS<br>
+BN_KILLFOCUS</p>
+
+<h3>Some specialized API button functions</h3>
+
+These functions were created for use in dialogs. However, they
+will work for any window that has button controls. When working
+with dialog boxes, the Wnd argument is the dialog box. 
+
+<p>DWORD IsDlgButtonChecked(HWND Wnd, int ButtonID)<br>
+ Same as sending BM_GETSTATE. Effectively used when a button
+needs to be queried by a handler for another control.</p>
+
+<p>void CheckDlgButton(HWND Wnd, int ButtonID, DWORD
+NewState)<br>
+ Same as sending BM_SETSTATE. Effectively used when a button
+needs to be changed by another control handler.</p>
+
+<p>void CheckRadioButton(HWND Wnd, int FirstBtnID, int LastBtnID,
+int SelectBtnID)<br>
+ This is a very useful function. Makes several buttons work
+together as a "select one" control. The buttons affected have
+control IDs in the range from FirstBtnID to LastBtnID. The button
+with the SelectBtnID is the one that gets "checked", and the
+others become "unchecked".</p>
+
+<hr>
+</body>
+</html>
+

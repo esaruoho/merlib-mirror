@@ -1,0 +1,21 @@
+My honours year, 1997
+
+ Thesis on secret sharing schemes based on geometric 
+constructions and Latin squares;
+
+ Report on distributed computing:
+adding facilities to the capabilities in the Amoeba 
+distributed operating system, including authentication; developing a capability 
+server simulation;
+
+ Report for
+Advanced Networks and Communications subject concerning
+building an authentication scheme for access to a database (mSQL);
+
+ Report on data compression, focusing on PPM 
+(Prediction by Partial Matching);
+
+ Report on elliptic curve public key 
+cryptosystems;
+
+ Essay on irreducible designs.

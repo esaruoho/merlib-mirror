@@ -1,0 +1,2332 @@
+
+%Final version: 27/6/2001.
+
+\documentclass[11pt]{article}
+\pagestyle{plain}
+
+\usepackage{amssym}
+%\usepackage{amstex}
+
+\usepackage{std}
+%\def\baselinestretch{2}\small\normalsize
+
+\setlength{\textwidth}{152.4truemm}
+\setlength{\textheight}{228.6truemm}
+\setlength{\oddsidemargin}{3.6mm}
+\setlength{\evensidemargin}{3.6mm}
+\setlength{\topmargin}{-12.5truemm}
+\setlength{\parindent}{5.0truemm}
+
+ \newtheorem{theorem}{Theorem}[section]
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+\def\arraystretch{1.153}                 %You can change 1.0
+\def\n#1{\vbox to 5mm{\vspace{1mm}\vfill \hbox to 2.0mm{\hfill
+             $#1$\hfill} \vfill }}
+
+\title{Disjoint critical sets in Latin squares}
+
+\author{Peter Adams, Richard Bean and Abdollah Khodkar \\
+Centre for Discrete Mathematics and Computing \\ 
+Department of Mathematics\\ 
+The University of Queensland\\ 
+Queensland 4072\\ Australia} 
+
+\date{ }
+
+
+\begin{document}
+\maketitle
+
+\vspace{15 pt}
+
+\begin{quote}
+ABSTRACT:
+A critical set in a Latin square is a subset of the Latin square
+containing just enough information to determine the complete Latin
+square.  It has been conjectured that the smallest possible
+critical set in a Latin square is of size $\lfloor \dfrac{n^2}{4} \rfloor$.
+If this conjecture is true, it may be possible to partition
+a Latin square $L$ into two, three or four disjoint critical sets
+in $L$.  We give a theorem to show that for a given order $n$,
+there exists a back-circulant Latin square of order $n$ which
+may be partitioned into four disjoint critical sets, and we give
+examples of all possible different partitions of Latin squares
+of order at most 6.  We also give an example of two mutually
+complementary critical sets, which partition a Latin square of
+order 8 into two disjoint critical sets.
+
+\end{quote}
+\vspace{8mm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION1
+\section{Introduction}   
+
+A {\em partial Latin square} $P$ of order $n$ is an $n\times n$ array 
+containing symbols chosen from a set $N$ of size $n$
+in such a way that each element of $N$
+occurs at most once in each row and at most once in each column of the array.
+For ease of exposition, a partial Latin square $P$ will be represented by 
+a set of ordered triples $\{(i,j;k)\mid {\rm element\ }
+k\in N {\rm \ occurs \ in\ cell\ } (i,j) {\rm \ of\ the\ array}\}$.
+If all the cells of the array are filled then the partial Latin square 
+is termed a Latin square. 
+That is, a {\em Latin square} $L$ of order $n$ is an $n\times n$ array with
+entries chosen from the set $N$ in such a way that 
+each element of $N$ occurs precisely once in each
+row and precisely once in each column of the array.
+
+A {\it critical set} in a Latin square $L$ (of order $n$) is a
+partial Latin square ${\mathcal C}$ in $L$, such that
+\begin{itemize}
+\item[(1)] $L$ is the only Latin square of order $n$ which has
+element $k$ in cell $(i,j)$ for each $(i,j;k)\in {\mathcal C}$, and
+
+\item[(2)] no proper subset of ${\mathcal C}$ satisfies $(1)$.
+\end{itemize}
+
+A {\em uniquely completable set} (UC)
+in a Latin square $L$ of order $n$ is a partial Latin square in
+$L$ which satisfies condition (1) above.
+
+Define ${\rm scs}(n)$ to be the cardinality of smallest critical sets
+in any Latin square of order $n$. Mahmoodian in \cite {M} and 
+Bate and van Rees in \cite {BR} independently 
+conjectured that ${\rm scs}(n)=\lfloor n^2/4 \rfloor$. This conjecture 
+has been shown to be true for $1\leq n \leq 7$ (see \cite{AK,BR,CR,DCNS,H}).
+If this conjecture turns out to be true then the maximum number of
+disjoint critical sets in a Latin square of order $n$ will be four.
+
+In this paper, we examine representatives of each main class of Latin
+square (see \cite{CD}) of order up to six in order to determine which
+main
+classes can be partitioned into disjoint critical sets.  General results
+are given which partition the back-circulant Latin square of non-trivial
+order into four disjoint critical sets.
+
+We also consider the problem of partitioning a Latin square into two
+disjoint critical sets.  This is shown to be impossible for Latin
+squares of order less than or equal to six.  Some partial non-existence
+results are given for the problem for Latin squares of order seven,
+and the first published example of a solution to this problem is given.
+It is derived from a Latin square of order eight.
+
+The notation $LS_{y.z}$ denotes main class $z$ in a Latin square of
+order $y$, as in the CRC Handbook of Combinatorial Designs, \cite{CD}.
+For the tables in this paper, we shall denote a critical set of size $x$
+by ${\mathcal C}(x)$.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION2
+\section{Theoretical results}
+
+Let $B_n$ denote the back circulant Latin square of order $n>1$. That is, 
+if the rows and columns are labelled zero to $n-1$, then for all 
+positive integers $n$,
+$$
+B_n=\{(i,j;i+j({\rm mod\ } n))\mid 0\leq i,j\leq n-1\}. 
+$$
+(Note that here $N=\{0,1,2,\ldots,n-1\}$.)
+
+\begin{theorem}\label{bkcircth}{\rm
+Let $B_n$ be the back circulant Latin square of order $n$. 
+\begin{itemize}
+\item[(1)] If $n$ is even then $B_n$ can be partitioned into
+four critical sets of size $\dfrac{n^2}{4}$.
+\item[(2)] If $n$ is odd then $B_n$ can be partitioned into
+three critical sets of size $\dfrac{n^2-1}{4}$ and one critical set of size
+$\dfrac{n^2+3}{4}$.
+\end{itemize}
+}
+\end{theorem}
+
+\begin{proof} (1) Define 
+$$\begin{array}{lcl}
+{\mathcal C}_1 & = & \{(i,j;i+j)\mid i=0,\ldots,\dfrac{n}{2}-1\;
+\mbox{ and }\;j=0,\ldots,\dfrac{n}{2}-1-i\}\bigcup \\
+& & \{(i,j;i+j)\mid i=\dfrac{n}{2}+1,\ldots,n-1\;
+\mbox{ and }\;j=\dfrac{n}{2}-i,\ldots,n-1\} \\
+\end{array}$$
+(addition is modulo $n$).
+It is well-known (see for example \cite{doco}) that ${\mathcal C}_1$ is a 
+critical set of size $\dfrac{n^2}{4}$ in $B_n$. Now we define
+$$\begin{array}{lcl}
+{\mathcal C}_2 & = & \{(i,j+\dfrac{n}{2};i+j+\dfrac{n}{2})\mid 
+(i,j;i+j)\in {\mathcal C}_1\}, \\
+&&\\
+{\mathcal C}_3 & = & \{(i+\dfrac{n}{2},j;i+j+\dfrac{n}{2})\mid 
+(i,j;i+j)\in {\mathcal C}_1\}, \mbox{ and}  \\
+&&\\
+{\mathcal C}_4 & = & \{(i+\dfrac{n}{2},j+\dfrac{n}{2};i+j)\mid 
+(i,j;i+j)\in {\mathcal C}_1\}. \\
+\end{array}$$
+It is easy to see that ${\mathcal C}_i$ is also a critical set of 
+size $\dfrac{n^2}{4}$ in $B_n$ for $i=2,\,3,\,4$. Moreover,
+${\mathcal C}_i\cap {\mathcal C}_j=\emptyset$ for $1\leq i<j\leq 4$.
+Finally,
+$B_n= {\mathcal C}_1\cup {\mathcal C}_2\cup {\mathcal C}_3\cup 
+{\mathcal C}_4.$
+
+\noindent (2) Define 
+$$\begin{array}{lcl}
+{\mathcal C} & = & \{(i,j;i+j)\mid i=0,\ldots,\dfrac{n-1}{2}\;
+\mbox{ and }\;j=0,\ldots,\dfrac{n-1}{2}-i\}\bigcup \\
+& & \{(i,j;i+j)\mid i=\dfrac{n-1}{2}+2,\ldots,n-1\;
+\mbox{ and }\;j=\dfrac{n-1}{2}+1-i,\ldots,n-1\}\\
+\end{array}$$
+and
+$$\begin{array}{lcl}
+{\mathcal C}_1 & = & \{(i,j;i+j)\mid i=0,\ldots,\dfrac{n-3}{2}\;
+\mbox{ and }\;j=0,\ldots,\dfrac{n-3}{2}-i\}\bigcup \\
+& & \{(i,j;i+j)\mid i=\dfrac{n-1}{2}+1,\ldots,n-1\;
+\mbox{ and }\;j=\dfrac{n-1}{2}-i,\ldots,n-1\}. \\
+\end{array}$$
+It is well-known (see for example \cite{doco}) that 
+${\mathcal C}$ and ${\mathcal C}_1$ are  
+critical sets of sizes $\dfrac{n^2-1}{4}+1$ and $\dfrac{n^2-1}{4}$,
+respectively, in $B_n$. Now we define
+$$\begin{array}{lcl}
+{\mathcal C}_2 & = & \{(i,j+\dfrac{n+1}{2};i+j+\dfrac{n+1}{2})\mid 
+(i,j;i+j)\in {\mathcal C}_1\}, \\
+&&\\
+{\mathcal C}_3 & = & \{(i+\dfrac{n+1}{2},j;i+j+\dfrac{n+1}{2})\mid 
+(i,j;i+j)\in {\mathcal C}_1\}, \mbox{ and}  \\
+&&\\
+{\mathcal C}_4 & = & \{(\dfrac{n-1}{2}-i,\dfrac{n-1}{2}-j;n-1-(i+j)\mid 
+(i,j;i+j)\in {\mathcal C}\}. \\
+\end{array}$$
+It is easy to see that ${\mathcal C}_2$, ${\mathcal C}_3$ and
+${\mathcal C}_4$ are also critical sets of 
+sizes $\dfrac{n^2-1}{4}$, $\dfrac{n^2-1}{4}$ and $\dfrac{n^2-1}{4}+1$,
+respectively, in $B_n$. Moreover,
+${\mathcal C}_i\cap {\mathcal C}_j=\emptyset$ for $1\leq i<j\leq 4$.
+Finally,
+$B_n= {\mathcal C}_1\cup {\mathcal C}_2\cup {\mathcal C}_3\cup 
+{\mathcal C}_4.$
+\end{proof}
+
+The following examples illustrate Theorem \ref{bkcircth}.
+
+\begin{example}{\rm 
+Let $n=6$. Then $B_6$ is decomposed into
+
+\begin{center}
+\begin{tabular}{cccc}
+  \begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}
+  |c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+  0&1&2&$\;\,$& &  \\ \hline
+  1&2& & & &  \\ \hline
+  2& & & & &  \\ \hline
+   & & & & &  \\ \hline
+   & & & & &3 \\ \hline
+   & & & &3&4 \\ \hline
+  \end{tabular} &
+  \begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}
+  |c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+  $\;\,$& & &3&4&5 \\ \hline
+   & & &4&5&  \\ \hline
+   & & &5& &  \\ \hline
+   & & & & &  \\ \hline
+   & &0& & &  \\ \hline
+   &0&1& & &  \\ \hline
+  \end{tabular} &
+  \begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}
+  |c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+   & & &$\;\,$& &  \\ \hline
+   & & & & &0 \\ \hline
+   & & & &0&1 \\ \hline
+  3&4&5& & &  \\ \hline
+  4&5& & & &  \\ \hline
+  5& & & & &  \\ \hline
+  \end{tabular} &
+  \begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}
+  |c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+  $\;\,$& & & & &  \\ \hline
+   & &3& & &  \\ \hline
+   &3&4& & &  \\ \hline
+   & & &0&1&2 \\ \hline
+   & & &1&2&  \\ \hline
+   & & &2& &  \\ \hline
+  \end{tabular} \\
+${\mathcal C}_1$&${\mathcal C}_2$&${\mathcal C}_3$&${\mathcal C}_4$ \\
+\end{tabular}
+\end{center}
+
+Note that ${\mathcal C}_1,{\mathcal C}_2,{\mathcal C}_3$ and 
+${\mathcal C}_4$ are critical sets in $B_6$ all of size $9$. 
+
+Let $n=5$. Then $B_5$ is decomposed into
+
+\begin{center}
+\begin{tabular}{cccc}
+  \begin{tabular}{|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}
+  |c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|} \hline
+  0&1&$\;\,$& & \\ \hline
+  1& & & & \\ \hline
+   & & & & \\ \hline
+   & & & &2\\ \hline
+   & & &2&3\\ \hline
+   \end{tabular}&
+  \begin{tabular}{|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}
+  |c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|} \hline
+  $\;\,$ & & &3&4\\ \hline
+   & & &4& \\ \hline
+   & & & & \\ \hline
+   & &0& & \\ \hline
+   &0&1& & \\ \hline
+   \end{tabular}&
+  \begin{tabular}{|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}
+  |c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|} \hline
+   & &$\;\,$ & & \\ \hline
+   & & & &0\\ \hline
+   & & &0&1\\ \hline
+  3&4& & & \\ \hline
+  4& & & & \\ \hline
+   \end{tabular}&
+  \begin{tabular}{|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}
+  |c@{\hspace{1.1mm}}|c@{\hspace{1.1mm}}|} \hline
+   & &2& &$\;\,$ \\ \hline
+   &2&3& & \\ \hline
+  2&3&4& & \\ \hline
+   & & &1& \\ \hline
+   & & & & \\ \hline
+   \end{tabular} \\
+${\mathcal C}_1$&${\mathcal C}_2$&${\mathcal C}_3$&${\mathcal C}_4$ \\
+\end{tabular}
+\end{center}
+
+Note that ${\mathcal C}_1,{\mathcal C}_2$ and ${\mathcal C}_3$ are
+critical sets of size $6$ in $B_5$ and ${\mathcal C}_4$ is a 
+critical set of size $7$ in $B_5$. 
+   
+}
+\end{example}
+
+\begin{theorem}\label{no2disj}
+Let $L$ be a Latin square of order $n$ and $2\leq n\leq 6$. Then there
+do not exist two disjoint critical sets ${\mathcal C}_1$ and ${\mathcal C}_2$
+in $L$ such that $L={\mathcal C}_1\cup {\mathcal C}_2$.
+\end{theorem}
+
+\begin{proof}
+Assume ${\mathcal C}_1$ and ${\mathcal C}_2$ are two disjoint critical sets
+in $L$ such that $L={\mathcal C}_1\cup {\mathcal C}_2$. This follows
+that either $|{\mathcal C}_1|\geq \lceil n^2/2\rceil$
+or $|{\mathcal C}_2|\geq \lceil n^2/2\rceil$. The largest possible size
+for a critical set of order $n$, where $2\leq n\leq 6$, is $1$, $3$,
+$7$, $11$ and $18$, respectively (see \cite {ABK}). So the proof
+completes for $n=2,\,3,\,4,\,5$. There are precisely 648 critical sets
+of order $6$ and size $18$ (see \cite{ABK}).  These critical sets
+occur in a Latin square which can be partitioned into four
+subsquares of order 3.
+There are two simple observations we can make to see that no
+pair of these critical sets is disjoint.  The first is that each
+of these critical sets has a missing row, column, and element.  Thus
+the complement of any critical set must contain a complete row and column
+and one element must occur six times.  Then no complement can be a critical
+set.  We may also observe that each of these critical sets contains
+a complete subsquare of order 3.  Thus, there is a subsquare missing
+from each complement and no complement can have unique completion.
+%A simple computer search
+%shows that no two critical sets of these 648 critical sets are disjoint.
+\end{proof}
+
+We note that the largest critical set known in a Latin square of order
+7 is of size 25, and that all known critical sets of this size and order
+contain a missing row, column, or element (see \cite{B}). 
+Thus no pair of disjoint 
+critical sets of order 7 which cover a complete Latin square is known.
+
+However, for Latin squares of order 8, we have discovered a pair of
+disjoint critical sets in the abelian 2-group of order 8, 
+denoted ${\Bbb Z}_2^3$,
+which are mutually complementary. Thus this is the smallest known
+example. These are shown in the diagram below.
+
+\vspace*{3mm}
+\begin{tabular}{ccccc}
+${\Bbb Z}_2^3$   & $=$ &
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline $\;\;$&$\;\;$&3&4&$\;\;$&6&7&$\;\;$ \\
+\hline 2&1&$\;\;$&$\;\;$&$\;\;$&5&8&$\;\;$ \\
+\hline $\;\;$&4&1&$\;\;$&$\;\;$&$\;\;$&5&6 \\
+\hline $\;\;$&3&2&$\;\;$&8&7&$\;\;$&$\;\;$ \\
+\hline $\;\;$&$\;\;$&7&8&1&$\;\;$&$\;\;$&4 \\
+\hline 6&5&$\;\;$&$\;\;$&2&$\;\;$&$\;\;$&3 \\
+\hline 7&$\;\;$&$\;\;$&6&$\;\;$&$\;\;$&1&2 \\
+\hline 8&$\;\;$&$\;\;$&5&4&3&$\;\;$&$\;\;$ \\
+\hline
+\end{tabular}
+& $+$ &
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline 1&2&$\;\;$&$\;\;$&5&$\;\;$&$\;\;$&8 \\
+\hline $\;\;$&$\;\;$&4&3&6&$\;\;$&$\;\;$&7 \\
+\hline 3&$\;\;$&$\;\;$&2&7&8&$\;\;$&$\;\;$ \\
+\hline 4&$\;\;$&$\;\;$&1&$\;\;$&$\;\;$&6&5 \\
+\hline 5&6&$\;\;$&$\;\;$&$\;\;$&2&3&$\;\;$ \\
+\hline $\;\;$&$\;\;$&8&7&$\;\;$&1&4&$\;\;$ \\
+\hline $\;\;$&8&5&$\;\;$&3&4&$\;\;$&$\;\;$ \\
+\hline $\;\;$&7&6&$\;\;$&$\;\;$&$\;\;$&2&1 \\
+\hline
+\end{tabular}
+\\ & & ${\mathcal C}(32)$ & & ${\mathcal C}(32)$ 
+\end{tabular}
+\vspace*{3mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION3
+\section{Computational results}
+
+The following results have been obtained through the use of computer
+searches in Latin squares of orders 4, 5 and 6.  We describe the approach used.
+
+Firstly, we generated all possible critical sets for the main classes
+of Latin squares of order $n$, $4 \leq n \leq 6$
+(see \cite {ABK}).  The possible sizes
+of these critical sets were noted.  Then, all partitions of the number $n^2$
+into these possible sizes were calculated.  By considering each
+of the critical sets as binary strings, and using the binary operations
+of AND, XOR, and OR, we efficiently calculated which critical sets
+were disjoint and covered the complete Latin square for each Latin square
+examined.
+
+These results give existence and non-existence
+results for all possible sizes of partitions.  An existence result
+is denoted by an equation with a specific example or a reference to
+Theorem 2.1.  A non-existence result, denoted by an inequality, means
+that no partition with critical sets of the given sizes is possible.
+
+{\footnotesize
+\begin{center}
+\large{\bf{Latin square 4.1 $=LS_{4.1}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{4.1} = {\mathcal C}(4) + {\mathcal C}(4) + {\mathcal C}(4) + 
+{\mathcal C}(4)$ (by Theorem \ref{bkcircth})
+\end{tabular}
+
+\begin{tabular}{ccccccc}
+$LS_{4.1}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  $\;\;$ & 2 &  $\;\;$ &  $\;\;$ \\
+\hline 2 & $\;\;$ & 4 & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$  \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$  \\
+\hline $\;\;$ & 3 & $\;\;$ & 1  \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline  $\;\;$ &  $\;\;$ & 2 &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$  \\
+\hline 3 & 4 & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & 3  \\
+\hline
+\end{tabular}
+
+\\ & & ${\mathcal C}(5)$ & & ${\mathcal C}(5)$ & & ${\mathcal C}(6)$ 
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\large{{\bf Latin square 4.2 $=LS_{4.2}$}}
+\end{center}
+
+\begin{tabular}{ccccccc}
+$LS_{4.2}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  1 & 2 &  $\;\;$ &  $\;\;$ \\
+\hline  $\;\;$ & $\;\;$ &  $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$  \\
+\hline 4 &  $\;\;$ & $\;\;$ & $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline $\;\;$ & $\;\;$ &  $\;\;$ & 4  \\
+\hline $\;\;$ & 1 & $\;\;$ &  $\;\;$  \\
+\hline 3 & 4 & $\;\;$ &  $\;\;$ \\
+\hline  $\;\;$ &  $\;\;$ & 2 &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  $\;\;$ & $\;\;$ & 3 &  $\;\;$ \\
+\hline 2 & $\;\;$ & 4 & $\;\;$  \\
+\hline  $\;\;$ &  $\;\;$ & $\;\;$ & 2 \\
+\hline  $\;\;$ & 3 & $\;\;$ & 1  \\
+\hline
+\end{tabular}
+
+\\ & & ${\mathcal C}(5)$ & & ${\mathcal C}(5)$ & & ${\mathcal C}(6)$
+\end{tabular}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\large{{\bf Latin square 5.1 $=LS_{5.1}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{5.1} = {\mathcal C}(6) + {\mathcal C}(6) + {\mathcal C}(6) + 
+{\mathcal C}(7)$ (by Theorem \ref{bkcircth})
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc}
+$LS_{5.1}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$ & 5  \\
+\hline 2 & 3 & 4 &   $\;\;$ &  $\;\;$  \\
+\hline  3 &  4 & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline  4 & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline 1 &  $\;\;$ & $\;\;$ &  4 & $\;\;$  \\
+\hline  $\;\;$ &  $\;\;$ & $\;\;$ &  5 & 1  \\
+\hline $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$ & 2  \\
+\hline $\;\;$ & 5 &  $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline 5 & 1 & 2 &  $\;\;$ & $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline $\;\;$ & 2 &  3 & $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & 5 &  1 & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & 1 &  2 & 3  \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4  \\
+\hline
+\end{tabular} 
+
+\\ & & ${\mathcal C}(7)$ & & ${\mathcal C}(9)$ &  & ${\mathcal C}(9)$
+\end{tabular}
+
+\begin{tabular}{ccccccc}
+$LS_{5.1}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline 1 & $\;\;$ & $\;\;$ &  $\;\;$ & 5  \\
+\hline   $\;\;$  & 3 & 4 & 5 &  $\;\;$  \\
+\hline  3 &  4 & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline  4 & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline   $\;\;$  &  2 & 3 &  4 & $\;\;$  \\
+\hline  $\;\;$ &  $\;\;$ & $\;\;$ &    $\;\;$  & 1  \\
+\hline $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$ &   $\;\;$   \\
+\hline $\;\;$ &   $\;\;$  &  $\;\;$ &  2 & $\;\;$  \\
+\hline 5 & 1 &   $\;\;$  &  $\;\;$ & 4  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$ & $\;\;$  \\
+\hline 2 & $\;\;$ & $\;\;$ &  $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & $\;\;$ & 5 &  1 & 2  \\
+\hline $\;\;$ & 5 & 1 &  $\;\;$ & 3  \\
+\hline $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$  \\
+\hline
+\end{tabular}
+
+\\ & & ${\mathcal C}(8)$ & & ${\mathcal C}(8)$ &  & ${\mathcal C}(9)$
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\large{{\bf Latin square 5.2 $=LS_{5.2}$}}
+\end{center}
+
+\begin{tabular}{ccccccc}
+$LS_{5.2}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  $\;\;$  & 2 & $\;\;$ &  $\;\;$ & 5  \\
+\hline   2  &  $\;\;$  &  $\;\;$  &  $\;\;$  &  3  \\
+\hline  $\;\;$ &  $\;\;$  &  5 & $\;\;$ &  $\;\;$   \\
+\hline  4 & $\;\;$ & $\;\;$ & 3 &  $\;\;$    \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline   $\;\;$  &   $\;\;$  & 3 &   $\;\;$  & $\;\;$  \\
+\hline  $\;\;$ &  $\;\;$ & $\;\;$ & 5 &  $\;\;$   \\
+\hline 3 & $\;\;$ &  $\;\;$ & 1 &   2   \\
+\hline $\;\;$ & 5  &  2 &   $\;\;$  & $\;\;$  \\
+\hline 5 &  $\;\;$  &   $\;\;$  & 2 &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline 1 & $\;\;$ &  $\;\;$ & 4 & $\;\;$  \\
+\hline  $\;\;$  & 1 & 4 &  $\;\;$ & $\;\;$  \\
+\hline $\;\;$ & 4 &  $\;\;$  &   $\;\;$  & $\;\;$   \\
+\hline $\;\;$ &  $\;\;$  &  $\;\;$  &  $\;\;$ & 1  \\
+\hline $\;\;$ & 3 & 1 &  $\;\;$  & 4  \\
+\hline
+\end{tabular}
+
+\\ & & ${\mathcal C}(7)$ & & ${\mathcal C}(9)$ &  & ${\mathcal C}(9)$
+\end{tabular}
+
+
+\begin{tabular}{ccccccc}
+$LS_{5.2}$   & $=$ &
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  $\;\;$  &  $\;\;$ & $\;\;$ &  $\;\;$ & 5  \\
+\hline   2  &  1  &  4  &  $\;\;$  &  $\;\;$   \\
+\hline  3 &  4 &   $\;\;$ & $\;\;$ &  $\;\;$   \\
+\hline  4 & $\;\;$ & $\;\;$ & 3 &  $\;\;$    \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline   1  &   $\;\;$  & 3 &   $\;\;$  & $\;\;$  \\
+\hline  $\;\;$ &  $\;\;$ & $\;\;$ & 5 &  $\;\;$   \\
+\hline  $\;\;$ & $\;\;$ &  $\;\;$ &  $\;\;$ &  $\;\;$   \\
+\hline $\;\;$ &  $\;\;$ &  2 &   $\;\;$  & 1  \\
+\hline 5 &  3  & 1 &  $\;\;$ &  $\;\;$  \\
+\hline
+\end{tabular} &
+ $+$ &
+
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3
+mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|}
+\hline  $\;\;$ & 2 &  $\;\;$ & 4 & $\;\;$  \\
+\hline  $\;\;$  &  $\;\;$ &  $\;\;$ &  $\;\;$ & 3 \\
+\hline $\;\;$ &  $\;\;$ & 5 & 1 & 2  \\
+\hline $\;\;$ & 5 &  $\;\;$  &  $\;\;$ &  $\;\;$ \\
+\hline $\;\;$ &  $\;\;$ &  $\;\;$ & 2 & 4  \\
+\hline
+\end{tabular}
+
+\\ & & ${\mathcal C}(8)$ & & ${\mathcal C}(8)$ &  & ${\mathcal C}(9)$
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\large{\bf{Latin square 6.1 $=LS_{6.1}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.1} \neq {\mathcal C}(9) + {\mathcal C}(11) + {\mathcal C}(16)$\\
+$LS_{6.1} \neq {\mathcal C}(9) + {\mathcal C}(12) + {\mathcal C}(15)$\\
+$LS_{6.1} = {\mathcal C}(9) + {\mathcal C}(9) + {\mathcal C}(9) + 
+{\mathcal C}(9)$ (by Theorem \ref{bkcircth})
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.1}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular}
+\\
+ & & ${\mathcal C}(9)$ & & ${\mathcal C}(13)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.1}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\
+\hline 4 & 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & 5 & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 5 \\
+\hline 
+\end{tabular}
+\\
+ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.1}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 1 & 2 & $\;\;$ \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 & 5 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\ 
+\hline 6 & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular}
+\\
+ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+
+\begin{tabular}{ccccccc} 
+$LS_{6.1}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & 1 & 2 & 3 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ \\ 
+\hline 3 & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 2 & 3 & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular}
+\\
+ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\large{\bf{Latin square 6.2 $=LS_{6.2}$}}
+\end{center}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.2}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & 3 \\
+\hline $\;\;$ & 5 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & 1 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.2}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 1 & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & 2 & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 4 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 4 & $\;\;$ \\ 
+\hline 6 & 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.2}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.3 $=LS_{6.3}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.3} \neq {\mathcal C}(11) + {\mathcal C}(11) + {\mathcal C}(14)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.3}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & 1 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.3}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & 1 & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & 4 \\
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.4 $=LS_{6.4}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.4} \neq {\mathcal C}(10) + {\mathcal C}(10) + {\mathcal C}(16)$\\
+$LS_{6.4} \neq {\mathcal C}(10) + {\mathcal C}(11) + {\mathcal C}(15)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.4}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & 3 & $\;\;$ & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & 6 & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 1 & 4 & $\;\;$ & 6 & 5 \\
+\hline 3 & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.4}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 1 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & 6 & 4 & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 5 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(13)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.4}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 5 & $\;\;$ & $\;\;$ & 3 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.4}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 & 6 \\
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 4 & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 5 & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 1 & 4 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.4}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 4 & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.5 $=LS_{6.5}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.5} \neq {\mathcal C}(10) + {\mathcal C}(10) + {\mathcal C}(16)$\\
+$LS_{6.5} \neq {\mathcal C}(10) + {\mathcal C}(11) + {\mathcal C}(15)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.5}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & 3 & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 3 \\
+\hline 6 & 3 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & 3 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & 5 & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 5 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.5}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 1 & 5 & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline 4 & 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(13)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.5}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 6 & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 & 2 \\
+\hline 4 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.5}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline 1 & 2 & $\;\;$ & 4 & $\;\;$ & 6 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}{13}$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.5}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & 3 & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & 4 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 4 & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.6 $=LS_{ 6.6}$}}
+\end{center}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.6}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 6 & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 4 & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 1 & 2 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.6}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.6}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & 4 & 5 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 1 & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.7 $=LS_{6.7}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.7} \neq {\mathcal C}(18) + {\mathcal C}(18)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.7}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & 1 & 6 & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 4 \\
+\hline $\;\;$ & 5 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & 5 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.8 $=LS_{6.8}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.8} \neq {\mathcal C}(11) + {\mathcal C}(11) + {\mathcal C}(14)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.8}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 2 & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 1 & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & 1 \\
+\hline 6 & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.8}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 3 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 4 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 & $\;\;$ \\ 
+\hline 6 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.9 $=LS_{6.9}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.9} \neq {\mathcal C}(10) + {\mathcal C}(10) + {\mathcal C}(16)$\\
+$LS_{6.9} \neq {\mathcal C}(10) + {\mathcal C}(11) + {\mathcal C}(15)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.9}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 5 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.9}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & 4 & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 2 & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(13)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.9}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 5 & 1 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 2 & 5 & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.9}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & 2 & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.9}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 5 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.10 $=LS_{6.10}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.10} \neq {\mathcal C}(10) + {\mathcal C}(10) + {\mathcal C}(16)$\\
+$LS_{6.10} \neq {\mathcal C}(10) + {\mathcal C}(11) + {\mathcal C}(15)$\\
+$LS_{6.10} \neq {\mathcal C}(10) + {\mathcal C}(12) + {\mathcal C}(14)$\\
+$LS_{6.10} \neq {\mathcal C}(10) + {\mathcal C}(13) + {\mathcal C}(13)$
+\end{tabular}
+\vspace{3mm}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.10}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 1 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & 1 & 2 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 5 & $\;\;$ & 6 & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 6 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.10}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & 6 & 2 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & 5 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 4 & 2 \\
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+
+\begin{tabular}{ccccccc} 
+$LS_{6.10}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & 6 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.11 $=LS_{6.11}$}}
+\end{center}
+
+\begin{tabular}{l}
+$LS_{6.11} \neq {\mathcal C}(10) + {\mathcal C}(10) + {\mathcal C}(16)$\\
+$LS_{6.11} \neq {\mathcal C}(10) + {\mathcal C}(11) + {\mathcal C}(15)$
+\end{tabular}
+\vspace{3mm}
+
+
+\begin{tabular}{ccccccc} 
+$LS_{6.11}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline 4 & 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 3 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & 4 & $\;\;$ & 6 & 3 \\
+\hline $\;\;$ & $\;\;$ & 2 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\ 
+\hline 5 & $\;\;$ & 6 & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.11}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 & 3 \\
+\hline 3 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 5 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & 1 & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & 4 & 5 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & 5 \\
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(10)$ & & ${\mathcal C}(13)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.11}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & 3 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & 3 & $\;\;$ & 5 & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & 2 & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 4 \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.11}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & 4 & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 4 \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & $\;\;$ & 5 & $\;\;$ \\ 
+\hline 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & 6 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & 3 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.11}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & 6 & $\;\;$ & 2 & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 4 \\
+\hline 6 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 & 6 \\
+\hline 2 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 3 & 4 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+\large{\bf{Latin square 6.12 $=LS_{6.12}$}}
+\end{center}
+
+\begin{tabular}{ccccccc} 
+$LS_{6.12}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 2 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 6 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & $\;\;$ & 4 & 5 & 6 \\
+\hline 2 & 3 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline 4 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(11)$ & & ${\mathcal C}(14)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.12}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 2 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline 5 & 6 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & 2 & $\;\;$ & 4 & 5 & $\;\;$ \\ 
+\hline 2 & 3 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline 4 & $\;\;$ & 6 & 2 & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 & $\;\;$ \\ 
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(11)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(13)$
+\end{tabular} 
+ 
+\begin{tabular}{ccccccc} 
+$LS_{6.12}$   & $=$ & 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 2 & 3 \\
+\hline 6 & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline $\;\;$ & $\;\;$ & 3 & $\;\;$ & 5 & 6 \\
+\hline 2 & 3 & $\;\;$ & 6 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & 6 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\ 
+\hline 
+\end{tabular} & 
+ $+$ & 
+ 
+\begin{tabular}{|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|c@{\hspace{1.3mm}}|} 
+\hline 1 & 2 & $\;\;$ & 4 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\ 
+\hline 3 & $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & 5 & 6 & 2 & $\;\;$ & $\;\;$ \\ 
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\ 
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline 
+\end{tabular} 
+\\ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$ & & ${\mathcal C}(12)$
+\end{tabular} 
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION
+\begin{thebibliography}{999}
+
+\bibitem {ABK} P. Adams, R. Bean and A. Khodkar, 
+{\em A census of critical sets in the Latin squares 
+of order at most six}, (submitted).
+
+\bibitem {AK} P. Adams and A. Khodkar,
+{\em Smallest critical sets for the Latin squares of orders six and
+seven}, Journal of Combinatorial Mathematics and Combinatorial
+Computing, (to appear).
+
+\bibitem {B} R. Bean,
+Ph.D Thesis, The University of Queensland, Australia, 2001.
+
+\bibitem {BR} J.A. Bate and G.H.J. van Rees,
+{\em The size of the smallest strong critical set in a Latin square},
+Ars Combinatoria {\bf 53} (1999), 73--83.
+
+\bibitem {CD} C.J. Colbourn and J.H. Dinitz,
+Latin Squares,
+The CRC Handbook of Combinatorial Designs (C.J. Colbourn and
+J.H. Dinitz, eds.), CRC Publishing Co, Boca Raton,
+Florida, 1996, pp. 97--110.
+
+\bibitem {CR} D. Curran and G.H.J. van Rees, 
+Critical sets in Latin squares,
+{\em Congressus Numerantium} {\bf 22} (1978), 165--168.
+
+\bibitem{doco} D.\ Donovan and J.\ Cooper, Critical sets in back
+circulant Latin squares, Aequations Math. 52, No. 1-2 (1996),
+157--179.
+
+\bibitem {DCNS} D. Donovan, J. Cooper, D.J. Nott and J. Seberry,
+Latin squares: critical sets and their lower bounds,
+{\em Ars Combinatoria} {\bf 39} (1995), 33--48.
+
+\bibitem {H} A. Howse,
+Minimal Critical sets for some small Latin squares,
+{\em Australasian Journal of Combinatorics} {\bf 17} (1998), 275--288.
+
+\bibitem {M} E.S. Mahmoodian, 
+Some problems in graph colorings, 
+in: S. Javadpour and M. Radjabalipour, editors, 
+Proceeding 26th Annual Iranian Mathematics Conference, 
+Kerman, Iran, March 1995 (Iranian Mathematics Society, 
+University of Kerman, 1995) 215--218.
+
+\end{thebibliography}
+
+\end{document}
+0 0 3 4 0 6 7 0 
+2 1 0 0 0 5 8 0 
+0 4 1 0 0 0 5 6 
+0 3 2 0 8 7 0 0 
+0 0 7 8 1 0 0 4 
+6 5 0 0 2 0 0 3 
+7 0 0 6 0 0 1 2 
+8 0 0 5 4 3 0 0 
+
+1 2 0 0 5 0 0 8
+0 0 4 3 6 0 0 7
+3 0 0 2 7 8 0 0
+4 0 0 1 0 0 6 5
+5 6 0 0 0 2 3 0
+0 0 8 7 0 1 4 0
+0 8 5 0 3 4 0 0
+0 7 6 0 0 0 2 1
+
+1 0 3 4 5 0 0 0
+2 0 0 0 6 0 8 7
+0 4 0 0 0 8 5 6
+0 3 2 1 0 7 0 0
+5 6 7 0 0 0 3 0
+0 0 8 0 2 1 4 0
+0 0 0 6 3 4 0 2
+8 7 0 5 0 0 0 1
+

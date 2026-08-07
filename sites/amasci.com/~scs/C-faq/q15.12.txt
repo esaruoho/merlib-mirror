@@ -1,0 +1,38 @@
+Question 15.12 
+
+ Question 15.12 
+ How can I write a function which takes a variable number of
+arguments and passes them to some other function 
+(which takes a variable number of arguments)?
+
+ In general, you cannot.
+Ideally,
+you should provide a version of that other function which accepts a
+ va_list pointer
+(analogous to vfprintf ;
+see question
+ 15.5 ).
+If the arguments must be passed directly as actual arguments,
+or if you do not have the option
+of rewriting the second function to accept a va_list 
+(in other words,
+if the second, called function
+must accept a variable number of arguments,
+not a va_list ),
+no portable solution is possible.
+(The problem
+could perhaps
+be solved by resorting to machine-specific
+assembly language;
+see also
+question 15.13 .)
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

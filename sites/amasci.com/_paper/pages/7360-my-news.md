@@ -1,0 +1,102 @@
+---
+title: "My News"
+source_domain: amasci.com
+source_path: ~roger/news/index.html
+order: 7360
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:14:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# My News
+
+*Source page: `~roger/news/index.html`*
+
+### My News
+
+(New posts at the top)
+
+**Sun Feb 6 21:50:50 EST 2005** - Just found a great book to give girls for Valentine's Day -- "10 Stupid Things Women Do To Mess Up Their Lives" (Dr. Laura)
+
+**Fri Jan 21 16:11:59 UTC 2005** - Well, after all that, ... I'll say this, the simplest most greatest thing a person can give in life is just a simple smile & hello.  Enjoy. :-) (\*Note - I'm talking about the girls and not the guys.)
+
+**Thu Jan 20 04:39:13 UTC 2005** - I am absolutely shocked & awed as to how Rush can keep degrading females of our society by replaying his custom audio loop of "We are feminists, and we aren't going to take this anymore!" I am still, to this day, wiping away my tears after laughing my butt off.  And you can credit Rush for this quote, "I'm a southern christian who believes women should be bare foot in the kitchen and pregnant raising their daughters up to be just like them."
+
+**20050112-05:26:52 UTC** - I have started [my own wiki project](./dokuwiki/) for my quick howto's.
+
+**20050111-03:39:12 UTC** - Just stumbled upon "[Letters to Dr. Laura](http://www.drlaura.com/letters/)".  I'm really looking for the one written by some guy and aired today on KFI AM.  As soon as I find it, I'll post a url to it.  Well, it looks like she isn't publishing the letter she read from a guy on the 2004.11.11 show.  For now, you can subscribe to her internet radio service for \$5 a month and listen to the recorded show, but I will try to paraphrase what the letter was about best I can.  It was from a senior whom had 80 girlfriends over his life span.  When he was doing them, he would sometimes think, "What whores." and also something like "How can they or, it's pretty neat that they just let me do them and walk away."  And then he completed his letter with something like, "it took me 80 years to find out -- just give me one woman that cared is all I really needed." 
+
+**20041213-23:54:02 UTC** - This might be a surprise for some of you: 37 University Professors have been assassinated since the end of major combat ops in Iraq.  To verify, perform a brief search on google using "Iraq university professors" as your search term. 
+
+**2004.12.08-00:59:53 UTC** - **[The Crisis of Islam Holy War and Unholy Terror - Written by Bernard Lewis"](http://www.randomhouse.com/catalog/display.pperl?0679642811)** (I have the Audio CDrom version)\
+This is a (very good) book for those of you who are still wondering what is going on in the world today.  I believe also in forgetting past events too in order to move on, however -- "Ceux qui ne connaissent pas l'Histoire sont condamns la revivre" ("Those who do not know History are condemned to relive it").\
+*Some material mentioned within the book:*\
+a) Check out the timeline of World War One and note we (the US) did not enter into this war until 1917 (3 years after it had started for the remainder 2 years) [World War One Timeline](http://www.firstworldwar.com/timeline/).\
+b) Within the timeline on World War One of 1917, an internal revolution within the Russian Empire flared the [Russian Revolution](http://www.geographia.com/russia/rushis06.htm) resulting with the birth of Communism when the Bolsheviks won.  (Begin excerpt from essay) The Bolshevik Party took power in October on the basis of the programme of *"Peace, Bread and Land"*.  This is the most graphic illustration of the fact that the Provisional Government had failed to achieve any of the most burning needs of the Russian people.  This, and this alone, explains the success of the Bolsheviks in October. (This is an excerpt from the essy found [here](http://easyweb.easynet.co.uk/~socappeal/russia/part1.html).)\
+c) According to the timeline, [Austria-Hungry](http://en.wikipedia.org/wiki/Image:Austria-hungary.png) initiated World War I along with the German Empire.  (Turkey/Ottoman Empire, allied with the German Empire, included the Middle East as we know it today.)\
+d) The [Crusades](http://www.mrdowling.com/606islam.html) were only influenced after the Muslims invaded Christian territories.\
+
+**2004.12.06-17:16:49 UTC** - **Report of Tillman's death describes friendly fire accident:** <http://www.cnn.com/2004/US/12/05/tillman.friendly.fire.ap/index.html>\
+Some notes made within the Washington Post's research article:\
+a) Serial Two went out of radio range.\
+b) The gunner handling the platoon's only .50-caliber machine gun (of Serial Two) fired every round he had.\
+c) Tillman's group (Serial One) made every attempt to make his presence known to the obvious friendly fire.\
+Bearing in mind, this is a news report based on the Washington Post's (AP) own research.  As the article states, "The newspaper said it had access to dozens of witness statements, e-mails, investigation findings, logbooks, maps and photographs."\
+As to whether or not it is an unbiased based research, who knows.\
+I recall somebody once said to me, "... there are several types of paranoia, and it's 'ok' to be paranoid."\
+In my view, there is only one type of paranoia that I know of... one that will get other people or yourself killed.
+
+**Military Radios May Interfere With Garage Doors (WISC, WI)**\
+If you live in a home with a remote-controlled garage-door opener, and that home is near a military base, listen up.\
+Between now and 2008, the military is supplying a new radio system to roughly 125 bases. The system uses the same frequency as the one relied upon by more than 90 percent of garage-openers.\
+<http://www.channel3000.com/technology/3974240/detail.html>\
+
+**2003.06.04** - I've been spending most of my time now archiving old VHS tapes using my Canopus ADVC-100 with Kino and compressing with divx4linux codec.  I've also been archiving my digital images using Linpha (a photo database tool using Apache/PHP/MySQL) to my server here.  If you're interested in veiwing the collection of images on my local server, just email me for info on how to view the archive.  My next step in archiving may include a purchase of Minolta's Scan Dual III (using Vuescan?) to archive 35mm film that is older then 1999.  And, out of curiusity, found that the Webcam Go now works under linux (I've made notes leading to the urls further back in this log on the date of 20010301).
+
+**2003.05.10** - I've finally installed [Gento Linux](http://www.gentoo.org/).  While trying to get a stable install, one thing that sererly stalled me was the mention of using Metalog as the system logger.  Avoid using Metalog.  I've found the metalog to have several bugs and seriously breaks the system as well as my PCMCIA/Cardbus (unknown if \>\>=0.7 version resolve these see [Gentoo Bugs](http://bugs.gentoo.org/).  Use a more stable logger such as sysklogd or it's successor syslog-ng.  Another nice package to have installed is qpkg.  One more tip is to use only the recommended Gentoo CFLAGS.  Configuration was simplified by copying the contents of my Mandrake configuration files over to Gentoo installs.  Some pros to using Gentoo: 1) If one has \>=P3's, can compile the entire system to actually use P3 optimizations instead of using (ie) Mandrake's default i586 binaries.  2) You only install the packages you need (I'm saving roughing 6-7GB from installing packages that I never use -- Minimized the o/s size by 50% compared to an install of Mandrake(?).  3) Gentoo contains many packages in it's main tree required for playing dvds and performing other operations (not completely GNU Licensed) such as libdvdcss.  4) Almost everything compiles without any breaks in the process.  5) The system can be kept more updated with every individual stable package release.  If you're interested in what details a gentoo install, then have a look over this small [Gentoo Install Howto](http://vergil.chemistry.gatech.edu/~park/dell.html).  It's simpler then I thought (especially if you already have installed something like Redhat or Mandrake and have preserved your /etc folder).
+
+**2003.04.04** - I'm in the process of switching from Mandrake to the Gentoo Linux Distrobution.  It's sure nice to be able to compile a whole distrobution without compiler errors.  The only downside, Gentoo is not rpm based.  However, there's a rumor that the portage tree might be moving to a rpm based one. (Note: This data was published on 04/01)  From what I have seen though, it wouldn't be too hard to migrate the ebuild file to a rpm spec file. 
+
+**2002.01.15** - Bah.  I returned the linksys hardware and got the orinco pcmcia card.  It fully works and the modules/drivers are within the vanilla kernel.  For me, the orinoco just works better.  I found the WPC11 wlan-ng drivers to be buggy for the WPC (ver. 3) PCMCIA Card.
+
+**2002.11.29** - Am getting excellent tx/rx rates at T-Mobile Hotspots (ie Starbucks).  It was pretty easy.  First, I got a Linksys WPC11 PCMCIA wireless card and installed the linux-wlan-ng-0.1.16pre7-1 drivers. (you may need to set one of the conf files to use dhcp.)  Also ensure you have "dhcp-client" and "pump" installed.  If you are able to issue "pump -i wlan0" and the wlan interface becomes activated (in gkrellm), then you should only have to issue that particular "pump" command via console when you're around a hotspot enabled Starbucks.  Once done, you then need to startup a browser that will automagically forward you to you're T-Mobile sign-in page.  The only downside is that the service is only apparently one during Starbucks store hours.
+
+**2002.11.29** - Well, I finally completed installing Mandrake 9.0 and have compiled two srpm's for the dell i8k laptops. I just want to package the gkrellm plugin for the i8k laptops fan control...mmm..might add that into the i8kutils package.
+
+**2002.08.07** - Started putting my "Photographs" section and am now mirroring the entire personnal website to eskimo.com.  Please update your bookmarks to show [http://www.eskimo.com/~roger/](http://www.eskimo.com/%7Eroger/)
+
+**2002.07.14** - I've posted some screen shots of my desktop1, desktop2, desktop3, desktop\
+
+- [Desktop 1](../images/desktop1.png) has the chat client i use, as well as the system monitor and other misc apps. (Notice the implementation of tabbed-browsing within multi-gnome-terminal!)
+
+<!-- -->
+
+- [Desktop 2](../images/desktop2.png) has Mozilla!  It's the successor to the ol' Netscape and it's great! (Notice how effecient tabbed-browsing is!)
+
+<!-- -->
+
+- [Desktop 3](../images/desktop3.png) has [OpenOffice.org](http://www.openoffice.org/).  It's very similar to MS Office, but better. (see [Star Office](www.sun.com/software/star/staroffice/) for the commerical version that contain support for those that do not want to participate within the developement of worry about recompiling a program.)
+
+<!-- -->
+
+- [Desktop 4](../images/desktop4.png) is Evolution which is similar to MS Outlook.  As you can see, i'm on several email mailing lists and evolution contains the other contacts, appointments, & tasks modules as well.
+
+**2001.01.18** - If you're using SGI's XFS filesystem, I would highly recommend upgrading from Mandrake's stock kernel 2.4.8!  Mandrake's Cooker kernel is now @ 2.4.17 and proves much more stable.  I'm also just got finished upgrading to XFree86-4.1.99.6-2mdk.  It added font aliasing to my Enlightenment enviroment!  Very Nice Indeed!! :-)\
+
+**2001.12.14** - Now using Mandrake 8.1 with Cooker kernel-smp-2.4.16.9mdk-1-1mdk. Also using SGI's nice XFS for a journalized filesystem.
+
+**2001.05.16** - Well, finally bought a new scanner.  The old one needed a new transformer. 
+
+**2001.04.18** - Mandrake 8.0 is released.  I have good iso's and have confirmed a successful install!
+
+**2001.03.31**- Also working on Umax 610p Scanner driver.  You can find more info [here](http://umax1220p.sourceforge.net/).
+
+**2001.0319.** - Looks like s good Linux User Group has a show going.  Check out the info (old url was here).\
+And the LUG groups [home page](http://www.talug.org/).
+
+**2001.03.01** - Currently (trying) to work on Webcam Go drivers for linux.  You can find more info [here](http://sourceforge.net/projects/winbond-webcam/).  You will need to sign up on the mailing list for more current info.  Recent activity since ~March 15, 2001; so post an email to the mailing list to find out the latest.  Please note, this is for developers only with C, C++ knowledge as this just starting.  20030604 - a small update here incase you're browsing this article, Creative Labs Webcam Go linux driver developement can now be found here <http://go.lamarinapunto.com/modules/news/> and you need the updated ov511 module version 2.25 code (which is not included in 2.4 kernels yet) here <http://alpha.dyndns.org/ov511/download.html#2.xx>.  I'm in the process of testing this now.  From reading the author's webpage, there's a very good chance that this will be in kernel-2.6, if not already in 2.5!  \
+ 
+
+\

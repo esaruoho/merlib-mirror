@@ -1,0 +1,614 @@
+<HTML>
+<HEAD>
+<TITLE>Patricia's Compute Your Own Mavs Totals 04-05</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#9932CD>
+<H1>Patricia's Compute Your Own Mavs Totals 04-05</H1>
+<H2>To the <A HREF="http://www.dfw.net/~patricia/index.html">NBA</A> stuff</H2>
+<H2>To the <A HREF="http://www.dfw.net/~patricia/mavs.html">Mavs</A> stuff</H2>
+<P>This little program allows you to select which boxscores to use to compute 
+a Mavs Total file for.  <BR>
+Note: the links for the boxscore is not the full boxscore (it's what the
+program uses to compute the totals).  To see the full boxscore for a game,
+go to my Mavs page.
+</P>
+<HR>
+<P>2003-04</P>
+<FORM ACTION="cgi-bin/mtotm5.cgi">
+<UL>
+<LI><INPUT TYPE="checkbox" NAME="b0" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-2">November 2</A> Dallas 107, Sacramento 98 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf0" VALUE="5/box11-2">
+<LI><INPUT TYPE="checkbox" NAME="b1" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-3">November 3</A> Dallas 106, New Orleans 91 at New Orleans
+  <INPUT TYPE="HIDDEN" NAME="bf1" VALUE="5/box11-3">
+<LI><INPUT TYPE="checkbox" NAME="b2" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-6">November 6</A> Dallas 112, Memphis 88 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf2" VALUE="5/box11-6">
+<LI><INPUT TYPE="checkbox" NAME="b3" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-8">November 8</A> Dallas 101, Golden State 98 OT at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf3" VALUE="5/box11-8">
+<LI><INPUT TYPE="checkbox" NAME="b4" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-9">November 9</A> Orlando 94, Dallas 84 at Orlando
+  <INPUT TYPE="HIDDEN" NAME="bf4" VALUE="5/box11-9">
+<LI><INPUT TYPE="checkbox" NAME="b5" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-11">November 11</A> Dallas 113, Miami 93 at Miami
+  <INPUT TYPE="HIDDEN" NAME="bf5" VALUE="5/box11-11">
+<LI><INPUT TYPE="checkbox" NAME="b6" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-13">November 13</A> Dallas 94, New Jersey 78 at New Jersey
+  <INPUT TYPE="HIDDEN" NAME="bf6" VALUE="5/box11-13">
+<LI><INPUT TYPE="checkbox" NAME="b7" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-14">November 14</A> Dallas 122, Washington 113 at Washington
+  <INPUT TYPE="HIDDEN" NAME="bf7" VALUE="5/box11-14">
+<LI><INPUT TYPE="checkbox" NAME="b8" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-16">November 16</A> Phoenix 107, Dallas 101 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf8" VALUE="5/box11-16">
+<LI><INPUT TYPE="checkbox" NAME="b9" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-19">November 19</A> Dallas 103, New York 101 at New York
+  <INPUT TYPE="HIDDEN" NAME="bf9" VALUE="5/box11-19">
+<LI><INPUT TYPE="checkbox" NAME="b10" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-21">November 21</A> Denver 110, Dallas 82 at Denver
+  <INPUT TYPE="HIDDEN" NAME="bf10" VALUE="5/box11-21">
+<LI><INPUT TYPE="checkbox" NAME="b11" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-22">November 22</A> Minnesota 83, Dallas 82 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf11" VALUE="5/box11-22">
+<LI><INPUT TYPE="checkbox" NAME="b12" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-24">November 24</A> San Antonio 94, Dallas 80 at San Antonio
+  <INPUT TYPE="HIDDEN" NAME="bf12" VALUE="5/box11-24">
+<LI><INPUT TYPE="checkbox" NAME="b13" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-26">November 26</A> Dallas 92, Portland 83 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf13" VALUE="5/box11-26">
+<LI><INPUT TYPE="checkbox" NAME="b14" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-27">November 27</A> Dallas 98, Memphis 85 at Memphis
+  <INPUT TYPE="HIDDEN" NAME="bf14" VALUE="5/box11-27">
+<LI><INPUT TYPE="checkbox" NAME="b15" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box11-30">November 30</A> San Antonio 107, Dallas 89 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf15" VALUE="5/box11-30">
+<LI><INPUT TYPE="checkbox" NAME="b16" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-2">December 2</A> Dallas 113, Houston 106 OT at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf16" VALUE="5/box12-2">
+<LI><INPUT TYPE="checkbox" NAME="b17" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-4">December 4</A> Dallas 109, Utah 86 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf17" VALUE="5/box12-4">
+<LI><INPUT TYPE="checkbox" NAME="b18" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-6">December 6</A> Detroit 101, Dallas 85 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf18" VALUE="5/box12-6">
+<LI><INPUT TYPE="checkbox" NAME="b19" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-7">December 7</A> Dallas 97, Minnesota 87 at Minnesota
+  <INPUT TYPE="HIDDEN" NAME="bf19" VALUE="5/box12-7">
+<LI><INPUT TYPE="checkbox" NAME="b20" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-9">December 9</A> Seattle 107, Dallas 102 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf20" VALUE="5/box12-9">
+<LI><INPUT TYPE="checkbox" NAME="b21" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-11">December 11</A> Dallas 102, Houston 78 at Houston
+  <INPUT TYPE="HIDDEN" NAME="bf21" VALUE="5/box12-11">
+<LI><INPUT TYPE="checkbox" NAME="b22" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-13">December 13</A> Dallas 94, Chicago 93 at Chicago
+  <INPUT TYPE="HIDDEN" NAME="bf22" VALUE="5/box12-13">
+<LI><INPUT TYPE="checkbox" NAME="b23" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-14">December 14</A> Golden State 111, Dallas 107 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf23" VALUE="5/box12-14">
+<LI><INPUT TYPE="checkbox" NAME="b24" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-18">December 18</A> Dallas 90, Atlanta 68 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf24" VALUE="5/box12-18">
+<LI><INPUT TYPE="checkbox" NAME="b25" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-21">December 21</A> Dallas 123, New York 94 at New York
+  <INPUT TYPE="HIDDEN" NAME="bf25" VALUE="5/box12-21">
+<LI><INPUT TYPE="checkbox" NAME="b26" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-22">December 22</A> Atlanta 113, Dallas 100 at Atlanta
+  <INPUT TYPE="HIDDEN" NAME="bf26" VALUE="5/box12-22">
+<LI><INPUT TYPE="checkbox" NAME="b27" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-26">December 26</A> Dallas 102, Denver 88 at Denver
+  <INPUT TYPE="HIDDEN" NAME="bf27" VALUE="5/box12-26">
+<LI><INPUT TYPE="checkbox" NAME="b28" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box12-28">December 28</A> Dallas 113, Boston 94 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf28" VALUE="5/box12-28">
+<LI><INPUT TYPE="checkbox" NAME="b29" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-2">January 2</A> Dallas 123, Milwaukee 104 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf29" VALUE="5/box1-2">
+<LI><INPUT TYPE="checkbox" NAME="b30" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-5">January 5</A> Dallas 118, LA Lakers 104 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf30" VALUE="5/box1-5">
+<LI><INPUT TYPE="checkbox" NAME="b31" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-8">January 8</A> Dallas 121, Indiana 101 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf31" VALUE="5/box1-8">
+<LI><INPUT TYPE="checkbox" NAME="b32" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-12">January 12</A> Houston 124, Dallas 114 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf32" VALUE="5/box1-12">
+<LI><INPUT TYPE="checkbox" NAME="b33" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-14">January 14</A> San Antonio 98, Dallas 95 at San Antonio
+  <INPUT TYPE="HIDDEN" NAME="bf33" VALUE="5/box1-14">
+<LI><INPUT TYPE="checkbox" NAME="b34" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-15">January 15</A> Dallas 98, New Jersey 93 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf34" VALUE="5/box1-15">
+<LI><INPUT TYPE="checkbox" NAME="b35" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-18">January 18</A> Dallas 137, Washington 120 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf35" VALUE="5/box1-18">
+<LI><INPUT TYPE="checkbox" NAME="b36" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-20">January 20</A> Dallas 99, LA Clippers 77 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf36" VALUE="5/box1-20">
+<LI><INPUT TYPE="checkbox" NAME="b37" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-21">January 21</A> Dallas 105, Charlotte 99 at Charlotte
+  <INPUT TYPE="HIDDEN" NAME="bf37" VALUE="5/box1-21">
+<LI><INPUT TYPE="checkbox" NAME="b38" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-23">January 23</A> Dallas 95, Denver 93 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf38" VALUE="5/box1-23">
+<LI><INPUT TYPE="checkbox" NAME="b39" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-24">January 24</A> LA Clippers 97, Dallas 87 at LA
+  <INPUT TYPE="HIDDEN" NAME="bf39" VALUE="5/box1-24">
+<LI><INPUT TYPE="checkbox" NAME="b40" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-26">January 26</A> Dallas 95, Portland 88 at Portland
+  <INPUT TYPE="HIDDEN" NAME="bf40" VALUE="5/box1-26">
+<LI><INPUT TYPE="checkbox" NAME="b41" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box1-29">January 29</A> Philadelphia 93, Dallas 89 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf41" VALUE="5/box1-29">
+<LI><INPUT TYPE="checkbox" NAME="b42" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box2-1">February 1</A> Dallas 109, Miami 104 at Dallas
+  <INPUT TYPE="HIDDEN" NAME="bf42" VALUE="5/box2-1">
+<LI><INPUT TYPE="checkbox" NAME="b43" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box2-2">February 2</A> Dallas 90, New Orleans 82 at New Orleans
+  <INPUT TYPE="HIDDEN" NAME="bf43" VALUE="5/box2-2">
+<LI><INPUT TYPE="checkbox" NAME="b44" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box2-4">February 4</A> Indiana 95, Dallas 94 at Indiana
+  <INPUT TYPE="HIDDEN" NAME="bf44" VALUE="5/box2-4">
+<LI><INPUT TYPE="checkbox" NAME="b45" VALUE="no"> 
+  <A HREF="cgi-bin/04-05/box2-6">February 6</A> Dallas 122, Toronto 113 at Toronto
+  <INPUT TYPE="HIDDEN" NAME="bf45" VALUE="5/box2-6">
+</UL> <INPUT TYPE="HIDDEN" NAME="nb" VALUE="46">
+
+<PRE>
+    <INPUT TYPE="SUBMIT" VALUE=" Compute ">    <INPUT TYPE="RESET" VALUE=" Clear ">
+</PRE>
+<HR>
+<P><INPUT TYPE="checkbox" NAME="sw" VALUE="no"> Use all the files <B>except</B>
+the ones selected above</P>
+
+<P> Use 
+    <SELECT NAME="ua">
+      <OPTION VALUE="0">---- </OPTION>
+      <OPTION VALUE="1">all </OPTION>
+      <OPTION VALUE="2">all regular season  </OPTION>
+      <OPTION VALUE="3">all playoff  </OPTION>
+    </SELECT> 
+ boxscores [if selected, will ignore anything selected/not selected above]
+</P>
+
+<P><INPUT TYPE="checkbox" NAME="p" VALUE="no">List all files used.
+
+<HR>
+
+<P>For more fun, you can limit the stats to be included by selecting and 
+modifying the parameters below.
+</P>
+
+<H2><INPUT TYPE="checkbox" NAME="lst" VALUE="no"> <B>YES</B>, I want to 
+limit the stats by the following parameters [if not selected, will ignore 
+anything below]</H2>
+
+<P>Note: if you enter bad data, you won't get the results you are expecting 
+- make sure your numbers are correct (I'm not telling you if you do 
+something stupid - if you put more than 110 points and less than 100 points,
+you'll get nothing; if you enter a letter instead of a number, you'll get 
+nothing or everything or something else).  <BR>
+<UL>
+<LI>Difference is the difference between the Dallas total and the Opponent
+total.  Use negative (ie, -5) for the opponent having more. 
+<LI>Most only uses boxes where the player has the most points/rebound/...
+in a game (or is tied for most).  It can only be used for individual players.
+<LI>Click the toggle for "Even if player doesn't play" if you also want to also
+include games where the player didn't play in a game (ie, Nowitzki scored
+less than 20 points or didn't play). 
+<LI>"Even if Player doesn't play", "Starts", "Doesn't Start", "Fouls Out",
+"Doesn't Foul Out", "Plays", and "Doesn't Play" only applies for individual
+players and is ignored for Dallas, Opponent, Difference, and Any Player(s).
+<LI>"Minutes" is ignored for Difference.
+<LI>"More or Less or Most" and "Amount" are ignored for "Starts", "Doesn't 
+Start", "Fouls Out","Doesn't Foul Out", "Plays", and "Doesn't Play". 
+<LI>No rounding is done for percentages for the comparisons - .4999 does not 
+equal .500
+</UL>
+
+<P>Only include the stats from a boxscore if:
+<UL>
+  <LI><INPUT TYPE="checkbox" NAME="w" VALUE="no"> Dallas won
+  <LI><INPUT TYPE="checkbox" NAME="l" VALUE="no"> Dallas lost
+</UL>
+
+<P>Only include the stats from a boxscore if:
+</P>
+
+  <INPUT TYPE="HIDDEN" NAME="s0" VALUE="none">
+  <INPUT TYPE="HIDDEN" NAME="s1" VALUE="Dallas">
+  <INPUT TYPE="HIDDEN" NAME="s2" VALUE="Opponent">
+  <INPUT TYPE="HIDDEN" NAME="s3" VALUE="Difference">
+  <INPUT TYPE="HIDDEN" NAME="s4" VALUE="Any">
+  <INPUT TYPE="HIDDEN" NAME="s5" VALUE="Any2">
+  <INPUT TYPE="HIDDEN" NAME="s6" VALUE="Any3">
+  <INPUT TYPE="HIDDEN" NAME="s7" VALUE="Booth">
+  <INPUT TYPE="HIDDEN" NAME="s8" VALUE="Bradley">
+  <INPUT TYPE="HIDDEN" NAME="s9" VALUE="Daniels">
+  <INPUT TYPE="HIDDEN" NAME="s10" VALUE="Dampier">
+  <INPUT TYPE="HIDDEN" NAME="s11" VALUE="Dickau">
+  <INPUT TYPE="HIDDEN" NAME="s12" VALUE="Finley">
+  <INPUT TYPE="HIDDEN" NAME="s13" VALUE="Harris">
+  <INPUT TYPE="HIDDEN" NAME="s14" VALUE="Henderson">
+  <INPUT TYPE="HIDDEN" NAME="s15" VALUE="Howard">
+  <INPUT TYPE="HIDDEN" NAME="s16" VALUE="Mbenga">
+  <INPUT TYPE="HIDDEN" NAME="s17" VALUE="Nowitzki">
+  <INPUT TYPE="HIDDEN" NAME="s18" VALUE="Podkolzin">
+  <INPUT TYPE="HIDDEN" NAME="s19" VALUE="Stackhouse">
+  <INPUT TYPE="HIDDEN" NAME="s20" VALUE="Terry">
+
+<TABLE border=4 cellpadding=4 cellspacing=4>
+  <TR>
+  <TH ALIGN="center">Team/Difference/Player</TH>
+  <TH ALIGN="center">Stat</TH>
+  <TH ALIGN="center">More or Less<BR>or Most</TH>
+  <TH ALIGN="center">Amount</TH>
+  <TH ALIGN="center">Even if Player doesn't play</TH>
+  </TR>
+
+  <TR>
+    <TD>
+      <SELECT NAME="pname1">
+        <OPTION VALUE="0">---- </OPTION>
+        <OPTION VALUE="1">Dallas </OPTION>
+        <OPTION VALUE="2">Opponent </OPTION>
+        <OPTION VALUE="3">Difference </OPTION>
+        <OPTION VALUE="4">Any Player has </OPTION>
+        <OPTION VALUE="5">Any 2 Players have </OPTION>
+        <OPTION VALUE="6">Any 3 Players have </OPTION>
+        <OPTION VALUE="7">Calvin Booth </OPTION>
+        <OPTION VALUE="8">Shawn Bradley </OPTION>
+        <OPTION VALUE="9">Marquis Daniels </OPTION>
+        <OPTION VALUE="10">Erick Dampier </OPTION>
+        <OPTION VALUE="11">Dan Dickau </OPTION>
+        <OPTION VALUE="12">Michael Finley </OPTION>
+        <OPTION VALUE="13">Devin Harris </OPTION>
+        <OPTION VALUE="14">Alan Henderson </OPTION>
+        <OPTION VALUE="15">Josh Howard </OPTION>
+        <OPTION VALUE="16">DJ Mbenga </OPTION>
+        <OPTION VALUE="17">Dirk Nowitzki </OPTION>
+        <OPTION VALUE="18">Pavel Podkolzin </OPTION>
+        <OPTION VALUE="19">Jerry Stackhouse </OPTION>
+        <OPTION VALUE="20">Jason Terry </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="stat1">
+        <OPTION VALUE="0">Points </OPTION>
+        <OPTION VALUE="1">Minutes </OPTION>
+        <OPTION VALUE="2">FG Made </OPTION>
+        <OPTION VALUE="3">FG Attempted </OPTION>
+        <OPTION VALUE="4">FG Percentage </OPTION>
+        <OPTION VALUE="5">3-pointers Made </OPTION>
+        <OPTION VALUE="6">3-pointers Attempted </OPTION>
+        <OPTION VALUE="7">3-point Percentage </OPTION>
+        <OPTION VALUE="8">FT Made </OPTION>
+        <OPTION VALUE="9">FT Attempted </OPTION>
+        <OPTION VALUE="10">FT Percentage </OPTION>
+        <OPTION VALUE="11">Rebounds </OPTION>
+        <OPTION VALUE="12">Offensive Rebounds </OPTION>
+        <OPTION VALUE="13">Defensive Rebounds </OPTION>
+        <OPTION VALUE="14">Assists </OPTION>
+        <OPTION VALUE="15">Turnovers </OPTION>
+        <OPTION VALUE="16">Fouls </OPTION>
+        <OPTION VALUE="17">Steals </OPTION>
+        <OPTION VALUE="18">Blocks </OPTION>
+        <OPTION VALUE="19">Starts </OPTION>
+        <OPTION VALUE="20">Doesn't Start </OPTION>
+        <OPTION VALUE="21">Fouls Out </OPTION>
+        <OPTION VALUE="22">Doesn't Foul Out </OPTION>
+        <OPTION VALUE="23">Plays </OPTION>
+        <OPTION VALUE="24">Doesn't Play </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="ml1">
+        <OPTION VALUE="0">More than or equal to </OPTION>
+        <OPTION VALUE="1">Less than or equal to </OPTION>
+        <OPTION VALUE="2">Most </OPTION>
+      </SELECT>
+    </TD>
+    <TD ALIGN="center">
+      <INPUT TYPE="TEXT" SIZE="4" MAXLENGTH="4" VALUE="100" NAME="v1"> 
+    </TD>
+    <TD ALIGN="center">
+       <INPUT TYPE="checkbox" NAME="dplay1" VALUE="no"> 
+    </TD>
+  </TR>
+
+  <TR>
+    <TD>
+      <SELECT NAME="pname2">
+        <OPTION VALUE="0">---- </OPTION>
+        <OPTION VALUE="1">Dallas </OPTION>
+        <OPTION VALUE="2">Opponent </OPTION>
+        <OPTION VALUE="3">Difference </OPTION>
+        <OPTION VALUE="4">Any Player has </OPTION>
+        <OPTION VALUE="5">Any 2 Players have </OPTION>
+        <OPTION VALUE="6">Any 3 Players have </OPTION>
+        <OPTION VALUE="7">Calvin Booth </OPTION>
+        <OPTION VALUE="8">Shawn Bradley </OPTION>
+        <OPTION VALUE="9">Marquis Daniels </OPTION>
+        <OPTION VALUE="10">Erick Dampier </OPTION>
+        <OPTION VALUE="11">Dan Dickau </OPTION>
+        <OPTION VALUE="12">Michael Finley </OPTION>
+        <OPTION VALUE="13">Devin Harris </OPTION>
+        <OPTION VALUE="14">Alan Henderson </OPTION>
+        <OPTION VALUE="15">Josh Howard </OPTION>
+        <OPTION VALUE="16">DJ Mbenga </OPTION>
+        <OPTION VALUE="17">Dirk Nowitzki </OPTION>
+        <OPTION VALUE="18">Pavel Podkolzin </OPTION>
+        <OPTION VALUE="19">Jerry Stackhouse </OPTION>
+        <OPTION VALUE="20">Jason Terry </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="stat2">
+        <OPTION VALUE="0">Points </OPTION>
+        <OPTION VALUE="1">Minutes </OPTION>
+        <OPTION VALUE="2">FG Made </OPTION>
+        <OPTION VALUE="3">FG Attempted </OPTION>
+        <OPTION VALUE="4">FG Percentage </OPTION>
+        <OPTION VALUE="5">3-pointers Made </OPTION>
+        <OPTION VALUE="6">3-pointers Attempted </OPTION>
+        <OPTION VALUE="7">3-point Percentage </OPTION>
+        <OPTION VALUE="8">FT Made </OPTION>
+        <OPTION VALUE="9">FT Attempted </OPTION>
+        <OPTION VALUE="10">FT Percentage </OPTION>
+        <OPTION VALUE="11">Rebounds </OPTION>
+        <OPTION VALUE="12">Offensive Rebounds </OPTION>
+        <OPTION VALUE="13">Defensive Rebounds </OPTION>
+        <OPTION VALUE="14">Assists </OPTION>
+        <OPTION VALUE="15">Turnovers </OPTION>
+        <OPTION VALUE="16">Fouls </OPTION>
+        <OPTION VALUE="17">Steals </OPTION>
+        <OPTION VALUE="18">Blocks </OPTION>
+        <OPTION VALUE="19">Starts </OPTION>
+        <OPTION VALUE="20">Doesn't Start </OPTION>
+        <OPTION VALUE="21">Fouls Out </OPTION>
+        <OPTION VALUE="22">Doesn't Foul Out </OPTION>
+        <OPTION VALUE="23">Plays </OPTION>
+        <OPTION VALUE="24">Doesn't Play </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="ml2">
+        <OPTION VALUE="0">More than or equal to </OPTION>
+        <OPTION VALUE="1">Less than or equal to </OPTION>
+        <OPTION VALUE="2">Most </OPTION>
+      </SELECT>
+    </TD>
+    <TD ALIGN="center">
+      <INPUT TYPE="TEXT" SIZE="4" MAXLENGTH="4" VALUE="100" NAME="v2"> 
+    </TD>
+    <TD ALIGN="center">
+       <INPUT TYPE="checkbox" NAME="dplay2" VALUE="no"> 
+    </TD>
+  </TR>
+
+  <TR>
+    <TD>
+      <SELECT NAME="pname3">
+        <OPTION VALUE="0">---- </OPTION>
+        <OPTION VALUE="1">Dallas </OPTION>
+        <OPTION VALUE="2">Opponent </OPTION>
+        <OPTION VALUE="3">Difference </OPTION>
+        <OPTION VALUE="4">Any Player has </OPTION>
+        <OPTION VALUE="5">Any 2 Players have </OPTION>
+        <OPTION VALUE="6">Any 3 Players have </OPTION>
+        <OPTION VALUE="7">Calvin Booth </OPTION>
+        <OPTION VALUE="8">Shawn Bradley </OPTION>
+        <OPTION VALUE="9">Marquis Daniels </OPTION>
+        <OPTION VALUE="10">Erick Dampier </OPTION>
+        <OPTION VALUE="11">Dan Dickau </OPTION>
+        <OPTION VALUE="12">Michael Finley </OPTION>
+        <OPTION VALUE="13">Devin Harris </OPTION>
+        <OPTION VALUE="14">Alan Henderson </OPTION>
+        <OPTION VALUE="15">Josh Howard </OPTION>
+        <OPTION VALUE="16">DJ Mbenga </OPTION>
+        <OPTION VALUE="17">Dirk Nowitzki </OPTION>
+        <OPTION VALUE="18">Pavel Podkolzin </OPTION>
+        <OPTION VALUE="19">Jerry Stackhouse </OPTION>
+        <OPTION VALUE="20">Jason Terry </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="stat3">
+        <OPTION VALUE="0">Points </OPTION>
+        <OPTION VALUE="1">Minutes </OPTION>
+        <OPTION VALUE="2">FG Made </OPTION>
+        <OPTION VALUE="3">FG Attempted </OPTION>
+        <OPTION VALUE="4">FG Percentage </OPTION>
+        <OPTION VALUE="5">3-pointers Made </OPTION>
+        <OPTION VALUE="6">3-pointers Attempted </OPTION>
+        <OPTION VALUE="7">3-point Percentage </OPTION>
+        <OPTION VALUE="8">FT Made </OPTION>
+        <OPTION VALUE="9">FT Attempted </OPTION>
+        <OPTION VALUE="10">FT Percentage </OPTION>
+        <OPTION VALUE="11">Rebounds </OPTION>
+        <OPTION VALUE="12">Offensive Rebounds </OPTION>
+        <OPTION VALUE="13">Defensive Rebounds </OPTION>
+        <OPTION VALUE="14">Assists </OPTION>
+        <OPTION VALUE="15">Turnovers </OPTION>
+        <OPTION VALUE="16">Fouls </OPTION>
+        <OPTION VALUE="17">Steals </OPTION>
+        <OPTION VALUE="18">Blocks </OPTION>
+        <OPTION VALUE="19">Starts </OPTION>
+        <OPTION VALUE="20">Doesn't Start </OPTION>
+        <OPTION VALUE="21">Fouls Out </OPTION>
+        <OPTION VALUE="22">Doesn't Foul Out </OPTION>
+        <OPTION VALUE="23">Plays </OPTION>
+        <OPTION VALUE="24">Doesn't Play </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="ml3">
+        <OPTION VALUE="0">More than or equal to </OPTION>
+        <OPTION VALUE="1">Less than or equal to </OPTION>
+        <OPTION VALUE="2">Most </OPTION>
+      </SELECT>
+    </TD>
+    <TD ALIGN="center">
+      <INPUT TYPE="TEXT" SIZE="4" MAXLENGTH="4" VALUE="100" NAME="v3"> 
+    </TD>
+    <TD ALIGN="center">
+       <INPUT TYPE="checkbox" NAME="dplay3" VALUE="no"> 
+    </TD>
+  </TR>
+
+  <TR>
+    <TD>
+      <SELECT NAME="pname4">
+        <OPTION VALUE="0">---- </OPTION>
+        <OPTION VALUE="1">Dallas </OPTION>
+        <OPTION VALUE="2">Opponent </OPTION>
+        <OPTION VALUE="3">Difference </OPTION>
+        <OPTION VALUE="4">Any Player has </OPTION>
+        <OPTION VALUE="5">Any 2 Players have </OPTION>
+        <OPTION VALUE="6">Any 3 Players have </OPTION>
+        <OPTION VALUE="7">Calvin Booth </OPTION>
+        <OPTION VALUE="8">Shawn Bradley </OPTION>
+        <OPTION VALUE="9">Marquis Daniels </OPTION>
+        <OPTION VALUE="10">Erick Dampier </OPTION>
+        <OPTION VALUE="11">Dan Dickau </OPTION>
+        <OPTION VALUE="12">Michael Finley </OPTION>
+        <OPTION VALUE="13">Devin Harris </OPTION>
+        <OPTION VALUE="14">Alan Henderson </OPTION>
+        <OPTION VALUE="15">Josh Howard </OPTION>
+        <OPTION VALUE="16">DJ Mbenga </OPTION>
+        <OPTION VALUE="17">Dirk Nowitzki </OPTION>
+        <OPTION VALUE="18">Pavel Podkolzin </OPTION>
+        <OPTION VALUE="19">Jerry Stackhouse </OPTION>
+        <OPTION VALUE="20">Jason Terry </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="stat4">
+        <OPTION VALUE="0">Points </OPTION>
+        <OPTION VALUE="1">Minutes </OPTION>
+        <OPTION VALUE="2">FG Made </OPTION>
+        <OPTION VALUE="3">FG Attempted </OPTION>
+        <OPTION VALUE="4">FG Percentage </OPTION>
+        <OPTION VALUE="5">3-pointers Made </OPTION>
+        <OPTION VALUE="6">3-pointers Attempted </OPTION>
+        <OPTION VALUE="7">3-point Percentage </OPTION>
+        <OPTION VALUE="8">FT Made </OPTION>
+        <OPTION VALUE="9">FT Attempted </OPTION>
+        <OPTION VALUE="10">FT Percentage </OPTION>
+        <OPTION VALUE="11">Rebounds </OPTION>
+        <OPTION VALUE="12">Offensive Rebounds </OPTION>
+        <OPTION VALUE="13">Defensive Rebounds </OPTION>
+        <OPTION VALUE="14">Assists </OPTION>
+        <OPTION VALUE="15">Turnovers </OPTION>
+        <OPTION VALUE="16">Fouls </OPTION>
+        <OPTION VALUE="17">Steals </OPTION>
+        <OPTION VALUE="18">Blocks </OPTION>
+        <OPTION VALUE="19">Starts </OPTION>
+        <OPTION VALUE="20">Doesn't Start </OPTION>
+        <OPTION VALUE="21">Fouls Out </OPTION>
+        <OPTION VALUE="22">Doesn't Foul Out </OPTION>
+        <OPTION VALUE="23">Plays </OPTION>
+        <OPTION VALUE="24">Doesn't Play </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="ml4">
+        <OPTION VALUE="0">More than or equal to </OPTION>
+        <OPTION VALUE="1">Less than or equal to </OPTION>
+        <OPTION VALUE="2">Most </OPTION>
+      </SELECT>
+    </TD>
+    <TD ALIGN="center">
+      <INPUT TYPE="TEXT" SIZE="4" MAXLENGTH="4" VALUE="100" NAME="v4"> 
+    </TD>
+    <TD ALIGN="center">
+       <INPUT TYPE="checkbox" NAME="dplay4" VALUE="no"> 
+    </TD>
+  </TR>
+
+  <TR>
+    <TD>
+      <SELECT NAME="pname5">
+        <OPTION VALUE="0">---- </OPTION>
+        <OPTION VALUE="1">Dallas </OPTION>
+        <OPTION VALUE="2">Opponent </OPTION>
+        <OPTION VALUE="3">Difference </OPTION>
+        <OPTION VALUE="4">Any Player has </OPTION>
+        <OPTION VALUE="5">Any 2 Players have </OPTION>
+        <OPTION VALUE="6">Any 3 Players have </OPTION>
+        <OPTION VALUE="7">Calvin Booth </OPTION>
+        <OPTION VALUE="8">Shawn Bradley </OPTION>
+        <OPTION VALUE="9">Marquis Daniels </OPTION>
+        <OPTION VALUE="10">Erick Dampier </OPTION>
+        <OPTION VALUE="11">Dan Dickau </OPTION>
+        <OPTION VALUE="12">Michael Finley </OPTION>
+        <OPTION VALUE="13">Devin Harris </OPTION>
+        <OPTION VALUE="14">Alan Henderson </OPTION>
+        <OPTION VALUE="15">Josh Howard </OPTION>
+        <OPTION VALUE="16">DJ Mbenga </OPTION>
+        <OPTION VALUE="17">Dirk Nowitzki </OPTION>
+        <OPTION VALUE="18">Pavel Podkolzin </OPTION>
+        <OPTION VALUE="19">Jerry Stackhouse </OPTION>
+        <OPTION VALUE="20">Jason Terry </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="stat5">
+        <OPTION VALUE="0">Points </OPTION>
+        <OPTION VALUE="1">Minutes </OPTION>
+        <OPTION VALUE="2">FG Made </OPTION>
+        <OPTION VALUE="3">FG Attempted </OPTION>
+        <OPTION VALUE="4">FG Percentage </OPTION>
+        <OPTION VALUE="5">3-pointers Made </OPTION>
+        <OPTION VALUE="6">3-pointers Attempted </OPTION>
+        <OPTION VALUE="7">3-point Percentage </OPTION>
+        <OPTION VALUE="8">FT Made </OPTION>
+        <OPTION VALUE="9">FT Attempted </OPTION>
+        <OPTION VALUE="10">FT Percentage </OPTION>
+        <OPTION VALUE="11">Rebounds </OPTION>
+        <OPTION VALUE="12">Offensive Rebounds </OPTION>
+        <OPTION VALUE="13">Defensive Rebounds </OPTION>
+        <OPTION VALUE="14">Assists </OPTION>
+        <OPTION VALUE="15">Turnovers </OPTION>
+        <OPTION VALUE="16">Fouls </OPTION>
+        <OPTION VALUE="17">Steals </OPTION>
+        <OPTION VALUE="18">Blocks </OPTION>
+        <OPTION VALUE="19">Starts </OPTION>
+        <OPTION VALUE="20">Doesn't Start </OPTION>
+        <OPTION VALUE="21">Fouls Out </OPTION>
+        <OPTION VALUE="22">Doesn't Foul Out </OPTION>
+        <OPTION VALUE="23">Plays </OPTION>
+        <OPTION VALUE="24">Doesn't Play </OPTION>
+      </SELECT>
+    </TD>
+    <TD>
+      <SELECT NAME="ml5">
+        <OPTION VALUE="0">More than or equal to </OPTION>
+        <OPTION VALUE="1">Less than or equal to </OPTION>
+        <OPTION VALUE="2">Most </OPTION>
+      </SELECT>
+    </TD>
+    <TD ALIGN="center">
+      <INPUT TYPE="TEXT" SIZE="4" MAXLENGTH="4" VALUE="100" NAME="v5"> 
+    </TD>
+    <TD ALIGN="center">
+       <INPUT TYPE="checkbox" NAME="dplay5" VALUE="no"> 
+    </TD>
+  </TR>
+
+</TABLE>
+
+<PRE>
+    <INPUT TYPE="SUBMIT" VALUE=" Compute ">    <INPUT TYPE="RESET" VALUE=" Clear ">
+</PRE>
+</FORM>
+<HR>
+<ADDRESS>
+Patricia Bender <BR>
+<A HREF="mailto:patricia@dfw.net">patricia@dfw.net</A> <BR>
+Not affiliated with or representing anyone besides myself.
+</ADDRESS>
+</BODY>
+</HTML>

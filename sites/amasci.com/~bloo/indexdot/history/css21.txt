@@ -1,0 +1,39 @@
+Cascading Style Sheets 2.1 
+
+ CSS 2.1 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Authors: Bert Bos, Tantek &Ccedil;elik, Ian Hickson, H&aring;kon Lie
+ Specifications 
+ Documentation - http://www.w3.org/TR/CSS21/ 
+ Timeline: 
+ - First public working draft of CSS 2.1 released - August 2002
+ - Second working draft of CSS 2.1 released - January 2003
+ - Last Call working draft of CSS 2.1 released - September 2003
+
+ Almost there 
+
+Now that browsers support the majority of CSS2, certain portions of its feature
+set remain unimplemented. Taking a page from the HTML 3.2 recommendation, CSS 2.1
+aims to accomplish a similar goal: to capture the current common browser behavior 
+with regards to CSS. As such, it attempts to capture the common subset 
+of CSS2 that most browsers implement (perhaps it might be better to call it 
+CSS 1.9? ;-}) Features like font descriptors are gone entirely from this CSS 
+version, as are many properties that have never really been implemented (like 
+'text-shadow', and 'font-stretch'.)
+
+Interesting to note, that the properties and features from CSS2 that are not in 
+CSS 2.1 are still planned for inclusion in CSS3.
+
+ Boring Copyright Stuff....

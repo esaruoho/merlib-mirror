@@ -1,0 +1,894 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+	<HTML>
+  	<HEAD>
+    <title>A Graphological Website: Newsfeeds</title>
+    <LINK rel="Home" href="index.html">
+    <LINK rel="Index" href="index.html">
+    <LINK rel="Toc" href="../common/toc.html">
+    <LINK rel="Next" href="../common/survey.html">
+    <LINK rel="Previous" href="../q/index.html">
+    <LINK rel="Up" href="index.html">
+    <LINK rel="Help"         href="../common/help.html" 		TITLE = "Graphology Website Help Page">
+    <LINK rel="Copyright"    href="../common/copyright.html"  	TITLE = "Graphology Website Copyright Page">
+    <LINK rel="Stylesheet"   href="../common/default.css" 		type="text/css">
+
+
+    <LINK rel="SCHEMA.VW96" href="http://vancouver-webpages.com/VWbot/VW96-schema.html">
+    <!-- the following meta tags reflect when sed or python updated the web site -->
+    <META name="creation_date" content = " Saturday, 21 April 2001 16:53:00 GMT ">
+    <META name="last_update"   content = " Wednesday, 20 June 2001 18:00:00 GMT ">
+    <META name="revisit-after" content="180 days ">
+    <META name="author" content="Jonathon Blake">
+    <META name="Keywords" content=" writing-systems, grammatology, history of writing, graphology, handwriting analysis, newsfeeds ">
+    <META name="Description" content="The Graphology Website: Live Newsfeeds">
+    <META name="Robots" content="All">
+    <LINK rev="Made" href="mailto:jblake@eskimo.com">
+    <META http-equiv="distribution" content="global">
+    <META http-equiv="reply-to" content="jblake@eskimo.com">
+    <META http-equiv="Resource-Type" content="book">
+    <META http-equiv="Content-Style-Type" content="text/css">
+    <META http-equiv="Content-language" content="en-US">
+    <META http-equiv="Copyright" content="Jonathon Blake: Distributed under the GNU Free Documentation Licence.">
+    <META name="Rating" content="General">
+
+<BODY>
+
+<table width = "600">
+<tr><td>
+<font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+<a href="../faq/index.html"> Graphology-L FAQ </a> |
+<a href="../glossary/index.html"> Glossary </a> |
+<a href="../bibliography/index.html"> Bibliography </a> |
+<a href="../professional/newsfeeds.html"> Newsfeeds </a>
+</td></tr>
+<tr><td>
+<font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+<a href="index.html"> Section Index </a>  |
+
+<a href="../professional/index.html"> Professional Services </a> |
+<a href="../common/copyright.html"> Copyright </a> |
+<a href="../common/toc.html">ToC </a>
+</td></tr></table>
+<H1>
+A Graphology Web Site: Live Newsfeeds
+</h1>
+
+<p>A few notes about these Newsfeeds:<br><ul>
+<li>JavaScript needs to be enabled on your browser.</li>
+<li>These newsfeeds, in theory, list all news articles that mention
+the keyword in the header above the actual feed.</li>
+<li>The <b>Graphology</b> Newsfeed usually does not have any
+articles listed. </li>
+<li>These newsfeeds are provided by courtesty of <a href="http://moreover.com">
+Moreover.com</a>.</li>
+<li>
+<!--[if IE]>
+<font face="Arial" size="3">
+<A HREF="#"
+onClick="this.style.behavior='url(#default#homepage)';
+this.setHomePage('http://www.eskimo.com/~hwa/professional/newsfeed.html');">
+Make This page of newsfeeds your home page
+</A>
+</font>
+<![endif]-->
+
+
+</li>
+</ul></p>
+
+<div align="center">
+
+<h2><a name="handwriting">Handwriting</a></h2>
+
+<!-- Start Of Moreover.com News Javascript Code -->
+
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // the array global_article is used to allow multiple categories
+  var global_article = new Array();
+  var global_article_counter = 0;
+  var article = null;
+  var early_exit = 1;
+  var moreover_text = 0;
+  function load_wizard()
+    {
+
+    var newwin = window.open("","clone","resizable,scrollbars,width=500,height=590");
+    document.forms.moreover_clone.submit();
+    return true;
+    }
+
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="JavaScript" src="http://p.moreover.com/cgi-local/page?query=Handwriting&n=5&o=js">
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // load global_article array with articles from category
+  if (article != null)
+    {
+    early_exit = 0;
+
+    for (var article_counter = 0; article_counter < article.length; article_counter++)
+      {
+      global_article[global_article_counter] = article[article_counter];
+      global_article[global_article_counter].url += "&w=524300";
+      global_article[global_article_counter].url += "' TARGET='_blank";
+      global_article[global_article_counter].document_url += "' TARGET='_blank";
+      global_article_counter++;
+      }
+
+
+    }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (global_article.length == 0)
+      {
+      if (early_exit)
+        {
+        document.writeln("<CENTER>Please reload this page to view the headlines</CENTER>");
+        }
+      else
+        {
+        document.writeln("<CENTER>Sorry, no articles matched your search criteria</CENTER>");
+        early_exit = 1;
+        }
+      }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript" SRC="http://p.moreover.com/dr/wizard_text.js"></SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (!early_exit)
+  {
+  var webfeed_heading = "";
+  var width = "400";
+  var numberofarticles = global_article.length;
+  var item_spacing = "5";
+  var cluster_bgcolor = "000000";
+  var cluster_border = "0";
+  var heading_display = "Yes";
+  var time_display = "Yes";
+  var cell_spacing = "0";
+  var cell_padding = "1";
+  var heading_bgcolor = "000000";
+  var heading_font = "Verdana, Arial,Helvetica, sans-serif";
+  var heading_font_size = "-2";
+  var heading_fgcolor = "800080";
+  var headline_bgcolor = "000000";
+  var headline_font = "Verdana, Arial,Helvetica, sans-serif";
+  var headline_font_size = "-2";
+  var headline_fgcolor = "800080";
+  var source_font = "Verdana, Arial,Helvetica, sans-serif";
+  var source_font_size = "-2";
+  var source_fgcolor = "ff00ff";
+  var access_font = "Verdana, Arial,Helvetica, sans-serif";
+  var access_font_size = "-2";
+  var access_fgcolor = "ff00ff";
+  var time_font = "Verdana, Arial,Helvetica, sans-serif";
+  var time_font_size = "-2";
+  var time_fgcolor = "ff00ff";
+  var time = new Array(global_article.length);
+
+  // Print out the table containing the headlines
+  document.writeln("<CENTER><TABLE BORDER="+cluster_border+" BGCOLOR='#"+cluster_bgcolor+"' WIDTH='"+width+"' CELLPADDING=2 CELLSPACING=0>");
+  document.writeln("<tr><td  align='center'><a href='http://www.freeservers.com' target='Freeservers'><img src='http://i.moreover.com/images/branded_wizards/freeservers_blank.gif' border='0'></a></td></tr>")
+  document.writeln("<TR><TD><CENTER><TABLE BGCOLOR='#"+cluster_bgcolor+"' CELLPADDING="+cell_padding+" CELLSPACING="+cell_spacing+"  WIDTH='100%'>");
+
+  if (heading_display == "Yes")
+    {
+    // Print a new category heading
+    document.writeln("<TR BGCOLOR='#"+heading_bgcolor+"'><TD>");
+    document.writeln("<FONT SIZE="+heading_font_size+" FACE="+heading_font+" COLOR='#"+heading_fgcolor+"'>");
+    document.writeln("<B>"+webfeed_heading+"</B></FONT></TD></TR>");
+    }
+
+  // Start loop for articles
+    for (var counter=0; counter < numberofarticles; counter++)
+    {
+    if ((counter == (global_article.length - 1)) && moreover_text == 1)
+      {
+      headline_fgcolor = source_fgcolor;
+      time_display = "No";
+      }
+
+    // Print out the headline
+    document.writeln("<TR BGCOLOR='#"+headline_bgcolor+"'><TD><A HREF='"+global_article[counter].url+"' >");
+    document.writeln("<FONT SIZE="+headline_font_size+" FACE="+headline_font+" COLOR='#"+headline_fgcolor+"'");
+    document.writeln(">"+global_article[counter].headline_text+"...</FONT></A><br>");
+
+
+      // Print out the source
+        if ((counter != (global_article.length - 1)) || moreover_text != 1)
+        {
+        document.writeln("<A HREF='"+global_article[counter].document_url+"' >");
+        document.writeln("<FONT FACE="+source_font+" SIZE="+source_font_size+" COLOR='#"+source_fgcolor+"'>");
+        document.writeln(""+global_article[counter].source+"</FONT></A>&nbsp;&nbsp;");
+        }
+
+
+    // Print out reg/sub if appropriate
+    if (global_article[counter].access_status == "sub" || global_article[counter].access_status == "reg")
+      {
+      document.writeln(" <A HREF='"+global_article[counter].access_registration+"'>");
+      document.writeln("<FONT FACE="+access_font+" SIZE="+access_font_size);
+      document.writeln(" COLOR='#"+access_fgcolor+"'>"+global_article[counter].access_status+"</FONT></A>&nbsp;&nbsp;");
+      }
+
+
+        // Print out the harvest time
+    if (time_display == "Yes")
+      {
+      // Make a new date object
+      time[counter] = new Date(global_article[counter].harvest_time);
+      time[counter].setHours(time[counter].getHours() - (time[counter].getTimezoneOffset() / 60 ));
+      document.writeln("<FONT FACE="+time_font+" SIZE="+time_font_size+" COLOR='#"+time_fgcolor+"'>");
+      document.writeln(""+time[counter].toString()+"</FONT>");
+      }
+
+
+
+    document.writeln("</TD></TR><TR BGCOLOR='#"+headline_bgcolor+"'><TD BGCOLOR='#"+headline_bgcolor+"' HEIGHT="+item_spacing+"></TD></TR>");
+    } // End of article loop
+
+  // Start of clone button code //
+  // NOTE: DO NOT REMOVE any of the code in this section //
+  document.writeln("<FORM METHOD='POST' ACTION='http://www.moreover.com/cgi-local/wizard_clone.pl' target='clone' name='moreover_clone'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='parent_code' VALUE='524300'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='source_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_width' VALUE='400'><INPUT TYPE='hidden' NAME='time_display' VALUE='Yes'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='cluster_cellspacing' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='number_of_headlines' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='search_keywords' VALUE='Handwriting'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='access_fgcolor' VALUE='ff00ff'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_bgcolor' VALUE='000000'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_name' VALUE='query=Handwriting&o=js'><INPUT TYPE='hidden' NAME='access_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_display' VALUE='Yes'><INPUT TYPE='hidden' NAME='headline_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='access_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='headline_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bold' VALUE='Yes'><INPUT TYPE='hidden' NAME='item_spacing' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='wizard_brand' VALUE='freeservers'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_cellpadding' VALUE='1'><INPUT TYPE='hidden' NAME='heading_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='cluster_border' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_layout' VALUE='<br>'>")
+
+  document.writeln("</FORM>");
+  // End of clone button code //
+
+  document.writeln("</TABLE></CENTER></TD></TR></TABLE></CENTER>");
+
+  // ************************************************************************************
+  // This code is subject to the copyright and warranty restrictions detailed at
+  // http://www.moreover.com/wizard_copyright.html
+  // Copyright 2000 Moreover.com Inc. All rights reserved.
+  // *************************************************************************************
+  }
+  // -->
+  </SCRIPT>
+  <A HREF="http://www.moreover.com"><FONT COLOR="#000000"> </FONT></A>
+  <!-- End Of Moreover.com News Javascript Code -->
+
+<h2><a name="calligraphy">Calligraphy</a></h2>
+
+<!-- Start Of Moreover.com News Javascript Code -->
+
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // the array global_article is used to allow multiple categories
+  var global_article = new Array();
+  var global_article_counter = 0;
+  var article = null;
+  var early_exit = 1;
+  var moreover_text = 0;
+  function load_wizard()
+    {
+
+    var newwin = window.open("","clone","resizable,scrollbars,width=500,height=590");
+    document.forms.moreover_clone.submit();
+    return true;
+    }
+
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="JavaScript" src="http://p.moreover.com/cgi-local/page?query=calligraphy&n=5&o=js">
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // load global_article array with articles from category
+  if (article != null)
+    {
+    early_exit = 0;
+
+    for (var article_counter = 0; article_counter < article.length; article_counter++)
+      {
+      global_article[global_article_counter] = article[article_counter];
+      global_article[global_article_counter].url += "&w=524288";
+      global_article[global_article_counter].url += "' TARGET='_blank";
+      global_article[global_article_counter].document_url += "' TARGET='_blank";
+      global_article_counter++;
+      }
+
+
+    }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (global_article.length == 0)
+      {
+      if (early_exit)
+        {
+        document.writeln("<CENTER>Please reload this page to view the headlines</CENTER>");
+        }
+      else
+        {
+        document.writeln("<CENTER>Sorry, no articles matched your search criteria</CENTER>");
+        early_exit = 1;
+        }
+      }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript" SRC="http://p.moreover.com/dr/wizard_text.js"></SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (!early_exit)
+  {
+  var webfeed_heading = "";
+  var width = "400";
+  var numberofarticles = global_article.length;
+  var item_spacing = "5";
+  var cluster_bgcolor = "000000";
+  var cluster_border = "0";
+  var heading_display = "Yes";
+  var time_display = "Yes";
+  var cell_spacing = "0";
+  var cell_padding = "1";
+  var heading_bgcolor = "000000";
+  var heading_font = "Verdana, Arial,Helvetica, sans-serif";
+  var heading_font_size = "-2";
+  var heading_fgcolor = "800080";
+  var headline_bgcolor = "000000";
+  var headline_font = "Verdana, Arial,Helvetica, sans-serif";
+  var headline_font_size = "-2";
+  var headline_fgcolor = "800080";
+  var source_font = "Verdana, Arial,Helvetica, sans-serif";
+  var source_font_size = "-2";
+  var source_fgcolor = "ff00ff";
+  var access_font = "Verdana, Arial,Helvetica, sans-serif";
+  var access_font_size = "-2";
+  var access_fgcolor = "ff00ff";
+  var time_font = "Verdana, Arial,Helvetica, sans-serif";
+  var time_font_size = "-2";
+  var time_fgcolor = "ff00ff";
+  var time = new Array(global_article.length);
+
+  // Print out the table containing the headlines
+  document.writeln("<CENTER><TABLE BORDER="+cluster_border+" BGCOLOR='#"+cluster_bgcolor+"' WIDTH='"+width+"' CELLPADDING=2 CELLSPACING=0>");
+  document.writeln("<tr><td  align='center'><a href='http://www.freeservers.com' target='Freeservers'><img src='http://i.moreover.com/images/branded_wizards/freeservers_blank.gif' border='0'></a></td></tr>")
+  document.writeln("<TR><TD><CENTER><TABLE BGCOLOR='#"+cluster_bgcolor+"' CELLPADDING="+cell_padding+" CELLSPACING="+cell_spacing+"  WIDTH='100%'>");
+
+  if (heading_display == "Yes")
+    {
+    // Print a new category heading
+    document.writeln("<TR BGCOLOR='#"+heading_bgcolor+"'><TD>");
+    document.writeln("<FONT SIZE="+heading_font_size+" FACE="+heading_font+" COLOR='#"+heading_fgcolor+"'>");
+    document.writeln("<B>"+webfeed_heading+"</B></FONT></TD></TR>");
+    }
+
+  // Start loop for articles
+    for (var counter=0; counter < numberofarticles; counter++)
+    {
+    if ((counter == (global_article.length - 1)) && moreover_text == 1)
+      {
+      headline_fgcolor = source_fgcolor;
+      time_display = "No";
+      }
+
+    // Print out the headline
+    document.writeln("<TR BGCOLOR='#"+headline_bgcolor+"'><TD><A HREF='"+global_article[counter].url+"' >");
+    document.writeln("<FONT SIZE="+headline_font_size+" FACE="+headline_font+" COLOR='#"+headline_fgcolor+"'");
+    document.writeln(">"+global_article[counter].headline_text+"...</FONT></A><br>");
+
+
+      // Print out the source
+        if ((counter != (global_article.length - 1)) || moreover_text != 1)
+        {
+        document.writeln("<A HREF='"+global_article[counter].document_url+"' >");
+        document.writeln("<FONT FACE="+source_font+" SIZE="+source_font_size+" COLOR='#"+source_fgcolor+"'>");
+        document.writeln(""+global_article[counter].source+"</FONT></A>&nbsp;&nbsp;");
+        }
+
+
+    // Print out reg/sub if appropriate
+    if (global_article[counter].access_status == "sub" || global_article[counter].access_status == "reg")
+      {
+      document.writeln(" <A HREF='"+global_article[counter].access_registration+"'>");
+      document.writeln("<FONT FACE="+access_font+" SIZE="+access_font_size);
+      document.writeln(" COLOR='#"+access_fgcolor+"'>"+global_article[counter].access_status+"</FONT></A>&nbsp;&nbsp;");
+      }
+
+
+        // Print out the harvest time
+    if (time_display == "Yes")
+      {
+      // Make a new date object
+      time[counter] = new Date(global_article[counter].harvest_time);
+      time[counter].setHours(time[counter].getHours() - (time[counter].getTimezoneOffset() / 60 ));
+      document.writeln("<FONT FACE="+time_font+" SIZE="+time_font_size+" COLOR='#"+time_fgcolor+"'>");
+      document.writeln(""+time[counter].toString()+"</FONT>");
+      }
+
+
+
+    document.writeln("</TD></TR><TR BGCOLOR='#"+headline_bgcolor+"'><TD BGCOLOR='#"+headline_bgcolor+"' HEIGHT="+item_spacing+"></TD></TR>");
+    } // End of article loop
+
+  // Start of clone button code //
+  // NOTE: DO NOT REMOVE any of the code in this section //
+  document.writeln("<FORM METHOD='POST' ACTION='http://www.moreover.com/cgi-local/wizard_clone.pl' target='clone' name='moreover_clone'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='parent_code' VALUE='524288'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='source_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_width' VALUE='400'><INPUT TYPE='hidden' NAME='time_display' VALUE='Yes'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='cluster_cellspacing' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='number_of_headlines' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='search_keywords' VALUE='calligraphy'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='access_fgcolor' VALUE='ff00ff'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_bgcolor' VALUE='000000'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_name' VALUE='query=calligraphy&o=js'><INPUT TYPE='hidden' NAME='access_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_display' VALUE='Yes'><INPUT TYPE='hidden' NAME='headline_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='access_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='headline_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bold' VALUE='Yes'><INPUT TYPE='hidden' NAME='item_spacing' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='wizard_brand' VALUE='freeservers'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_cellpadding' VALUE='1'><INPUT TYPE='hidden' NAME='heading_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='cluster_border' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_layout' VALUE='<br>'>")
+
+  document.writeln("</FORM>");
+  // End of clone button code //
+
+  document.writeln("</TABLE></CENTER></TD></TR></TABLE></CENTER>");
+
+  // ************************************************************************************
+  // This code is subject to the copyright and warranty restrictions detailed at
+  // http://www.moreover.com/wizard_copyright.html
+  // Copyright 2000 Moreover.com Inc. All rights reserved.
+  // *************************************************************************************
+  }
+  // -->
+  </SCRIPT>
+  <A HREF="http://www.moreover.com"><FONT COLOR="#000000"> </FONT></A>
+  <!-- End Of Moreover.com News Javascript Code -->
+
+<h2><a name="writing">Writing</a></h2>
+
+<!-- Start Of Moreover.com News Javascript Code -->
+
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // the array global_article is used to allow multiple categories
+  var global_article = new Array();
+  var global_article_counter = 0;
+  var article = null;
+  var early_exit = 1;
+  var moreover_text = 0;
+  function load_wizard()
+    {
+
+    var newwin = window.open("","clone","resizable,scrollbars,width=500,height=590");
+    document.forms.moreover_clone.submit();
+    return true;
+    }
+
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="JavaScript" src="http://p.moreover.com/cgi-local/page?query=Writing&n=5&o=js">
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // load global_article array with articles from category
+  if (article != null)
+    {
+    early_exit = 0;
+
+    for (var article_counter = 0; article_counter < article.length; article_counter++)
+      {
+      global_article[global_article_counter] = article[article_counter];
+      global_article[global_article_counter].url += "&w=524303";
+      global_article[global_article_counter].url += "' TARGET='_blank";
+      global_article[global_article_counter].document_url += "' TARGET='_blank";
+      global_article_counter++;
+      }
+
+
+    }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (global_article.length == 0)
+      {
+      if (early_exit)
+        {
+        document.writeln("<CENTER>Please reload this page to view the headlines</CENTER>");
+        }
+      else
+        {
+        document.writeln("<CENTER>Sorry, no articles matched your search criteria</CENTER>");
+        early_exit = 1;
+        }
+      }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript" SRC="http://p.moreover.com/dr/wizard_text.js"></SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (!early_exit)
+  {
+  var webfeed_heading = "";
+  var width = "400";
+  var numberofarticles = global_article.length;
+  var item_spacing = "5";
+  var cluster_bgcolor = "000000";
+  var cluster_border = "0";
+  var heading_display = "Yes";
+  var time_display = "Yes";
+  var cell_spacing = "0";
+  var cell_padding = "1";
+  var heading_bgcolor = "000000";
+  var heading_font = "Verdana, Arial,Helvetica, sans-serif";
+  var heading_font_size = "-2";
+  var heading_fgcolor = "800080";
+  var headline_bgcolor = "000000";
+  var headline_font = "Verdana, Arial,Helvetica, sans-serif";
+  var headline_font_size = "-2";
+  var headline_fgcolor = "800080";
+  var source_font = "Verdana, Arial,Helvetica, sans-serif";
+  var source_font_size = "-2";
+  var source_fgcolor = "ff00ff";
+  var access_font = "Verdana, Arial,Helvetica, sans-serif";
+  var access_font_size = "-2";
+  var access_fgcolor = "ff00ff";
+  var time_font = "Verdana, Arial,Helvetica, sans-serif";
+  var time_font_size = "-2";
+  var time_fgcolor = "ff00ff";
+  var time = new Array(global_article.length);
+
+  // Print out the table containing the headlines
+  document.writeln("<CENTER><TABLE BORDER="+cluster_border+" BGCOLOR='#"+cluster_bgcolor+"' WIDTH='"+width+"' CELLPADDING=2 CELLSPACING=0>");
+  document.writeln("<tr><td  align='center'><a href='http://www.freeservers.com' target='Freeservers'><img src='http://i.moreover.com/images/branded_wizards/freeservers_blank.gif' border='0'></a></td></tr>")
+  document.writeln("<TR><TD><CENTER><TABLE BGCOLOR='#"+cluster_bgcolor+"' CELLPADDING="+cell_padding+" CELLSPACING="+cell_spacing+"  WIDTH='100%'>");
+
+  if (heading_display == "Yes")
+    {
+    // Print a new category heading
+    document.writeln("<TR BGCOLOR='#"+heading_bgcolor+"'><TD>");
+    document.writeln("<FONT SIZE="+heading_font_size+" FACE="+heading_font+" COLOR='#"+heading_fgcolor+"'>");
+    document.writeln("<B>"+webfeed_heading+"</B></FONT></TD></TR>");
+    }
+
+  // Start loop for articles
+    for (var counter=0; counter < numberofarticles; counter++)
+    {
+    if ((counter == (global_article.length - 1)) && moreover_text == 1)
+      {
+      headline_fgcolor = source_fgcolor;
+      time_display = "No";
+      }
+
+    // Print out the headline
+    document.writeln("<TR BGCOLOR='#"+headline_bgcolor+"'><TD><A HREF='"+global_article[counter].url+"' >");
+    document.writeln("<FONT SIZE="+headline_font_size+" FACE="+headline_font+" COLOR='#"+headline_fgcolor+"'");
+    document.writeln(">"+global_article[counter].headline_text+"...</FONT></A><br>");
+
+
+      // Print out the source
+        if ((counter != (global_article.length - 1)) || moreover_text != 1)
+        {
+        document.writeln("<A HREF='"+global_article[counter].document_url+"' >");
+        document.writeln("<FONT FACE="+source_font+" SIZE="+source_font_size+" COLOR='#"+source_fgcolor+"'>");
+        document.writeln(""+global_article[counter].source+"</FONT></A>&nbsp;&nbsp;");
+        }
+
+
+    // Print out reg/sub if appropriate
+    if (global_article[counter].access_status == "sub" || global_article[counter].access_status == "reg")
+      {
+      document.writeln(" <A HREF='"+global_article[counter].access_registration+"'>");
+      document.writeln("<FONT FACE="+access_font+" SIZE="+access_font_size);
+      document.writeln(" COLOR='#"+access_fgcolor+"'>"+global_article[counter].access_status+"</FONT></A>&nbsp;&nbsp;");
+      }
+
+
+        // Print out the harvest time
+    if (time_display == "Yes")
+      {
+      // Make a new date object
+      time[counter] = new Date(global_article[counter].harvest_time);
+      time[counter].setHours(time[counter].getHours() - (time[counter].getTimezoneOffset() / 60 ));
+      document.writeln("<FONT FACE="+time_font+" SIZE="+time_font_size+" COLOR='#"+time_fgcolor+"'>");
+      document.writeln(""+time[counter].toString()+"</FONT>");
+      }
+
+
+
+    document.writeln("</TD></TR><TR BGCOLOR='#"+headline_bgcolor+"'><TD BGCOLOR='#"+headline_bgcolor+"' HEIGHT="+item_spacing+"></TD></TR>");
+    } // End of article loop
+
+  // Start of clone button code //
+  // NOTE: DO NOT REMOVE any of the code in this section //
+  document.writeln("<FORM METHOD='POST' ACTION='http://www.moreover.com/cgi-local/wizard_clone.pl' target='clone' name='moreover_clone'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='parent_code' VALUE='524303'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='source_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_width' VALUE='400'><INPUT TYPE='hidden' NAME='time_display' VALUE='Yes'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='cluster_cellspacing' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='number_of_headlines' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='search_keywords' VALUE='Writing'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='access_fgcolor' VALUE='ff00ff'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_bgcolor' VALUE='000000'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_name' VALUE='query=Writing&o=js'><INPUT TYPE='hidden' NAME='access_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_display' VALUE='Yes'><INPUT TYPE='hidden' NAME='headline_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='access_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='headline_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bold' VALUE='Yes'><INPUT TYPE='hidden' NAME='item_spacing' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='wizard_brand' VALUE='freeservers'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_cellpadding' VALUE='1'><INPUT TYPE='hidden' NAME='heading_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='cluster_border' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_layout' VALUE='<br>'>")
+
+  document.writeln("</FORM>");
+  // End of clone button code //
+
+  document.writeln("</TABLE></CENTER></TD></TR></TABLE></CENTER>");
+
+  // ************************************************************************************
+  // This code is subject to the copyright and warranty restrictions detailed at
+  // http://www.moreover.com/wizard_copyright.html
+  // Copyright 2000 Moreover.com Inc. All rights reserved.
+  // *************************************************************************************
+  }
+  // -->
+  </SCRIPT>
+  <A HREF="http://www.moreover.com"><FONT COLOR="#000000"> </FONT></A>
+  <!-- End Of Moreover.com News Javascript Code -->
+
+<h2><a name="graphology">Graphology</a></h2>
+
+<p><strong>This usually has no articles in it.</strong></p>
+
+
+<!-- Start Of Moreover.com News Javascript Code -->
+
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // the array global_article is used to allow multiple categories
+  var global_article = new Array();
+  var global_article_counter = 0;
+  var article = null;
+  var early_exit = 1;
+  var moreover_text = 0;
+  function load_wizard()
+    {
+
+    var newwin = window.open("","clone","resizable,scrollbars,width=500,height=590");
+    document.forms.moreover_clone.submit();
+    return true;
+    }
+
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="JavaScript" src="http://p.moreover.com/cgi-local/page?query=graphology&n=5&o=js">
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  // load global_article array with articles from category
+  if (article != null)
+    {
+    early_exit = 0;
+
+    for (var article_counter = 0; article_counter < article.length; article_counter++)
+      {
+      global_article[global_article_counter] = article[article_counter];
+      global_article[global_article_counter].url += "&w=524292";
+      global_article[global_article_counter].url += "' TARGET='_blank";
+      global_article[global_article_counter].document_url += "' TARGET='_blank";
+      global_article_counter++;
+      }
+
+
+    }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (global_article.length == 0)
+      {
+      if (early_exit)
+        {
+        document.writeln("<CENTER>Please reload this page to view the headlines</CENTER>");
+        }
+      else
+        {
+        document.writeln("<CENTER>Sorry, no articles matched your search criteria</CENTER>");
+        early_exit = 1;
+        }
+      }
+  // -->
+  </SCRIPT>
+  <SCRIPT LANGUAGE="Javascript" SRC="http://p.moreover.com/dr/wizard_text.js"></SCRIPT>
+  <SCRIPT LANGUAGE="Javascript">
+  <!--
+  if (!early_exit)
+  {
+  var webfeed_heading = "";
+  var width = "400";
+  var numberofarticles = global_article.length;
+  var item_spacing = "5";
+  var cluster_bgcolor = "000000";
+  var cluster_border = "0";
+  var heading_display = "Yes";
+  var time_display = "Yes";
+  var cell_spacing = "0";
+  var cell_padding = "1";
+  var heading_bgcolor = "000000";
+  var heading_font = "Verdana, Arial,Helvetica, sans-serif";
+  var heading_font_size = "-2";
+  var heading_fgcolor = "800080";
+  var headline_bgcolor = "000000";
+  var headline_font = "Verdana, Arial,Helvetica, sans-serif";
+  var headline_font_size = "-2";
+  var headline_fgcolor = "800080";
+  var source_font = "Verdana, Arial,Helvetica, sans-serif";
+  var source_font_size = "-2";
+  var source_fgcolor = "ff00ff";
+  var access_font = "Verdana, Arial,Helvetica, sans-serif";
+  var access_font_size = "-2";
+  var access_fgcolor = "ff00ff";
+  var time_font = "Verdana, Arial,Helvetica, sans-serif";
+  var time_font_size = "-2";
+  var time_fgcolor = "ff00ff";
+  var time = new Array(global_article.length);
+
+  // Print out the table containing the headlines
+  document.writeln("<CENTER><TABLE BORDER="+cluster_border+" BGCOLOR='#"+cluster_bgcolor+"' WIDTH='"+width+"' CELLPADDING=2 CELLSPACING=0>");
+  document.writeln("<tr><td  align='center'><a href='http://www.freeservers.com' target='Freeservers'><img src='http://i.moreover.com/images/branded_wizards/freeservers_blank.gif' border='0'></a></td></tr>")
+  document.writeln("<TR><TD><CENTER><TABLE BGCOLOR='#"+cluster_bgcolor+"' CELLPADDING="+cell_padding+" CELLSPACING="+cell_spacing+"  WIDTH='100%'>");
+
+  if (heading_display == "Yes")
+    {
+    // Print a new category heading
+    document.writeln("<TR BGCOLOR='#"+heading_bgcolor+"'><TD>");
+    document.writeln("<FONT SIZE="+heading_font_size+" FACE="+heading_font+" COLOR='#"+heading_fgcolor+"'>");
+    document.writeln("<B>"+webfeed_heading+"</B></FONT></TD></TR>");
+    }
+
+  // Start loop for articles
+    for (var counter=0; counter < numberofarticles; counter++)
+    {
+    if ((counter == (global_article.length - 1)) && moreover_text == 1)
+      {
+      headline_fgcolor = source_fgcolor;
+      time_display = "No";
+      }
+
+    // Print out the headline
+    document.writeln("<TR BGCOLOR='#"+headline_bgcolor+"'><TD><A HREF='"+global_article[counter].url+"' >");
+    document.writeln("<FONT SIZE="+headline_font_size+" FACE="+headline_font+" COLOR='#"+headline_fgcolor+"'");
+    document.writeln(">"+global_article[counter].headline_text+"...</FONT></A><br>");
+
+
+      // Print out the source
+        if ((counter != (global_article.length - 1)) || moreover_text != 1)
+        {
+        document.writeln("<A HREF='"+global_article[counter].document_url+"' >");
+        document.writeln("<FONT FACE="+source_font+" SIZE="+source_font_size+" COLOR='#"+source_fgcolor+"'>");
+        document.writeln(""+global_article[counter].source+"</FONT></A>&nbsp;&nbsp;");
+        }
+
+
+    // Print out reg/sub if appropriate
+    if (global_article[counter].access_status == "sub" || global_article[counter].access_status == "reg")
+      {
+      document.writeln(" <A HREF='"+global_article[counter].access_registration+"'>");
+      document.writeln("<FONT FACE="+access_font+" SIZE="+access_font_size);
+      document.writeln(" COLOR='#"+access_fgcolor+"'>"+global_article[counter].access_status+"</FONT></A>&nbsp;&nbsp;");
+      }
+
+
+        // Print out the harvest time
+    if (time_display == "Yes")
+      {
+      // Make a new date object
+      time[counter] = new Date(global_article[counter].harvest_time);
+      time[counter].setHours(time[counter].getHours() - (time[counter].getTimezoneOffset() / 60 ));
+      document.writeln("<FONT FACE="+time_font+" SIZE="+time_font_size+" COLOR='#"+time_fgcolor+"'>");
+      document.writeln(""+time[counter].toString()+"</FONT>");
+      }
+
+
+
+    document.writeln("</TD></TR><TR BGCOLOR='#"+headline_bgcolor+"'><TD BGCOLOR='#"+headline_bgcolor+"' HEIGHT="+item_spacing+"></TD></TR>");
+    } // End of article loop
+
+  // Start of clone button code //
+  // NOTE: DO NOT REMOVE any of the code in this section //
+  document.writeln("<FORM METHOD='POST' ACTION='http://www.moreover.com/cgi-local/wizard_clone.pl' target='clone' name='moreover_clone'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='parent_code' VALUE='524292'>");
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='source_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_width' VALUE='400'><INPUT TYPE='hidden' NAME='time_display' VALUE='Yes'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='cluster_cellspacing' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='number_of_headlines' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='search_keywords' VALUE='graphology'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='access_fgcolor' VALUE='ff00ff'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='time_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_bgcolor' VALUE='000000'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_name' VALUE='query=graphology&o=js'><INPUT TYPE='hidden' NAME='access_font_size' VALUE='-2'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_display' VALUE='Yes'><INPUT TYPE='hidden' NAME='headline_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_font' VALUE='Verdana, Arial,Helvetica, sans-serif'><INPUT TYPE='hidden' NAME='access_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='headline_font_size' VALUE='-2'><INPUT TYPE='hidden' NAME='headline_font' VALUE='Verdana, Arial,Helvetica, sans-serif'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bold' VALUE='Yes'><INPUT TYPE='hidden' NAME='item_spacing' VALUE='5'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='heading_bgcolor' VALUE='000000'><INPUT TYPE='hidden' NAME='wizard_brand' VALUE='freeservers'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_cellpadding' VALUE='1'><INPUT TYPE='hidden' NAME='heading_fgcolor' VALUE='800080'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='source_fgcolor' VALUE='ff00ff'><INPUT TYPE='hidden' NAME='cluster_border' VALUE='0'>")
+  document.writeln("<INPUT TYPE='hidden' NAME='cluster_layout' VALUE='<br>'>")
+
+  document.writeln("</FORM>");
+  // End of clone button code //
+
+  document.writeln("</TABLE></CENTER></TD></TR></TABLE></CENTER>");
+
+  // ************************************************************************************
+  // This code is subject to the copyright and warranty restrictions detailed at
+  // http://www.moreover.com/wizard_copyright.html
+  // Copyright 2000 Moreover.com Inc. All rights reserved.
+  // *************************************************************************************
+  }
+  // -->
+  </SCRIPT>
+  <A HREF="http://www.moreover.com"><FONT COLOR="#000000"> </FONT></A>
+  <!-- End Of Moreover.com News Javascript Code -->
+
+
+<p><a href = "http://www.moreover.com" class="redmagenta" >
+<img = "..common/Mo_logos_EPS_master.eps" alt="Moreover.com" ></a>
+
+
+     <address><a name="bottom">  </a>
+     </div><div align="center">
+
+     <P><IMG src="../common/spectbar.png" alt=" " width="720" height="15"></P>
+     <table><tr>
+     <td><A href="../common/survey.html"><IMG src="../common/previous.png" alt=" Previous Page " width="25" height="25"></A></td>
+     <td><A href="../index.html"><IMG src="../common/up.png" alt=" Up One Level " width="25" height="25"></A></td>
+     <td><A href="../q/index.html"><IMG src="../common/next.png" alt=" Next Page " width="25" height="25"></A></td>
+     </tr></table><table><tr>
+     <font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+     <td>
+     <A href="../common/help.html#other"> Navigation</A> |
+     <a href="../common/toc.html">Site Wide Table of Contents</a>
+     </td></tr><tr><td>
+     <font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+     <a href="../faq/index.html"> Graphology-L FAQ </a> |
+     <a href="../glossary/index.html"> Graphological Glossary </a>
+     </td></tr><tr><td>
+     <font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+     <a href="../bibliography/index.html"> Graphological Bibliography </a>  |
+     <a href="../professional/newsfeeds.html"> Newsfeeds </a>
+     </td></tr><tr><td>
+     <font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+     <a href="index.html"> Section Index </a>  |
+     <a href="../legal.index.html"> Legal Issues </a>
+     </td></tr><tr><td>
+     <font face="tahoma, arial, helvetica, sans-serif" size="2" font-variant="small caps">
+     <a href="../professional/index.html"> Professional Services </a> |
+     <a href="../common/copyright.html"> Copyright Info </a>
+     </td></tr></table>
+
+     <P><IMG src="../common/spectbar.png" alt=" " width="720" height="15"></P>
+     </p></div><div align = "left">
+     <p><a href = "../common/copyright.html">Copyright</a>
+     &copy; 1995 - 2001 <a href="mailto:jblake@eskimo.com">Jonathon Blake</a><br>
+     Distributed under the <a href="../common/gnu.html">GNU Free Documentation License.</a>
+     </p></div></address></body></html>

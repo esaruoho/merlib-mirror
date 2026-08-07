@@ -1,0 +1,123 @@
+Dale Beuning's Tech Education Page 
+
+ Dale Beuning's Tech Education Page 
+
+Thanks go to Audree Thurman for much of this information. 
+ Interview with Audree .
+
+Computer World has a very useful Quick Study site.
+
+ Last Update: as of October 10, 1998 
+
+ Languages:
+
+ Ansi Standard C++ 
+
+ web
+ books 
+ UW Course 
+
+ Java 
+
+ web 
+ books 
+ JavaBeans and Swing also
+ Java Swing Tree Control article.
+ UW Course 
+ Servlet Info 
+
+ Visual C++/MFC/Windows 
+ Visual Basic
+
+ Database
+
+ database fundamentals
+ be able to use a standard relational database
+ be able to use an Object Database 
+
+ Distributed Computing
+
+ understanding of Sockets (TCP/IP)
+
+ Richard Steven's "UNIX Network Programming"
+
+ Client/Server
+ Microsoft's Component Object Model (COM)
+
+ Don Box's "Essential COM" ; Box is also a major contributor for the Microsoft System's Journal (MSJ)
+
+ CORBA 
+ CORBA Basics 
+ IDG Quick Study on Corba 
+
+ Internet/WWW
+
+ HTML
+ JavaScript 
+ CGI
+ Servlet technology
+
+ Seattle education resources:
+
+ UW Computer Science 
+ UW Software Engineer Certificate Program 
+
+ XML
+
+http://www.xml.com
+http://www.w3.org/Press/1998/XML10-REC-test
+http://www.oasis-open.org/cover/xml.html
+http://www.xml.com/xml/pub/norm/textproc.html
+
+ UML
+
+www.rational.com
+http://www.calpoly.edu/~kbrown/design/notes.htm
+http://yukon.genie.uottawa.ca/~lavoie/software/uml/
+ Dia UML editor 
+
+ Extreme Programming
+
+ Armaties Extreme Programming Site 
+ C2 com Extreme Programming Site 
+ Martin Fowler - UML Distilled author and Extreme Programming author 
+
+ Patterns
+
+ Patterns Home Page 
+ Patterns Tutorial 
+
+Search via DEC's AltaVista:
+
+ Search the Web Usenet 
+for documents in any language 
+ Dutch
+ English
+ French
+ German
+ Italian
+ Japanese
+ Norwegian
+ Polish
+ Portuguese
+ Russian
+ Spanish
+ Swedish
+
+ Help . 
+ Preferences . 
+ New Search . 
+ Advanced Search 
+
+Search via Dejanews: 
+
+ Search Again: Quick Search 
+ Help 
+
+ Type a specific question or topic :
+
+ Database: 
+ Current
+ Old
+
+ Example : ufo AND (sighting OR abduction OR alien)

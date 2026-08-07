@@ -1,0 +1,283 @@
+---
+title: "SMALLnet post408"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post408.html
+order: 8269
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:59Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post408
+
+*Source page: `~smallnet/Archive/post408.html`*
+
+## SMALLnet Posting post408
+
+------------------------------------------------------------------------
+
+**Date: Fri, 8 Feb 2002 04:42:04 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+Jim Moseley \< <jjmoseley@look.ca> \> needs help:
+
+I am in need of several radial backplate mounts for TD.09's -- the type that screw in to replace the original engine backplate. I lost my last one with an airplane back in August, and have no idea from where I obtained them in the dim past.
+
+If anyone can point me towards a source -- or has one or more to dispose of, I'd be very happy to hear from him direct.
+
+Thank you, Jim Moseley
+
+...I already referred Jim to the outfit that supposedly had taken over Joe Klause's old Kustom Kraftsmanship service. Jim found out that the new owners seem to be merely selling off the K-K inventory, and aren't actually making any parts. \[JW\]
+
+Andy Woitowicz \< <ajw@ntl.sympatico.ca> \> contributed:
+
+The latest Posting discussing mufflers has prompted me to report on my work in this area. Last summer I made an aftermuffler made up from the tube of a discarded felt pen marker. Not only was it quieter, but, by adjusting the length of the connecting tube and hence the length of the entire rig, I achieved a slight tuning effect that gave me an additional 200 "free" rpm.
+
+Recently, I made up an exhaust manifold for the Norvel .061 that allowed me to bolt on a Norvel .074 muffler. The rear cone was taken off and a 14" length of large diameter FlyQuiet tubing was installed directly to the back of the muffler. The rear cone from an earlier Norvel muffler was installed to the outlet of the tubing.
+
+This, in effect, gave me a muffler with a huge amount of volume. Installing a baffle at just the right spot also gave a tuning effect -- except that this time, I got a healthy 500 rpm increase. Installing an additional 14" piece of smaller silicone tubing to the muffler as an exhaust pipe, didn't increase the back pressure substantially and no power was lost.
+
+This success prompted me to make up another exhaust header and with a generous amount of JB Weld, I've converted a stock Norvel to rear exhaust. This will be installed on a 1/2A Tsunami that is in the works.
+
+This allows me to enclose the entire muffler system and have the exhaust come out the rear, just like on your car.
+
+The Tsunami is 36" span and target weight will be 14 ounces. The Norvel .061, with the custom, tuned muffler, does 19.5 to 20K with a black Tornado 6 X 3 and 15% fuel. Idle is solid at 5K and throttle response is instant.
+
+While I'm no lazier than the next modeler, no oil to clean up is attractive for one very good reason. Oil is a powerful grit magnet. Flying from an old mine tailings is tough on finishes, and every little bit helps.
+
+Andy Woitowicz
+
+David Larkin \< <dslarkin@blvl.igs.net> \> says:
+
+Can't let the comment by Charles Todd on the Allbon Dart go unpunished. The DC Darts were/are less powerful than the original Allbon Darts because of an engine mod introduced to aid production. The original Allbons had a screw-in cylinder with no gasket under the flange. The DC's added a gasket, but never corrected the timing. You can get some power back by ditching the gasket and lapping the joint.
+
+Supposedly, the very best Darts were the first greenhead ones with a two-part piston, according to Phil Smith and Dennis Allen. I count myself fortunate to have acquired a couple of greenhead Darts, but, sadly, none with the two-part piston. Mind you, if you want a really powerful Dart, buy a PAW 55.
+
+I enjoyed George Hostler's comments on single channel flying. It is amazing how one's landings are so much more accurate. I too enjoyed the Willard Schoolboy, except for the day when I flew it right after flying my Taurus and expected it to recover from situations that needed the extra channels.
+
+Best regards, Dave
+
+Joe Troll \< <rcory@insight.rr.com> \> remarks on Joe Bodin's query about the .10-sized kit for a Space Walker, which received some enthusiastic comment from a SMALLster who'd built & flown one:
+
+This may not help all that much, however the Space Walker .10 IS produced by House of Balsa, & I saw this kit for sale on the Hobby People Web site for a reasonable price. Old J. T.
+
+Frank Weaver \< <goldguy@shaw.ca> \> wrote:
+
+A modeling pal and I each built a twin TD 020 powered Piper Aztec from a free pull-out plan in RCME, an English magazine.
+
+I installed throttle sleeves and cylinders from a Pee Wee R/C. They both flew great, and we have had a lot of fun learning to fly twins with a minimum investment. You could land them in one piece with either engine out, especially with throttles -- which by the way work great on these little powerhouses.
+
+We eventually ran into some engine problems, which were difficult to detect, especially when the harmonics of twins kicked in.
+
+Both problems were needle settings. Here is what we found. On his, one engine had a leaky backplate. That was solved by installing a head gasket from an 049 between the crankcase and the back mount.
+
+On one of mine it was determined by switching parts from one to another, that it was the needle/venturi assembly at fault. Another flyer happened to have a small and powerful magnifying glass, with which we looked into the venturi where the needle seats. We were amazed to see that the seat was oval-shaped. New part: problem solved.
+
+If you are looking for an easy-to-build, fun-to-fly .10- to .15- powered small three-channel model, try a "QUICKIE". It was designed as a pylon racer trainer by Fred Reese and published in the December 1972 issue of RCM. As Fred says "it flies as if it has ailerons."
+
+I have built many variations of this design and have also flown it as an autogyro, on both wheels and floats. Just make sure you add 3/16" washout by installing a wedge under the trailing edge before you glue on the top sheeting. Use white glue to attach the top sheeting; and when dry you can go over it with an iron to re- activate the glue on spots that did not bond.
+
+Fly small, have a ball. Frank from Vancouver Island
+
+Ian L. McQueen \< <imcqueen@nbnet.nb.ca> \> responds to Curtis Mattikow's suggestion that Ed Carlson might be able to provide parts for old Frog engines, because Ed imports Aurora engines, reputedly based on the earlier frog designs:
+
+I bought some Aurora engines when in India in the 80's. The clerk in the store said that the engines were based on Allen-Mercury designs. But there's no guarantee that his information was correct. Or is A-M another name for Frog? Ian
+
+Don Myers \< <donevanmyers@yahoo.com> \> submitted:
+
+I read the blurb on yet another lightweight fuel-proof, heat- shrinkable covering material: "Coverlite". But has anyone tried it using the emulsion-type, non-chemical-solvent adhesive such as "Balsaloc" or, better yet, "Cover-Grip"?
+
+I was reluctant to try Polyspan as the only recommended application was using "dope" (Butyrate at that!) to stick it on with.
+
+Fortunately I connected with a savvy flier who'd had no problems sticking Polyspan on with Balsaloc, and recommended trying it; which I did with success.
+
+Now I can understand Coverite calling out their own Balsarite, and not some competitor's product. But what about Polyspan? Wouldn't you think they'd at least have tried what is out there and given us a choice? Also, there so far is no mention of how trim and graphics are to be applied to this new Coverlite, or whether 21st Century paint is the only way to go.
+
+Any input welcome, as I have three Free Flight models framed up and am in a quandary as to which covering material and technique to use.
+
+Thanks to JW for the MP Jets "Classic" diesel plug in his Model Aviation "Engine Shop" column.
+
+Diesel-only buddy, Jim Smith of South Jersey, recently showed by example the answer to Don Ross's question: "Why would anyone want to fool with those oily, smelly things, now that we can go Electric?"
+
+Don saw, on the field, first hand, the reasons: "NO WEIGHT and NO WAIT".
+
+Jim was rapidly re-fueling his own-design Classic-powered, Sport model, and getting one-flip starts -- making multiple flights one right after another till he ran out of downwind field! Small diesels seem to still be the best-kept secret in "SMALL" aeromodelling.
+
+Best wishes, Don Myers
+
+...Don, model covering is definitely an art form. What works for one can be a dismal failure for another. I've been part of two examples that illustrate this.
+
+A dozen years ago Randy Randolph personally demonstrated to me his "magic" MicaFilm attachment technique. It worked without a flaw for him -- and he had a fleet of models hanging from his workshop rafters that had been covered that way.
+
+All fired up to duplicate Randy's technique, I acquired a few rolls of MicaFilm and Randy's "secret adhesive" and tried covering a sample frame. At first glance all seemed well. But in a few days the Micafilm just popped loose. The "secret adhesive" had died or lost its power or SOMETHING...
+
+More recently, I told Expert Craftsman Dave Palmer about a brown- paper-and-acrylic-medium process for making strong, light moldings. I've been using that method for years -- but it didn't work worth an aardvark's anklebone for Dave.
+
+True, Dave used a different brand of acrylic than mine. (Hey! I thought they were all alike!) Also, he tried molding within a female mold. All my efforts were applied externally...
+
+But still & all -- these examples illustrate that covering techniques and materials can differ markedly. The ONLY way to be sure with a new model covering and/or adhesive is to TRY IT OUT YOURSELF on test frames. And wait a while before committing your time and money to a whole airplane covering project. You need to see what effect some curing time might have on the preliminary test results. \[JW\]
+
+Mike Woodhouse \< <mike@freeflightsupplies.co.uk> \> wrote:
+
+I live just down the road from the 3 guys who sort of invented the system. The foam that is used is blue in colour and sells under the trade name of "Floormate". It is a light, fine-grained foam. They have tried to use other varieties of foam -- white, pink and green. I think that a lot of the issue will be the different national types that are produced.
+
+Michael J Woodhouse, Norwich, UK Free Flight Supplies has secure Internet credit card facilities. web site: \< <http://www.freeflightsupplies.co.uk/> \>
+
+Hollis Fenn \< <fenn@sc.tds.net> \> avers:
+
+When I was about 13 years old I got a Guillow kit for Christmas, a Puss Moth or Curtiss Robin -- not real sure about that part, but I do remember I botched the fuselage because I didn't under- stand the half-shell construction method. I couldn't undo the Ambroid glue joints to start over after I figured out what I had done wrong.
+
+I saved my money a while, then bought a Guillow Nieuport, and built it. However, I wrecked it trying to fly it. So then I built a couple of the SPADs with the same result.
+
+Next I discovered the Scientific kits (this was about 1967). I chose the \#152 P-40 Warhawk kit. It was about 18" wingspan and the first rubber-powered built-up plane of mine that actually flew. I was hooked then. I wore the P-40 out flying it.
+
+I still build some rubber planes because I like the challenge. R/C is so darned easy by comparison. Control line is fun too, but not quite the challenge of rubber free flight. The nostalgia bug has bitten, and I would like help in locating one of those old Scientific \#152 P-40's.
+
+Let me know; I would be happy with a copy of the plan. I found the Me-109 from that series at a swap shop, so that it how I found out the kit \#: it is shown on the side of that box.
+
+Thanks everyone, and especially to Joe Wagner for such an enjoyable e-mail forum. Hollis Fenn
+
+Gene Smith \< <GRWhiskey@aol.com> \> inquires:
+
+I am new to this forum, and this question may well have been answered before: Has anyone had success converting the Guillow W.W.I biplanes to R/C? Is the 24" span too small for practical flying? I have the S.E.5 kit, and was considering either small gas or electric. Any tips on radios? Was thinking of the Hitec feather and 2 or 3 micro servos.
+
+Thanks, Gene Smith
+
+John Antonsen \< <janitors13@hotmail.com> \> sent:
+
+I wish to thank Stephen Polles for his prompt reply when I requested information about buying plans he had for several small planes. I had a reply within hours; fired off a cheque; and had the plans here in a very few days for a Junior Falcon.
+
+I flew many of these years ago, and found it a fun plane. As I lost Steve's e-mail address, I am posting my thank you to him here. It's great to see that there are still people you can trust; thank you again, Stephen.
+
+This airplane will be a bit overpowered, with an OS Max .10, but I've increased the wing chord and lengthened the fuselage. There's no dihedral, and the radio system is full house: throttle, rudder, aileron, and elevator. I have done this before, and the result is fully aerobatic, even at half throttle. Johnnie
+
+Larry Renger \< <larry_renger@earthlink.net> \> contributed:
+
+Since there has been a lot of discussion on the subject of single- channel flying, here is some input. One of the most fun rudder- only planes I have flown is still in production! It is the Mini Bell from Peck Polymers. A very nice kit, and one I flew with a Davis Diesel Converted C\*x Pee Wee .020 until disaster struck.
+
+One evening, after work, I was flying up a storm and suddenly the model spun in! No radio response (Ace pulse system that had been dead reliable previously). The problem turned out to be that the bale (a plastic loop) that picked up the stick motion and transmitted it to the resistive pot in the transmitter had broken, and the stick actuating end was outside of it, forcing it over to full rudder in one direction.
+
+Gloom. At least I still have the engine. And it is one of the most pleasant diesels I have EVER owned. This was one with the special Davis Crank and the head. It started well, ran well, had good tank duration; steady run through all maneuvers (you pretty much can only do positive-G maneuvers with R-O) and no signs of distress or wearing out. Somewhere I have a 2nd set of parts, and am going nuts trying to find what I did with them!!!
+
+Anyway, if you find a set of this stuff, grab it NOW or sooner. Fabric abrasions getting your wallet out are worth it. I probably shouldn't say any of this until I score another set on eBay. Oh, well.
+
+Anyhow, the Mini Bell is a lovely model, and I think it would be pure energy with a PAW 55 and 2 or 3 channels!
+
+Another route to go is my Little Snort design from Model Airplane News of 1969 or 1970 ish. It was an Aileron-only design with a fixed Vee tail. It flew great! Since I used a servo, there was no reason to limit the power to driving a rudder. I drove both ailerons on a flat shoulder wing, and had no other controls.
+
+The flight trim was just as you would expect for a single channel, a steady climb under power with enough downthrust to assure a nice glide power off. Unlike rudder-only models, the ailerons were powerful enough to roll the model from steady flight. The usual R-O tricks all worked, only better. Roll into a spiral for speed, level out, do a loop, then roll out to level flight.
+
+Of course you could design such a model easily today with almost any ARF. The Snort had a semi-symmetric airfoil, but full symmetrical would have worked perfectly well.
+
+BTW, the other most weird R/C failure I've suffered was the time the crystal fell out of my receiver in the middle of a loop. TS for a lovely C\*x RTF Fairchild. That was also a wonderful small-field plane.
+
+Now to current activities, I am flying a Saito 30 on a full-size Flite Streak. Great performance on 60' of solid .012 line. The interesting thing is that I am using a n APC electric prop! Not something to be approached casually, I assure you, as there is only one size I have found so far that will take the stress of running on a "wet" engine. That one is the 9 x 4.5 E. I still check it for stress before every flight. The other sizes will last just one run, then they show fatigue "whitening" and can be easily snapped apart by hand! Not good!
+
+However, the design of the props is the best on the market for slow-turning engines, and I have contacted the manufacturer encouraging them to investigate coming out with a line of 4-stroke props of this basic design, with a stronger hub.
+
+Next up, I have a Baby Clown UC model built from a modified Brodak kit (changed the looks to be closer to the actual PDQ kit I have). It weighs 4.3 ounces with an Atwood Shriek engine and a 1-ounce tank built into the forward fuselage. The tank is Uniflo and extends through the fuselage so that the Uniflo vent is exactly even with the needle valve. I have broken the engine in, and estimate that thrust is well over double the weight . I plan to fly with a 6x3 Top Flite nylon at first to keep as much authenticity as possible.
+
+Actually, the plane qualifies for Old Time, but the engine doesn't. But I am not about to put a Cub or K&B Infant on the plane if I can help it. I do have a Wasp .049 that is only 1000 rpm below the Atwood. Anyone know when the Wasp came out? I would love to have the entire plane "OT" equipped. Larry
+
+...Larry, the Wasp .049 first came out early in 1950; I think February. I know because Bob Holland walked into the Veco plant then and handed me four of the first Wasp engines made. I used them to good advantage! One went into the nose of my 1/2A "Scout" stunter: the first design kitted for Wasp power; and, I think, the first true stunt model kit for 1/2A power.
+
+Another of those first 4 Wasps made a perfect power plant for my Taylor Cub free flight flying scale model. Originally one of a trio of rubber-powered flying scale free flights (Veco's owner wanted to horn in on Berkeley's flying scale rubber market) the Cub was the only one with a slender enough fuselage to fly well with 1/2A power. (One won the Senior FF flying scale event at the AMA Nationals in 1951.)
+
+A third Wasp propelled one of the neatest 1/2A scale control- liners I've ever designed: a P-51D. Though lovely-looking and a joy to fly, we couldn't kit it. In 1950 Veco was still too small to be able to afford to provide the necessary molded bubble canopy and spinner for the little Mustang. (I'd made those parts for the prototype by hand.)
+
+The fourth Wasp went to Tommy Protheroe (for many years the proprietor of a model sailboat outfit in Santa Barbara, California, and still an active free flighter). Tommy put that Wasp in a pylon free flight contest model that Veco later kitted under the name of Navajo... \[JW\]
+
+Tim Storey \< <tstorey@micds.org> \> returns to the 1-channel topic:
+
+George Hostler's thoughts on "rudder-only" remind me that you can take a present 4 channel lightly loaded trainer type aircraft and fly it using many different control combinations. And it's a good idea to practice all of these combinations. More than once I have saved an airplane when a control surface has stopped responding or did not have enough throw.
+
+For example, with the right amount of elevator trim, you can even take off, fly around, and land, using just your left thumb (throttle and rudder). The right amount of elevator trim means that at low throttle the airplane is in a shallow descent; a little more throttle causes the plane to level out; and a little MORE throttle causes a slight climb.
+
+It takes practice, but it really brings your left thumb alive, and you learn that throttle really is a proportional control.
+
+Tim Storey
+
+Sam Brauer \< <sbrauer@bccresearch.com> \> wrote:
+
+With regard to Rus's question -- open-ended as it was:
+
+I think the idea of starting out in R/C with a slow flyer is not a bad one. For information on the electric scene, there is a nice virtual community at \< <http://www.ezonemag.com> \> -- most folks there are friendly and helpful.
+
+One airplane I've had a little personal experience with is the Lite Stik. No -- you don't get to build it, except for a few simple modifications; but it flies OK and recovers well from a dork.
+
+I don't think "stick" airplanes ever fly as well as their full- bodied brethren -- they just don't look right in a turn to me. Oh well, personal preference. Once you get tired of the Lite Stik you can use all the components in something like a Herr Scout, which will fly better, and you get to build.
+
+One comment -- having hung out at Lake Hopatcong in the summer occasionally for a regatta, I can well appreciate the lack of wind around the lake. If you're going the slowflier route, wind is deadly. You want to fly in conditions where the sailors are cursing. The 2-meter sailplane will be much more tolerant of even a little breeze.
+
+On a completely separate note:
+
+Klarich Kits now has something of a website:
+
+\< <http://www.harryklarich.virtualempire.com/> \>
+
+I need a replacement for my 70% Buzzard Bombshell. Should be a similar size, around 400 squares and weigh in at 25-30 ounces. I'm looking for something that flies well with lots of stability, some thermal ability, and a certain aesthetic. (I like things like a Cumulus, Mercury, etc.) I'm considering things like a Buccaneer B Special, Coronet (at 54"), or maybe a Sailplane or a Clipper -- are you going to argue with the wing on those planes?
+
+Spare me an "Answer" -- I've already tangled with a Ben Buckle Super Skorpion. I'm lazy, so a kit or semi-kit is preferable -- but no ARFs.
+
+The last Posting's mention of rudder-only stuff got me thinking. Anybody have a 20-24" kit of something like the TF Schoolboy that they'd like to unload? I'm thinking Astro 010 direct drive at around 11-14 or so ounces -- should be somewhat sturdy -- relatively easy to fly and transport. I want something a little more relaxing than my Wren. Fred Reese designed something cute for a TD 020 which was kitted by Ace; haven't found one. Me being me, a built-up wing is preferable to foam.
+
+Thanks all, Sam Brauer Stamford, Connecticut
+
+Bernard E. Cawley \< <bernard.e.cawley@Boeing.com> \> adds:
+
+In response to Rus Hardin's questions about slow flyers and wooden airplanes, I offer this:
+
+Yes, a slowflyer is a great way to learn to fly R/C, as long as you have access to a large indoor space, or the air where you live is calm at least some of the time .
+
+An alternative to the Great Planes BLT that is probably a better airplane, and which comes from a small company run by one enthusiastic modeler is the Mountain Models "DuskStik". It is all laser-cut, and designed around the same power and radio equipment used in the Lite Stik/Pico Stick planes that are widely available. It is also more rugged than a Lite Stik.
+
+Information can be found on their web site, which is, not surprisingly, \< <http://www.mountainmodels.com> \>. Doug can set you up with a complete outfit (except possibly a transmitter) if needed.
+
+On the pink vs. blue foam question:
+
+My understanding, based on a little looking in home improvement stores, some limited use of the materials myself, and reading the responses to this very same question on the Ezone discussion boards and Eflight mailing list is this: Both pink and blue (and the rarer gray) foam are expanded polystyrene foams, and the sheets are made by extruding the material. The major difference seems to be that Dow Chemical makes the blue stuff and Owens Corning makes the pink stuff, though some have said that both are available in different densities. My own limited experience shows them to be very similar and interchangeable in application.
+
+Bernard Cawley Auburn, Washington USA
+
+Mike Nicewonger \< <twmaster@twmaster.com> \> has some questions:
+
+I've rediscovered the joys of flying model aircraft again after a long absence from the hobby. I live near Washington DC and I am in the Internet/Computer industry.
+
+I recently acquired a pair of new 1985 vintage Telco CO2 motors. One with a model 3000 Turbo Tank, and another with a separate tank and fill fitting.
+
+I have searched the web and see that Telco is long gone, so there is little in the way of documentation available. Can anybody tell me what other CO2 motors these compare to in performance or size/weight of airframe suitable?
+
+Regarding fill fittings, what measurement is used to determine the size, i.e. 1mm or 2mm. Is the aperture of the fill fitting on the motor or the fill nozzle on the charger?
+
+Also, what kind of oil to lube this with?
+
+Regards, Mike N
+
+...Mike, forget the TurboTank Telco -- just use its motor portion as a spare. Reason: the dagnab tank is PLASTIC ! One exploded in my hand during test filling, and tore a dime-sized chunk of skin & flesh loose.
+
+The Telco's main weakness is its plastic piston. Some kinds of oil, such as 3-in-1, will soften the plastic & make it swell. Singer sewing machine oil seems to be OK; there may be others but Singer's oil works.
+
+Telco motors have a tendency for the piston pin to slowly mush- room over from the repeated impacts against the head valve ball. I tried cutting the plastic pin off and replacing that with a \#0-80 screw stub, inserted in a tapped hole where the original pin was. I must have messed up somehow, 'cos the piston was quite draggy when I put it back into the motor.
+
+The "new generation" Gasparins are far and away the best CO2 motors ever made -- for power output, duration, long life, and sheer ruggedness. A close equivalent to the Telco in size is Gasparin's G-28. That's available in several models, including one with double ball bearings! Some of them have built-in speed control throttles for R/C use.
+
+<span id="571">Source: CO2, Gasparin\
+</span> Contact Roy Hanson, Blacksheep treasurer: 21410 Nashville Street, Chatsworth, California 91311 --- (213) 747-7514 (days) -- or (818) 718-1685 (24-hour answering machine).
+
+The Blacksheep club is much like SMALL, promotes aero- modeling to southern California's youth -- and derives much of its operating revenue from sales of CO2 motors and accessories. This is a great group -- it has to be: I belong; so does Larry Renger and Carlo Godel. (Otto Kuhni too, come to think of it.)
+
+...Good grief, look at the TIME !!! I started work on this Posting at 10 PM. Here it is almost 5 AM! Editing these things -- and looking up data for answering inquirer's queries -- sure gobbles up the hours! \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

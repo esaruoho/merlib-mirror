@@ -1,0 +1,91 @@
+
+a) TRADE: Dallas traded the rights to #15 Kelvin Cato to Portland for the
+rights to #18 Chris Anstey and monetary considerations.
+
+b) TRADE: Milwaukee traded Johnny Newman, Joe Wolf, and the rights to #10
+Danny Fortson to Denver for Ervin Johnson.
+
+c) TRADE: Philadelphia traded the rights to #37 James Collins to the LA
+Clippers for a 2nd round pick in 1998.
+
+d) TRADE: Denver traded the rights to #42 Jason Lawson to Orlando for #47
+Eric Washington and a 1999 2nd round pick.
+
+e) TRADE: Vancouver traded the rights to #53 C.J. Bruton to Portland for
+monetary considerations.
+
+f) TRADE: New Jersey traded Jim Jackson, Eric Montross, the rights to #7
+Tim Thomas, and the rights to #21 Anthony Parker to Philadelphia for 
+Lucious Harris, Michael Cage, Don MacLean, and the rights to #2 Keith Van
+Horn.
+
+g) TRADE: Seattle traded the rights to #23 draft pick Bobby Jackson to 
+Denver for the rights to #33 James Cotton and Denver's 1998 second round 
+draft pick.
+
+First Round
+#   Team Player               Pos Hgt  Wgt   B-day   College
+1   SA   Tim Duncan .........  C  6-10 238  4/25/76  Wake Forest'97       
+2  fNJ   Keith Van Horn .....  F  6-10 220 10/23/75  Utah'97              
+3   Bos  Chauncey Billups ...  G  6-3  202  9/25/76  Colorado'99          
+4   Van  Antonio Daniels ....  G  6-4  195  3/19/75  Bowling Green'97     
+5   Den  Tony Battie ........  C  6-11 230  2/11/76  Texas Tech'98        
+6   Bos  Ron Mercer ......... G-F 6-7  210  5/18/76  Kentucky'99          
+7  fPhi  Tim Thomas .........  F  6-9  230  2/26/77  Villanova'00         
+8   GS   Adonal Foyle .......  C  6-10 250   3/9/75  Colgate'98           
+9   Tor  Tracy McGrady ......  F  6-8  210  5/24/79  Mt Zion Christian Aca
+10 bMil  Danny Fortson ......  F  6-7  260  3/27/76  Cincinnati'98        
+11  Sac  Olivier Saint-Jean .  F  6-6  223  11/3/74  San Jose State'98    
+12  Ind  Austin Croshere ....  F  6-9  235   5/1/75  Providence'97        
+13  Cle  Derek Anderson .....  G  6-5  195  7/18/74  Kentucky'97          
+14  LAC  Maurice Taylor .....  F  6-9  250 10/30/76  Michigan'98          
+15 aPor  Kelvin Cato ........  C  6-11 255  8/26/74  Iowa State'97        
+16  Cle  Brevin Knight ......  G  5-10 173  11/8/75  Stanford'97          
+17  Orl  Johnny Taylor ......  F  6-9  220   6/4/74  Tenn-Chattanooga'97  
+18 aDal  Chris Anstey .......  C  7-0  249   1/1/75  Australia            
+19  Det  Scot Pollard .......  C  6-11 265  2/12/75  Kansas'97            
+20  Min  Paul Grant .........  C  7-0  245   1/6/74  Wisconsin'97         
+21 fPhi  Anthony Parker .....  G  6-6  215  6/19/75  Bradley'97           
+22  Atl  Ed Gray ............  G  6-3  210  9/27/75  California'97        
+23 gDen  Bobby Jackson ......  G  6-1  185  3/13/73  Minnesota'97         
+24  Hou  Rodrick Rhodes ..... G-F 6-6  225  9/24/73  Southern Cal'97      
+25  NY   John Thomas ........  F  6-9  275   9/8/75  Minnesota'97         
+26  Mia  Charles Smith ......  G  6-4  194  8/22/75  New Mexico'97        
+27  Uta  Jacque Vaughn ......  G  6-1  195  2/11/75  Kansas'97            
+28  Chi  Keith Booth ........  F  6-6  226  10/9/74  Maryland'97          
+
+[Washington lost their 1st round draft pick due to last summer's Juwan
+Howard mess.]
+
+Second Round
+#   Team Player               Pos Hgt  Wgt   B-day   College
+30  Hou  Serge Zwikker ......  C  7-3  273  4/28/73  North Carolina'97    
+31  Mia  Mark Sanford .......  F  6-9  210   2/7/76  Washington'97        
+32  Det  Charles O'Bannon ...  F  6-5  209  2/22/75  UCLA'97              
+33 gSea  James Cotton .......  G  6-5  220 12/14/75  Long Beach State'97  
+34  Phi  Marco Milic ........ G-F 6-6  235   5/5/77  Slovenia             
+35  Dal  Bubba Wells ........  F  6-5  230  7/26/74  Austin Peay'97       
+36  Phi  Kebu Stewart .......  F  6-8  239 12/19/73  Cal St-Bakersfield'97
+37 cLAC  James Collins ......  G  6-4  196  11/5/73  Florida State'97     
+38  GS   Marc Jackson .......  C  6-10 270  1/16/75  Temple'97            
+39  Mil  Jerald Honeycutt ...  F  6-9  245 10/20/74  Tulane'97            
+40  Sac  Anthony Johnson ....  G  6-3  190 10/10/74  Charleston'97        
+41  Sea  Eddie Elisma ....... C-F 6-9  213   3/9/75  Georgia Tech'97      
+42 dOrl  Jason Lawson .......  C  6-11 240   9/2/74  Villanova'97         
+43  Pho  Stephen Jackson ....  G  6-8  218   4/5/78  Buttle CC            
+44  Min  Gordon Malone ......  F  6-11 215  7/17/74  West Virginia'98     
+45  Cle  Cedric Henderson ...  F  6-7  215  3/11/75  Memphis'97           
+46  Was  God Shammgod .......  G  6-0  169  4/29/76  Providence'99        
+47 dDen  Eric Washington ....  G  6-4  190  3/23/74  Alabama'97           
+48  Por  Alvin Williams .....  G  6-5  185   8/6/74  Villanova'97         
+49  Was  Predrag Drobnjak ...  F  6-10 265 10/??/75  Yugoslavia           
+50  Atl  Alain Digbeu .......  G  6-5  192 11/13/75  France               
+51  Atl  Chris Crawford .....  F  6-9  235  5/13/75  Marquette'97         
+52  LAL  DeJuan Wheat .......  G  6-0  165 10/14/73  Louisville'97        
+53 ePor  C.J. Bruton ........  G  6-2  170 12/13/75  Indian Hills (IA)'99 
+54  LAL  Paul Rogers ........  C  7-0  238  9/29/73  Gonzaga'97           
+55  Sea  Mark Blount ........  C  7-0  230 11/30/75  Pittsburgh'99        
+56  Bos  Ben Pepper .........  C  7-0  228  7/15/75  Australia            
+57  Uta  Nate Erdmann .......  G  6-5  195 11/21/73  Oklahoma'97          
+58  Chi  Roberto Duenas .....  C  7-2  270  11/1/75  Spain                
+

@@ -1,0 +1,97 @@
+Cue-Before - Cascading Style Sheets Properties 
+
+ cue-before 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ The 'cue' family of properties allows the attachment of key sounds (or
+ "Auditory Icons" as the CSS spec refers to them) to elements.
+ This allows an author to add distinguishing characteristics to semantic
+ elements. This property specifically references a sound to be played
+ before the element has been aurally rendered. If loading of a URL fails,
+ nothing should be played, but if the system does not have the ability
+ to play it, the spec says the system should try to use some 
+ sort of cue (audio, visual or other.)
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Play no sound before the element. 
+
+ [URL] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Indicates the URL of a sound file to be played before the element. If
+ loading of the indicated URL fails no sound will be played. If the
+ referenced resource is not a sound file, it should be ignored and
+ the property should be treated as if the value were set to 'none.' 
+
+ Example 
+ Ext/Doc: strong {
+ cue-before: url(orchestralsneeze.wav) } 
+ In-Line:&#160; < strong 
+ STYLE =" cue-before: 
+ url(orchestralsneeze.wav)">text</ strong > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

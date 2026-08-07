@@ -1,0 +1,31 @@
+all_fan_clutch 
+
+ UnofficialBMW.com 
+[an error occurred while processing this directive]
+
+ From digest.v7.n1856 Wed Jun 10 15:47:14 1998 
+From: "Steve D'Gerolamo" <steved3@idt.net> 
+Date: Wed, 10 Jun 1998 13:39:10 -0400 
+Subject: Fan Clutch 
+
+ From: Gary Hutchison <sasghk@unx.sas.com> 
+Date: Wed, 10 Jun 1998 09:19:02 -0400 (EDT) 
+Subject: <E34> Coolant fan clutch 
+Is it normal to be able to stop the coolant fan by hand at any engine 
+operating temperature? I can stop the fan and even race the engine 
+while holding the fan. Does this indicate a worn fan clutch? Does 
+anyone out there have a used (working) clutch they are willing to part 
+with?
+
+'90 535i (HOT version)
+
+ You can stop the fan clutch when its cold with your hands but once it
+heats up and grabs, it can be a little painful to do so if its in good
+working condition. You'll hear the fan noise change pitch when it starts
+to grab and you should be able to feel the air movement about 24" from the
+clutch. If you're replacing these, I'd recommend the Behr over the Sachs
+fan clutches. I've had fewer problems with Behr and they are the brand
+used by the factory. Sd
+
+Steve D'Gerolamo - The Ultimate Garage 
+201-262-0412 / steved3@idt.net / http://www.ultimategarage.com

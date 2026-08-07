@@ -1,0 +1,363 @@
+Statisticians Notes 
+
+ Notes for 2000/2001 Pulls 49 - 66 
+ Ronald E. Bowser 
+ Pulls 49 thru 66 
+ Ronald E. Bowser 
+ 3 
+ 149 
+ 1996-03-21T09:28:00Z 
+ 2001-02-19T08:51:00Z 
+ 2001-02-19T08:51:00Z 
+ 2 
+ 770 
+ 4390 
+ IWPA 
+ 23040 
+ 36 
+ 8 
+ 5391 
+ 9.4402 
+
+ Print 
+ 0 
+ 0 
+
+ Statisticians Notes 
+
+ (Pulls 49 thru
+66) 
+ SAVEDATE \@ "d MMMM, yyyy" \*
+MERGEFORMAT 19 February,
+2001 
+
+ Puzzles 
+
+ Sly & Sly
+Guy 
+(R9) These seem to be the same dog. 
+ And, there is confusion on the owner Jim Walters or Janis Guetzmacher. 
+
+ Requested Changes 
+
+ Hank owned by Bruce Schrom in region 5. Changed breed to American Bulldog. 
+
+ Lady Charm changed
+owner from Gary Smith to Lee Smith (same membership) as requested through Debi
+Pruznik. 
+
+ Georgia According
+to Karen James , ownership changed from Rick Williams to John Lucero . Only pull under Rick was 51, so set
+provisional in pull 51 according to reset points for new owner. John first handled Georgia at pull 63. 
+
+ E R R O R S 
+
+ Pull 56,
+Leavenworth WA 
+
+ 100#
+class. Dog weight given on the Finish
+Report was the region number. I took
+the weight from the preceding day. 
+ There were only 3 dogs. 
+
+ Pull 63,
+Greeley, CO 
+
+ 80#
+class. 4 th and 5 th 
+place dogs are in the wrong order if the numbers are correct. I will double-check. 
+
+ Doug Marrero and Ed Higgins 
+
+ At the
+Pymatuning pull, it was noted on several dogs that Ed Higgins was handling for
+Doug Marrero. I noticed that Doug also
+had dogs by the same name. I inquired
+via Debi Pruznik if these dogs were the same and if she could determine the
+real owner. She talked with Doug and
+indicates all the dogs are Dougs. 
+
+ The list below
+shows all the occurrences where Ed handled for Doug and it was not noted that the
+owner was Doug. Not knowing they were
+Dougs dogs, I created a new dog under Eds name. 
+
+ This is why it is important to indicate the owner of the dog
+when someone else is handling. 
+
+ I have set the
+following to Dougs dog with Ed being the handler. I then deleted these dogs under Eds name. 
+
+ DogName 
+
+ Pull 
+
+ Date 
+
+ Score 
+
+ Blue 
+
+ 3 
+
+ 09-Sep-00 
+
+ P 
+
+ Blue 
+
+ 4 
+
+ 10-Sep-00 
+
+ P 
+
+ Blue 
+
+ 20 
+
+ 22-Oct-00 
+
+ 17.00 
+
+ Chief 
+
+ 34 
+
+ 11-Nov-00 
+
+ 2.00 
+
+ Chief 
+
+ 35 
+
+ 12-Nov-00 
+
+ 3.00 
+
+ Chief 
+
+ 41 
+
+ 02-Dec-00 
+
+ 6.00 
+
+ Chief 
+
+ 42 
+
+ 03-Dec-00 
+
+ 3.00 
+
+ Missy 
+
+ 19 
+
+ 21-Oct-00 
+
+ 11.00 
+
+ Missy 
+
+ 20 
+
+ 22-Oct-00 
+
+ 14.00 
+
+ Missy 
+
+ 41 
+
+ 02-Dec-00 
+
+ 2.00 
+
+ Missy 
+
+ 42 
+
+ 03-Dec-00 
+
+ 3.00 
+
+ Saint 
+
+ 3 
+
+ 09-Sep-00 
+
+ P 
+
+ Saint 
+
+ 4 
+
+ 10-Sep-00 
+
+ P 
+
+ Saint 
+
+ 19 
+
+ 21-Oct-00 
+
+ 5.00 
+
+ Saint 
+
+ 34 
+
+ 11-Nov-00 
+
+ 1.00 
+
+ Saint 
+
+ 35 
+
+ 12-Nov-00 
+
+ 4.00 
+
+ Spot 
+
+ 19 
+
+ 21-Oct-00 
+
+ 2.00 
+
+ Spot 
+
+ 20 
+
+ 22-Oct-00 
+
+ 8.00 
+
+ Spot 
+
+ 34 
+
+ 11-Nov-00 
+
+ 7.00 
+
+ Spot 
+
+ 35 
+
+ 12-Nov-00 
+
+ 6.00 
+
+ Spot 
+
+ 41 
+
+ 02-Dec-00 
+
+ 3.00 
+
+ Spot 
+
+ 42 
+
+ 03-Dec-00 
+
+ 11.00 
+
+ Name
+Assumptions 
+
+ For the
+following entries, the name spelling ( bold )
+used is that in the database. Listed is
+the pull number and how the name was spelled on the pull sheet ( underlined ). 
+
+ Irish Rose pulls 49 & 50, Newport News,. Rosie 
+
+ Assumptions 
+
+ Reba Region 7,
+handled by Stephanie Coleman at Newport News Pull. Assuming Todd Pedersons dog, since he had already handled two
+dogs and the Colemans hadnt previously declared a Reba. 
+ Later learned Reba had been sold to the Colemans, then reverted back to the
+Pedersons. Because of the ownership
+change, points are to be set to zero. 
+ The two pulls by the Colemans have been set provisional. 
+
+ MEMBERSHIP ISSUES 
+
+ Instead of just assuming
+memberships, I am carrying this as a reminder that we have some issues to
+resolve. If you are on this as a
+membership not assumed, besides not acquiring pull points, you are probably
+not getting the newsletter either 
+
+ New Issues 
+
+ Memberships Not Assumed 
+
+ The following
+were marked as members on the organizer's report. Membership has no record and the individuals are assumed
+Provisional until confirmation. Their pulls will become valid if membership
+records their join date as on or before the pulls in question. 
+
+ Andy Gingery handled Titi and Jackie 
+for Daryl Spauldin at the National Western Dog Pull in Denver on 13
+Jan. Andy was marked as a member, but
+membership has no record as of 8 Feb., and no indication on the financial
+report that he joined at the pull. Unfortunately,
+ Titis effort (came in 1 st - would have been 9 points in R4
+35#) will be marked as provisional. 
+
+ Toni Beniger Marked as a member at the Leavenworth
+Pull, but membership has no entry for her and she did not appear to join at the
+pull. She has pulled provisionally in
+the past. 
+
+ Tracy Brant-Cornell Showed as a member at the
+Ticonderoga pull, but membership does not show her & Ron Cornell rejoining
+this season, and the financial report does not show her joining at the
+pull. Entered as provisional. 
+
+ Resolved 
+
+ Unassumed that were Confirmed as
+Members 
+
+ Gabe Casas Listed as a member at the Greeley
+Thanksgiving Pull. He was not a member
+at that pull, but he did later join Jan 13 th . For any pulls before Jan 13 th , he
+will be provisional. On, or after Jan
+13 th , he will be a qualified member. 
+
+ Assumed
+Members Confirmed 
+
+ Brock Verworn Gail Verworn upgraded her
+membership to family at the Missoula Pull 2 Dec so that her son Brock 
+could handle. 
+
+ David Heffelfinger Listed as a member at Frackville on
+11-12 November 2000, but not in membership database, nor shown as joining at
+the pull. After inquiry, found out he Replaces
+ Ron McAlvage in the Kehler membership . Assuming pulls by David are under the
+Kehler membership, and past (but not future) pulls by Ron are still under the
+Kehler membership. ( Membership concurs; however, this kind of situation will
+be discussed at The Board meeting ) 
+
+ Dropped 
+
+ Membership Not Confirmed 
+
+ Robert Edwards Listed as a member at Frackville on
+11 November 2000, but not in membership database, nor shown as joining at the
+pull. left Provisional.

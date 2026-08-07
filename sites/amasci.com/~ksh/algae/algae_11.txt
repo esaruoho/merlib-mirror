@@ -1,0 +1,251 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Function Index 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ Function Index 
+
+ Jump to: A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ Z 
+
+ Index Entry Section 
+
+ A 
+ abs 6.1 Basic Math 
+ acos 6.1 Basic Math 
+ acosh 6.1 Basic Math 
+ all 6.10 Miscellaneous 
+ arg 6.1 Basic Math 
+ asin 6.1 Basic Math 
+ asinh 6.1 Basic Math 
+ atan 6.1 Basic Math 
+ atan2 6.1 Basic Math 
+ atanh 6.1 Basic Math 
+ atof 6.10 Miscellaneous 
+ autosrc 6.8 Execution 
+
+ B 
+ backsub 6.4 Linear Algebra 
+ band 6.2 Arrays 
+ bdiag 6.2 Arrays 
+ brent 6.5 Numerical Analysis 
+ btrans 6.2 Arrays 
+ builtin 6.8 Execution 
+
+ C 
+ cd 6.8 Execution 
+ ceil 6.1 Basic Math 
+ char 6.10 Miscellaneous 
+ chol 6.4 Linear Algebra 
+ class 6.10 Miscellaneous 
+ close 6.6 Basic I/O 
+ combine 6.2 Arrays 
+ complement 6.3 Sets 
+ conj 6.1 Basic Math 
+ cos 6.1 Basic Math 
+ cosh 6.1 Basic Math 
+ cram 6.2 Arrays 
+
+ D 
+ dense 6.2 Arrays 
+ diag 6.2 Arrays 
+ dice 6.2 Arrays 
+ diff 6.2 Arrays 
+ digits 6.6 Basic I/O 
+
+ E 
+ eig 6.4 Linear Algebra 
+ equal 6.10 Miscellaneous 
+ equilibrate 6.4 Linear Algebra 
+ eval 6.8 Execution 
+ exception 6.8 Execution 
+ exec 6.8 Execution 
+ exit 6.8 Execution 
+ exp 6.1 Basic Math 
+ exsparse 6.2 Arrays 
+
+ F 
+ factor 6.4 Linear Algebra 
+ fft 6.4 Linear Algebra 
+ file 6.8 Execution 
+ fill 6.2 Arrays 
+ filter 6.4 Linear Algebra 
+ find 6.2 Arrays 
+ first 6.2 Arrays 
+ floor 6.1 Basic Math 
+ form 6.2 Arrays 
+ fprintf 6.6 Basic I/O 
+ fread 6.6 Basic I/O 
+ full 6.2 Arrays 
+ fwrite 6.6 Basic I/O 
+
+ G 
+ get 6.7 Entity I/O 
+ get_path 6.8 Execution 
+ getdyn 6.7 Entity I/O 
+ getenv 6.8 Execution 
+ getmat 6.7 Entity I/O 
+ gpskca 6.2 Arrays 
+ grep 6.2 Arrays 
+
+ H 
+ hermitian 6.2 Arrays 
+
+ I 
+ ident 6.2 Arrays 
+ ifft 6.4 Linear Algebra 
+ imag 6.1 Basic Math 
+ imax 6.2 Arrays 
+ imin 6.2 Arrays 
+ info 6.10 Miscellaneous 
+ integer 6.1 Basic Math 
+ intersection 6.3 Sets 
+ inv 6.4 Linear Algebra 
+ isort 6.2 Arrays 
+
+ L 
+ label 6.2 Arrays 
+ last 6.2 Arrays 
+ leastsq 6.4 Linear Algebra 
+ line 6.8 Execution 
+ linspace 6.2 Arrays 
+ load 6.7 Entity I/O 
+ log 6.1 Basic Math 
+ log10 6.1 Basic Math 
+ logspace 6.2 Arrays 
+ lose 6.2 Arrays 
+
+ M 
+ magic 6.2 Arrays 
+ matrix 6.2 Arrays 
+ max 6.2 Arrays 
+ members 6.10 Miscellaneous 
+ merge 6.2 Arrays 
+ message 6.6 Basic I/O 
+ min 6.2 Arrays 
+ mksparse 6.2 Arrays 
+ monte 6.5 Numerical Analysis 
+
+ N 
+ norm 6.2 Arrays 
+ npsol 6.9 Special Tools 
+
+ O 
+ ode4 6.5 Numerical Analysis 
+
+ P 
+ pick 6.2 Arrays 
+ plot 6.9 Special Tools 
+ print 6.6 Basic I/O 
+ printf 6.6 Basic I/O 
+ product 6.2 Arrays 
+ prof 6.10 Miscellaneous 
+ provide 6.8 Execution 
+ put 6.7 Entity I/O 
+ putdyn 6.7 Entity I/O 
+ putmat 6.7 Entity I/O 
+
+ Jump to: A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ Z 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

@@ -1,0 +1,156 @@
+<html>
+<head>
+<title>RuneQuest on the Web</title>
+<bgsound src="song.mid" loop=-1>
+</head>
+<body BGCOLOR="#000000" BACKGROUND="back_options.jpg" TEXT="#FFFFFF" vlink="#FFFF00" alink="#0000FF">
+
+<script language="JavaScript">
+browserName=navigator.appName;
+browserVer=parseInt(navigator.appVersion);
+if(browserVer >=3)
+	version="3";
+else
+	version="2";
+if (version=="3")
+{
+button_rune0_on=new Image(35,36);
+button_rune0_on.src="man_sm.gif";
+button_rune0_off=new Image(35,36);
+button_rune0_off.src="blank_sm.gif";
+
+button_rune1_on=new Image(35,36);
+button_rune1_on.src="spirit_s.gif";
+button_rune1_off=new Image(35,36);
+button_rune1_off.src="blank_sm.gif";
+
+button_rune2_on=new Image(35,36);
+button_rune2_on.src="ilusn_sm.gif";
+button_rune2_off=new Image(35,36);
+button_rune2_off.src="blank_sm.gif";
+
+button_rune3_on=new Image(35,36);
+button_rune3_on.src="beast_sm.gif";
+button_rune3_off=new Image(35,36);
+button_rune3_off.src="blank_sm.gif";
+
+header_rune4_on=new Image(35,36);
+header_rune4_on.src="magic_sm.gif";
+header_rune4_off=new Image(35,36);
+header_rune4_off.src="blank_sm.gif";
+
+header_rune5_on=new Image(35,36);
+header_rune5_on.src="harmy_sm.gif";
+header_rune5_off=new Image(35,36);
+header_rune5_off.src="blank_sm.gif";
+
+button_rune6_on=new Image(35,36);
+button_rune6_on.src="truth_sm.gif";
+button_rune6_off=new Image(35,36);
+button_rune6_off.src="blank_sm.gif";
+
+button_rune7_on=new Image(35,36);
+button_rune7_on.src="plant_sm.gif";
+button_rune7_off=new Image(35,36);
+button_rune7_off.src="blank_sm.gif";
+
+button_rune8_on=new Image(35,36);
+button_rune8_on.src="motin_sm.gif";
+button_rune8_off=new Image(35,36);
+button_rune8_off.src="blank_sm.gif";
+
+button_rune9_on=new Image(35,36);
+button_rune9_on.src="law_sm.gif";
+button_rune9_off=new Image(35,36);
+button_rune9_off.src="blank_sm.gif";
+
+button_runeA_on=new Image(35,36);
+button_runeA_on.src="chaos_sm.gif";
+button_runeA_off=new Image(35,36);
+button_runeA_off.src="blank_sm.gif";
+
+}
+
+function rollIn(imgName)
+{
+	if (version=="3")
+	{
+		document[imgName].src=eval(imgName + "on.src");
+	}
+}
+
+function rollOut(imgName)
+{
+	if (version=="3")
+	{
+		document[imgName].src=eval(imgName + "off.src");
+	}
+}
+// -->
+</script>
+<br>
+<A HREF = "rqwelcome.htm" TARGET="Main"
+                onMouseover = "rollIn('button_rune0_')"  
+		onMouseout = "rollOut('button_rune0_')"><IMG BORDER = 0 NAME ="button_rune0_" SRC = "blank_sm.gif" align=center><b>What's RQ?</b></A>		
+<b>		
+<BR>
+<A HREF = "rqnews.htm" TARGET="Main"
+            onMouseover = "rollIn('button_rune9_')"  
+		onMouseout = "rollOut('button_rune9_')">
+		<IMG BORDER = 0 NAME ="button_rune9_" SRC = "blank_sm.gif" align=center>RQ News</A>
+<BR>
+<A HREF = "rqcults.htm" TARGET="Main"
+            onMouseover = "rollIn('button_rune1_')"  
+		onMouseout = "rollOut('button_rune1_')">
+            <IMG BORDER = 0 NAME ="button_rune1_" SRC = "blank_sm.gif" align=center width="35" height="36">Other Cults</A>		
+<BR>
+<A HREF = "rqspells.htm"  TARGET="Main"
+		onMouseover = "rollIn('button_rune2_')"  
+		onMouseout = "rollOut('button_rune2_')">
+		<IMG BORDER = 0 NAME ="button_rune2_" SRC = "blank_sm.gif" align=center>Spells</A>
+<br>
+<A HREF = "rqcreat.htm"  TARGET="Main"
+		onMouseover = "rollIn('button_rune3_')"  
+		onMouseout = "rollOut('button_rune3_')">
+		<IMG BORDER = 0 NAME ="button_rune3_" SRC = "blank_sm.gif" align=center>Beasts</A>
+<BR>
+<A HREF = "rqtreas.htm"  TARGET="Main"
+		onMouseover = "rollIn('header_rune4_')"  
+		onMouseout = "rollOut('header_rune4_')">
+		<IMG BORDER = 0 NAME ="header_rune4_" SRC = "blank_sm.gif" align=center>Plunder</A>
+<br>		
+<A HREF = "rqextras.htm"  TARGET="Main"
+		onMouseover = "rollIn('header_rune5_')"  
+		onMouseout = "rollOut('header_rune5_')">
+		<IMG BORDER = 0 NAME ="header_rune5_" SRC = "blank_sm.gif" align=center>Extras</A>
+<br>		
+<A HREF = "rqcult_main.htm"  TARGET="Main"
+		onMouseover = "rollIn('button_rune6_')"  
+		onMouseout = "rollOut('button_rune6_')">
+		<IMG BORDER = 0 NAME ="button_rune6_" SRC = "blank_sm.gif" align=center>Norse!</A>
+<br>		
+<A HREF = "forestmain.htm"  TARGET="Main"
+		onMouseover = "rollIn('button_rune7_')"  
+		onMouseout = "rollOut('button_rune7_')">
+		<IMG BORDER = 0 NAME ="button_rune7_" SRC = "blank_sm.gif" align=center>Campaigns</A>
+<br>		
+<A HREF = "rqdownloads.htm"  TARGET="Main"
+		onMouseover = "rollIn('button_runeA_')"  
+		onMouseout = "rollOut('button_runeA_')">
+		<IMG BORDER = 0 NAME ="button_runeA_" SRC = "blank_sm.gif" align=center>Downloads</A>
+</b>
+<br>
+<center>
+<hr>
+<A HREF = "rqmain.htm"  TARGET="Main"
+	      onMouseover = "rollIn('button_rune8_')"  
+		onMouseout = "rollOut('button_rune8_')">
+		<IMG BORDER = 0 NAME ="button_rune8_" SRC = "blank_sm.gif" align=center></A><br>
+		Back Home
+<hr>
+
+<table background="http://www.rpggateway.com/images/bckgr03.jpg" border=1 bordercolor="#E4CC99" cellspacing="2" cellpadding="0" height="240" width="120"><tr valign="top"><td align="center"><p style="font: 8pt Arial"><form action="http://www.rpggateway.com/cgi-bin/wyrm/rate.cgi" target="_top" method="POST"><a href="http://www.rpggateway.com/Ratings/" target="_top"><font color=black><IMG SRC="http://www.rpggateway.com/images/vote120x90.gif" alt="RPG,D&D Library" height="90" width="120" hspace=0 vspace=0 border=0 align="top"></a><br><br>Rate this site between one and five stars, where five stars is an absolute <nobr>"Must See"</nobr> web site that no one should miss and one star is a <nobr>"Don't bother."</nobr><br><br><input type=hidden name="ID" value="7240"><select name=rate style="font: 8pt Arial"><option value=""><option value="1">1 - Don't Bother<option value="2">2 - Might be Useful<option value="3">3 - Interesting<option value="4">4 - Try to Get There<option value="5">5 - Don't Miss!</select><br><input type=submit value="Rate this Link" style="font: bold 8pt Arial"></p></td></tr></table>
+
+</center>
+</body>
+</html>

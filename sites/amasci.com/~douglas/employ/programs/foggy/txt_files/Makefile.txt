@@ -1,0 +1,39 @@
+all: unique_id.o errors.o time_slot.o main.o reservations.o \
+     aircraft.o fleet.o html.o data_file.o cgi_data.o
+	c++ -g unique_id.o errors.o time_slot.o main.o reservations.o \
+            aircraft.o fleet.o html.o data_file.o cgi_data.o -o foggy.cgi
+
+clean:
+	rm -f *.o foggy.cgi
+
+main.o: main.C unique_id.h time_slot.h reservations.h aircraft.h fleet.h \
+        html.h data_file.h main.h main_private.h
+	c++ -g -c main.C
+
+unique_id.o: unique_id.C unique_id.h errors.h
+	c++ -g -c unique_id.C
+
+errors.o: errors.C errors.h
+	c++ -g -c errors.C
+
+time_slot.o: time_slot.C time_slot.h errors.h debug.h
+	c++ -g -c time_slot.C
+
+reservations.o: reservations.C reservations.h time_slot.h errors.h debug.h
+	c++ -g -c reservations.C
+
+aircraft.o: aircraft.C aircraft.h reservations.h time_slot.h
+	c++ -g -c aircraft.C
+
+fleet.o: fleet.C fleet.h aircraft.h reservations.h time_slot.h errors.h
+	c++ -g -c fleet.C
+
+data_file.o: data_file.C errors.h time_slot.h reservations.h aircraft.h \
+             aircraft.h fleet.h data_file.h
+	c++ -g -c data_file.C
+
+html.o: html.C html.h
+	c++ -g -c html.C
+
+cgi_data.o: cgi_data.C cgi_data.h
+	c++ -g -c cgi_data.C

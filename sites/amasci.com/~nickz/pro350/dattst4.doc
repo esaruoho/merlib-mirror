@@ -1,0 +1,94 @@
+PDP-11 and Pro 300 series Fortran IV and Fortran-77 Year 2000 compliance
+========================================================================
+
+DATTST4 is a program to check the Y2K compliance of RT-11 or RSX Fortran-77;
+it is written for RSX but can be used for RT-11 if one links it with a dummy
+GETTIM routine:
+
+  gettim::
+    rts pc
+    .end
+
+or if one just comments (or "D"'s) out the gettim call.  DATE4 is not in
+F77 V5 but might be in new Y2K compliant versions sold by Mentec.  In any
+case, the f77y2k.mac file will patch an old RT-11 Fortran-77 that is not
+Y2K compliant, and f77date.mac does so for RSX and P/OS Fortran-77 (no Y2K
+update of P/OS Fortran (PROF77) (or other RT-11 and P/OS products for the
+Pro 300 series computers) is planned, so the users must step in and do it).
+
+Though written for Fortran-77, there is no reason why it should not work
+with Fortran IV as well.  They use the same PDP-11 R5 calling sequence and
+the same DATE and IDATE functions.
+
+Actually, the Y2K bug in old Fortran is quite trivial.  In RT-11, the DATE
+function, if not patched, will act like unpatched DIR and print the date
+in the "colon" format until the end of 2003, then it won't print the month
+and year at all.  In RSX, it will use the "colon" format for awhile, then
+print gibberish for the year later in the 21st century, though the day and
+month will be usable.
+
+This is corrected for both Fortrans ... see the .mac file for details.  In
+order to use it, just assemble the appropriate file into an .obj and
+then link the appropriate .obj with the program you are compiling, as in
+the example dattst4.cmd file.
+
+For RSX, the integer year returned by idate is the same as that returned
+by GETTIM (GTIM$ directive).  For RT-11, I saw no need to do that, and it
+makes the fix quite trivial to just return a value of 0-72 for the years
+2000-2072.  If it is desired to use 100-172 for these years, or extend it
+to 2099, this is easily done by editing the source code.  The RSX version
+will work for as long as GTIM$ will return a value, which for RSX-11M+ 
+V4.5 is through 1-JAN-2900 (1000. years from 1-JAN-1900).  Since the MCR
+TIM command will not accept a date if the year is above 2899 A.D., then
+this year can only be obtained (for now) by letting the year roll over
+from December 31.  There is plenty of time to deal with Y2.9K anyway ;-).
+
+Example of usage on 14-MAR-2000:
+
+	character*9  day
+	character*11 day4
+	call idate(imonth,iday,iyear)
+	print*,imonth,iday,iyear         ! e.g. 3,14,100 (RSX) or 3,14,0 (RT-11)
+	call date(day)
+	call date4(day4)
+	print*,day,day4			 ! e.g. 14-MAR-00 14-MAR-2000 (all OS's)
+	call exit
+	end
+
+Floating-point information
+--------------------------
+
+The GBLPAT statements in the command file may be omitted if running under
+RSX11M (not Plus) and/or if it is not desired to ever run the program on a
+system without an FPU.  The GBLPAT statements can be applied to any RSX
+Fortran-77 program to NOP out three instances of unnecessary
+floating-point instructions which are included from the F77 OTS even if no
+FPP instructions are generated in the code itself.  The patch enables the
+program to run without an FPU (IF there are floating point references in
+the source code).  Note that the patch may need to be modified if using a
+different version of the Fortran-77 OTS;  the OTS is found in a file such
+as [1,1]F77OTS.OLB or [1,5]PROF77.OLB or in a resident library with a .TSK
+extension.  Examining the executable program with ODT or another debugger
+will show that the initial JSR PC, OTI$ in all Fortran programs calls a
+floating-point initialize routine shortly before exiting; this is replaced
+by two NOP's along with another NOP for the BCS following it which will
+cause an Error 2 if not removed.  The other two patches are for an
+initialize and exit routine which store and load the FPU program status
+respectively (STFPS 202(R3), LDFPS 202(R3)) and are replaced with 2 NOP's
+each.  It is possible that other OTS versions may have these instructions
+at different offsets; one can use DMP, ODT or ZAP to look for these
+instructions, and they can be manually patched with ZAP as well (the OTI$
+call can be easily ZAPped out with a ZAP command file (available on
+request), but the other two patches are better done via TKB or PAB as in
+the .CMD file, or manually with ZAP (run the program and note the two PC
+locations where a reserved instruction trap occurs; examining those
+locations with ZAP shows it is where the STFPS and LDFPS are). 
+
+If one does not call the routine to initialize the FPP and the FPP
+SST's from OTI$, and one does not use any FPP instructions in one's
+program, then of course there is no need to save and restore the FPP
+status as the OTS does.  If your program does include FPP statements, then
+do not include the GBLPAT statements in the linking process.
+
+GBLPAT cannot be used with FTB, the Fast Task Builder; one must use TKB or
+PAB.

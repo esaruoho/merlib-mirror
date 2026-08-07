@@ -1,0 +1,577 @@
+---
+title: "APAS Anonymous Remailer Use [FAQ 4/8]: Remailer Details"
+source_domain: amasci.com
+source_path: ~turing/remailer/FAQ/faq.4.html
+order: 9141
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:17:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# APAS Anonymous Remailer Use [FAQ 4/8]: Remailer Details
+
+*Source page: `~turing/remailer/FAQ/faq.4.html`*
+
+[Up: APAS Anonymous Remailer Use \[FAQ\]](./)\
+[Next: APAS Anonymous Remailer Use \[FAQ 5/8\]: Statistics](./faq.5.html)\
+[Previous: APAS Anonymous Remailer Use \[FAQ 3/8\]: Remailer Basics](./faq.3.html)
+
+------------------------------------------------------------------------
+
+# APAS Anonymous Remailer Use \[FAQ 4/8\]: Remailer Details
+
+- [Introduction](#0)
+- [\[FAQ 4.1\] Which remailers are good? Reliable? Secure?](#1)
+- [\[FAQ 4.2\] How can I find more information about a remailer?](#2)
+- [\[FAQ 4.3\] What is chaining? And what is a middleman?](#3)
+- [\[FAQ 4.4\] Won't the first remailer in the chain know who I am?](#4)
+- [\[FAQ 4.5\] Can't the last remailer's remop read my message?](#5)
+- [\[FAQ 4.6\] How do I chain cypherpunk remailers?](#6)
+- [\[FAQ 4.7\] Can I use mail2news gateways to post anonymously?](#7)
+- [\[FAQ 4.8\] How do I know which newsgroups a gateway carries?](#8)
+- [\[FAQ 4.9\] What's different about mail2news_nospam vs mail2news?](#9)
+- [\[FAQ 4.10\] When replying to a message, how do I thread my post?](#10)
+- [\[FAQ 4.11\] Which remailers permit my own "From:" header?](#11)
+- [\[FAQ 4.12\] Where do I find public SMTP servers (open relays)?](#12)
+
+<span id="0"></span>
+
+------------------------------------------------------------------------
+
+    Subject: APAS Anonymous Remailer Use [FAQ 4/8]: Remailer Details
+
+    This is the fourth of eight parts of a list of frequently-asked
+    questions and their answers regarding anonymous remailer use.  This
+    part answers more questions about remailers.
+
+    This FAQ is provided "as is" without any express or implied
+    warranties.  While every effort has been taken to ensure the accuracy
+    of the information contained in these message digests, the maintainer
+    assumes no responsibility for errors or omissions, or for damages
+    resulting from the use of the information contained herein.  This FAQ
+    is provided for information only; reference to a Web page does not
+    constitute endorsement of that page's content.
+
+<span id="1"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.1] Which remailers are good? Reliable? Secure?
+
+    The "good" and "reliable" remailers are the ones that work for you and
+    have the feature set you need or want. The "secure" remailers are the
+    ones operated by those who do not monitor the traffic passing through
+    them AND have good security policies in place on their networks and
+    machinery to prevent their remailer from being penetrated by
+    unauthorized parties and subsequently compromised.
+
+    Since you can never know for yourself how "secure" any one individual
+    remailer is, you should always use encrypted chains of remailers (see
+    #4.3) to send your messages. So long as all the remailers in your
+    chain have not been compromised or their operators are not cooperating
+    amongst themselves, then your traffic will be reasonably secure.
+
+    Advanced topics relating to traffic analysis of the remailer network
+    that may allow adversaries to deduce the source and destination of
+    individual messages is, for now, beyond the scope of this FAQ.
+    However, it is almost certain that these activities do take place to
+    some degree. It is for this reason that you we have advanced remailer
+    protocols such as Mixmaster, and proposals for other up-and-coming
+    network scenarios (like WOF <http://www.bigfoot.com/~potatoware/wof/>,
+    RadioClash <http://piratech.net/radioclash/>, Publius
+    <http://www.cs.nyu.edu/~waldman/publius/>, Freenet
+    <http://freenet.sourceforge.net/>) to reduce the effectiveness of
+    traffic analysis.
+
+<span id="2"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.2] How can I find more information about a remailer?
+
+    Send a blank email to the remailer address with "remailer-conf" (no
+    quotes) as the subject line. In addition to this you can also send a
+    blank email with "remailer-help" (no quotes) as the subject. Visit the
+    remailer's Web page if one exists. And pay attention to APAS for any
+    announcements or policy changes from the remailer's operator. 
+
+<span id="3"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.3] What is chaining? And what is a  middleman? 
+
+    Before chaining one's messages one must have an understanding of
+    middleman remailers.  A middleman remailer ("middle" in its cap
+    string) is one that always adds another hop to any message that is not
+    already en route to another remailer. Example: If you send a message
+    to recipient <my_coworker@entrust.com> through middleman remailer
+    Georgia Cracker <remailer@gacracker.org>), Gacracker will send it to
+    say, <remailer@dizum.com>, with instructions to deliver to
+    <my_coworker@entrust.com>.
+
+    This behavior demonstrates what is known as smart middleman. All
+    Reliable <http://www.bigfoot.com/~potatoware/reli/> remailers that are
+    running in middleman mode are smart.Check the remailer-conf file to be
+    certain just what kind of middleman behavior to expect. Now, back to
+    chaining.
+
+    Chaining is using more than one remailer to send your encrypted
+    message. Basically, you send a message to remailer A with instructions
+    to send it to remailer B, which in turn finds instructions to send it
+    to remailer C, and so on, until the final recipient receives the
+    message. The intention is to obfuscate the origin of the email and/or
+    (with the help of encryption) the content of the message body. At any
+    given point on it's route, such a message will reveal only where it
+    came from and where it is going. If the message was not chained (only
+    one remailer was used) then that remailer operator or a successful
+    traffic analyst can know the true source AND destination of the
+    message. Not good.
+
+<span id="4"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.4] Won't the first remailer in the chain know who I am?
+
+    Well, yes. He knows as much about you as can be revealed from your
+    email headers, i.e. the original source of the message. But if your
+    message is chained (as described above) to another remailer AND
+    ENCRYPTED with that remailer's key, then the first remailer (and
+    anyone snooping his traffic) cannot read your message. All they will
+    see is an encrypted message (with no subject line) that is heading to
+    some other remailer. Since your message must enter the remailer
+    network somewhere, that first remailer operator can always know where
+    the message is really coming from. It is for this reason that chained
+    messages should always be encrypted and not sent in the clear through
+    remailers that will accept clear text messages (Noisebox Remailer or
+    Xganon for example).
+     
+    There is absolutely no security in sending an unencrypted chained
+    remailer message. Using remailers without encryption (whether it's PGP
+    or Mixmaster) is like a police officer choosing to leave his
+    bullet-proof vest at home in his closet! 
+
+<span id="5"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.5] Can't the last remailer's remop read my message?
+
+    Absolutely, if he wanted to. But all he knows is the message contents,
+    where it is going, and the fact he got the message from another
+    remailer. He will not know the original source of the message. If that
+    is more than you want to reveal than you need to encrypt to your final
+    recipient instead of sending a plain text correspondence. Of course,
+    this isn't always feasible. The final recipient would need to have PGP
+    on his computer, you would have to exchange public keys or a
+    conventional password beforehand. It's really up to you the user to
+    decide just how much security you require for a particular message and
+    take the necessary precautions.
+
+<span id="6"></span>
+
+------------------------------------------------------------------------
+
+    Date: 8 Aug 2001 14:32:06 -0000
+    From: Doc.Cypher <doc_cypher@redneck.gacracker.org>
+    Subject: [FAQ 4.6] How do I chain cypherpunk remailers?
+    Message-ID: <20010808143206.22587.qmail@gacracker.org>
+    Summary: Encrypt each Anon-To within the previous remailer's message.
+
+    [For a step-by-step explanation of remailing with cypherpunk
+    remailers, see FAQ 3.3.  For an explanation of chaining, see the post
+    below, or follow John Hull's example:
+
+        <http://saddle.yoll.net/anon/handrolling.html>
+
+    An explanation is also in the help file from almost any remailer
+    (under the heading "REMAIL REQUEST: CYPHERPUNK CHAIN" for most
+    Reliable remailers).  Send a blank email message to a remailer with
+    "remailer-help" (without the quotes) as the subject, or see Frog's
+    Thesaurus Data
+    <http://www.privacyresources.org/frogadmin/Thesaurus/Thesaurus.html>.
+    -CC]
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+
+    On Wed, 8 Aug 2001, Anonymous <remailer@remailer.xganon.com> wrote:
+
+    [SNIP]
+
+    >Now I want to use a chain of remailers? How do I do this? I'm
+    >guessing I should somehow encrypt the message using all the keys of
+    >the remailers in the chain? And if I send the message to the first
+    >remailer in the chain, how do I let that remailer know to send it to
+    >the next one? If someone could either tell me how to do this, or
+    >direct me toward an information source explaining this, I'd
+    >appreciate it.
+
+    Chaining messages is achieved by repeating the encryption steps.
+    Taken as an example, chaining through two remailers thus,
+    You -> A -> B -> Recipient
+
+    You start off with your message and prefix with
+
+    ::
+    Anon-To: <recipient@somewhere>
+
+    ##
+    Subject: <some text>
+
+    <MESSAGE>
+
+    You then encrypt this with the key of the remailer B, and prefix it with 
+
+    ::
+    Anon-To: <Remailer-B@somewhere>
+
+    ::
+    Encrypted: PGP
+
+    <PGP MESSAGE>
+
+    You take this and encrypt it with the key of remailer A, and prefix with
+
+    ::
+    Encrypted: PGP
+
+    and now send it to remailer A.
+
+    What happens then is that remailer A takes the message, decodes it, and
+    sends it to remailer B. Remailer B decodes it and sends it to the
+    recipient.
+
+    Doc.
+    - -- 
+    The bigger the humbug, the better people will like it.
+    ~ Phineas Taylor Barnum.                              http://vmsbox.cjb.net
+
+    -----BEGIN PGP SIGNATURE-----
+    Version: 2.6.2
+
+    iQEVAwUBO3By8sriC3SGiziTAQH4Cwf+JSwjLQcPtVbNAOKB28NBdA+yLLWYflmB
+    bjpH3nzDyV0TUEEiRH7gdancM8CuMk4n+5D+hWCHIyFoaR93/BuGdft9s8xuPi8M
+    nzSzPO4pFht8NTzhkkrn9iUcJWgh+fFNfBvWtjDCLs6qdxoQwTUI9N0ioceAlK1S
+    vk78pYdZ9srxCEr5sCyuAR56wRq0Sa81SDePOcYz48FrRR51Zdoe/cu3Hu4AYeY5
+    wpC5J59U0BIVb9xnt9zBR7I3aQZArFffZ2G6vdEHDnVulY5hpXjenEgUCUjFH+da
+    bCD6dCOVtPxYvFbo9mmMY6spiDwfeaOXzniFdFvqdrbADycW2s7qiw==
+    =3VgO
+    -----END PGP SIGNATURE-----
+
+<span id="7"></span>
+
+------------------------------------------------------------------------
+
+    Date: 05 August 2001 12:00 Z
+    From: turing+apas-user-faq@eskimo.com (Computer Cryptology)
+    Subject: [FAQ 4.7] Can I use mail2news gateways to post anonymously?
+    Summary: M2N gateways forward email messages to Usenet postings.
+
+    Although they are not anonymous remailers, mail-to-news (mail2news or
+    M2N) gateways are an important part of the remailer network.  They
+    forward email messages to Usenet, permitting posting of messages or
+    (in some cases) binaries to certain newsgroups.  (See FAQ 4.8 for
+    instructions on determining which newsgroups are available.)
+
+    Be warned that these gateways by themselves do not make messages
+    anonymous.  Their administrators *will* keep logs.  It is the
+    remailers that strip off the identifying information from your
+    message, *not* the M2N gateway.  The gateway only delivers to a
+    newsgroup.  See the official help file M2N gateways by sending a blank
+    email to <mail2news@anon.lcs.mit.edu> with the subject "help" (no
+    quotes).  It is when you use an anonymous remailer in combination with
+    a mail-to-news gateway that anonymous newsgroup posts are possible.
+
+    There are actually two methods of posting anonymously to Usenet: via
+    an "Anon-Post-To:" directive or via an "Anon-To:" directive.  Note
+    that in most cases remailers with "post" in their cap strings actually
+    forward to a M2N gateway rather than posting via NNTP, so these
+    methods are often equivalent.
+
+    Method #1
+    Below is a template for the first method.  Send the following email
+    message to a remailer that supports anonymous newsgroup posting
+    ("post" in the cap string).
+
+    ::
+    Anon-Post-To: misc.test
+
+    ##
+    Subject: This is a boring test 
+
+    Start your message here.
+
+    Method #2
+    Below is a template for the second method.  Send the following email
+    message to a Cypherpunk remailer ("cpunk" in the cap string).
+
+    ::
+    Anon-To: mail2news@dizum.com (or any other mail2news gateway)
+
+    ##
+    Subject: Is Gretchen Down?
+    Newsgroups: alt.privacy.anon-server
+    X-No-Archive: yes (this line is optional) 
+
+    Start your message here.
+
+    Both of these methods will work.  Pay attention to the cap strings.
+    Many remailers are PGP-only ('pgponly" in the cap strings). So before
+    sending to those remailers you will have to encrypt the above with the
+    remailer's pgp key.
+
+    Here are some other mail2news gateways you can use: 
+
+        <mail2news@anon.lcs.mit.edu> *
+        <mail2news_nospam@anon.lcs.mit.edu>
+        <mail2news@dizum.com>
+        <mail2news_nospam@dizum.com>
+        <mail2news@freedom.gmsociety.org>
+        <mail2news_nospam@freedom.gmsociety.org>
+
+    See FAQ 4.8 for an explanation of the significance of the "nospam"
+    gateways.
+    *Note that <mail2news@nym.alias.net> is an alias for
+    <mail2news@anon.lcs.mit.edu>.  The preferred address is
+    <mail2news@anon.lcs.mit.edu>.
+
+    See this Web-Based Mail2News Interface <http://forward.to/mail2news>
+    for a quick-and-dirty way to post anon to Usenet. See also
+    <https://ssl.dizum.com/help/mail2news.html> for help with Dizum's
+    mail2news gateway (formerly known as <mail2news@zedz.net>).
+
+<span id="8"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.8] How do I know which newsgroups a gateway carries?
+
+    For <mail2news@anon.lcs.mit.edu>:
+    To receive a list of all newsgroups send mail to
+    <mail2news@anon.lcs.mit.edu> with Subject "groups" (no quotes).
+
+    For <mail2news@mixmaster.shinn.net>:
+    Same method as above. Or you can finger <groups@mixmaster.shinn.net>
+    for a full listing of groups.
+
+    For <mail2news@dizum.com>:
+    It offers the same capability. Unfortunately, the last time I checked
+    the list of groups it sends back is incomplete and inacurate.  It's
+    safe to assume, however, that like the other two gateways Dizum
+    supports between 10,000-25,000 newsgroups from all the major
+    hierarchies.
+
+    You can also include an egrep-style regular expression on the subject
+    line.  For instance,
+
+        Subject: list comp\.unix
+
+    would list only newsgroups whose names begin "comp.unix".
+
+        Subject: list .*linux
+
+    would list all newsgroups whose names contain the substring "linux".
+
+        Subject: list alt.*(security|privacy)
+
+    would list all newsgroups beginning "alt" and containing either the
+    word "security" or the word "privacy".
+
+        Subject: list .*\.test$
+
+    would list all newsgroups ending ".test".
+
+<span id="9"></span>
+
+------------------------------------------------------------------------
+
+    Date: 9 Mar 2001 19:10:43 -0000
+    From: Redbird <redbird@redneck.gacracker.org>
+    Subject: [FAQ 4.9] What's different about mail2news_nospam vs mail2news?
+    Message-ID: <20010309191043.24928.qmail@gacracker.org>
+    Summary: No-spam gateways change headers to hinder address collection.
+
+    [edited by turing+apas-user-faq@eskimo.com (Computer Cryptology)]
+    On Fri,  9 Mar 2001, Nomen Nescio <nobody@dizum.com> wrote:
+    > What's the difference between these two?:
+    > mail2news_nospam@anon.lcs.mit.edu and mail2news@anon.lcs.mit.edu
+
+    The first is the no-spam variant of the same mail2news gateway.  
+
+    How does the no-spam variant work?
+
+    The address of my nym account is redbird@redneck.gacracker.org.  If I
+    had addressed my send request for this message to
+    mail2news@anon.lcs.mit.edu, my nym account address would have appeared
+    in the From header.  An address collector would be able to find it
+    easily, and I might end up receiving spam e-mail.
+
+    Instead I've addressed my send request to the no-spam variant,
+    mail2news_nospam@anon.lcs.mit.edu, and my message should include the
+    following From header:
+
+        From: Redbird <Use-Author-Address-Header@[127.1]>
+
+    This header is added by the mail2news gateway.  The following portion
+    of it is standard: <Use-Author-Address-Header@[127.1]>.  And it
+    instructs the person reading it to use the Author-Address header (see
+    below).  The only thing that will vary is the name preceding it, and
+    this is determined by whatever precedes the @ in the real nym account
+    address.  For example, if the real nym account address were
+    ruth@redneck.gacracker.org, the From header would read as follows:
+
+        From: Ruth <Use-Author-Address-Header@[127.1]>
+
+    My message should also include the following "Author-Address" header:
+
+        Author-Address: Redbird <AT> nym <DOT> alias <DOT> net
+
+    This header is also added by the mail2news gateway and is the means by
+    which it provides my real address to anyone who might wish to reply to
+    this message by e-mail.
+
+    There are no-spam variants for all three mail2news gateways:
+
+    mail2news@anon.lcs.mit.edu
+    mail2news_nospam@anon.lcs.mit.edu
+
+    mail2news@dizum.com
+    mail2news_nospam@dizum.com
+
+    mail2news@mixmaster.shinn.net
+    mail2news_nospam@mixmaster.shinn.net
+
+    Redbird
+
+<span id="10"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.10] When replying to a message, how do I thread my post?
+
+    There are two ways to thread your messages into a discussion. You can
+    do it manually, or take advantage of features in JBN to automate the
+    process.  I'll explain the hard way first...
+
+    * In JBN, open your book which you intend to post with.
+
+    * Enter "Re: Remailers Suck!" (or whatever the relevant subject is)
+      into the "Subject: " field.
+
+    * Find the message you want to followup and copy the message ID.
+      (example <3e125abb862940edf80aa2a5a276790f@anonymous.poster> )
+      Take this and put "References: <msg-id>" in the additional headers box
+      under the subject.
+
+    * Copy bits you want to keep from the original message, you can paste
+      these into the book by right-clicking and selecting "Paste As
+      Quote".
+
+    * Don't forget the "Newsgroups:" header! :)
+
+    You should be able to manage this easily provided you can get the
+    message ID out of your newsreader.
+
+    Now, the easy way involves getting the entire message **and headers**
+    into the clipboard. This is the part that depends on which newsreader
+    you use.  With XNews, for example, make sure all headers are displayed
+    within the message and then right-click and select "Copy All".
+
+    With the entire message (and most importantly the headers) on the
+    clipboard, select the book you will use to construct a reply, select
+    "Follow-Up Clipboard (Ctrl-U)" from the "Message" drop-down menu. You
+    can then quote the entire message and edit as appropriate. It is
+    really simple once you've managed it a couple of times.
+
+    One point to watch out for! If replying to a message in a long thread,
+    you may want to trim excess References elements from the
+    headers. Remailers (esp those that use Mixmaster software) don't take
+    kindly to long headers or badly wrapped headers.
+
+    Summary: All you really need is the message ID of the post you are
+    replying to.
+
+<span id="11"></span>
+
+------------------------------------------------------------------------
+
+    Date: 16 August 2001 12:00 Z
+    From: turing+apas-user-faq@eskimo.com (Computer Cryptology)
+    Subject: [FAQ 4.11] Which remailers permit my own "From:" header?
+    Summary: Only a few remailers permit custom "From:" headers.
+
+    [Thanks are due to Boris 'pi' Piwinger for reports, Stefan Wagner
+    (Narnia Admin) and Jochen Wersdrfer for mentioning their
+    remailers, and Farout-Admin for posting regular updates.]
+
+    A more up-to-date and complete answer to this question is available in
+    the following table:
+
+        <http://www.nuther-planet.net/farout/misc/FromHead.html>
+
+    As of the date of this FAQ, tests indicate the following remailers
+    permit the user to specify part or all of the "From:" header line
+    (either the entire address or the nickname only) in the final headers
+    [1]:
+
+        farout
+        frog2
+        italy2*
+        narnia*
+        segfault
+        shinn*
+        squirrel
+
+    *Note that italy2, narnia, and shinn add a disclaimer (either in the
+    header of the body of the message) when the message has a custom
+    "From:" header.  The intent of this warning is to reduce forgery
+    complaints.
+
+    [1] See the Reliable User's Manual for further information:
+        <http://www.theinternet.cc/potatoware/reli/UserMan.htm#Final>
+        <http://www.theinternet.cc/potatoware/reli/UserMan.htm#finFrom>
+
+<span id="12"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 4.12] Where do I find public SMTP servers (open relays)?
+
+    Relaying mail through the servers of a third party is, at best bad
+    Internet etiquette and, at worst, theft of service.  This is not just
+    my view but the view of Internet users and service providers
+    worldwide. Many of the larger ISPs, in a preventative move to stop
+    their own customers from spamming others, have blocked customer's
+    connections to any smtp servers but their own.
+
+    Open relays, in the vast majority of cases, will not hide the origin
+    of your message. Your IP address is visible and all traffic is logged.
+     
+    Still not deterred? Okay. Here's one method of finding an open relay:
+
+    + Visit newsgroup <news://news.admin.net-abuse.sightings> and scan
+    through the posts there looking for any spam reports that mention open
+    relay, hijack, or relay-rape.
+
+    + Take the mail servers you find in "sightings" and plug them, one by
+    one, into the form at
+    <http://vancouver-webpages.com/cgi-bin/nph-chkspam>.
+
+    + If your tests indicate that a particular email server is still an
+    open relay then your search is over. Insert the mail server's address
+    in place of your ISP's SMTP server in your email client's
+    configuration.
+
+------------------------------------------------------------------------
+
+[Up: APAS Anonymous Remailer Use \[FAQ\]](./)\
+[Next: APAS Anonymous Remailer Use \[FAQ 5/8\]: Statistics](./faq.5.html)\
+[Previous: APAS Anonymous Remailer Use \[FAQ 3/8\]: Remailer Basics](./faq.3.html)
+
+------------------------------------------------------------------------
+
+Computer Cryptology \<<turing@eskimo.com>\>\
+Generated by [digest2html.pl](http://www-viz.tamu.edu/~sgi-faq/tools/), 2001-12-02

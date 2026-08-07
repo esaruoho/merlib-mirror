@@ -1,0 +1,58 @@
+---
+title: "Explanations"
+source_domain: amasci.com
+source_path: ~miyaguch/hoeflin/explanations.html
+order: 5128
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:12:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Explanations
+
+*Source page: `~miyaguch/hoeflin/explanations.html`*
+
+## Explanations
+
+On December 20, 1999, I removed Ronald Hoeflin's Mega Test (and Mega27) from my website. In the weeks prior to that, many solutions to the Mega were proposed in public forums that get a lot of traffic from people who might wish to take such a test. In light of this compromise, the Prometheus Society revised their admission requirement to exclude scores on the Mega27 obtained after November 27, 1999, and I no longer felt comfortable featuring the test on my website. The Mega Test can still be obtained directly from Ronald Hoeflin, and he still scores it for a fee and uses it as an admission tool for his societies, TOPS and OATHS.
+
+I asked the person who proposed the Mega Test answers if s/he would be willing to explain the motivations for doing so, and was granted permission to publish the following on my website. I have edited it to remove any references to solutions or proposed solutions to Mega Test questions. My comments are in square brackets. Note: I don't mean for this page to imply that others should follow suit and publish answers to tests.
+
+> 1\. The Mega Test is not copyrighted -- one person responded by incorrectly accusing me of posting copyrighted material.
+>
+> \[Here are some comments of mine regarding copyright: In Omni magazine, it says that the entire contents of the magazine are copyrighted, presumably by Omni. When I talked with Ron Hoeflin about this, he said he didn't remember what the agreement was between Omni and him. But he didn't register his test with the U.S. Copyright office, nor did he append a copyright notice to his test. The latter was required before 1989 in order to gain copyright protection. I'd guess that Omni magazine, at least, is not interested in suing anybody over the Mega Test. Copyright protection means little if the copyright owner is unwilling to assert his/her right in court. Note that the law changed after March 1, 1989, making the copyright notice optional. Works are now protected from the moment they are created and set to paper (or hard disk). This means, for example, that Ron Hoeflin automatically gained copyright protection for his Titan Test. -- DTM\]
+>
+> 2\. Answers to numerous Mega Test questions have been \[available\] for years. In fact, this was the genesis of the Mega27. The interested reader should be referred to the Prometheus advisory report that discusses this in detail.
+>
+> 3\. Even analogies that were included as part of the Mega27, have been widely published in books available at any garden variety bookstore.
+>
+> 4\. Due to the nature of the test, there are any number of ways people can cheat, if they choose to.
+>
+> 5\. Posting ANSWERS, for the purpose of clearly showing how the Mega Test is biased as an intelligence test, to assuage feelings of inadequacy of many people who seem to think the Mega Test is a genuine IQ test that exposes them as imbeciles, would seem to be a far greater good than humoring a handful of people who, so far as I can tell, have accomplished no more than to get a certain score (in many cases probably at a far lower level than is now used ... as you well know) allowing them admission into an exclusive high IQ society.
+>
+> \[further paragraphs deleted\]
+>
+> 6\. To provide some perspective, organizations like Princeton Review make millions of dollars every year by publishing speculative solutions to unpublished QUESTIONS that may have been obtained through questionable (pardon the pun) means. Publishing QUESTIONS that have not been made public is, of course, \[a different matter\].
+>
+> 7\. Although the score reports for the Mega Test report an "IQ", this has been declared illegal, at least in California and New York. Chris Langan goes into considerable detail about this issue (i.e. that the use of the term IQ is fraudulent). I think that his web page should be directly referenced, because after reading some of his comments (which I would have a hard time stating any more clearly than he has), the objective reader would most likely have a much clearer perspective on the issue.
+>
+> \[Chris Langan's page is: [On the Meaning and Utility of IEQ](http://www.angelfire.com/ms/mega/Ieq.html)\
+> Also see: [IQ Testing and State Laws](http://www.eskimo.com/~miyaguch/license.html)\]
+>
+> 8\. My personal opinion is that all of the IEQ tests should be accompanied by a caveat (just like any book that is published on intelligence, or that includes intelligence tests), in bold, up front, that qualifies what IQ and IEQ tests are and are not ... e.g. that a given score may reflect a number of factors including amount of time spent, access to resources, education, native language, age, sex etc (unless all of these factors have been well controlled for).
+>
+> There are many people on the web now (perhaps most) who would have trouble answering more than two or three of the questions on many of the tests on your web site. These people are just as sensitive, if not more sensitive, than we are. Unfortunately, they do not always have the perspective that we have (or should have). Some are only teenagers, others speak little english and are from other cultures, and yet others have little formal education and may hardly be able to understand many of the questions even if they do speak the language and know the culture. None of these people want to feel stupid, and nearly all want to feel smart or special in some way.
+>
+> In my mind the Mega Test was well-suited for its original readership (Omni). However, of all of Hoeflin's tests and all of the IEQ tests on your website, the Mega Test seemed to be the most likely to reinforce the poor self-image that oftentimes attracts a person to such a test in the first place.
+>
+> In general the tests are a poor reflection of native intelligence because they are heavily biased in terms of sex (due to an overwhelming emphasis on math/science ... even in the verbal questions), religion and, most of all, post-secondary education. These "IQ" tests not only lack credibility in academic circles (e.g. none have ever been published in peer-reviewed academic journals or are referenced in established compendiums of intelligence tests), but they are and, have been, administered illegally (cf. [IQ Testing and State Laws](http://www.eskimo.com/~miyaguch/license.html)).
+>
+> Incidentally, I think that, of all of Hoeflin's IEQ tests, the Ultra Test is the best (and the Titan Test and Power Test are both far better than the Mega Test). With respect to the Ultra Test, it is the only one that doesn't require knowledge of scientific concepts to answer the questions.
+>
+> \[The Mega Test was reviewed in *Test Critiques, Volume VIII*, by Roger D. Carlson, Ph.D. (PRO-ED, 1991, pp 431-5). -- DTM\]
+>
+>  
+
+Return to the [Uncommonly Difficult I.Q. Tests](http://www.eskimo.com/~miyaguch/hard_iq.html) page.

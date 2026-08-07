@@ -1,0 +1,224 @@
+<html>
+<head>
+<title>Robert Hoskins Home Page</title>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (WinNT; U) [Netscape]">
+   <META NAME="Author" CONTENT="Gerry Mills">
+   <META NAME="Description" CONTENT="Datrix is one of the leading distribters of life raft and marine safety equipment.">
+   <META NAME="KeyWords" CONTENT="Marine Safty Liferaft Life Raft Bouy Ring Flare Dye Marker Inflatable Rations Water Sea Boat Preserver">
+   <META NAME="Classification" CONTENT="Business and Economy:Companies:Outdoors:Boating:Supplies and Equipment:Emergency">
+<script language="JavaScript">
+<!-- hide me
+
+function favJump()
+
+{
+  var the_select = window.document.fav_form.favorites;
+  var the_text = the_select.options[the_select.selectedIndex].text;
+  if (isURL(the_text))
+    {
+      window.document.loc_form.the_url.value = the_text;
+      goThere(the_text);
+    }
+}
+
+
+
+function isURL(some_text)
+
+{
+  var the_first_seven = some_text.substring(0,7);
+  the_first_seven = the_first_seven.toLowerCase();
+  if (the_first_seven != 'http://')
+    {
+      return false;
+    } else {
+      return true;
+    }
+}
+
+
+
+
+
+function goThere(the_url)
+
+{
+  if (the_url != "") {
+    var good_url = fixURL(the_url);
+    var new_window = parent.main.location.replace(good_url);
+  } else {
+    return false;
+  }
+}
+
+
+
+function fixURL(the_url)
+
+{
+  if (isURL(the_url) == false)
+    {
+      the_url = "http://" + the_url;
+    }
+  return the_url;
+}
+
+
+
+function addToFavorite()
+
+{
+
+  var the_url = prompt("Add which URL to your favorites? ","http://");
+
+  if ((the_url != "") && (the_url != null))
+    {
+      var good_url = fixURL(the_url);
+      var the_favorites = window.document.fav_form.favorites;
+      var num_options = the_favorites.options.length;
+      var new_option = new Option;
+      new_option.text = good_url;
+      the_favorites.options[num_options]= new_option;
+      updateFavoriteCookie(the_favorites.options);
+    }
+}
+
+function updateFavoriteCookie(the_favorites_array)
+
+{
+
+  var the_favorites = "";
+  var loop;
+  for (loop = 1; loop < the_favorites_array.length; loop++)
+    {
+      the_favorites = the_favorites + the_favorites_array[loop].text;
+      if (loop != (the_favorites_array.length-1))
+	{
+
+	  the_favorites = the_favorites  + " ";
+	}
+    }
+
+  var the_cookie = "wm_browser_favs=" + escape(the_favorites) + ";";
+
+  var the_date = new Date("December 31, 2023");
+  the_date = the_date.toGMTString();
+  the_cookie = the_cookie + "expires=" + the_date;
+  document.cookie = the_cookie;
+}
+
+
+function setFavoritesSelect(the_select)
+{
+	if (document.cookie)
+	{
+
+	
+	  var the_cookie_value = WM_readCookie('wm_browser_favs');
+	  var the_array = the_cookie_value.split(" ");
+
+	  var loop;
+	  var some_option;
+	  var option_number = 1;
+	  for (loop=0; loop < the_array.length; loop++)	
+	    {
+	      if ((the_array[loop]) && (the_array[loop] != 'false'))
+
+		{
+
+		  someOption = new Option;
+		  someOption.text = the_array[loop];
+		  the_select.options[option_number] = someOption;
+		  option_number++;
+		}
+	    }	
+	}
+}
+
+function WM_readCookie(name) {
+  // if there's no cookie, return false else get the value and return it
+  if(document.cookie == '') return false;
+  else return unescape(WM_getCookieValue(name));
+}
+
+function WM_getCookieValue(name)
+{
+  // Declare variables.
+  var firstChar, lastChar;
+
+  // Get the entire cookie string. (This may have other name=value pairs in it.)
+  var theBigCookie = document.cookie;
+
+  // Grab just this cookie from theBigCookie string.
+  // Find the start of 'name'.
+
+  firstChar = theBigCookie.indexOf(name);
+
+  // If you found it,
+
+  if(firstChar != -1) {
+
+    // skip 'name' and '='.
+    firstChar += name.length + 1;
+
+    // Find the end of the value string (i.e. the next ';').
+    lastChar = theBigCookie.indexOf(';', firstChar);
+    if(lastChar == -1) lastChar = theBigCookie.length;
+
+    // Return the value.
+    return theBigCookie.substring(firstChar, lastChar);
+
+  } else {
+    // If there was no cookie, return false.
+    return false;
+  }
+}
+
+
+// end hide-->
+</script>
+</head>
+<body onLoad="setFavoritesSelect(document.fav_form.favorites);" background="backroun.jpg">
+<center>
+<form name="loc_form" onSubmit="goThere(window.document.loc_form.the_url.value); return false;">
+<input type="hidden" name="the_url" size=1></form>
+<TABLE BORDER=3 CELLPADDING=0 COLS=3 width="90%" BGCOLOR="#ffFFff" background="ltwood.jpg">
+<TR ALIGN=CENTER VALIGN=CENTER>
+<td>
+<FONT Size=5><b>
+(206)762-9070
+</b></Font>
+</td>
+<td>
+<form name="fav_form">
+<a href="#" onClick="addToFavorite(); return false;"><b>Add Link</b></a>
+<select name="favorites" size="1" onChange="favJump();">
+<OPTION>http://www.eskimo.com/~rhoskins/bottom.htm
+<OPTION>http://www.datrex.com
+<OPTION>http://www.ikaros.com
+<OPTION>http://www.cmhammar.com
+<OPTION>http://www.immunex.com
+<OPTION>http://www.donphinney.com/
+<OPTION>http://yp.gte.net/ypform.phtml?SRC=lycos
+<OPTION>http://windowsupdate.microsoft.com
+<OPTION>http://printer.wunderground.com/US/WA/Seattle-Tacoma.html
+<OPTION>http://www.access.gpo.gov/nara/cfr/cfr-retrieve.html#page1
+</SELECT>
+</font>
+</FORM>
+<form>
+<Input type="hidden" Value="Submit Site"onclick="javascript:gateKeeper()">
+</form>
+</TD><TD>
+<!-- Search Google -->
+<center>
+<FORM method=GET action="http://www.google.com/search" target=main>
+<INPUT TYPE=hidden name=num value=100>
+<INPUT TYPE=text name=q size=15 maxlength=255 value="">
+<INPUT type=submit name=sa VALUE="Search">
+</FORM>
+</center>
+<!-- Search Google -->
+</TD></TR>
+</table>
+</CENTER></body></html>

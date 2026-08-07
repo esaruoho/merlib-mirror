@@ -1,0 +1,75 @@
+Acknowledgments 
+
+ Acknowledgements 
+
+Mighetto & Associates acknowledges the support received from various organizations and individuals by listing the following
+web pages:
+
+ http://www.corel.com http://linux.corel.com/ 
+
+ http://www.ibm.com/java 
+ http://www7.software.ibm.com/vad.nsf 
+ http://www-4.ibm.com/software/ebusiness/buildapps/understand.html 
+ http://www.ibm.com/developer/features/framework/framework.html 
+ http://forum.nokia.com 
+ http://alphaworks.ibm.com 
+ http://www.javasoft.com/products/jsp/ 
+
+ ICCP 
+ http://www.iccp.org 
+ Candle 
+ http://www.hursley.ibm.com/mqseries 
+
+ http://www.software.ibm.com/sw-sell/faqmain.html 
+
+ http://www.rsac.org 
+ Computer Associates 
+
+ ERwin 
+
+ Microsoft 
+ http://www.microsoft.com 
+ Netscape 
+ http://www.netscape.com 
+
+ Novell 
+ http://www.novell.com http://www.netdocuments.com 
+ http://developer.novell.com/ndk/ibmws.htm 
+
+ PowerCerv 
+ http://www.powercerve.com 
+ Starting Point 
+ http://www.stpt.com 
+ PDC Prolog 
+ http://www.pdc.dk 
+
+ http://www.netcraft.com 
+
+ http://www.warpstock.org 
+ Weblogic 
+ http://www.weblogic.com 
+ WSDMA 
+ http://www.wsdma.org 
+
+ http://www.emap.com/whmatsnew 
+
+ Submit it 
+ Yellow Pages 
+ http://www.mcp.com 
+
+ http://www.555-1212.com 
+
+ [ Home ] [ Decision Tree ] [ Deep Knowledge ] [ Acknowledgements ] [ Map ]
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ http://www.eskimo.com/~mighetto/acknow.htm last update 24 July 
+2003.

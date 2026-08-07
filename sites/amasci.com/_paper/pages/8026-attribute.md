@@ -1,0 +1,19 @@
+---
+title: "attribute"
+source_domain: amasci.com
+source_path: ~seldon/attribute.html
+order: 8026
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:15:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# attribute
+
+*Source page: `~seldon/attribute.html`*
+
+\#!/usr/local/bin/gawk -f \# attribute - - Will Mengarini \# When Elm, a Unix shell mail user agent, quotes e-mail text to \# which a reply is being composed, it doesn't insert a useful \# attribution of the form "On Sa 01 Jan 2000 J Random Hacker wrote:". \# Pipe the quoted text through this script to get that attribution. \# To do this from vi, I put the line \# map ^V^Ka 1G!Gattribute^V^M \# in my .exrc, so
+
+pipes everything through attribute. { if( text != "" ) text = text "\n" text = text \$0 if( from == "" && match( \$0, "^\[ \t\>\]\*From:\[ \t\]\*" ) ){ from = substr( \$0, RSTART+RLENGTH ) } if( date == "" && match( \$0, "^\[ \t\>\]\*Date:\[ \t\]\*" ) ){ date = substr( \$0, RSTART+RLENGTH ) sub( "\[neduit\],", "", date ) \#No way to refer to a matched group! \#sub( "\[neduit\](,?)", "", date ) \#Fails with or without () } } END { if( date != "" ) attribution = "On " date " " if( from != "" ){ attribution = attribution from }else{ if( date == "" ) attribution = attribution "somebody" } \#if( length( attribution ) + length( " wrote:" ) \> 79 ) attribution = from \#I'd like a smarter shortener than that; without one, I'll do it by hand. if( attribution != "" ) print attribution " wrote:"; print "" print text }

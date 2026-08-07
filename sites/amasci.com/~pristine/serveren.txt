@@ -1,0 +1,731 @@
+Pure Mac: Server Add-ons 
+
+ Server Add-ons 
+
+ Conditional HTML 
+ eCommerce 
+ Forms 
+ Hotline Enhancements 
+ Log Analyzers 
+ Mail Enhancements 
+ Miscellaneous 
+ Multiple Domains 
+ Search Engines & Database 
+ Server Monitoring 
+ Web Chat/ Discussion 
+
+ NetCloak 
+ Ch-Ching MGI Deluxe WebCatalog 
+ FormSaver NetCloak 
+ Hotline Helper 
+ Analog FlashStats FunnelWeb Sawmill Summary Traffic Report WWWStat4Mac 
+ Autoshare MailBurst 
+ Mac Restart SureServe WebCollage WebSentinel WebSiphon 
+ ClearlyHome 
+ FileMaker Pro Lasso Phantom 
+ iLog InterMapper PageSentry Server Sentinel SiteWatcher SureServe WebMonitor Whistle Blower 
+ BIAP Chat Interaction WebCrossing 
+
+ Extending WebSTAR 
+
+ Analog 5.1 
+
+A port of Stephen Turner's log analysis program, Analog. Analog is a WWW logfile analysis program. It has the following
+advantages over other similar programs.
+ It's very flexible. The default output will be satisfactory for
+most people, but there are over 180 options producing 17
+different reports for those who want to do things differently.
+ It can output in 7 different languages, and 3 output formats. 
+ It produces attractive output that complies with the HTML
+spec (and so can be read on any browser). 
+ It understands MacHTTP, WebSTAR, Quid Pro Quo, and NetPresenz log
+formats as well as the common log file format, NCSA old-style
+format and the NCSA/Apache auxilary and combined log files.
+
+ License : Freeware
+ Author/Publisher : Jason T. Linhart
+ Modification Date : November 7, 2001
+ Requirements : PPC, Mac OS 8.0 or higher and Mac OS X
+
+ Direct Download
+ File Size: 1790 Kb - PPC version 5.0.3
+
+ Home Page
+
+ AutoShare 4.2.2 
+ A utility which provides listserver, mailbot, and vacation
+service, and an EIMS (Eudora Internet Mail Server/formerly Apple Inernet Mail Server) bridge for Eudora clients in UUCP mode over LocalTalk.
+Note: Also works with the Stalker Internet Mail Server. 
+
+ License : Freeware
+ Author/Publisher : Mikael Hansen
+ Modification Date : April 8, 2001
+ Requirements : Apple Internet Mail Server
+
+ Direct Download File Size: 2866 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ BIAP Chat 2.1 
+ BIAP Chat is a W*API plug-in that includes everything you need to add full-featured Chat services to your
+Web site. This version of BIAP Chat comes with the chat server, a built-in Java applet for accessing the Chat
+room from your Web pages, and all the necessary HTML.
+
+ License : Demo (30 days) - Purchase for $129
+ Author/Publisher : BIAP
+ Modification Date : September 26, 1998
+ Requirements : W*API compliant Web Server (Quid Pro Quo or WebSTAR)
+
+ Direct Download File Size: 1897 Kb
+
+ Home Page 
+
+ Ch-Ching 3.1r4 
+
+Our flagship product is Ch-Ching! Ch-Ching! is an Internet store
+builder that allows you to build a very robust store right
+out-of-the-box without typing one line of code. 
+Ch-Ching! has built-in support for credit card processing, allowing
+you to stay open for business 24 hours a day.
+The feature set in Ch-Ching! rivals that of stores that are
+customed developed at a cost of $10,000 - $40,000! Stores can be
+built in as little as 15 minutes and the total cost of Ch-Ching! is
+only $495.00 Ch-Ching!. 
+
+ License : Demo, $495
+ Author/Publisher : Imacination Software
+ Modification Date : December 18, 2000
+ Requirements : FileMaker Pro 3 or higher and Lasso
+ 9637
+ Direct Download File Size: 13,205 Kb
+
+ Direct Download File Size: 9637 Kb- 3.1r4 update
+
+ Home Page 
+
+ ClearlyHome 1.0.4 
+
+ClearlyHome Virtual Hosting Plugin is a WebStar plugin that allows Macintosh WebMasters to point multiple domain
+names at a single Macintosh WebStar server.
+
+ License : Demo - Purchase for $75
+ Author/Publisher : Active Concepts
+ Modification Date : November 25, 1997
+ Requirements : 680x0, only works with WebStar 1.3.2/2.x.x and
+QuidProQuo rightnow
+
+ Direct Download
+ File Size: 161 Kb
+
+ Home Page 
+
+ FileMaker Pro 5.0v3 
+
+FileMaker Pro gives you the power to organize, share, and gain value from your
+information. Databases you create with FileMaker Pro are easily shared within your
+workgroup or across the web. Drag and drop to convert Excel files or get started with 40
+professionally-designed templates.
+
+ License : Demo, $199 - No Trial Version Currently available for version 5.0
+ Author/Publisher : FileMaker/Apple
+ Modification Date : March 13, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 4036 M - 5.x to 5.0v3 updater
+
+ Direct Download
+ File Size: 142 M - Server Administration 5.0v3 updater
+
+ Direct Download
+ File Size: 5835 Kb - 4.1 Demo - released October 23, 1998 
+
+ Direct Download
+ File Size: 1247 Kb - 4.1v3 updater - released July 21, 1999 - Y2K fixes
+
+ Direct Download
+ File Size: 1864 Kb - 4.0x to 4.0v2 updater
+
+ Direct Download
+ File Size: 1244 Kb - 4.0v2 to 4.0v3 updater - released July 21, 1999 - Y2K fixes
+
+ Direct Download
+ File Size: 1193 Kb - 3.0v5 updater - released August 3, 1999 - Y2K fixes
+
+ Parent Directory
+
+ Updates Page
+
+ Home Page 
+
+ FlashStats 1.4.3 
+
+FlashStats generates statistics from any Web server log file. Web masters 
+who use FlashStats know who is accessing their site, what pages these 
+users are viewing, and when they're viewing them. Even better, Web 
+masters using FlashStats can quickly detect and eliminate bad links and 
+other problems on their own site or other sites.
+
+ License : Demo, Purchase for $99
+ Author/Publisher : Maximized Software
+ Modification Date : March 23, 1999
+ Requirements : 680x0, preconfigured for use with WebSTAR or QuidProQuo, but a few quick changes 
+can set it up for any log file format 
+
+ Direct Download
+ File Size: 341 Kb
+
+ Fill in the form to get a Key emailed to you
+
+ Home Page 
+
+ FormSaver 1.7.5 
+
+W*API or ACGI for WebStar and compatible web servers. Saves form data to a tab-delimitted text file in the same location as the form.
+Simple to set up and use. Great for internet presence providers and personal web servers. Comes with a security plugin, to protect your data
+files.
+
+ License : Freeware
+ Author/Publisher : Pliner Products
+ Modification Date : October 26, 1999
+ Requirements : 680x0 or PPC, works with MacHTTP,
+WebStar, WebStar SSL, and Quid Pro Quo, as well as other compatible web servers
+
+ Direct Download
+ File Size: 97 Kb - Fat version
+
+ Home Page 
+
+ FunnelWeb 4.0.1 
+
+Funnel Web provides detailed statistical analysis and profiling of Web site usage from any Web Server, supporting common and extended log file formats from WebStar, MacHTTP,
+Quid Pro Quo, Microsoft Personal Server, Interserver Publisher, Sonic Web Server, AppleShareIP 5, Web Ten, Netscape Fast Track and Enterprise servers, Web Perveyer and Apache.
+It combines detailed statistical analysis and charting with an intuitive user interface and extensive filtering capabilities. It also takes maximum advantage of extended log
+reporting available within WebStar and other servers for profiling users Operating System and Browser.
+This demo version is identical to the full version except that it only runs in emulation on a PPCintosh and is limited to processing the first 5000 lines of a log file.
+
+ License : Demo - Purchase for $149.95
+ Author/Publisher : Active Concepts
+ Modification Date : August 15, 2000
+ Requirements : 68030 or better
+
+ Direct Download
+ File Size: 7245 Kb - FunnelWeb 4 Demo
+
+ Parent Directory
+
+ Home Page 
+
+ Hotline Helper 1.7.2 
+
+HotlineHelper is a shareware application that adds several new cool features to Hotline Server (68k or PPC) by Hotline
+Software, Inc or any other file transfer server software. These features enable remote users to:
+ search files on your server by name or finder comment 
+ quickly find the most recent uploads 
+download a text index file of your server.
+
+ License : Shareware, $10
+ Author/Publisher : Ilja A. Iwas
+ Modification Date : September 25, 2000
+ Requirements : 680x0 or PPC, System 7.6.1 or later
+
+ Direct Download File Size: 532 Kb
+
+ Home Page 
+
+ iLog 1.1.1 
+
+Comprehensive activity logging and notification. iLog is a powerful and
+flexible logging tool that gives you a central point of control for monitoring
+system activity. You can use iLog to track activities, notify you of problems,
+and even take action when necessary, based on specific conditions you define.
+iLog centralizes vital information by receiving, filtering, storing, and relaying
+messages from applications, systems, hardware, and even other iLogs, in a variety
+of ways. iLog sorts the messages based on your criteria, unifying the information
+into a single location of your choice, in the form most convenient to you.
+
+ License : Shareware, $24.95
+ Author/Publisher : Sophisticated Circuits
+ Modification Date : May 3, 2000
+ Requirements : 680x0 or PPC, Mac OS 8 or higher
+
+ Direct Download
+ File Size: 921 Kb
+
+ Home Page 
+
+ Interaction 3.6 
+
+Interaction is an application that adds threaded discussion forums, chat rooms, and a shopping cart system to any
+WebStar, MacHTTP and Web Server 4D server. Includes
+dynamic content management capabilities, customization options and support for Cascading Style Sheets
+throughout the application, included in Forums and Chat Rooms.
+
+ License : Shareware, $200
+ Author/Publisher : Terje Norderhaug/Media Design in*Progress 
+ Modification Date : September 19, 2001
+ Requirements : PPC, works with most popular Mac web servers including WebStar, Quid Pro Quo,
+MacHTTP and Web Server 4D. 
+
+ Direct Download
+ File Size: 6352 Kb
+
+ Home Page 
+
+ InterMapper 3.0.4 
+
+InterMapper is a Macintosh program that monitors IP and AppleTalk intra- and inter-networks. InterMapper serves as an early-warning system: it
+reports outages, interface errors, and configuration changes by querying the routers of a network using the Simple Network Management Protocol
+(SNMP).
+
+ License : Demo - Purchase for $795.00
+ Author/Publisher : Dartware LLC
+ Modification Date : February 13, 2000
+ Requirements : 68030 or better or PPC, System 7 or higher
+
+ Direct Download
+ File Size: 1010 Kb - PPC version
+
+ Direct Download
+ File Size: 929 Kb - 68k version
+
+ Home Page 
+
+ Lasso 3.6.5 
+
+Lasso Web Data Engine is leading cross-platform Web Application Server software allowing Web
+developers to quickly build and deploy powerful datab-driven Web applications.
+Lassos innovative architecture provides an industry first multi-platform, database-independent and open standards approach
+to building database-driven Web sites firmly positioning Lasso technology within the rapidly evolving server-side Web tools market.
+Lasso technology is used at hundreds of thousands of websites worldwide.
+
+ License : Demo, $599 - Lasso Lite is freeware
+ Author/Publisher : Blue World Communications, Inc
+ Modification Date : August 17, 2000
+ Requirements : 
+
+ Direct Download
+ File Size: 7049 Kb - Lasso 3.6 Demo
+
+ Direct Download
+ File Size: 199 Kb - Lasso 3.6.5 updater
+
+ Download/Registration Page 
+
+ Direct Download
+ File Size: 970 Kb - Lasso Lite 1.2.3 - released August 20, 1997
+
+ Parent Directory 
+
+ Home Page 
+
+ Mac Restart 2.1.0 
+
+Mac Restart allows to automatically restart your Mac at a prefixed
+time/day of the week.
+This is a requested job for Mac servers which run continuously
+and after some time... can have trouble.
+Restarting regularly guaranties correct functioning of the
+system.
+
+ License : Shareware, $6
+ Author/Publisher : Roberto Panetta
+ Modification Date : December 10, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 132 Kb - 68k version
+
+ Direct Download
+ File Size: 136 Kb - PPC version
+
+ Home Page 
+
+ MailBurst 2.1.1 
+
+MialBurst is an add-on for the Eudora Internet Mail Server. Features include: support for multiple domains;
+auto reply, wild card forwarding, and much more. 
+
+ License : Demo, Purchase for $149
+ Author/Publisher : Dantawitz Consulting & Research Ltd.
+ Modification Date : August 19, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 688 Kb - Fat version
+
+ Parent Directory
+
+ Home Page 
+
+ MGI Deluxe 1.6.1 
+
+MGI is a plug-in to WebSTAR with server side includes, send mail, forms processing,
+guestbook, authentication, banner ad, database, and E-commerce functionality along with
+many other goodies. For system administrators, MGI is virtually plug and play. For web
+site developers, MGI integrates quickly and easily with any design.
+
+ License : Demo, $449
+ Author/Publisher : PagePlanet Software
+ Modification Date : August 4, 2000
+ Requirements : PPC, WebSTAR
+
+ Direct Download
+ File Size: 13,792 Kb - Demo
+
+ Download Page
+ various component updates can be found here
+
+ Home Page 
+
+ NetCloak 3.1.3 
+
+With NetCloak you can taylor your site so users see different pages depending on their characterstics. For example, someone using Netscape could see a different page than someone using Internet Explorer.
+NetCloak is a World Wide Web server add-on that gives you more
+han 50 new commands which can be used in your HTML
+documents. These commands are executed on your server at the time
+your document is sent to the client, allowing you to create dynamic,
+conditional HTML pages. 
+
+ License : Demo expires end of the month but is otherwise fully functional - Purchase for $195
+ Author/Publisher : Maxum Development Corporation 
+ Modification Date : August 31, 2001
+ Requirements : 680x0 or PPC, Macintosh Web server software that supports CGI applications
+
+ Direct Download
+ File Size: 2851 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ PageSentry 4.0.2 
+
+PageSentry is the complete Internet server monitor that provides
+HTTP (Web), FTP, SMTP (E-Mail), DNS, and Telnet server
+reliability from a single computer anywhere on the Internet. For
+100% reliability, TCP "pings" aren't enough to tell you that your
+Internet servers are running. PageSentry uses real HTTP, FTP,
+SMTP, DNS, and Telnet client services to test the whole server, not
+just the low-level networking functions. 
+Monitoring Internet servers means that PageSentry executes server
+tests at user-defined intervals. When a problem with the server is
+detected, the site manager is sent an alert by E-Mail or
+AppleEvent-aware applications. PageSentry comes with several
+scripts right out of the box, including one that will send
+alpha-numeric pages (using PageNow!) and another that restarts your
+server automatically (using Sophisticated Circuits PowerKey Pro).
+Both of these products are available in bundles with PageSentry
+directly from Maxum. 
+
+ License : Demo expires the end of the month but is otherwise fully functional - Purchase for $95
+ Author/Publisher : Maxum Development Corporation 
+ Modification Date : October 15, 2001
+ Requirements : 680x0 or PPC, Mac OS 7.1 or higher and Mac OS X
+
+ Direct Download
+ File Size: 2217 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ Phantom 2.2.1 
+
+The Web Crawler, Indexer And Search Engine 
+Phantom builds a searchable index of Web sites you specify,
+then allows users to search the content of the sites via a
+simple HTML form. Phantom is the easiest way to add
+searching capability to your site, but Phantom does much
+more. Since it can crawl sites via the Web, as well as local
+files, Phantom can index a group of sites on a related topic.
+Phantom is also ideal for creating a central index for all of
+your organization's intranet servers. 
+The Easiest Way to Add "Search This Site" 
+
+ License : Demo expires the end of the month but is otherwise fully functional - Purchase for $395
+ Author/Publisher : Maxum Development Corporation 
+ Modification Date : August 1, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 7181 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ Sawmill 6.2.7 
+
+Sawmill is a powerful, hierarchical log analysis tool that unlocks the secrets of your web site! If you are in
+business to make money, you can not afford to be without Sawmill.
+
+ License : Demo, $89 - $199 for Pro version
+ Author/Publisher : Flowerfire 
+ Modification Date : October 13, 2001
+ Requirements : PPC or Mac OS X
+
+ Direct Download
+ File Size: 1563 Kb - PPC version
+
+ Direct Download
+ File Size: 2879 Kb - Mac OS X Command line version
+
+ Home Page 
+
+ Server Sentinel 2.0.3 
+
+A powerful server monitoring utility for the Macintosh platform. Sentinel will
+check your servers at specified intervals, and then run events if a server check
+fails like e-mailing or paging you, running AppleScripts, opening applications
+locally or over networks, resetting crashed computers, and much more. So don't
+worry - your systems will stay up without you.
+
+ License : Shareware, $20
+ Author/Publisher : Intelli Innovations 
+ Modification Date : March 16, 2001
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1497 Kb
+
+ Home Page 
+
+ SiteWatcher 1.1 
+
+SiteWatcher is a simple program that periodically checks to see if servers you specify are up and running or
+have gone down for some reason. You can configure the delay between checks and can monitor up to 9 server
+applications on the same or different machines. When SiteWatcher detects that a server is down, it will sound
+an audible alarm and it can launch a specified application which can take corrective action or notify the
+appropriate people.
+
+ License : Freeware
+ Author/Publisher : Chuck Shotton 
+ Modification Date : May 29, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 128 Kb - SiteWatcher 1.1
+
+ Direct Download
+ File Size: 80 Kb - Notify App 1.1 - released May 31, 1999 - notifies you with an email when a specified server is down working together with SiteWatcher
+
+ Home Page 
+
+ Summary 1.5.5 
+
+Summary is the web server log analysis tool that
+tells you more. With over sixty reports, you can find out more about your visitors, connection bandwidth,
+referrers, and all aspects of your website, than with any other tool.
+Many unique reports including: search words used to find your site in major search engines,
+periods when the server was down, most commonly used entry points into your site,
+visitors connection (modem) speed.
+
+ License : Shareware, $59
+ Author/Publisher : Jason T. Linhart 
+ Modification Date : January 9, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 523 Kb
+
+ Home Page 
+
+ SureServe 2k 1.0 
+
+SureServe is a program designed for users who run an internet server on a dial-up connection. As we all know, dial up connections aren't
+always perfect and often disconnect. Normally, this requires the server administrator to quit the server and restart it after reconnecting to the
+internet because your IP address changes and the server needs to update the change. If you run a server and are not going to be in the
+vicinity of the computer for a long period of time, this can pose a problem. SureServe will automatically reconnect an internet connection and
+quit and restart a server program in case of disconnect.
+
+ License : Freeware
+ Author/Publisher : Brandon Dimcheff 
+ Modification Date : January 1, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 298 Kb - 68k version
+
+ Direct Download
+ File Size: 317 Kb - PPC version
+
+ Home Page 
+
+ Traffic Report 1.0b57 
+
+Traffic Report? Simply put, Traffic Report is a tool that
+lets you visualize the activity that occurs at your web site.
+Unlike television or radio, the Web is an interactive medium. As
+such, each interaction between your web site and its visitors can
+be tracked in detail (rather than estimated by statistical
+sampling, as is the case with television and radio).
+
+ License : Public Beta
+ Author/Publisher : Advanced Reality 
+ Modification Date : November 17, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1350 Kb
+
+ Home Page 
+
+ WebCatalog 4.0 
+
+WebCatalog is a complete solution for online commerce and dynamic web publishing. It has all the power and features of
+products that cost 5 times as much and is easier to use. WebCatalog is an application that works with an existing web
+server and allows users to design and operate an online storefront with all the features found in the leading sites, from
+displaying the product to closing the sale. WebMerchant works with WebCatalog to automate the payment
+authorization, order notification and product delivery process.
+
+ License : Demo, $2495
+ Author/Publisher : SmithMicro 
+ Modification Date : June 7, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 6628 Kb
+
+ Download/Registration Page 
+
+ Home Page 
+
+ WebCollage 1.0.1 
+
+WebCollage will automatically update your web site with the information of your choosing. For example, you can set it to retrieve
+and automatically update stock prices, headlines, sports scores, you name it.
+You can also use it to make your own personalized page that resides on your hard disk with the information you want.
+WebCollage will work with your own Mac server but also works with pages residing on your ISP's server. 
+
+ License : 30 day Demo - Purchase for $249
+ Author/Publisher : StarNine
+ Modification Date : June 12, 1997
+ Requirements : 68020 or better
+
+ Direct Download
+ File Size: 3357 Kb
+
+ Parent Directory 
+
+ Key Request You need to fill out the form to get a demo key
+
+ Home Page
+
+ WebCrossing 4.1 
+
+Web Crossing is an Internet/intranet server application that provides online
+conferencing through web-based discussion forums and chat rooms. Web
+Crossing is the leading package for Web-based discussions, with over 1,000
+licenses in place at major Internet sites and leading edge intranets. 
+
+ License : Demo - Purchase for $995
+ Author/Publisher : Lundeen & Associates
+ Modification Date : September 28, 2000
+ Requirements : 680x0 or PPC, System 7.0 or higher
+
+ Direct Download
+ File Size: 11,807 Kb - version 4.1
+
+ Direct Download
+ File Size: 9109 Kb - version 3.1 - released January 11, 2000
+
+ Parent Directory
+
+ Home Page 
+
+ WebMonitor 1.1 
+
+WebMonitor1.1 will monitor web sites from one or several network locations, and
+escalate any detected issue to a number of email or pagers. The administrator can
+easily manage the application through his standard web browser. Reporting is
+available real-time or on historical data.
+
+ License : Demo, $240
+ Author/Publisher : Web Site Watchers Ltd
+ Modification Date : December 8, 1998
+ Requirements : PPC, Mac OS 7.6.1 or better, Java
+
+ Direct Download
+ File Size: 1968 Kb
+
+ Home Page 
+
+ WebSentinel 2.1.2 
+
+WebSentinel is a web server plug-in that replaces or supplements your web server's built-in security, allowing more flexibility and power to
+manage users and secure areas with a complete Macintosh user interface. Some of the many features include auto-expiring users (subscription
+management), administration groups, optional HTML-based login forms, GREP match strings, and custom "No Access" files for each realm.
+WebSentinel's plug-in architecture allows you to integrate with your existing user data and security architectures. 
+
+ License : Demo, $199
+ Author/Publisher : Purity Software, Inc
+ Modification Date : May 24, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1528 Kb
+
+ Home Page 
+
+ WebSiphon 1.5.1 
+
+WebSiphon is a powerful dynamic web publishing and CGI development tool with an integrated flat file database that should be in every
+site administrator's arsenal. By embedding sections of an easy to learn scripting language directly into your HTML documents, you can
+instantly turn any file on your site into a dynamic CGI.
+
+ License : Demo, $495
+ Author/Publisher : Purity Software, Inc
+ Modification Date : August 24, 1998
+ Requirements : PPC
+
+ Direct Download
+ File Size: 2356 Kb
+
+ Home Page 
+
+ Whistle Blower 2.1.1 
+
+Whistle Blower is a Macintosh application that can perform regular checks of your
+servers and alert you if any of them fail to respond. It can send email to you or
+your pager and now supports sending pages with the Markspace PageNOW!
+application. It can also react to the failure by performing an action. Whistle
+Blower can launch applescripts or other files to respond and can also control up
+to 4 powerkey modules connected to the machine to force restart a hung
+server.
+
+ License : Shareware, $90
+ Author/Publisher : James Sentman 
+ Modification Date : November 14, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1505 Kb - 68k version
+
+ Direct Download
+ File Size: 1046 Kb - PPC version
+
+ Home Page 
+
+ WWWStat4Mac 1.6.3 
+
+WWWStat4Mac is a simple application designed to process the log files from
+any application that outputs log files in the 'common log format'. This includes some UNIX and PC web servers. So
+if you have a UNIX or PC web server you might be able to process the log files on
+your Mac.
+
+ License : Shareware, $10
+ Author/Publisher : Peter Hardman
+ Modification Date : February 16, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1157 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ Back to the main page of Pure Mac

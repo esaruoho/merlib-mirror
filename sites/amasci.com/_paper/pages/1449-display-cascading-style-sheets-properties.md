@@ -1,0 +1,322 @@
+---
+title: "Display - Cascading Style Sheets Properties"
+source_domain: amasci.com
+source_path: ~bloo/indexdot/css/properties/classify/display.htm
+order: 1449
+reachable_from_entry: false
+images: 0
+internal_links: 11
+extracted: 2026-08-07T17:07:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Display - Cascading Style Sheets Properties
+
+*Source page: `~bloo/indexdot/css/properties/classify/display.htm`*
+
+\
+
+<table data-border="3" data-cellpadding="5" data-cellspacing="0">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2"><h1 id="display" class="pagetitle">display</h1>
+<strong><a href="../../../misc/suppkey.htm">Support Key:</a></strong> [<strong><em>CSS1</em></strong>|<strong>CSS2</strong>] [<strong>IE4B1</strong>|<strong><em>N4B2</em></strong>|<strong>O3.5</strong>]<br />
+</td>
+<td colspan="2" style="text-align: center;"><strong>Other Classification Properties</strong><br />
+</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="visibility.htm">visibility</a><br />
+<a href="position.htm">position</a><br />
+</td>
+<td style="text-align: center;"><a href="float.htm">float</a><br />
+<a href="clear.htm">clear</a><br />
+</td>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center;">= <span class="sitetitle">Index DOT Css</span> by <a href="../../../misc/email.htm">Brian Wilson</a> =<br />
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="center">
+
+|  |
+|----|
+|   [Main Index](../../index.html) \| [Property Index](../../propindex/font.htm) \| [CSS Support History](../../supportkey/syntax.htm) \| [Browser History](../../../history/browsers.htm)   |
+
+</div>
+
+------------------------------------------------------------------------
+
+\
+\
+
+<table data-border="1" data-cellspacing="0" data-cellpadding="5">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-border="0" data-cellspacing="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2" class="field" style="text-align: left;" data-valign="bottom"><u><strong>   Quick Statistics   </strong></u><br />
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th style="text-align: left;"><strong>Default Value:</strong><br />
+</th>
+<td><strong>inline</strong></td>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Applicable Elements:</strong><br />
+</th>
+<td>All</td>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Inherit From Parent:</strong><br />
+</th>
+<td>No</td>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Applicable Media:</strong><br />
+</th>
+<td>All</td>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>HTML Equivalent:</strong><br />
+</th>
+<td>NA</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+**What is it?**  
+This property specifies the type of rendering box used for an element. In a language such as HTML where existing elements have well-defined behavior, default 'display' property values are taken from behaviors described in the HTML specifications or from the browser/user default stylesheet. In languages where display behavior is not defined (like XML), the default value is 'inline'.\
+\
+In addition to the many different allowed display box types, one other value, "none", allows the display of an element to be turned off; all child elements also have their display turned off. The document is rendered as though the element did not exist in the document tree. This value allows for powerful capabilities, but should be used with caution.\
+\
+**"Block" Versus "In-line" Elements**\
+Block-level elements create vertically distinct blocks of content (in the visual context) - generally using a line-break before and after the content. Only this value for the 'display' is allowed to generate a positioned element. Block behavior is exhibited by such HTML elements as BLOCKQUOTEs, DIVs and Headings (Hn.)\
+**'Display' property values creating a block element type:** 'block', 'list-item', 'table, 'compact' and 'run-in'\
+\
+In-line elements do not create distinct blocks of content; element content is rendered using a line box (content is distributed line by line within a containing physical or virtual block element.) In-line behavior is exhibited by such HTML elements as physical and virtual character formatting, non-floated images and unmarked content.\
+**'Display' property values creating an in-line element type:** 'inline', 'inline-table', 'compact' and 'run-in'.
+
+<!-- -->
+
+\
+**Allowed Values**\
+**inherit**\
+\[***CSS2***\] \[***N6***\|**O7**\]  
+**Type:** Explicit
+
+**Description:**\
+Explicitly sets the value of this property to that of the parent.
+
+**none**\
+\[***CSS1***\|**CSS2**\] \[**IE4B1**\|***N4B2***\|**O3.5**\]  
+**Type:** Explicit
+
+**Description:**\
+This value turns off the display of an element (it has no effect on layout); all child elements also have their display turned off unconditionally. The document is rendered as though the element did not exist in the document tree. To render an element box's dimensions in the document formatting scheme, yet have its contents be invisible, see the '[visibility](visibility.htm)' property.
+
+**inline**\
+\[***CSS1***\|**CSS2**\] \[**IE5**\|**N6**\|***O3.5***\]  
+**Type:** Explicit
+
+**Description:**\
+This causes the element to generate one or more inline element boxes.
+
+**block**\
+\[***CSS1***\|**CSS2**\] \[**IE5**\|***N4B2***\|**O3.5**\]  
+**Type:** Explicit
+
+**Description:**\
+This causes the element to generate a block element box.
+
+**inline-block**\
+\[***O7***\]  
+**Type:** Explicit
+
+**Description:**\
+Introduced in CSS 2.1. This causes the element to generate a block element box that will be flowed with surrounding content as if it were an single inline box (behaving much like a replaced element would.)
+
+**list-item**\
+\[***CSS1***\|**CSS2**\] \[**IE6**\|***N4B2***\|**O4**\]  
+**Type:** Explicit
+
+**Description:**\
+This causes the element to generate a block box for the content and a separate list-item inline box.
+
+**marker**\
+\[***CSS2***\]  
+**Type:** Explicit
+
+**Description:**\
+This causes an additional marker box to be generated along with the content box. Generated content using the :before and :after pseudo-elements with this display value will place content in the marker box. If a marker is used with another type of element, the value is treated as "in-line." The position of the marker will lie outside the block box.
+
+**compact**\
+\[***CSS2***\] \[***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+Depending on context, this value for the display property creates either an in-line or block level rendering box. In each case different CSS properties may apply to the compact element. In a block level context, the compact element is rendered in the left or right margin of the block element. The compact element participates in line-height calculations for the current line, and the 'vertical-align' property value is relative to the block element.
+
+**run-in**\
+\[***CSS2***\] \[***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+Depending on context, this value for the display property creates either an in-line or block level rendering box. In each case different CSS properties may apply to the run-in element. Properties for the run-in element are inherited from its parent element in the document tree, not from the block element box it participates in.
+
+**\[table-header-group\|table-footer-group\]**\
+\[***CSS2***\] \[***IE5***\|**N6**\|**O4**\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding THEAD and TFOOT HTML table elements which these values take their name from.
+
+**table**\
+\[***CSS2***\] \[**N6**\|***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+**inline-table**\
+\[***CSS2***\] \[***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+**table-caption**\
+\[***CSS2***\] \[**N6**\|***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+**table-cell**\
+\[***CSS2***\] \[**N6**\|***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+**table-row\|table-row-group**\
+\[***CSS2***\] \[**N6**\|***O4***\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+**table-column\|table-column-group**\
+\[***CSS2***\] \[**N??**\|**O7**\]  
+**Type:** Explicit
+
+**Description:**\
+These values cause the element to behave like the corresponding HTML table element which these values take their name from. The 'inline-table' value does not have a direct mapping in HTML.
+
+<!-- -->
+
+**Example**  
+<div class="example">
+
+Ext/Doc: **p** { <span class="property">display:</span> block }
+
+</div>
+
+<div class="example">
+
+In-Line:  \<**p** <span class="tagattrib">STYLE</span>="<span class="property">display:</span> block"\>text\</**p**\>
+
+</div>
+
+**Notes**
+
+- **CSS1 Conformance:** browsers may legally ignore the 'display' property and instead use browser defaults for each element.
+- In CSS1 the default value for this property was "block." In CSS2 it has been changed to "inline".
+
+**Some rendering details of arbitrarily-created tables**
+
+- Netscape:\
+  - Items must originally be of type "block" to ensure table rendering ("inline" can cause problems.)\
+  - Row elements must originally be of type "block", cells must be set to 'display: table-cell.'\
+  - The 'display: table' element doesn't HAVE to exist to work. It could be an inline element for example (SPAN.)\
+  - 'display: table-row' seems extraneous - the entire structure can function without it.\
+  - Many CSS properties are ignored for "table-row" and "table-row-group" 'display' values.
+- Opera:\
+  - As long as there is a "table-like" structure (in-line or block), (elements enclosing groups of cells set to 'display: table-cell') then it renders as a table.\
+  - Row structuring elements (even if just span) must exist for rows to display correctly.\
+  - 'display: table-row seems extraneous - the entire structure can function without it.\
+  - Many CSS properties are ignored for "table-row" and "table-row-group" 'display' values.
+
+**Browser Peculiarities**
+
+- **Internet Explorer**
+  **4.0:**
+  \- 'display: none' on a block-level element still renders a linefeed.
+  \- 'display: none' on a table row makes that row disappear, but it still leaves ~2 pixels extra height where that row would have been. Later IE versions make it all collapse as expected.
+  **5.0:**
+  \- 'display: inline' on OL turns the list into a UL. Applied to OL/UL, 'list-style-position' is set to "inside" instead of "outside."
+  \- 'display: inline' applied to LI: List marker disappears.
+  \- 'display: inline' applied to DT/DD: renders DT and DD on the same line.
+  \- 'display: inline' applied to TABLE: renders the table like what 'display: inline-table' should be (this seems like a good thing.)
+  \- 'display: inline' for block level elements seems to have trouble with the P element as the parent - A linefeed is placed before the nested block element.
+  \- 'display: inline': For block elements, any space following the end tag is not displayed. Trailing space *INSIDE* the end tag is treated in the normal HTML manner.
+  \- 'display: none' applied to LI: What should subsequent list markers in a OL be? Should the markers iterate for the item that isn't displayed? IE5 does not iterate. I don't think this is correct.
+  **6.0:**
+  \- IE says it supports an "inline-block" value on this property, which would make a rendered block behave like an inline element box to the content surrounding it (eg, line-feeds in or caused by an element have no effect on surrounding in-line content.) But in testing, it does not work on elements that have an intrinsic "block" 'display' value (DIV, TABLE). It *does* work as expected on elements that have an intrinsic "inline" 'display' value (eg: SPAN.) If "inline-block" worked the way it *should*, then the explicit 'display' value would override an element's default 'display' value.
+  \- IE seems to re-start whatever numbering scheme that was in effect before the 'display: list-item' was declared.
+- **Netscape**
+  **4.x:**
+  \- 'display: inline' on a block-level element still renders a linefeed after.
+  \- 'display: inline' applied to LI renders marker and content on the previous LI line, with the marker overlapping the previous content.
+  \- 'display: inline' applied to DT and DD render the content on top of each other.
+  \- 'display: block' applied to inline elements, form fields, and IMG renders a linefeed before, but not after. Correct behavior for these elements may be achieved by applying the 'margin-bottom' property as well.
+  \- 'display: list-item' always places a line-break before and after, along with a standard 'margin-left' value for the content.
+  \- 'display: list-item' applied to OL makes it behave line a UL list.
+  \- 'display: list-item' applied to LI: Markers always rendered as a bullet, margin-left indentation is significantly greater than normal, and a linebreak is rendered before the LI content.
+  \- 'display: list-item' applied to DD: The same indentation is used as for the DT element (eg: none at all.)
+  \- 'display: list-item' applied to TH/TD: Content is indented within the cell.
+  \- 'display: none' on a block-level element still renders a linefeed.
+  \- 'display: none' applied to LI: LI content is rendered on previous list item line, no marker added to its content.
+  \- 'display: none' applied to DT/DD has no effect.
+  \- 'display: none' applied to SELECT: displays an empty selection list with zero length.
+  \- 'display: none' applied to OPTION: renders the option value concatenated to previous OPTION in the selection list field.
+  **6.x:**
+  \- 'display: inline-block' tries to do *something*, but it gets it wrong. It treats such an element as inline relative to the content before it (expected), but puts a linefeed after the element (not expected.)
+- **Opera**
+  **3.5:**
+  \- 'display: inline' on a block-level element still renders a linefeed before.
+  \- 'display: inline' applied to OL does not render markers, UL does. Normal list structure margin-left defaults are not applied.
+  \- 'display: inline' applied to LI in an OL list does not render the marker, but the next rendered LI marker is incremented by 2 instead of one.
+  \- 'display: inline' applied to DD renders a greater indent than normal.
+  \- 'display: inline' applied to TD/TH makes cell content disappear!
+  \- 'display: inline' applied to TABLE element renders cell content, kind of preformatted, but with no table borders, etc.
+  \- 'display: block' does not apply to form fields.
+  \- 'display: none' on a block-level element still renders a linefeed.
+  **4.x+:**
+  \- 'display: list-item' screws up any existing list numbering scheme already in effect..
+
+\
+\
+[Boring Copyright Stuff....](../../../misc/copyright.htm)\

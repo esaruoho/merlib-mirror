@@ -1,0 +1,21 @@
+Semi Live Stats 
+
+ To track your team: 
+
+ Click on the check mark to the upper left to attempt to connect. 
+ If you get 'failure to connect', time out errors or just about any 
+ other errors - the server to the service is not up at this time or 
+ the internet isn't playing very nice. The server should be running 
+ the scoring fromthe kick off of the first Sunday game until I get 
+ the final scores after Monday night football. If for some odd reason 
+ you think it should be working but isn't please drop me a line 
+ q256@eskimo.com 
+ If that does not work check out the ' Starting 
+ Line Up ' link. This is where you see the posted starting line 
+ ups of all the teams. For convience - data is mirrored to the 'starting 
+ line up' in case the internet isn't playing nice AND outside of the 
+ game(s) times (ie Friday/Saturday of week 1). 
+
+ To refresh the game data during the day - hit the check mark again 
+ to refresh the page or use the refresh function on your browser. 
+ - richie, commish

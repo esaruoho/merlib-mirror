@@ -1,0 +1,61 @@
+Cascading Style Sheet Units of Measure 
+
+ Units of Measure 
+ = Index DOT Css by Brian Wilson = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ What is it? 
+ CSS is used to render information to a device. These devices exist
+ in the real world and have dimensions and capabilities that are
+ measurable. So, CSS provides a way for document content to
+ explicitly specify how it will be mapped to a physical device. If
+ a property value contains an illegal unit measure, the entire style
+ rule should be ignored.
+
+ CSS Units 
+ Relative Length 
+ [ CSS1 | CSS2 ] 
+ [ IE3 | N4B3 | O3.5 ]
+ Ems ( em ), X-Height ( ex ),
+ Pixels ( px )
+
+ Absolute Length 
+ [ CSS1 | CSS2 ] 
+ [ IE3 | N4 | O3.5 ]
+ Inches ( in ), Centimeters ( cm ),
+ Millimeters ( mm ), Points ( pt ),
+ Picas ( pc )
+
+ URL 
+ [ CSS1 | CSS2 ] 
+ [ IE3 | N4 | O3.5 ]
+ Relative URLs, Absolute URLs
+
+ Color 
+ [ CSS1 | CSS2 ] 
+ [ IE3B1 | N4B2 | O3.5 ]
+ Single Hex notation ( [#RGB] ), Double Hex notation ( [#RRGGBB] ), 
+ Integer notation ( [rgb(r,g,b)] ),
+ Percentage notation ( [rgb(r%,g%,b%)] ), 
+ VGA color names ( [VGA Name] ),
+ UNIX X11 color names ( [X11 Name] ), 
+ User Interface color names ( [UI Name] )
+
+ Angle 
+ [ CSS2 ] 
+ Degrees ( deg ), Grads ( grad ),
+ Radians ( rad )
+
+ Time 
+ [ CSS2 ] 
+ Seconds ( s ), Milliseconds ( ms )
+
+ Frequency 
+ [ CSS2 ] 
+ Hertz ( Hz ), KiloHertz ( kHz )
+
+ Boring Copyright Stuff....

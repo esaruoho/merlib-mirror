@@ -1,0 +1,75 @@
+Thanks to.... 
+
+ Thanks To... 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+There are many who have helped me create these documents,
+in the form of advice or suggestions as well as sanity checking and
+proof-reading. In no particular order...
+
+ Tapio Markula 
+ I've been corresponding with Tapio for some time about CSS matters, and
+ the bugs/browser behaviors we both try to document. His own
+ site on CSS 
+ in Finnish/English is a similar resource to my own in that we both are
+ trying to get to the bottom of just WHAT the browsers do and don't support
+ from the standards.
+ Ronald and "Engineer
+ Dave" 
+ In the early days of the site for providing tons of ideas,
+ encouragement and content as well as feedback as to whether the pages
+ were readable to the common man.
+ Stephen LeHunte 
+ Who created the HTML Reference Library (a wonderful resource, but it is sadly 
+ no longer being updated.) Through many emails on the latest goings-on in HTML 
+ and CSS he was one of the few not to have that glazed over, bored, 
+ "uh-huh" response to conversations about this subject. =)
+ He also was kind enough to let me borrow heavily from his site license
+ concept and wording (thankyouthankyou.)
+ CSS Browser Bug Site creators 
+ There are many resources on the Internet that also document CSS bugs in the
+ various browsers. In researching browser bugs to document on this site,
+ I consulted many of these resources as well as creating my own test files.
+ Here is a listing of resources consulted, along with a heartfelt thanks to
+ the authors for their existence - browser makers seldom go out of their way
+ to make bugs in their products public. 
+
+ CSS Pointers Group's CSS Bugs and Workarounds 
+ Eric Meyer's CSS
+ Master Compatibility Chart at Webreview.com
+ Style Master's House
+ of Style resource
+ David Baron's CSS tests 
+ Stephan Nedregaard's CSS support in popular browsers (site now gone)
+ Braden McDaniel's Support for
+ CSS1 in MSIE 3.0, Win32 
+ Ian Graham's CSS
+ Bugs and Implementation Problems, with Workarounds 
+
+ The HTML Writer's Guild and
+ Comp.infosystems.www.authoring.* 
+ Great minds and even better feedback in these forums for authors.
+ Tim Berners-Lee For sending a response regarding
+ the early days of HTML when I ran into a bunch of dead links on the
+ subject on the web. Oh, and of course he also created the WWW and HTML -
+ For that we should all be grateful! =)
+ The Mirror Site Maintainers For the space
+ and their time - all donated. The web isn't totally 
+ commercialized yet.
+ There were many others that kept me pointed
+ in the right direction, gave feedback and alerted me to undocumented
+ browser behaviors. If I tried to list them all, I would inevitably forget
+ someone. For all of you, this is a general, genuine THANKS!! =)
+
+ Boring Copyright Stuff...

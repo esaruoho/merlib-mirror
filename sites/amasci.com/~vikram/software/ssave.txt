@@ -1,0 +1,32 @@
+
+Instructions for using Screensavers.
+
+All the screensavers available on this page 
+are in ZIP files (e.g. the file is x-plode.zip).
+
+You need to 'unzip' these files using pkunzip 
+or WinZip or some similar software.
+
+Once you've unzipped the file, you will get a 
+file with the .scr extension. (e.g. x-plode.zip 
+will become x-plode.scr).
+
+If you are running Windows 3.1, copy the new file 
+(e.g. x-plode.scr) into your windows directory 
+(this is typically called C:\Windows). Then, in 
+the program manager, open the MAIN group. Open 
+Control Panel, then open Display. One of the 
+options is for Screensavers. You can select and 
+preview the new screensaver (e.g. X-Plode) from 
+the drop-down list.
+
+If you are running Windows 95, right click on 
+the new file (e.g. x-plode.scr) and select 
+Install. This will install the screensaver. 
+Right-click on the Desktop and select properties. 
+Go to the Screensaver pane. You should be able 
+to see the new screensaver in the drop down list 
+(e.g. you will see an entry called X-Plode). 
+Select it.
+
+

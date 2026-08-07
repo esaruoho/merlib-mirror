@@ -1,0 +1,389 @@
+Pure Mac: Flight Sims etc. - Software for Macintosh 
+
+ Flight Sims etc. 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Flight Sims 
+ Other Simulators 
+
+ A-OK! The Wings of Mercury 
+ F/A-18 Iraqi Freedom 
+ OSX SkyFighters 1945 
+ SkyFighters 1918 
+ Warbirds 
+ WWII Online 
+ X-Plane 
+
+ googol-Choo-Choo 3D 
+ NoLimits 
+ SteamTRAIN 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ A-OK! The Wings of Mercury 3.8 
+
+A-OK! The Wings of Mercury is a realistic simulation of the Mercury
+spacecraft. It features 3D graphics, fully functional control panels,
+networked simulations, and a complete manual. Available on Windows XP
+and Mac OS X. A-OK! WoM is so realistic, you will use the actual
+checklists used by the astronauts. Orbital and Sub-Orbital missions can
+be simulated. Orbital missions and a Mission Control Center simulator
+are available to registered users.
+
+ License : Demo, $50
+ Author/Publisher : Joseph Nastasi/Pyramid Design
+ Modification Date : July 27, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 69.3 MB
+
+ Home Page 
+
+ F/A-18 Hornet: Operation Iraqi Freedom 1.0.4 
+
+Jump through your television directly into the cockpit of the
+Navy/Marine workhorse fighting machine-the F/A-18 Hornet. Now you can
+fly the most prolific carrier-based aircraft in the Coalition arsenal.
+Load up with precision guided munitions and bring the forces of freedom
+to bear on the Iraqi regime of terror. Fly above thousands of square
+miles of stunning satellite image-based terrain. Look through your
+canopy and see the same environment that Coalition fighter pilots
+navigated during Operation Iraqi Freedom.
+
+ License : Updater, $40
+ Author/Publisher : Graphic Simulations
+ Modification Date : January 10, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 322 Kb - 1.0.4 updater
+
+ Home Page 
+
+ googol-Choo-Choo 3D 2.06 
+
+googol-Choo-Choo 3D is a 3D model railroad simulation program. It is
+easy to make your own layout by dragging and dropping track items, or
+other items, on your layout. You can see the layout in 3D from driver's
+seat of a running train or from several other locations. If you want to
+create your own trains or structures, you can do it with 3D modeling
+software and import the file into googol-Choo-Choo 3D.
+
+ License : Shareware, $21
+ Author/Publisher : Googolplex
+ Modification Date : October 25, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 17.4 MB
+
+ Home Page 
+
+ NoLimits 1.71 
+
+NoLimits is the ultimate roller coasters simulation game that lets you
+experience authentic roller coaster thrills.
+
+Focusing on realism and speed, NoLimits lets you ride real existing
+coasters, or build rollercoasters to your own specifications - with 18
+different track styles, including inverted, hyper-coasters, wooden and
+shuttle coasters.
+
+ License : Shareware, $30
+ Author/Publisher : Mad Data
+ Modification Date : December 27, 2007
+ Requirements : Mac OS X 10.2.4 or higher
+
+ Download 
+File Size: 40.2 MB - 1.6 Demo - July 15, 2007
+
+ Download 
+File Size: 16.7 MB - 1.71 Updater
+
+ Home Page 
+
+ OSX SkyFighters 1945 1.08 
+
+Try your hand at flying and dogfighting. Design and create missions with
+the included "Mission Builder". Create custom paint jobs for your
+aircraft.
+
+OSX SkyFighters 1945... is this a simple port of my popular pre-OSX
+program? No, not exactly. OSX SkyFighters 1945 w/MB will be familiar to
+people who have flown my original SF1945 program, but this new, OSX
+Cocoa program, is mostly re-written from scratch, including all new
+flight characteristic routines.
+
+ License : Demo, $30
+ Author/Publisher : Donald A. Hill Jr.
+ Modification Date : March 27, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 38.4 MB - Demo
+
+ Home Page 
+
+ SkyFighters 1918 0.78 
+
+SkyFighters 1918 is a full featured flight sim set during World War I.
+With SkyFighters 1918 you can engage in dogfights, fly missions, destroy
+ground targets, create your own missions, fly online... this program
+rocks.
+
+ License : Demo, $30
+ Author/Publisher : Donald A. Hill Jr.
+ Modification Date : September 6, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 39.7 MB
+
+ Home Page 
+
+ SteamTRAIN 3.1 
+
+You represent the engineer and crew of an 1800's era steam train. Your
+vintage train consists of a steam locomotive and tender, plus baggage
+cars and passenger coaches.
+
+Your train will travel between stops, up and down grades, negotiate
+curves, switch tracks, and couple/uncouple cars. Controls include the
+engine's throttle, boiler steam pressure, traction sand, three brake
+types, manual couplers, and track switches. Share right-of-way with
+Phantom Express. The Dispatcher gives train assignments.
+
+ License : Shareware, $22
+ Author/Publisher : NostWare.com
+ Modification Date : February 15, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.8 MB
+
+ Home Page 
+
+ Warbirds 2006 
+
+The Warbirds Flight Simulator, the world's best online aerial combat
+game, pits the Axis vs. the Allies in the skies over Europe, Tunisia,
+Malta and the Philippines.
+
+Take part in air-to-air flight simulator combat in one of over 50
+fighter aircraft, or pound the enemy into submission in one of the games
+heavy bombers. With constant updates, new terrains, planes and game
+features this conbat flight simulation, with a long and colorful past,
+NEVER gets old.
+
+ License : 2 Week Free Trial, $14 a month thereafter
+ Author/Publisher : iEntertainment Network
+ Modification Date : June 4, 2006
+ Requirements : Mac OS X 10.2.8 or higher and a 900MHz G4 or better
+
+ Download 
+File Size: 402.0 MB - Warbirds 2006 - Note: you need a credit card for the free trial
+
+ Signup Page 
+
+ Downloads 
+
+ Home Page 
+
+ WWII Online 1.23.5 
+
+World War II Online is a combined arms simulation in an online,
+persistent, action-packed 3D world. Now you can command and crew a
+variety of accurately modeled vehicles and aircraft or you can sling a
+weapon and fight as a foot soldier with and against thousands of other
+players.
+
+ License : $20 for a 30 Day Trial/$13 a month thereafter
+ Author/Publisher : Cornered Rat Software
+ Modification Date : June 2, 2006
+ Requirements : Mac OS X 10.3 or higher and a G4 700MHz or better
+
+ Download 
+File Size: 266.0 MB full version 1.23.4
+
+ Download 
+File Size: 3.8 MB - 1.23.4 to 1.23.5 updater
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ X-Plane 9.2.2 
+
+X-Plane is the world's most comprehensive, powerful flight simulator,
+and has the most realistic flight model available for personal
+computers.
+
+Welcome to the world of props, jets, single- and multi-engine airplanes,
+as well as gliders, helicopters and VTOLs such as the V-22 Osprey and
+AV8-B Harrier.
+
+X-Plane comes with subsonic and supersonic flight dynamics, sporting
+aircraft from the Bell 206 Jet-Ranger helicopter and Cessna 172 light
+plane to the supersonic Concorde and Mach-3 XB-70 Valkyrie. X-Plane
+comes with about 40 aircraft spanning the aviation industry (and
+history), and several hundred more are freely downloadable from the
+internet.
+
+THE DEMO CONTAINS A LIMITED SCENERY AREA ONLY TO KEEP THE DOWNLOAD SIZE
+DOWN, AND RUNS THE JOYSTICK FOR 10 MINUTES ONLY
+
+ License : Demo, $100
+ Author/Publisher : Laminar Research
+ Modification Date : April 3, 2009
+ Requirements : Mac OS X 10.3.9 or higher, 800MHz or faster
+
+ Download 
+File Size: 4.0 MB - Demo Installer 9.2.2
+
+ Download 
+File Size: 4.0 MB - Update Installer 9.2.2
+
+ Download Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

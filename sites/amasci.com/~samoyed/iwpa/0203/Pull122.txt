@@ -1,0 +1,472 @@
+Pull 122 -- The Final 2003 Ohio IWPA Weight Pull
+ -- Day 2 
+
+ The Final 2003 Ohio IWPA Weight Pull 
+Kingston, Ohio 
+
+ Pull: 122 
+ Organizer(s): Todd Tripp 
+ Wheels on Dirt
+ Region: 6 
+
+ Track: 
+ Good 
+ Date: 
+Sun
+ 16 
+Mar
+ 2003 
+
+ Weather: 
+ Sunny and mid 60's 
+
+ Day 2 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Josh Leiter 
+
+ 20 # Class 
+
+Judged by 
+Holly Lowery
+
+ 235 # Start weight, 
+ 40 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Buddy 
+ 4 
+ 995
+
+ 20.46 
+ 18 
+ 55.28 
+ 7.0 
+ David Heil
+
+ Patterdale Terrier 
+
+ Navin 
+ 4 
+ 995
+
+ 30.31 
+ 18 
+ 55.28 
+ 4.0 
+ Trent Vance
+
+ Boston Bull Terrier 
+
+ Shyne 
+ 6 
+ 715
+
+ 7.37 
+ 20 
+ 35.75 
+ 1.0 
+ Josh Leiter
+
+ Am. PitBull Terrier 
+
+ 40 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 120 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Lil Large 
+ 6 
+ 2275
+
+ 14.53 
+ 40 
+ 56.88 
+ 12.0 
+ Nathan Burns
+
+ Am. PitBull Terrier 
+
+ Choo Choo 
+ 4 
+ 2155
+
+ 17.31 
+ 40 
+ 53.88 
+ 9.0 
+ David Heil
+
+ Am. PitBull Terrier 
+
+ Rio 
+ 6 
+ 2155
+
+ 22.88 
+ 40 
+ 53.88 
+ 6.0 
+ Holly Lowery
+ Jerry Leist
+
+ Am. PitBull Terrier 
+
+ Grace 
+ 6 
+ 2035
+
+ 19.28 
+ 38 
+ 53.55 
+ 4.0 
+ Damon Keels
+
+ Am. PitBull Terrier 
+
+ Lil Bubba 
+ 6 
+ 1915
+
+ 18.09 
+ 40 
+ 47.88 
+ 3.0 
+ Nathan Burns
+
+ Am. PitBull Terrier 
+
+ Penny 
+ 6 
+ 1075
+
+ 7.88 
+ 34 
+ 31.62 
+ 2.0 
+ Brett Young
+ Holly Lowery
+
+ Am. PitBull Terrier 
+
+ Margo 
+ 6 
+ 1075
+
+ 8.28 
+ 38 
+ 28.29 
+ 1.0 
+ Holly Lowery
+
+ Am. PitBull Terrier 
+
+ Lil Lillie 
+ 6 
+ 955
+
+ 7.56 
+ 40 
+ 23.88 
+ 0.5 
+ Todd Tripp
+ Kevin Kell
+
+ Am. PitBull Terrier 
+
+ 60 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Karma 
+ 6 
+ 2395
+
+ 19.22 
+ 48 
+ 49.90 
+ 7.0 
+ Holly Lowery
+
+ Am. PitBull Terrier 
+
+ Rodeo 
+ 6 
+ 1595
+
+ 7.97 
+ 52 
+ 30.67 
+ 4.0 
+ Brett Young
+
+ Am. PitBull Terrier 
+
+ Vinny 
+ 6 
+ 715
+
+ 7.34 
+ 44 
+ 16.25 
+ 1.0 
+ Kevin Mccabe
+
+ Samoyed 
+
+ 80 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Asia 
+ 4 
+ 2075
+
+ 16.00 
+ 78 
+ 26.60 
+ 5.0 
+ David Heil
+
+ Am. PitBull Terrier 
+
+ 100 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jessa 
+ 6 
+ 1595
+
+ 7.00 
+ 84 
+ 18.99 
+ 5.0 
+ Jared Lance Sinkowski
+
+ Unknown 
+
+ 125 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Deuce 
+ P 
+ No Pull
+
+ 116 
+ . 
+ . 
+ Tom Wrableovski
+
+ Cane Corso Mastiff 
+
+ 150 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jethro 
+ 6 
+ 2715
+
+ 9.47 
+ 139 
+ 19.53 
+ 6.0 
+ Jared Lance Sinkowski
+
+ Alaskan Malamute 
+
+ Hagan 
+ 6 
+ 1750
+
+ 43.31 
+ 144 
+ 12.15 
+ 3.0 
+ Lois Bellamy
+ Jeff Bellamy
+
+ Saint Bernard 
+
+ Unlimited Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Moose 
+ P 
+ 3355
+
+ 14.00 
+ 167 
+ 20.09 
+ . 
+ Marilyn Shaferly
+ Larry Shaferly
+
+ Alaskan Malamute 
+
+ Hooch 
+ P 
+ 1915
+
+ 11.38 
+ 188 
+ 10.19 
+ . 
+ Larry Shaferly
+
+ Mastiff 
+
+ Last Updated: 08:45:24 on 04-04-2003 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

@@ -1,0 +1,56 @@
+---
+title: "The former 'Wizard of Oz' FAQ page 1"
+source_domain: amasci.com
+source_path: ~tiktok/wickedcd.html
+order: 9040
+reachable_from_entry: false
+images: 6
+internal_links: 3
+extracted: 2026-08-07T17:17:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The former "Wizard of Oz" FAQ page 1
+
+*Source page: `~tiktok/wickedcd.html`*
+
+# Wicked cast album press release
+
+\
+<img src="Pics/wickedcdcover.GIF" width="500" height="496" alt="&#39;Wicked&#39; Cast Album CD cover" />\
+*WICKED*\
+A NEW MUSICAL BY STEPHEN SCHWARTZ & WINNIE HOLZMAN\
+BASED ON THE NOVEL BY GREGORY MAGUIRE
+
+DECCA BROADWAY RELEASES ORIGINAL BROADWAY CAST RECORDING
+
+AVAILABLE IN STORES MID-DECEMBER
+
+OFFICIAL BROADWAY OPENING: OCTOBER 30, 2003
+
+Decca Broadway is proud to release the Original Broadway Cast Recording of *Wicked*, produced for record by Stephen Schwartz, the show's composer and lyricist. The CD is available in stores now. Wicked officially opened on Broadway October 30.
+
+This hotly-anticipated theatrical event is directed by Tony Award Winner Joe Mantello (*Take Me Out*), features musical staging by Tony Award Winner Wayne Cilento (*Aida*, *The Who's Tommy*, *How To Succeed*), music and lyrics by Stephen Schwartz (*Godspell*, *Pippin*, Academy Award Winner for *Pocahontas* and *The Prince of Egypt*), with book by Winnie Holzman (*My So Called Life*, *Once And Again* and *thirtysomething*). *Wicked* is based on the 1995 novel by Gregory Maguire and is presented on Broadway by Marc Platt, Universal Pictures, The Araca Group, Jon B. Platt and David Stone.
+
+This untold story of the witches of Oz features two young and gifted girls in the land somewhere over the rainbow, long before Dorothy dropped in. One is beautiful, ambitious and very popular. The other is clever and passionate, though an outsider with emerald-green skin. *Wicked* chronicles their journey, telling how these unlikely friends ultimately become 'Glinda the Good' and the infamous 'Wicked Witch of the West.'
+
+*Wicked*'s stellar cast includes Tony Award Winner Kristin Chenoweth (*You're A Good Man Charlie Brown*) as Glinda, Idina Menzel (*Rent*) as Elphaba, Oscar & Tony Award Winner Joel Grey (*Cabaret*) as The Wizard, Carole Shelley (*The Elephant Man*) as Madame Morrible, and Norbert Leo Butz (*Thou Shall Not*, *The Last Five Years*) as the love interest Fiyero.
+
+Decca Broadway is committed to recording the best in contemporary Broadway musicals and to offering the finest reissues of classic performances and historic original cast albums. Decca Broadway currently holds the largest cast recording library available in North America, dating back to the first complete original cast recording, *Oklahoma!* in 1943. Past Decca Broadway releases include: *Carousel* (1945) starring John Raitt, *Porgy and Bess* original 1942 cast, and *Annie Get Your Gun* (1946) starring Ethel Merman, *Guys and Dolls* (1950), *Man of La Mancha* (1965), to name a few. Recent Decca Broadway musical cast recordings consist of the Phil Ramone-produced, Flaherty and Ahrens' *Seussical*, Michael John LaChiusa's *The Wild Party*, the Grammy nominated chart-topping blockbuster *Mamma Mia* and, most recently, *The Boy From Oz* starring Hugh Jackman.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+\[[Back to the Reviews Page](reviews.html)\]
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## [<img src="pics/home.gif" data-border="0" width="100" height="88" alt="Back home" /> "There's no place like the home page..."](index.html)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+<a href="http://www.clipartconnection.com" target="_blank">Get FREE clip art, such as the rainbow bar used on this page, from ClipArtConnection.com</a>
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />\
+
+This webpage, its contents, and the code used to create it are copyright © 1996-2005 Eric P. Gjovaag.\
+All rights reserved. For full legal disclaimer, see the [About This Site](aboutsite.html#legalstuff) page

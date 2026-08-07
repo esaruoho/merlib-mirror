@@ -1,0 +1,47 @@
+Simple Large Merge 
+
+ Simple Large Merge 
+
+ "Simple" selects up to
+five words in your key sentence to merge with new Word Categories. Then
+each of these five words you select is merged with 2 choices of Word Categories.
+
+ This is how it looks in diagram
+form: 
+
+ "Simple Large Merge" 
+
+ Our key sentence is: 
+
+ The gray sky looks fine in the sunshine. 
+
+ We are given the sentence in horizontal
+layout, one word on top of the other, and we tag the words we desire to
+merge on by clicking them. 
+
+ Here are some words in our sentence
+that will be good to expand on: 
+
+ 1 2 3 4 5 The gray sky looks fine
+in the sunshine. 
+
+ We will use: 1 The 2 gray 3 sky
+4 fine 5 sunshine 
+
+ In "Simple Large Merge,"
+each one of these words can be used to merge with two new Word Categories.
+ParaMind will prompt you for them. Make sure you are already in the Word
+Category directory such as "Biz," or "All," etc., that
+will have the Word Categories that you want to select from. You must use
+the "Add to List" button on the screen. If you don't like a word,
+highlight it in the box that contains your selections and click on "Remove." 
+
+ One does not have to select the
+maximum number of words possible. "Simple Large Merge" is a good
+way to speed up your merges even if you want to only choose one word to
+merge with five "Word Categories." "Simple Large Merge"
+will not make the huge or more sophisticated ParaMind output files because
+it only uses one word change in your sentence at a time. 
+
+Use your back button or click here for 
+ Table of Contents Page

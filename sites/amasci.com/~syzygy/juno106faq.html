@@ -1,0 +1,306 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>The Juno-106 FAQ</title>
+<link rev="made" href="mailto:syzygy@eskimo.com">
+</head>
+
+<body>
+
+<h1>The Juno-106 FAQ</h1>
+
+<p><font size="2">Last updated June 28, 1998.</font></p>
+
+<p>This document will attempt to answer frequently asked
+questions related to the Juno-106, a synthesizer introduced by
+Roland in 1984. Questions, comments, corrections, or ideas for
+additions to this FAQ can be mailed to Chad Beeder at <a
+href="mailto:syzygy@eskimo.com">syzygy@eskimo.com</a>. </p>
+
+<h2>Contents:</h2>
+
+<ol>
+    <li><a href="#q1">What is the Juno-106?</a> </li>
+    <li><a href="#q2">How can I order a manual or replacement
+        parts for my Juno?</a> </li>
+    <li><a href="#q3">How does the Juno-106 differ from other
+        models in the Juno series?</a> </li>
+    <li><a href="#q4">What is the going rate for a used Juno-106?</a>
+    </li>
+    <li><a href="#q5">What are some common problems that occur
+        with the Juno-106?</a> </li>
+    <li><a href="#q6">Can the Juno-106 send and receive real-time
+        MIDI sysex information?</a> </li>
+    <li><a href="#q7">Where can I get information on the
+        Juno-106's MIDI implementation?</a> </li>
+    <li><a href="#q8">Where can I find patch editing/librarian
+        software for the Juno-106?</a> </li>
+</ol>
+
+<hr>
+
+<p><a name="q1"></a></p>
+
+<h3>What is the Juno-106?</h3>
+
+<p>The Juno-106 is a programmable polyphonic analog synthesizer
+released by <a href="http://www.rolandcorp.com/">Roland</a> in
+1984. It has a 61-key keyboard, 6 voices, and a fairly extensive
+MIDI implementation. For more information, check out the <a
+href="http://www.eskimo.com/~syzygy/juno106.html">Juno-106 Home
+Page</a>.</p>
+
+<hr>
+
+<p><a name="q2"></a></p>
+
+<h3>How can I order a manual or replacement parts for my Juno?</h3>
+
+<p>Manuals and replacement parts can be ordered from Roland: </p>
+
+<pre>     Roland Corporation
+     7200 Dominion Circle
+     Los Angeles, CA 90040
+     Phone: (213) 685-5141  Fax: (213) 726-8865
+</pre>
+
+<hr>
+
+<p><a name="q3"></a></p>
+
+<h3>How does the Juno-106 differ from other models in the Juno
+series?</h3>
+
+<p>A brief history of Junos:</p>
+
+<p>The first Juno to be introduced was the Juno-6, which was
+released in 1982 and has a very similar architecture to the 106.
+Its main limitation is the lack of patch memory, which makes it
+impossible to save patches created on it. The Juno-6 had no
+external control inputs or outputs except for a VCF control input
+for sweeping the filter cutoff.</p>
+
+<p>Next came the Juno-60, which added support for storage and
+retrieval of up to 56 patches via battery-backed memory. These
+stored patches could also be saved to audio tape. The Juno-60 had
+the Roland DCB interface, a proprietary interface developed by
+Roland before the advent of MIDI.</p>
+
+<p>The Juno-106 added a fairly extensive MIDI implementation in
+place of the DCB interface, and upgraded the available patch
+storage memory to 128 patches. It did, however, lose the
+arpeggiator that had been a feature of the 6 and 60. Many people
+say that the 106 is &quot;thinner sounding&quot; than the first
+two models, although there is no doubt that it is still certainly
+capable of generating warm, fat, analog sounds.</p>
+
+<p>There is also a Roland synth called the HS-60 that is nearly
+identical to the Juno-106 except that it has two built-in 5&quot;
+speakers and a 16 watt amplifier. The HS-60 was marketed more
+toward the home user, while the Junos were primarily targeted at
+the professional market. The HS-60 is also known as the
+Juno-106S.</p>
+
+<p>Later models were the Alpha Juno 1 and 2, which expanded on
+the architecture a bit from the earlier models, and provided a
+more extensive MIDI implementation. They also replaced the
+convenient rows of sliders with a small alphanumeric display, a
+number of buttons, and an &quot;alpha dial.&quot; The general
+consensus is that the Alpha Junos sound a little more
+&quot;digital&quot; and &quot;cold&quot; than the earlier Junos,
+although they are a little more modern in design and features.
+The Alpha Juno 2 has a larger keyboard than the 1 (61 keys and 49
+keys, respectively), and also implements velocity sensitivity and
+aftertouch on the keyboard. Both of the Alpha Junos can respond
+to velocity via MIDI, however. Velocity sensitivity is not a
+feature of any earlier Junos.</p>
+
+<hr>
+
+<p><a name="q4"></a></p>
+
+<h3>What is the going rate for a used Juno-106?</h3>
+
+<p>Junos have had a recent surge in popularity, and prices seem
+to have gone up a little, but they still should be available at
+reasonable prices. I bought my Juno-106 in late 1994 for $375. A
+good source for price information is Neil Bradley's <a
+href="http://www.synthcom.com/usedlist.html">Used Gear Price List</a>,
+which compiles asking prices from recent for-sale postings on
+Usenet. </p>
+
+<hr>
+
+<p><a name="q5"></a></p>
+
+<h3>What are some common problems that occur with the Juno-106?</h3>
+
+<p>As analog synths go, the Juno-106 is very reliable, but as
+with any machine, problems sometimes do happen. The most common
+problem seems to be having one of the six voices go out. This
+will be characterized by the Juno skipping every sixth note
+played when in the normal polyphonic mode (poly 1). This is most
+often caused by one of the custom Roland ICs failing, either one
+of the &quot;wave generator&quot; chips or one of the combination
+VCF/VCA chips.</p>
+
+<p>According to Kevin Lightner of <a
+href="http://www.synthfool.com">www.synthfool.com</a>, the most
+common failure is with the VCF/VCA (80017A) chips. There are six
+of these in the Juno, one for each voice. However, the three wave
+generator chips (MC5534A) may fail too, and in fact this was my
+experience with my Juno. (Each wave generator chip controls two
+voices.)</p>
+
+<p>Please note that replacing these chips involves a good deal of
+patience and considerable skill with a soldering iron. If you
+don't feel comfortable poking around a circuit board and
+desoldering chips, don't attempt to fix this on your own.</p>
+
+<p>You can find out which voice has the problem by putting the
+Juno into test mode. Hold down the Key Transpose button while
+turning on the power. Then press both the Poly I and Poly II
+buttons at the same time. Now hit a key repeatedly. The Juno will
+cycle through each voice in sequence, and the left digit on the
+display will show which voice is currently sounding. For complete
+information on the Juno-106 test mode, refer to the service
+manual. There is also some <a
+href="http://www.hyperreal.com/machines/manufacturers/Roland/Juno/info/roland.Juno-106.test-mode">information
+on the test mode</a> available on the <a
+href="http://www.hyperreal.com/music/machines/">Music Machines</a>
+web site.</p>
+
+<p>There are a few production runs of the 80017A VCF/VCA chip
+which are known to be problematic. These can be identified by the
+lot number, which is printed on the chip in the lower right
+corner. Lots 41C and 42B are known to have problems. Here is a
+scan of the original <a
+href="http://www.synthfool.com/i80017a.gif">Roland service
+bulletin</a> which discusses this problem.</p>
+
+<p>The following chart shows which ICs are associated with each
+voice. These chips are all located on the module board in the
+Juno.</p>
+
+<table border="1" cellpadding="2">
+    <tr>
+        <td><strong>Voice</strong></td>
+        <td><strong>Wave Generator Chip<br>
+        (MC5534A)</strong></td>
+        <td><strong>VCF/VCA Chip<br>
+        (80017A)</strong></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td rowspan="2">IC12</td>
+        <td>IC13</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>IC11</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td rowspan="2">IC8</td>
+        <td>IC9</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>IC7</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td rowspan="2">IC4</td>
+        <td>IC5</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>IC3</td>
+    </tr>
+</table>
+
+<p>Note that sometimes not all parts of a voice go out. In my
+case, it was only the sub-oscillator on voice 4 which stopped
+working, while the sawtooth and pulse waves still worked fine.
+(This was probably one indicator that it was the wave generator
+chip, and not the VCF/VCA chip, which was causing the problem. If
+the VCF/VCA chip had gone out, the expected behavior would have
+been for the entire voice to be dead, not just one part of it.)</p>
+
+<p>Obligatory disclaimer: This information is provided as an aid
+for Juno-106 users but is not guaranteed to work for everyone. If
+you go poking around your Juno with a soldering iron, you do so
+at your own risk. If you don't know what you're doing, you should
+probably take your unit to an authorized Roland service center.</p>
+
+<hr>
+
+<p><a name="q6"></a></p>
+
+<h3>Can the Juno-106 send and receive real-time MIDI sysex
+information?</h3>
+
+<p>Yes. When the &quot;MIDI function&quot; switch on the unit is
+set to mode III, the Juno will send a MIDI system exclusive
+message for every movement of the patch control sliders or
+buttons. If you have a sequencer capable of recording real-time
+sysex (many aren't), this information can be recorded and played
+back as part of a sequence. Another possible use for this feature
+is linking two Juno-106s together via MIDI; the second unit would
+mimic anything done on the first one. Slightly detuning one unit
+and mixing the two outputs together could provide whole new
+levels of fat bassy sound.</p>
+
+<hr>
+
+<p><a name="q7"></a></p>
+
+<h3>Where can I get information on the Juno-106's MIDI
+implementation?</h3>
+
+<p>Complete MIDI implementation is available in the Juno-106
+owner's manual; I now have this <a
+href="http://www.eskimo.com/~syzygy/juno106midi.html">information</a>
+available here as well. There is also some <a
+href="http://www.hyperreal.com/music/machines/manufacturers/Roland/Juno/info/roland.Juno-106.sysex">information</a>
+available on the Music Machines web site.</p>
+
+<hr>
+
+<p><a name="q8"></a></p>
+
+<h3>Where can I find patch editing/librarian software for the
+Juno-106?</h3>
+
+<p>There is Juno-106 patch editing/librarian software for many
+platforms available on the Internet. Here are links to a few. If
+you have any you'd like me to add, <a
+href="mailto:syzygy@eskimo.com">mail me</a> with the URL and I'll
+check it out.</p>
+
+<ul>
+    <li><a
+        href="http://www.hyperreal.com/music/machines/manufacturers/Roland/Juno/software/junolib2.zip">Windows</a>
+    </li>
+    <li><a
+        href="http://www.hyperreal.com/music/machines/manufacturers/Roland/Juno/software/junoedit.zip">MS-DOS</a>
+    </li>
+    <li><a href="http://www.tcp-ip.or.jp/~setsu/juno.html">Macintosh</a></li>
+    <li><a
+        href="http://www.hyperreal.com/music/machines/manufacturers/Roland/Juno/software/juno106.zoo">Atari</a>
+    </li>
+</ul>
+
+<hr>
+
+<p>That's it for now! If you have any additional questions that I
+haven't answered, please let me know and I'll see about adding
+them to the FAQ.</p>
+
+<p><a href="index.html"><img src="back_home_icon.gif"
+alt="Chad's Home" border="0" width="136" height="24"></a></p>
+</body>
+</html>

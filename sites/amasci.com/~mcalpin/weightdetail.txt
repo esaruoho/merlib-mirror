@@ -1,0 +1,47 @@
+Pumpkin Seeds 
+
+[an error occurred while processing this directive]
+
+[an error occurred while processing this directive] 
+
+[an error occurred while processing this directive]
+
+ Estimating Weight of Giant Pumpkins and Squash 
+ January 2001 
+ &#9;The last update was dated January 1999 when I had 722 measurements. I now have 1194 measurements. The most important additions are for fruit over 900pounds and between to 50 pounds. The to 50 pound measurements were needed to significantly improve estimates for small fruit. The NEW tables provide estimates for fruit down to 31 inch Circumference and 91 inches Over-Top (approx. 21 pounds). 
+ &#9;David Martin from Little Britain, Ontario used Multiple Regression Analysis to obtain equations that best fit the data. He prepared the Weight Tables from those equations. 
+ &#9;The OVER-THE-TOP method (Table 1) provides the BEST estimates. This requires adding Circumference to the two Over-the-Top measurements taken from ground-to-ground from side-to-side and end-to-end. Enter TABLE 1 with the total inches to obtain estimated weight in pounds. 
+ &#9;TABLE 2 uses only the CIRCUMFERENCE measurement. It DOES NOT provide good estimates for unusually high, flat, long or short fruit. I find it useful to estimate day-to-day increases. I dont take all three measurements often. 
+ &#9;The Circumference measurement should be the LARGEST circumference taken approximately parallel to the ground. At weigh-offs I have learned some growers are being conservative and not measuring the largest Circumference. Their measurements contribute to the variability. The OVER-TOP measurements from ground-to-ground in both directions should be over the highest point of the fruit. These must be taken straight down from the edges of the fruit. 
+ EXAMPLE: Circumference = 169 inches (Table 2 estimate = 1086 pounds) 
+ Side-to-side = 106 inches 
+ End-to-end = 107 inches 
+ Total = 382 inches (Table 1 estimate = 1112 pounds) 
+ Actual weight was 1092 pounds. 
+ Due to considerable variability in the "thickness" from fruit-to-fruit, neither method provides very reliable estimates but at present we dont have a better method. 
+ Here are the percents of your estimates that you can expect to be within the accuracy ranges shown: 
+ Accuracy range Table 1 (O.T.) &#9; Table 2 (C) 
+ 5 %&#9;46.8 %&#9;24.7 % 
+ 5.01 to 10 % &#9;31.8 %&#9;25.3 % 
+ 10.01 to 15 %&#9;12.8 %&#9;22.8 % 
+ over 15.01 %&#9;8.6 %&#9;27.2 % 
+ NEW Tables compared to January 1999 Tables: 
+ OVER-TOP (Table 1): From 210" (196 pounds) to 390" (1183 pounds) the NEW Table 1 shows weights somewhat higher (1 to 6 pounds). This is because fruit for the last 2 years were slightly heavier for size than previous years. The new table will provide much better estimates below 180" and goes down to 91" (approx. 21 pounds). 
+ CIRCUMFERENCE (TABLE 2): Below 100 " (approx. 250 pounds) the NEW table will provide better estimates and goes down to 31" (approx 17 pounds). Above 1050 pounds there is so much variation in the small number of data points available that the estimates will not be very reliable. 
+ David Martins equations (4 terms) 
+
+ Equations for January 2001 Weight Tables (by David Martin) 
+
+ Over-the-Top Equation (2001) 
+ Weight = 
+
+ where T is the Over-the-Top total inches. &#9; 
+
+ Circumference Equations (2001) 
+ Up to 120 inches: 
+ Weight = 
+ Over 120 inches: 
+ Weight = 
+ where C is Circumference in inches. Leonard B. Stellpflug 
+
+[an error occurred while processing this directive]

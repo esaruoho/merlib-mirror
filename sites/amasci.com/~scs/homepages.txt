@@ -1,0 +1,46 @@
+Home Pages 
+
+Personal:
+
+ Jutta Degener 
+(maintainer of the
+ Lysator C archive )
+
+ Pete Keleher 
+(author of
+ Alpha )
+
+ Don Knuth 
+(author of
+ The Art of Computer Programming )
+
+ Ron Newman ,
+keeper of the
+ Good Netkeeping Seal 
+for newsreaders
+and a history of
+ Scientology vs. the Net 
+
+ Eric Raymond ,
+current editor of the
+ Jargon File 
+
+ Dennis Ritchie 
+
+ Clive Feather 
+
+Other:
+
+ Browser-specific home pages 
+(the ones you get with default-configured browsers)
+
+ Eskimo North 
+
+ RSA 
+
+ Federal Express 
+
+ U.S. Naval Observatory Directorate of Time 
+
+(back to)
+ scs

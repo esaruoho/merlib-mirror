@@ -1,0 +1,356 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Concept Index: O -- S 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ Concept Index: O -- S 
+ Jump to: ! 
+
+ " 
+
+ # 
+
+ $ 
+
+ % 
+
+ & 
+
+ ' 
+
+ ( 
+
+ * 
+
+ + 
+
+ , 
+
+ - 
+
+ . 
+
+ / 
+
+ : 
+
+ ; 
+
+ = 
+
+ " style="text-decoration:none"> > 
+
+ ? 
+
+ @ 
+
+ [ 
+
+ \ 
+
+ ^ 
+
+ | 
+
+ A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ K 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ Q 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ Index Entry Section 
+
+ O 
+ Operations on functions 2. Primer 
+ Operations on NULL 2. Primer 
+ Operations on tables 2. Primer 
+ Operators 4.3 Operators 
+ Operators, associativity 4.3 Operators 
+ Operators, precedence 4.3 Operators 
+ Options on the command line 7.2 The Command Line 
+ Or operator 2. Primer 
+ Or operator 4.3.12 Or 
+ Or operator 4.3.14 Short Or 
+ Ordinary differential equations 6.5 Numerical Analysis 
+ Output filters 6.6 Basic I/O 
+ Output filters 6.8 Execution 
+ Output filters 7.2 The Command Line 
+ Output, binary 6.6 Basic I/O 
+ Output, formatted 6.6 Basic I/O 
+ Output, formatted 6.6 Basic I/O 
+ Overdetermined systems 6.4 Linear Algebra 
+
+ P 
+ Parentheses 4.3.1 Function Calls 
+ Passing arguments by value 2. Primer 
+ Path lists 6.8 Execution 
+ Phase 6.1 Basic Math 
+ PID 4.2.4 Predefined Variables 
+ Pipes 6.6 Basic I/O 
+ Pipes 6.8 Execution 
+ Pipes 7.2 The Command Line 
+ Plus sign 4.3.7 Negation 
+ Polynomial roots 6.5 Numerical Analysis 
+ Power operator 4.3.5 Power 
+ Precedence of operators 4.3 Operators 
+ Predefined members 2. Primer 
+ Predefined variables 4.2.4 Predefined Variables 
+ Print format 6.6 Basic I/O 
+ Printing formatted output 6.6 Basic I/O 
+ Printing formatted output 6.6 Basic I/O 
+ Profile 6.2 Arrays 
+ Profile reduction 6.2 Arrays 
+ Profiling 6.10 Miscellaneous 
+ Profiling 7.2 The Command Line 
+ Program, integer powers 3.3 Integer Powers 
+ Program, number reading 3.2 Reading and Summing Numbers 
+ Program, temperature conversions 3.1 Temperature Conversion 
+ Projects 8. Projects 
+ Prompt 4.2.4 Predefined Variables 
+ Prompt 7.4 The algae Prompt 
+
+ Q 
+ Question mark 2. Primer 
+ Question mark 4.5 Statements 
+ Quit signal 7.5 Signals 
+ Quote character 5. Data 
+
+ R 
+ Random numbers 6.2 Arrays 
+ Random numbers 6.2 Arrays 
+ Random numbers 6.2 Arrays 
+ Reading entities 6.7 Entity I/O 
+ Reading numbers 6.6 Basic I/O 
+ Reading text 6.6 Basic I/O 
+ Readline facility 7.2 The Command Line 
+ Real type 2. Primer 
+ Real type 5. Data 
+ Real value 6.1 Basic Math 
+ Recursion 2. Primer 
+ Reduction, bandwidth 6.2 Arrays 
+ Reduction, profile 6.2 Arrays 
+ Referencing elements 4.3.2 Element References 
+ Referencing members 4.3.3 Member References 
+ Regular expressions 6.2 Arrays 
+ Relational operators 2. Primer 
+ Relational operators 4.3.10 Relation 
+ Relative file name 6.8 Execution 
+ Reported bugs 9.2 Reported Bugs 
+ Reporting bugs 9.1 Reporting Bugs 
+ Restricted execution 7.2 The Command Line 
+ return statement 2. Primer 
+ Root finding 6.5 Numerical Analysis 
+ Roots of a polynomial 6.5 Numerical Analysis 
+ Rounding 6.1 Basic Math 
+ Runge-Kutta 6.5 Numerical Analysis 
+
+ S 
+ Scalar constants 5. Data 
+ Scalars 5. Data 
+ Scope of variables 2. Primer 
+ Scope of variables 4.2.3 Scope of Variables 
+ Searching 6.2 Arrays 
+ self 2. Primer 
+ Semicolon 2. Primer 
+ Semicolon 4.5 Statements 
+ Separating arguments 2. Primer 
+ Sets 6.3 Sets 
+ Shared objects 6.8 Execution 
+ Short And 4.3.13 Short And 
+ Short Or 4.3.14 Short Or 
+ SIGINT 7.5 Signals 
+ Sign 6.2 Arrays 
+ Signals 7.5 Signals 
+ Significant digits 4.5 Statements 
+ Signum 6.2 Arrays 
+ SIGQUIT 7.5 Signals 
+ Sine 6.1 Basic Math 
+ Singular value decomposition 6.4 Linear Algebra 
+ Solving linear equations 6.4 Linear Algebra 
+ Solving linear equations 6.4 Linear Algebra 
+ Solving nonlinear equations 6.5 Numerical Analysis 
+ Sorting vectors 6.2 Arrays 
+ Sorting vectors 6.2 Arrays 
+ Source files 6.8 Execution 
+ Sparse storage 6.2 Arrays 
+ Spline interpolation 6.5 Numerical Analysis 
+ Splitting into tokens 6.10 Miscellaneous 
+ Square root 6.1 Basic Math 
+ Standard functions 6. The Standard Functions 
+ Standard input 7.2 The Command Line 
+ Starting algae 2. Primer 
+ Startup files 7.1 Startup Files 
+ Statement terminators 2. Primer 
+ Statement terminators 4.5 Statements 
+ Statements 2. Primer 
+ Statements 4. The Algae Language 
+ Statements 4.5 Statements 
+ Statements for control-flow 2. Primer 
+ stderr 6.6 Basic I/O 
+ stdin 7.2 The Command Line 
+ stdin 7.2 The Command Line 
+ String concatenation 4.3.9 Addition 
+ Strings 2. Primer 
+ Strings 5. Data 
+ Strings 6.10 Miscellaneous 
+ Submatrix expressions 2. Primer 
+ Subspace iteration 6.4 Linear Algebra 
+ Substrings 6.10 Miscellaneous 
+ Subtraction operator 4.3.9 Addition 
+ Subvector assignment 2. Primer 
+ Subvector expressions 2. Primer 
+ Symbol table 4.2.1 Variable Names 
+
+ Jump to: ! 
+
+ " 
+
+ # 
+
+ $ 
+
+ % 
+
+ & 
+
+ ' 
+
+ ( 
+
+ * 
+
+ + 
+
+ , 
+
+ - 
+
+ . 
+
+ / 
+
+ : 
+
+ ; 
+
+ = 
+
+ " style="text-decoration:none"> > 
+
+ ? 
+
+ @ 
+
+ [ 
+
+ \ 
+
+ ^ 
+
+ | 
+
+ A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ K 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ Q 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

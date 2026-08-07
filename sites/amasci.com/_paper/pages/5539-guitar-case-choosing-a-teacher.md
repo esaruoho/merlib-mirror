@@ -1,0 +1,337 @@
+---
+title: "Guitar Case - Choosing a Teacher"
+source_domain: amasci.com
+source_path: ~ogre/articles/20021025.html
+order: 5539
+reachable_from_entry: false
+images: 101
+internal_links: 4
+extracted: 2026-08-07T17:12:35Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Guitar Case - Choosing a Teacher
+
+*Source page: `~ogre/articles/20021025.html`*
+
+<span id="top"></span>
+
+|  |  |
+|----|----|
+| [<img src="../images/logo_home.gif" data-border="0" width="274" height="80" alt="Guitar Noise - Free Guitar Lesson" />](http://www.guitarnoise.com/) | <a href="http://www.burstnet.com/ads/ad8117a-%0Amap.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-%0Abin/ads/ad8117a.cgi/ns" data-border="0" width="468" height="60" alt="Click Here" /></a> |
+
+|  |
+|:--:|
+| [<img src="../images/home2.gif" data-border="0" width="90" height="17" alt="Home" />](http://www.guitarnoise.com/index.html)[<img src="../images/guitar4.gif" data-border="0" width="81" height="17" alt="Guitar" />](http://www.guitarnoise.com/guitar/index.html)[<img src="../images/bass2.gif" data-border="0" width="81" height="17" alt="Bass" />](http://www.guitarnoise.com/bass/index.html)[<img src="../images/amps1.gif" data-border="0" width="119" height="17" alt="Amps" />](http://www.guitarnoise.com/amps/index.html)[<img src="../images/songwriting1.gif" data-border="0" width="119" height="17" alt="Songwriting" />](http://www.guitarnoise.com/songwriting/index.html)[<img src="../images/otherside1.gif" data-border="0" width="145" height="17" alt="The Other Side" />](http://www.guitarnoise.com/otherside/index.html) |
+
+<table data-cellspacing="0" data-cellpadding="0" width="770" data-border="0" data-align="center">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="center" data-nowrap="" height="16" data-bgcolor="#336699"><table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<tbody>
+<tr data-bgcolor="#336699">
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/blue_left.gif" width="16" height="15" /><img src="../images/transparent.gif" width="112" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/new.html" class="menu1">WHAT’S NEW</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/about/index.html" class="menu1">ABOUT US</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/forum/index.html" class="menu1">FORUMS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/links/tab.html" class="menu1">GUITAR TAB</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.musiccareers.net/reviews/index.php" class="menu1">REVIEWS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/pick/index.html" class="menu1">INTERVIEWS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/help/index.html" class="menu1">HELP</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../images/transparent.gif" width="18" height="12" /></td>
+<td style="text-align: right;" data-bgcolor="#336699" data-nowrap="" width="100%"><img src="../images/blue_right.gif" width="16" height="15" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table width="770" data-border="0" data-cellspacing="0" data-cellpadding="0" data-align="center">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><img src="../images/transparent.gif" width="12" height="8" /></td>
+</tr>
+<tr>
+<td><table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<tbody>
+<tr height="1">
+<td colspan="3" style="text-align: left;" data-valign="top" height="1" data-bgcolor="#000000"><img src="../images/transparent.gif" width="200" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/tour/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> <strong>Site Tour</strong></a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/beginner/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="8" height="8" /> Beginners Songs</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/intermediate/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Intermediate Songs</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/columns/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Guitar Columns</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/guitar/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> <strong>Guitar Lessons</strong></a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/acoustic/index.html" class="menu2">Acoustic</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/blues/index.html" class="menu2">Blues</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/chords/index.html" class="menu2">Chords</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/classical/index.html" class="menu2">Classical</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/principles/index.html" class="menu2">Guitar Principles</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/metal/index.html" class="menu2">Heavy Metal</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/jamming/index.html" class="menu2">Jamming</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/jazz/index.html" class="menu2">Jazz</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/scales/index.html" class="menu2">Scales</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/teaching/index.html" class="menu2">Teaching</a>\
+<img src="../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/articles/index.html" class="menu2">more...</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/bass/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Bass Lessons</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/songwriting/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Songwriting</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/sound/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Sound Engineering</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/otherside/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> The Other Side</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/help/expert.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Ask The Expert</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/pick/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Interviews</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.musiccareers.net/reviews/index.php" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="7" height="8" /> Reviews</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/books/index.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="8" height="8" /> Books</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.linksmanager.com/guitarnoise/" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="8" height="8" /> Links</a>
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="1" height="1" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<img src="../images/transparent.gif" width="3" height="3" />
+
+<div align="left">
+
+<a href="http://www.guitarnoise.com/search.html" class="boxhead">Search</a>\
+<img src="../images/transparent.gif" width="6" height="4" />\
+\
+\
+<a href="http://www.guitarnoise.com/search.html" class="menu2"><img src="../images/tri_grey.gif" data-border="0" width="8" height="8" /> Advanced Search</a>
+
+</div>
+
+<img src="../images/transparent.gif" width="8" height="8" />
+
+<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2" data-valign="center" width="100%"><p><strong>You are here:</strong> <a href="http://www.guitarnoise.com" class="menu3">Home</a>, <a href="../guitar/index.html" class="menu3">Guitar Lessons</a>, <a href="index.html" class="menu3">Guitar Case</a>, Choosing a Teacher</p></td>
+</tr>
+<tr>
+<td colspan="2" data-bgcolor="#000000" height="1"><img src="../images/transparent.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td colspan="2" height="12"><img src="../images/transparent.gif" width="12" height="12" /></td>
+</tr>
+<tr data-valign="top">
+<td colspan="2"><table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%"><h1 id="section"></h1>
+<h1 id="choosing-a-teacher">Choosing a Teacher</h1>
+<table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p><strong>Published</strong> October 25, 2002<br />
+<strong>By</strong> <strong><a href="mailto:hess@mc.net">Tom Hess</a></strong></p></td>
+<td style="text-align: right;"><p><a href="../print/articles/20021025.html">Print this page<img src="../images/printer.gif" data-border="0" width="22" height="16" alt="Get a printer friendly version of this page" /></a><br />
+<a href="../about/recommend.html">Email to a Friend <img src="../images/email.gif" data-border="0" width="22" height="16" /></a><br />
+<a href="javascript:void(0);" onclick="window.external.AddFavorite(location.href, document.title);">Bookmark this page <img src="../images/bookmark.gif" data-border="0" width="16" height="16" alt="Bookmark this page" /></a></p></td>
+</tr>
+</tbody>
+</table>
+<p>The electric guitar has advanced far beyond the time when someone could teach himself (or herself) to become a world class player. If your ambition is to become a competent player and a competent musician, you need a competent teacher. Even if your goals are more modest, you can reach those goals far more quickly, easily and efficiently with the guidance of the right teacher.</p>
+<p>Much of the information needed to learn about guitar playing (and music in general) is available from many different sources. There are hundreds of books, instructional videos, CD-ROMs and, of course, the Internet. Even though a lot of information is readily available, there exists a lot of incorrect, incomplete and otherwise bad information (this is especially true for a lot of information found on the Internet!).</p>
+<p>You will need the aid of an excellent teacher to teach you how to fully understand and apply the correct information. You can save yourself a lot of unnecessary frustration and disappointment by studying with a good teacher. Remember that textbooks, CD-ROMs, instructional videos and the Internet cannot answer your specific questions. They cannot offer you advice on your playing, song writing, ear training, etc. They cannot listen to your playing and point out any mistakes or flaws that may be present. Some textbooks are great and I have seen some pretty good CD-ROMs out there too, but you still need the aid of an excellent teacher to guide you through everything and to help you develop your abilities and musicianship correctly and efficiently.</p>
+<p>Great teachers manage and schedule new materials and effectively explain their importance and meaning. A teacher should encourage you when you are doing well and correct you when you make mistakes. Good teachers will show you how to better organize your practice materials and show you how to effectively manage your practice time (this is crucial to your progress!). They help you build up your confidence level (even if you are not consciously aware that this is happening). A great teacher will help you become secure with your technical skills so that you can execute difficult techniques on your guitar comfortably. These teachers emphasize creativity (songwriting and improvising) and performing.</p>
+<p>Great teachers want to make sure that you fully understand what you are learning and, most importantly, teach you how to apply it by giving you detailed explanations and encouraging you to ask questions when something is unclear. A good teacher sincerely cares about your musical growth and development. An experienced and competent teacher will take you far beyond what you could learn on your own.</p>
+<p>Unfortunately, guitar teachers are not licensed and there is no organization that oversees or regulates them. Anyone can claim to be a good teacher and there are lots of people who make this claim. The number of competent teachers, however, is limited.</p>
+<p>This brings us to this crucial question: how can a student find, choose, and then accurately evaluate a guitar teacher? Here are some questions that you should ask any teachers you are considering studying with. I have also included my own comments for each question:</p>
+<p>1) Can you please tell me about your teaching experience? May I see your resume or credentials? How long have you been teaching and approximately how many students have you taught during that time?</p>
+<p>At least three to five years of teaching experience is preferred - certainly no less than one year of experience. Prefer a teacher who has taught a moderate to large number of students. It takes time for a teacher to truly learn how to teach well, and the main way that someone learns to teach is by teaching for a while.</p>
+<p>The students of a new teacher are like experiments. These teachers are learning how to teach on the job by trial and error. They need time to learn how to teach, and will make some mistakes in the beginning of their careers. You don't want to be one of those first thirty to fifty students. Let a new teacher gain his or her experience by making mistakes with someone else.</p>
+<p>2) Do you teach private lessons or group lessons?</p>
+<p>You definitely want private lessons, unless you are a total beginner or are enrolled in a college music course. You will learn a lot more about playing guitar in a one-on-one private lesson or in a correspondence lesson program.</p>
+<p>3) What styles of music do you teach best?</p>
+<p>Make sure you ask this question before telling the prospective teacher what style of music you want to learn. A lot of teachers claim to teach all styles well. Beware of this. Do not be impressed by someone who tells you that he or she can teach every style of music well.</p>
+<p>If you really want to be a great rock guitarist, take lessons from a rock teacher, not a blues or country player who claims to teach all styles well. Find yourself a good rock teacher. If you want to learn multiple styles of music that are not similar (like country, classical and heavy metal) take lessons from more than one teacher for each of those styles. Unless you are a total beginner, you are better off with an expert teacher in your style of music, not a jack-of-all-trades teacher.</p>
+<p>4) What is the cost of lessons?</p>
+<p>Excellent teachers are in demand and usually already have a lot of students. These teachers often are not cheap. I can tell you that the going rates for good teachers in the Midwestern United States (where I live) is between $16-$24 per 1/2 hour private lesson (rates may be different in your state or country). There are a handful of teachers offering correspondence lessons for students who do not live in the same state or country as the teacher. Usually these lessons are less expensive in the long run (read more about correspondence lessons later). In general, don't look for the teacher with the lowest rates; you usually get what you pay for. If you can't afford to pay the higher rates for a really good teacher, ask the teacher if you can take lessons on a bi-monthly basis instead of taking weekly lessons.</p>
+<p>5) Can you tell me how you teach the lessons?</p>
+<p>This is probably the most important question you can ask a teacher. The answer to this question can help you determine if a teacher is competent, because this is actually a trick question. Anyone can tell you they have been teaching for 100 years, they have had 10,000 students and the cost is $1,000 per lesson because they are the greatest teacher of all time. But an inexperienced teacher cannot trick you with his or her answer to this question (unless he or she is reading this article.)</p>
+<p>If a prospective teacher who does not know you, your musical knowledge, your guitar technique, your musical tastes, and your musical goals tries to explain how he or she will teach you, this is not a competent teacher. Not even the best teacher on Earth could answer this question if that teacher knows nothing about you, your goals, your playing level, your knowledge of music theory, etc.</p>
+<p>So what would an experienced and competent teacher say to you when you ask the question? Well, I can tell you what I do when a new prospective student asks me this. I explain to him or her that I can't formulate a lesson plan for anyone until I learn a lot more about that student's playing, goals, musical tastes, knowledge of theory, etc.</p>
+<p>To my correspondence students (whom I don't see face to face), I send a long list of questions about everything I need to know about their music background. This helps me determine the best way for us to begin. I also encourage the student to send me a tape or CD of his or her playing with a variety of his or her playing on it so I have a clearer picture of what areas need improvement.</p>
+<p>Obviously, for my private students (whom I do see face to face), I can simply ask the questions that I need answers to. And I can hear the student play in front of me. Only after all of this can I (or any other teacher) truly know how to teach that individual student. It seems obvious that you shouldn't teach a 13-year-old-boy who has never played guitar before and wants to learn to play alternative rock the same way that you would teach a 27-year-old-man who has been playing for 16 years and wants to become a virtuoso in the style of Steve Vai or Yngwie Malmsteen.</p>
+<p>In addition to asking the questions above, here are some other things to watch out for:</p>
+<p>When students ask how to approach a certain technique or how to hold the pick correctly or how to most effectively mute strings that are not supposed to be sounding, the advice of some teachers is to do whatever feels natural to you. Sometimes what you may think is the natural way to hold your left hand may not be the correct way at all. It is the teacher's job to know those types of things. The teacher should be teaching, not letting you do whatever you feel like doing. For most things, there is a right and wrong way and you will be better off learning it the right way from the beginning.</p>
+<p>A teacher may have some talented students, but this does not mean the teacher is good. This might seem like good criteria for evaluating a teacher, but the fact is that sometimes advanced students were already good players before taking lessons from the new teacher. The only time you can judge a teacher's teaching skills, based on his or her students' playing skills, is when those advanced students have been taking lessons from the same teacher since they were beginners.</p>
+<p>Some teachers tell their students to learn from as many sources as possible and then leave it up to you to sort through it all and decide what works best for you. How are you supposed to decide that? How is a student to know what the best fingering is for a particular scale? Students typically won't know how to determine what the right way is. This is one of the reasons you have a teacher,. It is his or her job to teach you these things. This is why you are giving the teacher your money!</p>
+<p>Do not assume that someone is a good teacher just because he or she may be an excellent player or has good credentials. I know plenty of competent players with advanced music degrees whom I don't believe are good teachers. I was fortunate to have some truly great teachers, but I had some incompetent ones too, along the way. Whenever I realized that a teacher wasn't good, I looked for a new teacher.</p>
+<p>The following things are not required for someone to be a good teacher, but it certainly is to your advantage to have a teacher who, in addition to teaching you about guitar and music, can help you in some of these other ways:</p>
+<p>1) Guitar Pedagogy - This is learning how to teach guitar. If one of your goals is to be a guitar or music teacher, then you would benefit greatly from a teacher who can show you how to teach a variety of techniques, music theory, ear training, songwriting, improvisation, etc. You will also need to learn about how to deal with a wide variety of personality types. Every student is different. Each student learns and comprehends information in different ways. It is important for any teacher to understand this. You need to know how to explain the same information in several different ways so you can teach all of your students well.</p>
+<p>2) Recording advice - The better you become as a musician, the more likely it will be that you will want to record your guitar playing. If you have little or no experience in this area, then having someone who can help you is especially helpful.</p>
+<p>3) Music business - If you plan to record, release and sell your own CD, now or in the future, there is a huge amount of music business information that you will need to learn if you want to make any money. Some teachers who have released their own CDs, and are promoting it themselves, can be the best source of help for selling your CD. You can also learn other things like how to set up gigs for your band and how to get the press to write about you.</p>
+<p>Now that you have a better idea about what to look for in a teacher, the next question is, where do you look for a good teacher? This depends on if you are looking for a teacher to teach you privately (face to face) or if you are looking for a teacher to teach you through correspondence. Both are good and there are advantages to both ways.</p>
+<p>If you are looking for a private teacher to teach you face to face, check out these places first: Contact the music department at universities and colleges near you. Even if they can't help you directly, they can usually refer you to someone who can help. Next, you can try your local music shops (where guitars are sold). Most music shops offer lessons. And most of the teachers found here are not of the highest quality, but sometimes there are great teachers you can find at these shops.</p>
+<p>When you call one of these shops, ask to speak to the manager or owner. Find out from him or her exactly who are the most qualified teachers for you (your style of music and skill level). After you get the teachers' names, make arrangements to speak to each of the teachers privately. Ask those teachers all of the questions we've gone over above. If you are not satisfied with any of those teachers, keep looking.</p>
+<p>If you are looking for correspondence lessons, your search will be a little different (and these lessons are usually a little cheaper in the long run). You can look on the Internet for these types of teachers and you can also contact universities (in any part of the world). The best thing about correspondence lessons is that you can take lessons from any teacher in the world (that teaches via correspondence)! What I would look for in a correspondence teacher is someone who has been doing this type of teaching for a while, someone who always allows you to ask questions about your lesson via e-mail or telephone (for no additional charge!).</p>
+<p>I personally don't think that courses (like CD-ROM courses) are a good idea because they don't provide the private and individual instruction needed to learn in the most efficient way. Even though correspondence lessons are not face to face, the lessons should be personalized for you, your skill level, your musical knowledge, your style of music and your musical goals.</p>
+<p>Stay away from a one-size-fits-all method or the cookie-cutter style courses. Everyone is different and is at a different level, has different musical goals, and likes different music. So the lessons (whether face to face or correspondence) should be tailored specifically to your needs.</p>
+<p>After teaching guitar and music for over 11 years now, I can tell you that using the information above can make a huge difference in finding an experienced high quality teacher. An incompetent teacher can severely hinder your ability to fully develop your guitar and music skills. If you are not progressing well, but you are spending a lot of time practicing, find another teacher.</p>
+<p><strong>Tom Hess</strong> 2002-10-25</p>
+<p><strong><a href="20021018.html">Previous</a></strong> article in this series "If I Only Had (Another) Brain"<br />
+<a href="20021115.html"><strong>Next</strong></a> article in this series "Another Five Questions With LT"</p>
+<table width="100%" data-border="0" data-cellspacing="1" data-cellpadding="15" data-bgcolor="#eeeeee">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p>Since 1991, Tom Hess has taught guitar professionally to hundreds of students. He teaches correspondence lessons through the mail and e-mail to students in countries from around the world as well as in the United States. His debut virtuoso guitar Cd, HESS ~ Opus 1 has sold in 26 countries on 5 continents.</p>
+<p>For more information about Tom¹s correspondence lessons or to read Tom's extensive resume, send an e-mail to: <a href="mailto:hess@mc.net">hess@mc.net</a></p>
+<p>To visit the official Hess web site go to: <a href="http://hess.4t.com">http://hess.4t.com</a></p></td>
+</tr>
+</tbody>
+</table></td>
+<td><img src="../images/transparent.gif" width="18" height="12" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr>
+<td colspan="2"><p><a href="#top"><br />
+Back to top</a> <a href="#top"><img src="../images/blue_arrow.gif" data-align="absmiddle" data-border="0" width="13" height="15" alt="Top" /></a><br />
+</p>
+<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr height="1" data-bgcolor="#000000">
+<td height="1"><img src="../images/transparent.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="copyright">Copyright © 2002 Guitar Noise. All rights reserved. <a href="http://www.guitarnoise.com/sitemap.html">Site Map.</a> <a href="http://www.guitarnoise.com/masterlist.html">Masterlist.</a> <a href="http://www.guitarnoise.com/privacy.html">Privacy Statement.</a> <a href="http://www.guitarnoise.com/contact.html">Contact Us.</a><br />
+<img src="../images/transparent.gif" width="12" height="12" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>

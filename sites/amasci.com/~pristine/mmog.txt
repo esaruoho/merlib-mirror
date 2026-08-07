@@ -1,0 +1,485 @@
+Pure Mac: Massively Multiplayer Online Games - Software for Macintosh 
+
+ Massively Multiplayer Online Games 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Clan Lord 
+ EVE Online 
+ EverQuest 
+ Lineage 
+
+ Minions of Mirth 
+ Myst Online: Uru Live 
+ Oberin 
+
+ Second Life 
+ A Tale In The Desert 
+ Vendetta Online 
+
+ Warbirds 
+ World of Warcraft 
+ WWII Online 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Clan Lord v527 
+
+Clan Lord is a world of high fantasy role-playing on the Internet. Join
+thousands of players around the world exiled to a dangerous island chain
+threatened by monsters, sorcery, and political strife. Not just hack and
+slash -- heal the wounded, study magic, and solve puzzles.
+
+ License : Demo, $35/$10 per month thereafter
+ Author/Publisher : Delta Tao Software
+ Modification Date : January 2, 2008
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 44.7 MB - Demo
+
+ Download 
+File Size: 44.6 MB - Demo
+
+ Home Page 
+
+ EVE Online 2.3 
+
+EVE is a massive multiplayer online game (MMOG) set in a science-fiction
+based, persistent world. Players take the role of spaceship pilots
+seeking fame, fortune, and adventure in a huge, complex, exciting, and
+sometimes hostile galaxy.
+
+ License : Demo, $20 a month
+ Author/Publisher : CCP Games
+ Modification Date : November 5, 2007
+ Requirements : Mac OS X 10.4.9 or higher, Intel Only
+
+ Download 
+File Size: 844 MB
+
+ Home Page 
+
+ EverQuest 1.0.7 
+
+Welcome to the world of EverQuest&reg; for the Macintosh, a huge 3D
+massively multiplayer fantasy roleplaying game. Prepare to enter an
+enormous virtual environment, an entire world with its own diverse
+species, economic systems, alliances, and politics. Choose from a
+variety of races and classes, customize your character and begin your
+quest in any number of cities or villages throughout multiple
+continents. Equip yourself for adventure, seek allies and knowledge and
+experience a rich world of dungeons, towers, crypts, and evil abbeys.
+Anything is possible: even planes and realities beyond your imagination.
+Meet new friends from around the world to face epic challenges. Make
+yourself a noble human knight, a vicious dark elf thief, a greedy
+dwarven merchant, or whatever suits your desire.
+
+EverQuest for Macintosh is an internet-only game, requiring players to
+connect to Sony Online Entertainment servers via their own Internet
+connections. Internet connection fees are the responsibility of the
+user. Additional monthly subscription fees and valid credit card
+required.
+
+NOTE: Due to the coding differences between PC servers and the Macintosh
+server, you can only play on the server coded to your specific operating
+system; in this case, you can only play on servers designated as
+EverQuest Macintosh Edition servers.
+
+ License : Free 15 Day Trial - $13 a month thereafter
+ Author/Publisher : Sony
+ Modification Date : June 6, 2005
+ Requirements : Mac OS X 10.2.4 or higher, 700 MHz G4 or better
+
+ Signup/Download 
+
+ Download 
+File Size: 2.7 MB - 1.0.7 Updater
+
+ eqmac.com 
+
+ Home Page 
+
+ Lineage 2.0.5 
+
+Fantasy
+ In the medieval world of Lineage, choose to be a gallant knight, a resourceful wizard, a crafty elf, or a revered prince or princess. Play surrounded by guarded castles, perilous forests, sinister fens and valleys filled with the undead. Slay ferocious monsters unlike any known to man or elf.
+ Adventure
+ Discover the massive and ever-expanding world of Lineage.
+ # Journey to the fiery pits and rocky crags in the lair of the dragon, Valakas
+ # Descend into dark, dank dungeons and conquer monsters - living and dead - for treasure
+ # Explore the watery depths of the Kingdom of Eva and fight creatures of the deep
+ # Travel to cities to replenish supplies, swig ale and boast of your victories at taverns and inns
+ # Fight and win at the sides of your pledgemates 
+ The world of Lineage is continuously growing, making no one game play experience the same.
+ Community
+ Make friends and foes in your travels. Hunt with friends and strangers alike! Pledge loyalty and vow to conquer the pretender-king and restore your chosen Prince or Princess to the throne.
+ All-Out War
+ Plan strategies for castle sieges with your pledgemates. It's do or die as you fight and win control of castles and kingdoms, installing your ruler of choice to the throne. Create unlikely alliances to ensure that your Pledge will withstand sieges against it. Expect to be challenged, again and again. This is war, baby, and you're in it!
+
+ License : 7 Day free Trial/$15 month
+ Author/Publisher : NCSoft
+ Modification Date : March 28, 2007
+ Requirements : Mac OS X 10.1.2 or higher
+
+ Download 
+File Size: 1.60 GB
+
+ Home Page 
+
+ Minions of Mirth 1.26.2 
+
+A massively single player, multiplayer, persistent world RPG. Its epic
+scope and diverse gameplay will keep novice and hardcore players coming
+back for more, and more!
+
+ License : Demo, $30 - no monthly fee
+ Author/Publisher : Prairie Games
+ Modification Date : January 8, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 260 MB - Demo
+
+ Home Page 
+
+ Myst Online: Uru Live 1.0 
+
+For the first time, you are the storyteller. What happens next is up to you. Embark on an
+amazing, never-ending adventure filled with wondrous new worlds to explore and captivating
+puzzles to solve. Myst Online: Uru Live expands and evolves on a daily basis. The game and
+story continually expand and adapt as you and other players make choices and take actions,
+so you never know what tomorrow will bring. Join in the next evolution of one of the most
+critically-acclaimed and best-selling game franchises of all time and help forge an
+all-new Myst story: yours. What story will you tell?
+
+ License : Demo, $10 a month for GameTap
+ Author/Publisher : GameTap
+ Modification Date : March 16, 2007
+ Requirements : Mac OS X 10.4.8 or higher, Intel Only
+
+ Download 
+File Size: 35.7 MB
+
+ Home Page 
+
+ Oberin 018.3 
+
+Oberin is an online fantasy role-playing game and virtual community.
+Oberin takes place in a persistent, ever evolving world - your character
+may come and go, but the world continuously runs.
+
+While there are many separate quests that can be completed in Oberin,
+there is no ultimate goal when playing. The journey is the reward. It's
+an online fantasy world where the fun comes from interacting with other
+real players. You can join a group of fellow players to hunt for
+dragons, spend a quiet day fishing, meet a friend at the pub for a game
+of chess, or spend some time refining your chosen skills.
+
+ License : Freeware
+ Author/Publisher : Glenn Seemann & David Bourg
+ Modification Date : December 30, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 25.8 MB
+
+ Download 
+File Size: 18.2 MB
+
+ Home Page 
+
+ Second Life 1.18.5.3 
+
+Second Life is a 3-D virtual world entirely built and owned by its residents. Since
+opening to the public in 2003, it has grown explosively and today is inhabited by a total
+of 2,944,586 people from around the globe.
+
+ License : Demo, Premium Account $10 a month
+ Author/Publisher : Linden Labs
+ Modification Date : November 29, 2007
+ Requirements : Mac OS X 10.3 or higher, 1GHz G4 or better
+
+ Download 
+File Size: 71.3 MB
+
+ Download Page 
+
+ Home Page 
+
+ A Tale In The Desert II 
+
+Game Genre: A civilization-building game with thousands of players.
+
+Overview: A Tale in the Desert is an online game set in ancient Egypt
+where players work together to build the perfect society. It uses the
+internet to allow thousands of players to play together in the same
+world. All of the characters you will see and talk to in the game are
+controlled by other people just like you, not by a computer. A Tale in
+the Desert is the first online game to focus on long-term planning and
+long-term goals rather than combat. Goals include the creation of great
+works of art and architecture, becoming a powerful leader, and building
+wealth.
+
+ License : Free Trial: 24 hours over multiple sittings - $14 a month thereafter
+ Author/Publisher : eGenesis
+ Modification Date : November 27, 2005
+ Requirements : Mac OS X 10.3.9 or higher, G4 750MHz or better
+
+ Download 
+File Size: 300 MB
+
+ Download Page 
+
+ Home Page 
+
+ Vendetta Online 1.7.47 
+
+Vendetta Online is an MMORPG (massively multiplayer online role-playing
+game) in development by Guild Software Inc. In this game, thousands of
+people will be able to play together, at the same time, in a single,
+persistent universe. Players take the form of spaceship pilots within
+this universe, flying to and fro between space stations and other
+locations in the galaxy. All combat within the game is fully realtime,
+based entirely on "twitch" skill (no "virtual dice rolling"). Players
+may fight one another, fight NPCs, participate in groups, or potentially
+even engage in large-scale Guild combat.
+
+ License : Free Trial/$10 a month thereafter or $90 a year etc.
+ Author/Publisher : Guild Software
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.2.8 or higher and 1GHz or faster
+
+ Download 
+File Size: 139 MB - Demo/updater - Use the built in updater to fully update
+
+ New Account
+
+ Home Page 
+
+ Warbirds 2006 
+
+The Warbirds Flight Simulator, the world's best online aerial combat
+game, pits the Axis vs. the Allies in the skies over Europe, Tunisia,
+Malta and the Philippines.
+
+Take part in air-to-air flight simulator combat in one of over 50
+fighter aircraft, or pound the enemy into submission in one of the games
+heavy bombers. With constant updates, new terrains, planes and game
+features this conbat flight simulation, with a long and colorful past,
+NEVER gets old.
+
+ License : 2 Week Free Trial, $14 a month thereafter
+ Author/Publisher : iEntertainment Network
+ Modification Date : June 4, 2006
+ Requirements : Mac OS X 10.2.8 or higher and a 900MHz G4 or better
+
+ Download 
+File Size: 402.0 MB - Warbirds 2006 - Note you need a credit card for the free trial
+
+ Signup Page 
+
+ Downloads 
+
+ Home Page 
+
+ World of Warcraft 2.3.0 
+
+Adventure together with thousands of other players simultaneously.
+ Explore an expansive world with miles of forests, deserts, snow-blown mountains, and other exotic lands.
+ Choose from three server types and find the one best suited for your own playing style: Normal, Player versus Player, and Role-playing.
+ Join the Horde or the Alliance as one of 8 playable races.
+ Four years have passed since the aftermath of Warcraft III: Reign of
+Chaos, and a great tension now smolders throughout the ravaged world of
+Azeroth. As the battle-worn races begin to rebuild their shattered
+kingdoms, new threats, both ancient and ominous, arise to plague the
+world once again.
+
+World of Warcraft is an online role-playing experience set in the
+award-winning Warcraft universe. Players assume the roles of Warcraft
+heroes as they explore, adventure, and quest across a vast world. Being
+"Massively Multiplayer," World of Warcraft allows thousands of players
+to interact within the same world. Whether adventuring together or
+fighting against each other in epic battles, players will form
+friendships, forge alliances, and compete with enemies for power and
+glory.
+
+ License : Purchase for $50, $15 a month
+ Author/Publisher : Blizzard Entertainment
+ Modification Date : January 8, 2008
+ Requirements : Mac OS X 10.3.9 or higher and G4 or G5, 933MHz or faster
+
+ Download 
+File Size: 3.8 MB - Update 2.3.0 to 2.3.2
+
+ Download 
+File Size: 265 MB - Update 2.2.3 to 2.3.0
+
+ Download 
+File Size: 2.5 MB - Update 2.2.2 to 2.2.3
+
+ Download 
+File Size: 7.8 MB - Update 2.2.0 to 2.2.2
+
+ Download 
+File Size: 475 MB - Update 2.0.x to 2.2.0
+
+ Patch Notes 
+
+ Blizzard 
+
+ Home Page 
+
+ WWII Online 1.23.5 
+
+World War II Online is a combined arms simulation in an online,
+persistent, action-packed 3D world. Now you can command and crew a
+variety of accurately modeled vehicles and aircraft or you can sling a
+weapon and fight as a foot soldier with and against thousands of other
+players.
+
+ License : $20 for a 30 Day Trial/$13 a month thereafter
+ Author/Publisher : Cornered Rat Software
+ Modification Date : June 2, 2006
+ Requirements : Mac OS X 10.3 or higher and a G4 700MHz or better
+
+ Download 
+File Size: 266.0 MB full version 1.23.4
+
+ Download 
+File Size: 3.8 MB - 1.23.4 to 1.23.5 updater
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

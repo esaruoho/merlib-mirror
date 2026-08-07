@@ -1,0 +1,2089 @@
+Pure Mac: Previous Updates 
+
+ Previous Updates 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Updates: September 22nd, 2008 
+
+ Art Text 2.0 - Textual Graphics Program 
+
+ MenuCalendarClock 3.1.6 - iCal Compatible Menu Calendar 
+
+ WindowShade X 4.2 - Collapses Windows to the Title Bar When Clicked 
+
+ Circus Ponies NoteBook 3.0v334 - Notes and Organizer 
+
+ Aquamac Emacs 1.5 - Aqua-native Build of Emacs 
+
+ Jubler 3.9.6 - Subtitle Editor 
+
+ Master Grade 3.61 - Teachers' Gradebook 
+
+ Spanning Sync 2.0.1 - Synchronize Google Calendar and iCal 
+
+ iEyes 1.1.1 - Desktop Eyes to Follow the Cursor 
+
+ Sibelius 5.2.5 - Music Notation Software Updater 
+
+ SimpleImage 5.0.7 - Image/Movie Viewer 
+
+ iNMR 2.6.3 - Nuclear Magnetic Resonance Software 
+
+ Updates: September 20th, 2008 
+
+ Snapture 2.1 - Camera Enhancement for iPhone 2.x 
+
+ Erica Utilities beta-14 - Command Line Utilities for iPhone 2.x 
+
+ Air Sharing 1.0.1 - Desktop to iPhone File Sharing 
+
+ Pandora Radio 1.2 - Web Radio for iPhone 
+
+ Sorenson Squeeze 5.0.3 - Video Compression Suite 
+
+ Curio Pro 5.1 - Project Development Program 
+
+ Norton AntiVirus Definition Files 20080918 - Virus Definitions 
+
+ Norton AntiVirus Definition Files 20080918 - Virus Definitions 
+
+ Updates: September 19th, 2008 
+
+ Mental Case 1.4.1 - Flash Card Application 
+' 
+ Solitaire Forever 1.3.3 - Over 100 Solitaire Games 
+
+ Klondike Forever 1.3.4 - Freeware Solitaire 
+
+ Icon2Image 1.2.8 - Contextual Menu Item 
+
+ MacPinball 5.1 - Pinball 
+
+ Alarm Clock Pro 8.5.1 - iTunes Alarm Clock 
+
+ Updates: September 18th, 2008 
+
+ NetNewsWire 1.0.10 - RSS Reader for iPhone 2.x 
+
+ Mental Case 1.0 - Flashcard Program for iPhone 2.x 
+
+ iPhone Configuration Utility 1.0.1 - iPhone Enterprise Deployment 
+
+ LimeWire 4.18.8 - Gnutella Client 
+
+ FileChute 3.1.1 - Email Link/MobileMe Combo to Send Files 
+
+ AASync 2.1.4 - Backup/Folder Synch with FTP/SFTP 
+
+ Books 3.2.1 - Catalog Your Books 
+
+ PageSpinner 5.1 - HTML Editor 
+
+ JollysFastVNC 0.96.48 - VNC Client 
+
+ iCHM 1.3.2 - CHM Reader 
+
+ Smart Scroll 2.8.6 - Scrolling Enhancement 
+
+ Investor/RT 9.1.8 - Market Monitor and Analyzer 
+
+ PDFpen 4.0 - Fill Out and Edit PDF Forms 
+
+ BossPrefs 2.0.15 - Toggle Preferences for iPhone 2.x 
+
+ Updates: September 17th, 2008 
+
+ PDFClerk 3.3.1 - Set of PDF Tools 
+
+ Categories 2.18 - Create Folders/Categories on iPhone 2.x 
+
+ Docs 2.1 - Multi-format File Viewer for iPhone 2.x 
+
+ WinterBoard 0.9.2590-1 - Apply Themes to iPhone 2.x 
+
+ iPhoneModem Zsrelay 0.5.0-7 - Share iPhone 2.x's Internet Connection with Your Mac for Free 
+
+ iPhoneModem Zsrelay 0.5.0-7 - Share iPhone 2.x's Internet Connection with Your Mac for Free 
+
+ Addition's iPhoneModem 1.0 - Share iPhone 2.x's Internet Connection with Your Mac for $10 
+
+ Addition's iPhoneModem 1.0 - Share iPhone 2.x's Internet Connection with Your Mac for $10 
+
+ StuffIt Expander 13.0 - Multi-format File Decoder 
+
+ SQLEditor 1.4.1 - Graphical Editor for SQL Databases 
+
+ aLunch 3.5.7 - Menu Bar Based Launcher 
+
+ TinkerTool 3.91 - System Settings Tweaker 
+
+ A Better Finder Rename 8.0 - Batch File Renamer 
+
+ Updates: September 16th, 2008 
+
+ Remote 1.1 - Apple's App to Control iTunes or Apple TV Via iPhone 2.x 
+
+ Transmission 1.34 - BitTorrent Client 
+
+ Bookdog 5.1.32 - Bookmark Manager/Verifier 
+
+ SwirlyMMS 1.2 - Send and Recieve MMS's with iPhone 2.x 
+
+ Sandvox 1.5.1 - Template Based Web Editor 
+
+ Auction Hunter 1.0.3 - Auction Monitor and Bid Sniper 
+
+ Corona 2.9 - Invoicing/Payroll Program 
+
+ Together 2.1.7 - Scrapbook/Notes Program 
+
+ Flightcheck Pro 6.12 - Prepress Quality Control for Printing 
+
+ Apple Remote Desktop 3.2.2 Client - Remote Administration of Other Macs 
+
+ Apple Remote Desktop 3.2.2 Admin - Remote Administration of Other Macs 
+
+ FrontBase 4.2.9 - Database Server 
+
+ TimeLog 4.3.8 - Project and Time Tracker 
+
+ DVD2oneX 2.3 - DVD Processor/Compressor 
+
+ QuicKeys 3.2.3 - Macro Program 
+
+ Server Admin Tools 10.5.5 - Remote Administration Tools for Apple Servers 
+
+ Pandora 2.3.3 - Mass Web Image Downloader/Search Assistant 
+
+ Cocktail 4.1.5 - Maintenance/Tweaking Utility 
+
+ Crossword Forge 5.5.1 - Crossword Creation Program 
+
+ RailModeller 3.1.2 - Model Railroad Layout Software 
+
+ SecretBook 4.0.2 - Password Storage 
+
+ AirRadar 1.1 - Wireless Network Scanner 
+
+ VMware Fusion 2.0 - Run Two OSes Simultaneously 
+
+ Cheetah3D 4.6.2 - 3D Animation 
+
+ Flashlight 2.0-2 - Useable Light for iPhone 2.x 
+
+ Crossword Light 1.13 - Crossword Client for iPhone 2.x 
+
+ MySpace Mobile 1.2 - MySpace Client for iPhone 2.x 
+
+ Updates: September 15th, 2008 
+
+The Mac OS X 10.5.5 Update is available. 
+
+ BreakClassic 0.9.4 - Breakout Type Game for iPhone 2.x 
+
+ Solitaire 3D 3.6 - Solitaire 
+
+ Blue Crab 4.9.12 - Web Page Ripper 
+
+ TaskTime 4.5.3 - Project and Time Tracker 
+
+ Sequential 2.0.1 - Comics/Manga Viewer 
+
+ Bookends 10.3.3 - Bibliography Program 
+
+ BusySync 2.1.7 - Sync Multiple iCal Calendars 
+
+ EarthDesk 4.3.1 - Dynamic Desktop Map 
+
+ Master Key 5.3.5 - Networkable Typing Instructor 
+
+ Planbook 1.3.3 - Teacher's Planbook 
+
+ NeoOffice 2.2.5 - Complete Open Source Office Suite 
+
+ NeoOffice 2.2.5 - Complete Open Source Office Suite 
+
+ biteSMS 2.3 - SMS Client for iPhone 2.x 
+
+ Hanoi 1.3 - Towers of Hanoi Game for iPhone 2.x 
+
+ Meet Bubble 1.1 - Level for iPhone 2.x 
+
+ Updates: September 14th, 2008 
+
+ Mojo 2.6.7 - iTunes Integrated Music Sharing Program 
+
+ D2X-XL 1.13.84 - Open GL Update for Descent II 
+
+ Flux 1.4.5 - CSS/XHTML Editor 
+
+ iReversi 1.0 - Multiplayer Othello for iPhone 2.x 
+
+ iCloseby 2.166 - WiFi Social Networking for iPhone 2.x 
+
+ X Lossless Decoder 20080914 - Lossless Audio Converter 
+
+ SEEdit 2008 r10 - XHTML Editor 
+
+ SEEdit 2008 r10 - XHTML Editor 
+
+ Diet Controller 1.14 - Diet/Exercise Tracker 
+
+ Graphing Calculator 1.0 - Graphing Calculator for iPhone 2.x 
+
+ SafariStand 2.1L162 - Safari Enhancements 
+
+ MyFox 1.2 - Alternative Web Browser for iPhone 2.x 
+
+ PhoneView 2.0.6 - Use your iPhone to Store any File 
+
+ Updates: September 13th, 2008 
+
+ Clan Lord v563 - Massively Multi-Player Online RPG 
+
+ iVPN 2.9 - GUI for Mac OS X's VPN Server 
+
+ PocketTouch 3.0.1-1 - Control Music from your Pocket with iPhone 2.x 
+
+ Free RPN Calculator 1.0 - RPN Calculator for iPhone 2.x 
+
+ Cydia 1.0.2575-35 - The non-App Store Way to Install iPhone 2.x Software 
+
+ PwnageTool 2.1 - Own Your iPhone (for iPhone Firmware 2.1) 
+
+ QuickPwn 1.1 - Quickly Pwn iPhone 2.1 
+
+ ResizeIt 2.2 - Batch Image Resizer 
+
+ Freeciv 2.1.6 - Open Source X11 Strategy Game 
+
+ CoolIris 1.8.2.4689 - View Photos as Slide Shows in Safari 
+
+ GL Golf 2.17 - Arcade Golf Game 
+
+ MCleaner 1.5 - SMS/Call Filter for iPhone 2.x 
+
+ Categories 2.14 - Create Folders/Categories on iPhone 2.x 
+
+ Safari Patch 2.0 - Add file:// Support to Safari for iPhone 2.x 
+
+ Updates: September 12th, 2008 
+The iPhone 2.1 Software Update is available through iTunes today. 
+
+ Communigate 5.2.8 - Email/Messaging Server 
+
+ Communigate 5.2.8 - Email/Messaging Server 
+
+ AIM 1.3 - Instant Messenger for iPhone 2.x 
+
+ Audiobook Builder 1.0.11 - Move Audiobooks to iTunes or Your iPod 
+
+ MediaEdit 3.0.6 - Video Editor 
+
+ Delivery Status 4.4 - All-in-one Delivery Tracker Widget 
+
+ Bee Doc's Timeline 2.2 - Timeline Creator 
+
+ VirtualBox 2.0.2 - Run An Alternative OS on Your Mac 
+
+ Osk 4.51.0 - Genealogy Program 
+
+ iCalamus 1.14 - Desktop Publisher 
+
+ BBEdit 9.0.1 - Text Editor 
+
+ Starcraft 1.15.3 - Game Patch 
+
+ Starcraft Broodwar 1.15.3 - Game Patch 
+
+ Twittelator 1.2 - Twitter Client for iPhone 2.x 
+
+ Imagine Poker 3.6.2 - Texas Hold 'Em 
+
+ MediaCentral 2.8.2 - Media Center Program 
+
+ DansGuardian 2.9.9.8 - Open Source Content Filter 
+
+ Updates: September 11th, 2008 
+
+ Wx 5.3 - Weather Program 
+
+ Missing Calculator 1.13 - Programmer's Calculator for iPhone 2.x 
+
+ Tor 0.2.0.31 - IP Anonymizer 
+
+ Revolution Studio 3.0 - Development Environment 
+
+ MacWise 11.45 - Terminal Emulator 
+
+ Tidy Up! 1.4.5 - Duplicate File Finder 
+
+ Updates: September 10th, 2008 
+
+ iPhone SDK (build 9M2517) - Apple's SDK for iPhone OS 2.1 Only 
+
+ Synchronize! Pro X 6.0.5 - Backup Utility 
+
+ iPod.iTunes 4.0.9 - Copy and Sync Your iPod and Mac 
+
+ VueScan 8.4.87 - Third Party Scanner Drivers 
+
+ LightZone 3.6.1 - Graphics Editor 
+
+ iBlacklist 2.0-2 - SMS Filter for iPhone 2.x 
+
+ MacScan 2.6 - Detect Keystroke Loggers and Tracking Cookies etc. 
+
+ iCab 4.2.1 - Web Browser 
+
+ NetShred X 4.2.1 - Assists in Securely Deleting Caches 
+
+ GraphicConverter 6.2 - Image Editor/Viewer 
+
+ GraphicConverter 6.2 - Image Editor/Viewer 
+
+ iToner 1.0.9 - Ambrosia's App to Add Ringtones to Your iPhone 
+
+ Updates: September 9th, 2008 
+
+ Integrity 2.2.2 - HTML Link Checker 
+
+ Tofu 2.0.1 - Text Reader 
+
+ Coda 1.5.1 - Multi-featured Web Editor from Panic 
+
+ NZB Drop 1.2 - Usenet NZB File Downloader 
+
+ QCad 2.2.2.0 - CAD Program 
+
+ QuickTime 7.5.5 - Apple's Multimedia Architecture 
+
+ iTunes 8.0 - Apple's MP3 Player/Music, Video and iPhone App Distribution Software 
+
+ Front Row 2.1.6 - Apple's Media Center Software 
+
+ Rulers 2.3 - Screen Rulers 
+
+ CrushFTP 4.9 - FTP Server 
+
+ Invoice 3.0.4 - Billing Application 
+
+ DVD Cache 1.5.3 - Catalog your DVDs 
+
+ Jedit X 2.0.4 - Text Editor 
+
+ Updates: September 8th, 2008 
+
+ Scrobbled 3.1415 - Last.fm Daemon for iPhone 2.x 
+
+ Leopard Cache Cleaner 4.0.16 - Maintenance Utility 
+
+ Battle for Wesnoth 1.4.5 - Open Source Fantasy Strategy Game 
+
+ AudioFinder 4.8 - Audio Sample Management Program 
+
+ PhoneValet 5.4.2 - Telephone Call Center/Voicemail Updater 
+
+ MailSteward 8.0.6 - Email Archiver 
+
+ iTeXMac 2.747 - teTeX Front End 
+
+ VPN Tracker 5.3 - VPN Client 
+
+ Studiometry 6.0.1 - Project Manager 
+
+ Adium 1.3.1 - Open Source Multi-protocol Instant Messenger 
+
+ Updates: September 7th, 2008 
+
+ SkyFighters 1918 0.78 - Flight Sim 
+
+ Flip4Mac WMV 2.2.1.11 - WMV Components for QuickTime 
+
+ iArchiver 1.4 - Compression Utility 
+
+ Lostify 0.7.4 - Video Meta Tag Editor 
+
+ Renamer4Mac 3.5 - Batch File Renamer 
+
+ Cycorder 0.9-5 - Video Recorder for iPhone 2.x 
+
+ FretPet X 1.1 - Guitar Oriented Music Sequencer 
+
+ Ruler Plus 1.0.1 - Ruler App for iPhone 2.x 
+
+ Sports Fan 1.3.3 - Widget with Sports Info 
+
+ Updates: September 6th, 2008 
+
+ Why Jailbreak iPhone - by BigBoss 
+
+ ScummVM 0.12.0 - Virtual Machine for Playing Many Classic Adventure Games on iPhone 2.x 
+
+ Maintenance 1.2.4 - Maintenance Utility 
+
+ X-Plane 9.2 - Flight Simulator 
+
+ Twitterrific 1.1 - Twitter Client for iPhone 2.x 
+
+ Labyrinth Lite 1.3.1 - Accelerometer Based Marble Roll Game for iPhone 2.x 
+
+ Updates: September 5th, 2008 
+
+ QuickGold 1.0 - Keyboard Based Launcher for iPhone 2.x 
+
+ Lockdown 1.0.6 - Theft Deterrent 
+
+ Captain FTP 5.3114 - FTP/SFTP Client 
+
+ AstroGrav 1.6.2 - Gravity Simulator 
+
+ EquinoX 6.9.1 - Astronomy Program 
+
+ NovaMind Pro 4.5 - Mind Mapping Software 
+
+ QuickVoice 2.3.1 - Voice Recorder 
+ Updates: September 4th, 2008 
+
+ Redline 1.0.5 - Racing Game from Ambrosia 
+
+ CamSpinner 2.0 - Web Cam Poster 
+
+ PCalc 3.3 - Scientific Calculator 
+
+ EccoNote 2.4 - Voice Recorder for iPhone 2.x 
+
+ TinyBooks 6.0.1 - Bookkeeping Program 
+
+ myHtml 1.3 - HTML Editor for iPhone 2.x 
+
+ Updates: September 3rd, 2008 
+
+ iComic 13 - Comic Viewer for iPhone 2.x 
+
+ FreeWRL 1.20.7 - VRML Viewer 
+
+ AdmitMac 4.1.2 - Microsoft/Apple Network Intergration 
+
+ Dave 7.1.2 - PC/Mac File and Print Sharing 
+
+ Macman 1.0 - Accelerometer Based Pacman Clone for iPhone 2.x 
+
+ Dejal Simon 2.4.2 - Web Server Monitor 
+
+ EndNote X2 - Bibliography Assistant 
+
+ NetNewsWire 3.1.7 - RSS Reader 
+
+ AppKiDo 0.981 - Reference Tool for Cocoa Programmers 
+
+ Summary 3.0.10 - Web Log Analyzer 
+
+ iBank 3.2 - Personal Finance Manager 
+
+ Geekbench 2.0.19 - Benchmark Utility 
+
+ KisMAC 0.21a r294 - Wireless Stumbler/Scanner 
+
+ InterMapper 5.0.4 - Network Monitor 
+
+ BookSmart 1.9.7 - Service to Make and Publish Your Own Books 
+
+ Updates: September 2nd, 2008 
+
+ OmniOutliner 3.7 - Outliner 
+
+ NoteAbility Pro 2.363 - Music Notation Program 
+
+ PhotoPresenter 3.4 - Photo/Video Slideshow Presenter 
+
+ BeerAlchemy 1.6.8 - Beer Recipe Formulator 
+
+ Tri-BACKUP 5.1 - Backup Utility 
+
+ Freeway 5.2.1 - WYSIWYG Web Editor 
+
+ VChat 1.1a10 - CU-Seeme Video Conferencing Client 
+
+ iBiz 3.1.13 - Time Billing and Invoicing Program 
+
+ World Clock Deluxe 4.5.5 - World Clock 
+
+ Updates: September 1st, 2008 
+
+ ScummVM 0.12.0 - Virtual Machine for Playing Many Non-Mac Classic Adventure Games 
+
+ MacFamilyTree 5.2.6 - Genealogy Program 
+
+ Stalker 2.0.5 - Stock Watcher and Tools 
+
+ Updates: August 31st, 2008 
+
+ SeaMonkey 1.1.12 - Web Browser 
+
+ Serial Mail 4.3 - Mail Merge Plug-in for Mail.app 
+
+ JES Deinterlacer 3.3.2 - Video Deinterlacer 
+
+ Updates: August 30th, 2008 
+
+ AppleJack 1.5 - Troubleshooting Program 
+
+ Bub & Bob X 1.0.5 - Arcade Game 
+
+ ClamXav 1.1.1e933 - Open Source Virus Scanner 
+
+ PDF Studio 5.01 - Set of PDF Tools 
+
+ eReader 1.2 - eBook Reader for iPhone 2.x 
+
+ Tap Tap Revenge 1.2 - Music Game for iPhone 2.x 
+
+ Silk 2.1.4 - Font Smoothing for Non-Cocoa Apps 
+
+ iProcrastinate Mobile 1.1 - Todo List Manager for iPhone 2.x 
+
+ Updates: August 29th, 2008 
+
+ iPhone Video Recorder 2.0 - Video Recorder for iPhone 2.x 
+
+ TuneWiki 2.4 - Synch and Share Lyrics on iPhone 2.x 
+
+ Kate 2.0b5 - Assortment of Tools for iPhone 2.x 
+
+ gpSPhone 2.5 - Game Boy Advance Emulator for iPhone 2.x 
+
+ Nes.app 2.3.1 - Nintendo Emulator for iPhone 2.x 
+
+ GrandPerspective 0.9.13.1 - Graphical Representation of File Disk Usage 
+
+ iRecordMusic 1.6.465 - Internet Radio Recorder 
+
+ RapidWeaver 4.1.2 - Theme Based Web Editor 
+
+ Pure Vinyl 2.3 - Play Back and Record Vinyl Records 
+
+ Pure Vinyl 2.3 - Play Back and Record Vinyl Records 
+
+ ChordMate 1.4 - Choose the Right Voicing 
+
+ Speed Download 5.0.6 - Download Manager 
+
+ TeXShop 2.18 - LaTeX Development Tool 
+
+ TranslateIt! Deluxe 9.7.9704 - Multi-language Dictionary 
+
+ Updates: August 28th, 2008 
+
+ Papers 1.8.6 - PDF Manager 
+
+ Yahoo! Messenger 3.0b126432 - Instant Messenger (Now with Audio Calling) 
+
+ Edgies 2.6 - Notes Program 
+
+ Parallels Server 3.0 build 2173 - Run Multiple OSes On Your Server 
+
+ Cocoa Packet Analyzer 0.52 - Packet Analyzer 
+
+ OmniPlan 1.6 - Project Manager 
+
+ Daylite 3.7.6 - Group Scheduling Software 
+
+ Web Site Maestro 6.6.1 - HTML Optimizer 
+
+ Contactizer Pro 3.6.7 - Calendar and Contacts 
+
+ Updates: August 27th, 2008 
+
+ Mathemania 3.1 - Math Fact Practice Sheet Generator 
+
+ Updates: August 26th, 2008 
+
+ Apeiron X 1.0.3 - Centipede Clone from Ambrosia 
+
+ Bubble Trouble X 1.1 - Arcade Game from Ambrosia 
+
+ Saft 10.5.4 - Kiosk Mode etc. for Safari 
+
+ Floola 3.4 - iPod Manager 
+
+ Tablatures 1.9 - Tablature Editor 
+
+ Ableton Live 7.0.10 - Music Production/Improvisation Software 
+
+ Sound Studio 3.5.7 - Audio Recorder/Editor 
+
+ Indigo 3.0.4 - Home Automation Program 
+
+ PGP Desktop 9.9 - File and Disk Encrypition Software 
+
+ Spongefork 3.3.4 - Softsynth and Sampler 
+
+ BackTrack 5.0.5 - Keystroke Logger 
+
+ Updates: August 25th, 2008 
+
+ Sharity 3.6 - SMB Client 
+
+ Peek-a-Boo 2.7.7 - Process Manager 
+
+ HTML-Optimizer 9.9 - HTML Optimizer 
+
+ Updates: August 24th, 2008 
+
+ Juice 1.2 - Battery Status Widget 
+
+ Updates: August 17th - August 23rd, 2008 
+
+ Boolean Search 3.3.5 - Search Engine 
+
+ MacJournal 5.1 - Journaling Software 
+
+ Blender 2.47 - Open Source 3D Creation Suite 
+
+ Blender 2.47 - Open Source 3D Creation Suite 
+
+ NameChanger 2.2 - Batch File Renamer 
+
+ Romi 7.4 - Card Game 
+
+ MacTracker 5.0.4 - Mac Hardware Database 
+
+ Shimo 2.0.6 - User Interface for the Cisco VPN Client 
+
+ NicePlayer 0.96.2 - Video Player 
+
+ NewsLife 1.2.1 - RSS Reader 
+
+ Metro 6.4.5 - Music Production System 
+
+ Process 3.0.5 - Outliner 
+
+ Font Pilot 2.2.7 - Font Viewer 
+
+ Songbird 0.7.0 - Open Source Music Player 
+
+ Absolute Backgammon 6.0.6 - Backgammon 
+
+ G-Force 3.8.5 - iTunes Visualizer 
+
+ Flexify 2.3.9 - Photoshop Plug-in 
+
+ Igor Pro 6.04 - Graphing Utility 
+
+ FinKit 2.9.5 - Financial Calculator 
+
+ Harmony Assistant 9.4.6 - Music Composition Program 
+
+ Melody Assistant 7.4.6 - Music Composition Program 
+
+ HoudahGeo 1.4.13 - Photo Geocoding Program 
+
+ SMARTReporter 2.3.8 - Polls the S.M.A.R.T. Status of Your Hard Disk 
+
+ Opera 9.52 - Web Browser 
+
+ AppCleaner 1.2.2 - Application Deinstaller 
+
+ Phlink 4.0.3 - Telephone Call Center 
+
+ Geophoto 2.3.1 - Geotag Your Photos 
+
+ DJ-1800 3.2 - DJ Mixing Software 
+
+ Nicecast 1.9.4 - Internet Radio Server 
+
+ BOINC 6.2.18 - Client for Various distributed Computing Projects 
+
+ Chroma 2008.1 - Video Player 
+
+ SciSoft 2008.8.1 - Collection of Astronomical Packages 
+
+ FruitMenu 3.7 - Haxie to Customize the Apple Menu and Contextual Menus 
+
+ Miro 1.2.6 - Internet Video Player 
+
+ WhatSize 4.3.1 - Find Large Files/Folders for Trashing 
+
+ MacVim 7.2 stable 1.2 - Cocoa Port of Vim 
+
+ Opal 1.2.1 - Outliner from the Makers of Acta 
+
+ TextExpander 2.4.1 - Autotext Text Expander 
+
+ iSMARTtrain 3.0.2 - Fitness Tracker 
+
+ Privoxy 3.0.10 - Web Proxy 
+
+ Emailchemy 9.8.1 - Converts Email to and from Various Formats 
+
+ Updates: August 10th - August 16th, 2008 
+
+ Safari Download Plug-In 2.0 - Download zip, rar, dmg etc. from Mobile Safari 
+
+ SwitchRes 3.8.4 - Automatic Resolution Switcher 
+
+ Stock Investment Guide 2.4.1 - Stock Analysis Program 
+
+ AstroApp 1.98 - Remote Access Program and Service 
+
+ ViddyUp 1.8.4 - Convert Movies to iPod Compatible Format 
+
+ viJournal 1.8.5 - Personal Journal Program 
+
+ Cinema 4D 11.0 - 3D Animation Suite Demo 
+
+ Navicat MySQL 7.1.5 - MySQL Manager/Development Tool 
+
+ Trillix 3.2.16.3627 - Flash Decompiler 
+
+ TimeCache 7.0.13 - Time/Expense Billing Program 
+
+ ScreenSteps 2.1.2r11 - Screen Capture Utility 
+
+ OfficeTime 1.3.3 - Time Tracking Software 
+
+ ReceiptWallet 2.0.7 - Scan and Store Receipts 
+
+ RouteBuddy 2.2 - GPS Mapping Application 
+
+ BurnAgain FS 1.0.3 - CD/DVD Burning Utility 
+
+ SizzlingKeys 3.2.6 - iTunes Hotkey Controller 
+
+ Inquisitor 3.2v56 - Search Enhancement for Safari 
+
+ RSS Menu 1.11.5 - RSS Reader 
+
+ iPSP 4.0.1 - Sony PSP Manager 
+
+ WhiteCap 5.1.5 - iTunes Visualizer 
+
+ Little Snitch 2.0.4 - Monitor Outgoing Connections 
+
+ LoudHush 1.3.18 - Softphone Client for the Asterisk PBX 
+
+ Halo 2.0.3 - Action Game Update 
+
+ Microsoft Office 2008 12.1.2 - Office Suite Update 
+
+ Microsoft Office 2004 11.5.1 - Office Suite Update (ability to Save as .docx etc.) 
+
+ Connect360 3.36 - Turn Your XBox Into a Multimedia Center 
+
+ Vvidget 10.5.7.1 - Charting and Graphing Framework 
+
+ Surround SCM 2008 1.2 - Version Manager 
+
+ SOHO Organizer 7.0.3 - Personal or Group Organizer 
+
+ SOHO Notes 7.0.3 - Notes Software 
+
+ Stone Hill Invoicer 1.3.1 - Invoicing Program 
+
+ XScreenSaver 5.07 - The Standard Unix Screen Savers Ported to Mac OS X 
+
+ Amadeus Pro 1.3.2 - Audio Editor 
+
+ Default Folder X 4.0.8 - Dialog Box Enhancement 
+
+ CrystalMaker 8.1.3 - Crystallographic Tool 
+
+ Remote Buddy 1.11.1 - Control Apps on Your Mac by Remote Control 
+
+ AudialHub 1.0.7 - Convert Between Various Audio Formats 
+
+ MoneyWell 1.3.10 - Personal Finance Program 
+
+ NcFTP 3.2.2 - Command Line FTP Client 
+
+ NcFTP 3.2.2 - Command Line FTP Client 
+
+ MPEG Streamclip 1.9.2 - Video Converter 
+
+ Cyberduck 3.0.2 - FTP Client 
+
+ Updates: August 3rd - August 9th, 2008 
+
+ Validator S.A.C 0.6.3 - HTML Validator 
+
+ TimeEqualsMoney 3.4.4 - Billing Application 
+
+ iShow Invisible 1.2 - Script for Showing Invisible Files 
+
+ Solavant 2.5.2 - Skill Based Solitaire 
+
+ Psi 0.12 - Jabber Client 
+
+ AppDelete 2.0.2 - Delete Apps and Their Associated Files 
+
+ Videator 4.6.2 - Video Editor 
+
+ iMaginator 4.2.2 - Graphics Editor 
+
+ PhotoToWeb 3.5 - Prepare and Publish Web Albums 
+
+ SliceAndDice 4.3.4 - Image Slicer for the Web 
+
+ Create 14.2.3 - Web Editor/Page Layout Program 
+
+ PStill 5.7.5 - PostScript to PDF Converter 
+
+ iSale 5.2.1 - Layout Program for eBay 
+
+ ScreenFlow 1.2 - Screen Capture/Recorder 
+
+ Yep 1.8 - PDF File Manager 
+
+ Moneydance 2008r2 - Personal Finance Program 
+
+ Net Monitor 4.4.8 - Network Graphing Utility 
+
+ WordOMatic 1.3.4 - Boggle-Type Game Where You Slide Letters 
+
+ Compositor 2.10.0 - Image Editor 
+
+ Shockwave 11.0.0.465 - Adobe's Browser Plug-in for Intel Macs 
+
+ TiVo Desktop 1.9.4.055 - Share Your TiVo with Your Mac 
+
+ VisualHub 1.34a - Convert Between Various Video Formats 
+
+ Praat 5.0.31 - Doing Phonetics by Computer 
+
+ Pastor 1.8.1 - Freeware Password Storage Program 
+
+ MoneyWorks 5.2.3 - Accounting Software 
+
+ Join Together 5.3.1 - Join Selected iTunes Tracks 
+
+ Call Recorder 2.3.3 - Record Audio and Video in Skype 
+
+ BetterZip 1.7.2 - Compression Tool 
+
+ BossPrefs 2.0.10b - Toggle Preferences for iPhone 2.x 
+
+ Websearch 2.00b - Web Search for iPhone 2.x 
+
+ Spyder 1.4.50 - MySpace Client 
+
+ Intaglio 3.0 - Drawing Program 
+
+ TechTool Pro 4.6.2 - Disk Repair Program Updater 
+
+ Port Authority 2.6 - GUI Package Manager for MacPorts 
+
+ Seasonality 1.5.2 - Weather Program 
+
+ Audio Hijack Pro 2.8.3 - Audio Recorder for Any Input, Streaming etc. 
+
+ aMSN 0.97.2 - MSN Instant Messenger 
+
+ TimeFlyer 2.2 - Timeline Maker 
+
+ DNS Enabler 3.0.4 - Turn on DNS on Your Mac 
+
+ IShowU 1.68 - Screen Capture and Recorder 
+
+ Connoisseur 1.3 - Recipe Program 
+
+ MacGourmet 2.3.4 - Recipe Program 
+
+ MacStitch 4.7 - Cross Stitch Design Program 
+
+ PDFKey Pro 3.7.4 - Unlock PDF Documents 
+
+ Secure FTP 2.5.17 - FTP over SSL Client 
+
+ Space Penetrators 2.1.3 - Space Invaders Type Game 
+
+ Kids GoGoGo 12.6 - Content Filter 
+
+ Updates: July 27th - August 2nd, 2008 
+
+ LightWayText 4.1.7 - Multilingual Text Editor 
+
+ TimeNet 3.9.15 - Time/Expense/Invoicing Application 
+
+ xTime Project 4.6 - Project Manager 
+
+ Delicious Library 2.0.2 - Media Collector's Database 
+
+ Sizerox 1.2.9 - Image Scaler for Email etc. 
+
+ 1Password 2.8.2 - Password Manager 
+
+ Jer's Novel Writer 1.1.6 - Word Processor for Creative Writers 
+
+ YummySoup! 1.6.9.4 - Recipe Book 
+
+ SoundConverter 20080802 - Convert Various Audio Formats 
+
+ Houdahspot 2.2.2 - Spotlight Enhancement 
+
+ Calc 1.1 - Tape Calculator for iPhone 2.0 
+
+ HPCalc 1.0 - Hewlitt Packard Calculators for iPhone 2.0 
+
+ SimStapler 1.1 - Office Equipment Simulator for iPhone 2.0 
+
+ CocoaSlideShow 0.4.6 - Slideshow Viewer 
+
+ SuperBladePro 1.7 - Photoshop Plug-in 
+
+ TypeIt4Me 4.0.4 - Autotext Text Expander 
+
+ quake4iphone - Quake Ported to iPhone 2.0 
+
+ Customize 2.1.1 - Password Storage Program for iPhone 2.0 
+
+ Beholder 3.0 - Image Search Program 
+
+ Password Vault 1.0 - Password Storage Program for iPhone 
+
+ Twinkle 1.1 - Twitter Client for iPhone 
+
+ GyazMail 1.5.8 - Email Client 
+
+ SketchFighter 4000 Alpha 1.1 - Arcade Game from Ambrosia 
+
+ Ford Racing 2 1.1 - Racing Game 
+
+ Ukelele 1.8 - Keyboard Layout Editor 
+
+ Jack OS X 0.78 - Audio Server 
+
+ Stock WatchTower 2.3 - Stock Analyzer 
+
+ Foxtrot Pro 2.0.2 - Desktop Search Program 
+
+ GarageSale 5.0.3 - Sell things on eBay 
+
+ Miana 1.1.9 - Set Creation/Modification Dates 
+
+ BoXiKoN 1.6.7 - Puzzle Arcade Game 
+
+ AceReader Pro 5.1.1 - Speed Reading Trainer 
+
+ Merlin 2.6.1 - Project Manager 
+
+ Jisho 3.0 - Japanese English Dictionary 
+
+ Lightroom 2.0 - Adobe's Professional Photo Editor 
+
+ Camera RAW 4.5 - Adobe's DNG Converter and Plug-in for CS3 
+
+ Hue GO! 1.4.1 - HTML Color Picker 
+
+ Aperture 2.1.1 - Update to Apple's Photography Workstation 
+
+ Age of Empires III 1.0.4 - Strategy Game Updater 
+
+ IndiaInk 1.992 - Photoshop Plug-in 
+
+ Nes.app 2.3.0 - Nintendo Emulator for iPhone 2.0 
+
+ Metronome 2.11 - Metronome for iPhone 2.0 
+
+ KrossWordz 1.8.3 - Crossword Puzzle Client 
+
+ Chromatic Tuner 1.8 - Instrument Tuner 
+
+ Strobe Tuner 1.6 - Instrument Tuner 
+
+ ChocoFlop 0.87 - Image Editor 
+
+ CoverSutra 2.1.4 - iTunes Controller 
+
+ Incubator 2.5 - Mind Mapping Program 
+
+ Phex 3.2.6.106 - Gnutella Client 
+
+ Skat 7.2 - Card Game 
+
+ Say Cheese 2.8 - Widget for Daily Comics 
+
+ Where is M13? 2.3 - Astronomy Program 
+
+ NewsFire 1.5v74 - RSS Reader 
+
+ NetRestore 3.4.6 - Restore from a Master Disk Image 
+
+ Updates: July 20th - July 26th, 2008 
+
+ PhoneDirector 1.2.7 - Nokia Phone Manager 
+
+ SnapNDrag 2.4.4 - Screen Capture Utility 
+
+ Calcline 1.3.1 - Calculator 
+
+ Bricksmith 2.0 - Virtual Legos 
+
+ SuperNotecard 2.7 - Notecard Based Organizer 
+
+ Flow 1.0.3.1 - FTP/SFTP Client 
+
+ Yum 2.6.6 - Recipe Manager 
+
+ BibDesk 1.3.18 - Open Source BibTeX Bibliography Manager 
+
+ Erica Utilities beta10-1 - Command Line Utilities for iPhone 2.0 Including Screen Capture 
+
+ Fish Tank Tool 1.4.2 - Aguarist's Helper 
+
+ EagleFiler 1.3.8 - Info Manager 
+
+ DiskAid 1.5 - Use Your iPhone as an External Disk 
+
+ Camfrog 1.7 - Video Conferencing Program 
+
+ OmniGraffle 5.0.1 - Chart/Diagram Maker 
+
+ Komodo 4.4.1 - IDE for Various Scripting Languages 
+
+ Komodo 4.4.1 - IDE for Various Scripting Languages 
+
+ David's Backgammon 5.7.5 - Backgammon 
+
+ Tap Tap Revenge 1.1 - iPhone Music Game 
+
+ Screen Mimic 2.4 - Screen Recording Utility 
+
+ iStat Pro 4.7 - System Stats in a Widget 
+
+ Media Catalog 4.0.1 - Catalog Files on CDs/DVDs 
+
+ Finale 2009 - Music Notation Software 
+
+ iMovie 7.1.4 - Updater to Apple's Video Editor 
+
+ iPhoto 7.1.4 - Updater to Apple's Image Cataloguer 
+
+ iWeb 2.0.4 - Updater to Apple's Website Builder 
+
+ MarsEdit 2.2 - Blog Editor 
+
+ Podcast Maker 1.3.8b - Podcast Creation Utility 
+
+ StuntMANIA 2.6.9 - Stunt Driving Game 
+
+ iAntiVirus 1.0 - Detect Keystroke Loggers and other Mac Specific "Threats" 
+
+ Turret Wars MP 1.1.3 - Multi-Player Arcade Shooter 
+
+ iWatermark 3.13 - Watermark Your Images 
+
+ fseventer 2.6.5 - Observes and Reports System Changes 
+
+ JetPhoto 3.1 - Photo Organizer and Web Album Program 
+
+ OnMyCommand 2.0 - Contextual menu for executing Unix Commands 
+
+ Personal Trader 3.5.5 - Stock Investment and Tracking Program 
+
+ You Control: Fonts 1.3.1 - Custom Font Menu 
+
+ Baseball Statbook 3.0.4 - Baseball/Softball Stats Tracker 
+
+ ViewIt 2.29 - Image Viewer 
+
+ Joost 1.1.8 beta - Online Video Player 
+
+ Fink 0.9.0 - Unix Package Manager for Mac OS X 
+
+ Fink 0.9.0 - Unix Package Manager for Mac OS X 
+
+ Mystery Island II 1.8.1 - Adventure Game 
+
+ MacBreakZ 4.8.1 - RSI Prevention 
+
+ docXConverter 3.1 - Convert Word and Excel 2007 Formats 
+
+ Updates: July 13th - July 19th, 2008 
+
+ Cast Away 2.5.3 - Manage Podcasts in iTunes 
+
+ ForkLift 1.5.3 - FTP/SFTP Client and File Manager 
+
+ Journler 2.5.5 - Personal Journal 
+
+ Shoebox 1.7.3 - Photo Organizer 
+
+ Facebook 1.1 - Facebook Client for iPhone 
+
+ BIAS Peak Pro 6.0.3 - Audio Editor 
+
+ BIAS Peak LE 6.0.3 - Audio Editor 
+
+ ShakesPeer 0.9.10 - Open Source Direct Connect Client 
+
+ VirusBarrier X5 10.5.3 - Virus Scanner 
+
+ Carbon Emacs 20080718 - Emacs Port 
+
+ Morse Mania 3.4.0 - Morse Code Tutor 
+
+ A Better Finder Attributes 4.7.6 - Change Creation/Modification Dates, Lock/Unlock 
+
+ Service Scrubber 1.1.5 - Edit the Services Menu 
+
+ iStock 1.3.3 - Stock Ticker 
+
+ WeDict 1.0 - Dictionary for iPhone 
+
+ Mocha VNC Lite 1.0 - VNC Client for iPhone 
+
+ Neverball 1.2.1 - Ball Rolling Accelerometer Game for iPhone 
+
+ A Farewell to Kings 2.2 - Solitaire 
+
+ Airfoil 3.2.1 - Send Audio to Remote Speakers 
+
+ Senuti 0.50.2b8 - Transfer Files From iPod to Mac 
+
+ EasyFrame 2.2.4 - Add Borders to Pictures 
+
+ World of Warcraft 2.4.3 - MMORPG Patch 
+
+ Flock 1.2.4 - Web Browser Especially for Social Networking 
+
+ Web Dumper 2.4.1 - Web Page Ripper 
+
+ Cover Stream 2.2 - Flow on Your Desktop for iTunes Control 
+
+ PhoneAgent 1.5 - Sony Ericson Phone Manager 
+
+ Kerio MailServer 6.5.2 - Commercial Mail Server 
+
+ Typinator 3.1 - Autotext Expander 
+
+ MPFreaker 1.7.6 - Auto Add ID3 Info/Album Art to MP3s 
+
+ SimpleAuthority 2.4 - Certification Authority Key Generator 
+
+ CCN X 3.28 - Calendar, Notes and Timer 
+
+ Jott 1.01 - Voice Notes for iPhone 
+
+ AOL Radio 1.0 - Web Radio for iPhone 
+
+ Home Weather Center 1.8.4 - Internet Weather 
+
+ Jared 1.0 - Butcher of Songs for iPhone 
+
+ Moo 1.0 - Shake and Moo for iPhone 
+
+ Aleph One 20080707 - Play Marathon on Your New Mac 
+
+ Mori 1.6.11 - Digital Notebook 
+
+ Updates: July 6th - July 12th, 2008 
+
+ Xcode 3.1 - Apple's Developer Tools for Leopard 
+
+ Google Earth 4.3.7284.3916 - Worldwide Satelite Images etc. 
+
+ iStopMotion 2.0.8 - Stop Motion Animation Program 
+
+ MegaSeg 4.5.1 - DJ Mixing Software 
+
+ Neverwinter Nights: Hordes of the Underdark 1.69 - Adventure Game Patch 
+
+ Funbooth 0.9.3 - Add Effects to Your Web Cam 
+
+ Warcraft III: Reign of Chaos 1.22a - Strategy Game Patch 
+
+ Warcraft III: The Frozen Throne 1.22a - Strategy Game Patch 
+
+ Episode 5.0.1 - Video/Audio Compression Program 
+
+ Tables 1.4.5 - Spreadsheet Program 
+
+ MacPool 10.0.1 - 9-Ball and 8-Ball 
+
+ iToner 1.0.8 - Ambrosia's App to Add Ringtones to Your iPhone 
+
+ OmniFocus 1.0.3 - Task Manager 
+
+ FrostWire 4.17 - Gnutella Client 
+
+ MailTags 2.2.1 - Add Tagging to Mail.app 
+
+ PageSender 4.3.1 - Fax Program 
+
+ BluePhoneElite 2.0.12 - Control Your Cell Phone From Your Mac 
+
+ Organized Gourmet 3.0.3 - Recipe Program 
+
+ Payroll 7.8.5 - Small Business Payroll Program Updater 
+
+ SwirlyMMS 1.1 - MMS Client for iPhone 
+
+ PandoraBoy 0.5.2 - Stand-alone Client for Pandora Web Radio 
+
+ Carbon Copy Cloner 3.1.1 - Backup Utility 
+
+ Mail Forward 4.1.4 - Forwards Hotmail, Gmail, MSN, Yahoo, and AOL Web Mail Accounts 
+
+ ClickRepair 2.3.2 - Audio Cleaner 
+
+ CrossOver 7.0.2 - Install and Run Some Windows Software on Your Mac 
+
+ Backgammon 2.5 - Board Game for iPhone 
+
+ uCalendar 3.2 - Scheduling Calendar 
+
+ googol-Choo-Choo 3D 2.05 - Train Simulator 
+
+ Eclipse 3.4 - Java Development Environment 
+
+ A Cook's Books 1.2.6 - Recipe Book 
+
+ Touchpad Pro 4.46 - Control Your Mac with Your iPhone 
+
+ iSlsk 0.3 - SoulSeek Client for iPhone 
+
+ MT-NewsWatcher 3.5.3b3 - Usenet Client 
+
+ iData 3.0.22 - Database Program 
+
+ Updates: June 29 - July 5, 2008 
+
+ Thinking Home 2.0.2 - Home Automation Program 
+
+ ConceptDraw 8.0.1 - Flowcharting, Diagramming etc. 
+
+ ConceptDraw MindMap 6.0 - Mind Mapping Program 
+
+ ConceptDraw Project 5.0 - Project Manager 
+
+ DVDRemaster 4.4.1 - Recompress DVD's to Fit on Standard DVD5 
+
+ Xupport 3.4.5 - Maintenance Utility 
+
+ Leech 1.1.4 - Browser Integrated Download Manager 
+
+ SysQuake LE 4.1 - Scientific Visualization Software 
+
+ Gizmo 4.0.266 - SIP/Internet Phone 
+
+ Fairy Tower 1.1.7 - Pinball Game 
+
+ iGlasses 2.1.1 - Apply Presets and Effects From Within iSight Applications 
+
+ Tux Paint 0.9.20 - Graphics Program for Kids 
+
+ DiscLabel 5.2.3 - Print CD/DVD Covers 
+
+ Adobe Reader 9.0 - Adobe's PDF Viewer for Intel 
+
+ Adobe Reader 9.0 - Adobe's PDF Viewer for PPC 
+
+ Google Notifier 1.10.1 - Menubar Gmail Alerts 
+
+ Microsoft Remote Desktop Connection 2.0 - Control a PC from Your Mac 
+
+ InDesign CS3 5.0.3 - Update for Adobe's Desktop Publisher 
+
+ Vuze 3.1.1 - BitTorrent Client (Formerly Azureus) 
+
+ DeepVacuum 1.66 - Download Manager Based on Wget 
+
+ EVE Online 5.10.58188 - Massively Multiplayer Online Game Update 
+
+ ASM 2.2.7 - Application Switcher Menu 
+
+ Songbird 0.6.1 - Open Source Music Player 
+
+ Butler 4.1.6 - Autotext Launcher 
+
+ Enigmo 2.0.8 - Puzzle Game from Pangea 
+
+ JellyfiSSH 4.5.2 - Telnet/SSH Session Manager 
+
+ Retrospect 6.1.230 - Backup Utility 
+
+ Iris 1.0.7 - Movie Recorder, Motion Detector etc. for Your Web Cam 
+
+ Tuboy Juego 3.2 - YouTube Downloader 
+
+ Lighthouse 1.2.5 - Dynamic Port Forwarding Utility 
+
+ formZ 6.6 - 3D Modeler 
+
+ Xbox Live Friends 4.0 - Interface for the XBox Live Network 
+
+ Updates: June 22 - June 28, 2008 
+
+ Microsoft Messenger 7.0.1 - Microsoft's Instant Messenger 
+
+ LightSpeed 2.6.1 - Point of Sale Software 
+
+ Audiocorder 5.2 - Audio Recorder 
+
+ Cepstral Voices 5.1 - Third Party Text to Speech Voices 
+
+ MAMP 1.7.2 - Self-contained Apache, PHP, MySQL Combo 
+
+ CoMa X 8.1 - Answering Machine and Fax Software 
+
+ Black Ink 1.1 - Crossword Puzzle Client 
+
+ SoftRAID 3.6.7 - Backup Utility 
+
+ WaterRoof 2.1 - Firewall Front-end 
+
+ Keystrokes 4.1 - Virtual On-screen Keyboard 
+
+ Layout Kitchen 2.1.1 - Communication Board 
+
+ Fetch Art 2.0 - Album Image Downloader for iTunes 
+
+ Acorn 1.2.1 - Image Editor 
+
+ Open XML Converter 1.0 - Convert Microsoft's .docx to .rtf etc. 
+
+ Witch 2.0.1 - Window Switcher 
+
+ PocketTouch 1.4.1se - Control iPhone's Music from your Pocket 
+
+ Hardware Monitor 4.51 - Reads All Available Hardware Sensors 
+
+ Temperature Monitor 4.51 - Reads Available Temperature Sensors 
+
+ AuctionSieve 1.9.1 - eBay Filter to Help Find What You Want 
+
+ Kinemac 1.6.6 - 3D Animation/Presentation Software 
+
+ R 2.7.1 - Language and Environment for Statistical Computing and Graphics 
+
+ FoldersSynchronizer 3.6.4 - Synch Files and Folders 
+
+ Sunrise 1.7.4 - Open Source Browser 
+
+ SiteSucker 2.2.2 - Web Page Ripper 
+
+ DMGConverter 4.1 - Disk Image Creator/Converter 
+
+ Platypus 4.0 - Script Wrapper 
+
+ Periodic Table 1.1 - Periodic Table of the Elements for iPhone 
+
+ PokerSolitarus 1.005 - Poker for iPhone 
+
+ Updates: June 15 - June 21, 2008 
+
+ NOIZ2SA 1.1.2 - Sidescrolling Shooter for iPhone 
+
+ iScores 1.50 - Sports Scores for iPhone 
+
+ Tetris 3.0 - Game for iPhone 
+
+ Amigos Spanish 3.2 - Spanish Verb Practice 
+
+ Hue and Cry 1.3.1 - Photoshop Plug-in 
+
+ SolarCell 1.7.1 - Photoshop Plug-in 
+
+ Melancholytron 1.4.1 - Photoshop Plug-in 
+
+ dataComet-Secure 10.1.1 - Telnet/SSH Client 
+
+ Customize 2.0rc1.3 - Customize Your iPhone's Dock, Images and Sounds 
+
+ Bean 1.3.3 - Freeware Word Processor 
+
+ Imagine Poker 3.5.1 - Texas Hold 'Em 
+
+ Aqua Data Studio 6.5.12 - Database Editor 
+
+ LinkLines 1.4.3 - Puzzle Arcade Game 
+
+ XQuartz 2.2.3 - Third Party Bug Fixes for Leopard's X11 
+
+ Navizon 2.0.6 - Virtual GPS for iPhone 
+
+ Wings 3D 0.99.03 - Open Source 3D Modeling Program 
+
+ SWF 'n Slide Pro 1.029 - Make Flash Slide Shows 
+
+ Growl 1.1.4 - Global Notification System 
+
+ Popchar X 4.0.1 - Assists in Typing Special Characters 
+
+ Sauerbraten 20080620 - Open Source First Person Shooter 
+
+ Overture 4.10p16 - Music Composition Program 
+
+ Subs Factory 1.1.1 - Subtitle Editor 
+
+ Amazing Slow Downer 3.2.3 - Slow Down Music Without Changing Pitch 
+
+ CopyPaste Pro 1.0.8 - Clipboard Enhancement 
+
+ Adobe Air 1.1 - Runtime Environment for Flex, Flash and Ajax 
+
+ PhotoRescue 3.1.5.11030 - Recover Photos from Camera Media 
+
+ Musashi 3.5 - Email Client 
+
+ Enemy Territory: Quake Wars 1.5 - Update for this Action Game 
+
+ DynDNS Updater 2.3 - Client for DynDNS.org 
+
+ Sigma Chess 6.1.6 - Chess 
+
+ WebScripter 2.0.2 - Web Editor 
+
+ Name Munger 1.7.3 - Batch File Renamer 
+
+ skEdit 4.1.1 - Text Editor 
+
+ Calq 1.4.4 - On Demand Calculator 
+
+ Atlantis 0.9.8.7 - MUD Client 
+
+ Glitterato 1.2 - Photoshop Plug-in 
+
+ Updates: June 8 - June 14, 2008 
+
+ ImageWell 3.5.3 - Basic Graphics Editor 
+
+ JAlbum 8.0.9 - Web Gallery Program 
+
+ Zipeg 2.2 - Decompress/Browse Files 
+
+ Montage 1.5.1 - Screenwriting Software 
+
+ MiniBatteryLogger 1.8.3 - Laptop Battery Monitor 
+
+ FastTrack Schedule 9.2.2 - Project Manager 
+
+ GameRanger 4.8.1 - Complete Mac Internet Gaming Service 
+
+ MobileTwitter 1.5.2 - Twitter Client for iPhone 
+
+ Shutterbug 2.4.5 - Web Gallery Program 
+
+ Parallels Desktop 3.0 build 5608 - Run Two OSes Simultaneously 
+
+ Carrara Pro 6.2.1 - 3D Animation and Modeling Program Update 
+
+ Forms To Go 4.0.3 - Form Creator for the Web 
+
+ DEVONagent 2.3.1 - Internet Search Assistant 
+
+ iDVD 7.0.2 - Updater to Apple's DVD Authoring Program 
+
+ Springy 1.4.2 - Compression/Archiving Utility 
+
+ Stox 1.2 - Stock Tracking and Analysis Program 
+
+ Fountain Music 2.25 - iTunes Visualizer 
+
+ QuickTime 7.5 - Apple's Multimedia Architecture 
+
+ Squeak 3.10.2 - Smalltalk Environment 
+
+ Mellel 2.5 - Word Processor 
+
+ Reference Miner 3.1 - Search PubMed, Library of Congress etc. 
+
+ Synergy 3.2.1 - iTunes Controller and Utility 
+
+ Proteus 4.2 - Multi-protocol Instant Messenger 
+
+ Updates: June 1 - June 7, 2008 
+
+ CoolWmaWmv 1.5 - Convert WMA/WMV Files 
+
+ IPNetSentryX 1.6.5 - Firewall Intrusion Detector 
+
+ iota-calc 1.7.6 - Programming Calculator 
+
+ iStat Menus 1.3 - Monitor Your System in the Menubar 
+
+ PulpMotion 1.6 - Make Your Photos/Videos into Moving Slideshows 
+
+ Domus.Cad 14.1.2 - Architectural/Engineering CAD 
+
+ MobileTerminal 296 - Terminal App for iPhone 
+
+ LunarCell 1.7.5 - Photoshop Plug-in 
+
+ Navicat PostgreSQL 7.1.2 - PostgreSQL Manager/Editor 
+
+ iDupe 2.5.2 - Duplicate Finder for iTunes 
+
+ Adobe Air 1.1 - Runtime Environment for Flex, Flash and Ajax 
+
+ DragThing 5.9.3 - Launcher 
+
+ SpamSieve 2.7.1 - Bayesian Spam Filter 
+
+ OSXGeoCalc 2.6 - Geology Calculator 
+
+ MacHacha 3.2.1 - File Splitter/Joiner 
+
+ GhostReader 1.5.1 - Text to Speech Program with Decent Voices 
+
+ Amnesty 1.4.3 - Run Widgets on Your Desktop 
+
+ Amnesty Singles 1.3.3 - Convert Widgets to Stand-alone Apps 
+
+ Rumpus 5.3.9 - FTP Server 
+
+ Data Rescue II 1.2.1 - File Recovery Software 
+
+ EasyFrame 2.2.3 - Add Borders to Pictures 
+
+ Boxer 0.71 - Emulator for DOS Games 
+
+ Taco HTML Edit 2.0 - HTML Editor 
+
+ Starry Night Widget 1.3.1 - Planetarium in a Widget 
+
+ RAAViewer 080601 - Radiology Anatomy Atlas 
+
+ XSlimmer 1.5.3 - Remove Non-Native Code from Files 
+
+ Updates: May 25 - May 31, 2008 
+
+ Booxter 2.0.9 - Book Collection Manager 
+
+ IPNetRouterX 1.3.6 - Software Router 
+
+ macam 0.9.2 - Open Source Web Cam Drivers 
+
+ DiffMerge 3.2 - Compare and Merge Files 
+
+ Missing Sync for Palm OS 6.0.4 - Sync Your Palm with Your Mac 
+
+ Missing Sync for Windows Mobile 4.0.3 - Sync your Mac with Windows Mobile Devices 
+
+ Logic Express 8.0.2 - Update to Apple's Music Production System 
+
+ BlogAssist 2.2 - Adds HTML Tools to Many Applications 
+
+ Synk 6.4 - Backup Utility 
+
+ Ubercaster 1.5.5 - Complete Podcast Production Program 
+
+ ControllerMate 4.3.5 - Joystick/Gamepad Mapper 
+
+ PowerMail 5.6.5 - Email Client 
+
+ FinanceToGo 1.6.4 - Personal Finance Program 
+
+ VectorWorks 2008sp3 - CAD Software Updater 
+
+ Afloat 2.0r5 - Window Enhancement 
+
+ Updates: May 18 - May 24, 2008 
+
+ Amnesty 1.4.3 - Run Widgets on Your Desktop 
+
+ Amnesty Singles 1.3.3 - Convert Widgets to Stand-alone Apps 
+
+ Yummy FTP 1.7.2 - FTP Client 
+
+ Mr. Contrast 1.4 - Photoshop Plug-in 
+
+ MusicBox 1.11 - Database for Your MP3s 
+
+ DVDxDV Pro 1.088 - Extract DVD Video to QuickTime Format 
+
+ Jumpcut 0.62 - Clipboard Enhancement 
+
+ CutX Content Filter 4.5 - Site Blocker for Safari 
+
+ Proloquo 2.0 - Communication System for Non-Speakers 
+
+ DarkAdapted 2.3.3 - Gamma Control Settings 
+
+ DiskTracker 2.4 - Disk Cataloguer 
+
+ Budget 5.3.6 - Take Control of Your Budget 
+
+ Lightsoft Weather Center 0.5.1 - 3rd Party Software for Weather Stations 
+
+ Downfall 2.7.3 - Puzzle Arcade Game 
+
+ KeyCamX 3.3 - Web Cam Poster 
+
+ Stella 2.6 - Atari 2600 Emulator 
+
+ Logic Pro 8.0.2 - Update to Apple's High End Music Production System 
+
+ DiskLibrary 1.8 - Disk Cataloguer 
+
+ GeburtstagsChecker 1.7.1 - Birthday Reminder 
+
+ IPNetMonitorX 2.2 - Ping, Traceroute, Port Scan, TCP Dump etc. 
+
+ BlueJ 2.2.1a - Java Development Environment 
+
+ Ultralingua Dictionaries 7.0.1 - Dual Language Dictionaries 
+
+ PocketMoney 1.1.3 - Personal Finance Program for iPhone 
+
+ BaseBallX 2.5.6 - Baseball Stats Keeper 
+
+ Firewall Builder 2.1.19 - Firewall Manager 
+
+ Lyx 1.5.5 - TeX Editor 
+
+ Penguins Arena 1.5.1 - Casual First Person Shooter 
+
+ MiniBatteryStatus 2.6.9 - Battery Status Widget 
+
+ Disco XT 4.6.1 - DJ Mixing Software 
+
+ Liquid Ledger 2.3.1 - Personal Finance Program 
+
+ PithHelmet 2.8.3a - Ad Blocker for Safari 
+
+ Updates: May 11 - May 17, 2008 
+
+ Runner's Log 1.1.2 - Track Exercise Routines 
+
+ WireCast 3.0.5 - Streaming Video Server 
+
+ Pontoon 2.5.3 - Blackjack 
+
+ Optimism 1.3.7 - Depression Management Software 
+
+ SuperCard 4.6.3 - Programming Enivronment 
+
+ NewsTicker 2.37 - RSS Reader 
+
+ TimeSlice 4.1.1 - Time Billing and Invoicing Program 
+
+ Skype 2.7.0.330 - VoIP/Internet Phone with Video 
+
+ ImageBuddy 3.5.7 - Image Layout Program 
+
+ Acquisition 2.0(v209) - Gnutella Client 
+
+ Chax 2.1.2 - iChat Enhancements (Leopard Version) 
+
+ Data Backup 3.0.5 - Backup Utility 
+
+ MPG 1.04 - iPhone App to Track Your Car's Fuel, Oil Changes etc. 
+
+ MobileMoney 0.96 - Finance Manager for iPhone 
+
+ iMOnTime 3.0.5 - Reminder Program 
+
+ Checkout 2.1 - Point of Sale System 
+
+ Guitar Hero III 1.3 - Game Patch 
+
+ FootTrack 2.4 - Video Cataloguer 
+
+ Aurora 4.0.10 - iTunes/EyeTV Alarm Clock 
+
+ JigSaw 3.0.7 - File Splitter/Joiner 
+
+ Nexuiz 2.4.2 - Open Source Shooter 
+
+ MacPipes 1.2.8 - Classic Puzzle Game 
+
+ NetShade 3.3.2 - IP Anonymizer 
+
+ Updates: May 4 - May 10, 2008 
+
+ Flood 1.3 - Photoshop Plug-in 
+
+ TabletMagic 2.0b13 - 3rd Party Drivers for Wacom Tablets 
+
+ Font Pilot 2.2.3 - Font Viewer 
+
+ WeatherDock 2.5 - Weather Program 
+
+ SmartBackup 2.2.4 - Backup Utility 
+
+ Knitting Wizard 1.1.2 - Make Knitting Patterns 
+
+ oXygen XML Editor 9.2 - XML Editor 
+
+ Navicat MySQL 7.1.3 - MySQL Manager/Development Tool 
+
+ iRatchet 1.85 - Invoice and Billing Software 
+
+ Recipe Box 1.4 - Recipe Book 
+
+ DrawIt 3.5 - Drawing Program 
+
+ Blackjack International 2.1.1 - Blackjack 
+
+ BatChmod 1.51 - Manipulate File/Folder Permissions 
+
+ Uplink 1.6.0 - Strategy Game 
+
+ Poker Dice 1.6 - Yahtzee Type Game 
+
+ xBack 3.7.6 - Use a Screen Saver as Your Desktop 
+
+ iList Data 3.7 - Database Program 
+
+ Spark 3.0b8 - Hot Key Launcher 
+
+ Celestia 1.5.1 - Planetarium 
+
+ Kate 1.3 - Assortment of Tools for iPhone 
+
+ FileXaminer 2.6.4 - Get Info Tool 
+
+ Mail Archiver X 2.1.2 - Email Archiver 
+
+ Bugzilla 3.0.4 - Bug-Tracking System 
+
+ Savitar 1.4.3 - MUD Client 
+
+ Updates: April 27 - May 3, 2008 
+
+ iCab 4.1.1 - Web Browser 
+
+ Germs 1.3.1 - Puzzle Game 
+
+ Texmaker 1.7.1 - LaTeX Development Tool 
+
+ Aqua Mines 2.1.4 - Minesweeper Clone 
+
+ Mahjong Solitaire 2.25 - Mahjong 
+
+ Posterino 1.3.5 - Make a Collage Poster From Your Photos 
+
+ The Atomic Mac 6.9 - Periodic Table 
+
+ Strata 3D CX 5.5.1 - 3D Suite Updater 
+
+ Art of Illusion 2.6 - Open Source 3D Modelling and Rendering Studio 
+
+ info.xhead 1.4 - Secure Password/Info Storage 
+
+ Max 0.8.1 - Audio Encoder for Flac, Ogg, MP3 etc. 
+
+ Maintenance 1.2.1 - Maintenance Utility 
+
+ CinePaint 0.24 - Painting Program 
+
+ GanttPV 0.9 - Project Management Program 
+
+ BananAlbumCreator 6.0 - Makes Flash Based Web Albums 
+
+ Graph Sketcher 1.5.2 - Graph Maker 
+
+ SpringDial 0.9996 - Speed Dial App for iPhone 
+
+ MobileScrobbler 1.4.4 - Last.fm Client for iPhone 
+
+ RBrowser 4.4.6 - SFTP/FTP Client 
+
+ Path Finder 4.8.5 - File Browser 
+
+ EagleData 0.32 - Database Program 
+
+ Tumult HyperEdit 1.6 - Basic HTML Editor 
+
+ Trade Manager Pro 1.1 - Stock Utility 
+
+ Jisho 2.3.1 - Japanese English Dictionary 
+
+ Infovox iVox 1.2 - Third Party Text to Speech Voices 
+
+ Sketch 7.0 - Photoshop Plug-in to Turn Photos into Pencil Sketches etc. 
+
+ ScreenRecord 2.0.2 - Screen Capture to Movie Utilty 
+
+ MetaX 2.4.5 - Video Tag Editor 
+
+ NetBeans 6.1 - Java IDE 
+
+ Pool 2.0 - Pocket Billiards for iPhone 
+
+ Updates: April 20 - April 26, 2008 
+
+ Boom 1.6.2 - Arcade Game 
+
+ Solavent 2.5.1 - Skill Based Solitaire 
+
+ Voice Candy 1.2.1 - Voice Recorder 
+
+ Lingon 2.1 - GUI for launchd 
+
+ Birthdaybook 5.2 - Birthday/Event Reminder 
+
+ Checkbook 2.0.1 - Personal Finance Program 
+
+ Cuppa 1.5.6 - Kitchen Timer 
+
+ EasyBatchPhoto 2.2.3 - Batch Process Photos for the Web 
+
+ Keyclick 1.2.3 - Keyboard Clicking Prefpane 
+
+ MAME OS X 0.124 - Arcade Game Emulator 
+
+ Mail Factory 2.6.2 - Envelope Printing 
+
+ PasswordWallet 4.3.5 - Password Storage 
+
+ RealCADD 4.06 - CAD Program 
+
+ Pooch 1.7.6 - Parallel Computing Program 
+
+ VISE X 3.3 - Installer Maker 
+
+ coconutBattery 2.6.3 - Battery Monitor 
+
+ Keystroke Recorder 3.3.5 - Backup Utility 
+
+ Transmit 3.6.6 - FTP Client 
+
+ Path Finder 4.8.4 - File Browser 
+
+ WebnoteHappy 1.3.2 - URL Manager 
+
+ Paperclip 1.4.1 - Document Specific Sticky Notes 
+
+ Jomic 0.9.30 - Comic Viewer 
+
+ Docker 1.4.5 - Dock Enhancer 
+
+ Stomp 1.8 - Quick Video Recompressor/Scaler 
+
+ Now Up-to-Date and Contact 5.3.2 - Scheduler and Contacts 
+
+ FirstClass Client 9.104 - Groupware Client 
+
+ Weightmania 1.9.4 - Weight and Fitness Tracker 
+
+ Updates: April 13 - April 19, 2008 
+
+ Camera Pro 1.14 - Add Features to iPhone's Camera 
+
+ VoiceDial 1.16 - Voice Activated Phone Calls for iPhone 
+
+ PhotoDial 1.04 - Click on a Picture to Make a Call on iPhone 
+
+ Spotinside 0.9.3 - Search Within Documents 
+
+ Easy Crop 2.2.6 - Basic Image Cropper 
+
+ IPNetTunerX 1.6.9 - TCP Optimizer 
+
+ Cha-Ching 1.2.3 - Personal Finance Program 
+
+ Smultron 3.5 - Open Source Text Editor 
+
+ Safari 3.1.1 - Apple's Web Browser 
+
+ Doozla 1.1 - Kids Drawing Program 
+
+ LaTeXiT 1.15 - LaTeX Equation Typesetter 
+
+ CDFinder 5.1.1a - Disk Cataloguer 
+
+ X-Plane 9.00 - Flight Simulator 
+
+ Mr. Tides 3.0r16 - Info on Tides Around the World 
+
+ Magic Number Machine 1.0.25 - Scientific Calculator 
+
+ Interarchy 9.0.1 - FTP Client/Internet Utility 
+
+ MovieGate 2.67 - DVD Authoring Program 
+
+ Premiere Pro 3.2.0 - Update to Adobe's Video Editing Program 
+
+ OpenBase SQL 10.0.10 - Database System 
+
+ NetFinder 3.1.1 - FTP/SFTP Client 
+
+ Genius 1.7.250 - Memorization Study Aid 
+
+ MP3 Trimmer 2.8.5 - Trim MP3 Files 
+
+ Teleport 1.0.1 - Control Several Macs with One Keyboard and Mouse 
+
+ Gradekeeper 6.4 - Gradebook 
+
+ Updates: April 6 - April 12, 2008 
+
+ Portfolio 8.5.2 - Digital Image Manager 
+
+ Phoenix Ball 1.60 - Breakout-Type Game 
+
+ MimMac 1.9 - Backup Utility 
+
+ BookIt 3.7.5 - Bookmark Organizer 
+
+ Sweet MIDI Player 2.3.4 - MIDI Player 
+
+ iNdependence 1.4 - Jailbreak, Install SSH, Ringtones on iPhone 
+
+ Boomerang 1.1.6 - Data Recovery Software 
+
+ Flash Player 9.0.124.0 - Flash Player for Intel Only 
+
+ Flash Player 9.0.124.0 - Flash Player for PPC Only 
+
+ Cadintosh 6.0.1 - 2D CAD Program 
+
+ Cadintosh 6.0.1 - 2D CAD Program 
+
+ iFlash 2.7.6 - Flash Card Program 
+
+ ToolPlayer 0.2.5 - Flac, MP3 etc. Player 
+
+ WireTap Studio 1.0.6 - Ambrosia's All Purpose Audio Recorder/Editor 
+
+ Something Fishy: 3D Desktop Aquarium 1.5 - Screen Saver 
+
+ MobileMoney 0.95 - Finance Manager for iPhone 
+
+ SwirlyMMS 0.38 - Send MMS's with iPhone 
+
+ Virtual ][ 6.0 - Apple ][ Emulator 
+
+ LaunchBar 4.3.7 - Launcher 
+
+ Mobile DropCopy 0.48 - Easy iPhone to iPhone or Mac File Transfer 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes iPhone OS Native 
+ Denotes iPhone OS Native from the App Store 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Feedback: Email Us 
+ Privacy Statement 
+ Established March 9th, 1996 
+ Pure Mac &copy; 1996-2008

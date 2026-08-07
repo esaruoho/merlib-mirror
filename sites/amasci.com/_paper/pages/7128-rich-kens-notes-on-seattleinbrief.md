@@ -1,0 +1,101 @@
+---
+title: "Rich & Ken's notes on SeattleInBrief"
+source_domain: amasci.com
+source_path: ~rmisaac/seagen.html
+order: 7128
+reachable_from_entry: false
+images: 11
+internal_links: 1
+extracted: 2026-08-07T17:14:43Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Rich & Ken's notes on SeattleInBrief
+
+*Source page: `~rmisaac/seagen.html`*
+
+Rich & Ken's notes on SeattleInBrief
+
+<img src="graphics/seattlebyair.jpg" data-align="right" />
+
+## \*\*\*\*check out the large number of [Seattle links](seattle.html) for an exhaustive number of resources for what to do in and around Seattle\*\*\*\*
+
+    Date: Tue, 15 Nov 1994 16:33:00 -0800 (PST) 
+    Subject: Puget Sound area (daytrips, hikes, art, night)
+
+Your Seattle Guide Service has developed the following list of proposed activities for you to consider prior to your arrival in Seattle. Of course, we realize you won't know what everything is, but most things are self-evident.
+
+Below is a list of activities that can be done any day of your visit...
+
+![](graphics/rbowsqub.gif)
+
+<img src="graphics/uwrowing.jpg" data-align="left" data-hspace="15" data-vspace="15" />
+
+## SEATTLE OUTDOORS
+
+Canoe (and swim, if desired) in the **Lake Washington Arboretum**. Very cheap. Rent at the U of W. near the stadium... Or paddle-boat at **Green Lake**.
+
+Swim or walk: **Denny Blaine (lesbian), Madison Park Beach (Boys' Beach), Golden Gardens, Greenlake, Seward Park, Lincoln Park (W. Seattle), Alki Beach (W. Seattle), Ravenna Park**. (Gay beach: north of Carkeek Park, or even further north at Richmond Beach; be careful of passing trains if you walk on the tracks, and of passing security officers...)
+
+Picnic dinner at **Gas Works Park, Golden Gardens, Magnolia Bluff Park, or Alki Beach** - all with sunset views.
+
+**Fremont Neighborhood Street Fair** (summer Sundays). Big Soltice festival.
+
+## ART
+
+Various museums and galleries:
+
+Burke Museum
+
+Henry Art Gallery
+
+Seattle Art Museum
+
+Seattle Art Museum (Asian Art Building)
+
+Museum of History and Industry
+
+Museum of Flight
+
+Pioneer Square galleries' tour (open late first Thurs. each month) <img src="graphics/seattlenite.jpg" data-align="right" />
+
+## SOME NEAT NITE STUFF
+
+Twostep, etc., at the **Timberline** (Denny & Boren). Every eve after 9:00, or at 7:30 for lesson (Tues: beginner two-step; Wed: intermediate 2-step; Thurs: swing; Tues-Wed: linedance lessons). (closed Mondays). Disco Sunday 4-9pm.
+
+**Entros** -part restaurant/bar, part playground for adults (non-sexual). A variety of interactive, thinking games. Very hard to describe, lots of fun. (Yale and Aloha)
+
+Dessert at the **Sorrento Hotel, or Four Seasons Olympic Hotel**.
+
+<img src="graphics/spneedle.gif" data-align="left" />
+
+Dessert at the **Space Needle** -- great view! 443-2100 for more info.
+
+**Jazz clubs**. There are several (Serafina, Patti Summers, etc).
+
+![](graphics/rbowsqub.gif)
+
+        Date: Wed, 20 Jul 1994 22:02:08 -0700 (PDT)
+        Subject: Seattle info for visitors--sightseeing
+
+<img src="graphics/pikeplace.jpg" data-align="right" /> I recommend **Pioneer Square** (and the Underground tour there), the **waterfront**, and **Pike Place Market**--all downtown and one can do all three by foot in the better part of a day. If you like funky vintage stores, Fremont is the place. There's the **Intl. District (aka Chinatown)**, not the best I've seen, and the **Univ. District**. **Capitol Hill** is the gay part of town and its main street is Broadway, with many stores and neat people watching. Most of the bars are along Pine and Pike Streets (perpendicular to Broadway, at the south end of Bway). You might enjoy taking a kayak from the Univ of Wash across the ship canal to the **Arboretum**, where you can get out and walk around and go to the **Japanese Gardens**, or the **Foster Island Nature Walk** along the edge of the canal, ending up at the **Museum of History and Industry** (much Seattle history there). Also, there's the **Ballard Locks** which is especially nice in to visit when the salmon are jumping the **Fish Ladder** there. Nearby, is the funky **Fremont** neighborhood, with lots of vintage stores, restaurants, and bookstores.
+
+![](graphics/rbowsqub.gif)
+
+        Date: Wed, 27 Jul 1994 10:15:13 -0700 (PDT)
+     Subject: U-District
+
+It is not very far from Capitol Hill (by car) and is easily connected to "the Hill" by bus, too. There's a lot to do there--many ethnic eateries, cafes, bars, movie theatres, book/record stores, and the University is (duh) close at hand. It is not, however, as charming as the University itself. It is not inhospitable by any means, but it is a big-city atmosphere, a little grittier than Amherst, say; more like Cambridge. It is not all quiet tree-lined streets (some of it is), and it is advisable to be on your guard late at night (commonsense advice, also applicable on Capitol Hill and downtown). There's a large youth presence there, and I mean pre-college youth, some of lesser means. It is quite active, especially **"The Ave,"** officially University Way NE, to which most of the above description applies. The Ave certainly pulses, and you will not lack for things to do. But if you're looking for peace and quiet... you might consider elsewhere. Depends what you're looking for.
+
+*compiled by Richard Isaac & Ken*
+
+![](graphics/rbowsqub.gif)
+
+------------------------------------------------------------------------
+
+[<img src="graphics/writeme.gif" data-border="0" />](mailto:rmisaac@eskimo.com)Comments? Write me at [RMIsaac@eskimo.com](mailto:rmisaac@eskimo.com)
+
+Jump to: HOME RMIsaac Israel Jewish GayJews My Israeli Music Queer I: general Queer II: net, travel, media All About Seattle Seattle: Sightseeing Outside Seattle Gay Seattle CyberStuff Fun Stuff Language News/Media/Film Pinochle! Politics Reference Sexuality Star Trek/Sci-fi Travel My E. Europe Trip My Gay/Jewish E. Europe ---
+
+\
+Approximately <img src="/cgi-bin/Count.cgi?dd=D&amp;pad=N&amp;ft=0&amp;df=rmisaac.dat" data-align="absmiddle" alt="COUNTER" /> hits on all subdirectories since 28 July 1995

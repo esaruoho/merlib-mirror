@@ -1,0 +1,62 @@
+Scott Ludwig's PocketChess for Windows CE Handheld PC 
+
+ win ce 
+
+ Home 
+ Pilot games 
+ Win CE 
+ Psion 5 
+ daVinci games 
+ Comments 
+ Register PocketChess 
+
+ PocketChess v 1.0 for Windows CE Handheld PC and
+ Handheld PC Pro 
+
+ Released: 
+ 10/28/98 
+
+ Updated: 
+ 5/8/99 
+
+ WinCE: 
+ CE 1.x, 2.x, and above 
+
+ 5 of 5 cows from CEMonster! 
+
+ PocketChess v1.0 for Windows CE Handheld PC is a high quality, well featured Chess
+ playing program for your Windows CE Handheld PC! It operates on Windows Handheld PC Pro
+ models as well. Also available for Palm-sized PC here . 
+ Play against the computer or a friend. 
+ Choose from 8 levels of skill. 
+ Many other features including a simple and intuitive user interface, save &
+ load games, opening move libary, board setup, full screen mode, copy moves to clipboard,
+ undo, hint, reverse board, switch sides, start as black, sound effects, and others! 
+ Runs on Handheld PC Pro devices and includes support for StrongArm cpus. 
+
+ I offer the fully featured version of PocketChess to download and ask that you register PocketChess here 
+ for $15 to support PocketChess development. I'll send you a note of gratitude and notify
+ you of the beta and release versions of PocketChess v2.0! 
+ Download PocketChess v1.0 For Handheld PC with CE
+ 2.x and above 
+ Download PocketChess v1.0
+ For Handheld PC with CE 1.x 
+
+ View more screenshots! These screenshots are Handheld PC screenshots only, not Handheld
+ PC Pro screenshots (coming!) 
+ 640x240 non-full screen 
+ 640x240 full screen mode 
+ 480x240 non-full screen 
+ 480x240 full screen mode 
+ File menu 
+ Edit menu 
+ View menu 
+ Tools menu 
+ Help 
+
+ View readme.txt . 
+ Written by Scott Ludwig ( scottlu@eskimo.com ).
+ Please send feedback! 
+ Chess set graphics for PocketChess v1.0 for Windows CE Handheld PC are by Christian
+ Morency ( morency@palmtime.com ). 
+ If you are looking for PocketChess v1.0 for Palm-sized PC, look here .

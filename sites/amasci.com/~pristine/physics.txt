@@ -1,0 +1,142 @@
+Pure Mac: Physics 
+
+ Physics 
+
+ Dalhousie University Physics Programs 
+ Displacement 
+
+ Mac Brownian Motion 
+
+ OnScreen Particle Physics 
+
+ YP Physics Educational Software 
+
+ Check the Astronomy and Chemistry pages for related programs. 
+
+ Dalhousie University Physics Programs 
+
+Most of the following programs are used as part of the weekly assignments given in a first year physics class(calculus based) at Dalhousie University. The remaining programs, Quantum Well, Wave Packet and Joe Magnets are used in 2nd and 3rd year classes.
+
+ License : Freeware
+ Author/Publisher : Dalhousie University
+ Modification Date : April 24, 1996
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 557 Kb
+
+ Displacement 1.1 
+
+This program is for calculating the displacement in engines and cylinders, the input values can be in inches or millimeters with the calculations being given in cu in, litres and cc.
+
+ License : Freeware
+ Author/Publisher : Mike Brackenridge
+ Modification Date : May 15, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 698 Kb
+
+ Home Page 
+
+ Mac Brownian Motion 1.3b1 
+
+Mac Brownian Motion is a program that simulates (tah dah...) Brownian Motion. Brownian Motion is exhibited in a variety of situations, including motion of particles. Much of stochastic analysis (introduced in a graduate statistics program) is based on the properties of Brownian Motion. Physicists, engineers, economists, and statisticians all rely on its nice properties. 
+It is primarily an educational tool. In fact, its purpose is (originally) rather narrow: to visualize Brownian Motion in one dimension over time. 
+
+ License : Freeware
+ Author/Publisher : John D. Johnson
+ Modification Date : March 1, 1999
+ Requirements : PPC
+
+ Direct Download
+ File Size: 432 Kb
+
+ Home Page 
+
+ OnScreen Particle Physics 1.2 
+
+OnScreen Particle Physics simulates a particle-detection chamber, the device used by researchers into the fundamental
+properties of matter at high-energy accelerator facilities such as Fermilab.
+OnScreen Particle Physics is primarily aimed at teachers looking for a way to introduce modern physics into their
+classrooms from a "how we know" perspective, but it is of interest to anyone that wants to know how particle research is
+done. By enabling students to carry out simulated experiments, OnScreen Particle Physics presents modern physics as a
+human activity, not just a set of facts. It is accessible to students at various levels, as no advanced mathematics is required.
+
+ License : Demo, $84
+ Author/Publisher : Robert Estes
+ Modification Date : November 17, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 853 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ YP Physics Educational Software 
+
+A series of programs to help teach various physics principles to students at the high school and beginning college level.
+
+ License : Demo, $15 - $20 per program
+ Author/Publisher : Yves Pelletier 
+ Modification Date : 1998 - 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 240 Kb - YP Circular 1.0.2
+
+ Direct Download
+ File Size: 224 Kb - YP Collisions 1.0
+
+ Direct Download
+ File Size: 264 Kb - YP DC Circuits 1.0
+
+ Direct Download
+ File Size: 253 Kb - YP Electric Field 1.0
+
+ Direct Download
+ File Size: 274 Kb - YP Gear 1.0.1
+
+ Direct Download
+ File Size: 277 Kb - YP Image 1.0.1
+
+ Direct Download
+ File Size: 253 Kb - YP Magnetic Force 1.0
+
+ Direct Download
+ File Size: 633 Kb - YP Planetary Gear 1.0.1
+
+ Direct Download
+ File Size: 247 Kb - YP Projectiles 1.1
+
+ Direct Download
+ File Size: 242 Kb - YP Reflection 1.0.3
+
+ Direct Download
+ File Size: 254 Kb - YP Refraction 1.0
+
+ Direct Download
+ File Size: 238 Kb - YP Shadow 1.0
+
+ Direct Download
+ File Size: 269 Kb - YP Simple Pendulum 1.0
+
+ Direct Download
+ File Size: 267 Kb - YP Slider Crank 1.1
+
+ Direct Download
+ File Size: 246 Kb - YP Vectors 1.0
+
+ Direct Download
+ File Size: 243 Kb - YP Vernier 1.0
+
+ Direct Download
+ File Size: 248 Kb - YP Waves 1.0
+
+ Parent Directory
+
+ Home Page 
+
+ Back to the main page of Pure Mac

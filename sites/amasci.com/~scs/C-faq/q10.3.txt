@@ -1,0 +1,40 @@
+Question 10.3 
+
+ Question 10.3 
+ How can I write a generic macro to swap two values?
+
+ There is no good answer to this question.
+If the values are integers, a well-known trick using exclusive-OR
+
+could perhaps be used,
+but it will not work for floating-point values or
+pointers,
+or if the two values are the same variable
+(and
+the ``obvious'' supercompressed implementation
+for integral types a^=b^=a^=b is
+
+illegal due to multiple side-effects;
+see question
+ 3.2 ).
+If the macro is intended to be used on values of arbitrary type
+(the usual goal),
+it cannot use a temporary,
+since it does not know what type of temporary it needs
+(and would have a hard time naming it if it did),
+and standard C does not provide a typeof 
+operator.
+
+ The best all-around solution is probably to forget about using a
+macro,
+unless you're willing to pass in the type as a third argument.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

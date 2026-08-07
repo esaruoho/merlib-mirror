@@ -1,0 +1,91 @@
+Memory Allocation 
+
+ 7. Memory Allocation 
+
+ 7.1
+Why doesn't
+the code `` char *answer; gets(answer); ''
+work?
+ 7.2
+I can't get strcat to work.
+I tried
+`` char *s3 = strcat(s1, s2); ''
+but I got strange results.
+ 7.3
+
+But the
+man page
+for strcat says that
+it takes two char * 's as arguments.
+How am
+
+I supposed to know to allocate things?
+ 7.5
+I have a function that is supposed to return a string,
+but when it returns to its caller,
+the returned string is garbage.
+ 7.6
+Why am I getting
+``warning: assignment of pointer from integer lacks a cast''
+for calls to malloc ?
+ 7.7
+Why does some code carefully cast the values returned by malloc 
+to the pointer type being allocated?
+ 7.8
+Why does so much code
+leave out the multiplication by sizeof(char) 
+when allocating strings?
+ 7.14
+I've heard that some operating systems
+
+don't actually allocate malloc 'ed memory
+until
+the
+
+program tries to
+use
+it.
+Is this legal?
+ 7.16
+I'm allocating a large array for some numeric work,
+but
+ malloc is acting strangely.
+ 7.17
+I've got 8 meg of memory in my PC.
+Why can I only seem to malloc 640K or so?
+ 7.19
+My program is crashing, apparently somewhere down inside
+ malloc .
+ 7.20
+You can't use dynamically-allocated memory after you free it, can you?
+ 7.21
+Why isn't a pointer
+null
+after calling
+ free ?
+
+ 7.22
+When I call malloc to allocate memory for a local pointer,
+do I have to explicitly free it?
+ 7.23
+When I free
+a dynamically-allocated structure containing pointers,
+do I have to free each subsidiary pointer first?
+ 7.24
+Must I free allocated memory before the program exits?
+ 7.25
+Why doesn't my program's memory usage go down when I free memory?
+ 7.26
+How does free know how many bytes to free?
+
+ 7.27
+So can I query the malloc package to find out how big an
+allocated block is?
+ 7.30
+Is it legal to pass a null pointer as the first argument to realloc ?
+ 7.31
+What's the difference between calloc and malloc ?
+ 7.32
+What is alloca and why is its use discouraged?
+
+ top

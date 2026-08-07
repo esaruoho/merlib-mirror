@@ -1,0 +1,1425 @@
+---
+title: "Exorcists Anonymous by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/exorcist.html
+order: 8923
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Exorcists Anonymous by R.S. Pearson
+
+*Source page: `~telical/exorcist.html`*
+
+|  |  |
+|----|----|
+| [**`Creative Virtue`**](http://www.eskimo.com/~telical/index.html) | [**`Robert Pearson Poetry and Prose`**](http://www.eskimo.com/~telical/lit.html) |
+
+\<
+
+Exorcists Anonymous by R.S. Pearson
+
+## Exorcists Anonymous by R.S. Pearson
+
+This is my most religious collection of poetry.
+
+My allegiance lies with the individual who suffers the pain of becoming one with the Message.
+
+The Message is not brought to you by Allen Ginsberg or Hakim Bey, who write of molesting children, and it was said of Ginsberg that he did do that, and it is not with Timothy Leary or Terrance McKenna who fall for the lie of mind-expansion by drug use. I have been with the truly esoteric, if you will, and I know from what they said that there is no such shortcut. The Message does not use Nietzsche as a leader, the Message perhaps struck him down.
+
+In fact, the shortcuts of the "neo-pagan" only short-circuit the compassion and ability we need to help each other.
+
+What people may not understand is that "Christianity" plays on different levels. You can see what I write in the following as one big use of symbols. Sometimes it works that way for me. What I call "Satan" or "demons" can be seen as psychoanalytical or could be a another realm of life beyond ours -- the very same force of corruption that inhabits many human beings. All world's cultures and religions have an view of the demonic, or evil spirits.
+
+My view of the matter is a combination of both psychology and religion. The biggest damage that has ever been done against the Church has ALWAYS been by the hand of the church itself. Today, it's all the members of the Christian Right who have slandered members of other religions and called them "Satanic." No wonder with ignorance of God's Spirit like this Christians have often become more like a paranoid cult than like a blessing.
+
+What I've written in the following is how the force of virtue plays out in one set of scenarios. It is how someone like Kurt Cobain could have found his soul and avoided the illusions he fell under. I myself helped build the "Seattle Scene" from 82 to 1988, and even congradulated Kurt after one of his first Seattle gigs. He was so overjoyed that he grabbed one of the other members of his band and had me tell them. But that force that knocked Kurt out for good had me going also for a while. I had been strongly interested in religion and spirituality since a teen, but luckily art was after my soul as well. The "art force" that Kurt fell under is obviously a pretty vicious thing at times. The god and goddess of this force are alcohol and drugs. The ministers are all those people who don't give a crap about you -- the same happened to me on my level before Grunge ever got big and took off.
+
+The aim is to stay who you are, to stay enchanted by the muses but to make it a constant experience in your soul, not in your body with alcohol and drugs.
+
+I realize that some of Excorcists Anonymous might read like a Fundamentalist Christian sermon. I can just tell you that I'm not like that but I also surely see far beyond all the trendy aetheists of today, all the little "nerds and geeks" with their smug hatred of God and faith, and in reality compassion and gentleness. I don't make "accounts" of people, it doesn't make me bitter, but I'm sure many people will understand what I'm talking about. To sum it up, the future is going to be different than the 20th Century. The 20th Century was way too dark in art, and in life, and eventually it should be little wonder what caused what. So, with that, I bring you, Exorcists Anonymous.
+
+Robert Pearson\
+April 1999
+
+    I
+
+    if the thief comes only to
+    rob
+    kill
+    and destroy
+    then we must trace
+    what it was he stole
+    and give the police a list of what's missing
+
+    Did you know
+    he steals the ability
+    to make others even like us at all?
+
+    He can take away everything pleasant from us
+    and he makes us without someone 
+    who looks up to us
+    Who looks up to you these days?
+    sort of like the  way athletes look up to each other
+
+    can we be a stable person without 
+    the thief
+    throwing the relationship a curveball?
+
+    I know what kind of person
+    I'm trying to talk about: someone like me
+    someone who is always fighting a thief
+
+    faith is a shield against such theft
+
+    how much is stolen and not able to be given back?
+    and how much is destroyed?
+
+    to be healed:
+    is it leaving the others around me 
+    to their own abilities?
+
+    will I every come back to them?
+    or is it the deceitfulness of riches that enters into me 
+    and when I attain on the path of riches
+    I say, "I'm healed from my oppression!"
+
+    It's so good to keep our eyes open
+    we might live in such a different world
+    with me always saying that your world is better
+    because mine has been
+    robbed, killed and destroyed
+    a bunch
+
+    but what about Jesus Christ and Him on the cross
+    What he is doing is so right on
+    and it is so good to count our blessing
+    because He led captivity captive
+    and gave gifts to men
+
+    II
+
+    there need be no cosmic cycles
+    nor cheapening occult rudiments
+
+    but
+    there is a big cycle
+    which is
+    the work of God
+    the power of God to keep me
+
+    and almost every time I see it
+    I see it wrong
+    I had so much time
+    to do things my way
+    a way which got me poverty and
+    demonization
+
+    see,
+    the Lord's hand
+    in keeping me
+    and retrieving me
+    this is the big cycle
+    that is in life
+    the cycle of sins and restoration
+    and at times it is
+    not seen even as
+    white and black in any areas
+
+    III
+
+    I will survive
+    all the attacks
+    Satan does give
+    to work with Him
+    who is the All
+    who is my Savior
+    who loves me though
+    Satan corrupts this world
+    I am one
+    who has experienced
+    being placed in a better
+    place
+    a place of friendship
+    a place of good food
+    so I have warmth
+    in cold winters
+    and I have comfort
+    when I am too tired to walk
+
+    yet I feel I'm always walking
+    and I must march on
+    to march as a victor
+    of a battle I'm forced into
+    of a battle that is won
+    and I must follow
+    all my friends' ways
+    I must strive on
+    to keep in the light
+    as they are in the light
+    I must tell the weak
+    that I'll buy them a cup of coffee
+    if they'll let me tell them
+    what Jesus did for me
+    because I was raised
+    from the dead
+    and that He was the one
+    doing the lifting
+    because I was taught
+    and I was fed
+    and my own ways
+    aren't so right anymore
+
+    telling them I am no longer
+    a critic of people
+    my tongue does no harm
+    but by Jesus my Savior
+    each one has been given
+    a certain charm
+
+    IV
+
+    there are a lot of
+    people who have nothing
+    like the ones who are fresh out of prison
+    and sometimes we should try to see things
+    more like them
+
+    men of so much disappointment
+    broken to be made
+    more right with God
+    and this is a gain
+    which is so hard to feel in the soul
+    since it was the soul, the desire
+    which was broken
+
+    God can plan our steps to break us so
+    making us what we are for our betterment 
+    thus His own Glory
+    which shades life with pleasure
+
+    V
+
+    I happily do not notice
+    anything wrong with my walk with God
+    because it is a fact
+    I am warped and sinning
+    I do not do what I want
+    I have not yet attained
+    I am not yet perfected
+
+    and I have these recognitions
+
+    it is an act of the Holy Spirit
+    these acts of recognition
+    I am joyful to claim them
+
+    VI
+
+    I've been dead beyond discussion
+    I've been the demoniac in the cave
+    In searching it became percussive
+    and now half-alive I know I'm saved
+
+    I sometimes laugh
+    at the way men are
+    so out of tune with God
+    I wish confession were
+    so much more apparent among us
+    to make a man stand
+    on the foundation of promises of God
+    in Jesus
+    towards the promise that
+    He will make their heart pure toward Him!
+
+    VII
+
+    Brave men
+    inherit promises
+    for God is loving them
+    as they confess His love
+    as they love Him
+
+    Weak men
+    run in doubt
+    and God never loves them
+    so they believe
+    and they could even hear
+    God tell them
+    that He doesn't love them
+
+    for they fail to see
+    the love He gives them
+
+    and they cry out:
+    "Why do you love others more than me?"
+
+    Brave men owe their fortune to God
+    and when they are poor they owe
+    that to themselves
+    because they live in a brave world
+    (where God loves all men
+    and God is not to be blamed)
+
+    In a brave man's heart
+    he knows that God is love
+    and that God wants us to do good
+    a good God saved them in their weakness
+    and the brave man strives to save the weak
+
+    The Kingdom of God is not for men
+    who gloat and say "God, do you love me?"
+    hundreds of times on end
+    it is for those who take
+    God's love for granted
+
+    VIII
+
+    I am going to manifest a lot more pain
+    and it is the equivalent of shipwrecks, 
+    imprisonment, stonings,
+    and beatings
+    why do I go through it?
+    because I, too, believe
+    just because I, too, believe
+    not because of my height nor weight
+    nor whether or not I have a moustache
+    I go through pains
+    just when I resist and believe
+
+    I am going to go through much more pain
+    just because Satan knows
+    that if the illusion is shown . . .
+    if God is shown as not protecting me
+    then I will leave this victory my faith produces
+
+    so Satan employs demons to torment
+    but slowly I accept
+    more pains
+    for more dignity 
+    as a creature of  God
+
+    IX
+
+    I've got to rely
+    on the goodness of others
+    like my sisters and my brothers
+    let it be a support
+    for all good things
+
+    X
+
+    I was a guy,  when:
+    EVERYONE WAS RICH BUT ME
+    it made
+    me jealous, it made
+    me mad
+    and I had to figure it out
+    to see something
+    it was....
+    God has His hand on everyone the same
+    and it was me
+    who never had it easy
+    it was ME who got something
+    I always thought someone else would get:
+    Poverty!
+    (as far as America knows poverty --
+    I was the underprivileged that is)
+
+    and I had to figure it out as:
+    EVERYONE IS RICH BUT ME
+
+    And where is my God of Love
+    just (semi-)oblivious
+    in His cause and effect
+    because He knows
+    He set up a cause and effect
+    which is bound to bless me
+    He knows well that he gave me
+    a hundred blessing that a humble
+    man would rejoice in
+
+    XI
+
+    The things in our life are like some T.V.
+    evangelism show's testimony time
+    each good thing the Lord has done for us
+    could be shown with beautiful
+    music in the background
+
+    We have been rooted by the Father
+    and watered by the Spirit
+    instructed by the Word
+    and traded places with the Son
+
+    those that are thankful
+    are the  blessed
+    and those that complain
+    do not get so blessed
+
+    just like this was all on T.V.
+    to show more good things
+    the Lord has done
+
+    XII
+
+    examine the beautiful word: believe
+
+    a true believer
+    remembers moments with Jesus
+    remembers what God told 'em
+    and a dumb true believer keeps on
+    asking God the same thing
+    in several different ways
+    on several different days
+
+    a spiritually dumb one
+    can't seem to ask God if He really loves them
+    too many times
+
+    to go beyond feelings
+    in a period
+    of self-examination
+    to ask ourself,
+    Do I really believe a God could love me?
+    Do I really believe my sins could be forgiven?
+
+    XIII
+
+    one of the biggest efforts
+    to obtaining a life in which
+    the salvation of the Lord
+    can shine through
+    is the effort of truly understanding
+    the Lord for His decision
+    to allow evil to continue its course
+
+    we will live in a world
+    without the suffering from demons
+    no one wanting to torment us
+    and life won't be the same
+
+    XIV
+
+    Losing to Satan has one outcome
+    but so many looks
+    a format of God being wrathful to you
+    that
+    in your life
+    is losing to Satan
+
+    losing to Satan takes you away from the hope that purifies
+    the hope of I John 3: 2, 3
+    (when He is revealed
+    we shall be like Him
+    for we shall see Him as He is
+    and every one who has this hope in Him
+    purifies himself just as He is pure)
+
+    to Satan, God is only the wrathful God
+    a pathetically misunderstanding God
+
+    losing to Satan has its many forms
+    it has the form of disbelief in God as omniscient
+    it has the form of never being able
+    to totally wear His righteousness
+    because we are this or that
+
+    XV
+
+    the world can change the world
+    through prayer in Jesus name
+
+    Each one of us
+    has the option
+    to use the power of prayer
+    in our lives
+    united
+    with the power
+    of God
+
+    this is the strongest way God allows change
+
+    God doesn't go about
+    praying and answering prayers
+    He relies on us
+
+    as the world lies dormant
+    as it waits to change itself
+    by prayer in the name of Jesus
+
+    XVI
+
+    they can make signs and wonders
+    to make us think a lie is true
+    they are demons
+    and it's said all their future is through
+    they will show deceptions
+    to say God is not true
+    they are demons
+    and it is said all their future is through
+
+    I can get every
+    name, rank, and serial number
+    of the demons
+    but let's look at the last six thousand years
+    and bless His Holy Name for this help
+
+    that raised men
+    a foot above water
+    and put peace between me and men
+    He must be remembered as doing that
+
+    let us transform
+    the world of men
+
+    thank You, Lord
+    for your great part
+    in giving such words of peace
+    and having such great faith
+    you are uplifting
+    and generous
+    for giving us, for real
+    yes, brethren, for real
+    giving us for real
+    sonships of God
+
+    not like myself
+    when in other religions
+    but on me now
+    (after my earthly father's last name)
+    you impute the last name:  God
+
+    XVII
+
+    thank you for that answer
+    your part in the dialogue
+    such it is:
+    a dialogue with a voice which so outshines
+    the other voice in splendor
+    showing expensive answers
+    tells the dignity of the other voice
+    to come alive
+    and soon
+    both are God
+    the Trinity becomes a Quartet
+
+    and to have this
+    lopsided dialogue
+    has been your ambition
+    throughout all time
+
+    thus
+    let us transform the world
+    of men!
+    let's look
+    at what God has done
+    in the world's history
+
+    He saved millions upon millions
+    and made them virtuous creatures.
+    who longed for a land where your law is upheld
+    by this hope He washed them
+
+    faithlessness is not expecting good things to happen
+    I desire the earth to smile more
+    and revolution to be declared from Satan
+    so others can expect the earth to smile more
+    and God's angels to storm in
+    and give us the food of the change that takes place
+    in the twinkling of an eye
+
+    XVIII
+
+    The ladder of sins
+    which Satan accuses us of
+    all types he says are our own
+    ones that we haven't even committed
+    lie very decrepit at out feet
+
+    because his sinister words harm us with visions
+    we must gain freedom from this all together as one
+
+    and I don't care which sins are yours
+
+    His sinister words accuse us of worse
+    than the allegiance
+    with our Heavenly Father
+    prevented us from committing
+
+    It is not over,
+    vicious beast,
+    for those like me you've accused!
+    for those like me
+    who do have sins
+    you've seduced us into committing.
+    nothing is over!
+    for God has not given you
+    the power to destroy us!
+    The Gospel's harsh words
+    were not meant for us!
+    We who are repentant over
+    and over again
+    for things we've done
+
+    They are meant for you,
+    for you!
+
+    Let us just see it
+    The words of eternal torment were meant for you!
+    Lord of the vicious dogs of a cruel owner!
+
+    Your demons are like the dogs of an ill-bred man
+    who bark even in fear of children.
+
+    I am closing in on it
+    that voice that is not God
+    and I am coming closer to heaven
+    when I know Him not just in name
+    but in voice
+
+    I like how You really care,
+    You take me for better or for worse
+    sowed a little to the spirit
+    and you  will never let go what I gave
+    this is a special victory
+
+    and I have patience
+    love waiting
+    love trusting
+    love yielding
+    and love expecting for
+    good fruits to be there
+    handled by many
+    and that the plants are strong
+    and take root
+    in trouble's ground
+
+    XIX
+
+    In this war
+    our dignity is forever at stake
+    I am presently losing
+    I should be giving light and life
+    like never before
+
+    In this war
+    I have been given all chances
+    which look like a book of passes
+    that forgave me when I fell short
+
+    It is a war in which
+    when losing
+    I become in my mind like the enemy
+    a fornicator,
+    enemy of man,
+    child murderer,
+    ponderer of all things evil as myself!
+    and this image is their victory
+
+    My victory must be in becoming an opposite image
+    I become nothing like them
+    righteousness becomes others' memory of me
+    good works He prepared for me surround me
+    I am an outspoken advocate of the poor
+
+    In this war
+    I am to sow dignity to others
+    to quench suicidal mail from reaching their mailboxes
+    to pray and destroy
+    strongholds of a covetous producing system
+    I am armed
+    dangerous to them
+    my weapon is the prayer of faith
+
+    Yes,
+    I give direction
+    to the mighty arm of God
+
+    In this war
+    I must understand
+    both life's pain and promise
+    and clearly break away from
+    the way materialism soothes me
+    I must gain dignity from my poverty
+    seeking myriads of cousins of this light
+    this is my prayer: that I find them
+    and I must gain a place of dignity
+    to call myself something more
+    than a small rank of power
+
+    In this war
+    I must allow God to continue to break me
+    For I was raised in the comforts of society
+    and I am broken all the way down to skid row
+    with my sin fixes of the past to haunt me
+
+    yet He has a purpose for my lack of past satisfactions
+    He never wanted another one to just be a success
+    because there are millions and millions of successes
+
+    In this war
+    the pain of failure to God is so great
+    yet somehow He keeps telling me
+    that I haven't failed Him
+    that I am like a weapon He knows how to use!
+    and I become useless when I think I lose
+    (when Satan says
+    "Look at  you so far from the will of God!")
+
+    In this war
+    it is the lack of confession
+    that we are in the will of God
+    which is sometimes loss
+
+    We shall bathe
+    in His plenty
+    as we ask Him
+    for His best
+    in this war
+
+    XX
+
+    confession that
+    the ambiance of nature
+    takesit over
+    the breeze
+    the leaves
+    the animals
+    the turning of day into night
+    a part of the regeneration
+    of God's Holy Spirit
+    I feel in my life
+
+    I believe You can reconcile
+    my heart to you
+    for all time
+    a miracle by You
+    then all will be all cool
+    since I asked this of You
+    Why would you say no
+    If I asked You
+    to erase the part of me
+    that won't be at peace with You?
+
+    and if God is true
+    then look at all of you
+    who won't reconcile their hearts to the true
+    as they have their offenses
+    as well as their inabilities
+    to be at Peace with Him
+
+    You'd all better think
+    "If God be true
+    then I'll need some work
+    to reconcile my heart too"
+
+    XXI
+
+    what is coming to me but
+    a deed of heaven
+    my Eternal Place
+    a reward
+    is written in the Word of God
+    the Bread of Life
+    a promise
+    for those who have once trusted Him
+    God is faithful
+    to bring back death to life
+    I believe for promises
+    I would have never reached
+    without the fellowship of saints
+
+    what is coming back to me but a deed
+    a title, some legal oath is saying I received glory
+
+    somehow it all added up
+    the kindness I showed to a stranger echoes
+    the faith that I have in Jesus
+    His Blood washed me in swallowed years
+    and now His Blood is back upon me
+    washing me
+    giving me a dignity again
+
+    I see those
+    without dignity
+    in jails, homeless, in group homes,
+    in halfway houses
+    and I do not deny
+    that I could be so much more like them
+    and maybe you are one of them
+    you need Jesus
+    to prevent you from doing wrong
+    from getting angry at your parents
+    from shooting heroin in your veins
+    from going into adult book shops
+    and what you have been in God
+    have faith that you will be that again
+    if you were a child and trusted Him
+    He has called you since then
+    and if you say
+    "I once believed and now I couldn't do that"
+    realize it is to your benefit
+    that you once did
+    and think of all the ways you could be humbled
+
+    XXII
+
+    God is a reality
+    existing entirely
+    in His own reality
+
+    God is existing
+    entirely fully
+    in His own reality
+
+    God is entirely
+    existing fully
+    in His own reality
+
+    God is a reality
+    fully existing entirely
+    in His own reality
+
+    XXII
+
+    the most complex
+    of all structures
+    in the interaction
+    of the bible and my life
+
+    where sin abounded
+    grace abounded much more
+
+    I allow the fact
+    the fact
+    that God is absorbed in my life
+    that He dedicates His time to it
+
+    XXIV
+
+    a crescendo
+    an increase in decibels
+    the symbol: <
+    the symbol of Christian existence
+    starting as an mere point
+    we have such little memory of that scope
+    going up and out
+    through
+    tribulation, perseverance, character and hope
+    the good fish taken
+    the bad fish thrown back
+    we came to follow
+    we walk with oil
+    we got on the elevator
+    He washed off some soil
+    or so it seems
+    at least we try
+    and stay praying
+    and open to comfort
+    those miserable failures
+    like ourselves
+    yet in it all the Word
+    depicts our lives as
+    a frameless crescendo
+    an increase in decibels
+    the symbol: <
+    leading off into some
+    other point in eternity
+    not some spiritualist universalism
+    but a Renaissance splendor
+
+    XXV
+
+    felt the warmth
+    looked for the sun
+    saw that it was hope
+    that spread gold rays
+
+    XXVI
+
+    sustain my appreciation
+    so I could have lofty thoughts
+    when you draw near to me
+    after I draw near to you
+    smash demons constantly
+    give me the riches of man
+    never let me grow corrupt
+    in the isolation from the lowly wealth brings
+    bind all judgement from my soul
+    forever let me be free
+
+    take away my wicked laughs
+    that once caused me comfort
+    show me my pridefulness
+    the instance it appears
+    let me know the customs of grace
+    that will surround us all in heaven
+
+    Don't let me be taken by
+    the same ignorance, please
+
+    when you draw near to me
+    after I draw near to you
+    smash demons constantly
+
+    who is eating the food that you give?
+    to be honest I see
+    many millions, even billions
+    since Jesus's death
+    I am comforted in this multitude
+    a sprinkling of maturity in this understanding
+
+    XXVII
+
+    I can really see You
+    sometimes
+    sometimes secret
+    how you work omniscient
+    while I live
+    in inomniscinece
+    my plea for a new heart
+    and new mind
+    new blood
+    my hunger for
+    some frost
+    some morning dew
+    some moonlight
+    some energy in me
+    I just ask
+    if You can hear me
+    then give me something else
+
+    and I brave this
+    as not selfishness
+    God was reconciling the world to Himself
+    in Christ
+    and I accept Christ
+    as the one who suffers
+    for the disharmonius things I've done
+    yet offers me things I want
+    so I'm not selfish
+    on my way to being content
+
+    XXVIII
+
+    Give me ears to hear
+    and eyes to see
+
+    You and to use them
+    for
+    comprehending
+    the work done in me
+    and the work done for
+    those around me
+    let me be remade
+    fit into me
+    so I can be
+    using a part of You
+    to be
+
+    let me be
+    remade by You
+    fit into me
+    so I can be
+    using You
+    to see
+
+    IXXX
+
+    I exist
+    somehow sinless
+    on a conveyor belt
+    I'm entering
+    a chamber displaying His perfection
+
+    wholesomeness whiter than snow
+    God says he can miraculous restore
+    and I know that we shall attain
+    if we search with all our heart
+    the burden that is light
+    a pureness conquering with its might
+    all things to the pure are pure in sight
+    God keeps on whispering this
+    and God is right
+
+    On the third day
+    Christ rose from the dead
+    and equal to this  I have the miracle of my soul being cleansed
+    On the third day
+    Christ rose from nonmotion
+    after  years of living I rose from my sinfulness
+    on the third day
+    after His heart stopped beating
+    Christ rose full of blood flowing
+    and equal to this I have the miracle
+    of my soul being cleansed
+    after I have said
+    every foul thing there is to say
+    I can still live in purity
+    and the power that is power
+    which wants me pure
+    is talking at me every day
+    and it has disturbed all my plans to escape
+    and half believing in it
+    I yet see it has taken me hostage
+
+    XXX
+
+    mercy is all large
+    it spreads its coat over anything
+    when loved by mercy
+    mercy shows itself to be enormous
+    more thoughtful for our feelings
+    than we ever dreamed
+
+    God is love
+    and like some kind of perfection
+    Jesus is floating all around me
+    and like some kind of innocence
+    He wants me to please Him by faith
+    faith in the rarified things
+    like love, hope and duty
+    like some kind of nobility
+    in the making
+    and you must accept
+    the borders of the nobility
+
+    what do you think about the handicapped?
+    that isn't good enough!
+    that isn't good enough to make them feel good
+    about themselves
+    that isn't insight enough to relate
+    to them like you would your family and friends
+
+    God made chocolate milk and puppy love
+    and that about sums it up;
+    that is the kind of God I've been trying to fathom!
+
+    XXXI
+
+    plans   ---            that I have
+    to       -- -              you, you only
+    prosper  ---           you night and day
+    you       ---            my little loved one
+    and     ---              you are allowed to live in prosperity
+    not         ---          in the weakness but in power
+    to       ---              you who I will uplift
+    harm  ---               not I you over
+    you      ---             who I hold in my heart
+    plans    ---            that will make you the child
+    to        ---             give the child in you hope
+    give     ---             to you your love for all men
+    you      ---            who are to become more like me
+    a     ---                 child born in this fallen world
+    hope   ---              for all your days to be in heaven
+    and       ---            for a joyous relationship with Jesus
+    a           ----          way I prepared to have His righteousness
+    future     ---           forever, In the name of Jesus Amen
+
+    XXXII
+
+    An Exorcism for Occultists:
+
+    I knew that this keyhole
+    opened many wondrous miraculous powers
+    for man's unleashing his full potential
+    as we can compare
+    some to butterflies
+    some of us to caterpillars even;
+    but I didn't realize
+    the agent of the power
+    was God's Hand
+
+    XXXIII
+
+    me of faith
+    believing in my life
+    awakening, confessing
+    promising, uplifting
+    recognizing He loves me
+    showing off
+    a good opinion of God
+    zenith of what I've known
+
+    "Me of faith
+    believing each promise
+    that I gave
+    destroying what Satan did
+    by an addition of days"
+
+    showing off
+    a good opinion of God
+    calming down
+    seeking a proper perspective
+    filling the needs I've found
+
+    XXXIV
+
+    You seem to take
+    the mornings of men
+    and make such tears
+    more precious than diamonds
+
+    hearts that are of soft wax
+    by your heat, Lord
+    kept soft
+    by your heat, Jesus
+
+    everywhere it must be shown
+    God on a cross
+    the Creator on a cross
+    all around I want it to be known
+    the wounds in His hands
+    the torn, bloody feet!
+
+    I want to love God's heart
+    by each day which dies by
+    I want to wait
+    I want to say that
+    I really don't understand Him at all
+    His meaning overflows
+    all that I can withhold
+    But take me back
+    to days when that was a sin?
+
+    XXXV
+
+    as in my old friend  Adam all died
+    I was a measure of him to the brim
+    (my old friend Adam
+    suspended in the consciousness
+    from earliest days
+    hearing the Bible story
+    secluded memories of hearing about Adam)
+    and in my eternal cousin Jesus
+    (Jesus looking like a cousin
+    who I used to see clearly
+    tho it was four or five time a year)
+    He has this therapy He will work on me
+    it can not be accomplished while I live
+    this is a fact I recall is scriptural
+    we won't all sleep
+    to be absent from the body is to  be present and as He is so shallwe be
+    every who has this hope in Him purifies himself just as He is pure
+
+    XXXVII
+
+    just see Christ on a cross
+    and let the spirit of reality take over
+    just see Christ on a cross
+    and let God's sacrifice bear fruit
+    just see Christ on a cross
+    and realize Satan is defeated
+    that no hard words of your own can defeat you
+    that no mindset of yours can ever finally beat you
+    just see Christ on a cross
+
+    and see Christ on the cross take
+    all hell's worst for you
+
+    all Hell's worst for you is now His to deal with
+    when I use to see Christ every day in Catholic school
+    I use to feel my best and Jesus was always my friend
+    and I felt so secure
+    but now He can seem far away
+
+    because in one dimension of all time
+    He has been up there on the cross
+
+    You can have your illusions
+    your Disgruntled King
+    but Jesus was my Jesus when He was on the cross
+    no other power touching my heart
+    but the necessary slaughter of the Lamb of God
+    and we were taught to teach Christ crucified
+
+    XXVII
+
+    Care  I can feel it coming
+    Care  and I am living
+    Care  running from dying
+    Care  like never before
+
+    Gently   running from dying
+    Gently   like never before
+    Gently   let me write it all out
+    Gently   or I lose the  grip
+
+    Slowing down from running from dying
+    I see the abyss open up
+    this life's miseries open up
+    as men struggle between their theories
+
+    I guess it comes from walking
+    my own way
+    this presence of death I feel
+    in my body
+    let your energies burst out
+    and heal!
+
+    I put my eggs in one basket
+    Easter eggs of childhood ascents
+    hoping to keep them all my life
+    and have them shade my life in glory
+    I find that I've almost lost
+    the whole basket
+    I now offer them to God
+    and now I stumble upon them
+    He hides them one at a time
+    at places where I can find them
+
+    Patience  death is swallowed up iin life
+    Patience  I can write it all out
+    Patience  good health will break forth
+    Patience  all things will be mine in Christ
+
+    XXXIX
+
+    Is there a world of difference
+    between those
+    who are poor in spirit
+    and those who seek to be
+    rich in flesh?
+
+    Being poor in Spirit
+    doesn't seem that hard
+    perhaps Jesus meant this
+    as His light yoke
+
+    and being rich in flesh
+    is probably more difficult
+    unless you've gone hard
+    water being dried up
+
+    because your assets
+    in the flesh
+    keep coming back
+    paying interest
+    yet no one
+    is found having
+    their own righteousness
+    in Christ;
+
+    no poor-in-spirit Christian
+    is looking down at those
+    rich in flesh
+
+    XL
+
+    Dear Heavenly Father
+    Please deliver me
+    my soul cries out in pain
+    Won't you have mercy on me?
+    Don't you have mercy on me?
+
+    I see the cars go by on the highway
+    In them I think many more happy
+    than me
+    But I realize
+    They are the people of problems also
+
+    Some have rapists in their family
+    Some have sons with cerebral palsy
+    some will soon enter mental hospitals
+
+    I thank you for the Holy Ghost
+    He will give me the power to go on
+
+    Help me be happy
+    and collect the things I need
+    while collecting the days
+    and the battle that swallows them all
+
+    XLI
+
+    to love God
+    is to
+    at least
+    trust Him
+
+    to trust Him
+    to wash away
+    all condemnation
+    from us
+
+    XLII
+
+    Excorcism of my Fluffy God
+    from my head
+    Out! -- Fluffy God!
+    turn God a different color
+    screaming love for prisoners
+    horizons chill in ecstasy for foriegnors
+    outrageous days ahead
+
+    give the poor days
+    that are like a millions years a piece!
+
+    XLIII
+
+    I went through life
+    at very high altitudes
+    putting me in patterns
+    I now feel as embarrassments
+
+    but I could be happier
+    God will hear this prayer
+    that I want again to breathe the thin air
+    but the air of His spirit
+    leading me to a higher place
+    for Eternity
+
+    Christ let me have mercy again
+    let me know what it is to be me
+    take away this anger and envy
+    (which is also overinquisitiveness)
+    I feel when I look into the eyes of strangers
+
+    Let me know what you think of prosperity
+    let me realize I have a career Keep me on the word
+    not to let it depart from my eyes
+    keep your commandments in the midst
+    of my heart
+
+    You've told me to share what You've done
+    Share the testimony of Jesus with a soul
+    Its great to ask you
+    "Lord, use me today, to bring light
+    into the world."
+
+    Maybe why I don't feel so strong now
+    is that I am not bringing enough light
+    into it
+    light into the world
+    by way of my soul
+    such an activity brings such repaying!
+
+    So, I ask you to bring me
+    to the light as I seek to bring it
+    into the world
+    let the secret springtime
+    the springtime of people's spirit, ferment!
+
+    through the summer, fall, winter of our spirituality
+    non-coincidental with the weather's four seasons
+    wash our souls with a springtime
+    which keeps our hearts and minds in Jesus
+
+    Surround us in love so deep
+    that the demons won't be able to loosen it
+    to make us appear as an adversary
+    when they attempt to have us
+    wrestle with flesh and blood
+
+    XLX
+
+    I dream about being with people
+    like you
+    like a kind butler
+    a kind old gentlemen
+    pleasant people with pleasant words
+    never returning my anger
+    I dream yet I live in it
+    with only You to hold
+
+    with God all things are possible
+    such as Omniscience watching over facets of our life
+    watching and directing us as soldiers of goodness
+    answering prayers that took us five seconds to pray
+    storing good things for our future
+    making us the respect of men
+    giving us peace
+    giving us more peace than money could ever buy
+    making us worthy of His calling
+    transforming our minds from glory to glory
+    making us to not even have to worry about our spirituality
+    making us not even to have to worry about our spirituality
+
+    XLVI
+
+    the ultimate visions appear
+    as you explain eternal life so clear
+
+    and as these words I see
+    How much they depend on prayer
+    all I want is fruit of the spirit
+    and how it all depends on You
+    on You to answer my prayers
+
+    The Blood of Jesus
+    forever unites me with His Soul!
+    this is one transport to Eternal life
+
+    desolation and shame became
+    they  cover the land of my time
+
+    but as one
+    devotes the day
+    to You
+    a new righteousness
+    (like the noon day sun)
+    is theirs!
+
+    a therapy so inexpensive
+
+    a heresy that we
+    sometimes don't see
+    is that it says in the Word
+    "Ye" are the salt
+    "Ye" are the light
+
+    Love is growing up
+    all around me
+    love is, love is
+    authored by God
+
+    L
+
+    problems getting solved
+    checking off
+    on a chart
+    a chart of
+    once impossible goals
+
+    the union of power of
+    God and man
+    through Christianity
+    the synergy of sweetness
+    day dream afternoon tea
+
+    problems in our lives
+    solving, solving
+    disappearing, disappearing
+    awaken my mind
+    take out my eye's beam
+    and rejoice in changes
+    already made in others
+
+    LI
+
+    a mother's face
+    in movement sometimes
+    a father's face
+    irregardless
+    shifting in a loving haste
+    conglamorate -- it is God's face
+    a care
+    a love
+    lasting touches
+    His heart eternally
+    deposited in faithfulness
+
+    LII
+
+    to see human scenarios with just a little less sin
+    is to comprehend a world of beauty
+
+|  |  |
+|----|----|
+| [**`Creative Virtue`**](index.html) | [**`Robert Pearson Poetry and Prose`**](lit.html) |
+
+\<

@@ -1,0 +1,24 @@
+Computer Cryptology's Anonymous Remailer Page 
+
+ Computer Cryptology's Anonymous Remailer Page 
+
+The information below provides keys and statistics on the anonymous
+remailer network. The primary location for discussion of anonymous
+remailers is the Usenet newsgroup alt.privacy.anon-server 
+(APAS). For an introduction to this newsgroup, see the weekly welcome
+message and the monthly list of frequently asked questions ( FAQ ).
+
+ Computer Cryptology's Statistics 
+
+ Statistics 
+Below are automatically generated lists of remailer reliability statistics.
+
+ Notes 
+
+ a Compare Type I remailer stats by source . 
+ b Compare Type II remailer stats by source .
+
+ Client Configuration 
+
+To configure Jack B. Nymble v2 (JBN2) to use these stats and keys,
+place the URLs above in the corresponding text box in JBN2's Stats Config .

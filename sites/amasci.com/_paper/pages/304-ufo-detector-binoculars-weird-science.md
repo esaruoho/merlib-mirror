@@ -1,0 +1,229 @@
+---
+title: "UFO Detector Binoculars [WEIRD SCIENCE]"
+source_domain: amasci.com
+source_path: freenrg/ufoscope.html
+order: 304
+reachable_from_entry: true
+images: 2
+internal_links: 7
+extracted: 2026-08-07T17:04:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# UFO Detector Binoculars [WEIRD SCIENCE]
+
+*Source page: `freenrg/ufoscope.html`*
+
+<table height="77" data-summary="nav links, google search window" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-cellpadding="5" data-summary="Navigation links">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong><a href="http://amasci.com/weird.html">Weird Science</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/weird/wskept.html">Skeptical</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/search.html">SEARCH</a></strong><br />
+</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
+&#10;</div></td>
+</tr>
+</tbody>
+</table>
+
+<table data-summary="format two columns" width="100%">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;" data-bgcolor="#cccccc" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
+<td width="15"> </td>
+<td data-bgcolor="#cccccc" data-valign="top" data-summary="main text content" width="800"><table data-bgcolor="#CCCCCC" data-summary="page title" width="100%">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>UFO SCOPE</strong></td>
+<td style="text-align: right;"><strong>(c)1996 <a href="http://amasci.com/me.html">William Beaty</a></strong></td>
+</tr>
+</tbody>
+</table>
+<div data-summary="ASCII schematic" style="width:250px;height:430px;margin-left:1px;margin-top:10px;float:right;">
+<pre><code>
+             220K         
+(+)      ___/\/\/\___     
+ |      |            |    
+ |      |   |\_      |    
+ |_|/|__|___|- \_    |    
+   |\|      |    \___|__  
+  P.D.    __|   _/ (out)  
+         |  |+_/          
+         |  |/            
+         |                
+      ___|__/\/\/\_       
+     |             |      
+     \             |      
+     /             V      
+     \            gnd     
+     /                    
+     |                    
+    (+)                   
+</code></pre>
+</div>
+<br />
+&#10;NEEDED:
+Binoculars
+Small solar cell
+Audio amplifier
+Headphones<br />
+&#10;<p>Something I always wondered regarding UFO sightings. Say its night, and you see a light in the distant sky. Is it really an airplane? Or suppose it's behaving oddly, performing maneuvers impossible for an aircraft, etc. Could the optical emissions coming from that object be identical to an ordinary 120V AC lightbulb? Specifically, is the LIGHT AMPLITUDE of that object pure and smooth DC?<br />
+</p>
+<p>Or is it some kind of AC white noise or signal? After all, nearly all manmade light sources are modulated as a result of their AC power supplies, so their brightness is vibrating with 120Hz audio frequency. Connect a solar cell to an audio amplifier, hold it under an incandescent bulb, and you'll hear MMMMMMMMMM at 120Hz (two flashes per 60Hz cycle.) Therefore we should ask: what sort of vibration might be imposed on those distant and mysterious lights in the sky, hmm?<br />
+</p>
+<p>As a kid with an electronics hobby I once taped a selenium solar cell to the eyepiece of a small 50X telescope, routed it to an audio amplifier, then pointed it at distant light sources at night while listening to the signal. Incandescent streetlights give a deep hum, their AC light output is a pure 120hz sine wave. Mercury and sodium vapor bulbs are nonlinear, they give a complex 120hz waveform that sounds like WHAANNNNNNNNN. Neon signs sound different, with a squealy high frequency buzz component to their 120hz fundamental.<br />
+</p>
+<p>Automobile headlights are DC, so I hadn't tried viewing them. Recently I saw an article by Don Lancaster (or Forrest Mims?) which mentioned that headlights are modulated by car vibrations, so I checked it out and yes, car headlights give off a continuous soft gonging sound even on smooth highways. Their filaments vibrate, and different types of headlights give different pitches of "bell" sounds. (So when you see one of those single flickering headlights in the distance, that's an offroad motorbike, and its light is audio-modulated with extremely loud "BLANGIDY-BLANG!"<br />
+</p>
+<p>Aircraft strobes are easy to detect as a loud clicking. Other aircraft lights *may* have a standard 800Hz modulation (from their 400Hz supplies), but I found that it wasn't loud enough to hear from distant aircraft lights. Perhaps the thermal inertia of their filaments tends to filter out all the high frequencies, whereas 60Hz is slow enough to be "broadcast" by light bulb filaments. Maybe with a low-noise detector and some bandpass filtering, the 800Hz of aircraft lights could be sensed.<br />
+</p>
+<p>Rather than using a telescope and a solar cell, I put together a better viewer recently. Binoculars can provide a parallel "sighting scope," even when one eyepiece is occupied by a photocell. A Seimens BPW34 P.I.N. photodiode and a low-noise opamp front end gives a bit more gain than my selenium cell. Headphones give much better low frequency response than a speaker. And the whole thing can be battery-powered and duct-taped onto a set of large-aperature nighttime binoculars. Any light source seen by your eye through one side of the binocs will be heard as optically demodulated audio picked up by the other side.<br />
+</p>
+<p>The following schematic depects a Current-to-Voltage converter circuit with a photodiode: if a 10 microamp signal comes from the photodiode, then a 2.2v signal will appear at the opamp output pin. The input is DC coupled for good lo-freq response. However, bright lights will overload the circuit, so night-use only.<br />
+</p>
+<hr /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+    Use 9V battery as power supply
+    +9V to opamp (+) pwr (pin 7)
+    -9V to opamp (-) pwr (pin 4)
+    probably needs a capacitor in
+    series with the output (try 10uF)
+
+                     220K         
+    (+)9V        ___/\/\/\___     
+     |          |            |    
+     | BPW34    |   |\_      |    
+     |_|/|______|___|- \_    |    
+       |\|         2|    \___|__  
+                  __|   _/ 6 (out)
+                 | 3|+_/          
+                 |  |/            
+                 |      47K       
+             ____|__/\/\/\_       
+            |              |      
+            \              |      
+            / 47K          V      
+            \             gnd     
+            /                     
+            |                     
+           (+) 9V                
+
+         "I to V" LO-NOISE 
+      PHOTOCELL PREAMPLIFIER
+
+    Here's an AC-coupled version:        
+
+                        2.2 Meg        
+    (+)9V             ___/\/\/\___     
+     |               |            |    
+     | BPW34   .1uF  |   |\_      |    
+     |_|/|__.__| |___|___|- \_    |    
+       |\|  |  | |       |    \___|__  
+            /          __|   _/   (out)
+            \         |  |+_/          
+       10K  /         |  |/            
+            \         |      47K       
+            |       __|___/\/\/\_      
+            |      |             |     
+            |      \             |     
+            V      / 47K         V     
+           gnd     \            gnd    
+                   /                   
+                   |                   
+                  (+) 9V               
+
+|     |     |
+|:---:|-----|
+|     |     |
+
+<table data-summary="article, continued" width="100%">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"></td>
+<td width="15"> </td>
+<td data-bgcolor="#cccccc" data-valign="top" data-summary="main text content" width="800"><hr />
+<p>I powered mine with a single 9V battery. Batt (-) goes to gnd and to pin-4, while batt (+) goes to pin-6 and to the (+) points on the schematic. The output signal will ride on 4.5VDC, so you might need to put a capacitor in series with the output to block the DC from your audio amplifier (my audio amp already had an internal capacitor in series with its input.) Either that, or use two 9V batteries wired as a standard Op-amp bipolar supply, then ground the (+) input-pin of the op amp directly to the batteries' common connection.<br />
+</p>
+<p>If you build this "UFO Scope," definitely make a point to use it quite a bit before going hunting for "craft." You'll want to become familiar with the sounds of all conventional light sources, including lamps, headlights, aircraft, fires, and if you manage to crank the gain high enough, the twinkle patterns of various stars. That way you'll be able to point the device at the local version of "Marfa Lights" and either say "yeah, sure, it's just headlights," or possibly "holy $#!%!, the aliens modulate their ship-lights for voice communications!"<br />
+</p>
+<p>Spa fon!         ; )</p>
+<p>To greatly increase the sensitivity (by maybe 100x), replace the BPW34 with a phototransistor. I haven't tried this myself, so I can't recommend any particular phototransistor to try. Find one with a large active area if possible. Electronics Goldmine has a couple different kinds.<br />
+</p>
+<p>Another idea: build two sensors, install them in both eyepieces, and send the signals to stereo headphones. Then put an IR filter over one lens, and either no filter or an IR-cut filter over the other lens (or perhaps magenta on one, and green on the other). With the view through both eyepieces totally blocked, this would be harder to aim, but it would let you HEAR THE COLORS of the lights as stereo audio inside your head. Multiple colors should sound like various separate "instruments" located in the widely spread "orchestra." If the light source was changing colors, this might sound very interesting. At the very least, it would give you more clues for recognizing mundane light sources. For example, incandescent lamps would be loud in the IR earpiece only, while merc vapor lights would not.<br />
+</p>
+<p>If one of these audio photosensor circuits was attached to the eyepiece of a large telescope, might any interesting sounds be received? For example, the flame of a candle *sounds like* the low rush of a burning candle. If the nucleus of a comet contains wailing gas jets, occasional explosions, vibrating plasma, etc., perhaps some of the comet's reflected light will become modulated, and the original sounds in the comet's atmosphere could be extracted by the telescope and photodetector. If the gain of my circuits could be raised by orders of magnitude (or use a PMT rather than photodiode,) it might become possible to monitor the moon at new (dark) phase, and pick up tiny brief sounds of lunar meteor strikes. Their brief flashes would sound like clicks. Star-twinkle, if it contains moving interference fringes, might do more than make rumbles and thumps, it might "ping" or "squeak." Lunar occultation of stars also might create brief audio tones because of interference patterns. And, if significant numbers of amateur astronomers start listening to the sky as well as watching it, perhaps unexplainable noises will lead to new discoveries for conventional (non-fringe!) science.<br />
+</p>
+<p>So far I've not encountered any mysterious lights. I've found that my single opamp stage doesn't give enough gain to "hear" the dimmest of the visible light sources without burying them in noise, so it's time to modify the thing. Add some extra gain stages, bigger initial gain resistor, a few tens of picofarads across the gain resistor to prevent oscillation, maybe a phototransistor replacing the photodiode to give higher front-end gain, and perhaps sacrifice low-freq response by making it AC coupled, so any bright lights won't drive the opamp's output to the rails. Or give up and start over by building a photomultiplier version with high-volt power supply.<br />
+</p>
+<ul>
+<li><a href="http://www.goldmine-elec-products.com/prodinfo.asp?number=G15405" rel="nofollow">$2 photodiode,</a> also <a href="http://www.goldmine-elec-products.com/prodinfo.asp?number=G13767" rel="nofollow">phototransistor</a></li>
+<li><a href="http://www.electrooptical.net/www/frontends/frontends.pdf" rel="nofollow">Photodiode front ends</a> (pdf)</li>
+<li><a href="http://web.archive.org/web/20060515000000*/http://www.ee.washington.edu/circuit_archive/circuits/F_ASCII_Schem_IR.html" rel="nofollow">Sci.Electronics FAQ: Infra-red detectors</a></li>
+<li><a href="http://%0Awww.americanradiohistory.com/Archive-Poptronics/70s/1978/Poptronics-1978-05.pdf" rel="nofollow">UFO detector magnetometer schematics</a> May 1978 Popular Electronics</li>
+<li><a href="http://www.astronomycafe.net/weird/lights/marfa.htm" rel="nofollow">The Marfa Lights</a></li>
+<li><a href="http://k3pgp.org/frontend1.htm" rel="nofollow">Diode Optical Receiver</a></li>
+<li><a href="http://electronicdesign.com/analog/whats-all-transimpedance-amplifier-stuff-anyhow-part-1" rel="nofollow">Bob Pease: What's all this transimpedance amp stuff anyhow?</a></li>
+<li><a href="http://focus.ti.com/lit/an/sboa035/sboa035.pdf" rel="nofollow">Photodiode op amps</a> (TI)</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+\
+
+|     |     |
+|:---:|-----|
+|     |     |
+
+<span hre="/freenrg/ufoscope.html">http://amasci.com/freenrg/ufoscope.html</span>\
+Created and maintained by [Bill Beaty](http://amasci.com/billb.html).\
+Mail me at: [<img src="http://amasci.com/graphics/abcg.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/).\
+.
+
+<div class="statcounter">
+
+<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
+
+</div>
+
+[View My Stats](http://statcounter.com/p10408414/?guest=1)

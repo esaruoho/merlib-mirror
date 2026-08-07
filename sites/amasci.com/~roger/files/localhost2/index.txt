@@ -1,0 +1,9 @@
+Index of /~roger/files/localhost2 
+
+ Index of /~roger/files/localhost2 
+ Name Last modified Size Description 
+
+ Parent Directory 09-Dec-2004 04:58 - 
+ bin/ 09-Dec-2004 04:58 - 
+ etc/ 09-Dec-2004 04:58 - 
+ sbin/ 09-Dec-2004 04:58 -

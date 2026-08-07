@@ -1,0 +1,8 @@
+I had to comment out both versions of 'operator +' in misc.h at line 382 in
+order to get a clean build. Then I had trouble building the validation test
+code. Ultimately, I had to insert a cast to BufferedTranslation& in the
+calls to TestFilter in validat1.cpp.
+
+Finally, I had to set the structure alignment of the PPC processor
+preferences to PowerPC rather than 68K; and I turned off 'map newlines to
+CR'.

@@ -1,0 +1,37 @@
+James Thiele's Newton Stuff 
+
+ James Thiele's Newton Stuff 
+
+ Games for the Newton that I've released as freeware: 
+
+Animals shows some pictures and plays sounds.
+
+Tic Tac Toe plays a children's game.
+Newton plays against person or two people can play.
+
+States shows a U. S. map and shows state names and
+capitals when a state is tapped on.
+
+ Applications for the Newton that I've released as freeware: 
+
+PowerGasm is an unusual battery monitor.
+
+Unistrokes
+
+ implements an alernative stylus based writing system created at XEROX PARC
+
+ Aminals a game by Mike Engber.
+
+ Newton programming info: 
+
+Some extracts from comp.sys.newton.programmer (>145K) in
+ HTML ,
+ Mac ,
+ DOS , or
+ UNIX format.
+ A short description of the file.
+
+ This page is maintained by
+ James Thiele . Contact via
+ email 
+ Page last Modified 15 March 1999.

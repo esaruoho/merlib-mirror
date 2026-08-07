@@ -1,0 +1,24 @@
+Question 10.9 
+
+ Question 10.9 
+ I'm getting strange
+syntax errors
+on the very first
+declaration in
+a file,
+but it looks fine.
+
+ Perhaps there's a missing semicolon at the end of the last
+declaration in the last header file you're #including.
+See also
+questions 2.18 and 11.29 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

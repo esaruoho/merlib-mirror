@@ -1,0 +1,43 @@
+JBM - Bibliography - Miscellaneous
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Bibliography - Miscellaneous
+
+ Map Projections : A Reference Manual 
+
+ , 
+ Lev M. Bugayevskiy and John P. Snyder, Taylor and Francis, 1995.
+ ISBN 0748403035. I found this book in the library and used it 
+ for coordinate transformations (topocentric, geocentric and 
+ geographic) in MPM.
+
+ Rifle Accuracy Facts 
+
+ , 
+ Harold R. Vaughn, published by Precision Shooting, Inc., 1998.
+ "The definitive study, made over a number of years, by a leading
+ research scientist, on the subject of why some rifles shoot very
+ well... some shoot fairly well... and others shoot poorly."
+ This book has a little bit of everything.
+
+ U.S. Standard Atmosphere 
+
+ , 
+ 1962, National Aeronautics and Space Administration. -- Includes
+ derivation of the ICAO standard atmosphere and tables with density values
+ as a function of altitude.
+
+ Last update 3 October 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

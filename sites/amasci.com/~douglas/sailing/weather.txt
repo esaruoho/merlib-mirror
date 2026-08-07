@@ -1,0 +1,119 @@
+weather 
+
+Weather 
+
+ National Weather Service
+Marine Product Dissemination Information 
+
+ The above link is a pretty good overview of text and graphical
+weather reports for the US coastal areas. The stuff below are some specific
+links that I tend to use on a regular basis. 
+
+text 
+
+coastal areas (close to shore) 
+
+ Southeast
+USA coast 
+
+ Northeast
+USA coast 
+
+offshore areas (farther out from shore) 
+
+ West
+of Florida 
+
+ East
+and South of Florida (includes Bahamas) 
+
+ other East
+coast USA offshore areas 
+
+high seas areas (wayyyyyy out there) 
+
+ north
+of Florida 
+
+ south
+of Florida 
+
+weather fax maps ( click
+here for the complete western Atlantic chart list) 
+
+sea state (wind and waves) 
+
+ 12Z (wave height,
+north of Bahamas, covers North Atlantic) 
+
+ 00Z (wave height,
+north of Florida, more detail, but smaller area) 
+
+ 12Z (wave height,
+north of Florida, more detail, but smaller area) 
+
+ 00Z 24hr forecast
+(wind & waves, north of Florida) 
+
+ 12Z 24hr forecast
+(wind & waves, north of Florida) 
+
+surface charts (pressure, winds, fronts) 
+
+ 12Z (covers huge area,
+south of Maine) 
+
+ 00Z (European half
+of North Atlantic Ocean) 
+
+ 00Z (US half of North
+Atlantic Ocean) 
+
+ 06Z (European half
+of North Atlantic Ocean) 
+
+ 06Z (US half of North
+Atlantic Ocean) 
+
+ 12Z (European half
+of North Atlantic Ocean) 
+
+ 12Z (US half of North
+Atlantic Ocean) 
+
+ 18Z (European half
+of North Atlantic Ocean) 
+
+ 18Z (US half of North
+Atlantic Ocean) 
+
+ 00Z 24hr forecast
+(north of Florida) 
+
+ 12Z 24hr forecast
+(north of Florida) 
+
+ 00Z 48hr forecast
+(entire North Atlantic) 
+
+ 12Z 48hr forecast
+(entire North Atlantic) 
+
+ 00Z 96hr forecast
+(entire North Atlantic) 
+
+satellite images 
+
+ 00Z North Atlantic 
+
+ 06Z North Atlantic 
+
+ 12Z North Atlantic 
+
+ 18Z North Atlantic 
+
+ National Hurricane Center (yes,
+this is the panic button) 
+
+ Weather offices
+for US cities

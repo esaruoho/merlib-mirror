@@ -1,0 +1,426 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD html 4.0 transitional//EN">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Neko-kun *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(34);
+for(i=0;i<34;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "sidebar/rola000.gif";
+images[1].src = "sidebar/rolb000.gif";
+images[2].src = "sidebar/rola001.gif";
+images[3].src = "sidebar/rolb001.gif";
+images[4].src = "sidebar/rola002.gif";
+images[5].src = "sidebar/rolb002.gif";
+images[6].src = "sidebar/rola003.gif";
+images[7].src = "sidebar/rolb003.gif";
+images[8].src = "sidebar/rola004.gif";
+images[9].src = "sidebar/rolb004.gif";
+images[10].src = "sidebar/rola005.gif";
+images[11].src = "sidebar/rolb005.gif";
+images[12].src = "sidebar/rola006.gif";
+images[13].src = "sidebar/rolb006.gif";
+images[14].src = "sidebar/rola007.gif";
+images[15].src = "sidebar/rolb007.gif";
+images[16].src = "sidebar/rola008.gif";
+images[17].src = "sidebar/rolb008.gif";
+images[18].src = "sidebar/rola009.gif";
+images[19].src = "sidebar/rolb009.gif";
+images[20].src = "sidebar/rola010.gif";
+images[21].src = "sidebar/rolb010.gif";
+images[22].src = "sidebar/rola011.gif";
+images[23].src = "sidebar/rolb011.gif";
+images[24].src = "sidebar/rola012.gif";
+images[25].src = "sidebar/rolb012.gif";
+images[26].src = "sidebar/rola013.gif";
+images[27].src = "sidebar/rolb013.gif";
+images[28].src = "sidebar/rola014.gif";
+images[29].src = "sidebar/rolb014.gif";
+images[30].src = "sidebar/rola015.gif";
+images[31].src = "sidebar/rolb015.gif";
+images[32].src = "sidebar/rola016.gif";
+images[33].src = "sidebar/rolb016.gif";
+
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon FLASH! General Info Page</title>
+</head>
+<BODY bgcolor="white" MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+
+<!--Main Table-->
+<TABLE WIDTH=717 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+
+<!-- Side Bar Table -->
+
+<!-- TOP BAR -->
+    <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+    <td VALIGN=TOP width=717><img SRC="sidebar/neo000.gif" BORDER=0></td>
+    </tr>
+    </table>
+
+<!-- Bar and Buttons -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+<tr>
+<td VALIGN=TOP WIDTH="9" BACKGROUND="sidebar/neo2004.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=9></center>
+</td>
+<td VALIGN=TOP WIDTH="100" BACKGROUND="sidebar/blubg.jpg">
+
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100" >
+<td align=center>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="sidebar/rola000.gif" NAME="btn1" NOSAVE width=100 height=25 border=0 alt='Front Page'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="guest.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="sidebar/rola001.gif" NAME="btn2" NOSAVE width=100 height=25 border=0 alt='The NekoCon Guest List'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dealer.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="sidebar/rola002.gif" NAME="btn3" NOSAVE width=100 height=25 border=0 alt='Dealer Room Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="hotel.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="sidebar/rola003.gif" NAME="btn4" NOSAVE width=100 height=25 border=0 alt='Hotel, Travel and Local Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="general.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="sidebar/rola004.gif" NAME="btn5" NOSAVE width=100 height=25 border=0 alt='Registration, Mailing and Internet Info'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="prog.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="sidebar/rola005.gif" NAME="btn6" NOSAVE width=100 height=25 border=0 alt="What's Going on at the Con"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="amvcontest.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="sidebar/rola006.gif" NAME="btn7" NOSAVE width=100 height=25 border=0 alt='Anime Music Video Contest Rules'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="cosplay.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="sidebar/rola007.gif" NAME="btn8" NOSAVE width=100 height=25 border=0 alt="Cosplay Rules and Info"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="sidebar/rola008.gif" NAME="btn9" NOSAVE width=100 height=25 border=0 alt="Forms for Download"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="ads.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="sidebar/rola009.gif" NAME="btn10" NOSAVE width=100 height=25 border=0 alt="Advertising"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="vol.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="sidebar/rola010.gif" NAME="btn11" NOSAVE width=100 height=25 border=0 alt='Help run the con'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="art.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="sidebar/rola011.gif" NAME="btn12" NOSAVE width=100 height=25 border=0  alt="Art Show Rules"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="contacts.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="sidebar/rola012.gif" NAME="btn13" NOSAVE width=100 height=25 border=0  alt="Get in touch with us"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="t-shirts.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="sidebar/rola013.gif" NAME="btn14" NOSAVE width=100 height=25 border=0 alt="T-shirts"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="sidebar/rola014.gif" NAME="btn15" NOSAVE width=100 height=25 border=0 alt="NekoCon Art Gallery"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="link.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="sidebar/rola015.gif" NAME="btn16" NOSAVE width=100 height=25 border=0 alt="Links"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="News.html" onMouseOver="over('btn17',btn17val );" onMouseOut="out('btn17',btn17val);">
+<IMG SRC="sidebar/rola016.gif" NAME="btn17" NOSAVE width=100 height=25 border=0 alt="News, Web Updates"></A>
+</td>
+</table>
+
+
+
+
+
+<td VALIGN=TOP WIDTH="13" BACKGROUND="sidebar/neo2006.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=13></center>
+</td>
+<!-- end java buttons  -->
+
+
+
+<td valign=top WIDTH="575">
+
+<TABLE align=center BORDER=0 WIDTH=575>
+<TR>
+<TD>
+
+
+<!-- Begin Main Body Insertion Point -->
+<center>
+<b>
+<font face="Arial,Helvetica">Memberships</font>
+</b>
+</center>
+<font face="Arial,Helvetica">
+Why would you want to Pre-Reg for the con?
+A few good reasons really. Shorter lines when you check in, You can save
+a yourself a few extra bucks.  It also helps the con to do more and offer more to everyone at the con
+to make it a better time for all. The current membership level and rates are as follows.</font> 
+
+<p>
+
+<b><font face="Arial,Helvetica">*Single Memberships</b><br></font>
+<font face="Arial,Helvetica">
+These are good for all three days of the convention, including certain events that may happen on Thursday night.  You get access to all public functions and events at the convention.</font>
+<br>
+<br><font size="+2" face="Arial,Helvetica">$30.00 Pre-Reg until October 6, 2001</font>
+<br><font size="+2" face="Arial,Helvetica">$40.00 at the Door</font>
+<br>
+Child Rates: Newborn-6 years old = Free,......7-11 years old = Half Price,......over 12 = Full Price
+<p>
+<center>----------</center>
+<p>
+<b><font face="Arial,Helvetica">*Group Memberships</b><br></font>
+<font face="Arial,Helvetica">Group Memberships are also good for all three days of the convention<p>
+
+<font size="+2" face="Arial,Helvetica">$125 for 5 Memberships until October 6, 2001</font><br>
+  (thats $25 a person!) additional memberships are $25 each
+
+<p><font face="Arial,Helvetica">Group registration is for pre-reg only - not at the door.<br> 
+Memberships must all come in the same envelope.<br>
+No adding people later, ever, no exceptions!</font>
+<p>
+<center>----------</center>
+<p>
+
+<b><font face="Arial,Helvetica">*Nekocon Flash T-shirts</b><br></font>
+The current Nekocon Flash T-Shirt design is located <a href=/shirts"><b>HERE</b></a>.
+<p>
+<br><font size="+2" face="Arial,Helvetica">$43.00 Pre-Reg & T-shirt Special (add $2 for 2XL/3XL)</font>
+<br><font size="+2" face="Arial,Helvetica">$17.50 T-shirt Only (add $2 for 2XL/3XL)</font><br>
+(prices include shipping) 
+<p>
+<center>----------</center>
+<p>
+
+<b><font face="Arial,Helvetica">*Supporting Memberships</b><br></font>
+<font face="Arial,Helvetica">
+What is a Supporting Membership? Its a membership for those who can't attend the con but would like to "support" the con. Immediatly after the con, we will mail you a Nekocon Registration Packet. You will get a color laminated badge with your name on it, program book and any other goodies that are included.
+.</font>
+<br>
+
+<br><font size="+2" face="Arial,Helvetica">$12.00 Supporting Membership until October 6, 2001</font>
+<br><font size="+2" face="Arial,Helvetica">$26.00 Supporting Membership & T-shirt until October 6</font><br>
+(T-shirt price includes shipping, add $2 for 2XL/3XL shirt) <p>
+If plans change and you are able to attend Nekocon, you can stop by the At-Door Registration desk and upgrade your Supporting Membership to a Single Membership for an additional $30.00
+<p>
+
+<center>----------</center>
+<p>
+
+<font face="Arial,Helvetica" color="red">POSTMARKING:</font></b> <font face="Arial,Helvetica">The envelope with your registration information and payment should be postmarked by the dates stated above. This just means you have it to your mail carrier, dropped in your mail box or dropped off at the post office by this date.  There's no need to spend $12.00 to overnight a letter just to save $5.00, a 34 cents postage letter will do the job.
+</font><p>
+
+<font face="Arial,Helvetica">Help our pre-reg staff. Please Download and print out the forms below.
+PLEASE fill out the registration form completely, including everyones postal addresses and email information if possible. This will help keep our Pre-reg staff from pulling their hair out and really speed things up when you and your group arrive at the con.<p>
+
+<b>No Memberships will be accepted that are postmarked after Oct 6. Online pre-reg memberships will be accepted till October 13, 2001. After Oct 6 (Oct 13 for Online), please pay at-door.</b></font><p>
+
+<a href="pdf/gso-reg-form-flash.pdf"><IMG SRC="pdficon.gif" BORDER=0 WIDTH=32 HEIGHT=32></a>
+<font size="+2" face="Arial,Helvetica"><b>- <a href="pdf/gso-reg-form-flash.pdf">Single (or Supporting) Membership Form (10K)</b></font></a><br>
+or <a href="pdf/gso-reg-form-flash.txt">Single (or Supporting) Membership Form - Text Version</a><br>
+<p>
+
+<a href="pdf/gso-group-form-large.pdf"><IMG SRC="pdficon.gif" BORDER=0 WIDTH=32 HEIGHT=32></a>
+<font size="+2" face="Arial,Helvetica"><b>- <a href="pdf/gso-group-form-large.pdf">Group Membership Form (11K)</b></a></font><br>or <a href="pdf/gso-group-form-large.txt">Group  - Text Version</a>
+<p>
+
+<a href="pdf/tshirt-only.txt"><IMG SRC="images/txt.gif" BORDER=0 WIDTH=32 HEIGHT=32></a>
+<font size="+2" face="Arial,Helvetica"><b>- <a href="pdf/tshirt-only.txt"><a href="pdf/tshirt-only.txt">T-Shirt Only Text Form</b></a></font><p>
+
+
+<font color="red" face="Arial,Helvetica">NOTE:</font></b><font face="Arial,Helvetica">You will need Acrobat 3.0 or higher or a compatible PDF plugin for your web browser to view the PDF forms.</font><p>
+
+
+
+<p>
+<center>----------</center>
+<p>
+
+<font face="Arial,Helvetica"><b>Credit Card Payment for Pre-Reg Memberships.</b><br>
+Nekocon is currently using the services of PAYPAL to allow attendees to purchase SINGLE Pre-Reg Memberships with their credit card.<p>
+<h2>Pre-reg is closed, please do not send us membership money, please pay AT-DOOR</h2>
+<p>
+<!-- Begin PayPal Logo -->
+<A HREF="https://secure.paypal.com/auction/pal=nekocon%40eskimo.com" target="_blank"><IMG SRC="http://images.paypal.com/images/lgo/logo6.gif" BORDER="0" ALT="I prefer PayPal, the #1 payment service in online auctions!"></A>
+<!-- End PayPal Logo -->
+<p>
+<center>----------</center>
+
+<p><b><font face="Arial,Helvetica">*One Day Rates</font></b></br>
+<font face="Arial,Helvetica">One Day memberships are only good for the day that they are purchased up to 1AM of the following day.  You may attend any of the events on that day.  Restrictions on one day memberships are that you cannot submit art work or place bids on art work in the Art Show, or submit entries in the Music Video Contest.</font>
+<p><font size="+2" face="Arial,Helvetica">$25.00 for Friday or Saturday</font>
+<br><font size="+2" face="Arial,Helvetica">$20.00 for Sunday</font>
+
+<p>
+<hr>
+<p>
+<center>
+<b><font size="+2" face="Arial,Helvetica">General Mailing</font></b></center><br>
+<font face="Arial,Helvetica"><b>Mail questions, comments, or pre-registration payments to:</b></font><br>
+<br><b><font size="+1" face="Arial,Helvetica">NekoCon</font></b>
+<br><b><font size="+1" face="Arial,Helvetica">P.O. Box 4141</font></b>
+<br><b><font size="+1" face="Arial,Helvetica">Greensboro NC 27404-4141</font></b>
+<br><b><font face="Arial,Helvetica">(Mail checked on a daily basis)</font></b><br>
+
+<br><font face="Arial,Helvetica">Make all checks or money orders out to:
+<b>NekoCon</b></font>
+<br><font face="Arial,Helvetica"><b>DO NOT SEND CASH!</b></font><font face="Arial,Helvetica"></font>
+<p><b><font face="Arial,Helvetica">Or Visit us on the Internet</font></b><font face="Arial,Helvetica"></font>
+<p><font face="Arial,Helvetica"><b>E-mail</b> - <a href="mailto:info@nekocon.org">info@nekocon.org</a></font><font face="Arial,Helvetica"></font>
+<p><font face="Arial,Helvetica"><b>WWW</b> - <a href="http://www.nekocon.org">http://www.nekocon.org</a></font><font face="Arial,Helvetica"></font><p>
+
+<font face="Arial,Helvetica"><b>Our business address:</b></font>
+<br><b><font face="Arial,Helvetica">NekoCon, P.O. Box 11582, Blacksburg, VA 24062-1582</font></b>
+<br><b><font face="Arial,Helvetica">(Mail checked on a weekly basis)</font></b><br>
+<hr size=3 width=75%>
+<p><font face="Arial,Helvetica"><b>Public Mailing List</b> <br>
+NekoCon's Public and Information Mailing Lists are currently being hosted with <a href="www.yahoogroups.com">Yahoogroups.Com</a>  We made this move to make it easier for people to access either list from the web browser of thier choice.  Doing this has made it easier for people to join or unsubscribe from our lists and choose between receiving single messages or digests of the daily messages in one one email.  Going to one of the links below will take you the Yahoogroups page for that list.<p>
+<b><a href="http://www.yahoogroups.com/group/Nekocon-ml">The Main NekoCon General Mailing List</a>:</b> This is the big one.  This is where the Neko-ites and other strange but friendly beings hangs out.  We do encourage people to try and stay on topics regarding the convention and anime in general, but that doesn't always work.  All we really ask is that you be polite, and have fun. ^_^<p>
+
+<b><a href="http://www.yahoogroups.com/group/Nekocon-info">The NekoCon Information Mailing List</b>:</a>  this list is good if you want to keep up with current announcements and update pertaining towards the con.  But, with all the traffic and insuing craziness.
+
+<p>
+
+<!-- End Main Body Insertion Point -->
+</TD>
+</TR>
+</table>
+<!-- COPYRIGHT STUFF -->
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="550" >
+<tr>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box000.jpg" height=8 width=8></td>
+<td HEIGHT="8" BACKGROUND="boxbars/box001.jpg"><img SRC="boxbars/clear.gif" height=8 width=63></td>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box002.jpg" height=8 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" BACKGROUND="boxbars/box003.jpg"><img SRC="boxbars/clear.gif" height=10 width=8></td>
+<td WIDTH="531">
+<center><font size=-1>Neko-Con FLASH and the contents of this page &copy;2000
+&amp; 2001 Chibi Neko Entertainment, L.L.C.</font>
+<br><font size=-1>Please send comments to the sites <a href="mailto:neko-kun@triad.rr.com">webmaster</a></font></center>
+</td>
+<td WIDTH="11" BACKGROUND="boxbars/box005.jpg"><img SRC="boxbars/clear.gif" height=10 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" HEIGHT="11"><img SRC="boxbars/box006.jpg" height=11 width=8></td>
+<td HEIGHT="11" BACKGROUND="boxbars/box007.jpg"><img SRC="boxbars/clear.gif" height=11 width=63></td>
+<td WIDTH="11" HEIGHT="11"><img SRC="boxbars/box008.jpg" height=11 width=11></td>
+</tr>
+</table>
+
+<!-- COPYRIGHT STUFF -->
+</center>
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

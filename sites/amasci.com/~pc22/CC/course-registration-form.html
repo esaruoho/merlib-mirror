@@ -1,0 +1,120 @@
+<HTML>
+<!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide -->
+<!--This file created 14/12/98 18:25 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Course Registration Form</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=0 BOTTOM=0 LEFT=0 RIGHT=0>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<P><FORM ACTION="" METHOD=POST>
+   <H2>Course Registration Form</H2>
+   
+   <P>
+   
+   <HR ALIGN=left>
+   
+   </P>
+   
+   <P>Use this form to register for Seattle courses and seminars that
+   require mail-in registration and payment.</P>
+   
+   <P><TABLE BORDER=1 CELLPADDING=0 WIDTH=488 HEIGHT=84>
+      <TR>
+         <TD WIDTH="72%">
+            <P>&nbsp;Name: <INPUT TYPE=text NAME=name VALUE="" SIZE=32></P>
+         </TD>
+         <TD WIDTH="28%">
+            <P>&nbsp;Age:<INPUT TYPE=text NAME=name VALUE="" SIZE=2 MAXLENGTH=2></P>
+         </TD>
+      </TR>
+      <TR>
+         <TD WIDTH="72%">
+            <P>&nbsp;Address:<INPUT TYPE=text NAME=name VALUE="" SIZE=32></P>
+         </TD>
+         <TD WIDTH="28%">
+            <P>&nbsp;Phone:<INPUT TYPE=text NAME=name VALUE="" SIZE=12></P>
+         </TD>
+      </TR>
+      <TR>
+         <TD WIDTH="72%">
+            <P>&nbsp;City:<INPUT TYPE=text NAME=name VALUE="" SIZE=30>State:<INPUT TYPE=text NAME=name VALUE="" SIZE=2>Zip:<INPUT TYPE=text NAME=name VALUE="" SIZE=5></P>
+         </TD>
+         <TD WIDTH="28%">
+            <P>&nbsp;Member #: <INPUT TYPE=text NAME=name VALUE="" SIZE=6></P>
+         </TD>
+      </TR>
+   </TABLE>
+   </P>
+   
+   <P><B>Course</B>:<SELECT NAME=name>
+      <OPTION SELECTED>Please select the course to be registered
+      <OPTION>-Reg. ?????- ...Alpine Scrambling Course...............$100
+      <OPTION>-Reg. 25507- ...Basic Climbing Course ................ $240
+      <OPTION>-Reg. ?????- ...Basic Refresher Course ................ $60
+      <OPTION>-Course Closed-..Basic Equivalency Application ......... $25
+      <OPTION>-Reg. ?????- ...Intermediate Climbing Course ......... $185
+      <OPTION>-Reg. ?????- ...Crag Climbing Course ................. $125
+   </SELECT></P>
+   
+   <P>Payment Method:
+   <INPUT TYPE=radio NAME=radio241249 VALUE=radio CHECKED>Check/Money
+   Order<INPUT TYPE=radio NAME=radio241249 VALUE=radio>VISA
+   <INPUT TYPE=radio NAME=radio241249 VALUE=radio>MasterCard</P>
+   
+   <P>Credit Card Number: <INPUT TYPE=text NAME=name VALUE="" SIZE=30>Exp.
+   Date:<INPUT TYPE=text NAME=name VALUE="" SIZE=6></P>
+   
+   <P>Cardholder Signature: <INPUT TYPE=text NAME=name VALUE="" SIZE=30></P>
+   
+   <P>Medical Information: Do you have any medical/health conditions
+   which might interfere with your performace/participation in the
+   course for which you have registered?
+   <INPUT TYPE=checkbox NAME=checkbox VALUE=checkbox>If yes, please
+   elaborate:</P>
+   
+   <P><TEXTAREA NAME=name ROWS=6 COLS=72 WRAP=virtual></TEXTAREA></P>
+   
+   <P>&nbsp;</P>
+   
+   <CENTER><B>Please print this completed form out, and send it in to
+   the Mountaineers Clubhouse.</B></CENTER>
+</FORM></P>
+</BODY>
+</HTML>

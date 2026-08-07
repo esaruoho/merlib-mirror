@@ -1,0 +1,26 @@
+file: error_a.txt
+date: Tue, 9 May 2000 23:09:43
+root: /u/u16/r/rmisaac/verify
+
+#------------------------------------------------------------
+# ERROR   18 missing named anchors
+#------------------------------------------------------------
+FILE:/u/u16/r/rmisaac/public_html/cyber.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/fun.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/gayjews.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/israel.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/jewish.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/lang.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/lovesex.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/news.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/nwlghmp.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/politics.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/queer.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/queer2.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/reference.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/rmisaac.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/seaout.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/seattle.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/startrek.htmlFILE
+FILE:/u/u16/r/rmisaac/public_html/travel.htmlFILE
+

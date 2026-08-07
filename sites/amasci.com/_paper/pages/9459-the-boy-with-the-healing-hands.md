@@ -1,0 +1,1663 @@
+---
+title: "The Boy With the Healing Hands"
+source_domain: amasci.com
+source_path: ~vecna/healing_hands.htm
+order: 9459
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Boy With the Healing Hands
+
+*Source page: `~vecna/healing_hands.htm`*
+
+# The Boy With the Healing Hands
+
+## by Christine Morgan
+
+### (<vecna@eskimo.com>)
+
+------------------------------------------------------------------------
+
+Authors Note: the characters of Gargoyles are the property of Disney and are used here without their creators knowledge or permission. Nikki Taylor (mentioned briefly) was created by Leva Mevis.
+
+------------------------------------------------------------------------
+
+ 
+
+ 
+
+The halls of the modernized Castle Wyvern rang with youthful laughter as the midnight hour approached.
+
+Though among the youngest, Alexander Xanatos led the pack, a clutch of paper scraps in one hand. "This way! The next clue! Its by the elevator!" he shouted.
+
+Half a dozen squealing children thundered past the double doors of the least formal but still vast sitting rooms, where the adults were resting off a spectacular dinner. Bronx galumphed after them, volleying excited barks.
+
+"Good idea, this treasure hunt," Fox said approvingly to Brooklyn, pouring herself a second cup of coffee. "Theyre loving it!"
+
+"As long as they dont get too carried away," Xanatos said. "None of your clues are going to lead them anyplace they shouldnt be, are they?"
+
+"Hey, I know what Im doing," Brooklyn said.
+
+Angela gave him a one-armed hug around the neck. "Hell be such a wonderful father when our eggs hatch!"
+
+"Yeah," said Lex, "a perfect eggs-ample to the rest of us!"
+
+"The yolkll be --" Brooklyn started, but Gabriels alarmed outcry stopped him.
+
+"No! Dont start!"
+
+"You dont think," Ebon said smoothly, "omeletting that go unanswered?"
+
+Gabriel winced. "Oh, no, now youve done it!"
+
+"Done what?" Lex asked.
+
+"Do *not* get him started punning! Trust me, friend, you will regret it!"
+
+"Ebon?" Angela raised a brow ridge. "Punning? You?"
+
+"Is there nothing else we can speak of?" Gabriel cast about desperately for a topic. "Sports, movies, the weather?"
+
+Ebon smiled. "Ive become very fond of a bar not far from our house, where punning is not only allowed, but encouraged. In fact, I won last weeks Tall Tales competition."
+
+Gabriel gave up and folded forward, burying his face in his hands.
+
+"Tall Tales?" Angela asked eagerly. "Tell us!"
+
+"First, you must understand the rules," Ebon said. "Theyre fairly simple. Each tale must be outrageous but not easily disproved, and must conclude in a ghastly pun."
+
+"Maybe Gabriels right," Elisa said. "Maybe we should talk about something else."
+
+"Aw, come on, Elisa!" Lex protested. "I wanna hear it!"
+
+"How bad can it be?" Goliath said.
+
+Gabriel, without looking up, groaned.
+
+"Fire away," Brooklyn said. "We can take it."
+
+"Very well." Ebon leaned back, crossing his arms. "This tale is set in Gold Rush days, when the place to be was the Yukon. Because wool and meat were so vital, sheep became very valuable. One of the wealthiest women in town was a tough old lady named Beatrice, who had moved there from Boston but had become so acclimated that everyone called her Yukoned Bea."
+
+He paused to sip from his mug, looked momentarily startled as if hed expected it to contain something else, and went on. "Bea owned 26 sheep, which she named for the letters of the alphabet. Ewe A, Ewe B, and so on. Bea ran the only hotel in town, but she was opposed to drinking, and wouldnt rent rooms to any man who had a hint of alcohol on his breath. This didnt sit well with the local saloon-keepers, Hiram Lovedaw and Hubert Loff, so they bet Bea that one of them could invent a drink that even her sharp nose couldnt detect. The winner would get her best sheep, Ewe F. She agreed, and they went to work. Lovedaws drink was called Blue Lightning, and Loff called his Mountain Dew (this was long before the carbonated beverage of the same name). The day of the competition arrived, and Lovedaw went first. He took a long swig of Blue Lightning. Bea smelled his breath, and announced that she couldnt detect a thing. The it was Loffs turn, and Lovedaw was hoping that his friend would fail. Do you know why?"
+
+Gabriel was still hunched over, his body tensed as if braced for impact. The rest of them looked at each other, and then Angela tentatively ventured, "No, why?"
+
+"If Yukoned Bea whiffed Dew on Hugh Loff, Lovedaw won Ewe F."
+
+There followed a silence so profound that molecules could be heard to decay. Some of the gargoyles wore puzzled expressions, but all of the humans stared at Ebon in stark horror.
+
+"Oh ..." Elisa said.
+
+"My ..." Fox continued.
+
+"God!" Xanatos concluded, and nearly sprinted to the sideboard for a decanter of brandy in a convulsive effort to numb the pain.
+
+"Appalling," Owen whispered, and proceeded to whip out a notepad and start scribbling it down.
+
+"I tried," Gabriel moaned. "I tried to warn you, but nay, lets not heed Gabriel!"
+
+"You tricked me out of 20 million," Xanatos said, wiping his mouth after having swigged straight from the neck of the decanter, "chained me in the hold of an oil tanker primed to explode, helped found a rival corporation ... but I think I can safely say, this is the worst thing you have ever done to me."
+
+"I dinna get it," Hudson complained.
+
+"Lucky you!" Brooklyn retorted.
+
+The group of kids, drawn no doubt by the screams voiced by their elders as the pun fully sank in, peeked curiously into the room.
+
+A four-year-old flawless Asian doll called Mulan (chosen after shed become enamored of the film of the same name), brushed a quick but intense gaze across them all. Then, sensing nothing amiss, she grinned and waved. Her reaction assured the others, who had instinctively glanced to her to read the emotional weather of the room.
+
+"Come on!" Alex cried. "The tapestry in the Grand Hall! Thats where it is!" Then the herd was off again.
+
+By unspoken consensus, nobody was going to further mention the awful thing that Ebon had done.
+
+Elisa looked at her daughter Amber, who was playing in the corner with Julian. At three, he was the youngest of the children that Ebon and Gabriel had rescued from the Institute. They seemed to be having a minor disagreement over whose turn it was with the Press-and-Guess, the uproar from the grown-ups having barely fazed them.
+
+"Guys," she said, "you know, youve really been doing a wonderful thing, taking care of all those kids, but theyre not going to be able to live like that forever. Sooner or later, theyre going to need to go to school."
+
+Ebon sighed. "Yes, we know. They need a better home than we can provide. Even with Mrs. Goodall, our housekeeper, to look after things by day, its not the best of environments. Brittany and Blaze want families, normal lives. Neesha and Gilberto want to go home to their own parents. Weve been trying to think of what to do, without putting them in danger."
+
+"The scientists at the Institute must *not* get their hands on them again!" Gabriel said. "How can we be certain theyll be safe anyplace but at Rocky Point with us?"
+
+"The Sterling Academy is still an option," Xanatos said, pouring himself another drink -- a double -- in a glass this time. He offered the decanter around and Fox grabbed it fast.
+
+"Yeah, right," Brooklyn scoffed. "Turn them over to the Illuminati; they were probably the ones running the Institute in the first place!"
+
+Goliath slowly shook his head. "I believe that Miss St. John can be trusted. The Academy was of benefit to Aiden, remember."
+
+Owen nodded.
+
+"Where *is* Aiden?" Angela asked Lex. "I just thought she was going to stop by Birdies place for a few minutes, and then be back for dinner."
+
+"Yeah, but once Birdie starts talking, you know how hard it is to get her to shut up," Brooklyn said.
+
+Broadway, who had been sitting quietly on one of the loveseats with Elektra, the two of them gazing into each others eyes dreamily (and it was all right that he took up more than his half of the seat because she took up less than hers), now glanced up. "Hey!" he warned his rookery brother.
+
+"Hes right," Lex said. "You know Birdie."
+
+"The point, though," Xanatos said to Ebon and Gabriel, "is that no matter what you decide to do, the kids are going to need pasts thatll stand up to inspection. If you planned to put them up for adoption, or enroll them in *any* school, theyll need birth certificates, immunization records, Social Security Numbers, the works. For the ones that were kidnapped, thats easy, a little fiddling here and there. But four of them were *created* in that lab. Thats a little more tricky."
+
+"Are you offering your assistance?" Ebon asked.
+
+"Would you accept it if I did?" He shrugged. "I know youve your reasons not to trust me, Ebon, and I can respect that ..." he winked at Goliath, "hell, Im used to it. You probably want me involved in their lives as little as possible, for fear that Ill mis-use their powers for my own gain."
+
+"I wonder what on earth would give him that idea?" Fox batted her lashes at her husband.
+
+"But I really only want whats best for the kids," he said. Then grinned. "And if, someday, theyre inclined to be grateful, well, Im always looking to recruit new talent."
+
+"How could they be put up for adoption?" Angela asked. "They are sweet, but what happens when their new families realize what they really are?"
+
+"What are they?" Gabriels voice held a hint of challenge.
+
+"Theyre ... *different*," she said. "How are you going to explain it to the adoptive parents that the child theyve taken in can start fires, knock down walls, read minds, or things like that, by the power of their will alone?"
+
+"They have lived with us for several months now," Ebon said. "Theyve known what it is to keep ones very existence a secret from all but a few. More than anything else, they want to belong, and they understand that to do that, theyll need to keep their abilities under control and well-hidden."
+
+"Theyre good kids," Broadway said.
+
+Elektra looked appealingly at Xanatos. "Cannot some way be found to reunite those who were taken from their parents?"
+
+"The Institute will be watching, gentle sister," Gabriel said. "The moment we tried, theyd just be stolen away again."
+
+"The only way to do it would be to convince the entire family to relocate and take on new identities," Xanatos said. "Theyd have to give up all contact with their friends and other relatives, change their jobs."
+
+"Who *wouldnt* be willing to do all that you said?" Angelas fingers entwined with Brooklyns. "My God, they must have been frantic, they must have given up hope ... then to find out their children are alive and well ..."
+
+Amber toddled over and tugged on the leg of Elisas jeans. She lifted the little girl into her lap. "I hate to say it, Angela, but the world can be ugly. Kids are beaten, abandoned, ignored ... they run away from home, they get hooked on drugs, they turn to crime, or kill themselves ... and sometimes the parents just dont care. Some arent willing to change their ways for the sake of the kids they *have*."
+
+Angela exhaled slowly. "I guess I know from personal experience how true that is."
+
+The specter of Demona seemed to float above them, until Ebon spoke and broke the spell. "Above all, I want whats best for the children. I want them safe and happy, and never to be in a situation where they think they were better off before we found them."
+
+"I think were all agreed on that," Xanatos said. "I can help you, if youll let me."
+
+"Well consider it," Ebon said after exchanging a look with Gabriel.
+
+Julian, carefully holding a framed photo, approached Fox and offered it to her. She absently scooped him up, tilting her flame-colored head against his dark one. "Thats me, yes, and my father, and Alex."
+
+The boy touched the image of Renard in his wheelchair. "Hurts."
+
+"Yes, honey ... he cant walk."
+
+The boys lower lip pooched out and tears glimmered in his light blue eyes.
+
+"Actually, I have an idea," Elisa said. "Ever since Mom and Dad moved out of their apartment --"
+
+Here Goliath glowered, and they all recalled the business a couple of years back when Demona abducted the senior Mazas to arrange a hostage swap in exchange for Jericho.
+
+Elisa went on. "Theyve been having trouble finding a place they like. But just last month, they lucked into a big brownstone practically on top of the Labyrinth. Got the whole building for a song. The previous owners had to sell because they just couldnt keep tenants. Too many complaints of winged monsters."
+
+Brooklyn grinned. "Gee, I wonder why."
+
+"So Moms been talking about starting a little home-schooling enterprise. She was going to start with Dee and Tom and some of the other kids from the Labyrinth." She ruffled Ambers hair. "Maybe this one, too, huh, Amber? Going to go play with Grandma?"
+
+Amber babbled delightedly.
+
+"I bet shed be willing to take on a few more," Elisa finished. "Its not like your bunch would freak out over the twins."
+
+"Thats a wonderful idea," Fox said. She glanced pointedly at her husband. "Dont you agree, David?"
+
+"A wise husband always agrees with his wife," he said.
+
+A rousing victorious whoop rose from elsewhere in the castle, and moments later Alexander and the rest of the kids thundered back in, with Bronx still at their heels.
+
+"We found it!" Alex cried triumphantly.
+
+Brittany, at eleven the oldest of them, was carrying a small piata in the shape of a treasure chest, twisting and turning to keep it out of the reach of eager grasping little hands. Skinny as a rail, with hair straight out of Anne of Green Gables, she nonetheless had a forceful presence of personality that belied her scant size.
+
+"Settle down!" she ordered. "We have to get a stick or something!"
+
+"No we dont!" Gilberto protested, tossing too-long black hair out of his deep brown eyes. "Let me at it, I can crack it open just by looking at it!"
+
+"Thatth no fun!" Neesha said, lisping between the two front teeth that hadnt finished growing in yet. "We thould all get turnth!"
+
+"Okay, okay," the laughing Brooklyn said, taking the piata from Brittany. "Let me hang it up, and then you can all have a whack at it, what do you say?"
+
+Bronx couldnt wait. He jumped up on Brooklyn from behind, bowling him over. The piata sailed through the air, making half the adults duck to avoid a faceful of crinkled tissue and solid papier-mch. Brooklyn crashed to the carpet and Bronx charged right over him, intent on the piata.
+
+"Bronx! Down, lad!" Hudson bellowed.
+
+Amber chose that moment to loose one of her ear-splitting shrieks.
+
+The piata bounced on the carpet and one corner crunched in, spilling out three or four Hersheys Kisses. At the sight of the candy, the kids all squealed and jostled each other as they ran for the loot. Bronx got there first, hoovered up the candy foil and all, and opened his jaws wide over the papier-mch shell keeping him from the rest.
+
+"Manners," Owen said, scooping up the piata and swatting Bronx on the nose with a rolled-up copy of V.I.P. Magazine.
+
+Bronx yipped abashedly and slunk over to his spot beside Hudsons chair.
+
+"Maybe this *wasnt* such a good idea," Xanatos said with a sidelong glance at Brooklyn.
+
+"Oof," Brooklyn replied.
+
+"Its late," Angela said. "Theyre all overexcited."
+
+"So lets give them more sugar?" Elisa said, trying to contain the rambunctious Amber who wanted to go join the big kids as they pranced around Owen. "Great plan."
+
+"Im first!" Alexander jumped up and down. "Im first! Me! Me!"
+
+"Your son, all right," Goliath remarked to Xanatos.
+
+Amber threw off Elisas hands with an outflung burst of her wings and roared petitely, eyes blazing.
+
+"Your daughter," Xanatos shot back.
+
+"The guests should go first, Alexander," Owen gently reminded. He hooked the wire loop sticking out of the top of the piata on a nail leftover from a Christmas wreath.
+
+"I cant reach!" Neesha complained. The other kids clamored for their turn, while Alex grudgingly conceded Owens point.
+
+Brooklyn laboriously rose from the floor. "Ive got a stick and a blindfold."
+
+While an attempt was made to bring organization to the piata-bashing festivities, Ebon turned to Xanatos. "If Mrs. Maza is agreeable, the children will still need documented identities."
+
+"Ill start looking into it right away. It wont be cheap --"
+
+"Thats fine; I was able to retrieve much of my ... investment capital ... when Nightstones computers crashed. And there are still royalty checks from the Scarlet Angel albums."
+
+"How? Arent you legally dead, or at least missing?"
+
+"I created a dummy trust fund." He sighed. "Some day, I should like to set that matter straight. At the very least, Juliannas parents deserve to know. Once the childrens future is settled and secure, I intend to devote more thought to it."
+
+"Having a gargoyle rock star -- God, that sounds bad," Elisa winced, " -- really did help bring you guys into a positive public light. Have you considered, oh, I dont know ..."
+
+"A comeback tour?" Fox suggested.
+
+"It would not be the same."
+
+"A solo album, then?"
+
+"When I *do* announce myself to the world," Ebon said, "Ill have to face some very serious questions about what happened to the rest of Scarlet Angel. The fact that they were killed by gargoyles wont do much to help our image. And my suspicious absence, my long silence, wont look very good either."
+
+"Wouldnt it be wonderful if you could resume your career?" Angela said. "Your music was so beautiful! Anything that can touch the souls of both humans and gargoyles can only do good. Itd be so nice to have more people admire us for a change, instead of fear us."
+
+Ebon shook his head. "I have written some songs ... but without a partner to sing them with, its an empty effort."
+
+"How about Nikki Taylor?" Xanatos suggested with a wink.
+
+Fox rolled her eyes at the mention of Elisas sexy, fast-rising movie star cousin. "Youre a dog, David darling, do you know that?"
+
+With, or rather *despite* the help of Lex and the kids, Brooklyn and Owen had managed to get the piata suspended from a rope. They had the children draw lots to see who would go first, and that honor went to Blaze, a freckled tow-headed eight-year-old.
+
+He was so excited that he accidentally scorched the blindfold as Brooklyn tried to wrap it over his eyes, then apologized and got his ability under control as Elektra deftly twirled him in place.
+
+"If only Deborah were here," Gabriel said, smiling at Angela. "She has the most beautiful voice Ive ever heard."
+
+"And Laertes is a great musician, too," Angela said. "Could you imagine? An all-gargoyle band?"
+
+"I play the synthesizer," Lex piped up, grinning.
+
+"All right!" Brooklyn clapped sharply. "Were ready to go. Blaze, give it a whack!"
+
+"But dont melt the chocolate!" Brittany added.
+
+The boy put his back into it. The stick, part of a broomhandle, whipped through the air, missed the piata by half a foot, and hit Owen square in the mouth.
+
+Alex and Neesha screamed. Owen stumbled back, blood running through his fingers, and said something unintelligible but probably blasphemous or obscene.
+
+Blaze yanked off the blindfold and his whole face became a gape of horror when he saw what hed done. He swiftly tried to hide the stick behind his back.
+
+"Owie," Amber said clearly.
+
+Fox sprang from her seat. "Ill get the first aid kit."
+
+Little Julian, whod been dozing in her arms, began to cry in confusion as she set him down in the vacated chair.
+
+Owen took his hand away from his mouth, looked amazed at the blood on it. Blaze dropped the stick and backed up as if getting ready to run for it.
+
+"Hurts," Julian said.
+
+"Owie," Amber repeated, agreeing.
+
+"I hep." He slid off the chair and toddled over to Owen, raising his arms. "Up. I hep."
+
+"Let him," Gabriel said.
+
+With a very sour expression, Owen lifted the boy. Julian peered at him closely, not seeming upset at all by the sight of the blood. He put his small chubby hands on Owens cheeks. "All gone, bye-bye."
+
+Owens eyes widened. He took a handkerchief from his pocket and wiped his face. The split in his lip was gone.
+
+Fox, rushing back in with the first-aid kit, stopped short.
+
+"Theres no need for that, Mrs. Xanatos," Owen said.
+
+"What was it like?" Xanatos asked.
+
+"Like a light in my head, sir." Owen thoughtfully pressed the tip of his tongue against his teeth. "One of my teeth had been loosened ... now it is firmly in place."
+
+"Fascinating! Gabriel, you told us of his power, but to see it in action --"
+
+"Or feel it," Owen added.
+
+"Fascinating!" Xanatos said again, softly.
+
+"I didnt mean to!" Blaze cried.
+
+"Better?" Julian inquired.
+
+"All better." Owen handed him to Gabriel. "He should wash up; there is a bathroom just down the hall. Its all right, son, no harm done."
+
+With the crisis apparently taken care of, Mulan began insisting it was her turn to try. Brooklyn gave her the stick and this time everyone stood well out of any possible swing radius.
+
+It connected glancingly. The piata jerked and spun crazily at the end of the rope, spraying candy from a small rent in the side.
+
+Then Gilberto lost his patience and shoved his hands at the piata. It split in two, dumping a shower of silver and gold Kisses mixed with the gaudy sugar-jewels of Ring Pops, foil-wrapped coins, and other goodies.
+
+The rest of the kids swarmed over the bounty. As Bronx made ready to plow into the fray, Brittany paused with her hands overflowing and stared at him. At once, Bronx whuffed as if struck in the gut, then stalked stiff-legged to a far corner. When he got there, he blinked and flapped his ears, making a confused noise.
+
+Goliath observed these demonstrations and turned to Elisa. "Perhaps you should allow your mother to *meet* the children before any absolute decisions are reached."
+
+"Yeah," she said slowly. "Yeah, good idea."
+
+ 
+
+\* \*
+
+ 
+
+The castle was quiet again.
+
+Alexanders spacious bedroom was littered with children, sleeping on mats and covered with blankets that were drawn right up to their chocolate-smeared chins. When theyd crashed, theyd crashed hard, and none of them had so much as stirred when the adults carried them to their makeshift beds.
+
+Fox smiled. It was nice that Alex got a chance to play with other kids every now and then. She worried sometimes that he was being pressured to grow up too fast. His waking hours were heavily scheduled, preschool and French lessons and karate lessons and swimming lessons ... and of course magic lessons. He didnt have very many chances to just be a regular kid.
+
+Not that the heir to two of the worlds largest fortunes would ever have much hope of being a regular kid anyway.
+
+She tucked his arm back into bed and kissed him on the forehead.
+
+Theyd never gotten around to taking the old toddler bed out of his room after hed graduated to his deluxe racecar model. It fit Julian perfectly. She looked down at him, shaking her head slightly in remembered awe.
+
+Elsewhere in the castle, she knew, her dear David was hard at work compiling new false identities for the children. Ebon was with him, and Elisa (presumably to keep a wary eye on him; some things never changed), and of course Goliath would be hovering nearby as well.
+
+It took their minds off of the Ventura problem, which was the real reason for this weekend visit. In the months since shed been freed from the Institute and attacked the castle (damages finally paid up, and the city was breathing down Davids neck about the number of times chunks of masonry had plummeted to the street since 1994), there had been no sign of the ruby-eyed clone. Angela insisted she felt nothing, sensed nothing. That as far as she could tell, Ventura was most likely dead.
+
+Fox privately thought Angela might be lying her sweet tail off ... though she acted like everything was fine now, she was still in a colossal snit about the whole episode.
+
+Oh, yes, Ventura was out there somewhere. And Fox would have bet any amount of money that she certainly hadnt forgotten about what she felt was her *real* life, stolen and usurped.
+
+But it was beginning to look like they wouldnt be able to track her down. Not until she came back for a rematch. That, combined with the fact that they *also* hadnt located the Godiva robot, had left David in a grouchy mood for weeks.
+
+So it was good that he had a new project to take his mind off of it. Though Fox suspected that in the long run, it wouldnt do any good. Even with names, Social Security numbers, birth certificates ... not one of these children would ever truly be a regular kid.
+
+How could they be? They were different, and they knew it. She herself had lived a fairly normal childhood, never aware that shed inherited something from her mother besides the color of her eyes and the tilt of her nose. These kids would never have even that illusion of normality.
+
+Thinking of it made her think of her older son, T.J., who *strived* for the normality that would always be beyond his grasp. Shed finally told all to her father, and as shed both feared and expected, it had dredged up all the old issues.
+
+At least he wasnt taking it out on T.J. Quite the contrary. Quite the honestly-a-bit-worrying contrary ... Halcyon Renards devotion to Alexander was utter, but always tinged with the bitterness that his grandson was a Xanatos. But T.J. was no Xanatos. Not the son of Renards longtime rival and occasional enemy.
+
+Fox grimaced uncomfortably, recalling Renards perfectly reasonable question: Whos his father? and her truthful but shameful response: I dont know.
+
+Thank God T.J. himself took that part in stride! Hed never made a big stink about her past, the circumstances of his conception. He still didnt fully trust her; she could see that in his eyes. *You abandoned me once,* those eyes said,
+
+so how do I know you wont do it again?
+
+But he and Renard, once introduced, had taken to each other like long-lost friends. It was getting so that David was starting to be concerned that T.J. would accept a job at Cyberbiotics, put his unusual gift to work for his grandfathers company.
+
+Fox herself wondered if it would go even further. As it stood right now, her fathers will passed over her and left the bulk of his estate to Alexander, except for various bequests. But suppose Renard decided to make T.J. his heir? What then?
+
+And why did that prospect make her feel so cheated and guilty? Shouldnt she be *glad* for T.J. if that was the case? Proud of him? It certainly wasnt as if Alexander would need the money!
+
+She could almost hear her fathers voice, and it was saying practically the same things she imagined she saw in T.J.s eyes.
+
+You abandoned me once ... you defied me, tried to steal from me ... how do I know you wont do it again? How can I trust you? Even when you gave me a grandson, you did it with the help of a man I despise.
+
+"Oh, Dad ..." she sighed, picking up the picture that Julian had insisted on carrying to bed with him. "I never did anything just for you, did I? But it goes both ways; we never did anything just for each other. You always wanted to control my life, said it was for my own good. I resented that. I still do. But I wish ... just once, itd be nice if I could do something for you that really had *meaning*."
+
+\* \*
+
+ 
+
+Aiden clumped down the stairs, threw her tote bag on the table, threw herself on the couch, and announced, "I never want to see another naked male as long as I live!"
+
+"Bad news, bro," Brooklyn said commiseratingly, punching Lex in the arm.
+
+"Why?" Angela asked. "Where have you been?"
+
+"First the clones and Godiva, now this." Aiden slouched down and put her hand over her eyes. Then she remembered something, and lowered it long enough to glare at Brooklyn. "And *you*, lets not forget *that*!"
+
+"What happened?" Lex demanded. "Whod you see naked now, and should I be jealous?"
+
+"Its a long, long story," Aiden said, a dark blush creeping to cover her face. "MacBeth *and* Jericho."
+
+Angela gasped. "No! You mean ... *together*?"
+
+Aiden shot off the couch as if a spring had erupted beneath her. "Gross! Angela! No! Eew! Not like *that*!"
+
+Lex frowned. "Maybe you better tell us."
+
+"I dont want to. I just want to forget about it. Whyd I get involved? That was stupid, *stupid*! So Jericho got captured, its none of our business!"
+
+"Captured?" Brooklyn perked up. "Good riddance ... was it Quarrymen?"
+
+"Hey, wait a minute," Lex said. "You left saying you were going to Birdies ... is *that* where you saw MacBeth? You mean she was telling the truth?"
+
+"I thought she was pulling my leg!" Aiden wailed. "You know, one part pure lie and two parts wishful thinking! But then I get there, all I wanted was to pick up those videos I loaned her, and ... and ..."
+
+"You walked in on them?" Angela asked.
+
+"Not really ... he was in the shower ... hot fudge is sticky ... came out in a robe ... it fell open when he was fighting with Jericho."
+
+"Go back to the Jericho bit," Brooklyn urged. "Captured?"
+
+"Birdie squirted him in the face with whipped cream, and MacBeth kicked him out the window. Then there was this hovercraft, right out of nowhere, snared him in a net and carried him away."
+
+"Why were they fighting naked?"
+
+"Angela! They *werent*! Only MacBeth! Jericho was later!"
+
+"Whose hovercraft?" Brooklyn said. "Quarrymen, am I right?"
+
+"No ... it belonged to a woman, this horrible, *horrible* woman! She ... uh ... had the hots for Jericho, I guess. By the time we got there, she was going to ... or maybe she already did ... I dont know, I dont want to think about it."
+
+"Back up a second." Brooklyn made a T for time-out. "You and MacBeth went after them? Why? Like to rescue him?"
+
+"Um ... well ... it wasnt me and MacBeth ... it was me and Demona ..."
+
+She braced herself for uproar and wasnt disappointed. Over the din of the three of them exclaiming at once, she tried to explain. "I know, I know, hes a skunk, hes a bad guy, hes the enemy ... but hes still a gargoyle and we kind of have to stick together, right? I didnt know who those people were in the hovercraft, whether they were the greater or lesser of two evils, so I went to the Nightstone Building and told Demona what I saw."
+
+"Why didnt you come get us?" Lex demanded.
+
+"There wasnt time, there really wasnt ... and I didnt think anyone would help me, and Goliath would tell me to let Demona fend for herself --"
+
+"Yeah, and he wouldve been right!" Brooklyn said.
+
+"-- and she wasnt all that mean to me personally, even after I wrecked her plans by not being a ... um, you know ... that time with the unicorns. So I had to help her."
+
+Angela groaned. "Aiden, I thought *I* was too nice!"
+
+"And by the time we got there, that horrible woman had Jericho undressed," Aiden said, now maroon from the base of her neck to the tip of her crest. "He was all drugged ... messed up ... I really felt sorry for him. Demona and that woman had a huge fight and in the middle of it I got him out of there. Then the hovercraft went into the ocean, and Jericho went back and saved Demona, and its been a really long night and I want a shower and I am going to scrub myself *raw* with a loofah because I just feel *filthy*!"
+
+She left the three of them dumbfounded, mouths hanging open. As she went into the bathroom, she heard Brooklyn finally say something in a really tentative voice.
+
+"Are we going to tell Goliath about this?"
+
+"No *way*!" came Lexs emphatic reply.
+
+\* \*
+
+ 
+
+"You dont have to do this," Elisa said.
+
+"I *want* to do this," Fox replied.
+
+"We were just going to drop by the Labyrinth for lunch, introduce the kids Mom and my brothers family. I can handle it."
+
+"Really, Elisa, I want to come along. So does Alex."
+
+"Yeah!" Alex chimed in. "See Tom and Dee!"
+
+Elisa ran her hand through her hair. "Well, okay. I was planning on piling them all into Brooklyns van; is that jake with you or do we need to round up one of the chauffeurs?"
+
+"I didnt always ride in limos," Fox said, grinning. "You should have seen the junker I had when I lived in L.A. the first few years. Made Birdies car look like a showpiece."
+
+The rest of the children came down the stairs, Brittany carrying Julian, Neesha and Mulan holding hands, Blaze and Gilberto arguing about video games. Amber had protested, said she wanted to go too, but shed had far too tiring a night and when the dawn came, she corked off into stone slumber with nary a peep.
+
+"All right!" Elisa clapped briskly. "Got your coats? Hats? Gloves?"
+
+"I lost my gloves," Blaze said. "But thats okay ... I can keep warm."
+
+She eyed him with faint unease. "Uh-huh ... oh, Fox and Alex are going to tag along."
+
+"Yes, we are." Fox beamed at them. "And on the way back, whos up for a stop at FAO Schwartz?"
+
+"The toy thtore?" Neesha squealed. "Really?"
+
+"Fox --"
+
+"The biggest, best toy store in the whole world!" Fox affirmed. "Alex loves it, dont you, buddy?"
+
+He nodded vigorously. "You should see the Legos!"
+
+"Fox!" Elisa elbowed her. "What are you doing?"
+
+"Running up Davids charge cards a little more."
+
+"I got ten bucks," Gilberto said.
+
+"I have a quarter," Mulan said shyly, then tucked her thumb in her mouth.
+
+"No, no, no!" Fox took Julian from Brittany and balanced him on her hip in practiced mommy-fashion. "My treat, up to a hundred dollars each."
+
+"Fox!" she said over the instant uproar.
+
+"Live a little, Elisa!"
+
+"A hundred *dollars*?" Brittany gasped. "For anything we want?"
+
+"You bet. See, Elisa, Ebon and Gabriel take wonderful care of them, feed them, clothe them ... but they dont know the first thing about *spoiling* them."
+
+"Which is exactly what youre going to do."
+
+"Dont you think they deserve it?" Fox asked.
+
+Elisa flung her hands in the air. "I give up. Fine. Labyrinth, then toy store."
+
+"Yay!" they all shouted.
+
+Several minutes and a long ear-popping elevator ride later, they were piling into the black van with tinted windows. Elisa hauled the specially-designed seat forward and used her toe to flip up the modified bars that rested across the pedals -- easier for curved gargoyle-feet to use. When all of her passengers were securely strapped in, she drove out of the underground parking garage.
+
+In the rear of the van, the main topic of conversation was what each of the kids planned to buy with their unexpected largess, while Alexander regaled them with descriptions of what theyd have to choose from. To listen to him, FAO Schwartz was even more amazing than the cave in which Ali-Baba had found the treasure of the Forty Thieves.
+
+The service tunnel to the Labyrinth had once been used for delivery of kitchen and bath appliances. It was dingy, low, and dark. The kids quieted as they drove into it, except for startled exclamations when rats appeared briefly in the headlights.
+
+"Cool!" Blaze opined.
+
+"Disgusting," Brittany said.
+
+"Do people *live* down here?" Neesha asked.
+
+"Bums," Gilberto said. "Winos. Junkies."
+
+"There are other people down here too," Elisa said. "Good, decent people down on their luck. Its a hard city. Eats them up and spits them out."
+
+"But most of them are scumbuckets," Gilberto insisted. "I *know*."
+
+"Oh, how do *you* know?" Brittany asked archly.
+
+"Because my folks are. Scumbuckets. Druggies."
+
+"Ebon told us you wanted to go back to your family," Fox said.
+
+"Yeah," he snarled, "so I can bust them up for selling me!"
+
+"They *thold* you?" Neesha looked ready to burst into tears.
+
+"For drug money. Sold me to the doctors, told me it was so Id have a place to live and plenty of food. They didnt say nothing about the needles!"
+
+"Jeez," Brittany breathed.
+
+"At least you *had* a family," Blaze said.
+
+"Fu --" Gilberto caught himself and Elisa saw him flush guiltily in the mirror. "Phooey on them, I wouldve been better off an orphan! But sure, I wanna see them again. I wanna go right up to them and tell them what I think, and then crack their heads open."
+
+Neesha began to cry. Fox unhooked her seat belt and squeezed into the back of the van to comfort her.
+
+"Theyre not worth it," Elisa said firmly. "They did a horrible, rotten thing, but you know what the best way to get back at them would be?"
+
+"What?" His dark eyes narrowed.
+
+"Make yourself a ten-times better person than they could ever be."
+
+He mulled that one over. "Id rather crack their heads open."
+
+They had arrived, no more time to debate. Elisa parked the van alongside the worlds oldest camper-cap pickup trucks, and got out as some of Talons volunteer sentries approached.
+
+She sincerely hoped these guys would never be called upon to deal with a serious threat. LeRoy was somewhere between seventy and ninety, a tall scarecrow of a black man with a face lined like a dry riverbed and a puffy fringe of white hair. He grinned at her with teeth too perfect to be anything but false.
+
+"Miss Elisa!" he called jovially. "Weckome back!"
+
+"Hey, LeRoy, hi there, Gus."
+
+Gus was almost exactly the physical opposite of his partner on the watch. Five foot two and pushing 400 pounds, pasty-fair skin ... he was often called Doughboy, and while Elisa never used the nickname, she inwardly had to admit that it fit.
+
+He raised a hand that looked like a latex glove stuffed with cottage cheese, then turned and began his slow course back to the table. Watching him move was like watching an amoeba work its way across a microscope slide. He didnt walk, he didnt jiggle, he just sort of *flowed*.
+
+Their guard post was a card table and a couple of chairs (Gus was a massive easy chair with reinforced frame and a sheet of 3/4" steel under the cushion to prevent sagging), with a space heater, a portable TV, a mini-fridge, and a microwave.
+
+"Whos all this?" LeRoy asked as the kids came pouring out of the van and looked around with varying degrees of interest and/or squeamishness.
+
+"You remember Mrs. Xanatos and her boy Alexander," Elisa said.
+
+"Why sho I do!" Flash of the teeth again.
+
+She introduced the rest, finishing with, "Theyve come down to meet Dee and Tom."
+
+He smiled down at Neesha, who returned it through drying tears. "A right pleasure to meet you!"
+
+"Whys that guy so --" Blaze began, gawking at Gus as Gus settled back into his chair.
+
+"Dont be mean," Mulan said.
+
+"Lemme just call ahead, tell your brother youre here."
+
+"Thanks, LeRoy. Everything been okay lately?"
+
+"Well, aint been easy with the cold and all," he admitted. "Had some flooding in the lower levels too with that last big storm; now theyre sayin another systems movin in. An its looking like poor ol Claw wont last much longer."
+
+"Aww, dammit," Elisa murmured.
+
+"Its got Miss Maggie pretty upset, too," he confided. "Feelin like she and Mr. Talon and the twins are all alone in the world, bein like they are. But I tell her that dont matter; she got friends and loved ones so that she never be alone."
+
+"Youve got the right attitude, LeRoy."
+
+He shuffled back to the table, picked up a phone --
+
+"Look, its got a *cord* on it, how funny!" Alex laughed.
+
+-- and set it down a few moments later. "You can go on in, Miss Elisa. They be waiting for you."
+
+She snapped him a salute and he guffawed.
+
+As they proceeded down the passageways, Elisa could still see signs of the devastation that had taken place a few years back. Half of the Labyrinth had collapsed in on itself, and a broken water main had taken care of the rest.
+
+But thanks in part to large donations from Xanatos Enterprises and the Harmond Foundation, the sinkhole and much of the damage had been repaired.
+
+Had been *better* than repaired, actually; Travis Marshalls series of human interest stories on the plight of the inhabitants of the underground community had greatly benefited the cause.
+
+Now the Labyrinth, rather than being a shanty town of tents and shacks, was on par with a decent-quality homeless shelter. They got modest funding, government commodities, and every year around the holidays a local womens group got together and provided a full turkey dinner.
+
+Best of all, from Elisas personal point of view, was that everyone involved *knew* that the Labyrinth wasnt just a *human* interest story. The *Time* cover photo of Samson and Delilah, plus follow-up articles on how humans and gargoyles living in peace, had taken a few crucial steps toward public awareness and acceptance (no one had gone into detail explaining the difference; for now it was probably okay that the world believed the mutates to be furry gargoyles instead of having to deal with the ugly truth of science run amok).
+
+And then there was former Senator William J. Harmond, whose staunch advocacy for gargoyles had begun turning some wheels in Washington. Although retired, he was still a man with a great deal of influence. When he said there would one day be an amendment granting citizenship rights to gargoyles, Elisa believed him. She just hoped shed still be around to see it happen.
+
+It was nice to walk through the Labyrinth and see some progress. The people were cleaner, better-clothed, better-fed. She saw fewer instances of gaunt faces and haunted eyes. There was no drug use down here, no hardcore boozing, no victimization or abuse; Talon saw to that.
+
+Nobody official was *quite* comfortable enough with it all yet to make him the actual director of this new shelter, and her brother never set himself up to be in charge; Talon just had an air of command about him. And his years with the police force left him with a pretty strict view on what would and wouldnt be permitted down here.
+
+As the surroundings grew more hospitable, Elisa saw the kids lose their fears of being lost in the sewers. Gilberto still had that sneer stamped on his face, but the rest looked at the Labyrinth denizens with open childlike curiosity and compassion.
+
+A large hirsute figure shambled out of a doorway, arms full of cases of canned goods. His green-gold eyes reflected shine back at them.
+
+"Whoa!" Blaze said. "Chewbacca!"
+
+"This is Samson," Elisa said, throwing him an apologetic look.
+
+He only grinned, having been called worse.
+
+"Hes not scary," Mulan said surely. "Hes nice."
+
+"Yes, he is." Elisa offered to take a case, but Samson declined, shaking his large shaggy head.
+
+"I got it," he said, his voice a low and pleasing rumble with an undercurrent of eerie woodland howl. "Your moms here."
+
+"Great, thanks!" She clapped him on the shoulder -- reaching *way* up -- and he passed through the crowd of children, meeting their stares with a gentle smile.
+
+Talon, Maggie, and the twins lived in a seven-room dwelling that went to great lengths to seem as if it wasnt underground. Fake windows, complete with drapes, framed photos of landscapes in the convincing illusion that gardens and beaches really were on the other side of the walls. The furnishings were homey, if somewhat tattered by claw marks left by two rambunctious youngsters.
+
+Diane Maza, quite a bit more grey now than shed been back before she found out that her son had been turned into a bat-winged panther-man and her daughter was in love with a gargoyle, was in the front room trying to coax her grandson down from the top of a high bookcase.
+
+"Thomas Reed Maza, you come down here right this instant and wash up for -- oh, Elisa!"
+
+"Hi, Mom."
+
+"Elisas here already?" Maggie rushed out from the kitchen, drying her hands on a dishtowel. They hugged like sisters; in the absolute dearth of tolerance from her own relatives, Maggie had become more and more dependent on her in-laws for familial affection.
+
+Talon came in from the bedroom, holding Dee upside-down and tickling her. "Hey, Elisa!"
+
+They all crowded around one another, embracing and talking at once. Finally, Elisa pulled back, presented the kids.
+
+They had been staring in fascination at the twins; thus far, Amber was the only physically unusual child theyd seen, and she was mostly human-looking. But Tom, with a pelt only a shade or two lighter than his fathers, and Dee with her rosette-spotted tawny fur, were strikingly different.
+
+But kids were kids, and five minutes later they were all dashing down the hall to see the jungle gym that Talon built.
+
+"Wash up before you come back!" Diane Maza called after them. "*All* of you!"
+
+In the comparative quiet, Elisa and Fox unfolded the whole story. Maggie in particular was horrified at the idea of children being used for experimentation. It had happened to her, but shed been in her twenties; it had happened to Samson when he was only seventeen ... but this was even worse.
+
+"So, Mom, what do you think?" Elisa said.
+
+"I dont know, honey ... with these powers of theirs ... can they control them?"
+
+Talon chuckled. "No worse than our two with their electric blasts."
+
+"Only two of them really have ..." She floundered, looking for the right word.
+
+"Property-damage capabilities?" Fox suggested.
+
+"Yeah ... but they dont break more than any other kid. Remember Grandmas crystal bowl? Or the time Beth set the drapes on fire?" Elisa reminded her mother.
+
+A timer went off in the kitchen. Maggie cupped her hands around her mouth. "Lunch!"
+
+"Hope fish sticks and animal crackers are all right," Talon said. "Thats all theyll eat."
+
+"But you *cook* the fish sticks," Fox said. "Im still not over Aiden crunching them frozen back during the breeding season."
+
+"I hope we have enough," Maggie looked worried. "If Id known everyone was coming over today, I would have done something fancier."
+
+"Well survive, honest," Elisa said. "You dont have to trot out the fancy china for us."
+
+It took fifteen minutes and the combined efforts of Diane, Elisa, and Fox, but they got all the kids at the table, *and* with clean hands and faces. Brittany helped out by pouring a round of milk for all, while Maggie dished out the meal.
+
+While they ate, Elisa watched her mother closely while trying not to seem as if she were watching at all. She couldnt fool Diane, had rarely been able to. But it didnt matter; before they got to the animal crackers, she was charmed.
+
+By Neesha in particular; Elisa and Talon shared a vaguely rueful glance because had things gone differently in their respective love lives, Neesha could have been the grandchild Diane had always wanted.
+
+Maggies worries proved needless; there was more than enough for everyone. Several times, Elisa noticed her sister-in-law wearing a perplexed frown as she went to and from the kitchen, and resolved to ask her about it later.
+
+The news that their next stop was the toy store almost prompted a mutiny from the twins, so Elisa had to promise to bring them each a surprise. Not to the tune of a hundred bucks, though, that was for sure.
+
+When lunch was done, the younger kids went back to the jungle gym. Samson knocked and asked if the others wanted to see his model railroad. Talon was called away to deal with a transient who was threatening to clobber someone with a length of pipe.
+
+"How traditional," Fox said as she helped clear the table. "Womens work."
+
+"They are lovely children, Elisa," Diane said. "Id be happy to have them. Im sure your father will feel the same way."
+
+"Mom, Im so glad! These kids really need a place. Ebon and Gabriel mean well, they really do, but thats a hard life out there on the Point. I know you and Dad will do a great job with them ... your own kids turned out mostly okay! ... and youll have all the help you need. I swear."
+
+"They dont seem strange at all," Maggie said.
+
+"Was everything okay out there?" Elisa asked. "I noticed you looked a little ... off, somehow."
+
+Maggie laughed, sounding embarrassed. "Youll think Im nuts."
+
+"Hey, you married my *brother*!" Elisa teased. "Like I dont already!"
+
+"Well ... look at this package." She held up a red box with a colorful pattern of clowns and balloons on it. Circus Fun Cookies, it read in blindingly yellow lettering. "It was half, maybe two-thirds full."
+
+"Now its empty." Elisa shrugged.
+
+"But there shouldnt have been more than four or five cookies apiece," Maggie said in the voice of one who knew she was inviting ridicule. "And the fish sticks ... how many did you have?"
+
+"Uh ... seven, eight. I didnt know I was supposed to count."
+
+"I had six. Talon had ten at least. Mama Di? Fox?"
+
+"Four," Fox said, patting her waist. "I had a big breakfast."
+
+"Five or six," Diane said.
+
+"Maggie, what are you getting at?" Elisa said.
+
+"I cooked a whole box ... a box of forty. And no way all the kids only ate one each."
+
+They all looked at her like she was losing it. She couldnt visibly blush, not beneath her savannah-gold pelt, but her fur bristled abashedly.
+
+Before any of them could come up with something to say, Alexander appeared in the doorway. "I told him not to," he announced self-importantly. "But he didnt listen."
+
+"Who, Alex?" Fox asked.
+
+"Julian. I said you cant go in there, but he did anyway." He bobbed his head wisely.
+
+"Where?"
+
+"The bedroom where the tiger-man is sleeping."
+
+"Claws room, oh, Ill go get him," Maggie said. "Its okay, theres nothing in there that can hurt him. Whole place is childproofed. With my two, it has to be!"
+
+"I thought you were playing on the jungle gym," Fox said, picking up her son.
+
+"We were. Neeshas a good climber but not as good as Tom. Can I have more chocolate milk?"
+
+"Weve just got plain milk, sweetie; let me get you a clean cup," Diane said, going to the cabinet.
+
+"I want chocolate," Alex said.
+
+"Alex." Foxs tone was warning. "Dont --"
+
+"But we *had* chocolate before!" he insisted, jutting his chin stubbornly.
+
+"Look," Elisa said, picking up one of the plastic cups that had been stacked on the counter awaiting their turn in the sink. "Theres still some milk in this one, and hes right ... its chocolate!"
+
+Maggies scream took them all straight back to the night of her baby shower. Elisa dropped the cup, spraying the contents on her jeans, and ran.
+
+The door to Claws room was standing open, the darkness beyond lit only by a single reading lamp and the glow from the machines that monitored his condition. But now those machines were going crazy, green blips spiking across the screens.
+
+At the bedside, Maggie was holding the struggling Julian.
+
+"Down!" he demanded. "I hep!"
+
+"Let him go," Elisa said through lips that felt suddenly numb.
+
+"But he --"
+
+"Maggie, its okay, let him go."
+
+She did so with extreme reluctance. The moment his feet hit the floor, Julian trotted over to the bed, climbed up, and reached for Claws head.
+
+"Whats he doing?" Maggie whispered. "I found him like that, on the bed, whats he doing?"
+
+The rest of the kids were all squashing into the doorway, while behind them Fox and Diane looked on in amazement. Elisa waved an apology and eased the door shut with her foot, then turned her attention back to the boy.
+
+His eyes were closed, his face not tight in concentration but as relaxed as if he were on the verge of a dream. His little fingers combed through the cream-colored ruff around Claws face, stroked the orange and black stripes.
+
+Claw opened his eyes.
+
+Maggie fainted dead away.
+
+ 
+
+\* \*
+
+ 
+
+No one talked about it. That was the strangest thing.
+
+All the way to FAO Schwartz, the kids chattered brightly in the back seat, as if nothing unusual had happened.
+
+Elisa had wanted to cancel the trip, but knew even without Fox having to tell her that there would be pint-sized hell to pay if they did.
+
+So theyd made their goodbyes, made their plans to see each other again soon, and then left the Labyrinth while the doctor who did charity work in the subterranean ward used heavy medical jargon to tell Talon and the woozily-revived Maggie that he had no clue, but was sure there had to be some reasonable explanation.
+
+She could see Julian in the rearview mirror, gazing out the window at the fluffy white flakes that had begun twirling down from the dark sky.
+
+The store employees recognized Fox the minute she rolled down the tinted window, and from that moment on it was absolute red-carpet treatment. If Fox had requested it, Elisa was sure, they would have kicked out all the other customers and let them shop in privacy.
+
+But Fox didnt request it. She rarely did. Thriving on the attention, she ushered the crown prince Alexander and his friends into kiddie paradise. Six years and a prison term after "The Pack" had gone off the air, she was still mobbed by people wanting her to sign the cardboard backing on her action figure.
+
+Elisa trailed along, trying to keep an eye on seven kids at once. She commandeered a stroller and got Julian into it without protest on his part, and as she bent down to do the straps, she studied his dark eyes as if there was an answer to be read there for the crazy questions in her mind.
+
+Neesha went straight for the dolls. Gilberto and Blaze found that even a hundred dollars wouldnt go far in the video game aisle; they maturely elected to pool their loot and buy a game system and as many cartridges as they could afford. Brittany, for all shed been conceived in a test tube and raised in a controlled environment, was the complete pre-teen crowd animal, glomming onto the trendy merchandise. Little Mulan stocked up on books and videotapes.
+
+"Looks like its up to me to help you choose," Elisa said to Julian.
+
+That turned out to be easy; as soon as she came to stuffed animals and saw his whole face light up.
+
+It took six clerks to lug all the bags down to the van. Alexander now had enough Legos to build his own life-size orbital space station, and as a last-minute choice had grabbed a boardgame, Clue.
+
+Elisa laughed at the sight of it. "Oh, did Derrek and I ever get in some fights playing that one! Junior crime-solvers."
+
+Just when she thought they were done and ready to go home, Fox threw her arms wide and asked, "Who wants ice cream?"
+
+"Its *snowing*!" Elisa pointed out, but too late; no kid in history has ever said *not me* when asked that question.
+
+Next thing she knew, she was driving through heavier flurries, not to good old 31 Flavors but to an upscale dessert shop.
+
+"Fox?" she asked as the kids squashed their noses to the glass cases trying to decide what they wanted. "What ... what do you think happened back there?"
+
+"At the toy store?" Deliberate pretense.
+
+Elisa looked at her. "Dont. You know what Im talking about."
+
+"What do I think happened? He healed Claw. Just like he healed Owen."
+
+"Owen had a split lip and a loose tooth. Claws been in a damn *coma* for two years! The best docs around swore hed never come out of it. But now hes awake. Awake and -- well, not *talking*, but ..."
+
+"Well again."
+
+"Yeah."
+
+"Gabriel told us what Julian could do. He was badly hurt. Compound fracture, wasnt it? But Julian healed it right up. Its not that much stranger than what Gilberto did to the piata last night, or Mulan knowing what someones feeling."
+
+"I guess," Elisa said. "But what about ... oh, never mind." She chose butterscotch ripple and then had to defend it from Neesha, whod made it her mission in life to sample what everyone else was having before deciding on her own.
+
+ 
+
+\* \*
+
+ 
+
+The name on the laminated XE identification badge read Sabra Indrani.
+
+Anton Sevarius pinned it to her lab coat, muttering blackly to himself as he fumbled to make her one good hand maneuver the pin through the fabric. "It took you long enough."
+
+"I had to revise your entire personnel file," David Xanatos said with a mild shrug. "It wasnt easy explaining a transfer from our Investigative Planning Department to the science team."
+
+"So good of you to give me back my job," Sevarius said sourly. "Now that Im once more a valued employee, I trust I will be permitted certain freedoms?"
+
+"Which freedoms?"
+
+"*Any* freedoms!" She swept her good arm to include the suite ... bedroom, kitchenette, office, small lab. "My own off-site apartment?"
+
+"Anton, Anton ... Im letting you go back to work, thats a start, but Im still a long way from trusting you. Once bitten and all that. More than once, in your case."
+
+"Im a changed man."
+
+"Obviously."
+
+"Aside from that. What youre doing is illegal, unethical, and immoral."
+
+"Coming from you, thats almost a compliment."
+
+"Youre holding me prisoner here, forcing me to work. Im as much a slave now as I was when I was trapped in your computer."
+
+"No, this time youre on the payroll."
+
+"But still a prisoner. Denied my rights. As far as the rest of the world knows, Im not mastermind geneticist Anton Sevarius, wanted for questioning in a variety of touchy matters."
+
+"Im afraid you dont understand my position here, Anton. We are in the same boat. Either of us has enough sensitive information to blow the other out of the water."
+
+"Sabra Indrani is an innocent woman ... an innocent *disabled* *minority* woman, no less. Youd have so many civil rights groups on your neck that youd need a cervical collar."
+
+"A move that would put you instantly in the public spotlight. You might be able to keep up the ruse, despite your tendency to overact, Ill give you that. Sabra Indrani has no family, no close friends. No one to wonder at a change in personality. But youd still be trapped. Youve expressed interest in gaining access to the medical technology to repair or remake your body. Take me to court, and ..." He hooked his thumbs together and flapped his hands, miming a birdie just flying away. "But be patient, do as youre told, and we can come to an agreement."
+
+"Maybe itd be worth it to bring you down." Her grin widened ghoulishly. "Or maybe we could keep this all internal, strictly internal."
+
+Xanatos frowned suspiciously. "By which you mean ...?"
+
+"The gargoyles. Detective Maza. The mutates. The trust they have in you is not built on firm foundations. If they found out you were harboring me ..."
+
+"Youre off the mark with that one. They knew about Godiva. Lexington dug into your memory to find out about Ventura. I already had that discussion with Goliath. Of course, he wasnt thrilled, but considering the reaction he might have had, it went fairly well."
+
+"That was when you all believed me confined to a computer. Have you told them about this latest development? Have you told them youre putting me back to work, letting me use my skills?"
+
+"Frankly, Anton, I didnt think it was worth the mention."
+
+"Ill take that as a no. You *know* that Goliath would be furious."
+
+"Nonsense. What was I supposed to do, kill you? Youre inhabiting someone elses body. The real Sabra may have done some questionable things, but her motivations were at least understandable. When shes found, the plan is to reverse the process --"
+
+Sevarius laughed like a yelping seal. "Shell never submit to that."
+
+"She doesnt have to agree. But she will need an intact body to come back to. Youre currently in there. To wrest you out would put a lot of strain on that body, leave it in a vegetative state. Until were ready to make the transfer, we cant risk that. So were stuck with you for the time being. None of us may *like* it, but were being realistic."
+
+"And letting me back in a lab?"
+
+"Im beginning to think youre trying to talk me out of that decision. Thats fine with me. There *are* other geneticists out there."
+
+"None of my caliber!"
+
+"And at the moment," Xanatos continued with another shrug, "none of our projects have a particularly pressing need for another one. I was doing you a favor."
+
+"You make me sick," Sevarius declared. "A favor indeed! You want to milk the fruits of my genius while you can, and then thank me by shoving me back in a computer!"
+
+"Milk the fruits of your genius?" he echoed.
+
+"You know what I meant," Sevarius sulked.
+
+"I also know you were a temperamental diva even in your *original* body and things havent improved. All this bluster and posturing is your way of trying to establish your place in the pecking order. Give it a rest. Go back to work."
+
+"Maybe I dont want to."
+
+"Thats up to you. But personally, I think youre right. Even if we do find Godiva, she wont go back willingly. We might have to destroy her. That would leave you right where you are for the rest of your life. So shouldnt you make the best of it?"
+
+Sevarius sighed and looked down at her withered legs beneath the light cotton blanket draped over her lap. "Youve made your point, Xanatos. As usual."
+
+"Good. Here are some file names and passwords that you might find helpful."
+
+"Xanatos!" rang Elisa Mazas voice from down the hall. "I need to talk to you *now*!"
+
+"Now, if youll excuse me," he added, "Detective Maza sounds upset. Id better see what she wants."
+
+He stepped into the hall and closed the door. The moment it latched behind him, Sevarius wheeled over there and tilted her head to the wood. With her good hand, she clumsily rolled the piece of paper hed given her into a tube, and placed one end of the makeshift stethoscope against the door.
+
+"Trouble, Elisa?"
+
+"You tell me ... whered she take him? Whats she up to?"
+
+"Slow down, back up --"
+
+"Dont give me that, Xanatos! Youre lucky I found you first; Ebon and Gabriel are just about climbing the walls! Is this one of your plots?"
+
+"Wait. Start at the beginning. I dont know what youre talking about."
+
+"Where did Fox take Julian?"
+
+"What?"
+
+"Fox. Your wife. Julian. The little boy. Where did she take him?"
+
+"I ... isnt she here?"
+
+A pause, in which Sevarius surmised that Detective Maza recognized the sincere confusion in Xanatos words. When she spoke again, she was calmer and less accusatory.
+
+"Fox took Julian out. Just him. None of the others. Not even Alex. After what happened today --"
+
+"Something happened?"
+
+"Julian healed Claw. Brought him out of his coma. There was some other stuff too ... no. Forget that part. But he *did* heal him. A gift like that is *so* valuable ..."
+
+"And knowing how mercenary Fox and I have always been, you suspected foul play," Xanatos said scornfully. "I suppose its all an Illuminati scheme. Oh, yes, we cant let a talent like that be wasted, hidden away! Its got to be utilized! Made the most of!" He made a disgusted noise very close to a raspberry.
+
+"Im sorry," Maza said, so low that Sevarius could barely hear. "But she didnt say a word to anyone, even Owen. Ebon is ready to tear the castle apart looking for answers."
+
+"Theres no need. I think I know where shes gone."
+
+ 
+
+\* \*
+
+ 
+
+"Hello, Daddy."
+
+"You could use the main entrance," Halcyon Renard said, glancing up at the acid-melted lock of the roof access hatch. "But I suppose this is more *fun*."
+
+"That wasnt my reason this time."
+
+He rotated his chair to face her, and his brows knit together. "Another child of yours youve neglected to mention?"
+
+The small figure in Janines arms returned Renards gaze evenly, without the fear that his age-raddled visage and shrunken body seemed to inspire in children that young. This one was bundled up in one of Alexanders old snowsuits, hardly anything visible but a pair of shy blue eyes, a button nose, and a cherubs bow of a mouth.
+
+"No," Janine said. "This is Julian. He was named after a singer."
+
+"Mm-hm," Renard said. "Whats this about? Why did you come in through the roof? Weve installed security measures, you know ... if I hadnt recognized you and deactivated them, you could have been seriously hurt."
+
+"I didnt want anyone to see me bringing Julian in here. They mightve mistook him for Alex, but even so, I wouldnt want anyone to think he was responsible for it either."
+
+She set the boy down and began unwrapping layer after layer of winter clothing.
+
+"Responsible for what?"
+
+"Daddy ... Julian can help you. Right, kiddo?"
+
+"I hep," the boy said to Renard, trying to pull off his mittens and looking comically surprised when the cord -- what Renards own mother had always called an idiot-string -- left them dangling at his wrists.
+
+"Explain yourself, Janine."
+
+She flicked the tip of her tongue nervously against her upper lip, a mannerism he hadnt seen since she was a teenager. "Hes a ... special child. A very special child."
+
+"Arent they all?" Despite himself, he smiled at the boy.
+
+"He has a gift ... its easier to show you than to explain. Please, Daddy, let him help you. He wants to. I should have realized it last night when he brought me the picture, but it didnt click until this afternoon."
+
+"Up," Julian said, raising his arms to Renard.
+
+"But it has to be a secret," Janine said. "You cant tell anyone."
+
+Renard looked at the boy, standing patiently with his little arms in the air. "What is this? Some sort of a silly prank?"
+
+Janine picked up Julian and deposited him in Renards lap. "Youll see."
+
+Julian was smaller and lighter than Alexander, whod done his share of riding around as a second passenger in the motorized chair.
+
+He slowly brought his smooth, pink hands to Renards face. Renard nearly recoiled from the touch, not accustomed to such and not wanting the boy to be repulsed by the leathery feel of his skin.
+
+"I hep," Julian whispered, closing his eyes.
+
+Over the boys shoulder, Renard saw Janine watching with frightening, hopeful intensity. Then she vanished, everything vanished, as a clean white glow suffused his vision. A clean white glow that seemed to be coming from inside of himself, blazing bright as a star, as the sun.
+
+A strange heat grew with it, a tingling heat that began in his head and spread through his frail body. Flowed through him, igniting every cell with a white fire.
+
+He felt it move down his back and into his legs. The useless twigs that had pained and hampered him for over twenty years twitched and burned.
+
+Renard gasped in a panicked breath, his lungs expanding more than they had in a decade. His heart hammered, not in the spastic rhythm that had so lately begun to worry Dr. Nguyen but in the solid beat of wellness.
+
+A blink, and the glow was gone. Everything was back to normal and nothing could ever be normal again.
+
+The palsy was gone from his fingers, the pain vanished from his knotlike arthritic knuckles. He couldnt feel the ulcer that gnawed at the tender inner wall of his stomach. Couldnt feel the dull cramp in his lower back and pelvis that came from sitting up too long.
+
+He *could* feel his legs. Inside his slippers, his toes curled at his command. With monumental effort, he straightened one slightly, as much as the confines of his bullet-front chair would allow. He felt the bump of his foot against the curved interior.
+
+With a tremulous cry of disbelief, Renard stared at the boy on his lap. Julian smiled, weary but happy, not proud of what hed done but pleased at the effects.
+
+"It worked," Janine said, very near tears. "It really worked!"
+
+"All better?" Julian asked.
+
+"My God," Renard gasped. "Im ..."
+
+"Oh, Daddy! Oh, Julian!" She embraced them both, smacked a kiss atop each of their heads, and picked up the boy for another hug. "Thank you, Julian!"
+
+"This boy healed me?"
+
+"I told you I couldnt explain. But yes, he did. He did. Youre not the first. Hes got a gift, the most precious gift in the world."
+
+Renard shifted his other leg. Already, just those few movements were leaving him shaky and weak. "It has its limits. Im still old. Disease and injury, yes, but not the ravages of time. Whats the price?"
+
+"No price," she said, startled.
+
+"The catch? What is it, Janine? A drug? How soon will it wear off? What are you going to demand of me in return?"
+
+Comprehension was followed swiftly by deep hurt. "Its not like that. All I wanted was to share this with you. Im not trying to get anything out of you."
+
+"I wish I could believe that. Tell me the truth, Janine."
+
+"I *am*. Youre well again. Youll be able to walk, once your legs have built up their strength. You just cant tell anyone how it happened. Promise me that, please."
+
+"This isnt like you."
+
+"Ive made a lot of mistakes," she said. "Ive never lived up to the kind of daughter you wanted, never took responsibility for my actions. Is that what you want to hear? Ive never cared about honor or integrity. But this time I am being honest. I saw a way to help you and I went for it. Maybe itll make up for all the other rotten things Ive done to you all my life."
+
+"Sincerity," he marveled. "For the first time, I hear sincerity from you."
+
+"*Please*, Daddy!"
+
+He flexed his fingers, smoothly and without flares of agony. "Weve *both* made our share of mistakes. But it could be that its not too late to start over."
+
+ 
+
+\* \*
+
+ 
+
+"Elisa, got a minute?"
+
+She turned as Xanatos poked his head out of his office and waved. "Something wrong?"
+
+"No ... just something I think Id better fill you in on."
+
+"Why does that make my skin crawl?" She had been on her way down to the main kitchen to rustle up a late-afternoon breakfast, since the gargoyles suite was a case of Mother Hubbards cupboards again, but diverted into the office and sat down. "Whatd you do this time?"
+
+He raised both hands innocently. "I saved someones life. But when I tell you the whole story, youre liable to object."
+
+Her eyes narrowed. "Okay ..."
+
+"Ive been thinking about it for the past couple of days, figured it was time to come clean. I wanted to explain to you first, alone, because youre slightly less likely than Goliath to put me in the hospital."
+
+"Youre making me nervous."
+
+After a deep breath and a contemplative pause, he laid it all out for her. The *real* details of the Godiva case. What had happened to her body and who was driving it. The reasons he had glossed it over from the clan.
+
+She was too incredulous to be pissed. "You brought Sevarius back. After all the stuff hes pulled. And youre putting him back to *work*? Why?"
+
+"Because up until the next time he betrays me, hell be worth millions --"
+
+"Do you *need* more millions?"
+
+"Its not only the money. Its what he might discover."
+
+"Doomsday viruses. New and improved mutagenic agents."
+
+"Hes ... *shes* ... more interested in regeneratives now. If Sevarius can come up with something that can do what Julian can do, imagine the benefits to humanity. We were up all night back-and-forthing the issue, after Fox took him to heal Renard. A valuable gift, the most valuable one in the world, you said so yourself. But as Ebon so stridently pointed out, Julian is only a child, young and very fragile."
+
+She nodded. "Talk about a dilemma. Should his power be made available? Who decides how it should be used? Is the benefit worth the risk? What if he fell into the wrong hands -- and are we even the right hands anyway? Yeah, Xanatos, we went around that block until past dawn and still didnt get anywhere."
+
+"A small taste of what its like to be Illuminati," he said dryly.
+
+"Then you and Matt can keep it. Or maybe wed all be better off without the Illuminati. What gives this secret society the right to make these kind of decisions?"
+
+"No one *gives* us that right ... the Society takes it upon itself."
+
+"Fine, whatever, were getting off the point here. So youre saying that if Sevarius can whip up some sort of genetic cure-all, it eliminates the whole Julian question. No need to put him at risk if there are other ways to get the same results."
+
+"Exactly."
+
+"Though it still puts you in the position of being able to pick and choose who gets access and who doesnt. Make it available to your allies, withhold it from your enemies, use it as a lever to make people do what you want."
+
+"Well ..."
+
+"Dont sit there and look at me like you never thought of that. Its just one more scheme to you. How can *you* come out of this on top? It was that kind of thinking that brought us the Matrix, remember? A brave new world personally designed by you and Fox, with your own best interests in mind."
+
+"Weve been over this familiar ground before. You dont think Im qualified to make decisions of that magnitude. Im aware of that."
+
+"Damn right I dont! Look at your judgment! Youre willing to take *Sevarius* back under your wing!"
+
+"Closely monitored, yes."
+
+"When you know there are no other geneticists his equal, so whos going to monitor him? Whos good enough to make sure he doesnt slip in a few optional extras? Things that might not crop up for a few years down the line? Sure, he comes up with something, you test it, it looks like it works, no side effects right away, so you start administering it where you want ... and then ten, twenty years later all of your *elite* wind up undergoing cellular meltdown. Wake *up*, Xanatos!"
+
+"I am awake, and I have considered every point youve brought up. Yes, I know its a gamble."
+
+"A gamble! He designed a virus for Demona that would have wiped out all human life! Did he ever stop to think that might include himself?"
+
+"Actually, yes ... hed introduced an undetectable component into the virus that would have interacted with his own DNA and that of his relatives, leaving them immune."
+
+Elisa briefly envisioned a world empty of all but gargoyles and Sevarius clones, and shuddered -- it was worse, somehow, than envisioning one with *all* humanity destroyed. "So you see? He double-crossed Demona. Hed do it to you."
+
+"What would you have me do, Elisa? Kill him? Werent you just saying something about how none of us should have the right to dictate life and death?"
+
+"No, you cant *kill* him! He should be brought to justice --"
+
+"As Anton himself pointed out, hes Sabra Indrani now. If we reveal the proof of how he got to be what he is, what do you think would happen? People have no idea how far cloning and braintaping science have progressed. Itd shake their trust in the whole system, just like it would if they found out the truth about extraterrestrial contact."
+
+"So you mean that hes legally a different person now, with a clean record, and the law cant touch him."
+
+"Thats precisely what I mean."
+
+She slumped back in her chair and rubbed her temples. "How do you live like this?"
+
+"How do *you*? There are some things that just *have* to be kept under wraps. If we brought everything into the open, next thing you know youd be a guest on *Elaine!* telling the studio audience about your troubles with Goliaths ex-mate."
+
+"Hell freezes over, film at eleven," she said hollowly.
+
+"So do you understand why Im doing this?"
+
+"I understand that part, but I still think trusting Sevarius and putting him back in the lab is just plain stupid."
+
+"What would you suggest as the best way to broach the subject with the gargoyles?"
+
+She sat up straight. "Unh-uh, no way, count me out, Xanatos. I am *not* getting involved in that one."
+
+"You mean you think its best if they dont find out? You dont plan to tell Goliath yourself this evening?"
+
+"I dont know what I mean. Why did you even tell *me*? Youve kept your dirty little secret since December, so why come clean now?"
+
+"Because Antons being difficult, and if I dont give him ... her ... what she wants, she threatened to tell all. I knew the only way to handle this with a modicum of gracefulness was to tell you myself."
+
+"What does he ... she ... damn, thats just *too* weird!"
+
+"What does she want? Certain freedoms, as she put it. At the moment, Ive got her confined to the science and medical units and her own suite, basically a prisoner."
+
+"Freedoms as in a company car, expense account? Or do you mean something more along the lines of freedom to conduct questionable experiments?" A chill raced through her as if shed been injected with liquid nitrogen. "Oh, my God ... you were talking about developing healing drugs ... you are *not* going to let Sevarius get his hands on Julian!"
+
+"Elisa, I never said --"
+
+"Is that where this was leading? Take a few samples, isolate the gene that gives him his gift? That is the lowest thing I have *ever* heard."
+
+"Youre getting way ahead of me here --"
+
+"And you ask me how to broach the subject with the gargoyles? You broach *that* subject to Ebon and Gabriel, and youll be in pieces before the last word is out of your mouth."
+
+"I have no intention of giving Julian to Sevarius," he said sharply. "Sevarius doesnt even know about him. Maybe once I would have considered it, but that was a long time ago."
+
+"It wouldnt work anyway," she said. "Hes not like the other kids. I can feel it. So can Fox. Cant you?"
+
+"What are you talking about?"
+
+"Theres more to him than that. Its crazy, I know it is. But theres *more*."
+
+"Hes a little boy with a remarkable ability."
+
+"Its more than that," she insisted.
+
+"What is it, then?"
+
+"The ..." she broke off and shook her head. "Youd send for the guys with the butterfly nets."
+
+"Dr. Masters gave all the kids extensive physicals," Xanatos said. "Julians just as human as the rest of them. Not one of Avalons own, if thats what you were thinking. Owen would have picked up on that anyway."
+
+"No, thats not it."
+
+"Somethings on your mind, though."
+
+"Like I said, its crazy. Totally nuts. So far out there they dont even have 7-11s."
+
+"I promise not to laugh. *Or* call the psych techs."
+
+"Shouldnt you be figuring out what youre going to tell the gargoyles?" she asked. "Dusk in less than an hour, and if you havent fessed up by suppertime, Im going to spill it all to Goliath and you can bet hell come looking for an explanation."
+
+"Ill talk to him. Im just glad Ebon took the kids back to Rocky Point. I dont think I could stand a repeat of the other night. I dont envy Fox having to face that music, but she stuck to her guns admirably."
+
+"I have to agree with you on that one. She did a dumb thing, taking Julian out without telling anyone, but she did it to help her father. I couldnt really argue with that."
+
+ 
+
+\* \*
+
+ 
+
+"Tsk, tsk," Anton Sevarius chuckled to herself, as she tapped in a password and watched all of the protected medical files come up.
+
+Her old password, the official one, had been cleared. Having long ago foreseen such a time when Xanatos might decide to lock then-him out, Sevarius had paid a hefty bribe to one of the programmers to add a second, secret one. And here it was, working just dandy, so many years later.
+
+It was a joy to be back at work. Shed spent the past couple of days accustoming herself to the labs, making polite chit-chat with her new colleagues (though most of them were sufficiently freaked out by her witchlike appearance to cut that sort of social blather to a minimum).
+
+Her new password gave her access to several current projects. Xanatos had told her to prowl around, decide what inspired her. Hed been right in his claim that they werent currently doing much that was interesting. Kid stuff, to Anton Sevarius.
+
+But shed offered up her talents to the leader of the team in charge of growing replacement organs engineered to be compatible with anyones body, a plan which might one day bring about organ banks with no need for donor-match searches.
+
+Kid stuff.
+
+Still, she had to be careful not to blow her cover by being *too* good. A couple of the team members had once worked for her under her other guise and might be tipped off if she didnt watch her figurative step.
+
+The rest of the team called it a night, but Sevarius made some excuses about wanting to catch up on the research files and they swallowed it. Now she was alone in the lab, and it was time to see what else Xanatos might be up to.
+
+Medical records and articles, yes ... ah, here was a familiar one, complete with transcribed information stolen from her own once-computerized mind. Theories and speculations on human-gargoyle crossbreeds.
+
+What was this?
+
+She leaned closer, reading with increasing amusement Dr. Masters detailed notes on the gestation and birth of one Amber Maza. That hardly came as a surprise; the part that boggled Sevarius was that theyd accomplished it without a little boost from science.
+
+Data on gargoyle breeding rituals and the resultant physical and hormonal changes ... monitoring the actual egg-laying process ... but where were the analyses of the egg-sac fluid, which could have been taken before the shells hardened? Where were the tissue samples? The DNA sequences? The chromosomal breakdowns?
+
+Sevarius pursed her lips in disgust. And this Masters called himself a *scientist*! Why, if *shed* had that opportunity --!
+
+Ah, well. Next time.
+
+She moved on, scrolling idly through the "royal familys" records of check-ups. Not much of interest there.
+
+The newest entries, a series of six child physical exams, caught her eye. Six exams in the same day, for different children, all with names that rang no bells.
+
+She opened the first one.
+
+Brittany (Inst. des. F-17).
+
+Inst.?
+
+Well, well! Now *this* was interesting!
+
+Reading swiftly through, she scowled as she realized there were not nearly the battery of tests a proper doctor would have ordered. But it was enough to tell her what she was seeing.
+
+Going back to the main list, she spotted the name Julian and this time a bell rang as insistent as if a really gung-ho salesman were on the stoop.
+
+She read the entry four times, each time with a growing certainty. Half of her mouth twisted into a sardonic smile, and she barked her strange seal-like laugh into the silence of the lab.
+
+Her laugh abruptly soured at the realization that Xanatos had *known* about this for days, had let the boy heal his grumpy old father-in-law, and had made absolutely no mention of any of it to her.
+
+This child could *heal* her, mend her wasted legs just as surely as hed mended Renards, wash away the paralysis that gripped her arm and face, make her whole again. And Xanatos hadnt even so much as offered.
+
+Bastard.
+
+Perhaps it was time to make good on her earlier threat.
+
+ 
+
+\* \*
+
+ 
+
+The anticipated blowout hadnt been nearly as bad as theyd feared, but Xanatos still seemed very glad when it was over.
+
+Maybe Goliath had worn himself out backing up Ebons tirade at Fox the other night. Maybe he realized the futility of debate, something that would probably never happen with Elisa herself; she would probably be arguing pointlessly with Xanatos for the next fifty years.
+
+Whichever the reason, his attitude had been more one of unsurprised scorn and disappointment. As if it was no less than what he might have reason to expect of Xanatos.
+
+And it looked to Elisa like that stung Xanatos a little.
+
+"On the brighter side," he said, "weve successfully set up the credentials for Ebons wards. Its all nice and legal on paper now. They officially exist. I arranged a transfer between fictitious foster homes, and were set to enroll them in a private home-school."
+
+Elisa smiled. "Thats great."
+
+Owen opened the door. "Mr. Xanatos?"
+
+"Yes, Owen?"
+
+"Dr. Indrani is asking to speak with you."
+
+Xanatos looked from Goliath to Elisa, then back to Owen. "By all means, send her in."
+
+Owens face was unreadable as he held the door wide to admit the wheelchair.
+
+Elisa had been prepared by pictures Xanatos had shown them, but it was still a shock.
+
+As Sevarius saw the company Xanatos was keeping, her smug expression turned bitter and suspicious.
+
+"Hello, Anton," Xanatos said deliberately.
+
+Goliaths lip curled back from his teeth. "Sevarius."
+
+"Well, I see youve taken this out of my hands," Sevarius said. "I was coming to bargain with you."
+
+"Blackmail me, you mean."
+
+"Call it what you will. Goliath. Detective." A ghost of the smugness returned as Sevarius asked, "Hows your daughter?"
+
+Elisa shot Xanatos a demanding look.
+
+"Youve been snooping, Anton."
+
+"Yes, and I am appalled at this Dr. Masters of yours. Hes the least thorough, most addle-brained excuse for a scientist Ive ever encountered."
+
+"So you came to blackmail me. Was this to be my last warning before you went to Elisa and the gargoyles with my deception? My last chance to agree to give you those freedoms?"
+
+"Oh, Id moved on from seeking my own apartment," Sevarius said. "I just want this body back in perfect working order. Id contemplated loosing a new strain of biological contaminants --"
+
+Here, if Elisa had harbored any doubts, she lost them. No matter what form, *nobody* could say biological contaminants as sumptuously as Anton Sevarius.
+
+"-- but in the end I decided merely to ask nicely," she finished.
+
+"Ive told you, Anton, thats out of my hands --" Xanatos began.
+
+"But not out of the boys hands."
+
+Elisa and Goliath both lurched in their seats as if about to spring up and start breaking things, beginning with Sevarius. They subsided reluctantly, but no one in the room missed how Goliaths claws were digging channels in the wooden arm of his chair.
+
+"You really *have* been snooping," Xanatos said mildly.
+
+"Im prepared to offer you my complete loyalty --" Sevarius began, and Elisa uttered a short, sharp sound somewhere between a snarl and a laugh.
+
+"In exchange for what?" Xanatos asked in a tone which said, as was the case, that he already knew.
+
+"To be healed, of course."
+
+"And to have access to the boy, try and duplicate his ability?"
+
+Sevarius snorted. "No, of course not."
+
+Taken aback, Xanatos floundered. "What?"
+
+"Even I couldnt isolate any one particular gene responsible for *that*. And none of you are remotely prepared to deal with him, if what I suspect is true."
+
+\* \*
+
+The waves marched endlessly, endlessly. Swells of deepest blue that curled into white as they neared the shore, then dashed themselves apart on the stony beach.
+
+Ebon swung slowly back and forth. Moonlight waxed and waned as the porch swing moved in and out of the shadows, showing the illustrations in the book he held.
+
+"... that Sneetches are Sneetches," he read, "and no kind of Sneetch is the best on the beaches. That day, all the Sneetches forgot about stars, and whether they had one, or not, upon thars."
+
+Julian reached to turn the page, but Ebon gently stopped him.
+
+"Breakfast time. Well read about the Zax later."
+
+Behind them, the small house was busy with light and noise. In a moment, theyd go in, be swallowed up in the activity, but for now, Ebon was content to sit here with the boy beside him, the boy whose coloring, delicate features, and sweet nature could have made him Juliannas own son.
+
+He tried not to think how it would hurt to send them away. The children, *his* children. Though Gabriel had rescued them, even against Ebons initial objections, theyd come to see Gabriel as an older brother. Ebon himself was patriarch of his clan.
+
+Strange when chronologically he was younger than many of them.
+
+But hed lived two full lives in the short time hed been around. The first a life of deceit and villainy, the second of music and love. Now he was well-embarked on his third one, loss and remembrance.
+
+Julian sat beside him, not fidgeting, not fussing. Just as content as Ebon was, soothed by the motion of the swing and the rhythm of the waves.
+
+He tried to think of what he would do when they were gone to their new place, their new normal life of schooling and daylight. The house, so small, *too* small for so many ... could he and Gabriel fill it with just themselves? They had once before, but it was as if the house, as well as their lives, had stretched to accommodate. When the children were gone, it would be huge and empty.
+
+Gabriel would probably be leaving soon after, Ebon realized. It wouldnt be enough for the young male to stay out here in isolation. Hed been raised with dozens of siblings, and Ebon alone would not be enough to satisfy that need for clan now that the wounds of the soul that had brought him here had been mended by solace and solitude.
+
+Julian snuggled closer and rested his head on Ebons arm. "Don wanna go skool," he murmured. "Don wanna go way."
+
+Ebons throat tightened.
+
+"Wanna stay here, wif you."
+
+"Youll like the --" He stopped, unable to bring himself to say all the right things. How could he sound positive and upbeat about it when the thought of losing this child was like a knife going into his heart? "Im sorry, Julian."
+
+"Don make me go, Daddy." It wasnt a whine, only a soft plea that already knew there was no hope.
+
+Ebon shut his eyes briefly. "I wish you could be my son. I look at Goliath with his family and I envy him ... I think of Julianna ..."
+
+"We go see?"
+
+"Go see ...? Oh. No. Not tonight."
+
+"Please? I not hungwy yet."
+
+He glanced toward the house. Through the well-lit windows, he could see Mrs. Goodall and Brittany by the stove, Gabriel rough-housing with the older boys, the girls giggling as Neesha clumsily clipped barrettes in Mulans hair.
+
+"Well, just for a little while." He took Julians hand and they walked down the beach, to a rise where a narrow path climbed through a split in an immense boulder. Up and up, and when the going got too hard for the boy, Ebon balanced him on his shoulders.
+
+At the top, a small sheltered nook was cradled in the shell of the boulder. The wind whistled relentlessly around the opening that gave a sweeping view of the Point, but inside, it was barely a whisper. The floor was grassy, the nooks walls mossy.
+
+"The more I thought about it," Ebon said, setting the boy down and approaching the headstone at one end of a mound, "the more I knew she wouldnt be happy so far away, in California. After ..." he trailed off, having never spoke of what had happened his first night in the bar, the night he had contacted her for that aching but too-short moment. "I brought her here, so that she would never be far from me."
+
+"Tell me?"
+
+"She was ... sad and beautiful ... with a voice like an angel ... she *needed* me in a way that no one had ever needed me before. From loving her, I learned what it meant to protect, what it meant to be part of a clan. She was my hope." He hung his head. "And then it was too late. She was gone before I could tell her what she meant to me, gone before we dared to see if we had the courage to acknowledge our love."
+
+"I hep."
+
+Ebon sighed. "Its too late for that, Julian. Even a healer cant help her now."
+
+\* \*
+
+"If you know whats good for you, Sevarius, youd better cut the crap and tell us what youre talking about," Elisa said.
+
+"There really is no need for this animosity."
+
+"If I had proof on *half* the stuff youve done, and proof that you were who you really are, Id have your butt behind bars so fast youd think you were in a time warp!"
+
+"Im well aware of all of that, Detective." She folded her good hand across her bad one. "Have you noticed anything else unusual about him? Beyond his gift for healing?"
+
+Elisa stirred, but said nothing.
+
+"Been entertaining speculations that seem crazy?" Sevarius prompted. "That seem more than crazy, that seem downright impossible in this day and age?"
+
+"Get to the point," Goliath growled.
+
+"Let me tell you a story. Before I met my untimely end --"
+
+"Which time?" Elisa interrupted coldly.
+
+Sevarius rolled her eyes to the ceiling. "The last time, when your brother killed me."
+
+"When you abducted his wife."
+
+"And safely delivered their children. For which I never received any thanks, might I add. No, my reward was to be confined to a life of electronic purgatory. A lesser mind might have gone insane."
+
+Elisa made a rude face.
+
+"At any rate," Sevarius went on, "the point that Im trying to make, unless youd rather argue about water long under the bridge ...?"
+
+"Go on," she said.
+
+"Ahem. Yes. I was involved in a rather remarkable project that may have some bearing on this matter."
+
+"You were part of the Institute," Xanatos said. "Of course. Your own brother was one of the founding scientists."
+
+"Peripherally," Sevarius agreed. "But my participation was cut short by the circumstances weve already addressed, and I was unable to see my research ... bear fruit, as it were. The financiers of the project had some highly specific, not to mention unscientific, demands. But you know how it is -- humor the money-men."
+
+"Get on with it, Sevarius," Elisa said. "What kind of project? What are you talking about?"
+
+She gave her a condescending look. "Cloning, naturally. My assignment was to extract DNA from a rather unique source, form an embryo, and implant it into a specially-chosen host. I completed the job not quite four years ago. The resultant child would now be ..."
+
+"Julians age," she said with rising horror.
+
+Goliath leaned forward, tensed to rise. "Are you saying that *he* is one of your --"
+
+"Not necessarily. Im only saying the timing is right, and given his unusual talents, its worthy of consideration."
+
+Elisa fought down an urge to pummel the crap out of Sevarius; she couldnt bring herself to hit a woman in a wheelchair no matter the provocation. "Quit playing with us and tell us what you did. What *unique* *source* did you use for DNA?"
+
+Sevarius let them hang a moment longer. "Havent you guessed?"
+
+Her fist curled ... maybe there *was* a provocation worth the pummeling ...
+
+"The Shroud of Turin."
+
+ 
+
+\* \*
+
+ 
+
+A shimmering twinkle of silver light appeared above the beach. It expanded suddenly into a bubble, then winked out. Five gargoyles stood where there had only been wave-washed stones a moment before.
+
+Then only four of them stood; the smallest of the group keeled over and would have gone head-first into the driftwood if her mate hadnt caught her.
+
+"Ooh," Aiden said, pressing her fingertips to her brow ridges.
+
+"Owen told you that spell would take a lot out of you," Lex said.
+
+Goliath assured himself that Aiden was all right, then looked around for Gabriel. He didnt have to look long; Gabriel was already on his way down the rocky slabs that served as steps leading from the house. The kids were close on his tail, and waiting on the porch was a grey-haired woman.
+
+"We came as soon as we could," Angela said, greeting her rookery brother with a hug. "Has there been any news?"
+
+Gabriels face was drawn with worry. "Nothing. I even went to his bar, *nothing*."
+
+"Well find him," Brooklyn told Gabriel, then glanced at Goliath. "A search, see if we turn up anything Gabriel mightve missed?"
+
+"You, Angela, and Lexington begin with that," Goliath agreed.
+
+"Gimme a minute to get my strength back and Ill try a seeking spell," Aiden gasped, though if the pallor of her skin was any indication, shed need a bit more than a minute. "If you have something of theirs, thatd help."
+
+"Ill get something!" Blaze volunteered. That was the cue for the rest of the kids to all start talking at once.
+
+"Can you really find them?" Brittany asked.
+
+"Its those scumbags from the Institute, I know it!" Gilberto said. "Theyre gonna get it so bad!"
+
+"They left my book on the swing," Mulan said.
+
+"I thaw a helicopter," Neesha added.
+
+"Mrs. Goodall," Gabriel turned beseechingly to the grey-haired woman, "could you take them inside, please?"
+
+Over their objections, the housekeeper shepherded the children into the house. Goliath saw small faces pop up instantly at the windows.
+
+"Tell me what happened," he said to Gabriel when the two of them were alone except for the recuperating Aiden.
+
+"Theres not much more to tell than what I said on the phone. They were out here, on the swing, and didnt come in for breakfast. Didnt come in at all. Ebon would never get caught away from home at sunrise if he had Julian with him. This evening, when I woke up, I glided down to the bar. No one there had heard from him either."
+
+"Was there a helicopter?"
+
+Gabriel nodded. "Coast Guard, late last night, but it didnt come close to shore. If it *was* the Institute, wouldnt they have come for all of the children? And why would they take Ebon?" He tossed his hands helplessly.
+
+"What do you know about Anton Sevarius?"
+
+"A little ... he was the scientist who created the clones and the mutates."
+
+"But he also worked for the Institute, and he is now once more in Xanatos employ. *He* ... or rather, *she*, now ... may be involved."
+
+"But Goliath," Aiden said, getting up from the rock shed been sitting on, "do you really believe all that stuff? I mean, it cant *really* be real ... can it?"
+
+"What matters is that Sevarius seems to believe it, and so did the ones who hired his services."
+
+"It cant be Sevarius, though ... why would he ... uh, she ... uh ... gosh, thats confusing ... why would Sevarius ask Xanatos to have Julian heal Sevarius if Sevarius already had Julian? It sounds like they vanished right around the same time Sevarius was telling you all of that."
+
+"All of what?" Gabriel asked.
+
+Goliath set the entire story before him. The failed evangelist, the museum robbery, the cloning project, the fanatic insistence on the part of the evangelist to do everything by the Book, the specially-chosen girl, all of the details that Sevarius had known either first-hand or from later investigations.
+
+Stunned, Gabriel said, "You mean ... you *cant* mean ..."
+
+"We dont know," Goliath said. "Sevarius wanted to do tests, to see if Julian was the result of that experiment. And get healed into the bargain. But Aidens right. The timing of it doesnt work."
+
+"Ill try my spell now." Aiden picked up the book, smiled nostalgically. "Stars upon thars, I remember this one."
+
+"Who else could it be?" Gabriel spoke in a low voice so as not to disturb Aiden as she began to intone words in Latin.
+
+"Ebon has other enemies," Goliath said. "Demona, Ventura, even the Quarrymen."
+
+"I would have heard sounds of a fight. He cant have been taken by force."
+
+"I sense something," Aiden said after a few moments. "Very distant, just a flicker, cant pinpoint it. *Far*, Goliath. Almost out of my range."
+
+"Both of them?" Gabriel said.
+
+"I think so."
+
+Relief filled Gabriels expression. "So theyre alive, theyre together?"
+
+"Goliath!" Angela swooped down on them fast, eyes wide. "You have to see this!"
+
+Wasting no time with questions, Goliath bounded to the top of a rock and from there into the air. Gabriel and Aiden did the same, and they all followed Angela up to a bulking split boulder on a bluff above the sea.
+
+Brooklyn and Lex were both there, standing well back from the center.
+
+"This is creepy," Brooklyn said as the rest landed.
+
+He pointed from the headstone -- knocked askew -- to the raw gouge in the earth. Whole chunks of sod looked to have been torn out and flung aside, the soil was churned not neatly by shovel and spade but by large powerful hands.
+
+"What is this place?" Goliath asked Gabriel.
+
+"He ... he re-buried her here." Gabriel was pale. "Julianna."
+
+They all looked at the hole.
+
+Aiden swallowed and her throat clicked. "You dont think ..."
+
+"N-nah," Brooklyn said unsteadily.
+
+"That was *years* ago!" Lex squeaked. "There wouldnt have been --"
+
+Angela bumped him to shut him up before he could say the unspeakable. "Goliath?"
+
+He bent down and sifted his claws through the loose earth. They snagged on heavy cloth and he pulled, bringing up a stained canvas bag, six feet long. It had been slashed open, because the teeth of the zipper that ran its length were locked tight with dirt.
+
+Something fell out of the bag and rolled into the grass. Brooklyn retrieved it, a circle that glinted dully in the moonlight.
+
+"Ring," he said. "Gold, sapphire and two diamonds. I cant tell if theres an inscription."
+
+"This cant be happening," Aiden moaned. "This cant be real!"
+
+Lex put his arms around her. "Hey, you shouldnt be saying things like that, sorceress-turned-gargoyle."
+
+"Thats *magic*, Lexington!" Her voice was spiraling high and faint, as if shed inhaled half a tank of helium. "Magic, I can cope with! This ... this ..."
+
+"We dont know what happened, though!" Brooklyn looked at the ring and hastily dropped it, as if it had only then occurred to him where it had most likely come from. "Maybe it didnt work, and he decided to get rid of the body somewhere else." He pointed to the sea. "Maybe it *almost* worked and he had a total Cryptkeeper moment and had to destroy it." He pointed again to the sea.
+
+Goliath realized that his second-in-command was perilously close to cracking. "Brooklyn --"
+
+"Maybe he went looney-tunes and jumped in after!" Brooklyn went on, the words coming faster. "Suicide pact, him and the kid, into the drink, *eeeeeee! splash! hasta la vista*!"
+
+"Brooklyn!" Angela tried shaking him.
+
+"Maybe it *worked*," Lex said loudly.
+
+They all looked at him, even Brooklyn.
+
+Lex lowered the volume. "Think about it. Say that it did, it really fully did work. What would that mean for all of them?"
+
+Nobody had an answer. After a long silence, Goliath dropped the canvas bag back into the empty grave and covered it again.
+
+"But we dont *know*," Angela finally said.
+
+"No." Gabriel brushed his knuckles against her chin. "Thats why they call it *faith*, and its good enough for me."
+
+\* \*
+
+ 
+
+***The End***
+
+------------------------------------------------------------------------
+
+ 
+
+**Epilogue:**
+
+"Nice boy," the first old man said, turning the apple slowly in his hand so that the peel came off beneath the blade in a long unbroken ribbon.
+
+"Looks just like his mama," the second old man said. He finished hand-rolling his smoke and tucked it in the corner of his mouth, reaching for a match.
+
+Their rockers creaked a comforting song on the wooden floor. There was a time when their bones might have creaked just as much, a time when their fingers wouldnt have been able to move with such cleverness due to the rheumatiz, but a few things had changed in these parts lately.
+
+They watched until the two figures had gone around the curve of the road, leaving the cluster of buildings -- general store (where they sat), diner, combined P.O. and volunteer firehouse, not much else worth a mention.
+
+Out that way, there wasnt much but a few cabins mostly belonging to summer people. Not that it was summer now, nor would it be for a long time yet, but the bitter cold didnt weigh so heavy on them as it used to.
+
+The first old man carved off a shaving of apple and ate it down. "Seen the dad?"
+
+"Nope."
+
+"I hear hes a gargoyle."
+
+"Ayuh."
+
+They lapsed into a companionable silence again, the chairs creaking and creaking on the floor, the tang of apple juice and the sweet smell of tobacco mingling in the air.
+
+"Be snow tomorrow," the first old man said.
+
+"Ayuh."

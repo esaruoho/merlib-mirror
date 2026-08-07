@@ -1,0 +1,342 @@
+A Basic Win32 GUI Program--WINBASIC.ASM 
+
+ A Basic Win32 GUI Program--WINBASIC.ASM 
+
+This program produces a basic application window. You can move
+the window around. You can change the window's size, and all the
+usual buttons appear and are functional. The only things missing
+are scroll bars and a menu bar. 
+
+ Program startup 
+
+ The window class 
+
+ Window creation 
+
+ The message loop 
+
+ Terminating the program 
+
+ The window procedure 
+
+ Linking 
+
+[ More programming information ] 
+[ Back to Win32 ASM Page ] 
+
+ Program startup 
+
+For single-threaded programs, the initial values of the registers
+are almost of no importance. But just in case you're interested:
+CS:EIP = start of program; SS:ESP = start of stack; DS = ES = SS;
+FS = TIB, the thread information block; GS = 0, the null
+selector. CS and DS map to the same linear address. The direction
+flag, DF, is cleared. 
+ [ More on program startup. ]
+
+ We start our GUI app in the same manner as the Console
+App. 
+
+ .386
+ model flat
+
+ ; If using TLINK32, don't include vclib.inc
+ include vclib.inc ; Microsoft VC++ .lib link names
+
+ include win32hst.inc ; constants, structures, and entry names
+
+ public _start
+
+ .code
+_start:
+
+ The window class 
+
+Every window is described by a run-time data structure known as a
+ window class . (This "class" is not a C++
+class.) Every window class has a callback function,
+known as a window procedure , that defines most of
+the behavior of all windows created with this class. 
+ Before we can create a window, its window class, defined by a
+WNDCLASSEX structure, must be given a name and registered, by
+calling RegisterClassEx. Windows preregisters a few window
+classes, but these are usually used for creating controls. 
+ First, let's look at the WNDCLASSEX structure defined in
+WIN32HST.INC. For ease in translating to other assemblers, I have
+prefixed each field with what I call the structure's "signature".
+These signatures are shown as comments in the .h header files for
+C. The remainder of the field name, after the underscore, is
+exactly the same as in the C header files. 
+
+WNDCLASSEX STRUC
+wcx_cbSize dd ?
+wcx_style dd ?
+wcx_lpfnWndProc dd ?
+wcx_cbClsExtra dd ?
+wcx_cbWndExtra dd ?
+wcx_hInstance dd ?
+wcx_hIcon dd ?
+wcx_hCursor dd ?
+wcx_hbrBackground dd ?
+wcx_lpszMenuName dd ?
+wcx_lpszClassName dd ?
+wcx_hIconSm dd ?
+WNDCLASSEX ENDS
+
+Wow! that's a lot of fields. Three fields are the minimum needed
+to create a window: lpfnWndProc, hInstance, and lpszClassName. We
+will also define four other fields: style, hIcon, hCursor, and
+hbrBackground. Unused fields must be zeroed out. 
+ We use the names defined in the API docs, but we prefix the
+field names with a class "signature" which is shown in comments
+in the .h header files for C. 
+ The lpfnWndProc field contains the address of the window procedure that defines how the
+windows of this class will behave. 
+ The hInstance field contains a handle for the
+ module that "owns" the window class. Win16 made a
+distinction between an instance and a module handle, but in
+Win32, they are one and the same. These module instance handles
+identify loaded modules (EXE and DLL files), somewhat like file
+handles identifying opened files. Like file handles,
+module/instance handles are unique only within a running program
+"instance", or process . 
+ The lpszClassName field contains the address of a
+zero-terminated (C-style) string which names the window class.
+
+ Instead of defining the structure with WNDCLASSEX, we will
+expand it and comment on what is in the WNDCLASSEX structure. 
+
+ .data
+ align 4
+wcx dd size WNDCLASSEX ; cbSize
+ dd CS_VREDRAW or CS_HREDRAW ; style
+ dd WndProc ; lpfnWndProc
+ dd 0,0 ; cbClsExtra, cbWndExtra
+ dd 0 ; hInstance
+ dd 0 ; hIcon
+ dd 0 ; hCursor
+ dd COLOR_WINDOW+1 ; hbrBackground
+ dd 0 ; lpszMenuName
+ dd wndclsname ; lpszClassName
+ dd 0 ; hIconSm
+
+wndclsname db 'winmain',0
+
+The field cbSize has the total size of the WNDCLASSEX structure.
+A number of structures have a structure size as the first field.
+This makes it easy to extend structures. Later releases of
+Windows can use this field to determine which version of the
+structure is being used, and act accordingly. It's important to
+set this field when its structure is used to receive data. 
+ CS_VREDRAW and CS_HREDRAW in the style field force the normal
+behavior of redrawing the window whenever it changes size. 
+ WndProc is the window procedure we will define later in the
+program. 
+ The hbrBackground field specifies the default, or background,
+coloring of the framed area, known as the client
+area . The value (COLOR_WINDOW + 1) makes it the same as
+the other window client areas. 
+ The label "wndclsname" defines the location of the
+zero-terminated window class name. 
+
+ Now for the fields that must be filled in at runtime. 
+
+ extrn GetModuleHandle:near
+
+ .code
+ push large 0 ; NULL string pointer means
+ call GetModuleHandle ; get HINSTANCE/HMODULE of EXE file
+ mov [wcx.wcx_hInstance],eax
+
+Calling GetModuleHandle with a NULL pointer gives us the instance
+handle of the EXE file. This is the module that will "own" the
+window class . 
+
+ extrn LoadIcon:near,LoadCursor:near
+
+ .code
+ push large IDI_WINLOGO
+ push large 0 ; hInstance, 0 = stock icon
+ call LoadIcon
+ mov [wcx.wcx_hIcon],eax
+
+ push large IDC_ARROW
+ push large 0 ; hInstance, 0 = stock cursor
+ call LoadCursor
+ mov [wcx.wcx_hCursor],eax
+
+The hIcon field gives us an "application" icon. And the hCursor
+field gives us the cursor image that is used when the cursor is
+"over" the window we will create. 
+
+ extrn RegisterClassEx:near
+
+ .code
+ push offset wcx
+ call RegisterClassEx
+
+And thus the window class is registered. 
+ All versions of Windows use the structure to create their own
+internal window class "object", so after the window class is
+registered, we can discard our "window class structure" with no
+ill effects. 
+
+ Window creation 
+
+After the window class name is registered, we can create the
+window using CreateWindowEx. 
+ Although there are a lot of individual arguments, we're
+basically providing five (and nulling out the others): 1) the
+window class name, 2) a window caption, 3) the window location,
+4) the window size, and 5) some standard "style" options. 
+ The window class name is qualified by the module instance
+handle that owns it. The owner is established by RegisterClassEx
+via the hInstance field in the WNDCLASSEX data structure. 
+ In the following code, we use a different approach to passing
+parameters. We can treat the argument list as a data structure.
+Instead of pushing each argument individually, we create a
+structure to hold all the arguments (in proper order), and then
+push the entire structure onto the stack. We can modify any
+portion before stacking the structure, or modify the stacked
+structure. The following code chooses the latter approach. 
+
+ .data
+ align 4
+cwargs dd 0 ; dwExStyle
+ dd wndclsname ; lpszClass
+ dd wnd_title ; lpszName
+ dd WS_VISIBLE or WS_OVERLAPPED or WS_SYSMENU or WS_THICKFRAME \ 
+ or WS_MINIMIZEBOX or WS_MAXIMIZEBOX ; style
+ dd 100 ; x
+ dd 100 ; y
+ dd 200 ; cx (width)
+ dd 200 ; cy (height)
+ dd 0 ; hwndParent
+ dd 0 ; hMenu
+ dd 0 ; hInstance
+ dd 0 ; lpCreateParams
+
+wnd_title db 'Application',0
+
+ extrn CreateWindowEx:near
+
+ .code
+ sub esp,48 ; allocate argument list
+ mov esi,offset cwargs ; set block move source
+ mov edi,esp ; set block move destination
+ mov ecx,12 ; number of arguments
+ rep movsd
+ mov eax,[wcx.wcx_hInstance]
+ mov [esp+40],eax ; set hInstance argument in stack
+ call CreateWindowEx
+
+ The message loop 
+
+After the window is created and displayed, we can then deal with
+any message sent to our program. Our basic GUI program repeatedly
+fetches messages from the message queue with GetMessage. We do
+this with a message loop . This loop is sometimes
+called the message pump . 
+ If there are any messages originating from one of the various
+forms of SendMessage, GetMessage will invoke the appropriate
+window procedure directly. Otherwise the message is copied into a
+local buffer (the lpMsg argument), and control returns to
+the caller of GetMessage. A zero (FALSE) value is returned if
+GetMessage retrieves a WM_QUIT message. 
+ In our program, the message loop quits if a WM_QUIT message
+is retrieved. Otherwise it invokes the proper window procedure
+using DispatchMessage. 
+
+ extrn GetMessage:near,DispatchMessage:near
+
+ .data
+msgbuf MSG <>
+
+ .code
+msg_loop:
+ push large 0 ; uMsgFilterMax
+ push large 0 ; uMsgFilterMin
+ push large 0 ; hWnd (filter), 0 = all windows
+ push offset msgbuf ; lpMsg
+ call GetMessage ; returns FALSE if WM_QUIT
+ or eax,eax
+ jz end_loop
+
+ push offset msgbuf
+ call DispatchMessage
+
+ jmp msg_loop
+
+end_loop:
+
+ Terminating the program 
+
+We exit the program with ExitProcess. 
+
+ extrn ExitProcess:near
+
+ .code
+ push large 0 ; (error) return code
+ call ExitProcess
+
+ The window procedure 
+
+Except for some initialization and some cleanup, a GUI program is
+expected to do everything within the various window procedures.
+The window procedure may be called by Windows itself (e.g., when
+a window is first created), or it may be invoked via
+DispatchMessage. The window procedure receives four DWORD
+arguments, in this order: window handle (hWnd), message ID
+(nMessage), first message parameter (wParam), second message
+parameter (lParam). The argument wParam gets its original name
+from Win16, where it was a WORD argument. 
+ When a window is closed, the default action, handled by
+DefWindowProc, is to destroy it. The window is removed from the
+screen, and a WM_DESTROY message is sent to the window procedure.
+If we want to terminate our program upon closing a specific
+window, then that window must respond to a message associated
+with closing a window. The recommended message is WM_DESTROY. Our
+window procedure does this for the one and only window, calling
+PostQuitMessage as a response. After the window procedure is
+exited, a WM_QUIT message will be picked up by GetMessage in our
+message loop. 
+ All other messages get processed by DefWindowProc. 
+
+ One of the advantages of going from 16-bit code to 32-bit code
+is the extra addressing modes available. All eight primary 32-bit
+registers can be used in complex addressing modes. 
+ WndProc takes advantage of this by using ESP to access its
+arguments. We use the decomposed form [ESP+4+4] to show that part
+of the offset is for skipping the stacked EIP and the other part
+is the offset to the second argument (the message ID). 
+
+ extrn DefWindowProc:near,PostQuitMessage:near
+
+ .code
+WndProc:
+ cmp dword ptr [esp+4+4],WM_DESTROY
+ jne DefWindowProc
+
+on_destroy:
+ push large 0
+ call PostQuitMessage
+
+ xor eax,eax
+ ret 16
+
+ end _start
+
+ Linking 
+
+Linking a standard application is similar to linking a Console App. 
+With the Microsoft linker, we specify a different 
+ subsystem .
+
+ link winbasic kernel32.lib user32.lib /entry:start /subsystem:windows
+
+With the Borland linker, we specify a standard Windows app with /aa 
+instead of /ap. The /V option tells the linker to set the
+ subsystem version to 4.0.
+(Warning: The linker that came with TASM 4.0 does not support /V.)
+
+ tlink32 /Tpe /aa /c /V4.0 winbasic,,,import32.lib

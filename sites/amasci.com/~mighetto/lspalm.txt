@@ -1,0 +1,64 @@
+HP Palmtops 
+
+ HP Palmtops 
+
+Decision Maker 2.0 was originally designed for use on the HP 100lx and 
+ 200lx palmtop
+computers . It can be utilized by the owner while interacting with 
+others, in the same way a calculator might be used. The palmtop
+design means that Decision Maker can be used during a meeting. HP palmtop computers support additional video modes 
+for "zooming" which are useful in viewing Decision Maker screens. The HP
+200lx computer is being
+actively cloned and is widely available through egghead 
+and other organizations. 
+However, any computer that supports MS DOS 3.2 or above can support the 
+software. For example, the Insignia 
+SoftPC MS DOS emulator allows Macintosh computers to support Decision Maker. 
+The MS DOS emulator for WinCE (XT-CE) 
+should support all Decision Maker features. Owing to XT-CE, the new 
+HP Palm-size and HandHeld PC
+companions and a wide variety of WinCE based products should now be
+Decision Maker capable. Because Insignia
+Solutions has delivered a Java 
+virtual machine for WinCE, WinCE based palmtops are worth considering.
+A large portion of the smart database in Decision Maker has been
+converted to HTML Java using web pages. All features, including color, are
+also supported 
+on NT, Windows and OS/2 systems, which do not require emulators and
+support Java. 
+
+To view web pages using an HP Palmtop, the page should be designed so that it
+can be read by LYNX, a UNIX browser available through many access providers. 
+ Americans with Disabilities Act 
+(ADA) complient web pages generally meet this criteria. Connect the palmtop to 
+a modem and use the Data Com built in application 
+or some other VT100 terminal emulator to log into your access provider's 
+server. Enter the UNIX shell (by typing !) and type 
+
+lynx http://www.eskimo.com/~mighetto 
+
+This will start the browser on our home page. Graphics and Java are not 
+currently supported by LYNX. 
+
+For additional information or to purchase an HP palmtop try: 
+
+ http://www.hpcmag.com 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ] 
+[ Case Study ] [ Decision Tree ]
+[ Deep Knowledge ]
+[ Acknowledgments ]
+[ Map ]
+
+ http://www.eskimo.com/~mighetto/palmtop.htm - last update March 11,
+2000.

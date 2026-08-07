@@ -1,0 +1,109 @@
+#!/usr/local/bin/perl5
+# ---------------------------------------------------------------------------
+#
+
+sub usage {
+ die '/usr/local/share/procmail/spamfilter1.rc',
+ jon2 => '/usr/local/share/procmail/spamfilter2.rc',
+ jon3 => '/usr/local/share/procmail/spamfilter3.rc',
+ jon4 => '/usr/local/share/procmail/spamfilter4.rc',
+ jon5 => '/usr/local/share/procmail/spamfilter5.rc',
+ jon6 => '/usr/local/share/procmail/spamfilter6.rc',
+ relay => '/usr/local/share/procmail/rblcheck.rc'
+ );
+
+#
+# Get command line options 
+#
+
+$USER=$ENV{USER};
+$ADDR_SPEC = "($USER\@.*eskimo.com";
+require "getopts.pl";
+$good_args=&Getopts('hf:l:s:v:');
+if (!$good_args || $opt_h || @ARGV) { &usage; }
+
+if ($opt_l) { $LogFile = $opt_l; }
+else {$LogFile = "procmail.log"; }
+if ($opt_s) { $SpamBox = $opt_s; }
+else {$SpamBox = "spambox";}
+if ($opt_f) {@Filters = split /\s+/, $opt_f;}
+else {$Filters[0] = "jon1";}
+if ($opt_v) {
+ @Vdomains = split /\s+/, $opt_v;
+ foreach $vdom (@Vdomains) {
+ $ADDR_SPEC = "$ADDR_SPEC\|\@$vdom"; 
+ }
+}
+$ADDR_SPEC = "$ADDR_SPEC)"; 
+
+#
+# Check if .forward or .procmailrc exist already
+#
+
+if (-e ".forward") {
+ die (".forward file already exists \n");
+}
+
+if (-e ".procmailrc") {
+ die (".procmailrc file already exists \n");
+}
+
+#
+# Check requested filters
+#
+
+foreach $req (@Filters) {
+ unless (exists $filterpath{$req}){
+ die ("Requested filter $req doesn't exist. \n")
+ }
+}
+
+#
+# Check if in home directory (works only under csh and tcsh (for now))
+#
+
+if ( $ENV{SHELL} eq '/bin/csh' || $ENV{SHELL} eq '/bin/tcsh') {
+ unless ( $ENV{PWD} eq $ENV{HOME} ){
+ print "To properly install the mail filters you should run this \n script in your home directory. Continue anyway ? (y/[n])";
+ $continue= ;
+ chomp($continue);
+ unless ($continue eq "y" || $continue eq "Y"){
+ die ("OK, nothing done \n");
+ }
+ }
+}
+
+#
+# create .forward and .procmailrc
+#
+
+open FORWARD, ">.forward";
+open PROCMAILRC, ">.procmailrc";
+
+print FORWARD '"|procmail_wrapper -Yf- #',$USER,'"',"\n";
+close FORWARD;
+
+print PROCMAILRC << 'ENDQUOTE';
+SHELL=/bin/sh
+#VERBOSE=on # remove #'s to get more log info
+# LOGABSTRACT=all # (for debugging)
+SENDMAIL=/usr/lib/sendmail
+PATH=/bin:/usr/ucb:/usr/local/bin:/usr/bin:
+MAILDIR=$HOME
+LINEBUF=5000 # lines in procmailrc can't exceed this
+
+ENDQUOTE
+
+print PROCMAILRC 'ORGMAIL=/usr/spool/mail/',$USER,"\n";
+print PROCMAILRC 'ADDR_SPEC=',$ADDR_SPEC,"\n";
+print PROCMAILRC 'LOGFILE=$HOME/', $LogFile,"\n";
+print PROCMAILRC "SPAMBOX=$SpamBox \n";
+
+foreach $req (@Filters) {
+ print PROCMAILRC "INCLUDERC=$filterpath{$req} \n";
+}
+
+close PROCMAILRC;
+
+chmod 0644, '.forward';
+chmod 0600, '.procmailrc';

@@ -1,0 +1,133 @@
+Trajectory Input
+
+ Trajectory Input
+
+ [JBM] 
+
+ [Ballistics] 
+
+ Instructions 
+
+ Enter your data in the areas provided below. Select the "Calculate" button 
+ when all fields are filled. Wind direction is perpendicular to the line of 
+ sight, positive values are to the shooter's right. If the Chronograph 
+ distance is greater than zero, the muzzle velocity is corrected for this
+ distance. If the field is blank, the default (shown in brackets) is used.
+
+ Explanation of terms .
+
+ Muzzle Velocity
+
+ Muzzle Velocity (500 to 4500 ft/sec) [3000.0]
+
+ Chronograph Distance (0 to 100 feet) [10.0]
+
+ Bullet
+
+ BC ( links ),
+ (0.010 to 2.0) [0.5]
+
+ Drag Function [G1]
+
+ G1
+ G2
+ G5
+ G6
+ G7
+ G8
+ GL
+ GI
+
+ Bullet Weight (5 to 5000 grains) [220.0]
+
+ Sights
+
+ Sight Height (-100 to 100 inches) [1.5]
+
+ Sight Offset (-100 to 100 inches) [0.0]
+
+ Wind
+
+ Range Wind Speed (-100 to 100 mph) [0.0]
+
+ Vertical Wind Speed (-100 to 100 mph) [0.0]
+
+ Cross Wind Speed (-100 to 100 mph) [10.0]
+
+ Angles
+
+ Azimuth (-300 to 300 MOA) [0.0]
+
+ Elevation (-300 to 300 MOA) [0.0]
+
+ LOS (-90 to 90 degrees) [0.0]
+
+ Cant (-90 to 90 degrees) [0.0]
+
+ Target
+
+ Speed (-100 to 100 mph) [10.0]
+
+ Angle (0 to 180 degrees) [90.0]
+
+ 0
+ 15
+ 30
+ 45
+ 60
+ 75
+ 90
+ 105
+ 120
+ 135
+ 150
+ 165
+ 180
+
+ Zero
+
+ Range (10 to 2000 yards) [100.0]
+
+ Height (-100 to 100 inches) [0.0]
+
+ Offset (-100 to 100 inches) [0.0]
+
+ Ranges
+
+ Minimum Range (0 to 1900 yards) [0.0]
+
+ Maximum Range (100 to 2000 yards) [1000.0]
+
+ Range Increment (1 to 500 yards) [100.0]
+
+ Options
+
+ If correction for azimuth or elevation is chosen the entered values
+ (above) for azimuth and elevation are ignored.
+
+ Elevation Correction for Zero Range
+
+ Azimuth Correction for Zero Range
+
+ Drop and Windage units
+
+ Inches
+ MOA
+ Mils
+
+ Atmosphere 
+
+ Temperature (-40 to 140 degrees Fahrenheit) [59.0]
+
+ Pressure (15 to 40 inches Hg) [29.92]
+
+ Relative Humidity (0 to 100%) [0]
+
+ Altitude (-1000 to 15000 feet) [0]
+
+ Checking standard conditions at altitude cause the temperature, pressure
+ and humidity to be adjusted for the given altitude, otherwise the air 
+ density is calculated from the temperature, pressure and humidity using 
+ the ICAO Standard Atmosphere.
+
+ Standard conditions at altitude

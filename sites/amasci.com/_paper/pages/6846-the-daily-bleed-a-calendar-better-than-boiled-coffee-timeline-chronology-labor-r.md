@@ -1,0 +1,427 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0323.htm
+order: 6846
+reachable_from_entry: false
+images: 16
+internal_links: 0
+extracted: 2026-08-07T17:14:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0323.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+
+
+> Tis now the twenty-third of March,\
+> And this warm sun takes out the starch\
+> Of winter's pinafore
+>
+>  Henry David Thoreau, The Freshet
+>
+> 
+
+[]()\
+[]()\
+\
+--
+
+**MARCH 23**
+
+THOMAS LAKE HARRIS\
+
+> **Mixed Swedenborgianism & Fourierism in a utopian community for the practice of "spiritual marriage."**
+
+\
+
+
+------------------------------------------------------------------------
+
+WORLD METEOROLOGICAL DAY.
+
+<img src="http://photojournal.jpl.nasa.gov/images/Other.gif" data-hspace="10" data-vspace="10" data-rock="" data-border="0" data-align="RIGHT" width="354" height="256" alt="BIG" />\
+
+
+NEAR MISS DAY, celebrating 1989 asteroid.
+
+------------------------------------------------------------------------
+
+\
+
+\
+
+> > []()\
+> > \
+> > 1702 -- New World: To mark the coronation of Queen Anne, the Governor General of America, Lord Cornbury, opens the New York assembly, on her behalf, dressed as her. We humbly propose this date for the celebration of Transvestite Pride. \
+> > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots) []()\
+> > []()\
+> > \
+> > 1743 -- Composer George Frideric Handel's oratorio "Messiah" performed at London for the first time, a flop. First presented at a benefit in Dublin on 13 April 1742. Audience response to the London performance is poor; Messiah didn't start to gain popularity until 1750. []()\
+> > []()\
+> > \
+> > 1775 -- *"Is life so dear, or peace so sweet, as to be purchased at the price of chains & slavery? Forbid it, Almighty God. I know not what course others may take, but as for me, give me liberty or give me death!"*
+> >
+> > Patrick Henry (who got both)\
+> > []()\
+> > <http://libertyonline.hypermall.com/henry-liberty.html>\
+> > \
+> > 1809 -- Thomas Holcroft, novelist/dramatist/translator dies in London. []()\
+> > []()\
+> > \
+> > 1842 -- US: Beloved & Respected Comrade Leader Congressman Joshua R. Giddings of Ohio is censured by the House of Representatives for introducing resolutions opposing slavery & the coastal slave trade. (The "Gag Rule," first adopted by a South-dominated Congress in 1836, & renewed at the beginning of each session thereafter, pledges every member not to mention the slavery issue on the floor of the House.) []()\
+> > []()\
+> > \
+> > 1857 -- Cookery expert Fannie Farmer lives, Boston, Massachusetts. In 1896 she edited The Boston Cooking School Cook Book which went into 21 editions before her death in 1915. []()\
+> > []()\
+> > \
+> > 1860 -- France: Andre Girard (known as Max Buhr) (1860-1942) lives, in Bordeaux. Anarchist militant & trade unionist. See the Anarchist Encyclopedia page,\
+> > <http://recollectionbooks.com/bleed/Encyclopedia/GirardAndre.htm> []()\
+> > []()\
+> > \
+> > 1871 -- France: Communes proclaimed in Lyon & Marseilles. []()\
+> > []()\
+> > \
+> > <img src="http://www.notfrisco.com/Norton.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="100" height="180" alt=" ? " />\
+> > 1872 -- US: Decree by Emperor Joshua Norton I that a suspension bridge be built as soon as convenient between Oakland Point & Goat Island, & then on to Frisco.\
+> > <http://www.sfmuseum.org/hist2/bbridge.html>\
+> > <http://www.notfrisco.com/nortoniana/index.html>\
+> > \
+> > 1881 -- Roger Martin du Gard (1881-1958) lives. French novelist, dramatist, winner of the 1937 Nobel Prize for Literature.\
+> > <http://www.kirjasto.sci.fi/dugard.htm>\
+> > []()\
+> > \
+> > 1889 -- US: Beloved & Respected Comrade Leader President Harrison opens Oklahoma, former Indian Territory, to white settlement. []()\
+> > []()\
+> > \
+> > 1901 -- Philippines: Emilio Aguinaldo, leader of the Filipino rebels is captured.
+> >
+> > > At the outbreak of the Spanish-American War the US had returned Aguinaldo to the Philippines to direct the native uprisings against the Spanish. In 1899 when the Filipinos learned the US did not intend to give them their independence, Aguinaldo led an armed revolt against US rule. An American force of 70,000 was sent to suppress this "insurrection". 
+> >
+> > []()\
+> > []()\
+> > \
+> > 1905 -- England: John Collins, co-founder of Campaign for Nuclear Disarmament (CND), lives. []()\
+> > []()\
+> > \
+> > 1906 -- US: Utopianist Thomas Lake Harris dies, Brocton, New York. Once "America's best-known mystic."
+> >
+> > > "Actually, Haraszthy fathered four sons & two daughters, not an industry. He appears to have died, in 1869 in Nicaragua, in the jaws of a crocodile. & unfortunately, there appears to be nothing left of the vineyards planted in Sonoma County by two utopian societies: the Icarians, who were French proto-communists living in the 1880s near Cloverdale; & the Brotherhood of the New Life, a community of followers of free-thinker & free-lover Thomas Lake Harris, who lived above Santa Rosa beginning in 1892. The Brotherhood's wine label was Fountain Grove, & their winemaker a Japanese nobleman, Baron Kanaye Nagasawa (who must've been the first Asian winemaker in America)."
+> >
+> > <http://www.il.proquest.com/research/pt-product-Harris-Thomas-Lake-and-the-Brotherhood-of-the-New-Life-81.shtml>\
+> > <http://www.metroactive.com/papers/sonoma/02.29.96/oldwine-9609.html>\
+> > \
+> > 1910 -- Akira Kurosawa (1910-1998) lives, Tokyo. Japanese film director, considered with Kenji Mizoguchi & Yasujiro Ozu among the greatest of Japanese modern film makers. Four of Kurosawa's major works were adaptations of Western literary works, Dostoyevsky's The Idiot, Gorky's The Lower Depths, Shakespeare's MacBeth (adapted into Throne of Blood) & King Lear (reworked as Ran).\
+> > <http://www.kirjasto.sci.fi/kuros.htm>\
+> > []()\
+> > \
+> > 1912 -- Werner von Braun, Hitler & America's rocketeer, lives. []()\
+> > []()\
+> > \
+> > 1913 -- Jack London writes to Winston Churchill, G. B. Shaw, & H.G. Wells to ask what they are paid for their "stuff".\
+> > <http://www.kirjasto.sci.fi/jlondon.htm>\
+> > <http://www.parks.sonoma.net/JLStory.html>\
+> > <http://sunsite.berkeley.edu/London/>\
+> > \
+> > 1916 -- US: Black activist Marcus Garvey arrives in America, from Jamaica.\
+> > <http://www.ritesofpassage.org/g-garvey.htm>\
+> > []()\
+> > \
+> > 1917 -- Leonard & Virginia Woolf establish the Hogarth Press in the dining room of their house in Richmond, England. []()\
+
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/authors/tzara2.jpg" data-border="0" data-hspace="10" data-vspace="10" width="730" height="210" alt="TZARZAN" />\
+1918 --
+
+> Dada Manifesto issued by Tristan Tzara in Switzerland.
+>
+> > > *" I destroy the drawers of the brain & those of the social organization. "*
+> >
+> > <http://www.lib.uiowa.edu/dada/tzara.html>\
+> > European Dada Archive,\
+> > <http://www.cobal.org/darkfox/cabdisco/newcabdisco.htm>\
+> > <http://www.lib.uiowa.edu/dada/index.html>\
+> >  <http://www-personal.umich.edu/~rmutt/dictionary/1918Manifesto.html>\
+> > []()\
+> > \
+> > <img src="http://www.reuther.wayne.edu/pic/Great.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="200" alt=" ? " />\
+> > 1918 -- US: Trial of 101 Wobblies (Industrial Workers of the World; IWW) begins in Chicago, for opposition to World War I; tried for violating the Espionage Act...
+> >
+> > > In September 1917 165 IWW leaders were arrested for conspiring to hinder the draft, encourage desertion, & intimidate others in connection with labor disputes...it lasted five months, the longest criminal trial in American history up to that time. John Reed, the Socialist writer just back from reporting on the Bolshevik Revolution in Russia (Ten Days That Shook the World), covered the IWW trial for "The Masses" magazine & described the defendants:
+> > >
+> > > 
+> >
+> > "I doubt if ever in history there has been a sight just like them. One hundred & one lumberjacks, harvest hands, miners, editors ... who believe the wealth of the world belongs to him who creates it ... the outdoor men, hard-rock blasters, tree-fellers, wheat-binders, longshoremen, the boys who do the strongwork of the world...."
+> >
+> > 
+> >
+> > > The jury found them all guilty. The judge sentenced Haywood & 14 others to 20 years in prison; 33 were given 10 years, the rest shorter sentences. They were fined a total of \$2,500,000. The IWW was shattered. Haywood jumped bail & fled to revolutionaryRussia, where he remained until his death 10 years later.
+> > >
+> > >  A People's History of the United States, by Howard Zinn
+>
+> > See George, Harrison The I.W.W. Trial: Story of the Greatest Trial in Labor's History byOne of the Defendants Chicago: IWW, \[1919\]. 208 pages\
+> > The great 1918 Chicago IWW frame-up trial, told largely through quotations from the trial transcript. Shows the brilliance of Vanderveer's defense & exposes the emptiness of the government's case. This book was circulated as part of the class war prisoner defense effort.
+> >
+> > >  <http://iww.org/>\
+> > > <http://www.reuther.wayne.edu/exhibits/iww.html>\
+> > > \
+> > > 1919 -- Italy: Benito Mussolini founds the Fascist Party.
+> > >
+> > > > The first "Combat Group" (Fascio di Combattimento) is founded today by 118 assorted war veterans (especially the "Arditi" or shock assault troops); Futurists and ex-Leftists like Mussolini himself, who had "gone nationalist" during the war. Their programme had many "socialistic" & "syndicalistic" elements. At its birth Fascism was thus able to present itself as a radical, revolutionary movement to sweep away the status quo by any means necessary. 
+> > > >
+> > > > Benito Mussolini costituisce il movimento dei Fasci italiani di combattimento durante una riunione in un circolo di piazza San Sepolcro a Milano.
+> > > >
+> > > > \
+> > > > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta)
+> > > >
+> > > > <http://www.geocities.com/CapitolHill/Senate/5602/italfasc.html>\
+> > >
+> > > []()\
+> > > \
+> > > 1921 -- Netherlands: War Resisters International founded, Bilthoven. []()\
+> > > []()\
+> > > \
+> > > 1921 -- Italy: A bomb explodes at the Theatre Diana in Milan, killing & wounding many. 
+> > >
+> > > > The work of an individualist anarchist group believed manipulated & set up by the Chief of Police Gasti, the bombing serves as a pretext for a general repression against all anarchists & also serves the interests of the fascists, who attack the offices of the trade unions & leftist organizations. They also destroyed the office of the anarchist paper "Umanita Nova."
+> > > >
+> > > > <http://www.municipio.re.it/manifestazioni/berneri/fedeli.htm>\
+> > >
+> > > []()\
+> > > \
+> > > 1923 -- Louis Simpson, American poet, lives, Jamaica. Receives 1963 Pulitzer for At the End of the Open Road.\
+> > > <http://www.pulitzer.org//index.html>\
+> > > []()\
+> > > \
+> > > 1925 -- US: Tennessee legislature bans teaching of evolution. []()\
+> > > []()\
+> > > \
+> > > 1928 -- D. H. Lawrence tells Aldous Huxley Arnold Bennett is "a pig in clover." Exactly three years to this date Bennett after drinking water in a Paris hotel to prove to companions that it is safe dies. Virginia Woolf notes in her diary: 
+> > >
+> > > > *"Queer how one regrets the dispersal of anybody ... who had direct contact with life for he abused me; & yet I rather wished him to go on abusing me; & me abusing him."*
+> > > >
+> > > > []()\
+> > > > <http://www.island.org/>\
+> > >
+> > > []()\
+> > > \
+> > > 1932 -- US: Norris-LaGuardia Act restricts employer use of federal injunction against unions & bans yellowdog contracts. []()\
+> > > []()\
+> > > \
+> > > 1933 -- Germany: Dachau opens for business the first of many concentration camps in Germany for the destruction of Jews & the undesirables classified 'unfit'. []()\
+> > > []()\
+> > > \
+> > > 1942 -- Ama Ata Aidoo (1942-) lives. Ghanaian writer, who has depicted in her works the role of African woman in modern society.\
+> > > <http://www.kirjasto.sci.fi/aidoo.htm>\
+> > > []()\
+> > > \
+> > > 1942 -- Let us remember
+> > >
+> > > 
+> > >
+> > > > On this day in 1942 the US Government began removing Americans from their homes without benefit of trial, indictment or any other legal anachronisms, & forced them into detention centers hundreds of miles away, in the middle of the desert. 
+> > > >
+> > > > These US citizens were effectively stripped of all possessions & belongings other than those they could carry, were forced to sell or forfeit their businesses & careers, & were stripped of all the Constitutional rights they had been guaranteed at birth. \*Despite\* this fact, the young men in many of these families marched off to war, to fight & die for the very Government which was imprisoning their families.
+> > > >
+> > > > The crime of which these American citizens were guilty?
+> > > >
+> > > > Japanese ancestry.
+> > > >
+> > > > Bleedster Flames
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1944 -- A Real Twist?: Sergeant Nicholas Alkemade, a tail gunner in a Lancaster bomber, bails out of the burning plane at about 18,000 feet, unable to reach his parachute because of the flames. He blacked out during the two-minute fall before landing in a snowdrift in a dense pine forest. He suffered a twisted ankle. (Nazi military intelligence very carefully researched the case, they didn't appreciate finding Allied airmen deep in German territory.) []()\
+> > > []()\
+> > > \
+> > > 1957 -- US: Army sells off the last of its homing pigeons.
+> >
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.npg.si.edu/img2/caricat/medadam.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="190" alt="?" />\
+> > 1960 -- American newspaper columnist & radio personality, Franklin P. Adams, who wrote under his initials, F.P.A., dies in New York.
+> >
+> > 
+> >
+> >   
+> > Known as much for his contributors as his contributions. Submissions from young writers like Dorothy Parker, Robert Benchley, Sinclair Lewis, Deems Taylor , Alexander Woollcott, George Kaufman & Morrie Ryskind, to name a few, marked some of their earliest published work. Groucho Marx reflected on F.P.A.'s eminence: 
+> >
+> > <img src="http://recollectionbooks.com/bleed/images/film/groucho.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="100" height="137" alt="Groucho Marx" />*"In those days we all tried to get a piece into his column. When I finally got a little piece in it, just a little one, not more than an inch, I thought I was Shakespeare."*
+> >
+> > <http://www.npg.si.edu/exh/caricatures/fadams.htm>\
+> > <http://www.groucho-marx.com/>
+> >
+> > \
+> >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1964 -- John Lennon's In His Own Write (1964) is published. 
+> > >
+> > > > Alternative titles were, among others, The Transistor Negro; Left Hand Left Hand (after Osbert Sitwell's Left Hand Right Hand) & Stop One & Buy Me. 
+> > > >
+> > > > The contract was signed in January 1964 & the book with 31 pieces of writing & enough drawings was published three months later on this date. Introduction was by fellow Beatle Paul McCartney & the book designed by Robert Freeman. 
+> > > >
+> > > > By January 1965 In His Own Write had sold nearly 200 000 copies. (Source: John Savage, introduction in Pimlico double edition, 1997).
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/60s/1sthelix.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="160" height="287" alt="Helix" />\
+> > > 1967 -- US: The Helix, Seattle's first underground newspaper, debuts.
+> > >
+> > > > Paul Dorpat & associates publish the first edition of Helix & readers quickly snap up the first 1,500 copies of the 12-page, multi-colored "counter culture" tabloid.
+> > > >
+> > > > Helix was part of a rapid rise of "underground newspapers" such as The Berkeley Barb, San Francisco's Oracle, & New York's East Village Other.
+> > > >
+> > > > In addition to Dorpat, Tom Robbins (Another Roadside Attraction), Gene Johnston, Ray Collins (illustrator), Bleedster Scott White, & Gary Finholt contributed to this first issue.
+> > > >
+> > > > Helix published a total of 125 biweekly & weekly editions before folding June 11, 1970.
+> > > >
+> > > > See Walt Crowley, Rites of Passage: A Memoir of the Sixties in Seattle (Seattle: University of Washington, 1995).\
+> > > > <http://www.historylink.org/output.cfm?file_ID=1990%0B%0B>\
+> > >
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/radical/Che/rojas.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="227" height="196" alt="?" />\
+> > > 1967 -- Bolivia: Che Guevara starts guerrilla warfare. Che's group experiences their first battle of the Bolivian campaign the successful ambush of troops at acahuaz. 
+> > >
+> > > President Barrientos appeals to the nation *"to join in the fight against the foreign and local anarchists with arms and money from Castro-communists."*\
+> > > <http://www.ils.unc.edu/~michm/Che/bio_pt5.html>\
+> > > \
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/60s/chicago8.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="206" height="272" alt="Chicago 8 poster" />\
+> > > 1968 -- US: A meeting sponsored by MOBE is held near Chicago to debate whether to hold demonstrations at the Convention. In attendence are Dellinger, Davis, Hayden, Hoffman, & Rubin.\
+> > >  <http://www.law.umkc.edu/faculty/projects/ftrials/Chicago7/chicago7.html>\
+> > > <http://lists.village.virginia.edu/sixties/HTML_docs/Exhibits/Track16.html#Poster>\
+> > > <http://theaction.com/Abbie/>\
+> > > \
+> > > 1969 -- US: 30,000 people, including Jackie Gleason, Kate Smith, the Lettermen & Anita Bryant appear at the Rally for Decency in Miami. Announcements publicizing the rally warn "longhairs & weird dressers" won't be let inside. Four days later, Beloved & Respected Comrade Leader President Richard Nixon -- whose administration is rife with crooks, liars, cheats & thieves -- sends a letter of congratulation & appreciation to the organizers of the rally. []()\
+> > > []()\
+> > > \
+> > > 1969 -- Trial of seven Mohawks for demonstrating on international bridge between U.S. & Canada. []()\
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/buttons/emergency_sm.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="76" height="76" alt="Emergency button" />\
+> > > 1970 -- US: Beloved & Respected Comrade Leader President Nixon declares national emergency, orders 30,000 troops to New York City to break Postal Wildcat Strike. []()\
+> > > []()\
+> > > \
+> > > 1970 -- US: Beloved & Respected Comrade Leader IBT President Fitzsimmons signs a national labor contract.
+> > >
+> > > > 100,000 Teamsters in 16 cities wildcatted between March & May to overturn the contract. The ensuing violence in the Middle West & West Coast was extensive, & in Cleveland involved no less than a 30-day blockade of main city thoroughfares & 67 million dollars in damages.
+> > > >
+> > > > See [John Zerzan"](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Zerzan)'s "Organized Labor versus 'The Revolt Against Work'",\
+> > > > <http://geocities.com/cordobakaf/zerzan.html>\
+> > >
+> > > []()\
+> > > \
+> > > 1973 -- US: Judge Sirica reveals letter from McCord saying he & others were pressured to plead guilty & commit perjury to avoid implicating others in Watergate. []()\
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/dingbats/archpin.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="63" alt="?" />\
+> > > 1974 -- France: Aristide Lapeyre (1899-1974) dies in Bordeaux. Hairdresser, anarchist, pacifist militant & no-Malthusian.\
+> > > <http://recollectionbooks.com/bleed/Encyclopedia/LapeyreAristide.htm>\
+> > > []()\
+> > > []()\
+> > > \
+> > > 1980 -- Bill S. Ballinger (1912-1980), aka Frederic Freyer, B.X. Sanborn , dies. American thriller writer, who specialized, from the early 1950's, in a multi-level or divided narration. Received Edgar Allan Poe Award from Mystery Writers of America in 1960 for his TV work.\
+> > > <http://www.kirjasto.sci.fi/ballinge.htm>\
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.kmprod.com/Radiologo2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="110" alt="?" />\
+> 1983 -- US: In his "Star Wars" speech Beloved & Respected Comrade Leader Acting President Reagan proposes a space-based system to blast incoming missiles out of the sky just like the 1940 film Murder in the Air, whose hero, Secret Service Agent Brass Bancroft (played by Ronnie Reagan!), gets involved with the "Inertia Projector," a death ray that can zap planes.\
+>
+> > > []()\
+> > > []()\
+> > > \
+> > > 1984 -- New Zealand: One thousand boats demonstrate against arrival of U.S.S. Queenfish, in Auckland. []()\
+> > > []()\
+> > > \
+> > > 1994 -- Mexico: PRI Presidential candidate Ernesto Colosio assassinated in Tijuana, Baja, California. Investigations of the assassination suggest probable links to corruption in the highest levels of the PRI, the political party which ruled Mexico since 1910. []()\
+> > > []()\
+> > > \
+> > > 1997 -- East Timor: Between two & seven University of East Timor students are killed by Indonesian police while attempting to meet in a hotel with U.N. human rights envoy Jamsheed Marker.\
+> > > \
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/03ref.htm#23/1997) []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.hcdems.com/images/axis-of-evil.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="112" height="66" alt="Axes of Evil" />\
+> > > 2003 -- Iraq: Fighting begins in earnest. 
+> > >
+> > > > Meanwhile two missles have hit Iran, an American soldier has tossed grenades into command tents in Kuwait, Beloved & Respected Comrade Leader Gen. Tommy Franks adamantly insists "weapons of mass destruction" will be found in Iraq (none found to date perhaps Iraq would like some of the US surplues?), more Turkish troops have moved into Iraq, & North Korea girds itself for what it believes is a US plan to attack it soon. 
+> >
+> > \
+> >
+> > > > Hundreds of thousands of protestors, from Norway to all over the Middle East, continue to vent their opposition to Beloved & Respected Comrade Leader Bush's head-long effort to kill former ally Beloved & Respected Comrade Leader Saddam Hussein.
+> >
+> > []()\
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > To launch a manifesto you have to want: A. B. & C., & fulminate against 1, 2, & 3,...
+> > >
+> > > 
+> > >
+> > > > ...& maintain that novelty resembles life in the same way as the latest apparition of a harlot proves the essence of God. His existence had already been proved by the accordion, the landscape & soft words.
+> > > >
+> > > > 
+> > > >
+> > > > > Everyone does it \[imposes one's A.B. & C.\] in the form of a crystalbluff-madonna, or a monetary system, or pharmaceutical preparations, a naked leg being the invitation to an ardent & sterile Spring.
+> > > > >
+> > > > > 
+> > > > >
+> > > > > > ...the love of novelty is a pleasant sort of cross....impulsive & vibrant to crucify boredom.
+> > > > > >
+> > > > > > 
+> > > > > >
+> > > > > > > dADA Manifesto, 1918
+> > > > > > >
+> > > > > > > > []()\
+> > > > > > > >
+> > > > > > > > []()\
+> > > > > > > > \
+> > > > > > > > <img src="http://recollectionbooks.com/bleed/images/war/oiw2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="300" height="415" alt="?" />\
+> > > > > > > > 4500 --\
+> > > > > >
+> > > > > > <http://www.liberalartsmafia.com/>\
+> > > > > > []()\
+> > > > > >
+> > > > > > ------------------------------------------------------------------------
+> > > > > >
+> > > > > > anti-CopyRite 1997-3000, more or less\
+> > > > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > > > or send questions, suggestions, additions, corrections to:\
+> > > > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > > > >
+> > > > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > > > >
+> > > > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > > > >
+> > > > > > anarchist, labor, radical books
+> > > > > >
+> > > > > > See also: Anarchist Encyclopedia\
+> > > > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > > > Stan Iverson Memorial Library\
+> > > > > > http://recollectionbooks.com/siml/\
+> > > > > > Anarchist Time Line / Chronology\
+> > > > > > http://recollectionbooks.com/bleed/indexTimeline.htm

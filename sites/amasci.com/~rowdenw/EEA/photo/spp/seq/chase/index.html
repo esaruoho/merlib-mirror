@@ -1,0 +1,75 @@
+<HTML>
+<HEAD><TITLE>Chase Sequence</TITLE>
+<script language="JavaScript">
+
+</script>
+</HEAD>
+<BODY>
+
+<DIV ID=menu1 style="position:absolute;  color:#FFFFFF; font: 14px arial,helvetica,sans-serif; alignment:right; left:10px; top:10px;">
+<IMG SRC="load.jpg" name="sequence">
+</DIV>
+
+<script language="JavaScript">
+<!--
+var soundname = "shutter.wav";
+document.write("<embed src='"+soundname+"' name='mysound' hidden='true' autostart='false'>");
+function playsound() {
+document.mysound.play();
+}
+var num=1
+var pic1=new Image()
+pic1.src="seq01.jpg"
+var pic2=new Image()
+pic2.src="seq02.jpg"
+var pic3=new Image()
+pic3.src="seq03.jpg"
+var pic4=new Image()
+pic4.src="seq04.jpg"
+var pic5=new Image()
+pic5.src="seq05.jpg"
+var pic6=new Image()
+pic6.src="seq06.jpg"
+var pic7=new Image()
+pic7.src="seq07.jpg"
+var pic8=new Image()
+pic8.src="seq08.jpg"
+var pic9=new Image()
+pic9.src="seq09.jpg"
+var pic10=new Image()
+pic10.src="seq10.jpg"
+var pic11=new Image()
+pic11.src="seq11.jpg"
+var pic12=new Image()
+pic12.src="seq12.jpg"
+var pic13=new Image()
+pic13.src="seq13.jpg"
+var pic14=new Image()
+pic14.src="seq14.jpg"
+var last=14
+
+function go() {
+num=1
+play()
+}
+
+function play() {
+if (!document.images)
+return
+document.images.sequence.src=eval("pic"+num+".src")
+playsound()
+if (num<last) {
+num++
+setTimeout("play()",500)
+}
+}
+
+//-->
+</script>
+
+<DIV ID=menu1 style="position:absolute;  color:#FFFFFF; font: 14px arial,helvetica,sans-serif; alignment:right; left:10px; top:300px;">
+<INPUT type="button" value="Play" onClick="go()">
+</DIV>
+
+</BODY>
+</HTML>

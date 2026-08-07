@@ -1,0 +1,143 @@
+Out of my Mind! - Freebie Windows Software Archive 
+
+ Fun Windows Software 
+
+ Snakin' 1.0 
+
+ All
+ New - All great - in full Technicolor !!! For all you folks who've been
+ waiting for this, here's ssssSnakin' .. a new game I've
+ been developing for a while. Visit the Snakin' page for more info (Yes its good enough
+ to merit it's own page)! 
+
+ VikTRIS for Windows (1,053K) 
+
+ The ultimate windows Tetris clone.
+ Rediscover the fun of playing Tetris all over again. 256
+ colors, sound and music, fully animated, level and
+ difficulty control, standard and advanced modes,
+ background wallpapers. You'll never go back to another
+ version! (Not available anywhere else .. yet!). Click here
+ for a screen shot. 
+ [[ Needs VBRUN300.DLL(225K) , Win3.1 or Win95, SVGA,
+ Sound Card optional ]] 
+
+ Norn Ancestral Viewer
+ Ver 1.1 
+ (78k) 
+
+ If
+ you know what a NORN is and have a bunch of them lying
+ about on your hard disk, you absolutely NEED 
+ this utility. If you don't know what a Norn is, never
+ mind (and dont send me email asking me about it). 
+
+ SandBox (11k) 
+
+ Watch your screen pour itself over
+ and over again. A 32-bit screensaver for Windows 95. (Not
+ tested on NT but should work) 
+
+ Star
+ Burst 
+ (11k) 
+
+ Fireworks
+ in Outer Space . Seems to be very popular. A 32-bit
+ screensaver for Windows 95. (Not tested on NT but should
+ work) 
+
+ X-Plode! (24k) 
+
+ Watch your screen blow up into
+ little bits and pieces. A 32-bit screensaver for Windows
+ 95. (Not tested on NT but should work). 
+
+ Monster Eyes '95 (44k) 
+
+ Now
+ a native 32 bit app and better than ever. If you're
+ running Windows '95 you want to download this
+ application NOW ! (Creepy eyes follow your mouse around).
+ You won't be dissapointed! 
+
+ Monster Eyes (12K) 
+
+ As Seen on CNN Headline
+ News!!! . My
+ most popular app. 1000's of people all over the world
+ have seen it. Download it now. The ultimate Windows EYES
+ application. You won't be dissapointed! (Click here for
+ a Screen Shot) [[ Needs
+ VBRUN300.DLL(225K) ]] 
+
+ Event Recorder! (10K) 
+
+ A simple but
+ convenient program for recording events - birthdays,
+ anniversaries, holidays, etc. Reminds you if you check it
+ regularly. Free, as always. [[ Needs VBRUN300.DLL(225K) ]] 
+
+ Darn iT! (100K) 
+
+ A mind bending puzzler for Win3.1
+ and Win95. Save the world from the Darn-iTs as they swarm
+ out of the sewers. Push them in or out of manholes. But
+ every Darn-it you push toggles upto 4 other Darn-iTs. How
+ do you get rid of them all? Harder than you think.
+ Features 256 color graphics, sound and music. Click here
+ for a screen shot. 
+ [[ Needs VBRUN300.DLL(225K) , Win3.1 or Win95, SVGA ]] 
+
+ Tic-Tac-Toe
+ (21K) 
+
+ Animated
+ tic-tac-toe with sound. Great for kids.[[ Needs
+ VBRUN300.DLL(225K) ]] 
+
+ Screensaver: Lines (5K) 
+
+ A poor distant 16-bit cousin of the
+ OpenGL Pipes screensaver on WindowsNT but works and looks
+ great none-the-less.[[ Needs VBRUN300.DLL(225K) ]] 
+
+ Spiral Circles (4K) 
+ Colorful
+ spiral circles.A 16-bit screensaver [[ Needs
+ VBRUN300.DLL(225K) ]] 
+
+ Screen
+ Roller (5k) 
+ Watch this guy sweat it out rolling
+ up your scren for you.[[ Needs VBRUN300.DLL(225K) ]] 
+
+ 3D Tetrahedron (6K) 
+ 3D tetrahedron
+ bounces round the screen. (Dont try on a 386!)[[ Needs
+ VBRUN300.DLL(225K) ]] 
+
+ Medio
+ (7K) 
+ Medio was a company I used to work
+ for once. Watch their sine-uous logo fly by.[[ Needs
+ VBRUN300.DLL(225K) ]] 
+
+ Screen Roller Plus (9K) 
+ Enhanced
+ animated non-screensaver version of Screen Roller
+ screensaver above.[[ Needs VBRUN300.DLL(225K) ]] 
+
+ VBRUN300.DLL
+ (225K) 
+ Visual Basic Run Time Library.
+ Chances are you already have this on your PC. But if a
+ program tells you otherwise, you can come back and get it
+ from here. 
+
+ Instructions for
+installing and using screensavers. 
+
+ Back to main page. 
+
+ Vikram Madan

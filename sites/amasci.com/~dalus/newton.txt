@@ -1,0 +1,81 @@
+Apple Newton Page 
+
+ Newton Page 
+
+ Last Update: as of August 15, 1997 
+
+ The Newton Doctor page 
+ The Newton FAQ 
+ NewtonTalk Email list 
+
+Apple's Newton page 
+Apple's Newton Developers page 
+
+ Newton Tech Journal 
+Newton Newsgroup 
+
+Newton programming course online 
+Newton OS 2.0 Programming Online Communications Course 
+
+Newton 2000 Underground 
+Newton browsers 
+
+ Amazon.com has Newton Books! 
+
+ Search Amazon.com by Subject 
+
+ Subject: 
+
+ Exact Subject
+
+Start of Subject
+
+Subject Word(s)
+
+Start(s) of Subject Word(s)
+
+ Subject Search Tips 
+
+Newt's Cape Homepage 
+Newt's Cape Intro TO 
+Newt's Cape NewtonScript feature 
+Newt's Cape Reg 
+Newt's Cape Reg Intro 
+
+ NetHopper 
+ PocketWeb 
+
+Newton Discussion group archive 
+
+Newton Docs: 
+ Apple Newton
+page 
+ NTK Docs in PDF format 
+ Newton Development FTP site 
+
+ NTK articles (text, RTF, PDF?)
+Handheld Systems Archives 
+
+MacMall Sells the Newton 
+
+My Newton is currently configured as follows:
+
+Newton OS
+ Ver: 2.1 system (update 717260)-1
+ Web: http://www.newton-inc.com/product_info/SW/system_updates.html 
+ FTP: ftp://ftp.info.apple.com/Apple.Support.Area/Misc/newton/system_update(717260).sea.hqx 
+
+NIE
+ Ver: 2.0
+ Web: http://www.newton.apple.com/dev/nie.html 
+ FTP: ftp://ftp.newton-inc.com/pub/developers/tools/nie/NIE2-inst.hqx 
+
+Newt's Cape (check prefs to ensure that NewtonScript is enabled!!)
+ Ver: 1.5m-2 (Could not find information on this exact version)
+ Web: http://members.bellatlantic.net/~sweyer/newton/newtscape.htm 
+ FTP: http://bigweb.misty.com/weyer/newton/newtscape/nwcp15-2.pkg 
+
+ Barcode Sample NewtonScript App 
+
+ Back to TOC 
+ Back to TOP

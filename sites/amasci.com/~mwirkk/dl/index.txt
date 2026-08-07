@@ -1,0 +1,191 @@
+Darklands on "FastFish at the North Pole" 
+
+ control bg-music... 
+
+ bustout frame! 
+
+ Darklands 
+ Heroic Fantasy Role-Playing Adventures In Medieval Germany 
+
+ on FastFish at the North Pole 
+
+ Welcome to my Schmerker Inn on the Web! 
+
+ a little piece of 
+
+ The 
+ Holy Roman Empire 
+
+ An Unofficial Resource for Players of 
+ Darklands, by MicroProse 
+
+ MicroProse, MPS Labs, and Darklands are &copy;1997 Spectrum HoloByte, Inc. - All rights reserved. 
+
+ Please see the special notice concerning Microprose and GT Interactive below... 
+
+ Schmerker Inn highlights: 
+
+ An "Introduction to Darklands" 
+
+ The Darklands FAQ(s) 
+
+ The New "DARKLANDS DOMAIN" web-site 
+
+ Announcement of the new "DARKLANDS" Mailing LIST 
+
+ ... as well as other interesting features 
+ (hopefully) updated on a regular basis . 
+
+ Visit the Darklands FAQ 
+ and these other sites... 
+
+ The DARKLANDS FAQ is hosted by: Alex von Luenen's Homepage 
+
+ Co-author Dennis Ahr has the Official Darklands FAQ Mirror 
+ see: my Links Page for additional info... 
+
+ !!!ATTENTION!!! 
+
+ New DARKLANDS FAQ Home-Site 
+ and 
+ New Darklands FAQ 
+
+Version 2.0, update
+
+ C. Michel Boucher, a co-author of the Official Darklands FAQ, had informed me last February (98/02/14) about the newest development with the Darklands FAQ.
+ It is getting a new PERMINANT home at, " http://www.conk.com/world/darklands/ ".
+ Dial in to it, and bookmark it!
+ Not only is the Darklands FAQ getting a new home, but it is currently under revision from version 1.21 to version 2.0!!!
+ I don't know what the future is for Alex's Official Darklands FAQ homepage, or Dennis Ahr's Darklands FAQ Mirror page.
+ But at this writing (Feb. 17, '98), I haven't heard of their not being around for the foreseeable future.
+ Though Alex is at a university in Germany, and academic accounts are among the most volatile, his site has been among the most stable I have seen.
+ And Dennis' pages, which are with a commercial ISP service, have been there all along as well. 
+ -MLW 
+
+ !!! SPECIAL ANNOUNCEMENTS !!! 
+
+ July, 1998 is the Darklands FAQ Three(3) Year Anniversary! 
+ Congratulations to the FAQ authors:
+ C. Michel Boucher ,
+ Alexander von L&uuml;nen ,
+ Dennis Ahr ,
+ Fred Farzanegan ,
+ Marilyn E. Burford ,
+ Garrett R. Le-Page ,
+ and everyone who has contributed to the DL cause.
+ Thanks! 
+ ...And, a special congratulations to the DARKLANDS Development Team on the acheivement that DL was (and is)! 
+ -MLW :) 
+
+ Now you can find the Darklands FAQ and other resources at one easy to remember URL. 
+ see: The New "DARKLANDS DOMAIN" web-site at WWW.DARKLANDS.NET 
+
+ A special announcement for all of you DL adventurers out there: 
+ Michel Boucher has setup a DARKLANDS Mailing LIST at ONEList . 
+If you are hardcore about DL, I suggest you subscribe to it now! It is open, free, and easy to do. Here is an opening greeting from Michel, posted on the Darklands LIST: 
+
+ "Welcome to the opening of the DARKLANDS list.
+ Hopefully, this list will fill our needs and will be free of spam :-)
+ Who could ask for anything more?
+ The users will set the pace here, and the rules, so right now (other than politeness), we have no restrictions.
+ I would request however that you not use HTML or attachments in your posts to the list. 
+
+ "Let the games begin! 
+
+ "Michel" 
+
+ See you there! :) 
+
+ Introducing Darklands... 
+
+ DARKLANDS by MPSLabs (" DL ") is considered an "old" game by todays standards. But eventhough it was first announced in 1991 and released in 1992, its design elements have stood the test of time. I meet and hear from people who still play it. Who still have it on their harddrives all of these years. And I meet and hear from people who have heard of it and WANT to play it. It is a definite Hall-of-Fame candidate. One which set the standard for its genre. 
+ Even the classics, however, eventually wind up in the closet, fading from memory and collecting dust. For DL enthusiasts and others of like mind, it gets harder with time to find the supplimentary resources which serve to support and enrich the collective gaming experience. 
+ I had wanted to do a DL site for quite sometime and for several reasons. Firstly, as a place where I could keep related materials for my own interest and use. And, as a place where I could share them with others who have played for years and are as enthusiastic as myself. But also for those who are beginners and want to know more. Lastly, DL is a game which segues well with other of my interests such as mythology , history , science , computer programming , and strategy gaming . 
+ In addition to the game, the design team, and MicroProse themselves, the central context with which any DL web-site must be designed is the Darklands FAQ . This is by far the premier repository of public learning about " Darklands : Heroic/Fantasy Role-Playing Adventures In Medieval Germany ". For 15 th Century adventurers of the Holy Roman Empire, this is definately where you should start your journey -- apprentice and veteran alike. 
+ I call this web-site the "Schmerker Inn on the Web!" because the Schmerker Inn in Worms is where the the default party of Gretchen, Gunther, Hans, and Ebhard begin their adventure -- atleast, most of the time, any ways! :-) Hopefully, over time, a "famed" and "virtuous" collection will accumulate here, and elsewhere. A prime motive of mine is to keep interest in DL alive. I would like nothing better than for MicroProse to pick up the active development of an updated game in the spirit of Darklands , and fulfill its promise. 
+ In the meantime, I have listed above and below links to get the beginner on his way. Be sure to link your browser to this site and others I've listed, and check in from time to time for developments. 
+
+ Thanks! 
+ -MLW 
+
+ So, why bother?!... 
+
+ THAT (!) is a really good question. Afterall, it's an old game! It's dated. Give it up! 
+
+ Well, it may be "old", but it certainly isn't dated! Not entirely, anyway. :) 
+ Sure, there are many things that could use some major updating.
+ But it still has features that many game designers can take a lesson from <IMHO>.
+ Arnold J. Hendrick , the designer of DARKLANDS (see: FAQ section one ), wrote an article in the February, 1998 Game Developer Magazine : "How to Hire a Phenominal Game Designer." 
+
+ And, getting DARKLANDS (or some prodigy of it) updated to current standards is what this is really all about!
+ In the versions of the DL FAQ from 1.0 up through 1.21, section zero(0) stated this plainly.
+ The FAQ authors have in the past, on numerous occasions, asked for consideration by MPS that either a sequel to Darklands be developed, or some form of the code be released into the public domain.
+ See "What's that again about a sequel(?)" in section one(1) of the FAQ. (The current version of the FAQ, version 2.0, has depricated section zero and the former opening statement.) 
+
+ Just recently, last May '98, was the last time a direct appeal was mounted by the FAQ authors to Microprose .
+ I have not yet heard of an explicit response by MPS to this latest effort, but a fellow DL-player, Bob Kelly , with whom I have had some correspondence, has informed me that he himself made inquiries on this subject not long ago to which indeed he * DID * get a response.
+ Bob was kind enough to grant me permission to post this information here. It is a reply from a VP of Marketing at Microprose! Hopefully, we will be able to get a copy the actual correspondence for your witness. 
+
+ What Microprose apparently had to say to Bob is quite revealing. It also fits in very nicely with my working theory about why Microprose dropped DL development (that part isn't theory -- it is fact), why they haven't given up on it, and what their future plans for DL might be.
+ I want to also include my thoughts on how that effects us, the midnight-playing, closet-coding, armchair-designer gaming public. But, they need refinement before throwing them out for public consumption. Beleive it or not, there are actually ethical questions to consider in some areas of this debate. 
+
+ -MLW :) 
+
+ See also: 
+
+ My "Darklands Stuff" pages 
+
+ The New Darklands FAQ files download pages ; 
+
+ There are still places where you can get Darklands from ;
+
+ !!!PLEASE SEE IMPORTANT NOTICE!!! 
+
+ If these are "unavailable" , try my unofficial mirrors . 
+
+ Coming soon... 
+
+ The "long-promised" "Darklands Trouble-Shooter" pages ;
+
+ These pages will include running DL in Windows 95, Windows 98, and Windows NT; known DL bugs and "work-arounds"; and how and where to make bug reports. 
+
+ . . . Shhhh! Secret stuff. 8^O 
+
+ SPECIAL NOTE: In Darklands, the game's subtitle in the manual was " Fantasy Role-Playing Adventures In Medieval Germany"(Copyright 1992 MPS), however all advertisements and packaging I have seen have the subtitle " Heroic Role-Playing Adventures In Medieval Germany"(Copyright 1991,1992,1993,1995 MPS).
+ In like fashion, early versions of Darklands' promotional material - and I am told, the original box cover artwork - used the green rolling hills and valley motif (pre-release, pre-version 4 (beta?); see picture at top right), while later versions used the more common and familiar artwork (version 4 and later; see picture at top left).
+ Apparently, the earlier stuff wasn't ominous looking enough to befit the name of "Darklands".
+ Sounds like marketing to me.
+ If any one has the real story on this, I'd be happy to hear from you!
+ (back to intro...) 
+
+ A NOTE ABOUT MICROPROSE AND GT INTERACTIVE : It was reported (accurately, it would seem) late last summer and early fall 1997, that GT Interactive Software was in the process of aquiring Microprose, Inc.
+ This would have made GTI one of the 3 largest PC game publisher/distributor(s) -- along with Electronic Arts(EA) and Sierra(aka/fka Sierra Online). 
+ To me( -MLW ), it wasn't clear whether that would have included Microprose's parent company Spectrum Holobyte, which is in turn owned by Sphere Inc.
+ Well, as it turned out, the deal apparently never did go through.
+ So, if you'd heard the rumor, but never got a follow up on it -- now you know.
+ If you don't know what I'm talking about, then "never mind!" Forget I said anything. :) 
+ -MLW 
+
+ The opinions expressed on the "Schmerker Inn" pages, and the entire "FastFish" web-site, is strictly those of myself, Matthew L. Wirkkala. They do not in any way, exlicitly or implicitly, represent those of the Darklands FAQ Authors or anyone at Microprose, past or present. 
+
+ MicroProse, MPS Labs, and Darklands are &copy;1997 Spectrum HoloByte, Inc. - All rights reserved. 
+
+For more info, send mail to: 
+ Matthew L. Wirkkala
+
+ Back to:
+ Darklands FAQ 2.0 
+ | Alex's Homepage 
+ | Darklands FAQ mirror | 
+ | Darklands Domain 
+ | Matt's FastFish pages 
+ | Back to the TOP | 
+
+ Schmerker Inn web-site founded 05 December, 1997... 
+ ...and last modified 13 December, 1998. 
+
+This site best viewed using a computer 
+
+ Background Music: "Inn at Night" 
+
+ (Background sound control) &#150;&nbsp Back to Top ...

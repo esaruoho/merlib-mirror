@@ -1,0 +1,49 @@
+CSS Property Index: International 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;International&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About International Properties... ] 
+
+ unicode-bidi 
+ direction 
+ ruby-align 
+ ruby-overhang 
+ ruby-position 
+ line-break 
+ word-break 
+ writing-mode 
+ ime-mode 
+
+ text-justify 
+ text-autospace 
+ text-kashida-space 
+ layout-flow 
+ layout-grid 
+ &#160;-&#160; layout-grid-mode 
+ &#160;-&#160; layout-grid-type 
+ &#160;-&#160; layout-grid-line 
+ &#160;-&#160; layout-grid-char 
+ &#160;-&#160; layout-grid-char-spacing 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

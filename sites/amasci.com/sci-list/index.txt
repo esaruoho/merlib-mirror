@@ -1,0 +1,13 @@
+Index of /sci-list 
+
+ Index of /sci-list 
+
+ Name Last modified Size Description 
+
+ Parent Directory - 
+ saslst2.txt 1999-05-26 09:19 21K 
+ saslst3.txt 1999-06-13 22:11 21K 
+ sci-list.html 2011-10-12 13:09 9.5K 
+ temp.txt 1999-06-13 20:56 64 
+
+ Apache Server at amasci.com Port 80

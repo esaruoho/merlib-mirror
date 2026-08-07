@@ -1,0 +1,314 @@
+
+2016 All-Star Weekend - at Toronto  February 12-14
+
+All-Star Game  at Toronto, Canada
+West 196, East 173
+MVP: Russell Westbrook (OKC)
+
+       1st 2nd 3rd 4th - Final   2FG   3FG   FG%   FT%
+West    40  52  53  51 -  196   .739  .388  .550  .500
+East    43  47  46  37 -  173   .705  .339  .547  .600
+
+Halftime: Dallas 56-46
+3rd Q: Dallas 88-68
+Refs: Matt Boland, Zach Zarba, Danny Crawford
+Did not play due to injury: Chris Bosh (Mia), Jimmy Butler (Chi)
+
+West                                                     REB
+Player                  MIN FGM-FGA 3PM-3PA FTM-FTA PTS  O-T AST TO PF STL BLK
+Kobe Bryant (LAL)        26   4-11    1-5     1-2    10  1-6   7  1  1   1   0 
+Kawhi Leonard (SA)       26   8-15    1-6     0-0    17  3-6   3  2  0   2   0 
+Kevin Durant (OKC)       23  11-18    1-8     0-0    23  2-5   7  0  0   2   0 
+Stephen Curry (GS)       29  10-18    6-13    0-0    26  1-5   6  2  1   4   0 
+Russell Westbrook (OKC)  22  12-23    7-17    0-0    31  3-8   5  3  1   5   0 
+Klay Thompson (GS)       21   3-11    3-10    0-0     9  1-2   2  0  0   1   0 
+James Harden (Hou)       21   8-14    7-12    0-0    23  0-4   3  1  0   0   0 
+Anthony Davis (NO)       15  12-13    0-0     0-0    24  3-6   0  0  1   1   0 
+Chris Paul (LAC)         19   5-7     4-6     0-0    14  0-4  16  4  1   1   0 
+LaMarcus Aldridge (SA)   14   2-8     0-1     0-0     4  1-4   1  0  0   1   0 
+Draymond Green (GS)      12   2-6     0-1     0-0     4  1-5   0  1  1   2   0 
+DeMarcus Cousins (Sac)   12   5-5     1-1     0-0    11  1-4   1  0  2   0   0 
+Totals                   48  82-149  31-80    1-2   196 17-59 51 14  8  20   0 
+
+East                                                     REB
+Player                  MIN FGM-FGA 3PM-3PA FTM-FTA PTS  O-T AST TO PF STL BLK
+LeBron James (Cle)       20   6-13    1-5     0-0    13  0-4   7  4  0   0   0 
+Paul George (Ind)        27  16-26    9-19    0-0    41  0-5   1  3  0   1   0 
+Carmelo Anthony (NY)     23   6-11    1-5     0-0    13  3-6   0  2  2   0   1 
+Dwyane Wade (Mia)        23   4-7     0-1     0-0     8  1-4   6  3  0   2   0 
+Kyle Lowry (Tor)         29   5-13    4-12    0-0    14  0-5  10  6  2   2   1 
+DeMar DeRozan (Tor)      19   9-15    0-3     0-1    18  1-1   2  1  0   1   0 
+John Wall (Was)          19  10-14    2-4     0-0    22  0-3   3  2  0   1   0 
+Paul Millsap (Atl)       19   1-6     1-2     0-0     3  1-3   1  0  0   0   0 
+Isaiah Thomas (Bos)      19   4-11    1-5     0-0     9  3-3   1  1  1   1   0 
+Pau Gasol (Chi)          15   3-7     0-1     3-4     9  1-7   1  1  2   1   0 
+Andre Drummond (Det)     18   8-11    0-1     0-0    16  5-13  0  1  1   2   0 
+Al Horford (Atl)          9   3-3     1-1     0-0     7  0-3   2  0  0   0   0 
+Totals                   48  75-137  20-59    3-5   173 15-57 34 24  8  11   2 
+
+
+----
+
+Skills Competition (obstacle course dribbling, passing, shooting)
+1st round  (head-to-head winner advances)
+  C.J. McCollum (Por) defeated Jordan Clarkson (LAL)
+  Isaiah Thomas (Bos) defeated Emmanuel Mudiay (Den)
+  Karl-Anthony Towns (Min) defeated Draymond Green (GS)
+  DeMarcus Cousins (Sac) defeated Anthony Davis (NO)
+
+2nd round
+  Thomas defeated McCollum
+  Towns defeated Cousins
+
+Finals
+  Towns defeated Thomas
+
+
+----
+
+3-point Shootout (4 racks of 5 balls - 4 worth 1 point, 1 worth 2 points;
+5th rack of 5 2 point balls, 60 seconds)
+1st Round  (top 3 advance)
+  22  Klay Thompson (GS)
+  21  Stephen Curry (GS)
+  20  Devin Booker (Pho)
+  20  James Harden (Hou)
+  20  J.J. Redick (LAC)
+  15  Kyle Lowry (Tor)
+  14  C.J. McCollum (Por)
+  13  Khris Middleton (Mil)
+
+Tiebreaker (3 racks, 30 seconds)
+  12  Booker
+   9  Redick
+   8  Harden
+
+Finals
+  Thompson   27
+  Curry      23
+  Booker     16
+
+
+----
+
+Slam Dunk Contest
+[2 dunks each round, maximum 3 attempts, 5 former players judge dunks]
+1st Round (top 2 advance)
+  Zach LaVine (Min)     50a 49b = 99 pts
+  Aaron Gordon (Orl)    45  49c = 94
+  Andre Drummond (Det)  36  39  = 75
+  Will Barton (Den)     44  30  = 74 (did not complete 2nd dunk)
+
+a = lob, wrap behind back, reverse dunk
+b = lob pass, free throw line jump
+c = jump over mascot, between legs dunk
+
+Finals (was supposed to be just 2 dunks, but kept going until tie broken)
+  LaVine    50a  50b  50c  50d
+  Gordon    50e  50f  50g  47h
+
+a = lob, one-hand grab and dunk
+b = free throw line jump, windmill finish
+c = lob behind backboard, between the legs reverse dunk
+d = free throw line jump, between the legs dunk
+e = spinning mascot holding ball, grab ball and one-hand glamour dunk
+f = ball on mascot's head, jump over mascot, ball under both legs,
+    one-hand slam [best dunk of the night]
+g = ball off side of backboard, windmill dunk
+h = double-clutch to ankles and back up over the head dunk
+
+
+----
+
+Rookie-Sophomore Game
+USA 157, World 154  at Toronto, Canada
+MVP: Zach LaVine (Min)
+Refs: Ben Taylor, Scott Twardoski, J.T. Orr
+(2 20 minute halves)
+
+       1st 2nd - Final   2FG   3FG   FG%   FT%
+USA     88  69 -  157   .657  .413  .560  .889
+World   79  75 -  154   .712  .395  .604  .625
+
+USA Team                                                  REB
+Player                   MIN FGM-FGA 3PM-3PA FTM-FTA PTS  O-T AST TO PF STL BLK
+Zach LaVine (Min)         24  13-20    2-3     2-2    30  4-7   4  1  0   1   0 
+Jabari Parker (Mil)       24   6-10    0-2     0-0    12  0-1   5  2  0   1   1 
+Karl-Anthony Towns (Min)  22   8-15    0-3     2-2    18  3-7   4  0  0   0   0 
+Jordan Clarkson (LAL)     24   8-20    5-14    4-4    25  1-5   5  2  0   4   0 
+Marcus Smart (Bos)        22   1-8     1-5     0-0     3  2-4   5  0  0   1   0 
+D'Angelo Russell (LAL)    16   9-15    4-7     0-0    22  0-1   7  2  0   2   0 
+Devin Booker (Pho)        18   9-13    5-8     0-1    23  1-1   0  0  2   1   0 
+Elfrid Payton (Orl)       16   0-2     0-1     0-0     0  0-1   0  1  0   1   0 
+Jahlil Okafor (Phi)       18   6-7     1-1     0-0    13  2-4   3  1  3   1   0 
+Rodney Hood (Uta)         17   5-6     1-2     0-0    11  0-3   3  2  0   1   0 
+Totals                    40  65-116  19-46    8-9   157 13-34 36 11  5  13   1 
+
+World Team                                                REB
+Player                   MIN FGM-FGA 3PM-3PA FTM-FTA PTS  O-T AST TO PF STL BLK
+Andrew Wiggins (Min)      30  13-15    0-2     3-4    29  1-2   5  1  2   0   0 
+Kristaps Porzingis (NY)   28  12-16    5-8     1-2    30  0-5   4  2  1   0   1 
+Nikola Jokic (Den)        17   6-10    0-0     0-0    12  8-8   4  1  1   0   0 
+Bojan Bogdanovic (Bro)    16   2-6     2-6     0-0     6  0-2   2  1  1   1   0 
+Emmanuel Mudiay (Den)     25  12-20    5-10    1-2    30  1-3  10  5  2   3   1 
+Mario Herzonja (Orl)      24   8-19    3-9     0-0    19  2-10  7  4  0   2   1 
+Dwight Powell (Dal)       16   6-9     0-0     0-0    12  5-11  2  1  1   2   0 
+Raul Neto (Uta)           18   1-1     0-0     0-0     2  0-1   9  1  0   0   0 
+Clint Capela (Hou)        15   6-9     0-1     0-0    12  2-7   1  2  0   1   0 
+Trey Lyles (Uta)          12   1-6     0-2     0-0     2  0-2   1  1  1   0   0 
+Totals                    40  67-111  15-38    5-8   154 19-51 45 19  9   9   3 
+
+----
+
+Slam Dunk contestants
+  Will Barton (Den)             Aaron Gordon (Orl)
+  Andre Drummond (Det)          Zach LaVine (Min)
+
+
+----
+
+3-Point Shootout contestants
+  Devin Booker (Pho)            Kyle Lowry (Tor)
+  Chris Bosh (Mia)              Khris Middleton (Mil)
+  Stephen Curry (GS)            J.J. Redick (LAC)
+  James Harden (Hou)            Klay Thompson (GS)
+
+
+----
+
+Skills Challenge contestants
+  Emmanuel Mudiay (Den)         Draymond Green (GS)
+  Jordan Clarkson (LAL)         C.J. McCollum (Por)
+  DeMarcus Cousins (Sac)        Isaiah Thomas (Bos)
+  Anthony Davis (NO)            Karl-Anthony Towns (Min)
+#Mudiay was named to replace Patrick Beverly (Hou)
+
+----
+
+NBA All-Star Reserves  [coaches from each conference select 2 guards,
+                        3 front court players, and 2 wildcards]
+  Western Conference          Eastern Conference
+  LaMarcus Aldridge (SA)      Chris Bosh (Mia)
+  DeMarcus Cousins (Sac)     #Jimmy Butler (Chi)
+  Anthony Davis (NO)          DeMar DeRozan (Tor)
+  Draymond Green (GS)         Andre Drummond (Det)
+  James Harden (Hou)          Paul Millsap (Atl)
+  Chris Paul (LAC)            Isaiah Thomas (Bos)
+  Klay Thompson (GS)          John Wall (Was)
+                             #Pau Gasol (Chi)
+#Gasol named to replace the injured Butler
+
+----
+
+Rookie-Sophomore game teams
+  US Team                         World Team
+  Jordan Clarkson (LAL) soph      Bojan Bogdanovic (Bro) soph
+  Rodney Hood (Uta) soph          Clint Capela (Hou) soph
+  Zach LaVine (Min) soph          Mario Hezonja (Orl) rook
+ *Nerlens Noel (Phi) soph         Nikola Jokic (Den) rook
+  Jahlil Okafor (Phi) rook       #Nikola Mirotic (Chi) soph
+  Jabari Parker (Mil) soph        Emmanuel Mudiay (Den) rook
+  Elfrid Payton (Orl) soph        Raul Neto (Uta) rook
+  D'Angelo Russell (LAL) rook     Kristaps Porzingis (NY) rook
+  Marcus Smart (Bos) soph         Dwight Powell (Dal) soph
+  Karl-Anthony Towns (Min) rook   Andrew Wiggins (Min) soph
+ *Devin Booker (Pho) rook        #Trey Lyles (Uta) rook
+  Coach: Larry Drew (Cle)         Coach: Ettore Messina
+#Lyles named as an injury replacement for Mirotic
+*Booker named as an injury replacement for Noel
+
+----
+
+NBA All-Star Coaches  [coach of team with best record in each conference on
+                       February 1 and didn't coach in the last All-Star game]
+  West: Gregg Popovich (SA)
+  East: Tyroon Lue (Cle)
+
+----
+
+NBA All-Star Starters  [fan voting selected 2 guards and 3 front court
+                        players for each conference]
+
+  Western Conference                     Votes
+  Front Court: Kobe Bryant (LAL)         1,891,614
+  Front Court: Kevin Durant (OKC)          980,787
+  Front Court: Kawhi Leonard (SA)          782,339
+  Guard:       Stephen Curry (GS)        1,604,325
+  Guard:       Russell Westbrook (OKC)     772,009
+
+  Eastern Conference                     Votes
+  Front Court: LeBron James (Cle)        1,089,206
+  Front Court: Paul George (Ind)           711,595
+  Front Court: Carmelo Anthony (NY)        567,348
+  Guard:       Dwyane Wade (Mia)           941,466
+  Guard:       Kyle Lowry (Tor)            646,441
+
+
+----
+
+All-Star Voting results (top 10 guards, top 15 front court)
+Western Conference
+  Front Court
+  Kobe Bryant (LAL)         1,891,614
+  Kevin Durant (OKC)          980,787
+  Kawhi Leonard (SA)          782,339
+  Zaza Pachulia (Dal)         768,112
+  Draymond Green (GS)         726,616
+  Blake Griffin (LAC)         651,860
+  Enes Kanter (OKC)           534,499
+  Tim Duncan (SA)             431,087
+  Anthony Davis (NO)          400,688
+  DeMarcus Cousins (Sac)      364,270
+  DeAndre Jordan (LAC)        269,427
+  LaMarcus Aldridge (SA)      268,003
+  Dwight Howard (Hou)         219,761
+  Dirk Nowitzki (Dal)         173,317
+  Harrison Barnes (GS)        155,289
+
+  Guards
+  Stephen Curry (GS)        1,604,325
+  Russell Westbrook (OKC)     772,009
+  Chris Paul (LAC)            624,334
+  Klay Thompson (GS)          555,513
+  James Harden (Hou)          430,777
+  Manu Ginobili (SA)          226,289
+  Rajon Rondo (Sac)           200,518
+  Tony Parker (SA)            195,472
+  Andre Iguodala (GS)         181,142
+  Damian Lillard (Por)        158,360
+
+Eastern Conference
+  Front Court     
+  LeBron James (Cle)        1,089,206
+  Paul George (Ind)           711,595
+  Carmelo Anthony (NY)        567,348
+  Pau Gasol (Chi)             566,988
+  Andre Drummond (Det)        515,296
+  Kristaps Porzingis (NY)     473,579
+  Chris Bosh (Mia)            351,420
+  Kevin Love (Cle)            332,685
+  Hassan Whiteside (Mia)      301,362
+  Giannis Antetokounmpo (Mil)  84,617
+  Jonas Valanciunas (Tor)      73,079
+  Joakim Noah (Chi)            48,509
+  DeMarre Carroll (Tor)        46,044
+  Marcin Gortat (Was)          43,496
+  Paul Millsap (Atl)           41,654
+
+  Guards
+  Dwyane Wade (Mia)           941,466
+  Kyle Lowry (Tor)            646,441
+  Kyrie Irving (Cle)          580,651
+  Jimmy Butler (Chi)          564,637
+  DeMar DeRozan (Tor)         444,868
+  John Wall (Was)             368,686
+  Derrick Rose (Chi)          302,389
+  Jeremy Lin (Cha)            195,920
+  Isaiah Thomas (Bos)         153,642
+  Reggie Jackson (Det)         76,688
+
+
+----
+  Patricia Bender                       pbender@eskimo.com
+  For NBA stuff: http://www.eskimo.com/~pbender/index.html
+  For Mavs stuff: http://www.eskimo.com/~pbender/mavs.html

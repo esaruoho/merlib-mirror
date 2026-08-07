@@ -1,0 +1,255 @@
+---
+title: "SMALLnet post383"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post383.html
+order: 8242
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post383
+
+*Source page: `~smallnet/Archive/post383.html`*
+
+## SMALLnet Posting post383
+
+------------------------------------------------------------------------
+
+**Date: Wed, 11 Apr 2001 02:42:26 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+...So far nobody has responded to Tommy Wilson's statement near the end of Posting \# 381: "...Despite the forward CG I had to crank in full down trim to try & control the climb at half throttle & above."
+
+This provides a good example of a common, and paradoxical, mis- belief. Tommy's model needed full down trim to control the climb, not "despite" the forward CG, but BECAUSE of it.
+
+Here's why. A nose-heavy model needs a down force on the tail to balance it out in level flight. A down force on the tail is equivalent to "up elevator". That can -- and usually DOES -- provide stable flight. But anything that changes the model's flying speed ALSO changes the amount of down force at the tail.
+
+More power = more down force = a climbing effect.
+
+Years ago Frank Zaic experimented with ways of controlling the climb of high-powered free flight models. These tended to loop under power. With the traditional (but erroneous) concept in mind that a nose-up tendency in flight indicates tail-heaviness, Frank built one test model that balanced on the leading edge of the wing!
+
+And that one turned out to be the loopingest flying machine Frank had ever seen!
+
+Model flight is a DYNAMIC thing, affected by what happens to a body IN MOTION, and not just sitting statically balanced on a pair of fingertips.
+
+Here's how to check out an R/C model for proper CG placement. Take it up a hundred feet or so; trim it for level flight; then put it into a shallow (say 15 degree) straight dive. Now ease the transmitter stick back to neutral. (Don't let it snap back: the model will almost surely zoom, from the rapid trim change.)
+
+What you want to see your model doing is gently nosing up, then smoothly returning to its previous level flight attitude.
+
+If your model dives more steeply after the Tx stick comes back, it's TAIL HEAVY, and needs a more forward CG.
+
+If your model zooms, it's NOSE HEAVY.
+
+This seems to contradict everything that's ever been published on trimming out a free flight model by hand gliding. ALL the books and magazines showed diagrams of "possible glide paths": nosing up indicated tail-heaviness; diving showed a nose-heavy condition.
+
+That ONLY holds true at a constant flight speed. (Note that I don't use the term "airspeed". That's a misnomer. Does a waterskier ever talk about "waterspeed", or a locomotive engineer ever say "railspeed"? No; because we all realize that neither the water nor the railroad tracks are in motion. Well, neither is the air that an airplane travels through. The PLANE is moving, not the air!)
+
+Back to CG placement: When you trim your R/C model for level flight, you set its controls to balance out all the in-flight forces due to gravity, power, and the effects of the flying surfaces. Then, when you put it into a shallow dive, you change ONE variable: flight speed increases.
+
+Returning the stick gently to neutral lets you observe the effect of that speed increase. If the model noses up strongly, that indicates excessive down-load on the tail. And that's caused NOT by an aft CG position, but by a big increase in the down force provided by the horizontal tail, because of the speed change.
+
+If the model DIVES after the transmitter stick is eased back, that can ONLY be caused by an increased UP load on the tail from the speed increase. And THAT shows that the tailplane must be carrying a UP load in level flight.
+
+Longitudinal stability in aircraft (full scale and model) requires a small download on the horizontal tail. Nose-heavy airplanes can be -- and often ARE -- flown quite satisfactorily. Bill Evans' "Scimitar" designs provide excellent examples of docile R/C models with their CG's well ahead of what could be considered aerodynamically optimum. Control-line trainers are also balanced way forward.
+
+But we should all be aware that when a model airplane climbs more steeply than we want when its throttle is opened, that's NOT a sign of tail-heaviness. Just the opposite... \[JW\]
+
+Fred Sanford \< <sanford@paulbunyan.net> \> reports:
+
+Just got back from the Toledo Show where I attended the Saturday evening P.E.R.F. 2001 Indoor R/C Invitational indoor flying session. It was held at the university field house in Bowling Green. The event, sponsored by the Perrysburg Electric River Flyers, was very well run.
+
+The list of flyers who attended looked like a who's who of indoor R/C modelers. I saw John Worth, Tom Hunt, Bob Aberle, Jim Zare (P.E.R.F. Member), Mike Gretz, Don Srull, Sergio Zigras, Fred Marks, Ken Coleman, Jack McGillivray, and many others.
+
+It seems we're at the point in the R/C indoor hobby where just about anything is possible! For example, a new company called DJ Aerotech: \< <http://www.djaerotech.com> \> had several WWII balsa profile designs with wingspans around 14".
+
+These tiny planes are multi-function and fly well. They are powered with tiny motors using gear reduction (included in the kit). I particularly liked the P-38 with a steerable nose wheel (kit price \$50). Joe Hahn flew the tiny P-38 and the crowd loved it!
+
+The event was well attended by all the magazines so there will be plenty of coverage (I'm doing a report for RC Excellence Magazine).
+
+Hats off to the Perrysburg group and especially Joe McBride, Vince Vassello, and Bill Parcher for an excellent event. I can't wait until next year! Fred
+
+Hollis Fenn \< <fenn@sc.tds.net> \> was there too:
+
+I've just returned from the Toledo show. Lots of SMALL stuff there; but the best news to some is that Ace is reintroducing the Whizard, along with the Alpha and Grasshopper; due out in about two months!
+
+At the Lanier booth I saw a cute little control-line airplane called the SkyBaby. It is ARF molded plastic with an installed Norvel CLX .061 engine, and has a 28" wingspan. They have a web site: \< <http://www.bratco.com> \>.
+
+I also purchased a FF X70 from SR batteries. I brought home no new R/C kits, though I was extremely tempted! My project pile runneth over. My SMALL Report column in R/C REPORT magazine will have details and photos in a couple of months. Now go have some fun, fly something SMALL! Hollis Fenn
+
+Bob Peterson \< <RPeter9954@aol.com> \> wrote:
+
+I've finally gotten a chance to fly my X250. The first flight was kind of exciting -- from rust on the thumbs & fingers and a too-sensitive elevator setting, plus flying in the park across the street (a little too tight) -- but both the airplane and I survived.
+
+After adjusting the elevator horn to the RECOMMENDED control throws, this airplane really flies great! Mine is slightly modified, with conventional landing gear, but it easily takes off from grass and really handles well. Mine weighed 22 ounces ready-to-fly and was built with the motor/gearbox & speed control sold by SR. You know, I may get to like this electric stuff after all. No noise, no smell, no cleaning the airplane; and my "field kit" is a sandwich bag containing a screwdriver and an Allen wrench!
+
+One other thing about the X250 is that it glides a lot better than expected. It'll loop easily from level flight, does nice vertical reverses, and the speed control is like nothing I've ever experienced -- you can see the propeller moving when you first bring the power up.
+
+I'm just starting in electric, but so far it really seems neat!
+
+Best to All, Bob Peterson
+
+Jay Hudak \< <JHudak3rd@aol.com> \> also likes the X250:
+
+It's been a while since I had anything to contribute. But I had a chance to go out to the field this past week, and enjoyed flying two electrics: the Rascal and the X250.
+
+The wind was between 6 and 8 mph, but the Rascal flew well. Downwind legs were quick! Had fun with the Rascal and then I remembered I had brought the X250 to show to whoever was there. Well, it seemed to me that I should try the first flight then and there. Without any fanfare, I placed the 250 on the grass, checked the movements, pushed the throttle forward and lo and behold, it ROG'd in about 15 feet of space.
+
+I had read that others found the plane climbed like a home-bound angel, and boy, did it. After applying down full down trim, it was put through some maneuvers; first rolls to the right, rolls to the left, and loops. Level flight was fast, and quick turns were a breeze. At no time did the aircraft show any tendencies to stall.
+
+Inverted flight was a "matter of fact" thing. Rolled it over on its back and just flew it as though it was right side up. More "sport" flying will be tried in the next few flights. I found the plane to be quick to build, and following SR's recommendations, it flew "off the board." Hope to report more on this fine aircraft at a later date. Jay Hudak
+
+Andy Tebben \< <tebben@home.com> \> is curious:
+
+I noticed a small write-up in one of the issues of RC-Microflight about 9V NiMH batteries which are available from Wal Mart for less than \$10. This low price in combination with their low weight for their capacity has me intrigued. I'm wondering if anyone out there has tried one of these, and how they worked.
+
+I am nearing completion of a Herr Starlite, and they would seem to be the perfect power source. Andy Tebben
+
+...Andy, here's a quick reply: I don't know a lot about NiMH batteries yet, but I do know two things. They work best with low current drain; and they're not as forgiving of overcharge as nicads are. \[JW\]
+
+Tony Juinta \< <jjuinta@hotmail.com> \> wrote:
+
+After an initial run-in of the Thunder Tiger GP.07, I had trouble getting the engine to hold a needle setting. When I disassembled the carburetor I found several pieces of metal shavings in the needle jet area.
+
+Upon restarting the engine I found that the settings held. I still think that this is the greatest little engine around. I wish Norvel would fix their mufflers so that they don't leak; then we'd have two great choices to replace the C\*X line, their gouging prices, and poor attitude.
+
+Keep flying SMALL. Tony Juinta
+
+Dave Segal \< <DDavesegal@cs.com> \> comments on the statement in the previous Posting: "But electrics need balanced props":
+
+I have followed Bob Kopski's suggestion to balance e-power props by placing a piece of clear plastic tape on the back side of the blade. Very easy and none ever came off. Dave Segal
+
+Jon McVay \< <Togflier@aol.com> \> concurs:
+
+I have used Keith Shaw's method of using Scotch tape and trimming that as required for exact propeller balance. Works great and NO mess. Jon McVay, Mount Vernon, Iowa
+
+Dave Larkin \< <dslarkin@blvl.igs.net> \> adds:
+
+Responding to Joe Bodin's comment on props.
+
+I find that there is a difference in the accuracy of balance among the various makes. So far I have had particularly good results with APC, RAM (British) and Bolly (Australian). I haven't been very lucky with the black Master props, at any rate the original pattern with square tips.
+
+However there is another consideration with props that some of us need to bear in mind. Most modern composite props are very stiff and some of the older engines we may want to use (say for SAM or vintage flying) were not designed for these props and may all too easily suffer broken crankshafts or crankcases. Even the Cox 049 reedvalve engines will suffer from broken cranks if used with stiff plastic 8 X 4s such as are generally used for Texaco flying.
+
+In the case of the Cox Texaco, the problem is that the prop bolt does not go far enough into the crankshaft with a large prop, leaving a vulnerable hollow section of crankshaft. The solution is to use a Queen Bee prop bolt (which is longer), or find a suitable bolt in your hardware store.
+
+You can still use the more flexible props for sport flying with the lower-powered engines. I've been using the Kavan yellow and black props; but they are no longer available to me from Irvines. However, Hobby Lobby used to stock them, so maybe they are still to be found there.
+
+I wish the old Tornado Plastikotes were still available.
+
+Best regards, Dave
+
+Chuck Kriete \< <dotchuck@epix.net> \> contributed:
+
+Amen to all your comments in the current posting, Joe. Especially the ARF. I got one for Xmas from the wife and it has about six flights, none of them fun. All but two ended in a crash-type landing. The model is a Graupner Eindecker from Hobby Lobby.
+
+Their ad advises the wrong motor and gear and battery, according to their repair department. That is a very reasonable and responsible department -- they sent me a replacement gear, motor, and prop that actually makes the thing fly correctly.
+
+But it is still not the thrill of seeing something you built yourself flying well. Along those lines, I have a Livewire Kitten on an MG1 and six AAA NiMH cells from Hosfelt, with the same radio equipment as the Rebel account in Posting 382, and it too flies like a champ. I love it.
+
+In a thermal it has done 21 minutes, and without lift it does 9 minutes regularly. Chuck Kriete
+
+Robert Cory \< <knittinlady@worldnet.att.net> \>
+
+I'm Robert Cory (aged 62) in Columbus Ohio. I recently fired up a new P.A.W. 1.0 cc R/C diesel with single ball bearing. This is a nice little engine & I look forward to getting it into an airplane.
+
+I've been working along on a copy of Randy Randolph's "Nickle", which is a high-wing plane of about 44 inch span & 295 square inches. I've not flown any since my divorce in 1989 interrupted all such activities. The last diesel I 'ran' was a 0.8 cc P.A.W. without a throttle, which was run in a 2-channel "Mini Fledgling" (by Sterling), that had its wing extended by 8 inches, to 48 inches span. The plane was 'good' and the engine was \*flawless\* in operation. Although the diesel stink is pretty bad, I can't dislike anything that runs this good.
+
+The old (.049) P.A.W. had great power and started very easily; this was after it had been broken in well. The ease of starting was especially gratifying as I had problems starting diesels as a young-un. It also was a real \*revelation\* to me to learn that I HAD NOT been operating diesels properly!
+
+The correct system for tuning diesels is outlined in Eric Clutton's "Dr. Diesel's Diary" and also in Ed Carlson's "Carlson Engine Imports" catalog.
+
+Back when I used diesels - up til 1962 - I'd had trouble starting them and wasn't able to get them to run all that well either.
+
+I'd tried breaking-in this 'new' P.A.W. 1.0 cc (.061 cu.in.) maybe 2+ years ago. I was very surprised to see last week that after about only 30 minutes of run time (2 years ago) this engine easily started and ran very well - including low speed. The power and smoothness of this .061 is impressive. I'm assuming that the "Single Ball Race" could possibly account for the added power and smoothness, above that of the (prior) .049 ?? But it may also be the fuel too -- Davis Diesel fuel now.
+
+All my subsequent P.A.W.s \*will\* be at least Single Ball Race, no matter the weight penalty. Hope to have my "Nickle" out at a field in the next month or 6 weeks. Progress is fairly slow but steady.
+
+I'm trying to use Bill Winter's "Purple Plan" that he once mentioned in an article about getting model planes built: only a little bit at a time.
+
+I found a brief letter I'd got from Duke Fox back circa 1988 (?). I'd written him griping about a bad carburetor on his .15 BB R/C -- which 2 of us "losers" had bought. This engine had beaucoup power -- too much -- but the carburetor was a stinker and the engine gulped fuel like you couldn't believe. I think I got 5 minutes on a 4-ounce tank! I got a \*nice\* reply from Duke that said "thanks, but no thanks" (etc.). So I'm gonna put the thing in a frame and hang it on the wall as a memento. Bob
+
+...Here's an amplification of the "Purple Plan" remark above. Bill Winter was a HIGHLY active participant in R/C modeling at the same time that he was editing Model Aviation. When someone asked Bill how he managed to find the time to design and build airplanes, he replied with a paraphrase of the punch line of a joke that was current at the time: "How do Purple People Eaters eat people?"
+
+"One bite at a time."
+
+Bill turned that offhand remark into a mini-philosophy. He said (and RIGHTLY) that you don't need hours and hours of uninterrupted modeling time to construct airplanes. Doing as little as one rib or bulkhead or landing gear wire at a time will eventually finish the project. \[JW\]
+
+Ron Fikes \< <srfikes@earthlink.net> \> submitted:
+
+FYI -- I received a notice in the mail that said I could order my Model Airplane News subscription through a magazine exchange service, at a low rate. I contacted M.A.N. and learned that the group that sent me the notice is OK -- BUT: there is another group making the same offer, and this one is a scam! If you send your \$\$\$ to "Publishers Exchange", you will never see your \$\$\$ again. So, if a subscription offer for M.A.N. sounds too good to be true, call M.A.N. and check it out.
+
+This may be a little off-topic, but a few weeks ago, an electric model flyer arrived at Rancho San Antonio Park in Mountain View, California with a new airplane. He took some photos and then flew the plane and left -- but his camera was still on our bench.
+
+Had never met this modeler before, but his plane was unique! It was an old-timer (50's) that had the original gas engine in the nose, BUT he had an Astro 15 mounted to the back of it, driving the prop through an extension shaft.
+
+If anyone knows who this is, please have him contact me and identify the camera...
+
+Thanks, Ron Fikes, Palo Alto, California
+
+Sam Brauer \< <SBrauerBCC@aol.com> \> wrote:
+
+Suitably chastened, I'm writing to tell the gang about a little BIPLANE (not bipe, although it is diminutive) that I've been fooling with. The airplane is called a Zaunkonig (Wren in German) that I picked up in Austria about 10 years ago.
+
+The kit was produced by Simprop and was targeted to weigh about 14 ounces, with a wingspan of about 18" and to be powered with a TD 049. At first glance, the structure looks way too light -- 3/32" balsa sides -- minimal doublers -- but the wood is like iron.
+
+After flying some of the House of Balsa 1/2A airplanes, I thought that an 049 would be far too much power for this little biplane, so it languished on the shelf. I was also concerned because the plans showed a 6" prop, which was wider than the tailplane.
+
+The airplane does have ailerons, lots of downthrust, and a pair of equal-span, constant-chord, flat-bottom wings. All in all, this airplane looks like a recipe to fly like a pair of demented squirrels chasing a nut.
+
+I decided that a Speed 280BB might be just the ticket for this little plane, so that's what I picked up for it. Unfortunately, propellers for this size motor are hard to come up with -- as are batteries. The problem is that the batteries that deliver enough amps for the motor are 600 AE nicads, and a 7-cell pack weighs a touch under 4.5 ounces. I've tried several different packs on the motor: a 7-cell 350 mAh nicad, an 8-cell 720 mAh nickel metal hydride (NiMH), and a 9-cell 720 NiMH pack.
+
+So far, I've been flying the airplane with the 7-cell 350 Nicad pack, which is the lightest -- but has less power than the 600 AE nicads. All-up weight of the plane is a touch under 10 ounces -- I cut lots of lightening holes in the fuselage and tail rather than substitute wood -- just lazy I guess.
+
+The first prop I tried was the Graupner 5 x 2. The plane got about 5 feet high before pancaking. The next prop was a slightly cut-down Cox 5 x 3 -- you know, the stupid prop with the tip weights molded in. I cut those off, and the prop seemed to stir the air more than the Graupner, so I gave it a shot.
+
+Lo and behold, the little bugger flew. It's not killer quick, but it is responsive. The worst problem is the lack of power -- plenty to fly around with, but not enough to loop, and I haven't tried a roll yet.
+
+Landings turned out to be a non-issue -- just fly it about 6 feet altitude with wings level, and cut the power. It settles in nicely without dropping a wing. It's not a floater, but the descent is slower than many sport planes I've flown. I've got some more props on order from the local hobby shop -- I'll see if some of the APC props help.
+
+But I think the real fix is a better motor. Astro Flight has finally announced that they're bringing out their 010 with a throttle, and I've got one on order. At \$125 it's more than double the cost of the Speed 280BB with a Pixie 7, but if it works....I may be proving yet again, Keith Shaw's adage in electrics: buy cheap, buy twice.
+
+If anybody's contemplating direct drive Speed 300s versus Speed 280BBs -- here's my take on it. The Speed 300 runs on one less cell, so it's a little lighter, noisier, and drains the batteries faster. After a couple of dorks, the shafts on these motors bend, so they both get noisy.
+
+In terms of all-out performance -- the problem is that both motors have ampere draws high enough to warrant 600 AE cells. At that point a Speed 400 motor is only an ounce more; cheaper; and puts out a heck of a lot more power swinging a bigger prop.
+
+For aerobatic performance on the cheap, it's probably easier to stay with the Speed 400 motor for the time being.
+
+Sam Brauer Norwalk, Connecticut
+
+Ken Phillips \< <kgphilli@airmail.net> \> is grateful:
+
+Some time back I put an appeal for help finding a good covering materiel and technique for covering a SIG RC Rascal. The number of replies I received amazed me. Over 100. I really appreciate the help and I want to thank all of you whom I was unable to get back to due to sheer volume.
+
+After all that, I lined up the answers as though they were votes, took a hard look at the majority opinions, and then went with them. Clear Monokote.
+
+The ingenuity of modelers never ceases to astound me as I learned that Wal Mart is a great source for covering materials and so are drafting supply stores. Thank you all for a most instructive and pleasant education. And Thank you SMALLnet for printing my call for help. Modelers are simply great people.
+
+Ken Phillips
+
+Peter Havriluk \< <Peter.Havriluk1@hartfordlife.com> \> informs us:
+
+In case anyone is interested, I sent this note to Norm Dial on his request for a C/L type venturi for his Enya .35:
+
+First a question: does this engine have a round or square venturi? The square venturis were custom-molded Enya parts. The round ones can be fabricated, and are, by aftermarket specialist C/L vendors. A needle valve is also readily obtainable in the aftermarket.
+
+<span id="500">Source: Venturis, custom\
+</span> <span id="501">Source: Needle Valves\
+</span> <span id="502">Vendor: Stuka Stunt Works\
+</span> I strongly urge you to give Leonard Neumann, aka Stuka Stunt Works, a call. He makes custom venturis and sells needle valves. He has a great website, too: \< <http://www.clstunt.com> \>.
+
+I've done business with Leonard; he's been a true gentleman, and my interactions with him have been a pleasure. Peter
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,0 +1,343 @@
+---
+title: "Guitar Principles | The Fundamentals of Fun"
+source_domain: amasci.com
+source_path: ~ogre/articles/principles/20020201.html
+order: 5554
+reachable_from_entry: false
+images: 99
+internal_links: 5
+extracted: 2026-08-07T17:12:37Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Guitar Principles | The Fundamentals of Fun
+
+*Source page: `~ogre/articles/principles/20020201.html`*
+
+<span id="top"></span>
+
+<table width="770" data-border="0" data-cellspacing="0" data-cellpadding="5">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://www.guitarnoise.com/"><img src="../../images/logo_print.gif" data-border="0" width="274" height="80" alt="Guitar Noise" /></a></td>
+<td><a href="http://www.guitarprinciples.com" target="_blank"><img src="images/GPbanneryellow.gif" data-border="0" width="468" height="60" alt="Click here to visit GuitarPrinciples.com" /></a></td>
+<td data-nowrap=""><p><a href="http://www.guitaralliance.com/cgi-bin/affiliates/clickthru.cgi?id=guitarnois&amp;page=http://www.guitaralliance.com/guitar_lessons/riffs.htm" target="_blank">Riff-O-Matic</a><br />
+<a href="http://www.sheetmusicplus.com/a/string.html?id=18060" target="_blank">Guitar Strings</a> - 60% off</p></td>
+</tr>
+</tbody>
+</table>
+
+|  |
+|----|
+| [<img src="../../images/guitar_home_off.gif" data-border="0" width="90" height="17" alt="Home" />](http://www.guitarnoise.com/index.html)[<img src="../../images/guitar_on.gif" data-border="0" width="81" height="17" alt="Guitar" />](http://www.guitarnoise.com/guitar/index.html)[<img src="../../images/guitar_bass_off.gif" data-border="0" width="81" height="17" alt="Bass" />](http://www.guitarnoise.com/bass/index.html)[<img src="../../images/home_amps_off.gif" data-border="0" width="119" height="17" alt="Amps" />](http://www.guitarnoise.com/amps/index.html)[<img src="../../images/home_songwriting_off.gif" data-border="0" width="119" height="17" alt="Songwriting" />](http://www.guitarnoise.com/songwriting/index.html)[<img src="../../images/home_otherside_off.gif" data-border="0" width="145" height="17" alt="The Other Side" />](http://www.guitarnoise.com/otherside/index.html) |
+
+<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr data-bgcolor="#336699">
+<td data-valign="center" data-nowrap="" height="16"><table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<tbody>
+<tr data-bgcolor="#336699">
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="112" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/new.html" class="menu1">WHAT’S NEW</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/about/index.html" class="menu1">ABOUT US</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/forum/index.html" class="menu1">FORUMS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/links/tab.html" class="menu1">GUITAR TAB</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/reviews/index.html" class="menu1">REVIEWS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/pick/index.html" class="menu1">INTERVIEWS</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td data-nowrap="" data-bgcolor="#336699"><a href="http://www.guitarnoise.com/help/index.html" class="menu1">HELP</a></td>
+<td data-nowrap="" data-bgcolor="#336699"><img src="../../images/transparent.gif" width="18" height="12" /></td>
+<td style="text-align: right;" data-bgcolor="#336699" data-nowrap="" width="100%"><span class="whitetext"> </span></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><img src="../../images/transparent.gif" width="12" height="8" /></td>
+</tr>
+<tr>
+<td><table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<tbody>
+<tr height="1">
+<td colspan="3" style="text-align: left;" data-valign="top" height="1" data-bgcolor="#000000"><img src="../../images/transparent.gif" width="200" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<img src="../../images/transparent.gif" width="12" height="10" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/tour/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> <strong>Site Tour</strong></a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/beginner/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="8" height="8" /> Beginners Songs</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/columns/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Guitar Columns</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/guitar/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> <strong>Guitar Lessons</strong></a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/acoustic/index.html" class="menu2">Acoustic</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/blues/index.html" class="menu2">Blues</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/chords/index.html" class="menu2">Chords</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/classical/index.html" class="menu2">Classical</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/metal/index.html" class="menu2">Heavy Metal</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/jamming/index.html" class="menu2">Jamming</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/jazz/index.html" class="menu2">Jazz</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/scales/index.html" class="menu2">Scales</a>\
+<img src="../../images/shim.gif" width="8" height="6" /> <a href="http://www.guitarnoise.com/guitar/teaching/index.html" class="menu2">Teaching</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/bass/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Bass Lessons</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/songwriting/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Songwriting</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/sound/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Sound Engineering</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/otherside/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> The Other Side</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/help/expert.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Ask The Expert</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/pick/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Interviews</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/reviews/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="7" height="8" /> Reviews</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/books/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="8" height="8" /> Books</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<a href="http://www.guitarnoise.com/links/index.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="8" height="8" /> Links</a>
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="1" height="1" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<img src="../../images/transparent.gif" width="3" height="3" />
+
+<div align="left">
+
+<a href="http://www.guitarnoise.com/search.html" class="boxhead">Search</a>\
+<img src="../../images/transparent.gif" width="6" height="4" />\
+\
+\
+<a href="http://www.guitarnoise.com/search.html" class="menu2"><img src="../../images/tri_grey.gif" data-border="0" width="8" height="8" /> Advanced Search</a>
+
+</div>
+
+<img src="../../images/transparent.gif" width="18" height="10" />
+
+<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2" data-valign="center" width="100%"><p><strong>You are here:</strong> <a href="http://www.guitarnoise.com" class="menu3">Home</a>, <a href="../../guitar/index.html" class="menu3">Guitar</a>, <a href="../index.html" class="menu3">Guitar Case</a>, <a href="index.html" class="menu3">Guitar Principles</a>, The Fundamentals of Fun</p></td>
+</tr>
+<tr>
+<td colspan="2" data-bgcolor="#000000" height="1"><img src="../../images/transparent.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td colspan="2" height="12"><img src="../../images/transparent.gif" width="12" height="12" /></td>
+</tr>
+<tr data-valign="top">
+<td colspan="2"><table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%"><h1 id="the-fundamentals-of-fun">The Fundamentals of Fun</h1>
+<table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-valign="top"><p><strong>Guitar Principles Essay # 15</strong></p>
+<p><strong>Published</strong> February 01, 2002<br />
+<strong>By</strong> <strong><a href="jamey.html">Jamey Andreas</a></strong></p></td>
+<td style="text-align: right;" data-valign="top"><p><a href="print/20020201.html">Print this page<img src="../../images/printer.gif" data-border="0" width="22" height="16" alt="Get a printer friendly version of this page" /></a><br />
+<a href="../../about/recommend.html">Email to a Friend <img src="../../images/email.gif" data-border="0" width="22" height="16" /></a><br />
+<a href="javascript:void(0);" onclick="window.external.AddFavorite(location.href, document.title);">Bookmark this page <img src="../../images/bookmark.gif" data-border="0" width="16" height="16" alt="Bookmark this page" /></a></p></td>
+</tr>
+</tbody>
+</table>
+<p>The subject of Fun is one of the most serious topics we can discuss. One of the greatest achievements of my lifetime has been the maintenance of the capacity for fun from early childhood. Another has been coming to an understanding of what Fun is. And so, Fun is the cornerstone of my life, and the foundation of everything I do.</p>
+<p>I know that I am sometimes perceived as a serious dude, talking about Principles and other not-so-fun topics, but when you know what Fun is, then you will see why even serious, or thought inducing, weighty matters can be Fun. I want to talk about this subject because it is vital to making progress as a guitarist. In fact, you cannot MAKE any progress as a guitarist, unless you know how to have Fun. We "play" the guitar. You cannot "play" if you don't know how to have fun. It's true that "practice" sometimes seems like "work", but you will see that work is not the opposite of play, or the opposite of fun. Work can, and should, be Fun.</p>
+<p>Now, Fun is a funny thing. For some people, going out dancing and drinking all night is fun. For others, that would be torture, but sitting quietly and reading a book on philosophy is Fun. For some people, jamming on the electric guitar for hours is fun, for others, sitting with a metronome for an hour of disciplined practice is Fun (and yes, the same person may find each of these things to be Fun at different times). For some people, having to solve difficult problems requiring great thought is Fun, and for another, it is nothing but a headache. So, what is going on here?</p>
+<p>The fact is that anything can be Fun for some person or the other. However, the particular things that we find to be Fun say everything about who we are as people, and what our level of personal development is. However, there is one common denominator that is always present when a person says "this is fun". That common denominator is "creative enjoyment". Fun is creative enjoyment. Einstein working out the theory of relativity, or Michael Jordan shooting a basket; both are having Fun. Both are "creatively enjoying". As long as this quality is present, ANYTHING can be fun. Without this quality, NOTHING is fun.</p>
+<p>What is "creative enjoyment"? Well, "creative" is almost self-explanatory. It is basically bringing something new into the world. It could be a dinner, an idea, a blanket, a building, whatever. Whatever is being created, it involves bringing something "out" of yourself, and giving it some kind of form on the outside.</p>
+<p>The universal human urge to be creative stems from the one characteristic that always accompanies a creative act: a pleasurable energy sensation in the inner being. The person who knows how to have Fun is the person who knows how to be good to themselves, how to give themselves pleasure, how to make themselves happy.</p>
+<p>Everyone is inherently creative. All children are naturally creative. However, creativity carries with it a certain "natural aggressiveness", and "natural assertiveness. To be creative is to affirm and assert oneself, to use one's power. Many children have this natural assertiveness conditioned out of them as they mature, and so they cannot find their creative powers when they have become adults. They also cannot find their ability to have Fun. In fact, I have met many adults who actually believe that adults are not supposed to have Fun! When I am teaching such a person, I have to try to re-connect them with their lost ability to have Fun. Sometimes I can, and sometimes I can't. Some people will not allow it; giving themselves pleasure, and having Fun, makes them feel guilty.</p>
+<p>And enjoyment? That is a very interesting word. "En-Joy". According to the dictionary, "en" means "to put into". Now, this is a very key understanding. People usually think that things are enjoyable in and of themselves, as if "joy" positively radiates from various things, and we merely have to bask in the "joy" that shines out of them like sunlight. A new car, a million dollars: wow, what happiness, what joy! And yet, we often read of millionaires with lots of money and fleets of cars, who kill themselves after falling deeply into despair and misery for one reason or another. So, obviously, there is no "joy" emanating out of any of these exalted "things".</p>
+<p>When we en-joy something, it is because of what we are putting INTO it, not what we are getting OUT of it. "It" has nothing to give us, until we give "it", us! What we put into it is the Joy that is already inside of us! Well, obviously, you must already HAVE this Joy inside of you before you can put it into something. That Joy is the native Joy of simply being alive, simply existing, along with everything else. We would all do well to check up on our personal "Joy Quotient". If it is low, or missing entirely, we should find out where it went. We won't find it gone to anywhere outside of us, only buried, perhaps smothered, deep within.</p>
+<p>Someone who has nothing they enjoy, simply is empty inside. The reasons why this happens would require other essays, but understand that an artist MUST have an inner fullness that is brought out, and combined with "the world" in a creative way, and VOILA, art appears. Music is written and played and sung, because someone has the capacity for "creative enjoyment", for FUN.</p>
+<p>As we go from child to adult, the particular things we find to be Fun will change, and be added to. However, the intensity of that Fun, and the ability to have it, should never diminish. Unfortunately, it almost always does. There is no sadder sight to my eyes than the disconsolate child, moping and moaning "I'm bored, there's nothing to do". This poor child is already old, the spark has left, the inner fullness has turned to emptiness, and that emptiness is projected outward, so that the world, full of so much beauty and amazement, looks empty.</p>
+<p>No, the opposite of Fun is not work, it is boredom, which is "apathy for existence".</p>
+<p>It can truly be said that the passage from childhood to adulthood, when properly traversed, is characterized by the ability to transform Fun into Work. The only difference between Fun and Work is that Fun is the creative enjoyment of an activity which has no goal other than the activity itself, and Work is activity that has a predetermined goal (Intention). That is why Work can be Fun, because Work is simply Fun with an added dimension. Work, like Fun, can be a form of creative enjoyment; it simply has a goal also. This is the difference between practicing and playing. Practicing is Work (Fun + Intention, or the goal to learn and improve), Playing is just plain Fun (we play because we want to play, it feels good). Fun has no structure imposed upon it from outside, Work has an imposed structure, that is why it is more "adult".</p>
+<p>The properly developed adult should feel both a need for Fun and a need for Work. For myself, I am switching between the two all the time. Even sitting practicing, I may do some technical exercise for 15 minutes, with intense focus and concentration, and then, I will feel the great urge to just PLAY something and have Fun. Which I do. Sometimes, I just feel the need to play for half an hour. Sometimes, I feel the need to Work for an hour. One feeds into, and leads into, the other.</p>
+<p>There are two types of students: one needs to learn how to Work, and the other needs to learn how to have Fun. The first is more common. Most people have never learned true Work. Most people's relationship to Work began as that most distasteful intrusion upon our personal time and energy, when, as children we encountered that thing called "homework". Yes, homework, another word for "the demand to focus our inner resources upon something to which we have no connection, and no desire for connection, but we do so under threat of some type of punishment from all the Big People". Wow, what a wonderful way to discover how to "en-joy" life! What a wonderful way to get a good attitude about Work!</p>
+<p>So, many people I meet need to be trained to put out the level of energy and focus required to learn the guitar as it should be learned. They simply have never encountered something which made this demand on ALL their physical, mental, and emotional resources. You can fake your homework. You can't fake your guitar practice, and you sure can't fake your guitar playing!</p>
+<p>However, I will occasionally get the type of student who is happy to practice exercises with the metronome all day, focusing on those fingers for hours all day, every day. However, they never pick up the guitar to just play and have Fun! How sad, how tragic! That is not how we get to be guitar players or musicians. Musicians specialize in having Fun. We are Fun Masters. I have to tell these people " I am ordering you, as part of your practice, to just pick up the guitar, play it, and have Fun! Remember, have Fun, that's an order!"</p>
+<p>Often, beginners on guitar delay having Fun, putting it off until some time in the distant future when they deserve it. This is not good. Fun, and music making should come into the picture as soon as possible. Anyone just learning to play should have two goals in mind: one, making sure the technical foundation being laid is correct, and strong so that continuous growth is possible, and two, making some MUSIC as soon as possible, something, anything that that turns you on, that gets your emotional juices flowing, whether it is Bach or Rock.</p>
+<p>Yes, anything worth doing should be worth having Fun while doing it. The United States Marines live by a Principle, their motto, "Semper Fi", which means "always faithful". Here at GuitarPrinciples, I have told everyone involved in the day to day workings of things (and "not-workings, such as computers, printers, etc.!) to keep our Motto in mind. It is the Principle we operate on here, our first Principle of Business, Work, and Life: Semper Fun!</p>
+<p>Copyright 2001 Jamey Andreas.</p>
+<p><a href="#top">Back to top</a> <a href="#top"><img src="../../images/arrow_green3.gif" data-align="absmiddle" data-border="0" width="15" height="17" alt="Top" /></a></p>
+<table width="100%" data-border="0" data-cellspacing="0" data-cellpadding="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="50%"><p><img src="../../images/tri_grey2.gif" data-align="absmiddle" width="8" height="9" alt="Back" /> <strong><a href="20020101.html">Previous</a></strong> article in this series "Relaxation"</p></td>
+<td width="50%"><div data-align="right">
+<p><a href="index.html"><strong>Next</strong></a> to list of articles in this series <img src="../../images/tri_grey.gif" width="7" height="8" alt="Next" /></p>
+</div></td>
+</tr>
+</tbody>
+</table>
+<img src="../../images/shim.gif" width="60" height="40" />
+<table data-border="0" data-cellpadding="1" data-cellspacing="0" data-bgcolor="#cccc99">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%"><table width="100%" data-border="0" data-cellpadding="4" data-cellspacing="0" data-bgcolor="#cccc99">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#ffffff" data-valign="top" width="100%"><p><img src="../../about/images/jamey_medium.gif" data-align="right" width="100" height="76" />Fans of Jamey Andreas, make sure you check out Jamey’s exclusive article, “Left Hand Form &amp; Development For Guitarists,” classic Questions &amp; Answers from the famous "GuitarPrinciples" Newsletter. Jamey answers questions related to left hand form and development which applies to all styles of electric and acoustic guitar. The topics covered include: Thumb Position &amp; Movement, Training of the Little Finger, Difference Between Classical &amp; Electric Position, Making Bar Chords Easy, Developing "Finger Lowness,” and Strengthening Weak Joints. The knowledge and insight contained in this collection is essential for any player, of any level or style, who wants a deep understanding of how to develop a left hand on guitar that functions at full capacity.</p>
+<p>“<a href="http://truefire.com/list.html?store=music_instruction&amp;section=new_arrivals&amp;orderby=&amp;offset=0&amp;item=3488" target="_blank">Left Hand Form &amp; Development For Guitarists</a>” is available exclusively at TrueFire.</p>
+<p>Jamey’s exclusive essays and music are available at truefire.com.</p>
+<p>For more information about Jamey, his teaching, and his music, visit <a href="http://www.guitarprinciples.com/" target="_blank">www.guitarprinciples.com</a>.</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+<td><img src="../../images/transparent.gif" width="18" height="12" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr>
+<td colspan="2"><img src="../../images/transparent.gif" width="60" height="40" /><br />
+&#10;<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr height="1" data-bgcolor="#000000">
+<td height="1"><img src="../../images/transparent.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="copyright">Copyright © 2002 Guitar Noise. All rights reserved. <a href="http://www.guitarnoise.com/tour/sitemap.html">Site Map.</a> <a href="http://www.guitarnoise.com/privacy.html">Privacy Statement.</a> <a href="http://www.guitarnoise.com/about/feedback.html">Feedback.</a> <a href="http://www.guitarnoise.com/about/index.html">Contact Us.</a><br />
+<img src="../../images/transparent.gif" width="12" height="12" /></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>

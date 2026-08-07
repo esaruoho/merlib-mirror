@@ -1,0 +1,25 @@
+<HTML>
+<SCRIPT LANGUAGE="JavaScript">// scroll stringvar scrlStr = "Disclaimer -- RuneQuest is the Avalon Hill Gaming Company's trademark for its fantasy role-playing game. RuneQuest is"+" copyright Avalon Hill and Chaosium.  Glorantha is copyright Greg Stafford. Use of any trademark or reference "+"to any copyrighted material is not on purpose or intended to be used in any way to break the copyright or trademark status of those companies and individuals mentioned." // the width of the scrolling areavar width = 120;// additional variable settingsvar strLen = scrlStr.length;var pos = 1 - width;                // start far enough to the left for only                                               // one letter to be showing// main function for scrollingfunction scroll(){    var scroll = "";                // initialize the string to be printed    pos++;                          // move to the right in the string    if (pos == strLen)              // start over if the string is done        pos = 1 - width;            // scrolling    if (pos<0) {                    // add spaces to beginning if necessary        for (var i=1; i<=Math.abs(pos); i++)            scroll = scroll + " ";         scroll = scroll + scrlStr.substring(0, width - i + 1);    }    else        scroll = scroll + scrlStr.substring(pos, pos + width);    window.status = scroll;         // print the string    setTimeout("scroll()",100);     // recurse after 1/10 of a second}
+</SCRIPT>
+<HEAD>
+    <TITLE>The Runequest Source</TITLE>
+	</HEAD>
+<!--<body onLoad = "scroll(); return true">-->
+	<BODY onLoad="scroll(); return true" BACKGROUND="back_dragon.jpg">
+<center><IMG SRC="rqlogo.gif" WIDTH=315 HEIGHT=75 BORDER=1 ALT="Simple Picture eh? Only 1k too."></center>
+<hr>
+<p>Hi there!  This site was created out of a need that I saw that was not met by anyone in a direct manor.  On the web there is very little material that is <I><B>RQ reference material </B></I>such as Cults, spells, creatures, or NPC's, when there is material it is buried so deep and referenced so abstractly, that it is pretty much worthless.  This site is dedicated to meat and potatoes RQ, thick and full, not a lot of fluff and useless
+verbiage.</p>
+<p>
+<b>RuneQuest</b> and <b>Glorantha</b> are parts of a gaming system that is unique and set apart from the standard systems that you can find at your local hobby shop or book store.  On the web pages here you will find a great deal of information and detail relating to RuneQuest and Glorantha and I hope that somewhere in here you might find a certain something you needed.</p>
+<p>
+I hope that amongst my other work and hobbies that I can keep this site up to date and living, and with your comments and contributions, I hope to make this site a source of RuneQuest and Glorantha gaming promotion and a place where gamers on the web can publish ideas and other nuggets of cool stuff for RuneQuest and Glorantha.  For further information on <b>Avalon Hill </b>and <b>Chaosium</b>, see these links.
+<center>
+<br><p>
+<a href="http://www.chaosium.com" Target="_parent"><img src="chalogo.jpg" width=100 height=100 border=0 alt="Chaosium's Homepage" align=center></a>
+<a href="http://www.avalonhill.com" Target="_parent"><IMG SRC="avalon.gif" WIDTH=100 HEIGHT=100 BORDER=0 ALT="Avalon Hills Homepage" align=center></a>
+<a href="http://www.glorantha.com" Target="_parent"><IMG SRC="glorantha.gif" WIDTH=100 HEIGHT=100 BORDER=0 ALT="Gloranthas Official Homepage" align=center></a></p>
+<P>
+<hr><font size="-2">Last Updated: 05.31.2002. The Ouija, on the Web</font>
+</BODY>
+</HTML>

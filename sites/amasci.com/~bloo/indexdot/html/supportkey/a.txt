@@ -1,0 +1,730 @@
+HTML specification/browser support page: A 
+
+ HTML Support History 
+ = Index DOT Html by Brian Wilson = 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ Browser Timelines |
+ How to Read These Pages 
+
+ A 
+ B 
+ C 
+ D 
+ E 
+ F 
+ H 
+ I 
+ Input 
+ K 
+ L 
+ M 
+ N 
+ O 
+ P 
+ Q 
+ R 
+ S 
+ T 
+ U 
+ V 
+ W 
+ X 
+ ! 
+
+ HTML 
+
+ XHTML 
+
+ Browsers 
+
+ Tag 
+ Attribute 
+ 2.0 
+ 3.0 
+ 3.2 
+ 4.0 
+ &#160; 
+ 1.0 
+ 1.1 
+ &#160; 
+ IExplorer 
+ Mosaic 
+ Netscape 
+ Opera 
+
+ A Href 
+ X X 
+ X X 
+ X X 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ % Core % 
+ -- X 
+ -- X 
+ X X 
+ 3.0 -- 
+ 4.0B3 3.5 
+
+ % Accessibility % 
+ X X 
+ X X 
+ X X 
+ 4.0B1 -- 
+ 6.0 3.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ 3.0 -- 
+ 2.0 3.0 
+
+ % Language % 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ -- -- 
+
+ % Data % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Accesskey 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0B2 7.0 
+
+ Charset 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ -- 7.0 
+
+ Coords 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.0 7.0 
+
+ Disabled 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.0 -- 
+ -- 7.0 
+
+ Hreflang 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.1 -- 
+
+ Methods 
+ X X 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ Name 
+ X X 
+ X X 
+ X -- 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ Rel 
+ X X 
+ X X 
+ X X 
+ 3.0 -- 
+ 6.1 -- 
+
+ Rev 
+ X X 
+ X X 
+ X X 
+ -- 3.0 
+ 6.1 -- 
+
+ SDAPref 
+ X -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+
+ Shape 
+ -- X 
+ -- X 
+ X X 
+ -- -- 
+ 6.0 7.0 
+
+ Suppress 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0-4.x -- 
+
+ Tabindex 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0 7.0 
+
+ Target 
+ -- -- 
+ -- X 
+ X -- 
+ 3.0A1 -- 
+ 2.0 2.1 
+
+ Title 
+ X X 
+ X X 
+ X X 
+ 4.0B1 -- 
+ 6.0B2 3.0 
+
+ Type 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.1 -- 
+
+ URN 
+ X X 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ A ID/Name 
+ X X 
+ X X 
+ X X 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ % Core % 
+ -- X 
+ -- X 
+ X X 
+ 3.0 -- 
+ 4.0B2 3.5 
+
+ % Accessibility % 
+ X X 
+ X X 
+ X X 
+ 4.0B1 -- 
+ 6.0 5.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0B1 4.0 
+
+ % Language % 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ -- -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Href 
+ X X 
+ X X 
+ X X 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ Methods 
+ X X 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ Rel 
+ X X 
+ X X 
+ X X 
+ 3.0 -- 
+ -- -- 
+
+ Rev 
+ X X 
+ X X 
+ X X 
+ 3.0 -- 
+ -- -- 
+
+ Title 
+ X X 
+ X X 
+ X X 
+ 4.0B1 -- 
+ 6.0B1 5.0 
+
+ URN 
+ X X 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ Abbr 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.0B1 4.0 
+
+ % Core % 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.0B1 4.0 
+
+ % Accessibility % 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.0 5.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ 6.0B1 4.0 
+
+ % Language % 
+ -- -- 
+ -- X 
+ X X 
+ -- -- 
+ -- -- 
+
+ Acronym 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ 6.0B1 4.0 
+
+ % Core % 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ 6.0B1 4.0 
+
+ % Accessibility % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0 -- 
+ 6.0 5.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0 -- 
+ 6.0B1 4.0 
+
+ % Language % 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ -- -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Address 
+ X X 
+ X X 
+ X X 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ % Core % 
+ -- X 
+ -- X 
+ X X 
+ 3.0 -- 
+ 4.0B2 3.5 
+
+ % Accessibility % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0 5.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0B1 4.0 
+
+ % Language % 
+ -- X 
+ -- X 
+ X X 
+ 4.0 -- 
+ 6.0B1 -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Align 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- 4.0 
+
+ Clear -- 
+ X 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- 4.0-6.x 
+
+ Height 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- 4.0-6.x 
+
+ SDAForm 
+ X -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+
+ SDAPref 
+ X -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+
+ Width 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- 4.0-6.x 
+
+ Applet 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5 
+
+ % Core % 
+ -- -- 
+ -- X 
+ X -- 
+ 4.0 -- 
+ 4.0 -- 
+
+ % Accessibility % 
+ -- -- 
+ -- X 
+ X -- 
+ -- -- 
+ -- -- 
+
+ % Events % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ % Language % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ % Data % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ -- -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Align 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5-3.6x 
+
+ Alt 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 -- 
+
+ Archive 
+ -- -- 
+ -- X 
+ X -- 
+ 4.0 -- 
+ 3.0B7-?? -- 
+
+ Border 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ 2.0 -- 
+
+ Code 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5 
+
+ Codebase 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 -- 
+
+ Height 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5 
+
+ HSpace 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 4.0 
+
+ Mayscript 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ 3.0-?? -- 
+
+ Name 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5 
+
+ Object 
+ -- -- 
+ -- X 
+ X -- 
+ -- -- 
+ ?? -- 
+
+ Src 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0 -- 
+ ?? 3.5 
+
+ VSpace 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 4.0 
+
+ Width 
+ -- -- 
+ X X 
+ X -- 
+ 3.0B2 -- 
+ 2.0 3.5 
+
+ Area 
+ -- -- 
+ X X 
+ X X 
+ 1.0 2.1 
+ 2.0 2.1 
+
+ % Core % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B2 -- 
+ 6.0B1 5.0 
+
+ % Accessibility % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B2 -- 
+ 6.0 5.0 
+
+ % Events % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0 -- 
+ 3.0 3.0 
+
+ % Language % 
+ -- -- 
+ -- X 
+ X X 
+ 4.0 -- 
+ -- -- 
+
+ % Editing % 
+ -- -- 
+ -- -- 
+ -- -- 
+ 5.5 -- 
+ -- -- 
+
+ Accesskey 
+ -- -- 
+ -- X 
+ X X 
+ 5.0 -- 
+ 7.1 7.0 
+
+ Alt 
+ -- -- 
+ X X 
+ X X 
+ 4.0B2 -- 
+ 3.0-4.x -- 
+
+ Coords 
+ -- -- 
+ X X 
+ X X 
+ 1.0 2.1 
+ 2.0 2.1 
+
+ Disabled 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- 7.0 
+
+ Href 
+ -- -- 
+ X X 
+ X X 
+ 1.0 2.1 
+ 2.0 2.1 
+
+ Nohref 
+ -- -- 
+ X X 
+ X X 
+ 1.0 2.1 
+ 2.0 2.1 
+
+ Shape 
+ -- -- 
+ X X 
+ X X 
+ 1.0 2.1 
+ 2.0 2.1 
+
+ Suppress 
+ -- -- 
+ -- -- 
+ -- -- 
+ -- -- 
+ 4.0-4.x -- 
+
+ Tabindex 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ 6.0 7.0 
+
+ Target 
+ -- -- 
+ -- X 
+ X -- 
+ 3.0A1 -- 
+ 2.0 2.1 
+
+ Boring Copyright Stuff...

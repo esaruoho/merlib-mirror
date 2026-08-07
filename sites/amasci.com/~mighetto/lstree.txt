@@ -1,0 +1,43 @@
+Decision Tree 
+
+ Decision Tree 
+
+A decision tree is a map of the reasoning process. It can be used to explain why a question is
+being asked. The following decision tree assumes that questions are answered with a certain yes
+or no. A tree that allows answering with a partial yes or no would have a much larger number of
+end nodes. In real world problems, the intuition of a human expert, or expert system software, is 
+necessary to determine the likely end node. Each end node represents a situation with known
+effective and efficient leadership styles . Unless otherwise noted, NO is down and YES is up. Click on the end node for a description of the efficient style. Click on the question nodes for a full description of what is being aske
+
+d. Right mouse click or use your browser's back function to return to this page.
+
+The above diagram is for public use. Select the decision tree by positioning the cursor over the
+tree and then click the right mouse button to copy it. Site the source as:
+
+ http://www.eskimo.com/~mighetto/lstree.htm - last update 4 October 1999. 
+ See also http://www.eskimo.com/~mighetto/lsvroom.htm .
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ Mighetto & Associates - 1260 NE 69th St. Seattle, WA 98115 - (206)
+525-1458 voice and fax 
+
+ mighetto@eskimo.com - Internet email
+address 
+
+ mighetto@compuserve.com - Internet email
+address or 72154,3467 from within Compuserve

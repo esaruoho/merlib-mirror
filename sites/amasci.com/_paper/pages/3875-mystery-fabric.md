@@ -1,0 +1,63 @@
+---
+title: "Mystery Fabric"
+source_domain: amasci.com
+source_path: ~jlk/mysteryfabric.htm
+order: 3875
+reachable_from_entry: false
+images: 17
+internal_links: 9
+extracted: 2026-08-07T17:10:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mystery Fabric
+
+*Source page: `~jlk/mysteryfabric.htm`*
+
+## Quilts: Not Just for Beds
+
+P.O. Box 1342 \* Bellevue, WA 98009 \* <jlk@eskimo.com>
+
+### Focus Fabric for [Mystery Quilt \#5](mystery5.htm)
+
+![](fig501a.gif)![](fig501b.gif)![](fig501c.gif)![](fig501d.gif)![](fig501e.gif)![](fig501f.gif)![](fig501g.gif)
+
+These fabrics are available in several different assortments. When ordering please email me at <jlk@eskimo.com> and specify by number to reserve your fabric.
+
+**MFP#1 - \$13.95ppd** - *A total of 1 1/2 yds. This will include 3 half yard cuts of my choice. I will choose one of each color way and one of each pattern. You will have enough fabric to make the smaller version.*
+
+**MFP#2 - \$28.95ppd** - *A total of 3 1/2 yds. This will include 7 half yard cuts - one of each fabric. You will have enough fabric to make the smaller version, plus have some leftover.*
+
+**MFP#3 - \$72.95ppd** - *A total of 9 1/2 yds. This will include 5 one and a half yard cuts and 2 one yard cuts. You will receive each of the seven fabrics, it will be my choice as to which are the one yard cuts. You will have enough fabric to make the larger version.*
+
+**MFP#4 - \$79.95ppd** - *A total of 10 1/2 yds. This will include 7 one and a half yard cuts - one of each fabric. You will have enough fabric to make the larger version, plus have some leftover.*
+
+For orders out side the US, please add \$3 to MFP#1 & MFP#2 and \$5 to MFP#3 and MFP#4
+
+Mail your check or money order in US Funds only to:
+
+Jane L Kakaley\
+PO Box 1342\
+Bellevue, WA 98009
+
+![](webline.gif)
+
+[<img src="iconmysterycat.gif" data-align="BOTTOM" /> Previous Mystery Quilts](mysteries.htm)
+
+[<img src="icons.gif" data-align="BOTTOM" /> Back to Main Page](quilts.htm)
+
+[<img src="icont.gif" data-align="BOTTOM" /> Quilt Patterns](patterns.htm)
+
+[<img src="iconr.gif" data-align="BOTTOM" /> BlockMinder](bkm.htm)
+
+[<img src="icon.gif" data-align="BOTTOM" /> Fabric Selection Tips](fabric.htm)
+
+[<img src="iconi.gif" data-align="BOTTOM" /> Ordering Information](order.htm)
+
+[<img src="icond.gif" data-align="BOTTOM" /> Customer Response](comment.htm)
+
+[<img src="iconc.gif" data-align="BOTTOM" />](mailto:jlk@eskimo.com) Wholesale Inquiries please email <jlk@eskimo.com> for more information.
+
+[<img src="iconl.gif" data-align="BOTTOM" /> Links to other quilting pages](links.htm)
+
+<span id="DDE_LINK1"></span>

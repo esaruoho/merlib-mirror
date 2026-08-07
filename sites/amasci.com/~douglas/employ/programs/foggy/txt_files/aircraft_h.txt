@@ -1,0 +1,45 @@
+// This file defines the data structures for the class "aircraft", which
+// manages the description of a single aircraft and the reservations for 
+// the use of that plane.
+
+#ifndef AIRCRAFT_H
+#define AIRCRAFT_H
+
+#define AC_NAME_LEN 32
+
+struct new_aircraft
+  {
+  int ac_unique_id;
+  char name[AC_NAME_LEN];
+  char *description;
+  };
+
+struct all_ac_data
+  {
+  new_aircraft spec;       // id, name, description
+  time_slot_info *all_res; // an array of individual reservations
+  int res_count;           // number of reservations
+  };
+
+class aircraft : public reservations
+  {
+  private:
+    int ac_unique_id;
+    char name[AC_NAME_LEN];
+    char *description;
+    reservations res; // "reservations" is another class
+  public:
+    aircraft();
+    aircraft(const new_aircraft ac);
+    ~aircraft();
+    void update_unique_id(const int unique_id);
+    void update_name(const char name[]);
+    void update_description(const char *description);
+    int get_unique_id();           // gets unique id assigned to airplane
+    new_aircraft get_ac_data();    // gets name, id, and description
+    all_ac_data get_all_ac_data(); // gets all id & reservation data
+    int add_res(const time_slot_info info);    // add aircraft reservation
+    int remove_res(const int slot_unique_id);  // remove aircraft reservation
+  };
+
+#endif

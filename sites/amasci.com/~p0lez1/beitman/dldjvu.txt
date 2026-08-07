@@ -1,0 +1,13 @@
+Download DjVu Files 
+
+ If you are a collector of European Radios, Click HERE. 
+ DOWNLOAD 
+ DJVU FILES 
+ DjVuWebBrowserPlugin_EN.exe 
+ This 
+ is the Web Browser plugin that allows you to view and print the manuals. 
+ DjVuSolo3.1-noncom.exe 
+ T This 
+ is the program used to create the DjVu files from image files. Downloading 
+ this program is not necessary. It is posted here so that those who wish to 
+ experiment with DjVu may do so.

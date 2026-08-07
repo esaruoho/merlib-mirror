@@ -1,0 +1,44 @@
+Download Sites 
+
+ Downloading the Site 
+ = Index DOT Html by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Last Archive Date: 
+ HTML: 
+ Oct. 1, 2003 
+ CSS: Oct. 1, 2003 
+
+ Download Sites 
+
+Index DOT Html and Index DOT Css are also available as
+compressed archives of HTML files that can be expanded on your own system.
+They are compressed using UNIX TAR archiving and Gzip compression. I have
+verified that this expands just fine on UNIX, Mac and MS Windows with the
+correct software installed. More involved
+ installation
+instructions are also available. Please
+ e-mail me if you have any questions
+or comments about the archives.
+
+ NOTE: These sites are meant to be dynamic,
+evolving references, so any downloaded 'snapshot' of the sites will inevitably
+fall out of sync with the master versions. I plan to archive the sites every time
+I update the live content, so compare the date on the top of this document with
+the archive date at the what's
+new page on the master site to check for newer versions. A master document
+also exists detailing the
+ change histories for this site.
+
+ Go To Downloads Page 
+
+ Boring Copyright Stuff...

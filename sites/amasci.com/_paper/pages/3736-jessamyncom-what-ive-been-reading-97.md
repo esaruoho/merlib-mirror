@@ -1,0 +1,171 @@
+---
+title: "jessamyn.com: What I've Been Reading '97"
+source_domain: amasci.com
+source_path: ~jessamyn/me/books97.html
+order: 3736
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:10:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jessamyn.com: What I've Been Reading '97
+
+*Source page: `~jessamyn/me/books97.html`*
+
+Books Read in 1997
+
+### Union Dues by John Sayles
+
+This is a novel by my all-time favorite filmamker before he got super-famous and was still heavily into union politics. This book is beautifully written but a real bummer because, as in life, the underdogs get the crap kicked out of them time and time again. Sayles is a super genius.
+
+### Waiting to Exhale by Terry McMillan
+
+The movie of the same name looked interesting. This was a fairly standard romance w/ an all black cast. The story was okay but the characters were all overly concerned about their nails and their butts, so it was hard for me to relate.
+
+### Edisto Revisited by Padgett Powell
+
+Someone recommended this guy because I like [Donald Barthleme](../barth) so much. I dug it. King of a southern ennui tale w/ my favorite kind of characters -- alientated ones.
+
+### The Gypsies in Eastern Europe by David Crowe
+
+The Gypsies have been completely fucked over by every single so-called civilization. In Romania, even the well-educated open minded Romanians assured us that the Gypsies all carried gold woven into their hair and even the legless ones were millionaires. This book chronicles the Gypsies from their entry in to Eastern Europe sometime in the 1400's through present day. Grim and depressing.
+
+### Edisto by Padgett Powell
+
+The prequel to the other Powell book I read, written about ten years earlier. More of the same and a bit more plot-heavy.
+
+### Lost Boy by Orson Scott Card
+
+Card has always been a favorite sci fi writer of mine, but this was a more page-turning King-esque tale of a sad kid who eventually dies. I think it may have been some kind of Mormon parable. Quite creepy.
+
+### The Partner by John Grisham
+
+Just like what I thought. Suspenseful and full of rich scheming lawyer people. Almost a spy flick with some twisty parts. Better than most of what I've read by Grisham.
+
+### Airframe by Michael Crichton
+
+Plane thriller. Industrial espionage. Well-researched with a strong female character. Thumbs up from me.
+
+### The Alienist by Caleb Carr
+
+Super interesting period piece about catching a serial killer in NYC at the turn of the century using such "modern" techniques as fingerprinting and criminal profiling. Special cameos by Jacob Riis and Teddy Roosevelt. Long and great.
+
+### Silence of the Lambs by Thomas Harris
+
+I was too chicken to see the movie so I watched the book and it was an interesting book.
+
+### A Fever in the Heart by Ann Rule
+
+True crime can be interesting but Ann Rule can't write very well.
+
+### A Night at the Circus by Angela Carter
+
+Circus train wreck in Siberia. Rescuers from an all-female panopticon who write love notes to their jailers in menstrual blood. A winged virgin aviatrix and a pig who reads tarot cards. This book has **it all**. I loved it.
+
+### Best American Short Stories of 1996
+
+I had sworn off this series when it seemed that every editor had some sort of a weird fetish that was illustrated by their choice of stories. Maybe I just groove on this years fetish, but these stories were great.
+
+### Familiar Strangers by Marlene Sway
+
+A really interesting sociology about Gypsy life in America, if you can get past the thesis tone of voice *"...and so in conclusion..."*.
+
+### Literary Las Vegas
+
+An excellent book of essays on the cultural anomaly that is Las Vegas. If you have an interest in Vegas, there is something in this book for you.
+
+### Gypsy Folk Tales collected by Diana Tong
+
+I haven't read any folk tales in a long time. These are interesting in that the Gypsy tradition is still largely oral and these stories are still being handed down and evolving; many even have contemporary themes.
+
+### Janine 1982 by Alasdair Gray
+
+This is a book by an author I found quite by accident who coined the phrase I love *"work as if you were in the earlier days of a better nation"*. It's more of a normal story than his excellent book **Unlikely Stories, Mostly** but all in all a good read if you can get past the relentless B&D fantasies.
+
+### Snow Crash by Neal Stephenson
+
+Simply the best sci-fi book I have read all year and probably since the last time I read **Blade Runner**.
+
+### Wild Women
+
+A rad collection of short stories all about kooky interesting women doing their female thing. A really varied colelction with occasional commentary by the woman who wrote **Women Who Run with Wolves**. Inspiring and an easy read.
+
+### A History Maker by Alasdair Gray
+
+This was a much better novel than Janine 1982. About a futuristic past and the making of war with some funky characters and alternate realities. Lots of scottish-type dialog and massive endnotes.
+
+### The Island of the Mapmaker's Wife by Marilyn Sides
+
+A beautiful collection of short stories about sculpting, maps, beads, archaeology and tattooing. These stories are heavy on detail and description and the title story is my favorite.
+
+### The Second John McPhee Reader by John McPhee
+
+This guy is the best non-fiction writer I can think of and he can even make Bill Bradley super-interesting. This collection includes some great stories about Alaska, gourmet chefs and fruit markets in NYC. A must read.
+
+### The Pill Versus the Springhill Mining Disaster and Rommel Drives on Deep Into Egypt by Richard Brautigan
+
+I haven't read much Brautigan poetry, but it sure is great. I became a librarian party because of reading The Abortion and all thes epoems are brief, lovely and evoke pleasant nap-like images, at least to me.
+
+### Three Pound Universe by Judith Hooper
+
+The brain book with the nifty pictures of spiders creating webs on acid, this book is a bit outdated, but still really interesting and a good refresher on neurotransmitters and other brain stuff.
+
+### Feral children and clever animals : reflections on human nature by Douglas Candland
+
+I mostly read the feral children part of this book on how people learn. The clever animals part was a lot of horse tricks. The most detailed account I've read about Kaspar Hauser to date.
+
+### Pacific Northwest Women, 1815-1925 edited by Jean Ward
+
+More interesting than it sounds. This book contains writing from some of the early women who settled in the Pacific Northwest. It's sometimes long on analysis, but contains historical snippets hard to find elsewhere.
+
+### Women of the Beat Generation edited by Brenda Knight
+
+Rad women and their rad poetry with some good pictures. You always hear about the men of the Beat Generation and assume all the women were just dogging them trying to sleep with Jack Kerouac. This book has a lot of good poetry and info about what the women were doing at this time.
+
+### In The Skin of the Lion by Michael Ondaatje
+
+I had read this book a long time ago before I ever heard of the English Patient and as my friends leave town, this is the book I want to slip into their hands as I hug them goodbye. A beautiful story and a quick joyful read.
+
+### Memoirs From Antproof Case by Mark Helprin
+
+A good long read for eight hours on an airplane. I read this whole book today and enjoyed the prose but disliked the characters. I can't feel the same about Helprin after learning that he wrote speeches for Bob Dole.
+
+### Unusual Suspects, an anthology of crime fiction
+
+This is a great crime fiction anthology ranging from semi-supernatural weirdness to old fashioned fiction noir dating back to Jim Thompson. Much more interesting than I even suspected when I was trolling for reading material at the library and happened over it.
+
+### some collection of Joyce Carol Oates stories
+
+I ge the feeling that Joyce Carol Oates was that creepy girl who sat in the corner during lunch \[when I was in high school\] always scribbling in her journals. Her stories are powerful, but all incredibly painful in weird tortured ways. I think I was that depressed in high school. I read her now and feel less depressed than usual.
+
+### The Bird Artist by Howard Norman
+
+A very beautiful perfect little book about a boy growing up as sort of a misfit with misfit parents on a small island where everyone knows everyone's business. He draws birds. Lots of good boats and island imagery in this book.
+
+### The Wrestlers Cruel Study by Stephen Dobyns
+
+A funny and interesting book with a lot of odd characters \[the legless hero, the Nietzche-quoting wrestling coach, the man who gets plastic surgery to become a bull\] and a convoluted plot that can be oversimplified into a wrestler's search for his kidanpped girlfriend. Some parts made me laugh out loud. Oh yeah, then there's the Gnosticism angle...
+
+### Stuff: the materials the world is made of by Ivan Amato
+
+A surprisingly good read about the history of materials science and how scientists come up with new **stuff**. Lots of interesting scenarios about how mankind probably discovered steel, glass and other stuff.
+
+### Fatherland by Robert Harris
+
+I have a cold so I read this. It's one of those what-if-the-Nazis-won? scenario deals and the cruz of the story is revealing to the world \[or not revealing\] what happened to the Jews \[which is all a secret in the Germany that won the war\]. Trouble is, it's hard to read a story in which something that is accepted as fact in the real world, is unknown in the fiction... I kept forgetting what folk knew and didn't know. Other than that, this was a standardly okay action/suspense paperback.
+
+### The Book of Sand by Jorge Luis Borges
+
+These stories are practically mini-stories, since most of them are so short. They are great, and even venture into the science fiction realm as opposed to the magical realism Borges is so known for.
+
+### Duplicate Keys by Jane Smiley
+
+A fairly standard murder mystery in the big city with a Big Chill cast of old friends. Whodunit? My friend Lauren says she liked this book because it gives you a glimpse into how normal people must live their lives \[not saying what they mean a lot, not overthinking everyone & everything, eating food all the time &c\]. I stayed on my couch for a whole afternoon and read it cover to cover.
+
+### The Chilekings by Jessamyn West
+
+This is the only scifi book Jessamyn West ever wrote. It's okay, written at about a 8th grade level about kids who get big and take over the world. It was a score at Powells cuz I'd never heard of it before.
+
+*last updated 1/5/98*\

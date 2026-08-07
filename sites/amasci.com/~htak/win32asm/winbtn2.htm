@@ -1,0 +1,478 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>Check box example: caption options</title>
+</head>
+<body>
+<h1>Check box example: caption options</h1>
+
+This example shows one way to use check boxes in a nondialog
+window. It also shows you what happens when these caption options
+are combined. It shows how to change a window style after it has
+been created. And, finally, it shows how to force the redrawing
+of a window frame. <br>
+ Source file is <b>wincaptn.asm</b>. 
+
+<p><a href="win32asm.htm">Back to Win32 ASM Page.</a></p>
+
+<p>First we take care of the main window, and the application
+start and end.</p>
+
+<pre>
+        .386
+        .model  flat
+
+        ; If using TLINK32, don't include vclib.inc
+        include vclib.inc    ; Microsoft VC++ .lib link names
+
+        include win32hst.inc ; constants, structures, and entry names
+
+        public _start
+
+        .code
+_start:
+
+        .data
+        align   4
+wc      dd      CS_VREDRAW or CS_HREDRAW  ; style
+        dd      WndProc                   ; lpfnWndProc
+        dd      0,0                       ; cbClsExtra, cbWndExtra
+        dd      0                         ; hInstance
+        dd      0                         ; hIcon
+        dd      0                         ; hCursor
+        dd      COLOR_WINDOW+1            ; hbrBackground
+        dd      0                         ; lpszMenuName
+        dd      wndclsname                ; lpszClassName
+
+wndclsname db 'winmain',0
+
+        extrn   GetModuleHandle:near
+
+        .code
+        push    large 0         ; NULL string pointer means
+        call    GetModuleHandle ; get HINSTANCE/HMODULE of EXE file
+        mov     [wc.wc_hInstance],eax
+
+        extrn   LoadIcon:near,LoadCursor:near
+
+        .code
+        push    large IDI_WINLOGO
+        push    large 0         ; hInstance, 0 = stock icon
+        call    LoadIcon
+        mov     [wc.wc_hIcon],eax
+
+        push    large IDC_ARROW
+        push    large 0         ; hInstance, 0 = stock cursor
+        call    LoadCursor
+        mov     [wc.wc_hCursor],eax
+
+        extrn   RegisterClass:near
+
+        .code
+        push    offset wc
+        call    RegisterClass
+
+        .data
+        align   4
+cwargs   dd   0                  ; dwExStyle
+         dd   wndclsname         ; lpszClass
+         dd   wnd_title          ; lpszName
+         dd   WS_VISIBLE or WS_OVERLAPPED or WS_SYSMENU or WS_THICKFRAME \
+              or WS_MINIMIZEBOX or WS_MAXIMIZEBOX  ; style
+         dd   40                 ; x
+         dd   40                 ; y
+         dd   300                ; cx (width)
+         dd   110                ; cy (height)
+         dd   0                  ; hwndParent
+         dd   0                  ; hMenu
+         dd   0                  ; hInstance
+         dd   0                  ; lpCreateParams
+
+wnd_title db 'Caption (title bar) styles',0
+
+        extrn   CreateWindowEx:near
+
+        .code
+        sub     esp,48            ; allocate argument list
+        mov     esi,offset cwargs ; set block move source
+        mov     edi,esp           ; set block move destination
+        mov     ecx,12            ; number of arguments
+        rep movsd
+        mov     eax,[wc.wc_hInstance]
+        mov     [esp+40],eax      ; set hInstance argument in stack
+        call    CreateWindowEx
+
+        extrn   GetMessage:near,DispatchMessage:near
+
+        .data
+        align   4
+msgbuf MSG      &lt;&gt;
+
+        .code
+msg_loop:
+        push    large 0         ; uMsgFilterMax
+        push    large 0         ; uMsgFilterMin
+        push    large 0         ; hWnd (filter), 0 = all windows
+        push    offset msgbuf   ; lpMsg
+        call    GetMessage      ; returns FALSE if WM_QUIT
+        or      eax,eax
+        jz      end_loop
+
+        push    offset msgbuf
+        call    DispatchMessage
+
+        jmp     msg_loop
+
+end_loop:
+
+        extrn   ExitProcess:near
+
+        .code
+        push    large 0 ; (error) return code
+        call    ExitProcess
+</pre>
+
+Next we define our test window. We explicitly add in the
+WS_CAPTION because we will use a copy of this style argument as a
+basis for style changes. It turns out that although an overlapped
+windows always creates a caption (title bar), the title bar can
+be removed after the window is created by changing the window
+style. <br>
+ The window procedure for this window is DefWindowProc because
+no special message handling is required. 
+
+<pre>
+;
+; the test display window
+;
+        .data
+        align 4
+
+testwnd dd 0
+
+wc2     dd      CS_VREDRAW or CS_HREDRAW  ; style
+        dd      DefWindowProc             ; lpfnWndProc
+        dd      0,0                       ; cbClsExtra, cbWndExtra
+        dd      0                         ; hInstance
+        dd      0                         ; hIcon
+        dd      0                         ; hCursor
+        dd      COLOR_WINDOW+1            ; hbrBackground
+        dd      0                         ; lpszMenuName
+        dd      wndclsname2               ; lpszClassName
+
+test     dd   0                  ; dwExStyle
+         dd   wndclsname2        ; lpszClass
+         dd   caption2           ; lpszName
+         dd   WS_VISIBLE or WS_OVERLAPPED or WS_CAPTION  ; style
+         dd   160                ; x
+         dd   160                ; y
+         dd   200                ; cx (width)
+         dd   200                ; cy (height)
+         dd   0                  ; hwndParent
+         dd   0                  ; hMenu
+         dd   0                  ; hInstance
+         dd   0                  ; lpCreateParams
+
+wndclsname2 db 'testdisplay',0
+caption2 db 'Display test',0
+</pre>
+
+Now we define the check boxes, which are defined as buttons.
+There is no WNDCLASS structure because the button class is
+already defined and registered. We will handle all of the
+important check box activity in the main window, which is the
+parent (and container) of all these check boxes. 
+
+<pre>
+; this holds the style bits used to change
+;   the style options of the test window
+;
+        align   4
+
+test_style dd 0
+
+;
+; control IDs for buttons
+;
+IDCTL_SYSMENU equ 101
+IDCTL_SIZEBOX equ 102
+IDCTL_MINBOX  equ 103
+IDCTL_MAXBOX  equ 104
+;
+; Temporary CreateWindowEx argument list for the check box "button" windows
+;
+        align   4
+
+chkbox   dd   0                  ; dwExStyle
+         dd   btnclsname         ; lpszClass
+         dd   0                  ; lpszName
+         dd   WS_VISIBLE or WS_CHILD or BS_CHECKBOX  ; style
+         dd   0                  ; x
+         dd   0                  ; y
+         dd   0                  ; cx (width)
+         dd   0                  ; cy (height)
+         dd   0                  ; hwndParent
+         dd   0                  ; hMenu
+         dd   0                  ; hInstance
+         dd   0                  ; lpCreateParams
+
+btnclsname  db 'button',0        ; letter case doesn't matter
+;
+; option/button table
+;
+        align 4
+
+sysmenu dd WS_SYSMENU,sysmenu_str,10,10,250,15,IDCTL_SYSMENU
+sizebox dd WS_THICKFRAME,sizebox_str,10,25,250,15,IDCTL_SIZEBOX
+minbox  dd WS_MINIMIZEBOX,minbox_str,10,40,250,15,IDCTL_MINBOX
+maxbox  dd WS_MAXIMIZEBOX,maxbox_str,10,55,250,15,IDCTL_MAXBOX
+;
+; button texts
+;
+sysmenu_str db 'WS_SYSMENU',0
+sizebox_str db 'WS_THICKFRAME/WM_SIZEBOX',0
+minbox_str  db 'WS_MINIMIZEBOX',0
+maxbox_str  db 'WS_MAXIMIZEBOX',0
+</pre>
+
+There is only one window procedure defined by us, and that is the
+one for the main window, the one with the check boxes in it. We
+start with the message dispatch, and the "close application"
+command. 
+
+<pre>
+        extrn   DefWindowProc:near
+
+        .code
+WndProc:
+        mov     eax,[esp+4+4]           ; message ID
+        cmp     eax,WM_COMMAND          ; controls clicked
+        je      on_command
+        cmp     eax,WM_CREATE           ; window created
+        je      on_create
+        cmp     eax,WM_DESTROY          ; about to start window destruction
+        je      on_destroy
+        jmp     DefWindowProc           ; delegate other message processing
+
+
+        extrn   PostQuitMessage:near
+
+on_destroy:
+        push    large 0
+        call    PostQuitMessage
+
+        xor     eax,eax
+        ret     16
+</pre>
+
+We create the check boxes here, as a response to WM_CREATE. At
+this time, the main window has been created, and there is a
+window handle for it. The handle is used to assign the window as
+parent to each check box, which are created as a child window. A
+child window must be assigned a parent when it is created. <br>
+ We also register the test window class here, and create the
+test window. 
+
+<pre>
+;
+; the main window
+;
+        .data
+        align   4
+
+mainwnd dd 0
+
+        .code
+on_create:
+        mov     eax,[esp+4+0]  ; hwnd
+        mov     [mainwnd],eax
+        mov     eax,[wc].wc_hInstance
+        mov     [wc2].wc_hInstance,eax
+        push    offset wc2
+        call    RegisterClass
+
+        push    esi
+        push    edi
+
+        mov     esi,offset test
+        mov     eax,[esi+12]            ; style argument
+        mov     [test_style],eax        ; save original style
+        call    install_subwindow
+        mov     [testwnd],eax
+
+
+        mov     esi,offset chkbox
+        mov     edi,offset sysmenu
+        call    install_chkbox
+
+        mov     esi,offset chkbox
+        mov     edi,offset sizebox
+        call    install_chkbox
+
+        mov     esi,offset chkbox
+        mov     edi,offset minbox
+        call    install_chkbox
+
+        mov     esi,offset chkbox
+        mov     edi,offset maxbox
+        call    install_chkbox
+
+        pop     edi
+        pop     esi
+
+        xor     eax,eax    ; signal a successful CREATE
+        ret     16
+;
+; Create chkbox
+;
+;       ESI = address of CreateWindowEx arguments
+;       EDI = chkbox table entry
+;
+; Returns:
+;
+;       EAX = BUTTON handle
+;
+install_chkbox:
+        mov     eax,4[edi]
+        mov     [chkbox+8],eax    ; lpszName, set window name = window text
+        mov     eax,8[edi]
+        mov     [chkbox+16],eax   ; x
+        mov     eax,12[edi]
+        mov     [chkbox+20],eax   ; y
+        mov     eax,16[edi]
+        mov     [chkbox+24],eax   ; cx
+        mov     eax,20[edi]
+        mov     [chkbox+28],eax   ; cy
+        mov     eax,24[edi]
+        mov     [chkbox+36],eax   ; hMenu, ctl ID when WS_CHILD
+        call    install_subwindow
+        ret
+;
+; Create main window's subwindows
+;
+;       ESI = address of CreateWindowEx arguments
+;
+; Returns:
+;
+;       EAX = handle of subwindow
+;
+install_subwindow:
+        mov     eax,[mainwnd]
+        mov     [esi+32],eax            ; hwndParent, make "mainbox" owner or parent
+                                        ;   of new window
+        mov     eax,[wc].wc_hInstance   ; get instance
+        mov     [esi+40],eax            ; set hInstance of window class
+        sub     esp,48    ; allocate args
+        mov     edi,esp
+        mov     ecx,12
+        rep movsd
+        call    CreateWindowEx
+        ret
+</pre>
+
+This is where most of the work happens, in response to
+WM_COMMAND. If the command is not a button (check box) command,
+we quit. Otherwise we fetch the style option. Because the option
+is encoded in a single bit, the option doubles as a bit mask. 
+
+<pre>
+        extrn   SendMessage:near
+        extrn   SetWindowLong:near
+        extrn   RedrawWindow:near
+
+on_command:
+        mov     eax,[esp+4+8]   ; wParam
+        mov     edx,[esp+4+12]  ; lParam
+        cmp     eax,(BN_CLICKED shl 16)+IDCTL_SYSMENU
+        je      select_sysmenu
+        cmp     eax,(BN_CLICKED shl 16)+IDCTL_SIZEBOX
+        je      select_sizebox
+        cmp     eax,(BN_CLICKED shl 16)+IDCTL_MINBOX
+        je      select_minbox
+        cmp     eax,(BN_CLICKED shl 16)+IDCTL_MAXBOX
+        je      select_maxbox
+        jmp     exit_on_command
+;
+; Get styles
+;
+select_sysmenu:
+        mov     ecx,[sysmenu]
+        jmp     toggle
+select_sizebox:
+        mov     ecx,[sizebox]
+        jmp     toggle
+select_minbox:
+        mov     ecx,[minbox]
+        jmp     toggle
+select_maxbox:
+        mov     ecx,[maxbox]
+        jmp     toggle
+</pre>
+
+Now we get and reset the check box state. Here we see that
+messages are the main means of transferring information to and
+from the controls. 
+
+<pre>
+toggle:
+        push    ecx             ; save style
+
+        push    edx             ; save ctl handle
+
+        push    large 0
+        push    large 0
+        push    large BM_GETCHECK
+        push    edx             ; ctl handle from lParam
+        call    SendMessage
+
+        pop     edx             ; retrieve ctl handle
+
+        xor     eax,1           ; toggle check state
+
+        push    large 0
+        push    eax             ; new check state
+        push    large BM_SETCHECK
+        push    edx             ; ctl handle
+        call    SendMessage
+
+        pop     ecx             ; retrieve style
+</pre>
+
+Then we change the window style of our test window. 
+
+<pre>
+        xor     [test_style],ecx        ; toggle style bit
+        push    [test_style]            ; new style
+        push    large GWL_STYLE
+        push    [testwnd]               ; test window
+        call    SetWindowLong
+</pre>
+
+Changing the window style does not cause a redrawing of the
+window. Without the following, the test window doesn't change
+until it is selected. And the redraw is imperfect. <br>
+ So we add this API call to force a redrawing of the test
+window without selecting it. The title bar is part of the
+"frame". 
+
+<pre>
+        push    large (RDW_FRAME+RDW_INVALIDATE+RDW_UPDATENOW)
+        push    large 0         ; update rectangle
+        push    large 0         ; update region (overrides rect)
+        push    [testwnd]       ; test window
+        call    RedrawWindow
+
+exit_on_command:
+        xor     eax,eax    ; signal WM_COMMAND was processed
+        ret     16
+
+        end     _start
+</pre>
+
+<hr>
+</body>
+</html>
+

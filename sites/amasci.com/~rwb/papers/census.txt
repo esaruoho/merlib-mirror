@@ -1,0 +1,11 @@
+A critical set in a Latin square of order $n$ is a set of entries in a
+Latin square which can be embedded in precisely one Latin square of
+order $n$. Also, if any element of the critical set is deleted, the
+remaining set can be embedded in more than one Latin square of order
+$n$.  In this paper we find all the critical sets of different sizes in
+the Latin squares of order at most six.  We count the number of main
+and isotopy classes of these critical sets and classify critical sets
+from the main classes into various ``strengths''.  Some observations
+are made about the relationship between the numbers of classes,
+particularly in the $6 \times 6$ case.  Finally some examples are given
+of each type of critical set.

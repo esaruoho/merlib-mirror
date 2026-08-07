@@ -1,0 +1,49 @@
+Question 11.17 
+
+ Question 11.17 
+ I'm trying to use
+the ANSI ``stringizing'' preprocessing operator
+` # '
+to insert the value of a symbolic constant into a message,
+but it keeps
+stringizing the macro's name rather than its
+value.
+
+ You can use
+something like the following
+two-step
+procedure
+to force a macro to be expanded as well as
+stringized:
+ #define Str(x) #x
+ #define Xstr(x) Str(x)
+ #define OP plus
+ char *opname = Xstr(OP);
+ This
+code
+
+sets opname to "plus" rather than "OP" .
+
+An equivalent circumlocution is necessary
+with the
+token-pasting
+operator ## 
+when the values
+(rather than the names)
+of two macros are to be concatenated.
+
+ References:
+
+ANSI Sec. 3.8.3.2, Sec. 3.8.3.5 example
+
+ISO Sec. 6.8.3.2, Sec. 6.8.3.5
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

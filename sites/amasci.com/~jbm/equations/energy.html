@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Equations - Energy
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Equations - Energy
+</H1>
+
+<P>
+  Questions about energy come up on USENET (specifically rec.guns) often
+  enough that I thought it might be worth putting a page here in an
+  attempt to explain how the energy is calculated used.  
+  <A HREF="#REFERENCES">References</A> and a list of
+  <A HREF="#VARIABLES">variables</A> are at the bottom of this page.
+  I haven't put in the derivations of the equations, but they are 
+  presented in the references listed below.
+</P>
+
+<H2>
+  Definitions
+</H2>
+
+<P>
+  Energy is defined as the ability to do work.  The more energy
+  something has, the more work it can do.  Within the guise of small
+  arms, the work done by the bullet includes the work done on the 
+  air in traveling through it (that's why a bullet loses energy as 
+  it travels down range) and the work done on the target (deformation, 
+  sound, etc).
+</P>
+
+<P>
+  Within in kinematics, energy is divided into two parts, kinetic and 
+  potential.  Potential energy is generally defined by position within
+  a potential, e.g. height in a gravitational field, but also includes
+  systems like compressed springs, etc.  Kinetic energy is that energy
+  associated with the motion of an object.
+</P>
+
+<H2>
+  Potential Energy
+</H2>
+
+<P>
+  The potential energy of a bullet is represented by the following
+  equation:
+</P>
+
+<CENTER>
+  PE = M g h
+</CENTER>
+
+<P>
+  where h is the height above the point of zero potential energy,
+  usually the "ground".  For a bullet weight of 300 grains, 6 feet 
+  above the ground, the potential energy can be found using the
+  next two equations.
+</P>
+
+<P>
+  The mass of the bullet is calculated using the following equation
+  which converts the bullet weight in grains to pounds (the factor
+  of 7000) and divides by the acceleration due to gravity to find
+  the mass:
+</P>
+
+<CENTER>
+  M = w/g = (300 gr)/[7000 gr/lb  
+    32.2 ft/sec<SUP>2</SUP>] = 0.00133 lb sec<SUP>2</SUP>/ft
+</CENTER>
+
+<P>
+  Then potential energy is...
+</P>
+
+<CENTER>
+  PE = [0.00133 lb sec<SUP>2</SUP>/ft] 
+    * [32.2 ft/sec<SUP>2</SUP>] * [6 ft] = 0.26 ft-lbs
+</CENTER>
+
+<P>
+  ...not much.  This is why potential energy is always neglected
+  in small arms calculations.  The bullet mass is the weight divided 
+  by the acceleration due to gravity and a conversion from grains to 
+  pounds.
+</P>
+
+<H2>
+  Kinetic Energy
+</H2>
+
+<P>
+  Kinetic energy is a function of the bullet mass and motion.  This
+  motion involves the velocity and rotations.  It is represented by 
+  the following equation.
+</P>
+
+<CENTER>
+  KE = 1/2 M v<SUP>2</SUP> + 1/2 I w<SUP>2</SUP>
+</CENTER>
+
+<P>
+  NOTE: this assumes a single rotational axis and forward motion of 
+  the bullet.  For multiple rotations and non-symmetric bodies, things 
+  get a little more complicated.  For most bullets, the contribution 
+  of the rotational kinetic energy is on the order of a few foot pounds 
+  and is neglected, leaving the following equation for energy of the 
+  bullet:
+</P>
+
+<CENTER>
+  KE = 1/2 M v<SUP>2</SUP>
+</CENTER>
+
+<P>
+  where the mass is calculated as above.
+</P>
+
+<P>
+  So for the same 300 grain bullet, traveling at 3000 ft/sec, the 
+  energy (neglecting potential and rotational kinetic energy) is:
+</P>
+
+<CENTER>
+  KE = 1/2 M v<SUP>2</SUP> = [0.5] 
+    [0.00133 lb sec<SUP>2</SUP>/ft] [3000 ft/sec]<SUP>2</SUP>
+      = 5985 ft lbs
+</CENTER>
+
+<P>
+  If we assume units of grains for the bullet weight and feet/sec
+  for the speed, we can combine the constants to get a simplified
+  equation:
+</P>
+
+<CENTER>
+  KE = M v<SUP>2</SUP>/450800
+</CENTER>
+
+<P>
+  where
+</P>
+
+<CENTER>
+  450800 = 2 * 7000 * 32.2
+</CENTER>
+
+<H2>
+  <A NAME="VARIABLES">Variables</A>
+</H2>
+
+<TABLE WIDTH="100%">
+  <TR> 
+    <TD> PE </TD> 
+    <TD> potential energy </TD> 
+    <TD> KE </TD> 
+    <TD> kinetic energy </TD> 
+  </TR>
+  <TR> 
+    <TD> g </TD> 
+    <TD> vector gravitational acceleration </TD> 
+    <TD> M </TD> 
+    <TD> bullet mass </TD> 
+  </TR>
+  <TR> 
+    <TD> h </TD> 
+    <TD> bullet height </TD> 
+    <TD> v </TD> 
+    <TD> bullet speed </TD> 
+  </TR>
+  <TR> 
+    <TD> I </TD> 
+    <TD> moment of inertia about rotation axis </TD> 
+    <TD> w </TD> 
+    <TD> rotation speed</TD> 
+  </TR>
+</TABLE>
+
+<H2>
+  <A NAME="REFERENCES">References</A>
+</H2>
+
+<P>
+  <CITE>Classical Mechanics A Modern Perspective</CITE>,
+  V. Barger, Ph.D. and M. Olsson, Ph.D., McGraw-Hill Book
+  Company, 1973.
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

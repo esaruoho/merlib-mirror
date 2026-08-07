@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+ <META NAME="GENERATOR" CONTENT="SGML-Tools 1.0.9">
+ <TITLE>The Loadlin+Win95/98/ME mini-HOWTO: Per cominciare:</TITLE>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian-4.html" REL=next>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian-2.html" REL=previous>
+ <LINK HREF="Loadlin+Win95-98-ME-Italian.html#toc3" REL=contents>
+</HEAD>
+<BODY>
+<A HREF="Loadlin+Win95-98-ME-Italian-4.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian-2.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian.html#toc3"><IMG SRC="toc.gif" ALT="Contents"></A>
+<HR>
+<H2><A NAME="s3">3. Per cominciare:</A></H2>
+
+<P>
+<P>
+<H2><A NAME="ss3.1">3.1 Primo:</A>
+</H2>
+
+<P>Modificate o create config.sys nella directory C:\ di Windows. 
+Il contenuto dovrebbe essere all'incirca il seguente:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+[menu]
+menuitem=Linux, Mandrake Linux 7.2
+menuitem=Win98, Windows 98
+menucolor=15,1
+menudefault=Win98, 10
+
+[linux]
+
+[win98]
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Se sul vostro sistema esiste gia' un file <CODE>config.sys</CODE>, inserite 
+il contenuto di quel file sotto la sezione <CODE>[win98]</CODE>. 
+La sezione <CODE>[linux]</CODE> deve essere lasciata vuota.
+<P>
+<P>
+<H2><A NAME="ss3.2">3.2 Secondo:</A>
+</H2>
+
+<P>
+<P>Modificate o create il file <CODE>autoexec.bat</CODE> nella directory C:\ di 
+Windows. Il contenuto dovrebbe essere all'incirca il seguente:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+goto %config%
+
+:linux
+call c:\linux.bat
+
+:win98 
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>Come prima, se e' gia' presente un file <CODE>autoexec.bat</CODE>, 
+inserite il contenuto di quel file sotto la sezione <CODE>:win98</CODE>.
+<P>
+<H2><A NAME="ss3.3">3.3 Terzo:</A>
+</H2>
+
+<P>Create un file dal nome <CODE>linux.bat</CODE>. Il posto migliore dove 
+salvarlo  C:\ ma potete metterlo in qualsiasi altra cartella purche' 
+facciate riferimento al percorso. Il contenuto dovrebbe essere 
+all'incirca il seguente: 
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+@echo off
+c:\loadlin c:\vmlinuz root=/dev/hda5 ro 
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>L'esempio citato assume che <CODE>loadlin.exe</CODE> e <CODE>vmliuz</CODE> si 
+trovino entrambi nella directory C:\ e che linux sia stato installato 
+nella partizione /dev/hda5. La vostra configurazione potrebbe essere diversa.
+<P>
+<P>L'importante  assicurarsi che loadlin e il vostro kernel
+si trovino referenziati correttamente. Tutto qua!
+<P>
+<P>Questo dovrebbe essere sufficiente, ed  anche il setup sul mio 
+computer, che effettua il dual boot con Windows98.
+<P>
+<HR>
+<A HREF="Loadlin+Win95-98-ME-Italian-4.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian-2.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="Loadlin+Win95-98-ME-Italian.html#toc3"><IMG SRC="toc.gif" ALT="Contents"></A>
+</BODY>
+</HTML>

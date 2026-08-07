@@ -1,0 +1,1582 @@
+---
+title: "Speed Comparison of Popular Crypto Algorithms"
+source_domain: amasci.com
+source_path: ~weidai/benchmarks.html
+order: 9923
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:18:16Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Speed Comparison of Popular Crypto Algorithms
+
+*Source page: `~weidai/benchmarks.html`*
+
+# [Crypto++](http://www.eskimo.com/~weidai/cryptlib.html) 4.0 Benchmarks
+
+Here are speed benchmarks for some of the most popular hash algorithms and symmetric and asymmetric ciphers. All were coded in C++ or ported to C++ from C implementations, compiled with Microsoft Visual C++ 6.0 SP4 (optimize for speed, blend code generation), and ran on a Celeron 850MHz processor under Windows 2000 SP 1. Two assembly routines were used for multiple-precision addition and subtraction.
+
+Algorithm
+
+Bytes Processed
+
+Time Taken
+
+Megabytes(2^20 bytes)/Second
+
+CRC-32
+
+1073741824
+
+8.682
+
+117.945
+
+Adler-32
+
+2147483648
+
+6.970
+
+293.831
+
+MD2
+
+8388608
+
+11.276
+
+0.709
+
+MD5
+
+1073741824
+
+10.165
+
+100.738
+
+SHA-1
+
+536870912
+
+10.565
+
+48.462
+
+SHA-256
+
+268435456
+
+10.345
+
+24.746
+
+SHA-512
+
+67108864
+
+7.761
+
+8.246
+
+HAVAL (pass=3)
+
+536870912
+
+7.922
+
+64.630
+
+HAVAL (pass=4)
+
+536870912
+
+12.337
+
+41.501
+
+HAVAL (pass=5)
+
+268435456
+
+7.090
+
+36.107
+
+Tiger
+
+268435456
+
+10.325
+
+24.794
+
+RIPE-MD160
+
+268435456
+
+8.332
+
+30.725
+
+Panama Hash (little endian)
+
+1073741824
+
+7.401
+
+138.360
+
+Panama Hash (big endian)
+
+1073741824
+
+11.797
+
+86.802
+
+MDC/MD5
+
+268435456
+
+9.884
+
+25.900
+
+Luby-Rackoff/MD5
+
+67108864
+
+8.402
+
+7.617
+
+DES
+
+134217728
+
+9.945
+
+12.871
+
+DES-XEX3
+
+134217728
+
+11.716
+
+10.925
+
+DES-EDE3
+
+33554432
+
+6.740
+
+4.748
+
+IDEA
+
+134217728
+
+11.286
+
+11.341
+
+RC2
+
+33554432
+
+7.912
+
+4.044
+
+RC5 (r=16)
+
+536870912
+
+12.988
+
+39.421
+
+Blowfish
+
+134217728
+
+7.091
+
+18.051
+
+Diamond2
+
+67108864
+
+11.086
+
+5.773
+
+Diamond2 Lite
+
+67108864
+
+9.403
+
+6.806
+
+3-WAY
+
+201326592
+
+12.728
+
+15.085
+
+TEA
+
+134217728
+
+12.799
+
+10.001
+
+SAFER (r=8)
+
+67108864
+
+10.565
+
+6.058
+
+GOST
+
+134217728
+
+12.829
+
+9.977
+
+SHARK (r=6)
+
+268435456
+
+12.878
+
+19.879
+
+CAST-128
+
+134217728
+
+7.090
+
+18.054
+
+CAST-256
+
+134217728
+
+9.995
+
+12.806
+
+Square
+
+268435456
+
+7.801
+
+32.816
+
+SKIPJACK
+
+67108864
+
+12.017
+
+5.326
+
+RC6
+
+268435456
+
+7.871
+
+32.524
+
+MARS
+
+268435456
+
+8.503
+
+30.107
+
+Rijndael
+
+268435456
+
+8.442
+
+30.325
+
+Twofish
+
+268435456
+
+9.974
+
+25.667
+
+Serpent
+
+134217728
+
+10.505
+
+12.185
+
+ARC4
+
+536870912
+
+8.122
+
+63.039
+
+SEAL
+
+1073741824
+
+8.672
+
+118.081
+
+WAKE
+
+1073741824
+
+13.029
+
+78.594
+
+Panama Cipher (little endian)
+
+1073741824
+
+8.512
+
+120.301
+
+Panama Cipher (big endian)
+
+536870912
+
+7.091
+
+72.204
+
+Sapphire
+
+134217728
+
+12.868
+
+9.947
+
+MD5-MAC
+
+1073741824
+
+12.078
+
+84.782
+
+XMACC/MD5
+
+1073741824
+
+11.096
+
+92.286
+
+HMAC/MD5
+
+1073741824
+
+10.254
+
+99.863
+
+CBC-MAC/RC6
+
+268435456
+
+8.713
+
+29.381
+
+DMAC/RC6
+
+268435456
+
+8.642
+
+29.623
+
+BlumBlumShub 512
+
+524288
+
+10.766
+
+0.046
+
+BlumBlumShub 1024
+
+262144
+
+12.668
+
+0.020
+
+BlumBlumShub 2048
+
+65536
+
+8.903
+
+0.007
+
+Operation
+
+Iterations
+
+Total Time
+
+Milliseconds/Operation
+
+RSA 512 Encryption
+
+73671
+
+10.004
+
+0.14
+
+RSA 512 Decryption
+
+5188
+
+10.005
+
+1.93
+
+Rabin 512 Encryption
+
+10539
+
+10.004
+
+0.95
+
+Rabin 512 Decryption
+
+3624
+
+10.004
+
+2.76
+
+BlumGoldwasser 512 Encryption
+
+23662
+
+10.005
+
+0.42
+
+BlumGoldwasser 512 Decryption
+
+4124
+
+10.004
+
+2.43
+
+LUC 512 Encryption
+
+61951
+
+10.004
+
+0.16
+
+LUC 512 Decryption
+
+2593
+
+10.005
+
+3.86
+
+ElGamal 512 Encryption
+
+3820
+
+10.004
+
+2.62
+
+ElGamal 512 Encryption with precomputation
+
+5739
+
+10.005
+
+1.74
+
+ElGamal 512 Decryption
+
+7327
+
+10.004
+
+1.37
+
+RSA 1024 Encryption
+
+31009
+
+10.004
+
+0.32
+
+RSA 1024 Decryption
+
+978
+
+10.005
+
+10.23
+
+Rabin 1024 Encryption
+
+4440
+
+10.004
+
+2.25
+
+Rabin 1024 Decryption
+
+829
+
+10.005
+
+12.07
+
+BlumGoldwasser 1024 Encryption
+
+10405
+
+10.004
+
+0.96
+
+BlumGoldwasser 1024 Decryption
+
+898
+
+10.004
+
+11.14
+
+LUC 1024 Encryption
+
+24814
+
+10.005
+
+0.40
+
+LUC 1024 Decryption
+
+525
+
+10.014
+
+19.07
+
+ElGamal 1024 Encryption
+
+907
+
+10.005
+
+11.03
+
+ElGamal 1024 Encryption with precomputation
+
+2232
+
+10.004
+
+4.48
+
+ElGamal 1024 Decryption
+
+1734
+
+10.004
+
+5.77
+
+LUCELG 512 Encryption
+
+1807
+
+10.005
+
+5.54
+
+LUCELG 512 Decryption
+
+3166
+
+10.004
+
+3.16
+
+RSA 2048 Encryption
+
+11260
+
+10.005
+
+0.89
+
+RSA 2048 Decryption
+
+156
+
+10.004
+
+64.13
+
+Rabin 2048 Encryption
+
+1690
+
+10.004
+
+5.92
+
+Rabin 2048 Decryption
+
+140
+
+10.025
+
+71.61
+
+BlumGoldwasser 2048 Encryption
+
+3564
+
+10.004
+
+2.81
+
+BlumGoldwasser 2048 Decryption
+
+150
+
+10.035
+
+66.90
+
+LUC 2048 Encryption
+
+8725
+
+10.004
+
+1.15
+
+LUC 2048 Decryption
+
+88
+
+10.045
+
+114.15
+
+ElGamal 2048 Encryption
+
+204
+
+10.034
+
+49.19
+
+ElGamal 2048 Encryption with precomputation
+
+663
+
+10.004
+
+15.09
+
+ElGamal 2048 Decryption
+
+395
+
+10.015
+
+25.35
+
+LUCELG 1024 Encryption
+
+416
+
+10.014
+
+24.07
+
+LUCELG 1024 Decryption
+
+760
+
+10.005
+
+13.16
+
+RSA 512 Signature
+
+5215
+
+10.004
+
+1.92
+
+RSA 512 Verification
+
+79436
+
+10.004
+
+0.13
+
+Rabin 512 Signature
+
+3448
+
+10.005
+
+2.90
+
+Rabin 512 Verification
+
+11897
+
+10.004
+
+0.84
+
+RW 512 Signature
+
+3762
+
+10.005
+
+2.66
+
+RW 512 Verification
+
+175022
+
+10.004
+
+0.06
+
+LUC 512 Signature
+
+2532
+
+10.004
+
+3.95
+
+LUC 512 Verification
+
+67551
+
+10.005
+
+0.15
+
+NR 512 Signature
+
+7452
+
+10.004
+
+1.34
+
+NR 512 Signature with precomputation
+
+10945
+
+10.005
+
+0.91
+
+NR 512 Verification
+
+6570
+
+10.004
+
+1.52
+
+NR 512 Verification with precomputation
+
+6654
+
+10.004
+
+1.50
+
+DSA 512 Signature
+
+5639
+
+10.005
+
+1.77
+
+DSA 512 Signature with precomputation
+
+8421
+
+10.004
+
+1.19
+
+DSA 512 Verification
+
+4955
+
+10.004
+
+2.02
+
+DSA 512 Verification with precomputation
+
+5179
+
+10.005
+
+1.93
+
+RSA 1024 Signature
+
+972
+
+10.004
+
+10.29
+
+RSA 1024 Verification
+
+33170
+
+10.005
+
+0.30
+
+Rabin 1024 Signature
+
+816
+
+10.004
+
+12.26
+
+Rabin 1024 Verification
+
+4127
+
+10.004
+
+2.42
+
+RW 1024 Signature
+
+835
+
+10.005
+
+11.98
+
+RW 1024 Verification
+
+89647
+
+10.004
+
+0.11
+
+LUC 1024 Signature
+
+527
+
+10.015
+
+19.00
+
+LUC 1024 Verification
+
+26325
+
+10.004
+
+0.38
+
+NR 1024 Signature
+
+1772
+
+10.004
+
+5.65
+
+NR 1024 Signature with precomputation
+
+4379
+
+10.004
+
+2.28
+
+NR 1024 Verification
+
+1528
+
+10.004
+
+6.55
+
+NR 1024 Verification with precomputation
+
+2692
+
+10.005
+
+3.72
+
+DSA 1024 Signature
+
+1819
+
+10.004
+
+5.50
+
+DSA 1024 Signature with precomputation
+
+4403
+
+10.004
+
+2.27
+
+DSA 1024 Verification
+
+1567
+
+10.005
+
+6.38
+
+DSA 1024 Verification with precomputation
+
+2724
+
+10.004
+
+3.67
+
+LUCELG 512 Signature
+
+3587
+
+10.005
+
+2.79
+
+LUCELG 512 Verification
+
+1783
+
+10.004
+
+5.61
+
+RSA 2048 Signature
+
+156
+
+10.004
+
+64.13
+
+RSA 2048 Verification
+
+11782
+
+10.004
+
+0.85
+
+Rabin 2048 Signature
+
+143
+
+10.064
+
+70.38
+
+Rabin 2048 Verification
+
+1649
+
+10.004
+
+6.07
+
+RW 2048 Signature
+
+146
+
+10.054
+
+68.86
+
+RW 2048 Verification
+
+36582
+
+10.005
+
+0.27
+
+LUC 2048 Signature
+
+88
+
+10.044
+
+114.14
+
+LUC 2048 Verification
+
+9072
+
+10.005
+
+1.10
+
+NR 2048 Signature
+
+406
+
+10.004
+
+24.64
+
+NR 2048 Signature with precomputation
+
+1314
+
+10.005
+
+7.61
+
+NR 2048 Verification
+
+355
+
+10.004
+
+28.18
+
+NR 2048 Verification with precomputation
+
+789
+
+10.005
+
+12.68
+
+LUCELG 1024 Signature
+
+825
+
+10.014
+
+12.14
+
+LUCELG 1024 Verification
+
+409
+
+10.024
+
+24.51
+
+XTR-DH 171 Key-Pair Generation
+
+2242
+
+10.005
+
+4.46
+
+XTR-DH 171 Key Agreement
+
+1122
+
+10.004
+
+8.92
+
+XTR-DH 342 Key-Pair Generation
+
+610
+
+10.005
+
+16.40
+
+XTR-DH 342 Key Agreement
+
+306
+
+10.054
+
+32.86
+
+DH 512 Key-Pair Generation
+
+7760
+
+10.005
+
+1.29
+
+DH 512 Key-Pair Generation with precomputation
+
+11658
+
+10.004
+
+0.86
+
+DH 512 Key Agreement
+
+7494
+
+10.004
+
+1.33
+
+DH 1024 Key-Pair Generation
+
+1827
+
+10.005
+
+5.48
+
+DH 1024 Key-Pair Generation with precomputation
+
+4538
+
+10.004
+
+2.20
+
+DH 1024 Key Agreement
+
+1774
+
+10.004
+
+5.64
+
+DH 2048 Key-Pair Generation
+
+410
+
+10.005
+
+24.40
+
+DH 2048 Key-Pair Generation with precomputation
+
+1336
+
+10.004
+
+7.49
+
+DH 2048 Key Agreement
+
+404
+
+10.015
+
+24.79
+
+LUCDIF 512 Key-Pair Generation
+
+3659
+
+10.004
+
+2.73
+
+LUCDIF 512 Key Agreement
+
+2712
+
+10.005
+
+3.69
+
+LUCDIF 1024 Key-Pair Generation
+
+835
+
+10.004
+
+11.98
+
+LUCDIF 1024 Key Agreement
+
+700
+
+10.014
+
+14.31
+
+MQV 512 Key-Pair Generation
+
+7791
+
+10.005
+
+1.28
+
+MQV 512 Key-Pair Generation with precomputation
+
+11420
+
+10.004
+
+0.88
+
+MQV 512 Key Agreement
+
+4098
+
+10.005
+
+2.44
+
+MQV 1024 Key-Pair Generation
+
+1824
+
+10.004
+
+5.48
+
+MQV 1024 Key-Pair Generation with precomputation
+
+4540
+
+10.004
+
+2.20
+
+MQV 1024 Key Agreement
+
+982
+
+10.005
+
+10.19
+
+MQV 2048 Key-Pair Generation
+
+411
+
+10.024
+
+24.39
+
+MQV 2048 Key-Pair Generation with precomputation
+
+1348
+
+10.005
+
+7.42
+
+MQV 2048 Key Agreement
+
+228
+
+10.034
+
+44.01
+
+ECIES over GF(p) 168 Encryption
+
+701
+
+10.004
+
+14.27
+
+ECIES over GF(p) 168 Encryption with precomputation
+
+1407
+
+10.004
+
+7.11
+
+ECIES over GF(p) 168 Decryption
+
+389
+
+10.005
+
+25.72([\*](#note))
+
+ECNR over GF(p) 168 Signature
+
+1393
+
+10.004
+
+7.18
+
+ECNR over GF(p) 168 Signature with precomputation
+
+2795
+
+10.005
+
+3.58
+
+ECNR over GF(p) 168 Verification
+
+763
+
+10.014
+
+13.12
+
+ECNR over GF(p) 168 Verification with precomputation
+
+1704
+
+10.004
+
+5.87
+
+ECDHC over GF(p) 168 Key-Pair Generation
+
+1404
+
+10.005
+
+7.13
+
+ECDHC over GF(p) 168 Key-Pair Generation with precomputation
+
+2822
+
+10.004
+
+3.55
+
+ECDHC over GF(p) 168 Key Agreement
+
+1366
+
+10.005
+
+7.32
+
+ECMQVC over GF(p) 168 Key-Pair Generation
+
+1398
+
+10.004
+
+7.16
+
+ECMQVC over GF(p) 168 Key-Pair Generation with precomputation
+
+2818
+
+10.004
+
+3.55
+
+ECMQVC over GF(p) 168 Key Agreement
+
+736
+
+10.025
+
+13.62
+
+ECIES over GF(2^n) 155 Encryption
+
+466
+
+10.004
+
+21.47
+
+ECIES over GF(2^n) 155 Encryption with precomputation
+
+1394
+
+10.005
+
+7.18
+
+ECIES over GF(2^n) 155 Decryption
+
+740
+
+10.004
+
+13.52
+
+ECNR over GF(2^n) 155 Signature
+
+927
+
+10.004
+
+10.79
+
+ECNR over GF(2^n) 155 Signature with precomputation
+
+2731
+
+10.005
+
+3.66
+
+ECNR over GF(2^n) 155 Verification
+
+752
+
+10.004
+
+13.30
+
+ECNR over GF(2^n) 155 Verification with precomputation
+
+1605
+
+10.005
+
+6.23
+
+ECDHC over GF(2^n) 155 Key-Pair Generation
+
+932
+
+10.004
+
+10.73
+
+ECDHC over GF(2^n) 155 Key-Pair Generation with precomputation
+
+2789
+
+10.004
+
+3.59
+
+ECDHC over GF(2^n) 155 Key Agreement
+
+896
+
+10.005
+
+11.17
+
+ECMQVC over GF(2^n) 155 Key-Pair Generation
+
+931
+
+10.004
+
+10.75
+
+ECMQVC over GF(2^n) 155 Key-Pair Generation with precomputation
+
+2800
+
+10.005
+
+3.57
+
+ECMQVC over GF(2^n) 155 Key Agreement
+
+734
+
+10.024
+
+13.66
+
+<span id="note">(\*) This number is higher than it should be because of a performance bug in Crypto++ 4.0. It will be fixed in the next release.</span>
+
+## Notes
+
+- RSA and LUC use 17 as the public exponent.
+- DH and ElGamal encryption and decryption use short exponents to save time. The size of the secret exponents were chosen so that a meet-in-the-middle attack would be slower than the general discrete log algorithm (NFS). The sizes used were:
+  modulus
+  exponent
+  512
+  120
+  1024
+  164
+  2048
+  226
+- BlumGoldwasser is timed on a 16-byte plaintext. The lowest log(log(n)) bits of each square are used.
+- EC means elliptic curve. Operations in GF(2^n) are implemented using trinomial basis.
+- All tests were done by repeating the crypto operations over small blocks of random data. In practice you will likely see slower speeds because time is needed to transfer data to and from memory.
+- For the ciphers that specify big endian byte order, the timing data listed include time needed to convert to and from little endian order. For some ciphers (WAKE and SHA) this is a large fraction (up to 25%) of the total time.
+- The RSA, RW, DH, MQV, and elliptic curve schemes come from the IEEE P1363 standard. For more info see <http://grouper.ieee.org/groups/1363/index.html>.
+- Precomputation means using a table of 16 precomputed powers of each fixed base to speed up exponentiation.
+- Tiger, SHARK, SHA-384, and SHA-512 are designed to take advantage of 64-bit word operations. Their relatives speeds can be expected to be much higher if the benchmarks were done on a 64-bit CPU.
+- These tables may not be displayed properly with a browser (such as Navigator 4.5 or Opera 3.51) that doesn't adequately implement HTML 4.0 and CSS. Internet Explorer 4.0 and above seem to render them correctly, so I suggest that you [<img src="http://msdn.microsoft.com/osig/ie/ie4get_animated.gif" data-border="0" data-vspace="7" data-align="middle" width="88" height="31" alt="Get Microsoft Internet Explorer" />](http://www.microsoft.com/ie).
+
+------------------------------------------------------------------------
+
+Written by: [Wei Dai](http://www.eskimo.com/~weidai/index.html) \<<weidai@eskimo.com>\> Last modified: 11/03/2000

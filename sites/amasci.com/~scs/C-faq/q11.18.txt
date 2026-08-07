@@ -1,0 +1,45 @@
+Question 11.18 
+
+ Question 11.18 
+ What does the message
+``warning: macro replacement within a string literal''
+mean?
+
+ Some
+pre-ANSI compilers/preprocessors
+
+interpreted macro definitions like
+ #define TRACE(var, fmt) printf("TRACE: var = fmt\n", var)
+ such that invocations like
+ TRACE(i, %d);
+ were expanded as
+ printf("TRACE: i = %d\n", i);
+ In other words, macro parameters were
+expanded
+even inside
+
+string literals and character constants.
+ Macro expansion is not defined in this way
+by K&R or by Standard C.
+When you do want
+to turn macro arguments into strings,
+you can use the new # preprocessing operator,
+along with string literal concatenation
+(another new ANSI feature):
+ #define TRACE(var, fmt) \
+ printf("TRACE: " #var " = " #fmt "\n", var)
+ See also question 11.17 .
+
+ References:
+
+H&S Sec. 3.3.8 p. 51
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

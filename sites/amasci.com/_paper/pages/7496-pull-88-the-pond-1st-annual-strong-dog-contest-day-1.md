@@ -1,0 +1,648 @@
+---
+title: "Pull 88 -- The Pond 1st Annual Strong Dog Contest -- Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull88.html
+order: 7496
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T17:15:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 88 -- The Pond 1st Annual Strong Dog Contest -- Day 1
+
+*Source page: `~samoyed/iwpa/0001/Pull88.html`*
+
+The Pond 1st Annual Strong Dog Contest -- Day 1\
+3745 N. 10th St. -- Gering, Nebraska
+================================================
+
+Pull: 88
+
+Organizer(s):Jeffrey L. Bott
+
+Wheels Region: 9
+
+Dirt
+
+Track:Good, hard packed and dry to start. 4" of snow fell on top after pulling started -- was tarped before pulled on
+
+Date:2/24/2001
+
+Weather:
+
+Snowing
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Two Dogs
+
+3
+
+1585
+
+9.75
+
+34
+
+46.62
+
+7.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Missy
+
+3
+
+865
+
+7.72
+
+30
+
+28.83
+
+4.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Lucky
+
+9
+
+745
+
+7.29
+
+32
+
+23.28
+
+1.0
+
+Jeffrey Bott
+
+Corgi
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Domino
+
+9
+
+1985
+
+10.07
+
+57
+
+34.82
+
+12.0
+
+Roger Vigil
+
+Am. PitBull Terrier
+
+Izzy 2 Much
+
+3
+
+1785
+
+9.41
+
+57
+
+31.32
+
+9.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+ILB Long gone
+
+3
+
+1785
+
+12.09
+
+60
+
+29.75
+
+6.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Bull
+
+9
+
+1785
+
+14.99
+
+54
+
+33.06
+
+4.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Dozer
+
+9
+
+1785
+
+15.24
+
+57
+
+31.32
+
+3.0
+
+Roger Vigil
+
+Am. PitBull Terrier
+
+Inferno
+
+3
+
+1585
+
+9.76
+
+55
+
+28.82
+
+2.0
+
+Karen James
+
+Blue Heeler
+
+Trek
+
+9
+
+1385
+
+8.21
+
+58
+
+23.88
+
+1.0
+
+Jeffrey Bott
+
+Samoyed
+
+Blitz
+
+P
+
+385
+
+3.41
+
+57
+
+6.75
+
+.
+
+Daniel Abeyta
+
+Am. PitBull Terrier
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Prince Apollo
+
+9
+
+1865
+
+9.07
+
+79
+
+23.61
+
+9.0
+
+Terry Reed
+
+Boxer
+
+Xydako
+
+9
+
+1865
+
+20.20
+
+73
+
+25.55
+
+6.0
+
+Nacho Alvarado
+
+Mixed
+
+VooDoo
+
+9
+
+1625
+
+11.08
+
+78
+
+20.83
+
+3.0
+
+Tim Long
+
+Am. Bull Dog
+
+Chic
+
+9
+
+905
+
+5.03
+
+66
+
+13.71
+
+1.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Blitzen
+
+9
+
+665
+
+11.29
+
+80
+
+8.31
+
+0.5
+
+Jeffrey Bott
+
+Samoyed
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Sarge
+
+9
+
+2105
+
+26.70
+
+90
+
+23.39
+
+9.0
+
+Tim Long
+
+Am. Bull Dog
+
+Lighting
+
+9
+
+1865
+
+8.12
+
+96
+
+19.43
+
+6.0
+
+Gus Mircos
+
+Am. Bull Dog
+
+Gabriel
+
+9
+
+1865
+
+10.29
+
+95
+
+19.63
+
+3.0
+
+Randy Ferguson
+
+Am. Bull Dog
+
+Kenosha
+
+9
+
+1625
+
+14.86
+
+99
+
+16.41
+
+1.0
+
+Kelly Williams
+
+Mixed
+
+Smokey
+
+9
+
+1145
+
+12.02
+
+82
+
+13.96
+
+0.5
+
+Gabe Casas
+
+Am. PitBull Terrier
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Thunder
+
+9
+
+2505
+
+10.21
+
+109
+
+22.98
+
+8.0
+
+Dean Mircos
+
+Am. Bull Dog
+
+Dakota
+
+3
+
+1385
+
+8.71
+
+114
+
+12.15
+
+5.0
+
+Leslie Watkins
+
+Newfoundland
+
+Tegan
+
+9
+
+1385
+
+48.21
+
+108
+
+12.82
+
+2.0
+
+Karen Becker
+
+Gr. Swiss Mtn. Dog
+
+Luc
+
+9
+
+1105
+
+20.08
+
+120
+
+9.21
+
+0.5
+
+Michael Reddin
+
+Gr. Swiss Mtn. Dog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Winston
+
+9
+
+2785
+
+9.09
+
+188
+
+14.81
+
+6.0
+
+Thomas Roberts
+
+Mastiff/Bernard
+
+Highland Warrior
+
+9
+
+1945
+
+29.16
+
+152
+
+12.80
+
+3.0
+
+Robert Riddle
+
+Alaskan Malamute
+
+Last Updated: 12:28:59 on 03-10-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull87.html) | [Next Pull \#](Pull89.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

@@ -1,0 +1,27 @@
+
+The Olympics take place August 8-24 in Beijing, China.
+
+2008 USA Basketball Men's Team
+
+Player (Team)           Pos  Ht  Wt    B-day   College               Exp
+Carmelo Anthony (Den) .  F  6-8  230  5/29/84  Syracuse'06            5 
+Carlos Boozer (Uta) ... F-C 6-9  266 11/20/81  Duke'03                6 
+Chris Bosh (Tor) ...... F-C 6-10 230  3/24/84  Georgia Tech'06        5 
+Kobe Bryant (LAL) .....  G  6-6  220  8/23/78  Lower Merion HS       12 
+Dwight Howard (Orl) ... C-F 6-11 265  12/8/85  SW Atl Christian Aca   4 
+LeBron James (Cle) ....  F  6-8  240 12/30/84  St.Vincent-St.Mary HS  5 
+Jason Kidd (Dal) ......  G  6-4  210  3/23/73  California'96         14 
+Chris Paul (NO) .......  G  6-0  175   5/6/85  Wake Forest'07         3 
+Michael Redd (Mil) ....  G  6-6  215  8/24/79  Ohio State'01          8 
+Tayshaun Prince (Det) .  F  6-9  215  2/28/80  Kentucky'02            6 
+Dwyane Wade (Mia) .....  G  6-4  212  1/17/82  Marquette'04           5 
+Deron Williams (Uta) ..  G  6-3  205  6/26/84  Illinois'06            3 
+
+Head Coach: Mike Krzyzewski (Duke)
+Assistants: Jim Boeheim (Syracuse)
+            Mike D'Antoni (NY)
+            Nate McMillian (Por)
+Trainer:    Keith Jones (Hou)
+            Casey Smith (Dal)
+
+

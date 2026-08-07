@@ -1,0 +1,3 @@
+PERFORMANCE DATA 0-60: 4.4 sec 1/4 Mile: 12.7 sec Skidpad: 0.94g Top Speed: 113 MPH (Governor Limited) Braking 60-0: N/A 
+
+ SPECIFICATIONS 2.6L DOHC 24 Valve I-6 Twin-Turbo Intercooled Horsepower: 276 bhp @ 6800 rpm Torque: 271 lb-ft @ 4400 rpm Curb Weight: 3574 lb

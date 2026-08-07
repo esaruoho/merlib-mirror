@@ -1,0 +1,133 @@
+Statisticians Notes 
+
+ Notes for 2000/2001 Pulls 05 - 16 
+ Ronald E. Bowser 
+ Pulls 05 thru 16 
+ Ronald E. Bowser 
+ 3 
+ 395 
+ 1996-03-21T08:28:00Z 
+ 2000-10-23T05:54:00Z 
+ 2000-10-23T05:55:00Z 
+ 1 
+ 408 
+ 2327 
+ IWPA 
+ 23040 
+ 19 
+ 4 
+ 2857 
+ 9.4402 
+
+ Print 
+ 0 
+ 0 
+
+ Statisticians Notes 
+
+ Current membership information is on the web at http://www.iwpa.net/member with account
+member and password geehaw. 
+
+ (Pulls 05 thru
+16) 
+ SAVEDATE \@ "d MMMM, yyyy" \*
+MERGEFORMAT 22 October,
+2000 
+
+ Requested Changes 
+
+ Ranger Region 2,
+owned by Sharie Holmes. Re-assigned to
+Robert Reeff as per his direction relayed to me via Carole Parsons. 
+
+ Patti Region 2,
+owned by Freddy Hawley. Name in
+database was Piattia and has been changed to Patti . 
+
+ E R R O R S 
+
+ Pulls 7 - 8,
+Luxton BC 
+
+ Not really an
+error; but fractional dog weights were shown on the finish report. I truncated them to integer values, which is
+consistent with the weigh-in rules. 
+ Besides, the database only takes integers. 
+
+ Pulls 15 - 16,
+Easton Crossroads, NC 
+
+ Pull 15, 7 Oct
+-- 60# class has Kindr & Diamond reversed on the finish report. Each pulled 1188; Diamond in 20.48 and Kindr
+in 20.72. This reverses 4 th 
+& 5 th place. 
+
+ Pull 16, 8 Oct
+ 35# class has Diffy & Calli reversed on the finish report. Each pulled 744. Calli in 6.07 and Kindr in 7.25. 
+ This reverses 4 th & 5 th place. 
+
+ Name
+Assumptions 
+
+ For the
+following entries, the name spelling ( bold )
+used is that in the database. Listed is
+the pull number and how the name was spelled on the pull sheet ( underlined ). 
+
+ Apple Annie pull 08, Luxton,. Annie 
+
+ Assumptions 
+
+ Spooky Region 6,
+previously owned by Steve Baker in the Baker/Libbey membership. The membership is now just Libbey, and she
+handled Spooky. Re-assigned to Donna
+Libbey. (confirmed) 
+
+ Bandit
+
+Region 2, handled by Ryan Wood at the Luxton pull. Assuming he is Jack Scofields dog (confirmed) 
+
+ Kindr
+
+Region 5, handled by Debi Pruznick. 
+ Weight not recorded on finish report for 23 Sep. Assumed weight of 52# as recorded on the 24 th . 
+
+ MEMBERSHIP ISSUES 
+
+ Instead of just assuming
+memberships, I am carrying this as a reminder that we have some issues to
+resolve. If you are on this as a
+membership not assumed, besides not acquiring pull points, you are probably
+not getting the newsletter either 
+
+ New Issues 
+
+ Memberships Assumed 
+
+ The following
+individuals apparently joined at a pull (shows in the organizers financial
+report). Their membership was assumed
+with the date of the pull, but is still being watched until the membership
+chair has received the paperwork. 
+
+ Shawna Kronschnable Apparently added to Rene
+Schreibers membership at the Gates pull Oct 07 when Rene upgraded to Family. 
+
+ Resolved 
+
+ Unassumed that were Confirmed as
+Members 
+
+ Caroline Howell Was assumed provisional. But, she is actually under the Mullins
+membership. It has been corrected 
+
+ Dwayne Phipps confirmed 
+
+ Assumed
+Members Confirmed 
+
+ Cathy Reinhard joined individual at the Gardners pull
+on 9 September 2000. 
+
+ Nancy Bobik -- rejoined individual at the Gardners
+pull on 9 September 2000.

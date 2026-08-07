@@ -1,0 +1,31 @@
+ADOBE ATMOSPHERE: links 
+
+ UP 
+
+ HELP! 
+
+ GOOD STUFF 
+
+ NEW STUFF 
+
+ FREUDIAN, VR world in Adobe Atmosphere 
+
+FREUDIAN started out as a test of tunnel-making in Builder. If you go
+down through the big funnel, you can still see the original tunnels. It
+became a gallery/testbed as I gradually added more experiments in Builder
+and Javascript. I'll keep adding weird new stuff, so keep checking back.
+
+ You need to 
+download the plugin for Adobe
+Atmosphere plugin to view this page
+
+[ freudian.aer ]
+
+ /
+graphics/worlds/freudian.html 
+Created and maintained by 
+ Bill Beaty . Mail me at: 
+
+billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

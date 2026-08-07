@@ -1,0 +1,33 @@
+Chat 
+
+ Channels 
+ #tinnitus 
+
+ Actions 
+ Innocent 
+ Aww 
+ Giggle 
+ Fall laughing 
+ Welcome 
+ Going to bed 
+ Yaaawn 
+ Bored 
+ rotfl 
+ rotflmao 
+ bbiab 
+ bbiaf 
+ bbiaw 
+ Other? 
+
+ :)');"> 
+
+ Op Control 
+
+ Channel modes 
+
+ Services (these only include 
+ some of the basic commands for easy access)... 
+
+ Nickserv 
+ Chanserv/botserv 
+ Memoserv

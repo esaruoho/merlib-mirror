@@ -1,0 +1,67 @@
+Index DOT Css: Index Page 
+
+ Index&#160;DOT&#160;Css 
+ THE &#160;Advanced&#160;CSS&#160;Resource 
+
+ Author: Brian Wilson 
+ [ indexdot@blooberry.com ] 
+ Last Updated: Nov 15, 2000 
+ &#160;&#160;&#160;&#160; 
+
+ &#160; CSS&#160;Information &#160; 
+ &#160;&#160; 
+ &#160; Historical&#160;Information &#160; 
+
+ &#160; 
+ Property&#160;Index 
+ &#160; 
+ Syntax 
+ &#160; 
+ Topics 
+
+ &#160; 
+ CSS&#160;Support&#160;History 
+ &#160; &#160; CSS&#160;Spec&#160;History 
+ &#160; 
+ Browser&#160;History 
+
+ &#160; Site&#160;Information &#160; 
+ &#160;&#160; 
+ &#160; General&#160;Information &#160; 
+
+ &#160; &#160; Tools : 
+
+ &#160; &#160; More&#160;About&#160;The&#160;Site... 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;-
+ What This Site Is For 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;-&#160; Why This Site Was Made 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;- Site&#160;Notation&#160;Conventions 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;-
+ Caveats |
+ Thanks... 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;-
+ Copyrights |
+ Site License 
+
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; Downloads | 
+ Mirrors 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; What's New 
+
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; Related CSS Links 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; CSS FAQ 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; CSS Examples 
+ &#160;&#160;&#160;&#183;&#160;&#160;&#160; General CSS Bugs 
+
+ STOP!! 
+If you have used this site for any length of time, you know that 
+I have never put advertising of any kind here. For the first time, 
+I have to resort to that; I have to do some 
+ self -advertisement.
+
+I am looking for work in the San Francisco Bay area beginning in 
+mid-September - PLEASE HELP! 
+If you haven't been paying attention, the market is VERY tough right 
+now...I have been having trouble finding ANY thing at
+all. 
+If you can help, please email me [ SEE 
+MORE DETAILS... ]

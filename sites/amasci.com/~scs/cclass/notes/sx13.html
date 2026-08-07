@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Chapter 13: Reading the Command Line</title>
+<link href="sx12e.html" rev=precedes>
+<link href="sx14.html" rel=precedes>
+<link href="top.html" rev=subdocument>
+</head>
+<body>
+<H1>Chapter 13: Reading the Command Line</H1>
+
+<p>[This section corresponds to K&amp;R Sec. 5.10]
+</p><p>We've mentioned several times that a program is rarely useful
+if it does exactly the same thing every time you run it.
+Another way
+of giving a program some variable input to work on
+is by invoking it with <dfn>command line arguments</dfn>.
+</p><p>(We should probably admit that command line user interfaces
+are a bit old-fashioned,
+and currently somewhat out of favor.
+If you've used Unix or MS-DOS, you know what a command line is,
+but if your experience is confined to
+the Macintosh or Microsoft Windows or some other Graphical User Interface,
+you may never have seen a command line.
+In fact, if you're learning C on a Mac or under Windows,
+it can be tricky to give your program a command line at all.
+Think C for the Macintosh provides a way;
+I'm not sure about other compilers.
+If your compilation environment doesn't provide an easy way
+of simulating an old-fashioned command line, you may skip this chapter.)
+</p><p>C's model of the command line
+is that it consists of a sequence of words,
+typically separated by whitespace.
+Your main program can receive these words as an array of strings,
+one word per string.
+In fact,
+the C run-time startup code is always willing to pass you this array,
+and all you have to do to receive it
+is to declare <TT>main</TT> as accepting two parameters,
+like this:
+<pre>
+	int main(int argc, char *argv[])
+	{
+	...
+	}
+</pre>
+When <TT>main</TT> is called,
+<TT>argc</TT> will be a count of the number of command-line arguments,
+and <TT>argv</TT> will be
+an array (``vector'') of the arguments themselves.
+Since each word is a string which is represented
+as a pointer-to-<TT>char</TT>,
+<TT>argv</TT> is an array-of-pointers-to-<TT>char</TT>.
+Since we are not <dfn>defining</dfn> the <TT>argv</TT> array,
+but merely declaring a parameter which references an array somewhere else
+(namely, in <TT>main</TT>'s caller, the run-time startup code),
+we do not have to supply an array dimension for <TT>argv</TT>.
+(Actually, since functions never receive arrays as parameters in C,
+<TT>argv</TT> can also be thought of
+as a pointer-to-pointer-to-<TT>char</TT>,
+or <TT>char **</TT>.
+But multidimensional arrays and pointers to pointers can be confusing,
+and we haven't covered them,
+so we'll talk about <TT>argv</TT> as if it were an array.)
+
+(Also, there's nothing magic about the names <TT>argc</TT> and <TT>argv</TT>.
+You can give <TT>main</TT>'s two parameters any names you like,
+as long as they have the appropriate types.
+The names <TT>argc</TT> and <TT>argv</TT> are traditional.)
+</p><p>The first program to write when playing with <TT>argc</TT> and <TT>argv</TT>
+is one which simply prints its arguments:
+<pre>
+#include &lt;stdio.h&gt;
+
+main(int argc, char *argv[])
+{
+int i;
+
+for(i = 0; i &lt; argc; i++)
+	printf("arg %d: %s\n", i, argv[i]);
+return 0;
+}
+</pre>
+(This program is essentially the Unix or MS-DOS <TT>echo</TT> command.)
+</p><p>If you run this program,
+you'll discover that the set of ``words''
+making up the command line
+includes the command you typed to invoke your program
+(that is, the name of your program).
+In other words,
+<TT>argv[0]</TT> typically points to the name of your program,
+
+and <TT>argv[1]</TT> is the first argument.
+</p><p>There are no hard-and-fast rules
+for how a program should interpret its command line.
+There is one set of conventions for Unix,
+another for MS-DOS,
+another for VMS.
+Typically you'll loop over the arguments,
+perhaps treating some as option flags and others as actual arguments
+(input files, etc.),
+interpreting or acting on each one.
+Since each argument is a string,
+you'll have to use <TT>strcmp</TT> or the like
+to match arguments against any patterns you might be looking for.
+Remember that <TT>argc</TT> contains
+the number of words on the command line,
+and that <TT>argv[0]</TT> is the command name,
+so if <TT>argc</TT> is 1,
+there are no arguments to inspect.
+(You'll never want to look at <TT>argv[i]</TT>,
+for <TT>i &gt;= argc</TT>,
+because it will be a null or invalid pointer.)
+</p><p>As another example,
+also illustrating <TT>fopen</TT>
+and the file I/O techniques of the previous chapter,
+here is a program which copies one or more input files
+to its standard output.
+Since ``standard output'' is usually the screen by default,
+this is therefore a useful program for displaying files.
+(It's analogous to the obscurely-named Unix <TT>cat</TT> command,
+and to the MS-DOS <TT>type</TT> command.)
+You might also want to compare this program
+to the character-copying program of section
+
+6.2.
+<pre>
+#include &lt;stdio.h&gt;
+
+main(int argc, char *argv[])
+{
+int i;
+FILE *fp;
+int c;
+
+for(i = 1; i &lt; argc; i++)
+	{
+	fp = fopen(argv[i], "r");
+	if(fp == NULL)
+		{
+		fprintf(stderr, "cat: can't open %s\n", argv[i]);
+		continue;
+		}
+
+	while((c = getc(fp)) != EOF)
+		putchar(c);
+
+	fclose(fp);
+	}
+
+return 0;
+}
+</pre>
+As a historical note, the Unix <TT>cat</TT> program is so named
+because it can be used to con<B>cat</B>enate two files together,
+like this:
+<pre>
+	cat a b &gt; c
+</pre>
+This illustrates why it's a good idea
+to print error messages to <TT>stderr</TT>,
+so that they don't get redirected.
+The ``can't open file'' message
+in this example
+also includes the name of the program
+as well as the name of the file.
+</p><p>Yet another piece of information
+which it's usually appropriate to include in error messages
+is the reason why the operation failed, if known.
+For operating system problems,
+such as inability to open a file,
+a code indicating the error is often stored
+in the global variable <TT>errno</TT>.
+The standard library function <TT>strerror</TT>
+will convert an <TT>errno</TT> value
+to a human-readable error message string.
+Therefore,
+an even more informative error message printout would be
+<pre>
+	fp = fopen(argv[i], "r");
+	if(fp == NULL)
+		fprintf(stderr, "cat: can't open %s: %s\n",
+				argv[i], strerror(errno));
+</pre>
+If you use code like this,
+you can <TT>#include &lt;errno.h&gt;</TT>
+to get the declaration for <TT>errno</TT>,
+and <TT>&lt;string.h&gt;</TT>
+to get the declaration for <TT>strerror()</TT>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx12e.html" rev=precedes>prev</a>
+<a href="sx14.html" rel=precedes>next</a>
+<a href="top.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>svg2swf</title>
+</head>
+<body>
+<h1>svg2swf</h1>
+
+This is a command-line Python script that will convert a (rudimentary) <a href="http://www.w3.org/Graphics/SVG">SVG</a>
+file into a Macromedia Flash (swf) file, using SAX to do the parsing, and
+the <a href="http://www.opaque.net/ming">ming</a> library to write the .swf
+file.
+
+<h2>News/History</h2>
+<h4>July 29, 2001</h4>
+<a href="#download">Release of v0.1.3.</a> -  I've taken off the warning about this being a
+developer only release, because I think it's starting to get generally
+useful.  It's still very rough around the edges, though, so use at your own
+risk.  New features:
+<ul>
+<li>Improved style handling
+<li>Added rgb() color syntax in CSS
+<li>Skeleton for handling hyperlinks
+<li>Handle polygon, polyline and line elements
+<li>Added very crude hyperlink support
+</ul>
+
+<h4>July 23, 2001</h4>
+Release of v0.0.2.  This release is the first one to render tiger.svg
+properly.  Complete handling of the path element.
+
+<h4>July 11, 2001</h4>
+Release of v0.0.1.  First release, limited handling of path element, along
+with rect and a couple of others I forget.
+
+<a name="download">
+<h2>Download</h2>
+</a> 
+<ul>
+<li><a href="svg2swf">svg2swf</a> Version 0.1.3 (July 29, 2001)
+</ul>
+
+<h2>Requirements</h2>
+<ul>
+<li><a href="http://www.python.org">Python 1.5</a>
+<li><a href="http://sourceforge.net/projects/pyxml">The Python SAX
+parser</a> (included with Python 2.0 and later).
+<li><a href="http://www.opaque.net/ming">ming 0.1.1</a>
+</ul>
+
+
+<hr>
+
+<h2>Examples</h2>
+
+The most impressive image I've tested this with is the <a
+href="http://www.levien.com/svg/tiger.svg">tiger image</a> off of the <a
+href="http://www.levien.com/svg/">Gill</a> page.  Here's the
+resulting output (with a one-line cheat to center the image):<br>
+
+<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" WIDTH="517"
+HEIGHT="524" CODEBASE="http://active.macromedia.com/flash5/cabs/
+swflash.cab#version=5,0,0,0">
+<PARAM NAME="MOVIE" VALUE="tiger.swf">
+<PARAM NAME="PLAY" VALUE="true">
+<PARAM NAME="LOOP" VALUE="false">
+<PARAM NAME="QUALITY" VALUE="high">
+
+<EMBED SRC="tiger.swf" WIDTH="517" HEIGHT="524" PLAY="true" 
+LOOP="true" QUALITY="high" 
+PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"> </EMBED>
+
+</OBJECT>
+<br>
+The tiger is acutally comprised of very few SVG primatives, so it's not
+<i>that</i> impressive to have an SVG renderer handle it.  Still, it looks
+pretty.<p>
+
+The way I've been developing this has been by tackling testcases from the
+<a href="http://www.w3.org/Graphics/SVG/Test/">W3C's SVG Conformance Test
+Suite</a>.  Here's a list of the tests that (I think) this passes (with caveats):
+<ul>
+<li>path-lines-BE-01.svg
+<li>path-curves-BE-02.svg
+<li>path-curves-BE-03.svg
+<li>path-curves-BE-04.svg
+<li>shapes-rect-BE-01.svg
+<li>shapes-circle-BE-03.svg
+<li>shapes-line-BE-04.svg
+<li>shapes-polygon-BE-05.svg
+<li>shapes-polyline-BE-06.svg
+</ul>
+
+Caveats:  Flash doesn't allow for setting the <a
+href="http://www.w3.org/TR/2001/PR-SVG-20010719/painting.html#StrokeLinecapProperty">linecap</a>,
+which defaults to
+"round cap" in Flash.  Since SVG defaults to "butt cap", and since I can't change
+to that value, that's a problem.  Also, the hyperlink text area is a bit
+out of control.
+
+If it passes any others, it'd be out of luck, becuase generally speaking,
+if I haven't looked at it, it doesn't work.
+
+<hr>
+Copyright 2001 Rob Lanphier<br>
+<P><A HREF="http://www.eskimo.com/~robla"><IMG SRC="http://www.eskimo.com/~robla/littleho.gif" ALT="Rob's Homepage" HSPACE=5 VSPACE=5 HEIGHT=80 WIDTH=125></A></P>
+
+
+</body>
+</html>
+
+

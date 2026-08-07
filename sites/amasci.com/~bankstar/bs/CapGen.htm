@@ -1,0 +1,293 @@
+<html>
+<head>
+<title>CapGen : A System allowing Member banks to create files for a Central Banks CASS system</title>
+<meta name="keywords" content="Central Banks ,introduce, Clearing and Settlement Systems, CASS, inward clearing, outward clearing, data, image files, interfaces to document processors, Front Office, Back Office, MICR line, CMC7, E12B, Branch Module, Distributed Database, Nodal Office, account balance, overdraft, cheque stock, on-line interface, batch interface, life cycle, instrument regularization">
+<meta name="description" content="Central Banks require member banks to create data and image files according to formats specified by them for their Clearing and Settlement Systems (CASS)">
+<script language="JavaScript">
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+</script>
+<Script Language="javascript" src="dropmenu.js"></script> 
+<Script Language="javascript" src="allscripts.js"></script>
+
+</head>
+
+<body bgcolor="#CCCCCC" text="#000000" background="images/bg.gif" leftmargin="0" topmargin="0" link="#666666" vlink="#006699" alink="#990000" class=FORMAT>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="178"><img src="images/1.jpg" width="178" height="152"></td>
+    <td width="177"><img src="images/2.jpg" width="177" height="152"></td>
+    <td width="10"><img src="images/3.jpg" width="200" height="152" usemap="#Map" border="0"></td>
+    <td width="415"><img src="images/4.jpg" width="225" height="152" usemap="#Map2" border="0"></td>
+  </tr>
+</table>
+<table width="777" border="0" cellspacing="0" cellpadding="0" height="1198">
+  <tr> 
+    <td width="46" valign="top" bgcolor="#006699" height="1142">&nbsp; </td>
+    <td width="3" valign="top" bgcolor="#CCCCCC" height="1142"></td>
+    <td width="10" valign="top" height="1142"></td>
+    <td valign="top" height="1142" width="718"> 
+      <table width="713" border="0">
+        <tr> 
+          <td colspan="2" valign="bottom"> <img src="pics/capgen-head.gif" width="149" height="45"></td>
+        </tr>
+        <tr> 
+          <td width="546" valign="top" height="240"> 
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font color="#333333">When 
+              Central Banks introduce Clearing and Settlement Systems (CASS) to 
+              automate the clearing of payment instruments, commercial banks need 
+              to have systems which can generate files for outward clearing and 
+              accept/process files for inward clearing.</font></font></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">Most 
+              banks will have existing computer systems prior to this event taking 
+              place and supplementing existing systems with a module to handle 
+              this is far more advantageous than replacing existing systems.</font> 
+            </p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">&nbsp;&nbsp;&nbsp;&nbsp;Some 
+              Central Banks require the exchange of only data files while others 
+              require both data and image files to be exchanged.</font></p>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">&nbsp;&nbsp;&nbsp;&nbsp;CapGen 
+              is a highly parameterized system, which can be used across a wide 
+              range of CASS systems for both paper and image based clearing. </font></p>
+          </td>
+          <td width="157" valign="top" height="240"> 
+            <div align="right"><img src="pics/filecap-softlook.gif" width="150" height="206" align="top"></div>
+          </td>
+        </tr>
+      </table>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Features 
+        of CapGen</b></font></p>
+      <blockquote> 
+        <blockquote> 
+          <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font color="#333333"><a href="#1"> 
+            Interface to Document Processors</a> <br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#2">User Defined Payment Instruments 
+            </a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#3">Branch Modules for banks having 
+            distributed databases</a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#4">Interface to communicate with the 
+            Central Bank </a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#5">Automatic generation of outward 
+            clearing files</a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#6">Automatic Processing of inward 
+            clearing files</a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#7">Automatic Send and receive feature 
+            </a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#8">Interface to existing Baseline 
+            system</a><br>
+            </font><font color="#999999"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><font size="1"><img src="images/blue-bullet.gif" width="10" height="10"></font></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"></font> 
+            <font color="#333333"><a href="#9">End-to-End regularization of paper 
+            instruments</a></font></font></p>
+        </blockquote>
+      </blockquote>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">Interface to Document Processors <a name="1"></a><br>
+        </font></b>CapGen 
+        interfaces to popular document processors which enables a bank to decide 
+        whether it wishes to process documents at Front Office using small inexpensive 
+        document processors or at Back Office using high speed large volume processors. 
+        These document processors will capture data from the MICR line as well 
+        as scan images of one or both sides of the document and pass this data 
+        to CapGen for processing</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">User Defined Payment Instruments<a name="2"></a><br>
+        </font></b>While almost all Central Banks process instruments such as 
+        cheques and transfer orders, each Central Bank also allow other instruments 
+        and these can change as time goes by. For example, promissory notes, settlement 
+        orders, reimbursement of credit card claims etc. are items that Central 
+        Banks allow processing of. CapGen allows users to themselves define new 
+        instruments and evolve along with Central Banks.</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">Branch Modules for banks having distributed databases<a name="3"></a><br>
+        </font></b>Not all banks have a centralized database. Banks, which have 
+        distributed databases at branches need to process instruments at branches 
+        and then send the processed data to a Nodal Office. The Nodal Office consolidates 
+        data and transfers consolidated data to and from aCentral Bank. CapGen 
+        has a Branch Module, which allows this to take place.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">CapGen 
+        also has built in sorting mechanism which enables sorting, preparing and 
+        transferring files to various branches at predefined intervals. </font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">Interface to communicate with the Central Bank<a name="4"></a><br>
+        </font></b>CapGen system has an easy interface to accept and send files 
+        to a Central Bank</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"><font color="#CC0000"><b> 
+        Automatic generation of outward clearing files<a name="5"></a><br>
+        </b></font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">Once 
+        instrument data has been entered into CapGen, it automatically creates 
+        outward clearing files in the formats defined by Central Banks</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">Automatic Processing of inward clearing files<a name="6"></a><br>
+        </font></b>On 
+        receiving inward clearing files from a Central Bank, CapGen can automatically 
+        process the instruments for parameters such as account balance, overdraft, 
+        cheque stock etc. CapGen allows users to define instruments which can 
+        be automatically processed and others that require officer intervention</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <font color="#CC0000"><b>Automatic Send and receive feature<a name="7"></a><br>
+        </b></font>CapGen 
+        has automatic send and receive feature which allows Users to send and 
+        receive files from a Central Bank at user defined intervals</font></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <font color="#CC0000"><b>Interface to existing Baseline system<a name="8"></a><br>
+        </b></font>CapGen 
+        has the capability to interface to various baseline systems using a batch 
+        or on-line interface. These interfaces are developed/fine tuned individually 
+        for each user. </font></p>
+      <p></p>
+      <p><font color="#999999"><b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666666"><img src="images/red-bullet.gif" width="10" height="10"></font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        <b><font color="#CC0000">End-to-End regularization of paper instruments 
+        <a name="9"></a><br>
+        </font></b>Many 
+        Central Banks now allow clearing of instruments based on electronic images. 
+        Paper instruments however, still exist and banks need to ensure that the 
+        paper item finally arrives at the correct destination regularizing the 
+        instrument which has been cleared based on an electronic image. CapGen 
+        keeps track of the complete life cycle an instrument. until it is fully 
+        regularized.</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" valign="top" bgcolor="#EAE7E3" height="9" ></td>
+    <td width="3" valign="top" bgcolor="#CCCCCC" height="9"></td>
+    <td width="10" valign="top" height="9"></td>
+    <td valign="top" height="9" width="718"> 
+      <div align="right"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">* 
+        <b>CapGen</b> is scheduled to be released in Q3 2003</font></div>
+    </td>
+  </tr>
+</table>
+<div align="right">
+  <map name="Map"> 
+    <area shape="rect" coords="23,117,62,131" href="index.htm" alt="Back to Homepage of Bankstar " title="Back to Homepage of Bankstar ">
+    <area shape="rect" coords="72,117,129,131" href="about_us.htm" alt="About BankStar Technologis Limited" title="About BankStar Technologis Limited">
+    <area shape="rect" coords="137,116,194,130" href=# onClick="Central_or_commercial_menu()" alt="Our Commercial , Central and Member Bank Solutions " title="Our Commercial , Central and Member Bank Solutions ">
+  </map>
+  <map name="Map2"> 
+    <area shape="rect" coords="5,117,73,131" href="customers.htm" alt="The Banks Using our Internet Banking Solutions" title="The Banks Using our Internet Banking Solutions">
+    <area shape="rect" coords="81,117,161,131" href="environment.htm" alt="Operating System and Database Independent Systems" title="Operating System and Database Independent Systems">
+    <area shape="rect" coords="172,117,222,131" href="mailto:sales@bankstar.com" alt="Mail to BankStar Technologis Limited" title="Mail to BankStar Technologis Limited">
+  </map>
+</div>
+
+
+<!-- Drop Down for Commercial Banks  Start --> 
+<div id="dropdwn" style="position:absolute; left:370px; top:137px; width:124px; height:150px; z-index:1; background-color:#666666; layer-background-color:#666666; border: 1px none #000000; visibility:hidden" > 
+  <script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Microsoft Internet Explorer")
+{
+show_dtls=dispmenu_commercial;
+document.write(show_dtls);
+}
+</script>
+</div>
+
+<!-- **************OOOOOOOOOOOOO************* --> 
+
+<layer id='dropdwnnav'left='371' top='136' width='116' height='119' z-index='1' bgcolor='#666666' visibility='hide' onmouseout="menu_hide_check()"> 
+<script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Netscape")
+{
+show_dtls=dispmenu_commercial;
+document.write(show_dtls);
+}
+</script>
+</layer>
+<!-- Drop Down for Commercial Banks  End --> 
+
+<!-- Drop Down for Central Banks  Start -->
+
+<div id="dropdwn_central_ie" style="position:absolute; left:370px; top:163px; width:124px; height:43px; z-index:1; background-color:#666666; layer-background-color:#666666; border: 1px none #000000; visibility:hidden" > 
+  <script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Microsoft Internet Explorer")
+{
+show_dtls=dispmenu_central;
+document.write(show_dtls);
+}
+</script>
+</div>
+
+<!-- **************OOOOOOOOOOOOO************* --> 
+
+<layer id='dropdwn_central_nav'left='371' top='162' width='116' height='44' z-index='1' bgcolor='#666666' visibility='hide' onmouseout="menu_hide_check()"> 
+<script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Netscape")
+{
+show_dtls=dispmenu_central;
+document.write(show_dtls);
+}
+</script>
+</layer>
+<!-- Drop Down for Central Banks  End --> 
+
+<!-- Drop Down for Member Banks  Start -->
+
+<div id="dropdwn_member_ie" style="position:absolute; left:370px; top:177px; width:124px; height:72px; z-index:1; background-color:#666666; layer-background-color:#666666; border: 1px none #000000; visibility:hidden" > 
+  <script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Microsoft Internet Explorer")
+{
+show_dtls=dispmenu_member;
+document.write(show_dtls);
+}
+</script>
+</div>
+
+<!-- **************OOOOOOOOOOOOO************* --> 
+
+<layer id='dropdwn_member_nav'left='371' top='179' width='116' height='70' z-index='1' bgcolor='#666666' visibility='hide' onmouseout="menu_hide_check()"> 
+<script language="JavaScript">
+show_dtls="";
+if(navigator.appName == "Netscape")
+{
+show_dtls=dispmenu_member;
+document.write(show_dtls);
+}
+</script>
+</layer>
+<!-- Drop Down for Member Banks  End -->
+<div id='Centralorcommercial' style='position:absolute; width:203px; height:57px; z-index:2; left: 493px; top: 137px; background-color: #666666; layer-background-color: #666666; border: 1px none #000000; visibility: hidden'> 
+  <script language="javascript">
+show_main_dtls="";
+if(navigator.appName == "Microsoft Internet Explorer")
+{
+show_main_dtls=main_menu;
+document.write(show_main_dtls);
+}
+</script>
+</div>
+<layer id="Centralorcommercial_nav" left="493" top="137" width="203" height="45" z-index="3" visibility="hide" bgcolor="#999999">
+<script language="JavaScript">
+show_main_dtls="";
+if(navigator.appName == "Netscape")
+{
+show_main_dtls=main_menu;
+document.write(show_main_dtls);
+}
+</script>
+</layer>
+<!-- Tool tip Layers  --> 
+<div id='tooltip' style='position:absolute; width:178px; height:73px; z-index:4; left: 100px; top: 201px; background-color: #CCCCCC; layer-background-color: #CCCCCC; background-image: url(pics/ToolTip_bk.gif); layer-background-image: url(pics/ToolTip_bk.gif); border: 1px none #000000; visibility: hidden'> 
+  		<script language="JavaScript">
+		show_description();
+		</script>
+</div>
+<!-- End of Tool tip Layers  --> 
+
+</body>
+</html>

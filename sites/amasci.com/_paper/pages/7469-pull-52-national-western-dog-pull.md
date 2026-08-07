@@ -1,0 +1,970 @@
+---
+title: "Pull 52 -- National Western Dog Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull52.html
+order: 7469
+reachable_from_entry: false
+images: 0
+internal_links: 6
+extracted: 2026-08-07T17:15:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 52 -- National Western Dog Pull
+
+*Source page: `~samoyed/iwpa/0001/Pull52.html`*
+
+National Western Dog Pull\
+Stock Show Grounds, Denver, Colorado
+====================================
+
+Pull: 52
+
+Organizer(s):Phil Goerner
+
+Wheels Region: 9
+
+Dirt
+
+Track:Packed dirt
+
+Date:1/13/2001
+
+Weather:
+
+Indoors
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Titi
+
+P
+
+2530
+
+18.90
+
+35
+
+72.29
+
+.
+
+Andy Gingery
+
+Am. PitBull Terrier
+
+Two Dogs
+
+3
+
+2320
+
+14.30
+
+35
+
+66.29
+
+6.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Buzz
+
+9
+
+1900
+
+15.00
+
+32
+
+59.38
+
+3.0
+
+John Lucero
+
+Am. PitBull Terrier
+
+Stewart Little
+
+4
+
+1260
+
+20.60
+
+22
+
+57.27
+
+1.0
+
+Daryl Spauldin
+
+Am. PitBull Terrier
+
+Breeze
+
+9
+
+1040
+
+44.90
+
+31
+
+33.55
+
+0.5
+
+Cheri Walton
+
+Australian Cattle Dog
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+ILB Long gone
+
+3
+
+2890
+
+11.70
+
+58
+
+49.83
+
+14.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Domino
+
+9
+
+2890
+
+12.10
+
+57
+
+50.70
+
+11.0
+
+Roger Vigil
+
+Am. PitBull Terrier
+
+Izzy 2 Much
+
+3
+
+2890
+
+16.50
+
+54
+
+53.52
+
+8.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Bull
+
+9
+
+2890
+
+17.60
+
+58
+
+49.83
+
+6.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+Trek
+
+9
+
+2540
+
+9.90
+
+59
+
+43.05
+
+5.0
+
+Jeffrey Bott
+
+Samoyed
+
+Inferno
+
+3
+
+2540
+
+13.50
+
+55
+
+46.18
+
+4.0
+
+Karen James
+
+Blue Heeler
+
+Dozer
+
+9
+
+2540
+
+13.90
+
+56
+
+45.36
+
+3.0
+
+Roger Vigil
+
+Am. PitBull Terrier
+
+Dragon
+
+9
+
+2190
+
+12.30
+
+50
+
+43.80
+
+2.0
+
+Angelina Turnbull
+
+Am. PitBull Terrier
+
+Bronco
+
+4
+
+1840
+
+9.60
+
+60
+
+30.67
+
+1.0
+
+Daryl Spauldin
+
+Am. PitBull Terrier
+
+Kachina
+
+P
+
+690
+
+32.00
+
+42
+
+16.43
+
+.
+
+Anne O'Neill
+
+Samoyed
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Chic
+
+9
+
+3240
+
+15.10
+
+67
+
+48.36
+
+15.0
+
+Tim Long
+
+Am. PitBull Terrier
+
+VooDoo
+
+9
+
+3240
+
+16.50
+
+78
+
+41.54
+
+12.0
+
+Justine Alvarado
+
+Am. Bull Dog
+
+Dozer
+
+9
+
+3240
+
+19.60
+
+79
+
+41.01
+
+9.0
+
+Jim Walters
+
+Olde English Bulldogge
+
+Miss-N
+
+4
+
+2890
+
+12.30
+
+77
+
+37.53
+
+7.0
+
+Daryl Spauldin
+
+Am. PitBull Terrier
+
+Dusty
+
+9
+
+2540
+
+8.80
+
+80
+
+31.75
+
+6.0
+
+Ted Farmer
+
+Australian Shepherd
+
+Xydako
+
+9
+
+2540
+
+15.40
+
+73
+
+34.79
+
+5.0
+
+Nacho Alvarado
+
+Mixed
+
+Smokey
+
+9
+
+2540
+
+17.80
+
+80
+
+31.75
+
+4.0
+
+Gabe Casas
+
+Am. PitBull Terrier
+
+Prince Apollo
+
+9
+
+2190
+
+9.40
+
+76
+
+28.82
+
+3.0
+
+Terry Reed
+
+Boxer
+
+Dottie
+
+9
+
+2190
+
+24.80
+
+64
+
+34.22
+
+2.0
+
+John Lucero
+
+Am. Bull Dog
+
+Jackie
+
+P
+
+1840
+
+9.40
+
+79
+
+23.29
+
+.
+
+Andy Gingery
+
+Am. PitBull Terrier
+
+Hunter
+
+9
+
+1840
+
+27.60
+
+80
+
+23.00
+
+0.5
+
+Todd Snyder
+
+Gr. Swiss Mtn. Dog
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Chevy
+
+4
+
+3475
+
+12.49
+
+100
+
+34.75
+
+12.0
+
+Daryl Spauldin
+
+Am. PitBull Terrier
+
+Sarge
+
+9
+
+2775
+
+12.70
+
+87
+
+31.90
+
+9.0
+
+Tim Long
+
+Am. Bull Dog
+
+Secoya
+
+9
+
+2425
+
+14.70
+
+99
+
+24.49
+
+6.0
+
+Chris Stock
+
+Alaskan Malamute
+
+Bocephus
+
+8
+
+2425
+
+23.60
+
+85
+
+28.53
+
+4.0
+
+Bryan Williams
+
+Am. PitBull Terrier
+
+Lukea
+
+9
+
+2425
+
+31.20
+
+97
+
+25.00
+
+3.0
+
+Mark Landers
+
+Am. PitBull Terrier
+
+Bounder
+
+9
+
+1725
+
+20.10
+
+85
+
+20.29
+
+2.0
+
+Steve Riggs
+
+Alaskan Malamute
+
+Kobuk
+
+9
+
+1375
+
+18.50
+
+99
+
+13.89
+
+1.0
+
+Steve Riggs
+
+Alaskan Malamute
+
+Sly Guy
+
+9
+
+No Pull
+
+83
+
+.
+
+0.0
+
+Jim Walters
+
+Olde English Bulldogge
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Thunder
+
+9
+
+3475
+
+12.40
+
+107
+
+32.48
+
+12.0
+
+Dean Mircos
+
+Am. Bull Dog
+
+Boogie
+
+9
+
+3475
+
+16.00
+
+118
+
+29.45
+
+9.0
+
+Mark Landers
+
+Am. PitBull Terrier
+
+Lighting
+
+9
+
+3475
+
+31.60
+
+104
+
+33.41
+
+6.0
+
+Gus Mircos
+
+Am. Bull Dog
+
+Tegan
+
+9
+
+3125
+
+24.50
+
+104
+
+30.05
+
+4.0
+
+Karen Becker
+
+Gr. Swiss Mtn. Dog
+
+Luc
+
+9
+
+2775
+
+25.20
+
+115
+
+24.13
+
+3.0
+
+Michael Reddin
+
+Gr. Swiss Mtn. Dog
+
+Trigger
+
+9
+
+2075
+
+34.30
+
+119
+
+17.44
+
+2.0
+
+Todd Snyder
+
+Gr. Swiss Mtn. Dog
+
+Yukon Dreamer
+
+9
+
+1375
+
+29.10
+
+109
+
+12.61
+
+1.0
+
+Chris Stock
+
+Alaskan Malamute
+
+Falcor
+
+9
+
+1025
+
+7.30
+
+107
+
+9.58
+
+0.5
+
+Robert Riddle
+
+Alaskan Malamute
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Winston
+
+9
+
+4175
+
+24.70
+
+183
+
+22.81
+
+7.0
+
+Thomas Roberts
+
+Mastiff/Bernard
+
+Highland Warrior
+
+9
+
+3825
+
+18.30
+
+153
+
+25.00
+
+4.0
+
+Robert Riddle
+
+Alaskan Malamute
+
+Drifter
+
+9
+
+1725
+
+17.80
+
+135
+
+12.78
+
+1.0
+
+Penny Oldfield
+
+Saint Bernard
+
+Last Updated: 16:37:29 on 03-25-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull51.html) | [Next Pull \#](Pull53.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

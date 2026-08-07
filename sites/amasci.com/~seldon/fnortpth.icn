@@ -1,0 +1,160 @@
+#        FNortPth.Icn (Full Norton Path) - Will Mengarini - 10 Aug 92
+
+# Filter Norton FA | FS output so each line is 1 full file path
+
+# The Norton Utilities v4.00 contain programs FA & FS, for displaying
+# File Attributes & File Sizes.  There was some reason why under DOS 3.30
+# I needed to prefer those over Dir to get bare whole-path listings.
+# This was the code I wrote to do that.  It's interesting as a demonstration
+# of a structured approach to Icon string scanning, even if the particular
+# application is no longer useful.
+
+#  Sample FA output excerpts preceded by column-ruler line:
+#
+#  123456789012345678901234567890
+#   D:\-\I
+#       deldupln.icn
+#       fnortpth.icn  Archive
+#       gug           Archive
+#
+#     33 files shown
+#     no files changed
+#
+#   D:\-\I\^
+#       deldupln.asv
+#       deldupln.icn  Archive
+#       reverse.icn
+#       scrap.b       Archive
+#       _.rst         Archive
+#
+#     9 files shown
+#     no files changed
+#
+#   Total of all files
+#     42 files shown
+#     no files changed
+
+#  Sample FS output excerpts preceded by column-ruler line:
+#
+#  123456789012345678901234567890
+#    D:\-\I
+#      whug              1,344 bytes
+#      fnortpth.icn        215 bytes
+#
+#         30,272 total bytes in 33 files
+#         77,824 bytes disk space occupied, 61% slack
+#
+#    D:\-\I\^
+#      deldupln.asv      1,122 bytes
+#      deldupln.icn      1,058 bytes
+#
+#         12,399 total bytes in 9 files
+#         24,576 bytes disk space occupied, 50% slack
+#
+#    Total of all files found
+#         42,671 total bytes in 42 files
+#        102,400 bytes disk space occupied, 58% slack
+#
+#   Drive usage
+#     33,435,648 bytes available on drive D:
+#     12,103,680 bytes unused on drive D:, 36% unused
+
+procedure main()
+   while read() ?(
+      # All & only lines containing "\\" are directories. They begin (after
+      # leading whitespace) with the drive letter, & end with "\\" only if
+      # they specify the root. There are no other words on such lines.
+      tab(many(' ')),
+      dir := tab(upto('\\')) || tab(0) || (move(-1) ~== "\\" | "")
+   )|(
+      # Lines containing file names begin with leading whitespace. Then
+      # come the name & extension as a single word with a separating ".";
+      # there's no whitespace between the name & extension, unlike the
+      # columnar format of FI & Dir. If the extension is empty, the "." is
+      # omitted. In FS, all file names are on lines ending with "bytes"; no
+      # other lines end with "bytes". In FA, file names are followed by a
+      # list of attributes like "Archive"; no other lines contain the words
+      # denoting those attributes; the list may be empty, in which case the
+      # line has only 1 word; no other lines have only 1 word except
+      # directory lines. Therefore, file names are all & only the initial
+      # words on lines that either have no other words & are not directory
+      # lines, | end with "bytes" | a word denoting an attribute.
+      ((
+         (
+            tab(many(' ')), tab(many(~' \\')), pos(0)
+               # We already know this isn't a directory line since control
+               # can't get this far unless the alternative that handles
+               # directory lines fails. However, the code is more robust if
+               # it doesn't depend on that, & inserting an extra char in a
+               # cset entails no extra run-time computation.
+         )|(
+            reverse(&subject) ? match(reverse(
+               "bytes" | "hive" | "d-Only" | "dden" | "stem"
+            ))
+         )
+      ) & &pos:=1 & (
+         tab(many(' ')), write(  dir || tab(upto(' ')|0)  )
+      ))
+   )|1
+end
+
+# All of FNortPth.Icn's main() fits in a single 43x80 screen, & only 18
+# lines are code; the rest is documentation.  That's not bad.
+
+# This was the first Icon program I wrote using string scanning, & I came out
+# of it with designs for scanning structures that do anything AWK can do just
+# as easily, & of course much more since in Icon it's all an integrated
+# expressional syntax instead of a collection of special features.  This
+#   while read() ?(
+#      action 1
+#   )|(
+#      action 2
+#   )|(
+#      action 3
+#   )|1
+# performs for each line of standard input the first action that succeeds.
+# Replacing the final
+#   )|1
+# with
+#   )
+# processes standard input only down to the first line for which no action
+# succeeds. This
+#   while read() ?((
+#      action 1
+#   )|1,&pos:=1,(
+#      action 2
+#   )|1,&pos:=1,(
+#      action 3
+#   )|1)
+# is exactly equivalent to AWK's protocol of applying to every line of
+# standard input every "pattern/action statement" in the program, so
+# mismatches don't prevent later patterns from matching the same line.
+# Patterns & actions can be interleaved in Icon, but in one case in
+# FNortPth this was too complex, so I coded
+#   ((
+#      (
+#         condition 1
+#      )|(
+#         condition 2
+#      )
+#   ) & &pos:=1 & (
+#      action
+#   ))
+# using conjunction instead of mutual evaluation to clarify that in this
+# case it was my intention to fail the expression & therefore not perform
+# the action unless one of the conditions succeeded.
+
+# I seem to be particularly enamoured of languages
+# that let me avoid assigning variables; switching from
+#   while line := read() do line ?(
+#      [...]    
+#   )
+# to
+#   while read() ?(
+#      [...]    
+#   )|1
+# was very satisfying.  I think this is because I recognize this as an
+# approach that helps me get away from the procedural diddledydoodling that I
+# find so frustrating with Algol-family languages; while I'm trying to design
+# algorithms & analyze systems, I keep getting distracted by the need to dip
+# down to what should be an isolated lower level of abstraction.

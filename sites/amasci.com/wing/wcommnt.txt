@@ -1,0 +1,219 @@
+OTHER MISC. MESSAGES ABOUT BERNOULLI/NEWTON LIFTING FORCE EXPLANATION
+
+
+Date: Tue, 30 Dec 1997 17:37:07 -0000
+From: basil.scott@octel.com
+To: billbeskimo.com
+Subject: Bernoulli versus Reaction Theories of Flight
+
+Hi, Bill
+
+Just discovered your interesting web page with long correspondence
+concerning Bernouilli vs. Reaction explanations of flight theory.
+Discovered it via the Bad Science web page.
+
+Just a few observations.
+
+A.  I was spoon fed the Bernouilli explanation all through my physics
+education (physics Bachelor's degree from Univ of Liverpool, England in
+1966), including when studing Theory of Flight in the air force cadets.
+The reaction theory was never mentioned!  I realised soon after I
+started reading the correspondence how prejudiced I was - and all my
+tutors clearly also had been - about it.  Upside down flight (kind of
+subliminally) never quite seemed to fit into it, but I never questioned
+it properly, not even mentally to myself.  Oh, the power and influence
+of prejudice!
+
+B. Rather ironically, the explanation of why a sailboat sail can drive a
+boat to windward used to be given as the "reaction" version - known as
+"the wedge effect".  Then latterly, the influence of Bernouilli came in
+and said "No, the foresail acts like a wing flap, and the mainsail is
+like the wing - it's the same way an aircaraft flies!"  Ho, hum!
+
+C. I wonder how much lift does a flat board experience when moved
+through an air mass at an angle - i.e. the limiting case of a thin
+aerofoil?  (I can't do the maths, but maybe someone out there can, or
+already has done.)  I guess for this case one can discount Bernouilli
+completely.  Or can one?
+
+C.  Nobody has mentioned kites!  Long before the Wright brothers, people
+(back as far as Leonardo da Vinci at least) were experimenting with
+them, especially so in the 19th century right up until Kitty Hawke.
+There were no - or very few - curved aerofoils involved then.  I
+remember being fascinated as a child by the good old box kite.  All flat
+surfaces, yet they always flew well!  Where is Bernouilli there?  How do
+they relate to plane wings?
+
+D.  What about those aerofoils I've seen where both surfaces curve in
+the same direction, looking a bit like convex-meniscus lenses?  What
+does Bernouilli  say about them, I wonder?!  I believe aeroplane flaps
+are shaped like them!
+
+E.  All this leads me to the following position: Maybe we are in the
+same position as regards really understanding flight as the Egyptians
+were about Pythagoras.  They certainly knew *some* right-angled
+triangles worked - 3,4,5, and 5, 12, 13 etc., else how did they build
+the pyramids so true (very accurate right angles!).  But they could
+never prove it for *all* such triangles.  Maybe there's a
+"flight-Pythagoras" somewhere out there waiting to discover some real
+true unifying explanation?  Meanwhile, we can still build our
+"pyramids-which-fly" from empirical knowledge alone.
+
+I'm not sure how to get this on to your web page, but if you think it
+appropriate, maybe you can add it.
+
+Happy New Year.
+
+Bas Scott
+#UM Test UK
+Lucent Technologies-OMD
+3 Furzeground Way
+Stockley Park, Uxbridge, Middlesex  UB11 1QA
+E-mail: Basil.Scott@octel.com (temporary only) or basilscott@lucent.com
+Phone: +44 (0)181 867 4016
+
+
+Date: Fri, 7 Jun 1996 07:29:41 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: Martyn Harrison
+Subject: Re: Wings and things.
+
+On Fri, 7 Jun 1996, Martyn Harrison wrote:
+
+> Appreciative as I am for the misconceptions concept, I think maybe I do
+> not understand the one about the wings. Seems to me that when I was 
+> doing aeronautics at school, we did some experiments on this, and it's 
+> not merely displaced air "causing" the wing to lift. Hmm, how do I
+> explain my objection... 
+> 
+> Ok, take two large, ocean-going vessels. They obviously have about equal
+> shaped sides, port and starboard. Have them sail a parallel course with 
+> neutral rudder, and if they are close enough, they will become sucked
+> together and collide. Don't take my word for it - oil tankers are 
+> becoming increasingly cheap, especially if you don't worry too much
+> about safety andsuchlike. <g>
+
+You're completely right on this one.  When two surfaces are involved, the
+forces must be explained by the Bernoulli Effect.  The force expressed
+upon one surface has its complementary reaction force expressed upon the
+other surface, and even though the fluid stream departs on a path parallel
+to the direction in which it entered the system, conservation of momentum
+is preserved.  This arises in many other situations too: trying to blow a
+card off a spool, trying to blow a pingpong ball out of a funnel, blowing
+between two pieces of paper, constriction forces arising when air is
+forced through a venturi, etc.
+
+There is a fallaceous thought experiment associated with these above and
+with wings.  It goes something like this: 
+
+   When air is forced through a venturi, it speeds up and the pressure
+   exerted on the inner surface of the venturi drops.  To imagine
+   the operation of aircraft wings, merely imagine the venturi pipe
+   to be cut in half down the middle.  The remaining half is an
+   airfoil, with the curved side upward, flat side down, and lower
+   pressure on the top surface creating the lift.
+             ___________________________________________
+            |_____                             _________|
+   AIR      :     \___              ______-----         :
+  ----->    :          --_____------                    :
+            :                                           :
+  FLOW      :            _____                          :
+            :       ___--     ------______              :
+            :_____/                        -----________:        
+            |___________________________________________|
+                       Venturi
+
+This sounds completely sensible, no?  But it is wrong.  In the above
+venturi, the pressure difference across the lower half causes a net upward
+force.  By newton's 3rd law, there must be an equal downward force paired
+with this.  And this of course is the force expressed upon the upper half
+of the pipe.  If we slice the pipe down the middle and remove the upper
+half, then there is no physical object to couple to the other half of the
+force.  In short, CUTTING THE VENTURI IN HALF IS A VERY SIGNIFICANT CHANGE
+IN THE SITUATION.  Half a venturi is NOT a wing, the physics of a wing are
+significantly different.
+
+When air is directed over a wing, the other half of the force pair is
+expressed upon the air itself.  If half of the venturi depicted above is
+placed in horizontally flowing air, then there will be forces pulling
+upward on the venturi section and pulling downward upon the air.  This
+causes both to move.  Or, from a more familiar "everyday"  standpoint, the
+venturi section deflects the air downwards, and as a consequence it is
+forced to move upwards.
+
+Look closely at the right half of the lower venturi section.  Yes, the
+bottom surface is flat, but doesn't the whole thing have an overall
+downward tilt?  When air travelling along the top and bottom surfaces
+comes together, won't the combined flow after the trailing edge have a
+downward tilt?  Yes, exactly.  The leading edge of the venturi fools us
+into not noticing that the trailing edge is tilted downwards, and that the
+venturi section as a whole should deflect air downwards: 
+
+               ___
+                  ---___
+                        ---___            THIS ONE'S TILTED
+                              ---___
+            _______________________/
+
+
+           
+            ------______
+                        ------______
+                              ______|     THIS ONE ISN'T
+                  ______------
+            ------
+
+            
+               
+
+------
+
+From the Kitfox mailing list, http://dunkin.Princeton.EDU/.kitfox/kitlist/
+Date: Fri, 12 Jul 1996 08:43:17 -0500 (EST)
+From: 00nzwilliams@bsuvc.bsu.edu
+Subject: Re: Bernoulli lie
+
+|>Is this a good time to ask whether Bernouilli actually knew what he was
+|>talking about?  How many still believe an airplane flies because of the
+|>hump on the top of the wing?  Or that, according to Jeppesen/Sanders, the
+|>upper surface of the wing contributes 75% and the lower surface
+|>contributes 25% to the lift?
+
+|The qustion is really whether to look at lift from Newton's or Bernoulli's
+|point of view.  The answer is that they are both saying exactly the same
+|thing, Newton describing particle motion and Bernoulli describing the
+|average aggregate effects of all particles.
+
+|Anyone who say Bernoulli didn't understand aerodynamics simply doesn't.
+
+Well, it was a good troll.  Most people never heard of Newtonian
+aerodynamics; I hadn't until recently.  I believe Bernoulli is incomplete
+and I prefer Newton.  I'm no physicist - never even had a formal course,
+I'll say up front - but it makes as much sense to me to say that
+compression is the reason for lift as it does to say suction.  A flat plate
+dime store balsa glider flies because it has a positive angle of attack and
+squashes air downward.  The 75/25 ratio in the top paragraph cannot be
+defended.  One surface can't exist without the other and lift is nothing
+more than the pressure differential between the two; that's 50/50.
+
+I came to my understanding of lift, limited as it is, back in the '60s
+after reading an article in Air Facts (Leighton Collins ?).  Recently I met
+a physicist in our EAA chapter, who has written a 110 page book titled
+Newtonian Aerodynamics Fundamentals.  He's given presentations at OshKosh
+and Sun/Fun on the subject and has taken on the FAA about its required
+instruction in aerodynamics for private pilots.  He sent them his book and
+challenged their correctness.  FAA turned to the chair of the physics
+department at UTexas for advice and that official sided with Gale Craig,
+the author.  He has in his possession a letter from the FAA admitting that
+he is correct and that they will have to change their test questions on the
+written exam.
+
+Those interested in the argument can buy the book from Regenerative Press,
+1900 Romine Rd., Anderson, IN at $15.75.  ISBN 0-9646806-0-2.
+
+I didn't start out to write a commercial; sorry.  I have no financial
+interest in this matter and Gale Craig unaware of this post; he might even
+correct my statements here.  I don't understand all the mathematics in the
+book, but I was able to follow it.
+
+Nyal Williams

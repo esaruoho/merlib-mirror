@@ -1,0 +1,32 @@
+From eskimo!news.pixi.com!news.lei.net!news.oz.net!news.sprintlink.net!howland.reston.ans.net!math.ohio-state.edu!jussieu.fr!oleane!pipex!bt!btnet!news.compulink.co.uk!cix.compulink.co.uk!usenet Thu Jun  8 22:35:45 1995
+Xref: eskimo alt.sci.physics.acoustics:2212
+Newsgroups: alt.sci.physics.acoustics
+Path: eskimo!news.pixi.com!news.lei.net!news.oz.net!news.sprintlink.net!howland.reston.ans.net!math.ohio-state.edu!jussieu.fr!oleane!pipex!bt!btnet!news.compulink.co.uk!cix.compulink.co.uk!usenet
+From: etch@cix.compulink.co.uk ("Ian Etchells")
+Subject: Re: Taos Hum
+Message-ID: <D9K94E.FpH@cix.compulink.co.uk>
+Organization: .
+References: <3qeoqu$5lp@eagle.novo.dk>
+Date: Fri, 2 Jun 1995 19:36:14 GMT
+X-News-Software: Ameol
+Lines: 18
+
+I came across this phenomenon several times in my previous job as an 
+technical officer with an environmental health authority in London. We 
+received several complaints from members of the public in different areas 
+who were plagued by what they all described as a constant low pitched hum 
+although I, nor my colleagues ever heard the sound. Although we 
+eliminated all possible sources nearby (such as mains transformers, pumps 
+and other building services) we could never find the cause. Some 
+complainants were so bothered that they had been put on tranquillisers. 
+We also couldn't detect any stationery low frequency tones using real 
+time frequency analysis (down to 5 Hz). We contacted the Low Frequency 
+Noise Sufferers Association in the Britain and found that the majority of 
+their members, experiencing similar problems, only heard the sound in one 
+ear. 
+Sound Research Laboratories in the UK undertook a research program into 
+low frequency tinnitus but I never got around to seeing their 
+conclusions. Maybe this would throw some light on the mystery.
+
+Ian Etchells (London, UK)
+

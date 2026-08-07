@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Equations - Integration
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../calculations/calculations.html">[Calculations]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../equations/equations.html">[Equations]</A>
+      <TD><A HREF="../faq/faq.html">[FAQ]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Equations - Integration
+</H1>
+
+<P>
+  A number of people have asked how to integrate the equations of motion
+  with and still find the parameters of the trajectory at even yards (or 
+  meters).  The trick is to change the variable of integration to a 
+  range variable instead of time.  A list of <A HREF="#VARIABLES">variables</A> are at the bottom of this
+  page.
+</P>
+
+<H2>
+  Changing Variables of Integration
+</H2>
+
+<P>
+  From the discussion on 
+  <A HREF="cdkd.html">CD and KD</A>, we know that the acceleration of
+  the bullet is 
+</P>
+
+<CENTER>
+  <B>a</B> = - k <B>v</B> + <B>g</B>
+</CENTER>
+
+<P>
+  where
+</P>
+
+<CENTER>
+  k = = p/p<SUB>0</SUB> G(m)/C
+</CENTER>
+
+<P>
+  Rewrite the acceleration as a derivative
+</P>
+
+<CENTER>
+  <B>a</B> = d <B>u</B> / dt = - k( <B>u</B> - <B>w</B>) + <B>g</B>
+</CENTER>
+
+<P>
+  Define a coordinate system where y is the range variable, x and z
+  are perpendicular to the trajectory where x is to the shooters right
+  and z is up.  Then rewrite the derivative d <B>u</B> / dt
+<P>
+
+<CENTER>
+  <B>a</B> = d <B>u</B> / dt = (d <B>u</B> / dy) (dy/dt) = - k (<B>u</B>  - <B>w</B>)+ <B>g</B>
+</CENTER>
+
+<P>
+  But dy/dt is just the velocity in the y direction (down range) written
+  u <SUB>y</SUB>, then
+</P>
+
+<CENTER>
+  d <B>u</B> / dy = - [ k (<B>u</B> - <B>w</B>)+ <B>g</B> ]/ u <SUB>y</SUB>
+</CENTER>
+
+<P>
+  This equation now provides the vector acceleration of the bullet as a
+  function of range.  Numerical integration in yard or meter increments
+  provides a convenient method for finding trajectory parameters at 
+  even increments.
+</P>
+
+<H2>
+  <A NAME="VARIABLES">Variables</A>
+</H2>
+
+<TABLE WIDTH="100%">
+  <TR> 
+    <TD> <B>a</B> </TD> 
+    <TD> total vector acceleration (d<B>u</B>/dt) </TD> 
+    <TD> v<SUB>y</SUB> </TD> 
+    <TD> Velocity in the y direction (down range)</TD> 
+  </TR>
+  <TR> 
+    <TD> C </TD> 
+    <TD> ballistic coefficient </TD> 
+    <TD> C<SUB>D</SUB> </TD> 
+    <TD> drag coefficient </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>g</B> </TD> 
+    <TD> vector gravitational acceleration </TD> 
+    <TD> G </TD> 
+    <TD> "G" function </TD> 
+  </TR>
+  <TR> 
+    <TD> m </TD> 
+    <TD> mach number </TD> 
+    <TD> <B>v</B> </TD> 
+    <TD> vector velocity, | <B>v</B> | = (<B>v</B><B>v</B>)<SUP>1/2</SUP>
+         and <B>v</B> = <B>u</B> - <B>w</B>
+    </TD> 
+  </TR>
+  <TR> 
+    <TD> p </TD> 
+    <TD> atmospheric density </TD> 
+    <TD> p<SUB>0</SUB> </TD> 
+    <TD> sea level atmospheric density  </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>w</B> </TD> 
+    <TD> vector wind velocity </TD> 
+    <TD> <B>u</B> </TD> 
+    <TD> velocity of bullet relative to ground</TD> 
+  </TR>
+</TABLE>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 3 October 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

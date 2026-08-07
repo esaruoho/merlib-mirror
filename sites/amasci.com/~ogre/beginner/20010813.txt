@@ -1,0 +1,329 @@
+Easy Songs For Beginners - I Shot The Sheriff 
+
+ WHAT&#146;S NEW 
+
+ ABOUT US 
+
+ FORUMS 
+
+ GUITAR TAB 
+
+ REVIEWS 
+
+ INTERVIEWS 
+
+ HELP 
+
+ Site Tour 
+
+ Beginners Songs 
+
+ Guitar Columns 
+
+ Guitar Lessons 
+
+ Bass Lessons 
+
+ Songwriting 
+
+ Sound Engineering 
+
+ The Other Side 
+
+ Ask The Expert 
+
+ Interviews 
+
+ Reviews 
+
+ Books 
+
+ Links 
+
+ Search 
+
+ Advanced Search 
+
+ You are here: Home , Easy Songs For Beginners , I Shot The Sheriff 
+
+ I Shot The Sheriff 
+
+ Easy Songs For Beginners # 12 
+ Published August 13, 2001 
+ By David 
+ Hodge 
+
+ Print this 
+ page 
+ Email to a Friend 
+
+ Bookmark 
+ this page 
+
+ Sometimes I look at these &#147;Easy Songs for Beginners&#148; 
+ and I have to wonder if I&#146;m going to get tarred and feathered. 
+ Oh, it&#146;s not that they are hard (they aren&#146;t) or 
+ that even the theory involved is too difficult (I truly hope 
+ it hasn&#146;t been), but I just hope that everyone is having 
+ fun with them. And is patient with me. You may have noticed 
+ I have this tendency to try to cram a lot into these lessons. 
+ It&#146;s not always easy explaining some of the things we&#146;ve 
+ covered purely with words and diagrams and I am not always 
+ certain I&#146;ve gotten things across in the best possible 
+ way. But you can always write me for more details. Ah well, 
+ enough digression... 
+ August is &#147; musical genres &#148; 
+ month here at the Online Guitar College and I have to admit 
+ that my picking this topic was a sneaky way to slip some lessons 
+ into the mix. Today&#146;s song is Bob Marley&#146;s I 
+ Shot The Sheriff , which will not only serve as a delightful 
+ introduction to reggae rhythms, but I&#146;ve also managed 
+ to get very sneaky and throw in some transposing as well. 
+ Okay, mon, where&#146;s the disclaimer? 
+ These files are the author&#146;s own work 
+ and represents his interpretation of this song. They are intended 
+ solely for private study, scholarship or research. 
+ Before we go on, you might also want to read this little 
+ bit on &#147; Reggae Style 
+ on Guitar .&#148; It contains a bit of history on the genre 
+ (and before you note that it&#146;s not quite in my usual 
+ style, let me say that I lifted it straight from the Encyclopaedia 
+ Britannica) as well as some ideas on rhythm that we will expand 
+ upon later. 
+ STEP 1 &#150; CHORDS 
+ Let&#146;s look at the chords and tranposition first, shall 
+ we? On the CD that I am using (&#147;Legend&#148;), this song 
+ is in the key of G minor. How do I know that? Well, if you&#146;ve 
+ read some of my past columns, particular the trio on ear 
+ training , you&#146;d know that I sat down with my guitar 
+ and the CD and played around until I got the chord progression. 
+ In terms of song structure, Sheriff can be broken down 
+ into two parts: the chorus (the &#147;I shot the sheriff&#148; 
+ part) and the intervening verses, which tell the story. There 
+ is also a little instrumental riff which separates the two, 
+ but we will come back to that later (good lord! More 
+ things to learn!!) 
+ The chorus has two alternating chords, Gm and Cm, and goes 
+ like this: 
+ Gm (4 beats) Cm (4 beats) 
+ Gm (8 beats) 
+ I shot the sheriff 
+ but I did not shoot the deputy 
+ Gm (4 beats) Cm (4 beats) 
+ Gm (8 beats) 
+ I shot the sheriff but 
+ I did not shoot the deputy 
+ The verses have the following chord progression (the number 
+ of beats is in parenthesis): 
+ Eb (2) Dm (2) Gm (4) 
+ All around in my home town 
+ Eb (2) Dm (2) Gm (4) 
+ They&#146;re trying to track me down 
+ Now I don&#146;t know about you, but this does not at all 
+ look like an &#147;Easy Song For Beginners!&#148; But take 
+ heart! You have all read my column on transposing called &#147; Turning 
+ Notes Into Stone &#148; (and if you haven&#146;t now&#146;s 
+ your chance to sneak out and do so! Don&#146;t worry, we&#146;ll 
+ wait right here for you&#133;), so you&#146;re all whizzes 
+ at the art of transposing. 
+ Ready to make this a bit easier? Alright, then, since I have 
+ no intention of playing this as nothing but barre chords, 
+ I have to come up with another key in which to play it. To 
+ me, there are two obvious choices &#150; A minor and E minor. 
+ As you&#146;ve read, I prefer use a key lower in pitch whenever 
+ possible so that, with the aid of my trusty capo, I can still 
+ play along with the CD. So I opt for E minor. E is one and 
+ a half steps down from G, so all my other chords are going 
+ to have to be one and a half steps down as well. Let&#146;s 
+ figure it out: 
+
+ Original Chord: 
+
+ Transposed Chord 
+
+ Gm 
+ becomes 
+ Em 
+
+ Cm 
+ becomes 
+ Am 
+
+ Eb 
+ becomes 
+ C 
+
+ Dm 
+ becomes 
+ Bm 
+
+ Now that looks a lot easier, doesn&#146;t it? And if I put 
+ my capo on the third fret (that&#146;s one and a half steps, 
+ remember?), then I am playing in G minor again. So here are 
+ the chords we&#146;re going to use: 
+
+ Let me point out that there are a lot of ways to play the 
+ Bm chord (yes, not to mention every chord!). For this 
+ song, I prefer to use this voicing and we&#146;ll look at 
+ the reasons for this shortly. But first, let&#146;s get our 
+ rhythm down. 
+ STEP 2 &#150; RHYTHM 
+ Having made the chords user-friendly, let&#146;s see what 
+ we can do about the rhythm. Like all the things we&#146;ve 
+ been doing, we&#146;ll start out fairly simply and then get 
+ a bit more complicated as we feel the confidence to do so. 
+ Playing a reggae rhythm guitar involves playing on the offbeat. 
+ Just what does that mean? Well, let&#146;s say we have a song 
+ in 4 / 4 time (and, thinking about it, I can&#146;t remember 
+ ever playing a reggae song that wasn&#146;t in 4 / 4 time), 
+ you would count it out like so: 
+
+ Nothing could be simpler, right? This is how we count the 
+ beat of any song, at least any song done in 4 /4 time. But 
+ we already know from our past lessons that we can subdivide 
+ this into eighth notes or into triplets: 
+
+ Here you see that we have notes in between the &#147;beats,&#148; 
+ between the actual number count if you will. This is the &#147;offbeat.&#148; 
+ To get the reggae rhythm, we will strum our guitar only on 
+ the offbeat, that is we will strum on the &#147;and&#148; 
+ or the &#147;and a&#148; parts of the measure. 
+ And let&#146;s take a moment here to talk about tone. Reggae 
+ guitar tends to have a very clipped sound (or &#147;chunky,&#148; 
+ as the good book tells us). There are several ways to get 
+ this effect. The easiest way is to use an upstroke when you 
+ strum. When I play reggae in an all upstroke style on my guitar, 
+ I will actually slap my palm on top of the strings after the 
+ upstroke. This accentuates the pause that takes place on the 
+ beat. When I do use downstrokes, I find I get good control 
+ of the tone by resting my palm directly on the strings when 
+ I stroke. This is particularly useful in a triplet rhythm. 
+ Upstrokes also bring out the higher strings, or the treble 
+ part, of the guitar and most reggae guitar has a nice treble 
+ tone to it. This is also another reason I like to use the 
+ capo to position my chord voicings higher up on the neck, 
+ thus bringing more treble into the chords. 
+ If you&#146;re using an electric guitar, try to keep your 
+ tone as clean as possible. Avoid effects such as distortion. 
+ Even chorus or echo can really clutter things up a lot, so 
+ try to listen carefully to what you&#146;re doing. Reggae 
+ should have lots of breathing space. 
+ And don&#146;t think you can&#146;t play reggae on your acoustic 
+ guitar. The percussive sounds you can get from strumming an 
+ acoustic are wonderful for this style of music. 
+ Before you even get going on the rhythm, take some time to 
+ experiment with the sound that you want. You really should 
+ do this for any song you work on. The tone you achieve with 
+ your guitar, with or without an amp and effects, will be a 
+ big factor in how your rhythm sounds. 
+ Okay, having said that, let&#146;s give the rhythm a shot. 
+ Let&#146;s start out simply with the eighth notes. Remember 
+ to take it as slowly as you need in order to do it right. 
+ Once you get the hang of it you&#146;ll be amazed at how fast 
+ you can go. All right then, we&#146;ll use the Em chord, one 
+ upstroke on each offbeat. Ready? 
+
+ If you want to see if you&#146;re doing this correctly, try 
+ counting the beat aloud while you strum. Seriously. When you 
+ count the beat (just the &#147;one, two, three, four&#148; 
+ &#150; don&#146;t say the &#147;ands&#148;) you shouldn&#146;t 
+ be playing at all when you speak. Once you feel that you&#146;ve 
+ got a handle on this, do it again using only downstrokes. 
+ Remember to keep them short and clipped. Then mix it up &#150; 
+ try both upstrokes and downstrokes. See what you like, where 
+ and how you get a sound that you like. 
+ When you feel comfortable play the rhythm in eighth notes, 
+ then you can give the triplets a try. There are lots of ways 
+ to approach this. Personally, I tend to do a downstroke ( D ) 
+ followed by an immediate upstroke ( U ), like this: 
+
+ Okay, you&#146;ve got both of those rhythms down cold, right? 
+ Now comes the fun part &#150; mixing them together. Up &#145;til 
+ now we&#146;ve been doing this with only one chord but you&#146;ll 
+ see that these exercises will get you going on changing chords 
+ as well. Again (always), start out as slowly as necessary. 
+ Don&#146;t move on to the next line of the exercise until 
+ you feel that you&#146;ve mastered the one you&#146;re on: 
+
+ That&#146;s a lot of fun, isn&#146;t it? That last exercise 
+ pattern, by the way, is the pattern I usually use to play 
+ I Shot The Sheriff . Okay, one more step to go and we&#146;re 
+ ready! 
+ STEP3 &#150; BASS and FILL 
+ You&#146;re actually ready to go on and play the song right 
+ now if you&#146;d like. The purpose of this section is to 
+ give you some added pizzazz should you want some. 
+ If you&#146;re playing solo, reggae can be very disorienting. 
+ There is no bass to root your rhythm. But in learning to play 
+ the way we have, you can see that are spaces in which to fill 
+ in the bass. Do you see them? The rests that we don&#146;t 
+ play provide a natural place for it. In other words, we will 
+ play a bass note on the beat while playing the 
+ rhythm on the offbeat . I told you I can be sneaky 
+ sometimes... 
+ Using an alternating bassline, as we did in Margaritaville , 
+ will work very well in the chorus section of the song: 
+
+ Now take your time with this. And don&#146;t get frustrated 
+ if it takes you a number of attempts to get it right. After 
+ all, you&#146;ve just learned how to do the rhythm and I&#146;ll 
+ be more than willing to bet that you haven&#146;t even thought 
+ about the alternating bassline since we saw it last. If it 
+ helps, revert to doing a straight eighth note pattern until 
+ you feel you&#146;ve got it down. 
+ The verses are a little trickier, and now you&#146;ll see 
+ why I wanted to use this particular voicing of the Bm chord. 
+ What we&#146;re actually doing is a &#147;Bm/D.&#148; When 
+ you see a chord with a &#147;/&#148; in it, it is normally 
+ understood that the actually chord is in front of the &#147;/.&#148; 
+ The note behind it is supposed to be your bass note, or the 
+ lowest note in the chord. Since we are going from C to Bm 
+ to Em, and since the D note is part of the Bm chord, I have 
+ decided to do a straight ascending scale from C to E. Then 
+ I revert back to an alternating bass pattern on the Em: 
+
+ But here&#146;s something interesting - when I do the alternating 
+ bassline on the Em, the last voiced bass note is a B which 
+ naturally leads us back to the C. Almost as if someone had 
+ planned it that way. 
+ Another way of going about playing these rhythms, believe 
+ it or not is in fingerstyle. Using your thumb to play the 
+ bass parts while employing your three fingers to pluck the 
+ first three strings for the accompanying chords gives you 
+ a great sound and excellent control over the rhythmic pattern. 
+ If you&#146;re into this sort of thing, go back over the last 
+ two examples (the chorus and the verses) using this technique. 
+ Your thumb will play the bass notes (downturned stems) and 
+ use your ring finger (1 st (high E) string), middle 
+ finger (2 nd (B) string) and index finger (3 rd 
+ (G) finger) to pluck out the chords. 
+ Okay, one last thing. At the end of each verse, there is 
+ a riff that is played by pretty much all the instruments in 
+ unison. You&#146;ll see that I&#146;ve TABbed it out right 
+ after the first verse. Having the guitar with the capo on 
+ the third fret certainly helped to make things easier, didn't&#146;it? 
+ Well then, you&#146;re ready to go and play! 
+
+ I hope you&#146;ve enjoyed this little excursion into reggae. 
+ Next time out we&#146;re going to learn an old Dylan song. 
+ But before you start groaning, let me add that it&#146;s my 
+ way of teaching you the basics of slide guitar&#133; 
+ As always, please feel free to write in with any questions, 
+ comments, concerns or songs (and/or riffs and solos) you'd 
+ like to see discussed in future pieces. You can either drop 
+ off a note at the Guitar 
+ Forum page or email me directly at Dhodge8888@cs.com . 
+ Until next lesson&#133; 
+ Peace 
+ David Hodge 2001-08-13 
+ Previous 
+ song in this series "Bookends" 
+ Next song in this series 
+ "If Not For You" 
+
+ Back to top 
+
+ Copyright &copy; 2002 Guitar Noise. All 
+ rights reserved. Site Map. Masterlist. 
+ Privacy Statement. 
+ Contact Us.

@@ -1,0 +1,349 @@
+Pure Mac: Screen Savers 
+
+ Screen Savers 
+
+ After Dark 
+ BlackWatch 
+ Bliss Saver 
+ Dark Side of the Mac 
+
+ Eclipse 
+ FirePower 
+ Holiday Lights 
+ Live Deskpicture 
+
+ MacDim 
+ MaxScreenSaver 
+ Nova 
+
+ PictFader 
+ Screen Gear Pro 
+ SETI@Home 
+
+ Setting Sun 
+ StarDrive 
+ UnderWare 
+
+ After Dark Modules at Berkeley Systems 
+ After Dark Modules at AOL 
+ Info-Mac's Screen Saver Directory 
+ Ishi's AfterDark Modules 
+ Lloyd's screensavers 
+ MacScreenSavers.com 
+ Stephen's Screensavers 
+ Umich's Screen Saver Directory 
+
+ Favorite After Dark Modules (use with After Dark or Dark Side of the Mac ) 
+ Autumn Leaves 1.0.1 53 KB 
+ Barney Blaster 2.0.2 136 KB 
+ Buzzz 1.4 362 KB 
+ Collager 1.0.1 508 KB 
+ Luna 1.0 96 KB 
+ Movies In The Dark 1.0 7 KB 
+ Punkin Patch 24 KB 
+ Saw 1.2 84 KB 
+ SimAcid 1.1 41 KB 
+ Snow 1.0 43 KB
+
+ After Dark 4.0.4 
+
+The best known screen saver.
+
+ License : Free Update
+ Author/Publisher : Berkeley Systems
+ Release Date : December 12, 1997
+ Requirements : 680x0 or PPC - Works with System 7.1 to Mac OS 8.6 - Not compatible with OS 9 (some functionality but quite unstable) - Darkside of the Mac is a very stable alternative
+
+ Direct Download
+ File Size: 3860 Kb - After Dark Online 2.0.1 - the Online part is defunct, but you can get the fully functional engine (control panel) from this file
+
+ Direct Download
+ File Size: 778 Kb - 4.0.4 update - updates the control panel to 4.0.3
+
+ Home Page 
+
+ BlackWatch 1.5.4 
+
+I wrote BlackWatch because none of the available screen savers did just what I wanted.
+The feature-packed screen savers tend to want plenty of RAM, CPU cycles, and disk space, and
+they patch a lot of traps in order to work. On the other end, the bare-bones screen savers don't
+provide the ability to securely lock your screen with password access. Also, most screen savers
+of both types are implemented as system extensions, so you have to reboot your machine to run
+them or to get rid of them. That isn't optimal if you want to install a screen saver on a networked
+Macintosh which is busy acting as a server. BlackWatch solves these problems. It's small, quick,
+simple, compatible, and it's free.
+
+ License : Freeware
+ Author/Publisher : Ken McLeod
+ Modification Date : October 17, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 121 Kb
+
+ Parent Directory 
+
+ Bliss Saver 2.2 
+
+This exciting program displays interactive color animations on your screen. The full version
+functions as a screen saver, preventing burn-in of static images, as well as being a great graphic
+toy. This demonstration version gives you an idea of the kinds of features and paintings that the
+full version of Bliss Saver has.
+
+ License : Demo, $49.95
+ Author/Publisher : Greg Jalbert/Imaga
+ Release Date : May 11, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 269 Kb - 68k version
+
+ Direct Download
+ File Size: 294 Kb - PPC version
+
+ Home Page 
+
+ Dark Side of the Mac 5.0.6 
+
+A great screen saver which runs as an application and plays After Dark modules.
+
+ License : Shareware, $20
+ Author/Publisher : Igor Livshits
+ Modification Date : October 25, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 521 Kb
+
+ Home Page 
+
+ Eclipse 3.1.1 
+
+An efficient well done screen saver which will play back slideshows of your favorite pics or QuickTime movies.
+Also has some security features ideal for those just trying to keep the kids from destroying too much while you're
+not around.
+
+ License : Shareware, $15
+ Author/Publisher : Andrew Welch/Ambrosia Software
+ Modification Date : February 4, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 788 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ FirePower 1.5.1 
+
+This is a small PPC native screensaver with basic password protection which puts pretty fireworks on your screen.
+
+ License : Freeware
+ Author/Publisher : Steve Crutchfield 
+ Modification Date : February 11, 1995
+ Requirements : PPC
+
+ Direct Download
+ File Size: 57 Kb
+
+ Holiday Lights 5.1 
+
+Holiday Lights places festive bulbs around the edge of your screen, plays cheery background
+music, and includes a screen saver. Includes bulbs and screensavers suitable for any holiday.
+
+ License : Shareware, $19.95
+ Author/Publisher : Tiger Technologies
+ Modification Date : November 16, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1581 Kb
+
+ Add-On Bulbs 
+
+ Home Page 
+
+ Live Deskpictuer 1.2.2 
+
+Stop using that static, unchanging picture on your desktop, and put on a dynamic image of the earth that updates as the world turns. High resolution maps and
+beautiful, specially-generated graphics are individually crafted for six different monitor sizes from VGA (640x480) all the way up to 1280x1024 pixels.
+While you work or while you leave your computer just sitting there, the newest desk picture keeps slipping behind your icons as often as you choose.
+
+ License : Shareware, $20
+ Author/Publisher : Leighton L. Paul
+ Modification Date : April 5, 2001
+ Requirements : G3 or better, Mac OS 8.5 or better
+
+ Direct Download
+ File Size: 1958 Kb
+
+ Home Page 
+
+ MacDim 2.2.1 
+
+MacDim is a little, beautiful screensaver for Macintosh. It takes almost no memory. With MacDim screens that have not
+been used for a while can be dimmed. Monitors that support power saving can also be turned off. To dim up the screen(s),
+just move the mouse or press a key. MacDim does not do any annoying sounds when undimming from powersaving mode.
+
+ License : Freeware - The modules for the most part are Shareware for $5
+ Author/Publisher : Ibrium HB
+ Modification Date : December 23, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 289 Kb
+
+ Home Page 
+
+ MaxScreenSaver 1.0.1 
+
+MaxScreenSaver is a new freeware screensaver for the Macintosh. It
+includes many modules from the popular UNIX screensavers xscreensaver and xlockmore.
+
+ License : Freeware
+ Author/Publisher : Jesse Boley
+ Modification Date : February 28, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 326 Kb
+
+ Home Page 
+
+ Nova 4.0.1 
+
+NOVA was originally written with the intent of creating a stable, application
+based screen saver environment. Most of the screen savers available do a lot of
+system trap patching via extensions, which introduce a factor of uncertainty in
+your system. NOVA does not patch any OS routines, but instead is completely
+application driven -- when it is appropriate (based on user settings), NOVA will
+launch it's "Saverlet" applications that will do the screen saving. NOVA provides
+three main services to the user: (1) eliminates the potential for phosphor screen
+burn-in, (2) provides security for your system via password entry, and (3)
+provides entertainment for yourself and those who work around you. One last
+boastful note: NOVA is one of the only screen saver applications that can utilize
+multiple monitor setups-- and when we say "utilize", we mean that drawing
+occurs on ALL monitors, not just the menubar screen. Take that After Dark!
+
+ License : Shareware, $20
+ Author/Publisher : Chaotic Software Ltd.
+ Modification Date : October 1, 2000
+ Requirements : PPC
+
+ Direct Download
+ File Size: 1719 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ PictFader 2.0 
+
+PictFader is screensaver for MacOS which displays slide shows of images in PICT, JPEG (including
+raw format) and GIF formats. Support for other graphic formats is envisaged. Features include ability
+to search whole volumes for suitable files, automatic detection of corrupt files, nice gamma fade
+effects, etc. It is an application, allowing you to quit it whenever you like (unlike other screen savers
+on the market) and relaunch it later when required. It also uses efficient memory management
+techniques so that it operates in 500k or less of RAM but can display multi-megabyte files (as long as
+there is enough unused RAM on your Mac).
+
+ License : Shareware, $10
+ Author/Publisher : Jason Stoessel 
+ Modification Date : September 3, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 367 Kb
+
+ Home Page 
+
+ Screen Gear Pro 3.2.3 
+
+Not just a screen saver.
+A simple multimedia tool for the Mac that allows you to play back pictures, sounds and QuickTime, all at the same time. It's a breeze to use. Screen Gear
+will take a folder full of AIFF, PICT, JPEG and QuickTime(Moov) files and turn them into an elegant
+slide show, fading one image or movie into the next while playing your own music.
+
+ License : Shareware, $15
+ Author/Publisher : Lance Hagans
+ Modification Date : October 24, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1610 Kb
+
+ Home Page 
+
+ SETI@Home 3.0.3 
+
+SETI@home is a scientific experiment that will harness the power of hundreds of
+thousands of Internet-connected computers in the Search for Extraterrestrial Intelligence
+(SETI). You can participate by running a program that downloads and analyzes radio
+telescope data. There's a small but captivating possibility that your computer will detect
+the faint murmur of a civilization beyond Earth.
+
+ License : Freeware
+ Author/Publisher : UC Berkeley SSL
+ Modification Date : December 13, 2000
+ Requirements : PPC, System 7.5.5 or later
+
+ Direct Download
+ File Size: 374 Kb
+
+ Home Page 
+
+ Setting Sun 1.5 
+
+Setting Sun is a Mac OS screen saver, which uses plug-ins to draw interesting images when your computer is idle. Although screen savers are not strictly necessary (since most modern monitors can turn themselves off when idle), they still provide a nice distraction from a blank screen.
+One of the main differences between Setting Sun and other Macintosh screen savers is that Setting Sun has a wide range of 3D modules.
+
+ License : Shareware, $20
+ Author/Publisher : Dair Grant 
+ Modification Date : December 14, 2000
+ Requirements : PPC, Quickdraw 3D and OpenGL
+
+ Direct Download
+ File Size: 1830 Kb
+
+ Home Page 
+
+ StarDrive 3.5.8 
+
+StarDrive's starfield engine is smooth and
+enjoyable to watch, while at the same time,
+providing the very best in screen saving capabilities.
+Most people don't like other people snooping around on their computer. With StarDrive's
+security feature enabled, nobody can deactivate the
+screen saver unless they have a password.
+
+ License : Shareware, $15
+ Author/Publisher : Software Perspectives.
+ Modification Date : May 31, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1137 Kb
+
+ Home Page 
+
+ UnderWare 2.0.1 
+
+The makers, Bit Jugglers, have left the Mac market. The demo (which is
+limited by including only two of BJ's own modules) and this updater are now
+the only way you will ever see screensaver modules, including After Dark
+2.0-compatible modules, animating instead of a desktop pattern while you
+work.
+
+ License : Free Demo
+ Author/Publisher : Bit Jugglers
+ Modification Date : September 25, 1996
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 939 Kb - Underware 2.0
+
+ Direct Download
+ File Size: 184 Kb - Updater to 2.0.1
+
+ Back to the main page of Pure Mac

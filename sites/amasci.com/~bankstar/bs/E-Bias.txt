@@ -1,0 +1,68 @@
+e-Bias : An Electronic Branch Information Access System 
+
+ While Internet Banking has become a buzz word in the 
+ Banking industry not all Banks are comfortable allowing remote access to 
+ their databases. In addition, many Banks have legacy systems which makes 
+ it difficult or un-economical to offer Internet Banking. 
+ e-BiAS allows Banks to allow remote Internet access to information from 
+ their existing legacy system without any change in their legacy systems 
+ or allowing remote access to their existing databases. In addition, data 
+ from third party databases such as Electronic Securities, Exchange and 
+ Interest Rates etc. can be made available to customers of a Branch. 
+
+ Secure 
+
+ E-BiAS 
+ uses Testkeys, Asymmetrical Encryption, Symmetrical Encryption and hardware 
+ dongles in addition to Server based passwords and SSL making it an extremely 
+ secure system. 
+
+ Database 
+ Isolation 
+ As 
+ E-BiAS replicates data from a Branch's legacy system into its isolated 
+ database, a Branch's legacy database remains inaccessible to remote information 
+ requests. 
+
+ Fast 
+ An 
+ e-BiAS transaction takes place in seconds. 
+
+ User 
+ Defined Information Access 
+ Users 
+ can define exactly what information is to be made available to specified 
+ persons accessing data. 
+ Flexible 
+ Authorization Automation 
+ Users 
+ can define authorization automation such that specific requests be automatically 
+ responded to while other requests require manual officer authorization. 
+ Dual 
+ Client 
+ E-BiAS 
+ has both a fat client and thin client allowing a Branch to decide on whether 
+ it wishes to implement a convenient live web server or a cost effective 
+ email based server. 
+
+ Currency 
+ independent 
+ E-BiAS 
+ allows access to information in any number of currencies. 
+ XML 
+ Compliant 
+ E-BiAS 
+ messages are XML compliant easy interfaces to existing legacy systems 
+ as well as uploads to systems being used by parties requesting information. 
+ Operating 
+ System Independent 
+ Being 
+ written in pure Java code, the interface module allows interface to legacy 
+ systems operating under virtually any operating system be it UNIX, Windows, 
+ Linux, OS/400 or DOS. 
+
+ Interface 
+ to TEST 
+ E-BiAS 
+ interfaces to Bankstar's TEST system allowing Testkeys as an additional 
+ security measure.

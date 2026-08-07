@@ -1,0 +1,300 @@
+---
+title: "SMALLnet post464"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post464.html
+order: 8314
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post464
+
+*Source page: `~smallnet/Archive/post464.html`*
+
+## SMALLnet Posting post464
+
+------------------------------------------------------------------------
+
+**Date: Mon, 6 Mar 2006 02:22:17 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<div class="Joe">
+
+...At last here's the news we've been waiting for ! This year's Annual Little Rock SMALL meet will be held June 2, 3, and 4, at a new location. It's the FARM (Fraternal Association of R/C Modelers) field at Wrightsville, Arkansas. That's about 12 miles south of Little Rock.
+
+The "flier" sent out by C/D Ron Stanfield includes a map -- but as a "navigationally-challenged" driver, I can't quite make out exactly where the field is. The map shows that the 145th Street exit from US 67 South leads eastward towards the FARM club field. However, the actual field location is "off the map". I sure hope that Ron and his gang set up some BOLD markers along the route in, 'cause I'll be driving alone this time, and will need all the navigational help I can get.
+
+...I just received word that another of the "good guys" is gone. A week ago Andrew Bowker succumbed to injuries from a car crash. Regular attendees at the Little Rock SMALL meets will remember the Bowker family, who drove all the way from Albuquerque every year to fly with us. Andrew was the next-to-youngest of the Bowker boys, and a truly professional-quality flyer. \[JW\]
+
+</div>
+
+David Hogue \< 
+
+ \> asks:
+
+Long ago I worked in a hobby shop in Riverdale, Georgia. It was frequently visited by a couple of modelers I would like to get in touch with again. I know at least one of them was on this list at one time, so I hope they see this -- or someone who knows them does and gets word to them.
+
+They are Mike Banke, and a friend of his and mine whose last name I can't remember: Ken something... I traded Ken for my first electric model sometime back in the eighties, a Watts Up with an Astro ferrite 035 in it (now known as a Speed 400). If you knew these fellows, know them now, or are them, email me !
+
+On another subject, I am currently building an Early RC Models Junior Falcon, with a Norvel .074 for power. I considered using a 33-yr old Babe Bee I got when I was a kid of 6 or 7; but found a decent deal on the Norvel, so will save the Cox for something else. Maybe I'll find an old Baby Flite Streak, which was what it was intended for in the first place.
+
+One more thing, if anyone has or knows where to find a foam "Spruce Goose" chuck glider that used to be sold at the museum (I don't know if that was in Long Beach or where it is now) I would dearly love to get my hands on one. I have watched eBay and other sites for years, and posted wanted ads before also. So, if there is one in your attic, please get in touch with me.
+
+Thanks, David Hogue
+
+<span id="58"></span>
+
+<div class="green">
+
+Source: Kits, Baby Flite Streak\
+
+</div>
+
+<div class="Joe">
+
+...David, Brodak has kits for the Baby Flite Streak at about \$30. Check out the Brodak web site, at \< www.brodak.com \>. \[JW\]
+
+</div>
+
+George Hostler \< 
+
+ \> sent:
+
+Okinawa for us is a definite change. Weather here is more like Hawaii. We're through with the cold season now. (Okinawa is about the same latitude as Key West, Florida.)
+
+Now, weather is warming up. Also, it's is not as windy as Hawaii or New Mexico (so far). From my living in Hawaii 25 years ago, I recall a 15 to 25 mph trade wind 90% of the time. New Mexico is about the same, except at least a day or two a month, we'd get 45 - 50 mph winds blowing.
+
+The Miss Stik Senior came in yesterday. It took less than a week to get here, which is fast. I was wrong about the wingspan, it is 55". It's truly a stick model; even the wing ribs are built-up from sticks. They stagger the top and bottom edges of the rib instead of being directly aligned. Looks more like a stretched triangle with a stick glued on the top between the leading edge and wing spar, giving the front an airfoil shape.
+
+The curved portion of the wing end panels (the wing has polyhedral) is made from laminated sticks. Motor is a geared Speed 400 or a brushless. The design is light enough so that a Thunder Tiger .07 or O.S. Max .10 (baffle piston type) would be more than adequate power for it. Parts are laser-cut.
+
+I think I will enjoy building this one, should be a real floater.
+
+George
+
+Gary Gullikson \< 
+
+ \> wrote:
+
+I built a couple of Stinson Reliants when I was little kid back in the late 50's; and at age 67 I am still fascinated with their rakish Art Deco looks. I finally "won" a Duke Fox/Berkeley 42" w/s SR-9 on eBay for about \$70. Of course, I had to convert the SR-9 windshield and cabin to an SR-7/8 version with flat panel windows.
+
+The build took me over one year of intermittent work interspersed with other model building and flying. The Stinson weighs about 27 ounces AUW with an Esskay 400XT outrunner (\$19.00 Hobby Lobby), 9x6 GWS direct drive prop, 1100mah 3-cell LiPo pack, CC Phoenix 25 speed control and Spektrum DX6 radio system.
+
+It flies on ailerons with optional aileron/rudder mix, and of course elevator and throttle. Landing gear legs are designed to break away in hard landings. I mated a Williams Bros pilot bust with a torso arms and legs carved from balsa and made a 3-spoke control wheel out of brass tube. Cowl is held on by Velcro to permit easy changes of battery packs. Covering is Doculam painted with acrylic water base paints, and graphics are white and orange trim film. I found my Stinson to be grossly nose-heavy in flight, using the CG shown on the plans.
+
+I have recently increased the wing incidence and twisted up the ailerons to get some tip washout effect and increase lateral stability. The plane is now able to cruise a little faster than scale-like -- but it's a little too heavy for put-putting around, and needs to land with power on, like a P-51.
+
+Here's a website with sound videos of an SR-9 landing, taxiing and taking off. I've exchanged e-mails with this Stinson owner: \< <http://www.rangemedia.com.au/stinsonsr9e/index1.htm> \>
+
+Pat Tritle has promised to design a lightweight floater version SR-7, which will probably be kitted by Dumas eventually.
+
+Gary Gullikson, Garden Grove, southern California
+
+Charles Clemans \< 
+
+ \> reports:
+
+<span id="133"></span>
+
+<div class="green">
+
+Source: Plans, RCM Plans Service\
+
+</div>
+
+RCM magazine is gone, but RCM's Plan Service is still in operation. At least it was a couple of weeks ago when I received the plans I ordered from them. You can reach them at \< www.rcmmagazine.com or 1-800-525-1736 or 626-355-1476. Their online catalog did not list the Littlest Stick, but it should be available.
+
+I tried calling them this morning, but there was no pick up on either phone line.
+
+Chuck Clemans
+
+Bob Hartwig \< 
+
+ \> informs us:
+
+<span id="148"></span>
+
+<div class="green">
+
+Source: Kits, Tomboy\
+
+</div>
+
+I now have laser-cut short kits for the Tomboy in both 36" and 44" spans. I am also using PayPal now. Anyone interested contact B & W MODEL HOBBIES at the e-mail address above, or 260-639-6510. I will send flyers.
+
+Bob Hartwig
+
+John Welsford \< 
+
+ \> sent:
+
+I asked a while back if someone knew where I could get plans for Eric Clutton's little quadruplane, and have been overwhelmed by the reaction. I have now a set of digital plans thanks to the very helpful gent in the UK who scanned and sent them through.
+
+I'm looking forward to getting on with the build, and am considering using the radio system out of a plastic ready to fly that has been through several fences and into a number of trees; so in spite of being very robust, it's about past its "use by date".
+
+The lightweight servos and the 27 MHz radio are fine though, so should do for the KWOD.
+
+I also owe an apology to a fellow New Zealander who was good enough to send a photocopied set to the address I gave him, but I had got things muddled between my recent home and business address and the address where I live now. So he had them returned as "Unknown at this address". My Apologies; and if that person could advise me of his postal address I will send a self-addressed envelope.
+
+Thanks to all who responded, very helpful .
+
+John Welsford Hamilton, New Zealand
+
+Pete Redhead \< 
+
+ \>
+
+Further to my last message in \#463, I managed to satisfy the SMALLster who wanted a copy of Eric's 'KWOD' plan from our Bournemouth (England) MAS club library, which has a full archive of Aeromodeller/Model Aircraft magazines. I do not know if it was ever published as a full-size drawing in the plans service, but there was a construction article with a dimensioned drawing in Aeromodeller, May 1961.
+
+Regards, Pete Redhead
+
+Bob Chiang \< 
+
+ \> contributed:
+
+Tom Pearson asked for a source for the foam wings that Ace R/C used to market.
+
+<span id="199"></span>
+
+<div class="green">
+
+Source: Foam Wing Cores\
+
+</div>
+
+Here's a source for foam wing cores that are supposed to be similar to the Ace cores. Navigate the web page to products and foam wings: \< <http://www.steelheadproducts.com/> \>.
+
+I've built and flown models with his other cores. I think the quality is very good, though customer service was marginal a couple of years ago. Hopefully they've improved that part of the business to match the production.
+
+-Bob in Ithaca, NY
+
+Roger Freiheit \< 
+
+ \> contributed:
+
+A lot of intrigue was involved in the development of the first Citizens Band R/C Radio ("examination-free").
+
+In Post \#463, Tom Pearson reminisced about flying "a Debolt Live Wire Trainer using an Allbon .09 diesel and "a 465 MHz Citizenship system". I found Tom's reminiscing about early R/C reliability interesting, and something on which to reflect.
+
+In my next post, I will respond to his comments, since I own an original CITIZEN-SHIP 465 MC radio that was first advertised in the November, 1950 issue of MODEL AIRPLANE NEWS.
+
+The CITIZENSHIP 465 MC (megacycles) Radio was invented during a time of great tension between American modelers and the Federal Communications Commission (FCC). According to the late, great Peter Chinn of England, British modelers had license-free R/C in 1946! American modelers wanted the same right.
+
+However, the FCC stonewalled the AMA's repeated request for a Free Band (no HAM license !) for R/C modelers. Frustration and anger mounted in the modeling community towards the FCC.
+
+In 1948, the FCC finally approved Citizens Bands for "EXPERIMENTAL WORK" by qualified individuals and manufacturers. However, American modelers were even more offended when the FCC approved an Ultra High Frequency (U.H.F.) Citizens Band for control purposes that they considered worthless, at that time, for R/C modeling.
+
+Worse yet, it was the only band on which equipment approval for R/C manufacturers would be given by the FCC. At the time, no R/C equipment approval would be given on the lower Citizens Band (27.230-27.280 MC), which would be easily adaptable to R/C use.
+
+Modelers believed there was no known technology to manufacture R/C equipment for modelers on 465 MC! Even the great Ed Lorenz claimed there were very few tubes that would operate at 465 MC. The few tubes that would work required higher tube filament voltage than usually required in R/C and, consequently, heavier batteries would have to be used. Lorenz bet that the 465 MC receiver would probably have to be a heavy, complicated, expensive superheterodyne, etc.
+
+Based upon these kinds of comments from R/C model authorities, such as Lorenz, the modeling community believed the FCC had given them "false hopes" with their so-called "Citizens Band".
+
+Later, in 1948, Dick Everett stated in MODEL AIRPLANE NEWS that "Practically every radio man with whom I talked...told me for the present this channel \[465 MC\] should be forgotten". He claimed the radio men he talked to believed it could take up to five years of engineering, before 465 MC was practical for R/C modeling.
+
+The stage now was set for a big surprise!
+
+(This topic will be continued in the next SMALLnet posting.)
+
+Roger
+
+John Rossetti \< 
+
+ \> wrote:
+
+Still have my Babcock BCR-3 and transmitter from the late 50's. It was my first radio system and I found it to be very reliable. The disadvantage was the cost of batteries, especially the transmitter battery.
+
+I ended up making a power supply from an old car radio and its vibrator supply. That worked well, but I eventually bought a power supply using a surplus Willard wet cell. I used an extension-cord on-off button to operate the transmitter. (Another improvement.)
+
+This system was installed in a Trixter Beam model with a McCoy .09. With the weight of all the batteries, escapement, etc. it had only enough power to stay off the ground about three feet after one of those hairy hand launches.
+
+I installed that same radio system in a Livewire Trainer ( one of Hal's great models ) with a K & B .15 for power. Despite the weight of the radio system, it was a great flyer.
+
+In those days, the late '50's, I was flying at Delta Park in Portland, Oregon with the Stardusters. By today's standards our equipment was primitive, but we sure had lots of fun.
+
+John
+
+Ian McQueen \< 
+
+ \> sent:
+
+Peter Clarke wanted to know the cubic capacity of a Brown A-23 CO2 motor. He wrote, "I had always assumed that it was 23 cubic mm, despite the fact that the U.S. tends to measure in cubic inches."
+
+I happen to have the motor section of an A-23 in pieces, so it was simple to measure the piston. It's 3.1mm diameter. (That's 0.122 in.) Assuming an identical stroke, the swept volume is, in fact, 23 point something cubic millimeters.
+
+On the topic of these motors, are any parts available? This one of mine has a broken con rod. (The part are so tiny! The piston pin looks like a piece of wire!)
+
+I also have a new A-23 that has always refused to run. It feels tight when turned over by hand. I sent it to departed-and-missed Carlo Godel, and he was unable to set it right. I'd like to get it operating. Ian
+
+<div class="Joe">
+
+... I was able to provide Ian with the names & addresses of two world-class experts on the Brown A-23:
+
+Fritz Mueller
+
+Otto Kuhni
+
+4117 Searcy Street
+
+13253 Valleyheart Drive
+
+Columbus, Georgia 31907
+
+Sherman Oaks, Calif. 91423
+
+\(818\) 788-4282
+
+These guys do exquisite work ! \[JW\]
+
+</div>
+
+John Meacham \< 
+
+ \> contributed:
+
+A SMALLster was "looking for whoever is making a modern replica kit of the Veco Dakota, with the thoughts of putting a 2-channel (or three with throttle) R/C system in it and flying it with a more modern .049 (hopefully with a throttle).
+
+<span id="343"></span>
+
+<div class="green">
+
+Source: Kits, Dakota\
+
+</div>
+
+The Dakota is being kitted by BMJR Model Products : ( http://www.bmjrmodels.com \>. It is a nice kit, and even includes the milled and notched wing leading edges to make that funny airfoil. Mine even included some comments by Joe Wagner on how to convert to R/C (not really recommended). There is also a Yahoo group with lots of info on flying that cute little bipe.
+
+My memories of the Dakota go way back to where at a hobby show in Los Angeles Joe had a kid build the kit during the show and fly it in the auditorium under U control. It was my first "gas powered" free flight and went OOS from the Rose Bowl parking lot with a Cox .020 with a timed 30 second engine run. (The thermals in that canyon could lift a scaffold plank on some days.)
+
+The kit awaits my ambition when I finish some other projects and may put in some RC to use on glide only. Hope to use E-power.
+
+John Meacham
+
+<div class="Joe">
+
+...The main reason I haven't recommended R/C for Dakotas is that until recently the R/C systems have been too big to fit within that short and slender fuselage. However, that picture has changed ! I do strongly recommend revising the airfoil from the high-drag section I designed in 1949. That was for small-field free flight flying with full-tank engine runs, and was intended to steepen the glide and avoid OOS flights.
+
+Later, for e-power conversions and R/C adaptations, I altered the Dakota's airfoil to a Jedelsky type. That looks and builds much the same as the original Dakota wing, but is far more efficient.
+
+Other changes I recommend for R/C Dakotas are a straight-ahead thrustline, and minimizing the control surface areas and deflection. In particular, DO NOT use the "fake hinge lines" shown on my plan for actual R/C control surface hinge lines !
+
+An average chord of about 3/4" is what Randy used on his R/C Dakota, with a max deflection of under 20 degrees. Randy's Dakota had an unthrottled Tee Dee .020 up front, and flew maneuvers almost as adventurously as a Lazy Bee...
+
+Randy's Dakota used my revised wing airfoil, as shown on one of the addendum pages in my Dakota plans package. (A copy of this page is available by snailmail for \$1.00. My postal address is Joe Wagner, 212 Pine Avenue, Ozark, Alabama 36360-0208.) \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

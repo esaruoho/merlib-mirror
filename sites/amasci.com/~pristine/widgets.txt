@@ -1,0 +1,1397 @@
+Pure Mac: Widgets - Software for Macintosh 
+
+ Widgets 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Airport Radar 
+ AirTrafficControl 
+ Amnesty 
+ Amnesty Singles 
+ Battery Hen 
+ BBC Radio Widget 
+ CallWave SMS Widget 
+ Calorie Tracker 
+ CharacterPal 
+ Countdown Calendar 
+ Cross Eyes 
+ DashPhoon 
+ Delivery Status 
+ EasyEnvelopes 
+ Flights 
+
+ FlipClock 
+ Gas 
+ Harmonic 
+ Hula Girl 
+ iBeatTime Widget 
+ iCal Events 
+ IceTime 
+ I Love Lamp 
+ IP Locator 
+ iStat nano 
+ iStat Pro 
+ Jared 
+ Juice 
+ Magic Widget 
+ Maintidget 
+
+ MailWidget 
+ Make-A-Pass 
+ Mail Checker 
+ MiniBatteryStatus 
+ miniStat 
+ NASA Video Feeds 
+ Network Stat 
+ Package Tracker 
+ Package Tracking 
+ The Periodic Table 
+ RabbitRadio 
+ RadioTuner 
+ rpnCalc 
+ Say Cheese 
+ Simple World Clock 
+
+ Scoreboard 
+ Sing That iTune! 
+ SlothCam 
+ SMS Mac 
+ SoccerDB 
+ Sol 
+ Sports Fan 
+ Starry Night Widget 
+ Sudoku Widget 
+ Tide Widget 
+ Tape Calculator 
+ Widget Television VF3 
+ Wikipedia 
+ XwordLookup 
+ Zwebwatch 
+
+ Dashboard 
+ Dashboard Widgets 
+ DashboardWidgets.com 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Airport Radar 1.1.5 
+
+AirPort Radar is a free and convenient tool for quickly scanning the
+area for AirPort and other wireless networks. It will work with AirPort
+cards, MacWireless 11g PC Cards, and 11g PCI cards.
+
+Sortable Network List - Click on a category to sort the list of networks
+by that category. Click on the radio waves symbol to sort by signal
+strength.
+
+Connect to Open Networks - By simply clicking on the name you can
+connect to any network that is not password protected.
+
+ License : Freeware
+ Author/Publisher : MacWireless.com
+ Modification Date : March 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 162 Kb
+
+ Home Page 
+
+ AirTrafficControl 2.1b500 
+
+AirTrafficControl is the most advanced wireless networking widget available.
+ Connect to any type of network.
+ Sort networks by any feature.
+ Check for AirTrafficControl updates.
+ Use the Keychain to store, retrieve and update WPA or WEP passwords.
+ Select your own refresh rate.
+ View current connection details including network speed.
+
+ License : Freeware
+ Author/Publisher : Mark Madsen
+ Modification Date : October 27, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 247 Kb Kb
+
+ Home Page 
+
+ Amnesty 1.5 
+
+Amnesty Widget Browser is a utility for that allows Dashboard widgets to have expanded capabilities as
+they run directly on your desktop via a convenient icon in your system
+menu bar. Widgets loaded in Amnesty Widget Browser run completely
+outside of Apple's Dashboard environment, maintain their own preferences
+and feature adjustable display settings such as window level (desktop,
+standard or floating), opacity (transparency) and shape (now you can
+rotate and scale your widgets so they fit on your desktop where you want
+them). And to keep things nice and tidy, groups of widgets can be
+arranged into multiple virtual workspaces that can be called up, by menu
+or hot key, to your screen at any time.
+
+ License : Shareware, $20
+ Author/Publisher : Mesa Dynamics
+ Modification Date : December 8, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 13.8 MB
+
+ Home Page 
+
+ Amnesty Singles 1.5 
+
+Amnesty Singles is a drag-and-drop-utility that converts any Dashboard
+widget into a standalone application for Mac OS X Tiger and Panther
+(10.3.9).
+
+Simply drop a widget file onto the Amnesty Singles window, click a
+button, and out pops a small OS X application that will open an instance
+of the widget outside of Dashboard when launched. Applications built
+with Amnesty Singles also include features important for running a
+widget continuously outside Dashboard such as adjusting the window level
+(desktop, standard or floating) and setting an "auto refresh" timer (for
+widgets that are designed to refresh only when Dashboard is shown).
+
+Amnesty Singles is perfect for users who don't want widgets running
+continuously in Dashboard or Amnesty Widget Browser but would rather
+launch and control widgets just like other OS X applications. And yes
+Intel Mac owners, widget applications are built as Universal (although
+your widgets may not be, so it's best to check first).
+
+ License : Shareware, $10
+ Author/Publisher : Mesa Dynamics
+ Modification Date : December 8, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Home Page 
+
+ Battery Hen 1.01 
+
+A hen shows battery usage by eggs.
+
+ License : Freeware
+ Author/Publisher : iSlayer
+ Modification Date : April 4, 2006
+ Requirements : Mac OS X 10.4 or higher - Works with iBooks and PowerBooks, not MacBooks
+
+ Download 
+File Size: 432 Kb
+
+ Home Page 
+
+ BBC Radio Widget 3.4 
+
+Listen to all 60 of the BBC's national, regional and local radio streams, right on your Dashboard.
+
+ License : Freeware
+ Author/Publisher : Phantom Gorilla
+ Modification Date : December 21, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 248 Kb
+
+ Home Page 
+
+ CallWave SMS Widget 3.6.1 
+
+CallWave's free Web 2.0 Widgets (also known as Gadgets) bring your phone
+and PC together so you can do cool things like manage your voicemail and
+send text messages to your friends around the world from convenient
+applications right on your computer's desktop.
+
+It's completely free for you to send text messages to your friends
+worldwide. Regular text messaging rates apply for recipients.
+
+There is no limit for messages sent in the USA and Canada. Currently,
+you can send up to 5 messages per day to other countries using our free
+SMS Beta service. We're working on a premium service that allows more
+messages to be sent. Please check back with us from time to time for
+details on the premium version.
+
+ License : Freeware
+ Author/Publisher : CallWave, Inc.
+ Modification Date : June 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 134 Kb
+
+ Home Page 
+
+ Calorie Tracker 3.1 
+
+This widget simply shows you the "Nutrition Facts" panel on the sides of
+each food item. It searches a database of over 75,000 foods as part of
+the USDA Health Food Database. You can search between Processed Foods,
+Natural Foods, and Fast Foods. This is the ultimate widget for getting
+nutrition information!
+
+ License : Shareware, $4
+ Author/Publisher : Jon Brown Designs
+ Modification Date : July 27, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 738 Kb
+
+ Home Page 
+
+ CharacterPal 4.2 
+
+CharacterPal is a widget that helps you remember how to type any special
+character. Just put your mouse over a character, and the key combo
+appears at the bottom. Now you don't have to remember what Option +
+Shift + K does. At this time, CharacterPal is only compatable with U.S.
+keyboards. We hope to have international keyboard settings avaliable in
+a future version.
+
+ License : Freeware
+ Author/Publisher : Taco Widgets
+ Modification Date : April 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 203 Kb
+
+ Home Page 
+
+ Countdown Calendar 1.11 
+
+A nice countdown calendar.
+
+ License : Freeware
+ Author/Publisher : Greg Maletic
+ Modification Date : September 26, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 69 Kb
+
+ Home Page 
+
+ Cross Eyes mini 1.1 
+
+Cross Eyes is a puzzle game with a simple premise:
+
+Stop dots from making cross eyes at each other
+by separating matching pairs.
+
+ License : Freeware
+ Author/Publisher : Day Late & Dollar Short Software
+ Modification Date : September 2, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 373 Kb
+
+ Home Page 
+
+ DashPhoon 1.4 
+
+DashPhoon is a Mac OS X Dashboard widget that displays the phase of the
+Moon.
+
+DashPhoon can either display the Moon as it appears now, or else at some
+other time. In the latter case, the display can be frozen at a
+particular time, adjusted by keystrokes, or advance rapidly by hours or
+days.
+
+ License : Freeware
+ Author/Publisher : Kevin Schoedel
+ Modification Date : March 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 425 kb
+
+ Home Page 
+
+ Delivery Status 4.6 
+
+Delivery Status lets you track your deliveries from:
+ - Adobe.com (US and Canada)
+ - Amazon.com, Amazon.ca, Amazon.co.uk, Amazon.co.jp, Amazon.de, Amazon.at, and Amazon.fr
+ - Apple.com (including all international stores)
+ - Canada Post (Postes Canada)
+ - DHL (US and Germany)
+ - FedEx and FedEx SmartPost
+ - Google Checkout
+ - Nintendo (US and Canada)
+ - Purolator
+ - TNT
+ - UPS and UPS Mail Innovations
+ - USPS (United States Postal Service)
+
+ License : Freeware
+ Author/Publisher : Mike Piontek
+ Modification Date : January 29, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 948 Kb
+
+ Home Page 
+
+ EasyEnvelopes 1.0.7 
+
+EasyEnvelopes allows you to create picture-perfect envelopes every time.
+You can use whatever typefaces you choose for your mailing and return
+addresses, control the color of the text, and even use a graphic for a
+return address for just the right look. EasyEnvelopes also will
+optionally print USPS postal bar codes for both 5 digit and 9 digit zip
+codes.
+
+Since EasyEnvelopes integrates with your Address Book, you can quickly
+and easily address an envelope to a friend or business contact. Just
+type a few letters in their name, select the proper address from the
+list of matches, and away you go. EasyEnvelopes also lets you paste in
+an address to print, and will even automatically detect when you have an
+address on the clipboard!
+
+EasyEnvelopes supports printing on any size envelope, just click on the
+Print stamp, and a perfectly formatted envelope will emerge from your
+printer seconds later. EasyEnvelopes even supports printing on both the
+front and back of an envelope, allowing you to put the return address on
+the back for an added touch of class.
+
+ License : Freeware
+ Author/Publisher : Ambrosia Software
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 736 Kb
+
+ Home Page 
+
+ FlipClock 1.1.2 
+
+This widget features beautiful skins, an alarm clock function, and an
+extremely comprehensive list of preset cities.
+
+ License : Freeware
+ Author/Publisher : Neometric Software and Widget Machine
+ Modification Date : June 26, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 298 Kb
+
+ Home Page 
+
+ Flights 1.0 
+
+Search for flights by arrival and departure city and date to get details and prices.
+
+ License : Freeware
+ Author/Publisher : HotelWidgets.com
+ Modification Date : September 9, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 24 Kb
+
+ Home Page 
+
+ Gas 3.1 
+
+Continue to make gas consumption less painful with the satisfaction of
+knowing you got the best deal in town. Gas provides a simple, elegant,
+easy to use method for finding the cheapest gas in the area, right from
+your Dashboard. Whether you're going cross town or cross country, Gas
+delivers information from GasPriceWatch.com 
+in order to provide you with
+the most up to date gas prices available. Have a nice drive.
+
+ License : Freeware
+ Author/Publisher : Interdimension Media
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 701 Kb
+
+ Home Page 
+
+ Harmonic 2.3 
+
+Harmonic is a simple, elegant, and easy to use lyrics widget.
+ Features include:
+ - Downloads lyrics for songs as they play
+ - Saves lyrics in iTunes and makes them available on iPod
+ - Available in candy colors!
+
+ License : Freeware
+ Author/Publisher : Mindquirk Software
+ Modification Date : May 17, 2008
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 352 Kb
+
+ Home Page 
+
+ Hula Girl 3.0 
+
+Puts a dancing hula girl and more on your desktop.
+
+ License : Freeware
+ Author/Publisher : John Williams
+ Modification Date : May 28, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 406 Kb
+
+ Home Page 
+
+ iBeatTime Widget 1.2 
+
+iBeatTime widget is a simple widget that show the current time as Swatch
+beats. You can also convert any time to beats or vice versa.
+
+ License : Freeware
+ Author/Publisher : e dot studios
+ Modification Date : December 14, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 82 Kb
+
+ Home Page 
+
+ iCal Events 2.2 
+
+Face the day! Always know what's next in your schedule using iCal
+Events. iCal Events displays upcoming events from multiple calendars in
+a beautiful, resizable widget for Dashboard. You can see up to two weeks
+of upcoming events in the same widget without needing to open iCal.
+
+ License : Freeware
+ Author/Publisher : Ben Kazez
+ Modification Date : January 14, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 220 Kb
+
+ Home Page 
+
+ IceTime 3.1 
+
+Everything you need to follow your team through the course of the season
+and into the playoffs. Features the entire schedule for the season,
+localized game times, team highlighting, standings, stats, 50+ team
+skins, Stanley Cup winners, and more...
+
+ License : Freeware
+ Author/Publisher : HWC
+ Modification Date : November 10, 2007
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ I Love Lamp 2.1 
+
+Look, it's the most glorious rainbow ever!
+
+Bring the 60s to your dashboard with I Love Lamp, a lava lamp widget.
+
+Buying something from the Lavaworld online store will help ensure continued development
+of I Love Lamp and make your loungeroom groovy, baby.
+
+ License : Freeware
+ Author/Publisher : iSlayer
+ Modification Date : July 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 422 Kb
+
+ Home Page 
+
+ IP Locator 1.6 
+
+Ever check your web logs and wonder where in the world is 84.112.1.125?
+(Answer: Vienna, Austria) How about 202.103.130.12? (Answer: Guangzhou,
+Guangdong, China) Wonder no more! Through the magic of geolocation, IP
+Locator takes that mysterious IP address and tells you where that hit to
+your web site (or intruder on your network!) resides.
+
+ License : Freeware
+ Author/Publisher : Andrew Hedges
+ Modification Date : May 2, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 244 Kb
+
+ Home Page 
+
+ iStat nano 2.2 
+
+iStat nano is our best ever stats widget, and it's free!
+
+View detailed information on CPU, memory, hard drives, IP and external
+IP, bandwidth, CPU temperature, battery, uptime and the top four
+processes.
+
+iStat nano features the lowest CPU usage of any stats widget we've
+seen (compare it if you don't believe us, I'm sure you'll be pleasantly
+surprised!).
+
+ License : Freeware
+ Author/Publisher : iSlayer
+ Modification Date : October 21, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 840 Kb
+
+ Home Page 
+
+ iStat Pro 4.7 
+
+iStat pro is the ultimate system monitoring widget, consisting of nine sections which can
+be minimized, expanded, or closed.
+
+It features detailed information on CPU, memory, hard drives, IP and external IP,
+bandwidth, CPU temperature, battery, uptime, temperatures, and fans. You'll know exactly
+what's going on inside your Mac!
+
+Not for the faint-hearted or anyone with a small screen.
+
+ License : Freeware
+ Author/Publisher : iSlayer
+ Modification Date : July 23, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 777 Kb
+
+ Home Page 
+
+ Jared 1.0 
+
+Like an angry Immigration officer, Jared's distinctive rendition grabs us,
+slaps us around, threatens to cavity search us and ultimately demands our
+passport be issued from that same circle of hell from which his voice
+originates.
+
+ License : Freeware
+ Author/Publisher : Freeverse Software
+ Modification Date : June 4, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ Juice 1.2 
+
+Juice is a Dashboard widget that adds a real-life looking battery to
+your dashboard indicating the current state of your laptop's battery and
+the estimated time remaining until full or empty.
+
+ License : Freeware
+ Author/Publisher : Alwin Troost
+ Modification Date : August 24, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 46 Kb
+
+ Home Page 
+
+ Mail Checker 2.0 
+
+This is a very simple dashboard widget that displays the number of
+unread messages in your Gmail or Yahoo! mail account. As you can see it
+takes the form of a British postage stamp. The stamp will turn red when
+you have mail waiting - the number will also increase to display the
+number of unread messages. Clicking on the stamp will open your mail
+inbox in your default web-browser. If you have more than one account
+then just add more copies of the widget to your dashboard. We appreciate
+that you're going to need to be able to tell the difference between your
+different mail accounts in this case - not to worry, Mail Checker is
+currently available in 4 different flavors.
+
+ License : Freeware
+ Author/Publisher : Scue
+ Modification Date : June 1, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 97 Kb - Blue Elizabeth Theme
+
+ Download 
+File Size: 113 Kb - Batman Theme
+
+ Download 
+File Size: 124 Kb - Spiderman Theme
+
+ Download 
+File Size: 116 Kb - White Hippo Theme
+
+ Home Page 
+
+ Magic Widget 1.0 
+
+Magic 8-ball Widget.
+
+ License : Freeware
+ Author/Publisher : sixthring
+ Modification Date : May 26, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 286 Kb
+
+ MailWidget 3.04 
+
+This Dashboard widget checks your eMail without having Apple Mail running all the time.
+It has been especially made for those who were leaving their eMails on the mail-server
+after having received them. (Most do that in order to access their last emails on travels.)
+
+ License : Freeware
+ Author/Publisher : Michael Kwasnicki
+ Modification Date : March 28, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 321 Kb
+
+ Home Page 
+
+ Maintidget 1.5.1 
+
+Maintidget (Maintenance Scripts Widget) is a Dashboard Widget which
+provides the following functions:
+ - Display the last time the daily, weekly, and monthly OS X
+Maintenance Scripts (a.k.a Cron Tasks) were run.
+ - Run the OS X Maintenance Scripts on demand. Just enter your
+administrator password and click the Run Scripts button. Maintidget is
+the first Dashboard Widget to provide this feature!
+
+ License : Freeware
+ Author/Publisher : Mike Vande Ven Jr.
+ Modification Date : January 5, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 73 Kb
+
+ Home Page 
+
+ Make-A-Pass 2.4.1 
+
+Make-A-Pass generates secure, random passwords with the click of a
+button! This widget is highly configurable.
+
+ License : Freeware
+ Author/Publisher : Andrew Hedges
+ Modification Date : February 27, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 82 Kb
+
+ Home Page 
+
+ MiniBatteryStatus 2.6.9 
+
+MiniBatteryStatus is a small Dashboard widget that monitors battery status, charge
+percentage and remaining battery life. Integrated with Growl to alert you when it's time
+to recharge your battery.
+
+ License : Freeware
+ Author/Publisher : Emeraldion Lodge
+ Modification Date : May 30, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 515 Kb
+
+ Home Page 
+
+ miniStat 
+
+A collection of six widgets including:
+ miniBattery
+ miniCpuHeat
+ miniCpuUsage Download it! (124 KB)
+ miniFreeRAM
+ miniFreeStorage
+ miniUptime
+
+ License : Freeware
+ Author/Publisher : ShockWidgets
+ Modification Date : July 22, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 750 Kb
+
+ Home Page 
+
+ miniStat2 1.91 
+
+Detailed statistics about CPU, memory, storage, network, temperature
+sensors and battery. Customazible cool looking skins. Updates every
+second.
+
+ License : Shareware, $5
+ Author/Publisher : ShockWidgets
+ Modification Date : October 28, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ NASA Kennedy Space Center Video Feeds 1.4 
+
+Video feeds from NASA Kennedy Space Center.
+
+ License : Freeware
+ Author/Publisher : Andrew Downs
+ Modification Date : August 13, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 119 MB
+
+ Home Page 
+
+ Network Stat 1.5.1 
+
+This Widget displays the Name of your current Network-Location, your LAN- and your WAN-IP. The Features:
+ display the current Location
+ display your internal IPs, along with an Icon of the Interface
+ display your "real" Internet-IP
+ click on any desired info to copy it to your Clipboard
+ shows your IPv6, prefixlength, netmask, broadcast and MAC-address via a click
+ you can switch between the remaining time till next refresh and the date/time of the last refresh
+ automatically updates the Info, based on your Preferences
+
+ License : Freeware
+ Author/Publisher : Pascal Pfiffner
+ Modification Date : November 3, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 288 Kb
+
+ Home Page 
+
+ Package Tracker 2.1.11 
+
+Where's your stuff? Find out at the touch of a button thanks to Package
+Tracker. You can see at a glance the current location of your FedEx,
+DHL, or UPS package, when it will be delivered, and the most recent scan
+activity.
+
+ License : Freeware
+ Author/Publisher : Monkey Business Labs
+ Modification Date : February 6, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 343 Kb
+
+ Home Page 
+
+ Package Tracking 1.0 
+
+Instantly locate your packages shipped with UPS, FedEx, USPS, or DHL. 
+Simple and elegant. Package tracking for the 21st century. Best of all, it's absolutely free.
+
+ License : Freeware
+ Author/Publisher : Kevin Li
+ Modification Date : January 27, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 864 Kb
+
+ Home Page 
+
+ The Periodic Table 1.4 
+
+It's a simple periodic table where you can click on the elements to
+display basic information: Symbol, Name, Atomic Number, Mass, and Phase
+under standard conditions. Double-clicking on an element will open a
+link to that element's wikipedia page for additional information.
+I've added the ability to select different elemental
+properties, and the table will remap the colors around these property
+values. This allows people to observe some basic periodic trends. The
+user preferences are also stored now, so the widget will always restart
+with the user's preferred style.
+
+ License : Freeware
+ Author/Publisher : Christopher J. Fennell
+ Modification Date : March 19, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 88 Kb
+
+ Home Page 
+
+ RabbitRadio 1.2 
+
+Sick of dealing with ugly audio plugins? Tired of leaving your web
+browser open to listen to online radio? RabbitRadio makes listening to
+your favourite NPR stations easy - and it features a minimal modern
+interface. RabbitRadio currently supports realtime streaming audio from
+KQED, WAMU, WGBH, WUOT, WBUR, WDET, WDUQ, KPCC, KRWG, WMUB, KEXP, KCRW
+and WHYY.
+
+ License : Freeware
+ Author/Publisher : Llew Mason
+ Modification Date : November 3, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 257 Kb
+
+ Home Page 
+
+ RadioTuner 2.01 
+
+This widget (for Mac OS X) lets you listen to your favorite radio stations online. Unlike
+other radio widgets, RadioTuner lets you customize the list of radio stations... all your
+favorite radio stations in one widget -- enjoy!
+
+ License : Freeware
+ Author/Publisher : Markus Wuersch
+ Modification Date : December 18, 2006
+ Requirements : Mac OS X 10.4 or higher - RealPlayer (version 10.1 for Intel-Macs, version 10 vor PPC), Flip4Mac
+
+ Download 
+File Size: 158 Kb
+
+ Home Page 
+
+ rpnCalc 1.6.1 
+
+rpnCalc is a reverse polish notation (RPN) calculator. The stack
+behavior is based, rather loosely, on the HP-28S. I originally wrote it
+because the battery on my HP-28S died and I needed a calculator. Yes, I
+suppose I could have bought a new battery. But instead I wrote an
+HTML/Javascript/CSS RPN calculator; partly out of need, and partly as an
+exercise in Javascript.
+
+ License : Freeware
+ Author/Publisher : Rick Lansky
+ Modification Date : December 14, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 81 Kb
+
+ Home Page 
+
+ Say Cheese 2.8 
+
+Say Cheese is THE comic viewer for all the comic fans.
+It shows the daily comic of your favorite comics
+and also offers many other features.
+
+ License : Freeware
+ Author/Publisher : Killer Widgets
+ Modification Date : July 27, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 140 Kb
+
+ Home Page 
+
+ Scoreboard 1.3 
+
+I've joined the widget making madness with this simple widget. It
+downloads the current Major League Baseball scores and automatically
+scrolls through them or gives you the option of displaying a single
+game. You can open multiple copies and set the to different games to
+track more that one without having to wait for them to come around with
+the scrolling.. It is basic but that's kind of the point of widgets. If
+you want more stats, you can click on any game and it will take you to
+the game's page on foxsports.com.
+
+ License : Freeware
+ Author/Publisher : Ryan Inselmann
+ Modification Date : June 9, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 85 Kb
+
+ Home Page 
+
+ Simple World Clock 1.3 
+
+A simple OS X widget to display the time in various world cities.
+
+ License : Freeware
+ Author/Publisher : Mike Bremford
+ Modification Date : November 6, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 19 Kb
+
+ Home Page 
+
+ Sing That iTune! 3.1.10 
+
+Downloads lyrics for your iTunes songs and saves them in your Documents folder.
+
+ License : Freeware
+ Author/Publisher : Toru Yano
+ Modification Date : May 17, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 236 Kb
+
+ Home Page 
+
+ SlothCam 2.94 
+
+Sloth Cam webcam viewer. I wrote the little WebCam viewer for the Mac OS
+X Tiger "Dashboard" environment and decided to give it a "Che Slothera"
+theme.
+
+ License : Sharewre, $5
+ Author/Publisher : SlothSoft
+ Modification Date : January 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 148 Kb
+
+ Home Page 
+
+ SMS Mac 2.2.1 
+
+How do you send an SMS? Are you using the T9 input method? Are you also
+wondering why you are using these small keys with numbers on it to enter
+text while you have your Mac keyboard in front of you? Then SMS Mac is
+for you. Use your Mac to enter SMS text and send the SMS through the
+Internet. You don't even need a mobile phone. SMS Mac will send the SMS
+for you.
+
+SMS Mac comes in several flavors. An Address Book plug-in and a
+Dashboard widget for Tiger (Mac OS X 10.4) or Yahoo! Widgets (Windows XP,
+Windows 2000 or Mac OS X 10.2 or higher). You decide which one works
+best for you. Or use all three. The Address Book plug-in works with both
+Panther (Mac OS X 10.3) and Tiger (Mac OS X 10.4). The Dashboard widget
+was developed especially for Tiger, Apple's new version of Mac OS X.
+
+ License : Shareware, $15 - annual fee ($10) with 50 SMS ($5)
+ Author/Publisher : Alco Blom
+ Modification Date : September 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 532 Kb - Send SMS Widget version 2.2.1
+
+ Download 
+File Size: 5.7 MB - Address Book plug-in version 2.1
+
+ Home Page 
+
+ SMS Widget 3.4 
+
+The SMS widget allows you to send text messages to mobile phones for
+free. You don't even need to have a phone at all! The widget works with
+most major carriers in the USA and Canada as well as O2 and T-Mobile in
+Germany.
+
+The SMS widget integrates with the Mac OS X Address Book, so you can
+quickly select friends to contact. After you send a message, the widget
+remembers your friend's carrier so that you don't need to enter it in
+the future! You can include your mobile number or email as the reply
+address of your messages. This lets recipients reply to your SMS
+messages.
+ The widget currently supports:
+ Alltel, AT&T, Cingular, Nextel, Sprint, SunCom, T-Mobile, Verizon,
+Verizon Pager, Virgin Mobile, and Qwest in the USA.
+Bell Mobility, Fido, Rogers, and TELUS in Canada.
+O2 and T-Mobile in Germany
+
+ License : Freeware
+ Author/Publisher : Keaka Jackson
+ Modification Date : January 7, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 130 Kb
+
+ Home Page 
+
+ SoccerDB Widget 1.0 
+
+With the SoccerDB Widget you can display any league from SoccerDB on
+your Mac OS X Dashboard. The Widget displays tables and matches.
+
+ License : Freeware
+ Author/Publisher : Mats Bovin
+ Modification Date : December 3, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 69 Kb
+
+ Home Page 
+
+ Sol 1.2.3 
+
+Sol is a Dashboard widget that tells you what time sunrise and sunset
+are, as well as dawn and dusk.
+
+The analog display is a 24-hour clock, with noon at the top and midnight
+at the bottom. The dark region is nighttime, the light part is daytime,
+and the slivers in between are dawn and dusk.
+
+ License : Freeware
+ Author/Publisher : Daniel Neumeyer
+ Modification Date : October 17, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 155 MB
+
+ Home Page 
+
+ Sports Fan 1.3.7 
+
+Keep an eye on your favorite sports teams - all the information you need
+in one single and small widget. Show the current scoreboard, full
+results from previous days, the upcoming schedule (game times are
+displayed in your local time), or current standings. The widget supports
+Baseball (MLB and minor leagues down to Class A), Basketball (NBA and
+NCAA College), Football (NFL and NCAA College), and Hockey (NHL). You
+can open multiple instances of the widget to track different sports or
+teams - each instance of the widget will remember your selections.
+
+ License : Freeware
+ Author/Publisher : Andreas Amann
+ Modification Date : December 22, 2008
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 274 Kb
+
+ Home Page 
+
+ Starry Night Widget 1.3.1 
+
+Faster than a shooting star, the Starry Night Widget will bring the sky
+for any location to your Macintosh OS X Dashboard in an instant.
+
+Set your location by zip/postal code or by latitude and longitude, and
+the widget flips to show a view of the current sky.
+
+With a touch of a button, see the sky from all directions.
+
+It's easy to customize your view. Choose to show constellations, the
+horizon, the ecliptic line, and labels for the celestial sights above.
+
+The Widget refreshes your sky image every few minutes so you are always
+looking at something new.
+
+ License : Freeware
+ Author/Publisher : Imaginova Corp.
+ Modification Date : June 4, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 518 Kb
+
+ Home Page 
+
+ Sudoku Widget 1.5 
+
+This widget generates random puzzles with four levels of difficulty, has
+the option to show you when you entered an incorrect answer, allows for
+"pencil" marks for temporary numbers, and the best part is it's free.
+
+ License : Freeware
+ Author/Publisher : Brian DeBoer
+ Modification Date : October 11, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 154 Kb
+
+ Home Page 
+
+ Tape Calculator 1.0 
+
+This program is designed to replace a standard desktop adding
+machine/calculator, allowing 10-key touch number entry. Use it for
+high-speed adding and subtracting of numbers.
+ How it works: Entry is the same as on a desktop adding machine.
+ Enter the number first, then press either add (+) or subtract (-). (Multiply and divide don't work yet.)
+ The Enter key on the keypad acts as the + button on an adding machine.
+ Pressing clear (Num Lock) clears the current entry.
+ Pressing = totals the tape, and the tape will clear the next time you enter a number.
+ Pressing + or - without entering a number also totals the tape.
+ Use the Info button to toggle between floating and +2 decimal operation.
+
+ License : Freeware
+ Author/Publisher : Russell Haines
+ Modification Date : June 26, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 72 Kb
+
+ Home Page 
+
+ Tide Widget 2.21 
+
+The Tide widget displays the current tide or current for locations
+worldwide, using the XTIDE tide engine to predict the tides.
+
+ License : Freeware
+ Author/Publisher : August Hahn
+ Modification Date : May 12, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ Widget Television VF3 
+
+Currently there are 54 DV channels available through VF1 online and new
+channels being added as they become available. It's like having a small
+screen television right on your desktop. The VF1 is a widget that at its
+current version, allows you to change channels and turn the VF1 to its
+'Off' state. To turn it to its 'On' state, simple open the side menu
+panel, scroll to locate a selection, click the channel, then sit back
+and watch. This new version includes full screen on all RealPlayer
+channels only. To activate the Widget Television in FullScreen mode,
+simply choose one of the RealPlayer channels from the channel list, and
+after the station completely loads click on the television screen to
+activate it. Future updates will include FullScreen mode for the other
+two video players as well. The channel list now includes icon links to
+the left of the channel name and will link to the channel's website
+where (most of the websites have this option) a program schedule is
+available. The VF1 uses all three major streaming video players;
+QuickTime, RealPlayer, and Media Player.
+
+To watch broadband television with the VF1, you must have the players
+installed prior to utilizing the widget. If desired, you can download
+the DevMode widget from DashboardWidgets.com. Once installed, the
+DevMode widget allows you to move the VF1 to the desktop, instead of the
+Dashboard, allowing you to continue watching TV while you do something
+else.
+
+ License : Freeware
+ Author/Publisher : Charles Grieves
+ Modification Date : December 5, 2005
+ Requirements : Mac OS X 10.4 or higher, QuickTime, RealPlayer, and Windows Media Player
+
+ Download 
+File Size: 18 Kb
+
+ Home Page 
+
+ Wikipedia 0.9.2 
+
+A Dashboard widget for browsing Wikipedia. Search for articles and view
+from the Dashboard, complete with pictures and links.
+
+ License : Freeware
+ Author/Publisher : Sean Billig
+ Modification Date : June 12, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 302 Kb
+
+ Home Page 
+
+ XwordLookup Widget 1.3 
+
+If you have a half finished crossword and an answer you can't figure
+out, enter the pattern of letters and spaces into this widget to get a
+list of words that match.
+
+ License : Freeware
+ Author/Publisher : HRSoftWorks
+ Modification Date : July 26, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 295 Kb
+
+ Home Page 
+
+ Zwebwatch 1.0 
+
+Utility that will watch page changes for you. With this widget you can
+monitor almost any page on the internet for changes.
+
+ License : Freeware
+ Author/Publisher : Dmitry Kirillov
+ Modification Date : May 18, 2005
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 17 Kb
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

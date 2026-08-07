@@ -1,0 +1,405 @@
+SCIENCE HOBBYIST: how transistors work, an alternate viewpoint 
+
+ ELECTRICITY ARTICLES 
+
+ GOOD STUFF 
+
+ NEW STUFF 
+
+ HELP! 
+
+ &nbsp 
+
+ How Do Transistors Work? 
+ (c)1995 William J. Beaty 
+
+ NO, HOW DO THEY REALLY WORK? 
+ Short vers. 
+
+When I first became interested in electronics as a kid, I sat down and
+figured out how bipolar transistors work. Well, sort of. 
+
+I read many articles which explained the "Common Base" setup. This was
+the one used by the original inventors of the transistor. In these
+explanations, the Base is grounded and the input signal is applied to the
+Emitter. Since the common-base amplifier is rarely used, I ended up having
+to dream up my own explanation. I based it on the little bits I already
+knew about the Common Emitter configuration; the one where the Base is the
+input, and where the output is taken from between the Collector and a
+resistor. It sort of worked, but I wasn't satisfied. I was full of
+niggling doubts. 
+
+When I went into engineering school, I found it extremely odd that there
+STILL were no good explanations of bipolar transistors. Sure, there were
+detailed mathematical treatments which let you design circuits or
+investigate detailed SPICE models. But not one of these told me HOW a
+transistor works. And mysteriously, nobody else seemed curious. 
+Everyone else in school seemed to think that memorizing the equations was
+the same as gaining understanding of the device. (R. Feynman calls this
+math-worship by the name "Greek viewpoint", as opposed to the "Babylonian
+viewpoint" where the concepts are far more important than the equations.) 
+I'm a total Babylonian. For me, math is useless at the start. Only after
+I've attained a visual and gut-level understanding of a topic, then later
+the math is a wonderful tool for refining it and adding all the details. 
+However, math alone is not a genuine explanation. Equations are recipes,
+and they do not confer understanding (to say nothing about teaching expert
+knowledge.) Beware, it doesn't matter how high your engineering grade
+point average might be, if all you know about transistors is the math,
+then your employers can replace you with a student intern who knows how to
+use a SPICE application. 
+
+Now many years have passed and I think I see the problem...
+
+Traditional transistor explanations basically *suck.* 
+
+The ones I see in textbooks and hobby magazines are terrible. They're
+full of errors and contradictions. Below are my ideas on how transistors
+REALLY work. As you'll soon see, several new concepts are required. 
+Also, this is a discussion of transistor internals. If all you want is to
+design circuits, it might be easier for you to just memorize the equations
+rather than to imagine what really happens inside. But if you DO manage
+to decode my explanations and crude ASCII artwork, I think you'll be in
+the elite minority who really understands transistors. I've found
+that even most working engineers have no good mental picture of bipolar
+transistor operation, so if you attain an understanding of transistors,
+you'll surpass many of the experts. 
+
+First of all, you must abandon the idea that CURRENT travels in
+transistors or flows inside of wires. Yes, you heard me right. 
+ Current does not flow in circuits. Electric current never 
+flows, since electric current is a flow of something else. (Ask yourself 
+this: 
+what's the stuff that flows
+in a river, is it "current" or is it called "water?") 
+
+So what flows 
+inside of wires?
+
+The stuff that moves within wires is not named Electric Current. Intead
+it is called Electric Charge. It's the charge that flows, never the
+current. And in rivers or plumbing, it's the water that flows along, not
+the "current." 
+
+ Second: the charge does not push itself along, but instead it's
+pushed by potential difference; it's pushed by the voltage-fields inside
+the conductive material. Charges are not squirted out of power supplies
+as if the power supply was some sort of cannon. If you imagine that
+charges come out of the positive or negative end of the power supply and
+then spread throughout the circuit, you've made a fundamental mistake. 
+Wires do not act like empty water pipes, and power supplies do not supply
+any electrons. To create a flow, a power supply DOES NOT inject any
+charges into the wires. 
+
+ Third: have you discovered the big 'secret' of visualizing electric
+circuits? ALL CONDUCTORS ARE ALREADY FULL OF CHARGE
+ Both the wires and the silicon behave like pre-filled water
+pipes. A block of conductor is like a water tank. Metals contain a vast
+quantity of movable electrons which forms a sort of "electric fluid"
+within the metal. Physicists call this the "electron sea" of metals. 
+This idea is very necessary when visualizing transistors. Semiconductors
+are always full of movable charge-stuff, even when a transistor is sitting
+on the shelf disconnected from everything. When a voltage is applied
+across a piece of silicon, the charges within the material are driven into
+motion. 
+
+To understand circuitry, don't trace out the circuit path starting 
+at the
+terminals of the power supply.
+Instead look at any component on the schematic. If there is a voltage
+applied across that component, then the charges within that component will 
+start to
+flow. Lets modify the old "flashlight explanation" which we all were 
+taught in grade school. Here is the corrected version: 
+
+ Wires are full of movable electric charges (all conductors 
+are.) If you connect some wires into a circle, you form an "electric 
+circuit" which contains a movable conveyor belt made of charges. We cut 
+this circle we insert a battery and a light bulb. The battery acts as a 
+charge pump, while the light bulb offers friction. The charges flow, and 
+the bulb lights up. Let's follow them. 
+
+The charges start out inside the light bulb filament. (No, not inside the
+battery. We start at the bulb .) They're forced to flow along 
+through the filament. Then they flow out into the first wire and move 
+along to the
+battery. The battery pumps the charges through itself and back out. The
+charges leave the other battery terminal, then they flow through the
+second wire and wind up back inside the light bulb filament. The battery
+acts as a pump. The wires act like a fluid-filled conveyor belt. 
+The light bulb acts like "friction;" getting hot when its own natural
+charges are forced to flow along. 
+
+Brief review: 
+
+1. THE STUFF THAT FLOWS THROUGH CONDUCTORS IS CALLED CHARGE. 
+ ("CURRENT" DOESN'T FLOW.) 
+2. THE CHARGE INSIDE CONDUCTORS IS SWEPT ALONG BY VOLTAGE FIELDS. 
+3. ALL WIRES ARE "PRE-FILLED" WITH A VAST AMOUNT OF MOVABLE CHARGE 
+4. BATTERIES AND POWER SUPPLIES ARE CHARGE-PUMPS. 
+5. LIGHT BULBS AND RESISTORS ACT "FRICTIONALLY." 
+
+One last thing: The difference between a conductor and an insulator is
+simple: a conductor is like a pre-filled water pipe, while an insulator
+is like a pipe that's choked with ice. Both contain the "electric stuff;" 
+they're 
+both full of electrically charged particles. But the 
+"stuff" inside an insulator can't move. Apply a pressure-difference 
+across a
+water pipe, and the water flows. But with an empty pipe, there's nothing 
+there, so the flow does not occur. And with an ice-choked pipe, the stuff 
+is trapped and doesn't budge. (In other words, voltage causes 
+charge-flow in conductors, but it can't cause charge-flow in 
+insulators because the charges are immobilized.)
+
+One last thing before diving into transistors. SILICON IS VERY DIFFERENT 
+THAN
+METAL. Metals are full of movable charges... but so is doped silicon. 
+How are they different?
+Yes, there's that matter of "band gap" and the electrons versus holes, but 
+that's not the
+important thing. The important thing is quite simple: metals have vast
+quantities of charge, but silicon does not. For example in copper, every
+single copper atom donates one movable electron to the "sea of charge." 
+But in
+doped silicon, only one atom in a billion donates a movable charge. In
+silicon, you can sweep the charges out of the material by using a few 
+volts of potential,
+while in a metal it would take billions of volts to accomplish the same
+thing. Or in other words:
+
+6. THE CHARGE INSIDE OF SEMICONDUCTORS IS LIKE A COMPRESSIBLE GAS, WHILE 
+THE CHARGE INSIDE OF METALS IS LIKE A DENSE INCOMPRESSIBLE LIQUID.
+
+ Sweeping away the charges is the same as converting a material 
+from conductor to insulator. If silicon is like a rubber hose, then it's 
+a hose which contains compressible gas, and you can easily squeeze it shut 
+and stop the flow. But if copper is also like a rubber hose, then instead 
+it's like a 
+hose full of iron slugs. You can squeeze and squeeze, but you can't smash 
+them out of the way. But with air hoses and silicon blocks, you can pinch 
+the pathway shut and stop the flow.
+
+OK, let's look at the way that transistors are usually explained. 
+
+To turn on an NPN transistor, a voltage is applied
+across the base and emitter terminals. This causes electrons in the Base
+wire to move away from the transistor itself and flow out towards
+the
+power supply. This in turn pulls electrons out of the P-type base region, 
+leaving
+'holes' behind, and the 'holes' act like positive charges which are pushed
+in the opposite direction from the direction of electron current. What
+SEEMS to happen is that the base wire injects positive charges into the
+base region. It spews holes. It injects charge. 
+
+(Note that I'm describing CHARGE FLOW here, not
+positive-charge "conventional current.") 
+
+ |
+ ______|______
+ | |
+ | COLLECTOR N |
+ |_____________| ELECTRONS ARE PULLED FROM THE
+ | | -----> BASE REGION AND INTO THE WIRE,
+ | BASE P |______________ WHICH CREATES POSITIVE "HOLES"
+ |_____________| | + WHICH SPEW OUT INTO THE BASE
+ | | ____|____ REGION.
+ | EMITTER N | _____
+ |_____________| _________
+ | _____
+ |_____________________| -
+
+That's part of the conventional explanation. Why is all of this important
+to transistor operation? ***IT'S NOT!*** The base current is not 
+important to transistor operation. It's just a byproduct of the
+REAL operation, which involves an insulating layer called the Depletion
+Region. See the diagram below. 
+
+The Depletion Region is an insulating layer existing between the base
+region and the emitter region. Why is it there? It exists because the 
+Base region
+is p-type silicon, it exists because p-type silicon is full of naturally-
+occurring movable holes, and because the p-type silicon is touching n-type
+silicon. P-type silicon is like the beads of an abacus, and the holes are 
+like gaps in the rows of beads. Move one bead, and a hole has moved the 
+other way. Touch the p-type silicon to the n-type, and wandering 
+electrons fall into the holes. 
+Holes in the p-type region flow together and many are cancelled
+by the movable electrons that exist in the N-type emitter, and this leaves
+a thin layer between N and P sections which lacks movable charges. 
+
+Remember: a conductor is NOT a substance which allows charges to pass.
+Don't forget #3 above. A conductor is actually any substance which
+contains charges which are MOVABLE. Anything that lacks movable charges
+is an insulator. Inside the depletion layer, all the opposite charges
+have fallen together and vanished. The gaps in the abacus beads are gone,
+so no beads can move anymore. Lacking mobile charges, the silicon has
+turned into an insulator. When there's no voltage applied across the
+base/emitter terminals, this insulating layer is fairly thick, and the
+transistor acts like a switch which has been turned off. 
+
+I like to visualize that normally a transistor's silicon is a 
+shiny
+silver conductor (sort of like metal) except for this insulating layer
+between the P and N regions which acts more like a layer of insulating 
+glass. 
+
+ |
+ ______|______
+ | |
+ | COLLECTOR N |
+ |_____________| 
+ | | 
+ | BASE P |--
+ |_____________| 
+ _____________ 
+
+When voltage is applied between base and emitter, this insulating layer
+ changes thickness. If (+)voltage is applied to the 
+p-type, to the base wire,
+while a (-) polairty is applied to the n-type, to the emitter wire, then
+electrons in the n-type are pushed towards the holes in the p-type.
+The insulating layer becomes so thin that the clouds of electrons and
+holes start meeting and combining. A current therefore exists in the
+base/emitter circuit. But this current is not important to transistor
+action. The important thing to notice is that the *VOLTAGE* across the
+base/emitter has caused the insulating Depletion Layer to become so thin
+that the charges can now flow across it. It's as if the transistor 
+contains a
+layer of glass whose thickness can be varied by varying a voltage. The
+layer becomes thinner when base/emitter voltage is increased. This
+happens because the voltage pushes the holes and the electrons towards
+each other, reducing the size of the empty insulating region between the
+masses of holes and electrons, and allowing the stragglers to jump across
+the insulator. The depletion layer is a voltage-controlled switch which
+"closes" when the right polarity of voltage is applied. It is also a
+proportional switch, since a small voltage can close it only partially. 
+For silicon material, charges start jumping across when the voltage is 
+around
+0.3V. Raise the voltage to 0.7V and the current gets very high. (That's
+for silicon. Other materials have different turn-on voltages.) The
+larger the voltage, the thinner the insulating layer, so the higher the
+current in the entire transistor. By applying the right voltage, you can
+thicken or thin the depletion layer as desired, creating an open,
+closed, or partially open switch. 
+
+See what's happening here? THE TRANSISTOR IS NOT CONTROLLED BY CURRENT.
+Instead it is controlled by the base/emitter voltage.
+
+7. THE P-TYPE AND N-TYPE ARE CONDUCTORS BECAUSE THEY CONTAIN MOVABLE 
+CHARGES.
+
+8. A LAYER OF INSULATING MATERIAL APPEARS WHERE P-TYPE AND N-TYPE TOUCH.
+
+9. THE INSULATING LAYER CAN BE MADE THIN BY APPLYING A VOLTAGE.
+
+ |
+ ______|______
+ | |
+ | COLLECTOR N |
+ |_____________|
+ | | ---->
+ | BASE P |______________ 
+ |=============| | + With a small voltage applied,
+ | | ____|____ the depletion layer gets thin,
+ | EMITTER N | _____ charges start crossing it,
+ |_____________| _________ and a small current appears.
+ | _____ The "switch" is only partly 
+ |_____________________| - closed!
+
+ OK, on to PART TWO 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Also see: short version of article 
+
+ PS 
+The transistor was invented around 1923, by physicist Dr. J. Edgar
+Lilienfeld, the father of the modern electrolytic capacitor. WHAT?!!! 
+But everyone knows that it was invented at Bell
+Labs in 1945. Nope. The original transistor was a 1920s thin-film device
+deposited on glass. The base region was a clever idea: crack a piece of
+glass, put it back together with metal foil clamped in the crack, then
+slice off the extra foil to make a flat surface that goes: glass, metal,
+glass. Deposit a thin layer of semiconductor and heat the device, and the
+thin metal line
+will "dope" that part of the semiconductor layer. Simple! But Dr. 
+Lillienfeld unfortunately didn't have a solid theory to explain how his 
+invention worked, so it was ignored. Some hobbyist should try making a 
+home-built transistor. 
+
+Lilienfeld's patent numbers are:
+
+ # 
+1,745,175 Method and Apparatus for Controlling Electric Currents
+ # 
+1,877,140 Amplifier for Electric Current
+ # 
+1,900,018 Device for Controlling Electric Current
+
+[Click on IMAGES button to view them.] 
+These patents caused Bardeen, Brattain, and Shockley some grief, and 
+caused the US Patent Office to disallow the Bell Labs FET patents in later 
+years.
+
+PPS 
+It is possible to make a transistor using Galena (lead sulfide, PbS). 
+Galena is often available from rock shops and science museum stores.
+You can even make your own by melting sulfur and lead powder over a flame. 
+Look up keywords such as "cat's whisker diode" and "crystal radio" to find 
+out more. 
+
+The trick to making a transistor is to use a freshly-cleaved crystal face,
+to sharpen your cat's-whisker contacts by dissolving the tips using
+electrolysis, and then to put the tips within 0.05mm of each other (or
+preferrably within 0.01mm). Obviously the latter is the hardest part. 
+Better use a microscope! The authors of the following article found that
+the base/emitter junction was critical: it HAD to act as a good rectifier. 
+The base/collector junction wasn't as important. They got some power
+gain, but their beta was in the single digits. Others have mentioned that
+if you break open a 1N34 glass diode to expose the Germanium chip, you can 
+make a crude transistor with a similar procedure.
+
+Crystal Triode Action in Lead Sulphide, P. C. Banbury, H.A. Gebbie, C. A.
+Hogarth, pp78-86. SEMI-CONDUCTING MATERIALS, Conference proceedings, 
+H.K. Henisch (ed), 1951 Butterworth's scientific publications LTD 1951. 
+
+How Transistors REALLY Work, Part II 
+ Short vers. 
+
+ &nbsp 
+
+ LINKS 
+
+ Homemade Catswhisker Oscillators and
+ transmitters to go with your crystal radio
+ The Transistor Museum 
+ CK722 , the first hobbyist transistor
+ Road to the Transistor (and homemade LED)
+ How transistors work, fluid analog 
+ Home made transistor 
+and history gallery 
+ Homebrew solar cell (copper oxide) 
+ GW Pickard, inventor of 1st semiconductor device 
+ Instr. of Amplification (home-build tubes and transistors)
+ IEEE Spectrum: early hobbyist transistors 
+
+Explanation at NCSU (circuits, not transistor physics)
+
+ OTHER PAGES HERE 
+
+ How capacitors REALLY work 
+ The REAL direction of the electric current 
+ How lightning REALLY works 
+ How electricity REALLY works 
+ Big electricity articles list 
+ Good stuff 
+ New stuff 
+
+/amateur/transis.html 
+
+Created and maintained by 
+ Bill Beaty . Mail me at: 
+
+billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

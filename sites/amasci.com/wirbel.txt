@@ -1,0 +1,265 @@
+Newsgroups: sci.physics.fusion
+From: bernecky@starbase.nl.nuwc.navy.mil (W. Robert Bernecky)
+Subject: Wirbelrohr or vortex tube
+Sender: scott@zorch.SF-Bay.ORG (Scott Hazen Mueller)
+Date: Sat, 1 Jul 1995 23:11:02 GMT
+
+The following may be relevant to the Potapov device.
+
+It contains excerpts from "And yet it moves...strange systems &
+subtle questions in physics," by Mark P. Silverman, Cambridge
+University Press, 1993; Chpt 6 "The Wirbelrohr's roar".
+
+  [BILL B. NOTE:  also see Scientific American, November 1958 for a
+  Hilsch-tube construction article in  Stong's THE AMATEUR SCIENTIST]
+
+"It was a Wirbelrohr, he explained; you blew into the stem, and
+out one end of the cross-tube flowed hot air, while cold air
+flowed out the other. I laughed; I was certain he was teasing me.
+Although I had never heard of a Wirbelrohr, I recognised a
+Maxwell demon when it was described."
+
+"...he machined in his basement workshop a working model which I
+received from him shortly afterwards. The exterior was more or
+less just as he had described it: two identical long thin-walled
+tubes (the cross-bar of the T), were connected by cylindrical
+collars screwed into each end of a short section of pipe that
+formed the central chamber; a gas inlet nozzle (the stem of the
+T), shorter than the other two tubes but otherwise of identical
+construction, joined the midsection tangentially (Fig. 6.1). Ex-
+ternally, except for a throttling valve at the far end of one
+output tube to control air flow, the entire device manifested bi-
+lateral symmetry with respect to a plane through the nozzle per-
+pendicular to the cross-tubes.
+
+"Only someone with the lung capacity of Hercules could actually
+blow into the stem.  Instead, the nozzle was meant to be attached
+to a source of compressed air.  Taking the Wirbelrohr into my
+laboratory, I looked sceptically for a moment at its symmetrical
+shape before opening the valve by my work table that started the
+flow of room-temperature compressed air. Then, with frost forming
+on the outside surface of one tube, I yelped with pain and aston-
+ishment when, touching the other tube, I burned my fingers!"
+
+"...With the few parts of the Wirbelrohr laid out on my table, I
+understood better the significance of the German name, Wirbel-
+rohr, or vortex tube. The heart of the device is the central
+chamber with a spiral cavity and offset nozzle. Compressed gas
+entering this chamber streams around the walls of the cavity in a
+high-speed vortex.  But what gives rise to spatially separated
+air currents at different temperatures? ...the placement in one
+cross-tube (the cold one) of a small-aperture diaphragm effec-
+tively blocked the efflux of gas along the walls of the tube,
+thereby forcing this part of the air flow to exit through the
+other arm whose cross-section was unconstrained.
+
+
+                 |-----------|
+   --------------|           |------------------
+                             |   "COLD" PIPE
+    "HOT" PIPE
+                             | <--- diaphragm 
+   --------------|           |------------------
+                 |---|   |---|
+             /       |   |
+      CENTRAL        |   |
+      CHAMBER        |   |
+         |           |   | <- INLET
+       _____
+      /      \			Fig 6 - Schematic of Wirbelrohr or 
+    /   __     \                vortex tube.
+   /   /        \
+  |   /          |  Top View
+  |   |          |       
+   \  | |       /
+    \ | |      /
+      | |    /
+      | |--- 
+      | |
+      | | <- INLET
+      | |
+          Room-temperature compressed air enters the inlet tube,
+          spirals around the central chamber, and exits through
+          the 'hot' pipe with unconstrained cross-section or
+          through the 'cold' pipe whose aperture is restricted 
+          by a diaphragm.
+
+[BILLB: the 'hot' tube should be partially blocked, with either a valve,
+or even better, a narrow ring-slot that lets air near the inner surface
+escape.]
+
+"The glimmer of a potential mechanism dawned on me. Had the in-
+coming air conserved angular momentum, the rotational frequency
+of air molecules nearest the axis of the central chamber would be
+higher - as would also be the corresponding rotational kinetic
+energy - than peripheral layers of air. However, internal fric-
+tion between gas layers comprising the vortex would tend to es-
+tablish a constant angular velocity throughout the cross-section
+of the chamber. In other words, each layer of gas within the vor-
+tex would exert a tangential force upon the next outer layer,
+thereby doing work upon it at the expense of its internal energy
+(while at the same time receiving kinetic energy from the preced-
+ing inner layer). Energy would consequently flow from the center
+radially outward to the walls generating a system with a low-
+pressure, cooled axial region and a high-pressure, heated circum-
+ferential region.  Because of the diaphragm, the cooler axial air
+had to exit one tube (the cold side), whereas a mixture of axial
+and peripheral air exited the other (the hot side).
+
+"The presence of the throttling valve on the hot side now made
+sense. If the low pressure of the air nearest the axis of the
+tube fell below atmospheric pressure, the cold air would not exit
+at all...By throttling the flow, pressure within the central
+chamber was increased sufficiently so that air could exit both
+tubes.
+
+"...with some simplifying assumptions I was able to calculate the
+entropy change... Under what is termed adiabatic conditions -
+i.e. with no heat exchange with the environment - the 2nd Law re-
+quires that the entropy change of the gas, alone, be >= zero.
+The resulting mathematical expression, augmented by the equation
+of state of an ideal diatomic gas and the conservation of energy
+(1st Law) yields an inequality:
+
+ (x^f)[(1-fx)/(1-f)]^(1-f) >= (Pf/Pi)^(2/7)
+
+ where x= Tc/Ti
+       Tc  is temperature of cold air
+       Ti  is initial temperature
+       Pf  is the final pressure
+       Pi  is the initial pressure
+       f is the fraction of gas directed thru the cold side
+
+
+"By setting the expression for the entropy change equal to zero,
+I could calculate the lowest temperature that the cold tube
+should be able to reach if the gas flow were an ideal reversible
+process. The result was astonishing.  With an input pressure of
+10 atmospheres and the throttling set for a fraction f= 0.3, com-
+pressed air at room temperature (20 C) could in principle be
+cooled to about -258 C, a mere 15 degrees above absolute zero!
+(The corresponding temperature of the hot side would have been 80
+C.)
+
+"...The first experimental demonstation of a vortex tube seems to
+have been reported in 1933 by a French engineer, Georges Ranque
+[1].  by German physicist Rudolph Hilsch came to the attention of
+American chemist R.M. Milton... In Hilsch's hands, proper selec-
+tion of the air fraction f (~ .33) and an input pressure of a few
+atmospheres gave rise to an amazing output of 200 C at the hot
+end and -50 C at the cold end[2]. Hilsch, who was the one to coin
+the term Wirbelrohr, used the tube in place of an ammonia pre-
+cooling apparatus in a machine to liquify air.
+
+"...Milton was not satisfied with the interpretation of Hilsch
+and Ranque that frictional loss of kinetic energy produced the
+radial temperature distribution...."
+
+M Kurosaka et al[3,4], in 1982, proposed a far different mecha-
+nism, supported by experiment.
+
+"With a loud roar air rushes turbulently thru the Wirbelrohr,
+just as it does thru a jet engine or a vacuum cleaner.  Buried
+within that roar, however, is a pure tone, a "vortex whistle" as
+it has been called...the vortex whistle can be produced by tan-
+gential introduction and swirling of gas in a stationary tube. It
+is this pure tone that is purportedly responsible for the spec-
+tacular separation of temperature in a vortex tube.
+
+"The Ranque-Hilsch effect is a steady-state phenomenon - i.e. an
+effect that survives averaging over time. How can a high-pitch
+whistle - a sound that, depending on air velocity and cavity ge-
+ometry, can be on the order of a few kilohertz - influence the
+steady component of flow? The answer...was by 'acoustic stream-
+ing'.  As a result of a small nonlinear convection term in the
+fluid equation of motion, an acoustic wave can act back upon the
+steady flow and modify its properties substantially. In the ab-
+sence of unsteady disturbances, the air flows in a 'free' vortex
+around the axis of the tube; the speed of the air is close to ze-
+ro at the center (like a hurricane), increases to a maximum at
+mid-radius, and drops to a small value near the walls. Acoustic
+streaming, however, deforms the free vortex into a 'forced' vor-
+tex where the air speed increases linearly from the center to the
+periphery.  Acoustic streaming and the production of a forece
+vortex, rather than mere static centrifugation, engender the
+Ranque-Hilsch effect.
+
+"The experimental test could not be more direct. Remove the whis-
+tle, and only the whistle, and see whether the radial temperature
+distribution remains. To do this [Kurosaka] monitored the entire
+roar with a microphone and ...decomposed it into frequencies of
+which the discrete component of the lowest frequency and largest
+amplitude was identified as the vortex whistle. Next, he enclosed
+the Wirbelrohr inside a tunable acoustic suppressor: a cylindri-
+cal section of Teflon with radially drilled holes serving as
+acoustic cavities distributed uniformly around the circumference.
+Inside each hole was a small tuning rod that could be inserted
+until it touched the outer shell of the Wirbelrohr to close off
+the cavity, or withdrawn incrementally to make the cavity reso-
+nant at the specified frequency to be suppressed.
+
+"To simplify the experimental test, he sealed off one output of
+the vortex tube and monitored with thermocouples the temperatuare
+difference between the center and periphery. In the absence of
+the suppressor, an increase in pressure produced, as I had no-
+ticed when experimenting with my own vortex tube, a louder roar
+and greater temperature difference. When, however, the acoustic
+cavity was adjusted to suppress only the frequency of the vortex
+whistle (leaving unaffected the rest of the turbulent noise), the
+temperature difference plunged precipitously at the instant the
+corresponding input air pressure was reached. In one such trial,
+the centerline temperature jumped 33 C, from -50 C to -17 C. With
+further increase in pressure, the frequency of the whistle rose,
+and as it exceeded the narrow band of the acoustic suppressor,
+the temperature difference increased again.
+
+"Additional evidence came from a striking transformation in the
+natuare of the flow...Before the vortex whistle was suppressed,
+the exhaust air swirled rapidly near and outside the tube periph-
+ery in the manner expected for a forced vortex. Upon supprssion,
+however, the forced vortex was also abruptly suppressed; now qui-
+escent at the periphery, the air rushed out close to the center-
+line."
+
+"For all I know, the case of the mysterious Wirbelrohr is largely
+closed although, science being what it is, future version of that
+device may yet hold some suprises in store. I have sometimes won-
+dered, for example, what would result from supplying a vortex
+tube, not with room-temperature air, but with a quantum fluid,
+like liquid helium, free of viscosity and friction.
+
+The exorcism of the demon in the Wirbelrohr will not, I suspect,
+dampen one bit the ardour of those whose passion it is to chal-
+lenge the 2nd Law. Despite the time and effort that has been
+frittered away in the past, others will undoubtedly try again.
+On the whole such schemes are bound to fail, but every so often,
+as in the case of Maxwell's own whimsical creation, this failure
+has its positive side: when, from the clash between human ingenu-
+ity and the laws of nature, there emerge sounder knowledge and
+deeper understanding."
+
+[1] G. Ranque, "Experiences sur la Detente Giratore avec Produc-
+tions Simultanees d'un Echappement d'air Chaud et d'un Echappe-
+ment d'air Froid", J. de Physique et Radium 4(7)(1933) 112 S.
+
+[2] R. Hilsch, "The Use of the Expansion of Gases in a Centrifu-
+gal Field as Cooling Process", Rev. Sci. Instrum. 18(2) (1947) 108-1113.
+
+[3] M. Kurosaka, "Acoustic Streaming in Swirling Flow and the
+ Ranque-Hilsch (Vortex Tube) Effect", J. Fluid Mech.
+124(1982)139.
+
+[4] M. Kurosaka, J.Q. Chu, & J.R. Goodman, "Ranque-Hilsch Effect
+Revisited: Temperature Separation Traced to Orderly Spinning
+Waves or Vortex Whistle", conference of Am Inst. of Aero & Astro
+1982.
+
+[OTHERS]
+
+
+C. L. Stong, The "Hilsch" Vortex Tube, The Amateur Scientist, Scientific
+American, 514-519.
+
+J. J. Van Deemter, On the Theory of the Ranque-Hilsch Cooling Effect,
+Applied Science Research 3, 174-196.
+

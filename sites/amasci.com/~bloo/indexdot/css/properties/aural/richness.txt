@@ -1,0 +1,85 @@
+Richness - Cascading Style Sheets Properties 
+
+ richness 
+ Support Key: CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ 50 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies the richness, or brightness, of the speaking
+ voice. Higher values of richness/brightness have rougher waveforms
+ and tend to carry better than lower richness values with smoother
+ waveforms.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [number] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ This is an integer value between 0 and 100 representing the brightness of
+ the voice. Higher values indicate a brighter voice while lower values
+ create a softer voice. 
+
+ Example 
+ Ext/Doc: body {
+ richness: 75 } 
+ In-Line:&#160; < body 
+ STYLE =" richness: 
+ 75">text</ body > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

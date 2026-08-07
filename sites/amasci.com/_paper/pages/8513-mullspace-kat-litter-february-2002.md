@@ -1,0 +1,177 @@
+---
+title: "Mullspace | Kat Litter | February, 2002"
+source_domain: amasci.com
+source_path: ~strange/litter/feblitter02.html
+order: 8513
+reachable_from_entry: false
+images: 1
+internal_links: 9
+extracted: 2026-08-07T17:16:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | February, 2002
+
+*Source page: `~strange/litter/feblitter02.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# February, 2002
+
+\
+\
+
+posted: February 09, 2002
+
+\
+
+## Dance of the Sugar Plum Ferret
+
+\
+
+"WAahaahahaaaaa!! Wheee! Grunkle! Erk!"
+
+It waves its open mouth about in glee and bounces sideways and backward, lifting off of all four feet simultaneously like a hovercraft with the hiccups. A careless leg of sweatpant is savagely attacked and shaken into submission. It cannot escape the ravages of Dexter. Not much can, actually. Not even his cage-mate the venerable Fidgie, Queen of the Foos. My hand is a favored wrestling dummy and the pants legs of any unsuspecting guest may become instant caves for spelunking expeditions. Guess why I wear jeans with narrow ankles?
+
+This is the several times daily display of the Weasel War dance as rendered by Dexter. Fidget, being much more dignified, especially as she nears 7 -- a venerable and distinguished age for ferrets -- indulges in dancing less frequently.
+
+Dexter, the sable-furred thief of hearts, is essentially my husband's pet. Not to say I don't adore him, but my husband picked him out and we brought him home not long after my husband's birthday last year.
+
+So, in a way, this makes Dexter a birthday present which, like the Energizer Bunny, keeps on going. However, I am the one who gets chief benefit of the delightful Dexter. Although the birthday is Sunday, I have the present. He who is wiggly dances about near my feet and throws objects down from heights so that he can dash down and abscond with them to any of his various hidey-holes. At the moment the object of attention is the PDA cleaning kit which is being shoved across the flooring very industriously. The kit is in trouble and destined to soon be hidden and retrieved by me.
+
+This year, my husband is not at home on his birthday but out in the wilds of the working world. So I am sitting here, playing with his present, delighted in the antics of our little mustelid. I can look down and see the little face peering up at me, grinning its weasel grin and chuckling with delight as the dancing begins.
+
+I will go and dance with Dexter, the giggle-beast, in honor of my husband's birthday and, though I miss him, of course, it's almost as good as dancing with the man, himself.
+
+Happy Birthday, Sweetheart. I'll save the next dance for you.
+
+Dexter says "Grunkle!!"
+
+\
+\
+
+In the meantime, yes, I know I only posted once in January and now it has been a month since that post. I've been bad. I've been busy. I've been distracted by various projects. I'm having some trouble in re-setting the markup here to do exactly what I want, so I haven't updated the graphics or stylesheet. On the other hand, the RPG and computer-game projects are moving along, the Elf write up at [Dark Quest](http://www.darkquest.com) is in revison and things may be moving toward getting my novel published. However, this is not an excuse for being lazy. I'll try to get something up, here, a little more frequently. Of course, it may suck....
+
+\
+\
+
+posted: February 15, 2002
+
+\
+
+## The Adventures of Bat Boy!
+
+\
+
+*I was waiting in the express lane with my twelve items or less\
+at the checkout counter at the local grocery store\
+I was only passing by\
+when a paper caught my eye\
+and I learned a few things I never knew before.\
+It said "your pet may be an extraterrestrial"\
+It said "the ghost of Elvis is living in my den\
+You can learn to cope with stress\
+and you can beat the IRS\
+and the incredible frog boy is on the loose again!"*\
+--Midnight Star, Weird Al Yankovic
+
+\
+
+Not so very far from the truth, Al. For several years off and on, I've been seeing pictures of "Bat Boy" on the cover of the *Weekly World News*, a tabloid rag so low and cheap that it has never made the leap to color printing. If the WWN isn't the paper Weird Al was lampooning, then it should have been.
+
+Bat Boy, I have discovered, is a regular feature in the WWN. They are currently claiming that the "mutant boy" was discovered in a cave in 1992, but I know I've been seeing his picture on the cover since before I graduated college, which was 1990, and possibly before I graduated from High School, which was... well I won't tell ya, 'cause I'm female and I reserve the right to be mysterious about my age.
+
+Anyhow, I figure that Bat Boy must be in his mid to late 20s at the least and probably well into his 30s in fact. Which makes him Bat Man, really. And I can't help but wonder where the wing-eared, shark-toothed mutant hangs out when he's not winging off to Argentina and Afghanistan (as claimed) to work for the US government.
+
+Personally, I figure he's got a boring job somewhere and is just trying to duck all this unwanted fame. Probably he's working in a 7-11 or and gas station with his hat pulled down over his ears. Can't you just see him, making change for a Big Gulp when, suddenly, the customer recognizes him.....
+
+"Hey! You're that Bat Boy!"
+
+"Heheh... No way, man. You must be hallucinating."
+
+"No, no... I'm pretty sure." Peers at the guy under the baseball cap. "Yeah... that's you all right. I can't believe it: I'm buying a Big Gulp from Bat Boy. Man what's a globe-trottin' mutant like you doing working in a 7-11 in Walla-Walla?"
+
+"Hey, man, could you, like, keep your voice down?"
+
+"What's the problem? Are you trying to tell me you're *not* Bat Boy?"
+
+"No, no... all right, you caught me: I'm Bat Boy. But, y'know that Weekly World News stuff is kind of embarrassing. So, could you, like, keep your voice down?"
+
+"Sure, man. Hey, this is cool, you're, like, incognito or something. Right?"
+
+"Yeah. Umm... See, actually, I'm just trying to do my job, y'know. Gotta pay the bills on the cave and all, and send money to my mom in the nursing home and that sort of stuff."
+
+"Man, this rocks. This is so cool. I gotta tell my friends I met Bat Boy at the 7-11...."
+
+"Oh, no... hey, tell ya what, dude, free Big Gulps for a year if you just keep your mouth shut, OK?"
+
+But, really, what is Bat Boy doing in the off-season? Does he work for a pro baseball team? Maybe he really *does* run around the world doing secret missions for the government. Maybe he will be the next President of Argentina. Maybe he is the real power behind the International Skating Association's investigation of corruption in judging the Olympics. You have to admit, anyone who could live in a cave for the first ten years of their life and then vault onto the international stage the way Bat Boy supposedly has, must be a clever and wily fellow. He could be the secret mover and shaker in any number of international issues. He might even have been the originator of the European Economic Community because, I have noted that there wasn't any real movement to make the thing happen until *after* Bat Boy's first appearance in the WWN, after which, things got moving pretty quickly.
+
+Yeah... I suspect that Bat Boy is the real power in international politics. Quite likely he's big-time buddies with all those power brokers, probably has dinner with Bill Gates and the Bushes regularly, drops in for a cocktail with Greenspan, things like that.
+
+It seems that power must be going to his head, though: he used to wear a sheet, now he wears a suit and tie.
+
+Where is the end for Bat Boy...?
+
+\
+\
+
+Well, at last I have the new style sheet up and functioning. I hope I got all the pages converted, but if not, they should still show up with the old style. If you find one with the old style, or any other horrendous errors I ought to be aware of, please [drop me a line](mailto:mull.space@lycos.com). No one ever writes to me....
+
+In the meantime, I'm still pounding away with the projects at [Dark Quest](http://www.darkquest.com) and [Whisper City](http://www.wildpixels.com/whispercity), as well as updating the novel for submission (hope, hope, hope...). And a friend of mine is pregnant for the second time and very excited so I wish luck and limited weight gain to her.
+
+And I know this is kind of silly, but my HTML and CSS sheet actually make it past the [W3C](http://www.w3.org/) validators for the entire site, except the [POD anim](../PODSuba.html) (I'm not sure how to rewrite the param tags correctly in XHTML, but I'm looking into it). So I now have these extraordinarily ugly little buttons at the bottom of the Litter page for bragging rights, but that is the only page I'm going to put them on, since they are, as I say, extraordinarily ugly.
+
+\
+\
+
+posted: February 22, 2002
+
+\
+
+## Punch and Judy Show
+
+\
+
+Back in the dawn of my self (y'know, way back then, when dinosaurs walked the quad...), I learned that there were people outside of myself who were kind of cool and interesting. I had crushes. Later I moved on to the kind of mooney, broken-hearted sighing and moping about which is a particular art-form for teenage girls. (If guys do this, I don't want to know, because I think it's pretty goofy in females and I'd like to keep the illusion that maybe men are a little less dopey about *something*.)
+
+I think I was 20 or so when I hit my first stupid obsession with a guy. I contemplated doing some really stupid things to get and hold this guy's attention. Luckily, I told a much-older friend of mine what I was thinking and she, being the clever adult person that she was (and still is) gave me a look and said "I really think that would be a bad idea." I didn't like being told I was being stupid and I was kind of resentful, but I thought about it. I was still a big jerk about the whole thing, but at least I didn't do anything stupid. At least not then. Not that time.
+
+Since then, I've had my obsessions (Whoo, boy! haven't I just!) and I've more than made up for being restrained and thoughtful the first time around. I've pursued men I should have given up on and hung on to relationships that were more moribund than a zombie in a John Carpenter flick. I've inflicted my presence on people whose best move was to tell me to Shut The Fuck Up and Go Away. Hey, I'm thick, but I'm not that thick. When told in no uncertain terms to bugger off, I usually do so, though I may do it with a very poor grace and a lot of resentment. Eventually, though, it sinks through my dense-as-chipboard brain that being in the company of someone who despises me is not really a terrific ego-builder. It's boring, among other things. And if they don't realize what a wonderful, clever, delightful critter I am and desperately want my presence as much as I want theirs then... well,... phoo on them. (Insert tongue-sticking out expression and loud raspberry noises here.)
+
+Now, upon occasion, I am still a jerk, but I do *try* to be a reasonable adult. However, it is my unhappy lot to know a few people who aren't, in spite of their age. It's taken a good many years to convince my husband's ex that having been once married to a man does not give her proprietary rights in his life for eternity. And there's the on-going Punch-and-Judy show of every woman I've ever known (including me) who says "but I still/just want to be friends!" about the former lover, husband, etc.... It's particularly bad when they were never really intimate in the first place and now the silly bitch won't own up to the fact that what she really wants is not to lose some imagined control, some leash, or the chance of jumping the poor sap's bones if she should ever manage to corral him in a corner somewhere. (Or at least I'm assuming that this is the case, since I know that's what *I* think whenever I'm tempted to hang on like a limpet mine to someone. I'm a sick, power-hungry bitch, but at least I'm a talented one and I come with my own cure: I get bored easily.)
+
+I admit that there are a few guys out there who, if reality suspended itself and I got to have my way, would be at my carnal mercy in no time flat. Really, who doesn't have a few of these on their mental list, eh? But let's get real, here, I'm never going to have half the leading male cast of *The Mummy* nekkid and at my wicked whim (yes, yes, I have my obsessions about more accessible humans, too, but I'm invoking my Fifth Amendment Right against self-incrimination, here, so lump it, you deviant wackos), much less a few of the other things I'd like to have at my beck and call.
+
+And so it is that I find myself a helpless observer with a hopeless desire to lay hands on a member of my acquaintance and shake her with the power of an industrial paint-mixer while shouting "Snap out of it, you dozey bint!" Ahhh... there's nothing quite like watching an adult act like a senseless 16-year-old to make you feel embarrassed for every past error on your own part or that of every member of your gender. Is there a Reality Gun out there somewhere with which someone can shoot this poor, clueless bimba? A Fateful Ice Cube of Stark Truth which can be dropped discretely down her collar? Baby-cakes, y'aint gonna get him, not in this lifetime. Face up to the truth and let go before the reality-bump at the bottom smacks into you with the tender subtlety of a train wreck.
+
+There was a dopey little song in the eighties....
+
+A circumstance\
+In your naked dreams\
+Your affection is not what it seems
+
+--*Obsession*, Animotion
+
+The unfortunate nature of obsession is that it controls you, not the other way about. You are your own victim. But, being as we are, we're blind and very good at making up excuses for our obsessions. I know I have mine (though, at the moment, they seem to be my ferrets, my projects, and my husband, but I could be wrong...). I know there are Fateful Ice Cubes out there waiting to clunk down my collar, unending buckets of "hey, stupid, get a clue" poised to wash down on my head, sometime in the future. Still, painful and shocking as they might be, I'd rather get 'em while they're still small.
+
+I hate train wrecks. Remind me to be looking the other way....
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

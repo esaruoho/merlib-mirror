@@ -1,0 +1,653 @@
+---
+title: "A Short (and Bloody) History of the High I.Q. Societies"
+source_domain: amasci.com
+source_path: ~miyaguch/history.html
+order: 5126
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:12:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# A Short (and Bloody) History of the High I.Q. Societies
+
+*Source page: `~miyaguch/history.html`*
+
+A Short (and Bloody) History of the High I.Q. Societies
+
+> > > > Maintained by Darryl Miyaguchi\
+> > > > email: [miyaguch at eskimo dot com](mailto:miyaguch%20at%20eskimo%20dot%20com)\
+> > > > http://www.eskimo.com/~miyaguch/history.html
+> > > >
+> > > > Last updated: January 19, 2000\
+> > > > See bottom of page for Change History
+
+ 
+
+6/28/97: The history is now as complete as I intend to make it. Future revisions will be logged.
+
+Most of this material is from the pages of *In-Genius* or *OATH* (i.e., Dr. Hoeflin has been a good source of information -- any mistakes in translation should be attributed to me); a little has come from Marilyn vos Savant's book, *Omni I.Q. Quiz Contest*. Kevin Langdon has also contributed his comments. Some of the information presented here may be considered inflammatory, especially since I can't divine with certainty the underlying purposes of people's actions; if I have committed any inaccuracies, please contact me for corrections.
+
+Some might wonder what relevance this soap-opera-ish tale has to the stated goals of the high-IQ societies. I would argue that in order to understand what these societies are about, one should understand their history, including the very human motivations that drove their foundings.
+
+10/16/97: Paul Maxim has roughly estimated my IQ at about the 150 level, and wonders if I have the proper credentials (which appear to be well below the 'Mega level') to write this history as it applies to the Mega Society and to pass judgment on important issues confronting it. My response is that what is required to place these events in perspective is not an IQ of 176, but rather an understanding of human nature. For example, I would expect that after reading this history, a reasonably intelligent person should be able to answer such questions as: "Why were the various high IQ societies formed?" and "What have been the major sources of conflict in the formation of these societies?" One of the possible answers to the former question might be: "Some high IQ societies were formed as experiments to see if such groups could be sustained. There has been a consistent desire to keep pushing the limits of what is considered feasible." One of the possible answers to the latter question might be: "A source of conflict has been disagreement over admissions requirements and whether or not such requirements should be applied retroactively."
+
+11/6/97: Paul Maxim now believes that my intelligence is adequate to the task at hand. My comments about not needing IQ "credentials" to understand the issues still stand.
+
+7/11/98: Grady Towers wrote an excellent article, "[The Outsiders](http://www.prometheussociety.org/Outsiders.html)," publicly available from the Prometheus Society web site, describing the experiences that shape, in part, the personalities of people with high IQ's.
+
+ 
+
+Active Societies
+
+<div align="center">
+
+|  |  |
+|----|----|
+| Society Name(with link to section in the history) | Admission Requirement |
+| [Thinkers International](#Thinkers) | ability to write well, civil behavior |
+| [Mensa](#Mensa) | 98 %-ile |
+| [Intertel](#Intertel) | 99 %-ile |
+| [TOPS](#TOPS) | 99 %-ile |
+| [Colloquy](#Collegium) | 99.5 %-ile |
+| [Poetic Genius Society](#Poetic) | 99.5 %-ile + published poetry |
+| [Cerebrals.com](#Cerebrals) | 99.7 %-ile |
+| [ISPE](#ISPE) | 99.9 %-ile |
+| [Triple Nine](#Triple%20Nine) | 99.9 %-ile |
+| [OATHS](#OATHS) | 99.9 %-ile |
+| [IQuadrivium](#IQuadrivium) | 99.9 %-ile |
+| [Glia](#Glia) | 99.9 %-ile |
+| [Prometheus](#Prometheus) | 99.997 %-ile |
+| [Ultranet](#Ultranet) | 99.997 %-ile |
+| [Mega](#Mega) | 99.9999 %-ile |
+| [Pi Society](#Pi%20Society) | 99.9999 %-ile |
+| [Giga Society](#Giga) | 99.9999999 %-ile |
+
+</div>
+
+ 
+
+Defunct Societies
+
+<div align="center">
+
+|  |  |
+|----|----|
+| Society Name(with link to section in the history) | Admission Requirement |
+| [High IQ Club with unknown name](#High%20IQ%20noname) | unknown |
+| [The Berkeley High IQ Society](#Berkeley) | unknown |
+| [International Heurist Association](#Heurist) | High IQ and proven creative ability |
+| [Tenta](#Tenta) | 90 %-ile |
+| [Near Mensa](#Near%20Mensa) | 95 %-ile |
+| [International High Five Society](#High%205) | 95 %-ile |
+| [Praesum Mentis Genius Continuum](#Praesum) | 97 %-ile + creative achievement |
+| [Arcana Society](#Arcana) | 98 %-ile |
+| [High IQ Club](#High%20IQ%20Club) | 99 %-ile |
+| [The Hundred](#Hundred) | 99 %-ile |
+| [Collegium](#Collegium) | 99.5 %-ile |
+| [Cincinnatus Society](#Cincinnatus) | 99.9 %-ile |
+| [Minerva Society](#Minerva) | 99.9 %-ile |
+| [MM Society](#MM) | 99.96 %-ile nominal |
+| [401 Society](#401) | 99.99 %-ile |
+| [Four Sigma Society](#Four%20Sigma) | 99.997 %-ile |
+| [Omega Society](#Omega) | 99.99997 %-ile |
+
+</div>
+
+ 
+
+Others (Never got off the ground, Merged, Parody, Doesn't fit categorization)
+
+<div align="center">
+
+<table data-border="1">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="60%" data-bgcolor="#C0C0C0">Society Name(with link to section in the history)</td>
+<td width="40%" data-bgcolor="#C0C0C0">Admission Requirement</td>
+</tr>
+<tr>
+<td><a href="#Energeia">Energeia</a> (status unknown)</td>
+<td>Christian</td>
+</tr>
+<tr>
+<td><a href="#IFIS">IFIS</a> (parody)</td>
+<td>attitude</td>
+</tr>
+<tr>
+<td><a href="#savant">International Savant Society</a> (status unknown)</td>
+<td>no specific requirement</td>
+</tr>
+<tr>
+<td width="60%"><a href="#Mandarin">Chinese Mandarin Class</a> (historical interest)</td>
+<td width="40%">99 %-ile, 99.999 %-ile, 99.9999 %-ile</td>
+</tr>
+<tr>
+<td width="60%"><a href="#Cleo">Cleo Society</a> (parody)</td>
+<td width="40%">Unknown</td>
+</tr>
+<tr>
+<td width="60%"><a href="#Camelopard">Camelopard</a> (has removed its web presence, June 1999)</td>
+<td width="40%">98 %-ile</td>
+</tr>
+<tr>
+<td width="60%"><a href="#Acropolis">Acropolis</a> (never got started)</td>
+<td width="40%">98 %-ile</td>
+</tr>
+<tr>
+<td width="60%"><a href="#GODS">Geniuses of Distinction Society</a> (parody)</td>
+<td width="40%">99.6 %-ile, 99.999 %-ile</td>
+</tr>
+<tr>
+<td width="60%">MENS (Became <a href="#ISPE">ISPE</a>)</td>
+<td width="40%">99.97 %-ile</td>
+</tr>
+<tr>
+<td>Xenophon (Became the <a href="#Prometheus">Prometheus Society</a>)</td>
+<td>99.997 %-ile</td>
+</tr>
+<tr>
+<td width="60%">501 Society (Became <a href="#606">606</a>, which later merged with Mega)</td>
+<td width="40%">99.999 %-ile (501 Society);<br />
+99.9994 %-ile (606 Society)</td>
+</tr>
+<tr>
+<td><a href="#Centurie">Centurie</a> (status unknown)</td>
+<td>99.9994 %-ile</td>
+</tr>
+<tr>
+<td width="60%">Titan Society (Became the Hoeflin Research Group, then the Noetic Society, then the One-in-a-Million Society, then merged with the <a href="#Mega">Mega Society</a>)</td>
+<td width="40%">43 right on Mega Test, except for the One-in-a-Million and Mega Societies, which admit(ted) at the 99.9999 %-ile</td>
+</tr>
+<tr>
+<td><a href="#Cinque">The Cinque</a> (never got off the ground)</td>
+<td>5 smartest people in the world</td>
+</tr>
+<tr>
+<td><a href="#Grail">The Grail Society</a> (parody ?)</td>
+<td>99.999999999 %-ile</td>
+</tr>
+<tr>
+<td width="60%"><a href="#Exa">Exa Society</a> (parody)</td>
+<td width="40%">99.9999999999999 %-ile</td>
+</tr>
+<tr>
+<td><a href="#Aleph">Aleph-(3) Society</a> (parody)</td>
+<td>Transfinite admissions requirement</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+ 
+
+This history below is in roughly chronological order.
+
+<span id="Mandarin"></span>The Chinese Mandarin Class (1 out of 100; 1 out of 10,000; 1 out of 1,000,000)
+
+According to an article published in the Bulletin of the International Test Commission, and retold by Christopher Harding of Australia (founder of several high-IQ societies), intelligence tests were invented by the Chinese in the 7th Century A.D. The Mandarins who ran China for centuries were chosen by examinations which tested for memorization and understanding of the Confucian classics and, in so doing, screened for intelligence. Then Mandarin class was said to have three levels: the public service (top 1 percent of all candidates), the Mandarins (top 1 percent of the public service), and inspectors (top 1 percent of the Mandarins!).
+
+In an email to me, S. Chu added the following:
+
+"The civil service exam system reached its peak in the Ming dynasty already prior to the Ching dynasty when the Mandarins ruled China. So perhaps you can push it back yet another 200 years or so. The exam also included composition of essays and poems. So some creativity was tested for in addition to memorization. In addition, the word Mandarin itself is misleading. The Mandarins are ethnic Manchurians who conquered the ethnic Han majority to form the Ching dynasty. Thus, the conquering group always occupied the highest positions regardless of any examination results. It's only the non-Mandarin who had to take the exams. Even worse, in both dynasties, it became legal to PAY money to acquire an official post. Yet another way to bypass the examination system. Kind of reminds me of today's system!"
+
+ 
+
+<span id="High IQ noname"></span>High IQ Club with unknown name (unknown admissions requirement)
+
+Christopher Harding writes that he has come across evidence from two different sources that a high IQ club existed in London, England in the 1890's. This predates the Binet, though not the Cattell. Harding suspects this club is associated with Sir Francis Galton.
+
+ 
+
+<span id="High IQ Club"></span>The High IQ Club (1 out of 100)
+
+Begun in 1938 by Dr. Lance L. Ware, a scientist and lawyer, at Oxford University; this club appears to be the forerunner of Mensa. Their requirement was the 99th percentile on the Cattell Verbal Test. It was somewhat informal and produced no literature and became inactive after 1939 (during World War II).
+
+ 
+
+<span id="Mensa"></span>Mensa (1 out of 50)
+
+Founded at Oxford University in 1946 by Roland Berrill, a barrister, and Dr. Lancelot Ware, who later also became a barrister. The original aims were, as they are today, to create a society that is non-political and free from all racial or religious distinctions. Mensa welcomes people from every walk of life whose I.Q. is in the top 2% of the population. Mensa's primary emphasis is social. Some see this as one of the major attractions of the society and a key recruiting tool.
+
+There are others who are disappointed with what Mensa has and has not become. At a 1996 convention celebrating the 50th anniversary of Mensa's founding, Dr. Ware (now 81 years old) voiced hope "that Mensa will have a role in society when it gets through the ages of infancy and adolescence ... but at least it has satisfied its members." Dr. Ware seemed disheartened by the Mensans' seeming inability to focus beyond self-gratifying pursuits and apply their collective brain-power to problems facing the world today. "I do get disappointed that so many members spend so much time solving puzzles," Ware said. "It's a form of mental masturbation. Nothing comes of it."
+
+ 
+
+<span id="Berkeley"></span>The Berkeley High IQ Society (Admissions requirement unknown)
+
+Admission to this society, founded 3 months after Mensa was founded in the U.K., was based on College Admission tests to the University of California at Berkeley, which was similar to the American College Admission exams later taken by American students across the USA in the late 1940's. Defunct.
+
+ 
+
+<span id="Tenta"></span>Tenta (1 out of 10)
+
+Founded in 1959 at the 90th percentile, Tenta has been defunct for many years.
+
+ 
+
+<span id="MM"></span>MM Society (1 out of 2,500 nominal, 1 out of 1,000 actual)
+
+The MM Society (also known as "Double M") was founded in 1966 as a Mensa's Mensa, with the intent of accepting at the top 50th of the top 50th (one-in-2500) percentile. However, MM's actual qualifying scores were at almost exactly the one-in-1000 level. It does have the distinction of being the first of the "higher IQ" societies. After its founder died, it was taken over by Robert Kaufmann, who treated it as a joke, for which he got interviewed by Tom Snyder on national TV once. Hoeflin lists this as an inactive or defunct society as of the early 1980's. The society is said to have published an interesting journal.
+
+ 
+
+<span id="Intertel"></span>Intertel (1 out of 100)
+
+Intertel, which was originally known as the <u>I</u>nternational <u>L</u>egion of <u>I</u>ntelligence (members are still known as "Ilians"), was founded in 1966 by Ralph Haines and now has about 1700 members in over thirty countries. Its theme is "participation and excellence" both within the organization and in public life.
+
+ 
+
+<span id="Hundred"></span>The Hundred (1 out of 100)
+
+Founded in Melbourne, Australia by John Walsh in 1970 and became defunct in 1977. They had a 99 percentile admissions requirement on the Cattell higher form III (verbal scale) form b (supervised test) only. None other was considered as far as Chris Harding, who is the source of this information, knows.
+
+ 
+
+<span id="Heurist"></span>The International Heurist Association (Admission based on high-IQ and proven creative ability)
+
+Founded by D. H. Ratcliffe of Western Australia in 1970 and survived until 1973. It never had more than 19 members, and finally disbanded for lack of interest. Most members were above the 98th percentile in IQ and none were below the 95th percentile. All had proved creative ability -- the basis for their selection was certification of an original idea by professor I. J. Good. Chris Harding, who was a member, recalls this as an unusually productive group, writing that at least three members had major theories published around the time of the society's existence. This society became the inspiration for Chris Harding's own International Society for Philosophical Enquiry.
+
+ 
+
+<span id="Near Mensa"></span>The Near Mensa (1 out of 20)
+
+Founded in 1970 by a woman whose name Chris Harding doesn't recall; became defunct by 1972. With an advertising slogan that was apparently, "Failed Mensa? Join the Near Mensa," it's unsurprising that they went under.
+
+ 
+
+<span id="ISPE"></span>The International Society for Philosophical Enquiry (1 out of 1,000)
+
+In 1974, Australian Christopher Harding founded a society called MENS (Latin for the Mind) at the 99.97th percentile to "one-up" the MM society, which at the time had the highest requirement at 99.96 \[nominal\]. Mens later dropped its requirement to 99.9 and called itself "The Thousand," which in turn later adopted the name "International Society for Philosophical Enquiry" (1976).
+
+The group presents itself as the *high-achievement* society that invites and expects creative contributions of its members. The society accepts scores at the 99.9th percentile on standardized tests and designated unsupervised tests for admission. People join as Associates, on the basis of their potential; thereafter, they can attain the level of Member, Fellow, Senior Fellow, Senior Research Fellow and Diplomate by accumulating specified numbers of various 'achievement,' including such things as earning academic degrees, publishing, corresponding with other members, etc. The highest title, Philosopher, is awarded via election. Associate members, who represent about two-thirds of all ISPE affiliates, are not allowed to vote in ISPE elections.
+
+The ISPE is directed by a Board of Trustees consisting of three to seven senior members. A former member of the society criticizes the members of the Board who "make decisions for the society and are answerable to no one." This person also objects "that contested elections are a rarity, with the decisions of the leadership routinely rubber-stamped, that no dissent is permitted in *Telicom* \[the society's journal\], and that the ISPE \[Board of Trustees\] continues to expel people without affording them the opportunity to present a defense and without recourse to a vote of the membership." As far as I can tell, as an outsider, this assessment appears to be supported by the events of the ISPE's history.
+
+ISPE used to use a 70-item vocabulary test called the Vocab A and a 136-item vocabulary test called the Vocab B. The original Harding Skyscraper test had a 10-item vocabulary test that \[Hoeflin believes\] was later called the Vocab C. When the ISPE required a 99.9 percentile score on both an I.Q. test and one of these vocabulary tests, it concluded that a person who could pass both tests would be about one-in-2000 in AQ ("Ability Quotient"). The vocabulary test requirement was dropped in 1989 since most IQ tests already test verbal ability; moreover, it was deemed unfair to non-English speakers to discriminate on the basis of an English-language vocabulary test. Another factor in the change was that there was no way to control cheating on the vocabulary tests.
+
+The ISPE Vocabulary test 'B' can be found in its entirety with answers and percentile rankings in the book, *The Ultimate IQ Book*, by Marcel Feenstra, Philip J. Carter, and Christopher P. Harding, 1993 (ISBN 0-7063-7148-8). The ISPE Vocabulary test 'A' can be found in its entirety with answers and percentile rankings in a book by the same authors, *The Ultimate IQ Challenge*. This was published in 1994 by Ward Lock press, (ISBN 0-7063-7232-8).
+
+The ISPE used to accept Hoeflin's Mega Test scores for admission, but dropped its acceptance of that test in 1992.<sup>2</sup> The society also doesn't accept Kevin Langdon's *LAIT*. Christopher Harding's own W-87 is accepted, though, despite being unsupervised, heavily dependent on vocabulary, and subject to cheating since it prohibits reference aids. The W-87 does, however, have the advantage of being normed under the supervision of an "accredited psychologist," according to an ISPE representative. The disadvantage is that an adequate report on its norming has never been published. When the Triple Nine Society Psychometrics Committee asked Harding for data on the norming of his tests he said that he had discarded it. It is also unclear to me whether or not the accredited psychologist presiding over the W-87 norming was actually Chris Harding himself.
+
+<sup>2</sup> The ISPE stopped accepting the Mega Test during an exchange of hostile letters between Hoeflin and its \[then\] president, Betty Hansen, who took umbrage at Hoeflin's publishing Kevin Langdon's lampoons of the ISPE conduct, in early issues of *OATH*.  It seems clear to me that there is a cause-effect relationship here, hidden behind ISPE's official rationale of only accepting "psychologist-approved tests which have been properly normed and validated."
+
+Kevin Langdon's response to the ISPE's official rationale is this: "What many people, even in the highest-level societies, do not realize is that psychometrics is a science, though a relatively inexact one. The relevant question with regard to scientific work is whether its methodology is correct, not whether it is performed by a member of the priesthood."
+
+ 
+
+<span id="401"></span>401 Society (1 out of 10,000)
+
+A "secret" society founded by Chris Harding in 1975 for the 3 or 4 people who had managed to reach or exceed the one-in-10,000 level on his Skyscraper test. The society is now defunct.
+
+ 
+
+<span id="Four Sigma"></span>Four Sigma Society (1 out of 30,000)
+
+The Four Sigma Society was founded by \[then\] ISPE member Kevin Langdon in 1977. The society was active for about six years (1977 - 1983). Kevin edited four issues of the society's journal *Sigma Four*, with an average interval of two months. George Koch edited eight issues from 1980 to 1983, with an average interval of six months. The society accepted only one test, the Langdon Adult Intelligence Test (*LAIT*), on which an I.Q. score of at least 164 was required (later, other Langdon tests were also accepted). When the *LAIT* was published in *Omni*, in the April 1979 issue, it was taken by over 25,000 people, resulting in many new recruits for Four Sigma. Unfortunately, the large volume of responses to his test (which is no longer scored), coupled with Kevin's propensity for tardiness, also produced numerous complaints of late or non-existent score reports. *Omni* eventually sued Kevin for one million dollars (which they never collected). Kevin writes that he did eventually score the backlogged test answer sheets. There was a settlement under which he was to score approximately 2500 answer sheets in his possession and provide a list of testees' addresses to *Omni* for use in verifying that answer sheets were in fact received. Kevin scored all the tests, mailed score reports, and sent *Omni* the list. I have received an anecdotal report that at least one of the answer sheets did not return to the testee.
+
+During the late 80's, the society was briefly revived, but it is now defunct again.
+
+ 
+
+<span id="Triple Nine"></span>Triple Nine Society (1 out of 1,000)
+
+The Triple Nine Society was founded in 1979 as a more democratic alternative to the ISPE by Richard Canty, Ronald Hoeflin, Ronald Penner, Edgar Van Vleck, and Kevin Langdon, who was the driving force. At that time a small group of early members of the ISPE, largely under the direction of C.R. Whiting (ISPE's first elected president), had suddenly introduced an autocratic setup that would perpetuate their control of the society, which up to that point had been set up more democratically<sup>3</sup>. Whiting evidently resented Kevin for "upstaging" the ISPE's king-of-the-hill status with its 99.9th percentile minimum requirement by founding the Four Sigma Society in 1978 with its one-in-thirty-thousand minimum requirement. Whiting's response to the establishment of the Triple Nine Society was immediate: all five members stopped receiving the ISPE journal, *Telicom*, and they were informed six months later that they had been expelled from the society by a secret "Ethics Committee," whose members' identities are still unknown nearly twenty years later. Hoeflin writes that his own infraction was apparently that he agreed to serve as ombudsman for the new Triple Nine Society, which the ISPE's leader construed as an attempt to "destroy" the ISPE. Expulsion procedures have been a consistent source of criticism directed at the society by former members (see also the entry for the Cleo Society).
+
+Joe O'Rourke, at the time editor of the ISPE journal, *Telicom*, refused to be a party to the actions of Whiting and company, but didn't want to embroil himself further. He wrote a scathing denunciation of the ISPE leadership and resigned from the editorship and the society -- but he was not one of the founders of TNS, as I have written earlier.
+
+Ronald Hoeflin served as Editor for 63 of the first 100 issues of the Triple Nine Society's journal, *Vidya*. From around September 1985 to January 1989, he managed to eke out a living from that job. At the time when Hoeflin became Editor, the society was having a hard time finding anyone willing to do the job. Hoeflin presented the society with a proposal under which he would be paid a flat amount per issue of *Vidya* produced.
+
+At TNS election period 1987, Hoeflin supplied advance copies of writings by those with views opposed to his own (submitted for the election issue of *Vidya)* to their political enemies, who were thus able to reply in the same issue. He published this election issue after he was ordered by the TNS Executive Committee to withdraw it until it had been substantially revised. For this action, the Committee decided to replace Hoeflin as Editor.
+
+The election resulted in two Executive Committees, each claiming legitimacy. When TNS' funds were turned over to the Financial Officer (Barry Zalove) belonging to the new faction, they continued to pay Ron to produce *Vidya*. Later, that committee fired Ron as Editor. Ron dropped out of the society altogether.
+
+By the time of Hoeflin's removal, he says he could no longer earn a living this way anyway, since constant squabbles and infighting had reduced membership from a peak of 750 to a bare 400. Membership reached a low of 100 before a resurgence over the past two years to 350 members (Nov 1999), coming from 12 countries.
+
+Ironically, the Triple Nine Society no longer accepts Kevin's own tests for admission. Kevin tried to exert his influence upon the current membership officer to keep listing his *LAIT* as an acceptable test, but to no avail -- the Medical/Psychological Board of California has encouraged the membership officer "not to seek further services from Mr. Langdon thereby aiding and abetting the unlicensed practice of psychology." The California Medical Board became involved in the sphere of high IQ testing at the initiation of Paul Maxim (see also the entry under the Mega Society).
+
+ <sup>3</sup> I'm not exactly sure what Hoeflin is referring to here, but I am guessing it could be related to Whiting's communication, titled "A Declaration of Policy," which led to six amendments to the ISPE charter.
+
+ 
+
+<span id="High IQ Society"></span>The High-IQ Society (1 out of 10)
+
+Announced in the early 1980's with a 90th percentile requirement like Tenta; used a mailing list supplied by Kevin Langdon of people who had tried his *LAIT*, but this group did not get off the ground.
+
+ 
+
+<span id="606"></span>The 606 Society (6 out of 1,000,000)
+
+The 606 Society<sup>4</sup>, founded by Christopher Harding, was originally named the 501 Society, which was founded in 1980. This latter society had a 99.999 (1 in 100,000) requirement. Later the requirement was raised to the 99.9994 percentile (6 per million) and the society was renamed 606. Still later, all members of the 606 Society were inducted into the Mega Society (1 per million requirement) when the latter was formed in 1982. The names of Chris Harding's various societies (606, 501, 401) are derived from the various admissions requirements: the minimum rarity level for 401 is one in ten to the fourth, for 606 is six in ten to the sixth, etc.
+
+<sup>4</sup> Evidently, the name "606 Society" caused some heartburn. "Formula 606" refers to an early, pre-penicillin cure for syphilis based on a compound of arsenic, as indicated in the classic 1940 movie, "Dr. Erlich's Magic Bullet," which is a bio-drama about the inventor of this cure starring Edward G. Robinson. Thus the 606 Society seems to suggest that the members are people who were cured of syphilis using Formula 606!
+
+ 
+
+<span id="Mega"></span>The Mega Society (1 out of 1,000,000)
+
+The Mega Society was founded in 1982 by Ronald Hoeflin. The society was initially set up as an experiment to see if a society with a one-in-a-million requirement could be achieved. Neither Christopher Harding nor Kevin Langdon thought such a high entrance requirement psychometrically feasible; nevertheless Harding agreed to supplement the Mega Society with members of his 606 Society (a 6-per-million group), and Langdon allowed Hoeflin to use his list of the highest *LAIT* scorers, to help Hoeflin get his society off the ground. Hoeflin occupied the position of Administrator.
+
+Unsurprisingly, the Mega Society's formation did not happen without conflict. As Hoeflin tells it, Kevin Langdon resented Hoeflin's "upstaging" of his Four Sigma Society, and started a campaign to undermine the society's status as a one-in-a-million society. Kevin wonders why Ron would take this position after accepting Kevin's help in founding the society in the first place! What Kevin did question was Ron's norming of the Mega and Titan Tests, which placed the ceiling at 190+. He has written that there is evidence that the ceilings of Ron Hoeflin's tests are no higher than 180, such that the society's requirement on these tests (43 right) is less than the one-in-a-million level. Ron has rebutted Kevin's claims, but neither has ceded his position.
+
+In the society's journal, *Megarian* (issue \#6, Oct 1982), Johannes Veldhuis, Mega's Recruitment Officer, proposed that three test scores combined according to a certain formula<sup>5</sup>, be required for admission in the future and that, as only five of Mega's 18 members at the time met this new criterion, the remainder of the membership be relegated to "honorary" status. The rationale for this proposal was the need to substantiate the claim of the Mega Society's one-in-a-million admission criterion for listings in the *Guinness Book of World Records* and the *Book of Lists*. In *Megarian* \#11, Hoeflin proposed a set of rules under which the Mega Test would be the only exception to the three-test rule and Hoeflin would have exclusive executive power in the society. A vote was taken of the Mega membership, and Marilyn vos Savant announced the results in *Megarian* \#15. The members overwhelmingly supported an undifferentiated membership list.
+
+In *Megarian* \#21 (June 1984), acceptance of a set of bylaws establishing democratic procedures, written by Dave Garvey, was announced. In the same issue, Hoeflin proposed that the Mega Test become the sole basis for admission to the society except in borderline cases, where supplemental tests could be used. He also proposed that "The founder of the Mega Society shall be granted sole discretion in all future admission decisions..." Hoeflin sent a referendum ballot to members of the society in October 1985 which called for setting aside the bylaws, demoting most of the members of the society to the "Savant Society" with a lower percentile cutoff, and creating open-ended terms of office for officers. He threatened to resign if his proposals were not adopted and did so when they were rejected by the membership.
+
+In 1986, Hoeflin founded the Titan Society for those who had scored 43 or higher on the Mega Test. At the time, Hoeflin estimated 43 correct at the 99.999th percentile (IQ = 168). The society was subsequently called the Hoeflin Research Group and the Noetic Society, but when the sixth norming of the Mega Test put the one-in-a-million level at just under 43, it finally became known as the One-in-a-Million Society \[Note: Hoeflin reverses the order of the Noetic Society and the One-in-a-Million Society in a later recollection of the events of that decade\]. In December of 1989, Noetic member Chris Langan volunteered as Editor of *Noesis* after Ron Hoeflin announced that he would no longer function as publisher. Chris continued in that capacity for six months at his own expense until Hoeflin requested to resume the editing job. Chris writes that he agreed, but that he <u>did not resign</u>. Hoeflin later transferred control of *Noesis* to Chris Cole and Rick Rosner without further consulting Chris Langan. In 1991, at the suggestion of either Jeff Ward or Chris Cole, the One-in-a-Million society/Noetic Society was amalgamated with the Mega Society. One of the issues that was apparently not resolved to everybody's satisfaction in the merger was the question of who is the legitimate editor of *Noesis*.
+
+Ellen Graham, in her article for the *Wall Street Journal*, April 9, 1992, wrote: "When the Mega Society recently decided to merge with another IQ group, some members were told they might have to requalify for the new society." This idea was suggested against the better judgment of Hoeflin. An uproar ensued. Christopher Harding said that the proposal "shows some animals to be more equal than others," and he decried the "orgy of bloodletting." The retest was rescinded.
+
+The newly merged society kept "Mega" as its name, but dropped *The Megarian* in favor of *Noesis*, which had been the name of the journal of the One-in-a-Million Society.
+
+The latest brouhaha at the Mega Society emerged recently over admission requirements. As reported in the *Wall Street Journal*, May 14, 1997 issue, when Paul Maxim of New York City tried to join the Mega Society, he produced scores he had achieved on standard intelligence tests -- the Pintner Intermediate (obtained in childhood), GRE, CTMM, Cattell, and the IBM Programmer's Aptitude Test (RPAT). He was refused admission on the basis of these scores, although Rick Rosner apparently initially believed that Mr. Maxim's scores could be combined via Ferguson's formula to yield the one-in-a-million level. Mr. Maxim was instead presented with a subset of Ronald Hoeflin's *Titan Test* to take. Mr. Maxim objected to this as "changing the ground rules" by imposing an additional requirement to joining the society. A second objection was that the *Titan Test* subset had not been normed as a test in its own right (although the full *Titan Test* has been normed). And finally, Mr. Maxim argued that the IQ assessment via the *Titan Test* subset would be illegal. He writes:
+
+> "Rick Rosner has no license to practice psychology in the State of California, and hence cannot legally make IQ assessments; the same holds true for Mr. Langdon and Mr. Hoeflin. When Rosner refused to accept my valid and legal credentials, emanating from tests devised by licensed psychometricians and administered under supervised conditions, and instead 'steered' me toward an unlicensed practitioner \[Dr. Hoeflin\], he was (in effect) breaking the law..."
+
+To support his claim that the unsupervised tests are not psychometrically valid, Mr. Maxim has written an article in [*Gift of Fire* \#79](http://www.prometheussociety.org/issue79/issue79.html) (the journal of the Prometheus Society) about what he says are inflationary procedures used by Kevin Langdon and Ron Hoeflin in norming their respective tests, such that these societies are admitting members via their tests who do not actually meet the nominal requirement. \[Note: [Paul Maxim's article](http://www.eskimo.com/~miyaguch/renorm.html) is not readable from the Prometheus site, so I have decided to transcribe and publish it on my site, with the permission of Paul Maxim.\] Fred Vaughan in [the same issue](http://www.prometheussociety.org/issue79/issue79.html) of *Gift of Fire* and Kevin Langdon in *Gift of Fire* \#81 ([republished and revised here](http://www.polymath-systems.com/intel/essayrev/maximega.html)) comment upon Mr. Maxim's article. [My own comments (addendum 11/8/97)](http://www.eskimo.com/~miyaguch/renorm_response.html) on Mr. Maxim's article appear on this site.
+
+In response to Mr. Maxim, the society said that the tests Mr. Maxim took are not claimed by their authors to discriminate anywhere near the one-in-a-million level. The 1984 Bylaws permit application of the Ferguson formula to "two or more approved tests," which evidently do not include any of the tests that Mr. Maxim submitted scores for. In September, 1997 (results reported in *Noesis* \#134), Mega membership voted to accept Ron Hoeflin's *Mega* and *Titan* Tests and Kevin Langdon's *LAIT* as qualifying vehicles for the society (although specific raw scores were not voted upon). \[Note: Paul Maxim applied for Mega Society membership in mid-1995\]. De-facto qualifying raw scores are currently 43 correct on the *Mega* or *Titan*, and 175 on the *LAIT*. The vote also included a proposal, unanimously approved, that to be acceptable for admission purposes, a test must be credibly claimed to distinguish intelligence at the one-in-a-million level.
+
+Mr. Maxim was unhappy enough with the state of affairs involving the Prometheus Society's and Mega Society's admission requirements to contact the Medical Board of California, where Mr. Langdon lives, and to complain that an unlicensed "cult of intelligence" was operating in the state, and specifically that Kevin's mail-order I.Q.-testing business constitutes practicing psychology without a license. The Medical Board (Division of Medical Quality) responded by initiating an investigation into the testing activities of Kevin's company, Polymath Systems. Kevin agreed to suspend his mail-order testing operation while he evaluated his legal options. He says that the requirement for a psychology license to "construct, administer, and interpret" intelligence tests is legally questionable. The California Board also contacted Dr. Hoeflin, who is a resident of New York. I have reproduced the [text of the California statute](http://www.eskimo.com/~miyaguch/license.html) which the Board cited; I have also reproduced the text of the proposed amendment to a New York statute which would make it illegal for Dr. Hoeflin, who is not a licensed psychologist, to score his IQ tests, even if he did not ask for a fee.
+
+Kevin Langdon says that contrary to Paul Maxim's claim, the *LAIT* and the *Mega Test* are, in fact, standardized, and on quite respectable samples. Both Langdon and Hoeflin note that a number of the standard tests are untimed, such as the *Terman Concept Mastery* and (often) the *Raven Advanced Progressive Matrices*. Psychological research is not, in general, submitted to the APA to be "sanctioned." The only sanction that counts is the opinion of competent authorities in the field. According to Kevin, Dr. Cattell and Dr. Jensen regard his work as a valuable contribution to the study of human intelligence. Hoeflin further argues that adopting California's ruling nationwide would effectively and unconstitutionally ban freedom of assembly and speech as it applies to the formation and maintenance of the high IQ groups.
+
+Mr. Maxim argues that an important aspect of "standardization" is supervision, which controls against cheating and guarantees the identities of testees. He claims that performance on all take-at-home tests has risen over the course of time because answers have begun to circulate via the Internet, and in other media. As for Kevin's invocation of Dr. Jensen, Mr. Maxim produced the following [letter (in .jpg format)](http://www.eskimo.com/~miyaguch/jensen.jpg) from Dr. Jensen, apparently written in response to a query by Mr. Maxim.
+
+Chris Langan, who considers himself to have legitimate claims to Editorship of *Noesis*, has taken it upon himself to grant Paul Maxim admission to the society. He wrote:
+
+> "In order to avoid subjecting the Mega Society to the risk of complete legal annihilation as Paul tries to force it to admit him, I, Chris Langan, as acting editor of *Noesis*, hereby admit Paul Maxim into the Mega Society as a full member \[September 1, 1997\] on the basis of valid IQ credentials presented to me. In this I am joined by Jeff Ward and Rick Rosner, who have both stated in writing that they believe Paul to have met Mega Society entrance standards. No matter who edits *Noesis* - Rick Rosner or Chris Langan - that's a "majority of officers".
+
+Note: neither Jeff Ward nor Rick Rosner have formally affirmed their initial positions on the issue by signing a letter of admission to Mr. Maxim, so Chris Langan is apparently alone in recognizing Paul Maxim as a new member. Mr. Langan has recently begun to publish a second newsletter for Mega Society members which contains the writings of Mr. Maxim. This publication is also called *Noesis*, and its issues are numbered the same as the journal published by Chris Cole (and edited by Kevin Langdon)!
+
+<sup>5</sup> The method, called the Ferguson formula, after George A. Ferguson, a well-known psychometrician, involves estimating the 'true' I.Q. that would be required to achieve high scores on imperfectly-correlated tests, which is generally higher than the average of the scores on the tests used.
+
+ 
+
+<span id="Prometheus"></span>Prometheus Society (1 out of 30,000)
+
+Originally called the Xenophon Society, The Prometheus Society was founded by Ronald Hoeflin in 1982, the same year as his founding of the Mega Society. The group was conceived of as a pool of people with very high I.Q.s that Hoeflin could consult to take various forms of his tests for the purpose of psychometric research. The society also provided an alternative to Kevin Langdon's Four Sigma Society; Hoeflin launched Prometheus after it became clear that Four Sigma was really dormant. The Xenophon Society had had an entrance requirement of 1 out of 10,000 (IQ of about 160). According to the society's constitution, the purposes it defined for itself are:
+
+- To provide a forum for the exchange of ideas between members.
+- To promote understanding and friendship between members.
+- To foster intellectual freedom.
+- To assist in research relating to high intelligence and intelligence testing.
+- To encourage and assist the efforts of members to attain high levels of achievement in the arts, the sciences, and other fields of endeavor.
+
+ 
+
+<span id="Exa"></span>Exa Society (1 out of 1,000,000,000,000,000)
+
+The Exa Society is a name suggested by Richard May in the August 1983 issue of *Vidya*, the journal of the Triple Nine Society, as a society that would accept only one entity per 10-to-the-15th power, meant as a parody of the "Mega" Society's name.<sup>6</sup> In the same article, Richard May suggested the "Plus Sigma Society," meant as a parody of the Four Sigma Society, whose admission level being flexible, would be defined as always one sigma or standard deviation higher than the next highest high-IQ society's admission standard.
+
+<sup>6</sup> Note: the 1985 edition of the *Guinness Book of Records* (which is the international version of the *Guinness Book of World Records*), on page 85, gives "exa-" to mean 10-to-the-18th power.
+
+ 
+
+<span id="Cinque"></span>The Cinque (5 smartest people in the world)
+
+The Cinque is a name proposed by Ronald Hoeflin in a letter to Johannes Veldhuis \[former Mega Society membership officer\] in the mid-1980's, to consist of the 5 smartest people in the world, and whenever a smarter person came along, one of the members of The Cinque would be bumped into an "emeritus" status. Johannes informed Hoeflin that "The Cinque" had been the name of some murderous secret society, so Hoeflin dropped the idea.
+
+ 
+
+<span id="Aleph"></span>The Aleph-(3) Society (transfinite admissions requirement)
+
+The Aleph-(3) Society is a name suggested by Richard May in the October 1986 issue of *Vidya* for the world's first high-IQ society with a transfinite admissions requirement. May wrote that "the entity commonly referred to as 'god' is only at the aleph-(1) level, according to the scale of the precise quantification of divinity."
+
+"The Aleph" is May's ultimate achievement in the realm of naming ultra-high-IQ societies. Hoeflin \[the source of this material\] assumes that this name refers to "the set of all sets," which Cantor showed to be a logical impossibility. In his October 1986 article, May says that some have described this society as "analogous to a sort of cosmic Klein bottle, having neither 'inside' nor 'outside', which would be too parochial a burden," and May concludes that this society does not accept "unnormed, unrecognized, and non-'g'-saturated tests, such as the somewhat obscure Klein-Bottle Test \[an allusion to Ed Cyr's "Mobius Test"\], which is allegedly so easily confused with other tests, as proof of qualification, or as a 'backup' for a spurious Ripley's \[*Believe It Or Not*\] listing. Such is the austere rigor of the Aleph."
+
+ 
+
+<span id="GODS"></span>Geniuses of Distinction Society (G.O.D.S.) (1 out of 250 to 1 out of 100,000)
+
+GODS was founded sometime in the 80's by Anton Montalban-Anderssen, and has claimed minimum requirements ranging from the 99.6 to 99.999 percentile. The society is listed in the *Encyclopedia of Associations* but accepts no new members, according to Anton, and apparently has never published a journal. According to an account from someone who spoke with Anton, the society was intended as a joke, and that he doesn't know how it found its way into the Encyclopedia \[perhaps someone played a joke back on Anton?\].
+
+ 
+
+<span id="Cincinnatus"></span>Cincinnatus Society (1 out of 1,000)
+
+Cincinnatus was founded by Grady Ward in 1987 at the 99.9 percentile during a bitter dispute in the Triple Nine Society. Grady Ward declared himself Dictator, which some found preferable to the chaos in TNS. Apparently defunct since about 1989. It seems Grady faked his own death (there was a death notice in the "Mensa Bulletin"), but has become well-known in Internet free speech advocacy circles for his opposition to the Church of Scientology.
+
+ 
+
+<span id="Minerva"></span>Minerva Society (1 out of 1,000)
+
+Founded in 1987 by Kevin Langdon, Fred Britton, Jalon Leach, and Richard Weatherwax at the 99.9 percentile. Minerva was founded in response to the same dispute in TNS that led to the founding of Cincinnatus. In 1992, Minerva sought to be amalgamated with the Triple Nine Society, but the talks collapsed. Minerva accepted a variety of tests, including Kevin Langdon's "Polymath Intellectual Ability Scale," published in *Games* magazine in 1987.
+
+ 
+
+<span id="Camelopard"></span>Camelopard, The Giraffe Society (1 out of 50)
+
+Camelopard was founded in 1988 by Lendon Best as a society for San Diego Mensans who were tired of paying Mensa's high dues. Camelopard offered much lower dues. The society's growth rate has slowed, but it has acquired enough new members to avoid declining and maybe to grow a little. Most of the members now do not live in the San Diego area. There is a story here behind the giraffe (which was set up in opposition to a big owl), but I don't know what it is.
+
+A message forwarded to me from Lendon Best, June 1999:
+
+Well, that's what some folks call it. By vote of the Board of Directors, publication of "G'Raffiti" has been suspended and we've refunded unearned payments from members and subscribers. There will still be Giraffe meetings and activities in the San Diego area, but we are doing away with the administrative and publishing work. Our list of available helpers declined to the point where the work was excessive for the few volunteers left. This was expected and inevitable, because our original local membership consisted of mature folks and (by choice) we did not recruit new members locally. It was fun to have a scatter of members all across the country and print worthy articles by so many different people. However, there are other aspects of our lives which deserve more attention. This email is intended to extend gratitude for your generosity in continuing to publicize Camelopard on your website \[Bill Bultas's\]. We have drawn a steady little trickle of enquiries and new members from it. However, it is now time to delete us. We have tried to take care of the people who responded but we now have nothing to offer them! We wish you continued success in your ventures.
+
+ 
+
+<span id="Omega"></span>The Omega Society (1 out of 3,000,000)
+
+Included Chris Harding as a member, who says he was not the founder. Kevin Langdon, who was also a member, says he received a membership card and a thin newsletter from Chris. Existed from about 1987 to 1989, and is now apparently defunct.
+
+ 
+
+<span id="TOPS"></span>The Top One Percent Society (1 out of 100)
+
+TOPS was founded by Ronald Hoeflin soon after he was fired as Editor of *Vidya* (journal of the Triple Nine Society). Since editing a high-IQ journal proved to be the most enjoyable job Hoeflin ever had, except for the low pay, he decided to start a new society in 1989 that he hoped would be large enough to yield a decent income. The Top One Percent Society's admission criterion was chosen to provide a large enough pool of people to make a job as editor of the journal feasible, yet still keep the intellectual quality of the discussions at a relatively high level. To avoid the types of disputes seen in the other groups, Hoeflin made himself sole officer as well as the editor of the journal.
+
+ 
+
+<span id="Savant"></span>The International Savant Society (No specific requirement)
+
+This society was announced in an issue of the *Mensa Bulletin* sometime in the late 1980's, had a nice-looking introductory leaflet, had no specific IQ requirement, and was mostly looking for high achievers. Status is unknown.
+
+ 
+
+<span id="Cleo"></span>The Cleo Society
+
+The Cleo Society was founded in 1990 by ISPE Director of Admissions Clint Williams as a parody of the High-IQ groups. He named it after a cat belonging to \[then\] ISPE president Betty Hansen. He used the ISPE membership roster to advertise for his society, which violated a rule of the ISPE's charter against commercial use of the roster.
+
+According to an ISPE representative, the Board of Trustees which voted to expel Mr. Williams didn't realize that Cleo was meant as a mock society. This assertion seems disingenuous to me -- it seems obvious to me that at least Mrs. Hansen should have realized this. In any case the Board expelled Mr. Williams without a hearing and no notice prior to the vote, and later made an announcement in *Telicom*, the ISPE's journal. ISPE's Legal Officer and Vice-President John Kormes took an active role in these proceedings.
+
+Later, when Mr. Kormes was himself expelled by the same procedure, he filed suit and claimed wrongful expulsion. The judge in the case ruled against him, saying that although Mr. Kormes was entitled to a hearing under the ISPE's charter, since Mr. Kormes had approved of and participated in Mr. Williams's expulsion he had no cause to complain about his own expulsion, which followed the same procedure. Since Mr. Kormes's lawsuit cost quite a bit of money, the charter was amended in 1994 to bar from membership any person who brought a lawsuit against the ISPE.
+
+A criticism made of ISPE was that their expulsion procedure appeared to be arbitrary and rather autocratic. In fact, at the time, there was no explicit procedure written into the charter to define the expulsion of a member -- an unfortunate circumstance that has been the source of long-standing animosity between the ISPE officers and former members. I understand that procedures have been defined for removing officers, Trustees, and the President from their positions; however, I'm not sure if *expulsion* procedures from the Society have been defined.
+
+According to the ISPE representative, after it came to light that the Cleo Society was in fact a parody, Mr. Williams was reinstated into ISPE. According to others, it was well known what the Cleo Society was about -- Mr. Williams was reinstated after professing contrition.
+
+ 
+
+<span id="High 5"></span>The International High Five Society (1 out of 20)
+
+The High Five Society, founded by Ron Koester, was open to anyone testing above the 95th percentile on a standardized test of intelligence. Founded in 1991. This group is defunct.
+
+ 
+
+<span id="OATHS"></span>The One-in-a-Thousand Society (1 out of 1,000)
+
+Founded in July, 1992 by Ronald Hoeflin. Hoeflin wrote in issue 1 of *OATH* that his "main purpose in founding the society \[was\] to put out more than two issues of a journal per month \[at that time, *In-Genius*, the journal of the Top One Percent Society was on a twice-per-month schedule\] without putting an additional financial burden on those TOPS members who cannot afford it. The purpose of OATHS, like that of TOPS, is the exchange of ideas on a wide range of topics by intelligent people." Hoeflin is sole officer of this society, in an arrangement similar to TOPS.
+
+ 
+
+<span id="IQuadrivium"></span>The IQuadrivium Society (1 out of 1,000)
+
+Founded in 1994 by Karyn S. Huntting. Open to individuals who score in the 99.9th percentile on a standardized adult intelligence test. Karyn relates the history of her society quite well at her ["About IQuadrivium"](http://www.s-2000.com/iquadrivium/about.html) page. Trivia question: what is the etymology of the society's name?
+
+ 
+
+<span id="IFIS"></span>IFIS Society (Attitude requirement)
+
+Promethean [James Harbeck](mailto:jharbeck@idirect.com) wrote about this satirical society in *Gift of Fire*.
+
+16 July, 1995
+
+Dear Prometheans
+
+As we all know, there's no such thing as too many societies for smart folk like us. I have therefore decided to found another. But this one will be a society with a difference: the entrance requirement will be an attitude, not an IQ score. Shoot, we all know that 'tude is where it's at, anyway, don't we? So I'd like to announce the birth of IFIS, officially Intellect For Intellect's Sake, unofficially--and actually--the Incredibly Fucking Intelligent Society. Entrance will be based on how you do on our untimed, unsupervised, self-scoring multiple-choice test, the [BRAIN \[PDF file\]](http://www.eskimo.com/~miyaguch/BRAIN.pdf) (harBeck Razor for Attitude towards INtelligence), which I have devised. Since it's self-scoring, there is no scoring fee (I'm not so hard up for money that I'd actually charge you for this!). Send your scores to me. There is no membership fee, as it is extremely unlikely that we will ever get around to having a newsletter or anything. Proposed questions for additions to the BRAIN are also welcomed. All questions undergo a stringent norming (if I can figure them out, they're in; if not, they're obviously wrong or illogical).
+
+I look forward to further fellowship with those worthy enough.
+
+Yours brightly, James Harbeck.
+
+ 
+
+<span id="Energeia"></span>Energeia Society (Admissions requirement unknown)
+
+Energeia is a society for intelligent Christians, principally made up of Christians from other high IQ societies. Dr. Richard Kirby and Ted Bell are co-founders. Web site no longer works.
+
+ 
+
+<span id="Giga"></span>The Giga Society (1 out of 1,000,000,000)
+
+No, it's not a joke, or maybe it is, I'm not too sure. Both the name of the society and its journal (*Nemesis*) appear to be poking fun at the Mega Society (whose journal name is *Noesis*). Also, it's hard for me to believe a society with such a strict requirement could ever get off the ground (assuming the world population is 6 billion, only 6 people could qualify). But if it is possible, Paul Cooijmans of the Netherlands can claim credit. Paul says the main goal of the Giga Society is "to honor the efforts of the very highest scorers, who are of great importance to the development of ultra-high-ceiling tests for mental abilities. A secondary goal is to make members of other IQ societies realize they're not all that, although they may think they are." Paul founded this unlikely society in 1996 and has created an admissions test called the "Test for Genius" (TFG, short and long form). The short form is a 42-item test (it used to have 45 items, but Paul has discarded 3 problems). The current norming of the short form (4th) places the one-in-a-billion level at about 34 correct out of 42. By the way, Paul estimates the ceiling of his test to be at an astronomical one-in-100 billion (which would identify the smartest person who ever lived). Around June of 1999, Scott B. Durgin qualified for the Giga Society. In November 1999, Thomas R.A. Wolf of Munich, Germany qualified. Both got in via the Numbers subtest of the TFG (long form).
+
+ 
+
+<span id="Glia"></span>The Glia Society (1 out of 1,000)
+
+The [Glia Society](http://www.puzz.com/glia.html) was founded in 1997 by Paul Cooijmans. The main goal of the society is to provide a forum for communication between highly intelligent individuals. The entrance requirement is 3.125 standard deviations above the mean (150 IQ for tests that have 16 IQ points per sigma). So far, the Glia Society has about 45 members (as of January, 2000).
+
+ 
+
+<span id="Praesum"></span>Praesum Mentis Genius Continuum (1 out of 33, plus creative achievement)
+
+Similar in principle to the International Heuristic Association, the admission requirements to this society are twofold: a score on a standardized IQ test at or above the 97th percentile, plus "the applicant must have generated a significant body of work in their area of expertise, skill or talent that is demonstrably unique and revolutionary in nature." I don't know who the founder of this group is, nor the founding date. But they do have a [website](http://www15.pair.com/continum/) with a contact for those who are interested. Barry Howard informed me that Dawn Prince-Hughes wrote to tell him that the society is defunct due to lack of dues payment.
+
+ 
+
+<span id="Acropolis"></span>Acropolis 98 (1 out of 50)
+
+Acropolis 98 is the name for a society that was scheduled to be founded by Bill Bultas in '98 at the 98th percentile. As long as a member was willing to receive the newsletter by e-mail, there would have been no fees or dues. Bill decided against founding this society before it officially started, though.
+
+ 
+
+<span id="Collegium"></span>Collegium (1 out of 200)
+
+Collegium was founded in November 1997 by the Triple Nine Society psychometrician, Dr. Greg A. Grove. The society accepts at the 99.5 percentile (or above). "It is the first high IQ society to acknowledge Dr. Robert J. Sternberg's triarchic theory of multiple intelligence in qualifying members." As the society's name implies, "Collegium was founded as a refuge from the crescendo of mudslinging and constant pummeling that often masquerades as 'brilliant discourse' in high I.Q. publications." The journal is called *Apotheosis*. Collegium was disbanded by Dr. Grove in April of 1998. The e-mail discussion group that included some members of Collegium (and excluded others) continues as "Colloquy."
+
+ 
+
+<span id="Poetic"></span>Poetic Genius Society (1 out of 200)
+
+The Poetic Genius Society was founded by Dr. Greg Grove shortly after he disbanded Collegium. The journal, still called *Apotheosis*, includes poetry from its members.
+
+ 
+
+<span id="Thinkers"></span>Thinkers International (Ability to write well, civil behavior)
+
+Thinkers International is a free intellectual e-mail correspondence society. All communications are sent to members in the form of digests. Although this is not a high IQ society, many members of Thinkers International are or have been members of high IQ societies. There are only two requirements for membership: The ability to write English well, and civil behavior with Thinkers at all times.
+
+ 
+
+<span id="Centurie"></span>Centurie (1 out of 160,000)
+
+Founded by Glia member Lars J. Bouma, the aim is to select the100 most test-intelligent Netherlanders. Admission level is IQ 170, and Centurie currently accepts the short Test For Genius and the Mega and Titan Tests.
+
+ 
+
+<span id="Arcana"></span>Arcana Society (1 out of 50)
+
+Founded in July 1999 by Quinn Tyler Jackson, The Arcana Society bills itself as the *Why-IQ* Society. In addition to a 98th percentile score on an IQ/IEQ test, the society asks for documented proof that you are actively engaged in the pursuit of solutions to thoroughly difficult problems, or seeking understanding of the deeper questions of life. The Arcana Society was dissolved in November or December 1999 due to time pressures of its founder.
+
+ 
+
+<span id="Grail"></span>The Grail Society (1 out of 100,000,000,000)
+
+Seems like it should be a typo, but it's not. That's right, the admission requirement for Paul Cooijmans's Grail Society is a whopping one out of 100 *billion*. This would be the smartest person who ever lived, and Paul's Test for Genius supposedly has the ceiling to identify this person. This is one one society that's not likely to have much political infighting.
+
+ 
+
+<span id="Pi Society"></span>The Pi Society (1 out of 1,000,000)
+
+The Pi Society was founded in November or December of 1999 by Nik Lygeros. As of July, 2001, the society has 12 members. The journal is called [*Perfection*](http://www.desargues.univ-lyon1.fr/home/lygeros/Mensa/perfection.html), and articles may be submitted in any language.
+
+ 
+
+<span id="Ultranet"></span>Ultranet (1 out of 30,000)
+
+The Ultranet (started on Jan 1, 2000) is an online society founded by Chris Langan and Gina LoSasso, supported by contributions to the Mega Foundation (a non-profit corporation founded by Chris Langan and Gina LoSasso in 1999 to aid in the development of gifted individuals and their ideas). Ultranet has ambitious hopes to recruit perhaps tens of thousands of members worldwide "through a focused recruitment program combined with subsidized Internet service and computers for those that need them." The history of the Mega Foundation is recounted [here](http://www.megafoundation.org/History.html), and also in Ubiquity, [here](http://www.ultrahiq.net/Ubiquity/Winter01/Mega%20Beginnings.htm).
+
+ 
+
+<span id="Cerebrals"></span>Cerebrals.com (1 out of 340)
+
+Cerebrals.com was created in Jan. 2000 by Jouve Xavier. It is an online society featuring message boards on various topics. Members are allowed to contribute to the Cerebrals Online Journal.
+
+ 
+
+Change History:
+
+|  |  |
+|----|----|
+| 1/19/00 | Added Cerebrals.com |
+| 1/6/00 | Added Ultranet. |
+| 12/31/99 | Arcana Society is dissolved. |
+| 12/31/99 | Added information about Pi Society. |
+| 11/02/99 | Updated current membership of TNS, which has surged over the past two years. |
+| 11/01/99 | Added Centurie section. |
+| 11/01/99 | Added IFIS (parody) section. |
+| 11/01/99 | Added Arcana Society section. |
+| 11/01/99 | Added Grail Society section. |
+| 11/01/99 | Now with two members in addition to the founder/administrator, the Giga Society is now listed as active. |
+| 11/01/99 | Praesum Mentis Genius Continuum is now listed as defunct |
+| 6/26/99 | Added a little more to the Prometheus Society section (a list of its purposes). |
+| 6/26/99 | Updated the Giga Society section. Somebody (not the founder) has qualified. |
+| 6/26/99 | Updated G.O.D.S section slightly. |
+| 6/25/99 | Energeia web link no longer works. |
+| 6/22/99 | Camelopard has removed its web presence. |
+| 11/21/98 | Updated membership size of Glia. |
+| 8/1/98 | Added a bit more to the section about the Chinese Mandarin class. |
+| 7/11/98 | Added a link to Grady Towers "The Outsiders" article, which contains some insights into the high IQ condition. |
+| 7/11/98 | As suggested, I added some tables up top to structure the history somewhat. Please inform me if you feel I have incorrectly categorized a society. |
+| 7/11/98 | Added short sections on the Poetic Genius Society and Thinkers International. |
+| 4/12/98 | I have been informed that the current membership in Triple Nine is nearer to 280 than to 160. |
+| 4/4/98 | Collegium has been discontinued, but the e-mail list continues as "Colloquy." |
+| 3/25/98 | Added a .jpg image of a letter Mr. Maxim received from Dr. Jensen. |
+| 3/25/98 | Wrote some more about the 1984 Mega Society Bylaws and the 1997 membership vote which decided qualifying tests for the society. |
+| 3/25/98 | Corrected the initial admission requirement of the Titan Society (history is recounted in the Mega Society section). It started out as a 1-in-100,000 society. |
+| 1/16/98 | Removed statement in the introduction which declares that Paul Maxim is not a member of the Mega Society. I explain his disputed status in the Mega Society section. |
+| 12/28/97 | Bill Bultas decided against founding Acropolis. |
+| 12/20/97 | Added link in the Mega Society section to the text of the California statute making it illegal for Kevin Langdon to construct, administer, and interpret IQ tests for a fee. Dr. Hoeflin may soon face a similar problem -- I have also reproduced a proposed amendment to a New York statute which is similar to the California statute. |
+| 12/6/97 | Highlight a little more clearly the Mega Society issue of editorial/publishing legitimacy claimed by both Chris Langan and Chris Cole. |
+| 12/6/97 | The Mega Society voted to accept 175, not 173, on the *LAIT* as an admission criterion. |
+| 12/6/97 | Removed the statement that Mr. Maxim only submitted childhood scores to the Mega Society. Various adult tests which Mr. Maxim has taken (and presumedly submitted) include the CTMM, GRE, and Cattell. |
+| 12/6/97 | Added Collegium section. |
+| 11/6/97 | The Mega Society entry is becoming longer: elaborate a little more about the circumstances in which Mr. Maxim refused to take a subset of the *Titan Test*. Also added a discussion of Paul Maxim's membership (or non-membership) status. |
+| 11/2/97 | Added Acropolis 98 section. |
+| 10/31/97 | Added a link to Paul Maxim's "Renorming Ron Hoeflin's Mega Test," which was not readable from the Prometheus web site. I comment on Mr. Maxim's article. |
+| 10/20/97 | Added a little more detail about *Omni's* settlement with Kevin Langdon over the *LAIT* score reports; also corrected some spelling mistakes that I would have caught had I taken the time to run a standard spell check. Thanks to Steve Schuessler. |
+| 10/16/97 | In the Mega Society section, added a paragraph concerning Paul Maxim's criticisms of the *Mega Test* and the *LAIT*, and the gist of the rebuttal. |
+| 10/16/97 | Added a quote from the California Medical Board to the membership officer of Triple Nine. |
+| 10/16/97 | Paul Maxim doubts that I have the "credentials" to pass judgment upon the issues confronting the Mega Society. My response is in the introduction to this history. |
+| 10/16/97 | The September 4, 1997 revision of this history has been published in *Noesis* \#134 (the journal of the Mega Society). Since it was published exactly as it appeared here, my street address was not listed (I had expected email responses only!). Someone has interpreted this omission to mean that I did not want feedback. I have added some information to prevent any future misunderstandings. |
+| 9/4/97 | Cleo Society section is worded more strongly against the official ISPE version. |
+| 9/4/97 | Removed criticism of Triple Nine's journal publication schedule. The schedule seems to be highly dependent upon the particular Editor at the time. |
+| 9/4/97 | Moved paragraphs on Ron's Editorship of *Vidya* from the TOPS section to the TNS section. Modified these paragraphs based upon input from Kevin Langdon. |
+| 9/4/97 | Added information to the Minerva Society. |
+| 9/4/97 | Added information to the Cincinnatus Society. |
+| 9/4/97 | The Mega Society story now has input from Kevin Langdon, and is contrasted with Ron Hoeflin's version. |
+| 9/4/97 | Deleted Joe O'Rourke as a founding member of the Triple Nine Society -- again. I believe it is finally correct! |
+| 9/4/97 | The ISPE section continues to become more unflattering. |
+| 9/4/97 | The MM society's actual admission requirement was at the 99.9th percentile. |
+| 7/26/97 | Added comments made by Co-founder of Mensa spoken on Mensa's 50th anniversary. |
+| 7/16/97 | Added information about Energeia. |
+| 7/16/97 | Make a note of Triple Nine's leisurely publication schedule, which more than one person has complained of. |
+| 7/16/97 | Put back in the speculative reason for ISPE's non-acceptance of Hoeflin's Mega Test as a footnote. Having had a chance to correspond with participants from both sides of the fence, I make my own judgment of what actually happened. |
+| 7/16/97 | Corrected the admission requirement listed for the Exa Society. It should be one-in-1,000,000,000,000,000, substantially tighter than a one-in-1,000,000,000 requirement! |
+| 7/16/97 | Give less credit to Harding and Langdon in the founding of the Mega Society. |
+| 7/16/97 | Added origin of Chris Harding's various "numerical" groups (401, 501, 606 Societies). Also added a source of criticism directed at the name of the 606 Society. |
+| 7/16/97 | Added Joe O'Rourke as a founding member of the Triple Nine Society. |
+| 7/6/97 | Added section on the Praesum Mentis Genius Continuum. |
+| 6/30/97 | Broke out a separate section to talk about the Cleo Society. |
+| 6/29/97 | The idea that former ISPE president Betty Hansen could be granted surreptitious editorial control of *Vidya*, the journal of the Triple Nine Society, through Clint Williams seems far-fetched to me. I have removed this portion from ISPE's history. |
+| 6/29/97 | Removed the speculation that ISPE doesn't accept the Mega Test or the LAIT out of animosity towards the authors. The practice of using only psychologist-approved tests, notwithstanding the validity of the tests themselves, at least has the merit of circumventing conflicts such as the Mega Society has had with Paul Maxim. |
+
+ 
+
+Return to the [Uncommonly Difficult IQ Tests](http://www.eskimo.com/~miyaguch/hard_iq.html) Page

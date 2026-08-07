@@ -1,0 +1,34 @@
+---
+title: "Index of /~p0lez1/royal500"
+source_domain: amasci.com
+source_path: ~p0lez1/royal500/index.html
+order: 5747
+reachable_from_entry: false
+images: 13
+internal_links: 1
+extracted: 2026-08-07T17:12:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~p0lez1/royal500
+
+*Source page: `~p0lez1/royal500/index.html`*
+
+# Index of /~p0lez1/royal500
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        30-Jan-2002 04:48      -  
+     500DSM.pdf              05-May-2001 07:20   253k  
+     500HSM.pdf              05-May-2001 07:23   493k  
+     8G005_INFO.pdf          29-Oct-2001 20:53   363k  
+     G500schemer.pdf         05-May-2001 07:25   266k  
+     H500_DATA.pdf           10-Sep-2001 05:23   1.9M  
+     R1000SM.pdf             05-May-2001 07:27   458k  
+     ROYAL_500.pdf           23-Jul-2001 20:52   1.3M  
+     TOS_R520.pdf            18-May-2001 17:20   141k  
+     TO_DATA.pdf             05-May-2001 07:38   534k  
+     TO_R520.pdf             18-May-2001 17:23   1.7M  
+     r3000sm.pdf             05-May-2001 07:35   1.3M  
+
+------------------------------------------------------------------------

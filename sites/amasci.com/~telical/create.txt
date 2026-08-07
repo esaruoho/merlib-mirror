@@ -1,0 +1,17 @@
+Create Menu 
+
+ Create Menu 
+
+ The "Create" menu is where most of the ParaMind action will
+take place. 
+
+ Merge 
+ Large Merge 
+ Substitute Highlighted Word 
+ Find Word To Substitute 
+ Replace By Category 
+ Category Type 
+ Edit Categories 
+
+Use your back button or click here for 
+ Table of Contents Page

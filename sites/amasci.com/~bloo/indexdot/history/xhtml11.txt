@@ -1,0 +1,40 @@
+XHTML 1.1 
+
+ XHTML 1.1 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Editors: Murray Altheim, Shane McCarron
+ Specifications 
+ Documentation - http://www.w3.org/TR/xhtml11/ 
+ DTD - http://www.w3.org/TR/xhtml11/xhtml11_dtd.html 
+ Timeline: 
+ - XHTML 1.1 first working draft released - September, 1999
+ - XHTML 1.1 becomes W3C Proposed Recommendation - April, 2001
+ - XHTML 1.1 becomes W3C Recommendation - May, 2001
+
+ XHTML 1.1 
+
+So where do we go from here? What is next for XHTML?
+
+XHTML 1.1 is essetially the "strict" DTD from XHTML 1.0...It drops all the deprecated 
+elements and attributes from XHTML 1.0, and makes a few other tweaks (eg: common 
+LANG attribute dropped in favor of "xml:lang", and the addition of the "RUBY" element 
+module.) XHTML 1.1 is designed to be strongly geared toward the document structure, 
+with presentation details to be left to style sheets.
+
+Frankly, XHTML 1.1 may be a little ambitious for many authors at the current 
+stage of browser development, but it is definitely a milepost of where web 
+authoring has been attempting to head for many years: a clear separation between
+document structure and appearance. XHTML 1.1 finally declares that the time for
+this separation has come.
+
+ Boring Copyright Stuff...

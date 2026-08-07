@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+
+<h1 align=center>SCAN Conventions</h1>
+<hr size=3 noshade>
+
+<h2><a name="definitions">Definitions</a></h2>
+
+<p>
+These documents use the terms "MUST", "SHOULD", and "MAY", and their negated
+forms, as defined in
+<a href="http://www.rfc-editor.org/rfc/rfc2119.txt" target="_blank">RFC 2119</a>.
+These terms apply to crypto algorithm and library implementations that are
+intended to conform to some subset of SCAN.
+<p>
+In addition, the terms "WILL" and "WILL NOT" specify consistency requirements
+and policies for SCAN itself. If it is stated that something WILL be true,
+but it is not actually true, please report it as an error. New SCAN entries
+or changes to existing entries must satisfy all WILL and WILL NOT constraints.
+<p>
+The term "byte" always refers to an 8-bit byte, or octet. The value of a
+byte is an integer between 0 and 255 inclusive.
+<p>
+In algorithm descriptions,
+<ul>
+  <li> "A || B" denotes the concatenation of byte strings A and B,
+  <li> "A XOR B" denotes exclusive-OR of equal-length byte strings A and B,
+  <li> "floor(<i>x</i>)" is the largest integer less than or equal to <i>x</i>,
+  <li> "ceiling(<i>x</i>)" is the smallest integer greater than or equal to <i>x</i>,
+  <li> "I2OSP<sub><i>n</i></sub>(<i>i</i>)" is an <i>n</i>-byte big-endian
+       representation of the integer <i>i</i>. 
+</ul>
+
+
+<h2><a name="interfaces">Algorithm Interfaces</a></h2>
+
+<p>
+The inputs and outputs of algorithms (plaintext, ciphertext, keys, input
+messages, etc.) are normally sequences of bytes. However, in the case of some
+message digests the input may also be given as a sequence of bits, as explained
+<a href="md.html#interop" target="_blank">here</a>.
+<p>
+If it is insufficiently clear from the algorithm specification how the inputs
+or outputs are to be interpreted as sequences of bytes, the algorithm comments
+WILL clarify this.
+<p>
+<strong><em>Unless otherwise specified</em></strong>, all hexadecimal-format
+test vectors that are referenced by SCAN should be assumed to be written from
+left to right. That is, each test vector represents a sequence of bytes where:
+<ul>
+  <li> each pair of hex digits corresponds to one byte,
+  <li> in each pair, the hex digit on the left is most significant,
+  <li> the pairs are written from left to right, i.e. the first byte
+       corresponds to the leftmost pair of hex digits.
+</ul>
+<p>
+Unless the specification of an algorithm describes any of its
+inputs or outputs in terms of bit sequences, the order of bits within a
+byte is not, and does not need to be defined. If you are designing an
+algorithm, suggestions about byte and bit order, among other
+issues, are given <a href="suggestions.html" target="_blank">here</a>.
+
+
+<h2><a name="references">Categories for References</a></h2>
+
+<p>
+References WILL be marked as being in one or more of the following categories:
+<ul>
+  <li> "[<i>Def</i>]"     - defines the algorithm,
+  <li> "[<i>Inf</i>]"     - gives additional information or an alternative
+                            description,
+  <li> "[<i>History</i>]" - describes an earlier variant of the algorithm,
+  <li> "[<i>An</i>]"      - cryptanalysis (with either negative or positive
+                            implications for the algorithm's security),
+  <li> "[<i>Patent</i>]"  - patents or patent applications that may affect
+                            implementations of the algorithm,
+  <li> "[<i>Test</i>]"    - includes test vectors,
+  <li> "[<i>Impl</i>]"    - includes a reference implementation, written
+                            or endorsed by the algorithm designer(s). Note that
+                            in many cases these implementations are not optimised.
+</ul>
+
+Note that the [<i>Patent</i>] references cannot be guaranteed to include all
+applicable patents.
+
+
+<h2><a name="security">Security implications</a></h2>
+
+<p>
+Unless stated otherwise in the "<b>Security comments:</b>" sections, nothing
+is implied about the security of an algorithm simply by it having an entry
+in SCAN. The security comments represent the opinions of the author(s)
+(or any other people who are quoted) only.
+<p>
+There may be published attacks that are not listed in the security
+comments or references. If you know of any such attacks, or if you want to
+dispute something said in these comments, please post to
+<a href="news:sci.crypt">sci.crypt</a>.
+<p>
+References to papers describing cryptanalysis of an algorithm should not
+be taken as necessarily implying that the algorithm is broken (often, a paper
+provides support for an algorithm rather than an attack on it, and attacks may
+or may not be practical).
+
+
+<h2><a name="parameters">Algorithm Parameters</a></h2>
+
+<p>
+Some algorithms have parameters, each of which which WILL be marked as one or
+more of "write", "read", and "creation". A "write" parameter can be set, and a
+"read" parameter can be read, after the algorithm object has been created
+(provided that whichever API is being used supports that).
+<!--
+(In Java, this is done via the <code>java.security.Parameterized</code> interface.)
+-->
+<p>
+Any parameters given in parentheses following the algorithm name WILL also be
+listed as "creation" parameters, and can be specified in the call used to create
+the algorithm object (in Java, as part of the name passed to <code>getInstance</code>).
+If there is more than one creation parameter, they are separated by commas, with
+no whitespace.
+
+<p>
+For example, the Java code:
+<pre>
+    Mac.getInstance("HMAC(SHA-1)")
+</pre>
+will create an object that implements the HMAC message authentication code,
+with "SHA-1" as the value of HMAC's <i>digest</i> parameter.
+When a creation parameter refers to an algorithm, that algorithm may itself
+be parameterized, for example:
+<pre>
+    Mac.getInstance("HMAC(HAVAL(32,5))")
+</pre>
+
+An algorithm that depends on one or more other algorithms (as HMAC does in
+the above examples) is called a "construction".
+
+
+<h2><a name="adding">Adding New Algorithms</a></h2>
+
+<p>
+If you would like to add an entry to the list, please post it to the
+Usenet newsgroup
+<a href="news:sci.crypt">sci.crypt</a>, with a subject line that includes
+"SCAN". The post should give the text of the proposed entry, in the same
+format as other algorithms of the same type, and ideally should include:
+<ul>
+  <li> references to at least one paper or web page describing the algorithm
+       (preferably, although not necessarily, a paper published in a refereed
+       journal).
+  <li> any other useful references (cryptanalysis, home page, patents and
+       patent applications, reference implementation, etc.)
+  <li> if the references do not completely specify the algorithm (including
+       input/output formats, etc.) in sufficient detail to allow
+       interoperable implementations, then any missing details should be
+       given.
+  <li> test vectors, where available (unless it is particularly simple,
+       an algorithm without test vectors WILL only be listed as provisional
+       or experimental; see below).
+</ul>
+
+If some of this information isn't available for existing algorithms,
+post anyway; other people on the newsgroups may know where to find it.
+<p>
+sci.crypt should also be used to discuss corrections and additions to
+existing entries. (I prefer to handle these on newsgroups rather than via
+email, as it is important to get other cryptographers' comments about
+changes.)
+
+
+<h2><a name="status">Algorithm status and stability</a></h2>
+
+Each SCAN entry (not including <a href="#alleged">alleged algorithms</a>)
+is classified and colour-coded as one of:
+<p>
+&nbsp;&#8226;&nbsp;<span class=s>Blue - stable</span><br>
+&nbsp;?&nbsp;<span       class=p>Green - provisional</span><br>
+&#215;&nbsp;<span        class=x>Red - experimental</span>
+<p>
+The symbols '&#8226;', '?' and '&#215;' give the same information as the
+colour-coding. (If you don't see blue, green and red text above, or if
+'&#8226;' or '&#215;' display as boxes, see the <a href="#browsers">browser
+problems</a> section below.)
+<p>
+During the early stages of the development of SCAN, there have been a number
+of incompatible changes to algorithms (all of which are clearly marked in
+the comments for the relevant entries).
+<p>
+However, when SCAN version 1.1 is published, the policy from then on WILL be that
+once an algorithm has been accepted as stable, it can <em>never</em>
+change - not even if the change is apparently backward-compatible. Any revisions
+WILL be handled by assigning a new algorithm name. Also, a stable algorithm WILL
+NOT be able to change its status to provisional or experimental.
+There will be absolutely no exceptions to this policy.
+<p>
+Note that this does not mean that the entry describing the algorithm cannot be
+modified, e.g. to add new papers, clarifications, or security comments. Also,
+stable algorithms can still be <em>generalised</em> by adding extra creation
+parameters. For instance, a block cipher named "Foo" could be generalised to
+"Foo[(rounds)]", where (rounds) indicates the number of rounds to be used.
+<p>
+Provisional and experimental algorithms, on the other hand, can be removed from
+SCAN or changed incompatibly at any time. An algorithm is marked as provisional
+either because some required information (most commonly test vectors) is missing,
+or because the document(s) that define the algorithm have draft or similar status.
+I will attempt to avoid incompatible changes to provisional algorithms, but it is
+always possible that when the missing information is found, it may expose a
+problem that requires a change.
+<p>
+For experimental algorithms, no effort to avoid incompatible changes is implied.
+<p>
+The rationale for forbidding even backward-compatible revisions (apart from
+generalisations) to stable algorithms is as follows:
+the JCA API (and any other API that may be adopted for languages other than Java)
+makes use of a list of security providers configured by the user or administrator,
+in order from most preferred to least preferred. When an algorithm name is
+looked up without specifying an exact provider, the first provider in preference
+order that supports the algorithm is used.
+If compatible changes were allowed, an implementation of an old revision of an
+algorithm might 'mask' an implementation of a newer revision by a provider later
+in the preference order, which is obviously not desirable.
+<p>
+Note that some of the citations in the "<b>References:</b>" sections are
+to draft standards. Where an algorithm is said to be "as defined in" a
+particular draft standard, the algorithm definition may change as the
+standard changes. Implementation or design based on these drafts is
+at the risk of developers (and users). Some of the referenced standards have
+a specific requirement that advertisements and documentation should not attempt
+to claim compliance with the standard until it has been finalized.
+<p>
+A SCAN entry that depends on a draft document as a [<i>Def</i>] or [<i>Test</i>]
+reference WILL NOT be marked as stable. If a reference gives a particular version
+number of a draft document, that means that the given version was the last one
+for which the specification of the particular algorithm has been checked. It does
+not mean that later drafts should not be used when implementing the algorithm.
+<p>
+All stable algorithms WILL have test vectors, unless the algorithm is simple
+enough that there is clearly no need for test vectors.
+
+
+<h2><a name="alleged">Alleged Algorithms</a></h2>
+
+At the end of each category page (e.g. MessageDigest, Mac, etc.) there is a
+list of "alleged algorithms", most of which are linked to either an on-line
+reference, or a page number in the <cite>Handbook of Applied Cryptography</cite>
+(HAC) or <cite>Applied Cryptography, 2nd edition</cite> (AC2).
+<p>
+These lists are purely informational. The entries typically will not
+include any details of any parameters that would be needed, and in some
+cases may not even be sufficient to identify the algorithm.
+<p>
+Please note that alleged algorithms may be:
+<ul>
+  <li> really more than one algorithm,
+  <li> a duplicate of another algorithm,
+  <li> not of the stated type,
+  <li> ambiguously specified,
+  <li> incorrectly stated to be broken,
+  <li> incorrectly stated to be related to another algorithm,
+  <li> incorrectly stated to be anything else,
+  <li> associated with incorrect or inconsistent test vectors,
+  <li> missing obvious references,
+  <li> linked to irrelevant references,
+  <li> completely obscure,
+  <li> inherently useless or uninteresting,
+  <li> unimplementable or impractical,
+  <li> a figment of my imagination,
+  <li> named differently to any future entry for that algorithm in SCAN,
+</ul>
+in (almost :-) any combination. <strong>You have been warned.</strong>
+<p>
+Of course, I'm still interested in comments or corrections for these sections,
+as with any other part of SCAN.
+
+
+<h2><a name="provisional">Provisional Algorithm Names</a></h2>
+
+<p>
+I don't think anyone was using provisional algorithm names, and the
+"Other alleged algorithms" lists (see above) now allow algorithms to
+be minimally documented even if they do not meet the criteria for a
+proper SCAN entry. Therefore, the convention using DNS domains that was
+previously described here should not be used.
+<p>
+Just in case, the guarantee that standard names WILL NOT contain a colon
+('<tt>:</tt>') character still applies.
+
+
+<h2><a name="objectids">ASN.1 Object Identifiers</a></h2>
+
+<p>
+Where there is an ASN.1 OBJECT IDENTIFIER for an algorithm, the dotted-decimal
+form of the identifier can be used implicitly as an alias. These aliases
+WILL be the only names that match '<tt>oid</tt>' from the following ABNF syntax
+(which is a subset of that given in Section 2.15 of
+<a href="http://www.rfc-editor.org/rfc/rfc1778.txt" target="_blank">RFC 1778</a>):
+<pre>
+    oid       = number *("." number)
+    number    = "0" | (leaddigit 1*digit)
+    digit     = "0"-"9"
+    leaddigit = "1"-"9"
+</pre>
+
+Note that other names may start with a digit, but WILL NOT match the syntax
+above.
+
+
+<h2><a name="identifiers">Names as Programming Language Identifiers</a></h2>
+
+<p>
+Most programming languages have fairly restrictive syntaxes for identifiers;
+typically some superset of:
+<pre>
+    identifier = letter *(letter | digit | "_")
+    letter     = "a"-"z" | "A"-"Z"
+    digit      = "0"-"9"
+</pre>
+
+An identifier satisfying this syntax can be derived for each basic name
+(not including parameters) as follows:
+<ul>
+  <li> If the entry contains an alias marked "(use for identifiers)", then
+       use that alias.
+  <li> Otherwise, use the standard name with any "-" characters replaced
+       by "_".
+</ul>
+
+New names and aliases WILL be chosen so that this procedure always works, and
+is reversible (by replacing "_" by "-") to give a valid alias.
+
+
+<h2><a name="ciphers">Conventions for symmetric ciphers</a></h2>
+
+<p>
+The information that was in this section has moved to the
+<a href="csi.html">symmetric ciphers page</a>.
+
+
+<h2><a name="browsers">Browser problems</a></h2>
+
+<p>
+To see SCAN as intended:
+<ul>
+  <li> Make sure that your browser preferences are not set to override
+       colours and styles set by the document. In Netscape or Mozilla,
+       select "Edit menu | Preferences..." and look at the "Appearance -> Colors"
+       tab. In MSIE, select "Tools menu | Internet Options..." and click
+       the button labelled "Accessibility..." on the "General" tab.
+  <li> If you still cannot see the colour coding and/or symbols,
+       you will need to upgrade to a browser that supports Unicode and Level 1
+       Cascading Style Sheets.
+       (The minimal and bug-ridden support provided by Netscape 4.x or MSIE 3.x
+       is sufficient.)
+</ul>
+
+
+<h2><a name="viewers">Viewing PDF and Postscript files</a></h2>
+
+<p>
+Most of the on-line references are in PDF and/or PostScript format.
+Versions of the Acrobat Reader<sup><small>TM</small></sup> PDF viewer for
+several operating systems are available from Adobe's site:
+<blockquote>
+<a href="http://www.adobe.com/products/acrobat/alternate.html" target="_blank">
+<img src="getacro.gif" width="88" height="31" border="0" alt="Get Acrobat Reader"></a>
+</blockquote>
+
+<p>
+To view PostScript files, you will need GNU or Aladdin Ghostscript, and
+either Ghostview or GSview, all of which are available from
+<a href="http://www.cs.wisc.edu/~ghost/" target="_blank">here</a>. Note that in
+at least some versions of Netscape, compressed PostScript files (with filetypes
+ending .ps.Z or .ps.gz), seem to be downloaded incorrectly when the link to a
+file is clicked on directly. If you encounter this bug, it can be worked
+around by right-clicking on the link, selecting "Save Link As..."
+to save the compressed file, and decompressing it manually (on Windows, use
+a decompression utility that understands .Z and .gz formats, such as
+<a href="http://www.winzip.com" target="_blank">Winzip</a>).
+
+<p>
+Alternatively, the <a href="http://wheel.compose.cs.cmu.edu:8001/cgi-bin/browse/objweb"
+target="_blank">TOM Conversion Server</a> is a very useful service for converting
+documents between different formats (you may find that the file upload option works
+if the URL conversion option does not).
+
+<p>
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=100>
+      <a target="_blank" href="http://validator.w3.org/check/referer">
+      <img src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>
+      <a target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer">
+      <img src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademark information</a>
+</tr></table>
+
+</body>
+</html>

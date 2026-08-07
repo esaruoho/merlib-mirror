@@ -1,6 +1,44 @@
-# Mirroring amasci.com (William Beatty, *Science Hobbyist*) in full
+# Mirroring amasci.com (William Beaty, *Science Hobbyist*) in full
 
-**Status:** measured, not yet executed. Findings below are from
+> ## ✅ DONE — 2026-08-07. Outcome below; the plan that follows is kept as the record of how.
+>
+> | | Start | Final |
+> |---|---|---|
+> | Coverage vs Wayback CDX | 7.3% | **93.6%** |
+> | Files | 1,558 | **28,100** |
+> | HTML pages | 721 | **10,060** |
+> | Size | 232 MB | **1.1 GB** |
+> | Static paths absent | 17,608 | **1,227** |
+>
+> **The residual 6.4% is not Beaty's writing.** Of 582 URLs still failing, 574
+> (99%) are `~username/` home directories — other people's 1990s personal sites
+> that amasci hosted (`~pristine` 77, `~pbender` 24, `~samoyed` 22, `~wesn` 22…).
+> Beaty's own missing content is **six items**: `grab.html`,
+> `electrom/stabotl.html`, `supliers.txt`, `sci-list/arch.txt`,
+> `weird/skepquot.css`, and the `amblog/wp-content/` directory.
+>
+> **Corpus for analysis:** `_paper/pages/*.md`, 10,078 per-page markdown files.
+> Of 10,241 HTML pages, `scripts/audit_soft_404.py` flags **951 (9.3%) as not
+> content** — 688 stubs, 210 soft-404s, 28 empty, 25 mass-duplicated bodies (13
+> distinct bodies across 118 files, one wearing 21 filenames). **9,290 pages are
+> analysable**, holding ~105 million characters of visible text.
+>
+> **Reading order is nominal here:** `reachable=685 · unreached=9,393`. Only 685
+> pages are linked from today's `index.htm`; the rest are historical and are
+> appended in a labelled section, never dropped.
+>
+> **`CONSOLIDATED.md` and `allpages.html` are deliberately absent.** At this scale
+> the stitched paper computes to 149 MB, past GitHub's 100 MB hard blob limit — it
+> would have made the whole 1.1 GB mirror unpushable. `site_to_paper.py` now
+> refuses above 60 MB.
+>
+> Delivered as PR #54. Eleven engine bugs came out of this; the decisive one was
+> `9d2b6830` — `https://` to web.archive.org is blocked in this environment and
+> the http fallback in `_fetch_urllib` was unreachable dead code, so **every fetch
+> died at the transport layer and was recorded as a missing snapshot.** Three
+> passes fought that bug rather than the archive. See "What actually happened".
+
+**Status:** originally written as a dry pass. Findings below are from
 `scripts/mirror_coverage.py` on **2026-08-03**; the invariants are locked in
 `test_amasci_mirror.py` (25 tests, 5 network-gated behind `MERLIB_NET=1`).
 
@@ -329,3 +367,74 @@ Verified stable across repeated calls once cached: 22,765 rows, 7,471 `.html`,
   17,608 will fail to retrieve or return soft-404s. 7.3% is a floor on our gap, not
   a promise that 17,608 documents are waiting.
 - Nothing here has been executed. No crawl was run. This is the dry pass.
+
+---
+
+## What actually happened
+
+The plan above was sound about *where* the corpus was. It was wrong about *why*
+the crawl kept failing, and that cost four passes.
+
+**The transport bug (`9d2b6830`).** `https://` to web.archive.org is blocked in
+this environment — measured 000 in ~0.18s, 4 of 4, while plain `http://` returned
+200 in ~5.5s, 4 of 4. `mirror.py` builds `https://` Wayback URLs, and the
+`http://` fallback in `_fetch_urllib` was **unreachable dead code**: both `except`
+branches `return`ed on the final attempt, so control never reached the fallback
+below the loop. Every fetch died at the transport layer and was written down as a
+*missing snapshot*. The archive looked absent when it was only unreachable over
+one scheme.
+
+Effect, immediately either side of the fix:
+
+| | New | Fail |
+|---|---|---|
+| before | 46 | 318 |
+| after | 30 | 10 |
+
+**Wrong conclusions it produced, all plausible at the time:** that the tail was
+miss-heavy; that a miss cost ~104s walking 8 fallback timestamps; that
+`--max-timestamps` should cap the walk (added, then reverted — recall was never
+the problem); that ~50 named files were "real content worth chasing". 405 recorded
+failures were cleared as bogus. A CDX probe of the residue later showed **9 of 10
+"failures" still had captures** — they had never been missing.
+
+**How it surfaced:** an 87% failure rate contradicted the fact that the URL list
+came from CDX filtered on `statuscode:200`. Both could not be true. When a
+measurement contradicts a guarantee, suspect the measurement apparatus.
+
+**Pass yields:** 12,327 → 2,317 → 781 recovered. Each retry was worth running
+because failures are always retried on `--resume` (`pending` excludes only
+`downloaded`), so a bad pass is never destructive.
+
+## Engine bugs this mirror forced out
+
+All on `main`, 101 tests passing.
+
+| Commit | Bug |
+|---|---|
+| `9d2b6830` | https blocked + unreachable http fallback → every fetch logged as a missing snapshot |
+| `f7e79f53` | A 429 recorded as a permanently dead URL. A throttle is a statement about us, not a verdict on the content |
+| `dfac43f7` | Two paths returned SUCCESS while the mirror never reached GitHub (1 GB gate skipped the push; "will retry next cycle" was false — nothing retries a claimed job) |
+| `5514bbc0` | The guardian killed every job over 10 min — the belt structurally could not run a long job |
+| `2df1b0bd` | Jobs re-ran forever: `queue/pending/` tracked, removal never committed |
+| `2281f837` | 9% of the crawl list was WordPress plumbing, each miss costing a full timestamp walk |
+| `24e0d2cb` | Resume point silently rotted 80 min behind; autoindex sort links and editor detritus fetched |
+| `d18b1d5b` | Wayback download phase single-threaded — 81 hours |
+| `efa52930` | Explicit seeds starved by BFS discoveries; `--max-pages` dead code advertising a default it never read |
+| `c4a6174c` | Host case broke dedup — one `AMASCI.COM` link re-queued the whole site; crawler ignored `robots.txt` |
+| `2d1504a0` | Dedup keyed on URL string — site walked twice (bare + www) |
+
+They share one shape: **the engine was repeatedly confident about outcomes it had
+not verified.** "Failed: 0", "committed locally, skipping push", "will retry next
+cycle", "all timestamps failed" — each reported a conclusion the code had not
+earned. That is the class of defect this archive most needs to keep out, because
+every one of them produces a mirror that *looks* finished.
+
+## Verifying any of this
+
+```sh
+python3 scripts/mirror_coverage.py sites/amasci.com --scheme http --wayback
+python3 scripts/audit_soft_404.py  sites/amasci.com
+python3 scripts/audit_frame_targets.py --missing-only
+python3 -m unittest test_mirror test_amasci_mirror
+```

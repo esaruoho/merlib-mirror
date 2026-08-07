@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+
+<h1 align=center>Standard Cryptographic<br>Algorithm Naming</h1>
+<center>Version 1.0.20a - 22 October, 2002</center>
+
+<hr size=3 noshade>
+<font size="-1"><a href="index.html" target="_top">FRAMES</a></font> |
+<font size="-1"><a href="intro.html" target="_top">NO FRAMES</a></font><br>
+<font size="-1"><a href="http://www.eskimo.com/~weidai/scan-mirror/" target="_top">U.S. MIRROR</a></font> |
+<font size="-1"><a href="http://www.users.zetnet.co.uk/hopwood/crypto/scan/" target="_top">U.K. MAIN SITE</a></font> |
+<font size="-1"><a href="scan.zip">DOWNLOAD AS ZIP FILE</a></font>
+
+<p>
+This document gives references for a collection of cryptographic algorithms.
+Each algorithm is assigned a standard ASCII name, and zero or more aliases.
+The intention is for each algorithm to be specified in sufficient detail
+that independent implementations will be able to interoperate.
+
+<p>
+The list has been designed initially for use by the Java Cryptography
+Architecture, but should be useful in any situation where a convention is
+needed for referring to algorithms by a string.
+<!-- OBJECT IDENTIFIER, or integer. -->
+It can also serve as a source of references for definitions and cryptanalysis
+of various algorithms. The intention is to develop API mappings for languages
+other than Java in future (probably based on existing cryptography libraries).
+
+
+<h2><a name="definitions">Definitions</a></h2>
+
+<p>
+These documents use the terms "MUST", "SHOULD", and "MAY", and their negated
+forms, as defined in
+<a href="http://www.rfc-editor.org/rfc/rfc2119.txt" target="_blank">RFC 2119</a>.
+These terms apply to crypto algorithm and library implementations that are
+intended to conform to some subset of SCAN.
+<p>
+In addition, the terms "WILL" and "WILL NOT" specify consistency requirements
+and policies for SCAN itself. If it is stated that something WILL be true,
+but it is not actually true, please report it as an error. New SCAN entries
+or changes to existing entries must satisfy all WILL and WILL NOT constraints.
+<p>
+The term "byte" always refers to an 8-bit byte, or octet. The value of a
+byte is an integer between 0 and 255 inclusive.
+<p>
+In algorithm descriptions,
+<ul>
+  <li> "A || B" denotes the concatenation of byte strings A and B,
+  <li> "A XOR B" denotes exclusive-OR of equal-length byte strings A and B,
+  <li> "floor(<i>x</i>)" is the largest integer less than or equal to <i>x</i>,
+  <li> "ceiling(<i>x</i>)" is the smallest integer greater than or equal to <i>x</i>,
+  <li> "I2OSP<sub><i>n</i></sub>(<i>i</i>)" is an <i>n</i>-byte big-endian
+       representation of the integer <i>i</i>. 
+</ul>
+<p>
+The accompanying <a href="conventions.html" target="_blank">SCAN Conventions</a>
+document includes other important information on the conventions used in
+compiling this list, which you should read before relying on it for any
+significant application.
+Also see these <a href="suggestions.html" target="_blank">suggestions for
+cryptosystem designers</a>.
+
+
+<h2><a name="resources">General Resources</a></h2>
+
+<p>
+The following are very useful resources for a wide range of algorithms:
+<ul>
+  <li> Lars Knudsen and Vincent Rijmen's
+       <a href="http://www.ii.uib.no/~larsr/bc.html" target="_blank">Block Cipher Lounge</a>.
+  <li> The <a href="http://www.counterpane.com" target=counterpane>Counterpane web site</a>
+       (including their <a href="http://www.counterpane.com/biblio/" target="_blank">
+       index of cryptography papers available on-line</a>, and
+       <a href="http://www.counterpane.com/researchers.html" target="_blank">list of
+       crypto researchers' home pages</a>).
+  <li> The <a href="http://www.cryptography.com" target="_blank">Cryptography Research
+       web site</a> (including more lists of
+       <a href="http://www.cryptography.com/resources/papers/index.html" target="_blank">
+       on-line CRYPTO and EUROCRYPT conference papers</a>, and of
+       <a href="http://www.cryptography.com/resources/authors/index.html" target="_blank">
+       researcher's home pages</a>).
+  <li> Yet more <a href="http://www.cs.berkeley.edu/~daw/people/crypto.html" target="_blank">
+       lists of home pages</a>, this time compiled by
+       <a href="http://www.cs.berkeley.edu/~daw/" target="_blank">David Wagner</a>.
+  <li> The IACR <a href="http://eprint.iacr.org/" target="_blank">Cryptology ePrint Archive</a>,
+       which archives recent papers (since 1996) on cryptography and cryptanalysis.
+  <li> <a href="http://search.ieice.or.jp/2000/index.htm" target="_blank">IEICE Transactions</a>
+       web site.
+  <li> <a href="http://www.ams.org/" target="_blank">American Mathematical Society</a>
+       web site and <a href="http://www.ams.org/jourhtml/journalsearch.html" target="_blank">journal search engine</a>.
+  <li> The <a href="http://citeseer.nj.nec.com/" target="_blank">ResearchIndex</a> web site, also
+       known as CiteSeer (very useful for literature searches).
+  <li> More <a href="http://www.cryptosoft.com/html/secpub.htm" target="_blank">on-line crypto papers</a>
+       from <a href="http://www.cryptosoft.com/" target="_blank">www.cryptosoft.com</a>.
+  <li> <a href="http://www.tcs.hut.fi/~helger/" target="_blank">Helger Lipmaa</a>'s
+       <a href="http://www.tcs.hut.fi/~helger/crypto/" target="_blank">Cryptology pointers</a>.
+  <li> <a href="http://www.uni-mannheim.de/studorg/gahg/PGP/cryptolog1.html" target="_blank">Crypto-Log:
+       Internet Guide to Cryptography</a>.
+  <li> <a href="http://www.mat.dtu.dk/persons/Jakobsen_Thomas/" target="_blank">Thomas Jakobsen</a>'s
+       page on <a href="http://www.mat.dtu.dk/persons/Jakobsen_Thomas/capapers.html" target="_blank">
+       Cryptanalysis of Block Ciphers</a>.
+  <li> <cite>Applied Cryptography, Second Edition</cite>, by
+       <a href="http://www.counterpane.com/schneier.html" target="_blank">Bruce Schneier</a>:<br>
+       <a href="http://www.counterpane.com/applied.html" target="_blank">web page</a>,
+       <a href="http://www.amazon.com/exec/obidos/ASIN/0471117099/cryptix" target="_blank">
+       order from Amazon.com</a>.
+  <li> <cite>Handbook of Applied Cryptography</cite>, by Alfred J. Menezes,
+       Paul C. van Oorschot, and Scott J. Vanstone:<br>
+       <a href="http://www.cacr.math.uwaterloo.ca/hac/" target="_blank">web page</a>,
+       <a href="http://www.amazon.com/exec/obidos/ASIN/0849385237/cryptix" target="_blank">
+       order from Amazon.com</a>.
+</ul>
+
+Thanks to <a href="http://www.eskimo.com/~weidai/" target="_blank">Wei Dai</a>
+for providing the U.S. mirror site for SCAN.
+
+<p><hr size=3 noshade>
+
+<h2>Contents</h2>
+
+<ul>
+  <li> <a href="md.html"  ><code>MessageDigest</code></a>
+  <li> <a href="mac.html" ><code>Mac</code></a> (Message Authentication Codes)
+  <li> <a href="cs.html"  ><code>Cipher</code></a> (symmetric)
+  <ul>
+    <li> <a href="cs.html#mode">Block Cipher Modes</a>
+    <li> <a href="cs.html#pad" >Block Cipher Padding</a>
+  </ul>
+  <li> <a href="kg.html"  ><code>KeyGenerator</code></a>
+  <li> <a href="prf.html" ><code>PRF</code></a> (Pseudo Random Functions) *
+  <li> <a href="ph.html"  ><code>PassphraseHash</code></a> *
+  <li> <a href="sr.html"  ><code>SecureRandom</code></a>
+  <li> <a href="ca.html"  ><code>Cipher</code></a> (asymmetric)
+  <ul>
+    <li> <a href="ca.html#cem" >Asymmetric Cipher Encoding Methods</a>
+  </ul>
+  <li> <a href="sig.html" ><code>Signature</code></a>
+  <ul>
+    <li> <a href="sig.html#sem">Signature Encoding Methods</a>
+    <li> <a href="sig.html#sof">Signature Output Formats</a>
+  </ul>
+<!--
+  <li> <a href="sc.html"  ><code>Signcryption</code></a> *
+-->
+  <li> <a href="ka.html"  ><code>KeyAgreement</code></a>
+  <li> <a href="kpg.html" ><code>KeyPairGenerator</code></a>
+  <li> <a href="kf.html"  ><code>KeyFactory</code></a>
+  <li> <a href="apg.html" ><code>AlgorithmParameterGenerator</code></a>
+  <li> <a href="ap.html"  ><code>AlgorithmParameters</code></a>
+</ul>
+<p>
+* Experimental; not in JCE 1.2.
+
+
+<a name="copyright"></a><hr size=3 noshade>
+<h2>Copyright</h2>
+
+Copyright &copy; 1995-2002 The Cryptix Foundation Limited and David Hopwood.
+All Rights Reserved.
+<p>
+This document and translations of it may be copied and
+furnished to others, and derivative works that comment on or
+otherwise explain it or assist in its implementation may be
+prepared, copied, published and distributed, in whole or in
+part, without restriction of any kind, provided that the above
+copyright notice and this paragraph are included on all such
+copies and derivative works.  However, this document itself may
+not be modified in any way, such as by removing the copyright
+notice, except as needed for the purpose of developing
+Internet standards in which case the procedures for copyrights
+defined in the Internet Standards process must be followed, or
+as required to translate it into languages other than English.
+<p>
+The limited permissions granted above are perpetual and will
+not be revoked by the copyright holders or their successors or
+assigns.
+<p>
+This document and the information contained herein is provided
+on an "AS IS" basis and THE AUTHORS AND CONTRIBUTORS DISCLAIM
+ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT
+INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY
+OR FITNESS FOR A PARTICULAR PURPOSE.
+<p>
+<b>Author and current maintainer</b>:<br>
+David Hopwood &lt;<a href="mailto:david.hopwood@zetnet.co.uk">david.hopwood@zetnet.co.uk</a>&gt;
+
+
+<h2>Trademarks</h2>
+
+"Cryptix" is a trademark of
+<a href="http://www.cryptix.org" target="_blank">The Cryptix Foundation Ltd.</a>
+<p>
+"Java" is a registered trademark of
+<a href="http://www.sun.com" target="_blank">Sun Microsystems, Inc.</a>
+<p>
+"DESX", "RC2", "RC4", "RC5", "RC6", "MD2", "MD4", and "MD5" are registered trademarks of
+<a href="http://www.rsasecurity.com" target="_blank">RSA Security, Inc.</a>
+<p>
+"CAST5", "CAST-128", and "CAST-256" are registered trademarks of
+<a href="http://www.entrust.com" target="_blank">Entrust Technologies, Inc.</a>
+<p>
+"Diamond2 Block Cipher" is a trademark of Michael Paul Johnson.
+<p>
+"IDEA" is a registered trademark of
+<a href="http://www.mediacrypt.com" target="_blank">Mediacrypt</a>.
+<p>
+Other brand, product, and algorithm names may be trademarks or registered
+trademarks of their respective holders.
+<p>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=150>
+      <a target="_blank" href="http://validator.w3.org/check/referer"><img
+      src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

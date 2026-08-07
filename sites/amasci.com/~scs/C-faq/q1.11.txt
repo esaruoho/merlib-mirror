@@ -1,0 +1,35 @@
+Question 1.11 
+
+ Question 1.11 
+ What does extern mean in a function declaration?
+
+ It
+can be used as a stylistic hint
+to indicate that the function's definition
+is probably in another source file,
+but there is no formal
+difference
+between
+ extern int f();
+ and
+ int f();
+
+ References:
+
+ANSI Sec. 3.1.2.2, Sec. 3.5.1
+
+ISO Sec. 6.1.2.2, Sec. 6.5.1
+
+Rationale Sec. 3.1.2.2
+
+H&S Secs. 4.3,4.3.1 pp. 75-6
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

@@ -1,0 +1,554 @@
+---
+title: "differences"
+source_domain: amasci.com
+source_path: ~vecna/differences.htm
+order: 9403
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# differences
+
+*Source page: `~vecna/differences.htm`*
+
+# Differences
+
+## by Christine Morgan
+
+------------------------------------------------------------------------
+
+\
+         "Rick! Wait for me!" Jean called, running after him.\
+         He stopped, flipping back his hair. "You're so slow," he complained as the little girl caught up with\
+him. "Why do girls run so dumb?"\
+         "We do not!"\
+         "You do so, flapping your arms all over like a bird or something. You're s'posed to run fast, fast\
+fast!"\
+         "I do run fast. Just not as fast as you."\
+         "Nobody runs as fast as me," he boasted with the assurance of every one of his six and a half years.\
+         "Yeah," Jean said. "Nobody has to run away from Billy Edgebrook as much."\
+         "I don't run away!"\
+         "Do so!"\
+         "Do not!"\
+         "Then what do you call it when you see him coming and the next thing you know you're halfway to\
+the Wheeler's house?"\
+         "I've got stuff to do," he said.\
+         "Like what?"\
+         "Big, important, secret stuff."\
+         "You do not."\
+         "Well, you wouldn't know about it, 'cause you're just a girl!"\
+         "There's nothing wrong with being a girl. It's better than being a dirty, smelly boy!"\
+         "Is not!"\
+         "Is so!"\
+         "Oh, yeah?" He sprang at her. "Boys are better 'cause girls are ticklish!"\
+         "Eek! Rick, stop it! Stop it, stop it, stopitstopitstopit!" She tried to get away, but he was far too fast\
+and knocked her down, pouncing on her and seizing her feet.\
+         They were both six, almost seven, and twins just like the new babies at their house. The new babies\
+were both girls, and Mama and Papa had named them Ellen and Isabella. That made lots of kids in the\
+Avery house. John was the oldest at nine, the same age as Billy Edgebrook. But Billy was as big as Tommy\
+Yardley, and Tommy was thirteen. Lisa, Rick and Jean's big sister, was eight, Albert was seven, and little\
+Galen had been the baby of the family until the twins were born.\
+         Rick tickled Jean's feet until she was about to cry, then quit. He stood over her, grinning at her\
+while she was all red-faced and puffing. "Who's better?" he taunted.\
+         She kicked him in the knee. "Girls!"\
+         "Ow!" Her bare foot hadn't hurt, but it had surprised him. Girls were like that sometimes. They\
+looked all helpless, but then they'd turn around and kick you or something. They were pests. But they were\
+kind of neat too. The other day, he'd been picking up sticks with Annie Larksley and Elaine Bywell, and\
+Elaine had kissed him and asked if he wanted to see under her tunic. He'd heard that girls had different ones,\
+so he'd said yes, but before she could show him, Billy Edgebrook and Johnny Barclay came by and wanted\
+to beat him up. He hadn't run away, though. He'd just remembered that he was supposed to be doing a\
+chore, and had to get home before Mama got mad.\
+         Jean was giggling now. He pulled her up, resisting the desire to push her in the dirt and pull her\
+blond pigtails.\
+         It was kind of funny. Jeannie had yellow hair and white skin, but he didn't. He didn't look like any\
+of the other kids. His hair was black, always too long and in his face but that was only because he wouldn't\
+hold still to let Aunt Mattie cut it. His eyes were green, but other people like that little Janey Shearer had\
+green eyes, so that wasn't too bad. But his skin was dark, not like Papa's which was dark on his arms and\
+legs and neck but white other places. Rick's was dark all over. And his face was different too, not as\
+roundish as John or Albert's.\
+         It wasn't just his family. Nobody else in town looked like him. He had started noticing lately that\
+people looked at him different too. They sometimes called him a gypsy, though he didn't know what that\
+word meant.\
+         "You shouldn't tickle," she scolded him, but he could tell that she liked it.\
+         "Well, you shouldn't be such a smartie-skirts," he retorted.\
+         "Jean!" Lisa's voice yelled from the direction of the stream. "You've gotta help me with the wash!"\
+         "Oops," Jean said, putting her hand in front of her mouth. "I'm in trouble."\
+         "So what else is new?"\
+         "Well, you're the one that dropped all the eggs," she pointed out. "What's Mama going to say when\
+she asks where the eggs are and you say that you broke them all trying to walk on Mr. Larksley's fence and\
+carry them all at the same time?"\
+         "I'll get other eggs."\
+         "From where?"\
+         "They've got lots of chickens at the Hillsby's house."\
+         "You can't just go take eggs! That's stealing!"\
+         "No it isn't."\
+         "Is so!"\
+         "Is not! They've got more chickens than anybody, and more sheep and more everything. They\
+won't miss a few eggs."\
+         "You were s'posed to get Mrs. Attewater's eggs."\
+         "Mama won't know."\
+         "How?"\
+         "'Cause I'm not gonna tell her, and neither are you."\
+         "But lots of people saw you walking on the fence. You were just showing off for Annie."\
+         "I was not!"\
+         "Was so!"\
+         "Well, she's pretty."\
+         "Rick likes Annie! Rick likes Annie!" she chanted. Then her little face scowled. "Do you think\
+she's prettier'n me?"\
+         "Yeah," he said.\
+         "You brat!" she yelled, slapping at him.\
+         He jumped out of the way. "But you're pretty too," he said quickly. "You're real pretty."\
+         "If I was pretty, you'd give me a kiss."\
+         "I'm not s'posed to kiss you. You're my sister!"\
+         "Elaine Bywell told me that she kissed you on the face."\
+         "She did," he grinned. "It was neat."\
+         "Was it on the mouth?"\
+         "Nope. Right here." He touched his cheek. "Maybe next time she'll kiss me on the mouth. I saw\
+Cathy Hillsby kiss James Evansby on the mouth once."\
+         "I wonder what it's like, kissing somebody on the mouth."\
+         "Me, too. Maybe I'll go to Elaine's house and find out."\
+         "Maybe you could find out right now," she said, putting her arms around his neck and half-choking\
+him as she pulled his head toward hers.\
+         "Jean, quit it!"\
+         "Not until you give me a kiss to show I'm pretty."\
+         "All right!" He kissed her on the mouth.\
+         It was different. Kind of neat. He tasted blueberries, which was what they'd had for lunch a while\
+ago. Peeking, he saw that Jean had her eyes squinched way shut tight. He decided that kissing girls was fun.\
+         Lisa hollered again, and Jean let go. "She's gonna be mad if I don't go help," she said.\
+         "Yeah. Go on. I'll go find some eggs. Maybe I'll look in the woods. There's lots of bird eggs now. I\
+heard Papa telling Mr. Shearer that he saw a nest with six eggs."\
+         "You can't get bird eggs! We'll all turn into birds if we eat bird eggs."\
+         "Will not. We don't turn into chickens eating chicken eggs. Don't be silly. Girls!"\
+         They went in different directions, Jean heading for the stream to help Lisa with the wash and Rick\
+ambling into the green thickness of Glenslot.\
+         The stand of woods wasn't as big as the deeper and darker forest on the other side of the big house\
+where all the Hillsbys lived, but it was plenty big enough. It was right in the Avery's backyard, and all kinds\
+of animals lived in it. Rabbits, squirrels, deer, maybe even bears and dragons. He picked up a long stick to\
+use as a sword just in case.\
+         He explored for a while, starting out looking for eggs but then deciding that it would be neater to\
+find buried treasure like they did in all the stories. His explorations turned up a neat grey rock with white\
+speckles, and a piece of wood that looked exactly like a horse, if he squinted. He'd seen a horse once before.\
+Lordling Edmund used to have one, before he got too fat to ride it and sold it for a whole pile of shillings.\
+Dorus Benjamin had a donkey, but that wasn't anywhere near as neat as a horse.\
+         He heard voices, yelling, from deeper in the woods, and gripped his sword/stick more firmly. One\
+was a girl's voice. Maybe she was in trouble and needed to be rescued.\
+         Dashing in that direction, throwing caution to the winds, Rick quickly saw the girl. Her blaze of\
+bright red hair was like a beacon of fire in the shadowy woods. It was Janey Shearer, who was four but\
+acted like she was lots older. Maybe five, or six. She was bossy enough to be that old, anyway.\
+         There was a bigger boy with Janey, Galen Trelane. He was as old as Rick, and lots thicker though\
+Rick was taller. Galen was holding Janey by the arm, and she was kicking him. Typical girl.\
+         "Lemme go! Lemme go!"\
+         "Stay out of the way then," Galen said, pushing her. She tripped on a branch and fell down, starting\
+to cry.\
+         "Hey!" Rick yelled, brandishing his sword/stick. "Don't pick on girls, you bully!"\
+         "She bit me!" Galen said, holding out his arm, which showed the tiny marks of Jane's teeth.\
+         "You bit him?" Rick asked the sobbing little girl.\
+         "They were chasing Damon," she hiccuped.\
+         "You'll probably get sick from biting poisoned meat," Rick said. "Any yellow sissy who'd hit a girl\
+has gotta be sour."\
+         "I'm no sissy!"\
+         "Wanna bet?"\
+         "I'll show you!" Galen leapt at him, swinging his fists.\
+         Rick jumped out of the way, almost stepping on Jane. "Get out of here!" he told her.\
+         "They were chasing Damon," she repeated stubbornly.\
+         Galen's next swing hit Rick in the ear. He clobbered Galen with the stick, though the side of his\
+head was stinging.\
+         "Ouch!" Galen said, rubbing his arm.\
+         "That'll teach you!" Rick said, hitting at him again and connecting with his leg. "Shouldn't pick on\
+girls!"\
+         Galen grabbed the stick and they both held onto it, pulling each other back and forth. "Go to hell,\
+you rotten gypsy!"\
+         Rick and Jane both gasped at his use of the swear word, and it startled Rick so much that he let go\
+of his end. Galen smacked him with the stick and laughed loudly.\
+         "I'm not a gypsy!" Rick yelled, backing away from the stick.\
+         "You are too! My great-grandpa said so! A dirty no-good gypsy!"\
+         "Shut up!" Rick said, continuing to back up.\
+         "Aw, lookit the gypsy run! Who's the sissy now?"\
+         Furious, Rick threw his rock. It was the only thing he could think of to do, and it proved to be the\
+right thing. The rock hit Galen in the chin, cutting him and making him bleed. Galen dropped the stick,\
+touched his face, looked at the blood on his fingers, and started to cry.\
+         "I'll get you!" he screamed tearfully as he ran away. "Just you wait! I'll get you good!"\
+         "Nyah, nyah!" Rick called after him.  When he was satisfied that Galen was gone, he turned back\
+to Jane. "Are you all right?"\
+         She nodded.\
+         "Gosh, I rescued you."\
+         She nodded again. "He's a bad boy. He talks bad."\
+         "Hey, in the stories, when the hero rescues a girl, he gets to kiss her," Rick said, going up to Jane\
+and trying to do just that.\
+         Jane scooted out of his reach. "I'm only gonna kiss Damon," she declared firmly. "He gets all my\
+kisses, forever and ever."\
+         "Damon? Damon Forrester?"\
+         Her eyes widened. "There's one still chasing him! Davey!"\
+         "Dave Ramsey?"\
+         "Uh-huh." Tears brimmed in her green eyes.  "He'll hurt him!"\
+         "Maybe I can help him!"\
+         "Can you?" she asked hopefully.\
+         He crossed his arms. "Maybe. For a kiss."\
+         "No!" She kicked at him, but was too far away.\
+         "All right, all right! I'll help him anyway! But you should go home. The woods aren't safe for\
+girls."\
+         She agreed, and once he'd seen her safely headed back toward the village, he kept going into the\
+woods. He knew Damon Forrester, kind of. The Forresters lived next door, and Damon's dad had a neat job.\
+He got to go in the woods and hunt animals, and told everyone else how many rabbits they could snare.\
+Damon's big brother Bobby was one of Albert's friends, but most of the kids thought Damon himself was\
+weird. He had a weird name, first off, and his grandma was crazier than a wet cat. She told him all sorts of\
+strange stuff about omens, and he believed her even though everyone else laughed. About the only person in\
+town who didn't think Damon was a few sticks short a bundle was Janey.\
+         He tried to sneak in the woods, but it was a lot harder sneaking over leaves and under branches that\
+would all of a sudden snap back and slap you on the butt as you went by than it was sneaking around the\
+house at night when everyone was sleeping and snoring and the animals down at the far end were shifting\
+and rustling. Still, even without being sneaky as a wood sprite, he found Dave Ramsey soon enough.\
+         Davey was a real brat. His mom and dad were dead, so he lived with his old aunt and uncle and\
+they let him do whatever he wanted to. Right now, what he wanted to do was to beat the stuffing out of\
+Damon, but he couldn't reach him. Davey was standing under a tree, jumping up, trying to grab Damon's\
+feet, and using even more and worse swears than Galen.\
+         "Come down offa there, you shitty little bastard!" Davey was saying as Rick hid behind a tree.\
+         "Come up and get me," Damon replied, which Rick thought was pretty brave.\
+         "Gimme the fur and I won't kill you," Davey said.\
+         Damon was just a normal-looking kid, about a year younger than Rick. He had ordinary brown\
+hair, and he was dressed like all the other kids, except he had a piece of rabbit fur that wrapped around his\
+arm and tied with leather cords. The rest of the kids were jealous of that, and sometimes the bigger ones\
+tried to take it away.\
+         "You couldn't kill a dead mouse," Damon retorted.\
+         "Sure he could," Rick said, stepping out from behind the tree. "Heck, a live mouse would drop\
+dead just looking at his ugly face."\
+         Davey whirled. He was mad. His wide, plain face was red with it. "You wanna be next, gypsy? I\
+can pound both of you."\
+         "Oh, yeah?" Damon cried challengingly. Rick saw that the younger boy had a birdnest in his lap,\
+and he began to pelt Davey with eggs. Most missed, but one landed right on the top of his head and broke,\
+oozing down over his ear. Another splatted against his shoulder.\
+         "That's it!" Davey roared. "I'm going to kill you!" With that, he tried to climb the tree, but Rick\
+grabbed him by the leg and pulled. His other foot took Rick hard in the chest, knocking him over, but he\
+lost his grip on the tree and landed hard on his back. With perfect aim, Damon chose that moment to throw\
+his last egg. It struck Davey right between the legs. He howled, curling up.\
+         "Wow! Good shot!" Rick said admiringly. "Come on, we'd better get out of here!"\
+         Damon half-jumped, half-fell out of the tree. Just then, an earth-shattering roar of primal rage split\
+the forest, and Billy Edgebrook loomed before them.\
+         A high, startled squeak burst from Rick's throat. Damon, next to him, froze as fast as ice on the\
+rainbarrel at Midwinter.\
+         Almost as tall as a grownup, Billy Edgebrook had been called Big Billy since he was a baby. He\
+reached for the two boys with hands that looked to be roughly the size of millstones. He caught Damon by\
+the neck and Rick by the arm.\
+         "Well, well, well," Big Billy said. "Look what I found."\
+         "Damon's mine," Davey wheezed, sitting up with his hands still carefully cradling his wounded\
+jewels. "I'm gonna kick his butt all the way to the bridge!"\
+         "Shut up," Billy snarled at him. To Rick, he said, "Got any money?"\
+         "N-no," he stammered.\
+         "What about you?" he asked Damon.\
+         Damon shook his head as well as he could with his neck lost in Billy's big hand.\
+         "Well, maybe I'll just take this," Billy said, letting go of Rick and reaching for the laces of\
+Damon's rabbitfur armband.\
+         "My dad gave me that," Damon said in a very small and meek voice. Hard to believe that this was\
+the same kid that had dared Davey Ramsey to come up a tree after him.\
+         Rick almost ran, but stopped himself. He hated the low, squirmy twist of fear in his belly, and he\
+hated to see another kid get beat up. He resolved to stay and get pounded right alongside Damon, if that was\
+what was in store for them. Someday, he told himself, I'll be even bigger than Billy Edgebrook. I'll show\
+him. He'll be sorry then.\
+         The image of himself, grown tall and powerful, filled him with a sense of rightness and purpose.\
+Hardly able to believe he was doing it, he stepped up so he was face to chest with Big Billy and punched\
+him in the tummy.\
+         The next thing he knew, he was laying flat on his back with a huge knot of pain where his jaw was\
+supposed to be. Billy was advancing on him, an unpleasant grin on his face. Behind Billy, Damon was\
+doubled over clutching his head, though the armband was still securely tied in place.\
+         Out of the corner of his eye, Rick saw Davey Ramsey moving up on Damon, moving in for the kill\
+with egg smeared all over him. He drew back his foot, ready to make good on his threat to kick Damon all\
+the way to the bridge.\
+         Though he hated to do it, Rick threw himself to his feet and ducked around the startled Billy, who\
+must have been expecting him to lay there and take it. He grabbed a handful of Damon's tunic.\
+         "Run for it!" he yelled into the smaller boy's ear, and immediately took his own advice.\
+         The speed of their escape took the bullies by surprise, but they were after them soon enough, the\
+very ground shaking under Billy's feet as if it was not just a nine-year-old boy but a mountain giant that\
+pursued them.\
+         They darted through the trees, leaping over rocks, and even in the extremity of his fear, Rick was\
+exhilerated. He imagined what it would be like to be galloping a horse through the woods, branches lashing\
+at him, the thunder of hoofbeats ringing in his ears instead of his own panicked heartbeat. Ahead of them, a\
+small stream burbled across the path and vanished under a large fallen log, thickly grown with moss and\
+mushrooms.\
+         "There!" Damon gasped, pointing to the log.\
+         "What?" Rick panted.\
+         "The log! Over it!"\
+         They were momentarily out of sight of the bullies, and Damon veered from the rough path they'd\
+been following. Rick plunged after him, and when Damon planted both hands on the log and vaulted over,\
+he was only a step behind.\
+         On the other side of the log, the stream dropped into a steep, sloping mudlined chute. Damon hit it\
+feet-first, landing on his rear and sliding downward, neatly and in control. But Rick, not familiar with the\
+woods and not knowing what to expect, landed badly, skidded, recovered, lost it, and had the breath\
+knocked out of him as he landed on his chest and began sliding face-first over the slick mud and water.\
+         Roots poking out of the eroded banks of the chute threatened his eyes, and rocks gouged his hands,\
+but he didn't even notice the scrapes. He was shooting down, toward a dark muddy hole in the ground, faster\
+than he'd ever gone before. Water and mud got in his eyes, his mouth. Ahead of him, he saw Damon\
+slowing, and squeezed his eyes shut in anticipation of collision.\
+         He plowed into Damon with all the grace of a drunkard on ice skates, and both of them rolled to\
+the back of the hole in a tangle of arms and legs. They thudded into the damp earthy wall hard enough to\
+clack Rick's teeth together.\
+         "Wow," he said softly, sitting up and shoving Damon off of him. "What is this place?"\
+         "It's my hideout," Damon explained.\
+         The hideout was a low-ceilinged burrow, carved out of the earth by the stream. The exposed rocks\
+were damp and slick, and roots dangled from above, and there were worms and bugs, but it was completely\
+hidden from sight and far from the path.\
+         "It's neat," Rack said. "They'll never find us here!"\
+         "They haven't yet," Damon said. "But whenever I come here, I get muddy, and you should hear my\
+mom yell. Yours is gonna too, when we go home."\
+         "Oh. Yeah." Rick looked down at himself. What he could see was a mud-streaked mess. He was\
+soaked through, and now that the thrill of the descent was over, he felt the stinging in his palms, knees,\
+elbows, and everyplace else he'd bashed. His jaw ached from Billy's wallop, and his ear still hurt from his\
+encounter with Galen Trelane. He was probably bruised head to foot, but he felt great.\
+         "How'd you find it?"\
+         "I was following a rabbit and I fell in."\
+         "Do those guys chase you a lot?"\
+         "Yeah," Damon nodded. "I hate them, but what can I do? They're bigger than me, and older. I\
+mean, someday I'll be famous and important, a reeve, maybe, and then they'll have to do what I say, but\
+that's a long way from now."\
+         "Someday I'm gonna be important too," Rick declared. "A knight like in the stories, maybe, with a\
+big horse and a sword!"\
+         "That'd be good. You're Rick Avery, right?"\
+         "Yeah. And you're Damon Forrester. You live next door."\
+         "What were you doing out here? I didn't see you in the woods before."\
+         "I was gonna look for eggs, because I dropped the ones my mom wanted. But you chucked 'em all\
+at Davey, so I guess I might have to go to the Hillsbys' after all. Gosh, that was a good shot! You hit him\
+right where it counts!"\
+         "You hit Billy!" Damon said, with something like awe. "I've never seen nobody do that before."\
+         "He hates me," Rick shrugged, trying to show bravery. "But I'm not scared of him."\
+         "You're not?"\
+         "Heck, no!"\
+         "Me, either," Damon said boldly. "We showed him, didn't we? He can't push us around."\
+         "Right! Oh, hey, I saw Janey Shearer. She's your girlfriend, right?"\
+         "She's not my girlfriend!" Damon said disgustedly. "She says she is, but she isn't! Girls are icky,\
+and Jane's worse!"\
+         "She's kinda cute," Rick pointed out.\
+         "She is not. She's a pest."\
+         "Well, yeah, but all girls are pests."\
+         "Yeah," Damon agreed, and they grinned at each other, two men of the world.\
+         "So, you wanna come to the Hillsbys' with me?" Rick asked.\
+         "Sure. Do you know Taren?"\
+         "There's so many Hillsbys, I don't know who's who."\
+         "Taren's a kid like us. He's got a dog. Those guys beat up on him, too. Especially Davey. He hates\
+Taren 'cause there was this time that Taren put a piece of cow poop in his milk, and Davey drank some\
+before he knew."\
+         "Wow," Rick said, impressed. "How'd he find out?"\
+         "Well, Taren's got neat ideas sometimes, but he can't keep a secret very good, and he'll do\
+whatever you tell him to, so Davey figured out it was him."\
+         "What'd he do?"\
+         "Whacked him with a piece of stovewood so bad that he was out cold for half a day."\
+         "Really?"\
+         "Yeah. Taren was always kind of funny before, but ever since, he's been even stranger. Still, he's a\
+good guy. I bet he could help us get some eggs."\
+         "All right. Do you think those guys are gone yet?"\
+         "Who cares? Maybe they'll get lost in the woods and we'll never have to see them again."\
+         They clambered out of Damon's hideout. Rick cast an admiring glance over his shoulder as they\
+trudged back up the hill.\
+         "That's really neat."\
+         "You can use it if you want," Damon offered. "Big Billy chases you a lot, doesn't he?"\
+         "Yeah. He hates me 'cause I'm different."\
+         "Me, too. He says I've got a weird name."\
+         "Well, you do have a weird name. Nobody else in town is called Damon."\
+         "But it's the god of night! I was born right at midnight, and that means I'm special. It's a omen. My\
+grandma said so."\
+         Rick started to say something he'd overheard Mrs. Brewster say about Damon's grandma, but\
+thought better of it. "What's a omen? Is that like what you say in church?"\
+         "That's amen, orcbrains. A omen is something different. A sign."\
+         "Like the one over the mill door?"\
+         "No, like when you hear an owl hoot at sunrise instead of a rooster crow. Hoo, hoo! Like that,\
+instead of ee-er-ee-er-oo!"\
+         "Are those s'posed to sound like real animals?"\
+         "Sure they do!"\
+         "Oh." He fell silent, thinking it over. "So, a omen is something weird that happens?"\
+         "That's right."\
+         "I get it."\
+         "There's lots of omens. I saw one last night. There was the moon, right --"\
+         "There's always the moon," Rick said. "That's not weird."\
+         "But it is when there's a black bird on it."\
+         "There's no birds on the moon."\
+         "Not on it. In front of it. A big black bird with big black wings. It's a omen. My grandma says\
+black birds carry dreams. So I saw the bird, then I had this dream that I was falling and falling, and just\
+before I hit the ground, I woke up."\
+         "And that's a omen?"\
+         "Of course it is."\
+         "Oh," he said again.\
+         They left the woods, went way around the houses so their moms didn't see them and call them to\
+do chores or ask about the eggs, and ran all the way down the road to the bridge instead of crossing at the\
+mill like they might have normally done. Their porches looked right at the mill, and they didn't want to get\
+seen.\
+         Rick thought about what Damon had said. He had dreams sometimes, strange dreams about things\
+that later really happened just like he'd dreamed them. Like the time he dreamed he was at Mrs. Bywell's\
+house and she reached for a jar and there was a big wasp on it and she got stung, and then the next day she\
+really did get stung by a wasp. Or the time he dreamed his brother John was going to drown in the river, and\
+woke up and told his mom about it, and she made John take Mike Oakwood and Logan Hillsby with him,\
+and John fell in the river and would have drowned but Mike pulled him out. He remembered how funny\
+Mama had looked at him, and how she had told Papa all about it when he came home from the fields that\
+day. He'd gone around all the rest of the week, thinking they were watching him, wondering if he did\
+something bad, waiting to get in trouble. He hadn't made John fall in the river. He hadn't even been there.\
+But he'd felt like it was his fault.\
+         He and Damon trotted across the bridge. It was huge, made of grey rocks that had been cut and put\
+together in smooth shapes. Everybody said dwarves had made it hundreds and hundreds of years ago, and\
+the stone bridge was how the town got its name. Stonebridge.\
+         It was almost suppertime now, and the men were coming back from the fields. Adam Smith, the\
+biggest guy in town, was crossing the bridge going the other was with his girlfriend Doreen.\
+         "Hello, little fellows!" he hollered at them.\
+         They yelled back in unison, "Hi, Mr. Smith!" He bellowed a lot, but it wasn't because he was mean\
+or mad. It was just becuase his dad was the town blacksmith, and they were all deaf as posts from pounding\
+horseshoes and plowshares on the anvils all day. It was kind of funny, because Doreen had a soft whispery\
+voice. Rick wondered how she ever said anything to him. But maybe that was why he liked her. She was too\
+quiet to boss him the way lots of the town moms bossed the dads.\
+         They cut through the Greensward's yard, waving at Mrs. Greensward and little Roger, then ran\
+through the pretty tree place that was called Manor Park and got on the path, Manor Lane, that led up to the\
+big house where big fat Lordling Edmund lived. Damon kicked a rock laying in the road, and they ran back\
+and forth, kicking it ahead of them, until Rick kicked it too hard and it bounced into a ditch. Laughing, their\
+ordeal in the woods forgotten for the time being, they ran to the edge of Hill's Brook and disdained the\
+wooden footbridge, going upstream and wading through the shallows, splashing each other until the worst\
+of the mud was off and the cool water eased their aches. Then they hurried up the hill toward the huge house\
+where all the Hillsbys lived.\
+         There sure were a lot of Hillsbys. Old Man Hillsby was the oldest person Rick had ever seen, the\
+oldest person in the world. He had white hair and more wrinkles than a walnut. Ashton Hillsby always had a\
+good story to tell, if you liked listening to stories about birds, and he could do some neat woodcarvings.\
+Julia Hillsby was eighteen, and pretty, with soft grey eyes and curves in all the right places, but she didn't\
+have a boyfriend yet and some of the kids whispered that she might grow up to be an old maid. Sarah\
+Hillsby was ten, fat and grouchy, and sometimes teased littler kids just for fun.\
+         Taren Hillsby turned out to be a kid Rick had seen before, and remembered now that he actually\
+saw him. He had straw-colored hair and an open, smiling face that looked ready to believe anything. He was\
+the one that had gotten lost at the Days of Spring Welcoming Festival, and his mom threw a fit, so they had\
+to stop all the festivals and dances and have everyone go out and search. They found him asleep in a\
+haystack, or something. Rick's Mama once said that Mrs. Hillsby ought to keep that boy on a leash, because\
+he always wandered off.\
+         "Hi, Taren," Damon hailed.\
+         "Oh, hi," he said, looking not the least surprised by their soaked and bedraggled condition. It was\
+nearly impossibly to surprise Taren Hillsby, who regarded everything with the same expression of vague\
+wonder.\
+         "Hi," Rick said hesitantly. He'd seen Taren around, but they hadn't ever really met. "I'm Rick\
+Avery. I live over there."\
+         "I'm Taren Hillsby, and I live right there," he said, jerking a thumb over his shoulder toward the\
+big house. "This is Sukie," he added as a rangy shaggy dog bounded up to them and started sniffing the new\
+boys.\
+         "Wow, is he yours?"\
+         "She. Sukie is a bitch," Taren corrected.\
+         "You shouldn't say that!" Damon gasped.\
+         "Well, she is," Taren said, looking at him patiently. "She's a girl dog."\
+         "Does that mean it's all right to say that word?" Rick asked.\
+         "When you're talking about dogs, I guess," Taren said. "Were you fighting?"\
+         "Yeah," Rick said. "Not each other, though. We were fighting Billy Edgebrook."\
+         "And Davey Ramsey," Damon added.\
+         "And Galen Trelane," Rick finished.\
+         Taren goggled at them. "Really?"\
+         "Yeah," Damon said. "They won't mess with us anymore. See, I was up in a tree ... um, not 'cause\
+Davey chased me there but 'cause I was ... um ..."\
+         "'Cause you were being smart," Rick cut in. "Davey couldn't get him, 'cause he's too dumb and\
+slow to climb a tree. He couldn't climb a ladder without his mommy to help him."\
+         "Yeah," Damon said again, more surely. "And I had these eggs, and I really let him have it."\
+         "There were eggs flying everywhere," Rick agreed enthusiastically. "And then I went and knocked\
+him down, and Damon had this one last egg, and whack! got him right where it counts."\
+         "Where?" Taren asked.\
+         "You know," Rick said. "Where Lucas Kettleton kicked Andrew Darby when they were wrestling,\
+and everyone said it was a dirty shot."\
+         "Oh, there," Taren said. "I bet that hurt."\
+         "And you shoulda seen it, Taren," Damon chimed in. "Rick punched Billy! Right in his big fat gut!\
+Pow! Just like that!"\
+         "Then what happened?"\
+         "He clobbered me," Rick admitted, rubbing his jaw. "So we decided they'd had enough."\
+         "Aren't they gonna come after you?"\
+         "Naw," Damon said. "They learned their lesson."\
+         "Yeah," Rick said. "Hey, Taren, you got any eggs?"\
+         Taren reached into the small sack tied to the cord around his waist. He pulled out a dead lizard, a\
+wad of chewed sweet vetch, two marbles, a wooden top, a frog, and a handful of wool. "Nope."\
+         "How about in the henhouse?" Damon asked patiently.\
+         "Oh, there'd be eggs there, I guess," Taren said, nodding.\
+         "Can I have some?" Rick asked.\
+         "Sure," he shrugged.\
+         The three of them went to the Hillsby family henhouse, which was almost as big as the house\
+where the Sodburys lived. Old Mr. Sodbury was the biggest grump in Stonebridge, especially since his son\
+got killed when the Peterson's team spooked and ran over him with the plow. Mr. Sodbury lived all by\
+himself, except for his son's wife and her kid, Sarah, who might have been pretty except she always wore\
+the rattiest clothes and was too skinny.\
+         Rows and rows of chickens regarded them as they came in. Taren got a basket from beside the\
+door and quickly gathered a bunch of eggs. He gave several to Rick, who resolved to carry them more\
+carefully this time.\
+         "Taren! Taren? Where are you?"\
+         "It's my mom," Taren said. "In here!" he called.\
+         Rick tucked the eggs into his tunic, so Mrs. Hillsby wouldn't see them, and followed Taren and\
+Damon into the yard.\
+         Annabelle Hillsby, matronly and pregnant, stood on the porch with her hands on her hips. She\
+frowned as she saw Damon, and her frown deepened as she saw Rick.\
+         "Taren Hillsby, what are you doing?"\
+         "Getting eggs," he replied, holding up the basket.\
+         "That isn't what I mean. What are you doing with those two?"\
+         "Nothing. Just playing."\
+         Rick and Damon shuffled their feet, both suddenly aware of the soggy state of their clothes and the\
+vivid scrapes and bruises beginning to stand out against their skin. Big Billy had left a pretty good handprint\
+in the soft flesh of Damon's neck.\
+         Taren's mom looked them over, sniffing scornfully. "Why don't you play with Logan?"\
+         "He doesn't let me," Taren said matter-of-factly. "He says I'm too little."\
+         "Well, what about your cousin Robert?"\
+         "He plays with Logan."\
+         "I think you'd better come in now, Taren. You don't want to miss supper."\
+         "Can't I stay out a little longer?"\
+         "No," she said firmly. She turned to Rick and Damon. "You two run along home. I won't have you\
+getting my Taren involved in whatever trouble you've been into."\
+         "We haven't done anything," Damon ventured bravely.\
+         "Well, you're certainly a sight for not having done anything. What your mother must be thinking to\
+let you run wild in the woods like a wolf cub is beyond me. Serves her right for listening to that daft old\
+woman. And you," she said, fixing her merciless blue eyes on Rick. "You've been nothing but trouble since\
+the day you were born."\
+         He swallowed. He wasn't afraid of her, but he still decided it would be smarter to keep his mouth\
+shut.\
+         "Now, Taren," Mrs. Hillsby continued, "I want you to promise me you'll stay away from these two.\
+They're dangerous. You know how you get confused sometimes, and I won't have these scamps talking you\
+into doing something wrong."\
+         "I don't get confused --" he began.\
+         "Yes you do," she declared.\
+         "Oh, yeah. I forgot."\
+         "Now, come along. I want you to wash up before dinner. Thank the gods I don't have to take a\
+bristle-brush to you to get the mud off, not like some people's mothers that I could mention. Some people's\
+mothers might not do too badly to scrub first, then turn that brush right around and deliver a couple of good\
+smacks, I think."\
+         Damon looked at Rick, his eyes wide. Dorus Benjamin always said that hitting kids was bad,\
+unless they needed it for discipline. Rick had been spanked once, when Papa had asked him to bring in the\
+pigs before supper and Rick had said no. Once had been enough. He wasn't eager to go through that again.\
+         "See you later, Taren," Damon said.\
+         "Yeah. 'Bye," Rick said.\
+         Taren waved at them as his mom tugged him toward the house.\
+         "She doesn't like me," Damon said. "She thinks I'm a bad ... a bad ... flooens on Taren."\
+         "Why? He seems all right to me."\
+         "He's different too. Like us. He likes to wander around and stuff."\
+         "There's nothing wrong with that," Rick protested.\
+         "I know. But his mom doesn't like it. She says he's gonna fall down a hole and die one day. That's\
+why she doesn't like to let him go play very much. But you know what?"\
+         "What?"\
+         "I play with him anyway."\
+         "Then I will too. If we're all weird as a group, maybe we won't get picked on so bad."\
+         "We're not weird!" Damon insisted. "It's everybody else that's messed up."\
+         "I bet you're right." Rick glanced up at the Hillsby house, the door now closed. He could hear the\
+sounds of all the Hillsbys assembling for supper. "Guess I'd better go home. I got the eggs. Thanks. That\
+was smart, asking Taren to help."\
+         "Come on. If we hurry, we can go over the mill bridge before Mr. Miller closes it."\
+         Not running this time, mindful of his fragile burden of eggs, Rick followed Damon down the hill\
+and over the wooden bridge by the mill. Mama was waiting on the porch.\
+         "Rick! There you are! I've been waiting for those eggs all day. Oh, hello, Damon."\
+         "Hi, Mrs. Avery. Me and Rick were playing."\
+         "Were you? That's nice. Say hello to your mother for me."\
+         "Maybe you can come in the woods with me again tomorrow," Damon suggested.\
+         "Yeah," said Rick. "That'll be neat."\
+         As Damon left, Mama came down and took the eggs as he carefully removed them from his tunic.\
+"So you and Damon are friends?"\
+         "Yeah. I guess so."\
+         She ruffled his dark hair. "Good. I'm glad not everyone in the village is as thick-headed as Andrew\
+Edgebrook."\
+         "What, Mama?"\
+         "Nothing, dear. Now, come inside and let me have a look at your face. Did you fall down?"\
+         "Um ..."\
+         "You were in a fight, weren't you?"\
+         He nodded, waiting for the yelling to start. Instead, Mama sighed heavily.\
+         "Billy?"\
+         "How'd you know?"\
+         "It doesn't take a fortune-teller to figure that one out," she said. She smiled sadly at him. "Don't\
+worry. It won't be like this forever."\
+         "Nope," he said cheerily, realizing that he wasn't going to get in trouble after all. No spankings\
+with a brush for him tonight. Mrs. Hillsby would be mad. "'Cause someday I'll be bigger and stronger than\
+him, and nobody'll chase me anymore."\
+         Mama leaned down and kissed his cheek. "Someday," she promised.\
+
+------------------------------------------------------------------------
+
+\
+*Copyright 1996 by Christine Morgan*

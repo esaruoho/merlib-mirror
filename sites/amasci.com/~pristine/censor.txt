@@ -1,0 +1,341 @@
+Pure Mac: Parental Control - Software for Macintosh 
+
+ Parental Control 
+
+ Web 
+
+ Pure-Mac.com 
+
+ BumperCar 
+ ContentBarrier 
+ CutX Content Filter 
+
+ DansGuardian 
+ InterGate 
+
+ KidsBrowser 
+ KidsGoGoGo 
+
+ KidzMail 
+ Mac Minder 
+
+ Remember to celebrate the good and educate about the bad. Nothing you can do can totally protect your child. Don't get drawn into a false sense of security. 
+You should also check out the Security page for applications to encrypt, hide and securely delete files. 
+Also, a little research into how to delete histories (browsers), recent files (movie players), caches, incomplete downloads (p2p apps) etc. would be a good idea for those who share a computer with others. 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ BumperCar 2.1.1 
+
+BumperCar is a Mac OS X Web browser for kids. It offers unparalleled
+content control and customization features, making it the most powerful
+Web browser for concerned educators and parents on the Macintosh.
+
+ License : Demo (30 day trial), $30
+ Author/Publisher : Freeverse Software
+ Modification Date : September 25, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 17.1 MB
+
+ Home Page 
+
+ ContentBarrier X4 10.4.4 
+
+ContentBarrier sets up a protective wall around your computer. Its
+predefined categories let you choose what you don't want your children
+to see, and you can also create your own custom categories.
+ContentBarrier blocks adult web sites, sites with subjects not fit for
+children, and even blocks chats when predatory language is used. It
+blocks offensive content coming from the Internet. ContentBarrier works
+with multiple users; if you have several children, you can set different
+criteria, corresponding to their age or maturity. You can choose whether
+they have access to newsgroups or whether they can download files. You
+can set the program to let them only use the Internet at certain times,
+and on specific days.The program can even send you e-mail,
+automatically, when certain events occur. ContentBarrier keeps a
+complete log of all web sites visited, whether blocked or not.
+
+ License : Demo, $70
+ Author/Publisher : Intego
+ Modification Date : October 25, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 29.1 MB - Demo
+
+ Home Page 
+
+ CutX Content Filter 4.0.1 
+
+CutX is an extended site blocking plug-in designed for Apple's Safari web
+browser. The basic purpose of the plug-in is to empower you, the user,
+to view the web as you like. You can block any website, the world is your oyster.
+
+If some undesirable content isn't blocked, you can add it to the "block list"
+with a keyboard shortcut. If some desirable content is accidentally getting caught
+by the Block rules (a false positive), you can specifically allow content via an Allow
+keyboard shortcut. The method is similar to adding a Block rule.
+
+With CutX, you can do things Safari never allowed you to do before!
+
+Filter content of web pages before display
+
+Block X-Rated websites
+
+Option to only hide X-Rated pictures
+
+ License : Sharware, $49
+ Author/Publisher : App4Mac
+ Modification Date : January 3, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.3 MB
+
+ Home Page 
+
+ DansGuardian 2.9.9.2 
+
+DansGuardian is an award winning Open Source web content filter which
+currently runs on Linux, FreeBSD, OpenBSD, NetBSD, Mac OS X, HP-UX, and
+Solaris. It filters the actual content of pages based on many methods
+including phrase matching, PICS filtering and URL filtering. It does not
+purely filter based on a banned list of sites like lesser totally
+commercial filters. DansGuardian is designed to be completely flexible
+and allows you to tailor the filtering to your exact needs. It can be as
+draconian or as unobstructive as you want. The default settings are
+geared towards what a primary school might want but DansGuardian puts you
+in control of what you want to block.
+
+ License : Freeware (but not for commercial use)
+ Author/Publisher : Daniel Barron et al
+ Modification Date : December 13, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 486 Kb
+
+ Home Page 
+
+ InterGate 9.2 
+
+InterGate Policy Manager provides you with a set of network security and
+monitoring tools that keep your organization and your users safe from a
+wide array of Internet threats.
+
+ License : Trial - 5 Users $138 etc.
+ Author/Publisher : Vicomsoft
+ Modification Date : September 26, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 14.1 MB - Trial
+
+ Home Page 
+
+ KidsBrowser 3.5.1 
+
+The web browser designed for children.
+It allows you to preset authorized webpages to visit so they won't stumble
+onto explicit information.
+
+It is also a full-screen web browser, meaning they will be locked into the browser
+and not be able to easily exit into the Mac OS X system
+
+ License : Demo, $35
+ Author/Publisher : app4mac
+ Modification Date : March 12, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 9.3 MB
+
+ Home Page 
+
+ KidsGoGoGo 12.5 
+
+Kids GoGoGo prohibits the browsing of adult-only content on the Internet.
+Web filtration for home, school, public space and office. 
+
+ License : Shareware, $30
+ Author/Publisher : MAKI Enterprise Inc.
+ Modification Date : January 11, 2008
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 9.2 MB
+
+ Home Page 
+
+ KidzMail 1.5.1 
+
+With KidzMail children draw pictures and send them to people in their address book. Addressing email is as simple as choosing recipients from a list of pictures and names. Even if children can't read the names they can pick out the pictures. Parents control the address book, so they know who their children are sending email to.
+
+KidzMail sends real email that any email client will accept. Pictures are sent as both JPEGs (a popular picture format found on the Internet) and KidzMail pictures. Even somebody without KidzMail should be able to receive and view KidzMail pictures.
+
+ License : Shareware, $10
+ Author/Publisher : Will Leshner
+ Modification Date : January 22, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Mac Minder 2.5.7 
+
+Parents
+ - Monitor your children's computing habits, limit time with games, email, chatting
+ Teachers and Schools
+ - Manage lab computers, regulate students' time with games and Internet
+ Individuals
+ - Manage and track projects, self-regulate program usage
+ Easy
+ - The Mac Minder administration program makes setup a snap. No special computer knowledge required.
+ Secure
+ - Completely tamper-proof without an administrator password.
+ Reliable
+ - Extensively tested with all compatible configurations.
+
+ License : Shareware, $20
+ Author/Publisher : Luma Code
+ Modification Date : April 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

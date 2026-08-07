@@ -1,0 +1,270 @@
+
+Standings through 10/26/12.
+
+
+
+                          WESTERN CONFERENCE
+Southwest Division                             Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Houston Rockets ........  5  2  0.714   -      3  1    2  1  Won 3    5-2 
+San Antonio Spurs ......  4  3  0.571   1.0    3  1    1  2  Won 1    4-3 
+Dallas Mavericks .......  4  4  0.500   1.5    3  1    1  3  Won 1    4-4 
+Memphis Grizzlies ......  4  4  0.500   1.5    3  1    1  3  Lost 1   4-4 
+New Orleans Hornets ....  4  4  0.500   1.5    2  1    2  3  Won 1    4-4 
+
+Pacific Division                               Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Golden State Warriors ..  6  2  0.750   -      3  0    3  2  Won 1    6-2 
+Sacramento Kings .......  5  2  0.714   0.5    2  1    3  1  Won 1    5-2 
+Los Angeles Clippers ...  5  3  0.625   1.0    3  2    2  1  Won 3    5-3 
+Phoenix Suns ...........  4  3  0.571   1.5    3  0    1  3  Won 1    4-3 
+Los Angeles Lakers .....  0  8  0.000   6.0    0  7    0  1  Lost 8   0-8 
+
+Northwest Division                             Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Minnesota Timberwolves .  5  2  0.714   -      4  0    1  2  Won 2    5-2 
+Utah Jazz ..............  5  3  0.625   0.5    3  0    2  3  Won 1    5-3 
+Oklahoma City Thunder ..  4  3  0.571   1.0    4  0    0  3  Won 1    4-3 
+Denver Nuggets .........  3  4  0.429   2.0    1  1    2  3  Lost 4   3-4 
+Portland Trailblazers ..  3  4  0.429   2.0    2  1    1  3  Lost 1   3-4 
+
+
+                          EASTERN CONFERENCE
+Atlantic Division                              Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Philadelphia 76ers .....  6  1  0.857   -      3  1    3  0  Won 5    6-1 
+Toronto Raptors ........  6  1  0.857   -      5  0    1  1  Won 5    6-1 
+Brooklyn Nets ..........  3  3  0.500   2.5    1  3    2  0  Lost 3   3-3 
+New York Knicks ........  3  3  0.500   2.5    0  0    3  3  Won 1    3-3 
+Boston Celtics .........  3  5  0.375   3.5    1  3    2  2  Lost 1   3-5 
+
+Central Division                               Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Chicago Bulls ..........  5  2  0.714   -      5  1    0  1  Won 4    5-2 
+Indiana Pacers .........  4  3  0.571   1.0    3  0    1  3  Lost 1   4-3 
+Detroit Pistons ........  4  4  0.500   1.5    4  0    0  4  Won 1    4-4 
+Cleveland Cavaliers ....  3  4  0.429   2.0    2  3    1  1  Lost 2   3-4 
+Milwaukee Bucks ........  3  5  0.375   2.5    1  3    2  2  Lost 1   3-5 
+
+Southeast Division                             Home    Road          Last
+Team                      W  L   PCT    GB     W  L    W  L  Streak   10
+Miami Heat .............  4  4  0.500   -      2  3    2  1  Lost 2   4-4 
+Atlanta Hawks ..........  3  4  0.429   0.5    3  0    0  4  Lost 1   3-4 
+Washington Wizards .....  3  5  0.375   1.0    0  1    3  4  Lost 1   3-5 
+Orlando Magic ..........  2  6  0.250   2.0    2  2    0  4  Lost 2   2-6 
+Charlotte Bobcats ......  1  7  0.125   3.0    1  3    0  4  Lost 7   1-7 
+
+
+Note: the following is ordered by games behind, while for the final
+      standings the division winners and the conference team with the
+      next best record gets the #1-#4 seeds.
+
+Western Conference
+    Team                      W  L   GB
+ 1. Golden State Warriors ..  6  2   - 
+ 2. Houston Rockets ........  5  2   0.5
+ 2. Minnesota Timberwolves .  5  2   0.5
+ 2. Sacramento Kings .......  5  2   0.5
+ 5. Los Angeles Clippers ...  5  3   1.0
+ 5. Utah Jazz ..............  5  3   1.0
+ 7. Oklahoma City Thunder ..  4  3   1.5
+ 7. Phoenix Suns ...........  4  3   1.5
+ 7. San Antonio Spurs ......  4  3   1.5
+10. Dallas Mavericks .......  4  4   2.0
+10. Memphis Grizzlies ......  4  4   2.0
+10. New Orleans Hornets ....  4  4   2.0
+13. Denver Nuggets .........  3  4   2.5
+13. Portland Trailblazers ..  3  4   2.5
+15. Los Angeles Lakers .....  0  8   6.0
+
+
+Eastern Conference
+    Team                      W  L   GB
+ 1. Philadelphia 76ers .....  6  1   - 
+ 1. Toronto Raptors ........  6  1   - 
+ 3. Chicago Bulls ..........  5  2   1.0
+ 4. Indiana Pacers .........  4  3   2.0
+ 5. Brooklyn Nets ..........  3  3   2.5
+ 5. Detroit Pistons ........  4  4   2.5
+ 5. Miami Heat .............  4  4   2.5
+ 5. New York Knicks ........  3  3   2.5
+ 9. Atlanta Hawks ..........  3  4   3.0
+ 9. Cleveland Cavaliers ....  3  4   3.0
+11. Boston Celtics .........  3  5   3.5
+11. Milwaukee Bucks ........  3  5   3.5
+11. Washington Wizards .....  3  5   3.5
+14. Orlando Magic ..........  2  6   4.5
+15. Charlotte Bobcats ......  1  7   5.5
+
+
+Games won/lost by # points
+                   20- 15- 10-   WINS               LOSSES    6-  11- 16-
+              >20  16  11   6  5  4  3  2  1    1  2  3  4  5 10  15  20 >20
+Dallas .......  0   2   1   0  1  0  0  0  0    0  0  0  0  0  1   2   1   0
+Houston ......  0   2   0   2  0  0  0  0  1    0  0  0  0  0  1   0   1   0
+Memphis ......  0   0   2   1  0  0  1  0  0    0  0  1  1  0  1   1   0   0
+New Orleans ..  0   0   1   1  1  0  1  0  0    0  0  0  0  0  1   1   1   1
+San Antonio ..  1   0   1   1  0  0  0  1  0    0  0  1  1  0  1   0   0   0
+
+Golden State .  1   0   1   2  0  1  1  0  0    0  0  0  0  0  1   0   1   0
+LA Clippers ..  0   1   1   2  0  0  0  1  0    0  1  0  0  0  1   1   0   0
+LA Lakers ....  0   0   0   0  0  0  0  0  0    0  0  0  0  1  2   2   1   2
+Phoenix ......  0   1   2   1  0  0  0  0  0    0  0  0  0  0  2   1   0   0
+Sacramento ...  0   1   1   2  1  0  0  0  0    0  0  0  0  0  1   1   0   0
+
+Denver .......  0   0   0   2  0  0  0  1  0    0  0  0  0  0  1   1   2   0
+Minnesota ....  2   1   1   1  0  0  0  0  0    0  0  0  0  1  0   1   0   0
+Portland .....  0   2   0   1  0  0  0  0  0    0  0  0  1  0  1   1   1   0
+Oklahoma Cit .  1   0   1   2  0  0  0  0  0    1  0  0  0  1  0   0   1   0
+Utah .........  1   1   1   2  0  0  0  0  0    0  1  1  0  0  1   0   0   0
+
+                   20- 15- 10-   WINS               LOSSES    6-  11- 16-
+              >20  16  11   6  5  4  3  2  1    1  2  3  4  5 10  15  20 >20
+Boston .......  2   0   1   0  0  0  0  0  0    1  0  1  0  0  2   0   0   1
+Brooklyn .....  0   0   0   1  0  0  1  0  1    0  1  0  0  0  1   0   0   1
+New York .....  0   0   0   1  0  0  1  1  0    0  0  0  0  0  1   1   1   0
+Philadelphia .  1   0   1   4  0  0  0  0  0    0  0  1  0  0  0   0   0   0
+Toronto ......  0   1   1   3  0  0  1  0  0    0  1  0  0  0  0   0   0   0
+
+Chicago ......  0   0   1   2  1  1  0  0  0    0  0  1  0  0  1   0   0   0
+Cleveland ....  0   0   0   1  0  0  2  0  0    0  0  0  1  0  0   1   2   0
+Detroit ......  1   1   0   0  1  0  0  1  0    0  0  0  0  0  1   0   2   1
+Indiana ......  0   1   0   0  1  1  1  0  0    0  0  0  0  0  1   1   1   0
+Milwaukee ....  0   2   0   1  0  0  0  0  0    0  0  1  0  0  3   0   0   1
+
+Atlanta ......  1   1   1   0  0  0  0  0  0    0  1  0  1  0  1   0   1   0
+Charlotte ....  0   0   1   0  0  0  0  0  0    0  0  1  0  1  2   1   1   1
+Miami ........  1   0   1   1  0  0  1  0  0    0  0  0  0  0  3   1   0   0
+Orlando ......  0   1   0   0  0  1  0  0  0    0  0  1  0  1  1   1   1   1
+Washington ...  0   0   0   2  0  1  0  0  0    0  0  1  0  0  2   2   0   0
+
+
+Win-Loss for last # games (H=home, R=road):
+               L5  L10   L15   L20  HL5 HL10  HL15  HL20  RL5 RL10  RL15  RL20
+Dallas ...... 2-3  4-4   4-4   4-4  3-1  3-1   3-1   3-1  1-3  1-3   1-3   1-3 
+Houston ..... 3-2  5-2   5-2   5-2  3-1  3-1   3-1   3-1  2-1  2-1   2-1   2-1 
+Memphis ..... 2-3  4-4   4-4   4-4  3-1  3-1   3-1   3-1  1-3  1-3   1-3   1-3 
+New Orleans . 1-4  4-4   4-4   4-4  2-1  2-1   2-1   2-1  2-3  2-3   2-3   2-3 
+San Antonio . 2-3  4-3   4-3   4-3  3-1  3-1   3-1   3-1  1-2  1-2   1-2   1-2 
+
+Golden State  3-2  6-2   6-2   6-2  3-0  3-0   3-0   3-0  3-2  3-2   3-2   3-2 
+LA Clippers . 4-1  5-3   5-3   5-3  3-2  3-2   3-2   3-2  2-1  2-1   2-1   2-1 
+LA Lakers ... 0-5  0-8   0-8   0-8  0-5  0-7   0-7   0-7  0-1  0-1   0-1   0-1 
+Phoenix ..... 3-2  4-3   4-3   4-3  3-0  3-0   3-0   3-0  1-3  1-3   1-3   1-3 
+Sacramento .. 3-2  5-2   5-2   5-2  2-1  2-1   2-1   2-1  3-1  3-1   3-1   3-1 
+
+Denver ...... 1-4  3-4   3-4   3-4  1-1  1-1   1-1   1-1  2-3  2-3   2-3   2-3 
+Minnesota ... 4-1  5-2   5-2   5-2  4-0  4-0   4-0   4-0  1-2  1-2   1-2   1-2 
+Portland .... 2-3  3-4   3-4   3-4  2-1  2-1   2-1   2-1  1-3  1-3   1-3   1-3 
+Oklahoma Cit  4-1  4-3   4-3   4-3  4-0  4-0   4-0   4-0  0-3  0-3   0-3   0-3 
+Utah ........ 3-2  5-3   5-3   5-3  3-0  3-0   3-0   3-0  2-3  2-3   2-3   2-3 
+
+               L5  L10   L15   L20  HL5 HL10  HL15  HL20  RL5 RL10  RL15  RL20
+Boston ...... 2-3  3-5   3-5   3-5  1-3  1-3   1-3   1-3  2-2  2-2   2-2   2-2 
+Brooklyn .... 2-3  3-3   3-3   3-3  1-3  1-3   1-3   1-3  2-0  2-0   2-0   2-0 
+New York .... 2-3  3-3   3-3   3-3  0-0  0-0   0-0   0-0  2-3  3-3   3-3   3-3 
+Philadelphia  5-0  6-1   6-1   6-1  3-1  3-1   3-1   3-1  3-0  3-0   3-0   3-0 
+Toronto ..... 5-0  6-1   6-1   6-1  5-0  5-0   5-0   5-0  1-1  1-1   1-1   1-1 
+
+Chicago ..... 4-1  5-2   5-2   5-2  4-1  5-1   5-1   5-1  0-1  0-1   0-1   0-1 
+Cleveland ... 2-3  3-4   3-4   3-4  2-3  2-3   2-3   2-3  1-1  1-1   1-1   1-1 
+Detroit ..... 3-2  4-4   4-4   4-4  4-0  4-0   4-0   4-0  0-4  0-4   0-4   0-4 
+Indiana ..... 3-2  4-3   4-3   4-3  3-0  3-0   3-0   3-0  1-3  1-3   1-3   1-3 
+Milwaukee ... 1-4  3-5   3-5   3-5  1-3  1-3   1-3   1-3  2-2  2-2   2-2   2-2 
+
+Atlanta ..... 2-3  3-4   3-4   3-4  3-0  3-0   3-0   3-0  0-4  0-4   0-4   0-4 
+Charlotte ... 0-5  1-7   1-7   1-7  1-3  1-3   1-3   1-3  0-4  0-4   0-4   0-4 
+Miami ....... 3-2  4-4   4-4   4-4  2-3  2-3   2-3   2-3  2-1  2-1   2-1   2-1 
+Orlando ..... 2-3  2-6   2-6   2-6  2-2  2-2   2-2   2-2  0-4  0-4   0-4   0-4 
+Washington .. 2-3  3-5   3-5   3-5  0-1  0-1   0-1   0-1  2-3  3-4   3-4   3-4 
+
+
+Month and Division Records
+    Oct  Nov   Dec   Jan   Feb   Mar   Apr    SW    Pac   NW    Atl   Cen   SE
+Dal 4-4  0-0   0-0   0-0   0-0   0-0   0-0    2-0   0-1   0-1   0-0   0-0   2-2 
+Hou 5-2  0-0   0-0   0-0   0-0   0-0   0-0    3-2   0-0   1-0   0-0   0-0   1-0 
+Mem 4-4  0-0   0-0   0-0   0-0   0-0   0-0    0-1   0-0   0-0   0-1   1-2   3-0 
+NO  4-4  0-0   0-0   0-0   0-0   0-0   0-0    0-3   0-0   0-0   0-0   0-0   4-1 
+SA  4-3  0-0   0-0   0-0   0-0   0-0   0-0    1-0   0-0   0-1   0-0   0-0   3-2 
+
+GS  6-2  0-0   0-0   0-0   0-0   0-0   0-0    0-0   3-1   2-1   0-0   0-0   1-0 
+LAC 5-3  0-0   0-0   0-0   0-0   0-0   0-0    0-0   2-0   2-2   0-0   0-0   1-1 
+LAL 0-8  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-5   0-3   0-0   0-0   0-0 
+Pho 4-3  0-0   0-0   0-0   0-0   0-0   0-0    1-0   1-2   2-1   0-0   0-0   0-0 
+Sac 5-2  0-0   0-0   0-0   0-0   0-0   0-0    0-0   4-2   1-0   0-0   0-0   0-0 
+
+Den 3-4  0-0   0-0   0-0   0-0   0-0   0-0    1-0   2-2   0-2   0-0   0-0   0-0 
+Min 5-2  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   0-0   4-2   1-0 
+Por 3-4  0-0   0-0   0-0   0-0   0-0   0-0    0-0   1-3   2-1   0-0   0-0   0-0 
+OKC 4-3  0-0   0-0   0-0   0-0   0-0   0-0    1-1   1-0   1-1   0-0   0-1   1-0 
+Uta 5-3  0-0   0-0   0-0   0-0   0-0   0-0    0-0   3-2   2-1   0-0   0-0   0-0 
+
+    Oct  Nov   Dec   Jan   Feb   Mar   Apr    SE    Pac   NW    Atl   Cen   SE
+Bos 3-5  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   2-4   0-0   1-1 
+Bro 3-3  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   2-3   0-0   1-0 
+NY  3-3  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   2-3   0-0   1-0 
+Phi 6-1  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   4-1   1-0   1-0 
+Tor 6-1  0-0   0-0   0-0   0-0   0-0   0-0    1-0   0-0   0-0   1-0   2-1   2-0 
+
+Chi 5-2  0-0   0-0   0-0   0-0   0-0   0-0    1-0   0-0   2-1   0-0   2-1   0-0 
+Cle 3-4  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-0   0-1   1-2   2-1 
+Det 4-4  0-0   0-0   0-0   0-0   0-0   0-0    0-0   0-0   0-1   1-1   0-1   3-1 
+Ind 4-3  0-0   0-0   0-0   0-0   0-0   0-0    1-0   0-0   1-1   0-0   1-1   1-1 
+Mil 3-5  0-0   0-0   0-0   0-0   0-0   0-0    0-1   0-0   0-1   0-1   2-1   1-1 
+
+Atl 3-4  0-0   0-0   0-0   0-0   0-0   0-0    2-2   0-0   0-0   0-0   0-2   1-0 
+Cha 1-7  0-0   0-0   0-0   0-0   0-0   0-0    0-3   0-0   0-1   0-0   0-2   1-1 
+Mia 4-4  0-0   0-0   0-0   0-0   0-0   0-0    1-1   1-1   0-0   0-0   1-0   1-2 
+Orl 2-6  0-0   0-0   0-0   0-0   0-0   0-0    1-3   0-0   0-0   0-1   1-2   0-0 
+Was 3-5  0-0   0-0   0-0   0-0   0-0   0-0    0-1   0-0   0-0   0-3   2-0   1-1 
+
+
+Division Records
+       W-L    HW  HL  RW  RL   SW      Pac     NW      Atl     Cen     SE
+SW    21-17   14   5   7  12   6-6     0-1     1-2     0-1     1-2    13-5   
+Pac   20-18   11  10   9   8   1-0    10-10    7-7     0-0     0-0     2-1   
+NW    20-16   14   2   6  14   2-1     7-7     5-5     0-0     4-3     2-0   
+Atl   21-13   10   7  11   6   1-0     0-0     0-0    11-11    3-1     6-1   
+Cen   19-18   15   7   4  11   2-1     0-0     3-4     1-3     6-6     7-4   
+SE    13-26    8   9   5  17   4-10    1-1     0-1     0-4     4-6     4-4   
+
+
+10 Largest Win Margins (home team listed first)
+10/16  34  LAL 80, Uta 114
+10/15  32  Phi 107, Bos 75
+10/18  30  Bro 85, Bos 115
+10/7   30  xxx 75, Bos 105
+10/18  29  Atl 97, NO 68
+10/18  27  Mia 105, Det 78
+10/7   27  LAL 83, GS 110
+10/16  26  Det 112, Orl 86
+10/26  24  Mil 76, Min 100
+10/16  22  OKC 120, Cha 98
+
+
+10 Lowest Scores (home team listed first)
+10/18   68  Atl 97, NO 68
+10/10   70  Min 84, Ind 70
+10/22   71  LAC 88, GS 71
+10/26   72  Pho 88, Den 72
+10/22   74  Dal 87, NO 74
+10/15   75  Phi 107, Bos 75
+10/13   75  Min 82, Chi 75
+10/12   75  Hou 95, NO 75
+10/12   75  Tor 82, Det 75
+10/10   75  LAL 75, Por 93
+
+
+10 Highest Scores (home team listed first)
+10/15  123  Dal 123, Hou 104
+10/26  120  Mem 106, Tor 120
+10/22  120  Por 120, Uta 114
+10/16  120  OKC 120, Cha 98
+10/15  117  Sac 117, Por 100
+10/14  116  Hou 107, SA 116
+10/24  115  Mem 115, Orl 100
+10/18  115  Bro 85, Bos 115
+10/22  114  Por 120, Uta 114
+10/16  114  LAL 80, Uta 114
+
+

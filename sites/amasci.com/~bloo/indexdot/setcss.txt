@@ -1,0 +1,115 @@
+Preview/Change Site Stylesheet 
+
+ Preview/Change Site Stylesheet 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Using An Alternate Stylesheet For The Site 
+ For users of IE4+ and Netscape 6+ browsers (hopefully soon Opera as well), you 
+ can select one of several stylesheets to use for the entire site by choosing 
+ from the list below. You can preview the style sheet's effect beforehand by 
+ selecting the "Preview" button. The "Save Settings" button will finalize your 
+ style sheet settings for the site by saving the information in a browser cookie. 
+ Once you save your settings, the browser will then use the stylesheet elsewhere on the site.
+
+ Current Style Sheet Used: 
+ Select a Style Sheet: 
+
+ None
+ Black/Circusy
+ Modern
+ Newspaper
+ Forest
+
+ Sample CSS Styles: 
+
+ Sample Page Header 
+ Alert: Special Value 
+ Support Key: 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE1 | M | N1 | O2.1 ] 
+ In-Page Link 1 
+ In-Page Link 2 
+ In-Page Link 3 
+
+ In-Page Link 4 
+ In-Page Link 5 
+ In-Page Link 6 
+
+ = Index DOT Html by 
+ Brian Wilson = 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ Main Heading 
+ Regular text is here. This is Alert content 
+ This is secondary Alert content . For those who like
+ hyperlinks, this is what Hyperlink text looks like.
+ If you need a very special message, it is marked up as a 
+ Magic Word .
+
+ Main Heading Again 
+ Sub-heading 
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M | N4B2 | O ]
+ Level 3 Item heading: 
+ This is the description of the level 3 heading.
+
+ Example 
+ < tagname 
+ ATTRIBUTE1 =Value1
+ ATTRIBUTE2 ="Value2" 
+ STYLE =" css-property: 
+ property-value">Element content is here.
+ </ tagname > 
+
+ Support Key 
+
+ HTML 
+
+ XHTML 
+
+ Browsers 
+
+ Tag 
+ Attribute 
+ 2.0 
+ 3.0 
+ 3.2 
+ 4.0 
+ &#160; 
+ 1.0 
+ 1.1 
+ &#160; 
+ IExplorer 
+ Mosaic 
+ Netscape 
+ Opera 
+
+ Element 
+ X X 
+ X X 
+ X X 
+ 1.0 1.0 
+ 1.0 2.1 
+
+ Attribute 
+ -- -- 
+ -- X 
+ X X 
+ 4.0B1 -- 
+ -- --

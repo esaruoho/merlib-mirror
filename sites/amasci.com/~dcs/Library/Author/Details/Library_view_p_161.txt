@@ -1,0 +1,69 @@
+Seattle C. G. Jung Society Library - Book Detail Page 
+
+View TABLE: Library 
+ Back to List 
+
+ ID 
+ 2071 
+
+ Author 1 
+ Progoff, Ira (translator) 
+
+ Author 2 
+
+ Author 3 
+
+ Author 4 
+
+ Editor 1 
+
+ Editor 2 
+
+ Editor 3 
+
+ Title 
+ CLOUD OF UNKNOWING, THE 
+
+ Publisher 
+ Dell Publishing Co., Inc. 
+
+ Copyright Date 
+ 1983 
+
+ Source 
+ --- 
+
+ Subject 1 
+ Religion -- Christianity -- Medieval. 
+
+ Subject 2 
+ Christian mysticism. 
+
+ Subject 3 
+ Mysticism -- Medieval. 
+
+ Subject 4 
+
+ Date Rec 'd 
+
+ Cost 
+
+ ISBN Number 
+ 0-440-31994-3 
+
+ Cover 
+ trade paper 
+
+ Edition Number 
+
+ Volume 
+
+ Series 
+
+ Field 1 
+
+ Data Code 
+
+ LC Number 
+
+ KMMC

@@ -1,0 +1,29 @@
+---
+title: "NCPA Sidebar"
+source_domain: amasci.com
+source_path: ~ncpa/help.html
+order: 5339
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:12:18Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# NCPA Sidebar
+
+*Source page: `~ncpa/help.html`*
+
+## We need your help!
+
+The NCPA is run by volunteers. We don't make any money off of field memberships (to make it easy for fields to get involved) and we don't make any money off of tournaments (to make it as cheap for players to participate as possible)
+
+So the moral of the story is, we can't pay to hire anybody to do anything. We could definitely use your help though. What we need:
+
+- College clubs (or groups of reps from different clubs) to set up and maintain NCPA regional leagues like the GPICT, MICT, NEIC and SEIC. The GPICT and SEIC were set up just this year by just such people. If there isn't a regional league in your area yet, that's your cue to start one - if there is, feel free to get in touch with the contact for that league about helping out anyway.
+- People who can write Perl cgi scripts. A lot of this is automated on the web, something uncommon to most of the paintball industry, but it needs some maintaining and sometimes (being the busy folk we are) we don't get things fixed as soon as we should. We're also looking to expand the functionality significantly, and help would be appreciated.
+- General input - we have the web board up, so we need tohear about what you think about what the NCPA is doing and should do. Those of us involved closely have a wide base of experience with colleges and paintball, but we'd be pretty pompous to think that we know everything there is to know.
+- People to point their local fields to this site and the [College Friendly Fields List (www.fieldlist.college-paintball.com)](http://www.fieldlist.college-paintball.com) (easy) and set up clubs at their colleges (NOT easy, but we'll help as much as we can).
+- Someone with some graphics design talent. As you may have noticed, we have a banner but the rest of the site is pretty barren. Taking care of that, frankly, is something beyond my ability, but we'd greatly appreciate some help in that area for those of you with a little creativity and talent to exude.
+
+If you've got some time to offer, email [Chris (raehl311@yahoo.com)](mailto:raehl311@yahoo.com)

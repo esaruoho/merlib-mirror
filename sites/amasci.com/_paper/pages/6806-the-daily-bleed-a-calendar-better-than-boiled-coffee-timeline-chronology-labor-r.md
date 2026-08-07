@@ -1,0 +1,455 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0212.htm
+order: 6806
+reachable_from_entry: false
+images: 18
+internal_links: 0
+extracted: 2026-08-07T17:14:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0212.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **Trou - ble, trou-ble, I've had it all my days.**
+>
+> Trou - ble, trou-ble, I've had it all my days.
+>
+> It seems that trou-ble's going to fol-low me to my grave.
+>
+>  *words & music, Lovie Austin & Alberta Hunter, Down-Hearted Blues* <http://xroads.virginia.edu/~UG97/blues/down.html#Sheet>\
+
+
+
+[]()\
+[]()\
+\
+--
+
+FEBRUARY 12
+
+LOU ANDREAS-SALOME\
+Intellectual mistress to Freud, Rilke, Nietzsche, etc.
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > NEW YEAR'S DAY - in the 20day, 18 month Aztec calendar (preceded by the five "useless days" of Nemontemi). Today begins the month of Atlcoualco.
+> >
+> > Oaxaca, Mexico. FESTIVAL OF PITOOYAGE, God of Gaming & Chance.
+> >
+> > PEASANTS' RIGHTS DAY. India.
+> >
+> > ------------------------------------------------------------------------
+
+[]()\
+
+[]()\
+\
+1128 -- Toghtekin slave / atabek of Damascus, dies. []()\
+[]()\
+\
+<img src="http://webusers.anet-stl.com/~civil/duke.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="102" height="47" alt=" ? " />\
+1554 -- Thrown?: Lady Jane Grey, deposed 19 July 1553 at age 15 after playing Queen of England for 9 days, being charged with treason, is today beheaded. Last words: "You can kiss my . . ."
+
+Needless to say, Tarzan (aka Lord Grey) is not happy. See opening lines, today's opening poem top... []()\
+[]()\
+\
+1804 -- Immanuel Kant dies, Konigsberg, Prussia. []()\
+[]()\
+\
+1809 -- Charles Darwin (1809-1882) lives, Shrewsbury, Shropshire. The Origin of the Species, published November 24, 1859, sold out immediately. He saw five more editions in his lifetime. Darwin's voyage on the H.M.S. Beagle, recorded in the Journal of Researches, is said to be one of the best books of travel ever written.\
+<http://www.windows.umich.edu/people/enlightenment/darwin.html>\
+<http://www.kirjasto.sci.fi/darwin.htm>\
+\
+1809 -- Abraham Lincoln lives, Hardin (now Larue) County, Kentucky. During the Civil War, as a strategic move to weaken Confederate Army forces after three years of battle, he decided to proclaim southern slaves free. []()\
+[]()\
+\
+1825 -- Up the Creek?: Treaty of Indian Springs cedes all Creek Indian land in Georgia to the US federal government. []()\
+[]()\
+\
+1828 -- George Meredith, novelist/poet (The Ordeal of Richard Feverel, Love in the Valley), lives, Portsmouth. <http://www.library.utoronto.ca/utel/rp/authors/meredith.html>\
+[]()\
+\
+1831 -- US: Nat Turner's revolt in Virginia begins with divine signal -- solar eclipse. See also November 11. []()\
+[]()\
+\
+1853 -- US: Illinois passes a law that requires any black entering the state & staying more than 10 days to pay a \$50 fine. If unable to pay, they would be sold into slavery for a period commensurate with the fine. []()\
+[]()\
+\
+1861 -- Lou Andreas-Salome lives, St. Petersburg, Russia.\
+<http://www4.hmc.edu:8001/humanities/Nietzsche/Salome.htm>\
+\
+
+[]()\
+\
+1870 -- Official proclamation sets April 15 as last day of grace for US silver coins to circulate in Canada. []()\
+[]()\
+\
+<img src="http://jefferson.village.virginia.edu/seminar/unit8/speech.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="258" height="254" alt=" ? " />\
+1873 -- Rated X?: US: Congress abolishes bimetallism.\
+<http://jefferson.village.virginia.edu/seminar/unit8/crgold.htm>\
+<http://www.micheloud.com/FXM/MH/Crime/index.htm>\
+\
+1877 -- U.S. railroad workers begin strikes protesting wage cuts. (See 14 July).\
+[]()\
+[]()\
+\
+1877 -- Witchcraft?: Alexander Graham Bell first publicly demonstrated his telephone with a call between Boston & Salem, Massachusetts. []()\
+
+[]()\
+\
+1880 -- John L. Lewis, United Mine Workers (UMW) & CIO president, lives. The American secret police will accumulate 2,815 pages on him.
+
+<http://www.spartacus.schoolnet.co.uk/USAlewisJL.htm>\
+<http://www.umwa.org/history/jll1.shtml>\
+<http://newdeal.feri.org/laborbib/index.htm>\
+<http://foia.fbi.gov/lewis.htm>\
+<http://www.dol.gov/dol/oasam/public/programs/laborhall/jll.htm>\
+\
+<img src="http://www.afmltd.demon.co.uk/costantini/graphics/gallery/images/c22-Terminus.jpg" data-border="0" data-hspace="10" data-vspace="10" width="548" height="414" alt="?" />\
+1894 -- France: A week after the execution of [Auguste Valliant](http://www.eskimo.com/%7Erecall/bleed/sinners/VaillantAuguste.htm), Paris anarchist Emile Henry throws bomb into the bourgeois Cafe Terminus, killing one & injuring 17. Arrested & executed May 21.
+
+> Beware of believing anarchy to be a dogma, a doctrine above question or debate, to be venerated by its adepts as is the Koran by devout Moslems. No! The absolute freedom which we demand constantly develops our thinking & raises it toward new horizons...takes it out of the narrow framework of regulation & codification. We are not 'believers!'
+>
+>  Emile Henry
+>
+> <img src="http://www.eskimo.com/~recall/bleed/images/bombline.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="568" height="32" alt="BOMB" />\
+> Echoing Emile Henry's terrible refrain to justify his bombing of the Cafe Terminus "There are no innocent bourgeois," the jurist responded, in effect, that there were no innocent intellectuals either.
+>
+> In the Cafe Terminus on the Rue St Lazare, Emile Henry, an anarchist student, threw a home-made bomb into he crowd of petty bourgeois busy drinking beer and listening to the orchestra playing "Marthe" by Flotow. Seventeen people were injured. "This pretentious & stupid crowd of employees, earning from 300 to 500 francs a month; more reactionary than their bourgeois masters . . ."
+>
+> See the Anarchist Encyclopedia page,\
+> <http://recollectionbooks.com/bleed/sinners/HenryEmile.htm>\
+
+[]()\
+\
+1900 -- Fernand Planche (1900-1974) lives, Auvergne. French writer/activist of "Anarchist Synthesis" (establishing links between all the various tendencies).
+
+> A founder of the review "La conqute du pain", & participant in "Brochure mensuelle". Imprisoned the winter 1939-1940 for inciting soldiers to desert, then interned in Germany as a "subversive element." Helped rebuild the libertarian movement after the war, then moved to New Caledonia in 1950, where he opposed colonialism. Wrote "Durolle au pays des couteliers," a biography of Louise Michel, &, with Jean Delphy, a biography of Kropotkin.
+
+<http://perso.club-internet.fr/ytak/fevrier2.html#12>\
+[]()\
+\
+1905 -- Federica Montseny, major figure of Spanish anarchism, lives, in Madrid.\
+See Camillo Berneri's "Open letter to comrade Federica Montseny",<http://flag.blackened.net/revolt/berneri/in_government.html>\
+<http://www.municipio.re.it/manifestazioni/berneri/dopo.htm>\
+[]()\
+[]()\
+\
+1908 -- Andrew Garve (aka Roger Bax), short story/mystery writer, with a reputation as one of the finest contemporary practitioners of thrillers.\
+<http://www.kirjasto.sci.fi/agarve.htm>\
+[]()\
+\
+1908 -- US: New York to Paris auto race (via Alaska & Siberia) begins in New York NY; George Schuster wins after 88 days behind the wheel. []()\
+[]()\
+\
+1908 -- US: Anna Jeanes bequeathes \$1,000,000 to Swarthmore to become all female. []()\
+[]()\
+\
+1909 -- US: Founding of The National Association for the Advancement of Colored People (NAACP) by W.E.B. DuBois & others, New York City. []()\
+[]()\
+\
+1913 -- US: Mary Harris "Mother" Jones leads a protest of conditions in the West Virginia mines & is arrested. (On May 8, newly-elected Governor Hatfield releases her from jail.)
+
+> A government official once called Mary Jones "The most dangerous woman in America." She was dangerous to the established order because she was fearless in her defense of the oppressed working class. For 60 years she went into mining towns where men often feared to go, organizing unions. The miners called her "Mother" Jones. She was still out there at age 83. No rockin' chair for her...
+>
+> 
+>
+> > God,  if You had but the moon\
+> >      Stuck in Your cap for a lamp,\
+> >  Even You'd tire of it soon,\
+> >      Down in the dark and the damp.
+> >
+> > 
+> >
+> > Nothing but blackness above\
+> >      And nothing that moves but the cars. . . .\
+> >  God, if You wish for our love,\
+> >      Fling us a handful of stars.
+> >
+> > 
+> >
+> > ---Louis Untermeyer\
+> >  excerpt from Caliban in the Coal Mines, from *Challenge*, 1914\
+> > (This poem is based on the Few Clothes Johnson, the character played by James Earle Jones in John Sayles' film Matewan.)
+> >
+> > UMWA miners on Paint Creek in Kanawha County demanded wages equal to those of other area mines. The operators rejected the wage increase & miners walked off the job today, beginning one of the most violent strikes in the nation's history. 
+> >
+> > At the age of 83, Mother Jones was convicted by a military court of conspiring to commit murder & was sentenced to 20 years in prison. The event created such a furor that the U.S. Senate form a committee to look into conditions in the West Virginia coalfields.
+> >
+> >  <http://www.kentlaw.edu/ilhs/majones.htm>\
+> > <http://www.meetingground.org/loavfish/lf599/motherjones.htm>\
+> > <http://www.dol.gov/dol/oasam/public/programs/laborhall/mj.htm>\
+> > <http://208.48.218.9/group/ColonialWars/message/23943>\
+> > <http://www.feminista.com/v3n8/cruey.html>\
+> > <http://www.execpc.com/~shepler/mojo.html>\
+
+[]()\
+\
+<img src="http://www.isomedia.com/homes/harpo/gallery/9600/images/1211m.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="270" height="270" alt=" ? " />\
+1924 -- Rhapsody in Blue first performed by George Gershwin as composer/pianist, premieres his Rhapsody in Blue at Aeolian in NY, backed by the Paul Whiteman Orchestra. 
+
+Inspires a whole new generation of rhap singers in the 80s. <http://www.isomedia.com/homes/harpo/gallery/9600/gallery_1996-2000_1of3.html>\
+\
+[]()\
+\
+1927 -- France: Preliminary meeting is held for 'international conference', based on the Dielo Trouda group's 'Organisational Platform'. 
+
+> Present, apart from the Dielo Trouda group (founded by Nestor Makhno, Peter Arshinov & other exiled Russian & Ukrainian anarchists in Paris), was a delegate from the French Anarchist Youth, Odeon; a Bulgarian, Pavel, in an individual capacity; a delegate of the Polish anarchist group, Ranko, & another Pole in an individual capacity; several Spanish militants, among them Orobon Fernandez, Carbo, & Gibanel; an Italian, Ugo Fedeli; a Chinese, Chen; & a Frenchman, Dauphlin-Meunier; all in individual capacities.
+>
+> []()\
+
+[]()\
+\
+1938 -- Judy Blume lives. Breakthrough author of realistic books for children. []()\
+[]()\
+\
+1945 -- Beginning of the Greek Civil War.\
+(this date/entry needs to confirmed; source: Birchall, Workers Against The Monolith, Pluto Press []()\
+[]()\
+\
+1946 -- US: Picket demanding amnesty for jailed war resisters at Danbury Federal Penitentiary, Connecticut. []()\
+[]()\
+\
+1947 -- 60 anti-draft demonstrators burn their draft cards in New York City during an anti-war demonstration. First draft card burning in America "against peacetime draft". Now a tradition.
+
+> Between 400 & 500 veterans & conscientious objectors from World Wars I & II burn their draft cards in two demonstrations, in front of the White House in Washington & at the Labor Temple in New York City, in protest of a proposed universal conscription law.
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/war/fishhook.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="300" height="140" alt=" ? " />\
+1955 -- American Pie?: US agrees to train the South Vietnamese Army. Beloved & Respected Comrade Leader President Ike Eisenhower sends first US advisors to South Vietnam.\
+
+> > **ROCK & ROLL RECON**
+> >
+> > The only "good morning" there ever was in Vietnam\
+> >   was the day we left.
+> >
+> >  Armed Forces Radio did keep the killers\
+> >   hopping to rock-&-roll.
+> >
+> >  We'd recon the Que Son Valley in\
+> >   two light airplanes everyday.
+> >
+> >  Now I won't bullshit you: it was no Ashau,\
+> >   but it was badder than Leech Valley---\
+> >     a real Charles County, Marlboro Country.
+> >
+> >  Bad things grew in the valley\
+> >   & the Jolly Green Giant was a\
+> >     rescue chopper in Danang.
+> >
+> >  Above the smoking vills, the burned-out tanks,\
+> >   we bopped along with the Four Seasons,\
+> >     "Working my way back to you, babe."
+> >
+> >  The Mamas & the Papas were "California Dreamin"\
+> >   & so were our pilots as they waggled\
+> >     their wings in time to the music.
+> >
+> >  Only on Xmas did we get serious.\
+> >   We'd sing songs like\
+> >     "Wake the town & kill the people."
+> >
+> >        The Poetry of Ben D. Trail
+> >
+> >  <http://www.vietvet.org/bdtrail.htm>\
+
+\
+[]()\
+\
+<img src="http://www.dfki.de/~stefan/privat/Galerie/Bilder/M/sj1-128.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="192" height="128" alt="?" />\
+1956 -- Crypt-kicker Screamin' Jay Hawkins records I Put a Spell on You for Okeh records in New York City.
+
+
+
+<img src="http://www.roadhouseblues.com/biographics/ScreaminJaybio.jpg" data-border="0" data-hspace="10" data-vspace="10" width="153" height="290" alt="?" />
+
+<http://ohiobio.org/hawkins.htm>\
+<http://www.jayskids.com/>\
+<http://www.salon.com/people/obit/2000/02/18/hawkins/>\
+<http://www.roadhouseblues.com/biopages/bioScreaminJ.htm>\
+\
+<http://www.geocities.com/Hollywood/Lot/3001/>\
+\
+1959 -- Carl Sandburg, poet/socialist, addresses joint session of the US Congress on 150th anniversary of Lincoln's birthday.\
+<http://carl-sandburg.com/>\
+[]()\
+\
+1960 -- Pat Boone earns a gold LP for "Pat's Great Hits."
+
+> "America can't stand pat!"
+>
+>        Beloved & Respected Comrade Leader Dick m Nixon
+
+[]()\
+[]()\
+\
+1961 -- Patrice Lumumba, leader of anti-colonial struggle & former president of the Democratic Republic of Congo (Zaire), murdered. []()\
+[]()\
+\
+1961 -- Rexroth's personalist approach to poetry & critique of impersonalism...
+
+In Assays, the most important selection is "The New Poetry," an essay first published in the New York Times Book Review, today.
+
+<img src="http://recollectionbooks.com/bleed/images/rexrot_b.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="96" alt="?" />In this essay, after reviewing the history of US poetry in the 20th century, Rexroth profiles over a dozen active poets whom he recommends. In a sense, Rexroth prepares a road map to Donald Allen's The New American Poetry (1960). 
+
+For special praise he singles out Levertov, Creeley, Duncan, Snyder, & Whalen. Facing the difficulty readers might have in obtaining books by these poets, Rexroth identifies two publishers specializing in the "avant-garde, Grove Press & New Directions".
+
+Examining these two books reaffirms the important role played by Rexroth's publisher, New Directions, in fashioning the emerging new taste. Perhaps not as well remembered is the part played by "The Nation" in the late 1950s & early 1960s in opening new poetic opportunities. 
+
+16 of the 38 pieces in these two books were published first in that magazine. With their spirit, breadth, learning, & strong outsider stance, the essays by Rexroth in these two collections played a significant role in developing the view of North American poetry in the 1960s. <http://www.ume.maine.edu/~npf/abstracts.html>\
+<http://www.slip.net/~knabb/rexroth/>\
+\
+<img src="http://www.5years.com/carnegiehomeanime.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="125" height="143" alt=" ? " />\
+1964 -- The Beatles play two concerts at New York City's Carnegie Hall, their first US appearance. The NY Times' review of the second performance credits the 3,000 fans in the audience as giving the show & the Beatles as merely their accompanists. []()\
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/acidcube.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="44" height="64" alt="?" />\
+1966 -- US: Watts acid test causes major freak-outs when people drink electric Kool-Aid, unaware it is dosed with LSD. []()\
+[]()\
+\
+1966 -- Rock For Peace at the Fillmore Auditorium in Frisco, California, with The Great Society, [Quicksilver Messenger Service](http://www.penncen.com/quicksilver/), & Big Brother & the Holding Company. Benefit for Democratic congressional candidates & the Viet Nam Study Group.
+
+Meanwhile, it's [Lincoln's Birthday Party with Sopwith Camel](http://www.sopwithcamel.com/) at the Firehouse, former quarters of Engine Co. 26 & Truck Co. 10, 3767 Sacramento St. The Charlatans also appeared. []()\
+[]()\
+\
+1967 -- Benefit at the Fillmore for the Council for Civic Unity. Moby Grape, & [Sly & the Family Stone](http://www.slyfamstone.com/main.html) perform. []()\
+[]()\
+\
+<img src="http://www.cd-bootleg.com/index_pic.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="225" height="271" alt=" ? " />\
+1968 -- A Key Weighs...? Jimi Hendrix returns home to Seattle where he plays for the students of Garfield High School (which he dropped out from), receives a key to the city.\
+<http://www.cd-bootleg.com/Jimi_Hendrix.htm>\
+[]()\
+\
+1969 -- "Wild, uncontrolled" oil leakage, caused by natural gas under pressure, occurs on the ocean floor off the coast of Santa Barbara, California. The gas was trapped when a Union Oil gusher was capped with cement (see 28 January). []()\
+[]()\
+\
+1969 -- US: Howard University law school protest. Prelude to larger protest on the 18th. Things are beginning to heat up on campuses all over the US. []()\
+[]()\
+\
+1974 -- US: After 10-years of direct actions to claim treaty fishing rights, Washington State tribes win court decision giving them 50% of allowable salmon catch. Legislators have sought to undermine or overturn the ruling ever since. []()\
+[]()\
+\
+1976 -- Popular Movement for the Liberation of Angola (MPLA) proclaims victory over (National Union for the Total Independence of Angola, Jonas Savimbi, President -- supported by U.S.) UNITA forces, winning the Angolan Civil War. UNITA forms coalition with FLNA (National Front for the Liberation of Angola)(?). []()\
+[]()\
+\
+1980 -- Poet Muriel Rukeyser dies, New York City. Many of her poems are based upon her witness of important daily events. Taught at the California Labor School, among others. Poet Kenneth Rexroth once observed there may never have been an American poet who deserved the Nobel Prize as much as Muriel Rukeyser did.
+
+> "The universe is made of stories, not of atoms."
+
+<http://www.westmass.com/Paris-Press/muriel.htm>\
+<http://www.english.uiuc.edu/maps/poets/m_r/rukeyser/rukeyser.htm>\
+\
+1983 -- Composer jazz man Eubie Blake dies.\
+<http://library.thinkquest.org/10320/Blake.htm>\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/authors/julios.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="500" height="38" alt="?" />\
+1984 -- Argentine novelist/activist/jazz-lover (he played trumpet) Julio Cortazar dies, Paris, France.\
+<http://www.trill-home.com/cortazar/>\
+<http://www.juliocortazar.com.ar/>\
+[](http://www.literatura.org/Cortazar/Cortazar.html)\
+<http://www.geocities.com/Athens/8559/english.html>\
+\
+1984 -- "Can a handicapped person run the nation? One is now!"
+
+Jesse Jackson, dismissing the notion that a disabled person could not be US president
+
+> > Beloved & Respected Comrade Leader acting President Reagan tells a group of junior high students about how Rex barks in front of Lincoln's bedroom & won't go in, which makes the president think Lincoln's ghost is there. *"Well"* he says, *"I guess that's enough of a history lesson here for today."*
+
+[]()\
+[]()\
+\
+<img src="http://www.tinytim.org/photos/houseonrock.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="250" height="170" alt=" ? " />\
+1989 -- US: Tiny Tim declares himself a New York City mayoral candidate.\
+<http://www.tinytim.org/>\
+
+\
+[]()\
+\
+1989 -- Reverend Barbara Clementine Harris is elevated to the episcopate of the Anglican Church.
+
+> Harris has long advocated social change in the church & society. She's also a long-time member of the Union of Black Episcopalians, a group formed to promote the participation of blacks in the church & eradicate racism in society. In reply to the Church of England's ongoing refusal to recognize the status of female priests & bishops, Harris responds: *"I could be a combination of the Virgin Mary, Lena Horne & Madame Curie, & I would still get clobbered by some."*
+
+[]()\
+[]()\
+\
+1989 -- A Novel Protest?: 5 Pakistani Moslem rioters killed protesting Satanic Verses.
+
+
+
+<img src="http://www.salon.com/06/features/rushdie.gif" data-border="0" data-hspace="10" data-vspace="10" width="278" height="174" alt="?" />
+
+\
+<http://www.flyingfish.org.uk/articles/rushdie/price.htm>\
+<http://www.inetmag.cz/cisla/37/rush.htm>\
+<http://www.rjgeib.com/thoughts/burning/sr-death.html>\
+<http://www.kirjasto.sci.fi/rushdie.htm>\
+\
+1989 -- Controversial Austrian writer Thomas Bernhard dies in Gmunden.\
+[]()\
+[]()\
+\
+1991 -- North & South Korea form a joint team for table tennis competition. Don't know who supplied the joints or who won; split-decision probably still in arbitration? []()\
+[]()\
+\
+1999 -- Havana?: \$40 million dollars later, Beloved & Respected Comrade Leader "Loose Willy" Clinton smokes Congress.\
+
+[]()\
+[]()\
+\
+3000 --
+
+*When action grows unprofitable, gather information;\
+when information grows unprofitable, sleep.*
+
+Ursula K. LeGuin, The Left Hand of Darkness
+
+[]()\
+
+> > []()\
+> > \
+> > 4000 --
+
+> <img src="http://www.freewillastrology.com/pages/zenpride/archives/march99/menstrual1.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="190" height="250" alt="?" />
+>
+> > []()\
+> > []()\
+> >
+> > ------------------------------------------------------------------------
+> >
+> > anti-CopyRite 2000-3000, more or less\
+> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > or send questions, suggestions, additions, corrections to:\
+> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> >
+> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> >
+> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> >
+> > anarchist, labor, radical books
+> >
+> > See also: Anarchist Encyclopedia\
+> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > Stan Iverson Memorial Library\
+> > http://recollectionbooks.com/siml/\
+> > Anarchist Time Line / Chronology\
+> > http://recollectionbooks.com/bleed/indexTimeline.htm

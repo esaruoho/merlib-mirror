@@ -1,0 +1,59 @@
+The Loadlin+Win95 mini-HOWTO 
+
+ The Loadlin+Win95 mini-HOWTO 
+
+ Authored by: Chris Fischer, 
+ protek@brigadoon.com v1.4.6 revised: 13 March 1999
+
+ This document describes how to use Loadlin with Windows 95 to boot to
+Linux. 
+
+ 1. Introduction 
+
+ 1.1 Copyright 
+ 1.2 New Versions Of This Document and Windows 98 
+ 1.3 Feedback 
+ 1.4 Disclaimer 
+
+ 2. IMPORTANT: Preliminary Information and Setup 
+
+ 2.1 WARNING! for Windows95 OSR2 (version 4.00.950b) users: 
+ 2.2 Things that are assumed: 
+ 2.3 Items you need before you start: 
+
+ 3. Getting started: 
+
+ 3.1 Determine what version of Windows 95 you have. 
+ 3.2 Determine if you are using the FAT32 file system. 
+ 3.3 Make sure filename extensions are visible in Windows Explorer. 
+ 3.4 Rename your system files. 
+ 3.5 Important Warning. 
+ 3.6 Edit your system files. 
+
+ 4. *** Use this section ONLY if you are using a DOS 6.x boot disk.*** 
+
+ 4.1 Edit and Rename your DOS 6.x system files. 
+
+ 5. Final Steps 
+
+ 5.1 Almost Finished 
+ 5.2 You are finished! 
+ 5.3 How it works. 
+
+ 6. Alternate Methods for Auto-Booting Linux, Especially for Users With a FAT32 File System. 
+
+ 6.1 Method 1. 
+ 6.2 Method 2. 
+
+ 7. Frequently Asked Questions: 
+
+ 7.1 Where can I find more information on using Loadlin? 
+ 7.2 I am not sure what partition Linux is installed on. How do I find out? 
+ 7.3 Where do I find the kernel image file and how do I copy it to my MS-DOS partition? 
+ 7.4 Does it matter if I install Linux or Windows 95 first? 
+ 7.5 I currently have LILO installed, but I want to use Loadlin instead. How do I remove LILO? 
+ 7.6 What if I already dual boot between Windows 95 and Windows 3.x, and I want to boot to Linux using this method? 
+ 7.7 Is it possible to initiate Linux from the Windows 95 desktop? 
+ 7.8 Where can I get a plain text version of this document? 
+
+ 8. Credits

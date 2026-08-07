@@ -1,0 +1,141 @@
+---
+title: "Thirtieth of January. (1662)"
+source_domain: amasci.com
+source_path: ~lhowell/bcp1662/state/january30_1662.html
+order: 4643
+reachable_from_entry: false
+images: 23
+internal_links: 6
+extracted: 2026-08-07T17:11:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Thirtieth of January. (1662)
+
+*Source page: `~lhowell/bcp1662/state/january30_1662.html`*
+
+## A Form of Prayer,
+
+### to be used yearly on the xxx. day of *January*,
+
+being the day of the Martyrdom of K. CHARLES the First.
+
+------------------------------------------------------------------------
+
+*If this day shall happen to be Sunday, this Form of Service shall be used the next day following.*
+
+*The Service shall be the same with the usual Office for Holidays in all things; except where it is hereafter otherwise appointed.*
+
+*The Order for Morning Prayer*
+
+*He that ministereth, shall begin with one of these sentences.*
+
+\
+
+**<img src="../images/c_big.gif" data-align="LEFT" alt="C" />ORRECT**, O Lord, but with judgement: not in thine anger, lest thou bring us to nothing. *Jer.* x. 24.\
+      Rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil. *Joel* ii. 13.\
+      It is of the Lord's mercies that we are not consumed, because his compassions fail not. *Lam.* iii. 22.
+
+*Instead of* Venite Exultemus *shall this Psalm following be used, one verse by the Priest, and another by the Clerk and People.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> COME**, let us worship and fall down : and kneel before the Lord our Maker. *Psalm* xcv. 6.\
+      *Let us repent, and turn from our wickedness: and our sins shall be forgiven us.* *Acts* iii. 19.\
+      Let us turn every one from his evil way: and the Lord will turn from fierce anger, and we shall not perish. Jonah iii. 8, 9.\
+      *We acknowledge our faults : and our sin is ever before us.* Psalm li. 3.\
+      We have provoked thine anger, O Lord: but there is mercy with thee : therefore shalt thou be feared. Lam. iii. 42 *Psalm* cxxx. 4.\
+      *O shut not up our souls with sinners : nor our life with the blood-thirsty;* *Psalm* xxvi. 9.\
+      Thou hath promised, O Lord, that before we call, thou wilt answer; and whiles we are yet speaking, thou wilt hear. *Isai.* lxv. 24.\
+      *And now in the anguish of our souls we cry unto thee: Hear, Lord; and have mercy.* *Bar.* iii. 1.\
+      O Lord, rebuke us not in thine indignation : neither chasten us in thy displeasure. *Psalm* vi. 1.\
+      *For thy Names sake be merciful unto our sin; for it is great.* *Psalm* xxv. 10.\
+      Turn thy face from our sins : and put out all our misdeeds.\
+      *Make us clean hearts, O God : and renew a right spirit within us.*\
+      Deliver us from bloud-guiltiness, O God: thou that art the God of our salvation. *Psalm* li. 9, 10, 14.\
+      *O deliver us, and be merciful to our sins: for thy Names sake.* *Psalm* lxxix. 9.\
+      O be favourable and gracious unto Sion : build thou the walls of Jerusalem. *Psalm* li. 18.\
+      *So we that are thy people, and sheep of thy pasture, shall give thee thanks for ever : and will alway be shewing forth thy praise from generation to generation.* *Psalm* lxxix. 14.\
+      Glory to the Father, and to the Son: and to the Holy Ghost;\
+      *As it was in the beginning, is now, and ever shall be: world without end. Amen.*
+
+*Proper Psalms.* [vii](../psalter/psalms_1.html#7), [ix](../psalter/psalms_1.html#9), [x](../psalter/psalms_1.html#10), [xi](../psalter/psalms_1.html#11).\
+*Proper Lessons.\
+The First,* [2 *Sam.* i](http://www.gospelcom.net/cgi-bin/bible?version=KJV&passage=2+Samuel+1).\
+*The Second,* [St. *Matth.* xxvii](http://www.gospelcom.net/cgi-bin/bible?version=KJV&passage=Matthew+27).
+
+*Instead of the first Collect at Morning Prayer, this which followeth shall be used.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> MOST** mighty God, terrible in thy judgments, and wonderful in thy doings toward the children of men, who in thy heavy displeasure didst suffer the life of our late gracious Soveraign, to be this day taken away by wicked hands; We thy unworthy servants, humbly confess, that the sins of this Nation have been the cause which hath brought this heavy judgment upon us. But, O gracious God, when thou makest inquisition for bloud, lay not the guilt of this innocent bloud, (the shedding whereof nothing but the bloud of thy Son can expiate) lay it not to the charge of the people of this Land; nor let it ever be required of us, or our posterity. Be merciful, be merciful unto thy people, whom thou hast redeemed; and be not angry with us for ever: But pardon us for thy mercies sake, through the merits of thy Son Jesus Christ our Lord. *Amen.*
+
+*    In the end of the Litany (which shall always on this day be used) immediately after the Collect \[*We humbly beseech thee, O Father, &c.*\] these three Collects are to be used.*\
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> LORD**, we beseech thee, mercifully hear our prayers, and spare all those who confess their sins unto thee, that they whose consciences by sin are accused, by thy merciful pardon may be absolved, through Christ our Lord. *Amen.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> MOST** mighty God, and merciful Father, who hast compassion upon all men, and hatest nothing that thou hast made, who wouldest not the death of a sinner, but that he would rather turn from his sin, and be saved: Mercifully forgive us our trespasses, receive and comfort us, who are grieved and wearied with the burthen of our sins. Thy property is always to have mercy, to thee only it appertaineth to forgive sins; Spare us therefore good Lord, spare thy people whom thou hast redeemed; enter not into judgment with thy servants, who are vile earth, and miserable sinners; but so turn thine anger from us, who meekly acknowledge our vileness, and truly repent us of our faults; and so make haste to help us in this world, that we may ever live with thee in the world to come; through Jesus Christ our Lord. *Amen.*
+
+*Then shall the people say this that followeth, after the minister.*
+
+**<img src="../images/t_small.gif" data-align="LEFT" alt="T" />URN** thou us, O good Lord, and so shall we be turned; Be favourable, O Lord, Be favourable to thy people, Who turn to thee in weeping, fasting and praying: For thou art a merciful God, Full of compassion, Long-suffering, and of great pity. Though sparest, when we deserve punishment, And in thy wrath thinkest upon mercy. Spare thy people, good Lord, spare them, And let not thine heritage be brought to confusion. Hear us, O Lord, for thy mercy is great, And after the multitude of thy mercies look upon us, Through the merits and mediation of thy blessed Son Jesus Christ our Lord. *Amen.*
+
+------------------------------------------------------------------------
+
+*In the Communion Service, immediately after the Commandments shall this collect be used.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> ALMIGHTY** Lord, and everlasting God; Vouchsafe, we beseech thee, to direct, sanctifie, and govern both our hearts and bodies in the way of thy laws, and in the works of thy commandments; that through thy most mighty protection both here and ever, we may be preferred in body and soul; through our Lord and Saviour Jesus Christ. *Amen.*
+
+*    Then shall follow the Prayer for the King,* \[Almighty God, whose Kingdom is everlasting, &c.\] *And after that, these two collects instead of that for the day.*\
+
+**<img src="../images/b_small.gif" data-align="LEFT" width="34" height="36" alt="B" />LESSED** Lord, in whose sight the death of thy saints is precious; We magnifie thy name for that abundant grace bestowed upon our late Martyred Soveraign; by which he was enabled so chearfully to follow the steps of his blessed Master and Saviour, in a constant meek suffering of all barbarous indignities, and at last resisting unto bloud; and even then, according to the same pattern, praying for his murderers. Let his memory, O Lord, be ever blessed among us, that we may follow the example of his patience, and charity. And grant, that this our Land may be freed from the vengeance of his bloud, and thy mercy glorified in the forgiveness of our sins: and all for Jesus Christ his sake. *Amen.*
+
+**<img src="../images/g_small.gif" data-align="LEFT" alt="G" />RANT**, Lord, we beseech thee, that the course of this world may be so peaceably ordered by thy governance, that thy Church may joyfully serve thee in all godly quietness, through Jesus Christ. *Amen.*
+
+*The Epistle.* [1 St. Pet. ii. 13.](http://www.gospelcom.net/cgi-bin/bible?version=KJV&passage=1+Peter+2:13-23)
+
+**<img src="../images/s_small.gif" data-align="LEFT" alt="S" />UBMIT** your selves to every ordinance of man for the Lords sake: whether it be to the King, as supreme; Or unto governors, as unto them that are sent by him for the punishment of evil doers, and for the praise of them that do well. For so is the will of God, that with wel-doing ye may put to silence the ignorance of foolish men: As free, and not using your liberty for a cloak of maliciousness, but as the servants of God. Honour all men. Love the brotherhood. Fear God. Honour the King. Servants be subject to your masters with all fear; not only to the good and gentle, but also to the froward. For this is thank-worthy, if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it, if when ye be buffeted for your faults, ye shall take it patiently? but if when ye do well, and suffer for it, ye take it patiently; this is acceptable with God. For even hereunto were ye called; because Christ also suffered for us, leaving us an example, that ye should follow his steps; who did no sin, neither was guile found in his mouth.
+
+*The Gospel*. [St. Matth. xxi. 33.](http://www.gospelcom.net/cgi-bin/bible?version=KJV&passage=Matthew+21:33-999)
+
+**<img src="../images/t_small.gif" data-align="LEFT" alt="T" />HERE** was a certain housholder which planted a vineyard, and hedged it round about, and digged a wine-press in it, and built a tower, and let it out to husbandmen, and went into a far countrey. And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it. And the husbandmen took his servants, and beat one, and killed another, and stoned another. Again, he sent other servants, more than the first: and they did unto them likewise. But last of all he sent unto them his son, saying, They will reverence my son. But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance. And they caught him, and cast him out of the vineyard, and slew him. When the lord therefore of the vineyard cometh, what will he do unto those husbandmen? They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.
+
+*    After the Prayer,* \[For the whole state of Christs Church, &c.\] *this collect shall be used.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> LORD**, our heavenly Father, who dost not punish us as our sins have deserved, but hast in the midst of judgment remembered mercy; We acknowledge it thy special favour, that though for our many and great provocations thou didst suffer thine Anointed to fall this day into the hands of violent and bloud-thirsty men, and barbarously to be murdered by them; yet thou didst not leave us for ever as sheep without a shepherd, but by thy gracious providence didst miraculously preserve the undoubted heir of his Crown, our most gracious Sovereign King *CHARLES* the Second, from his bloudy enemies, hiding him under the shadow of thy wings, until their tyranny was overpast, and bringing him back in thy good appointed time to sit in peace upon the throne of his Father, and to exercise that authority over us, which of thy special grace thou hadst committed unto him. For these thy great and unspeakable mercies we render thee most humble thanks from the bottom of our hearts, beseeching thee still to continue thy gracious protection over him, and to grant him a long and happy reign over us: So we that are thy people, will give thee thanks for ever, and will alway be shewing forth thy praise from generation to generation, through Jesus Christ our Lord. *Amen.*
+
+------------------------------------------------------------------------
+
+*    The Order for Evening Prayer*
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td> </td>
+<td colspan="3"><em>Proper Psalms.</em> <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Psalms+38">Xxxviii</a>. <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Psalms+64">Lxiv</a>, <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Psalms+143">Cxliii</a>.</td>
+</tr>
+<tr data-valign="CENTER">
+<td> </td>
+<td><em>Proper Lessons</em></td>
+<td><img src="../images/br_open.gif" width="19" height="35" alt="{" /></td>
+<td><em>The First,</em> <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Jeremy+41">Jere. xli. 9</a> or <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Daniel+9:1-22">Dan. ix. to v. 22.</a>.<br />
+<em>The Second,</em> <a href="http://www.gospelcom.net/cgi-bin/bible?version=KJV&amp;passage=Hebrews+11:32-12:7">Heb. xi. v. 32. to cap xii. v. 7</a>.</td>
+</tr>
+</tbody>
+</table>
+
+*Instead of the first Collect at Evening Prayer, use these two which follow.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" alt="O" /> BLESSED** Lord God, who by thy wisdom not only guideth and ordereth all things most suitable to thine own justice, but also performest thy pleasure in such a manner, that we cannot but acknowledge thee to be righteous in all thy ways, and holy in all thy works: We thy sinful people fall down before thee, confessing that thy judgments were right in permitting cruel men, sons of Belial, this day to imbrue their hands in the bloud of thine Annointed; we having drawn down the same upon our selves, by the great and long provocations of our sins against thee; For which we do therefore here humble our selves before thee, imploring thy mercy for the pardon of them all; and that thou wouldst deliver this Nation from bloud-guiltiness (that of this day especially) and turn from us and our posterity all those judgments which we by our sins have deserved: Grant this for the all-sufficient merits of thy Son, our Saviour Jesus Christ. *Amen.*
+
+**<img src="../images/b_small.gif" data-align="LEFT" alt="B" />LESSED** God, just, and powerful, who didst permit thy dear servant, our late dread Soveraign, to be this day given up to the violent out-rages of wicked men, to be despightfully used, and at last murthered by them; Though we cannot relfect upon so foul an act but with horrour and astonishment; yet do we most greatly commemorate the glories of thy grace, which then shined forth in thine Annointed, whom thou wert pleased, even at the hour of death, to endue with an eminent measure of exemplary patience, meekness, and charity, before the face of his cruel enemies. And albeit, thou didst suffer them to proceed to such a height of violence against him, as to kill his person, and take posession of his throne; yet didst thou in great mercy preserve his son, whose right it was, and at length by a wonderful providence bring him back, and set him thereon, to restore thy true Religion, and to settle peace among us: For which, we glorifie thy Name, through Jesus Christ our blessed Saviour. *Amen.*
+
+*Immediately before the Prayer of Saint* Chrysostom*, shall this Collect be used.*
+
+**<img src="../images/a_small.gif" data-align="LEFT" alt="A" />LMIGHTY** and everlasting God, whose righteous is like the strong mountains, and thy judgments like the great deep; and who, by that barbarous murder this day committed upon the sacred person of thine Annointed, our late Soveraign, hast taught us, that neither the greatest of kings, nor the best of men are more secure from violence, than from natural death; Teach us also hereby so to number our days, that we may apply our hearts unto wisdom. And grant that neither the splendor of any thing that is great, nor the conceit of any thing that is good in us, may any way withdraw our eyes from looking upon our selves as sinful dust and ashes; but that (according to the example of this thy blessed Martyr) we may press forward towards the prize of the high calling that is before us, in faith and patience, humility and meekness, mortification and self-denial, charity and constant perseverance unto the end: And all this for thy Son our Lord Jesus Christs sake; To whom, with thee, and the holy Ghost be all honour and glory, world without end. *Amen.*
+
+------------------------------------------------------------------------
+
+**[<img src="../images/buttons/previous.gif" data-border="0" width="82" height="30" alt="[Previous Page]" />](november5_17xx.html)[<img src="../images/buttons/contents.gif" data-border="0" width="80" height="30" alt="[Contents]" />](../intro/contents.html)[<img src="../images/buttons/next.gif" data-border="0" width="57" height="30" alt="[Next Page]" />](january30_1844.html)[<img src="../images/buttons/help.gif" data-border="0" width="57" height="30" alt="[Help]" />](../notes/help.html)[<img src="../images/buttons/search.gif" data-border="0" width="67" height="30" alt="[Search]" />](../notes/search.html)[<img src="../images/buttons/directory.gif" data-border="0" width="82" height="30" alt="[Directory]" />](../directory.html)[<img src="../images/buttons/home.gif" data-border="0" width="65" height="30" alt="[Home]" />](../index.html)**

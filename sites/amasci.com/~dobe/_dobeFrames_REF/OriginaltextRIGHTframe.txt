@@ -1,0 +1,26 @@
+OriginaltextRIGHTframe.htm 
+
+ Filename: "OriginaltextRIGHTframe.htm" 
+ Displayed in composite window called from: 
+ 0_TOC_Frames_START_dobeTutAll.htm 
+ in: (id="RIGHT_frame") 
+
+ Template Filenames:
+ 0_TOC_Frames_START_dobeTutAll.htm 
+ 0_TOC_Frame_Target_dobeTutAll.htm 
+ OriginaltextBANNERframe.htm 
+ OriginaltextCENTERframe.htm 
+ OriginaltextFOOTERframe.htm 
+ OriginaltextRIGHTframe.htm 
+ LinkedTextBANNERframe.htm 
+ LinkedTextCENTERframe.htm 
+ LinkedTextFOOTERframe.htm 
+ LinkedTextRIGHTframe.htm 
+ Parent.htm 
+ Self.htm 
+ Top.htm 
+ Generic.htm 
+ dobeSimpleFrameTemplate.htm 
+ dobeNest1FrameTemplate.htm 
+ dobeNest2FrameTemplate.htm 
+ dobeIFrameTemplate.htm

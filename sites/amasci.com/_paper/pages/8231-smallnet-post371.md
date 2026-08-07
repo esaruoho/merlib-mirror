@@ -1,0 +1,242 @@
+---
+title: "SMALLnet post371"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post371.html
+order: 8231
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post371
+
+*Source page: `~smallnet/Archive/post371.html`*
+
+## SMALLnet Posting post371
+
+------------------------------------------------------------------------
+
+**Date: Wed, 24 Jan 2001 01:40:37 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+Bud Orren \< <BudOrren@aol.com> \> wrote:
+
+I recently subscribed to SMALLnet and have enjoyed the submissions. You guys are really good and way ahead of me. I fly (usually) both wet and dry, but I seem to have more trust in the E-powered stuff.
+
+I have never tried NiMH or anything other than the old-fashioned NiCads. I have a bunch of seven- and eight-cell NiCad packs that are getting old, and would like to consider replacing them with newer stuff. I use an Astro 110D charger. What packs should I get, how should I charge them and would I get better flights and service out of NiMH than out of new NiCads?
+
+Also, a recent posting mentioned charge jacks and switches from Radio Shack (questionable) and from DigiKey (good). I have a Digi- Key catalog, but the print is so small and the text so complicated that I do not know what to order. What do I want to simply switch a seven- or eight-cell system on and off? What do I want for charge jacks? I always charge in the plane.
+
+Thanx, Bud in California
+
+Jim Manoli \< <jaela1@aol.com> \> inquires:
+
+I have been trying to locate a kit or even a set of plans for the FLYLINE MEGOWCOUPE, as I have a special liking for this model. If anyone can give me a lead or steer me in the right direction I would be most grateful.
+
+I look forward to SMALLnet, as it has a wealth of great information.
+
+Jim Manoli
+
+Larry Weddle \< <loblolly@ipa.net> \> contributed:
+
+I've had good luck with Speed 400 6-volt motors when flying 190 square inch wing area, 7-cell 500 mAh batteries, and using a 5 1/2 x 4 reinforced fibre prop cut to 5 1/4", with washout on the prop tips. People say the plane looks like it's going about 80, but I think 60 mph would be closer. Time runs around 6 1/2 minutes.
+
+I use geared Speed 400 with the APC 8 x 6 electric and 2.1 gear ratio. The climb rate on a 44-inch Cub type plane is about 30 %. I use 7 800 mAh batteries, and full run time is 15 minutes; but by building very light (18 ounces) I can get well over 25 minutes in the air most of the time.
+
+Larry Weddle
+
+Dr Michael Hawkins \< <mikeh@samart.co.th> \> returns after far too long an absence:
+
+The recent comments regarding small tails on scale models bring to mind my problems with the Russel Henderson Light Monoplane. It was designed in 1929 when they seemed to think that a horizontal tail at 10% of the wing area, combined with C of G at 32 % chord was the only way to fly.
+
+My 1/6 th. scale model ground-looped and would NOT take off until I enlarged both the horizontal and vertical tail by an additional 75% area. I now have a piezo gyro on rudder and it took off straight as a die last Sunday. The CG is at 25% chord.
+
+I also built a Heath Parasol at 1/4 scale. I know this is not SMALL, but Ed Heath started with a 10 % horizontal tail, and increased to 15 % by his last design; so I used the larger size.
+
+The vertical tail is small but has a long moment arm and the model is a gentleman to fly -- or was until I fitted the Ed Heath-designed floats, when stability in yaw and pitch was noticeably less. I have since fitted a clear plastic underfin to give extra tail area, as was done with many full-size aircraft converted to floats.
+
+With the extra fin area, the float version now flies as well as the landplane.
+
+As an old friend of mine used to say - "Aerodynamics rules" (or should it be "rule"?).
+
+Yours, Mike Hawkins (Dr.)
+
+...Mike, the late Frank Courtney, probably the world's most versatile test pilot, once remarked that no airplane was ever designed with a big enough vertical tail. \[JW\]
+
+Bill Lee \< <Bill@WRLee.com> \> contributed:
+
+<span id="95">Source: Starters, small\
+</span> I don't recall if the topic of 1/2A-size model engine starters ever reached any sort of conclusion, but here's another link that might be of interest:
+
+\< <http://www.litemachines.com/WhtsNew.html> \>.
+
+Regards, Bill Lee
+
+Peter Helm \< <helm@pnc.com.au> \> wrote:
+
+I would just like to say thank you to all who responded to the list of P.A.W. engines I had for sale. The response to the smaller size engines was phenomenal. I have yet to move the three larger ones, but that is only a matter of time.
+
+<span id="111">Source: Engines, Enya\
+</span> Most of you are by now aware of the new small Enya engines: an .049 and .06 glow as well as an .06 diesel. I have a contact e-mail address in Japan of a husband and wife team that have been associated with model and actual aircraft for many years who can supply these engines.
+
+The business name is Toritsu Mokei Den, and the gentleman's name is Takahashi Takeyuki. I have no actual dealings with them but I am told they are great to deal with. Their e-mail address is \< <t-tak@dd.catv.ne.jp> \>
+
+Regards, Peter
+
+Gene Marshall \< <AirGene@aol.com> \> reports:
+
+In response to a request for plans for the CA-12 Boomerang (Australian WW2 fighter), I have been able to dig out some information. Pond 71A1 is plans for a 13" span version, Nexus CL433 is for a 38" model, and there are 3-view drawings available (two sheets 11"x16") Baker \#10&11. His address is Jim Baker, 31A Mercer St., Queenscliff, Victoria 3225, Australia.
+
+Best Regards, Gene Marshall
+
+Tom Pearson \< <ShooterTom@aol.com> \> says:
+
+Every small plane I build is built without a landing gear for two reasons: performance, and I fly off a grass field. I do build in a nose skid wire on each model, whether it is a glider or a pattern/aerobatic type plane. My typical skid is a 1/16" or 3/32" piano wire piece attached usually to the back of the firewall, and projecting down 3 1/2" to 4". I bend a small loop in the end for safety so a sharp raw edge of the wire is not there.
+
+Recently I have been bending a two-coil loop into the skid just past where it emerges from the bottom of the fuselage. This acts a bit like a coil spring and allows the skid wire to flex a bit more. (Much like the coil on a bigger R/C aircraft's nosewheel wire).
+
+The skid protects the prop, keeps the nose from digging in and cartwheeling the plane, and allows the plane to slide to a smooth stop. I usually have the skid wire inclined back a bit (like 10 degrees or so) rather than pointing straight down. The landing force will usually bend it back about like that anyway.
+
+Try it, you'll like it. It saves props -- and on electrics, motor and gear box shafts!
+
+Tom Pearson
+
+Gary Edson \< <gedson@cmq.com> \> inquires:
+
+Left over from years ago, when I was previously in the hobby, I have an Astro 035 motor (stock \#2105), which should turn a 6x4 prop at 12,000 rpm or better, according to the instructions.
+
+Also I have an Astro 02 motor (stock \#2111) with a toothed belt speed reducer (#4027), which gives a 2.5:1 reduction and should turn an 8x6 prop at 5000 rpm.
+
+Both motors are not run and not broken in. Instructions for the former suggest a 5-cell, 800 mAh nicad battery pack for R/C. For the latter, a 4-cell, 800 mAh pack. Compared to the motors and gear boxes we have today, are these motors worth fooling with?
+
+How would they compare with S280, S300, or S400 motors (if I have the terminology right)? The Astro instructions call for a smaller number of cells than we use for today's motors.
+
+Can I safely use more cells? If not, perhaps that answers my question...these old motors are not worth fooling with? As you might guess, I don't have any recent experience with electric flight.
+
+Thanks for the help. Gary Edson
+
+Al Lidberg \< <AALmps@aol.com> \> submitted:
+
+Someone asked for "good references for float design". Because we set up an ROW \[Rise Off Water\] pond at the 2000 and 2001 \[just completed yesterday! Had a great time and pretty good turnout.\] Southwest Regionals Free Flight Championships at Eloy, Arizona, we made these references on float size and design available.
+
+The first has some calculations to help decide how big to make floats:
+
+\< <http://members.aol.com/bettieloo/ROW.htm> \>\
+\< <http://members.aol.com/bettieloo/ROWbiblio.htm> \>\
+\< <http://members.aol.com/bettieloo/TaibiROW.htm> \>\
+
+Our pond is about 19' X 22' X 5" deep, rimmed with 2" X 6" lumber, secured with cement form stakes, with a rather expensive, thick rubber liner that takes 2 people to carry. Water comes via a tank truck to our desert farmland field. The boards and liner are portable, and we're expecting the portable puddle to last for many years -- using it this way just once a year.
+
+See also:
+
+\< <http://members.aol.com/Ann%20E%20Weed/SWR2000ama.htm> \> for the 2000 contest report for pictures of the pond and a few models that flew there. The most amazing model was a Mulvihill/Unlimited rubber model called "Drip Dry" (published as a construction article in Model Aviation in mid-2000) with a retractable main float. It flew very well and set a national record.
+
+In a week or so, I'll post pics/report of the 2001 contest.
+
+<span id="221">Source: Kits, Comet Reproductions\
+</span> Al Heinrich of AERODYNE also had some kits of out-of-production Comet kits, labeled " Brand 'X' ", at the last weekend's SW Regionals contest. Didn't look all that closely at what was offered, but did see the rubber models SPARKY and the PHANTOM FURY -- there may be more!
+
+Anyhow: these are plastic bagged kits, looking to be quite like those old favorites; made by Lee Campbell. See: \< <http://www.freeflightmodels.com/> \> or contact them via the e-mail address shown there.
+
+AL Lidberg, Tempe, AZ;
+
+-- See my stuff at \< <http://members.aol.com/aalmps> \>
+
+<span id="237">Source: Kits, Jimmie Allen models\
+</span> BTW: Bob Holman and Jim O'Reilley were also in attendance: offering plans and laser-cut parts kits of many Jimmie Allen models -- see them listed at AERODYNE's site.
+
+Ed Toner \< <captained@home.com> \> asks:
+
+Sharper Image has a Fire Flite for \$130. Nice looking, V-tailed type. I think it's R/C; anybody know anything about it? It's ZX600 in their catalog. Ed Toner
+
+Greg Green \< <g.agreen@lightdog.com> \> contributed:
+
+I always like freebies and figured everyone else does too! R/C Modeler Online is free for a few months at \< <http://www.mag-web.com/rc-modeler/> \> -- password is "guest/guest".
+
+And while on the subject, anyone have an idea which magazine is the best as far as small wet models goes? Looking to subscribe to one, but don't know which one to get.
+
+Another idea that I've been tossing around is this: since most often model engine sizes are given in glow displacement and I am now more interested in PAW diesels; and while diesels put out more power, I am never really sure which size diesel engine to use. Perhaps an easy way to gauge displacement would be to consider the average prop size for the glow engine required in that model, then use the diesel engine that (on average) swings the same size prop.
+
+Then I also consider that there is usually a range in engine sizes (often up to 25% such as .30 to .40) and since diesels produce greater torque than glow, and I am not into speed, perhaps using the lower engine size (and therefore lighter) when converting from glow would be appropriate. Any and all comments are welcome and requested.
+
+I wanted to take the time to say how much I enjoy getting the SMALLnet, and learning from so many that seem to know so much without "knowing it all". Very impressive.
+
+Sincerely, Greg Green
+
+PS Anyone know where I can find a Ben Buckle "Elf Biplane"? Please don't suggest HSS, as they are out of business, and wouldn't import Ben's kits when they were still solvent anyway (a bit of frustration for me).
+
+...Greg, Flying Models is far and away the best model magazine for all-around coverage, and it caters to model BUILDERS rather than model BUYERS. And Randy writes the Small Talk column for them !
+
+As for the "diesel size" problem: since diesel power is more versatile than glow (and more economical on fuel) you can usually employ the same size diesel as glow in sport-flying models, and adjust the prop size and power output as required.
+
+What's most important is the kind of flying you want to do. I have a PAW .06 diesel (unthrottled) on a 630-square-inch King Condor all-foam soarer, with 2-channel R/C. The plane weighs about 26 ounces, and climbs well.
+
+But I use a PAW .19 on a much smaller sorta-scale 3-channel biplane. With the added throttle control, I can enjoy the extra power needed for loops and so on, and throttle way back for straight-and-level cruising. (I forget what that craft weighs right now, and don't want to go out in the cold workshop to find out.) \[JW\]
+
+Peter Havriluk \< <Peter.Havriluk1@hartfordlife.com> \> asks:
+
+I have three questions for the group:
+
+\(1\) I would like to compare the relative merits of two engines; G-Mark .061 vs. Norvel Big Mig .061. Both are carbureted with mufflers. Which of these two is the 'friendlier' to operate and which is content to swing, or be persuaded to swing, the larger propeller?
+
+Ultimate output is not a determining factor, but ease of handling, starting, carburetion, willingness to swing largish propellers are the characteristics I want to optimize.
+
+\(2\) How does the better of the 2 above compare to a Thunder Tiger GP .07 with the same criteria?
+
+\(3\) Is the comparison in (2) so great as to warrant using the T-T instead of the better of the Norvel/G-Mark comparison if there is a choice?
+
+I mislaid or lost my original copy of the plans for the "Holly", a 1/2A sport-trainer R/C model. Originally it was a freebie from Radio Control Models & Electronics some years ago.
+
+The airplane is a sheet-fuselage 3-channel 42-inch all-balsa high-winged model. Looks like nothing special, but flies well enough to be a primary trainer. Not a twitch in it, flies away steadily from a handlaunch. I'd like to obtain another copy of the plans if at all possible.
+
+Can anybody make me a copy, or let me copy his original?
+
+Thanks, Peter
+
+Ken Park \< <k.d.park@sympatico.ca> \> announces:
+
+For those who live in Ontario Canada, intending to purchase the Winter building project, the "CASSUTT" -- then the tax man wants his 8% sales tax. If you don't live in Ontario, the price remains the same: \$70 Canadian. If you live in Ontario, it's going to be \$75.60
+
+If you haven't yet been informed, the Ottawa Remote Control Club did a Winter Building Project. Details can be found inside the club's web page by using the Small Planes Button. Go to \< www.ottawarcclub.com \>. Ken
+
+Ron Boucke' \< <RBoucke@aol.com> \> wrote:
+
+I just finished reading Joe's column in the January '01 issue of Model Aviation, and for me it rang with nostalgia. There is a special place in my hobby heart for the .099 size engine; this goes back to my early days of model interest (50's) where my eyes were bigger than my tummy, (can't say that today), yearning for that K&B .09 Greenhead to slap on my control-line PDQ Baby Clown.
+
+Just imagine, I could use 45-foot lines on that baby! In Joe's article he made mention of the Arden .099 ignition engine. I have a plan called "The Runt'" which was kitted by the Eagle ModeI Aircraft Company. It was a free flight model with a polyhedral wing spanning 44 inches and having an area of 225 sq. in..
+
+Tucked in its nose was the Arden engine. The diagram on the plan showed the typical electrical installation to accommodate the ignition requirements, along with the engine shut-off timer.
+
+I never had the kit, only the one-page plan which is full size. I wish it had the rib pattern. I still have the plan which is probably 55 years old. My, how time flies...
+
+I remember my first glow engine was the Royal Spitfire .065. That enclosed exhaust stack gave it the look of a BIG engine; that set my mind on the little feller. I remember having one heck of a time getting it started. That involved going back to the hobby shop where the owner and I went out in back of the store.
+
+I remember the feeling of privilege being invited to go behind the counter and through the back room, (all those goodies). There he had a makeshift engine stand. He cranked on that engine for what I recall to be a long time, but then BBRRRRRRAAT, LIFE!
+
+He showed me the settings and off I went holding in my hands what was now even a bigger treasure. It sure looked and sounded like the big boys all right. Eventually, it found itself on the front end of a Baby Barnstormer and many joyful days of control line flying, notwithstanding the many crashes that followed. But one day, I'll get me one of those REAL engines, the .09.
+
+I finally did some time later; it wasn't the K&B but an O.S. Pet, which I stuck on a PDQ Baby Clown. I still have it today in my engine inventory, along with twenty-five other .099/.10's. I'm sure most will probably never end up on a plane, but it's pure fun for me to prop them up, flip 'em and even put 'em on a bench run. I love those little engines :-))
+
+Ron Boucke'
+
+...Ron, although the plan doesn't say so, I believe that the Runt was designed by all-time modeling great, the late Bill Winter. \[JW\]
+
+Dave Segal \< <DDavesegal@cs.com> \> advises:
+
+If things are getting too serious, check out the web site at \< <http://www.plantraco.com> \> for some laughs. They have 2- and 3-motor indoor R/C blimps and airships, as well as a camera- carrying 4-inch-long desktop tracked rover vehicle!
+
+Dave Segal
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

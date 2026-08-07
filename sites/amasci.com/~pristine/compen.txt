@@ -1,0 +1,785 @@
+Pure Mac: Compression, Encoding & Disk Images 
+
+ Compression, Encoding & Disk Images 
+
+ Binhex 
+ CompactPro 
+ Decode da Code 
+ Decoder 
+ Disk Copy 
+ DiskDup+ 
+ Drop MacBinary III 
+
+ DropStuff 
+ DropZip 
+ Easy-BZ 
+ Easy-GZ 
+ File Smiler 
+ GIF Blast 
+ Instant Packages 
+
+ LHA Expander 
+ MacBinary II+ 
+ MacBinary III 
+ MacCompress 
+ MacGzip 
+ MacLHa 
+
+ MacRAR 
+ MacTar 
+ MacZip 
+ MindExpander 
+ MPack 
+ OpenUp 
+ Rosetta 
+ ShrinkWrap 
+
+ SmartZip 
+ StuffCM 
+ StuffIt Deluxe 
+ StuffIt Expander 
+ StuffIt Lite 
+ SunTar 
+ Tape 
+
+ TomeViewer 
+ UnShar 
+ uucd 
+ uuUndo 
+ UULite 
+ YA-Decoder 
+ Zip It! 
+
+ Binhex 4.0 
+
+For .hqx files. Use instead of uuencoding when transferring Mac applications. This is the old original
+version of binhex and it still works quite well.
+
+ License : Freeware
+ Author/Publisher : Yves Lempereur
+ Modification Date : February 9, 1985
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 6 Kb 
+
+ Parent Directory 
+
+ CompactPro 1.52 
+
+Compact Pro is a shareware file compression and archival utility. It
+compresses and stores files in "archives" which may span multiple diskettes.
+Compact Pro supports data encryption (US and Canadian users only) and
+self-extracting archives. Version 1.52 is a "fat" binary, so it will run in native
+mode on Power Macs as well as on standard Macs. This is just a documentation update of version
+1.51 released April 4, 1995.
+
+ License : Shareware, $25
+ Author/Publisher : Bill Goodman
+ Modification Date : December 17, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 165 Kb 
+
+ Home Page 
+
+ Decode da Code 1.5 
+
+Decode da Code is an application which decodes base64 and uuencode(.uu) encoded files, and can
+figure out multi-part MIME mail messages, including files encoded in the AppleDouble format.
+It can use Internet Config to figure out what kind of file is encoded and set the appropriate file
+type and creator codes. It can also open the decoded file with a post-processing application that
+is specified in Internet Config.
+
+ License : Shareware, $12
+ Author/Publisher : Lucius Kwok 
+ Modification Date : December 5, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 105 Kb 
+
+ Home Page 
+
+ Decoder 2.1 
+
+Designed to decode files that have been converted to a diferent format so that they can be more easily
+downloaded or e-mailed. Decoder 2.0 will decode AppleSingle, BinHex, MacBinary (versions I, II,
+and III), UUencoded, and MIME formats. Just drag and drop the encoded files onto the Decoder
+application icon and Decoder can detect the encoding scheme and decode accordingly.
+
+ License : Shareware, $10
+ Author/Publisher : John Daniel /Harmony Software
+ Modification Date : April 11, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 447 Kb - 68k version
+
+ Direct Download
+ File Size: 473 Kb - PPC version
+
+ Home Page 
+
+ Disk Copy 6.3.3 
+
+For images in the new NDIF format.
+Disk Copy is a utility application that will mount disk
+images on your desktop, make exact copies of floppy disks
+from a disk image, convert disk images from one format to
+another, and create a disk image from a mounted volume or
+individual folder.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : May 5, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 753 Kb Disk Copy 6.3.3
+
+ Parent Directory
+
+ DiskDup+ 2.9.2 
+
+For Apple DiskCopy images. Now compatible with HFS+.
+
+ License : Shareware, $25
+ Author/Publisher : Roger D. Bates
+ Modification Date : April 8, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 74 Kb 
+
+ Home Page
+
+ Drop MacBinary III 1.1 
+
+An exellent little drag and drop application for making and decoding Macbinary III files.
+
+ License : Freeware
+ Author/Publisher : Chris Evans 
+ Modification Date : August 23, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 13 Kb 
+
+ DropStuff 6.0 
+
+Tired of waiting for your email attachments to be sent? Use DropStuff! DropStuff
+compresses your files and folders up to 95% smaller than their original size, so
+they transmit faster. DropStuff's StuffIt compression is the best available -
+an average of 20% better than any other compression format. So, whether you're
+sending a file to a friend or posting files to the Web, your small StuffIt files
+will save you time and money online. And, it's easy to use - just drag, drop,
+and you're done!
+
+ License : Shareware, $30
+ Author/Publisher : Aladdin Systems
+ Modification Date : March 19, 2001
+ Requirements : PPC, Mac OS 8.1 or higher, 5.5 and below are 680x0 or PPC
+
+ Direct Download
+ File Size: 4078 Kb - version 6.0.1
+
+ Direct Download
+ File Size: 1919 Kb - version 5.5 - released November 10, 1999
+
+ Parent Directory 
+
+ Home Page 
+
+ DropZip 6.0.1 
+
+For those times when you need to send a Zip-compressed file to a PC user, use
+DropZip. DropZip makes sending Zip files quick and easy - just drag and drop a
+file or folder onto the DropZip icon to compress. That's all there is to it!
+
+ License : Shareware, $30
+ Author/Publisher : Aladdin Systems
+ Modification Date : March 19, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3941 Kb - version 6.0.1
+
+ Home Page 
+
+ Easy-BZ 1.1 
+
+Easy-BZ is a compression tool based on the BZip2 format. Although Easy-BZ can compress even tighter than GZ, it
+takes a lot of processor power.
+
+ License : Freeware
+ Author/Publisher : John Stiles
+ Modification Date : March 31, 1999
+ Requirements : MacOS 8 or higher
+
+ Direct Download
+ File Size: 76 Kb 
+
+ Home Page 
+
+ Easy-GZ 1.1 
+
+Easy-GZ is a compression tool which allows extremely tight compression and quick decompression.
+Based on the GZip standard and optimized for the Macintosh platform, an easy-to-use, effective GZ
+compressor has finally been brought to the Mac OS.
+
+ License : Freeware
+ Author/Publisher : John Stiles
+ Modification Date : July 28, 1998
+ Requirements : MacOS 8 or higher
+
+ Direct Download
+ File Size: 154 Kb 
+
+ Home Page 
+
+ File Smiler 1.6.1 
+
+Drag files, folders and disk image files onto File Smiler to create a Self Mounting Image file.
+
+ License : Freeware
+ Author/Publisher : Mellow Software
+ Modification Date : September 20, 1998
+ Requirements : MacOS 8 or higher, Disk Copy 6.3 or higher
+
+ Direct Download
+ File Size: 78 Kb 
+
+ Home Page 
+
+ GIF Blast 3.0 
+
+GIF Blast is a compressor designed especially for GIF files. The usual file compressors do not work on GIF files; GIF
+Blast does. GIF files are compressed to so-called GFB files that are usually 27 to 33% smaller. 
+GIF files are compressed by GIF Blast to so-called GFB files. GIF Blast is recommended for applications such as
+storing GIF files on BBS's and posting GIF files to Usenet.
+
+Because GIF Blast perfectly preserves all images and other information in GIF files, the user need not be concerned
+with harming the images.
+
+The compression/decompression algorithm used in GIF Blast is quite slow, so you would probably not want to store
+frequently viewed GIF files in compressed form. However, GIF Blast should be useful in applications where getting
+maximum compression is important, such as: Storing GIF files on bulletin boards for downloading; 
+Posting GIF files on Usenet; Transmitting GIF files via modem; Sending GIF files on floppy disk.
+
+ License : Shareware, $10
+ Author/Publisher : Eric Toonen
+ Modification Date : May 31, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 227 Kb 
+
+ Home Page 
+
+ Instant Packages 1.0 
+
+This plugin (aimed primary at developers) extends Contextual Menus to allow you to create packages from
+folders, or to turn packages back into folders. 
+Packages are new to the Mac OS starting with Mac OS 9.0.
+
+ License : Freeware
+ Author/Publisher : Ricky A. Sharp
+ Modification Date : November 1, 1999
+ Requirements : PPC, Mac OS 8 or later
+
+ Direct Download
+ File Size: 61 Kb
+
+ Home Page 
+
+ LHA Expander 1.0.8 
+
+LHA Expander is a drag and drop utility for LHA file decompressing.
+LHA Expander can handle general LHA archives (.lzh, .lha, lzs), self extracting
+archives (.exe, .com, .x) and MacLHA archives (wich were encoded in MacBinary format
+first, then compressed).
+
+ License : Freeware
+ Author/Publisher : Masanori Sekino
+ Modification Date : December 16, 1997
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 157 Kb 
+
+ Home Page
+
+ MacBinary II+ 1.0.2 
+
+MacBinary II+ is a System 7 drag&drop converter for MacBinary files. It has no User
+Interface, simply drop a MacBinary file on it and it will be decoded, drop any other
+file or folder on it and it will be encoded.
+
+ License : Freeware
+ Author/Publisher : Peter N Lewis
+ Modification Date : April 5, 1993
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 17 Kb 
+
+ Parent Directory
+
+ MacBinary III 1.0a1 
+
+Peter Lewis's program for encoding files in the MacBinary III format.
+
+ License : Freeware
+ Author/Publisher : Peter N Lewis
+ Modification Date : August 23, 1998
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 13 Kb 
+
+ Parent Directory
+
+ MacCompress 3.2 
+
+For .Z files. The UNIX compression standard.
+
+ License : Freeware
+ Author/Publisher : Lloyd L. Chambers
+ Modification Date : December 8, 1994
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 74 Kb 
+
+ Parent Directory
+
+ MacGzip 1.1.3 
+
+A gzip compressor/decompressor. For .gz files.
+
+ License : Freeware
+ Author/Publisher : Jean-loup Gailly
+ Modification Date : September 16, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 145 Kb - 68k version
+
+ Direct Download
+ File Size: 152 Kb - PPC version
+
+ Parent Directory
+
+ Home Page
+
+ MacLHA 2.22 
+
+Creates and extracts LZH and LHa files
+
+ License : Freeware
+ Author/Publisher : Kazuaki Ishizaki
+ Modification Date : January 5, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 186 Kb 
+
+ Home Page
+
+ MacRAR 2.5.1 
+
+The MacUnRAR utility is a freeware program developed for extracting the contents of archives created with the PC RAR archiver, MacRAR now also
+makes compressed RAR archives.
+
+ License : Freeware
+ Author/Publisher : Guillaume Dufay
+ Modification Date : September 7, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 971 Kb
+
+ HomePage
+
+ MacTar 4.2.1 
+
+This program reads and writes tar format archives. It has been tested against tar running on A/UX (3.0), 4.3 BSD and the GNU tar program (POSIX compatible). Floppies and tapes can be exchanged with other systems (on Unix, use raw devices). The tar archive manipulation code is based on John Gilmore's public domain tar program.
+As of version 4.1, "tar" has been renamed "MacTar" and maintenance has been taken over by Joe Strout.
+
+ License : Freeware
+ Author/Publisher : Joe Strout 
+ Modification Date : October 18, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 81 Kb - 68k version
+
+ Direct Download
+ File Size: 91 Kb - PPC version
+
+ Home Page 
+
+ MacZip 1.05 
+
+A simple application to compress and decompress zip files.
+
+ License : Freeware
+ Author/Publisher : Info-Zip
+ Modification Date : July 31, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 369 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ MindExpander 1.0 
+
+MindExpander will expand all popular internet files. MindExpander has built-in support for MacBinary,
+BinHex, StuffIt, Zip, etc. And for the files we don't support, we'll automatically use any available
+programs on your hard disk which do support those files. MindExpander is designed to be your
+"one-stop shop" for file expansion.
+
+ License : Freeware
+ Author/Publisher : MindVision Software
+ Modification Date : September 24, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 303 Kb 
+
+ HomePage
+
+ MPack 1.5 
+
+For MIME/Base 64 files.
+
+ License : Freeware
+ Author/Publisher : John Myers/Carnegie Mellon University - Mac Port Chris Neuman
+ Modification Date : May 1, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 78 Kb 
+
+ Parent Directory
+
+ OpenUp 3.1 
+
+OpenUp allows you to double-click on a variety of formats of compressed and
+archived files and have them unarchived and opened in the Workspace without
+having to resort to command-line tools. Supported formats include: .arc, .arj, .b64, .bin, .bz2, .bz,
+.compressed, .cpt, .gnutar, .gnutar.bz2, .gnutar.bz, .gnutar.gz, .gsm, .gz, .hqx, .lza, .lzh, .macbin,
+.mime, .pit, .sit, .tar, .tar-gz, .tar.Z, .tar.gz, .tar.bz, .tar.bz2, .taz, .tgz, .tbz, .tbz2, .uu, .uue,
+.xx, .xxe, .z, .zip, .zoo, .Z
+
+ License : Freeware
+ Author/Publisher : Scott Anguish
+ Modification Date : April 4, 2001
+ Requirements : Mac OS X
+
+ Direct Download
+ File Size: 1116 Kb
+
+ Rosetta 1.4.2 
+
+Rosetta is an application that can decode files that have been encoded using the most common encoding methods (BinHex,
+MacBinary, MIME Base64, uuencode).
+
+ License : Shareware, $15
+ Author/Publisher : Brian Clark
+ Modification Date : October 28, 2001
+ Requirements : PPC, Mac OS 8.5 or higher or Mac OS X
+
+ Direct Download
+ File Size: 347 Kb
+
+ Home Page 
+
+ SmartZip 1.0.1 
+
+SmartZip is a MacOS application designed to be the simplest and most efficient way to manage ZIP
+files. You can automatically compress files (or entire folders) by dragging them onto SmartZip and in
+the same way you can easily expand ZIP files.
+
+ License : Shareware, $30 
+ Author/Publisher : Vampire Software
+ Modification Date : September 30, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 370 Kb
+
+ Home Page 
+
+ ShrinkWrap 3.5.1 
+
+ShrinkWrap is a utility made to manipulate all types of disks and disk images on the Macintosh. It incorporates
+the functionality of DiskCopy and DropDisk into one easy to use application, then improves on these products by
+adding on the fly compression/decompression with the StuffIt Engine, implementing extensive drag and drop and
+AppleScript support, and supporting almost all known image file formats, including its new self-mounting image
+files.
+
+ License : Shareware, $30 
+ Author/Publisher : Aladdin Systems
+ Modification Date : February 1, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 824 Kb - version 3.5 Trail
+
+ Direct Download
+ File Size: 661 Kb - version 3.5.1 updater
+
+ Direct Download
+ File Size: 380 Kb - version 2.1 - Released November 5, 1996
+
+ Home Page
+
+ StuffCM 2.6 
+
+StuffCM is a contextual menu plugin that works with Aladdin Systems' StuffIt Engine. It can stuff, unstuff, convert, and BinHex files directly in the Finder through the contextual menu commands.
+As of version 2.1 it can switch between using the 5.x or 4.x engines to stuff files. This goes a long way in making the latest version of Stuffit more usable.
+
+ License : Shareware, $9
+ Author/Publisher : David Catmull 
+ Modification Date : March 23, 2000
+ Requirements : PPC, Mac OS 8 or better
+
+ Direct Download
+ File Size: 276 Kb
+
+ Home Page 
+
+ StuffIt Deluxe 6.5.1 
+
+Tired of waiting for large email attachments and downloads? Frustrated with
+files that you can't open? You need StuffIt Deluxe! Award-winning,
+industry-standard StuffIt Deluxe compresses your files up to 95% smaller than
+their original size, so they transmit faster. Plus, StuffIt Deluxe opens just
+about any file you download off the Web or receive in your email. And, as the
+worldwide compression standard, your StuffIt files can be accessed by any Mac or
+PC user, anywhere, hassle-free!
+
+ License : Purchase for $79.95
+ Author/Publisher : Alladdin Systems
+ Modification Date : November 12, 2001
+ Requirements : PPC, Mac OS 8.1 or higher, 5.5 and below are 680x0 or PPC
+
+ Updates
+
+ Direct Download
+ File Size: 3.5 MB - 6.5 - 6.5.1 for OS 8.6 to 9.1 updater - released November 13, 2001
+
+ Direct Download
+ File Size: 4.5 MB - 6.5 - 6.5.1 for OS X updater - released November 13, 2001
+
+ Direct Download
+ File Size: 3270 Kb - 6.0 - 6.0.1 updater - released March 19, 2001
+
+ Direct Download
+ File Size: 751 Kb - 5.5 - 5.5.1 updater - released April 25, 2000 - Free update - it is highly recommended that you rebuild your desktop after updating
+
+ Direct Download
+ File Size: 4416 Kb - 5.x to 5.1.5 updater - released November 16, 1999 - Free update - This is a Mac OS 9 Compatible Update
+
+ Home Page 
+
+ StuffIt Expander 6.5 
+
+StuffIt Expander easily expands and decodes all those files you download from the Web or receive in your email. It quickly accesses StuffIt files, unzips zip files created by WinZip and other zip utilities, plus decompresses tar, gzip and bzip files for Unix users. Just drag, drop, and you're done! Expander works seamlessly with Web browsers such as Internet Explorer and Netscape. From BinHex to zip, StuffIt to MIME, Expander accesses more formats, in less time, with zero hassles.
+
+ License : Freeware
+ Author/Publisher : Aladdin Systems
+ Modification Date : September 19, 2001
+ Requirements : PPC, Mac OS 8.6 or higher and Mac OS X, 5.5 and below are 680x0 or PPC
+
+ Direct Download
+ File Size: 11,170 Kb - version 6.5 (Actually Stuffit Lite with Expander included)
+
+ Direct Download
+ File Size: 2336 Kb - version 6.0.1
+
+ Direct Download
+ File Size: 1094 Kb - version 5.5
+
+ Have Aladdin email you a copy 
+
+ Home Page 
+
+ StuffIt Lite 3.6 
+
+For making and expanding .sit files. Unlike DropStuff it segments files too.
+
+ License : Shareware, $30
+ Author/Publisher : Aladdin Systems
+ Modification Date : March 19, 1997
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 847 Kb 
+
+ Home Page 
+
+ SunTar 2.2.2 
+
+SunTar extracts tar archives (i.e. un-tars their contents) created on any UNIX machine. It also extracts MacBinary,
+BinHex, uuencode and PackIt files.
+
+ License : Freeware
+ Author/Publisher : Sauro Speranza 
+ Modification Date : May 9, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 457 Kb - Fat version
+
+ Parent Directory
+
+ Tape 1.6.2 
+
+Tape is a Macintosh program that will allow you to quickly and easily
+create Mac OS 9.0 "packages". Packages are a new way to distribute
+applications or other files that can have multiple components associated
+with them in a single unified file.
+
+ License : Shareware, $10
+ Author/Publisher : Public Access Software
+ Modification Date : September 15, 2001
+ Requirements : PPC, Mac OS 9 or higher and Mac OS X
+
+ Direct Download
+ File Size: 387 Kb 
+
+ Home Page 
+
+ Apple Technote on Packages 
+
+ TomeViewer 1.3d3 
+
+Ever needed to open one of those Tomes from a set of System Software install disks? Wanted to know, for example, which version of the WorldScript Power Adapter you'd get from a German 7.5.3 Update 2.0 install -- without going through a long and large footprint install?
+Now you can.
+TomeViewer will open an installer compressed file tome and allow you to view the tome's contents. You can also expand and extract any of the items which reside in the tome. Finally, you can use the "Show Info..." menu item to view more detailed information concerning the item.
+
+ License : Freeware
+ Author/Publisher : Apple
+ Modification Date : December 18, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 284 Kb
+
+ UnShar 1.11 
+
+For shar files.
+
+ License : Freeware
+ Author/Publisher : Sak Wathanasin
+ Modification Date : October 12, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 112 Kb 
+
+ Parent Directory
+
+ uucd 2.5 
+
+This is a simple effective application for decoding and encoding uu and MIME base64 files
+
+ License : Freeware
+ Author/Publisher : Laurent Hagimont
+ Modification Date : October 6, 1998
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 105 Kb 
+
+ Home Page
+
+ uuUndo 1.0b5 
+
+For .uue (uuencoded) files. For use with NewsWatcher.
+
+ License : Freeware
+ Author/Publisher : Aaron Giles
+ Modification Date : November 8, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 58 Kb 
+
+ Parent Directory
+
+ UULite 3.0 
+
+For.uue files. Merges files, decodes and encodes. A fat binary. You can select an uuencoded image
+file in NewsWatcher, choose "Extract Binaries" and have the image
+decoded and fed to a program like JPEGView for immediate display on
+your screen...all in one step.
+
+ License : Shareware, $29
+ Author/Publisher : Jeff Strobel
+ Modification Date : February 28, 1997
+ Requirements : 680x0, System 7 or better
+
+ Direct Download
+ File Size: 511 Kb 
+
+ Home Page
+
+ YA-Decoder 3.0.2 
+
+An updated and expanded version of Brian Clark's YA-Base64. Yet Another Decoder is a simple droplet
+designed to decode MIME Base64 (including AppleSingle and AppleDouble), BinHex, MacBinary (including
+MacBinary III), and uuencoded files that are dropped upon it. It assumes that all segments of the
+original encoded document have been concatenated into the file being decoded, and that the segments
+are in order.
+This is intended as a helper application for decoding usenet binary attachments. It is not a general
+purpose decoder. However, it does handle most usenet binaries fairly well, and it can deal with
+multiple attached files.
+
+ License : Shareware, $15
+ Author/Publisher : Brian Clark 
+ Modification Date : February 13, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 200 Kb - version 3.0.2
+
+ Direct Download
+ File Size: 161 Kb - version 2.4.1 - for Pre Mac OS 8.5 users
+
+ Parent Directory
+
+ Direct Download
+ File Size: 82 Kb - YA-Base64 1.2.9 version 1.2.9 - Freeware
+
+ Zip It! 2.1 
+
+ZipIt is a Macintosh program that zips and unzips archives in a format fully compatible with PKZip for the IBM
+and zip implementations on other systems. A zip archive is any file that ends with the extension '.zip'. The zip format is popular on the IBM, and is widely
+used as an interplatform compression format. In addition, ZipIt can compress Macintosh applications and
+documents without losing any of their data. ZipIt is best used when transferring compressed documents to and
+from other computer types. Some examples are: text files, TIFF pictures, Excel databases, and QWK message
+packets, to name just a very few. Note that files that end in '.Z' or '.gz' are not ZipIt files, even though
+Netscape may give them a ZipIt icon. 
+
+ License : Shareware, $15
+ Author/Publisher : Thomas Brown
+ Modification Date : August 31, 2001
+ Requirements : Mac OS 8.6 or higher and Mac OS X
+
+ Direct Download
+ File Size: 646 Kb - version 2.1
+
+ Direct Download
+ File Size: 827 Kb - version 1.4
+
+ Home Page 
+
+ Back to the main page of Pure Mac

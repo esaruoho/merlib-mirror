@@ -1,0 +1,145 @@
+Windows CE 2.00
+
+Getting 
+Windows CE 2.00 
+on the Local Area Network
+
+Al Wong
+
+May 10, 2003
+
+I am using a 3Com LAN card (3CXE589DT)
+connected to a 
+
+Phenom Express 
+
+(Windows CE 2.00, SH3).
+The only caveat is Windows CE 2.00 (WinCE 2.00) only lets you share the Internet
+connection but not share files or resources on the LAN. 
+This is a quirk of WinCE 2.00.
+So you may only surf the web, telnet, ftp, etc.
+The WinXP server doesn't really recognize the Phenom
+on the network. 
+If you scan the network from the WinXP server, 
+there is an IP address for the Phenom
+but no computer name (shows as unknown ).
+
+You cannot run the WinXP Network Setup Wizard 
+on WinCE 2.00 
+
+from the floppy disk you created.
+
+I guess WinCE 2.00 is considered too obsolete.
+This version of Windows requires a manual setup.
+
+To get WinCE 2.00 to work on the LAN,
+do the following. See the WinCE 2.00 help for detailed explanations on how-to:
+
+ To install the LAN card on the Phenom, you need to have the Windows CE
+Services CD available and you need to download the LAN card driver 
+for WinCE from the 
+
+3Com website.
+
+You need to make an
+ActiveSync connection to the Phenom
+before you can install the LAN card drivers.
+
+The 
+
+3Com website
+
+has two self-extracting files for the LAN card.
+You only need the first file ( 3c589x_1.exe ) for WinCE 2.00. 
+
+ Run the 3c589x_1.exe file from the desktop computer
+and it will self-extract a bunch of files.
+Do not insert the LAN card into the Phenom yet.
+Make an ActiveSync connection and insert the Windows CE Services CD.
+Run the setup.exe file in the WIN_CE folder from the extracted files.
+This will install the LAN card drivers on the Phenom.
+
+After you have installed the LAN card drivers, turn the Phenom computer OFF,
+insert the LAN card into the Phenom and do a reboot.
+
+ If the installation was sucessful, you will be prompted for a LAN card name
+and IP settings:
+
+ Under the IP Address tab, you must enable DHCP 
+(Dynamic Host Configuration Protocol). This is a check box called
+ Obtain an IP Address via DHCP. 
+Make sure this box is checked.
+Do not specify an IP address for this computer.
+
+ Under the Name Servers tab, enter the IP address of the
+ Primary DNS server as 192.168.0.1 
+
+ In the Control Panel under Network in the 
+ Identification tab,
+you also need to enter a username that exactly matches
+the network account on the WinXP server. For some reason,
+WinCE will not let you change the password. This is fine.
+There is also a domain 
+field which I assume is the equivalent of the group name.
+
+You do not have to give the computer a unique name.
+It appears WinCE 2.00 does not require a name to work on the LAN.
+As mentioned above, only an IP address identifies the computer.
+
+ In the Control Panel under Network in the Adapters tab,
+make sure the 3C589 Compatible Ethernet Driver is selected.
+Now click the Properties button and
+make sure the Obtain an IP Address via DHCP 
+option is checked.
+Then click the Name Servers tab and make sure
+the Primary DNS server is set to the IP address 192.168.0.1 
+
+ You should now be able to access the Internet via the WinXP dialup connection.
+Launch a browser and go to a website. Or telnet to another computer.
+You can even run 
+ OpenSSH 
+for a secure connection to another computer.
+
+If you are really gungho, try 
+
+configuring an ActiveSync connection over the LAN.
+
+It's the fastest way to share files and install programs on WinCE 2.00.
+In fact, set up an ActiveSync connection over your LAN first
+ before installing 
+ OpenSSH. 
+It makes installing OpenSSH easier and faster.
+
+ Warning: Do NOT insert the LAN card while the Phenom is ON!
+It seems WinCE 2.00 is not plug-and-play friendly. The shock of new hardware
+being introduced will totally freeze the machine and even the power button will not work.
+A hard reboot will wipe out all previously installed programs! I learned this
+the hard way.
+
+There is
+
+more information
+
+available.
+If you need a faster (100Mbps) LAN card, you can see a
+
+list of compatible LAN cards.
+
+The faster LAN cards all require a dongle though.
+
+If you have gotten this far, here is another WinCE 2.00 goodie. I just discovered
+
+E_FTP, an FTP program that works under WinCE 2.*
+
+ written by Esther Reed and it's available as freeware!
+Please let her know you are using the program so her website won't go down.
+This program easily solves the problem of how to download files to WinCE 2.00
+from the Internet!
+
+Internet Connection Sharing
+
+ My Writings 
+
+Last updated : August 31, 2004
+
+Copyright 2003-2004 Al Wong, Los Angeles, California, USA

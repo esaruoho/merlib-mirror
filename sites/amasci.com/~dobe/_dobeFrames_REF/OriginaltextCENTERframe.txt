@@ -1,0 +1,11 @@
+OriginaltextCENTERframe.htm 
+
+ Filename: "OriginaltextCENTERframe.htm" 
+ Displayed in composite window called from: 
+ 0_TOC_Frames_START_dobeTutAll.htm 
+ in: (id="CENTER_frame") 
+
+ THE FOLLOWING IS HTML code from the file: 
+ 0_TOC_Frame_Target_dobeTutAll.htm 
+
+ You will see this text only if your browser does not support iframes.

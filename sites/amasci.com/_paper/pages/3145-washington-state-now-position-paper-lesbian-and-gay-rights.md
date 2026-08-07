@@ -1,0 +1,77 @@
+---
+title: "Washington State NOW: Position Paper: Lesbian and Gay Rights"
+source_domain: amasci.com
+source_path: ~feminist/pp.lesbian.and.gay.rights.html
+order: 3145
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:09:46Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Washington State NOW: Position Paper: Lesbian and Gay Rights
+
+*Source page: `~feminist/pp.lesbian.and.gay.rights.html`*
+
+<img src="now.gif" data-align="left" data-hspace="10" data-vspace="10" alt="N O W" />
+
+Washington State chapter
+
+National Organization for Women
+
+Position Paper
+
+Lesbian and Gay Rights
+
+\
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)\
+
+------------------------------------------------------------------------
+
+# Lesbian and Gay Rights
+
+[Washington State NOW](http://www.wanow.org/) supports protection from discrimination for lesbians and gays, and opposes attacks on granting equal rights for lesbians and gays.
+
+In most parts of Washington State lesbians and gays:
+
+- can be fired from their job regardless of job performance if their sexual orientation becomes known.
+- can be evicted from their apartment or home regardless of their ability to pay rent.
+- can lose custody of their children regardless of their parenting ability.
+- can be fined or imprisoned in 25 states and the District of Columbia because of archaic laws criminalizing private consensual sexual activity among adults. Although these laws criminalize heterosexual activities as well, they have been arbitrarily enforced only against homosexuals.
+
+The ability to work, live, and raise one's own children are basic human rights, not special rights. In the past, NOW has supported bills which would protect lesbians and gays from discrimination. Lesbians and gays are the target of violence, harassment, ostracism and discrimination in all areas of their lives. In addition, women and men mistaken for lesbians and gays are also subject to discrimination. The public does not support discriminatory Initiatives, as shown by the inability of Initiatives 608, 610, 166, and 167 to gather enough signatures over the past few years.
+
+## Attempt to Ban Lesbians and Gays From Being Adoptive or Foster Parents
+
+[Washington State NOW](http://www.wanow.org/) opposes any attempt to ban lesbians, gays, and single people from becoming adoptive or foster parents. Banning lesbians and gays from becoming foster or adoptive parents hurts the children who don't get adopted or who wo'nt have a foster parent to go to when their home situation is abusive or unsafe. The impact will be to deny children homes. All people who wish to adopt or be foster parents must meet the standard of being fit parents as well as what is in the best interest of the child. Being adopted is better than a life of foster care. Having a foster home is better than remaining in a dangerous, abusive home. This bill will hurt the children who are most in need of loving, caring homes. In addition, preventing single people from adopting or being foster parents also discriminates against people who have homes, love, and resources to provide to needy children. Marriage alone does not automatically make two people fit to adopt or be foster parents. NOW opposes both restrictions on adoptions and foster care by lesbians and gays and by single people.
+
+## Attempts to Ban Same-Sex Marriages
+
+[Washington State NOW](http://www.wanow.org/) opposes any attempt to legalize discrimination against gays and lesbians by banning same-sex marriages.
+
+Attacks on same-sex marriage have become the leading anti-lesbian and gay strategy. Despite a recent study showing 71% of lesbians are in committed relationships, same-sex marriage is not legal in any state. Nevertheless, radical extremists are using this issue to divide the country and target lesbians and gay men for discrimination. Organized opposition to this attempt to legalize discrimination is essential.
+
+- The US Supreme Court has declared marriage a fundamental right under the constitution.
+- Without the legal right to marry, same-sex couples do not have rights like family health coverage, medical and bereavement leave, child custody, tax benefits and pension plans.
+- Tradition can't justify discriminating. Not long ago, marriage was traditionally limited to members of the same race and religion, and married women were virtually the legal property of their husbands.
+- Civil and religious marriage are two separate institutions, Civil marriage binds a couple in a legal contract consisting of obligations and benefits.
+- Legalizing same-sex civil marriage will not require any religion to legalize or recognize these marriages.
+- The rights that married people take for granted, such as the ability to make medical decisions for an incapacitated spouse, are denied to committed lesbian and gay couples.
+
+Lesbians and gays are the targets of violence, harassment, ostracism and discrimination in all areas of their lives. NOW has supported bills which would protect lesbians and gays from discrimination. The public does not support discrimination against lesbians and gays. In the last few years four anti-gay initiatives have failed to gather the needed signatures.
+
+\
+
+per Washington State NOW Activist - January 1998
+
+Call 360-253-7147 for a contact person in your local community.
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)\
+Lesbian and Gay Rights Position Paper ("pp.lesbian.and.gay.rights.html")\
+Last updated: March 20, 2003\

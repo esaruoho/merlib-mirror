@@ -1,0 +1,247 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Phil Clyde">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; I) [Netscape]">
+   <TITLE>index</TITLE>
+</HEAD>
+<SCRIPT><!--
+
+function initArray() {
+
+  this.length = initArray.arguments.length
+
+  for (var i = 0; i < this.length; i++)
+
+    this[i+1] = initArray.arguments[i]}
+
+var hexChars = "0123456789ABCDEF";
+
+function Dec2Hex (Dec) {
+
+  var a = Dec % 16;
+
+  var b = (Dec - a)/16;
+
+  hex = "" + hexChars.charAt(b) + hexChars.charAt(a);
+
+  return hex;}
+
+function bgChanger (begin, end, steps) {
+
+  steps = steps -1 ;
+
+  redA     = begin.charAt(0) + begin.charAt(1);
+
+  red_valA = parseInt(redA,'16');
+
+  redB     = end.charAt(0) + end.charAt(1);
+
+  red_valB = parseInt(redB,'16');
+
+  red_int  = ((red_valB - red_valA) / steps) * -1;
+
+  grnA     = begin.charAt(2) + begin.charAt(3);
+
+  grn_valA = parseInt(grnA,'16');
+
+  grnB     = end.charAt(2) + end.charAt(3);
+
+  grn_valB = parseInt(grnB,'16');
+
+  grn_int  = ((grn_valB - grn_valA) / steps) * -1;
+
+  bluA     = begin.charAt(4) + begin.charAt(5);
+
+  blu_valA = parseInt(bluA,'16');
+
+  bluB     = end.charAt(4) + end.charAt(5);
+
+  blu_valB = parseInt(bluB,'16');
+
+  blu_int  = ((blu_valB - blu_valA) / steps) * -1;
+
+  step = 2;
+
+  red = red_valA;
+
+  grn = grn_valA;
+
+  blu = blu_valA;
+
+  document.bgColor = begin;
+
+  while ( steps >= step ) {
+
+    red -= red_int;
+
+    red_round = Math.round(red);
+
+    red_hex = Dec2Hex(red);
+
+    grn -= grn_int;
+
+    grn_round = Math.round(grn);
+
+    grn_hex = Dec2Hex(grn);
+
+    blu -= blu_int;
+
+    blu_round = Math.round(blu);
+
+    blu_hex = Dec2Hex(blu);
+
+    document.bgColor = red_hex + grn_hex + blu_hex;
+
+    step++;}
+
+  document.bgColor = end;}
+
+// -->
+
+
+
+<!-- 
+
+  bgChanger("000000","FF0000",15); // black to red  
+
+bgChanger("FF0000","00FF00",15); // red   to green 
+
+  bgChanger("00FF00","0000FF",15); // green to blue 
+
+  bgChanger("0000FF","FFFFFF",15); // blue  to white
+
+  bgChanger("FFFFFF","000000",15); // white  to black
+
+// --><!--
+
+function initArray() {
+
+  this.length = initArray.arguments.length
+
+  for (var i = 0; i < this.length; i++)
+
+    this[i+1] = initArray.arguments[i]}
+
+var hexChars = "0123456789ABCDEF";
+
+function Dec2Hex (Dec) {
+
+  var a = Dec % 16;
+
+  var b = (Dec - a)/16;
+
+  hex = "" + hexChars.charAt(b) + hexChars.charAt(a);
+
+  return hex;}
+
+function bgChanger (begin, end, steps) {
+
+  steps = steps -1 ;
+
+  redA     = begin.charAt(0) + begin.charAt(1);
+
+  red_valA = parseInt(redA,'16');
+
+  redB     = end.charAt(0) + end.charAt(1);
+
+  red_valB = parseInt(redB,'16');
+
+  red_int  = ((red_valB - red_valA) / steps) * -1;
+
+  grnA     = begin.charAt(2) + begin.charAt(3);
+
+  grn_valA = parseInt(grnA,'16');
+
+  grnB     = end.charAt(2) + end.charAt(3);
+
+  grn_valB = parseInt(grnB,'16');
+
+  grn_int  = ((grn_valB - grn_valA) / steps) * -1;
+
+  bluA     = begin.charAt(4) + begin.charAt(5);
+
+  blu_valA = parseInt(bluA,'16');
+
+  bluB     = end.charAt(4) + end.charAt(5);
+
+  blu_valB = parseInt(bluB,'16');
+
+  blu_int  = ((blu_valB - blu_valA) / steps) * -1;
+
+  step = 2;
+
+  red = red_valA;
+
+  grn = grn_valA;
+
+  blu = blu_valA;
+
+  document.bgColor = begin;
+
+  while ( steps >= step ) {
+
+    red -= red_int;
+
+    red_round = Math.round(red);
+
+    red_hex = Dec2Hex(red);
+
+    grn -= grn_int;
+
+    grn_round = Math.round(grn);
+
+    grn_hex = Dec2Hex(grn);
+
+    blu -= blu_int;
+
+    blu_round = Math.round(blu);
+
+    blu_hex = Dec2Hex(blu);
+
+    document.bgColor = red_hex + grn_hex + blu_hex;
+
+    step++;}
+
+  document.bgColor = end;}
+
+// -->
+
+<!-- 
+
+  bgChanger("000000","FF0000",15); // black to red
+
+  bgChanger("FF0000","00FF00",15); // red   to green 
+
+  bgChanger("00FF00","0000FF",15); // green to blue 
+
+  bgChanger("0000FF","FFFFFF",15); // blue  to white
+
+  bgChanger("FFFFFF","#008080",15); // white  to black
+
+// -->
+
+</SCRIPT>
+
+<BODY BACKGROUND="spacebk.jpg">
+&nbsp;<IMG SRC="Pulsar.gif" HEIGHT=36 WIDTH=36>
+<CENTER><FONT COLOR="#FF0000"><FONT SIZE=+2></FONT></FONT></CENTER>
+
+<CENTER><IMG SRC="Saucer6.gif" HEIGHT=80 WIDTH=640></CENTER>
+&nbsp;<IMG SRC="pulsar2.gif" HEIGHT=36 WIDTH=36>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="Earth3.gif" HEIGHT=60 WIDTH=56>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG SRC="pulsar3.gif" HEIGHT=36 WIDTH=36>
+<BR>&nbsp;<IMG SRC="star4.gif" HEIGHT=138 WIDTH=57>&nbsp;<IMG SRC="Ani-pls.gif" HEIGHT=15 WIDTH=15>&nbsp;<IMG SRC="Ani-star.gif" HEIGHT=40 WIDTH=41>&nbsp;<IMG SRC="pulsar6.gif" BORDER=0 HEIGHT=36 WIDTH=36>
+<CENTER><IMG SRC="pulsar1.gif" HEIGHT=36 WIDTH=36>&nbsp;<IMG SRC="explose.gif" HEIGHT=100 WIDTH=71></CENTER>
+
+<CENTER>&nbsp;</CENTER>
+
+<BLOCKQUOTE><IMG SRC="pulsar4.gif" HEIGHT=36 WIDTH=36></BLOCKQUOTE>
+
+<CENTER><FONT COLOR="#FFFF00"></FONT></CENTER>
+
+<CENTER><FONT COLOR="#FF0000">&nbsp;</FONT></CENTER>
+
+<CENTER><A HREF="mailto:tcrowe@eskimo.com"><IMG SRC="Catrun.gif" BORDER=0 HEIGHT=41 WIDTH=85></A><FONT COLOR="#FFFFFF"><A HREF="mailto:tcrowe@eskimo.com">Email
+me!</A></FONT></CENTER>
+
+</BODY>
+</HTML>

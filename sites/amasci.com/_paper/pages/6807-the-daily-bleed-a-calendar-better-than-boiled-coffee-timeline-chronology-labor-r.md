@@ -1,0 +1,460 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0213.htm
+order: 6807
+reachable_from_entry: false
+images: 19
+internal_links: 0
+extracted: 2026-08-07T17:14:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0213.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **Tomorrow is Saint Valentine's Day,\
+> All in the morning betime,\
+> & I a maid at your window,\
+> To be your Valentine.**
+>
+> 
+>
+>     *William Shakespeare,* Ophelia in Hamlet 
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/art/wood1.jpg" data-align="left" data-vspace="10" data-hspace="10" width="200" height="250" alt="Grant Wood" />\
+-- FEBRUARY 13
+
+GRANT WOOD\
+Witty painter of corn, hogs & Heartland Americans.
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> Northumberland, England: BLESSING THE SALMON NETS.
+>
+> Ancient Rome: PARENTALIA, a week-long festival for deceased relatives begins, all temples closed, weddings prohibited.\
+>  []()\
+>
+> ------------------------------------------------------------------------
+
+\
+
+> []()\
+> \
+> <img src="http://es.rice.edu/ES/humsoc/Galileo/Student_Work/Trial96/cut1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="409" height="120" alt=" ? " />\
+> 1633 -- Italian astronomer Galileo Galilei arrives in Rome for trial before Inquisition for professing belief that earth revolves around the Sun.\
+>
+> > "It's ironic that demagogues seem to know better how to control aggressive instincts than do behavior scientists."
+> >
+> >  Dr. Niko Tinbergen, who noted that rats subjected to constant attack & defeat collapse & die for no obvious reasons.
+> >
+> >  <http://es.rice.edu/ES/humsoc/Galileo/Student_Work/Trial96/>\
+>
+> \
+>
+> > []()\
+> > \
+> > 1635 -- New World: First public school in what will become the US.(the Boston Latin School) is founded. []()\
+> > []()\
+> > \
+> > 1641 -- New World: Iroquois Confederacy begins war against Canada. []()\
+> > []()\
+> > \
+> > 1692 -- Scotland: Massacre of Scots by English army, Glencoe. []()\
+> > []()\
+> > \
+> > 1728 -- New World: Puritan fundamentalist preacher Cotton Mather dies. Finally! []()\
+> > []()\
+> > \
+> > 1769 -- Ivan Krylov (1769-1844) lives. Writer of fables which satirizes social types in the guise of beast. Produced 203 fables in nine books. They are still an integral part of Russian primary & secondary education.
+> >
+> > "The weak against the strong. Is always in the wrong."\
+> > <http://www.kirjasto.sci.fi/krylov.htm>\
+> > []()\
+> > \
+> > 1777 -- Another Sade Chapter in History?: de Sade arrested without charge, imprisoned in Vincennes fortress.
+> >
+> > > > 
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > The Sade entry came from the biographical introduction to the Evergreen Press English publication of his works. I actually think the bio is not very reliable (it's quite romanticized), but the dates are probably right. I have no reason to disbelieve this.
+> > > >
+> > > > Bleedster [\>Robert Braunwart](http://recollectionbooks.com/bleed/sources.htm#RobertB)
+> > > >
+> > > > 
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > 
+> >
+> >  []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/humor/flowerPower.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="86" height="98" alt="?" />\
+> > 1837 -- US: Flour Riot in New York City, early American riot of the poor against property. 
+> >
+> > 6,000 New Yorkers attending a "bread, meat, rent, and fuel" meeting in Chatham Square assault local flour merchants who, they claim, are hoarding flour in order to drive up the price. They drive the police & mayor to cover & storm a flour warehouse,
+> >
+> > Inspires the Flour Power movement in 1960s.
+> >
+> > []()\
+> > \
+> > []()\
+> > \
+> > 1866 -- US: Jesse James holds up his first bank, Liberty, Missouri. []()\
+> > []()\
+> > \
+> > 1883 -- Anti-Semite, proto-fascist German composer Richard Wagner dies. []()\
+> > []()\
+> > \
+> > 1884 -- Italy: In Florence, the state police seizes, for the third time, the newspaper of the anarchist communists 'La questione sociale', arresting its editor, Pilade Cecchi, & eventually is condemned to four years in prison / A Firenze, la polizia di stato sequestra, per la terza volta, il giornale dei comunisti anarchici 'La questione sociale', arrestando il suo redattore, Pilade Cecchi, che verr condannato a quattro anni di carcere.\
+> > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta)\
+> > [\[Details, click here\]](http://recollectionbooks.com/bleed/02ref.htm#13/1884) []()\
+> > []()\
+> > \
+> > 1891 -- American heartland painter Grant Wood lives, Anamosa, Iowa.\
+> > <http://sunsite.auc.dk/cgfa/w/w-4.htm>\
+> > []()\
+> > \
+> > 1898 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) is scheduled to speak to the Philosophical Society in Brooklyn.\
+
+[]()\
+[]()\
+\
+<img src="http://www.ulg.ac.be/libnet/simenon/images/simenon.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="250" height="364" alt="?" />\
+1903 -- Georges Simenon (1903-1989), Belgian-born French author, creator of Inspector Maigret novels, lives, Liege.
+
+Though not an activist, & not reflected in his crime novels, during an interview he states he has considered himself an anarchist since the age of 16, adding,
+
+> <img src="http://flag.blackened.net/anarpics/ray.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="100" height="100" alt="?" />*"Je me considre comme un anarchiste non violent, car l'anarchie n'est pas ncessairement violente, celui qui s'en rclame tant un homme qui refuse tout ce qu'on veut lui faire entrer de force dans la tte ; il est galement contre ceux qui veulent se servir de lui au lieu de lui laisser sa libert de penser".*
+>
+> <http://www.kirjasto.sci.fi/simenon.htm>\
+> \
+> <http://www.988.com/authors/simenon_georges.php>\
+> (Article at the following link no longer online; I have archived, & may post online at the Stan Iverson Memorial Archives at a later date --ed.):\
+> <http://www.france3.fr/fr3/ecrivain/auteurs/simenon.html>\
+> 
+>
+> ------------------------------------------------------------------------
+>
+> Simenon's three-dimensional quality is used to even better effect in "The Green Thermos," the story of Chave, a high-minded anarchist, who risks arrest & possible death to prevent his hot-headed accomplices from blowing up a factory...
+>
+> <http://www.nytimes.com/books/97/08/10/reviews/simenon-danger.html>
+>
+> ------------------------------------------------------------------------
+>
+> Another distraction from provincial life: getting drunk once a week with a group of young writers & painterswho called themselves La Caque (The Keg). Believers in alcohol, anarchism & their own genius, they idealized the poet of criminals, Franois Villon. In a disreputable section of town, professional criminals hung out in cafes but only Simenon among the group felt impelled to move from the abstract to the real, sitting by himself & watching them at close quarters. When he followed them through the streets they became suspicious... 
+>
+> Gavin Lambert, The Dangerous Edge , "Night Vision - Georges Simenon", \
+> (from yet again another bang-up site by Steve Trussell):\
+> <http://www.trussel.com/f_maig.htm>
+>
+> ------------------------------------------------------------------------
+>
+> 
+
+\
+
+> > > > []()\
+> > > > []()\
+> > > > \
+> > > > 1907 -- England: English suffragettes storm British Parliament & 60 women are arrested.\
+> > > > Scope\
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.usc.edu/schools/annenberg/asc/projects/comm544/library/images/713bg.jpg" data-border="0" data-hspace="10" data-vspace="10" width="280" height="190" alt="?" />\
+> 1917 -- Russia: Strikes & meetings held in Petrograd factories: beginning of the Russian Revolution.<img src="http://www.phxart.org/images/male_sulg.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="185" height="260" alt="?" />
+>
+> > **"\[U\]nless Socialists are prepared openly & avowedly to profess that the satisfaction of the needs of each individual must be their very first aim; unless they have prepared public opinion to establish itself firmly at this standpoint, the people in their next attempt to free themselves will once more suffer a defeat."**
+>
+> <http://www.geocities.com/WestHollywood/2163/bolintro.html>\
+>
+> > > *"Vladimir Ilyich \[Lenin\], your concrete actions are completely unworthy of the ideas you pretend to hold."*
+> > >
+> > >        [Peter Kropotkin](http://recollectionbooks.com/bleed/Encyclopedia/KropotkinPeter.htm)
+> > >
+> > > 
+> > >
+> > > <http://flag.blackened.net/revolt/russia_wsm.html>
+>
+> \
+>
+> > []()\
+> > \
+> > <img src="http://www.web.net/blackrosebooks/memoirs.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="144" height="226" alt="?" />\
+> > 1921 -- Russia: [Peter Kropotkin](http://recollectionbooks.com/bleed/Encyclopedia/KropotkinPeter.htm)'s funeral held in Moscow the last public anarchist gathering & the last non-state-sponsored mass assembly in Russia for 70 years, as Lenin, Trotsky & the Bolsheviks begin crackdown to secure their power over the working class. On passing Butyrki jail, incarcerated political prisoners strike up an anarchist hymn to the dead.
+> >
+> > > Under pressure of the libertarians, anarchist prisoners were allowed to attend [Kropotkin](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Kropotkin)'s funeral. A crowd estimated at 30-100,000 follows the coffin to the cemetery. Black flags are deployed, & banners proclaiming:
+> > >
+> > > "Where there is authority, there is no freedom"
+> > >
+> > > "The anarchists ask to be released from the prison of socialism"
+> > >
+> > > <http://www.web.net/blackrosebooks/kropot.htm>\
+> > > 
+> >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1921 -- Russia: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm), among others, delivers a public remembrance at Kropotkin's funeral in Moscow. 
+> > >
+> > > > [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)Soviet leaders release only a handful of anarchist political prisoners following an appeal to allow all incarcerated anarchists to attend the ceremony.
+> > > >
+> > > >  
+> > > >
+> > > > Later, [Emma](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) & [Alexander Berkman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Berkman) decide to discontinue their work with the Petrograd Museum of the Revolution in order to accept an invitation to participate in the organizing committee of a museum honoring [Kropotkin](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Kropotkin), independent of Soviet financing & oversight.
+> > > >
+> > > > In mid-February Emma receives permission to visit anarchist prisoners at Butyrki prison; among others, she sees Fanya & Aaron Baron & [Voline](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Voline). 
+> > > >
+> > > > Goldman & Berkman return to Petrograd & she prepares articles about Kropotkin's death for the Nation & the Manchester Guardian; rejects offer to write about Soviet Russia for the New York World. []()\
+> > >
+> > > []()\
+> > > \
+> > > 1932 -- Denmark: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) lectures at Copenhagen University on "Dictatorship, a World Menace" to an audience of 1,000 after lectures scheduled there earlier in the month are canceled for fear of Communist demonstrations.
+> > >
+> > > anarchist feminist
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1937 -- Scotland: In Glasgow, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) meets with local anarchists at the home of Frank Leech, secretary of the Anti-Parliamentary Communist Federation. []()\
+> > > []()\
+> > > \
+> > > 1945 -- Germany: Over 130,000 killed in Allied firebombing of Dresden. Remains little-known event even today, as the allies downplay this slaughter of innocents & devote propaganada to the German atrocities.
+> > >
+> > > > In a three-day period, 3,400 tons of explosives & incendiaries were dropped, reducing six square miles of the city to rubble & killing 135,000. Many Allied officials were outraged--Germany was clearly on the verge of collapse, & Dresden was not a German war production city. Dresden had been famous for its artwork & historic buildings until it became the victim of the single most destructive air raid of World War II.\
+> > > > 
+> > > >
+> > > > <http://www.natvan.com/free-speech/fs953d.html>\
+> > > > <http://www.codoh.com/incon/inconabr.html>\
+> > > > <img src="http://recollectionbooks.com/bleed/images/war/ar_bombviccu.jpg" data-border="1" data-hspace="10" data-vspace="10" width="356" height="364" alt="Bombing victim bodies" />
+> > > >
+> > > > 
+> > > >
+> > > > > **The soldier Kurt Vonnegut Jr. tried for many years to put into words what he had experienced during that horrific event.**
+> > > > >
+> > > > > *"I thought it would be easy for me to write about the destruction of Dresden, since all I would have to do would be to report what I had seen,"* Vonnegut noted. 
+> > > > >
+> > > > > It took him more than 20 years, however, to produce Slaughterhouse-Five, or The Children's Crusade, A Duty-Dance With Death. 
+> > > >
+> > > > []()\
+> > > >
+> > > > > "I cannot remember a time when I was not aware of the Holocaust. As a small boy, no more than 6 or 7 years old, I would write \`\`Hitler'' on the bottom of my shoe so I could wipe out his name as I walked."
+> > > > >
+> > > > >  American son of a Holocaust survivor
+> > > > >
+> > > > > <http://www.bigeye.com/jj081896.htm>\
+> >
+> > []()\
+> > \
+> > 1946 -- <span id="blinding"></span>The blinding of Isaac Woodard (or Woodward).
+> >
+> > > **They beat me about the head & face & left a bloody trail\
+> > > All down along the sidewalk to the iron door of the jail;\
+> > > He knocked me down upon the ground & he poked me in the eyes;\
+> > > When I woke up next morning, I found my eyes were blind.**
+> > >
+> > > They drug me to the courtroom, & I could not see the judge;\
+> > > He fined me fifty dollars for raising all the fuss;\
+> > > The doctor finally got there but it took him two whole days;\
+> > > He handed me some drops & salve & told me to treat myself.
+> > >
+> > > It's now you've heard my story, there's one thing I can't see,\
+> > > How you could treat a human like they have treated me;\
+> > > I thought I fought on the islands to get rid of their kind;\
+> > > But I can see the fight lots plainer now that I am blind.
+> > >
+> > >        *Woody Guthrie,* THE BLINDING OF ISAAC WOODARD (WOODY GUTHRIE/tune: "THE GREAT DUST STORM") (Aug 16, 1946)
+> > >
+> > > > *"This one I made up so's you wouldn't be forgetting what happened to this famous Negro soldier less than three hours after he got his Honorable Discharge down in Atlanta....*
+> > > >
+> > > > 
+> > > >
+> > > > See the Stan Iverson Memorial Archive,\
+> > > > <http://recollectionbooks.com/siml/library/blindingIsaac.htm>\
+
+[]()\
+\
+1953 -- US: Major-league baseball owners warned by Senator Edwin Johnson against televising their games nationwide -- that broadcasting these games to a national audience would be a threat to the survival of minor-league baseball.\
+history channel []()\
+[]()\
+\
+1960 -- France becomes the fourth nuclear power. []()\
+[]()\
+\
+1966 -- Bad boys, The Rolling Stones appear on The Ed Sullivan Show. []()\
+[]()\
+\
+1967 -- US: National Student Association reveals it has "secretly & indirectly" received more than \$3 million from the CIA over a 15-year period. NSA President Eugene Grove denies any of the money was used for intelligence work. Duh.
+
+> "The highest ambition of the integrated spectacle is still to turn secret agents into revolutionaries, & revolutionaries into secret agents."
+>
+>        GUY DEBORD, 1988
+
+
+
+> "A few years back, a man high up in the CIA name Ray cline was asked if the CIA, by its survellance of protest organizations in the United States, was violating the free speech provision of the First Amendment. He Smiled & said: 'It's only an amendment.'"
+>
+> Howard Zinn, The Zinn Readerpp412-13.
+
+[]()\
+[]()\
+\
+<img src="http://lists.village.virginia.edu/sixties/Graphics/Track16/devouring_children.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="142" height="231" alt="?" />\
+1967 -- US: Carrying huge photos of Napalmed Vietnamese children, 2,500 members of the group Women Strike for Peace storm the Pentagon, demanding to see (quote) "the generals who send our sons to Vietnam."
+
+> Women strike for peace members always dress neatly & appear as they are -- middle-class homemakers. When Pentagon guards lock the main-entrance doors, the women take off their shoes & bang on the doors with their heels. They're finally allowed inside, but Defense Secretary Robert McNamara will not meet with them. Senator Jacob Javits agrees to meet a few hundred of the women, but he's roundly booed & heckled when he denies the US is using toxic gas in Vietnam.
+>
+> \
+> Insurgent Radio Kiosk (has this happening on the 13th)
+
+[]()\
+\
+Robert Braunwart has this happening on the 15th []()\
+\
+1968 -- US: Five soldiers arrested at pray-in for peace, Fort Jackson, South Carolina. []()\
+[]()\
+\
+1969 -- US: 33 arrested at administration building sit-in, University of Massachusetts. []()\
+[]()\
+\
+1970 -- Women takeover station WCBN in Boston. []()\
+[]()\
+\
+<img src="http://www.tonythetiger.com/images/serv_error.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="183" height="117" alt=" ? " />\
+1970 -- India: Man-eating tiger is reported to have killed 48, 80 km from New Delhi.\
+Scope []()\
+[]()\
+\
+1971 -- No Hope?: Having struck three spectators with his first two golf shots at the Bob Hope Classic, Beloved & Respected Corrupted Leader Effete Duffer US Vice-President Spiro T. Agnew throws down his club & quits. None too soon. []()\
+[]()\
+\
+1972 -- Led Zeppelin forced to cancel Singapore concert when officials won't let them off the plane because of their long hair. []()\
+[]()\
+\
+1974 -- Author Aleksandr Solzhenitsyn expelled from the Soviet Union.\
+<http://www.soc.pu.ru/gallery/solzhenitsyn/home.htmle>\
+[]()\
+\
+1978 -- Australia: Early in the morning , a bomb exploded in front of the 42-story Hilton Hotel in Sydney, the location of a conference of leaders of Asian & Pacific Commonwealth countries.
+
+The bomb had been placed in a trash can & killed two garbage collectors & a bystander, but injured none of the conference delegates. According to press speculation, the bombing was directed at the Indian Prime Minister by a fanatical Buddhist sect, Ananad Marg, whose members believe their leader, convicted of murdering defectors from his group, is the incarnation of god.\
+Webster's Encyclopedia of Australia 1999 []()\
+[]()\
+\
+1979 -- US: The Hood Canal Floating Bridge suddenly became just the Hood Canal Bridge during a violent wind storm. []()\
+[]()\
+\
+1981 -- US: Death Sentence? Longest sentence published by the NY Times 1286 words.\
+Scope []()\
+[]()\
+\
+1982 -- Grave Matter?: Lynyrd Skynyrd singer Ronnie Van Zant's 300 pound gravestone stolen from his resting place. []()\
+[]()\
+\
+1982 -- South Africa: 15,000 black & white attend funeral of Neill Aggett trade union organizer to protest & commemorate his death.\
+<http://www.anc.org.za/ancdocs/history/>\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/BB/bmo1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="84" height="72" alt=" ? " />\
+1982 -- Zeng Jinlian Hunan, who grew to 8'1" (tallest woman), dies at 17, China.\
+\
+Scope []()\
+[]()\
+\
+1985 -- South African police arrest 13 nearly all the leaders of the United Democratic Front (main opposition group).\
+<http://www.anc.org.za/ancdocs/history/>\
+[]()\
+\
+1989 -- Salvadoran army attacks Encuentros hospital, rapes, kills patients.\
+Scope []()\
+[]()\
+\
+<img src="http://www.washingtonpost.com/wp-srv/inatl/images/fogofwarpics/amiriyah2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="300" height="199" alt=" ? " />\
+1991 -- During the Persian Gulf War, approximately 400 Iraqi civilians, mostly women & children, are killed during a US laser-guided missile attack on a fortified bunker in the center of Baghdad, the capital of Iraq.
+
+> Economic boycott imposed this year by US will lead to the deaths of 1,500 children under the age of 5 every month from 1991 through 1999 -- according to the UN. US media, fixated on military acts & being "patriotic", flexes its knees.
+
+<http://www.zmag.org/chomsky/articles/z9105-what-we-say.html>\
+\
+history channel []()\
+\
+1995 -- Chase Manhattan Bank distances itself from a newsletter produced by its Emerging Markets Group calling on Mexico to "eliminate the Zapatista" rebels in Mexico, according to the NY Times. Authored by Riordan Roett, director of Latin American Studies at the John Hopkins School of Advanced International Studies, analysts pointed to the uprising in Chiapas as a major element in the flight of foreign investors that weakened the Mexican peso.
+
+> Mexican security forces began a large-scale takeover of former rebel areas on February 9 (New York Times, Feb. 21 1995, A13), less than a month after the memo was published. Mexican security forces engaged in widespread violation of the human rights (continues to this day.)
+>
+> Roett also suggested the Mexican government might not find it convenient to honor the results of upcoming elections.
+
+<gopher://mundo.eco.utexas.edu:70/1m/mailing/chiapas95.archive/chase>\
+
+*"The uprising has boosted the price of the Mexican Indian blood,"* said the man known as Subcommander Marcos, who leads the Zapatista National Liberation Army in Chiapas. *"Not long ago, it was valued less than two chickens, now it is the condition for the largest loan of ignominy in history,"* he said (referring to a \$40 billion loan proposed by Clinton.)
+
+<gopher://mundo.eco.utexas.edu:70/0R86075-91582-/mailing/chiapas95.archive/chase>\
+\
+<img src="http://www.namebase.org/gifs/puppet.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="158" height="229" alt=" ? " />\
+1998 -- US: Ace Hayes, 58, dies. Editor & guiding light of the Portland Free Press, warrior for justice. <http://www.radio4all.org/pfp/ace.html>\
+<http://www.radio4all.org/pfp/current.htm>\
+<http://www.namebase.org/pixels.html>\
+
+
+[]()\
+\
+3000 --
+
+*That is what learning is. You suddenly understand something you've understood all your life, but in a new way. There's a pressure on us all the time to go on to something that seems new because there are new words attached to it. But I want to take words as ordinary as bread. Or life. Or death. Cliches. I want to have my nose rubbed in cliches.*
+
+Doris Lessing, The Four-Gated City
+
+
+
+> > > []()\
+> > > []()\
+> > > \
+> > > 9003 --
+> > >
+> > > 
+> > >
+> > > <img src="http://recollectionbooks.com/bleed/images/war/feb15a.jpg" id="p1" width="180" height="275" />
+> > >
+> > >  []()\
+> > > []()\
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > anti-CopyRite 1997-3000, more or less\
+> > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > or send questions, suggestions, additions, corrections to:\
+> > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > >
+> > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > >
+> > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > >
+> > > anarchist, labor, radical books
+> > >
+> > > See also: Anarchist Encyclopedia\
+> > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > Stan Iverson Memorial Library\
+> > > http://recollectionbooks.com/siml/\
+> > > Anarchist Time Line / Chronology\
+> > > http://recollectionbooks.com/bleed/indexTimeline.htm

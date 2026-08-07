@@ -1,0 +1,41 @@
+---
+title: "IRON MOUNTAIN KAOLIN"
+source_domain: amasci.com
+source_path: ~knapper/kaolin.html
+order: 4386
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:11:10Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# IRON MOUNTAIN KAOLIN
+
+*Source page: `~knapper/kaolin.html`*
+
+IRON MOUNTAIN KAOLIN
+
+By Richard A. Lively
+
+From Chips, Vol. 11, \#3
+
+Copyright 1999
+
+> Six miles east of my home as the crow flies is a six hundred-foot high ridge running north-south for about one mile. Due to the large deposits of iron ore known to exist there, the ridge is known as Iron Mountain. The iron ore is very porous sesqui-oxide of iron or red hematite. This easily fused ore is similar in content to the deposits found and mined in the 1800s north of Grand Tower, Illinois. The immense iron ridge known as Iron Mountain is thought by geologists to be a continuation of the Missouri Iron Belt. In fact, the geographic strata of Iron Mountain and its environs are quite similar to the Missouri Ozark plateau with more igneous rocks to be found. Ninety-five per cent of Iron Mountain is located within the Shawnee National Forest.
+>
+> The U.S. Forest Service maintains a gravel access road to the top of the north end of Iron Mountain. This road snakes up from the Black Diamond Highway (Rt. 127) three miles south of Alto Pass, IL. As the forest service road ascends one can see the ancient Indian Kaolin pits on both sides of the road. These pits appear somewhat like large sinkholes. It is apparent the Indians went to great lengths to obtain the prized Kaolin.
+>
+> The Kaolin deposits yield a lensatic form often encrusted with a rind of coarse rock. Tapping the rock gives a clear ringing when the Kaolin is of good knapping quality. To me the Kaolin appears almost like a form of obsidian. I have seen it in amber, lemon, honey and root beer colors. All are opaque or semi-translucent, some is very translucent.
+>
+> It is known that Clovis people made points from kaolin obtained from the Iron Mountain deposits. The famous Olive Branch Dalton site has yielded some fine Kaolin made artifacts. I personally found a nice Paleo type rectangular knife in the Olive Branch railroad cut. This knife was made of root beer colored Kaolin. In the spring of 1998, I removed eight of the ten Dalton cache blades from the ground. Below the last blade I found a large, well made adze of honey colored Kaolin.
+>
+> For more about the Olive Branch site refer to CHIPS, Vol. 9, \#1, 1997.
+>
+> In 1971, prior to the completion of the Cedar Creek Dam, Southern Illinois University sent out a survey team to examine and test pit archaeological sites prior to impoundment. They discovered and tested seventy-five sites. They also did a study on lithic materials used to make tools and points at these sites. Most of these sites are located within five to eight miles of Iron Mountain. Both Kaolin and Cobden chert are found at Iron Mountain. Here is the breakdown of lithic materials used: 61% Cobden chert, 22% Kaolin, 8% Mill Creek, 8% unknown, and 1% Dover. The blue gray Cobden was easily obtained in nodular form in Clear Creek and it was mined by Indians one and one half miles southwest of Cobden
+>
+> . (Most every available chunk of this material has been picked up by knappers, today youre lucky to find a piece in the creek. Editors).
+>
+> Hiking east from the parking lot atop Iron Mountain, the trail descends toward creek bottom fields along Clear Creek. There are more Indian pits on the descending slope just before you come out in the field. Unfortunately, the new owner of the creek bottom fields on both sides of the creek has posted his property. This property lies off of Mountain Glen Road east of Walnut Grove Church. Recalling a fine Dickson blade of lemon colored translucent Kaolin I found near the creek, I asked the new owner for permission to hunt his fields for artifacts. He told me there were none to be found and he didnt want people trespassing due to liability. (*Removal of rock from national or state forests is also prohibited and I understand that this is being enforced on Iron Mountain- Ed.)*
+>
+> Iron Mountain is still an interesting place to hike and observe Nature. There are landowners in the area with known deposits of Kaolin and Cobden chert. Good hunting!

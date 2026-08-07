@@ -1,0 +1,393 @@
+Why do SUVs suck? 
+
+ Copyright &#169 1997 by Eliot Lim.
+
+ This article may be distributed freely, provided
+it is distributed in its entirety.
+
+ Why do SUVs suck? 
+
+First completed: October 12 1997 
+Last revision: November 9 1997
+
+ Introduction 
+
+There is now a growing chorus of rebellious voices against the SUV,
+mostly based on the SUV's hostility towards green issues and other
+road users. Many however, are unaware of how technically inferior
+SUV's are, strictly from an engineering point of view. This would be
+far less outrageous if not for their high asking prices and huge
+profit margins. My motivation for writing this article is to reveal
+the truth of what people are actually getting for the large sums of
+money they are paying for a SUV. I would like to see good products
+succeed in the marketplace and bad ones fail, not the other way
+around. 
+
+The question posed by the title of this article 
+is answered in detail in a question and answer format... specifically:
+
+Q1: Why do SUVs ride so rough?
+
+A: Ancient suspension technology 
+
+ Leaf springs
+
+Many SUVs use cart springs (more formally known as semi elliptic leaf
+springs) which were in use before the invention of
+the internal combustion engine! Remember those cowboy flicks with
+horse drawn wagons? Observe the springing used in those wagons and
+see how similar they are to the springing used on a typical SUV.
+There is no difference at all! 
+
+In those days, this springing arrangement held an important property:
+the deformation of the leaf spring meant that the individual "leaves"
+rubbed against one another thus providing a crude form of damping
+action. In any kind of suspension system, the compression of a spring
+requires a damping force so that when the spring rebounds it will not
+oscillate indefinitely. Friction based damping is crude because it is
+difficult to control the damping properties of the system. In those
+days (over 100 years ago, that is) damping was provided by the
+friction inherent in the leaf spring design since there were no other
+means to do so. 
+
+The invention of the familiar telescopic damper (or "shock absorber")
+has rendered friction based damping completely obsolete. In fact,
+friction is regarded as a totally undesirable property in suspension
+design today and great pains are taken to eliminate friction
+completely. The ubiquitous coil spring can be easily seen to
+have practically no friction in its action and is ideally suited to
+working cooperatively with the telescopic damper as part of a modern
+suspension system. The coil spring can also be designed to work with
+far greater values of suspension travel than the leaf spring ever can,
+so from an off-roading point of view, the leaf spring is clearly
+inferior in this regard. 
+
+Ideally a modern damper should be soft on compression to allow the
+spring to compress and thus absorb the shock, and firm on
+decompression where the natural oscillating motions of the spring is
+rapidly halted, thus eliminating floatiness. These characteristics
+provide what is perceived to be a smooth ride. 
+
+A leaf spring has roughly the same amount of friction on both
+compression and decompression. Friction in any suspension system
+inhibits the compressing of a spring, which leads to more road shock
+being transmitted into the cabin. This characteristic leads to what
+is perceived to be a rough ride. 
+
+Leaf springs are completely out of date today but they can still be
+found in the rear ends of many highly priced trucks and SUVs. It is
+quite rare nowadays to find a truck with leaf springs on all 4 corners
+but they still exist. Many imported SUVs now have the frictionless
+coil springs all round but live axles (see below) are still the rule
+rather than the exception. American SUVs are starting to use
+ torsion bar springing or coil springs for the front suspension.
+With just one or two exceptions, rear ends tend to almost be
+universally sprung with leaf springs.
+
+ High unsprung weight and live axles
+
+A live axle is possibly the simplest and crudest way possible to
+connect two wheels to a body. On a driven axle it looks like a
+dumbell with the weight in the middle. Some nickname it the
+"pumpkin". You see it on most trucks and SUVs in the rear and
+sometimes in the front. The live axle is almost extinct in cars
+today, even four wheel drive ones. Why is the live axle evil? The
+more obvious reason is that shock that is encountered on one side is
+faithfully transmitted to the other. Live axled vehicles tend to be
+more easily upset if they hit a bump while turning. 
+
+The less well known reason, however, is that a live axle carries with
+it a large amount of unsprung weight. Unsprung weight is the portion
+of the vehicle that is not sitting on top of the suspension. Examples
+of unsprung components are the wheels, tires and brakes. Unsprung
+weight is a highly undesirable attribute in suspension design, because
+the more inertia the unsprung components have, the less inertia the
+sprung masses have to remain unperturbed over a bump. This means
+that with less unsprung weight the suspension is able to react
+ faster to bumps rather than simply transmitting
+the shock into the cabin. 
+
+The ratio of sprung to unsprung weight is a key determining factor in
+how smoothly a car rides. Remember the old wisdom of how a heavier
+car rides better than a lighter car? The truth is that the heavier
+car most likely has a higher sprung to unsprung weight ratio than the
+lighter car. This also means that lighter cars can be made to ride
+better than heavier cars if they keep their unsprung weight down. And
+it also explains why these heavy SUVs still ride so roughly while
+handling so poorly compared to cars much lighter than them. They have
+too much unsprung weight, much of it comes from using antiquated live
+axles. 
+
+Compared to the modern independent suspension, a live axle has the
+entire differential assembly, protective casing and all final
+driveshafts as unsprung masses while the main driveshaft is partially
+sprung. All the variations of modern independent suspension only have
+the final driveshafts partially unsprung. The main driveshaft(s) and
+differential assemblies are all part of the sprung masses attached to
+the body. Thus one can see how much of an unsprung weight penalty
+there is by using a live axle. 
+
+A high performance car with measures taken to reduce unsprung weight
+can trade the gains in ride quality for stiffer suspension. Designers
+of high performance cars go to extreme lengths to reduce unsprung
+weight. In the Porsche 911 turbo for example, not only are the wheels
+made of lightweight alloy, the spokes are also hollowed out. All this
+in a fanatical attempt to reduce unsprung weight. Some higher priced
+cars have also introduced suspension components that are made of
+aluminum instead of steel. The aforementioned Porsche, the Audi A4
+and the BMW 5 series are some examples. 
+
+With low unsprung weight one has a car capable of sizzling handling
+while riding reasonably. Conversely, a SUV with its high unsprung
+weight has to have what little handling sacrificed for a tolerable
+ride. The use of live axles and leaf springs can be traced back to at
+least 50 years ago, while the use of coil springs can be found in
+railroad cars dating back to the 19th century. Paying substantial
+money today for such inferior and crude technology is analogous to
+paying $3,000 for a PC powered by a 80286 CPU today. 
+
+ Crude specification
+
+Given the high ground clearance and high loading capacity of a SUV,
+spring rates are specified to be very stiff, both to counter roll
+and squat. This of course is the simplest, cheapest and crudest
+possible solution to the problem. Modern suspension has developed
+methods to counter roll and squat without necessitating extremely
+high spring rates and a resulting bone jarring ride. 
+
+For off roading needs, it is indeed necessary to specify stronger
+suspension components to handle the extra stress. The added weight of
+these components would increase the unsprung weight and thus worsen
+the ride. For the high asking prices of SUVs it would not be
+unreasonable to expect some effort made at reducing unsprung weight by
+using a modern specification of suspension components and using
+lighter and stronger materials.
+
+ Cynically conceived SUVs have the worst of both worlds. By using
+leaf springs and live axles they handle and ride poorly. And because
+they are not expected to do serious off roading, the suspension bits
+are also not specified to be very tough. Thus one has a vehicle that
+is bad both on and off road! 
+
+Q2: Why do SUVs have such poor fuel economy?
+
+A: Mediocre engineering standards 
+
+ Barn door aerodynamics
+
+SUVs have a marketing need to look tough. Curvy aerodynamic shapes
+are not considered tough. Also, a streamlined shape requires a lot of
+wind tunnel testing to optimize. Recall that research spending on
+SUVs is quite modest. Hence one ends up with a tough looking,
+commercially attractive shape that cost little to no windtunnel
+development. A win-win from the maker's point of view!
+
+The larger size of SUVs also lead to an increased frontal area. It is
+easy to see how an increased frontal area leads to more drag. 
+
+The high ground clearance needed for off roading also means that there
+is a great potential of the air travelling under the vehicle to become
+turbulent. Turbulent air leads to increased drag. Since most SUVs
+spend time on paved freeways at speed, all these combined aerodynamic
+debits add up to significantly increased energy required to push air
+out of the way. A particular variant of the Range Rover offers air
+springs whereby the ride height of the vehicle could be adjusted
+depending on its current mission. Using slightly more advanced
+technology like this would mean that a SUV could potentially excel
+both on and off road, but the market has shown very little appetite
+for excellence of this sort.
+
+ High weight due to inefficient design
+
+Pickup trucks are invariably constructed out of the "body on frame"
+design. (Also called "twin rail" frame) i.e. A stiff steel "ladder"
+frame is laid out horizontally whereby the engine, transmission and
+suspension are installed onto it. A cab and a bed is then installed
+on top of this frame. A biological analogy to this design is a
+vertebrate such as a human being, where the skeleton is concealed
+inside the exterior surfaces. 
+
+Modern cars use unit bodies, also called unibodies or monocoques.
+Monocoque design came directly from the aircraft industry where low
+weight is considered paramount. Quite simply, there is no ladder
+frame. The entire skin of the car is a stress bearing structure. A
+biological analogy is the invertebrate such as a crab where the outer
+shell forms the structure. The advantage of a monocoque in car design
+is that sheet metal used to form the car's shape is also used as its
+structure. Hence there is more efficient use of the raw materials and
+lower weight.
+
+A monocoque design does not make sense in a pickup truck because a
+monocoque needs to form a completely closed box to be optimally stiff.
+In a pickup truck, the shape of the bed provides very little
+structural stiffness if it were to be part of a monocoque. A
+convertible is a good illustration of this limitation of the
+monocoque. 
+
+SUVs that are evolved from pickup trucks simply attach a complete
+passenger cabin over the ladder frame of the pickup. This is
+wasteful and inefficient because the inherent strength of a
+closed box formed by sheet metal is not used as a part of the vehicle's 
+load bearing structure. A lot of unnecessary extra weight is the result
+with no gains in structural strength. 
+
+Furthermore, the ladder frame is very weak in torsion. Torsional
+forces are those that come into play when the vehicle is turning or if
+the suspension is unevenly loaded. If a vehicle structure is weak in
+torsion, one end of the vehicle will be deformed by twisting forces
+more than the other. This makes suspension design difficult as it
+introduces an additional undesirable variable into the equation.
+Monocoque design, in contrast are being continually refined by
+increasingly powerful supercomputers, so it is not surprising to see
+that each new generation of a car has increased torsional stiffness
+over its predecessor with no gain in weight. 
+
+A number of SUV makers have addressed this. The car based Honda CRV
+and the Toyota RAV4 for example, use monocoque construction, so does
+the Jeep Grand Cherokee (though it still uses live axles and still
+rides pretty poorly). The Mercedes M class SUV uses a hybrid of both
+monocoque and ladder frame as a compromise for light weight and
+longitudinal strength; the Range Rover and the Hummer use aluminum for
+body panels since they are not load bearing. SUVs that evolve from
+cars have superior dynamics than those that evolve from trucks because
+cars are engineered to have much higher dynamic standards than
+trucks. 
+
+ Poor handling
+
+As a consequence of using outdated suspension components and
+construction techniques, SUVs tend to be ill handling. Antiquated
+four wheel drive systems also compound this significantly. This
+subject is discussed in detail in my page on 
+ Introduction to all
+wheel drive systems .
+
+A ill handling vehicle will negotiate turns at lower speeds, which
+mean that they will need to shed more speed when entering a turn and
+consequently burn more fuel reaccelerating back to its original speed.
+The high weight of an SUV will further compound this. 
+
+Q3: Why aren't they making better SUVs?
+
+A: Consumer ignorance and a uncritical media 
+
+The average suburban couple with three kids and a dog are unlikely to
+consult technical journals in evaluating their transportation needs.
+Apathy towards demanding higher standards of engineering is
+perpetuated by the automotive media who generally are reluctant to
+seriously criticise any popular product. Consumers in turn are too
+feeble minded to realize that there are no technical reasons why SUVs
+need to be so bad and simply excuse them for "being trucks". It is
+also my opinion that while Consumer Reports' writing is untainted by
+advertising money, they do not come across as very competent in
+evaluating vehicles, even from a consumer's point of view. 
+
+SUV defenders will even claim that all this ancient technology is
+somehow necessary because "they are tougher". This is complete
+nonsense. A close examination of the Hummer shows that this toughest
+of all off roaders has a thoroughly modern specification of
+independent suspension located by upper and lower A arms, ("double
+wishbones" in colorful marketing terms), coil springs and full time
+four wheel drive. When the maker of an off road vehicle needs to sell
+to the US military instead of the ignorant masses, one can see how
+much more modern and advanced designs can be. If these outdated
+components are indeed tougher they are not in evidence on the toughest
+truck on the market, chosen by the military for the toughest possible
+missions. 
+
+Further proof can be found in highly modified pickup trucks that
+participate in high speed off roading competition. These trucks have
+components that are not typically found in regular trucks, such as
+long travel coil springs and independent suspension all round. Notice
+too that coil springs and independent suspension can be found in the
+most modest of passenger cars, thus demolishing another fallacious
+argument that these components cost too much. 
+
+The profit margins on SUVs are large because R&D spending is minimal
+while markups are huge. Very few people realize that Ford spent over
+US$7 billion in designing the Contour/Mondeo, more money than even
+what Boeing spent conceiving the 777! Yet this car is sold for less
+than trucks and SUVs, vehicles that cost between one tenth and one
+hundredth as much to design. For makers of SUVs this is a heavenly
+situation, while the real losers are the trend happy consumers who buy
+them. 
+
+This bubble is about to burst, however, because foreign makers can
+smell the scent of huge profits and are about to offer technologically
+superior products to break into the market. This is not terribly
+difficult to do if one considers the fact that they can simply use a
+lot of the innovations in construction and suspension pioneered in
+passenger cars. The Mercedes M class SUV is technically respectable
+regardless of what its social statements may be or how it is going to
+be marketed. It is heartening to know that a upscale brand of car
+maker is not stooping down to the levels of irresponsible greed. This
+vehicle has an important role to play, namely to hopefully put an end
+to the madness of woefully inferior products and their unbridled
+commercial success. 
+
+The latest SUV, the Dodge Durango needs to be mentioned for being
+particularly cynical in exploiting the current SUV madness with a
+vehicle of minimal substance and maximum mark up and profit.
+Competing SUVs from other makers have shown progress (though only the
+Mercedes and Hummer can truly be considered modern) with one or more
+of the following modern components: Usage of coil springs or torsion
+bars all round, independent front and/or rear suspension, full time
+four wheel drive and monocoque construction. The Durango offers full
+time 4WD as an option but in every other regard it fails to advance
+SUV technology one iota, which is to say it remains firmly embedded in
+1950s technology. Fans of the Durango are undoubtedly seduced by its
+macho styling and Chrysler knows this only too well. Slap on a high
+enough price tag ($30,000) to show you are a serious player and just
+reel in the dollars from customers fighting to pay it. It makes one
+wonder how many Durango customers buy highly priced 286 or 386 PCs
+dressed in stylish and colorful looking glass cases. 
+
+Q4: Aren't SUVs safer?
+
+A: It depends 
+
+This ladder frame design is lethal when it comes to accidents. While
+SUV owners can take comfort that the rigid frame would quite possibly
+pierce through weaker vehicles with little deformation, they are
+probably less aware of the fact that collision with something much
+larger than them would lead to little shock absorption by the frame,
+thus transmitting the bulk of the impact forces onto their bodies.
+High g forces of internal organs colliding with the skeleton is a
+major cause of car accident deaths. If a SUV crashes into a smaller,
+softer object it comes out ahead. However if it crashes into
+something infinitely stiff such as a concrete wall it loses out
+compared to a modern car. This explains the apparent contradiction
+between real world experience and government crash testing reports.
+
+Another area of safety involves the ability of a vehicle to
+ avoid accidents. This is where superior braking and
+handling come in to play. While there has been no mention of SUVs'
+braking ability thus far in this article, it should come as no
+surprise that given their high weight and modest technical
+specifications in general that braking performance leaves something to
+be desired for most SUVs. The result is that while SUVs is probably
+safer in an impact with a car, they are also more likely to get into
+an accident in the first place. A very recent development in this
+issue involves insurance companies attempts at raising rates for SUV
+owners because of their disproportionate destructiveness in
+accidents. 
+
+ Comments? 
+
+Credits: 
+ This article was inspired by 
+
+Jay Karolyi's very funny web page
+on poseur SUVs. 
+
+ This has historically been a volatile topic, possibly because
+the purchase of a SUV is usually indefensible on logical grounds!
+
+Notice is given that I intend to publish on my web page all hate mail
+that I receive in response to this article.
+
+Follow this link to sample the
+ hate mail that I've gotten.
+
+To be fair I am now publishing 
+ well argued retorts .

@@ -1,0 +1,90 @@
+Layout-Flow - Cascading Style Sheets Properties 
+
+ layout-flow 
+ Support Key: 
+ [ IE5.5 ] 
+ Other International Properties 
+
+ unicode-bidi 
+ direction 
+ ruby-align 
+ ruby-overhang 
+ ruby-position 
+ line-break 
+ word-break 
+ writing-mode 
+ ime-mode 
+ text-justify 
+ text-autospace 
+ text-kashida-space 
+ layout-grid 
+ layout-grid-mode 
+ layout-grid-type 
+ layout-grid-line 
+ layout-grid-char 
+ layout-grid-char-spacing 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ horizontal 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property controls the direction and flow of the content in an
+ element. Its use is deprecated in favor of the 'writing-mode' property
+ which accomplishes the same purpose.
+
+ Allowed Values 
+ horizontal 
+ [ IE5.5 ] 
+ Type: Explicit 
+ Description: 
+ Character glyphs flow one after another from the source content from
+ left to right, starting from the top of the element's rendering box.
+ When a new line is started, it starts below the previous line at the
+ left-hand side of the element's rendering box. This is the layout mode
+ used in most Roman-based documents. 
+
+ vertical-ideographic 
+ [ IE5.5 ] 
+ Type: Explicit 
+ Description: 
+ Character glyphs flow one after another from the source content from top to
+ bottom, starting from the right side of the element's rendering box. When
+ a new line is started, it starts to the left of the previous line at the
+ top side of the element's rendering box. Full-width characters are rendered
+ with their top on the same side as the top of the rendering box, and
+ half-width characters (select kana glyphs and western characters) are
+ rendered rotated 90 degrees clockwise to the original rendering box's
+ orientation. This layout mode is used in East Asian typography. 
+
+ Example 
+ Ext/Doc: div 
+ { layout-flow: vertical-ideographic; } 
+ In-Line:&#160; < div 
+ STYLE =" layout-flow: 
+ vertical-ideographic">Content rendered vertically</ div > 
+
+ Browser Peculiarities 
+
+ The IE online reference mentions that the use of this property is
+ deprecated in favor of the 'writing-mode' property. These properties
+ seem to do mostly the same thing, and were introduced at the same time -
+ I wonder why the duplication exists.
+
+ Boring Copyright Stuff....

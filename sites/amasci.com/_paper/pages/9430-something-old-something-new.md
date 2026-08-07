@@ -1,0 +1,1169 @@
+---
+title: "Something Old, Something New"
+source_domain: amasci.com
+source_path: ~vecna/garg01.htm
+order: 9430
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T17:17:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Something Old, Something New
+
+*Source page: `~vecna/garg01.htm`*
+
+# <img src="chavez.gif" data-align="Left" width="155" height="187" /><img src="hudson.gif" data-align="Right" width="198" height="197" />Something Old, Something New
+
+by Christine M. Morgan\
+\
+\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+    Something Old, Something New
+    by Christine Morgan, vecna@eskimo.com
+    Author's Notes:
+        Typical disclaimers about how most of the characters
+    presented herein are the property and creative brain-children of the
+    wonderful folks at Disney. Joy, Crimson, and the other old-timers are
+    my own but I'm not selfish if anybody else wants to include them.
+        This story is set about six weeks after "Hunter's Moon."
+    Comments are not only welcome but eagerly sought after.
+
+            SOMETHING OLD, SOMETHING NEW
+        Morgan looked startled when he saw her, but then his face
+    split into a broad, beaming grin. "Hey, Captain! Thought they weren't
+    letting you come back for a few weeks!"
+        Captain Maria Chavez returned his smile, hers a bit rueful.
+    She gestured to the padded  brace and cast that encased one of her
+    legs. "As you can see, Morgan, I'm not ready to run any marathons
+    yet. I'm supposed to be at home, resting, with my foot up, but I just
+    couldn't stand any  more of those stupid afternoon talk shows. And
+    my place is a mess. Though," she continued, looking around
+    dubiously, "things aren't much better here."
+        The hall leading to her office was crowded with painter's
+    scaffolds, disorganized piles of lumber, toolboxes gaping like metal-
+    filled mouths, and people in coveralls slouching about drinking from
+    styrofoam cups and looking like they wished they had cigarettes.
+        "Coffee break," Morgan said, falling into step beside her and
+    slowing to allow for her limp. "Seems like they have six or seven of
+    them a day."
+        "Our coffee, I suppose."
+        "Yeah. They were going after the donuts, too, but Richards
+    put a stop to that." He chuckled. "You should've seen it. He started
+    spouting some line about police property and obstructing breakfast,
+    and just to make his point he cuffed one of them to the kitchen door
+    as a warning."
+        "Richards has to start being more careful with his own police
+    property," Chavez said absently as she dug her keys out of her
+    purse. "He might think I've forgotten about the time he left his gun
+    lying on the counter at the sandwich place, but believe you me,
+    Morgan, it's well-remembered."
+        "Yes, Ma'am. So how long are these jokers supposed to be
+    here?"
+        She sighed and shook her head. "It's taken them six weeks
+    to get this far, and I swear it looks like they're doing more damage
+    than they're fixing. Months, probably. And all the while we'll be wading
+    through the latest pile of bureaucratic bullshit from uptown, just trying
+    to get the funding to fix the goddam roof before winter. As if there's a
+    question of whether or not it needs to be fixed. Christ, Morgan,
+    there's a pile of rubble on our roof big enough to fill an Olympic-sized
+    pool!"
+        He stepped back and raised both hands, palms out. "Easy,
+    Captain, you're preaching to the choir here. Save it for the bigwigs,
+    okay?"
+        "Sorry, Morgan. I've been getting five calls a day about it,
+    even when I was in the hospital, and I don't know how many couriers
+    with papers for me to sign. It's just getting under my skin."
+        "Hey, I know how it is. We've all been worked over. I mean,
+    first it was the news crews, and then the gawkers -- we oughtta talk
+    to the mayor or the governor or somebody and make gawking a
+    crime -- and then the contractors, and now these clowns."
+        "We're just lucky more people weren't hurt. When I think how
+    bad it could have been ..." she shivered.
+        "Uh, Captain, that was your office." He pointed at the door.
+        "Oh. Right. Didn't recognize it with the plywood where my
+    name used to be."
+        "I'm sure they'll get around to getting you a new window. Like
+    sometime in the year 2000."
+        "Very funny, Morgan. Now get to work or I'll find something to
+    charge you with."
+        "Yes, Ma'am!" He doffed his hat and sauntered back through
+    the maze of scaffolds.
+        Maria Chavez let herself into her office. She hadn't seen it in
+    six weeks, not since the rescue teams had carried her out on a
+    stretcher. The window, which had blown out in the explosions, had
+    been covered with another sheet of plywood. The room was therefore
+    dim and shadowy despite the bright afternoon outside.
+        She flipped on the lights and one of the overhead
+    flourescents swung down like a trapdoor. It rocked crazily, casting
+    moving fans of brightness. Grit, glass, dust, and debris littered the
+    carpet. Her desk was upended -- when had that happened? Maybe
+    during the blast, maybe after when the room seemed a haze of cops
+    and firefighters and paramedics. She hadn't been thinking too clearly
+    at that point.
+        She picked her way through the mess and righted the desk.
+    She then stooped to gather her things from the floor. Blotter,
+    telephone, in/out basket, nameplate, trifold picture frame. The glass
+    on that one was somehow miraculously unbroken. She brushed it off,
+    looked at the photos.
+        The phone rang, startling her. She nearly dropped the frame,
+    juggled it, caught it, and set it safely on the desk with her heart
+    hammering madly. She grabbed the phone and punched the
+    button by the blinking light.
+        "Chavez," she said, pleased that her voice came out crisp
+    and efficient.
+        "Mom? Wow, that was lucky! I tried you at home but nobody
+    was there so I thought I'd try your work, even though I didn't think you
+    were back yet."
+        "Sarah? Honey, hello! How are you?"
+        "Great! Mom, guess what! Dad's getting married!"
+        The strength went out of her legs. She fell into her chair,
+    dimly grateful that it was still upright in its accustomed place. Her
+    breath caught in a strangled gasp.
+        Oblivious to the shocked silence on the other end, her
+    youngest child babbled. Sarah had just turned ten, wished she was
+    sixteen, but in her excitement was reduced to approximately age
+    seven.  
+        "Her name's Rhonda, kind of a funny name, I never knew
+    anybody named that before, but she's really nice and she's got brown
+    hair and she always wears it in these really cool braids and she's
+    teaching me how to braid my hair, and they're getting married in three
+    weeks and I get to be a bridesmaid, not just a flower girl, 'cause that's
+    for babies, but a real bridesmaid and wear a dress, you gotta see it,
+    it's so cool, it's this blue color, Dad says it's called turquoise, and it's
+    got these ruffles down the back and a big bow, and I get to wear a
+    hat, and Aunt Julie is gonna come, and we're gonna have wedding
+    cake and champagne and Dad says I can even try some, though he
+    thinks I won't like it but I bet I will --"
+        "Sarah, honey, slow down," Maria finally managed.
+        "Yeah, okay, but isn't it great?"
+        "Great," she echoed listlessly.
+        "Oh, and I forgot to tell you the coolest part! Rhonda's folks
+    live out in the country, and they've got a ranch, and real horses! And
+    while they're honeymooning, they're going to Hawaii, you and Dad
+    always talked about going to Hawaii, remember, but while they go,
+    me and Josh get to stay on the ranch with the horses! Two whole
+    weeks!"
+        Maria shook her head, trying to assimilate all this information.
+    Finally she settled on the most important part. "Honey, you and Josh
+    could stay with me."
+        "Mo-o-om! Horses!"
+        "I'd really like it if you'd stay with me, Sarah."
+        "But Dad says me and Josh should spend time with
+    Rhonda's folks because we're gonna be like a real family now! And
+    Dad says you work all the time, so we'd be a bother."
+        "You're never a bother!"
+        "Josh is all mad, though, because they're getting married on
+    a Saturday and so he'll have to miss his stupid softball game, but it
+    doesn't matter because he can't pitch anyway, and Dad says Josh
+    should be there and be happy because we're finally going to have a
+    real mom."
+        Maria winced. "Sarah --"
+        "Oh, but I'm supposed to tell you that we can't come see you
+    that weekend, you know, because of the wedding? So maybe next
+    month, and I can tell you all about the horses and everything."
+        "Your father should be the one telling me this," Maria
+    snapped. "Who does he think he is, just making plans without even
+    consulting me? That's supposed to be my weekend. I hardly ever get
+    to see you and your brother, and your father is always coming up with
+    reasons to interfere!"
+        "But, mom, it's his wedding," Sarah said in a small meek
+    voice.
+        "Oh, honey, I'm sorry. I shouldn't be yelling at you. I'm not
+    mad at you. Sarah? Honey? Are you still there?"
+        Muffled, distant sobbing and a click.
+        "Shit."
+        She hung up the phone and glared at it so hotly it should
+    have melted. Then, in a fit of childish pique, she shoved it off the
+    desk. It struck the floor with a surprised "ting!"
+        She picked up the picture frame again and turned it over and
+    over in her hands, watching the three faces of her children revolve.
+    Little Sarah. Josh, who would be twelve soon, with his dreams of
+    playing in the majors. And Carmen, her oldest, who was in California.
+        Carmen wouldn't be going to the wedding. She had never
+    accepted her mother's second husband. To Carmen, Alan
+    Henderson had been an unwelcome intrusion into their lives, her half-
+    brother and half-sister annoyances. When she'd been able to escape
+    to college, she had gone as far from home as she could while still
+    staying within the continental U.S.
+        Maria opened a drawer, found her address book, and looked
+    up the number for the large house Carmen shared with five other
+    girls, then closed the book and returned it to its resting place.
+        Calling Carmen would do no good. All she'd be doing was
+    setting herself up for an earful of "I told you so," with an extra helping
+    of cool indifference. It had been four years since they had seen each
+    other, months since they'd spoken, only communicating by the
+    occasional duty letter. For all Maria knew, Carmen might have
+    graduated already, without so much as an announcement, let alone
+    an invitation.
+        Alarmed to find herself on the verge of tears, Maria forced
+    herself to get up and start cleaning her office. Heedless of her leg
+    and cast, she climbed onto her desk to try and wedge the flourescent
+    light back into its socket. Then a trip to the janitor's closet for cleaning
+    supplies (past either another coffee break or the continuation of the
+    first). Then she dusted, vacuumed, filled three of the large size trash
+    bags with debris, beat the plaster dust out of her chair and off her
+    rump once she remembered she'd been sitting in it -- probably gave
+    the loafers in the hall a good laugh passing them with what looked
+    like a big white handprint on her butt -- and finally she looked around
+    and nodded with satisfaction.
+        Oh, it would just get wrecked again when the workers came
+    to fix her window, but for now it was passable.
+        Her leg was pounding dully. She grabbed her purse and
+    headed for the ladies' room, noting that the hall was empty of people.
+    Just the scaffolds and tools standing around, like some working
+    man's Roanoke Island. It wasn't until she looked at her watch -- 8:48
+    PM -- that she realized she'd spent about five hours cleaning.
+        She found a mini free sample of Advil in her purse and
+    swallowed the tablets with a glass of water, then looked in the mirror.
+    Thank God nobody had seen her, looking like a hag with a corkscrew
+    hairdo and a face covered with smudges. She washed and
+    straighened herself as best she could.
+        "Why bother?" she asked her reflection. "Nobody to go home
+    to. Maybe I should call Muriel and see what she's up to."
+        She considered the idea for about thirty seconds, then
+    canned it. Muriel, twice divorced and quite happy about it, would
+    suggest that they go out. She'd encourage Maria to tart herself up
+    like a twenty-year old and drag her to some dingy club where the
+    music was so loud it seemed like your head would explode, and
+    where young people writhed and gyrated in what they thought was
+    dancing.
+        Instead, leaving the ladies' room, her eye fell upon the door
+    leading to the stairs.
+        "Today's been such a perfect day," she said, still not aware
+    she was speaking aloud. "Why not go up and look at the clocktower?
+    That'll be the cherry on the whole goddam sundae."
+        Her leg complained with each stair riser, but Maria grimly
+    ignored it and climbed all the way to the top floor of the precinct. Up
+    here, the damage was worse. The floor was two inches deep in
+    plaster chunks, most of which had fallen out of the walls. She could
+    see a dinosaurian skeleton of exposed beams and timbers.
+        The old archives, dating back to a time when this building
+    had been a branch of the city library, were a chaotic mess of toppled
+    shelves, strewn books, and torn pages like drifts of autumn leaves.
+    Looking at all that paper, she was amazed the whole place hadn't
+    gone up like a Roman Candle. An ancient spiral staircase, missing
+    more steps than a first-time ballet student, was tilted at a sickening
+    angle. The trapdoor to which it led was open, with an intestinal
+    dangling of wires and insulation.
+        Instead of trying to navigate the spiral stair and trap door,
+    Maria searched for the door marked "Attic." She found it behind a
+    jackstraw tumble of beams but was able to pick her way through. She
+    reached for the doorhandle, knowing that it probably wasn't safe to
+    be up here, knowing the place could collapse at any moment,
+    knowing that nobody knew where she was and if she fell and broke
+    her other leg, she would die a slow, horrible death up here.
+        She turned the handle anyway.
+        It was locked.
+        Locked?
+        She frowned. To the best of her awareness, this door wasn't
+    kept locked. She examined the handle. It looked much newer than
+    the rest of the door, as if someone had replaced the knob, plate, and
+    whole works at some time in the not-too-distant past.
+        A new flavor of curiosity mixed with her grim desire to survey
+    the ruins. Who would lock the attic? And why? There was nothing to
+    see up there except the rusty old clock machinery, and that was just
+    a crumbling mess now.
+        Could the news stories have been true?
+        She barely allowed that thought to flit across her
+    consciousness before banishing it to the Home for Stupid Ideas.
+    Gargoyles. Yeah, right, as Elisa would say.
+        But why think of Elisa?
+        Elisa had been hiding something. For a long time. Her
+    comings and goings at odd hours, not terribly unusual for a cop. Her
+    preference -- no, downright insistence -- on working the night shift.
+    The wild reports that her collars gave. Reports of monsters.
+        Monsters. Gargoyles.
+        "Bullshit!" she said, and the sound of her own voice brought
+    her back to normality. What was she doing, creeping around up here
+    in the dark, in this old place like a haunted castle? All she needed
+    was eerie music and Bela Lugosi to come gliding along in his cape.
+    No wonder she was having strange thoughts. The smart thing to do
+    would be to forget about it, go home, make tea, and relax.
+        So she slammed her shoulder against the door.
+        It gave way with ridiculous ease. She stumbled forward,
+    kicked a chunk of wood with her bad foot, yelped, nearly fell, and had
+    to hang onto the edge of the door to steady herself. She saw that the
+    solid brass tongue of the lock had just torn clear through the
+    doorframe, which was splintered down to tissue-thickness.
+        Ahead of her, a rickety flight of stairs looked like the road to
+    Hell, despite the fact that they were going up instead of down.
+        She picked her way up those stairs as carefully as a brain
+    surgeon at work. A cool draft helped guide her. She smelled dust,
+    smoke, and stale popcorn.
+        That brought her to a halt. Popcorn?
+        She shook her head and continued. At last, the shattered
+    dome of the clock tower was the only thing standing (barely) between
+    her and the star-strewn sky. She stepped over a huge metal VII, and
+    eased around the warped and half-melted minute hand which was
+    embedded point-first into the floor like some sort of ornate harpoon.
+        She bruised her shin (not the broken one, thank God for
+    small favors) against the television.
+        Television?
+        She bent to examine it. With her thumb, she rubbed off the
+    smoky residue on the front lower edge, uncovering an M, an A, a G,
+    an N, and another A. The rest was beyond recognition, but she didn't
+    need to be a genius to guess what the last three letters would be.
+        Where the screen should have been was a gaping empty
+    socket ringed with shards of glass. Inside were the blackened,
+    scorched electronic guts.
+        And near the television was something else. An armchair.
+    The overstuffed behemoth that had belonged to Detective Prosky,
+    she was sure of it. Prosky had retired several months ago, and she'd
+    made sure to tell him to take the damn thing with him or throw it in
+    the dumpster. In fact, she knew he'd moved it because Elisa had
+    volunteered to --
+        Elisa?
+        What the hell was going on?
+        Whatever it was, she knew it couldn't be anything bad. After
+    all, she'd known Elisa ever since the day the younger woman was
+    born. She and Carlos had been godparents to all three Maza kids.
+        Carlos.
+        Oh, God!
+        Crushing loneliness and grief engulfed her. Anguish knotted
+    her stomach, closed her throat, squeezed her heart, and for a
+    moment she was sure she was going to die before she could let it
+    out. Then the tears she had successfully battled downstairs won
+    through. She uttered a huge braying wail and flung herself into the
+    armchair.
+        She cried like she hadn't cried in years. Not even at Carlos'
+    funeral, or in the horrible solitary days following his death, had she
+    given way to such a fury of tears. She'd had to be strong then, for
+    little Carmen, and had thrown herself into her work, wanting to be the
+    best cop there was, not only because Carlos had been a cop,
+    because Carlos had given his life in the line of duty, but so that she
+    could do her part to put a stop to the sort of violence that had taken
+    him away from her, so that other little girls like Carmen would never
+    have to have a parent tell them, "We have to be very brave now."
+        At last, the storm began to pass. Her weeping gradually
+    subsided into chest-hitching. And just before she heard the voice, her
+    cop instinct told her she was being watched.
+        "Och, lass, sure as it canna be so bad as all that."
+        She whirled, eyes ticking rapidly over the heaps of stone, the
+    fallen timbers. A thousand shadows, a thousand places easily big
+    enough to conceal a man.
+        "Wh--who's there?" she said, mortified at the pitiful quavering
+    tone.
+        "Dinna take on so," the voice said. It was a kindly voice,
+    soothing yet gravelly, and the accent inspired an instinctive trust. "I
+    mean ye no harm."
+        "Then show yourself," she challenged, no longer frightened
+    but still concerned. She was unarmed, after all, and in a cast she
+    doubted her martial arts training would be terribly effective.
+        The voice chuckled warmly. "Now, I dinna think that's a good
+    idea, lass. Ye're the captain, are ye not? Captain Chavez?"
+        "Yes. Who are you?" She caught herself feeling absurdly
+    flattered to be called lass. Well past forty, mother of three, she was
+    hardly qualified for the title.
+        "I'm called Hudson, if it please ye. Are ye well? I dinna mean
+    to intrude, but 'tis fair heartbreaking to see a lady cry."
+        "I'm fine," she said weakly. "What is this? Why are you
+    hiding?" Inspiration struck. "You lived here, didn't you? The television,
+    the chair ... but how did you get around with nobody seeing you?"
+        "I used to live here, that much be true. No more, 'tis a
+    shame, for we were fond o' this place for all it wasn't so grand as our
+    true home."
+        She heard him move and was pretty sure she had his
+    location pinpointed. A large man, by the sound, probably one of New
+    York's legions of homeless. "It's not safe to be up here. You must
+    have been out when it blew up. Come out, and we'll find you a place
+    to stay. There are a lot of good shelters."
+        He chuckled again. "Ye're a one, aren't ye, lass? 'Twas my
+    thought to ease yer worries when I saw ye weeping fit to die, and not
+    two minutes later ye're trying to comfort me. I assure ye, I'm in no
+    need of a new home yet. We're back where we belong. I just came
+    by to see the old place. We'd all stayed away after the explosion."
+        "What do you mean we? Did you have friends living up
+    here?"
+        Something rustled in the shadows, sounding a little like
+    sheets flapping leisurely in the line and a little like fallen leaves
+    blowing along the ground. "My family, lass. My clan."
+        She rose from the chair. "Come out. I promise, I'm not going
+    to arrest you."
+        "I dinna fear that. But, lass, ye've already had a trial of an
+    evening by the look of it, and I'd not be the one to scare ye."
+        "I don't scare easily. Besides, I prefer talking to someone
+    when I can see his face."
+        He sighed heavily. "Well, I suppose ye'd be learning about us
+    some time." He stepped out of the shadows.
+        Maria Chavez collapsed back into the chair, second time
+    tonight she'd done that without looking, and luck was still with her
+    because she landed squarely in it instead of spilling to the floor. Her
+    limbs felt numb, her jaw hung loose, her eyes felt large as saucers.
+    "You -- you're a gargoyle! You're real!"
+        "I always thought so," he said. "Elisa'd been wanting to tell
+    ye, but she feared ye might not take it well."
+        She stared at him. Her head was filled with questions, all
+    tumbling over each other. Questions about him, his kind, Elisa, news
+    stories, criminal reports, and dozens more. But all she could do was
+    sit and stare.
+        If she'd had to guess his age, she would have said a well
+    preserved sixty-five. He was a bit on the portly side but more
+    muscular than flabby, with leathery skin, a lush grey beard, one eye
+    filmed by a yellow cataract, and huge wings sprouting from his back.
+    He was dressed like someone out of one of those cheesy swords-
+    and-sorcery movies Josh adored, in a loincloth and some sort of
+    armored vest. A sword hung at his waist. Taloned feet. And to
+    complete the picture, a stout limber tail.
+        "Oh, my God, I don't believe this," she muttered.
+        "Nay, lass, I'm as real as ye are." He came closer, moving
+    with a strange grace that belied his bulk. She thought of pro football
+    players, a dozen years after retirement, maybe coaching high school
+    teams. Such men might move like that.
+        "Elisa knows about you?" she asked.
+        "Aye. We've been helping her and Matt for some time now."
+        "But if you lived here, why did you blow the place up?"
+        He shook his head, and a grim line furrowed his brow. "We'd
+    ne'er harm our home. A gargoyle can no more hurt his home than
+    stop breathin' the air, to paraphrase an old saying. 'Twas enemies
+    brought on us by one of our own turned bad. Believe me, lass, we're
+    not yer foes."
+        She stood again, carefully, half-expecting the world to spin
+    out from under her. He was taller than she was, and about twice as
+    broad. She discarded the football player image. He carried himself
+    more like a professional soldier, old but still extremely competent.
+        "I have so many questions, but I don't know where to begin,"
+    she said.
+        "Then let me. What were ye doin' up here, lass? What's got
+    ye so upset? If Elisa'd seen ye like that, she'd have been distraught.
+    And Elisa distraught means Goliath movin' mountains to set things
+    right. Since he's not here, 'tis up to me."
+        She looked up into his careworn face. Already, after only
+    minutes of acquaintance, he did not seem monstrous in the least.
+    Nor did she perceive any threat from him.
+        She wasn't a woman who shared her problems with anyone,
+    especially not strangers, so it surprised her to hear herself start
+    telling him about her conversation with Sarah.
+        Once the words started, it was as if a dam had burst. She
+    told him about her short and ill-fated marriage to Alan, about her
+    estrangement from Carmen, and finally, blinking back more
+    tears though she wouldn't have thought she had any to spare, about
+    Carlos.             
+            *           *
+                MARIA'S STORY:
+        "He was a cop, of course. It was really sort of funny. He and
+    Peter Maza, Elisa's father, were both teen rebels. Hated authority.
+    Two of a kind, a couple of punk kids from the Southwest. They both
+    ran away from home at around the same time, hooked up at a truck
+    stop in Texas, and were like brothers from the day they met. Just two
+    teen rebels, drifting like tumbleweeds.
+        "And then, for no reason either of them could ever explain,
+    they decided to become cops. They were good, damn good, the best.
+    They had chances at promotions early on, but both of them liked
+    working the street. They liked getting right in the thick of it and
+    beating up on the bad guys. They both had tempers, tried to hide it
+    but it was there. If you know Elisa, I'm sure you've seen some of that.
+        "I met Carlos in '67. I was just a kid myself, but bright,
+    skipped ahead in school. I was doing a summer internship helping
+    out around the police station. Back then, there were hardly any
+    female cops. My mother thought I was crazy. So did all my friends,
+    what few I had. But I stuck to it.
+        "I guess we were all still rebels, even if we were cops. Things
+    were different in those days, so when Peter married Diane and I
+    married Carlos, we heard a lot of disapproval about mixed marriages.
+    Hah! Mixed marriages. Now nobody bats an eye; instead they get all
+    worked up about the gays. If it's not one thing, it's another. Crazy.
+    Stupid, and crazy.
+        "Carlos and I were married in '69. None of that love-in and
+    live-together nonsense for us. We weren't cut out to be hippies.
+    Carmen came along in '71, just a year after Elisa was born. They
+    were so cute together as kids. And Derrek -- by the time Carmen was
+    seven she had the biggest crush on him! Now he's off working for
+    David Xanatos at some private facility upstate. I'm glad he's happy,
+    but it hurt to lose a damn good cop.
+        "Anyway, Carlos and I both worked, but we were still able to
+    provide a good home and family life for Carmen. I wanted to be the
+    first female police captain in the city. Carlos supported me every step
+    of the way. I didn't quite make it first, but I did make it, and that's what
+    counts. But by then, he wasn't around to see it.
+        "It was 1980. May 15th. He and Peter, still partners after all
+    those years, starting to think about retiring, walked into the middle of
+    a domestic dispute. They weren't even on a call, just stopping to pick
+    up Carmen at a friend's birthday party on the way home. We were
+    supposed to have a barbeque that night. Early in the season, but it
+    had been warm and beautiful. Diane and I were at our place with the
+    other kids, but Carmen had that birthday party. Wouldn't have missed
+    it for the world.
+        "The neighbors in one of the other apartments were having a
+    fight, and the man pulled a gun. His wife screamed and ran into the
+    hall, just as Carlos and Peter were coming in. Her husband came
+    after her and just started shooting wildly, spraying bullets, and Carlos
+    was killed before he even got his gun out. Peter was hit in the leg, but
+    shot the guy. The woman had been shot three times. She died on the
+    way to the hospital. So Carlos died for nothing.
+        "And Carmen ... when the shooting stopped, other people in
+    the apartments started looking out to see what was going on.
+    Carmen saw her father dead in the hallway."
+            *           *
+        The flood of words ended as abruptly as it had begun. Maria
+    was sitting on the edge of the chair, head down, hands dangling
+    limply as she spoke.
+        At some point in her story, Hudson had perched on the arm
+    of the chair, which had groaned alarmingly but held. She felt his
+    large, rough, yet tender hand on her shoulder.
+        Touched by a gargoyle, she thought randomly. The Daily
+    Tattler will pay big bucks for this.
+        "And ye kept up police work," he said admiringly.
+        "It was all I knew. I had Carmen to support. The insurance
+    company was dragging its feet, making up all sorts of reasons not to
+    pay. Peter and Diane wanted to help us out but I was stubborn and
+    foolish. He retired the next year. I was surprised when he encouraged
+    but Derrek and Elisa to join the force, but that's the way Peter is. And
+    I needed some way to fill the time. The empty time, without Carlos."
+        "What about yer daughter?"
+        "She blamed herself. Kids do that, even when it isn't their
+    fault. If she hadn't insisted on going to the party, her father wouldn't
+    have died. That was how she saw it. She pulled away from me; now I
+    know she was afraid I'd be killed too, and so she was trying to
+    distance herself. I wanted her to have a real family. I should have let
+    the Mazas be our family. Instead, I married Alan. An investment
+    broker. They never get shot in the line of duty. Their jobs are boring.
+    Safe. Unless there's a stock market crash and they all take a leap."
+        "Did ye love him, lass?"
+        "Not like Carlos. Alan was safe, like I said. A good provider.
+    Reliable. I wanted to make it work, but Carmen was just as
+    determined to see it fail. She hated him from the first day she met
+    him, never gave him a chance, never even agreed to try. Then I
+    thought that more kids might help, give her something to connect
+    with. So we had Josh, and Sarah. And two years after Sarah was
+    born, Alan left me. By then Carmen was away at school, not college
+    but a girls' boarding school in Massachusets, she'd wanted it so
+    much and it was such a relief to get her out of the house, I know it
+    sounds awful to say, but it was true, I had two young kids and a high-
+    pressure job, and I couldn't take the constant bitter harping from a
+    teenager. I'm rambling, just like Sarah does. I'm sorry."
+        "Ramble all ye want, lass. Ye'll feel the better for it. I know
+    how it pains to lose a loved one. Ye lost yer mates, ye've somewhat
+    lost yer children, ye're feeling clanless and lost. 'Tis a sorry way to
+    feel. I canna undo what's been done, but I can offer ye a shoulder to
+    lean on."
+        She looked up at him, searched his mournful eyes. "You've
+    been through the same thing, haven't you?"
+        "Aye, bits of it. We dinna have marriage, divorce, and these
+    things among gargoyles, but I've only a scarce few of my clan left.
+    We were betrayed. Only a handful of us survived, though we've since
+    been in the way of knowing that there be others of our kind left in the
+    world. Our children, well, they be raised all together, by the clan, and
+    we'd ne'er in the past given much worry over whose eggs were
+    whose. That may be changing, but back then, we'd no way o'
+    knowing nor cause to wonder which of the hatchlings were our own
+    flesh and blood. Now they're gone, most o' them. And my mate, too,
+    though she were taken from me long before the Vikings destroyed
+    the rest o' them."
+            *           *
+                SCOTLAND, 898 A.D.
+        If she'd had a name, it would have been Joy.
+        They didn't have names then, nor did they need them. The
+    one the humans would call Goliath would not even be hatched for
+    almost forty years. Names were a human affectation, maybe the only
+    way they could tell each other apart.
+        But Joy was how he thought of her. Joy was what filled his
+    heart each time he laid eyes upon her, and joy marked every night of
+    her life. She found it wherever she looked, in the simplicity of a
+    flower, in the beauty of the moon, in the soft music of the river.
+        The gargoyle who would in the fullness of time come to be
+    called Hudson roared and stretched, shedding his casing of stone
+    skin. His rookery brothers and sisters were waking all around him. A
+    cool breeze, salt-scented, washed over them invigoratingly.
+        Joy swooped down to meet him as he stepped off his
+    rampart. "A beautiful night!"
+        Others might have found fault with her appearance, for she
+    was not lean and hard and muscular like the other females. Her form
+    had a more pleasing roundness, softer curves. Others might have
+    thought her skin was too dark a shade of green, her copper-hued hair
+    too fine and silky, her brow spines too stubby. Not he. To him, she
+    was perfect.
+        "As beautiful as ye," he said, grasping her forearms in his
+    hands and leaning to brush his brow spines against hers in a gesture
+    of affection.
+        She tugged playfully at his ear and curled her tail around his
+    calf. "I was thinking o' flying out to the standing stones tonight. Come
+    with me?"
+        "What o' the barbarians?" he asked. "We drove them off last
+    night, but we should chase them further from our home. The elders
+    will want us to go after them."
+        "Must ye always think like a warrior? When is the time for
+    play, my love?"
+        "Will ye never think like a warrior?" another of their sisters
+    interrupted. Crimson-skinned, with a blaze of white hair and a proud
+    sharp beak, she was the fiercest fighter among them. Already, her
+    eyes blazed with the anticipation of battle, and her voice dripped
+    scorn for the peaceful Joy.
+        "There be more to life than this!" Joy insisted. "We'll not be at
+    war always. What will the rest o' ye do when the enemies are no
+    more and there's naught to fill yer nights but imagining archers in the
+    shadows?"
+        The crimson one turned to Hudson. Her tone changed to a
+    challenge. "Are ye going to go flitting off with her then, like Oberon's
+    pixies playing among the thistles? Or are ye going to stay and be a
+    real gargoyle?"
+        He hesitated, too long. Joy gave him a hurt but
+    understanding smile, then turned and stepped up onto the wall.
+        "Wait --" he called, but she sprang out and unfolded her
+    lovely wings. The wind caught them and carried her away, not down
+    into the courtyard where the rest of the clan was gathering, but out
+    across the fields.
+        Crimson laughed mockingly. She stepped closer to him, her
+    curved disemboweling talons clicking on the stone (centuries later,
+    when he watched Jurassic Park, he would think of her). "Come on,
+    then. If ye're e'er to have any status in this clan, ye'd do well to forget
+    her." She ran a claw down his arm, seductive but also hard enough to
+    hurt.
+        He shook her off, ignoring her angry hiss, and looked in the
+    direction Joy had flown. He braced a hand on the rampart, ready to
+    launch himself after her, when the clan leader roared his summons.
+    With a heavy sigh, he joined the rest of the warriors.
+        "These barbarians will not threaten our home again," the
+    leader was saying, turning his massive triple-horned head from side
+    to side to survey his clan. Above the horns, a plate of bone swept
+    back like a crown. His normally pale blue skin was flushed darker
+    with anger. He raised his arms to the sky, stretching out the
+    membraneous wings that reached from his hips to his wrists. "I will
+    go, and twice ten of the warriors with me, to drive them across the
+    river and far from here."
+        More than forty gargoyles were gathered around him, and
+    they began buzzing and muttering excitedly amongst themselves,
+    each wanting to be among the twice ten, each fearing to be left
+    behind.
+        From windows and balconies, human faces watched them
+    with mingled curiosity, revulsion and fear. Three approached, men in
+    rough peasant's garb, carrying large trays heaped with bread. They
+    skirted around the gargoyles and set the trays on the roof of the long,
+    low shed that hugged the inner wall. Then, as timid as mice, they
+    crept away. Not once did they speak, nor meet the gaze of any
+    gargoyle.
+        "Will they ne'er accept us?" the one who would be Hudson
+    wondered aloud.
+        His closest rookery brother clapped a hand on his shoulder.
+    "Would that it were so, after all this time. Most of these were not even
+    alive when you and I cracked shell. But they hear tales from their
+    elders, of the days before men and gargoyle lived side by side. They
+    see us as monsters for our differences, and think we do not belong
+    among them."
+        "They are the ones who dinna belong," Crimson snarled.
+    "These rocks were home to our kind when men were squatting in
+    caves. They came here unwelcome, stole our home, and we should
+    have fought for it. Had I but been hatched then --"
+        "These humans dinna be our enemies," Hudson said. "Sure
+    as they're not our friends, but mayhap 'tis still needing time. Ours was
+    the first clutch o' eggs to hatch within these walls, so --"
+        "Aye, forty years agone!" she interrupted. "If they've not
+    accepted us in forty years, they'll not be accepting us in four
+    hundred!"
+        "The time will come," their brother said, gripping each of
+    them by the shoulder, gently, but with the promise of increased
+    pressure, "when human and gargoyle live together in peace. You and
+    I may not be there to see it, but our children will."
+        Hudson nodded. "Ye speak well, my brother. If more o' our
+    clan were o' such a mind as ye, methinks yer prediction may well
+    come true."
+        "Fool's talk," Crimson declared. "What I want to know is who
+    goes to fight the barbarians!"
+        Their leader had wisely let them talk among themselves as
+    they feasted on bread. They could hunt and did so quite well, and
+    gathered wild fruits, nuts, and berries from the far reaches of the
+    land, but baking was a treat of which they'd not yet grown weary.
+        The humans gave bread to them in thanks for their defense
+    of the castle, and in trade for the game the gargoyles brought, but
+    even as Hudson chewed thoughtfully on a warm doughy loaf, he
+    reflected that the humans had never welcomed the gargoyles to eat
+    with them. They did not live among humans so much as alongside
+    them, each group tolerating the other but no ties of friendship.
+        The leader raised his arms again, and the clan fell silent. He
+    moved among them, selecting his warriors. Even as he felt the
+    leader's claw tap his chest, Hudson thought of Joy and wondered if
+    she had been waiting for him to follow, if she was waiting even now at
+    the standing stones.
+            *           *
+        The pursuit was a success. The barbarians, still battered and
+    terrified from their previously rebuffed attack on Castle Wyvern, were
+    unprepared for the winged force that swept down upon their camp.
+        They panicked and fled, few having the presence of mind to
+    even grab a weapon let along organize a proper defense. Whooping
+    and screeching gargoyles dove on them, ripping and rending, tails
+    lashing, wings buffeting campires into furies of spark and ash.
+        A few surviving humans scattered into the forest night. Some
+    gargoyles, Crimson among them, went gleefully hunting, moving from
+    treetop to treetop, cat-agile and silent, only to pounce with horrifying
+    suddenness. Others remained at the ruined camp, looting through
+    the wreckage for foodstuffs, jewelry, and useable weapons.
+        Hudson wandered restlessly among his clan. He had done
+    his part in the battle, fighting with the sure skill that seemed in him
+    more innate than taught, but when the foes were gone, the purpose
+    vanished with them. He had no patience for chasing stragglers or
+    collecting trinkets. His thoughts were still of Joy.
+        She wouldn't have been here anyway, not at a battle. She
+    had neither taste nor talent for it. Others, Crimson most of all, made
+    fun of her whenever the leader was not around to put a stop to the
+    teasing. They said she was good for nothing but turning eggs and
+    tending hatchlings. A gargoyle who couldn't fight was, in their eyes,
+    no gargoyle at all.
+        "Something amiss, lad?" the leader asked him.
+        His wings jerked in instinctive reaction to being startled and
+    the leader chuckled.
+        "Nothing amiss," he replied.
+        "You do not seem to be enjoying the spoils," the leader
+    observed.
+        He shrugged. "This wasn't about spoils. We dinna fight for
+    gold. We fight to protect our home and clan. This --" he waved a
+    hand at his brothers and sisters and elders, calling to each other to
+    show off their newest prizes, "this isn't our way."
+        The leader nodded proudly. "I knew you'd be thinking that
+    way. That is why I've chosen you to be my second in command."
+        Hudson stared at him. The choice of a second was
+    something the leader had been putting off for months now, since his
+    previous second had fallen in battle. The younger gargoyles had
+    begun to despair of him ever making the decision. "Me?"
+        "Aye, lad. You fight well, not the best warrior but you keep
+    your head about you and do not go off in a blood fury --" the leader's
+    eyes flicked momentarily to Crimson, "and you've just stated for me
+    nice as could be the gargoyle way. You'd be well suited."
+        Hudson inclined his head. "I am honored. I'll do ye proud, this
+    I promise."
+        They gripped forearms and shook. "I'll be announcing it
+    tomorrow night, then." The leader held something out to him and he
+    reflexively took it.
+        It was a sword. Short but sharp, finely balanced, made of
+    good-quality steel. He held it up, admiring the liquid run of moonlight
+    along the curved blade. "'Tis fair lovely!"
+        "Aye, and yours. You took on the leader of these barbarians,
+    and I want you to have his blade to remember this by. Not as booty,
+    mind you, for you're right in saying it isn't our way, but as a token of
+    your status."
+        Hudson inclined his head respectfully again. The leader
+    moved on, congratulating his warriors, offering humor and
+    condolences to the few injured. Hudson turned the blade, marvelling
+    on how right it felt in his hand, awed and a bit nervous over his new
+    status, his new responsibility.
+            *           *
+        Not even the heavy rain could dampen his happiness tonight.
+        The leader's announcement brought hearty congratulations
+    from the rest of the clan, approval from the elders mixed with some
+    mild envy from his brothers and sisters.
+        To celebrate the victory over the barbarians and the naming
+    of a new second, they even indulged in a feast, though normally such
+    rites of food were considered human customs and better watched
+    than imitated. That didn't matter tonight. Tonight, the humans were
+    the ones to watch while the gargoyles feasted and let loose their
+    excitement in wild spiraling flights and aerial acrobatics.
+        The festivities had come to an end a short time ago, when
+    the weather worsened. Mated pairs flew off for some privacy, more
+    out of courtesy to the humans than any real modesty of their own. It
+    was the same reason they'd begun to affect clothes, although they
+    had soon discovered that clothes offered some protection from the
+    elements and occasionally from weapons.
+        Hudson, his heart in his throat, approached Joy. "Would ye
+    care to fly with me a while? We could go to yer standing stones, if it
+    be not too wet for ye."
+        "A fair wonderful idea!" Joy cried. The fanlike crest around
+    her head unfolded in a dazzle of red and green and yellow, as it
+    always did when her feelings were strong. She embraced him, her
+    wings pressing against his three times in light, fluttery touches that
+    sent delicious shivers up his spine.
+        Hand in hand, they sprang from the high tower and glided
+    through the rain. The water only drenched him but seemed to love
+    Joy, making her skin gleam. True to her nature, she delighted in the
+    power of the downpour, letting the wind carry her up into the
+    wraithlike mists below the clouds, then diving, her hair streaming
+    back between her wings.
+        She wheeled and came up under him in imitation of the
+    hunting games they had played as hatchlings. They wrestled, falling,
+    laughing, seperating to climb high, then colliding again. On their third
+    collision, he whipped his tail around her waist.
+        "Ah, now I've got ye," he crowed.
+        "I dinna think so!" she giggled, jabbing her fingers at his
+    sides.
+        "Eee-yah!" he shrieked, snapping his wings close about him
+    and loosing his tail. He plunged thirty feet, then soared up again.
+    "What sorcery be that?" he yelled, breathless.
+        "Tickling!" she called, hovering on an updraft and waggling
+    her fingers at him. "I learned it from the humans! Would ye care to
+    see it again?"
+        "Nay! So 'tis some human weapon?"
+        "Nary a weapon, but a game."
+        "Ye learned this at the castle?" He wracked his memory but
+    couldn't recall seeing anything like what she'd just done.
+        "At the village below the high lake," she replied.
+        He gaped at her. "But that be beyond the river, beyond our
+    boundaries! 'Tis forbidden!"
+        She swooped to the ground and he followed. As she landed
+    in the solemn and silent circle of stones, she folded her wings smartly
+    into a cape and shook back her damp tresses. She stepped under a
+    large slab of rock supported on two weather-smoothed pillars and
+    made room for him.
+        "Our clan protects the castle," she said, "just as it did the
+    rocky highland before the humans came here. But what o' the others,
+    the villagers, who dinna be so fortunate as to live in the castle? The
+    poor, the peasants, who live all the year through with naught but
+    wattle-and-daub?"
+        "I'd ne'er though o' that. But sure as they'd be just as likely, or
+    e'en more, to see us as monsters, for they've not known us these
+    years past."
+        "In some places, 'tis so, ye're right. Some villages I've gone
+    to and been chased clear with flung stones and curses. But not all."
+        He shook his head and blinked, trying to make sense of this.
+    "Ye've gone to other villages? Shown yerself to humans? E'en though
+    'tis forbidden?"
+        She nodded. "All this time, ye've thought me to go about
+    playing in the bubbling springs and gathering flowers. These things
+    I've done, aye, but also have I gone among the humans."
+        "Why are ye telling me this?" he asked, pushing an errant
+    lock from her brow.
+        "Ye're second in command now. Ye may someday be leader.
+    And I --" she looked at the ground, then tipped her face up to his. "I'd
+    be a poor leader's mate."
+        "Och, lass," he said in a low voice.
+        An expression he'd never expected to see on her face was
+    there now, a deep sadness. The wetness on her cheeks could not be
+    blamed entirely on the rain. "I've broken the law o' the clan. I've been
+    a poor protector o' the castle, which should be as vital to me as
+    breathing the very air. Ye're to be a keeper o' those laws. 'Twouldn't
+    do for ye to mate with one such as myself."
+        He touched her cheek, her brow spines, the folded
+    membranes of her crest. "I do want ye as my mate," he said softly.
+    "I've ne'er wanted another."
+        "I've wanted ye, too, but it canna be so!" She turned away
+    from him.
+        "Why not?" He rested his hands on her caped shoulders. "Ye
+    and I are one."
+        "Now and forever," she whispered.
+        "Ye can stop yer wanderings, and I'll ne'er need to tell the
+    clan."
+        "But I dinna want to stop my wanderings!" She whirled on
+    him with surprising warrior's suddenness. "We'll not live always in the
+    castle. We should know the humans and their ways. They teach me,
+    and I help them my own way. I may be a poor warrior but a good
+    fisher. Their children like me, they flock to me and beg me fly with
+    them ... they are my friends."
+        He couldn't speak. Friends, with humans? Such a thing had
+    never been done, never even been considered possible. Humans
+    and gargoyles might hate each other, or tolerate each other, but
+    become friends? Live among them, as his brother had said? Human
+    and gargoyle, together in peace?
+        "Ye'll have to tell," she said, laying her palm alongside his
+    face. "And mayhap I'll be an outcast."
+        "Nay! Outcast from yer own clan? Such would ne'er happen!
+    It ne'er has --"
+        "Because none have e'er broken the law ere now," she
+    finished.
+        "Mayhap the law should change," he said. "Others in the clan
+    think we should try to befriend the humans."
+        "Come with me, meet them yerself! See that they're good
+    and kind."
+        "Across the river? Beyond our boundaries?" he asked
+    doubtfully. "And the rain, 'tis growing worse. We've shelter here, or
+    back at the castle ..."
+        She sighed. "Ye dinna have to come, then. Go, go home to
+    the castle and find yerself a mate better suited, a proper gargoyle."
+    She left the shelter of the slab.
+        "This isn't like ye," he said, going after her. "Ye're ne'er so
+    gloomy."
+        "Have I not cause to be? I'm losing ye. Had ye not been
+    chosen second, mayhap 'twould have been different. I've loved ye
+    since we were but first testing our wings, but we've no future now."
+        He pulled her against him, wrapping arms and then wings
+    around her. "A future without ye is none at all. Why canna I be
+    second in command and still yer mate? Why canna we work together
+    to help our clan learn to live among the humans? Others think as ye,
+    true as they do. Not all, aye, but some."
+        He could feel her clinging to him, wanting to believe.
+        "Let us go, then," he said. "Let us go and meet yer human
+    friends. And when we've done, I'll speak to the leader. If he'd no
+    longer have me as his second, if he and the elders do wish to cast us
+    out, at least we'll be together."
+        She raised her head and looked at him. "Ye'd do that ... for
+    me? Ye'd give up the clan?"
+        "Aye, if I must."
+        Her crests sprang up brilliantly, and her smile was as bright
+    and dazzling as he imagined the sun to be. She voiced her
+    excitement in a high shriek unlike any enraged roar he'd ever heard
+    from the throat of another gargoyle. Her wings snapped open. Had
+    any of his rookery brothers seen her in that instant, he doubted that
+    she would lack for suitors.
+        "Come!" she cried, clawing her way to the top of a pillar. "I
+    canna wait for ye to meet then!"
+        He watched admiringly as she launched herself, and reached
+    for a handhold to follow. As he did, something nudged his leg. The
+    sword. He looked down at it, at the prize which had been given to him
+    when he was chosen.
+        His doubts returned suddenly. By going with Joy, would he
+    truly be helping his clan or would he be turning his back on them?
+        His brother's words echoed in his ears. The time will come
+    when human and gargoyle live together in peace. Joy was proving it
+    could be done. He wanted to be a part of it too.
+        He climbed the pillar and soared to meet her. The rain was a
+    near-solid sheet, pelting them, making gliding difficult, but Joy's
+    spirits were undampened. Twice, he nearly lost sight of her as he
+    struggled to keep up.
+        The dale of the standing stones diminished behind them.
+    They glided over dense forest, where the hunting would be poor as
+    the animals sheltered from the storm. Soon, the trees gave way to a
+    rushing river. He had seen it just last night, only much further south,
+    where it was wider and slower and moved over shallow fords. Here, it
+    was deep and tightly channeled between walls of stone which
+    seemed to be poorly containing the turbulent waters.
+        "The river's high!" he called over the hissing and splashing of
+    the rain.
+        She looped back and glided beside him. Concern furrowed
+    her brow and darkened her eyes. "I know. 'Tis not usually so. Look,
+    ye can see where it floods into the forest!"
+        "Mayhap we should go back," he suggested.
+        "Nay, we're close now. The village lies just ahead, near the
+    falls. Och, my love, ye should see the falls! And the lake, high in the
+    mountains and ringed all in jagged stone! Methinks there may be
+    caves there. It has the look o' a place where our kind might have
+    lived. I'd planned to go exploring there soon. Mayhap we can go
+    together."
+        "On a clear night?" he asked hopefully, shaking in midair to
+    dislodge water from his wings and hair.
+        She laughed delightedly. "On any night ye wish!"
+        A rumbling crash sounded in the distance. "What was that?"
+    he called.
+        "I dinna know. Thunder?"
+        The rain worsened then, making conversation impossible, so
+    he flew on and squinted for a sign of this village. They had crossed
+    the river, moved beyond the boundaries of the clan's territory. He
+    didn't know what he expected, a bolt of lightning to sear him from the
+    sky, perhaps, but the world remained unchanged.
+        "Nay! Och, nay!" he heard Joy scream ahead of him.
+        He nearly slammed into her, for she hovered in frozen horror,
+    hands outstretched as if to ward off the terrible sight.
+        The source of the rumbling crash was all too clear now. He
+    saw a lake, cradled in the bowl of a hilltop and ringed with jagged
+    stone, just as Joy had described. But Joy had not mentioned a
+    crumbling hole in the rim of the bowl where the jagged stones had
+    fallen away. A hole through which water raged in a torrent, tumbling
+    down the hillside in a churning violence of uprooted trees, mud, and
+    boulders.
+        "The lake!" he shouted. "It's o'erflowed!"
+        She was still staring in horror, but he realized that she was
+    not looking at the lake or the gushing water. Her gaze was fixed
+    downward.
+        At the village.
+        At what was left of the village.
+        At huts and carts and livestock, engulfed by the churning
+    water. He saw a huge rock smash into a house, ripping apart its
+    thatched roof and wooden walls. In a heartbeat, what had been a
+    home was now a swirl of debris in the flood.
+        Mixed in with the sounds of destruction were the sounds of
+    screams. Humans clung to floating logs, only to be lost when other
+    logs or boulders crashed over them. They swarmed into tall trees,
+    which were undermined and toppled into the raging water. Their
+    livestock were swept downstream by this new and brutal herdsman.
+        He looked to Joy, stunned, not knowing what to do, but Joy
+    wasn't there. Her moment of shock had passed and she was diving
+    toward the village. She plucked a human child from the water as
+    easily as she might have snared a fish. The child threw its small arms
+    readily around her neck.
+        A house, torn from its foundation, was spinning crazily under
+    him. He saw two things at once. First, that it was about to collide with
+    an ancient, massively thick tree. He knew without a doubt which
+    would fare the worse in that collision. And second, that two humans
+    were sprawled atop the house, their fingers digging desperately into
+    the thatch.
+        He went in low, under the branches of the tree. He would
+    only have one pass, one chance. His hands closed unerringly on two
+    humans, seizing one by a rope belt and the other by the back of the
+    tunic. He ripped both humans free of their perch, wings beating and
+    trying to get enough lift. The humans cried out, their limbs flailing
+    frantically.
+        The house struck the tree trunk in a shower of boards, which
+    the greedy flood hastily devoured. Hudson, feeling like his arms were
+    going to come loose at the shoulders, soared in a wide circle and
+    deposited both humans in the stout branches of the very tree which
+    had nearly claimed their lives. He didn't wait around for their thanks
+    but went back out over the flood.
+        He rescued more humans, some reaching up to him
+    fearlessly, others unable to move, possibly even already dead. Those
+    that he grabbed, he carried to the strongest trees. Some grabbed
+    hold and clung with all their strength. Others drooped limply.
+        He caught glimpses of Joy doing the same thing. Her face
+    was set in a mask of grim determination which would have made the
+    fiercest Viking step back, but her foe this time was furious Nature
+    itself, who didn't back down because of a gargoyle or two.
+        He saw a dog, standing on the seat of a wagon which was
+    rapidly filling with water. The dog was drenched and yelping, dashing
+    from one side of the seat to another. Hudson landed in the wagon
+    bed, splashing up to his hips, and held out his arms. "Jump, boy!" he
+    yelled.
+        The dog growled at him nervously. The wagon dipped,
+    wetting the dog to the belly, and it leapt at Hudson. He took to the air
+    again with his armful of dog, but what could he do now? Couldn't put
+    a dog in a tree! He wheeled and spotted a large flattish boulder out of
+    the flood's path. It would do nicely. He set down the dog, which kept
+    trying to lick his hands and face.
+        "Help! Please, help!" he heard, and looked to see a woman
+    kneeling on what might have been an upended chicken coop. "My
+    baby!"
+        Spinning just out of the woman's reach was a cradle holding
+    a squalling infant. Water lapped over the side. The cradle tipped. The
+    infant's cry turned into a bubbling yelp.
+        "Noooooo!" the woman cried, and leaped clumsily into the
+    water. The wave of her impact upset the cradle, capsizing it. Her
+    shriek pealed to the unsympathetic clouds.
+        Hudson plunged headfirst into the flood, his eyes quickly
+    adjusting to the gloomy churning depths. He searched, saw nothing,
+    was about to give up, and there! A tiny human! So small his hand
+    could have wrapped entirely around it. He bore it swiftly to the
+    surface.
+        The child was limp, water streaming from its open mouth.
+    The woman still paddling in frantic helplessness, saw her motionless
+    child and began wailing in pure hysterics. She tore at her own hair,
+    rent her face with her fingernails.
+        Hudson, now battling the current of water instead of air,
+    found his wings more of a problem than a help. He grabbed a tree,
+    almost taking a branch in the eye, and laid the infant across the trunk
+    on its stomach. He pressed gently on its back.
+        Water gushed this time, amazing that such a small body
+    could hold so much. He thumped on the baby's back the way he'd
+    seen humans do when one of their number was choking.
+        The baby moved beneath his hand. It hitched in a breath and
+    began to scream in fear, pain, and outrage.
+        Cradling it in the crook of his arm, he hauled himself onto the
+    tree. The mother was nearby, but too lost in her grief to hear her
+    child's cries and know it lived. He flicked her across the face with the
+    tip of his tail. She broke off her wails and heard the crying, knew what
+    it meant.
+        He fished her out and pressed the child into her arms. She
+    didn't need to be told to hold it tightly. He then swept her up and
+    leaped, letting the air catch his wings. Strangest of all of the night's
+    events, the woman, dangling dozens of feet in the air in the arms of a
+    gargoyle, began to sing softly to her baby.
+        Hudson set her down gently, atop the same boulder where
+    he'd left the dog, which promptly began trying to lick his face again.
+    As he turned to leave, a hand on his arm stopped him.
+        It was the woman, her gaze now clear and calm. "Thank ye,"
+    she said.
+        The infant was quiet now, looking up at him. So different
+    from a gargoyle hatchling! This child was soft and pink and toothless.
+    But beautiful.
+        He smiled at the woman and took to the air again. By now,
+    the humans were all either saved or beyond saving. The flow seemed
+    to be slowing, as the water level of the lake reached that of the
+    broken hillside.
+        "Gargoyle!" a human called, waving urgently from his perch
+    in a tree. "Gargoyle! Your friend needs help!"
+        Dread flooded his heart as surely as the water had flooded
+    the village.
+        "Where?" he called.
+        The man gestured downstream. "A tree swept her away, her
+    and Dougal!"
+        Hudson spun in that direction, scanning the destruction
+    desperately. He saw uprooted trees wedged against those yet
+    standing. He saw the remains of houses, of oxen, of wagons. Of
+    humans. He saw mud-spattered boulders lodged high in the
+    branches of trees.
+        And there, there against a pillar of rock very much like a
+    standing stone, he saw Joy.
+        A young boy was clinging to the pillar, his feet braced on a
+    narrow ledge. He was sobbing and reaching down as if trying to take
+    hold of Joy's floating, drifting arm.
+        Hudson dropped beside the pillar and dug his claws in,
+    stopping himself just above the water. He caught Joy's arm and
+    pulled her up. She moved too easily, too bonelessly.
+        "Och, sir, say she's all right," the boy pleaded. "She saved
+    my life."
+        He draped her over his shoulder and glided clumsily to a
+    hillock, then laid her gently on the rainsoaked grass. Her head lolled.
+        "Nay," he whispered. "Nay, love. Hold on 'til daybreak,
+    please!"
+        But already, her skin was beginning to stiffen and turn grey.
+    Tears stung his eyes. He drew his sword and used the fine edge to
+    slice off a long lock of her copper-hued hair. Then he held her close
+    against his chest, feeling every stage of the transformation as if it
+    was happening to him.
+        Her body grew leaden and heavy, unyeilding. Her skin made
+    a sound like thick ice underfoot as it plated over with stone. And then
+    the stone began to crumble away, until she came to pieces in his
+    arms. The pieces kept crumbling until only fine grey dust was left.
+        "Ye and I are one," he said, his voice thick with sorrow. "Now
+    and forever."
+        He clenched a fistful of the dust and lifted it to his brow.
+    "Goodbye, love." He let the dust sift through his fingers and blow
+    away. The hair he kept, winding it around the hilt of his sword.
+    Making the blade part of her, part of the clan. Now and forever.
+            *           *
+        When he fell silent, Maria felt as if she was waking from a
+    dream. She shook her head to dispel images of ancient Scotland
+    clearer than any movie, and looked at him.
+        He was still sitting on the arm of the chair, his head down as
+    hers had been when she finished her tale. As he'd done, she put her
+    hand on his shoulder.
+        "What did you do then?" she asked.
+        He sighed, seeming to diminish in size as he did so. "I stayed
+    'til dawn, helping the humans save what o' their belongings they
+    could. 'Twas the first day I'd spent outside o' the castle. Did I e'en
+    worry that they might harm me as I slept? Nay. I was too weary to
+    pay it mind, and sick with grief so that if they had shattered my stone
+    form, 'twould almost have been welcome." He chuffed a sound
+    almost like a laugh. "Do ye know, I think that boy, Dougal, that she
+    gave her life to save, might've been the ancestor o' the lad Tom, who
+    saved the eggs? 'Tis strange but fitting, methinks. Anyhow, after that,
+    I returned to my clan and did my best to serve as second in
+    command. And as leader, when the time came for that."
+        "And you never took a new mate," she guessed. "You threw
+    yourself into your work, made it your whole life."
+        "Aye," he nodded.
+        "We're a lot alike," she mused. "We both lost our first, true
+    loves. We both let our jobs fill that place in our lives. But it seems like
+    I made more mistakes along the way. Alan, for instance. As much as
+    I love Sarah and Josh, I should never have married Alan."
+        "Things have a way o' happening in life that ye don't expect,
+    lass. I ne'er expected to get put to sleep by a magic spell and awaken
+    here, a thousand years after my own time. And the funny thing be,
+    my brother was right. The time has come when human and gargoyle
+    live together in peace, some o' us anyway. We've friends among the
+    humans now. Aye, just a few, 'tis true, but that be more than we had
+    back home."
+        "I can see that you have a lot more stories to tell," she said.
+    "Hopefully as many as I have questions."
+        "I'd gladly be answering yer questions, lass, but 'tis fair late
+    already and my clan will be wondering where I've gotten to. Mayhap
+    we could meet again? I'd like to number ye among our friends."
+        She looked at her watch. "My God, it's four in the morning!"
+        "Aye, and dawn in a few hours."
+        "I am never going to get a cab this late, not even with my
+    badge. Have to get one of the squad cars to run me home." She
+    grinned ruefully. "That'll be fun to explain."
+        "If ye'd rather, lass, I can see ye home."
+        "You can ..." she looked at his wings as if really seeing them
+    for the first time. "You mean, fly?"
+        "Glide, 'tis closer to the true, but that be what I mean."
+        "Heights make me dizzy," she warned, but it was only token
+    objection and they both knew it. The thought of soaring through the
+    sky -- what human hasn't dreamed of flying?
+        "I'll not let ye fall," he promised. "And if ye dinna like it, then
+    next time we'll make sure ye can get a cab."
+        "I must be crazy for doing this," she said, slipping her purse
+    strap over her head so it hung diagonally across her body. "What
+    should I do?"
+        "Just trust me, lass. That be all ye need." He extended a
+    chivalrous arm and led her up the stairs, cautious of her broken leg
+    and the treacherous rubble.
+        When she felt the breeze blow through her hair, she had
+    second thoughts, but ignored them. They tried to come back when he
+    stepped right to the edge. The city lights were gorgeous, but the drop
+    was staggering.
+        "I don't know about this ..."
+        "Ye've nothing to fear. I've been doing it all my life." Before
+    she knew what was happening, he scooped her up like a bride going
+    over the threshold and leapt off the roof.
+        They plunged and she knew she was going to die. Then he
+    spread his wings and they were tossed back upward.
+        "Eeek!" she cried, instantly mortified at the schoolgirl sound
+    coming from the mouth of a mature and respected police captain. But
+    it was the only sound that adequately expressed her feeling.
+        Thrilled and exhilerated, she threw her arms around his neck
+    and held on for the ride of her life.
+            *           *
+    The End
+
+    Click here to return to the previous page.
+
+    Something Old, Something New  /  Page Copyright 1996 - Tim Morgan  /  vecna@eskimo.com

@@ -1,0 +1,380 @@
+Pull 121 -- The Final 2003 Ohio IWPA Weight Pull
+ -- Day 1 
+
+ The Final 2003 Ohio IWPA Weight Pull 
+Kingston, Ohio 
+
+ Pull: 121 
+ Organizer(s): Todd Tripp 
+ Wheels on Dirt
+ Region: 6 
+
+ Track: 
+ Good 
+ Date: 
+Sat
+ 15 
+Mar
+ 2003 
+
+ Weather: 
+ Sunny and 60's 
+
+ Day 1 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Josh Leiter 
+
+ 20 # Class 
+
+Judged by 
+Todd Tripp
+
+?? # Start weight, 
+ 40 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Navin 
+ 4 
+ 675
+
+ 10.37 
+ 18 
+ 37.50 
+ 7.0 
+ Trent Vance
+
+ Boston Bull Terrier 
+
+ Buddy 
+ 4 
+ 675
+
+ 10.97 
+ 18 
+ 37.50 
+ 4.0 
+ David Heil
+
+ Patterdale Terrier 
+
+ Shyne 
+ 6 
+ 475
+
+ 7.94 
+ 20 
+ 23.75 
+ 1.0 
+ Josh Leiter
+
+ Am. PitBull Terrier 
+
+ 40 # Class 
+
+Judged by 
+Todd Tripp
+
+?? # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Choo Choo 
+ 4 
+ 2075
+
+ 15.00 
+ 40 
+ 51.88 
+ 10.0 
+ David Heil
+
+ Am. PitBull Terrier 
+
+ Rio 
+ 6 
+ 2075
+
+ 30.31 
+ 40 
+ 51.88 
+ 7.0 
+ Jerry Leist
+
+ Am. PitBull Terrier 
+
+ Lil Large 
+ 6 
+ 1995
+
+ 14.22 
+ 40 
+ 49.88 
+ 4.0 
+ Nathan Burns
+
+ Am. PitBull Terrier 
+
+ Lil Bubba 
+ 6 
+ 1275
+
+ 10.50 
+ 40 
+ 31.88 
+ 2.0 
+ Nathan Burns
+
+ Am. PitBull Terrier 
+
+ Grace 
+ 6 
+ 955
+
+ 7.25 
+ 38 
+ 25.13 
+ 1.0 
+ Damon Keels
+
+ Am. PitBull Terrier 
+
+ Lil Lillie 
+ 6 
+ 875
+
+ 11.36 
+ 40 
+ 21.88 
+ 0.5 
+ Kevin Kell
+
+ Am. PitBull Terrier 
+
+ 60 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Dyna 
+ 6 
+ 2075
+
+ 21.31 
+ 56 
+ 37.05 
+ 7.0 
+ Jerry Leist
+
+ Am. Bull Dog 
+
+ Vinny 
+ 6 
+ 555
+
+ 28.00 
+ 44 
+ 12.61 
+ 4.0 
+ Kevin Mccabe
+
+ Samoyed 
+
+ Rajah 
+ 6 
+ 395
+
+ 38.70 
+ 58 
+ 6.81 
+ 1.0 
+ Niranjan Teredesai
+
+ Am. PitBull Terrier 
+
+ Chewy 
+ P 
+ No Pull
+ D
+
+ 52 
+ . 
+ . 
+ Jeff Deroy
+
+ Am. PitBull Terrier 
+
+ 80 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Asia 
+ 4 
+ 2715
+
+ 21.09 
+ 78 
+ 34.81 
+ 5.0 
+ David Heil
+
+ Am. PitBull Terrier 
+
+ Brittany 
+ P 
+ No Pull
+ D
+
+ 62 
+ . 
+ . 
+ Jeff Deroy
+
+ Am. PitBull Terrier 
+
+ 150 # Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Hagan 
+ 6 
+ 2235
+
+ 28.16 
+ 144 
+ 15.52 
+ 5.0 
+ Lois Bellamy
+ Jeff Bellamy
+
+ Saint Bernard 
+
+ Unlimited Class 
+
+Judged by 
+Josh Leiter
+
+?? # Start weight, 
+ 160 # Increment, 
+Cart weighs 
+ 235 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Moose 
+ P 
+ 3035
+
+ 33.69 
+ 167 
+ 18.17 
+ . 
+ Marilyn Shaferly
+ Larry Shaferly
+
+ Alaskan Malamute 
+
+ Last Updated: 08:45:24 on 04-04-2003 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

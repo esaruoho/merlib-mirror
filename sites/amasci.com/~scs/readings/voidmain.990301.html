@@ -1,0 +1,290 @@
+<html>
+<head>
+<title>int main() vs. void main()</title>
+<body>
+<p>
+[This article was originally posted on March 1, 1999.
+I have edited the text slightly for this web page.]
+<p>
+From: scs@eskimo.com (Steve Summit)
+<br>
+Newsgroups: comp.lang.c
+<br>
+Subject: Re: "<TT>void main</TT>" is a lifestyle choice
+<br>
+Date: 1 Mar 1999 17:16:39 GMT
+<br>
+Message-ID: &lt;7bei1n$tsl$1@eskinews.eskimo.com&gt;
+<br>
+References: &lt;36D9A98B.56C1@customized.removethis.com&gt; &lt;36D9B89F.287C@customized.removethis.com&gt; &lt;7bco1u$cjd$1@eskinews.eskimo.com&gt; &lt;36DA149D.757D@customized.removethis.com&gt;
+<p>
+In article &lt;36DA149D.757D@customized.removethis.com&gt;, Sven writes:
+<br>
+&gt;Steve Summit wrote:
+<br>
+&gt;&gt; Ben went a bit too far.  Yes, to keep your compiler or <TT>lint</TT>
+<br>
+&gt;&gt; from complaining, you will probably need a "<TT>return 0</TT>" statement.
+<br>
+&gt;&gt; Yes, this is a statement that may never be executed, inserted
+<br>
+&gt;&gt; just to keep everyone happy.  Yes, inserting it will bloat your
+<br>
+&gt;&gt; executable by a few bytes.  All of that is okay in this case --
+<br>
+&gt;&gt; really.  If nothing else, it'll most certainly cost you less time
+<br>
+&gt;&gt; than arguing about it here.
+<br>
+&gt;
+<br>
+&gt; I made a point and I think you agree with it. I am not worried
+<br>
+&gt; about code bloat or lost time for argument. Can't I raise an
+<br>
+&gt; objection to an ANSI decision?
+<p>
+As a practical matter, no, you can't.  That part of the Standard
+is very solidly set in stone.  Furthermore, like almost all
+aspects of the Standard, it codifies existing practice, which has
+always been that <TT>main</TT> has been presumed to return <TT>int</TT>.
+<p>
+&gt; Please keep this discussion in the academic/language-theory realm
+<br>
+&gt; it was intended. If you disagree with me, then I expect a cogent
+<br>
+&gt; argument in favour of "<TT>int main</TT>" and why it was chosen.
+<p>
+Unfortunately I don't have time for a full-blown argument this
+morning; perhaps another day.  But consider this: any interface
+specification must be adhered to by both sides unless renegotiated.
+You have no more freedom to choose your own return type for <TT>main</TT>
+than you do for <TT>matherr</TT>, nor for the functions passed as the last
+argument to <TT>qsort</TT> or <TT>bsearch</TT>, nor for the functions passed to
+<TT>atexit</TT>, nor for the functions passed as the second argument to
+<TT>signal</TT>.  Somebody else's code, code over which you have no
+control, will be calling all of these functions, and unless you
+are prepared to get all compiler and RTL authors to simultaneously
+rewrite their code to support your revised interface specification,
+<strong>and</strong> to get all authors of C code in the world to simultaneously
+rewrite their code to work with the revised compilers and RTLs,
+you're simply going to have to write this one off as one of
+life's little miseries, and move on to fight other battles.
+<p>
+My (sincere, I am not being sarcastic here) recommendation to you
+is to write
+<p>
+<pre>
+	return 0;	/* This statement serves no purpose except  */
+			/* to coddle misguided and narrow-minded    */
+			/* specifications made by an ANSI committee */
+			/* which didn't realize that I might write  */
+			/* a main() which never returns.            */
+</pre>
+<p>
+at the end of <TT>main()</TT>.  That's the sort of thing I do whenever I'm forced to
+comply with an inept interface specification which I don't have
+time to fix.  This accomplishes your purpose: you have written
+code which is correct and which compiles without warning or
+error, and you have stated for the record your objection to the
+way you were forced to write it.  Then, as I said, move on.
+<p>
+I see that I haven't quite answered your question.  Why was
+<TT>int</TT> chosen instead of, say, <TT>void</TT>?  There are two explanations.
+<TT>main</TT> has to have a single return type; there is no overloading
+in C.  Some programs do want to return an exit status from
+main and some don't, so one group or the other is sure to be
+disappointed.
+<p>
+I was about to claim that it's easier for programs which don't
+want to return to comply with the dictum that <TT>main</TT> must return
+<TT>int</TT> than it would be for programs that do want to return to deal
+with a world in which ANSI specified that <TT>main</TT> was declared <TT>void</TT>,
+but I guess I might have gotten that backwards.  In a hypothetical
+world where <TT>main</TT> had to be declared <TT>void</TT>, programs which wanted
+to return an exit status at the top level could simply call <TT>exit</TT>
+instead of returning.  (This would wreak havoc with programs
+which call <TT>main</TT> recursively, of course, but they're almost so
+rare they can be ignored.)  So I guess I have to fall back on the
+second explanation.
+<p>
+Once upon a time, C had no <TT>void</TT> type.  Functions which didn't
+want to return anything just left out the expressions in the
+<TT>return</TT> statements and left the return type out of function
+declarations.  But the default for a function with an omitted
+return type was always (until C99 came out) <TT>int</TT>.  Ergo,
+in the days before <TT>void</TT>, programmers who didn't want to return
+a value from <TT>main</TT> (and who thought they were declaring <TT>main</TT>
+as returning nothing) were declaring <TT>main</TT> as <TT>int</TT>.  Pre-ANSI,
+pre-<TT>void</TT> practice was unanimously for <TT>main</TT> to be declared as
+returning <TT>int</TT>, so there was no other possible choice for ANSI
+to standardize.
+<p>
+&gt;&gt; Other options -- depending on your compiler or <TT>lint</TT> -- are to
+<br>
+&gt;&gt; tell your compiler or <TT>lint</TT> that your program's <TT>main</TT> function
+<br>
+&gt;&gt; (that is, the one called from <TT>main</TT> that does all the work and has
+<br>
+&gt;&gt; a call to <TT>exit</TT> buried somewhere down within it) never returns,
+<br>
+&gt;&gt; or to insert some kind of a "notreached" directive right after
+<br>
+&gt;&gt; the call to that function in <TT>main()</TT>.  Either of these options
+<br>
+&gt;&gt; (if available) may serve to suppress the "control reaches end of
+<br>
+&gt;&gt; <TT>int</TT>-valued function without <TT>return</TT>" message, <em>without</em> polluting
+<br>
+&gt;&gt; your code with a statement which will never be executed.
+<br>
+&gt; 
+<br>
+&gt; Now we're talking about non-portable work-arounds to legitimately
+<br>
+&gt; generated warnings and deliberately inserted unreachable code.
+<br>
+&gt; Are you serious?
+<p>
+Yes.
+<p>
+Let me ask you this: what do you do when you have a function with
+an imposed, unchangeable signature but which doesn't happen to
+need one of its parameters?  Many compilers will warn you that
+"argument <TT>x</TT> is unused in function <TT>f</TT>".  Many times, this is an
+appropriate warning.  Sometimes it is not.  How do you cleanly
+shut it off?  (I honestly don't know.  Right now, I'm ignoring
+it in a fair amount of production code I'm compiling with <TT>gcc</TT>.
+Ten years ago, I would have inserted an <TT>/* ARGSUSED */</TT> comment
+to silence <TT>lint</TT>, but that's a nonstandard extension.  If I
+finally get so sick of the warnings that I decide to do something
+about it, I'll probably insert some dummy code which seems to do
+something with <TT>x</TT>, but then that's wasted code which pollutes my
+clean program and accomplishes nothing at run time and exists
+only to coddle various compiler warnings and interface
+specifications at compile time.)
+<p>
+&gt;&gt;&gt; Remember that <TT>lint</TT> or compilers set to their highest warning levels
+<br>
+&gt;&gt;&gt; don't understand program flow.
+<br>
+&gt;&gt; 
+<br>
+&gt;&gt; Actually, many of them <em>do</em>.
+<br>
+&gt; 
+<br>
+&gt; They can not. Program flow is not deterministic. A compiler can not
+<br>
+&gt; determine ahead of time whether a function called in <TT>main</TT> will ever
+<br>
+&gt; return control to <TT>main</TT>.
+<p>
+Yes, Sven, I've heard of the halting problem, too.
+<p>
+Many compilers know, <em>semantically</em>, that a call to a function
+named <TT>exit()</TT> never returns.  Based on this information, when
+faced with the code
+<p>
+<pre>
+	int f()
+	{
+		exit(0);
+	}
+</pre>
+<p>
+they will suppress their normal warning about "control reaches end
+of non-<TT>void</TT> function without <TT>return</TT>".  Furthermore, some of these
+compilers allow you to specify (via some <TT>#pragma</TT> or nonstandard
+declaration) that certain of your functions do not return, either.
+<p>
+My point is that these compilers do have a notion of control
+flow, a notion which is based not on exhaustive analysis but on
+hints which the compiler has been given.  Furthermore, since it's
+this very same, weak form of control flow "analysis" that is
+driving the compiler's determinations that a "statement is not
+reached" or a "variable is set but not used" or that "control
+reaches end of non-<TT>void</TT> function without <TT>return</TT>", it is not
+inappropriate to be tying in with that weak control-flow analysis
+mechanism when you're trying to suppress one of the warnings
+based on information which you have but which the compiler cannot
+otherwise know.  (But no, since all of this is compiler-specific,
+there is no Standard or portable way to supply the hints or
+otherwise tie in with the mechanisms.)
+<p>
+&gt;&gt; "They" could not have left it as <TT>void</TT>, because it never was <TT>void</TT>.
+<br>
+&gt;&gt; The defined return type of <TT>main</TT> has always been <TT>int</TT>.  <TT>main</TT> does
+<br>
+&gt;&gt; have to be a function returning <TT>int</TT>, because that's what the
+<br>
+&gt;&gt; calling code (remember, there is some code, namely in the
+<br>
+&gt;&gt; program's run-time start-up, that is going to call <TT>main</TT>) expects
+<br>
+&gt;&gt; it to be.
+<br>
+&gt; 
+<br>
+&gt; Perhaps what I'm asking for is bona fide support for ANSI convention in
+<br>
+&gt; the form of a prototype for "<TT>main</TT>" - maybe it should be in <TT>&lt;stdlib.h&gt;</TT>.
+<p>
+That would be wonderful, and it might help to put this eternal
+debate to rest.  Alas, it's impossible, because there is no one
+prototype for <TT>main</TT> -- it's either
+<p>
+<pre>
+	int main(void);
+</pre>
+or
+<pre>
+	int main(int, char **);
+</pre>
+<p>
+This is one of the larger warts on the ANSI/ISO C Standard, and
+it's there (like all the others) to codify existing practice.
+<p>
+&gt; Until then I can code my <TT>main</TT> function anyway I want to, despite
+<br>
+&gt; ANSI wishes or the yelling to the contrary from this newsgroup.
+<p>
+Sure.  And you can write <TT>a[i] = i++</TT>, or cross the street after
+the DON'T WALK sign has started flashing, or take 13 items
+through the "12 items or less" aisle at the supermarket, or do
+any of a million other things that sit squarely in the grey area
+between legality and illegality and which you might or might not
+get called on.
+<p>
+<br>
+<p>
+Look, don't get me wrong.  I salute your wish to write clean
+programs which express the programmer's intent.  I salute your
+wish not to pollute your code with nonstandard directives or
+meaningless or unreachable code.  Both of these are goals which
+I have for my own work as well.  But I urge you to pick your
+battles.  (Reinhold Niebuhr's serenity prayer is applicable,
+too.)  The situation with respect to <TT>main</TT>'s return status is not
+perfect, but it is a comparatively minor issue, and you will not
+have forsaken your quest to write good, clean code by conceding
+defeat on this one.  When you design your own, perfect language
+(no sarcasm here, either; this is what I'm doing, too) you can
+fix the situation with respect to <TT>main's</TT> return value once and
+for all.
+<p>
+(Also, I might explain or apologize for some of the other
+responses you've gotten in this thread.  We're not as stupid as
+you think we are, but you're new here, I think, and you've taken
+a fairly argumentative and intolerant tone.  It looks like some
+of your respondents have dealt with you rather summarily, not
+noticing where you're coming from underneath.)
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+<p>
+P.S.  No, <TT>matherr</TT> isn't standard, either.
+</body>
+</html>

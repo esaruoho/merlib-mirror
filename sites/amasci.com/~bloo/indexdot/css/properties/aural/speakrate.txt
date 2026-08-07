@@ -1,0 +1,98 @@
+Speech-Rate - Cascading Style Sheets Properties 
+
+ speech-rate 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ medium 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies the speaking rate (speed) of the content.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ x-slow|slow|medium|fast|x-fast 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ x-slow: 80 words per minute 
+ slow: 120 words per minute 
+ medium: 180 - 200 words per minute 
+ fast: 300 words per minute 
+ x-fast: 500 words per minute 
+
+ slower|faster 
+ CSS2 
+ Type: Calculated 
+ Description: 
+ slower: Subtracts 40 words per minute from the current speech-rate 
+ faster: Adds 40 words per minute to the current speech-rate 
+
+ [number] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Positive number indicating speech-rate in words per minute. 
+
+ Example 
+ Ext/Doc: strong {
+ speech-rate: fast } 
+ In-Line:&#160; < strong 
+ STYLE =" speech-rate: 
+ fast">text</ strong > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

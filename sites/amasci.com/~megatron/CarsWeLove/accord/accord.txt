@@ -1,0 +1,3 @@
+PERFORMANCE DATA 0-60: 7.0 sec 1/4 Mile: 15.7 sec Skidpad: 0.82g Top Speed: N/A Braking 60-0: N/A 
+
+ SPECIFICATIONS 2.2L DOHC 16 Valve I-4 Horsepower: 190 bhp @ 6800 rpm Torque: 158 lb-ft @ 5300 rpm Curb Weight: N/A

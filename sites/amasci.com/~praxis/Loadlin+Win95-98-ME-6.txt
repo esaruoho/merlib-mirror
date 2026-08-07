@@ -1,0 +1,13 @@
+The Loadlin+Win95/98/ME mini-HOWTO: Internationalization 
+
+ 6. Internationalization 
+
+ Currently there is an 
+ Italian translation of version 1.5.0 of this mini-HOWTO,
+translated by 
+ Michele Martiradonna .
+
+Any effort to translate this mini-HOWTO into other
+languages will be greatly appreciated. If you are interested in taking 
+on such a task, please e-mail me at: 
+ protek@firstlinux.net .

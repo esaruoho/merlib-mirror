@@ -1,0 +1,40 @@
+A Cygwin Collection 
+
+ Software Compiled to Run on Cygwin 
+ Revision Date: 5/24/2001
+
+ Minicom 
+
+ Minicom is a Unix modem software program much like Telix.
+I have compiled it to run on a Unix emulation layer know as
+ Cygwin which runs on top
+of Windows 95/98/ME/NT/2000. I am giving you complete information so that
+you yourself can compile it even if you have never done it before. Just
+download and save the instruction on the page where I present my
+ patch .
+
+ Joe's Screen Editor 
+
+ Joe is a text editor like WordStar and the editor of Borland's Turbo
+language compilers. This one compiles out of the box. 
+
+ Kudos to the Cygwin Team for the great job they have done. I remember building 
+joe on Cygwin B18 took a lot more work.
+
+ The binary and source for the latest version 2.9.6 and older version 2.8
+are available from here. 
+ I am giving you complete information so that you yourself can compile it
+even if you have never done it before. Just download and save the
+instruction from this 
+page along with the cygwin makefile.
+
+ Running X Window 
+
+ Cygwin/XFree86 Screenshot 
+
+ You are visitor number &nbsp &nbsp
+
+since June 14, 2001. The web counter is provided by www.digits.com 
+
+Created by: 
+Enoch Wu

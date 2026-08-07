@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+ <META NAME="GENERATOR" CONTENT="SGML-Tools 1.0.9">
+ <TITLE>The Loadlin+Win95 mini-HOWTO: IMPORTANT: Preliminary Information and Setup</TITLE>
+ <LINK HREF="loadlin-3.html" REL=next>
+ <LINK HREF="loadlin-1.html" REL=previous>
+ <LINK HREF="loadlin.html#toc2" REL=contents>
+</HEAD>
+<BODY>
+<A HREF="loadlin-3.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-1.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc2"><IMG SRC="toc.gif" ALT="Contents"></A>
+<HR>
+<H2><A NAME="s2">2. IMPORTANT: Preliminary Information and Setup</A></H2>
+
+<P>
+<H2><A NAME="ss2.1">2.1 WARNING! for Windows95 OSR2 (version 4.00.950b) users:</A>
+</H2>
+
+<P>Do <B>NOT</B> attempt 
+<A HREF="http://www.compuclinic.com/osr2faq/index.html#dualboot">dual booting with Windows 95</A> without first consulting the
+<A HREF="http://www.compuclinic.com/osr2faq/">Windows 95 OSR2 FAQ</A>. The FAQ also contains a great deal
+of information regarding 
+<A HREF="http://www.compuclinic.com/osr2faq/index.html#fat32">FAT32</A>. In a nutshell, if you have OSR2 and are using a
+FAT16 file system, you can still dual boot using the F4 Function Key.
+<P><B>NOTE: If you have Windows 95 OSR2, and are using a FAT32 file
+system, then the dual booting methods in this  mini-HOWTO using
+the F4 Function Key <EM>will not work and should not be
+attempted.</EM></B>
+<P>However, there are a couple of alternate methods you can use  to
+automate booting Linux at startup, which are discussed in 
+<A HREF="loadlin-6.html#Section 6">Section 6</A>.
+<P>
+<H2><A NAME="ss2.2">2.2 Things that are assumed:</A>
+</H2>
+
+<P>
+<UL>
+<LI>You have successfully installed Windows 95.</LI>
+<LI>Windows 95 is installed on Drive C.</LI>
+<LI>You have successfully installed Linux.</LI>
+<LI>You know what partition Linux is installed on. </LI>
+<LI>LILO is NOT installed on your hard drive.</LI>
+<LI>If you are using Windows 95 OSR2 (version 4.00.950b), you have
+carefully read the 
+<A HREF="http://www.compuclinic.com/osr2faq/">Windows95 OSR2 FAQ</A>.</LI>
+</UL>
+<P>
+<H2><A NAME="ss2.3">2.3 Items you need before you start:</A>
+</H2>
+
+<P>
+<UL>
+<LI>
+<A NAME="Section 2.3"></A> A bootable floppy disk with DOS 5.0 or
+DOS 6.x system files (io.sys, msdos.sys, command.com) and a config.sys
+file. If you are using a DOS 5.0 boot disk, you will also need an
+autoexec.bat file. If you are using Windows 95 OSR2 (version
+4.00.950b), you will also need to create a file called Winboot.sys
+with a text editor and place it in the root directory of Drive C.
+Winboot.sys can be an empty file, just  so long as you have the file.</LI>
+</UL>
+<P>
+<A NAME="&quot;NOTE:&quot; of Section 2.3"></A> <B>NOTE:</B> If your hard
+drive already contains the autoexec.dos, config.dos, io.dos, msdos.dos,
+and command.dos files, then you will not need the floppy. You can check
+by typing: <CODE>dir</CODE> <B>and</B> <CODE>dir /ah</CODE> at the root of Drive C.
+Also, if you installed the upgrade version of Windows 95, then it is
+likely that you have them.
+<P>
+<UL>
+<LI>The Loadlin.exe program file</LI>
+<LI>Your kernel image file,usually zImage or vmlinuz. (See the 
+<A HREF="loadlin-7.html#FAQ">FAQ</A> for info).</LI>
+<LI>A simple text editor, such as Notepad.</LI>
+</UL>
+<P>
+<HR>
+<A HREF="loadlin-3.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-1.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc2"><IMG SRC="toc.gif" ALT="Contents"></A>
+</BODY>
+</HTML>

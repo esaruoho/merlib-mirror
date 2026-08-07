@@ -1,0 +1,386 @@
+SMALLnet post345 
+
+ SMALLnet Posting post345
+
+Date: Tue, 12 Sep 2000 23:14:26 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+...Input has been a bit sparse here lately. That's a good thing
+for me, though, because I've been QUITE busy -- and plagued the
+past few days with pesky computer problems. (Had to install a new
+3 1/2" drive today to enable me to assemble this Posting.) [JW]
+
+Phil Oestricher < F4DPilot@aol.com > announces:
+
+The Fort Worth PLANESMEN invite all SMALLnet enthusiasts
+to a Small Steps Fly-In on Saturday, September 23rd at the club
+field from 8 AM to 1 PM. The usual SMALL rules apply, and all
+types of power are appropriate.
+
+Caution: There is no paved runway and the field's surface is
+somewhat rough. This will be a slightly-organized sport flying
+session (formal frequency control) with no fees, prizes or raffles.
+Food, drinks and Porta-Potty facilities will not be available at
+the field. AMA membership is required.
+
+Directions to field: Take Highway 377 SW from the town of Benbrook
+(on the SW side of Fort Worth) for about 6 miles to the town of
+Wheatland. Pass the Highway 1187 intersection (cluster of gas
+stations there) and proceed about 0.4 miles on 377 and turn LEFT
+at the clearly-marked indoor gun range. Proceed about 0.3
+miles on the Caliche Road and you're there.
+
+For those blessed with GPS, the field's coordinates are: N 32 36' 12",
+W 97 32' 33". Come on out and enjoy the fellowship of modelers 
+with the same ideas about how "Good things come in small packages".
+
+Point of contact: Phil Oestricher, (817) 244-7486.
+
+Bill Thomas < thomasb@ruraltel.net > asks:
+
+I need some advice and would like to throw my question out to
+anyone on the SMALL list who might offer some advice.
+
+Over the last ten years or so I have accumulated almost two shelving
+units full of model kits. I have come to the realization that even
+if I live to be 100 years old, I will never have time enough to build
+them all. That, plus a recent job change which has limited my
+disposable income has made me decide to try to sell a bunch of
+these kits which I have lost interest in.
+
+I'm not in a huge hurry, but I will be going through them sometime
+in the next month and will make a list of the ones I want to sell.
+
+Putting an advertisement in a magazine would be too time-consuming
+and expensive. I don't belong to a club where I could possibly use
+a club auction to thin out the "crop". I have been hearing a lot of
+bad things about on-line services like E-Bay.
+
+Does anyone have any suggestions or experience in doing this sort
+of thing? I would appreciate advice. Bill Thomas
+
+Joe Papasso < COLLETTEP@prodigy.net > wrote:
+
+I just picked up an Ace Pulse Commander R/C system on 27.145 MHz.
+It is in very good condition, but when hooking it up, I found that
+the magnetic actuator does not cycle.
+
+The Transmitter and Receiver batteries are new and fully charged.
+The actuator was tested on another set that I have and worked fine.
+If I reverse the polarity to the actuator the arm does swing to the
+other direction.
+
+It seems that the Receiver is not switching the signal properly.
+Does anyone know any place where I can get this checked out and
+repaired? Most repair centers will not work on a system this old.
+
+Thank you, Joe Papasso
+
+...Joe, Ace R/C made two distinctly different types of Pulse
+Proportional systems. The early models had double windings on
+the actuators (like Mattel used later) and the receiver circuitry
+switched power from one winding to the other to provide the back-
+and-forth pulsing action.
+
+Later Pulse Commander receivers used a flip-flop polarity output
+to the actuator, so that only one winding was needed on that.
+
+It sounds to me like that situation is at the root of your problem.
+Late-model Adams actuators won't function with early-model Pulse
+Commander receivers.
+
+Romey Bukolt may be able to shed more light on this... [JW]
+
+Al Lidberg < AALmps@aol.com > inquires:
+
+Can anyone tell me anything about an ARF called the Airstrike?
+Found some props for it at a local Hobbytown (Awatukee, Arizona
+-- i.e. way south of Phoenix): propeller diameter about 7.25",
+pitch about 5-6". I'm really wondering what motor/battery is
+supplied. Anyhow, the US $1.18 (each) price is nice, and the clerk
+threw in the spinner (15/16" diameter X 1 3/16" needle nose) free
+when he couldn't find a price for it.
+
+The back of the prop and the spinner both have a hex-nut shaped
+opening -- I'm guessing that this gives a positive drive. He did
+say that he thought the plane was a 'beginners' 4-channel electric
+model, but that it wasn't really suitable for beginners.
+
+I'm planning a work trip/vacation to Washington DC and Maryland in
+about a week. Are there any hobby shops that cater to FF or
+small/slow R/C nearby? Would like to show them some kits, to see
+if they would consider stocking my stuff. AL
+
+(On-line catalog at < http://members.aol.com/aalmps >.)
+
+Gray < gray_glos@hotmail.com > submitted:
+
+A quick message to SMALLsters everywhere, to update the 
+wonderfully flattering introduction that my old pal Dereck 
+Woodward gave me in Posting #339.
+
+I can now confirm that I will be starting a new sport modelling 
+column in the British magazine 'RC Model World' as of December 
+2000. The column will be entitled 'The Sport Channel', and will 
+feature a similar mix of modelling topics to that which Dereck's 
+excellent 'Weekend Pilot' has brought us in the past. 
+
+But as Dereck accurately predicted, the column will incorporate 
+broad 'aeromodelling' coverage, and in line with my own interests 
+will include C/L and F/F items.
+
+This then is a plea for material! I intend to keep the virtual
+community of the 'Small Model Association' well catered for, and 
+would be grateful for good quality colour pics and some descriptive 
+text of what you're currently flying or building. I'll also be running
+regular and occasional mini-features within the column which will
+cover such subjects as own-design models (particularly first-time
+projects), and perhaps profiles of 'all-rounder' modellers who have
+unusually wide modelling tastes.
+
+A prize will be given at the end of the first year for the best photo
+evidence of the most eclectic model fleet, e.g. one guy over here
+flies R/C ducted fans, gas turbines, large scale, small models, slope
+and thermal plus C/L stunt, combat and scale! That's been one of the
+more interesting recent contributions, but I'm sure you know better!
+
+We will also be running an item called 'Tales From The Trade', 
+which will feature stories from 'the other side of the counter' from 
+model shops, kit manufacture and trade display flying. Some of the 
+material I already have for this one is highly entertaining! Know 
+any good tales? Please pass them on.
+
+Thanks to SMALLnet for giving me the space to make these
+announcements. I will keep everyone updated on progress with 
+the column. Please send all contributions to:
+
+Gray, 
+'The Sport Channel', 
+c/o RC Model World, 
+Traplet Publications Ltd, 
+Traplet House, 
+Upton-upon-Severn, 
+Worcestershire, 
+WR8 OJL, 
+England. 
+
+E-mail correspondence for the column to: 
+< gray_rcmag@techpointer.com >
+
+Thanks, happy flying, and hope to hear from you all soon!
+
+'Gray', Small Model Association, Gloucestershire, England
+
+Steve Morris < mlbco@sirius.com > reports:
+
+I purchased an Enya 06 and what follows is a crude attempt at an
+engine review. The Enya 0.06 with muffler weighs 4.2 ounces, which
+is fairly heavy for its size. It has radial and beam mounts built
+onto the crankcase and looks to be very rugged. The muffler is large
+and hangs off the back of the engine. It would be difficult to mount
+this engine in a tightly-cowled model because of the muffler size
+and location.
+
+The engine cylinder screws into the case (like a Cox) and the head
+threads onto the cylinder. I used an OS #8 plug and found that a
+standard NiCad glow battery will not attach due to the small
+clearance of the cylinder head, so a glow clip must be used instead.
+
+The carb has a large upright throttle arm and has only a high-speed
+needle. There is an air bleed hole, but no adjustment for it.
+
+I ran the engine on Sig 15% fuel, and after an hour of break-in it
+turns an APC 7x3 at 14,000 RPM. An APC 7x4 produces just over 
+11,000 RPM on this engine. For comparison, my Thunder Tiger .074 
+gets 12,200 on an APC 7x3, so the Enya 06 is more powerful.
+
+The muffler is very effective but does not include a pressure tap.
+There is a metric-threaded hole for one, so I tapped that to 6-32
+and added my own.
+
+The engine runs about 12 minutes on 2 ounces of fuel with normal
+power settings.
+
+I test-flew the motor in a Rogallo wing 3-channel model I recently
+built. You can see pictures of the model and its engine at:
+
+< http://www.sirius.com/~mlbco/Rog1.JPG > 
+< http://www.sirius.com/~mlbco/Rog2.JPG > 
+< http://www.sirius.com/~mlbco/Rog3.JPG > 
+< http://www.sirius.com/~mlbco/Rog4.JPG > 
+
+Please don't e-mail me asking for plans to this model. It's scratch-
+built, and you can probably hack one together in 4 hours if you'd
+like to try a Rogallo. Use an old fuselage with rudder, elevator and
+motor controls. The wing is made of birch dowels with a 4-mil
+polyethelene sail taped to them. There is 5 degrees of 'billow' which
+means the sail nose angle is 10 degrees wider than the frame.
+(I.e. cut the sail at 110 degrees if the frame is built with a 100
+degree nose angle.)
+
+The engine works well, but dies when idling for more than 20 seconds.
+It appears to load-up because it is too rich. I've bored-out the air
+bleed hole just under 1/16" diameter, and the idle is much more
+reliable now. (An adjustable air-bleed would have been nice.)
+
+Overall, this engine is built like a tank, looks like it was designed
+in 1960, has decent power, is very quiet, and needs work to get it to
+idle well. I give it a C+.
+
+That's it! Steve Morris
+
+Boris Sverev < BSverev@aol.com > wrote:
+
+ Source: Electric, gear boxes and motors 
+
+Replying to the comment, "It's very hard to get a motor in between
+the V-L HY50B and a Speed 280 -- the options tend to be coreless 
+and expensive.": Todd Long < http://www.toddsmodels.com > 
+sells GWS motors with gear boxes that fit right in between these two 
+sizes, for a grand total of $20.
+
+Check out his site! Todd also has a battery/thrust chart associated
+with the four different gear ratios available.
+
+Boris
+
+Sam Brauer < SBrauerBCC@aol.com > reports:
+
+SMALLnet seems to be a wonderful environment for coincidence....
+Some 15 or so years ago I built a Flyline Megowcoupe and powered
+it with a Golden Bee with throttle and a 6x3 prop. (Yes, now I
+know about head spacers and bigger props.)
+
+I enjoyed flying the airplane, but the flight duration was
+relatively short, the tissue kept getting poked full of holes and
+got saggy, and the glide was pretty lame since I had 6 ounces of
+radio gear and an all-up weight of over 17 ounces. After a couple
+of rebuilds (always check for washout!) I hung the airplane up in
+my folks' basement.
+
+I guess I'm one of the people that's getting bitten by the electric
+bug, since I pulled the airplane down, carved some holes in the
+firewall and installed an MTM (Mike's Tiny Models) S-300 with a 5:1
+gearbox. Other equipment is a Pixie 7 speed control, an 8 x 3.8 slow
+flyer prop (what I had handy) an 8-cell 350 mAh nickel metal hydride
+pack (again, what I had handy: the 6-cell Nicad pack wouldn't lift the
+airplane), one Cirrus CS-10 servo, one FMA S-80, and an FMA Fortress
+Micro receiver. All-up weight is now down to 14-15 ounces.
+
+(This is the coincidence part, with Gary Gullikson wondering about
+what power system to use in Flyline kits.)
+
+The wind was pretty calm last night, so I took the airplane out to
+the local park. This park has all sorts of folks ranging from kids
+to lots of motorcyclists and other unsavory looking characters. The
+first take-off was aborted -- I didn't open the throttle enough and
+wasted too much runway; but the second attempt proved successful.
+
+A little bit hairy as I sorted things out and dodged obstacles, i.e.
+trees, power lines, light poles etc. Eventually I got the airplane
+trimmed out and I calmed down and began enjoying the flight.
+
+The climb is somewhat better than with the glow motor, and the
+airplane now gets much higher than it ever went before. (Longer
+duration.) Furthermore, the glide is vastly improved (maybe I
+moved the CG back?) I wound up overshooting the landing by a
+couple of hundred feet and had a nice walk.
+
+Anyhow, the airplane flies slowly and majestically, just like it
+always has, but now I don't have to wipe off the gook. The worst
+problem is that recharging takes 30 minutes or so and requires pulling
+off the wing.
+
+Since time is limited when I go flying after work, the solution is
+simple: bring more airplanes....so I flew my Sopwith Triplane. The
+Tripe is slightly more maneuverable, has a better rate of climb, flies
+maybe a touch quicker -- but doesn't glide as well. Needless to say,
+I had something of an audience -- the most common question was,
+"How much?"
+
+Future changes to the Megowcoupe include a larger prop (i.e. 9 x 4.7)
+to see if it'll fly on six cells for more duration. However, it's
+clear that these geared electric motors do have lots of advantages
+over glow in terms of ease of use, shorter learning curve, and the
+ability to swing large props happily.
+
+Now if the some of the big companies would actually sell something 
+in a box with a radio and charger that would work well, (translation:
+fly like my Megowcoupe) -- then maybe we'd get some more of these
+folks out there flying instead of watching.
+
+Sam Brauer, Norwalk, Connecticut
+
+Ron Fikes < srfikes@earthlink.net > adds:
+
+ Source: Batteries, small 
+
+ Vendor: TAKEOFF 2000, Inc. 
+
+Here is a new listing of small batteries available from
+TAKEOFF 2000, Inc. (FuddyDuddys) -- P.O. Box 472,
+Yerington, Nevada 89447 1-775-463-5549
+< takeoff@tele-net.net >
+No, I don't work for them, just get my batteries there...
+
+1/3 AAA 100 mAh NiMH @ $1.62 per cell
+single cells
+double packs
+triple packs
+
+seven-cell packs: 0000000 or 0000
+ 000
+
+eight-cell packs: 00000000 or 0000
+ 0000
+
+2/3 AAA 200 mAh NiMH @ $3.24 per cell
+double packs or triple packs
+
+Ron Fikes
+
+Jim Tait < flyingduet@hotmail.com > asks:
+
+I need advice to get a Cox Venom engine to maximum perfor-
+mance for Mouse I racing. Thanks, Jim Tait
+
+...Jim, SMALL is dedicated to NON-competitive model flying --
+but I've posted your query anyway. Maybe Dale Kirn might 
+respond. (Dale is THE MAN where racing Cox reedvalvers is 
+concerned.) [JW]
+
+Denis Wolff < denis.wolff@virgin.net > complains bitterly:
+
+Our U.K. magazines often mention Starspan, Clearspan etc. Said 
+to be obtainable from FMK. No-one can find FMK. It makes me 
+cross, these chaps blowing their own trumpet, while withholding
+information -- whilst disseminating waffle. DWW -- U.K.
+
+Scott Winans < SWinans@aol.com > agrees with Don Garry:
+
+I don't like shelling out a bunch of money for a kit either, and tend
+to follow the same route as Don. HOWEVER, if you start looking
+at all of the costs involved in kitting a design in limited numbers,
+it adds up quickly.
+
+Things like good wood selection, laser-cut parts, CAD drawn plans,
+the darn packaging (!),... it all adds up. If you don't like their
+prices you don't have to buy their kit, but take a look at what you
+might get for your money.
+
+Scott Winans
+
+Don Garry < dongarry@webtv.net > updates us:
+
+Tower Hobbies and Omni Models are now listing the Sig R/C Rascal
+for the price of $65.95, to be available in late September.
+
+Don Garry
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

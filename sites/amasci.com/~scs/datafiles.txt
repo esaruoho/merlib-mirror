@@ -1,0 +1,92 @@
+Data File Formats 
+
+ Data File Formats 
+
+ Generic Data File Formats 
+
+Hierarchical Data Format
+(HDF) 
+
+Common Data Format
+(CDF) 
+
+NetCDF 
+
+BER 
+("Basic Encoding Rules",
+associated with ASN.1,
+X.409,
+and ISO8825)
+
+XDR
+(the eXternal Data Representation) 
+is described in
+ RFC 1014 
+and
+ RFC 1832 
+(Even though RFC's never change,
+they seem to move around a lot;
+if those links don't work try
+ RFC1014 
+and
+ RFC1832 )
+
+ Resources on Specific Data File Formats 
+
+Wotsit 
+
+James D. Murray's
+
+Graphics File Formats FAQ list 
+(also published as
+the
+
+Encyclopedia of Graphics File Formats )
+
+The
+
+Audio File Formats FAQ 
+(currently maintained by
+
+ Chris Bagwell ;
+originally by
+
+ Guido van Rossum )
+
+.dbf files 
+
+ Related Links 
+
+Ilana Stern 's
+old
+
+sci.data.formats FAQ list 
+
+(this link is somewhat stale;
+if it doesn't work, try
+
+here 
+or
+
+here 
+or
+
+here 
+or
+
+here )
+
+Jean-loup Gailly's
+
+compression FAQ 
+
+ Chapter 17 
+in my
+ C Programming Notes 
+is all about
+ Data Files 
+
+There is a little bit of information about data files in
+ question 20.5 
+in the
+ comp.lang.c FAQ list

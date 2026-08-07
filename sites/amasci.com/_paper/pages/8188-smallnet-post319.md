@@ -1,0 +1,276 @@
+---
+title: "SMALLnet post319"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post319.html
+order: 8188
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post319
+
+*Source page: `~smallnet/Archive/post319.html`*
+
+## SMALLnet Posting post319
+
+------------------------------------------------------------------------
+
+**Date: Sun, 21 May 2000 21:39:32 -0700**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Greetings from Granada Hills, California! And thanks for not over- loading the IN box in the 10 days since the previous Posting. \[JW\]
+
+Dan Arnold \< 
+
+ \> reports:
+
+I recently went to the Joe Nall Giant Scale Meet to see how the other half lives, and while there met Jim and Jackie Livesay from Livesay's Model Products. They make electric starters specifically for .049-.09 size engines. The one I checked out seemed to have plenty of torque but I only tried it on my finger.
+
+The conventional cord model was priced at \$35.00 and I forgot to ask how much the NiCd powered version cost.
+
+<span id="21"></span>
+
+<div class="green">
+
+Source: Starters, Small\
+
+</div>
+
+<span id="22"></span>
+
+<div class="green">
+
+Vendor: Livesay's Model Products\
+
+</div>
+
+I know a lot of you SMALLsters are looking for a starter like this from what I read. Write Livesay's Model Products at 402 Plamer Road, Franklin, North Carolina 28734-3536. Phone (828) 524-7345. FAX (828) 369-1511. e-mail \< 
+
+ \>. They will be at the S.M.A.L.L. Fly-In, June 2-4, in Maumelle, Arkansas if you want a first-hand look.
+
+Dan Arnold, Charleston, South Carolina
+
+Dr. Michael Hawkins \< 
+
+ \> wrote:
+
+There was a query about receiver antennas being shielded by chrome MonoKote. With the vacuum-deposited metal film, this is equivalent to covering your model with a sheet of metal.
+
+However, silver paint does not seem to act in this way, as the particles of metal are insulated from each other by the "body" of the paint. Several of my scale models have been either silver-painted or covered with silver Solartex (like 20th Century fabric) and have had the antenna run down the inside of the fuselage in drinking straws or plastic tubing. In large models the entire antenna is within the fuselage, but no radio problems have resulted.
+
+Proof of the pudding: I was flying my eight-year-old 1/4-scale Miles Satyr covered with silver Solartex last Sunday and it goes as well as ever.
+
+I never succeeded in getting a reply from Deans about their mini- antennas; but my AquaStar has its antenna dangling in the water behind the tail without problems. I do put a dab of glue on the end of the antenna so it is not "earthed" or "watered" to the pond.
+
+Mike
+
+Malcolm Logan \< 
+
+ \> asserts:
+
+"Electric flight running costs are zero" -- I don't think so, if that means a cost comparison of fuel versus battery power. I'm not only referring to the negligible cost of recharging batteries; rather that batteries need replacing at some time and the cost of a pack can be several times the price of a gallon of fuel depending where you live.
+
+A gallon would run my Norvel the rest of my life, I think - well, over a hundred flights anyway. And I was persuaded to buy 3 packs when I bought my first E-powered trainer - one flying, one for the next flight, one on charge. I guess it's because the 'tribal knowledge' of E-power is so sparse (as you say) that engine users are reluctant to switch over to E power. That and the fact that it's SO QUIET ! If only the manufacturers would incorporate some kind of noise maker ............ no ?!
+
+The Fokker D-VII plan mentioned in the previous Posting was a free "extra" in the July/August 1999 of Flying Scale Models magazine. If you're interested in this project, you could try contacting Aviation Modeller International's Publisher, Tony Dowdeswell, who is also the Publisher at FSM. His e-mail (and snailmail) address has remained the same, at \< 
+
+ \>. Tony used to be a very keen aeromodeller - and may still be so !
+
+I think you're being hopeful about using a Norvel .074 on this model when the original used an OS .15 - Brit modellers are not renowned for overpowering their scale models !
+
+Also, Phillip Rawson, the designer, wrote that he would hesitate to up the nose weight with lead". Phillip said that the model had enough power to do aerobatics - loops and rolls - while at idle, the model landed fine and deadstick "is no horror". He goes on to enjoin builders of this model, "...I can't stress enough the need to keep the rear of the plane light..." He also apologised for the skimpy building instructions: "... I can't give a blow-by-blow account of the building process as the model was designed a couple of years ago and I've forgotten some of it. " When you get the Fokker sorted out, let us know please.
+
+I have a hard copy of AnneMarie Cross's posting in the \< rec.models.rc.air \> newsgroup dated 27 October 1998, in which she states, "I would like to assure you as strongly as possible that chrome Monokote does NOT reflect or block radio waves. There are modelers nationwide \[and worldwide - ML\] using chrome Monokote on aircraft with enclosed antennas without any difficulty. We have done so on numerous prototypes, including gas-powered models covered entirely in Chrome or Aluminum without any such difficulties."
+
+She offered a product support technical team number for more information at 217-398-8970. I have not seen Great Pains ever repudiate this view since then. From my personal experience, I flew a DH60 Moth for six years covered all over in Coverite's aluminium Micafilm with an enclosed antenna, and never had a glitch until it was HIT one day and destroyed -- in a midair with a lawn dart !
+
+We have members here in Thailand who just love covering their "scale" warbirds in shiny, wetlook chrome Monokote with internal antennae - no problems. At one time, I had the idea of using Ultracote's chrome film as the earth in a lighting circuit - couldn't get it to pass current. So, it seems that that vacuum-deposited metallic thin film is not continuous - or so it seems anyway ! But what do I know about radio theory ?
+
+So let me tell you how we deal with pilots and transmitter spacing in Thailand. First, to set the scene, only 27 mHz is legal; but since no other frequencies are mentioned in the law, by default they are therefore legal too ! Makes sense, huh ? We use every frequency known to man and probably a few that aren't too ! The frequency boards in the Transmitter impound (yes, we have one of those) are a sight to see ! No one uses 27 mHz now, so we're all lawbreakers -- or not, depending on your point of view and possibly, which law school you attended !
+
+Now, about that pilot spacing and 3IM - we operate at least three systems simultaneously -- and it works. We have the North American system -- get as far away from the other idiots as possible and shout at each other; the British system -- stay as close as possible without poking out your pals' eye with your antenna (so you can quietly chat while flying); and then there's the Thai way -- do as you please and stand wherever you want to -- even take a stroll around the pilot area ! What pilot area ?
+
+One old flying buddy stands on the other side of the blacktop runway; the wind is in the 'wrong' direction for him. And then there's the watery group flying their floaties and driving their boats on the other side of the site by the lake - not forgetting the helicopter guys who inhabit another separate but not exclusive area. When Clive wants to fly his 4.2 metre span ASW 27 (and I aerotow it/him), we commandeer both the rotary and plank wing areas and take off according to wind direction.
+
+It doesn't seem to matter where we stand -- or walk around -- while flying; not here in Bangkok anyway -- where also, for your further amusement, we have no such complications and irritations as Gold Stickers, 1991, narrow band, insurance, committees, club meetings...
+
+Maybe it all did matter at one time, but have modern radios now taken us beyond those problems ? But then, Dr Mike has radios going back to the time of the dinosaurs ! Which he made himself.
+
+Regards, Malcolm Logan
+
+Mark Winstanley \< 
+
+ \> wrote:
+
+In response to Patrick LeRay and his question about Chrome Monokote: I had a recent experience with that stuff as a cockpit on my Chipps. The result was a chipped Chipps! I put the failure down to the chrome MonoKote trim sheet, as the receiver was mounted high in the cockpit along with the battery. The antenna exited the cockpit through the top and was strung out to the fin.
+
+Having said that, fellow club mate Ken Park has an identical setup on his Chipps and has been flying successfully for some time. I guess that different combinations of receiver, battery, antenna position, and airframe configuration might react differently.
+
+Best of luck if you do try it!
+
+While I am on the line I'll make a pure unadulterated advertisement for the Ottawa Radio Control Club SMALL STEPS fun fly currently scheduled for July 29 and 30th. Come see Canada's national capital and the best flying site around. See the ORCC web site for details: \< www.ibiska.com/orcc/ \>. This is Ken Park's baby and it should be a blast! We are expecting all the Chipps built as a club project to appear. Mark W
+
+Jack Johnson \< 
+
+ \> contributed:
+
+In response to Patrick LeRay's question about chrome MonoKote, I have a .40-size Phaeton biplane with between 75 & 100 flights on it. Its fuselage is covered in chrome MonoKote & has never had a glitch. The antenna exits the left side of the fuselage & is strung back to the top of the vertical fin. I don't think I would want to hide it inside the fuselage though.
+
+While I am here, the Lazy Bee has flown. What a ball; a real fun airplane. Also, the Birdie Ten that was messed up last year is flying again. Flew it in about a 15 mph wind last week & it did just great, so I'll be putting some more flights on this one too.
+
+Fly safe & have a little fun. Jack D. Johnson
+
+Karlton Spindle \< 
+
+ \> announces:
+
+We have a FIX for the CB4 FM RX Channel \#1 lockout problem! It requires a new chip and a new program. The cost is \$5.00 until the end of May, NO MATTER who you bought it from. After that the price is \$8.75 for the update.
+
+Critter Bits will once more start selling the receivers BUT WITH the NEW CHIP ONLY! We WILL HOLD THE PRICE to \$29.95 as long as we can! The new chip will allow the receiver to go Multiplex / Airtronics and Japan Radio shift.
+
+Smooth Thermals, Karlton "MrMPX" Spindle \< <http://www.MultiplexRC.com> \>
+
+Ron Ferrer \< 
+
+ \>
+
+Speaking of Dave Thacker of Radical R/C in the last Posting, he has a crystal exchange program. (I think there was a man a few posts ago needing a good price on crystals.) You send 2 for one, or something.
+
+Dave also sells several different 1/2A planes, as well as small batteries, switches, foam cutters, other cool stuff.
+
+About the little Fokker D-VII; put the .074 in it! Of course, it would be a good choice for electric... About the CG position; I would balance at the usual 1/4 to 1/3 of combined wing chord (from Leading Edge of front wing to Trailing Edge of back wing). Ron.
+
+Dave Segal \< 
+
+ \> submitted:
+
+Bernard Cawley disagreed with my statement that starting out in electric costs at least twice as much as glow, so I have documented two sets of assumptions for a comparison of glow power vs. electric power. I fly both, but it is a disservice to beginners to not warn them of the additional expenditures involved with electric power.
+
+If anyone else really gives a hoot about all of this, send me an e-mail and I will forward the numbers I used.
+
+This is what happens when a retired data analyst plays around with spreadsheets when he is not building or flying. (G)
+
+Dave Segal
+
+George Abbott \< 
+
+ \> wrote:
+
+Stephen Adams comments that his Dakota when power off was a slow- sinking free flight! I am a Dakota lover from back in the 50s till now; built and flown numberless of them, and think they are delight- ful little airplanes, but slow-sinking? None of mine!
+
+Have fun! George Abbott
+
+Jim Norfolk \< 
+
+ \> announces:
+
+1\) My new web site dedicated to balsa dust is operational (?) -- or at least there's something there regarding my hobby. It is by no means complete or up to web site standards because doing a page in MS WORD sucks!!
+
+I have a proper web publisher now so the real balsa dust page will be functioning by June 1. Please excuse the present mess at \< <http://www3.nb.sympatico.ca/qmilj> \> (that's a Q)
+
+What is important to note is that it contains my email and notices about the PLANS books I have available.
+
+2\) Announcing publication of "LAYING OUT THE DRAWING", to be available no later than June 1: 52 pages on how to plan and draft a simple but functional drawing.
+
+BUILDING THE RARE CURTISS FIGHTERS is to be available in time for the FAC meet July 21. I have finishing touches and a few photos to take and develop, then it's off to the printers!
+
+All the Best, JIM
+
+Don Bailey \< 
+
+ \> reports:
+
+I have been fiddling with my Norvel Big Mig .061 R/C engine for a few weeks now, and I have been able to shoot touch and goes at least. I do have to hit some throttle now and then to keep it from loading up in idle mode and dying, but most of the time I can make it down final and onto the ground with the fire still lit. Screen on, screen off, extension tube on muffler exhaust stub, extension off, Cox 6-3, 6-4, 7-3, Windsor 6-3, APC 6-2, nothing seems to help much.
+
+I'm feeding it Omega 15% fed through an electric pump (no rubber in sight). Sometimes the top end is good, sometimes it sags or runs rough. Yes, I cleaned out the needle valve. This is frustrating. An OS this is not!
+
+So, my question is this: Anyone been able to figure out the idle- stop screw? Why is the head eccentric? Is this an air-bleed hole, or is the eccentric head supposed to interfere with the throttle arm? If so, it only interferes with the throttle arm in the throttle wide- open position (now there's a puzzler).
+
+The spring is too weak to hold the stop screw in position, and in fact, I've already lost the dagblasted thing, and I am using a tiny piece of silicone fuel tubing to hold the screw in place. So much for fine adjustment. The engine does seem to run better with the screw in the hole, so I am wondering if there is an air-bleed port down in there somewhere. What's the deal?
+
+Still waiting for Great Planes to show off a picture of their new .20-size Clipped Wing Taylorcraft. Anyone seen it yet? Should go for maybe \$79.95 or so street price.
+
+Specifications:\
+Wingspan: 56 inches (1420mm)\
+Wing Area: 497 square inches (32 sq dm)\
+Weight: 3.75-4.5 pounds (1700-2040g)\
+Wing Loading: 17.5-21 ounces/square foot (53-64 g/sq dm)\
+Fuselage Length: 40.75 inches (1035mm)\
+Requires: 2-stroke .20-.32 cubic inch (3-5cc) or 4-stroke .26-.30 cubic inch (4-5cc) engine, 4-5 channel radio w/5 servos (3 standard; 2 mini), 2+ rolls MonoKote
+
+I just read the review of the new Thunder Tiger GP07 in the latest issue of AMI. Gotta get one now, no doubt about it. Should go great in a Sureflite Howard Pete. What a cute little engine!
+
+Don Bailey Seattle SMALLster
+
+David Williams \< 
+
+ \> requests:
+
+Can anyone in the Vancouver area please contact me offline, as I am visiting in June and would like some information. Many thanks!
+
+David Williams, Bolton, ENGLAND
+
+Richard Browning \< 
+
+ \> reports:
+
+I have had great results coloring Jap Tissue on my old HP 550 Printer with a scanner and graphic software. The possibilities are almost endless. Let me know if anyone wants me to detail the process I use. Richard Browning
+
+Al Lidberg \< 
+
+ \> submitted:
+
+Many years ago, I had a chance to tour the COX factory - not real sure of the year, but the .010 engine was shown to us before it was ready to release. One of the group \[we were at a Los Alamitos, California NATS - 1953 or 59?? I attended 2 about that time.\] asked 'how much?'. The response was "\$10,000, but if you wait a few weeks, you can buy one for \$3.95 at your hobby shop.".
+
+Anyhow, I was impressed by the work force - which I would describe as "LOL" -- little old ladies, and I'm not at all meaning to be disrespectful! These folks monitored all sorts of automatic screw machines - which turned out many, many of the 'good' engines, for quite a few years!
+
+LeRoy Cox and his helpers really had this stuff (consistent machining, extremely good piston/cylinder fits\] figured out! Where, oh where, did all this talent and the machinery go? AL Lidberg
+
+BTW: my neighborhood Hobbytown shop now has COX glow plugs for TD 049s @ \$9.95!! Can this be true? Are there still substitute 'good' plugs/heads out there?
+
+<div class="Joe">
+
+...Al, try Kustom Kraftsmanship and RJL Enterprises (MECOA). \[JW\]
+
+</div>
+
+Don Matlack, Sr. \< 
+
+ \> pleads:
+
+Help!!!! Does anyone know what motor and battery I would need to turn a 9" diameter x 6" pitch 3-blade prop at least 12000 rpm for a special project?
+
+Andy Woitowicz \< 
+
+ \> says:
+
+The only airplane I ever built more than one of was the Midwest all- foam Chipmunk. I can claim actually building at least a portion of it because the original turned out a little heavier than I wanted.
+
+The fuselage is hollow foam and the tail surfaces are small and light. The wing however, because it has much volume with a lot of foam contained therein, was where most of the weight came from.
+
+The only thing to do was to build a wing from 1/32" ribs (a whole lot of them) and sheet the entire wing with 1/32" sheet. I used pre- primed MicaFilm, and the paint was Perfect in the traditional Art Scholl scheme. I used a K&B Veco .19 with a Sportster .20 throttle and muffler added. The whole package was very light utilizing Hobby Lobby/EK servos and a 250 mAh pack.
+
+This was over twenty years ago, long before I had any notions of wing loading, so I can't give weight or loading figures. However, with the lighter weight, the excellent airfoil and force arrangement and the exceptional power of the Veco engine, takeoffs were within 15 feet and were almost vertical. Aerobatics were spectacular and to this day this version of the Chipmunk remains my favourite airplane.
+
+I've got two Vecos new in the box and one of them is just begging for a Chipmunk. If there's one out there, I wouldn't mind trading for or buying it. The Midwest foam version, that is. If you've got one and wondered about it, do build a light wing for it, stick in some mini-size equipment and use, say, a Norvel .15. I can guarantee that you'll be very happy with the results. I made three of them over the last twenty years and sure wish I could do it again, at least one more time.
+
+For those of you with the capability of putting it together, the Veco .19 with a Sportster .20 throttle and muffler gives you a light and powerful engine with excellent throttling. It has non-Schneurle porting with a Meehanite piston and mild steel sleeve, but does not take a back seat to any .20 available today.
+
+I can't give figures because the last time I ran one was when I smacked my third Chipmunk some seven years ago. Pilot error with the sun in my eyes at a fun-fly. Ah, well.
+
+Best to all, Andy
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

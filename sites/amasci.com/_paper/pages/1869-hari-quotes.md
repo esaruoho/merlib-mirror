@@ -1,0 +1,217 @@
+---
+title: "Hari Quotes"
+source_domain: amasci.com
+source_path: ~cathy/hariontour/hariquotes.htm
+order: 1869
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:12Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Hari Quotes
+
+*Source page: `~cathy/hariontour/hariquotes.htm`*
+
+# Hari Quotes
+
+Compiled by [Aya](mailto:hariontr@bmmak.usr.pu.ru) and [Lee](mailto:Draupadi@webtv.net)
+
+"The human soul is potentially divine - the goal is to\
+manifest that divinity"\
+\
+"I think people who can truly live a life in music are\
+telling the world, "You can have my love, you can have my\
+smiles. Forget the bad parts, you don't need them. Just take\
+the music, the goodness, because it's the very best, and\
+it's the part I give most willingly." " - George Harrison\
+\[i guess it's religion-related =) -Aya.\]\
+\
+"Up until LSD, I never realized that there was anything\
+beyond this normal waking state of consciousness. But all\
+the pressure was such that, as Bob Dylan said, "There must\
+be some way out of here." I think for me it was definitely\
+LSD. The first time I took it, it just blew everything away.\
+I had such an incredible feeling of well-being, that there\
+was a God and I could see Him in every blade of grass. It\
+was like gaining hundreds of years of expirence within\
+twelve hours. It changed me and there was no way back to\
+what I was before. It wasn't all good, though, because it\
+left quite a lot of questions as well." - George Harrison.\
+\
+"I still practice Transcendental Meditation and I think\
+it's great. Marharishi only ever did good for us, and\
+although I have not been with him physically, I never left\
+him." - George Harrison\
+\
+"My life belongs the Lord Krishna now. I'm just the\
+servant of Krishna. I've never been so humble in all my\
+life, and I feel great!" - George Harrison\
+\
+"It is one of our perennial problems, whether there is\
+actually a God. From the Hindu point of view each soul is\
+divine. All religions are branches of one big tree. It\
+doesn't matter what you call Him just as long as you call.\
+Just as cinematic images appear to be real but are only\
+combinations of light and shade, so is the universal variety\
+a delusion. The planetary spheres, with their countless\
+forms of life, are naught but figures in a cosmic motion\
+picture. One's values are profoundly changed when he is\
+finally convinced that creation is only a vast motion\
+picture and that not in, but beyond, lies his own ultimate\
+reality." - George Harrison\
+\
+"Through Hinduism, I feel a better person. I just get\
+happier and happier. I now feel that I am unlimited, and I\
+am more in control of my own physical body. The thing is,\
+you go to an ordinary church and it's a nice feeling. They\
+tell you all about God, but they don't show you how the way.\
+They don't show you how to become Christ-concious yourself.\
+Hinduism, however, is different." - George Harrison\
+\
+My translation from Spanish to English of George's Introduction in the\
+book:\
+\
+KRSNA, The Supreme Personality of God\
+\
+"All the world is searching for Krsna. Some may not be aware of it, but\
+that is what they're doing.\
+\
+Krsna is God, the origin of all that exists, the cause of everything\
+that is, was & will be.\
+\
+Since God is unlimited, He has many names. Allah, Buddha, Jehovah, Rama:\
+All are Krsna, all are one. God isn't abstract, he has equally as many\
+personal, as impersonal aspects in his personality, which is supreme,\
+eternal & pure consciousness. Like a drop of water has the same\
+qualities as an ocean of water, similarly does our conscience contain\
+the same qualities of God, but, due to our identification & attachment\
+to material energy (our bodies, senses, material possesions & ego), our\
+true transcendental consciousness is contaminated & like a dirty mirror\
+it is incapable of reflecting a pure image.\
+\
+Throughout much of our lives, our association with the temporary has\
+risen. This transitory body, a sack of bones & flesh, is considered\
+erroneously as our true body & we have accepted this temporary condition\
+as conclusive.\
+\
+Throughout the ages, great Saints have been living proof of this eternal\
+& permanent state of consciousness, that can be relived in all living\
+souls. Every soul is potentially divine.\
+\
+Krsna says in the Bhagavad~Gita: Remain always in the I, liberating all\
+contaminating material, the yogi reaches highest state & perfected\
+happiness of contact with God.\
+\
+Yoga, a scientific method for comprehending God (or I), is the process\
+where we purify our conscience, detain contamination, reach a perfect\
+state, pure consciousness & good feelings.\
+\
+If God exists, I want to see him. There's no sense believing in\
+something without proof & meditation, Krsna consciousness are methods\
+from which to obtain a better perception of God. In that way you can\
+see, hear & play with God. Perhaps this may sound weird, but God is\
+really there next to you.\
+\
+There exists many branches of Yoga: Raja, Jnana, Hatha, Kriya & Bhakti,\
+of which each method is beneficial.\
+\
+The Swami Bhaktivedanta, as his title indicates, is a yogi who follows\
+Bhakti Yoga or devotion to God. Through serving God by each thought,\
+word, action & singing his sacred names, by which the devotee quickly\
+gains consciousness of God:\
+\
+Hare Krsna, Hare Krsna, Krsna Krsna, Hare Hare, Hare Rama, Rama Rama,\
+Hare Hare\
+\
+This is sung while walking. I ask that you take advantage of this book,\
+KRSNA, & understand it. I also ask that you make an appointment to get\
+to know God now, through the process of liberating oneself, Yoga & give\
+peace a chance."\
+\
+All you need is love, Hari Bol\
+\
+"The living thing that goes on, always has been, always will be. I am\
+not really George, but I happen to be in this body."\
+\
+"Everybody has to burn out karma and escape reincarnation and all that."\
+\
+"these vibrations you get through yoga, cosmic chants and things like\
+that-I mean, it's such a buzz. It buzzes you right through the astral\
+plane."\
+\
+"Singing to the Lord or an individual is, in a way, the same."\
+\
+George on Brian's death:\
+\
+"The Maharishi told us not to be too overshadowed by grief. I have lost\
+only a few people who were very close to me. This is one of those\
+ocassions, but I feel my course on meditation here has helped me to\
+overcome my grief more easily than before."\
+\
+George on criticisms of his promoting the Maharishi:\
+\
+"the world is ready for a mystic revolution."\
+\
+--------------\
+"Silent meditation is rather dependant on concentration, but when you\
+chant, its more of a direct connection with God."\
+\
+George on Krishna Consciouness:\
+\
+"It was like a door opened somewhere in my subconscious, maybe from a\
+previous life."\
+\
+------------\
+\
+George on lyrics from That Which I Have Lost:\
+\
+"right out of the Bhagavad Gita. In it I talk about fighting the forces\
+of darkness, limitations, falsehood & morality."\
+George on 2~month trip to study in India with Ravi:\
+\
+"I went partly to learn and partly to see and learn as much as I could\
+about India as possible. I'd always heard stories about men in caves in\
+the Himalayas, hundreds of years old, and people who can levitate, and\
+people who get buried under the ground for six weeks and lots of what\
+the West would call mysticism. But when you get there you find that this\
+is happening all over the place, with people materializing left, right\
+and center. I know everybody has a different interpretation of God, but\
+whatever God is, by becoming one with that you naturally discover every\
+sort of law that governs. Thats why people like Jesus can make these\
+sort of miracles."\
+\
+----------------------\
+\
+George one yr later, re~assesing experience in India & the Beatles world\
+influence:\
+\
+"Here everybody is vibrating on a material level, which is nowhere. Over\
+there \[India\], they have this great feeling of something else thats just\
+spiritual going on. Once you get to the point where you really believe\
+that you're harmonizing with a great power. The more I realize that\
+we're not doing it, The Beatles, but that someone else is doing it."\
+\
+-------------------\
+\
+George on how his Spirituality helped him cope with Beatle fame:\
+\
+"You either go crackers and commit suicide, or you try and use every\
+incident in order to realize something and attach yourself more\
+strongly to an inner strength. It helps me rise above the heaviness\
+we've all gone through and are still going through. Its all a part of\
+maya \[illusion\]."\
+\
+-------------
+
+George giving an explanation on his beliefs in 1968:\
+\
+"It's basically a cosmic vision in which life on Earth is but a fleeting\
+illusion edged between lives past and future beyond physical mortal\
+reality. I don't know what as. You go on being reincarnated until you\
+reach the actual Truth. Heaven and Hell are just a state of mind. We are\
+all here to become Christ~like. The actual world is an illusion. I'm\
+beginning to know that all I know is that I know nothing."
+
+[Return to the HariOnTour Homepage](../hariontour.htm)

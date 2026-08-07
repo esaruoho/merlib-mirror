@@ -1,0 +1,9 @@
+Computer Cryptology's Statistics 
+
+ Statistics 
+Below are automatically generated lists of remailer reliability statistics.
+
+ Notes 
+
+ a Compare Type I remailer stats by source . 
+ b Compare Type II remailer stats by source .

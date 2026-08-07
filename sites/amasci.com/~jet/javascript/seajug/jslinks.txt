@@ -1,0 +1,30 @@
+JavaScript Resources 
+
+ JavaScript Resources 
+
+ The oldest, possibly the biggest, collection of links is
+ The JavaScript Index .
+This is down temporarily as of 7.Mar.1997 but there are mirrors, so check your
+favorite search engine.
+
+ They have links on
+ Yahoo's
+JavaScript page to a lot of different pages.
+
+ This is JavaScript
+ book list which also has some book ratings.
+
+ JavaScript 
+Resources
+at Netscape 
+
+ The real reference manual is Netscape's
+ JavaScript
+Authoring Guide 
+
+ The online version of The
+Official Netscape Javascript Book has lots of reference and tutorial info.
+
+ An article describing MSIE JavaScript differences 
+
+ Return to overview page

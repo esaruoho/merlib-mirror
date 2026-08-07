@@ -1,0 +1,97 @@
+---
+title: "Untitled"
+source_domain: amasci.com
+source_path: ~daylight/htmls/what/12questions.html
+order: 2365
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:08:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Untitled
+
+*Source page: `~daylight/htmls/what/12questions.html`*
+
+12 Questions on Freemasonry
+
+I:
+
+Q: What is a Freemason?
+
+A: A member of the Masonic Fraternity.\
+
+II:
+
+Q: What is the Masonic Fraternity?
+
+A: The oldest and largest fraternal organization in the world. It has existed in its present form since 1717.\
+
+III:
+
+Q: How large is it?
+
+A: It has 3.5 million members in the United States, nearly 6 million Masons around the world.\
+
+IV:
+
+Q: How do you become a member?
+
+A: Freemasons do not solicit members. A candidate must apply of his own free will and accord.\
+
+V:
+
+Q: Is Freemasonry anti-Catholic or anti-negro?
+
+A: Racial or ethnic background, color of skin or religious beliefs are not to be considered when an applicant applies for the degrees. The membership includes men of all races and religions.\
+
+VI:
+
+Q: Does it have a religious test?
+
+A: It is not a religion. Applicants must believe in a Supreme Being. Atheists are not acceptable.\
+
+VII:
+
+Q: Is Freemasonry political?
+
+A: No. Masonry does not support candidates. The discussion of partisan politics in Lodge is forbidden but Freemasons are encouraged to be good citizens.\
+
+VIII:
+
+Q: What is meant by a "Lodge"?
+
+A: It is the individual, local unit of Freemasonry. One or more Lodges are found in every city. There are more than 250 Lodges in Washington and Alaska.\
+
+IX:
+
+Q: What does it cost?
+
+A: Fees for the three degrees begin at \$75.00 and annual dues average \$20.00. Each Lodge sets its own schedule of initiation fees and dues.\
+
+X:
+
+Q: What charities does Washington Freemasonry support?
+
+A: The Masonic Retirement at Zenith (Des Moines), WA, without financial aid from any governmental agency.\
+
+XI:
+
+Q: What is the principal teachings of Freemasonry?
+
+A: Brotherly Love, Relief and Truth. It seeks to make good men better.\
+
+XII:
+
+Q: Is Freemasonry a secret society?
+
+A: The only secrets are the ritual used in the degrees and the modes of recognition. Full publicity is given the meeting place, names of officers and activities of each Lodge.\
+
+##### Reprinted from: <u>12 Questions of Freemasonry</u>, Grand Lodge of Free and Accepted Masons of Washington. 47 St. Helens Ave., Tacoma, WA 98402
+
+\
+\
+
+[<img src="../gllogo.gif" data-border="0" width="100" />\
+M:.W:.Grand Lodge of Free and Accepted Masons of Washington](http://www.freemason-wa.org/)\

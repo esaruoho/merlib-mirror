@@ -1,0 +1,11 @@
+Klingon Web Server 
+
+ Klingon Empire Network Error: 
+Incompatible Hardware 
+
+ Human detected: 
+You must use a Klingonese keyboard to access web sites
+of the Empire. All attempts to access our databases
+are recorded. You have been warned.
+
+Copyright 1996-2001 by Al Wong, Los Angeles, California, USA

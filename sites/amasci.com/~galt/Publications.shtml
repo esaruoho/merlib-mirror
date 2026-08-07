@@ -1,0 +1,40 @@
+<HTML><HEAD>
+</HEAD>
+<BODY>
+<H1>Publications</H1>
+G. Alt, K. King, A Dynamic Reputation System Based on 
+Event Knowledge in <a href="http://www.aiwisdom.com/">AI Game Programming Wisdom</a>, edited by Steve Rabin, 2002 
+(Charles River Media) 
+<P>
+C. Hsu, G. Alt, Z. Huang, E. Beier, B. Bruderlin, "A Constraint-based 
+Manipulator Toolset for Editing 3D Objects" in Symposium on Solid Modeling, 1997 
+(ACM SIGGRAPH) 
+<P>
+Master's Thesis: "TWEAK: a 3D Toolkit and Modeling System Using Snapping and 
+Constraints," University of Utah, 1996 
+<P>
+Nintendo Powerglove PC driver, in Virtual Reality Playhouse by Nicholas 
+Lavroff, 1992 
+<P>
+ASCII stereogram generator, in Random Dot Stereograms by Andrew A. Kinsman, 
+1992 
+<p>
+<FOOT>
+<CENTER>
+<TABLE border=1 cellPadding=4>
+  <TBODY>
+  <TR>
+    <TH colSpan=7>Greg Alt's Personal Pages 
+  <TR>
+    <TH width="14%"><a href="Work.shtml">Companies<br>I've<br>Worked For</a>
+    <TH width="14%"><a href="Education.shtml">Education</a>
+    <TH width="14%"><a href="Games.shtml">Completed<br>Games</a> 
+    <TH width="14%"><a href="Publications.shtml">Publications</a>
+    <TH width="14%"><A href="bike.shtml">Bicycle<BR>Commuting<BR>Checklist</A> 
+    <TH width="14%">My<BR>Realtime<BR>Raytracer 
+    <TH width="14%"><A href="index.shtml">Homepage</A> 
+  </TR></TBODY></TABLE>
+<P>
+</CENTER>
+
+</BODY></HTML>

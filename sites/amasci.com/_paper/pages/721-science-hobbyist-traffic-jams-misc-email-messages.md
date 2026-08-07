@@ -1,0 +1,565 @@
+---
+title: "SCIENCE HOBBYIST: Traffic Jams, misc. email messages"
+source_domain: amasci.com
+source_path: amateur/traffic/jamail.html
+order: 721
+reachable_from_entry: false
+images: 8
+internal_links: 6
+extracted: 2026-08-07T17:06:20Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: Traffic Jams, misc. email messages
+
+*Source page: `amateur/traffic/jamail.html`*
+
+<table data-summary="site nav" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-cellpadding="5" data-summary="Navigation links">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="http://trafficwaves.org/">TRAFFIC WAVES</a>  |<br />
+</td>
+<td><a href="http://amasci.com/">SCIENCE HOBBYIST</a>  |<br />
+</td>
+<td><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |<br />
+</td>
+<td><a href="http://amasci.com/news.html">NEW STUFF</a>  |<br />
+</td>
+<td><a href="http://amasci.com/search.html">SEARCH</a><br />
+</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
+&#10;</div></td>
+</tr>
+</tbody>
+</table>
+
+# EMAIL ABOUT 'MERGING LANE' TRAFFIC JAMS
+
+    Q: What makes you such an expert?!
+
+    A: Nothing, I am not an expert.  I'm just a guy who is fascinated by the
+    "traffic physics" I see during my commutes.  I have no reputation to
+    defend, and I have no conviction that I'm a highly educated traffic
+    expert.  Therefore I have no inhibitions about posting my observations and
+    reasoning.  I hope it's revolutionary, but it might also have lots of flaws.
+    All the material on this website is nothing but speculation and "crazy
+    experiments" performed by a total amateur.  For info from actual experts,
+    try some of these links.
+
+    Date: Wed, 15 Oct 1998
+    From: Scott Washburn 
+    Subject: Entry to Guestbook
+
+    I just stumbled across this web site, and I must admit, it evoked a number
+    of reactions. First of all, it confirmed what those of us in the business
+    have long contended--that anybody with a driver's license thinks they are
+    a traffic expert. However, I was delighted to see a web site that provided
+    a forum for people to discuss their opinions about traffic and their own
+    personal driving behaviors. Unfortunately, though, I was disappointed to
+    see a web site that was purporting to educate people on traffic flow
+    behavior be based strictly on personal "theories" and absurd personal
+    "experiments".  This web site contains a lot of conjecture and opinions
+    about traffic flow and ways to improve it.  But, it is very obviously
+    missing solid mathematical and engineering based theories on traffic flow. 
+    Now don't get me wrong, I do appreciate a forum for discussion on a topic
+    that impacts many people's lives everyday. However, I am concerned that
+    people that might not know better, which, unfortunately is a lot of the
+    people that have replied to this site, are led to believe that your
+    proposed driving behaviors are what should be adopted by everyone in order
+    to eliminate or minimize traffic congestion.  Your personal experiments
+    with speed regulation and headway regulation make for interesting stories,
+    but that is about all. To think that your driving behavior alone in these
+    "experiments" had a significant impact upon the overall level of
+    congestion or the travel time experienced by commuters in this area is
+    ridiculous. Now, it is true that if you could get every driver on the road
+    to employ the exact same rational driving model, traffic congestion would
+    be lessened.  But there is the problem, and where your analogy to fluid
+    flow breaks down (which has been explored by several researchers in the
+    past)--every water molecule (i.e., driver) in this case has a different
+    brain, and thus, every driver employs a different driving model. While it
+    would be nice to homogenize driving behaviour (e.g., a surrogate method
+    like vehicle computer control), and thus realize a system optimal traffic
+    flow model, the fact is that people act in their own best self interest,
+    so even the "good samaritan" actions of a few in the traffic stream will
+    be far overwhelmed by the individual self interest actions of the many. 
+    Anyway, the fundamental problem with traffic congestion is that there are
+    too many vehicles trying to use the available capacity of the roadway at
+    the same time. And there is very little to nothing your individual games
+    of headway and speed regulation can do to prevent it. As I just mentioned,
+    roadway CAPACITY is one of the fundamental concepts that needs to be
+    understood...and I did not see that mentioned anywhere in your
+    "monograph".  When demand exceeds capacity, congestion occurs-- it's as
+    simple as that.  Thus, your hypothesis of the wall of state patrol cars
+    pacesetting the traffic is totally absurd. Trust me, this will do nothing
+    more than waste taxpayers' money. Now just think about it, since every
+    possible entry onto the freeway is not controlled (e.g., metering system),
+    it is not possible to prevent demand from exceeding capacity at any
+    particular point along that freeway. Thus congestion could occur anywhere
+    along the freeway where demand exceeds capacity, regardless of where the
+    wall of patrol cars are and what speed they are going. As the demand
+    increases in a freeway section (through increased on-ramp volumes, less
+    smaller off-ramp volumes), people will naturally slow down because of
+    their increased discomfort with decreasing headways as a result of the
+    increasing demand filling in the available capacity of the roadway. Now, I
+    will acknowledge that your attempt to explain a generally complex
+    phenomenon (i.e., shock wave theory) to the lay person is admirable, but
+    you should make sure you thoroughly understand it before trying explain
+    it. Unfortunately this is not the case, as is evidenced by your trying to
+    base your crazy personal traffic flow "theories" upon it. I apoligize if
+    this commentary sounds critically harsh, but I just had to shed some
+    factual light on this subject, based on real mathematical and engineering
+    research. Let me just close by saying this--drive in a manner that you
+    deem rational and leave it at that; no matter how many of your friends you
+    get to drive like you, it just won't make a difference when it comes to
+    changing levels of traffic flow and congestion. 
+    Sincerely, Scott Washburn
+    Transportation Engineer 
+
+      [
+      [  Note that you've missed an important point: my website is about my
+      [  empirical observations about the ability of ONE SINGLE DRIVER, 
+      [  myself, to have a massive effect.  It's not about theory, and I
+      [  need no friends to help me bust jams.  If my article is correct,
+      [  then the efforts of people like yourself will not be able to stop
+      [  these ideas from taking over your field.  It took a few years, but
+      [  they've started already:
+      [
+      [
+      [  Sept 1999
+      [  Nagatani shows that one driver with variable speed can trigger jams
+      [  http://prola.aps.org/abstract/PRE/v61/i4/p3534_1
+      [
+      [  July 2004
+      [  C. Davis finds traffic jams eliminated by unexpectedly small % of 
+      [  cars automatically maintaining safe forward spaces.
+      [  http://link.aps.org/abstract/PRE/v69/e066110
+      [
+      [  To everyone else: never forget that experiment trumps theory.  Since
+      [  I personally have erased traffic jams at merge zones in Seattle, then
+      [  no amount of theorizing by traffic engineers can change this fact.  
+      [  (But perhaps I need some time lapse videos so you can see me do this.)
+      [
+      [  Also never forget that science often involves the  "Emperor's new 
+      [  clothes effect," where even a small ignorant child can point out a 
+      [  stunning fact to which even the most highly educated experts were 
+      [  hoplessly blind.  (If the fact should trigger the experts' anger, 
+      [  then we have a clue to WHY they were blind!)   When it concerns 
+      [  our learning to understand all the amazing and subtle features of 
+      [  traffic-jam physics, perhaps it's better to be an ignorant 
+      [  outsider.    -billb
+      [
+
+    Date: Thu, 9 Jul 1998 01:11:29 -0700 (PDT)
+    From: "Michael S. Foster" 
+    Subject: Entry to Guestbook
+
+    Aw, c'mon Bill, say you're not serious with your "simple" cure for traffic
+    jams.  Surely you just posted this in order to invite people to poke holes
+    in this preposterous piece of illogic.  No doubt your head has become
+    muddled while sitting still, frustrated in that jam on the I-5.  My guess
+    is that your scheme would result in traffic coming to a complete
+    standstill, but that everyone would be able to change lanes as often as he
+    wishes, as long as he willing to back up.  Of course, this is just a
+    guess, but then so are the results of your proposed scenario.  Unless, of
+    course, you have the results of an experiment where you have convinced
+    thousands of people to behave in the manner you prescribe.  Naturally, you
+    don't have such experimental results, because the only way to modify the
+    driving habits of this many people would be through the use of somewhat
+    draconian coercion.  One must always be suspicious of simple solutions to
+    complex problems of human behavior, especially when it involves
+    surrendering rational self-interest to "altruistic" methods whose results
+    are doubtful.  In reality, what we have here is a simplified model of
+    capitalism versus socialism and I think the experimental results ar e
+    fairly conclusive when it comes to these two systems.  I therefore suggest
+    you put the atruistic traffic on the left and the self-interest traffic on
+    the right on your animated web page.  Actually, there are a few
+    experimentally proven methods of reducing traffic jams.  I travel a
+    certain section of the 405 freeway, sometimes several times a day, and I
+    noticed a rather dramatic reduction in traffic jamming when they (are you
+    waiting?) RAIS ED THE SPEED LIMIT!  Of course, the speed limit was only
+    increased to 65mph from 55, but the difference was and is quite
+    noticeable.  Dare I suggest that raising the speed limit to 75mph would
+    really have a salutory effect?  Now, I realize that raising  speed limits
+    isn't politically correct and won't give you that warm fuzzy altruistic
+    socialist feeling, but it might actually work.  This particular rant
+    aside, Science Hobbyist is my very favorite web site and is an example of
+    the internet at its best.  I have spent countless hours reading
+    practically everything here and following the endless trail of links
+    leading away to an incredible  array of knowledge and information
+    previously unavailable to most people. 
+
+    THANKS, BILL!  
+    Michael S. Foster 
+    Los Angeles, CA USA - Thursday, July 09, 1998 at 01:11:28 (PDT)
+    ------------------------------------------------------
+
+    Date: Thu, 9 Jul 1998 09:39:45 -0700 (PDT)
+    From: William Beaty <>
+    To: "Michael S. Foster" 
+    Subject: Re: Entry to Guestbook: traffic
+
+    On Thu, 9 Jul 1998, Michael S. Foster wrote:
+
+    > often as he wishes, as long as he willing to back up.  Of course, this
+    > is just a guess, but then so are the results of your proposed scenario. 
+    > Unless, of course, you have the results of an experiment where you have
+    > convinced thousands of people to behave in the manner you prescribe. 
+
+    Guess what... I DO have experimental results.  Not thousands of people,
+    just one.  It turns out that since traffic jams are single-lane events
+    once they appear, therefor sometimes A SINGLE DRIVER can have massive
+    effects on them.  I personally have (temporarily) erased small and
+    medium-sized traffic jams at merging-lane areas on numerous occasions.  If
+    EVERYONE maintained an extra space ahead of their car, then the
+    merging-lane traffic-jam dynamics would be seriously fouled up, and they
+    could not form.
+
+    I see one problem in your reasoning.  What CAUSES the jam?  Is there one
+    car far in the distance which is stopped, and therefor all cars behind it
+    must stop?  Nope.  These traffic jams are a form of turbulence.  Tiny
+    actions by large collections of drivers cause them to appear.  If the
+    collections of drivers behave differently, then traffic jams will be
+    affected.  I've talked to one traffic dynamicist (see his link on my
+    TRAFFIC WAVES page) and he confirms some of my suspicions. 
+
+    If we can discover which behaviors cause traffic jams, then we can
+    eliminate them simply by informing people about how to take personal
+    action.  No legislation is needed. 
+
+    > Naturally, you don't have such experimental results, because the only
+    > way to modify the driving habits of this many people would be through
+    > the use of somewhat draconian coercion.  
+
+    Or by an ad campaign, as was done with recycling and energy conservation
+    in the last 20 years. 
+
+    > One must always be suspicious
+    > of simple solutions to complex problems of human behaviour, especially
+    > when it involves surrendering rational self-interest to "altruistic"
+    > methods whose results are doubtful.
+
+    Why the hostility?
+
+    >   In reality, what we have here is a
+    > simplified model of capitalism versus socialism and I think the
+    > experimental results are fairly conclusive when it comes to these two
+    > systems.
+
+    No, all we have is what we have:  a suggestion that some types of traffic
+    jams will be affected by small changes in driver behavior.  I'm convinced
+    that it only takes a small percentage of drivers to change behavior.
+
+    I see that something is not clear on my current webpage: it's not
+    necessary for ALL drivers to adopt the "altruistic" style during
+    merging-lane traffic jams. I've found that if only one driver does so (but
+    maintains a 20-car-length space), then a jam can be reduced or sometimes
+    even eliminated.  Note that the "altruistic" style is not needed normally,
+    it's main effect is to alter the traffic-jam physics during heavy traffic
+    conditions where lanes of traffic are merging. 
+
+    After many years of using my car to poke at commuter traffic and
+    considering the results, I have become convinced that only a small
+    proportion of drivers need to adopt the "altruistic" style during a jam,
+    yet it will have profound effects.  You're right that no experiment has
+    been done such as my page depicts, with 100% of drivers behaving in the
+    abnormal way shown in the right-hand "gear-teeth merge" animatino.  The
+    actual experiment used one car out of about 100: me. 
+
+    > I therefore suggest you put the atruistic traffic on the left
+    > and the self-interest traffic on the right on your animated web page. 
+
+    Why does this need to have ANYTHING to do with politics?  Would you refuse
+    to experiment with traffic-holes yourself since traffic-holes are
+    obviously a despicable Socialist invention, while traffic jams are good
+    American Capitalism and we must protect them against the Commies?  :)
+    Why instantly involve politics before even trying any experiments?  But
+    since you have lept to a political stance, this means that I should go and
+    change my page to eliminate "altruist" and "self-interest", since it will
+    probably make many others leap into political-think and so refuse to
+    actually TRY my suggestions.
+
+    > Actually, there are a few experimentally proven methods of reducing
+    > traffic jams.  I travel a certain section of the 405 freeway, sometimes
+    > several times a day, and I noticed a rather dramatic reduction in
+    > traffic jamming when they (are you waiting?) RAISED THE SPEED LIMIT!  Of
+    > course, the speed limit was only increased to 65mph from 55, but the
+    > difference was and is quite noticeable.  Dare I suggest that raising the
+    > speed limit to 75mph would really have a salutory effect?
+
+    It may.  Since traffic waves and stoppages are caused by collective
+    behavior, then even tiny changes in the average behavior may have drastic
+    effects on them.
+
+    > Now, I
+    > realize that raising speed limits isn't politically correct and won't
+    > give you that warm fuzzy altruistic socialist feeling, but it might
+    > actually work.
+
+    Altruism is socialist?  Only if it is forced by legislation.  Actually, I
+    think there should be no speed limits at all.  Look at Europe and the
+    Autobahn, it is experimental proof that such a thing is feasible.  It has
+    always amazed me that the "land of the free" has no Autobahn.  We are not
+    nearly as free as we tell ourselves.
+
+    If you can figure out a way to see traffic-holes as capitalistic (hey: 
+    tiny individuals who can beat the hell out of a collective?), then give
+    them a try yourself.  I've cancelled enormous numbers of "traffic waves"
+    on 520 during rush hour.  (Check out the email discussion on my TRAFFIC
+    WAVES site.)
+
+    Anyway, glad you like my stuff!
+
+    ((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+    William J. Beaty                                  SCIENCE HOBBYIST website
+                                      amasci.com
+    EE/programmer/sci-exhibits          science projects, tesla, weird science
+    Seattle, WA                         freenrg-L taoshum-L vortex-L webhead-L
+
+    Subject:      Re: TRAFFIC JAM CURE
+    From:         mac@mac.net (One Ton)
+    Date:         1998/07/08
+    Newsgroups:   seattle.general
+
+    Buy a car with a rear view mirror and you might see things
+    differently.......  ;>)
+
+    Mike
+
+    Subject:      Re: TRAFFIC JAM CURE
+    From:         
+    Date:         1998/07/09
+    Newsgroups:   seattle.general
+
+    > Buy a car with a rear view mirror and you might see things
+    > differently.......  ;>)
+
+    Hmmm?  What's your meaning?  In my traffic diagrams, wide gaps allow a
+    high-speed merge, while narrow gaps prevent merging and cause a traffic
+    jam.  If this idea is wrong, I'd like to hear the details. 
+
+    Actually, all attempts at "amateur traffic engineering" must be based on
+    the fact that drivers have very little effect on the traffic ahead of
+    them, while they can exert significant control on the traffic which
+    follows behind. If I were to "rubberneck" and completely halt my car for
+    no reason, I could leave a long-term traffic jam behind me.  On the other
+    hand, if I approach a traffic jam at a slow speed, a large gap will open
+    up ahead of me.  The gap allows the traffic jam to trickle away but with
+    no new cars piling up behind it, and when I finally arrive, part of the
+    jam has been "eaten" and converted into a region of slower traffic behind
+    me.  In this way a single driver can take a bite out of a traffic
+    stoppage.  If the stoppage was small, then it might be erased entirely,
+    and converted into a wide region of slightly slower traffic.  Average
+    speed does not stay the same:  The stoppage was a nonlinear effect, and
+    removing it causes increased overall speed. 
+
+    But the "road rage" people will punish me!  I'd better buy armament!
+
+    ((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+    William J. Beaty                             SCIENCE HOBBYIST website
+                                 http://amasci.com
+    EE/programmer/sci-exhibits          science projects, tesla, weird science
+    Seattle, WA                         freenrg-L taoshum-L vortex-L webhead-L
+
+    From: bitbucket@wolfenet.com (Sonya)
+    To: bbeaty@microscan.com
+    Subject: Re: TRAFFIC JAM CURE
+    Newsgroups: seattle.general
+
+    In article <6o36e2$3ll$1@nnrp1.dejanews.com>, bbeaty@microscan.com wrote:
+
+    > Actually, all attempts at "amateur traffic engineering" must be based on
+    > the fact that drivers have very little effect on the traffic ahead of
+    > them, yet they can exert significant control on the traffic which
+    > follows behind.  If I were to "rubberneck" and completely halt my car
+    > for no reason, I could leave  a long-term traffic jam behind me.  On the
+    > other hand, if I approach a traffic jam at a slow speed, then a large
+    > gap will open up ahead of me.  The gap allows the traffic jam to trickle
+    > away but with no new cars piling up behind it, and when I finally
+    > arrive, part of the jam has been "eaten" and converted into a region of
+    > slower traffic behind me.  In this way a single driver can take a bite
+    > out of a traffic stoppage.  If the stoppage was small, then it might be
+    > erased entirely, and converted into a wide region of slightly slower
+    > traffic.  Average traffic speed does not stay the same: The stoppage was
+    > a nonlinear effect, and removing it causes increased overall speed.
+
+    This absolutely DOES work. In fact, I think you should buy the domain name
+    "www.trafficwaves.com" and I will personally volunteer to create and post
+    signs with the URL on every major freeway in the state.
+
+    Since reading one of the earlier posts about traffic waves, I've been
+    trying it out in traffic, and it's amazing. True, the hardest part is
+    ignoring the irritation of drivers behind you, but I just tilt up my rear
+    view mirror and think of something else. They seem to think that the two
+    feet they gain by being right on your tail will get them there faster. 
+
+    Please keep posting this now and then - it should only take a small
+    percentage of drivers to noticably change the traffic situation in this
+    state.
+
+    Sonya
+
+    Please change "bitbucket"
+    to "elysium" in my address
+    to reply by e-mail.
+
+    Subject:      Re: TRAFFIC JAM CURE
+    From:         joearmy@wolfenet.com (Steven Spencer)
+    Date:         1998/07/14
+    Newsgroups:   seattle.general 
+
+    I've been doing the same thing and I've got to agree with the previous two
+    posters. This method of 'curing' traffic waves is amazing!! And Sonya,
+    just turn your music up extra loud to drown out the sounds of the idiots
+    who tailgate you when the honk. That's what I do! 
+
+    And even more incredible is that my stress level while driving has dropped
+    tremendously. A large part of my frustrations have been the
+    rubber-neckers. Now I just don't worry about 'em as much.
+
+    Date: Fri, 17 Jul 1998 09:14:43 -0500
+    From: Bob Liepa 
+    To: bbeaty@microscan.com
+    Subject: Traffic Merges
+
+    In cases where the number of lanes decreases, it is incorrect to state that
+    drivers who wait until the last second to merge are "greedy". It is also
+    incorrect to state that drivers who merge early show foresight and
+    consideration.
+
+    The optimal strategy for the entire group of drivers is to keep all the
+    lanes filled and to  merge at the single point where the disappearing lane
+    actually ends. In fact, anyone who merges "early" is just contributing to
+    the problem.
+
+    There are probably two main reasons for merging early. One is that drivers
+    (mistakenly) think they are being courteous or socially responsible. The
+    other is that some drivers feel that if they wait to long to merge, they
+    might not be let in. In fact, it's always possible to merge.
+
+    If the disappearing lane is empty, one should therefore have no
+    reservations about using it until the end.
+
+    This is different, however, from "jumping the queue" by using an empty
+    acceleration lane from an entry ramp. In that case, using that lane would
+    require a driver to "unmerge" from traffic and then "re-merge" at a later
+    time. This creates an extra merge and is therefore not optimal for the
+    entire group of drivers. Of course, if the driver is legitimately entering
+    the highway at that point, he or she should take advantage of that lane
+    until it ends. It's a one-time privilege for newcomers to the traffic jam.
+
+    Bob Liepa
+    Senior Vice President
+    Research Dimensions Ltd.
+    30 Soudan Avenue, 6th Floor
+    Toronto, Ontario
+    M4S 1V6
+    Tel: 416-486-6161
+    Fax: 416-486-6162
+
+    Date: Sat, 7 Aug 1999 11:25:08 -0700 (PDT)
+    From: William Beaty <>
+    To: Chad Spencer 
+    Subject: Re: Entry to Traffic Waves
+
+    On Sat, 7 Aug 1999, Chad Spencer wrote:
+
+    > Well you've solved the traffic problem in front of you, but you've
+    > totally neglected the situation behind you.  Consider this:  You're on
+    > the freeway, and you spot a traffic jam a mile or so up the road.  You
+    > slow down to create the huge space in front of you, and by the time you
+    > get to the jam it is gone.  BUT, while you were slowing down the traffic
+    > behind you, more cars were entering from the on-ramps at a normal rate.
+
+    You bring up a good point.  I mention this problem in a couple of places,
+    but I guess I have to state the solution more specifically.
+
+    Yes, it is impossible for me to remove cars from the road.  All I can do
+    is transfer the patches of high-density traffic from one place to another. 
+    I can also take a small, dense region and spread it out into a large,
+    less-dense region.  In a highway with no entrances or exits, wouldn't this
+    be pointless?  No, not always, because I can erase "traffic waves" and
+    "shock wave" stoppages.  A traffic wave is nothing but patches of
+    slowdown, and by moving them around, I can create totally smooth traffic. 
+    And a total stoppage can be changed into a large zone of slow traffic.
+
+    There is a second place where I can have an impact.  When a slowdown-zone
+    becomes stuck at a merge-zone, a true bottleneck appears.  My little
+    animations depict this phenomeonon.  If I can grab that slowdown and move
+    it far upstream, so that cars at the merge zone can merge at high speed
+    like "gear teeth" or a "zipper", then I have changed the capacity of the
+    highway at that point.  It is a nonlinear effect.  If it wasn't, then
+    there would be no good reason to mess with traffic there. 
+
+    Is it possible to make traffic worse?  Certainly.  I don't entirely
+    understand your message, but I think you might be discussing a situation
+    where there are a number of merge-zone traffic jams in a row.  If I try to
+    "cure" the last one in line (the most-forward downstream jam), then I make
+    the jam worse at the upstream ones.  Yes, this is correct.  If most of the
+    traffic is coming from entrance ramps, and not from the main highway, then
+    one car can safely manipulate only the first jam, the most-upstream jam. 
+    If I try to cure the downstream ones, then I dump a slowdown into the
+    upstream ones and make them worse (or possible trigger a new traffic jam.) 
+
+    Another way to say it:  a row of small traffic jams will interact with
+    each other.  Each one is a nonlinear "switchable" phenomenon all on its
+    own.  Together, they are like a living thing and their actions will be
+    very unpredictable.  If I try to manipulate them, they might "explode" 
+    into a really horrible mess.
+
+    In my commutes I've encountered big jams at single exit ramps, where there
+    are no other exit ramps anywhere around.  I fortunately don't drive in a
+    place where those "living creature" collective multi-ramp jams exist, so
+    I've never had to think about them. 
+
+    > I'll give you a big hand for effort, but in all of the thought you put
+    > into eliminating the traffic in front of you, you completely forgot
+    > about what was going on behind you.
+
+    Of course not.
+
+    It is impossible for me to affect the traffic ahead of me.  All my
+    thinking is based on this fact.  I can only affect the traffic behind me,
+    so that's the first thing I think about.  See
+    http://trafficwaves.org/seatraf.html#three     How can I
+    manipulate the traffic behind me?  Since I cannot drive faster in
+    congested traffic, I can only drive slower.  If I drive slower INSIDE a
+    congested zone, then I make the traffic worse.  Therefor I must create my
+    "antitraffic" hole while I'm in a lightly congested zone, and not do this
+    in the middle of a bunch of on-ramp merge zones!
+
+    ((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+    William J. Beaty                                  SCIENCE HOBBYIST website
+                                      http://amasci.com
+    EE/programmer/sci-exhibits          science projects, tesla, weird science
+    Seattle, WA                         freenrg-L taoshum-L vortex-L webhead-L
+
+<http://trafficwaves.org/jamail.html>\
+Created and maintained by [Bill Beaty](http://amasci.com/me.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/amfrm/#urls).\
+.
+
+<div class="statcounter">
+
+<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
+
+</div>
+
+[View My Stats](http://statcounter.com/p10408414/?guest=1)

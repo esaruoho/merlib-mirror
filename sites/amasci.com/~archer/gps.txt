@@ -1,0 +1,491 @@
+GPS and Mapping Info From WE7U 
+
+Latest News:
+
+The Xastir APRS program now supports USGS DRG geotiff topo maps. These
+maps are available for most areas of the US free. Get the latest anonymous
+CVS snapshot of the Xastir sources to gain this capability. It should appear
+in the next public release as well. See my mapping page to find out how to
+get access via CVS.
+
+Go to
+ Garmin Support Site 
+for upgradeable firmware for GARMIN GPS's. I would suggest doing this from
+DOS, not a DOS window, just to make sure it goes well. The software
+for doing the programming is included in the downloadable archive.
+
+ Differential GPS : 
+ Next Topic .
+
+First of all, buying a GPS receiver that is "DGPS Ready" does not mean that
+you can use DGPS out of the box. You still need to invest in a DGPS receiver,
+antenna, and cabling to hook it to your GPS. There are several types of
+DGPS, and I only describe the free US Coast Guard-style DGPS here. With
+USCG DGPS, you can resolve down to 1-5 meters, if your GPS is a high-quality
+one. See your GPS manual for the DGPS accuracy spec. 
+
+The other types of DGPS are: Commercial DGPS (where you get corrections from
+a receiver supplied by them), and survey-grade DGPS (where you use a special
+receiver that listens to the military frequency as well and might resolve down
+to cm accuracy). There is also post-processing, where you collect a bunch of
+data (usually RINEX format), then grab data off the net later and combine the
+two in post-processing software to get more accurate positions. Post-processing
+requires a receiver capable of outputing pseudo-ranges (most consumer handhelds
+cannot). 
+
+ Code For Roll-Your-Own DGPS Receiver, by Richard Cochran. 
+You'll need a receiver capable of tuning 283.5 to 325 kHz, technical
+skill to build an FSK or MSK modem, and plenty of patience for tuning the
+shortwave receiver (the shift used is very narrow). This code for a PC-clone
+will compile under Microsoft-C or Borland-C. It receives the data from the
+modem on a handshake pin, and sends the RTCM-104 data out the TXD pin (which
+you can then put into your GPS to get a DGPS fix). Summary: You only need
+one COM port in order to do this. The author of the code was using a palmtop
+computer that only had one hardware COM port (the other was IR). Here's
+another place to get it, although it isn't guaranteed to be the latest:
+ Curt's Anonymous FTP Site 
+
+If you are further interested in building your own DGPS, 
+
+I have put together
+a mini-FAQ on DGPS
+
+ that is available if you E-Mail me (Curt, WE7U). You can
+send me E-Mail from the link at the top of this page.
+Note that this FAQ will be of no use to those wanting to buy a DGPS receiver
+and/or figure out how to use their DGPS system. It only discusses the U.S.
+Coast Guard DGPS system, and does not discuss survey quality DGPS like
+real-time kinematic or post-processing. U.S. Coast Guard-style DGPS will
+get you generally within 1-10 meters, but I have heard that you can quite
+often get 1-5 meter accuracy. It also depends on the quality of the GPS
+receiver (check your manual for DGPS accuracy specs).
+
+ Rich Heineck 
+has some too-cool designs for DGPS receivers that can be carried along
+while hiking/hunting/whatever (Click on the "Pocket Sized" link when
+you get there. I can't say I'd recommend building the "Low Cost but Very
+Basic" design of his, at least not after seeing and using the "Pocket Sized"
+design. I got the opportunity to borrow one. It's very small and works great!
+His PIC processor code converts the received bits into RTCM-104 data for
+input into a GPS, and also runs through the parity algorithm and lights
+an LED if the data stream is good. Beware that the ground from your GPS
+must be isolated from the signal ground used in this circuit. The reason
+is the voltage doubler circuit, which creates higher voltages to send to
+the GPS (note, this is probably old info now, 'cuz his latest design doesn't
+use a voltage doubler or the expensive lithium battery).
+Make sure you click on the pictures. He includes source code for the PIC
+processor. Stay tuned for whatever this guy comes up with next...
+
+ A new
+from-scratch DGPS receiver design by Jim Bixby . 
+This receiver will cost just over $100 in parts, runs from Car/Boat battery,
+and can use a whip or loopstick antenna. Control is via up/down switches,
+and it shows status via an LCD display. Be patient with this server (or click
+on reload a lot). This project is extremely well documented, and includes
+source code for the PIC processor. Until the .pdf files get replaced you
+won't be able to print out the schematics though. Contact Jim directly to
+get replacement .pdf files until the new ones get updated on the web.
+
+To find DGPS transmitter coverage areas worldwide, try
+ CSI-DGPS.COM .
+For more information on US Coast Guard DGPS, see
+ USCG.MIL .
+There is a British
+site which provides DGPS at 50pence/minute over a modem w/free DGPS software (covers
+150 mile radius around Ramsey, England). 
+
+More information about DGPS: 
+ Trimble 
+ Sam Wormley 
+ US Coast Guard 
+ US Coast Guard DGPS 
+ DGPS.COM 
+
+ GPS Parallel Receivers : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+Why buy a parallel GPS receiver?
+
+The scanning (multiplexing) GPS receivers (anything with less than
+5 parallel receivers) work reasonably well in marine, desert, or
+other fairly open environments, but can fall on their face amidst
+tall buildings or trees (especially trees with high moisture).
+The reason is that they don't have enough tracking loops to
+dedicate one for each satellite used in the fix, so
+they have to multiplex between the various satellites that are in
+view, and can easily lose satellites when the satellites are
+obstructed, even if its only a momentary obstruction. Since four
+satellites are needed to get one fix, any receiver with 5 or more
+channels (tracking loops) can use the extra channels to look for
+satellites with better geometry or higher signal-to-noise ratios.
+If using a 12-channel unit, then each channel can be dedicated to
+holding the lock on a particular satellite's signal constantly.
+
+For heavy tree foliage, high buildings, or deep canyons, one needs
+units with 5 or more parallel receiving channels (as many channels
+as you can get up to 12). For marine or
+aviation use, parallel channels are not as important (unless you
+are just a passenger on a commercial airliner and therefore have
+poor sky visibility). The extra channels not currently being used
+in a fix can either search for new satellites or hold the lock on
+current satellites while the other four provide a good 3-D fix.
+There are three reasons to have more than five channels:
+
+1) Extra satellites can be used to reduce SA error by up to 25%
+ according to Apelco/Raytheon. GPS receiver software must be
+ designed to do this of course. I've heard that newer Garmins
+ may do this.
+
+2) Extra satellites can help give an accurate fix when multipath
+ reflections cause some satellite's signals to be degraded. The
+ higher S/N ratio signals from the extra satellites will be used
+ for the 3-D fix instead of the lower S/N ratio signals from the
+ multipath reflections.
+
+3) Tracking more satellites than are necessary for a solution helps
+ in the case of obstructions, where some of the satellites are
+ temporarily removed from view. The GPS receiver will merely
+ grab the highest S/N ratio and closest-to-horizon satellites it
+ can for the solution. If it is tracking more satellites, it has
+ more to choose from.
+
+Because 12-channel receivers are in the "inexpensive" category now,
+it doesn't make sense to buy anything with fewer channels, unless
+you have very specific needs that aren't met by these units (perhaps
+battery-life or size). The multiplexing receivers can be compared
+against parallel receivers in terms of signal-to-noise ratio (S/N).
+The multiplexing receivers will appear to have a much lower S/N
+ratio than the parallel receivers. Good luck getting that kind of
+a figure out of the GPS manufacturers though.
+
+ Number of Satellites Required for a Position Fix : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+This chart shows how many satellites must be actively tracked in order
+to get a fix.
+
+No. of Satellites Fix Provided
+----------------- ------------
+2 -none-
+3 Crude 2-D Fix
+4-12 Good 3-D Fix
+
+We need one active satellite tracked per unknown variable: Time,
+latitude, longitude, altitude. More than 12 channels is wasteful
+because the maximum satellites visible to any earth observer is 12.
+The exception to this is the Glonass/GPS units which track the Russian
+AND the U.S. satellites at the same time in order to get better
+position accuracy or more satellites viewable in questionable areas.
+
+Current GPS receivers usually optimize their solution using satellites
+that are closer to the horizon, which makes the 2D position more accurate
+at the expense of altitude readings. When very low to the horizon however,
+the errors increase due to propagation variations through the atmosphere.
+Most GPS's will have a cutoff angle below which they won't use a satellite
+for these reasons. Once the satellite rises above this angle, it can be
+used again in the calculations. This angle varies with the GPS model.
+
+Here's something to think about: A submarine can get an accurate
+fix with only two satellites if it has a $50,000 atomic clock
+connected to the GPS receiver and they assume the altitude to be 0.
+
+ Good Deals : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+My interest is in land-based portables and remote sensor units. Here are my
+current favorites for remote sensor units (must be hooked up to another device
+to be useful, as they have no screen/keyboard). All have 12-channel receivers:
+
+ DeLorme Tripmate $150* With Delorme Street Atlas USA 4.0
+ Etak Skymap $250 Mapping system with 12-channel PCMCIA GPS, w/remote
+ Garmin GPS-35PC $275 Price should be lower now on this one
+
+* Warning about Rockwell engines:
+One person has done extensive tests of several models at a fixed,
+surveyed location, and has some surprising results. Please visit
+ David Wilson's GPS Page .
+David tested the Eagle Explorer, DeLorme Tripmate, Garmin GPS-12XL,
+GPS-35, and GPS-45, with at least a few more to follow.
+Please examine all available data before making a purchasing
+decision.
+
+ Table of GPS Models (Know of any more?) : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+NOTE: For a LARGE list of available GPS units, check out the January
+issue of GPS World magazine. Over 100 manufacturers listed, and many
+models. I've been told that ANY January issue will do, but of course
+seek out the latest one. I'm deleted my table because it was getting
+way to outdated.
+
+ General GPS Links : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+ Joe and Jack's GPS Information 
+ Peter Bennett's Web Pages . If you haven't visited this site, you don't know much about GPS.
+ Peter Bennett's FTP directory . (Same info as above, different site, ftp instead of www)
+ Info on Garmin Units 
+ Info on embedded GPS units 
+ Other GPS Links 
+ Eagle GPS Info 
+ ImagineGPS.com 
+ GPS Info 
+ Coordinate Systems 
+ Global Positioning System (GPS) Resources 
+ Handheld GPS's in backcountry 
+ Intro to GPS Applications 
+ Tim Hogard's Home page (Garmin Info) 
+ http://playground.sun.com/pub/soley/garmin.txt (Garmin protocol)
+ http://www.ll.mit.edu/index2.html 
+ GPS Scatter Plot 
+ http://www.ngs.noaa.gov/CORS/cors-data.html 
+ NGS Info 
+ http://www.paranoia.com/~filipg 
+ http://www.fys.uio.no/~kjetikj/fjellet/GPS1.html 
+ GISMO Home Page 
+ http://everest.hunter.cuny.edu 
+ GPS World Magazine 
+ GPS World 
+ GeoWeb Interactive 
+ PPatama 
+ SA - The Movie 
+ GPS Info 
+ Military GPS Info 
+ Military GPS Info 
+ Military GPS Info 
+ Satnav 
+ Stanford Autonomous Helicopter 
+ Board Level GPS Receivers 
+ Checking Number of Satellites in View 
+ Checking Number of Satellites in View 
+ Checking Number of Satellites in View 
+ NMEA Decoder, speaks to you 
+
+ GPS Vendors : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+ List of GPS Distributors 
+ Garmin 8-channel group buy at TAPR 
+ Bass Pro, 1-800-BASS-PRO
+ Bass Pro Shops 
+ Boat/U.S., 1-800-937-2628
+ Boater's World, 1-800-826-2628, 206-575-1920?
+ The Boating Center, 716-385-3060
+ Cabellas , 1-800-237-4444, 308-234-5555 (foreign orders)
+ Cansel.ca 
+ CommSystems Intermountain 
+ DCI 
+ Defender Industries, 1-800-628-8225
+ E&B Marine, 1-800-533-5007, 908-819-7400
+ Fred Meyer
+ The Glass Cockpit 
+ GPS Marketplace 
+ Gulf Coast Avionics 
+ Inland Marine, Salem, OR, 1-800-324-1356
+ J. Beadles 
+ James Associates , lwjames@csn.net, 303-530-9014 (Garmin Dealer)
+ K-Mart
+ Magellan Systems Corp. Home Page 
+ MarineNet 
+ Mathew Vangel and Associates (Garmin Dealer)
+ Mercat GPS Dealer 
+ Mud Hole 
+ NavTech 
+ North Coast Resource Management 
+ Northern Lights Avionics 
+ NoVatel 
+ Offshore Angler, 1-800-4-OFFSHORE
+ Premier GPS 
+ TT Designs 
+ Walmart
+ Weak Industries (Book) 
+ West Marine , 1-800-538-0775, 408-728-2700
+ Most any marine/camping/hunting supply catalog or store
+ gps4fun.com 
+
+ GPS Manufacturers : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+ 3S Navigation 
+ Apelco (Raytheon) 
+ Ashtech 
+ Canadian Marconi 
+ Corvallis MicroTechnology 
+ CSI DGPS 
+ Delorme (Made by Rockwell?)
+ Eagle (Lowrance) 
+ Eagle (Lowrance) Italian?
+ Etak 
+ Garmin, 1-800-800-1020, 913-397-8200, 913-397-8282 (Fax), 913-599-2103 (Fax)
+ General Electric/GEC-Plessey 
+ II Morrow
+ Impule (See Uniden)
+ Koden
+ Leica
+ Lowe (Antennas) 
+ Lowrance Electronics 
+ Magellan 
+ Magellan 
+ Matsushita (See Panasonic)
+ Micrologic
+ MLR
+ Motorola 
+ Motorola Government Space and Technology Group 
+ Motorola Oncore GPS Engine 
+ Northstar
+ NovAtel
+ Panasonic 
+ Premier GPS 
+ Raytheon/Apelco 
+ Rockwell 
+ Sercel 
+ Silva
+ Sitex
+ Sony 
+ Stanford Telecom
+ Tigershark
+ Trimble , 1-800-545-7762
+ Uniden/Impulse 
+
+ GPS-Related Software : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+ Peter Bennett's Web Pages . Don't all searches begin here?
+ Peter Bennett's FTP directory . (Same info as above, different site, ftp instead of www)
+ GARtrip Software 
+ GARtrip (English) 
+ GARtrip (German) 
+ GARtrip (English) 
+ GARtrip (German) 
+ G7TO 
+ Windows program for Tripmate 
+ Waypoint+ Software 
+ S/W to extract waypoints from Eagle AccuNav WS-1 file 
+ GPS Up/Download SW 
+ GPS Daemon for Linux 
+ GpsPilot, S/W for USR Pilot 
+ PilotGPS, S/W for USR Pilot 
+ Magellan waypoint up/download sw and DOS GPS SW 
+ Avia SW to maintain aviation databases 
+ MCGPS 
+ PinPoint Systems , and PinPoint Systems (2nd address) 
+ Installing SA4 as helper app under Netscape 
+ Gardown SW 
+ MacGPS Pro SW 
+ Voice I/O for AAA Map 'n' Go and Street Atlas 4.0 
+ AutoGPS (overlays current location onto AutoRoute)
+ PsiGar (Psion to Garmin ul/dl waypoints)
+ MM3A 
+ En Route 
+ JavaScript Distance Calculator 
+ Distance Formulas 
+ Speak your speed 
+ AirNav 
+ GPSdb 
+ Garmin GPS-25/35 control software 
+ HP48 -> Garmin SW 
+ Compucat Fleet Tracking System 
+ Navpak 
+ SkyDiver Program for PalmPilot 
+
+ On-Line Mapping and Waypoint Servers : 
+ Previous Topic .
+ Next Topic .
+ Go to Top .
+
+ Map Databases 
+ Geographic Name Server (Requires telnet)
+ NORAD Two-line Satellite Orbital Elements 
+ TAMU-Commerce GPS Waypoint Server 
+ Interactive US Maps down to street level w/lat-long (Etak Database) 
+ Online Mapping 
+ Interactive US Maps (ETAK Database) 
+ US Gazetteer (Tiger Database) 
+ Tiger Mapping Service 
+ Interactive Maps 
+ Map Quest 
+ Geocode 
+ Geocode 
+ Infoseek Street Maps (Click on "Street Maps")
+ NIMA Geonet Names Server 
+ Terraserver 
+
+ Mapping Software and Complete Systems : 
+ Previous Topic .
+ Go to Top .
+
+ Review of Mapping Software (Telson) 
+ Reviews of Mapping Software (Site in Germany)
+ Reviews of Mapping Software (Peter Bennett's Site)
+ Reviews of Mapping Software 
+ Alpine Mapping System 
+ Alpine Mapping System Also 
+ APRS Info at TAPR 
+ APRS SW at Rutgers 
+ AVL Fleet Mapping Software 
+ Capn SW, supports USGS topo & marine charts 
+ Phillips/Magnavox Carins System 
+ CHART 
+ Delorme AAA MapNGo 
+ Delorme MapExpert 
+ Delorme Street Atlas USA 
+ Delorme 3-D Explorer USA 
+ Dem3d Viewer (USGS) 
+ dKart Navigator 
+ DRG Maps 
+ Earth Visions topo maps 
+ Elgaard Positioning System 
+ Etak Skymap 
+ Fawnbench for Psion 
+ FlexGPS 
+ Fugawi 
+ http://www.GPSGIS.com (GPS-LINK and GPS-MAP software)
+ GPS Glide, S/W for HPx00LX 
+ GPSMap (Newton)
+ GPSMap (Newton)
+ GpsPro 
+ GPSS 
+ Gpsy (Use with SA3 for Mac) 
+ DOS & Palmtop SW 
+ LoranGPS SW 
+ LXGPS HP100/200LX Moving Map SW 
+ Map&Guide (Web page is in German)
+ MapSite Mapping Software 
+ MicroDEM or WinDEM 
+ MicroDEM or WinDEM 
+ Microplot 
+ Microsoft Automap Streets Plus 
+ Microsoft Automap Trip Planner 
+ Microsoft Pocket Automap Streets for Windows CE 
+ Microsoft AutoRoute for Europe 
+ Moving Map Info (appears to be oriented towards pilots) 
+ Nav Master 
+ Newton SW 
+ NobelTec's Visual Navigation Suite 
+ OziExplorer: GPS Software & Tips 
+ Pioneer Navigation System 
+ Precision Mapping 
+ Psi-Mapper , SW for Psion PDA's
+ Rand McNally Street Finder 
+ Retki Metroguide 2.0 
+ SARMAP 
+ TDC for Psion 
+ Teletype GPS Software 
+ Vista 
+ Xmap and gpsd daemon

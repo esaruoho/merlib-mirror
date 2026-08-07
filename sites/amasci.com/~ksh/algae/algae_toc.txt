@@ -1,0 +1,137 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Table of Contents 
+
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ Table of Contents 
+
+ 1. About Algae 
+
+ 2. Primer 
+
+ 3. Example Programs 
+
+ 3.1 Temperature Conversion 
+
+ 3.2 Reading and Summing Numbers 
+
+ 3.3 Integer Powers 
+
+ 4. The Algae Language 
+
+ 4.1 Entities 
+
+ 4.2 Variables 
+
+ 4.2.1 Variable Names 
+
+ 4.2.2 Evaluation of Variables 
+
+ 4.2.3 Scope of Variables 
+
+ 4.2.4 Predefined Variables 
+
+ 4.3 Operators 
+
+ 4.3.1 Function Calls 
+
+ 4.3.2 Element References 
+
+ 4.3.3 Member References 
+
+ 4.3.4 Transpose 
+
+ 4.3.5 Power 
+
+ 4.3.6 Not 
+
+ 4.3.7 Negation 
+
+ 4.3.8 Multiplication 
+
+ 4.3.9 Addition 
+
+ 4.3.10 Relation 
+
+ 4.3.11 And 
+
+ 4.3.12 Or 
+
+ 4.3.13 Short And 
+
+ 4.3.14 Short Or 
+
+ 4.3.15 Generate 
+
+ 4.3.16 Append 
+
+ 4.3.17 Assign 
+
+ 4.4 Expressions 
+
+ 4.5 Statements 
+
+ 4.6 Functions 
+
+ 5. Data 
+
+ 6. The Standard Functions 
+
+ 6.1 Basic Math 
+
+ 6.2 Arrays 
+
+ 6.3 Sets 
+
+ 6.4 Linear Algebra 
+
+ 6.5 Numerical Analysis 
+
+ 6.6 Basic I/O 
+
+ 6.7 Entity I/O 
+
+ 6.8 Execution 
+
+ 6.9 Special Tools 
+
+ 6.10 Miscellaneous 
+
+ 7. Running Algae 
+
+ 7.1 Startup Files 
+
+ 7.2 The Command Line 
+
+ 7.3 Errors 
+
+ 7.4 The algae Prompt 
+
+ 7.5 Signals 
+
+ 8. Projects 
+
+ 9. Bugs 
+
+ 9.1 Reporting Bugs 
+
+ 9.2 Reported Bugs 
+
+ Concept Index 
+
+ Function Index 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

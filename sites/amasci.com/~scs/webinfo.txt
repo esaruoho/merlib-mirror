@@ -1,0 +1,16 @@
+Cryptography Resources and References 
+
+Here's the main
+ technical documentation area 
+at the
+ W3 consortium .
+
+Here is where some
+ technical information 
+used to be available at
+ CERN 
+(where WWW originated).
+
+Here is a little
+ test page 
+illustrating various HTML highlighting styles.

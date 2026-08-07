@@ -1,0 +1,304 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>Crypto++ Library 4.2 - a Free C++ Class Library of Cryptographic Schemes</TITLE>
+<META NAME="description" CONTENT="free C++ library for cryptography: includes ciphers, message authentication codes, one-way hash functions, public-key cryptosystems, key agreement schemes, and deflate compression">
+<META NAME="keywords" CONTENT="Crypto++, CryptoPP, crypto, cryptography, cryptographic, security, 
+free, open source, public domain, library, C++, cipher, ciphers, code, codes, scheme, schemes, 
+hash, digest, cryptosystem, key agreement, AES, DH, RSA, DSA, DES, SHA-1, MD5, HMAC, elliptic curve">
+
+<BODY>
+
+<table border="0" cellpadding="8" cellspacing="0" bgcolor="#ffffcc">
+<tr>
+<td><a href="#news">news</a>
+<td><a href="#platforms">platforms</a>
+<td><a href="#download">download</a>
+<td><a href="http://cryptopp.sourceforge.net/docs/ref/">manual</a>
+<td><a href="http://sourceforge.net/cvs/?group_id=6152">CVS</a>
+<td><a href="http://www.eskimo.com/~weidai/cgi-bin/fom.cgi">FAQ</a>
+<td><a href="#lists">mailing lists</a>
+<td><a href="http://www.mobiuslinks.com/links.asp?sid=1">related links</a>
+</table>
+
+<H1>Crypto++&trade; Library 4.2</H1>
+
+<H2>What is it?</H2>
+<P>Crypto++ Library is a free C++ class library of cryptographic schemes.
+Currently the library consists of the following, some of which are other people's code, repackaged into classes.
+<UL>
+<LI>a class hierarchy with an API defined by abstract base classes
+<LI>Proposed <A HREF="http://csrc.nist.gov/encryption/aes/aes_home.htm">AES</A>
+	(<A HREF="http://www.esat.kuleuven.ac.be/~rijmen/rijndael/">Rijndael</A>)
+	and other AES candidates:
+	<A HREF="http://www.rsa.com/rsalabs/aes">RC6</A>, 
+	<A HREF="http://www.research.ibm.com/security/mars.html">MARS</A>, 
+	<A HREF="http://www.counterpane.com/twofish.html">Twofish</A>, 
+	<A HREF="http://www.cl.cam.ac.uk/~rja14/serpent.html">Serpent</A>,
+	<A HREF="http://www.ietf.org/rfc/rfc2612.txt">CAST-256</A>
+<LI>other <A HREF="algorithms.html#symmetric">symmetric block ciphers</A>: <A HREF="algorithms.html#idea">IDEA</A>, 
+DES, Triple DES (DES-EDE2 and DES-EDE3), DESX (DES-XEX3), RC2, RC5, Blowfish, Diamond2, TEA, 
+<A HREF="algorithms.html#safer">SAFER</A>, 3-WAY, GOST, SHARK, CAST-128, Square, Skipjack
+<LI>generic <A HREF="algorithms.html#modes">cipher modes</A>: CBC padded, CBC ciphertext stealing (CTS), CFB, OFB, counter mode
+<LI>stream ciphers: Panama, ARC4, SEAL, WAKE, Sapphire II, BlumBlumShub
+<LI><A HREF="algorithms.html#assymetric">public key cryptography</A>: <A HREF="algorithms.html#rsa">RSA</A>, 
+	<A HREF="algorithms.html#dss">DSA</A>, <A HREF="algorithms.html#elgamal">ElGamal</A>, Nyberg-Rueppel (NR),
+	BlumGoldwasser, Rabin, Rabin-Williams (RW), <A HREF="algorithms.html#luc">LUC</A>, 
+	LUCELG
+<LI>padding schemes for public-key systems: PKCS#1 v2.0, OAEP, PSSR, IEEE P1363 EMSA2
+<LI>key agreement schemes: <A HREF="algorithms.html#diffie_hellman">Diffie-Hellman</A> (DH), Unified Diffie-Hellman (DH2), Menezes-Qu-Vanstone (MQV), LUCDIF, XTR-DH
+<LI><A HREF="http://www2.certicom.com/ecc/index.htm">elliptic curve cryptography</A>: ECDSA, ECNR, ECIES, ECDHC, ECMQVC
+<LI>one-way hash functions: <A HREF="http://www.nist.gov/sha">SHA-1</A>, MD2, MD4, <A HREF="algorithms.html#md5">MD5</A>, HAVAL, RIPEMD-160, Tiger, SHA-2 (SHA-256, SHA-384, and SHA-512), Panama
+<LI>message authentication codes: MD5-MAC, HMAC, XOR-MAC, CBC-MAC, DMAC
+<LI><A HREF="algorithms.html#hash_cipher">cipher constructions based on hash functions</A>: Luby-Rackoff, MDC
+<LI>pseudo random number generators (PRNG): ANSI X9.17 appendix C, PGP's RandPool
+<LI>Shamir's <A HREF="http://www.rsa.com/rsalabs/faq/html/3-6-12.html">secret sharing scheme</A> and Rabin's information dispersal algorithm (IDA)
+<LI>DEFLATE (RFC 1951) <A HREF="http://www.cis.ohio-state.edu/hypertext/faq/usenet/compression-faq/part2/faq-doc-1.html">compression/decompression</A> with gzip (RFC 1952) and zlib (RFC 1950) format support
+<LI>fast multi-precision integer (bignum) and polynomial operations
+<LI>finite field arithmetics, including GF(p) and GF(2^n)
+<LI><A HREF="http://www.utm.edu/research/primes/prove/">prime number</A> generation and verification
+<LI>various miscellaneous modules such as base 64 coding and 32-bit CRC
+<LI>class wrappers for these operating system features (optional):
+	<UL>
+	<LI>high resolution timers on Windows, Unix, and MacOS
+	<LI>Berkeley and Windows style sockets
+	<LI>Windows named pipes
+	<LI>/dev/random and /dev/urandom on Linux and FreeBSD
+	<LI>Microsoft's CryptGenRandom on Windows
+	</UL>
+<LI>A high level interface for most of the above, using a <A HREF="http://cryptopp.sourceforge.net/cgi-bin/fom?file=29">filter/pipeline</A> metaphor
+<LI><A HREF="benchmarks.html">benchmarks</A> and validation testing
+</UL>
+
+<P>One purpose of Crypto++ is to act as a repository of public domain (not copyrighted)
+source code. Although the library is copyrighted as a compilation, the individual files
+in it (except for a few exceptions listed in the <A HREF="LICENSE.txt">license</A>) are
+in the public domain.
+
+<H2><A NAME="news">What's new?</A></H2>
+<UL>
+<LI>8/26/2002 - Added porting note for Sun WorkShop 6 with Forte C++
+<LI>2/19/2002 - Added note that no modification is needed to compile Crypto++ 4.2 with MSVC .NET.
+<LI>11/5/2001 - Version 4.2 released.
+	<UL>
+	<LI>added HMAC support for longer keys
+    <LI>added MD4 (which is not secure so use for compatibility purposes only)
+    <LI>added compatibility fixes/workarounds for STLport 4.5, GCC 3.0.2, and MSVC 7.0
+    <LI>changed MD2 to use public domain code
+    <LI>fixed a bug with decompressing multiple messages with the same object
+    <LI>fixed a bug in CBC-MAC with MACing multiple messages with the same object
+    <LI>fixed a bug in RC5 and RC6 with zero-length keys
+    <LI>fixed a bug in Adler32 where incorrect checksum may be generated
+	</UL>
+<LI>7/1/2001 - Added a list of <a href="http://www.mobiuslinks.com/links.asp?sid=102">recommended books</a> for Crypto++ users.
+<LI>6/2/2001 - Daniel LEON's <A HREF="http://www.chez.com/psylon/cppbuilder/cryptopp/ReadMepatch41.htm">patch for Borland C++Builder 5</A> has been updated to work around more problems.
+<LI>5/25/2001 - Added links to denis bider's <A HREF="http://www.bitvise.com/users-guide.html">Crypto++ User Guide</A>
+	and Daniel LEON's <A HREF="http://www.chez.com/psylon/cppbuilder/cryptopp/ReadMepatch41.htm">patch for compiling with Borland C++Builder 5</A>.
+<LI>4/14/2001 - Posted <A HREF="crypto++.v41.mcp.zip">project file</A> for CodeWarrior 6.1.
+</UL>
+
+<H2><A NAME="platforms">Platforms</A></H2>
+<P>Crypto++ was designed to be easily portable to a large variety of platforms.
+Unfortunately most compilers do not have a complete implementation of the C++ standard yet, and
+only the latest version of Crypto++ incorporates all of the workarounds needed
+to compile on most popular compilers. These porting notes will help you compile earlier
+versions of Crypto++.
+
+<TABLE border cellspacing=0>
+<THEAD>
+<TR><TH>Compiler		<TH>OS
+	<TH>To Compile Crypto++ 3.2
+	<TH>To Compile Crypto++ 4.1
+	<TH>To Compile Crypto++ 4.2
+<TBODY align="center">
+
+<TR><TD>MSVC 6.0 SP5	<TD>WIN32	
+	<TD>no changes needed
+	<TD>no changes needed
+	<TD>no changes needed
+
+<TR><TD>MSVC .NET	<TD>WIN32
+	<TD>not recommended
+	<TD>not recommended
+	<TD>no changes needed
+
+<TR><TD>Borland C++Builder 5	<TD>WIN32
+	<TD><A HREF="borland5.txt">see note</A>
+	<TD><A HREF="http://www.chez.com/psylon/cppbuilder/cryptopp/ReadMepatch41.htm">patch available</A> by Daniel LEON (<A HREF="borland5-patch41b.zip">local mirror</A>)
+	<TD>no patch available yet
+
+<TR><TD rowspan=2>GCC 2.95.2<TD>UNIX/WIN32/BeOS
+	<TD>no changes needed
+	<TD>no changes needed
+	<TD>no changes needed
+
+<TR>					<TD>MSDOS<BR>(DJGPP 2.03)	
+	<TD>replace <A HREF="djgpp-Makefile">Makefile</A>
+	<TD>no changes needed
+	<TD>no changes needed
+
+<TR><TD>GCC 3.0.2<TD>UNIX/WIN32/BeOS
+	<TD>not recommended
+	<TD>not recommended
+	<TD>no changes needed
+
+<TR><TD rowspan=2>CodeWarrior Pro 5.3<TD>MacOS
+	<TD rowspan=2>no changes needed<BR>project file by Ranko Orlic: <A HREF="crypto++.v32.mcp.sit">stuffed</A>, <A HREF="crypto++.v32.mcp.zip">zipped</A>
+	<TD rowspan=2>no changes needed
+	<TD rowspan=2>unknown
+<TR>					<TD>WIN32
+
+<TR><TD rowspan=2>CodeWarrior Pro 6.1<TD>MacOS
+	<TD><A HREF="cw6-crypto++.mcp.sit">project file</A> and <a href="codewarrior6.txt">porting notes</a> by Jeff Watkins
+	<TD rowspan=2>no changes needed<BR><A HREF="crypto++.v41.mcp.zip">project file</A> now available<BR>(based on Ranko Orlic's contribution)
+	<TD rowspan=2>no changes needed, use 4.1 project file
+<TR>					<TD>WIN32			
+	<TD>not recommended
+
+<TR><TD rowspan=2>Sun WorkShop 6, Forte C++<TD>Solaris
+	<TD>not recommended
+	<TD>not recommended
+	<TD><a href="forte6.txt">note</a> and <a href="forte6-diff.txt">diff</a> by David Lamkin
+
+</TABLE>
+
+<H2><A NAME="download">Download</A></H2>
+<TABLE frame="border" rules="groups" cellspacing=0 cellpadding=4>
+<COLGROUP align="center">
+<COLGROUP align="center">
+<COLGROUP align="center">
+<COLGROUP align="center">
+<THEAD>
+<TR><TH>US Original
+	<TH><A HREF="http://download.sourceforge.net/cryptopp">US Mirror</A>
+	<TH><A HREF="http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib">Austrian Mirror</A>
+	<TH><A HREF="http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib">Australian Mirror</A>
+<TBODY>
+<TR><TD><A HREF="http://www.eskimo.com/~weidai/crypto32.zip">Crypto++ 3.2</A>
+	<TD><A HREF="http://download.sourceforge.net/cryptopp/crypto32.zip">Crypto++ 3.2</A>
+	<TD><A HREF="http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto32.zip">Crypto++ 3.2</A>
+	<TD><A HREF="http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto32.zip">Crypto++ 3.2</A>
+<TR><TD><A HREF="http://www.eskimo.com/~weidai/crypto41.zip">Crypto++ 4.1</A>
+	<TD><A HREF="http://download.sourceforge.net/cryptopp/crypto41.zip">Crypto++ 4.1</A>
+	<TD><A HREF="http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto41.zip">Crypto++ 4.1</A>
+	<TD><A HREF="http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto41.zip">Crypto++ 4.1</A>
+<TR><TD><A HREF="http://www.eskimo.com/~weidai/crypto42.zip">Crypto++ 4.2</A>
+	<TD><A HREF="http://download.sourceforge.net/cryptopp/crypto42.zip">Crypto++ 4.2</A>
+	<TD><A HREF="http://gd.tuwien.ac.at/privacy/crypto/libs/cryptlib/crypto42.zip">Crypto++ 4.2</A>
+	<TD><A HREF="http://www.mirrors.wiretapped.net/security/cryptography/libraries/cryptolib/crypto42.zip">Crypto++ 4.2</A>
+</TABLE>
+<P>Please remember to use the "-a" (auto-convert text files) option when unzipping on a Unix machine.
+The zip files should have the following hashes:
+<P>
+<B>crypto32.zip:</B>
+<PRE>
+MD5: 4691A506C991C366DA4392E97385EABF
+SHA-1: AE810841F0F2ECC5332A5DBA0C2C078EFBB9EE42
+RIPEMD-160: 28245D6CC799213336BA0572A9D0E6AF4490C73C
+SHA-256: BF62FA23AFEF737466F5F8746E59D17DF28CDF223051EA4A9B0BE86F25FF65AA
+</PRE>
+<P>
+<B>crypto41.zip:</B>
+<PRE>
+MD5: AAAA77CF49A8517D815862219FEB4DCD
+SHA-1: F4860802824A86F5A737621FD2C9473776859CCE
+RIPEMD-160: 2F3A51B1ED1A90E2B740782046F40D2EA17306AD
+SHA-256: 72290C6E081494296E4AECE990EF5210ED718E82EE142317CB186B69F35ACC96
+</PRE>
+<B>crypto42.zip:</B>
+<PRE>
+MD5: C1700E6E15F3189801E7EA47EEE83078
+SHA-1: 505EC40485519971A07DF6708B7DED3E5D3D08C4
+RIPEMD-160: 5D4CC8E5987B2416CF7D71AA6276AFAC61702E55
+SHA-256: CDF8A1EBB142759E928A323F47F228F4F93CEB2FE97C19DC59D6868989E0D76E
+</PRE>
+
+<H2>While You Are Downloading</H2>
+<UL>
+<LI>Take a look at the <a href="http://www.mobiuslinks.com/links.asp?sid=1">related links</a> page.
+It includes links to crypto libraries for other languages, products that use Crypto++, etc.
+<LI>Consider the list of <a href="http://www.mobiuslinks.com/links.asp?sid=102">recommended books</a> for Crypto++ users.
+<LI>Examine the <A HREF="LICENSE.txt">Crypto++ license agreement</A>.
+<LI>Read denis bider's <A HREF="http://www.bitvise.com/users-guide.html">Crypto++ User Guide</A>
+<LI>Browse the <A HREF="http://cryptopp.sourceforge.net/docs/ref/">Crypto++ Reference Manual</A> (<A HREF="http://trolocsis.com/crypto++">mirrored here</A>).
+<LI><A NAME="charts"></A>View these Crypto++ class hierarchy charts to see how Crypto++ is organized. Note
+that these charts only include a small number of actual algorithms as examples.
+<UL>
+<LI><A HREF="filters.gif">symmetric algorithms and hash functions</A>
+<LI><A HREF="pubkey.gif">public key algorithms</A>
+</UL>
+</UL>
+
+<H2><A NAME="lists">Mailing Lists</A></H2>
+<P>There are two mailing lists for Crypto++.
+<UL>
+<LI>cryptopp-announce@lists.sourceforge.net - <a href="http://lists.sourceforge.net/mailman/listinfo/cryptopp-announce">Crypto++ announcements</a>
+<LI>cryptopp-list@eskimo.com - user questions and general discussion related to Crypto++, archived at 
+<A HREF="http://www.escribe.com/software/crypto">http://www.escribe.com/software/crypto</A>. 
+Send an email to <A HREF="mailto:cryptopp-list-request@eskimo.com?subject=subscribe">cryptopp-list-request@eskimo.com</A>
+with the subject "subscribe" to subscribe.
+</UL>
+
+<H2>To Contribute</H2>
+<P>The Crypto++ source code and FAQ are hosted on
+<A href="http://sourceforge.net/projects/cryptopp/"> 
+<IMG src="http://sourceforge.net/sflogo.php?group_id=6152&type=1" width="88" height="31" border="0" alt="SourceForge Logo"></A>.
+<UL>
+<LI>The <a href="http://sourceforge.net/cvs/?group_id=6152">SourceForge CVS Repository</a>
+allows you to view the latest (unreleased) Crypto++
+source code and to contribute bug fixes or new features. 
+<LI>The 
+<a href="http://www.eskimo.com/~weidai/cgi-bin/fom.cgi">Crypto++ Faq-O-Matic</a>
+allows you to view frequently asked questions and to contribute new questions or answers.
+</UL>
+
+<H2><A NAME="paid">Paid Support and Consulting</A></H2>
+<P>If you are interested in paid support for Crypto++ or consulting on a Crypto++
+related project, please take a look at this <A HREF="http://cryptopp.sourceforge.net/cgi-bin/fom?file=39">
+list of companies and individuals providing such services</A>.
+This listing is a free service for the Crypto++
+community, and anyone may sign up to be listed by following the above link.
+
+<HR>
+
+<!-- Start of TheCounter.com Code -->
+<SCRIPT TYPE="text/javascript" LANGUAGE="javascript">
+s="na";c="na";j="na";f=""+escape(document.referrer)
+</SCRIPT>
+<SCRIPT TYPE="text/javascript" LANGUAGE="javascript1.2">
+s=screen.width;v=navigator.appName
+if (v != "Netscape") {c=screen.colorDepth}
+else {c=screen.pixelDepth}
+j=navigator.javaEnabled()
+</SCRIPT>
+<SCRIPT TYPE="text/javascript" LANGUAGE="javascript">
+function pr(n) {document.write(n,"\n");}
+NS2Ch=0
+if (navigator.appName == "Netscape" &&
+navigator.appVersion.charAt(0) == "2") {NS2Ch=1}
+if (NS2Ch == 0) {
+r="&size="+s+"&colors="+c+"&referer="+f+"&java="+j+""
+pr("<A HREF=\"http://www.TheCounter.com\" TARGET=\"_top\"><IMG"+
+" BORDER=0 SRC=\"http://c3.thecounter.com/id=2040115"+r+"\"><\/A>")}
+</SCRIPT>
+<NOSCRIPT><A HREF="http://www.TheCounter.com" TARGET="_top"><IMG
+SRC="http://c3.thecounter.com/id=2040115" ALT="TC" BORDER=0></A>
+</NOSCRIPT>
+<!-- End of TheCounter.com Code -->
+
+<SCRIPT TYPE="text/javascript">
+<!--
+document.write("<img src=\"cgi-bin/vivicount.cgi?user=cryptopp&referer=");
+document.write(escape(top.document.referrer));
+document.write("\">");
+// -->
+</SCRIPT>
+
+hits since 3/20/2000.
+
+<!--
+<img border="0" src="http://fastcounter.bcentral.com/fastcounter?1814328+3628663"> hits since 3/20/2000.
+// -->
+<ADDRESS>Written by: <A HREF="http://www.eskimo.com/~weidai/index.html">Wei Dai</A> &lt;<A HREF="mailto:weidai@eskimo.com">weidai@eskimo.com</A>&gt; Last modified: 8/26/2002</ADDRESS>
+</HTML>

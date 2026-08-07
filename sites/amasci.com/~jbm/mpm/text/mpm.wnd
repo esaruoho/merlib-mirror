@@ -1,0 +1,59 @@
+#
+# Wind profile input file for MPM.
+#
+# Wind is defined as a vector velocity at a position.  Each 
+# position is given in <x,y,z> coordinates where +y is due 
+# North, +x is due East and +z is vertical.  The origin for
+# the coordinates is at the shooter's position.  (This may 
+# change in later version, but for now, this will give us 
+# the ability to view complicated winds.)  This means that
+# a change in shooting direction may alter the wind even
+# though the wind profile has not changed!
+#
+# To specify a wind profile to be used with a trajectory 
+# calculation, insert the name of the wind profile file into
+# the options file or on the commandline with the "-w" option.
+#
+# Lines beginning with a "#" are comments.  Similarly,
+# from a "#" to the end of a line is a comment.
+#
+
+# UNITS
+#
+# This section establishes the units for the grid coordinates
+# and the wind velocity.  Grid units define the position along
+# the x,y,z axes defined above (e.g. if grid_units = 0, the 
+# coordinates have units of yards).  Similarly wind_units define
+# the units used for the wind velocity.  Both of these are 
+# independent of the units used in trajectory calculation.
+#
+wind_units           = 0  # (0-3, 0 = mph, 1 = f/s, 2 = km/h, 3 = m/s)
+grid_units           = 0  # (0-2, 0 = yards, 1 = feet, 2 = meters)
+
+# INTERPOLATION
+#
+# Because wind speed can not be specified at every possible point,
+# the wind speed will be interpolated at required positions.  Currently
+# the only method used is the inverse-distance with a user selectable
+# exponent -- if you're not sure what to use for the exponent, leave it
+# at 2.  When interpolating with the inverse-distance method, the points
+# are sorted and a weighted sample of the N nearest neighbors is used.
+# N is adjusted by setting "interp_neighbors".  If it is zero, all data
+# points are used.
+#
+#
+interp_exponent      = 2  # exponent to use in interpolation method
+interp_neighbors     = 0  # number of neighbors to use (0 = all)
+
+# DATA
+#
+# Position - Velocity vector pairs.  Each vector must be of the form
+# "<x, y, z>" (without the quotes).  Each line of data must have a 
+# vector position and vector velocity of the form:
+#              <xp, yp, zp> = <xv, yv, zv>
+# In other words "position = velocity".  For a constant wind field,
+# just put in one data point.
+#
+<0, 0, 0>     = <0, 0, 0>
+<0, 500, 0>   = <10, 0, 0>
+<0, 1000, 0>  = <0, 0, 0>

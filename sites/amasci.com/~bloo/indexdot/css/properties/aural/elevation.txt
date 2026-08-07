@@ -1,0 +1,104 @@
+Elevation - Cascading Style Sheets Properties 
+
+ elevation 
+ Support Key: CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ level 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ In an optimal listening environment, the soundstage is considered
+ to be parallel to the floor, with origin point at the listeners head.
+ This property specifies the vertical angle off of the soundstage plane
+ giving up/down angle references as a location for a referenced element.
+ Zero degree references are forward on the soundstage plane, with positive
+ angular values being upward, and negative values being downward. This
+ property only describes the desired end-user effect and does not specify
+ how it is produced.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ below|level|above 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ below: Same as '-90deg' 
+ level: Same as '0deg' 
+ above: Same as '90deg' 
+
+ lower|higher 
+ CSS2 
+ Type: Calculated 
+ Description: 
+ lower: Subtracts 10 degrees from the current absolute or inherited elevation. 
+ higher: Adds 10 degrees to the current absolute or inherited elevation. 
+
+ [angle] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Specifies an angle, between '-90deg' and '90deg'. '0deg' references
+ straight ahead/forward on the soundstage plane (level with the listener.)
+ '90deg' is directly overhead while '-90deg' is directly below. 
+
+ Example 
+ Ext/Doc: p.high {
+ elevation: 45deg } 
+ In-Line:&#160; < p 
+ STYLE =" elevation: 
+ 45deg">up here!</ p > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

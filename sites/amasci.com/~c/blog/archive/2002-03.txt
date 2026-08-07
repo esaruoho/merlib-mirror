@@ -1,0 +1,666 @@
+C.M. Connelly: Blog: Archive for March, 2002 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for March, 2002 
+
+ March 1, 2002 (Fri) 
+
+ They've been grating trees out front. Yesterday they were butchering
+trees near the entrance to our apartment complex; today they've moved
+to the core. They had a huge pile of what looked like perfectly
+healthy tree limbs piled up in the middle of the parking lot (another
+reason to park in the garage!), and, after having lunch, they fed them
+one by one into one of those Fargo -style
+chippers. 
+
+ I'm not sure what the deal is here. I think, maybe, charitably, that
+the idea is to force some trees that would otherwise grow into a kind
+of fan-shape to grow more upright. But we can now see all the across
+one of the pools to another set of apartments we couldn't see before,
+so I'm not convinced it's a worthwhile pursuit. 
+
+ There are two interesting articles in this month's issue of The Atlantic Monthly (so far). 
+
+ &#8220;1491&#8221; (Charles C. Mann) isn't available online (for free), but talks about the
+archaeological evidence that North America may have once had a larger
+population than Europe&#8212;before Europeans arrived and brought new
+diseases that devastated the population, killing up to 95% (according
+to the most radical claims). There's also a fair amount of evidence
+that much of both North and South America's landscapes aren't natural
+at all, but were extensively tailored by the people living here for
+thousands of years. 
+ &#8220;The
+Apocalypse of Adolescence&#8221; (Ron Powers) talks about the
+increasing number of &#8220;ordinary&#8221; teenagers jumping on the
+ultraviolence bandwagon. It's kind of interesting, because elements
+of my own childhood and teenage years predisposed me to see the point
+of pointless violence, but my distaste for peer pressure (and the
+relative affluence of the school district where I grew up, no doubt)
+went a long way toward preventing me from taking the easy path.
+Still, anyone who can't at least imagine why someone would kill a
+teacher or make bombs to plant in a school was almost certainly a
+cheerleader or jock, &#8220;on top&#8221; (in their minds and those of the
+school administrators), and meting out most of the pain. 
+
+ March 2, 2002 (Sat) 
+
+ Much rushing about as M finished off the midterm for her class. Then
+we walked over to campus, photocopied and assembled the exams, put
+them outside her office, and checked the library for Jeff Zeldman's
+book, which is in limbo. We found Robin Williams Web Design
+Workshop on the shelf where Zeldman's book was supposed to be,
+though, and borrowed it on general principle. 
+
+ Then we walked down to Claremont. As it was about 5:00 PM, most
+everything was closing up, with the exception of a few restaurants.
+After some back and forth, we decided to have dinner at Walter's, and
+had some excellent Afghani food. Then home. 
+
+ While I was proofing the exam, my mom called, and while I was talking
+to my mom, a postman brought the Aspherilux torches I'd ordered from
+the UK. They're pretty neat&#8212;bright white light that projects in an
+almost perfect circle (thanks to the aspherical lens). As long-time
+readers will know, Kate Telman (from Iain Banks's The
+Business ) has one of these on her bedside table at all times. 
+
+ Also in today's mail: BAD II's The Globe (1991) and Big
+Audio Dynamite's This Is Big Audio Dynamite (1986). 
+
+ March 3, 2002 (Sun) 
+
+ A brief argument about the state of our apartment led to a trip to
+Lowe's and the purchase of a peg rack, a drill, and a set of drill
+bits. 
+
+ My attempt to fix the IE problems appears to have made them worse.
+I've started to redo the design from scratch, and I hope I'll be able
+to balance things out a bit better. Expect an upload soon. 
+
+ March 4, 2002 (Mon) 
+
+ There are still some oddities with IE, but overall things should have
+improved considerably. So long as I'm producing standards-compliant
+HTML and CSS code, I'm not sure I really want to bother hacking around
+trying to get one particular browser to work the way it should. 
+
+ One weird thing I did have to add: for some reason, the top header in
+the sidebar would extend the white stripe across the page if the
+ <h2></h2> tags were at the top of the
+ <div> . If I stuck another tag between, the banner
+renders properly. 
+
+ I have to go vote tomorrow, so spent some time going through the
+sample ballot and voter-information booklet I received in the mail.
+There seem to be lots of pretty scary candidates&#8212;and that's on the
+Democratic Party ballot! I could easily cross off anyone who bragged
+about being in the CIA, or lead a push to create a huge DNA databank,
+or did other non-privacy/freedom-respecting activities, but that still
+left quite a few. I tried searching for LGBT group
+endorsements, but there doesn't seem to be much in the way of
+political activity here in Deep Southern California. (Apparently
+keeping one's head down out of the line of fire is the preferred
+survival strategy.) I was able to get some clues about some
+candidates from a Bay-Area group (the Alice B. Toklas Lesbian and Gay
+Democratic Club , if you wanted to check for yourself), but I'm
+just punting on all the judges and such, because I can't see any point
+in voting for people I can't find anything out about. (And, big
+surprise, most of these people couldn't be bothered to share any
+information with the LWV 's Smart Voter project.) 
+
+ So tomorrow I'll wander off in search of someone's garage, where I
+will sign a book, get a ballot, and proceed to vote with a machine
+that's almost identical to the Vote-O-Matics that helped screw up the
+2002 Presidential Election in Palm Beach County. Don't ever let
+anyone tell you California is sophisticated, 'cause it ain't. (Mostly
+they're just dirt cheap, because the LA area has the votes and the
+decided rightwing tilt to scupper almost any progressive plan,
+especially anything that might cost them money.) 
+
+ But, hey, I'm not bitter, even though people in the part of New York I
+grew up in vote using proper voting machines where you close a curtain
+and flip levers to vote, even in the most local of local elections. 
+
+ March 5, 2002 (Tue) 
+
+ After spending an hour or so mending a couple of shirts and my
+favorite garment of all time (a one-off Mishi jacket), I got myself
+sorted and went out to vote. Yup, same Vote-O-Matic machines as in
+Florida. And I was impressed with the way the card had to be pushed
+in against its own springiness&#8212;presumably designed that way to make
+it easy to remove, but disconcerting. 
+
+ The people running the poll station pegged me as a Green, but of
+course I'm registered as a Democrat. I have this feeling I'll be
+voting Green in November, though. 
+
+ March 6, 2002 (Wed) 
+
+ Started back at work on the teTeX documentation stuff. I've pulled
+the problem entries out of my main database and into a little database
+of their own, cleaned them up a bit, and started to gather some
+additional information I need to figure out who to contact about
+clarifying their licensing. What fun. 
+
+ March 7, 2002 (Thu) 
+
+ On the other hand, Bill Simon, who seems like a fairly evil guy, has
+been chosen as the Republican gubernatorial candidate. That, of
+course, means that when the time comes, depending on the numbers, I
+may well feel compelled to vote for Gray Davis in order to at least
+attempt to keep someone who is anti-abortion, anti-gay-rights,
+anti-immigration, and anti-a-bunch-of-other-things out of office. 
+
+ Wouldn't it be great to live somewhere where you could vote
+ for someone instead of against the scariest choice? I
+suppose that if you're a wealthy, straight, white man, of course, you
+already do. 
+
+ Waking up to NPR is once again looking like a bad idea. 
+
+ March 8, 2002 (Fri) 
+
+ David
+Cronin dismisses dance music in the European Cultural
+Digest . 
+
+ Sadly, it's pretty much the standard rant by someone who has seen the
+world pass them by and doesn't like it. (I've said much the same on
+many occasions.) Sure, a lot of dance music sucks. A lot of
+rock'n'roll sucked, too, and most &#8220;punk&#8221; music sucked, as well.
+(And all disco, of course. ;-) ) Such is life. 
+
+ When I saw Better
+Living Through Circuitry (warning: Flash), I was a bit
+surprised by just how boring the audience was, but I tend to think
+that most people are pretty dull, so it wasn't a devastating
+revelation. There definitely seems to be a lot of &#8220;let's dress up in
+cutesy clothes, take drugs, and pretend we love everyone&#8221; going on.
+On the other hand, I always thought that the whole business of
+dressing up in torn-up clothes covered with band names and pretending
+to be scary was pretty sad, too. 
+
+ Punk qua punk had a pretty short life and a tiny audience.
+It's not unlikely that punk wouldn't have registered at all on most
+people's lives if it hadn't been so outrageous at a time when most
+people were so very conformist. (The famous Sex Pistols interview on
+ Today is laughably tame compared with pretty much any
+episode of any modern sleazy talk show.) 
+
+ The punk bands that have survived best, it seems to me, are the ones
+that evolved to incorporate other musical threads into their own work.
+Groups such as The Clash and Siouxsie and the Banshees (to name two I
+liked then and still enjoy) changed their sound completely, but still
+had a razor's edge hiding just beneath their smoother, more complex
+musical surface. 
+
+ Other groups that were inspired by punk changed, too, often for the
+better. Cabaret Voltaire, starting as experimental noise, with
+grating guitars, tape loops, and distortion, incorporated funk and
+synthesizer sounds into their music, evolving into what Cronin would
+probably dismiss as a dance band. 
+
+ Throbbing Gristle broke into Chris + Cosey (scintillating pop with a
+dark underbelly), Psychic TV (pagan ritual dance music, then more and
+more electronic, creating &#8220;acid house&#8221;), Coil (complex music with
+pagan overtones, moving into dancier stuff), and so forth. 
+
+ If dance music is mindless&#8212;and most of it is&#8212;at least it's less
+annoying than most of the &#8220;new&#8221; crap that gets played on the radio,
+MTV, and other outlets, much of which is totally derivative. I've
+heard &#8220;new&#8221; music lately that sounds like it could have been
+recorded in the sixties or seventies by some second-rate band. 
+
+ On the other hand, there are plenty of groups (e.g., the Chemical
+Brothers, Underworld, Single Gun Theory, the Grassy Knoll) that are
+making music that I find interesting, creative, and, goddess forbid,
+ fun &#8212;music that builds on, rather than just copies, music
+done by older bands&#8212;even if it doesn't necessarily have a political
+or social axe to grind.
+
+ Via the
+null device . 
+
+ While I'm bashing Cronin, what's with his glorification of copyright?
+While &#8220;Good artists borrow, great artists steal&#8221; can be taken too
+far, it's foolish to pretend that newer culture doesn't build on the
+old. The Sex Pistols used guitars and drums instead of inventing
+their own instruments and covered Frank Sinatra tunes. Cabaret
+Voltaire sampled freely from films and television. Throbbing Gristle
+borrowed from ritual music. The Clash stole reggae songs and sounds. 
+
+ Andrew gets the Negativland reference wrong&#8212; The Letter U and the Numeral 2 was the original version
+of a booklet describing Negativland's battle with Island Records,
+Casey Kasem, and their own label at the time, SST Records, over their
+parody EP U2 . Island Records claimed that naive U2 fans
+were buying it in the belief that it was a new U2 album, and demanded
+that it be recalled and destroyed. In the end, SST complied, even
+though U2 themselves seemed to acknowledge the legitimacy of the EP.
+(Casey Kasem proved to be the sticking point&#8212;he was angry about the
+ outtakes from his American
+Top 40 radio show that were used in the track.) 
+
+ The Letter U and the Numeral 2 included a CD, &#8220;Crosley
+Bendix Discusses the U.S. Copyright Act&#8221;. There's a transcript on
+Negativland's site. I think the essay sums up the issues pretty well. 
+
+ The Electronica Primer 
+has a good overview of &#8220;electronica&#8221;&#8212;what it is, where it comes
+from, who makes it&#8212;that supports both my and Andrew's
+interpretations of the term. (In that it includes some bands I
+wouldn't have (e.g., New Order, although I'd agree some of their stuff
+counts), but still emphasizes the danceability of the music.) 
+
+ I apparently failed to bash Moby a bit over his new show on MTV, Se&ntilde;or Moby's
+House of Music . We stumbled on this gem late one
+weeknight, and were irresistibly drawn to it. Could Moby be lamer
+than his live performance on Sessions at West 54th ? He
+could. 
+
+ I still like many of Moby's songs&#8212;they're not stunningly innovative
+(Little Axe pretty well did the definitive electronica meets the blues
+thing, if you ask me), but they hum well, and they're nice background
+music for working or driving. But he really should stick to the
+studio, as his attempts to make laid back songs exciting in live
+performance are just sad. Give me Underworld any day. 
+
+ One more music note&#8212;recording 120 Minutes and then
+fast-forwarding through it on the off-chance that something halfway
+decent might have been played continues to be the best way to watch
+the show, nearly ten years after it started. It's much easier with a
+Tivo, though. 
+
+ March 9, 2002 (Sat) 
+
+ An interview
+with Karl Berry on GNU-Friends .
+
+ Via Linux Today . 
+
+ March 11, 2002 (Mon) 
+
+ There are men with chainsaws climbing ladders outside my windows.... 
+
+ (Yes, they're killing trees again.) 
+
+ Derrick Story on &#8220;The
+Changing Mac Community&#8221; . 
+
+ Mike Kuniavsky: &#8220;It's
+the User, Stupid&#8221; . Good stuff to take to heart. Cameron says he's working on an O'Reilly book, too. 
+
+ March 13, 2002 (Wed) 
+
+ Andrew points to a page about the London Underground , replete with facts and colourful details. 
+
+ We spent several days tramping around in the Underground (over
+Christmas), as well as nearly a whole day in the London Transport
+Museum, and they were both wonderful. Trains rock. 
+
+ In entertainment news, the
+Winona thing continues to be utterly bizarre. 
+
+ March 14, 2002 (Thu) 
+
+ I've cleaned up and updated a number of peripheral files, including my
+ .plan and my Wishlist . I've also added
+some links on the blog's sidebar. 
+
+ It may well be that Debian won't be able to
+distribute LaTeX much longer. It's becoming increasingly
+clear that the LPPL is non- DFSG -free, which
+means that we can't include files licensed with it in
+ main . 
+
+ Ideally, we could persuade whoever it is that's in charge over there
+to change the license to make it DFSG-free, but given the long history
+of closed development, I'm not sure we'll be able to make that fly. 
+
+ In the meantime, I'm working on e-mail messages to be sent to the
+authors of documents (and packages) that I've found in our teTeX
+packages that aren't even being distributed under the LPPL, many of
+which actually have no copyright or distribution information in them
+at all. With luck I'll be able to get in touch with these authors and
+persuade them to license their materials under a genuinely free
+license, such as the GPL (for code) or the OPL or FDL (for documentation). 
+
+ All the acronyms in the last entry inspired me to modify my
+ gr component so that it automatically insert
+ <abbr> tags if I've defined an explanation in the
+glossary. 
+
+ Wow, crazy. Steve
+Mann , Canadian cyborg and University of Toronto computing science
+professor, is roughed
+up by airport security (Warning: NYT ).
+
+ Via Slashdot 
+
+ March 15, 2002 (Fri) 
+
+ The Mighty Tackhead covers
+Tackhead (duh!) and On-U
+Sound news. Among other good news, Little Axe's third album,
+ Hard Grind , is coming out in June on Fat Possum . There's even a link
+to an MP3 of one track. Great stuff&#8212;blues & dub. Mmm. 
+
+ More cool music&#8212; Emigre , makers
+of some great fonts, also have a magazine featuring articles about and
+examples of graphic design. Some issues include CDs, including the
+latest, which features a CD by The
+Grassy Knoll . I first heard snippets of The Grassy Knoll's work
+back in '97, when I was between jobs, homes, and (almost) friends,
+housesitting and surfing the web to stay sane in a place without a
+television and with 95% of my possessions locked away in storage, 50
+miles away. 
+
+ Oh, yes, and the teTeX mess made it into the latest issue of Debian Weekly
+News . 
+
+ University of Northern Colorado's Native American intramural
+basketball team strikes
+back against the &#8220;Fightin' Reds&#8221; mascot of a neighboring (white)
+high school with the &#8220;Fightin' Whities&#8221; . Also, Google ;
+ T-shirt images 
+(possibly a ripoff).
+
+ Via Red Rock Eater mailing list . 
+
+ March 18, 2002 (Mon) 
+
+ Cleaning frenzy! 
+
+ M swept up the pile of leaves that's been rotting on our balcony for
+the last few months, while I vacuumed everything&#8212;shelves,
+appliances, books, CDs, tapes, computers&#8212;even the floor! 
+
+ And we finally hung up some posters and photographs, as well as our
+full-length mirror! Yeah! Only nine months after moving in!
+Woo-hoo! 
+
+ March 19, 2002 (Tue) 
+
+ Damn!
+Missed again... Oh, well, turns out it would only have
+obliterated a city the size of Atlanta, not spun the Earth into the
+Sun. Better luck next time. 
+
+ It's spring break at Mudd, which means that M and I could go off and
+do some exciting vacation thing, only we're not. We seriously
+considered going to San Simeon to see Heart Castle, but in the end,
+it's just a big house that costs a hell of a lot to tour, and not
+really worth 8&#8211;12 hours of driving all by itself. 
+
+ Instead, I think we're going to try to get excited about some of the
+museums and other sights in the L.A. area, and maybe actually make it
+to some of them. 
+
+ Perl Advanced Techniques
+Handbook (Mark-Jason Dominus)&#8212;&#8220;functional programming
+techniques in Perl ... functions that can modify and manufacture other
+functions.&#8221; Fun for the whole family! 
+
+ Via a Randal Schwartz column , via
+ Jon
+Udell's blog . 
+
+ Hey, why not boycott
+Slashdot ? Apparently Rob Malda said that half of all Slashdot
+readers don't read comments (which I can well believe), so rho thinks that users should show
+him that's not true by neither posting nor reading comments during the
+week of April 21&#8211;27, 2002. 
+
+ Slashdot's been pretty marginal for a long time now (before I even
+heard of it, to be honest). While the articles that make it to the
+front page often have links that are worth reading, there're only a
+couple of articles a week that are interesting enough to click through
+to the comments page and don't have comments that are
+completely predictable. (Slashdot articles with titles such as
+&#8220;Microsoft Imposes Will on God&#8221; or &#8220;Apple Thwarts Open Source&#8221; are
+unlikely to be worth checking.) 
+
+ But, hey, why not? I can essentially continue my current relationship
+with Slashdot and appear to be supporting a community-based boycott! 
+
+ March 20, 2002 (Wed) 
+
+ There are days when you'd be better off staying in bed. 
+
+ Such days are not good days to drive twenty miles on the freeway to
+joust with the most demonic bureaucracy in the State of California. 
+
+ March 21, 2002 (Thu) 
+
+ Somehow, the whole point of a dishwasher seems missed if you keep
+forgetting to turn the thing on... 
+
+ March 23, 2002 (Sat) 
+
+ Plowing through Zeldman 's book,
+which has some good tips (and some wacky stuff, as well). 
+
+ Thinking about moving to New Zealand.... 
+
+ M's burning CDs, trying to get a good one to send to her brother.
+Turns out that something doesn't like the MP3s we made with LAME with
+variable bitrate turned on&#8212;apparently the system guesses that a
+track should be considerably longer than it actually is, based on
+multiplying an incorrect rate by the size of the file. The result is
+a CD with tracks that end with long chunks of silence. Re-ripping
+with iTunes fixed the problem. 
+
+ March 24, 2002 (Sun) 
+
+ After a few hours of tinkering, the whole site should now be
+valid XHTML 1.0. 
+
+ One not-cool thing was that I had to change the format of the
+ id attributes assigned to blog entries. As I mentioned before , the
+ name attribute for some elements has been deprecated in
+favor of the id attribute. Unfortunately, the argument
+of an id attribute must begin with a letter
+( A-Za-z ). Because my blog script assigns numbers to
+these attributes, links to entries will break when the code is altered
+to be XHTML -compliant. 
+
+ So, in what I hope will be the last change I need to make to the
+format of the permalinks on this site, I have modified my script to
+add the string entry: to the permalinks for entries.
+(I've also added the string day: to the id 
+and name attributes for the <h*> tags. 
+
+ If you had links to my blog entries, you'll need to edit them to add
+the entry: string to the URL. So 
+
+ <a href="archive/2002-03.html#24-1"> 
+
+ would become 
+
+ <a href="archive/2002-03.html#entry:24-1"> 
+
+ March 25, 2002 (Mon) 
+
+ Buckled down and got out e-mail messages to almost all the authors of
+packages or documents in teTeX that aren't DFSG-free. 
+
+ March 26, 2002 (Tue) 
+
+ Sick today, but talked about the LPPL issues with some LaTeX people. 
+
+ March 27, 2002 (Wed) 
+
+ Added code to my blog script to create those fancy-schmancy calendars,
+ala CamWorld , for the archive
+pages. 
+
+ There may still be some bugs to iron out, but I'm prepared to call it
+a preliminary success and a pretty good use of the day. 
+
+ J.E. Gordon's Structures, Or Why Things Don't Fall Down 
+is both interesting and amusing. To tell the truth, I think
+old J.E. is a bit of a nut. For example, 
+
+What we find difficult about mathematics is the formal, symbolic
+presentation of the subject by pedagogues with a taste for dogma,
+sadism and incomprehensible squiggles.
+
+ Or, 
+
+Nowadays these ideas [stress and strain] can be understood by anybody,
+and it is hard to account for the bewildered and even resentful
+attitude which is sometimes taken up by laymen when `stresses and
+strains' are mentioned. I once had a research student with a nice new
+degree in zoology who was so upset by the whole idea of stress and
+strain that she ran away from the university and hid herself. I still
+do not see why.
+
+ March 28, 2002 (Thu) 
+
+ RMS on
+software patents . A clear, calm, and rational explanation of the
+demerits of patents.
+
+ Via Slashdot . 
+
+ The SFWA brings us an
+amusing (if insane) guide to professional manuscript
+submission . 
+
+ In it, Roger MacBride
+Allen recommends the use of laser-etched enameled steel plates to
+ensure your perfect manuscript lasts forever and can't be marked-up by
+arrogant editors. 
+
+ (Found while looking for a source for paper
+welders , a particularly cool paper-fastening device. My last
+landlord-but-one had a version of this tool, for which I've harbored a
+secret desire.) 
+
+ March 29, 2002 (Fri) 
+
+ While composing a reply 
+to a
+Slashdot review of Philip Pullman's &#8220;His Dark Materials&#8221;
+trilogy , I found that a link to a list of changes between the
+British and U.S. editions of the Harry Potter books that I'd posted earlier had changed (and updated it). 
+
+ I also found some rumors
+and gleanings about the characters and plots in the upcoming fifth
+book, Harry Potter and the Order of the Phoenix . 
+
+ On a related note, I've quite enjoyed the first two books of Pullman's
+&#8220;Sally Lockhart&#8221; trilogy ( The Ruby in the Smoke and
+ The Shadow in the North ), but decided to take a break to
+prolong the enjoyment and let the ending of the second book soften. 
+
+ Once again, if you find yourself a supporting character in a novel,
+think very carefully before getting involved with the main
+character.... 
+
+ Dealt with our taxes via H. & R. Block. Expensive, but worth it
+as M had a complicated and bizarre situation and they pointed out that
+I count as a dependent. We should be getting a big chunk of money
+back. 
+
+ Saw Blade
+II , which was pretty good. Lots of action, somewhat
+menacing bad guys, and an interesting (if improbable) story. They did
+a pretty good job of resurrecting Whistler, who died in the first
+movie. (The first thing I said when I saw a commercial and caught a
+glimpse of Whistler was, &#8220;Hey! He's dead!&#8221;) 
+
+ I could've done without most of the music, which has moved from the
+interesting mix in Blade (intense New Order remixes,
+Shonen Knife, some okay rap) to solid annoying rap/techno
+combinations. 
+
+ There were enough holes in the logic of the film to drive a semi
+through, but that's hardly a surprise. (UV light works against
+Reapers when they're underwater, but not against Blade's vampire
+&#8220;allies&#8221;?) 
+
+ Ate at Walter's. Yummy Afghani food, with leftovers for tomorrow.
+Everything there is good, and the building is fascinating. We sat in
+yet another area we'd never seen before. 
+
+ March 30, 2002 (Sat) 
+
+ Watched The
+Cell , which left me a bit cold. They did a good job with
+the serial-killer story, and the movie looked great, but it didn't
+feel as together as I would've liked. 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ March, 2002 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+ More Archives... 
+ September, 2002 
+ August, 2002 
+ July, 2002 
+ June, 2002 
+ May, 2002 
+ April, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 12:25 AM PDT, Sunday, September 8, 2002; last rendered at 
+ 12:25 AM PDT, Sunday, September 8, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

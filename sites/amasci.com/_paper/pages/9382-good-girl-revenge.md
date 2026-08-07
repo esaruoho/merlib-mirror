@@ -1,0 +1,495 @@
+---
+title: "Good Girl Revenge"
+source_domain: amasci.com
+source_path: ~vecna/bluette.html
+order: 9382
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Good Girl Revenge
+
+*Source page: `~vecna/bluette.html`*
+
+# Good Girl Revenge
+
+## by [Christine Morgan](mailto:christine@sabledrake.com)
+
+------------------------------------------------------------------------
+
+\
+For Brian Vigue\
+8000 words, March 2001
+
+Authors Note: Bluette, Celest, Centura, and Blade Ballet belong to Brian Vigue; all other characters created by the author. Mature\
+readers only due to sexual content and language.\
+
+------------------------------------------------------------------------
+
+    Bluette bounded into the suite, gym bag swinging, to discover that what had been peace only an hour before had descended into\
+chaos. She could hear hysterical sobbing from one of the bedrooms even over the babble of alarmed conversation among the staff, the\
+other girls from Attraction, and one uniformed hotel rent-a-cop.\
+    A pair of maids were cleaning up the sad petal-strewn remains of what had been a really nice floral arrangement, while a third delicately\
+tweezed broken glass from the carpet and a fourth sopped up water. The last time shed seen the vase with its spray of roses and babys\
+breath, it had been on the round little table beside the mini-bar, and now it was clear across the room in pieces by the sliding glass door\
+onto the balcony. Someone had pitched it, elementary dear Watson, and given that it had been sent to Maeve by Dustin D.J. Mack,\
+Bluette was able to put two and two together without much strain of the old gray matter.\
+    Centura was nowhere to be seen, but Celest was lounging against one wall. Catlike and sultry in black leather and high boots, looking\
+better without trying than the hottie from The Matrix could manage even with a full team of wardrobers and makeup personnel, the brunette\
+was observing the proceedings with one sardonically raised eyebrow.\
+    What hit the fan? Bluette asked Celest, noting that even in the midst of their concern, the bellhop and the rent-a-cop were instantly\
+distracted by her arrival.\
+    Their gazes swept greedily from Bluettes cap of blond hair to the mouth that made half the men in America wish they were microphones,\
+skipped to her most prominent attributes where they strained against the formidable harness of her sports bra, slid down her bare midriff,\
+lingered on the curves displayed by painted-on spandex short-shorts, traced the long and muscular lines of her legs, didnt bother with her\
+feet, and jumped back up to about chest-height. All of this, Bluette regarded with her usual mix of disdain and glee, making sure to shift her\
+hip to one side and inhale deeply as she half-turned to catch Celests response.\
+    Little Maevie is realizing certain truths that should have been self-evident, Celest said dryly.\
+    D.J.?\
+    Dumped her.\
+    The flowers? Decoy?\
+    Celest shook her head. Dont know.\
+    The shithead couldnt have waited one more night? Bluette groused. We came *that* close to a perfect tour and now our opening act\
+is throwing a major wobbly over her scumbucket boyfriend. Remind me to send him a big fat thank-you note. Has anybody talked to her?\
+    Not since she chucked that vase against the wall and threw the phone out the window and slammed out of here like a March wind.\
+    Bluette did a double take sure enough, the phone in the living room was dangling half in and half out of a hole in the window, from\
+which cracks radiated like those electric bolts imprisoned in crystal balls. For someone as little as she is, she sure can throw hard. What\
+about Sandi or Tess?\
+    Between them, they dont have the brains God gave long-grain rice or the guts He gave a flatworm.\
+    Bluette sighed and glanced at the digital clock. Give me five minutes to grab a quick shower? Then Ill see if I can talk to her.\
+    Celest shrugged and adjusted the trademark orange headband that seemed to glow against her dusky skin. No nevermind to me. Shes\
+in her own room now and if she wants to trash it, no skin off my nose.\
+    Before she could escape to her own room the suite was really most of the hotels top floor, six wedge-shaped bedrooms around a\
+circular living room the rent-a-cop seized the day and approached her.\
+    Bluette! he hailed, sounding like he would have been right at home among the crowds of hopefuls that waited backstage after each\
+concert, all hoping to catch her eye and be taken around the world by one of MTVs video pinup goddesses, and get a feel for themselves\
+to find out if the Famous Two, the members of Blade Ballet that never got listed in the album credits, were real or not.\
+    He was twenty-something and kind of cute in a clean-cut sort of way, and Bluettes first impression was that hed gone into the security-\
+guard biz because police work was too dangerous and the various branches of the armed forces were too much work, so this was the only\
+way he could wear a snazzy uniform and carry a baton. California-boy blond and tan, which probably meant long hours in a sunbed here in\
+dreary Seattle. Teeth like a Colgate commercial, must have cost his parents a fortune.\
+    Yeah? Artful toss of the head, speculative look from under long lashes, and it didnt matter that she was still sweaty from an hour of\
+aerobics.\
+    Johnny Rent-A-Cops baby blues bugged out and he visibly forgot what he was going to say. What did it matter if Attractions good girl\
+Maeve Colwyn was crying her head off in the other room when he was up close and personal with the one, the only, Bluette?\
+    Uh um er, he said brilliantly.\
+    Make it snappy, One-Adam-Twelve, Bluette said. Im on my way to the shower.\
+    At that, his eyes glazed over, and she didnt have to be a mind-reader to know he was seeing her preening under the spray in the tiled\
+steamy stall, lathering herself all slick and soapy, probably rubbing a washcloth in slow, languid circles over her breasts while suds coursed\
+the length of her body. Bluette slapped her hands together briskly just in front of his face and he jumped like hed been gunshot.\
+    Right! he blurted. Yes. Well. I was hoping to get uh a statement from you on the incident.\
+    I wasnt even here, she said. All I know is what Ive heard since I got back, and thats not much. So, do you mind?\
+    He looked crestfallen, as if hed hoped she would ask him if he had a minute to come in and scrub her back, or maybe use his Schick Blue-\
+Blade chin as a living loofah. Sure. Thanks for your time. I uh Ill be at the concert tonight. Row 7, seat J.\
+    Ill look for you, Bluette said, and he grinned like a kid on Christmas morning.\
+    Tess, the Attraction drummer who was never going to be awarded an honorary degree from MIT, broke away from the cluster of hotel\
+employees to tap hesitantly at Maeves door. From the other side, the sobbing stopped long enough for a breathy and gasping, but still clear-\
+as-water voice to call out, I said leave me *alone*! followed by the solid whack of something fivell getcha ten it was the room copy of the\
+Good Book hitting wood and rebounding. Bluette checked the clock again, did a little mental math, and hoped she would have time to sort\
+this crap out before showtime.\
+    She went into her own room, making sure to close the door firmly behind her and deter any curious peeping from the bellboy or her\
+uniformed admirer. The complimentary gift basket, from which shed scarfed two gourmet chocolates after lunch and then guilted herself into\
+a workout, was still on the nightstand. Avoiding it, she stripped and made for the shower, where just for the sake of old One-Adam-Twelve\
+she did spend a bit more time than purely necessary soaping up.\
+    After, with her hair blow-dried into a fluffy cloud (shed leave the styling to the team that would be waiting at the Key Arena) and wearing\
+soft gray sweats with a navy-blue logo shirt autographed in iridescent silver ink by all of the Seattle Mariners, said shirt knotted well above\
+her navel, she went back into the main room.\
+    The debris was cleared away and the staff had finished with whatever questions theyd been asking, probably most of which were about\
+liability and their fears that this was going to turn into one of those metal-band destructathons. Celest and Sandi were gone too, and Tess was\
+sitting on the round couch that circled the sunken fireplace, pretending to read the latest copy of VIP and throwing frequent, anxious looks\
+toward Maeves door. Only ominous silence came from behind it now, and while Tess might not be the sharpest crayon in the box, she was\
+imaginative enough to buy the notion of Maeve pulling a goodbye cruel world stunt.\
+    Unfortunately, Bluette could see that too. Maeve, a nice Irish girl whose parents had come from the Auld Sod itself, was operative-word-*nice*,\
+and totally in the wrong line of work. It would be just like the silly twit to hang herself or slit her wrists over D.J. Mack, guitarist for the Flirty\
+Boys. Not since 1997 when Blade Ballet had toured with Scarlet Angel had Bluette met such a scuzzball.\
+    She crossed the living room with a purposeful stride, and Tess watched her with a plaintive puppy-dog hope. You gonna talk to her?\
+    See if itll do any good. You know what happened?\
+    Tess shook her head. We came back from the Music Project exclusive tour, and she said she wanted to call him. Next thing we knew,\
+kapow.\
+    Kapow, murmured Bluette, and knocked.\
+    Go away! came Maeves reply.\
+    To which Bluette opened the door and walked on in. The room was considerably neater than she expected, even neater than the amiable\
+whirlwind in which Bluette herself lived. Aside from the Bible on the floor and a scatter of crumpled-up balls of paper, the place was pretty\
+much okay.\
+    Maeve Colwyn herself was another matter. The looks that had turned Bluettes thoughts to idle speculation more than once on the tour\
+bus had deserted her. That sweet heart-shaped face was both ashen and blotched. Her eyes were puffed and so red-rimmed she could\
+have passed for a lab rat. Like Bluettes cha-chas, Maeves hair was so perfect everyone thought it *had* to be fake, but that hip-length\
+cascade of curly strawberry-blond was real, unpermed and undyed. Normally perfect, that was. At the moment, it was in tangles and long\
+strands, as if Maeve had been pulling at it, not quite literally tearing her hair out in her despondency.\
+    But her wrists were unmarked, and she obviously hadnt hanged herself. She was hunched over the desk scribbling busily on the denuded\
+pad of guest stationery, and upon reaching the bottom of each sheet, she tore it off, wadded it up, and flung it violently to the floor.\
+    The sight of the girl with her streaming eyes and wild hair and simple green dress triggered some vague association in Bluettes memory.\
+Something fitting with Maeves heritage, maybe yeah. Those crazy ghost-women who washed the clothes of those about to die, crying\
+to themselves as the blood flowed down the streambed. Celest would know for sure; she had the most eclectic storehouse of historical and\
+cultural facts of anyone Bluette had ever met.\
+    Look, Maeve, weve got to talk about this.\
+    I dont want to! Even hoarse from sobbing, there was no mistaking that lilt.\
+    Bluette deliberately picked up the nearest paper-wad and smoothed it out. Scrawled across it in thick black strokes were words she\
+wouldnt have expected out of Maeve, not in about a million years. Words she wouldnt have even thought Maeve *knew*.\
+    Give me that! Maeve all but flew at Bluette, scrabbling for the paper.\
+    Here you go. She let her have it, then sat right down and made herself comfy. So what finally tipped you to the fact that hes an asshole?\
+    How did you know? The childlike hurt in Maeves face stirred both pity and a hint of exasperation in Bluette.\
+    Everybody knows. Everybody in the business, anyway. Not the fans. They think the bad-boy look is all for show, like his brother Joey\
+and the rest of the Flirty Boys. But its no secret that D.J. is the biggest dick and believe me, I *dont* mean that literally since Nick Diamond\
+got himself killed.\
+    I thought he was nice! Maeve wailed. In times of stress, the accent that shed almost totally lost came back, turning thought into something\
+close to thoot. I thought he was a nice boy!\
+    Naïve sorry, *Maeve*, Bluette said, what ever gave you that idea?\
+    It had to have been the strangest pairing, at least from the inside view of the music world, in a long time. D.J. Mack, for whom the sex and\
+drugs were more important than the rock and roll, and Maeve Colwyn, who despite the protestations of other girl-band stars, probably really\
+was the only virgin in the field. But the blinders were off now, and Bluette had to ask again.\
+    What tipped you off?\
+    He sent me flowers. Maeves manic, tearful agony had departed, that one last wail taking everything else out of her that she had left to\
+give. It was so sweet of him but then, when I talked to him on the phone he said he said\
+    Hed found someone else?\
+    No but that if I didnt loosen up soon, he was going to. Wed only been together three months! I told him I wanted to wait, and he\
+said\
+    Put out or get out, Bluette guessed.\
+    A miserable Maeve nodded. I told him I wasnt that kind of girl and he laughed, and told me that all women were were I dont even\
+want to think of the word he used. Except me. I was, he said, nothing but a useless little girl. Oh, how could he be such a such a bastard?\
+    The floor-litter of written testimonials aside, Bluette was sure that had to be the strongest word Maeve had ever said out loud. She moved\
+to sit beside the distraught Maeve, putting an arm around her.\
+    Its okay. Youre better off without him.\
+    And all this time, to think that everyone *knew*! Maeve turned wide, guileless eyes on her, eyes as blue-gray as the winter ocean off the\
+Irish coast. Did they, Bluette? Did everyone know?\
+    Well, yeah. We were surprised he didnt show his true colors sooner, if you really want the truth. Hes been in and out of more holes than\
+a prairie dog who cant remember where he lives.\
+    Why didnt anyone tell me? Now a new, shamed pain crept into Maeves voice. Why didnt my friends warn me?\
+    I bet they tried. I bet you didnt listen, or just insisted he was a nice boy.\
+    Maeve hung her head. I may have done.\
+    Look, the thing to do now is forget about him. Hes scum. Youre better off, believe me.\
+    But to think that he tricked me, lied to me, all this time!\
+    Bluette grinned. What, so you wanna get back at him?\
+    I wouldnt even know how, Maeve confessed.\
+    When it comes to getting even with men, youve got an expert right here.\
+    You youd help me? A new, probably entirely new to her, hard and angry glint turned those eyes to blued steel. Gone was the lamenting\
+Juliet and the driven-insane-by-grief Ophelia something a little more Lady Macbeth was in its place. Out, damned D.J.\
+    Gladly. I never miss a chance to make a man crawl. Bluette laughed, and Maeve smiled tentatively, no doubt thinking that Bluette was kidding\
+and really having no idea how very true it was. Men were okay in their place, but then, so was Preparation-H. Tonights our last show, so what\
+did you have planned after that?\
+    I dont know if I can go on like this --\
+    Horseshit. You can and you will. Dont you think hed love it if you had to cancel? Hed eat it right up. So youre going to go on and youre\
+going to sing your ass off, Maeve. Youre going to give Seattle the show of a lifetime!\
+    She saw Maeves resolve waver and took the girl by the shoulders, got her face almost kissing-distance, and stared straight into her eyes. The\
+sheer force of Bluettes personality couldnt help but overwhelm the poor thing, forcing Maeve to cave in as easily as an ex-jock trucker might\
+have forced a computer geeks wrist to the table in an arm-wrestle.\
+    Youre right, Maeve said. Thats just what Ill do. Sing sing my ass off.\
+    Way to go! For a moment, Bluette considered closing the rest of that distance and kissing Maeve, but two things stopped her. First, if she\
+did, Maeve would probably jump right out the window in her shock and it was a hell of a long way down from here. Second, Maeve wasnt exactly\
+at her delectable best this particular moment. Leave that for later, she decided.\
+    I was supposed to fly back to Los Angeles tomorrow, Maeve said. We were taking a couple of weeks off before hitting the studio to record\
+the new album. D.J. and I we were going to go to the new Disneyland park.\
+    No, thats great. Figures, she thought, Disneyland, why not the malt-shop and the sock hop while youre at it? Im headed for L.A. too. Hefs\
+birthday is coming up and I promised Id be there this year. Anyway, this is what were going to do
+
+\*\*
+
+    Bluette arrived at Maeves cottage at seven-fifteen, under a riotous Los Angeles sky filled with color. The brush fires in the mountains had lent\
+the sunset a particularly vivid glow, which almost made up for the dense layer of smog worsened by the smoke.\
+    Cottage. There was no other word for it. Like something a Disney princess might live in while hiding from her evil stepmother and awaiting the\
+handsome prince who was going to make everything just peachy.\
+    Guess that makes me the fairy godmother, Bluette snickered to herself as she parked at the curb and eyed the long, steep flight of steps that\
+climbed the slope, to where the cottage nestled in a cluster of trees and flowering shrubs.\
+    The contrast between that whimsical setting and herself was apparent even to her, and if any of the neighbors had seen her, they would have\
+goggled or fallen dead on the spot. The neighbors the Three Bears, the Seven Dwarves, the Three Little Pigs, Hansel and Gretel it had to\
+be, because every other house Bluette could see was just as cute as the one in front of her.\
+    She looked around, expecting to see a host of friendly woodland animals doing yard work. Closest she got was someones dog, but in this\
+fairytale neighborhood even the mutt scrounging around the trash cans was wearing a bright pink bandanna, and cocked its head so adorably at\
+her that she wouldnt have been surprised if it started to talk. Or sing.\
+    In such a place as this, one did not expect to see a busty blonde bombshell in a black vinyl microskirt, boots, an unzipped denim jacket\
+tattered artfully into long strips from the shoulders to the waistband, and a halter top of electric-blue that mimicked the Survivor logo (not that\
+it was readable, the lettering strained and squashed as it alternately rose and dove over the hills and vales of Bluettes cleavage). Her hair was\
+teased until it begged for mercy, large silver hoops depended from her ears, and her make-up was sultry without being cheap for the price,\
+it had damn well better not look cheap!\
+    As she began the long trudge up the steps, Bluette wondered if sometimes she dressed a little extreme even for a rock star\
+    She reached the porch at long last, small muscles in her thighs and calves twitching from the exertion it wouldnt have been so bad in athletic\
+shoes, but in five-inch heels, her legs were crying for mercy. The porch was lined with heaven help us! gnomes. Seven of them, and could\
+she guess their names? What do you think? There were also windchimes shaped like fairies and unicorns.\
+    Maeve opened the door before she could ring the bell. I dont think I can do this, she said by way of greeting.\
+    Its going to be fine.\
+    Bluette stepped inside, and Maeves entire face turned into an exclamation point as she got a good look at the outfit. Maeve herself, following\
+Bluettes instructions to dress like a bad girl, wore black suede pants that looked like the sort of thing a highwayman or 18th century poet might\
+wear, and a shiny gold tank top with gasp! no bra. She was clearly unhappy about it too, crossing her arms over her perky but small breasts.\
+Her only other token nod to bad-girldom was lipstick of fire-engine red.\
+    I called as soon as the message came in, Maeve said, averting, with effort, her eyes from Bluette and gesturing to welcome her into Fantasy-\
+land. Every available space was crowded with prints and paintings and sculptures and carvings that continued the same theme begun outside.\
+Amid all the knickknacks and novelties, the few electronics and appliances seemed weirdly out of place. It went just like you said. I didnt\
+answer when it rang, just listened to him.\
+    A red light was blinking on the answering machine. Maeve pushed a button, and after the beep, D.J. Macks voice filled the room. Hey, Maeve.\
+Okay, okay, Ill come by tonight and get my CDs and stuff. Dont know why you couldnt send them over. I guess you want to yell at me. Suit\
+yourself. Ill be there around eight.\
+    After that, a click and then nothing. Maeve fiddled with the machine, so that the light began to flash again, giving the impression that she hadnt\
+checked her messages at all.\
+    I dont know if I can do this, she said again.\
+    Sure you can.\
+    But\
+    You want to pay him back, right?\
+    She nodded, that strawberry hair a paler echo of the sunset.\
+    Relax, would you? Bluette set a companionable hand on her arm and felt Maeve thrumming like a high-tension wire. Were just going to order\
+some pizza and have a good time.\
+    Are you sure this is the right idea? To make him think Im Im\
+    He was pissed at you because he thought you were a stuck-up Miss Priss prudy-girl, right? So the absolute worst thing you can do to him\
+is make him realize you had some secrets of your own, make him want to drop dead in agony at the very idea of what hed been missing.\
+    What if he tells?\
+    Bluette tossed her head, earrings jangling, and laughed. Whod believe him? Sour grapes because you broke up with him dont even say\
+it; as far as the rest of the world needs to know, you did the dumping. With your reputation, its the last thing anyone would ever expect.\
+    Just so, said Maeve. Its ludicrous. No one would believe it. Not even D.J. How could I ever hope to convince him that ...?\
+    Hes not going to need much convincing. Every guy is ready and willing to believe that about any gal. The magazines they read and the videos\
+they watch will have done all the groundwork ahead of time. The problems in making sure it looks natural.\
+    Exactly! How can something like that ever be natural?\
+    We can debate that one another time. The important thing is, Maeve, that you come across as relaxed and enjoying yourself. Thats the\
+impression you want to give. Relaxed. Enjoying.\
+    I dont know if I can.\
+    Thats why Im here to help. Come on. Weve got a while before the pizza gets here.\
+    Bluette led the pliant and unresisting Maeve through the cottage, to the single bedroom at the back of the house. It was primarily in shades of\
+cream and pink, and Bluette saw right away that while the chair by the window would work fine, the twin-sized daybed simply wasnt going to do.\
+The carpet, however, a plush expanse of dove-grey with roses, was deep and soft.\
+    Maeve, in her bad-girl outfit of black and gold, stood in the middle of her own bedroom looking as though she felt as out of place as a nun at a\
+strip club. She would have felt far more comfortable and at home wearing some frilly white nightie. And slippers. With bunnies on them.\
+    What do we need to do? she asked.\
+    Make it look genuine. Bluette nonchalantly began to undress. Jacket, boots, and she was reaching for the zip in the back of her skirt when she\
+caught Maeves goggle-eyed stare. What? Never been around another naked woman before? Nothing Ive got that you dont have too. Only\
+diff is, Ive got the economy-sized, Costco packaging on some items.\
+    A red tide washed over Maeves face, but she giggled all the same, and even if it was a shrill and nervous one, it was a noise Bluette was glad\
+to hear. Thats certainly true. And I have. Seen other women, I mean. I went to an all-girls boarding school in Boston. But you youre\
+theyre\
+    Real. The zipper undone, she began wiggling her skirt down past her hips. Beneath were high-cut panties in a snakeskin pattern, but of a\
+metallic blue that Mother Nature had never envisioned. A tattoo, a butterfly in bright hues, graced one inner thigh, and this in particular caught\
+Maeves glance like a magnet. Though sometimes they even doctor the pictures, can you believe it? Like they needed to. So tell me more about\
+this girls school.\
+    There isnt much to tell.\
+    No after-hours playtime with your roommates?\
+    The red tide turned to scarlet. I dont know what you mean!\
+    Oh, yeah?\
+    Stammering and fixing her gaze on the floor, Maeve confessed, Well, there was one time one of the older girls she snuck into my room\
+one night and got into bed with me. She wanted me to touch her, wanted to touch me too.\
+    Did you let her?\
+    A a little. She was insistent, and I didnt know any better. But I made her leave.\
+    Why? Bluette could tell that the recollection was having an effect on Maeve; against the thin fabric of that gold tank-top poked two little points.\
+    I I was afraid.\
+    Because it felt good?\
+    Mutely, Maeve nodded.\
+    Theres nothing wrong with that. Its supposed to feel good. Bluette moved closer and pitched her voice low. Did you come?\
+    No!\
+    But you almost did. And thats what scared you, thats why you told her to scram. But its okay, Maeve. You touch yourself, dont you?\
+No harm in that, is there? So theres no harm in touching someone else. Or having someone else here she stroked Maeves hair, touch\
+you.\
+    Maeve shivered. Her gaze darted up to Bluettes, then dropped to the floor again, but she didnt draw away.\
+    If were going to make this look good, Bluette whispered, weve got to relax and trust each other. Im not going to hurt you, and I\
+know youre not going to hurt me. Go ahead.\
+    Slowly, shakily, Maeve touched Bluettes wrist. Her fingers crept, timid and mouselike, up to the elbow.\
+    See? said Bluette. I dont burn, and I dont bite. Her breath wanted to quicken at the fun of this seduction, but she controlled it and\
+kept it calm. That strawberry hair was as lush and silken as it looked, and she could hardly wait to see it spread out across the carpet as the\
+perfect and only backdrop for Maeves nude body.\
+    I dont know what to do, Maeve said.\
+    Try this. Bluette leaned in and brushed her with a light, brief kiss. She felt the other girls intake of breath in a gasp. There was a sweet\
+taste to her mouth, a *pink* taste, and maybe it was the association with the hair but Bluettes first thought was of strawberries again.\
+    Grasping her shoulders gently, Bluette pulled Maeve against the cushiony pillows of her breasts and kissed her again. A firmer kiss this\
+time, and as she flicked her tongue swiftly over Maeves lips, she caught that taste again and placed it not the fruit but the flavor, pink Quik\
+powder stirred into milk.\
+    Maeve sighed and put her arms around Bluette, palms against the bare-skinned curve of her back. A subtle change went through her body,\
+the tension seeping away. It wasnt quite relaxation, but it was bordering on acceptance.\
+    So Bluette took full advantage of the moment and turned the testing kiss into a full-blown frenchie that left Maeve breathless and more than\
+a bit starry-eyed; Bluette had never personally kissed D.J. Mack, but she knew people who had, and was fairly sure that she could outdo him\
+with one lip tied behind her back.\
+    After that, it didnt take much coaxing for Maeve to agree to let Bluette lift her tank-top over her head, revealing no tan lines on skin that\
+might have never been hit by direct sunlight, pale and beautiful. Her breasts were just as small and perky as envisioned, but tipped with nipples\
+of delicate pink, the very shade of strawberries just ripening to succulence.\
+    Maeve glanced from herself to Bluette and a shadow of doubt began to come back, a shadow of inadequacy, as she measured her own\
+against the Famous Two. Before that doubt could find a foothold, Bluette cupped one in each hand and murmured the old adage about more\
+being wasted, and all objections seemed to melt away like frost.\
+    Emboldened now, Maeve tried to fit her hands around Bluettes, confined as they were by the electric-blue spandex. She caressed them\
+diffidently and unsurely, but she *did* caress them, and when Bluette tugged the bandeau down to her waist to let them spring free in all their\
+proud glory, Maeve didnt make so much as a murmur of protest.\
+    Nor did she when somehow the two embracing women got lowered to the carpet, nor when Bluette couldnt resist any longer from finding\
+out if those nipples tasted as strawberry as they looked. Maeve uttered a small soft cry of mingled pleasure and disbelief as Bluettes skillful\
+mouth went to work, neglecting neither side.\
+    Once she had indulged for a while, she leaned back and wordlessly invited Maeve to reciprocate, and only the barest flicker of hesitation\
+preceded Maeve bending her head to first kiss, then lick at, a rigid, coral-red peak. A luxurious torrent of silky hair fell over Bluettes bare\
+torso. She curled her hand around the back of Maeves head to urge her to greater diligence, none-too-subtly encouraging her to alternate\
+teasing fluttery licks with the hard, deep suckling that she liked so much.\
+    They were writhing on the floor in slow languor and Bluette had just decided it was time to move below the waistband of Maeves black\
+suede pants when the doorbell chimed it was one of those musical jobbies and it didnt surprise Bluette in the least when the tune it played\
+was a snippet of Over the Rainbow.\
+    Maeve sat up, startled and blushing as if caught doing something nasty which, lets be honest, they were from the perspective of most of\
+the uptight country. Its him! Its D.J.! I cant let him see me like this!\
+    Thats the whole idea, Bluette said. But settle down. Its just the pizza guy. Ill go let him in.\
+    The *what*? Let him *in*?\
+    All part of the plan.\
+    But but\
+    Trust me. I know him. Not all pizza guys are scrawny pimply dweebs or burning-eyed psychopaths. She sprang up, shucking the bandeau\
+that had been relocated to service as a belt, and pranced through the cottage in just her metallic snakeskin panties.\
+    Opening the door, she smiled brilliantly at the man on the other side. He was wearing a red uniform with a white and blue Pizza X-Press patch\
+on the pocket, a nametag that read Lance, and white high-top sneakers. A steaming cardboard box was balanced on one hand, the tantalizing\
+scents of cheese and crust and spices following the breeze into the house.\
+    Bluette looked past him, down the long flight of stairs, to where a nondescript hatchback was parked behind her car. It had a plastic lighted\
+sign mounted on the roof Pizza X-Press, Hot and Ready in 30 Minutes or Its Free.\
+    Are you? she asked with a sly smile.\
+    Lance, who was six-foot-heaven of muscles and bronze all overtopped with a tumble of chocolate-brown hair, grinned. Arent I always?\
+    Whered you get the car? Nice touch.\
+    Couldnt drive my Beemer.\
+    No, guess you couldnt. She stepped back and beckoned him in, leaving the door slightly ajar.\
+    Lances lip curled as he took in the setting. Kinky. So whats the deal? Debbie Does Wonderland?\
+    Damn near. She took the pizza box and led him toward the back of the house, refreshing him on his role.\
+    Maeve was still sitting in the middle of the floor, her discarded tank-top clutched to her chest, eyes eating up her face. Bluette Bluette,\
+whats going on?\
+    Dont worry. Lance is just here to watch.\
+    What? Her face went dead white. Watch *us*?\
+    Take it easy, he said warmly. I swear, it wont do a thing for me.\
+    Lance is an actor. And gay. I know him from way back, and asked him to do us this little favor.\
+    As Maeve tried to assimilate this knew information, Lance stripped out of his red jumpsuit as casually as Bluette had shed her own clothes. He\
+had on skimpy black briefs underneath, which bulged with an impressive package.\
+    Bluette watched him with a sort of wistful appreciation, thinking ironically to herself what a shame it was that one of the few guys she could\
+actually tolerate was one she couldnt ride like a carousel pony. Or maybe that was why she could tolerate him. He was one of the limited selection\
+of the male population who could actually carry on a coherent conversation with her, and not just stammer and drool and never raise his eyeballs\
+above her collarbones.\
+    Lance situated himself in the chair, legs stretched out. Whenever youre ready, ladies.\
+    I dont understand? quavered Maeve.\
+    Its okay. Bluette rejoined her on the floor. Lets just pick up where we left off.\
+    But\
+    Bluette silenced her with a kiss, and soon overcame Maeves concerns. Part of it was her own skillful strokings and nuzzlings, part of it was\
+Maeves increasing confidence as Lance merely sat there and watched with all the interest of someone dragged by a blind date to a movie he\
+had no particular interest in seeing. Soon, thanks to Bluettes ministrations, Maeve was beyond caring, or even remembering, that they had an\
+audience.\
+    Seeing her distraction, and seeing by the nightstand clock that it was five minutes until eight, Bluette gave Lance a signaling wink. He nodded\
+in return and closed his eyes, drumming up some private fantasy of his own. It didnt take long until he was primed and ready hot and ready in\
+30 seconds, or its free, Bluette thought, and laughed.\
+    Bluette peeled those suede pants off of Maeve and found white stretch-lace panties with clusters of little sateen roses and ribbons at the hips.\
+She had never realized before what fantastic legs Maeve had long and lithe and shapely, and what a darlingly sleek little rear end.\
+    Lance brought out a finely-shaped instrument and began to play, his fist curled loosely around it as he worked it up and down.\
+    Maeve didnt notice. Her eyes were dreamily closed, her hair fanned out just like in Bluettes imaginings. She had initially mustered enough\
+modesty to press her thighs together as Bluettes hand slid between them, but as Bluette persisted, gradually Maeves legs relaxed. It was an\
+easy task after that to persuade her to let Bluette roll those panties down. The thatch of hair beneath was downy and kitten-soft, and a red-gold\
+a shade or two darker than that on Maeves head.\
+    The girl was quivering, in anticipation rather than fear. Her eyes stayed shut, rapid breaths slipping in and out of her parted lips. She mewled\
+faintly as Bluette nudged her knees apart and took position between them. Watching Maeve, taking both pride and delight in the way every new\
+touch brought rapturous expressions, Bluette gently petted and fingered until Maeve was moaning in abandon.\
+    From the front of the house came a perfunctory knock. The door, ajar, would be swinging open he would be frowning, stepping inside.\
+Having seen the pizza car outside, hed be smelling the aroma of it on the air. Seeing the light blinking on the answering machine, hadnt she\
+gotten his message? Didnt she know he was coming over to get his stuff? Where ?\
+    Bluette psst-ed a warning to Lance, who was lost in a world of his own a world no doubt populated by more hardbodies and hunks than\
+a double-sized International Male catalog. He opened his eyes and pretended to be absorbed in the spectacle before him as his hand continued\
+to pump, faster and slick.\
+    Parting Maeve wide, opening those tender strawberry-pink folds, Bluette put her agile, knowing tongue to work. The first contact made\
+Maeves back arch off the floor, and a surprised, ecstatic cry burst from her. She sank her hands into Bluettes tousled blond hair and held\
+on as Bluette lapped and circled and probed.\
+    Out of the corner of her eye she saw the bedroom door swing the rest of the way open. D.J. Mack got a full step into the room before the\
+scene hit him, and stopped dead in his tracks. Bluette spared him a single glance, a single smoldering glance straight off of the most recent cover\
+of a Blade Ballet album, making sure he recognized her.\
+    Absolute thunderstruck astonishment rooted D.J. to the spot. Bluette experienced a sudden weird transference and saw what this must look\
+like from his perspective, exactly as shed planned it to look. There in front of his bulging amazed eyes, his prim-and-proper ex-girlfriend was\
+thrashing and crying out, on the verge of an unbelievable orgasm. And one of the most desired women in America (in nothing but snakeskin-\
+pattern undies and a smile), was about to give it to her. While some guy, some incredibly lucky stud of a pizza guy, pleasured himself eagerly\
+while looking on. That same lucky guy who would, in all probability, join the pair of minxes for the second course!\
+    A senseless gabble of sound came from D.J. Mack. Bluette, with a haughty sniff at the Flirty Boy, bent again to her delicious task and applied\
+herself with vigor. Maeve came like the Fourth of July, one dazzling series of explosions after another, wailing a long and drawn-out Oh, God!\
+in that clear, unmistakable voice.\
+    Lance, whose timing excelled and who was ever the showman, went off at that moment too, grunting like a lion and spouting like a whale.\
+    Oh, God, Maeve said, this time in a strengthless gasp. Still with eyes tightly shut, she half-rolled onto her side and draped one thigh over the\
+other, shuddering in reaction.\
+    Bluette rocked back on her heels, licking her pouty lips and purring and in all ways acting the cat whod just been at the cream. She pretended\
+to be ignoring D.J., but actually kept a close eye on him as the shellshocked look on his face gave way to one of slow but incredulously dawning\
+awareness.\
+    Hey, what the hell?! he said.\
+    At that, Maeve jumped and looked around, and saw him standing there, gape-mouthed. D.J.!\
+    What the *hell*? What the holy fucking *hell*? he elaborated.\
+    Whos the guy? Lance demanded.\
+    Whos *that* guy? D.J. countered.\
+    Is that the shithead that dumped you? Bluette asked.\
+    Maeve scrambled to her feet, that gorgeous hair flying around her, stark naked and beautiful, high color in her cheeks and sparks snapping from\
+the blued-steel of her eyes. What the fuck are you doing here? She delivered the line, F-word and all, with brilliant anger and purpose. Bluette\
+could have applauded.\
+    What are *you* doing? D.J. shot back.\
+    An insane but brief urge to yell Wazzuuuuup! seized Bluette. She resisted, keen to see if her coaching had paid off.\
+    It had. Maeve glared at D.J. as if she could fry him to a grease-spot with the power of her fury. Get the hell out, you son-of-a-bitch!\
+    But no, hey D.J. looked from her to Bluette idly stroking her own breasts just to rattle him back to Maeve. A greedy piggish glint\
+had come into his eyes. Hey Im cool Im not mad.\
+    You dumped me, or did you forget?\
+    That was hey, that was before I knew I thought you were --\
+    I know what you thought I was, hissed Maeve. You thought I was a nice girl. I thought you were a nice boy. Looks like we both had our\
+secrets!\
+    I guess he didnt know you very well, Bluette said. What a dumbass.\
+    Maeve, honey, listen to me. We um why dont I just He kind of flapped his hand at his shirt buttons. We can work it out. I know\
+we can. I made a mistake.\
+    Ill say! Maeve said. Get out.\
+    No, dont be like that you want to have fun with other girls, hey, believe me, thats A-OK with me! He probably didnt realize how pleading,\
+how desperate, he sounded.\
+    You want to stay. Her voice dripped contempt. Thats what youre thinking?\
+    D.J. swallowed with an audible click, rasped his tongue across his lips, gorged on Bluette and Maeve with his gaze, and bobbed his head like\
+one of those tacky spring-necked dogs found in the rear windows of cars.\
+    Yeah, *right*, sneered Bluette.\
+    Hey, arent you one of the Flirty Boys? asked Lance, as if he hadnt known, though of course Bluette had given him the whole story beforehand\
+when shed set all of this up.\
+    You want to stay, Maeve said again. You really want to stay. You like the idea of two women going at it, is that it?\
+    Bobbing, faster, that rear-window dog in a car going over train-tracks at high speed.\
+    Bluette suddenly knew where Maeve was headed with this and held back, with effort, a hard-edged grin of admiration. Hadnt taken much to\
+bring out her inner bad girl, after all! Lance picked up on it too and looked at Bluette with a tilt of the head as if to ask if he was really hearing that.\
+She nodded slyly.\
+    You think, Maeve went on, that wed want you to join in.\
+    Sure, said D.J. Girl-girl, thats only the warm-up act.\
+    Maeve planted her fists on her hips, jutting her perky little breasts arrogantly at him. Well, I tell you what. Ive always wondered about watching\
+two *men* together. Why dont you and Lance there do a warm-up act of your own, and then well see if *we* want to join in? She glanced to Bluette\
+for support, and Bluette gave it in the form of an enthusiastic nod.\
+    Fine by me, said Lance, and evidently it was, because although hed just shot jets all over the upholstery, he was rising to attention again just at\
+the idea of having one of the Flirty Boys get down on his knees and wrap some hot lip-synching lips around his unit.\
+    D.J. couldnt have frozen faster if hed been dunked in liquid nitrogen. If his eyes had bulged before, they bugged out now like they were going to\
+yo-yo out of their sockets. Huh?\
+    You heard her, stud-boy, Bluette said. You wanna play? Those are the terms.\
+    Im no goddam fag! D.J. proclaimed, staggering back a pace, as if he thought Lance might just leap out of the chair, drag him down, and slide\
+in the back door before he knew what was happening.\
+    I do believe that is a double standard, Maeve said. I guess youd better go.\
+    Yeah, said Bluette, standing and coiling an arm around Maeve. We have some unfinished business to attend to.\
+    Thats right. And, magnificently, just as if shed done this sort of thing a million times before, Maeve turned to Bluette and soul-kissed her.\
+    A whine of sheer agony burst from D.J. When they parted, he tried again. You dont need this guy! Send him away, and Ill take care of you\
+both, you never had it better!\
+    Bluette laughed, not her patented girlish Betty-Boop giggle but a full, throaty, mocking laugh. Oh, *sure*!\
+    You want to stay, you heard the conditions, Maeve said, daring him with her eyes, though underneath the dare, Bluette sensed a tremor of\
+apprehension what if D.J. took her up on it, and then she had to follow through?\
+    D.J. risked a look in Lances direction, quick and scared as if he thought Medusa might be sitting  over there and one glimpse would petrify him.\
+Lance, idly rubbing himself, dropped an inviting wink, and D.J. almost leapt out of his skin.\
+    Huh-uh, no way, not gonna happen! he announced in a shrill squeak. This is crazy! This is totally crazy shit!\
+    Maeve shrugged. Your stuff is in a grocery bag on the kitchen table.\
+    Dont let the door hit you in the ass on the way out, added Bluette.\
+    But but\
+    Sorry, she amended. Dont let the door hit you in the *butt* on the way out.\
+    With a final look of utter wounded disbelief, D.J. backed out of the room on stiltlike legs. Maeve followed to throw him the bag of his belongings;\
+it smacked into his chest and he only caught it by reflex. Bluette, lounging in the bedroom doorway, smirked at him as he tried one last time to beg\
+his ex to reconsider, and Maeve cut him dead with a look.\
+    She slammed the door behind him hard enough to make two fairy dragons and a sculpture of Cinderellas castle leap to their ceramic dooms from\
+a shelf, and watched through the curtains as D.J. presumably tottered down the stairs to his car.\
+    Fantastic! Bluette cheered. Did you see that sorry piece of crap? You were wonderful, Maeve!\
+    I cant believe it. I cant believe that really happened!\
+    Damn, said Lance. I was hoping hed go for it. He had retrieved his clothes and dressed as gracefully as a Chippendales dancer in reverse. I\
+better get going too. You owe me twelve bucks for the pizza, Bluette. Plus tip.\
+    Bluette rolled her eyes at Maeve. Most guys would tip *us* for getting to see what he just got to see. She fished a twenty from her purse and told\
+him to keep the change.\
+    With Lance gone, it abruptly struck Maeve that she was naked. On the heels of that, the rest of the realization of what shed done loomed over\
+her, poised to topple like a pre-earthquake-code building. She sank against the edge of the kitchen table, blinking.\
+    Oh, God, she murmured, but there was no orgasmic joy in it this time, only a numbed, stunned shock. I you\
+    Mmm-hmm, said Bluette. And how.\
+    Was it convincing?\
+    More than convincing. She smiled her most sultry smile. Id call it *genuine*.\
+    Maeve nodded, almost against her will.\
+    So, Bluette said, what now?\
+    Well Maeve blushed and looked shyly at her. You did say we had unfinished business\
+    Bluette grinned and held out her hand. Maeve took it, and they returned to the bedroom together.
+
+\*\*
+
+The End
+
+------------------------------------------------------------------------
+
+\
+*Copyright 2001 Christine Morgan / <christine@sabledrake.com>*\
+ \
+ \
+ \
+ \
+ \
+ \
+ \
+ \

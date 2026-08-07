@@ -1,0 +1,29 @@
+Consider the wavefunction formalism of quantum mechanics, where a
+function Phi maps tuples of the form <t, x1, x2, ..., xn> to
+complex numbers. t is usually interpreted as time and x1, x2, ...
+(which are themselves 3-tuples) as positions of particles. Suppose
+then, this wavefunction represents an infinite set of physical
+systems for every possible t, where each system is
+three-dimensional and have no extent in time. There is no
+transtemporal identity for these systems, meaning one cannot say
+that one system at time t "is" another system at time t’. (Therefore
+no causal structure is possible.) Every system contains n
+particles, and the measure of the subset of systems at time t with
+particles at positions x1, x2, ..., xn is |Phi(t, x1, x2, ...,
+xn)|^2. If the wavefunction takes other parameters such as spin
+states, these are summed over (i.e. Sum_over_all_y |Phi(t, y, x1,
+x2, ..., xn)|^2).
+
+All possible structures that can be encoded in the positions of no
+more than n particles, including presumably human beings if n is
+large enough, appear in these infinite sets of systems. But some
+structures appear “more often” or have larger measures than
+others, and from this we can understand the probabilistic
+predictions of quantum mechanics. For example, consider a
+wavefunction that represents an experiment in which the
+experimenter measures the z-spin of a particle in the state
+(|up>+|down>)/Sqrt(2). At t=0, all systems include an experimenter
+who is about to measure the z-spin of the particle. At t=2, half
+of the systems include an experimenter who remembers observing
+spin-up and half of them include an experimenter who remembers
+observing spin-down.

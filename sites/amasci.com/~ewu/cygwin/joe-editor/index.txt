@@ -1,0 +1,73 @@
+Port of Joe Editor to Cygwin 
+
+ Table of Content 
+
+ Please click to select one of the following:
+
+ Joe 2.9.6 binary with wordwrap enhancement from Gerrit's server 
+ Joe 2.9.6 source including wordwrap patch from Gerrit's server 
+ Compiling Joe 2.9.6 source from SourceForge 
+ Compiling Joe 2.8 source from a Linux archive 
+
+ Compiling Joe Editor on Cygwin 1.1.8+ 
+
+ Joe Version 2.8 
+
+ Here is the 
+makefile to build and install joe 2.8. This one does not use any configure
+script to build itself. You can use the makefile if you don't run configure
+ on Cygwin. 
+
+In case you have never done it before, follow these steps:
+
+ Download joe-2.8-src+bin.tar.gz from this site
+ .
+ Create a new directory by: mkdir joe2.8
+ Copy the tar.gz file to the joe2.8 directory
+ Also copy Makefile.cygwin to the joe2.8 directory
+ Change to the joe2.8 directory
+ Unpack joe 2.8 by: tar zxvf joe-2.8-src+bin.tar.gz
+ Apply the patch if you like, or just omit the patch if you don't use
+rxvt. This patch is not needed to run joe in Cygwin.
+ Get into the joe2.8 directory if not in the directory.
+ make -f Makefile.cygwin
+ make -f Makefile.cygwin install
+
+ That's it.
+
+ Joe Version 2.9.6 
+
+ Version 2.9.6 is the latest version at the time of this writing. 
+If you have GNU gcc compiler installed with Cygwin, you can also compile joe
+for yourself. The new version uses a configure script* to configure the makefile for Cygwin. 
+It is available from 
+ Sourceforge . No special
+makefile is needed for cygwin. It builds cleanly out of the box.
+
+ In case you have never done it before, follow the instruction:
+
+ Download joe 2.9.6 and unpack by: tar zxvf joe-2.9.6.tgz
+ Chdir to the joe 2.9.6 directory 
+ ./configure
+ make all
+ make install
+
+ That's it!
+
+ * In rare cases, the configure script may not run smoothly. You can just 
+download the v2.9.6 binary package mentioned above. Another option is to
+compile v2.8, which can be built without a configure script on virtually any
+ Windows platform.
+
+ Wordwrap Patched Joe 2.9.6 Binary and Source 
+
+ This is the latest version at the time of this writing. You can download
+the binary tarball and the source (v2.9.6 with wordwrap patch applied)
+ from Gerrit P.
+Haase's server . Please be aware that this is a slow link. Try to download
+at a later time if you cannot make connection immediately.
+
+ You are visitor number &nbsp &nbsp since June 12, 2001. The 
+web counter is provided by www.digits.com 
+
+ Created by: Enoch Wu

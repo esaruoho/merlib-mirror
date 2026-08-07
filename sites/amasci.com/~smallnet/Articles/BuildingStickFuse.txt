@@ -1,0 +1,109 @@
+BUILDING MODEL FUSELAGES FROM STICKS 
+
+ BUILDING MODEL FUSELAGES FROM STICKS by Marcel Lavoie
+
+ BUILDING MODEL FUSELAGES FROM STICKS
+
+by Marcel Lavoie
+
+Over the last couple of years what I have come up with in constructing
+"built-up box" fuselages from stick balsa is to lay down the two
+longerons over the side view, with pins just off to the side of the
+uprights (not in line with the uprights) so that I can lift the two
+longerons and slip the "upright" strip under them.
+
+I then mark the top end of the strip to get the proper angle of cut,
+remove it and cut through. It is then re-inserted under the bottom
+longeron with the top longeron pushed down in place and the upright
+strip is now marked (on the inside of the lower longeron), removed and
+cut. With a little practice the exact length/angle is achieved very
+quickly.
+
+I have made up a couple of "tools" to speed things along. One is
+a popsicle stick (1/16" x 3/8" x 4 1/2" approximate length) with a
+1/4-3/8" length of razor blade glued on one side with about 1/32"
+projecting from the squared-off end of the stick. This is the
+"marker". Just bring the blade side of this tool up against the
+inside edge of the top longeron, hold the tool vertically, and press
+down to mark the angle of the upright. Remove the strip, cut, and
+insert the strip again, then mark the bottom end for length and
+angle. Diagonal pieces can also be marked for angle and length with
+this marker tool.
+
+A second tool used in conjunction with the above is the same popsicle
+stick material, made up of two sticks, again with the ends squared off
+and with a U shape, say 3/16" wide by 3/16" deep, cut in one end.
+This opening is good for 3/32" and 1/8" strip. The two sticks are
+epoxied together with a length of thin razor blade glued between them
+at the opening, with 1/64" or less projecting from the end. I use
+this tool to cut through the strip after it has been marked. Rather
+than pushing the tool straight down, a better result comes from
+rocking the tool from side to side to get more of a cutting motion.
+The long handle makes it easy to keep the tool vertical. Depending on
+the angle of the cut, it may be necessary to use a regular blade to
+finish a cut on diagonal pieces.
+
+Finally, instead of just using pins to hold the longerons in place,
+I have made up a bunch of 1/4" square by 3/8" long blocks, which
+are pinned down along the outside edges of the longerons. The block
+for the top longeron is pinned down exactly in line with the
+upright, so that when a strip is pushed up against the top longeron,
+a bit of pressure can be applied to get a nice, snug fit.
+
+The blocks for the bottom longerons are pinned just off to the side
+of each upright position, to allow placing the strip material
+properly. I use just pins at every second station, on the inside
+edges of the longerons. I do not build one side over the other, as
+the pins/blocks remain in place; and with a little care two identical
+sides are arrived at. There is no messing around with separating two
+fuselage sides. This method works beautifully and results in almost
+automatic success.
+
+By the way: I live in Eastern Canada, in New Brunswick. What I
+utilize for blades is used Trac ll or similar, or even DollarStore
+blades. These blades are a little over 1/4" wide. It is preferable
+to use blades which have some sections with no holes. Some blades
+are punched through with so many holes that what is left is quite
+flimsy. These thin blades can be easily cut with scissors.
+
+For gluing the blade to the marker tool, I generally use CA; and for
+the guillotine I use epoxy (which gives more time to make sure
+the blade is lined up properly). Make sure not to leave any excess
+epoxy in the U section on the blades! I cut through the strip
+material on either a cutting mat or else an end-grain block, say 1"
+square by 1/4" thick, so as not to dull the blade. I have not found
+it necessary yet to make up a bunch of these tools, but it could
+be a good idea to have a few spares handy. But I did make a metal
+holder which I epoxied into the end of the tool, and I simply
+insert/remove a section of blade using a pair of needle-nose
+pliers.
+
+The 1/4" square x 3/8" blocks can be of balsa or some harder wood such
+as pine. I butt one end of the blocks and not the edge against the
+longerons; so it is best to place the pins 1/8" from one end, rather
+than in the middle of the blocks. The pins stay in the blocks after
+they are removed from the plan. Of course the ends of the blocks must
+be at 90 degrees.
+
+The main point of my technique, of course, is inserting the upright
+material under the longerons to get the angle of the cuts and the
+length very near perfect. It is not absolutely necessary to use the
+1/4" square blocks, but I believe they do help to get a better result.
+
+I also used this method to cut the cross pieces for a Moffet Winner.
+I just laid down two temporary longerons on the top view. It's a
+good idea to mark the cross pieces with a soft pencil to make sure
+they are glued in place in the same position that they were cut, and
+not rotated 90 degrees, or even front to back.
+
+Tail surfaces can also benefit from this idea. Just insert the "rib"
+material under the leading and trailing edges, etc.
+
+This is long-winded, but is much quicker to do than to explain in
+writing. 
+ Marcel
+ PS: I'd enjoy any feedback you might have on this article. Please
+contact me at
+ harrier@nb.sympatico.ca 
+
+Back to Article Selection page.

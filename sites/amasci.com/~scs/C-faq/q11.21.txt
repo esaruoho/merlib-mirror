@@ -1,0 +1,22 @@
+Question 11.21 
+
+ Question 11.21 
+ What does `` #pragma once '' mean?
+I found it in some header files.
+
+ It is an extension implemented by some preprocessors to help make
+header files idempotent;
+it
+is essentially equivalent to the
+ #ifndef trick mentioned in question
+ 10.7 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

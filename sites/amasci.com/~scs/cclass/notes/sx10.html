@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995, 1996 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Chapter 10: Pointers</title>
+<link href="sx9c.html" rev=precedes>
+<link href="sx10a.html" rel=precedes>
+<link href="top.html" rev=subdocument>
+</head>
+<body>
+<H1>Chapter 10: Pointers</H1>
+
+<p>Pointers are often thought to be the most difficult aspect of C.
+It's true that many people have various problems with pointers,
+and that many programs founder on pointer-related bugs.
+Actually,
+though,
+many of the problems are not so much with the pointers <I>per se</I>
+but rather with the memory they point to,
+and more specifically,
+when there <em>isn't</em> any valid memory which they point to.
+As long as you're careful to ensure that the pointers in your
+programs always point to valid memory,
+pointers can be useful, powerful, and relatively trouble-free tools.
+(We'll
+talk about memory allocation in the next chapter.)
+</p><p>[This chapter is the only one in this series that contains any graphics.
+If you are using a text-only browser,
+there are a few figures you won't be able to see.]
+</p><p>A pointer is a variable
+
+that points at,
+or refers to,
+another variable.
+That is, if we have a pointer variable of type
+``pointer to <TT>int</TT>,``
+it might point to the <TT>int</TT> variable <TT>i</TT>,
+or to the third cell of the <TT>int</TT> array <TT>a</TT>.
+Given a pointer variable,
+we can ask questions like,
+``What's the value of the variable that this pointer points to?''
+</p><p>Why would we want to have a variable that refers to another variable?
+Why not just use that other variable directly?
+The answer is that a level of <dfn>indirection</dfn> can be very useful.
+(<dfn>Indirection</dfn> is just another word for
+the situation when one variable refers to another.)
+</p><p>
+Imagine a club which elects new officers each year.
+In its clubroom,
+it might have a set of mailboxes for each member,
+along with special mailboxes
+for the president, secretary, and treasurer.
+The bank doesn't mail statements to the treasurer
+under the treasurer's name;
+it mails them to ``treasurer,''
+and the statements go to the mailbox marked ``treasurer.''
+This way,
+the bank doesn't have to change the mailing address it uses every year.
+The mailboxes labeled
+``president,'' ``treasurer,'' and ``secretary''
+are a little bit like pointers--they don't refer to people directly.
+</p><p>If we make the analogy that a mailbox holding letters
+is like a variable holding numbers,
+then mailboxes for the president, secretary, and treasurer
+aren't quite like pointers,
+because they're still mailboxes
+which in principle could hold letters directly.
+But suppose that mail is never actually put in those three mailboxes:
+suppose each of the officers' mailboxes
+contains a little marker
+listing the name of the member currently holding that office.
+When you're sorting mail,
+and you have a letter for the treasurer,
+you first go to the treasurer's mailbox,
+but rather than putting the letter there,
+you read the name on the marker there,
+and put the mail in the mailbox for that person.
+Similarly, if the club is poorly organized,
+and the treasurer stops doing his job,
+and you're the president,
+and one day you get a call from the bank
+saying that the club's account is in arrears
+and the treasurer hasn't done anything about it
+and asking if you, the president, can look into it;
+and if the club is so poorly organized
+that you've forgotten who the treasurer is,
+you can go to the treasurer's mailbox,
+read the name on the marker there,
+and
+go to <em>that</em> mailbox
+(which is probably overflowing)
+to find all the treasury-related mail.
+</p><p>We could say that the markers in the mailboxes
+for the president, secretary, and treasurer
+were <dfn>pointers</dfn> to other mailboxes.
+In an analogous way,
+pointer variables in C
+contain pointers to other variables or memory locations.
+</p><p><a href=sx10a.html rel=subdocument>10.1 Basic Pointer Operations</a></p>
+<p><a href=sx10b.html rel=subdocument>10.2 Pointers and Arrays; Pointer Arithmetic</a></p>
+<p><a href=sx10c.html rel=subdocument>10.3 Pointer Subtraction and Comparison</a></p>
+<p><a href=sx10d.html rel=subdocument>10.4 Null Pointers</a></p>
+<p><a href=sx10e.html rel=subdocument>10.5 ``Equivalence'' between Pointers and Arrays</a></p>
+<p><a href=sx10f.html rel=subdocument>10.6 Arrays and Pointers as Function Arguments</a></p>
+<p><a href=sx10g.html rel=subdocument>10.7 Strings</a></p>
+<p><a href=sx10h.html rel=subdocument>10.8 Example: Breaking a Line into ``Words''</a></p>
+<hr>
+<p>
+Read sequentially:
+<a href="sx9c.html" rev=precedes>prev</a>
+<a href="sx10a.html" rel=precedes>next</a>
+<a href="top.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995, 1996
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

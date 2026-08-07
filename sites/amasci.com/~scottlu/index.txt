@@ -1,0 +1,51 @@
+Scott Ludwig's Home Page 
+
+ home 
+
+ Palm games 
+ WinCE games 
+ EPOC games 
+ daVinci games 
+ Windows software 
+ Comments 
+ Purchase
+ PocketChess 
+
+ Welcome to my home page. I'm a
+ software developer and have been creating software for many years. I'm attracted to all
+ sorts of programming projects and occasionally I'll release what I've written here.
+ Sometimes the projects are a collaboration with others. Palm
+ software 
+ PocketChess Deluxe v2.5 
+ Railroad v1.1b 
+
+ Windows CE software 
+ PocketChess
+ v1.1 for PocketPC by Robert
+ Ryan and myself, artwork by Christian Morency . 
+ PocketChess v1.1 for Windows CE
+ Palm-sized PC 
+ PocketChess v1.0 for Windows CE Handheld PC and Handheld
+ PC Pro 
+
+ EPOC software 
+ PocketChess v1.2a for EPOC is available! By Fred Bouvry , Simon
+ Quinn , Christian Morency , and myself. 
+
+ Royal
+ daVinci software 
+ PocketChess v1.0 for Royal daVinci 
+
+ Windows
+ software 
+ EZSetup v1.1 - A WinCE Setup Application
+ Creation Tool 
+ CExe Executable Compressor
+ v1.0b -
+ compress any executable 
+
+ I appreciate feedback. You can reach me at scottlu@eskimo.com .
+ Thanks for stopping by and enjoy the software. 
+ Scott Ludwig 
+
+ Last updated:

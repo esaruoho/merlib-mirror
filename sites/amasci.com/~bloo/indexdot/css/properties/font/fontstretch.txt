@@ -1,0 +1,79 @@
+Font-Stretch - Cascading Style Sheets Properties 
+
+ font-stretch 
+ Support Key: 
+ [ CSS2 ] 
+ Other Font Properties 
+
+ font-size-adjust 
+ font 
+ font-style 
+ font-variant 
+ font-weight 
+ font-size 
+ font-family 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ normal 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property selects a normal, condensed or extended font to be used
+ from the current font-family. It appears to be intended to control the
+ condensation/expansion of the font in the horizontal (x-direction) only.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ narrower | wider 
+ [ CSS2 ] 
+ Type: Calculated 
+ Description: 
+ These values select the next higher or lower value (if available) on the
+ 'font-stretch' scale indicated below relative to the value inherited from
+ the parent. 
+
+ ultra-condensed | extra-condensed |
+ condensed | semi-condensed 
+ normal semi-expanded |
+ expanded | extra-expanded |
+ ultra-expanded 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ These values indicate a scale of condensation or expansion of the current
+ font-family. 'Ultra-condensed' is the narrowest value and 'ultra-expanded'
+ is the widest value. 
+
+ Example 
+ Ext/Doc: em {
+ font-stretch: extra-expanded } 
+ In-Line:&#160; < em 
+ STYLE =" font-stretch: 
+ extra-expanded">text</ em > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

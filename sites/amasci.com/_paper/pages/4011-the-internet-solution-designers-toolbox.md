@@ -1,0 +1,38 @@
+---
+title: "The Internet Solution Designer's Toolbox"
+source_domain: amasci.com
+source_path: ~johnnyb/computers/web_solution_designers_toolbox.html
+order: 4011
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:10:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Internet Solution Designer's Toolbox
+
+*Source page: `~johnnyb/computers/web_solution_designers_toolbox.html`*
+
+# Stop Whining and Repent
+
+[God is calling the people of America to repentance](../spiritual/StopWhiningAndRepent.html)
+
+# The Internet Solution Designer's Toolbox
+
+## Current Trends and Technologies that Help You Talk to Everyone Else
+
+This is going to be a series of classes on various technologies currently in use today that you can use as building blocks for internet-based applications. It will examine the pros and cons of the solutions, and not simply cheerlead the ones we like. At least I'll try not to :) Some of these technologies are language and operating-system independent, others are not.
+
+These classes assume that you know basic ideas about how to make dynamic web sites, and have created a few of your own using ASP, Perl, or similar technologies.
+
+Preliminary Class List:
+
+- XML and the DOM API - markup like you mean it
+- Web Services 1: Fundamental Ideas and Current Technologies
+- Web Services 2: XML-based web services - SOAP and XMLRPC
+- Web Services 3: Object-oriented web services - CORBA, DCOM, and RMI
+- Web Services 4: Application server environments - EJB and COM+
+- Affordable Solutions 1: Freely available database systems for Linux and Windows
+- Affordable Solutions 2: An introduction to the Linux solution stacks - LAPP and LAMP
+- Affordable Solutions 3: Redundant and Load-balanced Linux solutions

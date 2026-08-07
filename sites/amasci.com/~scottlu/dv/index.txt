@@ -1,0 +1,42 @@
+Scott Ludwig's daVinci games 
+
+ daVinci games 
+
+ Home 
+ Pilot games 
+ Windows CE 
+ EPOC 
+ Windows Software 
+ Comments 
+
+ Welcome! This
+ is my page for Royal daVinci software. The daVinci has
+ attractive hardware at an attractive price! The entry level daVinci is only $99. So far
+ this is the least expensive platform for running PocketChess. Comments? You can
+ send me comments and feedback at scottlu@eskimo.com .
+
+ PocketChess v1.0 
+
+ Released: 
+ 3/10/99 
+
+ Size: 
+ 40k 
+
+ PocketChess is a high quality, well featured Chess playing program for your daVinci. 
+ Play against the computer or a friend. 
+ Choose from 8 levels of skill. 
+ Easy intuitive user interface, play black or white, hint, undo, and more! 
+
+ PocketChess v1.0 is for pre-lawsuit daVincis (pre-November 17th 1999
+ daVincis)!! Given that these older daVincis have been discountinued,
+ PocketChess v1.0 for Royal daVinci is being re-released as freeware. 
+ Download PocketChess v1.0 for Royal daVinci (pre-Nov
+ 17th 1999 daVincis) 
+ or if you prefer, you can download just PocketChess.app . 
+ Note: I will consider making PocketChess available for the newer daVinci's once the SDK
+ is available. 
+ Note : PocketChess 2.0 is under development! If you haven't done so
+ already, now is a great time to send me mail 
+ with your wish list and favorite features. For those who have sent me their requests,
+ thank you.

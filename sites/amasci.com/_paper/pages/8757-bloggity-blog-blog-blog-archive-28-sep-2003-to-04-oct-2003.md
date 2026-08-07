@@ -1,0 +1,306 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 28 Sep 2003 to 04 Oct 2003"
+source_domain: amasci.com
+source_path: ~tegan/blog/20030928-20031004.html
+order: 8757
+reachable_from_entry: false
+images: 24
+internal_links: 9
+extracted: 2026-08-07T17:16:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 28 Sep 2003 to 04 Oct 2003
+
+*Source page: `~tegan/blog/20030928-20031004.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive L<br />
+The 50th Archive page of Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, October 04, 2003 <span id="106532332645298560"></span></p>
+<strong>Sketchbook - Jeff Matsuda</strong>
+<p>Another early sketch, Jeff Matsuda looked at me in sheer disbelief when I asked him to draw Aquaman. "He's too hard!" he sputtered, and I quickly said that no, no, another character would be fine. Perhaps he saw my disappointment. Perhaps it was the challenge. For whatever reason, he decided to give Aquaman himself a shot, and drew him in his own inimitable way. This quickly became one of my favorites, and has remained so because it's both Aquaman and very much a Matsuda character. It's become even more valuable to me since the debut of Jackie Chan Adventures, with Matsuda character designs with whom I could compare my Aquaman.</p>
+<a href="http://www.jeffmatsuda.com/"><img src="http://www.eskimo.com/~tegan/blog/sketch/sketch_MatsudaJ.jpg" data-border="0" width="282" height="400" /></a><br />
+<strong>AQUAMAN</strong><br />
+<strong>by Jeff Matsuda</strong><br />
+19 September 1999<br />
+(permission to post given 31 August 2003 via e-mail)<br />
+<a href="http://www.jeffmatsuda.com/">www.jeffmatsuda.com</a>
+<p>This is a very light drawing. It's on page seven of my first sketchbook, right after Matt Haley's notorious Batman.</p>
+<p>To see all the sketches I have permission to post so far, check out my <a href="http://www.eskimo.com/~tegan/blog/sketch">Sketchbook Page</a>. If you have any contact information for any of the <a href="http://www.eskimo.com/~tegan/blog/sketch/index.html#wanted">other artists I'm trying to contact</a>, please <a href="mailto:tegan@eskimo.com?subject=Bloggity-Blog-Blog-Blog">e-mail me</a>. Click for a <a href="http://www.eskimo.com/~tegan/blog/sketch/random.html">random Aquaman sketch</a>.<br />
+</p>
+by Tegan at <a href="#106532332645298560">8:08 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106532332645298560&#39;);"></a>
+<hr />
+<span id="106527552744176964"></span>
+<strong>Very Busy</strong>
+<p>I get to work all weekend, so I'm very busy. I'll be blogging (hopefully) when I get home from work today, if I don't fall alseep.<br />
+</p>
+by Tegan at <a href="#106527552744176964">6:52 AM</a> Seattle time <a href="javascript:HaloScan(&#39;106527552744176964&#39;);"></a>
+<hr />
+<p>Friday, October 03, 2003 <span id="106519776444997578"></span></p>
+<strong>Random Thoughts</strong>
+<p>Must-see <a href="http://home.nc.rr.com/tuco/looney/acme/acme.html">ACME catalog</a>, showing all the neat things you too can buy from ACME if you live in a WB cartoon! <em>via neilalien</em></p>
+<p>Teresa at In Sequence has some comments on <a href="http://www.insequence.org/archives/000283.html">Valkyries in Aquaman</a>. Wow, someone besides me <em>is</em> reading the book!</p>
+<p>Olsen Ross shows how an evil professor <a href="http://www.olsenross.com/blog/archives/000078.html">changes your name</a>. I'm not keen on being Dorkey Monkeykisser, married to Chim-Chim Monkeykisser.</p>
+<p>Cut up your comics! The story of <a href="http://www.mindspring.com/~roba65/introduction.htm">Marvel value stamps</a>. <em>via Mark Evanier</em></p>
+<p>Hey, I can <a href="http://sportsillustrated.cnn.com/2003/football/nfl/10/02/limbaugh.resigns.ap/?cnn=yes">watch ESPN again!</a></p>
+<p>Whew! <a href="http://www.newscientist.com/news/news.jsp?id=ns99994228">Just missed us.</a><br />
+</p>
+by Tegan at <a href="#106519776444997578">9:16 AM</a> Seattle time <a href="javascript:HaloScan(&#39;106519776444997578&#39;);"></a>
+<hr />
+<p>Thursday, October 02, 2003 <span id="106515052375426992"></span></p>
+<strong>Strike Blogging</strong>
+<p>A <a href="http://msdcommons.proboards4.com/index.cgi?board=general&amp;action=display&amp;num=1065149163">note in the MSD Commons</a> has me a wee bit riled up. A teacher wrote this:</p>
+<p><em>Yesterday I received the mailing from the district showing what I made on last year's salary schedule along with TRI. It provided a comparison to what I would make on the SAM. According to this letter I would make $881 more.</em></p>
+<p>Not bad, you say? Keep reading...</p>
+<p><em>It wasn't until well into the day that Mr. C pointed out to me that the district (I'm sure quite unintenionally) failed to include the 5% I have been receiving for my Masters in their representation of last years pay.</em></p>
+<p>This is a typical Marysville school district tactic. In representing the teachers' salaries as compared to the state average, they included all the extra pay for Masters degrees and coaching and anything else they could throw in. But when they want to show what a teacher was making last year in comparison to what they'll make on the "new" salary schedule, they only include the absolute barest base salary.</p>
+<p><em>Factoring this in I will experience a reduction in pay of $2,047.40 while the district insists to the media and the parents that NO teacher will have a pay reduction.</em></p>
+<p>Gee, that $900 turns negative real fast when you actually do the correct math, doesn't it?</p>
+<p><em>I'm anxious to be in my classroom; this will be year 31 for me. I resent people who say we shouldn't be teaching for money but because we love kids. I've loved thousands of other people's kids and plan to for years to come. Still, I will not let my love be used against me. I have no intention of working eight more days for $2K less.</em></p>
+<p>Yet people keep insisting that teachers take less and less pay for more and more work... "do it for the kids!" they cry, ignoring that the teachers are people too and deserve better than to be treated like dirt.</p>
+<p>I wish this strike was only about money. I wish it was a simple matter of disagreement on numbers. It isn't. It's about basic human dignity, and the fact that teachers aren't allowed to have any. What's wrong with a world where the people charged with the task of educating the next generation are treated like greedy scum when they just don't want a pay cut?<br />
+</p>
+by Tegan at <a href="#106515052375426992">8:08 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106515052375426992&#39;);"></a>
+<hr />
+<span id="106514170891066610"></span>
+<strong>Rapid Reviews - 1 October 2003 - Part II</strong>
+<p><strong>Superman: Birthright #4</strong>: The artwork still doesn't do it for me. Yeah, I can follow the story ok, but the art just isn't anything I enjoy. And, to be honest, the story isn't doing much for me in this issue, either. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a></p>
+<p><strong>Formerly Known As The Justice League #4</strong>: Teleportational vomit. Right. This is just what I expect from this book. Yeah, silly and light. With vomit jokes. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p><em>Warning: After the recent problems with CrossGen, you may want to take any of my reviews of CrossGen books with a grain of salt, as I may be filtering my perceptions through mud-colored glasses. This negative perception will last at least until Robin Riggs is paid for the work he did for CrossGen, and possibly until Robin also gets that personalized apology from Alessi for Alessi's slander against Robin.</em></p>
+<p><strong>Ruse #23</strong>: Finally, some actual detecting! Ok, it's Emma doing all the work, and Simon getting all the glory, but at least there's something happening that doesn't involve people going invisible or using sigil powers or something. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p><strong>Way of the Rat #17</strong>: The action kicks up a bit more as we learn that one of the "ghosts" is more than that, it's a ghost-eater. The balance of threat and action is excellent in this issue, which is definitely the best in a few months. Jeff Johnson's art is improving each issue, and some of the work in this issue is just <em>really</em> good. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></p>
+<p>Still to review: Supreme Power, Astro City, Powers, and Usagi Yojimbo.<br />
+</p>
+by Tegan at <a href="#106514170891066610">5:41 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106514170891066610&#39;);"></a>
+<hr />
+<span id="106511130245324819"></span>
+<strong>Selling Superheroes</strong>
+<p><a href="http://www.ingmoneymentor.com/index.html">ING</a> is using superheroes to sell its services. Neat poses of Flash and Kyle Lantern greet users who want to learn more about saving and paying for college. <em>via Comicon</em></p>
+<p>On a similar note, you can get <a href="http://www.superlithos.com/">motivational posters</a> featuring Marvel superheroes. And super villians. Like Magneto. Via Journalista, who points out a <a href="http://www.baddaystudio.com/motivation.html">response</a> to those posters in the form of more, um, motivational posters (parental guidance suggested).<br />
+</p>
+by Tegan at <a href="#106511130245324819">9:15 AM</a> Seattle time <a href="javascript:HaloScan(&#39;106511130245324819&#39;);"></a>
+<hr />
+<p>Wednesday, October 01, 2003 <span id="106507293869183415"></span></p>
+<strong>Rapid Reviews - 1 October 2003 - Part I</strong>
+<p><strong>Bart Simpson's Treehouse of Horror #9</strong>: First story: Dan Brereton's art is totally unsuited to "The Simpsons" -- and that <em>makes</em> this story. Yup, it's a Lord of the Rings riff with fantastic artwork. Second story: I love seeing Poe's words in the mouths of Simpsons characters. Cha! Third story: Jack the Ripper meets "The Simpsons" in a classic Elseworlds tale. Uh-huh. As usual, this book delivers the goods. If you like the TV "Treehouse" tales, this is a must-read. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></p>
+<p><strong>Smallville: Exile [3-01]</strong>: Whoa. I wanna see this one again. This story is about being alone in the world. In Clark's case, alone in Metropolis. In Lex's case, alone on an island. But of course, neither of them are actually alone. Not the best ever Smallville episode, but it's right up there. And the cliffhanger... whoa. I wanna see this one again. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a></p>
+<p><strong>Justice League Adventures #24</strong>: Hey, Robin Riggs inked this! Cool! Unfortunately, the story didn't do much for me. Typical alien-in-strange-place story. The ending was a bit unexpected, but we never saw enough of the kid in the story to get a feel for him, nor develop any sympathy, so it hardly seemed like anything special. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a></p>
+<p>Still to review: Birthright, Formerly Known as..., Supreme Power, Astro City, Powers, Usagi Yojimbo, Ruse, and Way of the Rat.<br />
+</p>
+by Tegan at <a href="#106507293869183415">10:35 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106507293869183415&#39;);"></a>
+<hr />
+<span id="106505624046355445"></span>
+<strong>Marysville Strike Update</strong>
+<p>So there was a mediation session today. Depending on who you asked, it lasted anywhere from 20 to 45 minutes. Not a bit longer. The teachers' union bargaining team asked for the financial records of the district that were supposed to have been prepared by mid-September, but still haven't been released. The district refused to turn over the financial information. They simply changed the date on the same offer they've been offering since April, the one in which some teachers get a serious pay cut, and refused to even discuss it. The mediator closed the meeting, and called the next one for Monday, October 6th, at 2 pm.</p>
+<p>Ok. Several problems with this.</p>
+<p>The district was supposed to have those financial records prepared, by state law, by mid-September. They are supposed to be publicly available, but they refuse to turn them over to the union bargaining team. Why won't they release the financial records? What are they hiding?</p>
+<p>The teachers' union presented the same offer as before, again with the provision that they would be flexible and the numbers could change downward (at this point, no teacher expects an 11% increase over three years, most of them would just be happy with a one-year contract that doesn't have pay cuts). The district refused to even discuss the numbers at all, and will not bargain.</p>
+<p>And lastly, what the heck is the mediator thinking, making everyone wait FIVE DAYS for another session?!?? Did one of the sides ask for this, or was it the mediator's idea? The district is trying to pin the blame on the teachers, but I don't buy it. Why aren't the two groups meeting non-stop? I'm beginning to wonder if a different mediator can be called in to monitor the actions of the current mediator.<br />
+</p>
+by Tegan at <a href="#106505624046355445">5:57 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106505624046355445&#39;);"></a>
+<hr />
+<span id="106504332734947577"></span>
+<strong>More Random Thoughts</strong>
+<p>I'm going to do a strike blog later. Just a warning.</p>
+<p>Comics came today, so I plan on some reading in a bit. A good list, ten books. I hear that Indy HeroClix also arrived, but I didn't see them as I didn't stop by the shop.</p>
+<p>It's October, and there has been no bombshell of proof about the WMD by the Bush Administration. Another lie.</p>
+<p>I didn't sleep well last night. I had horrible dreams of trying to build something out of LEGO, and the pieces just wouldn't snap together right, or they would snap loose just as I got another piece on. I attribute the dreams to the fact that the shop just got a ton of LEGO in and we have no place at all to store it. I suspect I'll have worse dreams tonight, if today's lack of progress is any indication.</p>
+<p>Too tired to think now. Be back later.<br />
+</p>
+by Tegan at <a href="#106504332734947577">2:22 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106504332734947577&#39;);"></a>
+<hr />
+<p>Tuesday, September 30, 2003 <span id="106498538414322950"></span></p>
+<strong>Random Thoughts</strong>
+<p><a href="http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic&amp;f=36&amp;t=001421">Comicon interviews Eric Shanower</a>.</p>
+<p>Colleen Doran had a <a href="http://www.adistantsoil.com/phpBB2/viewtopic.php?t=460">terrifying adventure in the hurricane</a> but managed to keep her sense of humor. Wow.</p>
+<p>Johnny B is <a href="http://johnnybacardi.blogspot.com/2003_09_28_johnnybacardi_archive.html#106495046227437034">doing really well</a> predicting NFL games. Let's see how long it keeps up, shall we? And we have three books in common on our comic shipping list this week.</p>
+<p>Peter David <a href="http://peterdavid.malibulist.com/gmlog/00000555.html">also mentions</a> the possibility of the Cubs and the Red Sox in the World Series.</p>
+<p><a href="http://www.hembeck.com/FredSez.htm">Fred Hembeck's latest two entries</a> are reviews of "I Have To Live With This Guy" and of the Comicon episode of "Yes, Dear" which I managed to completely avoid, thank goodness.</p>
+<p>The commentator mentioned in my last blog entry, Ken Schram, has a <a href="http://www.komotv.com/kenschram/">page at KOMO</a> of his previous comments. I tend to agree with him far more often than I disagree, so conservatives may want to avoid reading anything he says.</p>
+<p>In <a href="http://www.newsfromme.com/archives/2003_09_30.html#001027">his article</a> about Joe Simon settling with Marvel over Captain America, Mark Evanier made a statement that for some reason hit me like a ton of bricks. "But creative folks, we're told by many (among them, those who want to keep all the money for themselves) are supposed to have a less altruistic <em>raison d'tre</em>. They're supposed to put everything ahead of the paycheck." The reason it hit me like a ton of bricks is because this is the <em>exact same argument</em> that people use to explain why teachers should not get raises, and shouldn't complain about pay cuts.</p>
+<p>Uh-oh, I'm drifting back to strike topics. Time to end for the night...<br />
+</p>
+by Tegan at <a href="#106498538414322950">10:16 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106498538414322950&#39;);"></a>
+<hr />
+<span id="106498205838653526"></span>
+<strong>Commentary on Local News Channel</strong>
+<p>KOMO 4 news is currently my favorite station for airing <a href="http://www.komotv.com/stories/27503.htm">Ken Schram's Commentary on the Marysville Strike</a>, which covers the most serious problem in the district right now: the way the district is trying to get public opinion against the teachers.</p>
+<p>Says Schram: "It's a good tactic -- using public opinion as a bargaining tool. As I see it, that's what the Marysville school district is up to. Only problem is, tactics aren't what school districts should be about." Precisely! School districts are about teaching children the basic tools they need to get along in life. But bargaining tactics shouldn't be on the curriculum for grade schoolers.</p>
+<p>Say Schram: "No contact. No talk. No public meetings. The district keeps an invisible profile and hopes the teachers end up taking the hit." To some degree it's working, but there are <a href="http://www.marysvilleparents.com">people</a> fighting to keep the teacher's side of the story in the news, too. Now, if we could just get the reporters to cover the story evenly, and not just get sound bites from the district's expensive PR gal.</p>
+<p>Says Schram: "I imagine the Marysville school superintendent would get some smug satisfaction if the same teachers who voted "no confidence" in her last year, were to end up vilified by the public this year." That same superintendent, and the head of the school board, have already indicated that they don't believe the vote of "no confidence" meant anything, so yeah, I'm sure it would satisfy them both if the teachers get all the blame for this stupidity.</p>
+<p>Schram finishes with "Strikes don't end until issues are resolved. Issues aren't resolved without negotiations. Negotiations require compromise. Or you can just fall back on tactics: trading public welfare for public opinion." I just hope the news director at Schram's own station is listening. The whole story is not getting out there. The district is <em>still</em> lying about teachers getting pay cuts. And people still believe the district because the teachers' union doesn't have a highly paid mouthpiece to spout precise lies to the TV crews. And so we wait and get more frustrated day by day.</p>
+<p>At least there are supposed to be negotiations tomorrow. And school still hasn't been cancelled for the last two days of the week. Maybe there's hope?<br />
+</p>
+by Tegan at <a href="#106498205838653526">9:20 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106498205838653526&#39;);"></a>
+<hr />
+<span id="106497512894485635"></span>
+<strong>Late Bloggin'</strong>
+<p>So I meant to blog before I left for work, but didn't really have time and couldn't think of anything to write. Then I meant to blog as soon as I got home, but I was exhausted from moving boxes and boxes of fresh LEGO around the store. So I'm blogging a wee bit later than usual.</p>
+<p>The receiving clerk at work is from Minnesota, so all morning long she would call her husband to find out how the Twins/Yankees game was going. Since I'm not a Twins fan, but I'm typically anti-Yankees, I was as pleased as she was with today's result.</p>
+<p>The Mariners tied the franchise record for second-most wins in a season, and still didn't make the playoffs. It's mildly bitter. Enough to make a fan pull out hair. They are still my team, but why on Earth do they keep falling apart in the second half of the season?</p>
+<p>My ideal World Series this year would probably be the Red Sox vs the Cubs. I'm an M's fan, so I don't really care which one of them would win, but I'd like to see both teams make it. As long as I'm at work with Peggy, though, I'll be rooting for the Twins.</p>
+by Tegan at <a href="#106497512894485635">7:25 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106497512894485635&#39;);"></a>
+<hr />
+<p>Monday, September 29, 2003 <span id="106488275910099446"></span></p>
+<strong>No Baby Eric. Yet.</strong>
+<p>I was going to post Eric's baby picture here today. I scanned it recently, since Eric and his collegues were having a "guess the person from their baby picture" contest on the line. I guess the contest got delayed a bit, though, so I can't post the image in case any of his co-workers are watching. So, any Marysville Junior High School teachers actually reading this?</p>
+<p>Anyway... since I can't post Eric's picture, I thought I'd post my baby picture again. I've altered the image a little, but I don't think baby-me minds too much.</p>
+<a href="http://www.eskimo.com/~tegan/blog/MarysvilleBlogging.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/babylauraadvocate.jpg" data-border="0" width="200" height="290" /></a>
+<p>I also spent a pleasant half-hour on the phone with the husband of a friend of my mom. I meant to talk with my mom's friend, but she didn't get home, and her husband knows who I am anyway from back in our Prodigy days. He's a fellow Doctor Who fan (yes, I told him the news about the show). And he and his wife happen to live in Marysville with children in the Marysville school district. It was good to hear a parent's perspective on the strike. Like most of the parents I've talked with on-line, he thinks the administration is rotten. His other thoughts helped me see the situation more clearly. While my opinion on the district administration hasn't changed a whit, I do feel a little more educated about the problems. I desperately needed that alternate view, and it helped a LOT.</p>
+<p>And now, since you are all sick of my strike blogging anyway, I think I'll finish blogging for the day...<br />
+</p>
+by Tegan at <a href="#106488275910099446">5:45 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106488275910099446&#39;);"></a>
+<hr />
+<span id="106486235801604895"></span>
+<strong>Random Thoughts</strong>
+<p>Marta's latest is <a href="http://www.livejournal.com/users/seviet/58461.html">Bill Weasley at work</a>.</p>
+<p>*sigh* Aquaman gets <a href="http://www.pvponline.com/archive.php3?archive=20030928">no respect</a>.</p>
+<p>Wow. Sean Collins apparently <a href="http://www.alltooflat.com/about/personal/sean/?BlogNum=328">didn't like Hush</a>. Me, I don't follow Batman, so I thought Hush was a chicken, I tell you, a giant chicken!</p>
+<p>Legomancer <a href="http://slithytoves.sytes.net/~dave/main.php?wl_mode=more&amp;wl_eid=146&amp;wl_offset=7">shares my doubts</a> on the new Doctor Who.</p>
+<p>In Sequence on <a href="http://www.insequence.org/archives/000279.html">voting in the California recall election</a>.</p>
+<p>Paul is <a href="http://noxturne.blogspot.com/2003_09_28_noxturne_archive.html#106480833436111312">gathering comics to send to Iraq</a>. And there's also that picture of the evil oven mitt. I'm impressed.</p>
+<p>An indeterminate vegetable <a href="http://www.livejournal.com/users/dryad271/173764.html">rants a little</a> on the constant problem of blogging. You write a cool entry about something you strongly believe in, and nobody responds. But post the results of some crappy on-line poll, and bingo! Tons of responses.</p>
+<p>Dirk Deppey has some Journalista thoughts on <a href="http://www.tcj.com/journalista/zarch200309E.html#massacree">the whole CrossGen thing</a>.</p>
+<p><a href="http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic&amp;f=2&amp;t=005691">Usagi Yojimbo lovefest</a> at Comicon. Not only does he draw a great comic, Stan is also a very nice guy.</p>
+<p>Rich Johnston applauds <a href="http://www.comicbookresources.com/columns/?column=14">Mark Millar's Orson Welles/Batman hoax</a> in his <a href="http://www.comicbookresources.com/columns/?column=13">Lying in the Gutters</a> column.</p>
+<p><a href="http://antwrp.gsfc.nasa.gov/apod/ap030925.html">Hurricanes and Galaxies</a>. Interesting juxtaposition.</p>
+<p>There are a whole bunch of comments I'd like to make on the current political situation, particularly the Plame affair, but other people have said them better already, and I'm still waiting until the end of the month for the Bush Administration's bombshell on WMD.<br />
+</p>
+by Tegan at <a href="#106486235801604895">12:05 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106486235801604895&#39;);"></a>
+<hr />
+<span id="106485339216984719"></span>
+<strong>Oooh, Bloggered...</strong>
+<p>Apparently Blogger got bloggered last night to the point that some people trying to reach specific blogspot sites were redirected to totally unrelated and usually somewhat pornographic sites. While I saw some of that in hubby-Eric's archives, I didn't notice the behavior on either of our main blogs. However, if you did, I'd like to apologize and assure you that it wasn't our fault. Not sure who to blame, but it sure wasn't intentional on our part.</p>
+by Tegan at <a href="#106485339216984719">9:36 AM</a> Seattle time <a href="javascript:HaloScan(&#39;106485339216984719&#39;);"></a>
+<hr />
+<p>Sunday, September 28, 2003 <span id="106480409148080318"></span></p>
+<strong>A Lot Of Nothing To Say</strong>
+<p>I wish I could offer a more entertaining blog tonight, but I'm not in a terribly happy mood. The strike is draining, and nothing seems to help much. The words won't come, so blogging is very difficult.</p>
+<p>I'm aware of many people who are anti-union. I'm not exactly a big fan of unions myself, though I can see the good they've accomplished through the years. Some people seem to think they've done no good at all, or that any improvements in working conditions would have happened eventually anyway. The key word they seem to forget is "eventually". People with power will get away with exactly as much as they are allowed to get away with, in general. While there are many exceptions, much of the time the "Boss" will lord it over the workers unless there is some kind of counter to the boss being ... well, bossy. Intelligent bosses realize that happy workers are more productive workers, and thus conditions are improved. But too many bosses aren't that smart, and so work their people harder and harder to try and get results they want, killing morale and sometimes people while they are at it. While I believe that natural market forces would get rid of bosses like that eventually, the deaths of many more workers would have happened first if unions hadn't come along.</p>
+<p>Of course, to an anti-union person, the death of some hypothetical historical worker means absolutely nothing. Besides which, modern unions aren't about preventing death so much as getting a better deal for the worker, right? I don't know. I think a lot of modern unions fighting to preserve basic things like health care are going a <em>long</em> way towards preventing death. Still...</p>
+<p>Getting to the teachers' union, they are all about making it possible for teachers to actually teach, instead of just babysitting kids. In the particular district that hubby-Eric was hired into, members of the Tulalip tribe make up about 10% of the student population. The district also decided many years ago to build a strong special education program, and many families with special needs students started to move to Marysville just to get the best schooling available. This has created a teacher core that is diverse and culturally sensitive. Apparently, 25% of the teachers in the district have Masters degrees or higher. And, until the current administration arrived a couple of years ago, teacher turnover was <em>very</em> low. Teachers liked the district and wanted to stay. This meant that average salaries in Marysville were higher, because most of the teachers had more experience.</p>
+<p>When this strike came along, the goal of the union was to preserve the status quo. While the situation has been deteriorating for a couple of years, the hope was to get the teachers a deal similar to the last one, with modest raises in line with the state averages, and to keep all the programs intact. What the district offered was a proposal that would gut the special education program, allow for unlimited class sizes, and cut teacher pay in the case of the most experienced teachers. Anti-union folks think that the teachers should have accepted the deal, even though it would have resulted in some teachers with over 40 kids per class, including no limit on behavioral problem students, and a pay cut. Why on Earth should any teacher accept that? That's not a teaching job, that's a babysitting job. But if you ask an anti-union person what the teachers <em>should</em> have done, they say that if the teacher didn't like it, they should quit.</p>
+<p>Ok, suppose every teacher that is dissatisfied with the situation quits. Just pretend that the district can then find people to replace them. The replacements will be less experienced, and won't be familiar with the other teachers or even the teaching program. After facing classrooms of 40 or so students for a few days, some of them will quit. Then you get less experienced people. Until you aren't getting people who love teaching, you are getting people who just want a job. Some of them will succeed in getting some information into some of the students heads, but most of the students will remain uneducated. Chaos will rule in the classroom, and the quality of education will plummet. Pure anti-union folk think that this is the ideal solution. After all, who cares about the current generation of students? In a decade or two, the problem will sort itself out and things will be peachy again.</p>
+<p>That's what I don't get. Why anyone in Marysville would want this to happen. I suppose I can almost understand people who don't have children having that attitude, but how on earth could any parent who actually wants their child to <em>learn</em> be willing to let the district administration destroy the solid core of teachers that the district has built up over the years? And yet there are actually parents out there actively campaigning to get a court injunction against the teachers. Are these people idiots? Are they completely ignorant of what's really happening? I can't believe they care so little for their children that they would let the district remove all the safeguards that make real teaching possible, yet that's what they are doing.</p>
+<p>I wish I had answers. I wish I could help. I wish I could fully understand every side of the issue. I wish I could end this stupid strike so my hubby could get back to work and so the seniors could stand a chance of graduating on time. If only, if only...<br />
+</p>
+by Tegan at <a href="#106480409148080318">7:54 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106480409148080318&#39;);"></a>
+<hr />
+<span id="106477616619032488"></span>
+<strong>Marysville Teachers Strike Update</strong>
+<p>Not really much to say. There's been no progress in the negotiations, because the mediator isn't calling the two sides back until Wednesday! The district has been spinning the news to make sure that the teachers will be blamed for the delay, as their expensive mouthpiece has been constantly saying that the district would like to meet every day. The district is also sending out mailings on a regular basis that cost a lot of district money (estimated $4000 for each mailing) to all the parents in the district, keeping them "updated" on the negotiation process despite the gag order from the mediator.</p>
+<p>I built a new page here on my blog to link to all my Marysville posts, as well as to the major sources of information in the strike: <a href="http://www.eskimo.com/~tegan/blog/MarysvilleBlogging.html">Marysville Strike Blogging by Tegan</a>. I hope and pray that page will be retired soon as irrelevant.</p>
+<p>The <a href="http://pub17.ezboard.com/bisupportmarysvilleteachers">parents message board</a> has found hubby-Eric's blog. As I've been posting to the message board for awhile under my well-known nick of RealTegan, I've explained our point of view. I realized that hubby-Eric's archives were bloggered, so I set up a parallel archive on my site, so folks can read his story from <a href="http://www.eskimo.com/~tegan/blog/iteach_200308.html">the beginning</a>. The contrast of his early entries to the more recent ones is very painful for me to read.</p>
+<p>Thank you to the folks who have posted encouraging words on hubby-Eric's blog, and e-mailed me with words of support. At this point, such boosts are desperately needed and deeply appreciated.<br />
+</p>
+by Tegan at <a href="#106477616619032488">12:09 PM</a> Seattle time <a href="javascript:HaloScan(&#39;106477616619032488&#39;);"></a>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20030921-20030927.html">09/21/2003 - 09/27/2003</a><br />
+09/28/2003 - 10/04/2003<br />
+<a href="20031005-20031011.html">10/05/2003 - 10/11/2003</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

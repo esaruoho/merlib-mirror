@@ -1,0 +1,6 @@
+Uncle Chuck's Lightning Applet, v1.1 
+
+ Uncle Chuck's "Lightning" 
+ A Java Applet, v1.1 
+
+ It Was A Dark And Stormy Night...

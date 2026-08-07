@@ -1,0 +1,434 @@
+// These functions parse through the input from the client and store the
+// resulting values in a data structure called the cgi_array.
+
+#include <iostream.h>
+#include <fstream.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <string.h>
+#include <ctype.h>
+#include "debug.h"
+#include "errors.h"
+#include "unique_id.h"
+#include "time_slot.h"
+#include "reservations.h"
+#include "aircraft.h"
+#include "fleet.h"
+#include "html.h"
+#include "data_file.h"
+#include "cgi_data.h"
+#include "main.h"
+
+
+
+
+//Load the request from the client into the cgi_array
+
+void parse_input_data(cgi_data* & cgi_array, int & cgi_array_length)
+  {
+  int outcome = 1;
+  int delete_query_string = 0;
+  char *query_string;
+  char *key_value_pair;
+
+  cgi_array = NULL;
+  cgi_array_length = 0;
+
+  query_string = get_query_string(delete_query_string);
+  save_query_string(query_string);
+  if (query_string != NULL)
+    {
+
+    // debug stuff
+    // cout << "query_string = " << query_string << endl;
+
+    // use strtok() in a 'while' loop to grab a key/value pair and
+    // load them into the cgi_array
+
+    key_value_pair = strtok(query_string, "&");
+    while (key_value_pair != NULL)
+      {
+        load_key_value_pair(cgi_array, cgi_array_length, key_value_pair);
+        key_value_pair = strtok(NULL, "&");
+      }
+    }
+
+  // if the query string was read from an environment variable, there is
+  // no need to free any memory
+
+  if (delete_query_string)
+    delete [] query_string;
+  }
+
+
+
+
+// Get the command string that was sent to us by the client. The
+// 'delete_query_string' is simply a flag that tells the calling function
+// whether it needs to free the memory for the command string.
+
+char *get_query_string(int & delete_query_string)
+  {
+  char *request_method;
+  char *query_string = NULL;
+  char *content_length_str;
+  int   content_length;
+
+#ifdef FBFC_DEBUG
+delete_query_string = 1;
+query_string = get_debug_query_string();
+#else
+
+  delete_query_string = 0;
+  request_method = getenv("REQUEST_METHOD");
+  if (request_method == NULL)
+    {
+    strcpy(fatal_err_function, "get_query_string");
+    sprintf(fatal_err_msg, "getenv REQUEST_METHOD was NULL");
+    fatal_error();
+    }
+  else if ( strcmp(request_method, "GET") == 0 )
+    {
+    query_string = getenv("QUERY_STRING");
+    if (query_string == NULL)
+      {
+      strcpy(fatal_err_function, "get_query_string");
+      sprintf(fatal_err_msg, "getenv QUERY_STRING was NULL");
+      fatal_error();
+      }
+    }
+  else if ( strcmp(request_method, "POST") == 0 )
+    {
+    content_length_str = getenv("CONTENT_LENGTH");
+    if (content_length_str == NULL)
+      {
+      strcpy(fatal_err_function, "get_query_string");
+      sprintf(fatal_err_msg, "getenv CONTENT_LENGTH was NULL");
+      fatal_error();
+      }
+    else
+      {
+
+      // we need to allocate space for the query string, which will
+      // be read from stdin
+
+      content_length = atoi(content_length_str);
+      query_string = new char [content_length+1];
+      if ( cin.get(query_string, content_length+1) )
+        delete_query_string = 1;
+      else
+        {
+        strcpy(fatal_err_function, "get_query_string");
+        sprintf(fatal_err_msg, "cin did not read the expected content_length");
+        fatal_error();
+        }
+      }
+    }
+#endif
+  return query_string;
+  }
+
+
+
+
+// grow the cgi_array 1 element larger
+
+void enlarge_cgi_array(cgi_data* & cgi_array, int & cgi_array_length)
+  {
+
+  ++cgi_array_length;
+  if (cgi_array_length == 1)
+    {
+    cgi_array = (cgi_data *) malloc( sizeof(cgi_data) );
+    }
+  else
+    {
+    cgi_array = (cgi_data *) realloc( (void *) cgi_array, 
+                                      sizeof(cgi_data) * cgi_array_length );
+    }
+
+  // initialize the new array element
+
+  cgi_array[cgi_array_length-1].key = NULL;
+  cgi_array[cgi_array_length-1].count = 0;
+  cgi_array[cgi_array_length-1].value = NULL;
+  }
+
+
+
+
+// Break apart the 'key' and the 'value' and store the results in the
+// cgi_array
+
+void load_key_value_pair(cgi_data* & cgi_array, int & cgi_array_length,
+                         char *key_value_pair)
+  {
+  char *key = key_value_pair;
+  char *value = key_value_pair;
+  int found = 0;
+  int finished = 0;
+  cgi_data *cgi_data_ptr = NULL;
+  int i;
+
+  // move the "value" pointer just beyond the '=' character, and replace
+  // the '=' with '\0'
+
+  while (*value != '=')
+    ++value;
+  *value = '\0';
+  ++value;
+
+  // do we already have this "value" in the cgi_array?
+
+  for (i = 0; (i < cgi_array_length) && (!found); ++i)
+    {
+    if ( strcmp( cgi_array[i].key, key ) == 0 )
+      {
+
+      // we have already encountered this key, so no new array element
+      // is required
+      
+      found = 1;
+      cgi_data_ptr = &cgi_array[i];
+      }
+    }
+
+  if (!found)
+    {
+
+    // this is a new key value, so add a new element to the cgi_array
+
+    enlarge_cgi_array(cgi_array, cgi_array_length);
+    cgi_data_ptr = &cgi_array[cgi_array_length - 1];
+    cgi_data_ptr->key = (char *) malloc( strlen(key) + 1 );
+    strcpy( cgi_data_ptr->key, key );
+    }
+
+  // Add another char* pointer to the array of char* value pointers.
+
+  if (cgi_data_ptr->count == 0)
+    cgi_data_ptr->value = (char **) malloc( sizeof(char*) );
+  else
+    cgi_data_ptr->value = (char **) realloc( cgi_data_ptr->value,
+                          sizeof(char*) * (cgi_data_ptr->count + 1) );
+
+  // point the new char* pointer at some new memory space and copy in the value
+  
+  cgi_data_ptr->value[cgi_data_ptr->count] = 
+                                        (char *) malloc( strlen(value) + 1 );
+  strcpy( cgi_data_ptr->value[cgi_data_ptr->count], value );
+
+  translate_value_string(cgi_data_ptr->value[cgi_data_ptr->count]);
+
+  ++cgi_data_ptr->count;
+  }
+
+
+
+
+// The data is, by necessity, a little scrambled by the time it gets to
+// us, so unscramble it.
+
+void translate_value_string(char* value_string)
+  {
+  char *ptr;
+  char *hex_ptr = NULL;
+  int finished = 0;
+
+  // change the '+' character to a blank space
+
+  for( ptr = value_string; *ptr != '\0'; ++ptr)
+    {
+    if (*ptr == '+')
+      *ptr = ' ';
+    }
+
+  // translate hex values, such as "%0a", to the equivalent character,
+  // such as '\n'
+ 
+  while (!finished)
+    {
+    hex_ptr = find_hex_value(value_string);
+    if (hex_ptr == NULL)
+      finished = 1;
+    else
+      replace_hex_value(hex_ptr);
+    }
+  }
+
+
+
+
+// Look for a 3 character sequence in str_ptr that represents a hex number.
+// In such a string, the first character will be '%' and the next 2 characters
+// will be a valid hex number/digit ( 0-9 and a-f ).
+//
+char *find_hex_value(char *str_ptr)
+  {
+  char *hex_ptr = str_ptr;
+  char *tmp;
+  int found = 0;
+
+  while ( (*hex_ptr != '\0') && (!found) )
+    {
+    if ( ( *hex_ptr == '%' ) &&
+         ( isxdigit( *(hex_ptr + 1) ) &&
+         ( isxdigit( *(hex_ptr + 2) ) ) ) )
+      found = 1;
+    else
+      ++hex_ptr;
+    }
+
+  if (!found)
+    hex_ptr = NULL;
+
+  return hex_ptr;
+  }
+
+
+
+
+// Translate hex values, such as "%0a", to the equivalent character,
+// such as '\n', Then, move all the remaining characters 2 spaces to
+// the left until we hit the '\0' character. However, if it is the %0d
+// character (carriage return) then just eliminate it completely.
+//
+void replace_hex_value(char *ptr)
+  {
+  char buffer[8];
+  int  i;
+  int finished = 0;
+
+  if ( ( strncmp(ptr, "%0d", 3) == 0 ) ||
+       ( strncmp(ptr, "%0D", 3) == 0 ) )
+    {
+
+    // get rid of these 3 characters and move everything over
+    // 3 slots to the left until we hit the '\0' character
+  
+    while (!finished)
+      {
+      *ptr = *(ptr + 3);
+      if (*ptr == '\0')
+        finished = 1;
+      else
+        ++ptr;
+      }
+    }
+  else
+    {
+
+    // turn something like this: "%0a"
+    // into something like this: "0x0a"
+
+    sprintf(buffer, "0x%c%c", *(ptr + 1), *(ptr + 2) );
+
+    // convert the hex string (such as "0x0a") to an integer value (like 10)
+
+    i = strtol(buffer, (char **)NULL, 16);
+
+    // replace the '%' character with our new ascii character (like '\n')
+
+    *ptr = i; // the integer is converted to the equivalent ascii character
+
+    // We now have 2 no-longer-needed characters, so move everything over
+    // 2 slots to the left until we hit the '\0' character
+  
+    while (!finished)
+      {
+      ++ptr;
+      *ptr = *(ptr + 2);
+      if (*ptr == '\0')
+        finished = 1;
+      }
+    }
+  }
+
+
+
+
+// get rid of un-needed memory
+
+void nuke_cgi_array(cgi_data* & cgi_array, int & cgi_array_length)
+  {
+  int i;
+  int j;
+
+  for (i = 0; i < cgi_array_length; ++i)      // for every element of cgi_array
+    {
+    free(cgi_array[i].key);                   // free the key
+    for (j = 0; j < cgi_array[i].count; ++j)  // for every value string
+      free(cgi_array[i].value[j]);            // free the value string
+    free(cgi_array[i].value);                 // free the array that pointed
+    }                                         // at the strings
+  free(cgi_array);                            // free the cgi_array
+  cgi_array = NULL;
+  cgi_array_length = 0;
+  }
+
+
+
+
+// Read the query_string from a file, rather than the usual GET/POST 
+// methods. The 1 line query string should look something like this:
+//
+// request=res_update&ac_id=7&user=Leah+Adams&from_month=Mar&submit_button=GO
+
+
+char *get_debug_query_string()
+  {
+  int buf_size = 2048;
+  char *buffer;
+  ifstream f_in;
+  static char* filename = "debug_input";
+
+  // read in the query stream
+
+  f_in.open(filename);
+  if (!f_in) 
+    { 
+    
+    // assume that no debug-input-file means we are suppose to just
+    // show the main html page
+
+    buffer = NULL;
+    }
+  else
+    {
+    buffer = new char [buf_size];
+    f_in.getline(buffer, buf_size);
+    f_in.close();
+    }
+
+  return buffer;
+  }
+
+
+
+
+// save a copy of the query string in case we need to do some debugging
+// after a crash
+
+void save_query_string(const char* query_string)
+  {
+  static char* filename = "last_command";
+  ofstream f_out;
+
+  // read in the current value of the unique number
+
+  f_out.open(filename);
+  if (!f_out) 
+    { 
+    strcpy(fatal_err_function, "save_query_string");
+    sprintf(fatal_err_msg, "unable to open %s to write", filename); 
+    fatal_error();
+    }
+
+  if (query_string == NULL)
+    { f_out << "query_string was NULL" << endl; }
+  else
+    { f_out << query_string << endl; }
+
+  f_out.close();
+  }

@@ -1,0 +1,109 @@
+Bloggity-Blog-Blog-Blog Archive 20 Nov 2005 to 26 Nov 2005 
+
+ Bloggity-Blog-Blog-Blog Archive 
+ Laura "Tegan" Gjovaag 
+
+ Saturday, November 26, 2005 
+
+ Computer Woes 
+ The keyboard on my laptop has just completely died. Right in the middle of a sentence I was writing for the Aquaman website. I'm still extremely grateful to Eric's dad for giving me this used laptop almost two years ago for Christmas. It's done wonders since then, and has worked very hard. I daresay that I used it more each week than he used it during the entire time he had it before giving it to me. But now the keyboard is dead, and I'm using a very old and really uncomfortable keyboard from my long-dead desktop. I was thinking very seriously about getting a new laptop soon anyway, this has just made the need a little more urgent. I don't know exactly what I want to get yet, but it would be nice to have an internal wireless card and a fast processor. In the incredibly unlikely event that someone rich and generous is reading this, I put a computer on my wishlist . I don't know if I'll be able to wait until Christmas, but I'll hold out with the annoying keyboard as long as I can. While some computers are good for just about anything (like the one I put on the wishlist), finding a cheaper computer that has everything I want might be a bit more difficult. 
+ - by Tegan at 5:16 PM Seattle time 
+
+ - Permalink 
+
+ Another Linkdump 
+ Asterix gets political . Newsarama has posted a holiday gift guide (and part 2 ) that's actually pretty cool to read. Go check it out. Neil Gaiman watches Doctor Who . Why hasn't Doctor Who got an American distibutor yet? The series is fantastic, and has been well received everywhere it's been shown. Johnny B's NFL picks for the rest of this weekend's games. He went 2-0 on Thanksgiving. Bon Jovi's video for " Have a Nice Day " makes me geek out. It's nice to see the instant nature of communication today expressed in a music video. For some reason, it really makes me happy. Don't preheat the oven without checking first . 
+ - by Tegan at 3:52 PM Seattle time 
+
+ - Permalink 
+
+ Friday, November 25, 2005 
+
+ Post-Thanksgiving Linkdump 
+ So Eric and I spent many hours today in the library looking through TV listings to find showings of "The Wizard of Oz" for his FAQ. While carrying tons of microfilm to the viewer I also got an eyeful of another patron's misuse of library computers, which I reported as we left. *sigh* Newsarama reports that there will be Aquaman news on Monday. Sounds like it might be news related to the "One Year Later..." changes. UPDATE: Yup: "Aquaman becomes Aquaman: Sword of Atlantis with issue #40. But I think that might raise more questions than answers." What, Dan, ya think? Apparently, that was the big news that we would have heard on Monday. Over on Ain't It Cool News , an artist named Freddie Williams II does an interview, and says "I'm illustrating a fill-in issue of AQUAMAN (issue 39)". Previews says Kirk and Clarke are doing Aquaman #39, so this is news, if it's true. Golden Age of Comics webcast featuring Aquaman. From the mouths of children : "AQUAMAN IS COOL!!!" Sea of Red , that vampires meet pirates comic book, is mentioned on Boing Boing. Johnny B predicted the Thanksgiving NFL games. He got 'em both right. Elayne Riggs linked to the Oz-Blog, and to Eric's great TARDIS post. Yeah, the one with this picture: Schools in LiveJournal now include Transylvania Polygnostic University . More from Aaron Williams . Be sure to check out the "cats giving each other high-fives" link. Lifehacker's Guide to weblog comments . Santa is a Wildman , an oldie but goodie. Music Videos made from recut Sherlock Holmes episodes. Hubby-Eric made MetaFilter ... ok, as part of a thread, not as the focus, but he's definitely there. Ok, his FAQ is mentioned. MetaFilter also links to the Best-ever Freeware Utilities . I need to explore this list a bit more. An article about Peter David in the Seattle Times ?!?? Oh, it's not that Peter David. Another one I want to examine closer is this article on Slashdot about a microwave water heater. KansasU is rebelling against the stupidity: Intelligent Design will be taught as mythology . Via Querldox . Sony rootkit hurts artists . It also made the Onion . And the scum company that made the malware took down their website . 
+ - by Tegan at 6:29 PM Seattle time 
+
+ - Permalink 
+
+ Thursday, November 24, 2005 
+
+ What Am I Thankful For? 
+ I'm thankful for my husband, Eric, and the wonderful years we've had together. I'm thankful for my family. There's a lot of them, they know who they are. I'm thankful for all of them. I've been very lucky in the family I was born into, and the family I married into. I'm thankful for my house, my car, my books, my comics, my Lego, and everything else material I have at the moment. They make life fun and comfortable. I'm thankful for the friends I've met over the years, including all the old friends I've never met because of the internet. I'm thankful for the internet. I'm thankful for people who put up neat tutorials and guides on the internet, allowing me to learn fantastic new skills while sitting at home. I'm thankful for people who understand obsession, and allow me to indulge in my harmless obsession for Aquaman without thinking I'm a loon. I'm thankful for free speech. I'm glad that the government is not allowed to shut me down just for stating an opinion. I'm thankful for retailers who wait until after Thanksgiving to start putting up Christmas stuff, instead of starting Christmas decorations before Hallowe'en. Along the same lines, I'm thankful for people who wait until the end of December (or even January) before starting to post "year in review" articles. 
+ - by Tegan at 7:45 AM Seattle time 
+
+ - Permalink 
+
+ Wednesday, November 23, 2005 
+
+ Random Thoughts 
+ Emerald City Comicon has updated with new artwork from Scott Kurtz of PvP . Update on Dorothy . What Pal Dorian says . Over at the Image Blog , Robert Kirkman wants you to take a survey so WizKids will make an Invincible heroclix. Electric Fish . Aquaman ought to use these guys for something. Neat Trucks . Really cool ad . (direct link to mpeg file) Barenaked On A Stick is now on my wishlist . 
+ - by Tegan at 10:08 PM Seattle time 
+
+ - Permalink 
+
+ Doctor Who Day 
+ Forty-Two Years! And counting... 
+ - by Tegan at 5:07 PM Seattle time 
+
+ - Permalink 
+
+ Tuesday, November 22, 2005 
+
+ CSS Update 
+ I feel like I'm getting more and more adept at CSS as I play with my Aquaman Website . Every day I seem to learn at least one new aspect, and it's now to the point that I actually understand what I'm doing most of the time, and why it should work. Admittedly, I still don't understand a few things... but I'm getting closer. Here are a few of the sites that have helped me out so far: Converting Existing Content to Style Sheets - a good primer for absolute beginners. NYPL Style Guide - Why converting to XHTML and CSS is a good idea. W3Schools Tutorials - Lots of great detail on every aspect of CSS and XHTML. Complete CSS Guide - Anything that I don't understand the W3Schools explanation is usually explained here so I can get it. Guide to Cascading Style Sheets - Another decent set of guides. Cascading Style Cheatsheet - This page actually explains stuff that nobody else does. Ten CSS Tricks You May Not Know - I can't use most of these yet, but I'm beginning to understand them, and they look like fun. Now I am getting a little sick of working on the Aquaman site, just because there are limits to what I'm willing to change at the moment, so I looked at the template for this blog and was stunned at how incredibly ugly and messed up it is. I shouldn't be stunned, but I am. It's just so much garbage. I suddenly have another project, cleaning up my main blog template. So if the blog looks really funny over the next couple of weeks, you know why. 
+ - by Tegan at 8:39 PM Seattle time 
+
+ - Permalink 
+
+ Morning Linkdump 
+ Seven Seas Publishing does a do-over on contracts. But I found the final paragraph to be the most amusing part of the piece. I saw a headline Superman Returns Barbie Dolls , and immediately wondered why he'd taken them in the first place. Plot summary of Doctor Who: The Christmas Invasion . (If the link doesn't work, go to the main page and look under "Daily News Updates") My Sunday Question got a few responses. The question asked readers to pick one aspect of Aquaman and post a comment on what you would do , in the context of the "One Year Later..." storyline. If anyone else has thoughts, or ideas for next Sunday's question, please feel free to post 'em. Will Pfeifer chat at Comic Book Resources. There's a bit of Aquaman content in there, including confirmation that Pfeifer will NOT be returning to the book. An amusing comedy sketch starring Aquaman and Wonder Woman. An amusing defense of Aquaman with an ulterior motive. The oceans are getting to be too noisy . Paging A.C.! Microsoft on Computer Control . heh. Folks suggest that Sony use the rootkit to warn users about the the rootkit . The other piece of malware Sony illegally installed on people's machines gets a new uninstaller . And Boing Boing rounds up the news for everyone again. 
+ - by Tegan at 10:22 AM Seattle time 
+
+ - Permalink 
+
+ Monday, November 21, 2005 
+
+ Random Thought-like Thingys 
+ Really big Aquarium in Atlanti-- er, Atlanta . Last survivor of "The Christmas Truce" dies in Scotland . A smoker gets desperate . Texas sues Sony . The EFF sues Sony . I really don't have any idea of what to make of the mashups of American Idiot and the Doctor Who theme via Gary Glitter. 
+ - by Tegan at 9:01 PM Seattle time 
+
+ - Permalink 
+
+ Rapid Reviews - 9 November 2005 - Part II 
+ Aquaman #36 : "The Failure of Success": I suppose the title could refer to Koryak's mistake. I found it a little strange that Arthur didn't criticize Koryak a bit more... he did kill someone, after all. But then, it's very much in Koryak's nature, and it would be understandable for Koryak to believe that an OMAC was a robot. Not that he'd care, mind you. But Aquaman would. Manta does as expected, but I really like the touch of him scaring the scientists. Kirk and Clarke's Vulko looks like a Munchkin. Anyway, nice cliffhanger. I'm not totally satisfied with this book, but Arcudi gets better with every issue. Infinite Crisis #2 : "The Survivors": This is not a book you can summarize quickly. And honestly, I don't think I'd want to try, because it would mean recapping the entire DCU since the Crisis. Or should we call it the first Crisis now? The implications of Superman's speech at the end of the book are ... chilling and thrilling. And, you know what I, as an Aquaman fan, am thinking. Should Superman succeed, will there even be an Aquaman? What is the Earth-2 Aquaman? Yellow gloves? More myth than man? He's one of the few characters that made the jump from Gold to Silver without changing... but he's changed a lot since then. Will Atlantis be erased? The solicits for future issues suggest that, yes, it will. So what then? Have Aquaman wear yellow gloves and continue on? Something more dramatic? Regardless of anything else in this issue, Superman's speech puts my brain into overdrive. I don't know what's coming next, and that's both exciting and insanity-inducing. And, you know, if DC actually manages to pull this off, to make all their books change... IF they manage it, then this might be the first crossover ever I'll call "worth it." 
+ - by Tegan at 3:05 PM Seattle time 
+
+ - Permalink 
+
+ Sunday, November 20, 2005 
+
+ Sunday Linkdump 
+ Popular Science recently released its annual list of the ten worst jobs in science. Take a look at what came in at number three. Via Hubby-Eric Making your own trading cards . Via Library Stuff , which is making librarian trading cards. The RIAA Prez defends Sony's attempts to leave computers open to hack attacks. Class Action Lawsuits starting against Sony. And Sony's artists are angry about the fiasco as well, no surprise. 
+ - by Tegan at 9:10 AM Seattle time 
+
+ - Permalink 
+
+ 11/13/2005 - 11/19/2005 
+ 11/20/2005 - 11/26/2005
+ 11/27/2005 - 12/03/2005 
+
+ current 
+
+ Bloggity-Blog-Blog-Blog 
+
+ archives 
+
+ 2002 Archive 
+ 2003 Archive 
+ 2004 Archive 
+ 2005 Archive 
+ 2006 Archive 
+
+ other 
+
+ My Aquaman Website 
+ Why Aquaman? 
+ Aquaman Sketchbook 
+ Bookshop 
+ Support This Site 
+ Rapid Reviews Index

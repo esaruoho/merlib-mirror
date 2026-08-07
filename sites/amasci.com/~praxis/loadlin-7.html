@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+ <META NAME="GENERATOR" CONTENT="SGML-Tools 1.0.9">
+ <TITLE>The Loadlin+Win95 mini-HOWTO: Frequently Asked Questions:</TITLE>
+ <LINK HREF="loadlin-8.html" REL=next>
+ <LINK HREF="loadlin-6.html" REL=previous>
+ <LINK HREF="loadlin.html#toc7" REL=contents>
+</HEAD>
+<BODY>
+<A HREF="loadlin-8.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-6.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc7"><IMG SRC="toc.gif" ALT="Contents"></A>
+<HR>
+<H2><A NAME="FAQ"></A> <A NAME="s7">7. Frequently Asked Questions:</A></H2>
+
+<P>
+<H2><A NAME="Section 7.1"></A> <A NAME="ss7.1">7.1 Where can I find more information on using Loadlin?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Slackware versions 3.2 and 3.5 contain a file named "loadlin.tgz"
+in the \slakware\A5 directory, Slackware versions 3.3 and 3.4 have
+loadlin.tgz in the \slakware\A4 directory. Slackware version 3.6 has
+loadlin.tgz in the \slackware\A8 directory. Unarchive the file and
+look in the \docs directory for a file named manual.txt. I do not
+know about earlier versions of Slackware.
+<P>
+</LI>
+<LI>RedHat versions 4.2 through 5.2 contain a file named
+"loadlin16.tgz" in  the \dosutils directory. Unarchive the file and
+look in the \docs directory for a file named manual.txt. RedHat 4.1
+does not seem to have this archive. The manual.txt is also available
+for download at: </LI>
+</UL>
+<P>
+<BLOCKQUOTE><CODE>
+<A HREF="ftp://ftp.eskimo.com/u/p/praxis/manual.txt">ftp://ftp.eskimo.com/u/p/praxis/manual.txt</A></CODE></BLOCKQUOTE>
+<P>
+<UL>
+<LI>Additional information is available at:</LI>
+</UL>
+<P>
+<BLOCKQUOTE><CODE>
+<A HREF="http://metalab.unc.edu/LDP/HOWTO/BootPrompt-HOWTO-2.html#ss2.2">http://metalab.unc.edu/LDP/HOWTO/BootPrompt-HOWTO-2.html#ss2.2</A></CODE></BLOCKQUOTE>
+<P>
+<H2><A NAME="ss7.2">7.2 I am not sure what partition Linux is installed on. How do I find out?</A>
+</H2>
+
+<P>
+<UL>
+<LI>At a Linux shell prompt, run the <CODE>fdisk</CODE> utility and press
+<CODE>"p"</CODE>. From there you should be able to tell. If you need additional help
+using fdisk, please consult the man pages.</LI>
+</UL>
+<P>
+<H2><A NAME="ss7.3">7.3 Where do I find the kernel image file and how do I copy it to my MS-DOS partition?</A>
+</H2>
+
+<P>
+<UL>
+<LI>To find your linux kernel file type:
+
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        find / -name vmlinuz
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+
+
+at a Linux shell prompt. This will search all Linux partitions for the
+vmlinuz file. If you have multiple vmlinuz files, then make sure you
+use the correct one. If you are not sure, then the safest bet would be
+to use the most recent one.
+<P>To copy your linux kernel file to your DOS partition, you need to make
+your DOS partition visible to Linux, then mount the partition if it is
+not already. Generally, this should have been set up when you installed
+Linux. All you need to do next is change to the directory the vmlinuz
+file is in and copy it over to DOS using the cp command.
+<P>However, if Linux was not set up to recognize your DOS partition, then
+copy vmlinuz to a floppy. Take any DOS formatted floppy (with enough
+disk space to hold your kernel image file) and insert it into your
+floppy drive. Type:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        mount /dev/fd0 /tmp
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>at a Linux shell prompt. Then change to the directory your kernel image
+file is in and type:
+<P>
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        cp vmlinuz /tmp
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>This will copy vmlinuz to your floppy disk and it will be readable by
+DOS. Shutdown Linux, boot to DOS, then copy vmlinuz to whichever
+directory you choose. If you recompile your kernel, do not forget to
+copy the new kernel image file to your DOS partition. This will
+overwrite your old file, so it might be a good idea to rename the old
+file first just in case the new one does not work properly.
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss7.4">7.4 Does it matter if I install Linux or Windows 95 first?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Technically no. However, it would be <EM>much</EM> simpler to
+install Win95 first. That way it is easier to setup Linux to recognize
+your DOS partition(s) as you can usually do this during the Linux
+installation.</LI>
+</UL>
+<P>
+<H2><A NAME="ss7.5">7.5 I currently have LILO installed, but I want to use Loadlin instead. How do I remove LILO?</A>
+</H2>
+
+<P>
+<UL>
+<LI>You will need to restore the Win95 MBR (Master Boot Record) that
+LILO overwrote when you installed LILO. At a DOS prompt type: </LI>
+</UL>
+
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        fdisk /mbr
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+<P>
+<H2><A NAME="ss7.6">7.6 What if I already dual boot between Windows 95 and Windows 3.x, and I want to boot to Linux using this method?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Frankly, if you want to do this I would recommend using LILO. However,
+if you really do not want to use LILO, you will have to boot to Win 3.x
+first, then issue the Loadlin command. (Make sure Windows 3.x is NOT   
+running, but that you are in DOS 5.0 or 6.x).</LI>
+</UL>
+<P>
+<H2><A NAME="ss7.7">7.7 Is it possible to initiate Linux from the Windows 95 desktop?</A>
+</H2>
+
+<P>
+<UL>
+<LI>Yes. First, create a batch file called "linux.bat", for example.
+Edit the file to contain a Loadlin command such as:
+
+<BLOCKQUOTE><CODE>
+<HR>
+<PRE>
+
+        loadlin f:\vmlinuz root=/dev/hdc2 ro
+</PRE>
+<HR>
+</CODE></BLOCKQUOTE>
+
+
+Now save the file in the \windows\desktop directory. Next, right click
+on the Linux.bat icon, then left click on Properties. Now click on the
+Program tab, then click on the Advanced button. Click on the box next
+to "MS-DOS mode" and make sure the box next to "Warn before entering
+MS-DOS mode is checked". Click OK, then click on OK again. Now when you
+double click on the Linux icon, a warning box will appear before going
+into MS-DOS mode. If you click on "Yes" then Windows enters MS-DOS mode
+and executes the Linux.bat file.
+<P><B>NOTE:</B> You must be in MS-DOS mode in order to use Loadlin. Please
+see the manual.txt file mentioned in 
+<A HREF="#Section 7.1">Section 7.1</A> of this 
+<A HREF="#FAQ">FAQ</A> for more 
+information.
+<P>
+</LI>
+</UL>
+<P>
+<H2><A NAME="ss7.8">7.8 Where can I get a plain text version of this document?</A>
+</H2>
+
+<P>
+<UL>
+<LI>You can get a plain text version of this document at:
+<BLOCKQUOTE><CODE>
+<A HREF="ftp://ftp.eskimo.com/u/p/praxis/loadlin.txt">ftp://ftp.eskimo.com/u/p/praxis/loadlin.txt</A></CODE></BLOCKQUOTE>
+</LI>
+</UL>
+<P>
+<HR>
+<A HREF="loadlin-8.html"><IMG SRC="next.gif" ALT="Next"></A>
+<A HREF="loadlin-6.html"><IMG SRC="prev.gif" ALT="Previous"></A>
+<A HREF="loadlin.html#toc7"><IMG SRC="toc.gif" ALT="Contents"></A>
+</BODY>
+</HTML>

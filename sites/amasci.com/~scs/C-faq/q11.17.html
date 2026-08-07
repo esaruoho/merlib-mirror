@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 11.17</title>
+<link href="q11.16.html" rev=precedes>
+<link href="q11.18.html" rel=precedes>
+<link href="s11.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 11.17</H3>
+<p>I'm trying to use
+the ANSI ``stringizing'' preprocessing operator
+`<TT>#</TT>'
+to insert the value of a symbolic constant into a message,
+but it keeps
+stringizing the macro's name rather than its
+value.
+</p><hr>
+<p>You can use
+something like the following
+two-step
+procedure
+to force a macro to be expanded as well as
+stringized:
+<pre>	#define Str(x) #x
+	#define Xstr(x) Str(x)
+	#define OP plus
+	char *opname = Xstr(OP);
+</pre>This
+code
+
+sets <TT>opname</TT> to <TT>"plus"</TT> rather than <TT>"OP"</TT>.
+</p><p>
+An equivalent circumlocution is necessary
+with the
+token-pasting
+operator <TT>##</TT>
+when the values
+(rather than the names)
+of two macros are to be concatenated.
+</p>
+
+
+
+
+<p>References:
+
+ANSI Sec. 3.8.3.2, Sec. 3.8.3.5 example
+<br>
+ISO Sec. 6.8.3.2, Sec. 6.8.3.5
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q11.16.html" rev=precedes>prev</a>
+<a href="q11.18.html" rel=precedes>next</a>
+<a href="s11.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

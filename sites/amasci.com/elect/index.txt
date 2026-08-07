@@ -1,0 +1,36 @@
+Index of /elect 
+
+ Index of /elect 
+ Name Last modified Size Description 
+
+ Parent Directory 18-Oct-2012 21:05 - 
+ vwatt1.html.save 29-Apr-2002 04:37 17k 
+ vwatt1.html 21-Oct-2012 17:20 35k 
+ tinyhole.html 02-Jul-2011 16:47 7k 
+ temp 31-Aug-2012 21:28 2k 
+ resistors.html 21-Nov-2011 17:28 6k 
+ radio.html 30-Jun-2011 17:42 4k 
+ poynt/ 29-Dec-2010 21:48 - 
+ mcoils.html 30-Jun-2011 17:42 13k 
+ main.css 21-Oct-2012 17:16 1k 
+ inductors.html 21-Nov-2011 17:27 8k 
+ elefaq1.html 02-Apr-2012 12:33 100k 
+ elefaq.html 31-Jul-2011 00:02 11k 
+ elect.css 21-Oct-2012 17:21 1k 
+ diodes.html 21-Nov-2011 17:26 6k 
+ coilf.gif 20-Nov-2000 19:55 3k 
+ coile.gif 20-Nov-2000 19:55 3k 
+ coild.gif 20-Nov-2000 19:55 2k 
+ coilc.gif 20-Nov-2000 19:55 2k 
+ coilb.gif 20-Nov-2000 19:55 2k 
+ coila.gif 20-Nov-2000 19:55 2k 
+ coil9.gif 20-Nov-2000 19:55 3k 
+ coil8.gif 20-Nov-2000 19:55 2k 
+ coil7.gif 20-Nov-2000 19:55 3k 
+ coil6.gif 20-Nov-2000 19:55 3k 
+ coil5.gif 20-Nov-2000 19:55 2k 
+ coil4.gif 20-Nov-2000 19:55 2k 
+ coil3.gif 20-Nov-2000 19:55 2k 
+ coil2.gif 20-Nov-2000 19:55 2k 
+ coil1.gif 20-Nov-2000 19:55 2k 
+ charge1.html 31-Aug-2012 21:33 17k

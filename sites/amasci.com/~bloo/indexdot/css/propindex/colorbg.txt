@@ -1,0 +1,40 @@
+CSS Property Index: Color and Background 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;&#160;Color and &#160;&#160;&#160;Background&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About Color/Background Properties... ] 
+
+ color 
+ layer-background-color 
+ layer-background-image 
+ background 
+ &#160;-&#160; background-color 
+ &#160;-&#160; background-image 
+ &#160;-&#160; background-repeat 
+ &#160;-&#160; background-attachment 
+ &#160;-&#160; background-position 
+ &#160;-&#160; background-positionX 
+ &#160;-&#160; background-positionY 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

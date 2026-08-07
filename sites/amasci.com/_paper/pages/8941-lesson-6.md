@@ -1,0 +1,71 @@
+---
+title: "Lesson 6"
+source_domain: amasci.com
+source_path: ~telical/lesson5.htm
+order: 8941
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Lesson 6
+
+*Source page: `~telical/lesson5.htm`*
+
+Lesson 5
+
+------------------------------------------------------------------------
+
+Let's pick the word "functional". "Functional" is an important word for the sentence, but since we already have decided it should be functional we can go on. You may want to save the file as is by calling it "boat1.txt," so that you don't lose the thought of this first idea list.
+
+My boat's front should be (functional), but it should be designed well.
+
+We then go into the "Create" menu and select "Merge" again to look through our Word Categories. Here we see that we can chose different categories, and get different and interesting results. We want to keep in mind that this will be our dream boat, so we are looking for an exotic color for it to be. We chose "blues" because that Word Category has many different shades of blue. We then click on "OK" and ParaMind creates another word list.
+
+My boat's front should be functional, but it should be designed well.\
+My boat's front should be turquoise but it should be designed flat\
+My boat's front should be steel blue but it should be designed lengthwise\
+My boat's front should be slate blue but it should be designed horizontally\
+My boat's front should be sky blue but it should be designed on edge\
+My boat's front should be royal blue but it should be designed against the grain\
+My boat's front should be powder blue but it should be designed vertically\
+My boat's front should be peacock blue but it should be designed open\
+My boat's front should be navy blue but it should be designed in and out\
+My boat's front should be midnight blue but it should be designed round and round\
+My boat's front should be marine but it should be designed however\
+My boat's front should be lapis but it should be designed still\
+My boat's front should be indigo but it should be designed powerfully\
+My boat's front should be French but it should be designed richly
+
+[Click Here For Lesson 6](lesson6.htm)
+
+Lesson 5
+
+------------------------------------------------------------------------
+
+Let's pick the word "functional". "Functional" is an important word for the sentence, but since we already have decided it should be functional we can go on. You may want to save the file as is by calling it "boat1.txt," so that you don't lose the thought of this first idea list.
+
+My boat's front should be (functional), but it should be designed well.
+
+We then go into the "Create" menu and select "Merge" again to look through our Word Categories. Here we see that we can chose different categories, and get different and interesting results. We want to keep in mind that this will be our dream boat, so we are looking for an exotic color for it to be. We chose "blues" because that Word Category has many different shades of blue. We then click on "OK" and ParaMind creates another word list.
+
+My boat's front should be functional, but it should be designed well.\
+My boat's front should be turquoise but it should be designed flat\
+My boat's front should be steel blue but it should be designed lengthwise\
+My boat's front should be slate blue but it should be designed horizontally\
+My boat's front should be sky blue but it should be designed on edge\
+My boat's front should be royal blue but it should be designed against the grain\
+My boat's front should be powder blue but it should be designed vertically\
+My boat's front should be peacock blue but it should be designed open\
+My boat's front should be navy blue but it should be designed in and out\
+My boat's front should be midnight blue but it should be designed round and round\
+My boat's front should be marine but it should be designed however\
+My boat's front should be lapis but it should be designed still\
+My boat's front should be indigo but it should be designed powerfully\
+My boat's front should be French but it should be designed richly
+
+[Click Here For Lesson 6](lesson6.htm)
+
+Use your back button or click here for [Table of Contents Page](contents.htm)

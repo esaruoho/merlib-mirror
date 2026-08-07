@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.eskimo.com/~cwj2/">
+<title>The Daily Linkroll</title>
+<link>http://www.eskimo.com/~cwj2/</link>
+<description>A link a day of what I'm reading. Just links, no commentary.</description>
+<language>en-us</language>
+<webMaster></webMaster>
+<lastBuildDate>2003-12-15T13:05:24-06:00</lastBuildDate>
+<pubDate>2003-12-15T13:05:31-06:00</pubDate>
+<admin:generatorAgent rdf:resource="MovableType/2.64" />
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_12_14.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_12_07.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_30.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_16.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html" />
+<rdf:li rdf:resource="http://www.eskimo.com/~cwj2/linkroll/week_2003_10_26.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_12_14.html">
+<title>Tracts: Who Will Be Eaten First?</title>
+<description>www.howardhallis.com/bis/cthulhuchick/...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_12_14.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-12-15T13:05:24-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_12_07.html">
+<title>Market Anarchism in Somalia</title>
+<description>economic.net/articles/somalia.shtml...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_12_07.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-12-07T19:18:10-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_30.html">
+<title>Libertarianism in an Age of Empire [Justin Raimondo]</title>
+<description>www.anti-war.com/justin/j030303.html...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_30.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-12-03T18:32:45-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_16.html">
+<title>Hiding the Truth? President Bush's Need-to-Know Democracy [PDF]</title>
+<description>www.misleader.org/pdf/specialreport2_secrecy.pdf...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_16.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-22T16:31:36-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html">
+<title>Professor troubled for talking [The Plainsman]</title>
+<description>www.theplainsman.com/vnews/display.v/ART/2003/10/30/3fa09894765bc...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-15T20:27:46-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html">
+<title>How Bush Betrayed Blair [Salon]</title>
+<description>www.salon.com/opinion/feature/2003/11/14/blair_bush/...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-14T08:08:25-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html">
+<title>Google - the only archive we'll ever need?</title>
+<description>www.theregister.co.uk/content/6/32838.html...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-12T09:04:46-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html">
+<title>The Homeless Guy</title>
+<description>thehomelessguy.blogspot.com/...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-11T15:14:40-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html">
+<title>Few parallels with Germany and Japan in Iraq [Miami Herald]</title>
+<description>www.miami.com/mld/miamiherald/7209249.htm...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_09.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-10T08:55:17-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html">
+<title>Comparing Word Processors: A Writer's Perspective</title>
+<description>www.thejemreport.com/software/wordprocessors.php...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-08T12:32:45-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html">
+<title>Lessons of history [TMW]</title>
+<description>www.thismodernworld.com/weblog/mtarchives/week_2003_11_02.html#001193...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-07T21:30:40-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html">
+<title>National War Tax Resistance Coordinating Committee</title>
+<description>www.nwtrcc.org/...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-06T10:39:29-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html">
+<title>MySQL Reference Manual</title>
+<description>www.mysql.com/documentation/mysql/bychapter/...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-05T01:47:20-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html">
+<title>Blueprint for a Mess [NYT]</title>
+<description>www.nytimes.com/2003/11/02/magazine/02IRAQ.html...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_11_02.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-11-03T20:14:32-06:00</dc:date>
+</item>
+<item rdf:about="http://www.eskimo.com/~cwj2/linkroll/week_2003_10_26.html">
+<title>Myths for a Free Nation</title>
+<description>www.libertariannation.org/a/f63l1.html...</description>
+<link>http://www.eskimo.com/~cwj2/linkroll/week_2003_10_26.html</link>
+<dc:subject></dc:subject>
+<dc:creator>cwj2</dc:creator>
+<dc:date>2003-10-30T17:27:25-06:00</dc:date>
+</item>
+
+
+</rdf:RDF>

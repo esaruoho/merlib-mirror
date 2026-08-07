@@ -1,0 +1,48 @@
+C Programming Notes 
+
+ C Programming Notes 
+
+ Introductory C Programming
+Class Notes, Chapter 1
+
+Steve Summit
+
+ These notes are part of the
+UW Experimental College 
+course on
+Introductory C Programming.
+They are based on notes prepared (beginning in Spring, 1995)
+to supplement the book
+ The C Programming Language ,
+by Brian Kernighan and Dennis Ritchie,
+or K&R as
+the book and its authors are affectionately known.
+(The second edition was published in 1988 by Prentice-Hall, 
+ISBN 0-13-110362-8.)
+These notes are now (as of Winter, 1995-6)
+intended to be stand-alone,
+although
+the
+sections are still cross-referenced to those of K&R,
+for the reader who wants to pursue a more in-depth exposition.
+
+ Chapter 1: Introduction 
+ Chapter 2: Basic Data Types and Operators 
+ Chapter 3: Statements and Control Flow 
+ Chapter 4: More about Declarations (and Initialization) 
+ Chapter 5: Functions and Program Structure 
+ Chapter 6: Basic I/O 
+ Chapter 7: More Operators 
+ Chapter 8: Strings 
+ Chapter 9: The C Preprocessor 
+ Chapter 10: Pointers 
+ Chapter 11: Memory Allocation 
+ Chapter 12: Input and Output 
+ Chapter 13: Reading the Command Line 
+ Chapter 14: What's Next? 
+
+ Read Sequentially 
+
+This page by Steve Summit 
+// Copyright 1995-1997
+// mail feedback

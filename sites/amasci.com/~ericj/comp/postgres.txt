@@ -1,0 +1,96 @@
+PostgreSQL Usage and Tutorials 
+
+ PostgreSQL Usage and Tutorials 
+ -- Using PostgreSQL on Eskimo North and Tutorials -- 
+
+ Requesting a PostgreSQL Database on Eskimo North (eskimo.com) 
+
+ Please contact support@eskimo.com to request a PostgreSQL database for
+your username -- one per username, as the database name is the same as the
+login -- if connecting results in an error for you. You would need
+to let them know a requested password for PostgreSQL tasks (used when
+connecting from a remote client) as well. 
+
+ Connecting to the PostgreSQL Server 
+
+ The prompt in PostgreSQL shows the name of the database it's connected to
+(the same as your username here at eskimo.com). 
+
+ There are three methods of authentication for connecting the server here: 
+
+ The shell server uses a login and password to connect to it in the first
+ place. Ident is used to tell the SQL server which username is to be
+ used when connecting in the method described below. 
+ CGI's will run on the web server itself (the same server that's running
+ PostgresSQL currently) under your own userid. That will be used to
+ connect to the right database. 
+ You can connect to the SQL server with clients outside our servers
+ as well, using your username and a password used only for PostgreSQL.
+ This will let others you tell the password to do database admin tasks
+ for you if you so desire. 
+
+ To make things easier while working on your databse, be sure to set the
+"$PGHOST" environment variable to "www" and add "/usr/local/pgsql/bin" to your
+"$PATH" variable in your shell's configuration file
+(usually .profile or .login; shell syntax in these tutorials follow the bash/ksh
+format): 
+
+ export PGHOST="www" 
+
+ This will allow you to connect by simply typing
+" psql " without needing to specify the
+server name each time. 
+
+ From the shell prompt here, connecting to the database is done with: 
+
+[eskimo] export PGHOST="www" 
+[eskimo] psql 
+Welcome to psql, the PostgreSQL interactive terminal.
+
+Type: \copyright for distribution terms
+ \h for help with SQL commands
+ \? for help on internal slash commands
+ \g or terminate with semicolon to execute query
+ \q to quit
+
+ericj=> 
+
+ Commands here will be shown as if typed directly in a shell connection.
+They can also be placed in a text file and sent in larger sets with the
+following example "redirect": 
+
+[eskimo] (place commands in file "sql-commands", for example.)
+[eskimo] psql < sql-commands 
+
+ PostgreSQL Tutorials (Examples of Usage, etc.) 
+
+ Help with commands, syntax, and typical tricks and workarounds (for images
+and internal links, etc.) can be found in the tutorials below. Each set uses
+a different set of practical examples, to help give an idea of what sort of
+databases I've been fiddling with when both testing and using the server in a
+production environment. 
+
+ SQL Tutorial I -- Stock Gain Examples 
+ Creating Tables, Inserting and Updating Data 
+ Queries and Output 
+ SQL Tutorial II -- Sales Examples 
+ Normalizing a Database 
+ Images and CGI Integration 
+ SQL Tutorial III -- Video Database Examples 
+ Perl DBI and Optimizing Output 
+ Web-Based Searching (coming soon) 
+ SQL Tutoral IV -- Guestbook Examples 
+ Form-Based Web Updating (coming coon) 
+
+-->
+
+ Home 
+ Anime 
+ Genealogy 
+ About 
+ External Links 
+
+ Feedback Appreciated .
+
+ Copyright &copy;1994-2001 by Eric T. Jorgensen. 
+ All rights reserved. Do not copy/redistribute.

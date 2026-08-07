@@ -1,0 +1,182 @@
+---
+title: "Evil Genius Hoaxes"
+source_domain: amasci.com
+source_path: ~billb/d.html
+order: 1252
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:07:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Evil Genius Hoaxes
+
+*Source page: `~billb/d.html`*
+
+[Up to SCIENCE HOBBYIST](index.html)
+
+# EVIL GENIUS'
+
+## LIST OF PRANKS AND
+
+# HI-TECH PRACTICAL JOKE IDEAS
+
+### WILLIAM J. BEATY
+
+(convenient proof that everything in [WEIRD SCIENCE](/weird.html) must ALSO be a hoax, right?!)
+
+\
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="70%">I've neither built nor prototyped any of the following devices. Some are hazardous and should not be built or operated. Others can be misused. This list is for your information only. If you choose to build any of these, you do so entirely at your own risk.</td>
+<td>       </td>
+<td><table data-cellpadding="10" data-border="10">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong></strong>
+BOOK:<br />
+RE-Search <a href="http://www.amazon.com/exec/obidos/ISBN=0965046982/sciencehobbyist/">PRANKS</a></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+\
+
+Hey, wanna help bring these into reality? I'm looking for funding. Give me a buzz if you can help.\
+
+------------------------------------------------------------------------
+
+## Road Music
+
+Carve computer-generated ripples in the surface of a main highway, and when vehicles pass over the surface, mysterious voices whisper, and distant music plays. Two ripple-tracks, one for each tire, should give stereo sound. Two tires each makes it all echo-y. Is this already being done? Little sub-threshold voices which say "Vote for Rush" "Drink Pepsi" "The BATF is your Friend"...\
+
+------------------------------------------------------------------------
+
+## Broken UFO parts
+
+Embed numerous ["repulsor" coils](http://www.eskimo.com/~billb/maglev/maglev.html) and a power supply in a small, fake UFO crash remenant, so that small independant segments of the object hang unsupported in the air nearby, via the battery-powered "Meissner effect" generator. (independant segments must be magnets, of course) Take it to a mainstream researcher, but don't let them look at it in detail. Visions of alien room-temp superconductors should haunt the person forever after!\
+
+------------------------------------------------------------------------
+
+## "Stink Beam" projector
+
+A large, hollow-ended cylinder is attached to a bass loudspeaker. The open end of the cylinder is covered with a flat plate, and a 3in. hole is put in this plate. This forms a [vortex launcher,](http://www.eskimo.com/~billb/amateur/vortgen.html) and when a pulse is applied to the speaker, an invisible ring-vortex or "smoke ring" of air will be launched. Pulses can be repetitive, so a continuous beam of vortices is projected. Pulse waveform can be tailored to produce robust, fast, silent vortices. Each vortex incorporates air from within the cylinder, and carries this air along as it travels. If a scent is placed in the cylinder, you have a "stink gun" which can target a distant nose without being intercepted by others, or can surround a distant object with any desired scent. If specific gases are added, then when the "stink beam" encounters a distant source of ignition, such as a cigarette, the vortices (and maybe the launcher device!) will explode. A computer, video grabber, IR camera, and some stepper motors could be assembled into an IR-seeking cigarette-targeting acetylene gasball launcher. No Smoking!\
+
+------------------------------------------------------------------------
+
+## Yucky ions
+
+If a sharp point is attached to the dome of a VandeGraaff generator, the point will spew charged wind. If you stand in this air stream, it will charged your clothing and hair, which will start clinging to your body. Ewwww!, feels like you've been dipped in vegetable oil. So, bolt a [VDG](http://www.eskimo.com/~billb/emotor/vdg.html) upside-down within the ceiling, with ion-needles pointing downwards, and a "stand here" sign on the floor below. (only works in fairly low humidity, the lower the better.)\
+
+------------------------------------------------------------------------
+
+## "Free energy" hoax
+
+Fake device is composed of complex structures and materials, a tiny battery-powered spark generator, and in the distance, a hidden, "stink beam projector device" rigged for acetylene. The projector shoots gas pulses which cause occasional loud and unexplained explosions within the device. If both an ion projector and an acetylene launcher are used, it may even be possible to create sparks and explosions in a distant device which contains no power supply at all!\
+
+------------------------------------------------------------------------
+
+## Even better "Free energy" hoax
+
+Use the ['Energy sucking receiver'](/tesla/tesceive.html) effect to gather power from a special transmitter. The receiver has an array of tuned circuits with the coils acting as loop antennas. The transmitter has an identical array. The tuned frequencies are scattered all over the band, and will seem like low-level white noise. However, since the transmitter and receiver are coherent, each tuned circuit provides significant energy, and if all of them are passed through rectifier diodes, the total energy might be enough to run a small motor. At the same time, the EM field of the transmitter would be almost immesurably small.\
+
+------------------------------------------------------------------------
+
+## Elvis Miracle
+
+Use my whitelight abrasion [hologram](http://www.eskimo.com/~billb/amateur/holo1.html) method to encode an image of Elvis or other religious icon holographically into an everday surface, (car hood?) Announce the miracle, charge admission, and even befuddle the experts who come to debunk it. Impossible!, a real hologram, but encoded into a crude painted surface!\
+
+------------------------------------------------------------------------
+
+## Roadside Kilovoltage Source.
+
+Build a sturdy [VandeGraaff generator](http://www.eskimo.com/~billb/emotor/vdg.html) into a metal and plastic column, with a handcrank on the top metal terminal and a large lable saying "TURN." When the crank and stepup gearing is turned, the generator operates. Place it outdoors, and surround it with a thick plastic insulating plate. Anyone who cranks it will feel a prickling sensation, their hair will stand up, and the next person they touch will get a huge "static zap." Better still: win the lottery and have thousands of them built and distributed around the country unannounced. Permanent Infamy!\
+
+------------------------------------------------------------------------
+
+## 4-Lane dot matrix printer
+
+A truck-mounted device spits a row of paint dots under computer control. Drive along the Interstate while printing out political diatribes. Make our highways look like a Newsgroup. Use high-pressure water sprays instead of paint for temporary, less illegal road gibberish. Can you be arrested for CLEANING little spots on the highway? Colored dyes would work well on packed snowy roads (a little carbon copier toner or flourescene dye goes a long way.) Rent out ad space in fields near airports, then do your printing in seeds for variously colored crops. Hang a stretched-out version of one of these devices between widely-separated power boats for the seaborne version. Electrostatically shoot charged magnesium oxide downwards from lunar orbit for a more noticable and long-lasting advertising sign on the moon. "CHAIRFACE!"\
+
+------------------------------------------------------------------------
+
+## Kindergarten Solar-powered Death Squad
+
+Take a large crowd of children out into the sunshine and give each one a 20cm square mirror. Show them how to aim all of their little spots of sunlight at the same distant object, then stand back and see what they do. Better yet, run away.\
+
+FAST!\
+
+------------------------------------------------------------------------
+
+## Ball-lightning incident
+
+[Ed Harris](http://www.eskimo.com/~billb/tesla/plasplan.html) on usa-tesla has discovered that argon gas lets you make a large 'plasma globe' effect at ambient pressure. Build a battery-powered Tesla Coil, clip it to your belt, and run a wire out to an argon-filled mylar sphere. When turned on, the tip of the wire will grow a large blazing white ball of lightning filaments. Run screaming through the night, chased by a ball-lightning in a hardly-noticable clear bag. Charred, smoking clothes would be good too. Ahhhhhhg! It's biting me!\
+
+------------------------------------------------------------------------
+
+## Build a Borg
+
+The Yale psychologist [Stanley Milgram](http://hobbes.itc.virginia.edu/~lpr5c/milgram.html) discovered a strange group-organism he dubbed the Cyranoid. Build one as follows: provide one person with a radio receiver and earphone. Give a transmitter to a second person, then have the 'receiver' agree to carry out all orders spoken by the distant 'sender.' Even better would be a video RF link so the 'sender' can see and hear through the 'receiver's' eyes, and maybe add a radio channel which controls vibrating transducers on the 'receiver's' body, so that the 'sender' can command movements with a joystick rather than verbally. If one 'sender' runs several 'receivers,' you've got the start of a small Borg civilization! If you could rent the equipment for cocktail parties, would you pay more to be an amoral central controller, or a conscience-less puppet?\
+
+The same psychologist discovered that this WWII Nazi phenomena:
+
+- ONLY FOLLOWING ORDERS
+- ONLY GAVE ORDERS, DID NOTHING MYSELF
+
+...could be used to convert a pair of people into a psychopath. Responsibility for actions becomes a closed loop and evaporates. Ordinary good people can be convinced to give [lethal shocks](http://myhouse.com/rupert/shocker/) if a superior authority figure gives the orders and SEEMS to take responsibility. If anything bad happens, both people know it was the OTHER person's fault. As a consequence, the radio-controlled 'Cyranoid' pair is very dangerous. So David Letterman has built himself one? Just wait until Dave gives an unwise order to his puppet and finds that the person ACTUALLY CARRIES IT OUT! The 'slave' trusts the 'master' to give only benign orders and stops thinking, but the 'master' may order something terrible, just to see how far the 'slave' will go. When Letterman's slave commits a crime, whose fault will it be, the one who only followed orders, or the one who did nothing himself?\
+
+------------------------------------------------------------------------
+
+## Phaser Weapon
+
+If pure argon is injected into a laminar stream of air, the argon stream will support sparks of enormous length. If connected to a fair-sized Tesla coil, the argon stream should produce linear arcs many feet long. This would be easily disrupted by wind or by a small fan. Indoors use only? Reach out zap someone! A similar effect can be had by running an argon stream through a hose connected to a distant tesla coil. Hot dangerous arc-plasma will pour from the hose end. "Don't unplug that cable, its not a water hose!"\
+
+------------------------------------------------------------------------
+
+<span id="duck"></span>
+
+## Duck-plunge Mechanical Fountain
+
+When a large rock is flung into a pond, the waves spread into a series of ripples of descending wavelength, as if the water has "Fourier Transformed" the splash signal. It has! The water surface is not a linear medium, and so any signal becomes "chirped" in a similar way to the "whistlers" produced in ELF radio sets by distant lightning pulses. If an "antichirp" series of ripples could be generated (a temporally-reversed version of the ripples from a big splash,) then as the ripples moved, they would compress together and finally create a little explosion of spray.\
+
+Ripples also take the form of an expanding circle. Rather than just reversing the "chirp", we could also reverse their direction. If water ripples could be created as inwards-curving rings, so that they focussed themselves to a point, so much the better.\
+
+Therefor build a bicycle-powered wave generator which can be placed at the shore of a pond. It would slowly vibrate a long, curved wall which floats half-immersed in the water. When aimed at a distant unwary duck, a series of ripples is created. The duck sees the distant ripples approaching, and contracting, and concentrating, then... DOOOSH! WAAKK-AAAK Aaak quaaak quack quack...\
+
+Or build the device onto a large fountain pool. Design the wave-generator to produce several superimposed "antichirp" patterns per revolution of the flywheel. Then, if you pedal at the right speed, a mysterious zone of violent splashing would appear out in the middle of the pool.\
+
+Suppose the wave-generator was adjusted to produce a \*line\* of splashing, and every so often the antichirp waves would contract and produce a long burst of "chop". This line might act to reflect other water waves, especially if the event was repeating at the same frequency as the waves. Perhaps we could trap a standing wave between the shore and a nonlinear barrier made from "chop."\
+
+Soliton waves can exist on the surface of water. The "tidal bore" is one such soliton wave. Perhaps a soliton can be assembled from many smaller waves. If so, then a bicycle-powered wave generator could create the smaller waves which contract together and sum nonlinearly to build a travelling soliton.\
+
+------------------------------------------------------------------------
+
+## LINKS:
+
+- [MORE SCREWY IDEAS HERE](http://www.eskimo.com/~billb/freenrg/ideas.html)
+- Book: RE-Search [PRANKS](http://www.amazon.com/exec/obidos/ISBN=0965046982/sciencehobbyist/), big compendium of famous hoaxes and practical jokes, interviews, inspiration.
+- Book: [Happy Mutant Handbook](http://www.amazon.com/exec/obidos/ISBN=1573225029/sciencehobbyist/)
+- [Rotteneggs.com: pranks](http://www.rotteneggs.com/re_display_category.php3?cat_id=Pranks)
+- [Building Fake UFOs](http://www.strw.leidenuniv.nl/~vdmeulen/deeper/Articles/UFOfake.html)
+- Science Jokes Page: [Pranks Section](http://www.xs4all.nl/~jcdverha/scijokes/12.html)
+- [Yahoo: Practical Jokes](http://www.yahoo.com/Entertainment/Humor__Jokes__and_Fun/Jokes/Practical_Jokes_and_Pranks/)
+- [Bizarre childhood brain-modification techniques](/~billb/cgi-bin/instr/instr.html)
+
+If we freeze a can of shaving cream and then saw away the metal can, will the "brick" of ice expand into foam as it thaws?
+
+Created and maintained by [Bill Beaty](http://www.eskimo.com/~billb/billb.html). Mail me at: [billb@eskimo.com](http://www.eskimo.com/~billb/amateur/amform.html#urls).\
+If you are using Lynx, type "c" to email

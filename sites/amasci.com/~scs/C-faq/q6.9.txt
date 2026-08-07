@@ -1,0 +1,29 @@
+Question 6.9 
+
+ Question 6.9 
+ Someone explained to me that arrays were really just constant pointers.
+
+ This
+
+is a bit of an oversimplification.
+An array name is ``constant''
+in that it cannot be assigned to,
+but an array is
+ not 
+a pointer,
+as the discussion and pictures in
+question
+ 6.2 
+should make clear.
+See also
+questions 6.3 and 6.8 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

@@ -1,0 +1,117 @@
+ANSI/ISO Standard C 
+
+ 11. ANSI/ISO Standard C 
+
+ 11.1
+What is the ``ANSI C Standard?''
+ 11.2
+How can I get a copy of the Standard?
+ 11.3
+My ANSI compiler
+is complaining about prototype mismatches
+for parameters declared float .
+ 11.4
+Can you mix old-style and new-style
+function syntax?
+ 11.5
+Why does the declaration
+" extern f(struct x *p); "
+give me
+a
+warning message?
+ 11.8
+Why can't I
+use const values in initializers and array
+dimensions?
+ 11.9
+What's the difference between
+ const char * p 
+and char * const p ?
+ 11.10
+
+Why can't I pass a char ** to a function which expects a
+ const char ** ?
+ 11.12
+
+Can I declare main as void ,
+to shut off these annoying ``main returns no value'' messages?
+ 11.13
+But what about main 's third argument,
+ envp ?
+ 11.14
+I believe that declaring void main() can't fail,
+since I'm calling exit instead of returning.
+ 11.15
+The book I've been using
+always uses void main() .
+ 11.16
+Is exit(status) truly equivalent
+to returning the same status from main ?
+ 11.17
+How do I get
+the ANSI ``stringizing'' preprocessing operator
+` # '
+
+to stringize the macro's value instead of its name?
+ 11.18
+What does the message
+``warning: macro replacement within a string literal''
+mean?
+ 11.19
+I'm getting strange syntax errors inside
+lines
+I've
+ #ifdef fed out.
+ 11.20
+What are #pragma s ?
+ 11.21
+What does `` #pragma once '' mean?
+ 11.22
+Is char a[3] = "abc"; legal?
+ 11.24
+Why can't I perform arithmetic on a void * pointer?
+ 11.25
+What's the difference between
+ memcpy and
+ memmove ?
+
+ 11.26
+What should malloc(0) do?
+ 11.27
+Why does the ANSI Standard not guarantee more than six case-insensitive
+characters
+of
+
+external identifier significance?
+ 11.29
+My compiler is rejecting the simplest possible test programs,
+with all kinds of syntax errors.
+ 11.30
+Why are some ANSI/ISO Standard library routines showing up as
+undefined, even though I've got an ANSI compiler?
+ 11.31
+Does anyone have a tool for converting old-style C programs to
+ANSI C,
+or for automatically generating prototypes?
+ 11.32
+Why won't
+frobozz-cc,
+which claims to be ANSI compliant,
+accept this code?
+ 11.33
+What's the difference
+between
+implementation-defined,
+unspecified,
+and
+undefined
+behavior?
+ 11.34
+I'm appalled that the ANSI Standard leaves so many issues undefined.
+ 11.35
+I just tried
+some allegedly-undefined code
+on an ANSI-conforming compiler,
+and got the results I expected.
+
+ top

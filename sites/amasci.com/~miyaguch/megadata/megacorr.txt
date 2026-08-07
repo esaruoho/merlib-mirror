@@ -1,0 +1,94 @@
+Mega Test Correlations 
+
+ Correlations between the Mega
+Test and Other Tests 
+
+ 10/01/98 
+ Corrected 2
+ rows (for Mega Test raw score of 11) in the Omni 
+ sample 
+
+ 10/01/98 
+ Added
+ Microsoft Excel file with a listing of Mega Test raw
+ scores vs. SAT V+M for both the Omni and Pre- Omni 
+ samples 
+
+ computed by Fred Britton 
+
+ Test 
+ "r"
+ with Mega 
+ N 
+
+ LAIT (Langdon Adult Intelligence Test) 
+ 0.673 
+ 76 
+
+ GRE (Graduate Record Examination) 
+ 0.574 
+ 106 
+
+ AGCT (Army General Classification Test) 
+ 0.565 
+ 28 
+
+ Cattell 
+ 0.562 
+ 80 
+
+ SAT (Scholastic Aptitude Test) 
+ 0.495 
+ 220 
+
+ MAT (Miller Analogies Test) 
+ 0.393 
+ 28 
+
+ Stanford-Binet 
+ 0.374 
+ 46 
+
+ CTMM (California Test of Mental Maturity) 
+ 0.307 
+ 75 
+
+ WAIS (Wechsler Adult Intelligence Scale) 
+ 0.137 
+ 34 
+
+ Pre-Omni
+Sample : Table of Mega Test scores vs. other tests (long) 
+ Omni
+Sample : Table of Mega Test scores vs. other tests (very long) 
+ Microsoft
+Excel 3.0 (for Windows) file containing Mega Test raw scores
+vs. SAT V+M 
+
+ Mega
+vs. LAIT distributions (for people who took both tests) 
+ Mega
+vs. GRE distributions (for people who took both tests) 
+ Mega
+vs. AGCT distributions (for people who took both tests) 
+ Mega
+vs. Cattell-Verbal distributions (for people who took both
+tests) 
+ Mega
+vs. SAT distributions (for people who took both tests) 
+ Mega
+vs. Miller Analogies Test distributions (for people who took
+both tests) 
+ Mega
+vs. Stanford-Binet distributions (for people who took both
+tests) 
+ Mega
+vs. CTMM distributions (for people who took both tests) 
+ Mega
+vs. WAIS distributions (for people who took both tests) 
+ Mega
+vs. SAT and GRE distributions (for people who took all three
+tests) 
+
+ Return to the Uncommonly
+Difficult I.Q. Tests page.

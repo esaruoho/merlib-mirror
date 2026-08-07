@@ -1,0 +1,538 @@
+Pure Mac: Stock Tickers and Analyzers - Software for Macintosh 
+
+ Stock Tickers and Analyzers 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Investor/RT 
+ iStock 
+ Personal Analyst 
+ Personal Trader 
+ Portfolio Analysis Review 
+
+ PowerTicker 
+ Pro Analyst 
+ ProTA 
+ QuoteFiler 
+
+ Stock Analysis & Portfolio Review 
+ Stalker 
+ Stock Investment Guide 
+ Stock Portfolio 
+ Stock WatchTower 
+
+ StockXloader 
+ Stox 
+ Ticker 
+ Trade Manager Pro 
+ Trade Strategist 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Investor/RT 9.2.8 
+
+Investor/RT provides the online investor a software solution that turns a computer into a trading
+workstation. Designed for active investors and traders, Investor/RT monitors, charts,
+and analyzes real-time market data. The program's analytical tools handle any
+Periodicity: Daily, Weekly, Monthly, Tick-by-Tick, Tick Bars, or Minute
+Bars of any duration. Investor/RT provides a wide array of Chart Types: 
+Candlestick, Bar, Line, Point and Figure, Market Profile, Volume Profile,
+Raw Tick, Day Bar, and Three Line Break . . . all dynamic and flexible, allowing
+you to paint your picture of the market and monitor it real time. 
+ All Markets, including Stocks, Mutual Funds, Futures, Options, Indices,
+Currencies, and Bonds, can be monitored trade-by-trade. Whether you actively track
+only a few securities or wish to follow thousands of securities in search of new trading
+opportunities, Investor/RT is the tool for you. 
+
+ License : Demo, $19 to $99 a month
+ Author/Publisher : Linn Software
+ Modification Date : April 17, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.4 MB - Demo/Updater 9.2.8
+
+ Home Page 
+
+ iStock 1.5.3 
+
+iStock will automatically retrieve the latest quotes from the internet
+and display this information in a convenient format. It will also
+monitor your portfolios of shares including calculation of gain or loss
+in your local currency. All done in your local currency.
+
+ License : Shareware, $25
+ Author/Publisher : danholt4mac
+ Modification Date : October 27, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.3 MB
+
+ Home Page 
+
+ Personal Analyst 5.1 
+
+Personal Analyst puts a multitude of classic charting and analysis tools
+at your fingertips. Professional traders love the Computer Generated
+Trendlines that automatically track and chart significant highs and
+lows. This same intelligence automatically draws Fibonacci, Gann,
+Trident Linear Regression and Speed Lines. Personal preferences for
+study smoothing and display characteristics are stored independently for
+each security, allowing this simple to operate, sophisticated research
+resource to be customized to your unique specifications.
+
+ License : Demo, $159
+ Author/Publisher : Trendsetter Software
+ Modification Date : April 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Personal Trader 3.5.5 
+
+Personal Trader is a stock market utility designed for managing your
+stock portfolio. Intuitive and easy-to-use, Personal Trader helps you
+track and analyze your investments. Personal Trader can get current
+share values from the Internet and update your portfolio, showing you
+its total value and the value of individual stocks.
+
+ License : Shareware, $30
+ Author/Publisher : Coladia
+ Modification Date : July 21, 2008
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 13.3 MB
+
+ Home Page 
+
+ Portfolio Analysis Review 1.0.3 
+
+This software is a companion to our highly acclaimed Stock Investment
+Guide. As your portfolio grows, the influence newly purchased stocks
+have a smaller imact on your success as an investor when compared to the
+overall portfolio. It makes sense to spend time reviewing your portfolio
+every month. Portfolio Analysis Review has some really great features,
+like the ability to sort your portfolio many different ways.
+
+ License : Sharware, $20
+ Author/Publisher : Churr Software
+ Modification Date : July 26, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.1 MB
+
+ Home Page 
+
+ PowerTicker 2.8 
+
+PowerTicker is a specialized Internet browser
+that gives you quick and easy access to the free stock market
+information provided by financial websites around the world. You can
+watch any number of your stocks roll by on the ticker, call up a
+detailed report for each of your favorites, or add your latest purchase
+to your growing portfolio.
+
+ License : Shareware, $50
+ Author/Publisher : White Nile Software
+ Modification Date : January 30, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ Pro Analyst 5.1 
+
+Designed by traders for traders, Pro Analyst provides utility beyond
+comparison. Streaming real-time charts, analytics, alerts, market-pulse
+reports, news and more! Track your choice of symbols, stocks, futures
+and options, trade by trade, minute by minute, stay informed as the
+action happens, like having your own personal seat on the exchange.
+
+ License : Demo, $99 per year
+ Author/Publisher : Trendsetter Software
+ Modification Date : April 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 7.5 MB
+
+ Home Page 
+
+ ProTA 3.21 
+
+ProTA is state of the art market charting, technical analysis and portfolio analysis for
+the stock market, mutual funds, futures and options markets.
+
+ProTA Gold adds custom indicators, trade modeling, system testing, parameter optimizations
+and database scanning.
+
+ License : Shareware, $129, Gold $299
+ Author/Publisher : Jeffery Bizon/BeeSoft
+ Modification Date : December 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 16.2 MB
+
+ Download 
+File Size: 16.4 MB - ProTA Gold
+
+ Home Page 
+
+ QuoteFiler 1.51 
+
+QuoteFiler downloads free historical and intraday stock quotes from
+Yahoo! Finance. The quotes can then be easily imported into Beesoft's
+ProTA or ProTA Gold charting applications.
+
+ License : Shareware, $20
+ Author/Publisher : Charles Hines
+ Modification Date : May 11, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.1 MB
+
+ Home Page 
+
+ Stalker 2.0.5 
+
+Stalker provides several tools to help you manage your stock
+investments. From a simple watch list that updates every two minutes, to
+calculators that help you determine the prices you want to buy and sell
+your stocks. By adding your current stock positions into the Portfolio,
+you can see how the value of your investments are changing throughout
+the day.
+
+ License : Shareware, $15
+ Author/Publisher : TorchWood Software
+ Modification Date : August 31, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ Stock Analysis and Portfolio Review 2.0.4 
+
+A stock caught your attention? Should you invest? Time to do research is
+always limited. You need powerful tools to help you and save time. SA+PR
+is one such tool. Does the stock display steady growth, or does it
+display erratic Sales and Earnings? With SA+PR carry out a comprehensive
+Fundamental Value Analysis in minutes. Intuitive graphs allow you to SEE
+how the stock has been doing for up to the past 10 years.
+
+Do you have an existing stock portfolio? Is your investment still worth
+holding on to, or is there reason to sell? SA+PR can visually SHOW you
+changes in a company's growth trend. SEE when a stock is Overvalued or
+Undervalued. By reviewing your stocks monthly, you can keep on top of
+stock portfolio investments.
+
+ License : Shareware, $69
+ Author/Publisher : Intuitec Software Inc.
+ Modification Date : March 4, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Stock Investment Guide 2.4.6 
+
+Churr Software's Stock Investment Guide (SIG) software has great
+features to make it easy to perform stock club analysis.
+ * Reads & Writes standard SSG data file formats.
+ * Fully integrated with NAIC's OPS ssg data.
+ * Adjustable Data Plot for Visual Analysis. Scale Pretax Income or Sales plots up or down on the graph for easy reading.
+ * Automatically Update the Stock Price & 52-week High and Low
+ * Omit/Ignore "outlier" data by clicking the year on the data graph.
+ * Plots additional quarterly EPS following the last fiscal year.
+ * If using downloaded SSG data files, displays S & P 5-year growth estimates.
+
+ License : Shareware, $40
+ Author/Publisher : Churr Software
+ Modification Date : February 14, 2009
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.7 MB
+
+ Home Page 
+
+ Stock WatchTower 2.3 
+
+Macintosh Investment Analysis and Charting Software
+ * Automatically group stocks meeting your criteria
+ - Track market conditions: are stocks rising or falling?
+ - Find the growth stocks with the highest growth rates.
+ - Further categorize by insider activity, institutional activity, or price and volume action.
+ - Find stocks with high growth rates, but low P/E ratios
+ - Find high dividend stocks near their ex-dividend date
+ - Find stocks with high short activity
+ - Create your own criteria
+ * Use Daily and Weekly charts and tables of information to fully analyze the stocks that show the greatest potential in order to decide when to buy a stock.
+ * Set price targets to improve your patience in finding proper entry points.
+ * Track stocks that you own to decide when to sell.
+
+ License : Shareware, $50
+ Author/Publisher : WillStein Software
+ Modification Date : July 30, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 18.5 MB
+
+ Home Page 
+
+ StockXloader 3.4.5 
+
+StockXloader is a Mac OS X application for fully automated downloading
+of stock market quotes and indexes to the technical analysis program
+ProTA or ProTA Gold from BeeSoft (http://beesoft.net) - effectively
+building an arbitrarily large database of tickers (symbols) containing
+historical quotes for the open/high/low/close of each day!
+ It collects quotes from:
+ the archives at Yahoo! Finance for any stock exchange in the world;
+ the archive at Affarsvarlden (a Swedish business magazine) carrying quotes and many indexes for the Stockholm Stock Exchange.
+ The downloaded information is automatically imported into the
+database of ProTA. In the process, it informs ProTA which tickers are
+stocks, which are mutual funds, and which are indexes so that any new
+ticker is put into the right category by ProTA.
+
+ License : Shareware, $75
+ Author/Publisher : BragIt
+ Modification Date : April 3, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 555 Kb
+
+ Home Page 
+
+ Stox 1.2 
+
+Research, tracking and analysis - 
+A powerful tool for the new or experienced investor. Stox cuts through
+the noise to give you concise, timely information to help you manage
+your stock portfolio in a simple, single window format.
+
+ License : Shareware, $50
+ Author/Publisher : JoeSoft
+ Modification Date : June 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 12.2 MB
+
+ Home Page 
+
+ Ticker 3.1 
+
+Ticker downloads stock quotes and displays them in a list.
+ * New toolbar and metal look
+ * Stock Mode: Shows you how your stocks did today
+ * Portfolio Mode: Shows you how your stocks have done since you bought them
+ * Unlimited stock list size
+ * Open individual stocks into floating windows
+ * Color system helps visualize the movement of industry groups
+ * Alerts if stock changes by more than a certain percentage
+ * Links to Yahoo Finance charts and headlines
+
+ License : Freeware
+ Author/Publisher : Soporific Software
+ Modification Date : October 27, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 127 Kb
+
+ Home Page 
+
+ Trade Manager Pro 1.1 
+
+Now you can manage your trades like a professional. Keeping track of
+your trading performance and trading capital are hallmarks of successful
+traders. The "Trade Manager Pro" software, developed for the modern Mac
+OS X operating system, will automatically track your trades, manage
+risk, calculate trade size, and track your trading performance.
+
+ License : Demo, $150
+ Author/Publisher : DSG Tradewise
+ Modification Date : April 5, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.4 MB
+
+ Home Page 
+
+ Trade Strategist 1.4.2 
+
+Trade Strategist allows you to take control of the stock market, by
+designing and testing trading strategies. With more than 90 built-in
+functions and indicators that can be combined together in an almost
+infinite variety of ways, Trade Strategist helps you to distinguish the
+science from the superstition when it comes to the stock market.
+
+Trade Strategist belongs to a field of finance called Technical
+Analysis, in which trading decisions are based on measurable quantities,
+rather than the emotions or psychology of the trader. A 'technical'
+trader makes use of charts and indicators that derive from price and
+other data to decide when to buy or sell stock.
+
+ License : Shareware, $30, Pro $50
+ Author/Publisher : Drew McCormack
+ Modification Date : December 31, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,113 @@
+---
+title: "Volume 1, Study II - The Existence Of A Supreme Intelligent Creator Established"
+source_domain: amasci.com
+source_path: ~billz/Truth/Volumes/V1/Study_02.html
+order: 1330
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:07:38Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Volume 1, Study II - The Existence Of A Supreme Intelligent Creator Established
+
+*Source page: `~billz/Truth/Volumes/V1/Study_02.html`*
+
+<sub>\<29\></sub>
+
+STUDY II
+
+THE EXISTENCE OF A SUPREME INTELLIGENT\
+CREATOR ESTABLISHED
+
+Evidence Aside from the Bible, Examined in the Light of Reason--An Untenable Theory--A Reasonable Theory--The Character of God Demonstrated --Reasonable Deductions.
+
+------------------------------------------------------------------------
+
+EVEN from the standpoint of the skeptic, a reasonable and candid search into the unknown, by the light of what is known, will guide the unbiased, intelligent reasoner in the direction of the truth. Yet it is evident that without a direct revelation of the plans and purposes of God, men could only approximate the truth, and arrive at indefinite conclusions. But let us for the moment lay aside the Bible, and look at things from the standpoint of reason alone.
+
+He who can look into the sky with a telescope, or even with his natural eye alone, and see there the immensity of creation, its symmetry, beauty, order, harmony and diversity, and yet doubt that the Creator of these is vastly his superior both in wisdom and power, or who can suppose for a moment that such order came by chance, without a Creator, has so far lost or ignored the faculty of reason as to be properly considered what the Bible terms him, a fool (one who ignores or lacks reason): "The fool hath said in his heart, There is no God." However it happened, at least that much of the Bible is true, as every reasonable mind must conclude; for it is a self-evident truth that effects must be produced by competent causes. Every plant and every flower, even, speaks volumes of testimony on this subject. Intricate in construction, exquisitely beautiful in form and <span id="Page_030"></span> <sub>\<30\></sub> texture, each speaks of a wisdom and skill above the human. How shortsighted the absurdity which boasts of human skill and ingenuity, and attributes to mere chance the regularity, uniformity and harmony of nature; which acknowledges the laws of nature, while denying that nature has an intelligent Lawgiver.
+
+Some who deny the existence of an intelligent Creator claim that nature is the only God, and that from nature all forms of animal and vegetable developments proceeded without the ordering of intelligence, but governed, they say, by "the law of the survival of the fittest" in a process of evolution.
+
+This theory lacks proof, for all about us we see that the various creatures are of fixed natures which do not evolve to higher natures; and though those who hold to this theory have made repeated endeavors, they have never succeeded either in blending different species or in producing a new fixed variety. No instance is known where one kind has changed to another kind.[<sup>1</sup>](Footnotes.html#Footnote_01) Though there are fish that can use their fins for a moment as wings, and fly out of the water, and frogs that can sing, they have never been known to change into birds; and though there are among brutes some which bear a slight resemblance to men, the evidence is wholly lacking that man was evolved from such creatures. On the contrary, investigations prove that though different varieties of the same species may be produced, it is impossible to blend the various species, or for one to evolve from another. For the same reason the donkey and the horse, though resembling each other, cannot be claimed as related, for it is well known that their offspring is imperfect and cannot propagate either species.
+
+<sub>\<31\></sub>
+
+Surely if unintelligent nature were the creator or evolver she would continue the process, and there would be no such thing as fixed species, since without intelligence nothing would arrive at fixed conditions. Evolution would be a fact today, and we would see about us fish becoming birds, and monkeys becoming men. This theory we conclude to be as contrary to human reason as to the Bible, when it claims that intelligent beings were created by a power lacking intelligence.
+
+One theory regarding the creation (excepting man) by a process of evolution, to which we see no serious objection, we briefly state as follows: It assumes that the various species of the present are fixed and unchangeable so far as nature or kind is concerned, and though present natures may be developed to a much higher standard, even to perfection, these species or natures will forever be the same. This theory further assumes that none of these fixed species were originally created so, but that in the remote past they were developed from the earth, and by gradual processes of evolution from one form to another. These evolutions, under divinely established laws, in which changes of food and climate played an important part, may have continued until the fixed species, as at present seen, were established, beyond which change is impossible, the ultimate purpose of the Creator in this respect, to all appearance, having been reached. Though each of the various families of plants and animals is capable of improvement or of degradation, none of them is susceptible of change into, nor can they be produced from, other families or kinds. Though each of these may attain to the perfection of its own fixed nature, the Creator's design as to nature having been attained, further change in this respect is impossible.
+
+It is claimed that the original plants and animals, from which present fixed varieties came, became extinct before <sub>\<32\></sub> the creation of man. Skeletons and fossils of animals and plants which do not now exist, found deep below the earth's surface, favor this theory. This view neither ignores nor rejects the Bible teaching that man was a direct and perfect creation, made in the mental and moral image of his Maker, and not a development by a process of evolution, probably common to the remainder of creation. This view would in no sense invalidate, but would support, the Bible's claim, that nature as it is today teaches that an Intelligent Being ordered it, and was its first cause. Let human reason do her best to trace known facts to reasonable and competent causes, giving due credit to nature's laws in every case; but back of all the intricate machinery of nature is the hand of its great Author, the intelligent, omnipotent God.
+
+We claim, then, that the existence of an Intelligent Creator is a clearly demonstrated truth, the proof of which lies all around us: yea, and within us; for we are his workmanship, whose every power of mind and body speaks of a marvelous skill beyond our comprehension. And he is also the Designer and Creator of what we term nature. We claim that he ordered and established the laws of nature, the beauty and harmony of whose operation we see and admire. This one whose wisdom planned and whose power upholds and guides the universe, whose wisdom and power so immeasurably transcend our own, we instinctively worship and adore.
+
+To realize the existence of this mighty God is but to dread his omnipotent strength, unless we can see him possessed of benevolence and goodness corresponding to his power. Of this fact we are also fully assured by the same evidence which proves his existence, power and wisdom. Not only are we forced to the conclusion that there is a God, and that his power and wisdom are immeasurably beyond our own, but we are forced by reason to the conclusion that the <sub>\<33\></sub> grandest thing created is not superior to its Creator; hence we must conclude that the greatest manifestation of benevolence and justice among men is inferior in scope to that of the Creator, even as man's wisdom and power are inferior to his. And thus we have before our mental vision the character and attributes of the great Creator. He is wise, just, loving and powerful; and the scope of his attributes is, of necessity, immeasurably wider than that of his grandest creation.
+
+But further: having reached this reasonable conclusion relative to the existence and character of our Creator, let us inquire, What should we expect of such a being? The answer comes, that the possession of such attributes reasonably argues their exercise, their use. God's power must be used, and that in harmony with his own nature--wisely, justly and benevolently. Whatever may be the means to that end, whatever may be the operation of God's power, the final outcome must be consistent with his nature and character, and every step must be approved of his infinite wisdom.
+
+What could be more reasonable than such exercise of power as we see manifested in the creation of countless worlds about us, and in the wonderful variety of earth? What could be more reasonable than the creation of man, endowed with reason and judgment, capable of appreciating his Creator's works, and judging of his skill--of his wisdom, justice, power and love? All this is reasonable, and all in perfect accord with facts known to us.
+
+And now comes our final proposition. Is it not reasonable to suppose that such an infinitely wise and good being, having made a creature capable of appreciating himself and his plan, would be moved by his love and justice to supply the wants of that creature's nature, by giving him *some* REVELATION? Would it not be a reasonable supposition, that <sub>\<34\></sub> God would supply to man information concerning the object of his existence, and his plans for his future? On the contrary, we ask, would it not be unreasonable to suppose that such a Creator would make such a creature as man, endow him with powers of reason reaching out into the future, and yet make no revelation of his plans to meet those longings? Such a course would be unreasonable, because contrary to the character which we reasonably attribute to God; contrary to the proper course of a being controlled by justice and love.
+
+We may reason that in creating man, had Divine Wisdom decided it inexpedient to grant him a knowledge of his future destiny, and his share in his Creator's plans, then surely Divine Justice, as well as Divine Love, would have insisted that the being should be so limited in his capacity that he would not continually be tormented and perplexed with doubts, and fears, and ignorance; and as a consequence Divine Power would have been used under those limitations. The fact, then, that man has capacity for appreciating a revelation of the Divine plan, taken in connection with the conceded character of his Creator, is an abundant reason for expecting that God would grant such a revelation, in such time and manner as his wisdom approved. So, then, in view of these considerations, even if we were ignorant of the Bible, reason would lead us to expect and to be on the lookout for some such revelation as the Bible claims to be. And furthermore, noting the order and harmony of the general creation, as in grand procession the spheres and systems keep time and place, we cannot but conclude that the minor irregularities, such as earthquakes, cyclones, etc., are but indications that the working together of the various elements in this world is not at present perfect. An assurance that all will ultimately be perfect and harmonious on earth as in the heavens, with some explanation <sub>\<35\></sub> why it is not so at present, are requests which are not unreasonable for reasoning men to ask, nor for the Creator, whose wisdom, power and benevolence are demonstrated, to answer. Hence we should expect the revelation sought to include such an assurance and such an explanation.
+
+Having established the reasonableness of expecting a revelation of God's will and plan concerning our race, we will examine in the next chapter the general character of the Bible which claims to be just such a revelation. And if it presents the character of God in perfect harmony with what reason as above considered dictates, we should conclude that it thus proves itself to be the needed and reasonably expected revelation from God, and should then accept its testimony as such. If of God, its teachings, when fully appreciated, will accord with his character, which reason assures us is perfect in wisdom, justice, love and power.
+
+- - "Ye curious minds, who roam abroad,\
+        And trace creation's wonders o'er,\
+    Confess the footsteps of your God,\
+        And bow before him, and adore.
+
+    "The heavens declare thy glory, Lord;\
+        In every star thy wisdom shines;\
+    But when our eyes behold thy Word,\
+        We read thy name in fairer lines."
+
+<sub>\<36\></sub>
+
+- **Sunshine Over All**
+
+  "What folly, then," the faithless critic cries,\
+  With sneering lip and wise, world-knowing eyes,\
+  "While fort to fort and post to post repeat\
+  The ceaseless challenge of the war-drum's beat,\
+  And round the green earth, to the church-bell's chime,\
+  The morning drum-roll of the camp keeps time,\
+  To dream of peace amidst a world in arms;\
+  Of swords to plowshares changed by Scriptural charms;\
+  Of nations, drunken with the wine of blood,\
+  Staggering to take the pledge of brotherhood,\
+  Like tipplers answering Father Mathew's call.\
+                        \*     \*    \*\
+  "Check Bau or Kaiser with a barricade\
+  Of 'Olive leaves' and resolutions made;\
+  Spike guns with pointed Scripture texts, and hope\
+  To capsize navies with a windy trope;\
+  Still shall the glory and the pomp of war\
+  Along their train the shouting millions draw;\
+  Still dusky labor to the parting brave\
+  His cap shall doff and beauty's kerchief wave;\
+  Still shall the bard to valor tune his song;\
+  Still hero-worship kneel before the strong;\
+  Rosy and sleek, the sable-gowned divine,\
+  O'er his third bottle of suggestive wine,\
+  To plumed and sworded auditors shall prove\
+  Their trade accordant with the law of love;\
+  And Church for State, and State for Church shall fight,\
+  And both agree that might alone is right."
+
+  Despite the sneers like these, O faithful few,\
+  Who dare to hold God's Word and witness true,\
+  Whose clear-eyed faith transcends our evil time,\
+  And o'er the present wilderness of crime\
+  Sees the calm future with its robes of green,\
+  Its fleece-flecked mountains, and soft streams between,\
+  Still keep the track which duty bids ye tread,\
+  Though worldly wisdom shake the cautious head.\
+  No truth from heaven descends upon our sphere\
+  Without the greeting of the skeptic's sneer:\
+  Denied, and mocked at, till its blessings fall\
+  Common as dew and sunshine over all.\
+                                                                          --*Whittier*

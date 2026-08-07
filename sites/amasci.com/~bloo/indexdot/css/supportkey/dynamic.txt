@@ -1,0 +1,226 @@
+CSS specification/browser support page: Dynamic Content Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ CSS 
+
+ Browsers 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ IExplorer 
+ Netscape 
+ Opera 
+
+ accelerator 
+ -- -- 
+ 5.0 -- -- 
+
+ true 
+ -- -- 
+ 5.0 -- -- 
+
+ false 
+ -- -- 
+ 5.0 -- -- 
+
+ cursor 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ inherit 
+ -- X 
+ -- 6.0 
+ 7.0 
+
+ default 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ auto 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ [URL] 
+ -- X 
+ 6.0 -- -- 
+
+ [{DIR}-resize] 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ crosshair 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ pointer 
+ -- X 
+ 6.0 6.0 
+ 7.0 
+
+ move 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ text 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ wait 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ help 
+ -- X 
+ 4.0 6.0 
+ 7.0 
+
+ hand 
+ -- -- 
+ 4.0 -- 
+ 7.0 
+
+ all-scroll 
+ -- -- 
+ 6.0 -- -- 
+
+ col-resize 
+ -- -- 
+ 6.0 -- -- 
+
+ row-resize 
+ -- -- 
+ 6.0 -- -- 
+
+ no-drop 
+ -- -- 
+ 6.0 -- -- 
+
+ not-allowed 
+ -- -- 
+ 6.0 -- -- 
+
+ progress 
+ -- -- 
+ 6.0 -- -- 
+
+ vertical-text 
+ -- -- 
+ 6.0 -- -- 
+
+ alias 
+ -- -- 
+ -- 6.0 -- 
+
+ cell 
+ -- -- 
+ -- 6.0 -- 
+
+ copy 
+ -- -- 
+ -- 6.0 -- 
+
+ count-down 
+ -- -- 
+ -- 6.0 -- 
+
+ count-up 
+ -- -- 
+ -- 6.0 -- 
+
+ count-up-down 
+ -- -- 
+ -- 6.0 -- 
+
+ grab 
+ -- -- 
+ -- 6.0 -- 
+
+ grabbing 
+ -- -- 
+ -- 6.0 -- 
+
+ spinning 
+ -- -- 
+ -- 6.0 -- 
+
+ filter 
+ -- -- 
+ 4.0 -- -- 
+
+ [Visual filters] 
+ -- -- 
+ 4.0 -- -- 
+
+ [Reveal Transition filters] 
+ -- -- 
+ 4.0 -- -- 
+
+ [Blend Transition filters] 
+ -- -- 
+ 4.0 -- -- 
+
+ behavior 
+ -- -- 
+ 5.0 -- -- 
+
+ [Behavior Script URL] 
+ -- -- 
+ 5.0 -- -- 
+
+ [Behavior Object ID] 
+ -- -- 
+ 5.0 -- -- 
+
+ [Default Behavior Name] 
+ -- -- 
+ 5.0 -- -- 
+
+ zoom 
+ -- -- 
+ 5.5B1 -- -- 
+
+ normal 
+ -- -- 
+ 5.5B1 -- -- 
+
+ [number] 
+ -- -- 
+ 5.5B1 -- -- 
+
+ [percentage] 
+ -- -- 
+ 5.5B1 -- -- 
+
+ Boring Copyright Stuff...

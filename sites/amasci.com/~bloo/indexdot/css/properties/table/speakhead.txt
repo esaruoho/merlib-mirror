@@ -1,0 +1,74 @@
+Speak-Header - Cascading Style Sheets Properties 
+
+ speak-header 
+ Support Key: 
+ [ CSS2 ] 
+ Other Table Properties 
+
+ border-collapse 
+ border-spacing 
+ caption-side 
+ empty-cells 
+ table-layout 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ once 
+ Applicable Elements: 
+ All elements carrying table header information 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies how often table headers are spoken in relation
+ to their relevant data cells.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ once 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ The table header is spoken once before a series of cells. 
+
+ always 
+ [ CSS2 ] 
+ Type: Explicit 
+ Description: 
+ The table header is spoken every time a relevant data cell is
+ aurally rendered. 
+
+ Example 
+ Ext/Doc: table {
+ speak-header: once } 
+ In-Line:&#160; < table 
+ STYLE =" speak-header: 
+ once"> 
+
+ Notes 
+
+ HTML has several mechanisms for specifying table header information
+ (the "axis", "headers" and "scope" attributes.)
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

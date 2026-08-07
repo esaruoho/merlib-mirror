@@ -1,0 +1,64 @@
+Question 6.19 
+
+ Question 6.19 
+ How do I write functions which accept two-dimensional arrays
+when the ``width'' is not known at compile time?
+
+ It's not
+easy.
+One way is to pass in a pointer to the [0][0] element, along
+with the two dimensions, and simulate array subscripting ``by hand:''
+ f2(aryp, nrows, ncolumns)
+ int *aryp;
+ int nrows, ncolumns;
+ { ... array[i][j] is accessed as aryp[i * ncolumns + j] ... }
+
+This function could be called with the array from
+question
+ 6.18 
+as
+ f2(&array[0][0], NROWS, NCOLUMNS);
+ It must be noted,
+however,
+that a program which performs
+multidimensional array subscripting ``by hand''
+in this way
+is not in strict conformance
+with the ANSI C Standard;
+
+according to
+
+an official interpretation,
+the behavior of accessing
+ (&array[0][0])[x] 
+is not defined
+for x >= NCOLUMNS .
+ gcc allows local arrays to be declared
+having sizes which are specified by a function's arguments,
+but this is a nonstandard extension.
+ When you want to be able to use a function
+on multidimensional arrays of various sizes,
+one solution is to simulate all the arrays dynamically,
+as in question 6.16 .
+
+ See also questions
+ 6.18 ,
+ 6.20 ,
+and
+ 6.15 .
+
+ References:
+
+ANSI Sec. 3.3.6
+
+ISO Sec. 6.3.6
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 6.3</title>
+<link href="q6.2.html" rev=precedes>
+<link href="q6.4.html" rel=precedes>
+<link href="s6.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 6.3</H3>
+<p>So what is meant by the ``equivalence of pointers and arrays'' in C?
+</p><hr>
+<p>Much of the confusion surrounding
+arrays and
+pointers in C can be traced to
+a misunderstanding of
+this statement.
+Saying that arrays and pointers are ``equivalent''
+means
+neither
+that they are
+identical
+nor
+even
+interchangeable.
+</p><p>``Equivalence'' refers to the
+following key definition:
+<blockquote>An lvalue
+of type array-of-T
+which appears in an
+expression
+decays
+
+(with three exceptions)
+into a pointer to its first element;
+the type of the resultant pointer is pointer-to-T.
+</blockquote></p><p>(The exceptions are when the array is the operand of
+a <TT>sizeof</TT>
+or
+<TT>&amp;</TT>
+operator,
+or is a string literal initializer for a character
+array.)
+</p><p>As a consequence of
+this definition,
+the compiler doesn't apply the array subscripting operator
+<TT>[]</TT>
+that differently
+to arrays and pointers,
+after all.
+
+In
+an expression of the form <TT>a[i]</TT>,
+the array
+decays
+into a pointer,
+following the rule above,
+and
+is then
+subscripted just as would be a pointer variable in
+the expression <TT>p[i]</TT>
+(although the eventual memory accesses will be different,
+as explained in question
+<a href=q6.2.html>6.2</a>).
+If you were to assign the array's address to the pointer:
+<pre>	p = a;
+</pre>
+
+
+then <TT>p[3]</TT> and <TT>a[3]</TT> would access the same element.
+</p><p>See also 
+question <a href=q6.8.html>6.8</a>.
+
+</p>
+
+
+
+
+
+
+<p>References:
+
+K&amp;R1 Sec. 5.3 pp. 93-6
+<br>
+K&amp;R2 Sec. 5.3 p. 99
+<br>
+ANSI Sec. 3.2.2.1, Sec. 3.3.2.1, Sec. 3.3.6
+<br>
+ISO Sec. 6.2.2.1, Sec. 6.3.2.1, Sec. 6.3.6
+<br>
+H&amp;S Sec. 5.4.1 p. 124
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q6.2.html" rev=precedes>prev</a>
+<a href="q6.4.html" rel=precedes>next</a>
+<a href="s6.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

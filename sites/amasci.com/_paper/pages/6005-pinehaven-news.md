@@ -1,0 +1,131 @@
+---
+title: "Pinehaven: News"
+source_domain: amasci.com
+source_path: ~pc22/Pinehaven/news2000.html
+order: 6005
+reachable_from_entry: false
+images: 1
+internal_links: 6
+extracted: 2026-08-07T17:13:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pinehaven: News
+
+*Source page: `~pc22/Pinehaven/news2000.html`*
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="74"><img src="images/pinecone.jpg" data-align="bottom" width="72" height="69" /></td>
+<td width="359"><h2 id="at-the-cabin">2000 at the cabin</h2></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+At the beginning of **December**, I went up alone, since Arvia was in San Francisco enjoying fine dining and pharmaceutical talk. The car was defeated by snow on the final hill on the way up our jeep track - even with chains. At this time of year, it's pretty consistently below freezing, and this time, the cabin was in the clouds too. But next morning, I found that new snow had fallen, and the skies were clear. The snow up by the [troika](images/troika-winter.jpg) was gorgeous!
+
+The days are short, so it was pretty intense getting all the things that had to be done in daylight accomplished, while trying to keep the stove fueled and myself fed. Then at 0340 on Sunday morning, I got woken up by a *tremendous* howling and yipping. Must have been two dozen coyotes up on the hill behind Broken Foot Gulch: never did investigate what they were talking about though. Besides sheetrocking the last of the loft upstairs, the other main project done was the ceiling above the [wood-stove](images/stove-roof.jpg).
+
+While we were away for a night visiting Roger and his family over by the Loup-Loup the other side of the valley, the biggest event of November occurred, around 0200 - an earthquake! Mark and Connie were woken up by a large bang, and plenty of shaking - everyone else up in the neighborhood of our cabin felt it too. In western Washington, we have pretty frequent tremors, but they're not supposed to happen out in the Okanogan!
+
+Here's the readout from the USGS seismographs over the Thanksgiving period:
+
+`00/11/25 00:53:36 46.59N 121.75W 12.3 2.7 BA 24.6 km WNW of Goat Rocks`\
+`00/11/25 10:01:39 48.83N 119.34W 2.0 3.1 BD FELT 55.2 km NNE of Okanogan`\
+`00/11/28 19:51:03 47.51N 122.83W 18.4 2.0 AA 17.0 km WSW of Bremerton, WA`\
+`00/11/30 15:22:02 45.07N 122.66W 16.3 2.0 BC 16.5 km ESE of Woodburn, OR`\
+`00/11/30 18:07:56 49.08N 120.92W 7.5 2.4 DD 50.5 km SE of Hope, BC`
+
+Normally, one wouldn't feel a magnitude 3.1, but our part of the valley is pretty solid rock, and all the cabins are pretty much anchored to this.
+
+------------------------------------------------------------------------
+
+The calendar says it's still fall, but the last few trips have been pretty wintery. In the aftermath of the fire, we planned to reseed some of the meadow that was torn up by heavy machinery in the beginning of November, just before the first snows. However, those snows beat us by three days, and when we showed up there was around 10cm of new snow on the ground and a hard freeze.... oops. Still, the seeds will keep until the spring.
+
+So, we spent most of the weekend battling on with the wood panelling on the cathedral ceiling - which is coming along nicely, about 75% complete now, and made occasional forays into the [fog](images/cabin-fog.jpg) outside for hikes. This fall, we were distressed to find birds attacking the metal mesh under the eaves of the cabin. Apparently, Bob and his building crew didn't use quite heavy enough guage wire mesh, and the birds found they could peck their way through to meals of insects hiding in the insulation behind. Of course, the birds left scattered insulation all over the place! Furthermore, we were woken up a couple times by a [woodpecker](images/woodpecker.jpg) hammering away on the ceiling above the balcony upstairs, also in search of food. We put a stop to his capers by means of caulking...
+
+No sooner we we feeling smug about our accomplishments though, than a fresh crisis arose. We were very happy to see the DNR land to the west of us came through the fire pretty much unscathed; however, it turned out that all the folk snooping around the land during the fire-fighting gave some bosses the idea that here was some timber that could be logged! They're calling it a "salvage log" of course, in the same way that the "Timber Salvage rider" allowed many trees that were "susceptible to fire, diseasess or insects" to be logged. That is, pretty much any tree.
+
+It appears now that they want to cut 90% of the trees in the easy access areas leading from Homestead Way - they also want to use the jeep track to our cabin to get their logging trucks in and out! Needless to say, we're not enthused about these ideas. I'm not sure how much power we have to change their plans, we'll see if there are any grounds for appealing their logging plan when we get it.
+
+------------------------------------------------------------------------
+
+Over **Labor Day** and the first weekend in October, we actually accomplished a good deal: the water tank, which had been sitting outside Derek's barn since the big fire was moved up to the hole with the assistance of a number of the neighbors (much appreciated!).
+
+A great discovery was Colin, who's the son of one of our neighbors up on the Saddle. He (and a friend) were invaluable in helping us finish the [cistern](images/tank.jpg) area, and digging a trench down to the cabin (around 200m). Alas, he's finished high school, and is off snowboarding in the winter. We'll have to find someone else...
+
+We also came to some acceptance of the events of the summer. Fire is quite natural in this area after all, and this same area burned in 1976, though perhaps not quite as fiercely. Dave Demyan, whom we consulted about our future plans with the trees, was very enthusiastic about the fire: he really loves what they do to help the ecosystem - something we'll be learning for ourselves in the years to come. We've leaned to accept some of the heavily damaged areas, such as up at Lake Arvia, and on the Ravine 40 where many trees were [torched](images/fire-tree.jpg), and find joy in the unexpected, like the seedling that [survived](images/fire-seedling.jpg) somehow, and the fall colors of the [sage](images/sagebrush.jpg). The fire also caused many of the pine cones to [open up](images/fire-cones.jpg) and helps propagate the seeds.
+
+------------------------------------------------------------------------
+
+ The weekend of the **Big Dig** didn't quite turn out as planned. The idea was to install the water tank in the big hole up Broken-Foot Gulch, but having hauled up the water tank (it came in three pieces) to the cabin in a large flatbed, we were astounded to see a huge forest fire blow up in the National Forest some miles to the north of us. For an hour or so, the wind came from the north-east and we could see a large plume to the west of us, heading towards Pickens Mountain. Then suddenly, the smell of smoke was in the air, ash started falling around us, and the sun turned a deep red; it was around this time we started to worry. Providentially, the stucco crew had finished their work a few weeks before, so most of the cabin was in pretty good shape. We spent an hour or so covering the deck with spare metal roofing material, and throwing dirt over any exposed wood surfaces, before learning from our neighbors that there was an evacuation order. So, we retreated to a motel up the valley, where I had my 15 mins of fame, being interviewed by the press, and written up in the local Seattle and Spokane papers.
+
+The next morning, we arrived to find our land in the middle of a war zone, with dozens of fire trucks, crews, dozers, and other heavy equipment all over the place. Our place was ground zero. Quite an experience; I spent two days with the fire crews digging fire lines, running around with backpack water sprayer trying to prevent flare-ups, watching choppers drop water buckets and getting bombed with fire retardant from some pretty brave folks flying 20m above the tree tops in 1950s vintage DC-5s. Even the food sent up to feed us got hit - that stuff smells pretty bad too. We ground troups were successful in preventing the fire crossing Antoine Creek - after which it probably woulnd't have stopped before Mt Bonaparte; mostly though the fire seemed to go where the winds pushed it. The bombers saved some trees, but perhaps the most effective equipment I saw being used were ATVs with water tanks on the back - they could be much quicker to respond, and clean up spotting areas ahead of the fire before they got a chance to take off. Alas, the local county fire crew can't afford any of these.
+
+All told, the fire [burned through](images/fire.jpg) most of our land - only the subirrigated portions which are green, and less combustible didn't get hit. That said, even though we lost some thousands of trees, including most of the firs (which are not very fire resistant) and Aspen, and some areas like around Lake Arvia and the Ravine 40, look pretty desolate now, we came off better than some places, such as on the other side of the mountain, which burned fiercely in high winds the night before, and really look like a moonscape now. The area [around the cabin](images/fire-cabin.jpg) looks pretty much the same, except for the undergrowth, so we have at least a nice oasis. Reseeding will take place - Ponderosas need a certain amount of fire to thin out unhealthy groves of trees anyway.
+
+------------------------------------------------------------------------
+
+  The **July 4th** holiday arrived with our friend Kay, just in time to dig our water cistern site. After probing several different sites to make sure there was enough topsoil before hitting the bedrock, we eventually decided to go further up Broken-Foot gulch, just to be sure to get sufficient pressure to operate a shower one day. Our site is now around 15m above the cabin floor, and 200m up the hill. The actual [excavation](images/cisternhole.jpg) went much more quickly than we'd feared - with three of us digging, the piles of earth grew rapidly, and only after 1.5m of sandy loam, did we hit the first big glacial rocks. The real challenge is going to be excavating the trench down to the cabin though.
+
+In the afternoon, we all went [rock climbing](images/climbing.jpg) on the face next to Arvia's Arête, which is a short 20m route which goes at about UIAA IV. Arvia (who thinks climbing harnesses are dorky) surprised us all by making it up the face, despite poorly fitting rock shoes. Now she's inspired to go and climb Mt Rainier.
+
+A persistant rain modified our outside plans for the remaining time, which we used to begin work on the ceiling panelling and finishing up taping the living area walls. It's looking quite spiffy now.
+
+In between shooing the cows off the nice grass to the south of the cabin, we made an interesting discovery: wild mushrooms growing in the jeep track! I'd never have believed there was enough water to support them in the Okanogan, but it's not the first time we've been surprised by such things. Oregon grape was another similar find.
+
+------------------------------------------------------------------------
+
+ The 2nd annual **Memorial Day work party** had great weather - a few showers and really nice temps. We did quite a bit of work:
+
+- Some taping of the drywall.
+- Pulled a great deal of Hounds Tongue, just about keeping up with the cattle, who were back in force helping to spread it again.
+- Did a [test of the water cistern](images/pressure.jpg) location. This was pretty successful - having hauled up 120 or so litres of water to the cistern site, we connected the supply line down to the cabin, filled it with water, connected a barrel of water to the cistern end, and installed a tap at the cabin end. And lo, when we turned on the valves, out came a pretty nice stream of water. I think though, that we'll see if we can't go some more up the gulch for a little greater head of pressure, just to be on the safe side.
+
+We also managed to have some fun: Leora bought her mountain bike, so the two of us took off on a trip to [Summit Lake](images/summitlake.jpg) in the National Forest above us. Took us 3 hours to get up there, but we had an exhiliarating [ride down](images/leorabike.jpg) again, which we managed in 90 mins or so...
+
+Alas, we did not managed to hook up the generator to Clarence's well: incompatible plugs and sockets, but we did get instructions from him on how to run the pressure tank.
+
+The area that was torn up by the construction crew last year has grown back wonderfully - you wouldn't know anyone had been up there. Even the places where the lumber truck had driven were scarecely visible.
+
+------------------------------------------------------------------------
+
+**April** arrived, and with it the colours of springtime; the ravine is always the first to show flowers (since it faces south east), generally before the last snows have left the northern aspects. Other parts of Pinehaven follow a couple of weeks later, until the balsam flowers are in full bloom at the end of the month. We've been pretty lucky with out cabin site, which happens to be right in front of a [hillside of balsam](images/balsam1.jpg).
+
+The water cistern is the next major challenge. Requirements are fairly specific: a site that can be excavated at least 1.5m so the water will be below the frost line, and at least 10m above the cabin so as to give a decent head of water, and maybe even enable us to get a working shower some day... The central part of [Broken-Foot Gulch](images/broken-foot.jpg) is a good candidate - i've probed down to around 2m, so we have the depth. Next visit, we'll run an experiment with water piping, and see if we can get decent flow rates from there. If so, then we'll need to excavate for the cistern, and the 120m of water pipe down to the cabin.
+
+We also made a deal with Clarence, to trade him use of our generator for water from his well. Of course, it's around 700m from his well to our cistern site, so this isn't a long term solution, but it sure would be convenient until we can get a well in place. Of course, we still have to get the generator out there, and check that we can indeed pump water from the well with it, but we're planning that for the Memorial Day work party.
+
+With great fanfare, we also completed the installation of the first light switch, by the front door. Of course, it'a not connected to a light yet, and there's no power to switch either, but it sure looks pretty sitting in the sheetrock. The first power socket will follow soon...
+
+------------------------------------------------------------------------
+
+**Late March**: [Winter](images/homestead1.jpg) hasn't quite left yet: our poor station wagon was defeated at The Glade by a flat snowpatch around 20cm deep! Most of the snow that's left is on the north slopes, and shady areas and should be mostly gone by the beginning of April. We did accomplish the major task for this trip which was to construct a fence to keep the cows out of the wetlands until we can exclude them out completely from the place... alas, most of the snow that remained was right in the spot the fence was to go, and this meant lots of hauling of fence posts, wire and tools too and from a place the station wagon could get to.
+
+There are many Zen aspects to building a fence - the whole being stronger than the parts, thinking of strong layouts, but Arvia decided that she wasn't a fencer. I play one on TV, but despite this, cognoscenti will note that the [fence](images/fence2.jpg) only has three strands, not four, and is somewhat lacking in character. In defence, I plead [conditions](images/fence1.jpg), and this fence is only supposed to be for this season - we'll hopefully relocate it later. It was my first attempt at an electrified fence - next time, we'll energise it and see if it works!
+
+We also began the task of hauling the wood panelling for the ceiling out to the cabin, and staining it.
+
+------------------------------------------------------------------------
+
+The first [winter ski-in](images/skiin1.jpg) during **January 2000** was an adventure. Arvia decided that it was going to be too cold for her (last year at this time, it didn't get much above -10C during the day). So, it was by myself that I put on the harness and began the 6 km ski up the jeep track towing a 30 kilo sled with supplies. The first 5k was fine, since the track was well packed down after someone ploughed it... however, that last bit from the meadow to the cabin, took almost an hour [breaking trail](images/skiin2.jpg) all the way. Around half the sled load was fuel logs: since we'd not had time to cut a decent supply of wood before the snows fell, I thought it'd be wise to at least get something dry to keep the place warm.
+
+Once the stove was properly fired up, the cabin was fairly warm (by my standards at least), and everything was [wonderfully pretty](images/winter-cabin.jpg) and quiet. Skiing was good, but not great, since there were places on the hills where another snowfall would have helped cover the rocks. It was also tough - since I was breaking trail again; next time we'll stay longer, to get the benefit of all that work. But, I did take quite a few nice [pictures](images/winter-snow.jpg), and visit with the neighbors.
+
+------------------------------------------------------------------------
+
+**News Archives**
+
+- [1999](news1999.html)
+- 1998
+
+------------------------------------------------------------------------
+
+\[ [Home](ph.html) \| News \| [Cabin](cabin.html) \| [History](history.html) \| [Place](place.html) \| [Fun](fun.html) \| [Projects](projects.html) \]

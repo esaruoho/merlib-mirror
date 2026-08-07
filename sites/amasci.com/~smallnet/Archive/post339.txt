@@ -1,0 +1,434 @@
+SMALLnet post339 
+
+ SMALLnet Posting post339
+
+Date: Wed, 23 Aug 2000 00:19:29 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+...Here are a couple of "constructive" tips to start off tonight's
+Posting. I like to use bamboo for various modeling purposes --
+such as the leading edges of hand-launched gliders, tailskids for
+rubber-power, and struts for small biplanes. But really GOOD
+bamboo isn't easily found. I have tried shish-kebab skewers, but
+found them rather splintery and not easily shaped nor heat-formed.
+
+But the last time I visited the local supermarket I found a package
+of bamboo chopsticks that are made from the straightest, most close-
+grained bamboo I think I've ever seen. At less than $2 for six
+pair, I've obtained enough high-quality bamboo for a lot of small
+airplanes!
+
+Second, I've been breaking-in some HiLine Troll and Elf electric
+motors according to the provided instructions. (The "Elf" is a
+Speed 400-type motor, but comes with a direct-drive propeller shaft
+and a full set of instructions -- unlike the Graupner Speed 400
+that I recently received from Hobby Lobby.)
+
+Anyway, after running in these motors, I blew out the carbon
+brush particles; then used an old trick for re-lubricating the
+oilite bushings on the motor shaft. First I heated each bushing
+area with a hot air gun, to the point where the metal was uncom-
+fortable to touch. Then I applied a drop of "Rem-Oil" (available
+from gun shops) to the bushing face.
+
+As the thin Rem-Oil cooled the hot, porous Oilite, it was drawn
+deeply into the material by the contraction of its pores. Now I'm
+certain that the motor bushings have adequate lubrication for a
+long running time. [JW]
+
+John Meacham < > states:
+
+About "blade-type" automotive fuses. Besides soldering these
+directly into the motor wiring, these fuses also fit into the
+slip-on type spade connectors. Use the insulated ones and you
+can rig a lightweight socket for making the fuse removable.
+
+John Meacham
+
+Sam Brauer < > reports:
+
+This past weekend I went to the SMALL fly-in at Delaware River
+Gap hosted by RAMAC. It was a low-key, fun event. I got to see a
+couple of airplanes fly that I'd only read about -- isn't that the
+point to these events?
+
+Anyhow, much as I hate to say it, the Kyosho F-16 does fly.
+(I dislike ARFs.) Mike Ramsey (an editor for Flying Models) had
+one he painted in orange and white with a stock fan setup. (The
+paint added an ounce and a half.) I noticed that the first flight
+in slightly cooler air did very well. The airplane could loop from
+level flight, had an impressive sound (not too loud) and was well
+within the capabilities of a sport flyer.
+
+In short, it's not killer-quick, but it flies like a jet at moderate
+speed. The second flight was more problematic, due to either a
+battery pack that wasn't putting out, or the warmer air. This flight,
+the airplane could barely climb and looked like it was going into the
+corn several times. (Mike is a dynamite pilot -- I watched him fly a
+tail-heavy 1/2A Shrike that should have planted a dozen times.)
+
+So if you fly at high altitude or where it's hot, some extra oomph
+would be appreciated in a Kyosho F-16.
+
+Other planes flown included a pair of the Shrikes designed by Joe
+Beshar. The 10-15 size airplane flew well on moderate power and
+wasn't too twitchy. The 1/2A size Shrike with a Norvel 061 was very
+quick and extremely maneuverable. This airplane is for those people
+without enough adrenalin in their lives.
+
+I put up my Sopwith Triplane for a flight with the new SR 6-cell
+500 mAh pack. Basically the S-300 motor uses 100 mAh per minute at
+full power on the ground, so this pack gives 5 minutes flying time
+if you fly wide open -- which is hard to do. The reduced internal
+resistance of this pack translates to more oomph than the Sanyo 350
+mAh pack, so the additional ounce is well worth it.
+
+My airplane now weighs between 16 and 17 ounces. One problem I
+noticed was that the airplane flew a little tail heavy, even though
+it balanced in the same place as with the lighter pack. What I
+suspect is that more heavily-loaded airplanes need to have the
+center of gravity further forward.
+
+I would have put the airplane up for a second flight, but I had an
+unfortunate incident on landing. Actually, after landing....when
+walking over to retrieve the airplane, a gust flipped it over. The
+attachment point of the cabanes went, as well as some of the ribs.
+I'd recommend beefing up the cabane attachments a bit.
+
+Sam Brauer, Norwalk, Connecticut
+
+...Sam, I think the reason your Triplane appeared "more tail-heavy"
+with your higher-powered system is that the center of drag of
+those three wings is higher than the thrustline. Thus, you notice
+more of a nose-up effect with an increase of power. This is a
+commonly-encountered situation with free flight models. [JW]
+
+Gary Gullikson < > wrote:
+
+Thanks to SMALLsters for all of the good advice and recommen-
+dations on electric-powering 35-40 inch Flyline and similar kits. 
+I'm curious about where my original request message appeared. 
+I didn't see it in the website archives yet. I'm getting direct replies 
+and SMALLnet postings. How does this work?
+
+Hope I can help others with information on care and feeding of Cox
+engines and tips on conversion of rubber kits to wet power.
+
+Thanks again; will report on my successes and otherwise with small
+E-powered scale R/C.
+
+Gary Gullikson
+
+...Gary, your initial query appeared near the beginning of Posting
+# 336. You haven't seen it in the Archives yet, because Bill Lee,
+our hard-working Webmaster, has been out of town for a while. Bill's
+the man who takes care of the SMALLnet archives; and when he's 
+away, there's a delay in adding the newer Postings.
+
+Bill's back now, however. He's notified me that we've been
+approaching the limit of our "web space" at Eskimo -- and as a
+result he has removed all the early Postings from the archives.
+What remains is from # 200 on. Bill says that in case of emergency,
+he can provide copies of the earlier Postings. So can I, for
+that matter -- I've been saving them all "on disk". [JW]
+
+Glenn Bolick < > observes:
+
+Response to several items in Posting # 338:
+
+A. Arantes hit the key to the small electrics - it's ounces per
+square foot of wing area for good flying. Have found that the Speed
+400 with Mini-Olympus gearbox flies quite well up to about 16 ounces
+per square foot. They will fly above that, but performance suffers.
+
+Ron Ferrer commented on getting the Global electric Mirage - please
+Ron keep us posted, as that really looks good.
+
+John Rossetti asked about 100 mA charging rate for the 500AR cells.
+Hobby Lobby catalog states these can be charged at a maximum rate of
+3 Amperes. Personally I use between 1 and 2 Amperes (depending on
+how much of a hurry I'm in to fly again) and have noted no problems.
+Be sure to let the cells cool down after flying before recharging.
+
+Thanks to many of you, I have gotten information on CO2 motors and
+chargers, and now have mine running well -- but have not reinstalled
+it in the Junior 451 for a flight as yet.
+
+Glenn Bolick
+
+Ed Stevens < > contributed:
+
+ Vendor: NORVEL 
+
+Hello SMALL flyers,
+
+I couldn't help but send in a response to Mr. Logan's unsubstantiated
+claim that quality control of NORVEL engines is substandard.
+
+Nothing could be further from the truth. NORVEL engines are the
+highest-quality, best-performing, most reasonably-priced, feature-rich
+small engines that have ever been produced in model engine history.
+As testament to our outstanding quality are four years of successive
+double-digit growth, with the year 2000 being a record year in sales
+and volume.
+
+Our customer satisfaction ratings are as high as can be measured.
+For example, the average number of NORVEL engines owned by each
+of our customers now stands at three, up from two one year ago. Also, 
+our average sale to a repeat customer has increased 50% from a year ago.
+Horizon Hobby recently reported to me that NORVEL is their fastest
+growing line of non-proprietary model airplane products.
+
+Don't forget that NORVEL engines are recommended by Tom Herr 
+of Herr Engineering for all his excellent 1/2A planes; by Paul Arlton
+for the Lite Machines helicopter, and by countless other SMALL
+modelers who have waited years for small engines of NORVEL's
+quality and performance to be available.
+
+If anyone has a problem with a NORVEL engine that cannot be 
+corrected by our telephone or website advice, then the engine should 
+be returned for service. Our three-year warranty is unprecedented 
+for small engines. (Cox engines carry a 90-day warranty.)
+
+To my knowledge, we have never serviced a motor for Mr. Logan,
+although I would very much like him to accept an offer to service
+his engines.
+
+Finally, I disagree with Mr. Logan's assessment that the newsgroups'
+consensus opinion is negative concerning NORVEL engines. I am 
+an avid reader of all newsgroups, and I frankly see tons of positive
+comments on NORVEL including many glowing recommendations.
+
+NORVEL has excellent quality control resulting in the finest small
+model engines ever produced. Our customer satisfaction and repeat
+sales statistics are above average. Many expert modelers
+enthusiastically recommend NORVEL engines, which are covered by 
+a "best small engine" 3-year warranty. Newsgroup banter confirms 
+that the vast majority of NORVEL customers are very satisfied.
+
+I hope Mr. Logan will contact me at < > if he would
+like to discuss any of the above. I'm sure Mr. Logan also wouldn't
+want to bore the readership of this email list by turning a private
+disagreement into a public one.
+
+As always, thanks for reading to everyone on the list.
+
+Best regards, 
+
+Ed Stevens 
+ General Director 
+ NORVEL, LLC 
+ P.O. Box 3459 
+ San Luis Obispo, California 93403 
+
+Visit < http://www.norvel.com > for technical information, cool
+engine sounds, and online shopping.
+
+Ken Elder < > wrote:
+
+Thought I'd give everyone a flight report on my latest, a Cermark
+Porterfield, designed for a .15 gas engine. Actually, this is the
+AstroFlight Porterfield, intended originally for electric power
+according to the box. It looks a bit like a Cub.
+
+Its a very complete kit and an excellent value considering most of
+the building is already done for you. That's right, its an ARF.
+Sorry, but I was looking for an airframe to install my OS .26
+4-stroke in, and it was on sale for $60 US.
+
+To make a long story short, I have no complaints, great plane and it
+even comes with a fairly light fiberglass cowl. I did find that the
+wing does not have much dihedral, and in three channel configuration,
+the turns were more sideslips than turns. Added ailerons and flew
+again the next day; now it's a really great relaxing flier.
+
+Any good strong .15 two-stroke should fly it just fine; the .26
+sounds great though......
+
+Specifications: FMA Fortress receiver, 270 mAh batteries,
+FMA S-100 servos (4), OS .26 four-stroke, weight 2 3/4 pounds,
+around 600 square inch wing area.
+
+Ken Elder, Largo, Florida
+
+Dereck Woodward < > contributed:
+
+Sorry - can't resist this one, having had a little experience of
+flying in England and Scotland. Malcolm Logan remarked on 
+Scottish flyers standing within 4 to 8 feet of each other.
+
+The reason for standing close together is that all receivers airborne
+will 'see' the same signal strength from all the transmitters. With
+the US idea of the opposite ends of the flight station line sometimes
+being in different counties, a receiver well upwind of the line of
+pilots in the model flown by the poor beggar on the downwind end 
+could well be far closer to another channel than its own.
+
+Yes, I know there was a US third-harmonic inter-tranny interference
+problem back when radios tended to lose boiler pressure easily.
+I believe RC gear has improved slightly in recent years though :-^)
+
+Another plus for the UK system -- if a pilot wishes to communicate
+something to the others, it can be done easily by saying it. Try
+hollering "deadstick" to the guy five flying stations away in the US,
+especially if someone is running a typically muffled engine some-
+where between.
+
+Finally, as modellers will try really hard not to hit themselves,
+this gives a close-knit group a better chance of survival. The US
+system means that a model being steered out of hitting the owner
+is well placed to be aimed at someone else a distance away. Those
+e-fliers who flew at the last couple of KRCs may appreciate this --
+their flight line was so long that a model flown by a pilot on the 
+upwind was more than likely pointing straight at the downwind
+end pilots as it turned onto finals.
+
+I flew there for the last two, and was always on the downwind --
+had several models heading straight for me guided by dubious hands
+-- more so as many e-fliers are solitary souls with little idea on
+how to behave in company.
+
+Not to seem biased -- many UK clubs used to practice flying around 
+the pits area to land -- the old left-hand circuit, land over the right
+shoulder routine. I remember a Scottish club that didn't allow cars
+in the pits. So everyone parked so that models would be either coming
+in over cars, or taking off straight towards them!
+
+Malcolm also remarked, "In the UK, there are no safety barriers to
+protect flyers from errant models - none that I saw, even at LMA
+(Large Model Association) public airshow displays."
+
+Funnily enough, in 20-odd years of R/C, I have seen more models
+flying around and crashing into the pits in the US, and savaging
+safety fences than I ever did in the UK. I went to every Old Warden
+meet I could, over five years, where you had six pilot slots twelve
+minutes long, all day long, all standing together and with no safety
+barriers. No-one ever got hurt, no models ever ran amuck, and I
+cannot recall any radio problems in what had to be the most
+intensive flying events around. The LMA are so far above we mere
+mortals, they couldn't possibly have any problems at all ;-^)
+
+What the heck. I fly with a soarer-inclined group now -- getting
+them to stand in a line on spots would be an improvement. No --
+make that getting them to all stay on the site while flying, for
+starters.
+
+As a long-time columnist and sometime wandering aeromodeller, I can
+say that, maybe next to maybe silencers / mufflers, flight safety is
+the one subject that the vast majority are totally uninterested in.
+
+Just heard from my good friend and all round SMALLster Gray that he
+is taking over my old Weekend Pilot page space in R/C Model World
+(from Traplet Publications). As of 22 August, he's got the job -
+or gig, as he musically puts it -- and his first month will probably
+be December.
+
+Gray is on this list, so I shall embarrass the heck out of my old
+friend and introduce him to everyone, or y'all, depending on
+geographic location.
+
+Gray is a full-time musician and close to full-time aeromodeller (or
+is that the other way around?). You'd have to get up early to beat
+his fleet -- everything from peanuts to the odd large-ish R/C job
+has graced Gray's workshop in the lovely Cotswolds. Most of his
+models are of his own designs, and the ones he builds from plans are
+seldom approaching normal. He's been published in several of the
+regular R/C magazines in England and has appeared in the journal of
+the Hand Launched Glider Association in England.
+
+Gray was one of the dynamic duo - Shane Harding was the other - 
+who put single-channel R/C into the first incarnation of that electric
+Ducted Fan ship Tower are currently peddling -- the Sonic Blast. He
+spent one season making and selling RTF "Sixpence" gliders: a single-
+channel hand launch that makes most of the Mosquito class look
+lumbering. These were run up on a tiny jig board he built -- the
+entire model was built on a couple of square feet of ply. Purely a
+sports flier, and the world of indoor rubber should be glad - if he
+took up competition, he would be one to watch.
+
+Our lad was on the SMA's truck-launched large-scale glider routine.
+The truck was a seven-cell "Vanessa's LunchBox"; the glider was a
+2/3rds full size of a wooden US HLG! This routine had the crowd 
+in stitches at many a show. Another one of his lines is scaling up
+tiny rubber models into small R/C models -- he published an 049-sized
+canard based on Ace RC foam wings some years ago -- the inspiration
+was a Ray Malmstrom rubber model. Super-large scale modelling
+perhaps -- it was over twice full size!
+
+He's a stalwart of a large and long-lived club in the Cotswolds,
+a club that is never short of interesting, fascinating and often
+bizarre models; and often promotes our hobby with displays at
+local events. Gray's other forte is travelling around to the big
+model meets and shows around the bottom half of England - usually
+with Shane and a carload of models from small to really small.
+
+The SMA banner will be flying over Gray's new column, and we all
+need to get our material to him so he can keep up the impetus of the
+SMA and SMALL. I'm hoping he'll be along shortly, so I will let
+him tell you where to send all those gorgeous photos and details of
+your stunning models - I understand that part of his remit may be to
+widen the scope of his column from R/C only into C/L, FF, and
+whatever else.
+
+Good luck mate - you're in for a lot of work, many late nights and
+a wonderful experience!
+
+Regards, Dereck Woodward
+
+Tore Loodin < > sent:
+
+Someone recommended a free download of a CAD program. Unfortunately I
+forgot to save his message. Will you please tell me the address of the
+Site?
+
+I have just test flown my 1/2A Curtiss Robin, built from an old
+Flyline kit and motivated by a Cox .049 Babe Bee. Weight 450 grams
+fully equipped. It flew beautifully without any corrections at all.
+The slightly undercambered wing gives nice manners.
+
+In some wind it flies very slow. But you have to be cautious entering
+downwind turns not tilting the model too much. It also achieved
+consecutive loops (excuse me all scale-style flyers!) just to test.
+
+On the contrary, roll performance was not nice. On another model,
+(a 1/2A Chipmunk) I connected the rudder with a thin pushrod to 
+the aileron servo output wheel, which gave nice turns and ability to
+counteract propeller torque in starts from the ground.
+
+Only drawback was a little difficulty in connecting and disconnecting
+the wing!
+
+Regards, Tore "Smallster" Loodin
+
+Eddie Warren < > comments on an item 
+from a previous Posting:
+
+ .....and plant it down in the middle of all the polypropylene
+and foamboard ARFs on the flight line. Guys will crowd around and
+say, "You actually built that? All by yourself?? HWHOAH, DUDE!!!"
+
+I have already seen people young and old at our field who not only
+cannot build, but can't even make simple repairs to the ARFs they
+fly. That is sad. It does mean more business for the hobby shop
+though. Rather than repair a broken wing, they get to sell a new one.
+
+Eddie Warren
+Wilmington Model Flying Club, Wilmington, North Carolina -- USA
+
+...Eddie, regarding the "status" of ARF's -- it seems to me like the
+model railroad scene. Some folks buy off-the-shelf Lionel sets and
+have fun with their store-bought trains. Other model railroaders
+purchase ready-to-run locomotives, but build their rolling stock
+from kits or magazine drawings -- "scenery" too -- and enjoy that
+style of the hobby. Still others make nearly all their model train
+equipment from scratch. But all are receiving pleasure from
+participating in their hobby. They're merely approaching it in 
+different ways... [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

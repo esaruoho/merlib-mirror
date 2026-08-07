@@ -1,0 +1,27 @@
+6 of the Worlds Top 100 Banks use Bankstar's Software 
+
+ Bankstar Technologies Limited began as a startup in Q4 1997 
+ with a vision to develop a Financial Object Library ("FOL") 
+ which could be used to rapidly generate software applications for the 
+ banking industry. Our library was ready by Q4 1999 and we got a beta site 
+ in October 2000 for our first application. 
+
+ The 
+ sophistication and flexibility of our FOL resulted in us being invited 
+ by an international consortium (including a USA Fortune 500 company) to 
+ bid for a tender to provide a Clearing and Settlement System (CASS) for 
+ the Central Bank of a country. We won the bid and successfully got sign-off 
+ for it over one month ahead of schedule, a situation almost unheard of 
+ in Central Banking Systems. 
+
+ The CASS is today installed and working at the Central Bank and 47 other 
+ commercial banks including 6 of the worlds top 100 banks are using software 
+ developed by us. 
+ We 
+ are headquartered in HongKong with a development office in Mumbai, India. 
+ We have marketing offices in Bamako, Mali and Dakar, Senegal. We have 
+ representatives in New Zealand, Australia, Egypt, Cyprus, Oman and Jordan. 
+ Bankstar 
+ has a team of about 30 people worldwide with expertise in Banking Functional 
+ Requirements, Software Design, Programming, Testing, Graphics Designing, 
+ Technical Documentation and Marketing.

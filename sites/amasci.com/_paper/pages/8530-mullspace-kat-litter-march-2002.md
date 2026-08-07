@@ -1,0 +1,275 @@
+---
+title: "Mullspace | Kat Litter | March, 2002"
+source_domain: amasci.com
+source_path: ~strange/litter/marlitter02.html
+order: 8530
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T17:16:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | March, 2002
+
+*Source page: `~strange/litter/marlitter02.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# March, 2002
+
+\
+\
+
+posted: March 1, 2002
+
+\
+
+## Assault of the Virus-men!
+
+\
+
+Well, it's Friday and time for more Kat Litter and, whoops, what do you know...? I feel like crap.
+
+There has been a very unpleasant little illness running rampant through my friends and acquaintances lately. Everyone seems to have had it. I'm not much of a "joiner" and so I figured to skip this particular party, but, at the last minute, the virus brigade threw a surprise mixer and ambushed me.
+
+Now, I don't mind occasional surprise parties but, in this case, I'm reminded of a High School friend's birthday which resulted in his younger brother being catapulted across the living room by the birthday boy who took his sudden leap in the dark as an assault by burglars. I feel like the younger brother. Just doing my part to make everything pleasant when **wham!** I'm on my back across the room. (Or in my case, making a deep study of the porcelain.)
+
+I never get the flu. Well, not since I was a little kid. Influenza and I seem to be on the outs, which is quite fine by me. I catch colds, strep throat, do myself stupid injuries, but the Flu? Never.
+
+I always imagine the flu as an army of little viral soldiers with various nefarious duties in mind to be plied upon me, but my troops usually prevail. This time, unfortunately, the enemy was victorious in initial, strategic battles and I've been fighting a retreating war ever since. At last the tide has turned and I'm winning out. But I still feel like crap.
+
+I imagine these little plastic army-men in little suits labelled "virus" and "anti-virus" charging up and down my blanket-covered form, performing little charges and retreats, pincer movements and various clever manouevers as they attempt to render me either sick as a cat or somewhat better. They have raised various entrenchments in places like my sinuses and are making money by betting on my Kleenex consumption. What little bores they are. I've never been overly fond of war movies. These guys are really annoying me.
+
+I want to send the little anti-viral soldiers home to a well-deserved rest. Actually, I think I'll go take a nap, myself....
+
+\
+\
+
+posted: March 8, 2002
+
+\
+
+## Slipcovers
+
+\
+
+"Women do seem to have more choices in underwear than men."
+
+"To the point of confusion and frustration," I reply.
+
+Thus spins a recent conversation with my dance partner. (Have you noticed that I have very weird friends?)
+
+Having limited space, the contents of my drawers (and I mean the furniture-variety, here, you pervs) are quite important to me and liable to all sorts of examination. The discovery, recently, that I own 5 different styles of panties gives me pause.
+
+Who decided that we need two-dozen types of panties? This makes shopping very annoying (and you guys thought it was because women like to shop, but no! it's because we have to find the ones that actually fit). A trip to the lingerie section of any department store (much less a sojourn through Victoria's Secret) will yield packages, hangers, tables and drawers full of such a weltering plethora of panties that even the most confirmed kink-o-matic risks terminal overload.
+
+Before you can even begin to sort it out, you have to figure out what all those euphemisms and style names mean. Briefs, bikinis, hipsters, band-top, string bikini, thong... that's just an indication of the general silhouette. "Full coverage" apparently means "You will look like a blimp when seen from behind in these" and includes enough fabric to cover you from bellybutton to knees. These are known as "old lady panties" where I come from. Anything else must be sexy, at least by comparison.
+
+French-cut means longer leg openings so that you can actually move around without cutting off your circulation in the thigh. Apparently only the French have ever noticed this phenomenon. (This confused me, at first, since the only french-cut anything I had seen before was green beans and I couldn't imagine why I would want my undies cut into long, thin strips if I was planning on wearing them afterward.)
+
+Bikinis, those monstrous little things which go right across the widest part of your hip so you always have a bump. They usually leave half your cheeks hanging out for the same purpose. Sexy as hell on the beach, but not too cute when they leave topographic impressions on your butt. There are several variations on bikini panties, but they all have the print-right-through-your-clothing abilities of industrial ink. Veritable billboards which say "hey, look: undies!"
+
+Panty lines are the secret horror of women. (Or at least they are according to underwear and clothing manufacturers.) To combat this, there is the evil alternative: thong panties. Not so much an item of clothing as an acknowledgement that one has to wear *something* down there.
+
+Now, generally, one does not want one's clothing crawling up one's ass. But the perverse quirk of thongs is that crawling up your ass is exactly what they are designed to do (like middle-management). And amazingly, they come in more than one type of ass-crawler.
+
+Out with a girl friend, we wander into Victoria's Secret on a mission of extreme silliness and find ourselves knee-deep in panties. Sharon fishes up what appears to be an emergency bungie-jumping harness for a daredevil tarantula.
+
+"Yipes. Butt-floss."
+
+On examination, we discover it to be labelled "v-string."
+
+"Didn't they used to call these 'g-strings'?"
+
+"Yes, but after Bach, it just sounds obscene. Besides, this is Victoria's Secret, where everything is rated 'V'."
+
+"For Very Expensive?"
+
+"For Very Silly."
+
+"And Very Small."
+
+We re-interr the one-linear yard of narrow elastic and turn our attention elsewhere, to discover the cousin of v-string lurking nearby. This creature is calling itself T-back.
+
+Apparently this is the thong panty for women who have never really given up on the old-lady variety, but don't want anyone to know. The waist seems to want to come to rest somewhere just south of the bra strap, harnessing waist and hips in a fabric vise which does its best to wrinkle up into a shed-snakeskin-like ripple, even on the anorexic mannequin, while the titular T goes spelunking crackward, thus upholding its mission of panty-line eradication.
+
+The price of pristine buttness is \$7 per pair. Just how lineless does my butt need to be?
+
+On the other hand....
+
+I am now quite a bit poorer, but have been able to sort out the lingerie drawer faster.
+
+\
+\
+
+posted: March 15, 2002
+
+\
+
+## Badgered
+
+\
+
+Take two parts badger, one musician and four parts party, combine with a bus, 3 people who talk loudly and one Victorian mystery novel. Shake well, do not stir. Massage knee occasionally. Feel hungry.
+
+"We're playing this party and suddenly there's all this noise and screaming. And these three badgers come tumbling in.... You know what a badger looks like, right?"
+
+I imagine a somersaulting badger which looks amazingly like Badger of *A Wind in the Willows*.
+
+"So these three badgers tumble in and start raising a ruckus and they're running around and biting people and hissing, like they do, you know...."
+
+Badger is now hissing through his teeth while offering me tea and biscuits, wearing his dressing gown and cap. But jumping up and down in place the whole time and being extremely noisy.
+
+"And before you know it, there's no one left in the place but us, 'cause all the folks have run away from the badgers. And we're still standing up on the stage, playing something...."
+
+Badger's hissing has now become whistling of the *Rawhide* theme is if by a maddened tea kettle.
+
+"And one of those badgers come right up to the edge of the stage and he's staring up at us."
+
+Glare.....
+
+"And my friend leans over and says 'You got a request, buddy?'"
+
+The woman behind me laughs like some kind of grazing animal bellowing "A-hoo-hoo-hoo."
+
+"Yep, gotta watch out for them badgers."
+
+My Badger is now wearing a frock coat and rubbing his forepaws together with malicious glee.
+
+I exit the bus, but the vision of the Victorian badger in the frock coat standing in the middle of a dance hall in Georgia stays with me.
+
+Badger rubs his paws together and gathers his minions, the weasels.
+
+"Men, we stand now on the very cusp of our greatest challenge: the overthrow of the Seattle Metro Bus system."
+
+Much chuckling from the weasels and stoats.
+
+"Soon, we shall plunge forth into every bus and shelter and terrorize the Birkenstock-revealed toes of the unsuspecting and soft Seattlites! And with the terrorized travelers at our mercy, we shall bring the City to a standstill. Then we issue our demands and the City of Seattle is ours!!"
+
+I do hate to have to tell Badger that we already have plenty of weasels in Seattle: we just elected a new batch in November.
+
+His plans are foiled by a sudden attack of Country Western music and extra beefy wool socks.
+
+Oh, well....
+
+I hope that the Scrat in *Ice Age* will be as amusing....
+
+\
+\
+
+posted: March 22, 2002
+
+\
+
+## Better Than Santa Claus
+
+\
+
+Well, it's chicken soup time again, or will be soon. (Considering the way the weather has been recently, I could really go for some chicken soup....) This year it looks like my friends back home will be able to recycle the Easter eggs, since it appears Passover will end the week after Easter, for once.
+
+I am not religious and am only an honorary yid (this title bestowed upon me at the age of 14 by Steven Gasner) but, for some reason, the Jewish celebration of the end of Passover has always tickled me (really, I think pigging out because you ducked the wrath of God is pretty appropriate). On Easter Sunday, Christians go to church and have boiled eggs and ham (or lamb if you're really perverse). After the Seder, Jews have chicken soup and kuegel. Personally, I've always preferred chicken over ham and there's something really delightfully weird about sweet noodle casserole for dessert, so I'm happy.
+
+For some reason that had always escaped me, my dad was always the person to make the chicken broth for the dinner. Not just any chicken broth, mind you, but kosher chicken broth cooked in a kosher pot. Not being Jewish, we didn't have a kosher pot, so, every year would involve the negotiation of collecting the kosher chicken pot from Mrs. Kauffman.
+
+One college year, I mentioned this to a friend of mine who was waiting impatiently for his girlfriend so that they could drive back home to help his mother with their own Passover cooking.
+
+"Oh, yes," says he, "The kosher chicken pot. You understand about the pot, I'm sure."
+
+"Umm... no. What about it?"
+
+"Well, see, it's traditional for a Jewish family to assign this job to the highest-ranking honorary-yid they know. Because goy chicken broth always tastes better. But, you see, there is actually only one kosher chicken pot in the world."
+
+"You're pulling my leg."
+
+"Oh contraire! Never do my fingers leave my hand!"
+
+"Uh-huh...."
+
+"See, there's only one kosher chicken pot, the Platonic ideal of Kosher Chicken Pot, which is kept by Elija and every year, Elija takes the chicken pot and carries it all around the wold, distributing uses of the Platonic Kosher Chicken Pot to appropriate little old Jewish ladies so that they can pass them on to the deserving Chicken-cooking goyim."
+
+"Ummm... kind of like Santa Claus and the toys, right?"
+
+"Yeah! See, that's why it's so hard to get a Kosher Chicken Pot; you have to wait until Elija has dropped a Usage off with the Blessed Contact and he has to do this all in one night, because you can't have the Platonic Ideal of Kosher Chicken Pot just wandering around loose in the world for very long. This could seriously warp reality."
+
+"I think your reality is already seriously warped."
+
+"That's not warpage; that's the California version of Jewish Angst."
+
+"Okaaay.... So, about this pot: how does Elija get the pot all the way around the world in one night? I know he ain't got no reindeer."
+
+"Nah.... He just uses the Pot. He gets in the Pot and flies it all the way around the world."
+
+"I suppose he steers it with his staff, like Baba Yaga and her flying pestle, steering with the mortar."
+
+"Exactly! See, you get it. You really *are* a honorary yid. You sure you're not really Jewish?"
+
+"I could change my name to Huff-stein...."
+
+"Hmm... no. I guess we'll just have to get together in our secret cabal after dinner and vote you an Order of the Kosher Chicken."
+
+"With matzoh-ball clusters?"
+
+"Naturally."
+
+"Cool...."
+
+I never did get my Order of the Kosher Chicken, but I'd probably have had to keep it hidden, anyway....
+
+\
+\
+
+Incidentally, just to keep you guys up to date, today I finally shipped the first 100 pages of a manuscript to a guy in New York, just in case someone out there wants to publish the damned thing (actually, I think it's pretty damned good book, but you have to convince people of that, first). Anyhow, what should have been a pretty straightforward job on the formatting front became a nightmare which lasted 2 weeks. But, at last, it is done. Now comes the nail-biting stage of waiting for someone to say "yes" or "no"....
+
+I'll keep you guys posted.
+
+\
+\
+
+posted: March 29, 2002
+
+\
+
+## Conned
+
+\
+
+I was met on the steps by a Klingon officer. He was very polite in his ignoring of me. A gothically-dead fashion-plate spy-girl swept past me in shiny black vinyl skirt, boots and long overcoat to meet one Crow and a small horde of lesser dead, along with a still-live zoot-suited gringo whose watch-chain could have been used to restrain Cujo. Approximately 47 elves, several hobbits, an entire Command Deck worth of Next Gen Star Trekkers and a small procession composed of Obi-Wan, Anakin and one jawa proceeded me to Con registration.
+
+Actually, I didn't register, I just met friends there, who handed over a green badge with my name and a small repro of a painting by [Brom](http://www.bromart.com/) (the Artist Guest of Honor) on it. I then watched my friends play Unexploded Cows for 15 minutes (a truly silly card game from [CheapAss Games](http://www.cheapass.com/)--yes, that really is the company's name) before trundling off to observe various odd panels, workshops and demos.
+
+Thus I came to [NorwesCon](http://www.norwescon.org/). And I fit right in without a single comment about my hair or my unrelieved black clothing (hey: I need to do the laundry, OK?). My friends were both dressed in black, too, she in velvet goth-gear and he in black leather with a rather ethereal faery crown on his head, which he claimed was meant for a small relative destined to enjoy the lunacy of Conventioneering tomorrow. (Yeah... right....)
+
+Do you con?
+
+I don't mean as in "confidence tricks". No, I mean con as in "Science Fiction and Fantasy Convention". Many moons ago, I attended a few of these. They were fun, though I spent most of my time in the video rooms staring into flickering projections of arcane TV or film, such as the entire Quark opus, all of the then-available Star Wars flicks and more hours of Dr. Who than any normally-sighted person should watch in one sitting. I attribute my need for spectacles to such insanity-fests as this.
+
+Over time, I have noticed the die-out of Original Star Trek costumes in favor of the more stylish Next Gen ones and in moving North, I have seen fewer costumes composed of 6 square inches of fur and some hope. But the people wearing them don't seem to have changed. The bulletin boards of the con abound with flyers for parties, fake fangs, costume rental and sale and "special events" no one bothered to put on the schedule.
+
+It can be great fun to be awash in Elves and space men.... One tends to do rather silly things when carried away by the group-insanity. Like participating in the First Annual Archemidean Tit-Off and wearing three scarves, chainmail and a smile in public to drum up business for someone after jumping up and down on someone else's chest for 3 minutes to get his breast plate to close properly (all of these atrocities committed by me at World Sci-Fi Convention 1984). Insulting famous writers and movie people, singing stupid songs and observing naked drunken actors dive from balconies into the swimming pool below are all hallmarks of a successful con-visit (con-viction?). Pointy ears and silly costumes are not required, although they do add to the anonymity factor and one can always disavow the action on the basis that one was high on spirit gum fumes.
+
+And yet, I find I am not as amused as once I was. Is it the passing of youth and frivolity? Or are the panels and demos getting lamer? Who knows? All I know for sure is that there is a sense of dissatisfaction in having missed The Artist by 20 minutes and of having presentations fall flat. (I got to drool on some of his originals up close, though.) And I tend to watch rather than participate (though I did get sucked into an improv, which involved a certain amount of rolling about on the floor when the Fight choreographers had 40 minutes to fill).
+
+Maybe I should have gone in costume.... Kat, Queen of the Boat-Elves! Or possibly one of my own characters.... Not Jack, though, and Mosey is right out. Hey, wait... I *did* go in costume; I went as me! Next time, I'll do the laundry first....
+
+\
+\
+
+No news on the manuscript front.\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

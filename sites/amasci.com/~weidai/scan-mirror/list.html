@@ -1,0 +1,520 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+      A.head { color: black; font-weight: 600 }
+      A.idx  { }
+      A.top  { color: black }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<a name=top></a>
+<a class=idx href="intro.html" target=d>Introduction</a>&nbsp;|
+<a class=idx href="conventions.html" target="_blank">Conventions</a>
+<hr size=3 noshade>
+<a class=idx target="_top" href="mdi.html" >MessageDigest</a>&nbsp;|
+<a class=idx target="_top" href="maci.html">MAC</a>&nbsp;|
+<a class=idx target="_top" href="uhi.html" >UniversalHash</a>&nbsp;|
+<a class=idx target="_top" href="prfi.html">PRF&nbsp;/&nbsp;KDF</a>&nbsp;|
+<a class=idx target="_top" href="phi.html" >PassphraseHash</a>&nbsp;|
+<a class=idx target="_top" href="demi.html">DEM</a>&nbsp;|<br>
+<a class=idx target="_top" href="sri.html" >SecureRandom</a>&nbsp;|
+<a class=idx target="_top" href="csi.html" >Symmetric&nbsp;Cipher</a>&nbsp;|
+<a class=idx target="_top" href="csm.html" >Block&nbsp;Mode</a>&nbsp;|
+<a class=idx target="_top" href="csp.html" >Block&nbsp;Padding</a>&nbsp;|
+<a class=idx target="_top" href="csk.html" >KeyGenerator</a>&nbsp;|
+<a class=idx href="#ca">Public&nbsp;key&nbsp;algorithms</a>
+<hr size=3 noshade>
+<b>Colour/symbol coding:</b><br>
+&nbsp;&#8226;&nbsp;<span class=s>Blue - stable</span><br>
+&nbsp;?&nbsp;<span       class=p>Green - provisional</span><br>
+&#215;&nbsp;<span        class=x>Red - experimental</span><br>
++&nbsp;<span             class=a>Purple - alleged</span>
+<hr size=3 noshade>
+
+<a class=top href="#top">^</a>&nbsp;<a
+class=head name="md" target=d href="md.html">MessageDigest</a><p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="md.html#BRS-Hn">BRS-H1</a>(<i>cipher</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;...<a class=p target=d href="md.html#BRS-Hn">BRS-H20</a>(<i>cipher</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#GOST-Hash">GOST-Hash</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="md.html#HAS-V">HAS-V</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#HAVAL">HAVAL</a>[(<i>digestLength</i>[<i>,<br>passes</i>])]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#MD2">MD2</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#MD4">MD4</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#MD5">MD5</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#Panama">Panama</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#RIPEMD-128">RIPEMD-128</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#RIPEMD-160">RIPEMD-160</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#RIPEMD-256">RIPEMD-256</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#RIPEMD-320">RIPEMD-320</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#SHA-0">SHA-0</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#SHA-1">SHA-1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#SHA-256">SHA-256</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#SHA-384">SHA-384</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#SHA-512">SHA-512</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#Snefru-2">Snefru-2</a>[(<i>digestLength</i>[<i>,<br>passes</i>])]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#Tiger">Tiger</a>[(<i>digestLength</i>[<i>,<br>passes</i>])]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#Whirlpool-0">Whirlpool-0</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="md.html#Whirlpool">Whirlpool</a><br>
+<hr size=3 noshade>
+&#215;&nbsp;<a        class=x target=d href="md.html#MGF1">MGF1</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="md.html#Parallel">Parallel</a>(<i>digests</i>+)<br>
++&nbsp;<a             class=a target=d href="md.html#alleged">Alleged&nbsp;MessageDigests</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="mac" target=d href="mac.html">MAC</a><p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#CBC-MAC-DES-FIPS113">CBC-MAC-DES-FIPS113</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#CBC-MAC">CBC-MAC</a>(<i>cipher</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#XCBC-MAC">XCBC-MAC</a>(<i>cipher</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#HMAC">HMAC</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#MD5-MAC">MD5-MAC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#RIPEMD-128-MAC">RIPEMD-128-MAC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="mac.html#RIPEMD-160-MAC">RIPEMD-160-MAC</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="mac.html#SSL3-MAC">SSL3-MAC</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="mac.html#Two-Track-MAC">Two-Track-MAC</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="mac.html#UMAC16">UMAC16</a>[(...)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="mac.html#UMAC32">UMAC32</a>[(...)]<br>
+&#215;&nbsp;<a        class=x target=d href="mac.html#XMACWithDigest">XMACWithDigest</a>(<i>digest</i>[<i>,<br>seedLength</i>])<br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="mac.html#XMACWithCipher">XMACWithCipher</a>(<i>cipher</i>[<i>,<br>seedLength</i>])<br>
+-->
+&#215;&nbsp;<a        class=x target=d href="mac.html#PCSWithDigest">PCSWithDigest</a>(<i>digest</i>)<br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="mac.html#PCSWithCipher">PCSWithCipher</a>(<i>cipher</i>)<br>
+-->
++&nbsp;<a             class=a target=d href="mac.html#alleged">Alleged&nbsp;MACs</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="uh" target=d href="uh.html">UniversalHash</a><p>
+
+<!--
+&#215;&nbsp;<a        class=x target=d href="uh.html#hash127">hash127</a><br>
+&#215;&nbsp;<a        class=x target=d href="uh.html#TMMH16">TMMH16</a><br>
+&#215;&nbsp;<a        class=x target=d href="uh.html#TMMH32">TMMH32</a><br>
+-->
+&#215;&nbsp;<a        class=x target=d href="uh.html#UHASH16">UHASH16</a><br>
+&#215;&nbsp;<a        class=x target=d href="uh.html#UHASH32">UHASH32</a><br>
++&nbsp;<a             class=a target=d href="uh.html#alleged">Alleged&nbsp;UniversalHashes</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="prf" target=d href="prf.html">PRF&nbsp;/&nbsp;KDF</a><p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="prf.html#HMAC-PRF">HMAC-PRF</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="prf.html#KDF2">KDF2</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="prf.html#SSL3-PRF">SSL3-PRF</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="prf.html#TLS-PRF">TLS-PRF</a><br>
++&nbsp;<a             class=a target=d href="prf.html#alleged">Alleged&nbsp;PRFs&nbsp;and&nbsp;KDFs</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="ph" target=d href="ph.html">PassphraseHash</a><p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="ph.html#bcrypt">bcrypt</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="ph.html#BSD">BSD</a><br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="ph.html#HMAC-PBKDF">HMAC-PBKDF</a>(<i>digest</i>)<br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ph.html#IteratedAndSalted">IteratedAndSalted</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="ph.html#MD5-crypt">MD5-crypt</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ph.html#Simple">Simple</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ph.html#Salted">Salted</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="ph.html#Traditional-crypt3">Traditional-crypt3</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ph.html#WindowsNT">WindowsNT</a><br>
++&nbsp;<a             class=a target=d href="ph.html#alleged">Alleged&nbsp;PassphraseHashes</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="dem" target=d href="dem.html">DEM</a></p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="dem.html#DEM1">DEM1</a>(<i>cipher</i>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      <i>mac</i>[,<i>cipherKeyLength</i>])<br>
+&#215;&nbsp;<a        class=x target=d href="dem.html#DEM1withPRF">DEM1withPRF</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;      (<i>prf,cipher,mac</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;      [,<i>cipherKeyLength</i>])<br>
+&#215;&nbsp;<a        class=x target=d href="dem.html#UST">UST</a>(...)<br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="sr" target=d href="sr.html">SecureRandom</a><p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sr.html#Default">Default</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#LongTermKeyGen-Interactive">LongTermKeyGen-Interactive</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#LongTermKeyGen-NonInteractive">LongTermKeyGen-NonInteractive</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#SessionKeyGen">SessionKeyGen</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#FastUniform">FastUniform</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#Statistical">Statistical</a><br>
+<hr size=3 noshade>
+&#215;&nbsp;<a        class=x target=d href="sr.html#BBS">BBS</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#DevRandom">DevRandom</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sr.html#URandom">URandom</a><br>
+&#215;&nbsp;<a        class=x target=d href="sr.html#SHA1PRNG">SHA1PRNG</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sr.html#WiderWake4+1">WiderWake4+1</a><br>
+
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="cs" target=d href="cs.html">Symmetric Cipher</a><p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#3-Way">3-Way</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#AES128">AES128</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#AES192">AES192</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#AES256">AES256</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Anubis">Anubis</a><br>
+<!--&#215;&nbsp;<a        class=x target=d href="cs.html#BBS">BBS</a><br> -->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Blowfish">Blowfish</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#BMGL">BMGL</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Camellia">Camellia</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#CAST-128">CAST-128</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#CAST-256">CAST-256</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#CRYPTON-0.5">CRYPTON-0.5</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#CRYPTON-1.0">CRYPTON-1.0</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#CS-Cipher">CS-Cipher</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#DEAL">DEAL</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#DES">DES</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#DESede">DESede</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#DESX">DESX</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#DFC">DFC</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#DFCv2-128">DFCv2-128</a>[(<i>rounds</i>[<i>,s</i>])]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Diamond2">Diamond2</a>(<i>rounds</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#E2">E2</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#FROG">FROG</a>[(<i>blockSize</i>[<i>,rounds</i>])]<br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#GrandCru">GrandCru</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#GOST">GOST</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Hierocrypt-L1">Hierocrypt-L1</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Hierocrypt-3">Hierocrypt-3</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#HPC-1">HPC-1</a>[(<i>blockSize</i>[<i>,backup</i>])]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#HPC-2">HPC-2</a>[(<i>blockSize</i>[<i>,backup</i>])]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#ICE">ICE</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#IDEA">IDEA</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#ISAAC-BE">ISAAC-BE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#ISAAC-LE">ISAAC-LE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#ISAAC-64-BE">ISAAC-64-BE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#ISAAC-64-LE">ISAAC-64-LE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#JEROBOAM">JEROBOAM</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Khazad">Khazad</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#LEVIATHAN-BE">LEVIATHAN-BE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#LEVIATHAN-LE">LEVIATHAN-LE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#LILI-128">LILI-128</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#LOKI91">LOKI91</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#LOKI97">LOKI97</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#MAGENTA">MAGENTA</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#MARS">MARS</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#MDC">MDC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#MISTY1">MISTY1</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#MISTY2">MISTY2</a>[(<i>rounds</i>)]<br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Nimbus">Nimbus</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Noekeon">Noekeon</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Noekeon-Direct">Noekeon-Direct</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Panama">Panama</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Q">Q</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Rainbow">Rainbow</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#RC2">RC2</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#RC4">RC4</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#RC4-drop">RC4-drop</a>[(<i>nbytes</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#RC5">RC5</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#RC5-64">RC5-64</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#RC6">RC6</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#RC6-64">RC6-64</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Rijndael">Rijndael</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Rijndael-160">Rijndael-160</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Rijndael-192">Rijndael-192</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Rijndael-224">Rijndael-224</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Rijndael-256">Rijndael-256</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SAFER-K">SAFER-K</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SAFER-SK">SAFER-SK</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SAFER+">SAFER+</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SAFER++">SAFER++</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SAFER++">SAFER++-64</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#Sapphire-II">Sapphire-II</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#SC2000">SC2000</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Scream">Scream</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Scream-F">Scream-F</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SEAL-3.0-BE">SEAL-3.0-BE</a>[(<i>Lbytes</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SEAL-3.0-LE">SEAL-3.0-LE</a>[(<i>Lbytes</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Serpent">Serpent</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#SHACAL">SHACAL</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#SHARK-A">SHARK-A</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SHARK-E">SHARK-E</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SKIPJACK">SKIPJACK</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#SNOW">SNOW</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#SOBER-t16">SOBER-t16</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#SOBER-t32">SOBER-t32</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SPEED-64">SPEED-64</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SPEED-128">SPEED-128</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#SPEED-256">SPEED-256</a>[(<i>rounds</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Square">Square</a>[(<i>rounds</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#TEA">TEA</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#Twofish">Twofish</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#WAKE-CFB-BE">WAKE-CFB-BE</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#WAKE-CFB-LE">WAKE-CFB-LE</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#WiderWake4+1-BE">WiderWake4+1-BE</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#WiderWake4+1-LE">WiderWake4+1-LE</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#WiderWake4+3-BE">WiderWake4+3-BE</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="cs.html#WiderWake4+3-LE">WiderWake4+3-LE</a><br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="cs.html#WWNFSR-5-8-v2-BE">WWNFSR-5-8-v2-BE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#WWNFSR-5-8-v2-LE">WWNFSR-5-8-v2-LE</a><br>
+-->
+<hr size=3 noshade>
+&#215;&nbsp;<a        class=x target=d href="cs.html#Cascade">Cascade</a>(<i>ciphers</i>+)<br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#CascadeWithPRF">CascadeWithPRF</a>(<i>prf,<br>ciphers</i>+)<br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="cs.html#PBE-PKCS5">PBE-PKCS5</a>(<i>digest</i>,<br>DES/CBC)<br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#PBE-PKCS12">PBE-PKCS12</a>(<i>digest,<br>cipher</i>[,<i>keyLength</i>])<br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#NullCipher">NullCipher</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="mode" target=d href="cs.html#mode">Block cipher Mode</a></p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_ECB">ECB</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_CBC">CBC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_PCBC">PCBC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_CFB">CFB</a>[(<i>feedbackBits</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_OFB">OFB</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_InterleavedCBC">InterleavedCBC</a>(<i>nStreams</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_InterleavedPCBC">InterleavedPCBC</a>(<i>nStreams</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_InterleavedCFB">InterleavedCFB</a>(<i>nStreams</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_Counter-BE">Counter-BE</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#mode_Counter-LE">Counter-LE</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#mode_KFB">KFB</a>(<i>m</i>)<br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="pad" target=d href="cs.html#pad">Block cipher Padding</a></p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#pad_CTS">CTS</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#pad_OneAndZeroes">OneAndZeroes</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#pad_PKCSPadding">PKCSPadding</a><br>
+&#215;&nbsp;<a        class=x target=d href="cs.html#pad_TBC">TBC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#pad_NoPadding">NoPadding</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="kg" target=d href="cs.html#kg">KeyGenerator</a></p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html">one per symmetric cipher or MAC</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#kg_AES128">AES128</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#kg_AES192">AES192</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#kg_AES256">AES256</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#kg_DES-EDE2">DES-EDE2</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="cs.html#kg_DES-EDE3">DES-EDE3</a><br>
+
+
+<!--
+<h4><a name="pk" target=d href="pk.html">Public Key Types</a></h4>
+<ul class=noindent>
+  <li> <a target=d href="pkrsa.html">RSA</a>
+    <ul class=noindent>
+      <li> <a target=d href="pkrsa.html#RSAEnc">RSAEnc</a>
+      <li> <a target=d href="pkrsa.html#RSASig">RSASig</a>
+    </ul>
+  <li> <a target=d href="pkrw.html">RW</a>
+  <li> !&nbsp;<a target=d href="pkou.html">OU</a>
+    <ul class=noindent>
+      <li> !&nbsp;<a target=d href="pkou.html#EPOC">EPOC</a>
+    </ul>
+  <li> !&nbsp;<a target=d href="pkesign.html#ESIGN">ESIGN</a>
+  <li> !&nbsp;<a target=d href="pkaceenc.html#ACEEnc">ACEEnc</a>
+  <li> !&nbsp;<a target=d href="pkacesig.html#ACESig">ACESig</a>
+  <li> <a target=d href="pkdl.html">DL</a>
+    <ul class=noindent>
+      <li> !&nbsp;<a target=d href="pkdl.html#DLIES">DLIES</a>
+      <li> <a target=d href="pkdl.html#DH">DH</a>
+        <ul class=noindent>
+          <li> <a target=d href="pkdl.html#DH-SMIME">DH-SMIME</a>
+        </ul>
+      <li> <a target=d href="pkdl.html#Elgamal">Elgamal</a>
+        <ul class=noindent>
+          <li> <a target=d href="pkdl.html#ElgamalEnc">ElgamalEnc</a>
+          <li> <a target=d href="pkdl.html#ElgamalSig">ElgamalSig</a>
+        </ul>
+      <li> <a target=d href="pkdl.html#DSA">DSA</a>
+      <li> <a target=d href="pkdl.html#NR">NR</a>
+      <li> <a target=d href="pkdl.html#PV">PV</a>
+    </ul>
+  <li> <a target=d href="pkec.html">EC</a>
+    <ul class=noindent>
+      <li> !&nbsp;<a target=d href="pkec.html#ECIES">ECIES</a>
+      <li> !&nbsp;<a target=d href="pkec.html#ECDH">ECDH</a>
+      <li> !&nbsp;<a target=d href="pkec.html#ECDSA">ECDSA</a>
+      <li> !&nbsp;<a target=d href="pkec.html#ECNR">ECNR</a>
+      <li> !&nbsp;<a target=d href="pkec.html#ECPV">ECPV</a>
+    </ul>
+  <li> !&nbsp;<a target=d href="pkntru.html">NTRU</a>
+  <li> !&nbsp;<a target=d href="pknss.html">NSS</a>
+</ul>
+-->
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="ca" target=d href="ca.html">Asymmetric Cipher</a></p>
+
+&#215;&nbsp;<a        class=x target=d href="ca.html#DLIES-ISO">DLIES-ISO</a>(<i>prf,dem</i>)<br>
+&#215;&nbsp;<a        class=x target=d href="ca.html#ECIES-ISO">ECIES-ISO</a>(<i>prf,dem</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#ElgamalEnc">ElgamalEnc</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="ca.html#cem_Raw">Raw</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#ElgamalEnc">ElgamalEnc</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=s target=d href="ca.html#cem_PKCS1-1.5">PKCS1-1.5</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#RSA">RSA</a>/<a class=s target=d href="ca.html#cem_Raw">Raw</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#RSA">RSA</a>/<a class=s target=d href="ca.html#cem_PKCS1-1.5">PKCS1-1.5</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#RSA">RSA</a>/<a class=s target=d href="ca.html#cem_OAEP-MGF1">OAEP-MGF1</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="ca.html#RSA">RSA</a>/<a class=x target=d href="ca.html#cem_KEM">KEM</a>(<i>prf,dem</i>)<br>
+&#215;&nbsp;<a        class=s target=d href="ca.html#RSA">RSA</a>/<a class=x target=d href="ca.html#cem_OAEP++">OAEP++</a>(<i>digest,dem</i>)<br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="sig" target=d href="sig.html">Signature</a></p>
+
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#DSA">DSA</a>[(<i>outputFormat</i>)]<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#DSA-1363">DSA-1363</a>[(<i>outputFormat</i>)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="sig.html#sem_EMSA1">EMSA1</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#ECDSA">ECDSA</a>[(<i>outputFormat</i>)]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      [/<a target=d href="sig.html#sem_EMSA1">EMSA1</a>(<i>digest</i>)]<br>
+&nbsp;?&nbsp;<a       class=p target=d href="sig.html#ECNR">ECNR</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="sig.html#sem_EMSA1">EMSA1</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=p target=d href="sig.html#ECNR">ECNR</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_PSS-MGF1">PSS-MGF1</a>(<i>digest</i>)<br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="sig.html#ECNR2">ECNR2</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_PSSR-MGF1">PSSR-MGF1</a>(<i>digest</i>)<br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#ElgamalSig">ElgamalSig</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="sig.html#sem_EMSA1">EMSA1</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#ElgamalSig">ElgamalSig</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="sig.html#sem_PKCS1-1.5">PKCS1-1.5</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=s target=d href="sig.html#ElgamalSig">ElgamalSig</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_PSS-MGF1">PSS-MGF1</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=x target=d href="sig.html#ESIGN">ESIGN</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_EMSA5-MGF1">EMSA5-MGF1</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=p target=d href="sig.html#NR">NR</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a target=d href="sig.html#sem_EMSA1">EMSA1</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=p target=d href="sig.html#NR">NR</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_PSS-MGF1">PSS-MGF1</a>(<i>digest</i>)<br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="sig.html#NR2">NR2</a>(<i>outputFormat</i>)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      /<a class=x target=d href="sig.html#sem_PSSR-MGF1">PSSR-MGF1</a>(<i>digest</i>)<br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#RSA">RSA</a>/<a class=s target=d href="sig.html#sem_Raw">Raw</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#RSA">RSA</a>/<a class=s target=d href="sig.html#sem_EMSA2">EMSA2</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#RSA">RSA</a>/<a class=s target=d href="sig.html#sem_PKCS1-1.5">PKCS1-1.5</a>(<i>digest</i>)<br>
+&nbsp;?&nbsp;<a       class=s target=d href="sig.html#RSA">RSA</a>/<a class=p target=d href="sig.html#sem_SSL3">SSL3</a><br>
+&nbsp;?&nbsp;<a       class=s target=d href="sig.html#RSA">RSA</a>/<a class=p target=d href="sig.html#sem_TLS">TLS</a><br>
+&#215;&nbsp;<a        class=s target=d href="sig.html#RSA">RSA</a>/<a class=x target=d href="sig.html#sem_PSS-MGF1">PSS-MGF1</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=s target=d href="sig.html#RSA">RSA</a>/<a class=x target=d href="sig.html#sem_PSSR-MGF1">PSSR-MGF1</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#RSA2">RSA2</a>/<a class=s target=d href="sig.html#sem_EMSA2">EMSA2</a>(<i>digest</i>)<br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="sig.html#RW">RW</a>/<a class=s target=d href="sig.html#sem_EMSA2">EMSA2</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=s target=d href="sig.html#RW">RW</a>/<a class=x target=d href="sig.html#sem_PSS-MGF1">PSS-MGF1</a>(<i>digest</i>)<br>
+&#215;&nbsp;<a        class=s target=d href="sig.html#RW">RW</a>/<a class=x target=d href="sig.html#sem_PSSR-MGF1">PSSR-MGF1</a>(<i>digest</i>)<br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="ka" target=d href="ka.html">KeyAgreement</a></p>
+
+&#215;&nbsp;<a        class=x target=d href="ka.html#DH">DH</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#DH2">DH2</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#ECDHC">ECDHC</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#ECMQVC">ECMQVC</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#ECSTS">ECSTS</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#MQV">MQV</a><br>
+&#215;&nbsp;<a        class=x target=d href="ka.html#STS">STS</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="kf" target=d href="kf.html">KeyFactory</a></p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="kf.html#Generic/ASN1">Generic/ASN.1</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="kf.html#Generic/Base64-ASN1">Generic/Base64-ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#Generic/OpenPGP">Generic/OpenPGP</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#DH/ASN1">DH/ASN.1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="kf.html#DH/OpenPGP">DH/OpenPGP</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#DSA/ASN1">DSA/ASN.1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="kf.html#DSA/OpenPGP">DSA/OpenPGP</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#ECDH/ASN1">ECDH/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#ECDSA/ASN1">ECDSA/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#ECNR/ASN1">ECNR/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#ElgamalSig/ASN1">ElgamalSig/ASN.1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="kf.html#ElgamalSig/OpenPGP">ElgamalSig/OpenPGP</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#ESIGN/ASN1">ESIGN/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#NR/ASN1">NR/ASN.1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="kf.html#RSA/ASN1">RSA/ASN.1</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="kf.html#RSA/OpenPGP">RSA/OpenPGP</a><br>
+&#215;&nbsp;<a        class=x target=d href="kf.html#RW/ASN1">RW/ASN.1</a><br>
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="apg" target=d href="apg.html">AlgorithmParameterGenerator</a></p>
+
+<!--
+&#215;&nbsp;<a        class=x target=d href="apg.html#BBS">BBS</a><br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="apg.html#DH">DH</a><br>
+&nbsp;&#8226;&nbsp;<a class=s target=d href="apg.html#DSA">DSA</a><br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="apg.html#ECDH">ECDH</a><br>
+&#215;&nbsp;<a        class=x target=d href="apg.html#ECDSA">ECDSA</a><br>
+&#215;&nbsp;<a        class=x target=d href="apg.html#ECNR">ECNR</a><br>
+-->
+&nbsp;&#8226;&nbsp;<a class=s target=d href="apg.html#ElgamalSig">ElgamalSig</a><br>
+<!--
+&#215;&nbsp;<a        class=x target=d href="sig.html#ESIGN">ESIGN</a><br>
+&#215;&nbsp;<a        class=x target=d href="apg.html#NR">NR</a><br>
+&#215;&nbsp;<a        class=x target=d href="apg.html#RSA">RSA</a><br>
+&#215;&nbsp;<a        class=x target=d href="apg.html#RW">RW</a><br>
+-->
+
+
+<p><a class=top href="#top">^</a>&nbsp;<a
+class=head name="ap" target=d href="ap.html">AlgorithmParameters</a></p>
+
+&nbsp;?&nbsp;<a       class=p target=d href="ap.html#Generic/ASN1">Generic/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#DH/ASN1">DH/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#DSA/ASN1">DSA/ASN.1</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="ap.html#ECDH/ASN1">ECDH/ASN.1</a><br>
+&nbsp;?&nbsp;<a       class=p target=d href="ap.html#ECDSA/ASN1">ECDSA/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#ECNR/ASN1">ECNR/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#ElgamalSig/ASN1">ElgamalSig/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#ESIGN/ASN1">ESIGN/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#NR/ASN1">NR/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#RSA/ASN1">RSA/ASN.1</a><br>
+&#215;&nbsp;<a        class=x target=d href="ap.html#RW/ASN1">RW/ASN.1</a><br>
+
+
+<hr size=3 noshade>
+
+<table><tr>
+  <td valign=top>
+      <font size="-1">
+      <a target=d href="intro.html#copyright">Copyright and trademark information</a>
+      </font>
+  <td valign=top>
+      <img src="cryptix-s.gif" alt="">
+</tr></table>
+
+<a target="_blank" href="http://validator.w3.org/check/referer"><img
+src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>&nbsp;<a
+target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"><img
+src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+
+
+</body>
+</html>
+

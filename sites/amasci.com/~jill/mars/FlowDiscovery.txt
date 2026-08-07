@@ -1,0 +1,198 @@
+HyperFaceted(tm) 
+
+ Hyperfaceted 
+
+ Discovery of Freshly Created 
+ Martian Flow Features 
+ March 18, 2001 
+
+ Jill@Hyperfaceted.com (Jill England) 
+
+ Discovery! 
+ For almost a year, there has been a debate about the so-called flow or flow 
+ images on the surface of Mars. The intriguing possibility is that they are 
+ flows of water from sources beneath the surface happening as real water runoff 
+ today. 
+ If the hypothesis that flows represent current water flow features is true, then 
+ it should be possible to see new ones form and old flows change and disappear. 
+ If on the other hand flows can be shown to be persistent and unchanging then 
+ they are presumably longer lived features and there is no current activity to 
+ generate them. 
+ Method 
+
+ The method used in this image analysis will be to find overlapping images, if 
+ any, in the list of images of flows collected to date. Images found will have a 
+ time lapse and flow features can then be compared. 
+ To identify images that are close to each other and possibly overlap a "Great 
+ Circle Distance" is calculated for every combination of images in the known 
+ flow image list. 
+ When overlapping images are found they will need to have comparable resolutions 
+ and be of high enough resolution to discern surface features clearly. 
+ Qualifying images can be compared to identify any flow feature changes such as 
+ new flows being created or old flows becoming invisible. Measurements of any 
+ such features should be calculated by multiplying the pixel resolution by the 
+ length (in pixels) of the artifact on the image. Note that distances calculated 
+ this way will only be estimates due to various combinations of hills and camera 
+ angles. 
+ As a final part of the analysis a red/blue stereo picture should be created if 
+ possible. 
+ Results 
+ The list of images used in this comparison have already been identified to 
+ contain flow features. A copy of this image list may be found here. 
+
+ CLICK FOR: Image List used for these 
+ distance tests 
+
+ The distances between each image and all the rest in the list above were 
+ calculated generating a report of over 6000 combinations. The top 100 closest 
+ matches are listed here. 
+
+ CLICK FOR: Closest 100 images 
+
+ Two overlapping images containing flows, FHA/01100 and M04/01228 have been 
+ identified. These two images were taken on March 19, 1999 and August 16, 1999 
+ respectively. The images were taken 5 months apart. It is not believed that the 
+ seasons at this latitude change the climate substantially.
+
+ Image Name 
+ Image Time 
+ Resolution 
+ meters/pixel 
+ Center 
+ Latitude 
+ Center 
+ Longitude 
+ Martian Season 
+
+ FHA/01100 
+ March 19, 1999 
+ 1.44 
+ -8.34 
+ 155.05 
+ Early winter 
+
+ M04/01228 
+ August 16, 1999 
+ 4.29 
+ -8.30 
+ 155.05 
+ Early spring 
+
+ Click on image names above to view original images at Malin Space 
+ Science Systems. 
+ The images have comparable resolutions of 1.44 meters/pixel and 4.29 
+ meters/pixel. The images are also clear and free from obscuring dust or clouds. 
+ When the images were compared three New flows were discovered in the more 
+ recent image that had no counterpart in the older image. None of the older 
+ flows has noticeably changed. The three new flows are labeled A, B, and C in 
+ these pictures. 
+
+ Click for full size. 
+
+ Click for full size. 
+
+ The lengths of the new flows found in M04/01228 are as follows: 
+
+ Flow Name 
+ Flow Length 
+ Approximate Length in Meters 
+
+ A 
+ 11 pixels 
+ 45 meters 
+
+ B 
+ 20 pixels 
+ 84 meters 
+
+ C 
+ 32 pixels 
+ 139 meters 
+
+ In comparison to the lengths of these three new flow features, the largest flow 
+ features in M04/01228 are approximately 890 meters long. 
+ Conclusions 
+ The following conclusions are drawn; 
+
+ 1. 
+ Flows are "Long Lived" surface features that persist for more than 5 months.
+
+ 2. 
+ Flows are very recent surface features forming at the present time on the 
+ Martian surface.
+
+ 3. 
+ It seems obvious but it should be pointed out that new flow features appear 
+ very dark. Presumably they get lighter over time. Why they start out dark, why 
+ they get lighter, and what causes them to suddenly appear are questions that 
+ need to be answered.
+
+ Further Study 
+ Compare all images in the MOC database searching for other overlapping images 
+ containing flow features. This will give additional data and help formulate 
+ conclusions about what the flows are made of and how they are forming. 
+ In many other images, faded flow patterns are clearly visible next to darker 
+ newer flows. Flow features appear to fade with time. How much time it takes for 
+ a flow to fade is a very interesting question and that information could 
+ possibly be used to draw conclusions about the creation process and creation 
+ rate of the flow features. A possible hypothesis is that flow features will 
+ appear in a steady state with old flows fading at the same rate that new flows 
+ are being created. 
+
+ Since flow features are persistent for periods of time longer than Martian 
+ seasons it is unlikely that there will be any seasonal correlation between 
+ imaging time and seasons. The exercise should still be done however. 
+ Count the number of flows in each image and plot the count against latitude to 
+ see if there is a smooth decline in flows as you move away from the equator. 
+ Preliminary analysis from Efrain Palermo strongly suggests that this is true. 
+ On the wish list, it would be nice to stand in the middle of a flow and sample 
+ it. This would instantly answer many questions. 
+ Acknowledgments 
+
+ Jill England 
+
+ Custom unpublished software by Jill England, 2001. Said software uses Great 
+ Circle Equations from Bowditch, American Practical Navigator, Defense Mapping 
+ Agency Hydrographic Center, 1975, pp. 443 582-3.
+
+ Richard Hoagland 
+
+ Who just doesn't get enough credit for initiating interest in Space Sciences. 
+
+ Efrain Palermo 
+
+ For his Web Site dedicated to Martian Flow features, large list of flow images, 
+ and analysis of flow image distributions. 
+
+ Nasa/JPL/Malin Space Science Systems 
+
+ For the images and databases. 
+
+ USGS-Flagstaff MGS-MOC Web Pages 
+
+ As an additional archive and access point for the Malin Space Science 
+ images and databases. 
+
+ Special thanks to Nasa/JPL/Malin Space Science Systems for their efforts in 
+ organizing and creating this data and most importantly making it's catalog and 
+ database available. Thank you so much, exploring Mars and making this discovery , 
+ whatever it may mean, has been an exciting and wonderful experience and is the 
+ closest I am every likely to get to exploring other worlds. 
+ Thank you! 
+ Disclaimers and Copyright 
+ This paper is neither supported by nor associated with Nasa, JPL, or Malin Space 
+ Science Systems. 
+ This paper was not produced for profit nor was any compensation of any sort 
+ provided by anyone for this paper's creation or distribution. 
+ This paper is not produced for, supported by, or affiliated with either Richard 
+ Hoagland, The Enterprise Mission, or Art Bell. 
+ This paper is Copyright(c) by Jill England, 2001. All rights reserved. 
+ About the Author 
+ Jill England graduated from the University of Puget Sound in Tacoma in 1984 with 
+ a degree in Computer Information Systems .
+
+ She makes her living creating software systems as a contract software engineer 
+ in Seattle Washington. 
+
+ Copyright (c)2001 - 2004, Jill England 
+ and Hyperfaceted Inc.

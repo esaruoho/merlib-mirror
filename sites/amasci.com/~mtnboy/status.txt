@@ -1,0 +1,270 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/213792E5/StatusReportTemplate.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+ Overview 
+
+ Joseph Cusimano 
+ Joseph Cusimano 
+ 1 
+ 24 
+ 2002-03-28T20:44:00Z 
+ 2002-03-28T21:10:00Z 
+ 1 
+ 160 
+ 913 
+ Microsoft Corporation 
+ 7 
+ 2 
+ 1071 
+ 10.3501 
+
+ Clean 
+
+ MicrosoftInternetExplorer4 
+
+ Overview 
+
+ Highlights 
+
+ &middot; &nbs=
+p; 
+ Place Holder 
+
+ Open Issues 
+
+ &middot; &nbs=
+p; 
+ Place Holder =
+
+ Accomplishments 
+
+ &middot; &nbs=
+p; 
+ Place Holder =
+
+ Work Items 
+
+ &middot; &nbs=
+p; 
+ Place Holder =
+
+ Test Pass Results 
+
+ Audio 
+
+ Hardware 
+
+ Remote 
+
+ First Run / STB 
+
+ Build 
+
+ 2002XXXX 
+
+ Build 
+
+ 2002XXXX 
+
+ Build 
+
+ 2002XXXX 
+
+ Build 
+
+ 2002XXXX 
+
+ Passed 
+
+ 0 =
+
+ 0% 
+
+ Passed 
+
+ Passed 
+
+ 0 =
+
+ 0% 
+
+ Passed 
+
+ 0 =
+
+ 0% 
+
+ Failed 
+
+ 0 
+
+ 0% 
+
+ Failed 
+
+ Failed 
+
+ 0 
+
+ 0% 
+
+ Failed 
+
+ 0 
+
+ 0% 
+
+ Blocked 
+
+ 0 
+
+ 0% 
+
+ Blocked 
+
+ Blocked 
+
+ 0 
+
+ 0% 
+
+ Blocked 
+
+ 0 
+
+ 0% 
+
+ Bug Stats 
+
+ Audio 
+
+ Hardware 
+
+ Remote 
+
+ First Run / STB 
+
+ Active 
+
+ 0 =
+
+ Active 
+
+ 0 =
+
+ Active 
+
+ 0 =
+
+ Active 
+
+ 0 =
+
+ Resolved 
+
+ 0 =
+
+ Resolved 
+
+ 0 =
+
+ Resolved 
+
+ 0 =
+
+ Resolved 
+
+ 0 =
+
+ Critical Bugs 
+
+ Bug ID 
+
+ Area 
+
+ Title 
+
+ 570296 
+
+ Hardware
+ (Video) 
+
+ Bug Title goes here &#8211; Lin=
+k the
+ bug via Infra (example on the left) and give the raid area. =
+
+ Feature Area Quick Status =
+
+ Audio 
+
+ Hardware 
+
+ Remote 
+
+ First Run / STB 
+
+ Spec 
+
+ 0% 
+
+ Spec 
+
+ 0% 
+
+ Spec 
+
+ 0% 
+
+ Spec 
+
+ 0% 
+
+ Case Outline 
+
+ 0% 
+
+ Case Outline 
+
+ 0% 
+
+ Case Outline 
+
+ 0% 
+
+ Case Outline 
+
+ 0% 
+
+ Cases 
+
+ 0% 
+
+ Cases 
+
+ 0% 
+
+ Cases 
+
+ 0% 
+
+ Cases 
+
+ 0% 
+
+ New Cases 
+
+ 0 =
+
+ New Cases 
+
+ 0 =
+
+ New Cases 
+
+ 0 =
+
+ New Cases 
+
+ 0 =

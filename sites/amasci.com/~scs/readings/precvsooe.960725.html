@@ -1,0 +1,485 @@
+<html>
+<head>
+<title>precedence vs. order of evaluation, #3</title>
+<body>
+<p>
+[This article was originally posted on July 26, 1996, in the
+midst of a discussion on precedence and order of evaluation.
+I have corrected one or two errors which appeared in the original posting.]
+<p>
+<pre>
+Newsgroups: comp.lang.c
+From: scs@eskimo.com (Steve Summit)
+Subject: precedence vs. order of evaluation (was: HELP: Comma operator)
+Message-ID: &lt;1996Jul25.1157.scs.0001@eskimo.com&gt;
+Lines: 434
+References: &lt;BRAD.96Jul23005938@rosalyn.cs.washington.edu&gt; &lt;01bb78bb$62355360$87ee6fce@timpent.airshields.com&gt; &lt;TANMOY.96Jul23132821@qcd.lanl.gov&gt; &lt;01bb796a$4e873a40$87ee6fce@timpent.airshields.com&gt; &lt;01bb798a$11913f80$87ee6fce@timpent.airshields.com&gt;
+Date: Thu, 25 Jul 1996 18:57:00 GMT
+</pre>
+<p>
+Tim Behrendsen (tim@airshields.com) wrote:
+<pre>
+&gt;&gt;&gt; I think I'm going to have to disagree with you; what do you think
+&gt;&gt;&gt; side effects are?  The assignment operator is just an operator with
+&gt;&gt;&gt; it's own precedence.  Side effects come into play based on the order
+&gt;&gt;&gt; of evaluation, which is *purely* defined by the precedence rules.
+</pre>
+<p>
+This is a common misconception, but it's quite false.  Order of
+evaluation is affected by much more than "precedence rules";
+precedence affects order of evaluation much less than many people
+think.
+<p>
+<pre>
+&gt; There is only one thing that is relevent when you are talking about
+&gt; expression evaluation, and that is the precedence rules. Everything else
+&gt; falls out from those.
+</pre>
+<p>
+There's the misconception again.  Order of evaluation does
+<em>not</em> "fall completely out of" precedence rules.  It's true
+that precedence seems to have something to do with expression
+evaluation; in the expression
+<pre>
+	a + b * c
+</pre>
+we frequently say things like, "The multiplication happens before
+the addition, because <code>*</code> has higher precedence than <code>+</code>."  But it
+turns out this is a risky thing to say; because it gives the
+listener the impression that precedence dictates order of
+evaluation, which as we'll see it does not.  In my classes, I try
+desperately not to use the words "happens before" when explaining
+operator precedence, although I'm afraid I rarely succeed.
+<p>
+Let's imagine that we had some kind of omniscient processor, which
+could look at an expression and instantly give its value, without
+doing step-by-step evaluations.  If we gave it the expression
+<pre>
+	1 + 2 * 3
+</pre>
+it would give us the result 7.  Precedence tells us why it gave
+us that answer and not 9.  That is, even if thoughts of "order of
+evaluation" never enter our heads, precedence is an important and
+independent concept, because it tells us what an expression
+<em>means</em>.
+<p>
+Another way to think about precedence is that it controls how
+the compiler parses expressions.  The expression
+<pre>
+	1 + 2 * 3
+</pre>
+results in the "parse tree"
+<pre>
+	  +
+	 / \
+	1   *
+	   / \
+	  2   3
+</pre>
+Once it has determined the parse tree, the compiler sets about
+emitting instructions (in some order) which will implement that
+parse tree.  The shape of the tree may determine the ordering of
+some of the instructions, and precedence affects the shape of the
+tree.  But the order of some operations may not even be strictly
+determined by the shape of the tree, let alone the precedence.
+So while precedence certainly has an influence on order of
+evaluation, precedence <em>does not</em> "determine" order of
+evaluation.  I'd say that precedence is about 40% related to
+order of evaluation -- order of evaluation depends about 40% on
+precedence, and 60% on other things.  (This 40% figure is of
+course meaningless; it's just a number I pulled out of the air
+that "sounds right" [Barry, 1994].  The point I'm trying to make
+is that precedence is not entirely disconnected from order of
+evaluation, but the connection is nowhere near 100%.)
+<p>
+We've seen how precedence can affect or influence order of
+evaluation.  Now let's start looking at all of the ways it does
+<em>not</em>, or, stated another way, at all of the ways that order of
+evaluation is determined by things other than precedence.
+(As we'll see, many of the "other things" turn out to be the whim
+of the compiler.)
+<p>
+Most of you have seen this example before, but I'll drag it out
+again.  Suppose we have an expression containing three function
+calls:
+<pre>
+	f() + g() * h()
+</pre>
+Now, the result of calling <code>g()</code> will be multiplied by the result
+of calling <code>h()</code> "before" that product is added to the result of
+calling <code>f()</code>, and indeed, precedence tells us that.  But, unless
+we have multiple parallel processors, those three functions <code>f()</code>,
+<code>g()</code>, and <code>h()</code> are going to be called in some order.  What order
+will they be called in?
+<p>
+I don't know what order they'll be called in, and you don't know
+what order they'll be called in.  Precedence doesn't tell us, and
+in fact <em>nothing</em> in K&amp;R, the ANSI/ISO C Standard, or Dan
+Streetmentioner's Boffo C Primer Triple Plus will tell us.
+(C: The Complete Reference might tell us, but that's another
+story.)  There's absolutely nothing preventing the compiler from
+calling <code>f()</code> first, even though its result will be needed "last."
+<p>
+If you have any doubts about this, I encourage you to compile and
+run this little program:
+<pre>
+	#include &lt;stdio.h&gt;
+	main() { printf("%d\n", f() + g() * h()); return 0; }
+	f() { printf("f\n"); return 1; }
+	g() { printf("g\n"); return 2; }
+	h() { printf("h\n"); return 3; }
+</pre>
+For the very first two compilers I tried this program with, one
+printed:	  
+<pre>
+	g
+	h
+	f
+	7
+</pre>
+But the other printed:
+<pre>
+	f
+	g
+	h
+	7
+</pre>
+Even if your compiler(s) prints <tt>g h f 7</tt> "as expected,"
+bear with me while we look at this from yet another angle.
+<p>
+What do you do when the precedence is "wrong," that is, when
+you want to override the default precedence?  You use explicit
+parentheses, of course.  Parentheses force the operators and
+operands within an expression to be grouped in a certain way, and
+if you believe that precedence dictates order of evaluation, you
+might believe that parentheses dictate order of evaluation, too.
+But they do not.
+<p>
+Let's go back to the <code>f() + g() * h()</code> example.  Suppose your
+compiler were emitting code which called <code>f()</code> first, and for some
+reason you wanted it to call <code>f()</code> last.  How could you force this?
+Could you write
+<pre>
+	f() + (g() * h())
+</pre>
+where the parentheses are supposed to force the stuff inside them
+to happen first?  You could try it, but I doubt it would make any
+difference.  Those parentheses would tell the compiler that the
+result of <code>g()</code> was supposed to be multipled by the result of <code>h()</code>
+before the product was added to the result of <code>f()</code>, but the
+compiler was already going to do it that way, anyway, based on
+the default precedence.  It would still be free to call <code>f()</code>
+first.  (Indeed, for the compiler of mine that calls <code>f()</code> first,
+it still calls <code>f()</code> first even if I add the extra parentheses.)
+<p>
+Suppose, on the other hand, that your compiler is calling <code>g()</code> and
+<code>h()</code> first, and <code>f()</code> last.  What if, for some reason, you want it
+to call <code>f()</code> first?  How can you force this?  If you belong to the
+hit-or-miss, aimless meandering, or drug-induced hallucination
+schools of programming, you might try
+<pre>
+	(f()) + g() * h()
+</pre>
+but I'll pay you (or anyone) $100 if you can show me a compiler
+(other than one you wrote for the purpose) that can be forced to
+call <code>f()</code> first by putting a pair of parentheses around it like
+that.
+<p>
+In ANSI/ISO Standard C, when you care about the order in which
+things happen, you must take care to ensure that order by using
+"sequence points."  Sequence points have nothing to do with
+precedence, and only partly to do with expressions; in my head
+they're up there next to statements.  In general, when you want
+to control the order in which two things happen, you make the two
+things separate statements, and you put one statement after the
+other in the order you desire, perhaps using control flow
+constructs (e.g. if statements, loops, etc.) to control whether a
+statement gets executed at all, or how many times.  Indeed, "the
+end of an expression statement" is essentially one of the defined
+sequence points in Standard C.
+<p>
+K&amp;R C didn't have "sequence points"; Kernighan and Ritchie said
+that "explicit temporary variables can be used to force a
+particular order of evaluation" and "intermediate results can be
+stored in temporary variables to ensure a particular sequence"
+[K&amp;R1 p. 49; K&amp;R2 p. 53].  In fact, although Standard C gives us
+sequence points, it doesn't give us a tool to get a hold on <code>f()</code>
+in <code>f() + g() * h()</code>; if we needed <code>f()</code> called first, we'd have to
+write
+<pre>
+	t = f(); t + g() * h()
+</pre>
+or
+<pre>
+	t = f(), t + g() * h()
+</pre>
+The most obvious sequence points in Standard C are the ones at
+the ends of full expressions in expression statements, that is,
+as exemplified by the semicolon in the first line just above.
+Other sequence points are at the comma operator (as in the second
+line just above), at the &amp;&amp; and || operators, in the ?: operator,
+and just before a function call.  (I do not claim that this is an
+exhaustive list.)  On those (hopefully rare) occasions when you
+care about the ordering of operations within a single expression,
+you have to make sure that the expression contains one or more
+sequence points, and in places which will in fact constrain the
+order to the one you want.  Most of the time, though, when you
+have a troublesome expression with too many ordering
+dependencies, the right response is the same as that of the
+doctor in the old joke about the patient who complains that his
+hand hurts if he shakes it in a certain way: "Well, don't do
+that, then."  Break the expression up into separate statements,
+using temporary variables if you have to, and you'll be much
+happier.
+<p>
+(I confess that this advice may be easier to give than to apply.
+In the article that started this thread, the poster thought that
+the insertion of a sequence point or two, in the form of comma
+operators, should have constrained the order of evaluation
+sufficiently, but unfortunately it did not, because there still
+weren't <em>enough</em> sequence points.  It didn't help that the poster
+thought that full parenthesization should have resolved any
+remaining evaluation-order problems.)
+<p>
+If the <code>f() + g() * h()</code> example seemed artificial and hence
+unconvincing, let's look at a morphologically identical but
+eminently realistic example.  Suppose we're reading a two-byte
+integer from a binary data file in big-endian (most significant
+byte first) order.  We could call <code>fread()</code> and then swap bytes if
+necessary, but that's a cheesy solution, because if (as is
+conventional) we implement the "if necessary" test with an
+<code>#ifdef</code>, we've condemned everyone who ever compiles our program to
+choose an appropriate setting for the <code>#ifdef</code> macro.  Instead,
+let's call <code>getc()</code> twice, to read the first and then the second
+byte, and combine them like this:
+<pre>
+	i = (firstbyte &lt;&lt; 8) | secondbyte;
+</pre>
+(Remember, the first byte we read is the most-significant byte,
+and the second byte is the least-significant.)  So could we write
+that as
+<pre>
+	i = (getc(ifp) &lt;&lt; 8) | getc(ifp);	/* WRONG */
+</pre>
+?  No!  We could not!  We <em>do not know</em> which call to <code>getc()</code>
+will happen first, and we very definitely care, because the order
+of those two calls is precisely what will determine whether we
+read the integer in big-endian or little-endian order.  So,
+instead, we should write
+<pre>
+	i = getc(ifp) &lt;&lt; 8;			/* MSB */
+	i |= getc(ifp);				/* LSB */
+</pre>
+By writing this as two separate statements, we get a sequence
+point, which ensures the order of evaluation we need.  If, on the
+other hand, we wanted to read in little-endian order, we'd write
+<pre>
+	i = getc(ifp);				/* LSB */
+	i |= getc(ifp) &lt;&lt; 8;			/* MSB */
+</pre>
+But, to repeat, we could not write
+<pre>
+	i = (getc(ifp) &lt;&lt; 8) | getc(ifp);	/* "big-endian", but WRONG */
+</pre>
+or
+<pre>
+	i = getc(ifp) | (getc(ifp) &lt;&lt; 8);	/* "little-endian", WRONG */
+</pre>
+Both of these seem to depend (and, in fact, would depend, if we
+wrote them) on a left-to-right ordering of the actual calls to
+<code>getc()</code>, which is <em>not</em> guaranteed.  (And yes, I know that <code>getc()</code>
+is usually implemented as a macro, which means that both of these
+last two expressions would in fact expand to big, complicated
+expressions without any necessary function calls, but they would
+still not have any internal sequence points which would force the
+two getc's to happen in a well-defined order.)
+<center>
+*	*	*
+</center>
+Unless you want to be a language lawyer, you don't have to
+memorize the definition of a sequence point or the list of
+sequence points which Standard C guarantees, or even use the
+words "sequence point" in casual conversation.  (As you saw
+above, I can't remember the list off the top of my head with
+confidence, either, and that's because I'm not usually interested
+in being a language lawyer.)  What I recommend you do, instead,
+is develop a sense of expressions that are "clean" versus
+expressions that are "ugly," and shy away from the ugly ones.
+("Well, don't do that, then.")  Ugly expressions are those that
+have multiple assignments in them, or comma operators, or
+multiple modifications of the same object, or which are so
+complicated and hard to understand that all the king's horses and
+all of comp.std.c require at least a week to figure out what
+they're guaranteed to do (or not).  The cleanest expressions are
+those that calculate a single value, and perhaps assign it to a
+single location, without caring about the order in which various
+sub-operations (such as interior function calls) take place.
+<p>
+In between the cleanest expressions and those that are
+unremittingly ugly are several classes of mildly-tricky
+expressions which are well-defined and are useful and are
+commonly used and which I'm not trying to discourage you from
+using.  It's easier to present these by example, as exceptions to
+my qualifications above of ugly expressions as those containing
+comma operators, ordering dependencies, or multiple assignments.
+<ol>
+<p><li>
+It's perfectly okay to depend on precedence, as long as
+you understand what it does and doesn't guarantee you.
+Precedence tells you that in the expression <code>a + b * c</code>,
+the left-hand operand of the <code>*</code> operator is <code>b</code>, not <code>a + b</code>.
+If you insist, precedence tells you that in that
+expression, "the multiplication happens before the
+addition."  But precedence does not tell you what order
+the function calls would happen in in <code>f() + g() * h()</code>,
+and precedence would not give meaning to the expression
+<pre>
+	i++ + j * i++			/* XXX WRONG */
+</pre>
+(In particular, you <em>cannot</em> say that since the
+multiplication happens "first," the second <code>i++</code> must
+happen before the first.)  This last expression is, you
+guessed it, unremittingly ugly.
+<p><li>
+You can use the <code>&amp;&amp</code>; and <code>||</code> operators to guarantee that
+thing B happens after thing A, and not at all if thing A
+tells the whole story.  Both
+<pre>
+	n &gt; 0 &amp;&amp; sum / n &gt; 0
+</pre>
+and
+<pre>
+	p == NULL || *p == '\0'
+</pre>
+are perfectly valid, perfectly acceptable expressions.
+<p><li>
+You can use the comma operator when you have two (or
+more) things to do in the first or third controlling
+expressions of a <code>for()</code> loop.  There are precious few
+other realistic opportunities for using comma operators;
+chances are, if you find yourself using comma operators
+anywhere else, you're doing something tricky and are
+skirting the edge of ugliness.  (It's no coincidence that
+Java, I gather, doesn't allow comma operators anywhere
+but the first and third expressions of a for loop.)
+<p><li>
+You can use multiple <code>++</code> and <code>--</code> operators in a single
+expression, perhaps in conjunction with an assignment
+operator, as long as you're certain that the several
+things being modified are all distinct, and that you
+aren't ever in a position of using something that you've
+already modified.  The expressions
+<pre>
+	a[i++] = 0
+</pre>
+and
+<pre>
+	*p++ = 0
+</pre>
+are perfectly acceptable, because the things being
+modified, <code>i</code> and <code>a[i]</code> in the first expression and <code>p</code> and
+<code>*p</code> in the second, are probably distinct.  For the same
+reason, <code>a[0] = i++</code> is okay, too.  Expressions like
+<pre>
+	a[i++] = b[j++]
+</pre>
+and
+<pre>
+	*p++ = *q++
+</pre>
+are also okay, because <code>i</code>, <code>j</code>, <code>a[i]</code>, and <code>b[j]</code>,
+and <code>p</code>, <code>q</code>, <code>*p</code>, and <code>*q</code>, are probably all distinct.
+Finally, the old standby
+<pre>
+	i = i + 1
+</pre>
+is perfectly acceptable, because although it both uses
+and modifies <code>i</code>, it demonstrably uses the old value to
+compute the new value.
+<p>
+On the other hand, the expressions
+<pre>
+	i++ * i++		/* XXX WRONG */
+</pre>
+and
+<pre>
+	i = i++			/* XXX WRONG */
+</pre>
+are no good, among other things because they modify <code>i</code>
+twice.  And
+<pre>
+	a[i] = i++		/* XXX WRONG */
+</pre>
+and
+<pre>
+	a[i++] = i		/* XXX WRONG */
+</pre>
+are both wrong, because there's no telling whether <code>i</code> is
+used before it's modified, or vice versa.  (If you think
+that either of these somehow <em>does</em> guarantee whether the
+plain <code>i</code> on one side means the value of <code>i</code> before or after
+the incrementation performed by the <code>i++</code> on the other,
+think again.)
+<p><li>
+Finally, it's perfectly acceptable to write something
+like
+<pre>
+	i = j = 0
+</pre>
+even though it contains multiple assignments, because
+again, it's an unambiguous idiom and it's clear that two
+different variables are being assigned to.
+</li>
+<p>
+Now, I'm acutely aware that these guidelines (or any like them)
+can never be complete, because there are an infinite number of
+expressions out there, and some of them are clean and legal even
+though my "rules" might seem to disallow them and my exceptions
+don't cover them, and others of them are unremittingly ugly even
+though my "rules" don't disallow them or my exceptions seem to
+allow them.  Somehow, successful programmers learn to calibrate
+their own inner aesthetic such that the expressions which aren't
+"ugly" are the ones that (a) are well-defined, and (b) are
+sufficient for writing real programs.  I encourage all of you to
+nurture such an aesthetic as well, and to learn to write programs
+without "ugly" expressions, rather than wasting time trying to
+figure out what they do (and whether they're guaranteed to do it).
+If you've got an example of a well-defined expression which you
+feel is acceptable but which the guidelines I've presented seem
+to discourage, or of an ill-defined expression which these
+guidelines don't seem to discourage, I encourage you to post it
+here or mail it to me; I'd love to expand and refine these
+guidelines.  (Equally importantly, I'd love to figure out how
+to word them so that they're useful and meaningful to someone
+who <em>hasn't</em> already developed a sense for good vs. ugly
+expressions.)
+<p>
+Also, if you're still with me, I'd like to repeat the main moral
+of this article, which is that "precedence" is not the same thing
+as "order of evaluation."  The one certainly has something to do
+with the other (sort of like pointers and arrays), but it's a
+delicate relationship to describe precisely, so unless you care
+to figure out the whole story (and figure out what number I
+should have used above instead of 40%), you might actually be
+better off if you remember the statement that "Precedence has
+nothing to do with order of evaluation."  This statement isn't
+true, of course, but it's much closer to the truth than
+"Precedence has everything to do with order of evaluation,"	<code>/* XXX WRONG */</code>
+<br>
+which is not only false, but quite misleading.
+<p>
+Finally, for anyone who is still unsure on any of this, I urge
+you to read <a href="http://www.eskimo.com/~scs/C-faq/s3.html">section 3</a>
+of the <a href="http://www.eskimo.com/~scs/C-faq/top.html">FAQ list</a>, or chapter 3 of the FAQ
+list book, because there's more on this in there.  (Of course,
+it's written by the same mope you're reading now, so if you don't
+like something I've written here, I can't guarantee that you'll
+find relief in the FAQ list.)
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+</body>
+</html>

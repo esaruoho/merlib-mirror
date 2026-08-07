@@ -1,0 +1,1938 @@
+\documentstyle [11pt]{article}
+\pagestyle{plain}
+\bibliographystyle{plain}
+
+\input amssym.def
+\input amssym.tex
+%\def\baselinestretch{2}\small\normalsize
+
+\setlength{\textwidth}{152.4truemm}
+\setlength{\textheight}{228.6truemm}
+\setlength{\oddsidemargin}{3.6mm}
+\setlength{\evensidemargin}{3.6mm}
+\setlength{\topmargin}{-12.5truemm}
+\setlength{\parindent}{5.0truemm}
+
+%\newtheorem{theorem}{Theorem}[section]
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+
+\def\arraystretch{1.153}                 %You can change 1.0
+\def\n#1{\vbox to 3mm{\vspace{1mm}\vfill \hbox to 2.0mm{\hfill
+             $#1$\hfill} \vfill }}
+
+
+\title{A census of critical sets in the Latin squares \\
+of order at most six}
+\author{Peter Adams, Richard Bean and Abdollah Khodkar \\
+Centre for Discrete Mathematics and Computing \\ 
+Department of Mathematics\\ 
+The University of Queensland\\ 
+Queensland 4072\\ Australia} 
+
+\date{ }
+
+
+\begin{document}
+\maketitle
+
+
+\vspace{15 pt}
+
+\begin{quote}
+        ABSTRACT: A critical set in a Latin square of order $n$ 
+	is a set of entries in a Latin square which can be embedded 
+	in precisely one Latin square of order $n$. Also, if any element 
+	of the critical set is deleted, the remaining set can be 
+	embedded in more than one Latin square of order $n$.
+	In this paper we find all the critical sets of different 
+	sizes in the Latin squares of order at most six. 
+        We count the number of main and isotopy classes of these critical
+        sets and classify critical sets from the main classes into various
+        ``strengths''.  Some observations are made about the relationship
+        between the numbers of classes, particularly in the $6 \times 6$
+        case.  Finally some examples are given of each type of critical set.
+\end{quote}
+
+\footnotetext[1]{Research supported by the Australian Research Council}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION1
+\section{Introduction}   
+\setcounter{theorem}{0}
+A {\it Latin square} $L$ of order $n$ is an 
+$n\times n$ array with entries 
+chosen from a set $N$, of size $n$, such that each element of $N$ occurs 
+precisely once in each row and column. 
+For convenience, a Latin square will sometimes be represented as a 
+set of ordered triples $(i,j;k)$.  This means that element 
+% changed from "this is read to mean" to "this means"; sentence split
+$k$ occurs in cell $(i,j)$ of the Latin square $L$.
+For a Latin square of order $n$ we shall use $1,2,3,\dots,n$ 
+as the entries, and rows and columns will also be labelled from 
+$1,\dots,n$.
+A {\it partial Latin square} $P$ of order $n$ is an $n\times n$ 
+array with entries chosen from a set $N$, of size $n$, such that each
+element of $N$ occurs at most once in each row and column. Thus $P$ may
+contain a number of empty cells. We sometimes denote $P$ by 
+the set $\{(i,j;k)|i,j,k\in N\}$.
+If a Latin square $L$ contains an $s\times s$ 
+subarray $S$ and if $S$ is a Latin square of order $s$, then we say 
+that $S$ is a {\it Latin subsquare} of $L$. 
+A {\it critical set} in a Latin square $L$ of order $n$, is a 
+set ${\cal C}=\{(i,j;k)\;|\; i,j,k\in N\}$, such that
+\begin{itemize}
+\item[(1)] $L$ is the only Latin square of order $n$ which has 
+element $k$ in cell $(i,j)$ for each $(i,j;k)\in {\cal C}$; and
+
+\item[(2)] no proper subset of ${\cal C}$ satisfies $(1)$.
+\end{itemize}
+
+A partial Latin square $U$ of $L$ which satisfies condition (1) is called
+a {\em uniquely completable} (UC) set in $L$.  A {\it smallest critical set} 
+in a Latin square $L$ is a critical set of minimum cardinality.
+
+Let $L$ be a Latin square of order $n$ and let
+$\{a,b,c\}=\{1,2,3\}$. The $(a,b,c)$-{\it conjugate} of $L$, written
+$L_{(a,b,c)}$, is defined as follows:
+\[ L_{(a,b,c)}=\{(x_a,x_b;x_c)\mid (x_1,x_2;x_3)\in L\}. \]
+Two Latin squares $L$ and $L'$ of order $n$ are 
+{\it isotopic} if there are three bijections from the rows, columns, and
+symbols of $L$ to the rows, columns, and symbols, respectively, of 
+$L'$, that map $L$ to $L'$. Two Latin squares $L$ and $L'$ of 
+order $n$ are {\it main class isotopic} if $L$ is isotopic to any 
+conjugate of $L'$. Table 1 shows the number of main and isotopy
+classes for Latin squares of order $1\leq n\leq 7$ (see Denes and
+Keedwell \cite {dk}). 
+
+\begin{table}
+\begin{center}
+\caption{Number of main and isotopy classes for Latin squares of order 1 to 7}
+\begin{tabular}{|c|c|c|c|c|c|c|c|} \hline
+$n=$ & $1$ & $2$ & $3$ & $4$ & $5$ & $6$ & $7$ \\ \hline
+Main classes & $1$ & $1$ & $1$ & $2$ & $2$ & $12$ & $147$ \\ \hline
+Isotopic classes & $1$ & $1$ & $1$ & $2$ & $2$ & $22$ & $564$ \\ \hline
+\end{tabular} \vspace {3mm} \\
+\end{center}
+\end{table}
+
+In the process of completing the critical set ${\cal C}$ to the 
+Latin square $L$ of order $n$ which it characterizes, we say that adjunction 
+of a triple $t=(r,c;s)$ is {\em forced} (see \cite {MR99j:05036})
+in the process of completion of a set $T$ of triples 
+$(|T|<n^2,\;{\cal C}\subseteq T\subset L)$ to the complete set of
+triples which represents $L$, if either
+
+\begin{itemize}
+\item [(i)] $\forall r' \neq r$, $\exists z \neq c$ such that 
+$(r',z;s)\in T$ or $\exists z \neq s$ such that 
+$(r',c;z)\in T$, or 
+
+\item [(ii)] $\forall c' \neq c$, $\exists z \neq r$ such that 
+$(z,c';s)\in T$ or $\exists z \neq s$ such that 
+$(r,c';z)\in T$, or
+
+\item [(iii)] $\forall s' \neq s$, $\exists z \neq r$ such that 
+$(z,c;s')\in T$ or $\exists z \neq c$ such that 
+$(r,z;s')\in T$.
+\end{itemize}
+
+\noindent The critical set ${\cal C}$ is called {\em strong} 
+if we can define a sequence of sets of triples 
+${\cal C} = F_1 \subset F_2\subset F_3\subset \dots \subset F_r=L$ 
+such that each triple $t\in F_{i+1}\setminus F_i$ is forced in 
+$F_i$ for $1\leq i\leq r-1$. 
+%A critical set is {\em super-strong} if each triple in this 
+%sequence is forced only by virtue of 
+%property (iii)in the above definition of forcing. 
+A critical set which is not strong is called {\em weak}.
+A critical set is called {\em totally weak} if no cell is forced.
+A {\it smallest weak critical set} in a Latin square $L$ is 
+a weak critical set of minimum cardinality.
+(Note that the authors of \cite {MR2000g:05034} have used 
+the term {\em semi-strong} in place of strong 
+as defined above.)
+
+The following extension of the concept of the strong critical set is
+taken from Bedford and Whitehouse ~\cite{bandw}.
+
+Let $P$ be a partial Latin square of order $n$ defined on an element set $N$.  
+Then $A_P$ is an {\it array of alternatives} for $P$ if
+
+\begin{enumerate}
+\item $A_P$ is an $n \times n$ array;
+\item whenever the cell at $(i,j)$ in $P$ is filled, the cell at $(i,j)$ of $A_P$ is empty; and
+\item whenever the cell at $(i,j)$ in $P$ is empty, the cell at $(i,j)$ of $A_P$ contains all the elements of $N$ which do not appear in the $i^{th}$ row or $j^{th}$ column of $P$.
+\end{enumerate}
+%We denote the entry in row $i$ and column $j$ of $A_P$ by $(i,j)_{A_P}$. 
+We denote the set of elements in cell $(i,j)$ of $A_P$ by ${A_P}(i,j)$.
+
+Let $P$ be a partial Latin square.  
+%The addition of a triple $t = (i,j;k)$
+%is said to be {\it semi-forced} if for each $k' \neq k$ in $(i,j)_{A_P}$, either
+%
+%\begin{enumerate}
+%\item there exists $r > 0$ and $i_1, \dots, i_r$ (all $\neq i$) with $k' \in 
+%(i_1,j)_{A_P} \cup \dots \cup (i_r,j)_{A_P}$ and $\mid (i_1,j)_{A_P} \cup \dots
+%\cup (i_r,j)_{A_P} \mid = r$, or
+%\item there exists $s > 0$ and $j_1, \dots, j_s$ (all $\neq j$) with $k' \in
+%(i,j_1)_{A_P} \cup \dots \cup (i,j_s)_{A_P}$ and $\mid (i,j_1)_{A_P} \cup \dots \cup (i,j_s)_{A_P} \mid = s$.
+%\end{enumerate}
+We shall say that the symbol
+$k'\in A_P(i,j)$ is {\it forced out} of $A_P$ if either:
+\begin{itemize}
+\item [(1)] there exists $r>0$ and $i_1,i_2,\ldots,i_r$ (all $\neq i$)
+with $k'\in A_P(i_1,j)\cup\ldots\cup A_P(i_r,j)$ and
+$|A_P(i_1,j)\cup\ldots\cup A_P(i_r,j)|=r$; or
+\item [(2)] $\theta(i,j,k')$ satisfies $1$ in $A_{P_{\theta(1,2,3)}}$ for
+some $\theta\in S_3$.
+\end{itemize}
+
+The reduced array of alternatives,
+$RA_P$, is the array obtained from $A_P$ by successively removing
+symbols which are forced out until no more symbols can be forced out.
+Then the addition
+of an entry $(i,j;k)$ to $P$ is said to be {\it semi-forced} if either:
+
+\begin{enumerate}
+\item $k$ is the only symbol in $RA_P(i,j)$; or
+\item $k$ occurs exactly once in either the $i^{\rm {th}}$ row or
+$j^{\rm {th}}$ column of $RA_P$.
+\end{enumerate}
+
+Then a UC set $U$ is {\it near-strong} to the Latin square $L$
+if we can find a sequence of sets $U = S_1 \subset \dots \subset S_f = L$
+such that each triple $t \in S_{v+1} \setminus S_{v}$ is semi-forced
+in $S_v$.  We call a UC set {\it Bedford-Whitehouse totally weak} if no
+cell is semi-forced.  If a UC set is Bedford-Whitehouse totally weak,
+this implies that it is also totally weak.
+
+We shall denote the number of critical sets of size $x$ in a main class
+$y.z$ by $CS(y,z,x)$. (The notation $y.z$ denotes main class $z$ in
+a Latin square of order $y$, as in the CRC Handbook of Combinatorial
+Designs,~\cite{crc}.)  The number of isotopy classes of critical sets
+of size $x$ in a main class $y.z$ shall be denoted $IC(y,z,x)$, and
+the number of main classes of these critical sets shall be denoted
+$MC(y,z,x)$.  The greatest common divisor of the number of critical
+sets of all sizes in a particular main class $y.z$ will be referred to
+as GCDCS$(y,z)$.
+
+The sizes of smallest critical sets for the Latin squares of orders 
+four and five were determined in \cite {MR95k:05030,MR80j:05022}.
+Howse in \cite {MR98m:05026} finds 
+smallest critical sets for all the Latin squares of order six.
+Adams and Khodkar in \cite {AK2} give smallest critical sets for 
+all the Latin squares of order at most seven. They also find \cite {MR2000k:05054}
+smallest weak and smallest totally weak critical sets for the Latin squares 
+of order at most seven.
+The size of smallest strong 
+critical sets in a Latin square 
+has also been considered in the past (see \cite {MR2000g:05034}). 
+
+This paper deals with critical sets of different sizes in the Latin
+squares of order at most six.  First, for each main class of Latin
+square of order at most six, we calculate every possible critical set.
+(These will be of various sizes.)  Then, again for each main class and
+possible size, the main classes and isotopy classes for the relevant set
+of critical sets are determined.  Next, we determine which of the main
+classes are strong, near-strong, totally weak, and
+Bedford-Whitehouse totally weak.  Some interesting properties concerning
+the greatest common divisors of numbers of critical sets across main classes in
+the $6 \times 6$ Latin squares and ratios of various kinds are discussed.
+%
+%Finally, for each main class
+%of Latin square examined, the possibility of the Latin square being a
+%union of critical sets for the same Latin square is examined.
+
+In the appendix, we list examples for each possible size of critical set in
+each main class of $6 \times 6$ Latin square.
+
+\vspace{5mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION algorithm
+\section{Algorithms}
+
+There were two basic algorithms used to independently calculate all critical sets
+of a given size $m$ for a given main class of $n \times n$ Latin squares.  
+The first examined all ${n^2 \choose m}$
+% used {n^2 \choose m} instead of \binom{n^2}{m} with amstex
+size $m$ subsets of the
+Latin square.  If any subset $U$ had unique completion, all the proper
+subsets of $U$ which are of size $\mid U \mid -1$ were tested for
+unique completion.  If no such subset had unique completion, $U$ was output
+as a critical set.
+
+The second algorithm used Latin interchanges (see ~\cite{MR98b:05019})
+to speed up this process.  Interchanges are subsets of a Latin square
+which have the property that any critical set must intersect every 
+Latin interchange in at least one cell.  This program divided the Latin square
+up into disjoint Latin interchanges, ensuring that each candidate for a
+critical set had at least one element in each of the Latin interchanges.
+
+For the $6 \times 6$ case, for critical sets of size greater than 18,
+the process was further speeded up by ensuring that in
+each subset examined, no row or column was full and no symbol 
+occurred six times.  Such subsets cannot be critical sets as any
+cell may be removed from the relevant row, column or symbol set
+while maintaining the unique completion property.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SECTION2
+\section{Table of results}
+
+\subsection{Explanation of headings}
+The first column in the tables of results (Tables \ref{one}, \ref{two}, 
+\ref{three} and \ref{four}) is
+the main class number $y.z$ (LS), followed by the size(s) of the critical
+set(s) for the main class (Size), the number of critical sets of that
+size in the main class (\#CS); this is then followed by the number of
+isotopy classes (\#Iso) and the number of main classes of those critical sets (\#Main).
+(The notation $y.z$ denotes main class $z$ in
+a Latin square of order $y$, as in the CRC Handbook of Combinatorial
+Designs,~\cite{crc}.)  
+
+%The last four columns list the number of critical sets of various ``strengths''
+%within the main classes of critical sets.  
+
+For the next four columns, we consider representatives of each main
+class of critical sets, and list the number of critical sets of various
+``strengths'' within the main classes of critical sets.  That is,
+we calculate how many of the representatives of each main class of
+critical set have the various ``strengths''.  We need only consider
+representatives of each main class of critical set, since, for example,
+a strong critical set remains a strong critical set when the rows, columns and
+symbols are interchanged or swapped.  Similarly, a 
+near-strong critical set remains near-strong  under
+permutations or interchanges of rows, columns or symbols.
+These last four columns are, in order, the number of 
+near-strong critical sets (\#NS), the number of strong critical sets
+(\#Strong), the number of totally weak critical sets (\#TW), and the
+number of Bedford-Whitehouse totally weak critical sets (\#BWTW).
+\subsection{Latin squares of order 3}
+
+There is only one main class, denoted 3.1, for Latin squares of order three \cite{crc}: 
+\vspace{5mm}
+
+\begin{center}
+\begin{tabular}{|c|c|c|} \hline
+1&2&3 \\ \hline
+2&3&1 \\ \hline
+3&1&2 \\ \hline
+\end{tabular} \vspace{3mm}\\
+{\bf 3.1}
+\end{center}
+\vspace{5mm}
+
+For this Latin square, we have the results presented in Table \ref{one} 
+concerning the number of critical sets of every possible size.
+
+\begin{table}
+\begin{center}
+\caption{Critical set statistics for Latin squares of order 3}
+\label{one}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+LS & Size & \#CS & \#Iso & \#Main & \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$3.1$  & $2$ & $9$ & $1$ & $1$ & 1 & 1 & 0 & 0  \\
+& $3$ & 18 & $1$ & $1$ & 1 & 1 & 0 & 0 \\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+
+\subsection{Latin squares of order 4}
+
+There are two main classes, denoted 4.1 and 4.2, for Latin squares of order four \cite{crc}:
+\vspace{5mm}
+
+\begin{center}
+\begin{tabular}{cccc}
+  \begin{tabular}{|c|c|c|c|} \hline
+  1&2&3&4 \\ \hline
+  2&3&4&1 \\ \hline
+  3&4&1&2 \\ \hline
+  4&1&2&3 \\ \hline
+  \end{tabular} &&&
+  \begin{tabular}{|c|c|c|c|} \hline
+  1&2&3&4 \\ \hline
+  2&1&4&3  \\ \hline
+  3&4&1&2  \\ \hline
+  4&3&2&1 \\ \hline
+  \end{tabular} \\
+  {\bf 4.1} &&& {\bf 4.2} \\
+\end{tabular}
+\end{center}
+\vspace{5mm}
+
+For these Latin squares, we have the results presented in Table \ref{two} 
+concerning the number of critical sets of every possible size.
+
+\begin{table}
+\begin{center}
+\caption{Critical set statistics for Latin squares of order 4}
+\label{two}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+LS & Size & \#CS & \#Iso & \#Main & \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+4.1 & $4$ & $32$  & $1$  & $1$ & 1 & 1 & 0 & 0\\
+    & $5$ & $576$ & $18$ & $4$ & 4 & 4 & 0 & 0\\
+    & $6$ & $128$ & $4$  & $2$ & 2 & 2 & 0 & 0\\ \hline
+4.2 & $5$ & $96$  & $1$  & $1$ & 1 & 1 & 0 & 0\\
+    & $6$ & $432$ & $7$  & $3$ & 3 & 3 & 0 & 0\\
+    & $7$ & $48$  & $1$ & $1 $ & 1 & 1 & 0 & 0\\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+
+\subsection{Latin squares of order 5}
+
+There are two main classes, denoted 5.1 and 5.2, for Latin squares of order five \cite{crc}:
+
+\vspace{5mm}
+
+\begin{center}
+\begin{tabular}{cccc}
+  \begin{tabular}{|c|c|c|c|c|} \hline
+  1&2&3&4&5  \\ \hline
+  2&3&4&5&1  \\ \hline
+  3&4&5&1&2  \\ \hline
+  4&5&1&2&3  \\ \hline
+  5&1&2&3&4   \\ \hline
+  \end{tabular} &&&
+  \begin{tabular}{|c|c|c|c|c|} \hline
+  1&2&3&4&5 \\ \hline
+  2&1&4&5&3 \\ \hline
+  3&4&5&1&2 \\ \hline
+  4&5&2&3&1 \\ \hline
+  5&3&1&2&4 \\ \hline
+  \end{tabular} \\
+  {\bf 5.1} &&& {\bf 5.2} \\
+\end{tabular}
+\end{center}
+\vspace{5mm}
+
+\begin{table}
+\begin{center}
+\caption{Critical set statistics for Latin squares of order 5}
+\label{three}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+ LS & Size & \#CS &
+\#Iso & \#Main & \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$5.1$ & $6$  & $50$    & $1$    & $1$ & 1 & 1 & 0 & 0 \\
+      & $7$  & $1000$  & $10$   & $4$ & 4 & 4  & 0 & 0 \\
+      & $8$  & $30900$ & $312$  & $57$ & 57 & 57 & 0 & 0 \\
+      & $9$  & $18800$ & $188$  & $37$ & 37 & 37 & 0 & 0 \\
+      & $10$ & $2500$  & $25$   & $6$ & 6 & 6 & 0 & 0 \\ \hline
+$5.2$ & $7$  & $600$   & $50$   & $11$ & 10 & 10 & 1 & 1 \\
+      & $8$  & $21588$ & $1802$ & $322$ & 311 & 311 & 1 & 1 \\
+      & $9$  & $23718$ & $1981$ & $348$ & 348 & 348 & 0 & 0 \\
+      & $10$ & $2340$  & $198$  & $39$ & 38 & 36 & 2 & 0 \\
+      & $11$ & $216$   & $18$   & $4$ & 4 & 4 & 0 & 0 \\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+
+\subsection{Latin squares of order 6}
+
+There are twelve main classes, denoted 6.1, \dots, 6.12, for Latin squares of 
+order six \cite{crc}:
+
+\begin{center}
+\begin{tabular}{cccc}
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&3&4&5&6&1  \\ \hline
+3&4&5&6&1&2  \\ \hline
+4&5&6&1&2&3  \\ \hline
+5&6&1&2&3&4  \\ \hline
+6&1&2&3&4&5  \\ \hline
+\end{tabular}&
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&3&6&5  \\ \hline
+3&4&5&6&1&2  \\ \hline
+4&3&6&5&2&1  \\ \hline
+5&6&1&2&4&3  \\ \hline
+6&5&2&1&3&4  \\ \hline
+\end{tabular}&
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&5&6&3  \\ \hline
+3&4&1&6&2&5  \\ \hline
+4&5&6&1&3&2  \\ \hline
+5&6&2&3&1&4  \\ \hline
+6&3&5&2&4&1  \\ \hline
+\end{tabular} &
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&5&6&3  \\ \hline
+3&4&1&6&2&5  \\ \hline
+4&5&6&1&3&2  \\ \hline
+5&6&2&3&4&1  \\ \hline
+6&3&5&2&1&4  \\ \hline
+\end{tabular} \\ 
+{\bf 6.1} & {\bf 6.2} & {\bf 6.3} & {\bf 6.4}\\
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{cccc}
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&5&6&3  \\ \hline
+3&4&2&6&1&5  \\ \hline
+4&5&6&2&3&1  \\ \hline
+5&6&1&3&4&2  \\ \hline
+6&3&5&1&2&4  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&5&6&3  \\ \hline
+3&4&5&6&1&2  \\ \hline
+4&5&6&3&2&1  \\ \hline
+5&6&1&2&3&4  \\ \hline
+6&3&2&1&4&5  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&3&6&5  \\ \hline
+3&5&1&6&2&4  \\ \hline
+4&6&2&5&1&3  \\ \hline
+5&3&6&1&4&2  \\ \hline
+6&4&5&2&3&1  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&3&6&5  \\ \hline
+3&5&1&6&2&4  \\ \hline
+4&6&2&5&1&3  \\ \hline
+5&3&6&2&4&1  \\ \hline
+6&4&5&1&3&2  \\ \hline
+\end{tabular} \\
+{\bf 6.5} & {\bf 6.6} & {\bf 6.7} & {\bf 6.8}\\
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{cccc}
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&3&6&5  \\ \hline
+3&5&1&6&2&4  \\ \hline
+4&6&2&5&3&1  \\ \hline
+5&4&6&2&1&3  \\ \hline
+6&3&5&1&4&2  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&3&6&5  \\ \hline
+3&5&1&6&4&2  \\ \hline
+4&6&5&1&2&3  \\ \hline
+5&3&6&2&1&4  \\ \hline
+6&4&2&5&3&1  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&1&4&5&6&3  \\ \hline
+3&4&2&6&1&5  \\ \hline
+4&6&5&2&3&1  \\ \hline
+5&3&6&1&2&4  \\ \hline
+6&5&1&3&4&2  \\ \hline
+\end{tabular} & 
+\begin{tabular}{|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}
+|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|c@{\hspace{1.5mm}}|} \hline
+1&2&3&4&5&6  \\ \hline
+2&3&1&5&6&4  \\ \hline
+3&1&2&6&4&5  \\ \hline
+4&6&5&2&1&3  \\ \hline
+5&4&6&3&2&1  \\ \hline
+6&5&4&1&3&2  \\ \hline
+\end{tabular} \\
+{\bf 6.9} & {\bf 6.10} & {\bf 6.11} & {\bf 6.12}\\
+\end{tabular}
+\end{center}
+%\vspace{5mm}
+
+For these Latin squares, we have the results presented in Table \ref{four} 
+concerning the number
+of critical sets of every possible size.
+
+\begin{table}
+\begin{center}
+\caption{Critical set statistics for Latin squares of order 6}
+\label{four}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+ LS & Size & \#CS & \#Iso & \#Main& \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$6.1$ & $9$  & $72$    & $1$    & $1$ & 1 & 1 & 0 & 0 \\
+      & $11$  & $39384$ & $547$  & $97$ & 97 & 95 & 0 & 0  \\
+      & $12$  & $1161036$ & $16149$  & $2740$ & 2541 & 2513 & 11 & 8 \\
+      & $13$  & $3634344$ & $50492$  & $8481$ & 7815 & 7792 & 19 & 14 \\
+      & $14$  & $886428$ & $12346$  & $2090$ & 1931 & 1920 & 10 & 9 \\
+      & $15$  & $80064$ & $1118$  & $202$ & 182 & 168 & 8 & 0 \\
+      & $16$  & $3240$ & $45$  & $8$ & 8 & 8 & 0 & 0 \\
+      & $17$  & $108$  & $3$   & $1$ & 0 & 0 & 0 & 0 \\ \hline
+$6.2$ & $11$  & $7848$ & $327$  & $60$ & 50 & 48 & 3 & 3 \\
+      & $12$  & $658908$ & $27477$  & $4633$ & 4370 & 4325 & 35 & 27 \\
+      & $13$  & $3328908$ & $138708$  & $23267$ & 22226 & 22187 & 52 & 36 \\
+      & $14$  & $1800228$ & $75035$  & $12617$ & 12267 & 12263 & 11 & 8 \\
+      & $15$  & $192480$ & $8022$  & $1362$ & 1354 & 1351 & 3 & 1 \\
+      & $16$  & $15840$ & $660$  & $115$ & 113 & 113 & 0 & 0 \\
+      & $17$  & $240$  & $10$   & $3$ & 3 & 3 & 0 & 0  \\ \hline
+$6.3$ & $11$  & $1200$ & $10$  & $7$ & 2 & 2 & 0 & 0 \\
+      & $12$  & $192360$ & $1603$  & $836$ & 749 & 748 & 14 & 14 \\
+      & $13$  & $1837440$ & $15315$  & $7757$ & 7445 & 7440 & 33 & 29 \\
+      & $14$  & $1727880$ & $14400$  & $7279$ & 7252 & 7252 & 2 & 2 \\
+      & $15$  & $378928$ & $3162$  & $1610$ & 1610 & 1610 & 0 & 0 \\
+      & $16$  & $20280$ & $169$  & $90$ & 90 & 90 & 0 & 0 \\
+      & $17$  & $840$  & $7$   & $4$ & 4 & 4 & 0 & 0 \\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+\newpage
+\begin{center}
+Table \ref{four} (continued)
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+ LS & Size & \#CS & \#Iso & \#Main& \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$6.4$ & $10$  & $56$ & $7$  & $5$ & 5 & 5 & 0 & 0 \\
+      & $11$  & $34000$ & $4250$  & $2149$ & 2001 & 1980 & 16 & 10 \\
+      & $12$  & $1590608$ & $198826$  & $99654$ & 94485 & 94024 & 197 & 136 \\
+      & $13$  & $5498076$ & $687262$  & $344044$ & 328754 & 327801 & 331 & 232 \\
+      & $14$  & $1931424$ & $241428$  & $120895$ & 116390 & 115691 & 58 & 34 \\
+      & $15$  & $168752$ & $21095$  & $10586$ & 10102 & 9704 & 137 & 10 \\
+      & $16$  & $13736$ & $1717$  & $871$ & 821 & 780 & 24 & 1 \\
+      & $17$  & $148$  & $19$   & $11$ & 9 & 9 & 1 & 1 \\ \hline
+$6.5$ & $10$  & $60$ & $15$  & $9$ & 9 & 9 & 0 & 0 \\
+      & $11$  & $42992$ & $10748$  & $5406$ & 5132 & 5078 & 30 & 24 \\
+      & $12$  & $1878236$ & $469559$  & $235063$ & 224705 & 223776 & 401 & 292 \\
+      & $13$  & $6475142$ & $1618806$  & $809952$ & 778258 & 776251 & 648 & 473 \\
+      & $14$  & $2182652$ & $545663$  & $273120$ & 264790 & 263229 & 119 & 76 \\
+      & $15$  & $192416$ & $48104$  & $24108$ & 23304 & 22340 & 281 & 28 \\
+      & $16$  & $16908$ & $4227$  & $2135$ & 2041 & 1961 & 43 & 3 \\
+      & $17$  & $112$  & $28$   & $16$ & 15 & 15 & 0 & 0 \\ \hline
+$6.6$ & $11$  & $12888$ & $358$  & $187$ & 177 & 175 & 0 & 0 \\
+      & $12$  & $856908$ & $23803$  & $12005$ & 11191 & 11155 & 64 & 55 \\
+      & $13$  & $4097790$ & $113839$  & $57151$ & 54038 & 53898 & 162 & 120 \\
+      & $14$  & $1476864$ & $41024$  & $20664$ & 19770 & 19697 & 27 & 23 \\
+      & $15$  & $155196$ & $4311$  & $2201$ & 2139 & 2117 & 8 & 4 \\
+      & $16$  & $12744$ & $354$  & $186$ & 175 & 166 & 3 & 0 \\
+      & $17$  & $216$  & $6$   & $4$ & 4 & 4 & 0 & 0 \\ \hline
+\end{tabular} \vspace{3mm} \\
+\end{center}
+\newpage
+\begin{center}
+Table \ref{four} (continued)
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+LS & Size & \#CS & \#Iso & \#Main& \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$6.7$ & $12$  & $4752$ & $22$ & $5$ & 3 & 3 & 0 & 0 \\
+      & $13$  & $212328$ & $985$ & $183$ & 165 & 165 & 5 & 5 \\
+      & $14$  & $893700$ & $4151$ & $736$ & 706 & 705 & 3 & 2 \\
+      & $15$  & $545508$ & $2536$ & $465$ & 465 & 465 & 0 & 0 \\
+      & $16$  & $125766$ & $583$ & $109$ & 109 & 109 & 0 & 0 \\
+      & $17$  & $8208$ & $38$ & $13$ & 13 & 13 & 0 & 0 \\ 
+      & $18$  & $648$ & $3$ & $1$ & 1 & 1 & 0 & 0 \\ \hline
+$6.8$ & $11$  & $3264$ & $408$ & $75$ & 67 & 66 & 3 & 2 \\
+      & $12$  & $324608$ & $40576$ & $6817$ & 6023 & 5986 & 37 & 33 \\
+      & $13$  & $1826592$ & $228335$ & $38265$ & 35161 & 35063 & 123 & 80 \\
+      & $14$  & $1093796$ & $136729$ & $22909$ & 21804 & 21764 & 10 & 8 \\
+      & $15$  & $106296$ & $13290$ & $2260$ & 2178 & 2155 & 10 & 1 \\
+      & $16$  & $8464$ & $1058$ & $185$ & 175 & 167 & 6 & 1 \\ 
+      & $17$  & $216$ & $27$ & $5$ & 5 & 5 & 0 & 0 \\ \hline
+$6.9$ & $10$  & $24$ & $2$ & $2$ & 2 & 2 & 0 & 0 \\
+      & $11$  & $13980$ & $1165$ & $596$ & 546 & 535 & 7 & 7 \\
+      & $12$  & $716352$ & $59714$ & $29939$ & 27999 & 27723 & 127 & 84 \\
+      & $13$  & $2784264$ & $232027$ & $116246$ & 109378 & 108885 & 243 & 173 \\
+      & $14$  & $1065876$ & $88856$ & $44575$ & 42345 & 42068 & 24 & 19 \\
+      & $15$  & $85884$ & $7159$ & $3607$ & 3462 & 3314 & 72 & 4 \\
+      & $16$  & $6960$ & $580$ & $302$ & 283 & 259 & 15 & 1 \\ 
+      & $17$  & $24$ & $2$ & $2$ & 2 & 2 & 0 & 0 \\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\newpage
+\begin{center}
+Table \ref{four} (continued)
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \hline
+ LS & Size & \#CS & \#Iso & \#Main& \#NS & \#Strong & \#TW & \#BWTW \\ \hline
+$6.10$& $10$  & $4$ & $1$ & $1$ & 1 & 1 & 0 & 0 \\
+      & $11$  & $13748$ & $3437$ & $587$ & 555 & 547 & 6 & 3 \\
+      & $12$  & $858348$ & $214587$ & $35899$ & 33814 & 33644 & 169 & 123 \\
+      & $13$  & $3894038$ & $973520$ & $162538$ & 154803 & 154404 & 279 & 195 \\
+      & $14$  & $1715492$ & $428873$ & $71685$ & 69560 & 69375 & 38 & 29 \\
+      & $15$  & $155000$ & $38753$ & $6513$ & 6355 & 6232 & 34 & 4 \\
+      & $16$  & $10540$ & $2635$ & $461$ & 443 & 423 & 13 & 1 \\ 
+      & $17$  & $120$ & $30$ & $6$ & 6 & 6 & 0 & 0 \\ \hline
+$6.11$& $10$  & $40$ & $10$ & $3$ & 3 & 3 & 0 & 0 \\
+      & $11$  & $63540$ & $15885$ & $2673$ & 2617 & 2590 & 9 & 5 \\
+      & $12$  & $2292266$ & $573254$ & $95781$ & 92453 & 92029 & 96 & 59 \\
+      & $13$  & $7075888$ & $1768972$ & $295196$ & 284917 & 284027 & 145 & 96 \\
+      & $14$  & $2203696$ & $550993$ & $91977$ & 88209 & 87499 & 39 & 22 \\
+      & $15$  & $188344$ & $47086$ & $7890$ & 7584 & 7175 & 161 & 8  \\
+      & $16$  & $17172$ & $4293$ & $729$ & 685 & 645 & 35 & 4 \\ 
+      & $17$  & $36$ & $9$ & $2$ & 1 & 1 & 0 & 0 \\ \hline
+$6.12$& $11$  & $143208$ & $1326$ & $232$ & 229 & 228 & 0 & 0 \\
+      & $12$  & $3518478$ & $32664$ & $5510$ & 5384 & 5358 & 7 & 6 \\
+      & $13$  & $9025344$ & $83568$ & $14037$ & 13636 & 13584 & 17 & 14 \\
+      & $14$  & $2104704$ & $19506$ & $3315$ & 3146 & 3107 & 6 & 4 \\
+      & $15$  & $200340$ & $1855$ & $326$ & 316 & 297 & 8 & 1 \\
+      & $16$  & $17820$ & $165$ & $32$ & 29 & 28 & 1 & 0 \\ \hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+
+%\newpage
+% so that the caption "Table 3" is associated with the table
+% keedwell, pages 124-128
+%Keedwell ~\cite{dk} points out that (for isotopy and main classes of Latin squares)
+%each isotopy class has a number of Latin squares
+%associated with it, and similarly each main class has a number of isotopy
+%classes associated with it.  This also applies for main classes and
+%isotopy classes of critical sets.  Each main class of critical sets
+%in $6 \times 6$ Latin squares has either 1, 2, 3, or 6 associated
+%isotopy classes.  Each isotopy class of critical sets in $6 \times 6$
+%Latin squares has anywhere from 2 to 216 associated critical sets.
+%These results are given in Tables 6 and 7 below.  
+
+D{\'e}nes and Keedwell ~\cite{dk} point out that, for a given order $n$, each
+isotopy class of $n \times n$ Latin squares has a number of Latin
+squares associated with it, and similarly each main class of $n \times
+n$ Latin squares has a number of isotopy classes associated with it.
+Similarly, for any given main class $n.z$ of $n \times n$ Latin squares
+and given size of critical set $m$, if we consider the main classes of
+critical sets of size $m$ within the main class $n.z$, we have several
+associated isotopy classes of critical sets.  In the same way, if we
+consider the isotopy classes of critical sets of size $m$ within the
+main class $n.z$, we have several associated critical sets of size $m$
+in the main class $n.z$.
+%\newpage
+
+In Tables \ref{five} to \ref{eight}, the head line refers to the twelve main cla
+sses of $6 \times
+6$ Latin squares, and the side line refers to the possible sizes of
+critical sets.  For $6 \times 6$ Latin squares, we consider results related to t
+hese observations.
+
+Each isotopy class of critical sets in $6 \times 6$ Latin squares has between
+2 to 216 associated critical sets.  This result is given in Table \ref{five}.
+
+
+\begin{table}
+\begin{center}
+\begin{footnotesize}
+\caption{Numbers of critical sets in each isotopy class of critical sets of order six}
+\label{five}
+\begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+& $6.1$ & $6.2$ & $6.3$ & $6.4$ & $6.5$ & $6.6$ & $6.7$ & $6.8$ & $6.9$ & $6.10$ & $6.11$ & $6.12$ \\
+\hline
+9 &  72 &   -   &    -   &  -   &  -   &   -   &    -   &  -   & -     &  -   &  -   &  - \\
+10 &   -   &   -   &    -   & 8 & 4 &   -   &    -   &  -   & 12 & 4 & 4 &  - \\
+11 & 72 & 24 & 120 & 8 & 4 & 36 &    -   & 8 & 12 & 4 & 4 & 108  \\
+12 & 12,36,72 & 8,12,24 & 8  & 8 & 4 & 36 & 216 & 8 & 6,12 & 4 & 2,4 & 54,108 \\
+13 & 36,72 & 12,24 & 60,120 & 4,8 & 2,4 & 18,36 & 108,216 & 4,8 & 6,12 & 2,4 & 4 & 108 \\
+14 & 36,72 & 12,24 & 60,120 & 8 & 4  & 36 & 108,216 & 4,8 & 6,12 & 4 & 2,4 & 54,108 \\
+15 & 36,72 & 12,24 & 24,40,120 & 4,8 & 4 & 36 & 108,216 & 4,8 & 6,12 & 2,4 & 4 & 108 \\
+16 & 72 & 24 & 120 & 8 & 4 & 36 & 54,216 & 8 & 12 & 4 & 4 & 108 \\
+17 & 36 & 24 & 120 & 4,8 & 4 & 36 & 216 & 8 & 12 & 4 & 4 &    - \\
+18 &   -   &   -   &    -   &  -   &  -   &   -   & 216 &  -   &   -   &  -   &  -   &    -  \\
+\hline
+\end{tabular}\vspace {3mm} \\
+\end{footnotesize}
+\end{center}
+\end{table}
+
+Each main class of critical sets in $6 \times 6$ Latin squares has either
+1, 2, 3 or 6 associated isotopy classes of critical sets.  
+This result is given in Table \ref{six}. 
+
+\begin{table}
+\begin{center}
+\caption{Numbers of isotopy classes of critical sets in each main class of critical sets of order six \vspace{3mm}}
+\label{six}
+\begin{tabular}{|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|c@{\hspace{1.0mm}}|} \hline
+& $6.1$ & $6.2$ & $6.3$ & $6.4$ & $6.5$ & $6.6$ & $6.7$ & $6.8$ & $6.9$ & $6.10$ & $6.11$ & $6.12$ \\
+\hline
+9 &  1 &   -   &    -   &  -   &  -   &   -   &    -   &  -   & -     &  -   &  -   &  - \\
+10 &   -   &   -   &    -   & 1,2 & 1,2 &   -   &    -   &  -   & 1 & 1 & 1,3,6 &  - \\
+11 & 1,3,6 & 3,6 & 1,2 & 1,2 & 1,2 & 1,2 &    -   & 3,6 & 1,2  & 2,3,6 & 1,2,3,6 & 3,6  \\
+12 & 1,2,3,6 & 1,2,3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,3,6 & 1,2,3,6 & 1,2 & 1,2,3,6 & 1,2,3,6 & 1,2,3,6 \\
+13 & 2,3,6 & 1,2,3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,3,6 & 1,2,3,6 & 1,2 & 1,2,3,6 & 1,2,3,6 & 3,6 \\
+14 & 1,2,3,6 & 1,2,3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,2,3,6 & 1,2,3,6 & 1,2 & 2,3,6 & 2,3,6 & 3,6 \\
+15 & 1,2,3,6 & 1,2,3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,3,6 & 3,6 & 1,2 & 1,2,3,6 & 1,3,6 & 1,2,3,6 \\
+16 & 3,6 & 3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,3,6 & 2,3,6 & 1,2 & 1,2,3,6 & 3,6 & 3,6 \\
+17 & 3 & 1,3,6 & 1,2 & 1,2 & 1,2 & 1,2 & 1,3,6 & 3,6 & 1 & 3,6 & 3,6 &    - \\
+18 &   -   &   -   &    -   &  -   &  -   &   -   & 3 &  -   &   -   &  -   &  -   &    -  \\
+\hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+ 
+\section{Some observations}
+
+We will concentrate on observations concerning the $6 \times 6$ Latin squares.
+
+We find that when the main class $z$ is fixed and $x$ takes all possible
+values, $CS(6,z,x)$ / $IC(6,z,x)$ is in most cases close to an integer
+constant.  There is one exception: the critical sets of size 17 in main
+class 6.1, where all other values of $CS(6,1,x) / IC(6,1,x)$ are approximately 72,
+but $CS(6,1,17) / IC(6,1,17) = 36$.  We also find that this integer constant is a
+multiple of GCDCS$(6,z)$.  These ratios are given in Table \ref{seven} above,
+truncated at two decimal places.  The bottom line tabulates the values
+of GCDCS$(6,z)$.
+
+\begin{table}
+\begin{center}
+\begin{footnotesize}
+\caption{Ratio of critical sets to isotopy classes of critical sets of order six}
+\label{seven}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \hline
+& $6.1$ & $6.2$ & $6.3$ & $6.4$ & $6.5$ & $6.6$ & $6.7$ & $6.8$ & $6.9$ & $6.10$ & $6.11$ & $6.12$ \\
+\hline
+9 &  72.00 &   -   &    -   &  -   &  -   &   -   &    -   &  -   & -     &  -   &  -   &  - \\
+10 &   -   &   -   &    -   & 8.00 & 4.00 &   -   &    -   &  -   & 12.00 & 4.00 & 4.00 &  - \\
+11 & 72.00 & 24.00 & 120.00 & 8.00 & 4.00 & 36.00 &    -   & 8.00 & 12.00 & 4.00 & 4.00 & 108.00  \\
+12 & 71.89 & 23.98 & 120.00 & 8.00 & 4.00 & 36.00 & 216.00 & 8.00 & 11.99 & 4.00 & 3.99 & 107.71 \\
+13 & 71.97 & 23.99 & 119.97 & 7.99 & 3.99 & 35.99 & 215.56 & 7.99 & 11.99 & 3.99 & 4.00 & 108.00 \\
+14 & 71.79 & 23.99 & 119.99 & 8.00 & 4.00 & 36.00 & 215.29 & 7.99 & 11.99 & 4.00 & 3.99 & 107.90 \\
+15 & 71.61 & 23.99 & 119.83 & 7.99 & 4.00 & 36.00 & 215.10 & 7.99 & 11.99 & 3.99 & 4.00 & 108.00 \\
+16 & 72.00 & 24.00 & 120.00 & 8.00 & 4.00 & 36.00 & 215.72 & 8.00 & 12.00 & 4.00 & 4.00 & 108.00 \\
+17 & 36.00 & 24.00 & 120.00 & 7.78 & 4.00 & 36.00 & 216.00 & 8.00 & 12.00 & 4.00 & 4.00 &    - \\
+18 &   -   &   -   &    -   &  -   &  -   &   -   & 216.00 &  -   &   -   &  -   &  -   &    -  \\
+\hline
+gcd & 36 & 12 & 2 & 4 & 2 & 18 & 54 & 4 & 12 & 2 & 2 & 54  \\
+\hline
+\end{tabular}\vspace {3mm} \\
+\end{footnotesize}
+\end{center}
+\end{table}
+
+In seven of the twelve $6 \times 6$ main classes (6.1, 6.2, 6.7, 6.8,
+6.10, 6.11, and 6.12), the ratio $MC(6,z,x)$/$IC(6,z,x)$ is close to 6 with a few exceptions.
+In the other five main classes (6.3, 6.4, 6.5, 6.6, and 6.9) this ratio
+is close to 2 with a few exceptions.  These ratios are given in Table \ref{eight} above, truncated at
+two decimal places.
+
+\begin{table}
+\begin{center}
+\caption{Ratio of main classes of critical sets to isotopy classes of critical sets of order six \vspace {3mm}}
+\label{eight}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \hline
+& $6.1$ & $6.2$ & $6.3$ & $6.4$ & $6.5$ & $6.6$ & $6.7$ & $6.8$ & $6.9$ & $6.10$ & $6.11$ & $6.12$ \\
+\hline
+9 &   1.00 &   -  &  -   &  -   &  -   &  -   &  -   &  -   &   -  &  -   &  -   &  - \\
+10 &   -   &   -  &  -   & 1.40 & 1.66 &  -   &  -   &  -   & 1.00 & 1.00 & 3.33 &  - \\
+11 &  5.63 & 5.45 & 1.42 & 1.97 & 1.98 & 1.91 &  -   & 5.44 & 1.95 & 5.85 & 5.94 & 5.71  \\
+12 &  5.89 & 5.93 & 1.91 & 1.99 & 1.99 & 1.98 & 4.40 & 5.95 & 1.99 & 5.97 & 5.98 & 5.92 \\
+13 &  5.95 & 5.96 & 1.97 & 1.99 & 1.99 & 1.99 & 5.38 & 5.96 & 1.99 & 5.98 & 5.99 & 5.95 \\
+14 &  5.90 & 5.94 & 1.97 & 1.99 & 1.99 & 1.98 & 5.63 & 5.96 & 1.99 & 5.98 & 5.99 & 5.88 \\
+15 &  5.53 & 5.88 & 1.96 & 1.99 & 1.99 & 1.95 & 5.45 & 5.88 & 1.98 & 5.95 & 5.96 & 5.69 \\
+16 &  5.62 & 5.73 & 1.87 & 1.97 & 1.97 & 1.90 & 5.34 & 5.71 & 1.92 & 5.71 & 5.88 & 5.15 \\
+17 &  3.00 & 3.33 & 1.75 & 1.72 & 1.75 & 1.50 & 2.92 & 5.40 & 1.00 & 5.00 & 4.50 &  - \\
+18 &   -   &   -  &  -   &  -   &  -   &  -   & 3.00 &  -   &  -   &  -   &  -   &  -  \\
+\hline
+\end{tabular}\vspace {3mm} \\
+\end{center}
+\end{table}
+
+In each $6 \times 6$ main class $6.z$, GCDCS$(6,z)$ is a multiple of
+2, and for those main classes with $3 \times 3$ subsquares (6.1, 6.6,
+6.7 and 6.12) this number is a multiple of 18.
+
+We also note that in the $4 \times 4$ and $6 \times 6$ main classes of
+Latin squares, the smallest and largest possible critical sets (4 and 7
+for the $4 \times 4$ case and 9 and 18 for the $6 \times 6$ case) each
+have only one isotopy and main class.
+
+\section{Appendix}
+In this appendix, we give examples of critical sets of each possible size 
+in each of the twelve main classes of $6 \times 6$ Latin squares.
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline 1 & 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 2 & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 4 & 5 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 3 & 4 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & 1 & 2 & 3 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 1 & 2 & $\;\;$ \\
+\hline $\;\;$ & 6 & 1 & 2 & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 4 & 5 \\
+\hline 
+\end{tabular}\\ 
+6.1, size 9
+ & 6.1, size 11
+ & 6.1, size 12
+ & 6.1, size 13
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 4 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & 1 & 2 \\
+\hline $\;\;$ & 4 & 5 & $\;\;$ & 2 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 3 & 4 \\
+\hline $\;\;$ & 1 & 2 & 3 & 4 & 5 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 5 & 6 & 1 & 2 & $\;\;$ \\
+\hline $\;\;$ & 6 & 1 & 2 & $\;\;$ & 4 \\
+\hline $\;\;$ & 1 & 2 & 3 & $\;\;$ & 5 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 & 1 \\
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 5 & 6 & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & 1 & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & 1 & 2 & 3 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.1, size 14
+ & 6.1, size 15
+ & 6.1, size 16
+ & 6.1, size 17
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 6 & 1 & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & 2 & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 2 & $\;\;$ \\
+\hline $\;\;$ & 6 & 1 & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 4 & $\;\;$ \\
+\hline $\;\;$ & 5 & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular}\\ 
+6.2, size 11
+ & 6.2, size 12
+ & 6.2, size 13
+ & 6.2, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 4 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & 1 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & 6 & 5 & 2 & 1 \\
+\hline $\;\;$ & 6 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & 2 & 1 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 2 & 1 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & $\;\;$ & 3 \\
+\hline $\;\;$ & 5 & 2 & 1 & 3 & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.2, size 15
+ & 6.2, size 16
+ & 6.2, size 17
+ & 6.3, size 11
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & 2 \\
+\hline 5 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & 2 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & 3 \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.3, size 12
+ & 6.3, size 13
+ & 6.3, size 14
+ & 6.3, size 15
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 1 & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 4 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & 2 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & 3 \\
+\hline $\;\;$ & 3 & 2 & 5 & 4 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.3, size 16
+ & 6.3, size 17
+ & 6.4, size 10
+ & 6.4, size 11
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & 3 & $\;\;$ & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 3 & $\;\;$ \\
+\hline 6 & 3 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 3 & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 1 & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & 6 & 2 & 3 & $\;\;$ \\
+\hline $\;\;$ & 3 & 2 & $\;\;$ & 1 & 4 \\
+\hline 
+\end{tabular}\\ 
+6.4, size 12
+ & 6.4, size 13
+ & 6.4, size 14
+ & 6.4, size 15
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 4 & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & 3 & 2 & 5 & 1 & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline 4 & $\;\;$ & 5 & 1 & $\;\;$ & 3 \\
+\hline 5 & 4 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & 2 & 5 & $\;\;$ & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline 
+\end{tabular}\\ 
+6.4, size 16
+ & 6.4, size 17
+ & 6.5, size 10
+ & 6.5, size 11
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & 1 & 4 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 4 & 3 \\
+\hline 6 & 3 & $\;\;$ & $\;\;$ & 2 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & 6 & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 5 & 2 & 4 \\
+\hline 
+\end{tabular}\\ 
+6.5, size 12
+ & 6.5, size 13
+ & 6.5, size 14
+ & 6.5, size 15
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & 6 & 2 & 1 & 4 & $\;\;$ \\
+\hline $\;\;$ & 3 & 1 & $\;\;$ & 2 & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & $\;\;$ & 2 & 1 & 4 & 3 \\
+\hline $\;\;$ & 3 & 1 & 5 & 2 & 4 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline 5 & $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.5, size 16
+ & 6.5, size 17
+ & 6.6, size 11
+ & 6.6, size 12
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline 5 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & 1 & $\;\;$ & 3 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 3 & 4 \\
+\hline 6 & $\;\;$ & 2 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 6 & 1 & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 3 & 4 \\
+\hline $\;\;$ & 3 & $\;\;$ & 5 & 4 & 1 \\
+\hline 
+\end{tabular}\\ 
+6.6, size 13
+ & 6.6, size 14
+ & 6.6, size 15
+ & 6.6, size 16
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 1 & 2 & 3 & 4 \\
+\hline $\;\;$ & 3 & 2 & 5 & 4 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & 4 & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & 6 & $\;\;$ & 3 & 1 & $\;\;$ \\
+\hline 6 & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.6, size 17
+ & 6.7, size 12
+ & 6.7, size 13
+ & 6.7, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & 1 & 2 \\
+\hline 6 & $\;\;$ & $\;\;$ & 2 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & 1 & 2 \\
+\hline $\;\;$ & 4 & 5 & 2 & $\;\;$ & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & 5 & 6 & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & 1 & 2 \\
+\hline $\;\;$ & $\;\;$ & 5 & 2 & 3 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & 5 & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 2 & 3 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & 1 & 2 \\
+\hline $\;\;$ & 4 & 5 & 2 & 3 & 1 \\
+\hline 
+\end{tabular}\\ 
+6.7, size 15
+ & 6.7, size 16
+ & 6.7, size 17
+ & 6.7, size 18
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & 6 & $\;\;$ \\
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & 4 & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 3 & 2 \\
+\hline 
+\end{tabular}\\ 
+6.8, size 11
+ & 6.8, size 12
+ & 6.8, size 13
+ & 6.8, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & 4 & 1 \\
+\hline 6 & $\;\;$ & 5 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & 6 & 2 & $\;\;$ \\
+\hline $\;\;$ & 6 & 2 & $\;\;$ & 1 & 3 \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & 4 & 1 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & 5 & 1 & 3 \\
+\hline 5 & 3 & $\;\;$ & $\;\;$ & 4 & 1 \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 3 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & 4 & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 5 & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular}\\ 
+6.8, size 15
+ & 6.8, size 16
+ & 6.8, size 17
+ & 6.9, size 10
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & 6 & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 2 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & 4 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 1 & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 6 & 2 & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 1 & 3 \\
+\hline $\;\;$ & 3 & 5 & $\;\;$ & 4 & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.9, size 11
+ & 6.9, size 12
+ & 6.9, size 13
+ & 6.9, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & 2 & 4 \\
+\hline 4 & 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 5 & 4 & 6 & $\;\;$ & $\;\;$ & 3 \\
+\hline 6 & 3 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline 3 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline 4 & $\;\;$ & $\;\;$ & 5 & 3 & 1 \\
+\hline 5 & 4 & $\;\;$ & 2 & 1 & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & 2 & 3 & 4 & 5 & 6 \\
+\hline $\;\;$ & $\;\;$ & 4 & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & 5 & $\;\;$ & $\;\;$ & $\;\;$ & 4 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & 6 & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & 5 & $\;\;$ & 4 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline 1 & $\;\;$ & $\;\;$ & $\;\;$ & 5 & 6 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 2 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 \\
+\hline 
+\end{tabular}\\ 
+6.9, size 15
+ & 6.9, size 16
+ & 6.9, size 17
+ & 6.10, size 10
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 4 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 2 & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & 5 & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & 6 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & $\;\;$ & 1 & $\;\;$ \\
+\hline 6 & $\;\;$ & 2 & 5 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & $\;\;$ & 2 & 1 & 4 \\
+\hline 6 & 4 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.10, size 11
+ & 6.10, size 12
+ & 6.10, size 13
+ & 6.10, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & 6 & 2 & 1 & $\;\;$ \\
+\hline $\;\;$ & 4 & 2 & $\;\;$ & 3 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & $\;\;$ & 5 \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 2 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 1 & $\;\;$ & 3 \\
+\hline $\;\;$ & 3 & $\;\;$ & 2 & 1 & 4 \\
+\hline $\;\;$ & 4 & 2 & 5 & 3 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 3 & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 6 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 6 & 5 & 1 & 2 & 3 \\
+\hline $\;\;$ & 3 & 6 & 2 & 1 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 5 & 3 & 1 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 6 \\
+\hline 2 & 1 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & $\;\;$ & $\;\;$ & 1 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & 3 & $\;\;$ & 1 & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular}\\ 
+6.10, size 15
+ & 6.10, size 16
+ & 6.10, size 17
+ & 6.11, size 10
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & 6 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 6 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & $\;\;$ & 6 & 1 & 2 & $\;\;$ \\
+\hline 6 & 5 & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline 6 & $\;\;$ & $\;\;$ & 3 & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline 5 & $\;\;$ & $\;\;$ & $\;\;$ & 2 & 4 \\
+\hline $\;\;$ & $\;\;$ & 1 & 3 & 4 & 2 \\
+\hline 
+\end{tabular}\\ 
+6.11, size 11
+ & 6.11, size 12
+ & 6.11, size 13
+ & 6.11, size 14
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & 3 & 6 & 1 & 2 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & 3 & 4 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & $\;\;$ & $\;\;$ & 3 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 1 & 5 \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & 3 & 1 \\
+\hline $\;\;$ & 3 & $\;\;$ & 1 & 2 & 4 \\
+\hline $\;\;$ & 5 & 1 & 3 & 4 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 1 & $\;\;$ & 5 & 6 & $\;\;$ \\
+\hline 3 & 4 & $\;\;$ & 6 & 1 & $\;\;$ \\
+\hline $\;\;$ & 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & 3 & 6 & 1 & $\;\;$ & $\;\;$ \\
+\hline 6 & 5 & 1 & 3 & 4 & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 2 & 3 \\
+\hline 6 & $\;\;$ & $\;\;$ & 3 & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.11, size 15
+ & 6.11, size 16
+ & 6.11, size 17
+ & 6.12, size 11
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}c@{\hspace{1.0mm}}}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & $\;\;$ & 2 & 3 \\
+\hline 6 & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 4 & 1 & 2 & 3 \\
+\hline $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & 3 & $\;\;$ \\
+\hline $\;\;$ & 6 & 4 & $\;\;$ & 2 & 3 \\
+\hline $\;\;$ & 4 & $\;\;$ & 3 & 1 & 2 \\
+\hline 
+\end{tabular} &
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & $\;\;$ & 2 & $\;\;$ & 1 \\
+\hline $\;\;$ & $\;\;$ & 4 & 1 & 2 & 3 \\
+\hline $\;\;$ & 4 & 5 & 3 & $\;\;$ & 2 \\
+\hline 
+\end{tabular}\\ 
+6.12, size 12
+ & 6.12, size 13
+ & 6.12, size 14
+ & 6.12, size 15
+\\
+\end{tabular} 
+\end{center} 
+\begin{center}
+\begin{tabular}{c}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & $\;\;$ & 1 & $\;\;$ & $\;\;$ & 5 \\
+\hline $\;\;$ & 1 & 2 & $\;\;$ & 6 & 4 \\
+\hline $\;\;$ & 5 & 6 & 2 & $\;\;$ & 1 \\
+\hline 5 & 6 & 4 & 1 & $\;\;$ & $\;\;$ \\
+\hline $\;\;$ & 4 & 5 & $\;\;$ & $\;\;$ & $\;\;$ \\
+\hline 
+\end{tabular}\\ 
+6.12, size 16
+\\
+\end{tabular} 
+\end{center} 
+
+
+\section{Acknowledgements}
+We would like to extend our sincere appreciation to Ian Wanless
+for programs to determine isotopy and main classes in $O(n)$ time
+and to Brendan McKay for proposing a simpler method of using
+{\it nauty} ~\cite{nauty} to determine these classes.
+
+\begin{thebibliography}{10}
+
+\bibitem{AK2}
+P.~Adams and A.~Khodkar.
+\newblock Smallest critical sets for the latin squares of orders six and seven.
+\newblock To appear in Journal of Combinatorial Mathematics and Combinatorial
+  Computing.
+
+\bibitem{MR2000k:05054}
+P.~Adams and A.~Khodkar.
+\newblock Smallest weak and smallest totally weak critical sets for the latin
+  squares of order at most seven.
+\newblock To appear in {\it Ars Combin}.
+
+\bibitem{MR2000g:05034}
+J.~A. Bate and G.~H.~J. van Rees.
+\newblock The size of the smallest strong critical set in a {L}atin square.
+\newblock {\em Ars Combin.}, {\bf 53} (1999), 73--83.
+
+\bibitem{bandw}
+D.~Bedford and D.~Whitehouse.
+\newblock Products of uniquely completable partial latin squares.
+\newblock To appear in {\it Utilitas Math}.
+
+\bibitem{crc}
+C.~J. Colbourn and J.~H. Dinitz.
+\newblock {\em The CRC Handbook of combinatorial designs}.
+\newblock CRC Press, 1996.
+
+\bibitem{MR80j:05022}
+D.~Curran and G.~H.~J. Van~Rees.
+\newblock Critical sets in {L}atin squares.
+\newblock In {\em Proceedings of the Eighth Manitoba Conference on Numerical
+  Mathematics and Computing (Univ. Manitoba, Winnipeg, Man., 1978)}, pages
+  165--168, Winnipeg, Man., 1979. Utilitas Math.
+
+\bibitem{dk}
+J.~Denes and D.~Keedwell.
+\newblock {\em Latin squares and their applications}.
+\newblock English Universities Press, 1974.
+
+\bibitem{MR95k:05030}
+D.~Donovan, J.~Cooper, D.~J. Nott, and J.~Seberry.
+\newblock Latin squares: critical sets and their lower bounds.
+\newblock {\em Ars Combin.}, {\bf 39} (1995), 33--48.
+
+\bibitem{MR98b:05019}
+D.~Donovan, A.~Howse, and P.~Adams.
+\newblock A discussion of {L}atin interchanges.
+\newblock {\em J. Combin. Math. Combin. Comput.}, {\bf 23} (1997), 161--182.
+
+\bibitem{MR98m:05026}
+A.~Howse.
+\newblock Minimal critical sets for some small {L}atin squares.
+\newblock {\em Australas. J. Combin.}, {\bf 17} (1998), 275--288.
+
+\bibitem{MR99j:05036}
+A.~D. Keedwell.
+\newblock What is the size of the smallest {L}atin square for which a weakly
+  completable critical set of cells exists?
+\newblock {\em Ars Combin.}, {\bf 51} (1999), 97--104.
+
+\bibitem{nauty}
+B.~McKay.
+\newblock {\em nauty} user's guide (version 1.5).
+\newblock Australian National University Computer Science Technical Report
+  TR-CS-90-02.
+
+\end{thebibliography}
+
+\end{document}

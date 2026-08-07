@@ -1,0 +1,569 @@
+<html>
+<!-- Copyright 2003 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Secure Telnet for Windows CE 2.00:
+Installation for OpenSSH
+</title>
+
+<link rel="shortcut icon" href="../favicon.ico">
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Secure Telnet for Windows CE 2.00:
+<br>
+Installation Instructions for OpenSSH
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+April 5, 2003
+<p>
+
+<font size=+1>
+
+The purpose of this article is to
+give a very detailed description of the installation procedure for OpenSSH
+all in one place.
+These instructions are for installing OpenSSH into the
+Windows CE 2.00 operating system only.
+The current instructions are rather terse, scattered and incomplete.
+<p>
+
+I have an
+<a href="http://www.lgeservice.com/expres.html">
+LG Phenom Express
+</a>
+ (WinCE 2.00, SH3).
+It's a neat little handheld machine with a very comfortable keyboard 
+and a half height, bright color display. The only problem with this machine
+is LG Electronics stopped producing them in 1999! Surprisingly, this style of
+machine has come back in the last few years from other vendors.
+<p>
+
+My main use for the LG Phenom is to type notes and be able to
+access email via dialup without carrying a lot of weight.
+ I was looking for a way 
+to retrieve email from a Unix shell
+in a secure fashion so I started looking for telnet programs with 
+<a href="http://www.dreamwvr.com/ssh/ssh-faq.html">
+SSH (Secure Shell)
+</a>
+capabilities. For WinCE 2.00, this is very hard to find. It appears
+Microsoft has all but abandoned this operating system.
+<p>
+
+I found a free telnet, 
+<a href="http://hp.vector.co.jp/authors/VA002416/teraterm.html">
+Pocket Tera Term 0.0, 
+</a>
+by T. Teranishi and a commercial telnet, 
+<a href="http://www.cam.com/windowsce.html">
+vxHpc, 
+</a>
+by Cambridge Computer Corp.
+While both programs work well under WinCE 2.00,
+both do not support SSH connections. This means anyone can easily monitor
+your sessions and your communications are not secure. This was not desirable
+for me.
+<p>
+
+Finally, I discovered there is a free telnet supporting SSH1 and SSH2 called 
+<a href="http://www.openssh.com/">
+OpenSSH
+</a>
+and is an Open Source program.
+A version of OpenSSH that was ported to WinCE 2.00 by Andreas Bischoff 
+may be found at:
+<p>
+
+<blockquote>
+<a href="http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html">
+http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html
+</a>
+</blockquote>
+<p>
+
+This is a great find for people like me who still use an <b>"old"</b> 
+operating system like
+WinCE 2.00. <font size=+1><b>:)</b></font>
+Andreas derived his version of OpenSSH from a version written
+by Rainer Keuchel. See also:
+<p>
+
+<blockquote>
+<a href="http://www.rainer-keuchel.de/wince/ssh.html ">
+http://www.rainer-keuchel.de/wince/ssh.html 
+</a>
+<br>
+
+<a href="http://www.rainer-keuchel.de/wince/console.html">
+http://www.rainer-keuchel.de/wince/console.html
+</a>
+<br>
+
+<a href="http://www.rainer-keuchel.de/wince/registry.html">
+http://www.rainer-keuchel.de/wince/registry.html
+</a>
+<br>
+
+<a href="http://www.rainer-keuchel.de/wince/jornada720.reg.gz">
+http://www.rainer-keuchel.de/wince/jornada720.reg.gz
+</a>
+<br>
+
+<a href="http://www.rainer-keuchel.de/wince/dirlist.html">
+http://www.rainer-keuchel.de/wince/dirlist.html
+</a>
+</blockquote>
+
+While Andreas and Rainer did a great job with OpenSSH,
+the problem is the installation instructions are rather terse, 
+scattered and incomplete. 
+(But hey, the software is free!) 
+The purpose of this article is to
+give a more detailed description of the installation procedure for OpenSSH
+all in one place.
+<p>
+
+The gist of what the instructions in the above webpages are saying:
+<p>
+
+<ol type=1>
+<li>OpenSSH has its roots in the Unix operating system.
+You need to <i>spoof</i> Unix directories and files on your WinCE machine
+to <i>fool</i> OpenSSH to run.
+<p>
+<li>You do this by defining various environment variables and point them
+   to Unix-like directories and files you have created on the WinCE machine.
+<p>
+<li>You cannot use Microsoft's <i>Powertoys for CE</i> (PfCE) because there is
+   no registry editor in the PfCE WinCE 2.00 version.
+   For WinCE 2.00, you <b>must</b> use the CEREG.EXE program via the
+   ActiveSync connection.
+<p>
+<li>You may use the CONSOLE program to confirm that your environment
+   variables have been set correctly. 
+</ol>
+<p>
+
+<a name="step1">
+<b>The installation procedure for OpenSSH is rather involved and complicated.</b>
+In fact, it's rather kludgy. But it works.
+Here are the steps:
+</a>
+<p>
+
+<ol type=1>
+<li>You need to create the following directories on your WinCE machine.
+Some people create these directories in a PCMCIA memory card inserted
+into the WinCE machine. I just created the directories inside the 
+memory of my LG Phenom itself under the directory <b>/My Handheld PC</b>:
+<p>
+
+<center>
+<table cellpadding=10 cellspacing=0 border=1>
+<tr>
+<th bgcolor="#ccffcc">
+   Directory
+</th>
+<th bgcolor="#ccffcc">
+   Function
+</th>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix
+</td>
+<td bgcolor="#ffffcc">
+   Point UNIXROOTDIR environment variable here.
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix/bin
+</td>
+<td bgcolor="#ffffcc">
+		Point PATH environment variable here.
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix/dev
+</td>
+<td bgcolor="#ffffcc">
+		Unknown
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix/etc
+</td>
+<td bgcolor="#ffffcc">
+		Point TERMCAP env var here.		
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix/home
+</td>
+<td bgcolor="#ffffcc">
+		Point HOME env var here.
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#ffffcc">
+   /unix/logs
+</td>
+<td bgcolor="#ffffcc">
+		Point CELIBSTDLOGDIR env var here.
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+<li>Now you need to create or have the following files on your WinCE machine:
+<p>
+<blockquote>
+<tt>
+<b>
+<pre>
+   /unix/etc/passwd
+   /unix/etc/services
+   /unix/etc/termcap
+   /unix/home/_console
+</pre>
+</b>
+</tt>
+</blockquote>
+<p>
+
+These are plain text files. If you are acquainted with Unix,
+these directories and files should look familiar to you.
+I give the contents of each file below as examples:
+<p>
+
+<ol type=a>
+<li>My <tt><b>/unix/etc/passwd</b></tt> file contains two lines:
+<p>
+<blockquote>
+<tt>
+<b>
+<pre>
+root:x:0:0:Superuser:/unix:/unix/bin/xsh
+webguy:x:0:0:Superuser:/unix:/unix/bin/xsh
+</pre>
+</b>
+</tt>
+</blockquote>
+<p>
+
+Note the unix directories in the above two lines must match the
+directories you have defined on your WinCE machine.
+These lines match the directories I have defined on my LG Phenom.
+<p>
+
+<li>My <tt><b>/unix/etc/services</b></tt> file contains two lines:
+<p>
+<blockquote>
+<tt>
+<b>
+<pre>
+ssh     22/tcp
+telnet  23/tcp
+</pre>
+</b>
+</tt>
+</blockquote>
+<p>
+
+<li>The contents of the <tt><b>/unix/etc/termcap</b></tt> file is below.
+You don't need to create this file. It is included with the CONSOLE program.
+<p>
+<blockquote>
+<tt>
+<b>
+<pre>
+wince:\
+	:co#80:it#8:li#11:\
+	:mi:ms:\
+	:al=\E[L:\
+	:bl=^G:\
+	:cd=\E[J:\
+	:ce=\E[K:\
+	:cl=\E[H\E[J:\
+	:cm=\E[%i%d;%dH:\
+	:cs=\E[%i%d;%dr:\
+	:cr=^M:\
+	:dc=\E[P:\
+	:dl=\E[M:\
+	:do=\E[B:\
+	:ho=\E[H:\
+	:se=\E[m:\
+	:so=\E[7m:\
+	:up=\E[A:\
+	:kh=\E[H:\
+	:kb=\177:\
+        :le=\E[D:\
+        :kl=\E[D:\
+        :kr=\E[C:\
+        :ku=\E[A:\
+	:kd=\E[B:
+</pre>
+</b>
+</tt>
+</blockquote>
+<p>
+
+<li>My <tt><b>/unix/home/_console</b></tt> file contains three lines.
+A version of this file is also include with the CONSOLE program.
+<p>
+<blockquote>
+<tt>
+<b>
+<pre>
+builtin more
+builtin ls
+pipeable rm mv ls sort grep find
+</pre>
+</b>
+</tt>
+</blockquote>
+<p>
+
+</ol>
+
+<li>Now you need to extract the CEREG.EXE program from the 
+<b>wince-desktoptools</b> archive
+(See  
+<a href="http://www.rainer-keuchel.de/wince/dirlist.html">
+http://www.rainer-keuchel.de/wince/dirlist.html</a>)
+
+to create the environment variables on your WinCE machine.
+Extract CEREG.EXE to your desktop computer.
+<p>
+
+To use CEREG.EXE, you first need to make
+an ActiveSync connection between your desktop PC and the WinCE machine.
+Then you run CEREG.EXE in the DOS window from your desktop PC
+to define environment variables on your WinCE machine.
+(Also see 
+<a href="http://www.rainer-keuchel.de/wince/registry.html">
+http://www.rainer-keuchel.de/wince/registry.html</a>).
+<p>
+
+I have created a DOS batch file on my desktop PC which runs CEREG.EXE to create
+the environment variables for my LG Phenom via the ActiveSync connection. 
+I list it here as an example:
+<p>
+
+<blockquote>
+<pre>
+cereg -k "HKLM\Environment" -n "UNIXROOTDIR" -v "\unix"
+cereg -k "HKLM\Environment" -n "PATH" -v "\unix\bin;\Windows"
+cereg -k "HKLM\Environment" -n "HOME" -v "\unix\home"
+cereg -k "HKLM\Environment" -n "ROWS" -v "12"
+cereg -k "HKLM\Environment" -n "COLS" -v "80"
+cereg -k "HKLM\Environment" -n "CONSOLEFONTSIZE" -v "10"
+cereg -k "HKLM\Environment" -n "TMP" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TEMP" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TMPDIR" -v "\Temp"
+cereg -k "HKLM\Environment" -n "TEMPDIR" -v "\Temp"
+cereg -k "HKLM\Environment" -n "USER" -v "WinCEUser"
+cereg -k "HKLM\Environment" -n "TERM" -v "wince"
+cereg -k "HKLM\Environment" -n "TERMCAP" -v "\unix\etc\termcap"
+cereg -k "HKLM\Environment" -n "CELIBSTDLOGDIR" -v "\unix\logs"
+</pre>
+</blockquote>
+
+<li>Install the CONSOLE program on your WinCE machine.
+You may use this program to confirm the environment variables
+were actually created properly.
+(See 
+<a href="http://www.rainer-keuchel.de/wince/console.html">
+http://www.rainer-keuchel.de/wince/console.html</a>)
+<p>
+
+You will also need to copy over the CELIB.DLL file to the \Windows directory
+of your WinCE machine
+so the CONSOLE program will run properly.
+(See <a href="http://www.rainer-keuchel.de/wince/celib.html">
+http://www.rainer-keuchel.de/wince/celib.html</a>)
+<p>
+
+<li>Install OpenSSH on your WinCE machine.
+As Andreas mentions, do not replace your \Windows\MSVCRT.DLL file, if one
+already exists on your WinCE machine.
+See <a href="http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html">
+http://prt.fernuni-hagen.de/~bischoff/wince/Andreas_WINCE_stuff.html</a>
+<p>
+
+At this point, all you really need to do is
+<a href="http://prt.fernuni-hagen.de/%7Ebischoff/wince/openssh-wince-sh3-hpc-wce200.zip">download OpenSSH for WinCE 2.00</a>
+and copy it over to your WinCE machine.
+<p>
+
+<li>Dialup your ISP (or use your favorite method to connect).
+<p>
+
+<li>Run the OpenSSH program.
+If all goes well, OpenSSH will prompt for 
+<i>Host:</i> 
+and 
+<i>User:</i>
+and try to connect.
+<p>
+
+The first time you connect to your ISP, OpenSSH will give an authentication
+error for your ISP, generate a RAS number and ask for you to continue.
+Answer <b>Yes.</b> All subsequent connections will not do this again.
+<p>
+
+Then OpenSSH will prompt you for your shell password and you will be securely
+connected to the Unix shell. You did it!
+<p>
+
+If you get any other error messages from OpenSSH, 
+either the Unix-like directories, the files
+and/or the environment variables were not created correctly on your WinCE machine.
+<a href="#step1">
+Go back to step 1 
+</a>
+and review the installation procedure again.
+
+</ol>
+<p>
+
+<h3>
+Observed Bugs
+</h3>
+
+I have observed a few bugs when running OpenSSH under WinCE 2.00.
+They are minor and there are workarounds but they are annoying
+nevertheless:
+<p>
+
+<ol type=1>
+<li>When prompted for 
+<i>Host:</i>
+and 
+<i>User:</i>, the backspace key doesn't work properly.
+This means if you make a typo, you have to restart the program all over again.
+<p>
+
+There is no workaround for this other than restarting the program.
+<p>
+
+<li>The 
+<i>SSH Password</i> window does not go away after you click OK or hit the
+ENTER key. It just stays there on top of the OpenSSH window and won't scroll
+away. In fact, scrolling doesn't work properly either.
+<p>
+
+This would be a problem. The workaround is to make the
+OpenSSH window go temporarily away,
+say by running another program or going to the desktop, 
+and then go back to the OpenSSH window.
+Then the 
+<i>SSH Password</i>
+ window goes away and the OpenSSH window now scrolls properly(!)
+Seems the initial OpenSSH window is missing a repaint after the
+password prompt.
+<p>
+
+<li>OpenSSH doesn't seem to check for the maximum window size on the WinCE
+machine. If you give large values for the number of rows or font size,
+ the resulting
+window may not fit on the display. You may see only part of the window.
+<p>
+
+The workaround is to reduce the number of rows, columns and font size until the
+entire OpenSSH window fits on your screen. See below under <b>Fine Tuning.</b>
+<p>
+
+<li>In the Unix <tt><b>Mail</b></tt> program, the backspace key, which was
+mapped as ^H in the shell, is now mapped as ^? in <tt><b>Mail</b></tt>.
+Also, the number 4 appears to be mapped as control-C, ^C.
+This is bizarre.
+<p>
+
+There is no workaround for this.
+
+</ol>
+
+
+<h3>
+Fine Tuning
+</h3>
+
+You probably will have to play with the environment variables for the
+number of rows, columns and font size to maximize the area of the telnet window.
+CONSOLE's <tt><b>env</b></tt> and <tt><b>setenv</b></tt> commands 
+should make this easier.
+<p>
+
+You will also need to adjust the number of lines in the Unix shell via
+the <tt><b>stty</b></tt> command so that it jives with the number of lines
+in your OpenSSH window. This is important for shell programs like 
+<tt><b>more, pine, emacs,</b></tt> etc. On my LG Phenom, I set my shell screen
+to 12 rows
+using the command:
+<p>
+
+<blockquote>
+<tt><b>stty rows 12</b></tt>
+</blockquote>
+
+</font>
+<p>
+
+<table border=7 cellpadding=5>
+<tr><td>
+<a href="../writings/writings.html">My Writings</a>
+</td></tr>
+</table>
+
+<hr>
+
+</td>
+</tr>
+</table>
+</center>
+
+<center>
+<font size=2>
+Last updated : April 13, 2003
+<br>
+Copyright 2003 Al Wong, Los Angeles, California, USA
+</font>
+</center> 
+<p>
+
+</body>
+</html>
+
+
+
+
+
+

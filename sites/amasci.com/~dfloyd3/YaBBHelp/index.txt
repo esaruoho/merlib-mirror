@@ -1,0 +1,42 @@
+YaBB:: Home 
+
+ Home 
+
+ Home 
+
+ Introduction 
+ Users 
+ Registering 
+ Logging In/Out 
+ Profile 
+ Posting 
+ IM (Instant Message) 
+ FAQ 
+
+ Moderation 
+ Moderator Actions 
+
+ Administration 
+ Introduction 
+ Member Functions 
+ Forum Functions 
+ Forum Setup 
+ FAQ 
+
+ Welcome to the YaBB User/Visitor Help and Administration Guide 
+ YaBB is one of the world's leading providers of FREE Perl-based Message 
+ Board systems for webmasters, with currently over 50,000 web communities 
+ using YaBB worldwide, and over 1 Million registered users througout 
+ these forums! Join the messaging revolution; keep 
+ visitors coming back or help your favorite website grow by chatting 
+ on their forum.... 
+
+ YaBB is the solution! BBS sytems were 
+ meant to be: Free, Beautiful, Fast, Secure, Easy to Install, Able to 
+ give you full Administrative Control, and Easy to Use with International 
+ Languages... 
+ Use this manual to learn how to use a YaBB forum (such as registering 
+ and posting) and administrate a YaBB forum! 
+
+ YaBB : Copyright &copy; 2001-2003. Sponsored by XIMinc .
+ All Rights Reserved.

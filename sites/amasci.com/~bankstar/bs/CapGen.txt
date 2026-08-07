@@ -1,0 +1,112 @@
+CapGen : A System allowing Member banks to create files for a Central Banks CASS system 
+
+ When 
+ Central Banks introduce Clearing and Settlement Systems (CASS) to 
+ automate the clearing of payment instruments, commercial banks need 
+ to have systems which can generate files for outward clearing and 
+ accept/process files for inward clearing. 
+ Most 
+ banks will have existing computer systems prior to this event taking 
+ place and supplementing existing systems with a module to handle 
+ this is far more advantageous than replacing existing systems. 
+
+ Some 
+ Central Banks require the exchange of only data files while others 
+ require both data and image files to be exchanged. 
+ CapGen 
+ is a highly parameterized system, which can be used across a wide 
+ range of CASS systems for both paper and image based clearing. 
+
+ Features 
+ of CapGen 
+
+ Interface to Document Processors 
+
+ User Defined Payment Instruments 
+
+ Branch Modules for banks having 
+ distributed databases 
+
+ Interface to communicate with the 
+ Central Bank 
+
+ Automatic generation of outward 
+ clearing files 
+
+ Automatic Processing of inward 
+ clearing files 
+
+ Automatic Send and receive feature 
+
+ Interface to existing Baseline 
+ system 
+
+ End-to-End regularization of paper 
+ instruments 
+
+ Interface to Document Processors 
+ CapGen 
+ interfaces to popular document processors which enables a bank to decide 
+ whether it wishes to process documents at Front Office using small inexpensive 
+ document processors or at Back Office using high speed large volume processors. 
+ These document processors will capture data from the MICR line as well 
+ as scan images of one or both sides of the document and pass this data 
+ to CapGen for processing 
+
+ User Defined Payment Instruments 
+ While almost all Central Banks process instruments such as 
+ cheques and transfer orders, each Central Bank also allow other instruments 
+ and these can change as time goes by. For example, promissory notes, settlement 
+ orders, reimbursement of credit card claims etc. are items that Central 
+ Banks allow processing of. CapGen allows users to themselves define new 
+ instruments and evolve along with Central Banks. 
+
+ Branch Modules for banks having distributed databases 
+ Not all banks have a centralized database. Banks, which have 
+ distributed databases at branches need to process instruments at branches 
+ and then send the processed data to a Nodal Office. The Nodal Office consolidates 
+ data and transfers consolidated data to and from aCentral Bank. CapGen 
+ has a Branch Module, which allows this to take place. 
+ CapGen 
+ also has built in sorting mechanism which enables sorting, preparing and 
+ transferring files to various branches at predefined intervals. 
+
+ Interface to communicate with the Central Bank 
+ CapGen system has an easy interface to accept and send files 
+ to a Central Bank 
+
+ Automatic generation of outward clearing files 
+ Once 
+ instrument data has been entered into CapGen, it automatically creates 
+ outward clearing files in the formats defined by Central Banks 
+
+ Automatic Processing of inward clearing files 
+ On 
+ receiving inward clearing files from a Central Bank, CapGen can automatically 
+ process the instruments for parameters such as account balance, overdraft, 
+ cheque stock etc. CapGen allows users to define instruments which can 
+ be automatically processed and others that require officer intervention 
+
+ Automatic Send and receive feature 
+ CapGen 
+ has automatic send and receive feature which allows Users to send and 
+ receive files from a Central Bank at user defined intervals 
+
+ Interface to existing Baseline system 
+ CapGen 
+ has the capability to interface to various baseline systems using a batch 
+ or on-line interface. These interfaces are developed/fine tuned individually 
+ for each user. 
+
+ End-to-End regularization of paper instruments 
+
+ Many 
+ Central Banks now allow clearing of instruments based on electronic images. 
+ Paper instruments however, still exist and banks need to ensure that the 
+ paper item finally arrives at the correct destination regularizing the 
+ instrument which has been cleared based on an electronic image. CapGen 
+ keeps track of the complete life cycle an instrument. until it is fully 
+ regularized. 
+
+ * 
+ CapGen is scheduled to be released in Q3 2003

@@ -1,0 +1,72 @@
+Colt's Takedown Instructions for the Woodsman 
+
+The basic takedown procedure remained essentially the same throughout the 62 years
+of Woodsman production, with one minor difference between the pre-war and
+the post-war versions. A mainspring housing retainer pin was added shortly 
+after introduction of the post war Woodsman, and remained a feature until the 
+end of production. For those pistols the retainer pin must first be removed, 
+as per the following Colt instructions from 1948:
+
+Before disassembling your Woodsman...read this 
+To allow for the extra firm grip some shooters find necessary for accuracy, 
+a main spring housing retainer pin has been installed. Therefore, in 
+disassembling the arm for cleaning, it is necessary to take the following 
+steps before proceeding as outlined under DISASSEMBLY FOR CLEANING:
+
+ Remove stocks.
+ Press in on upper radius of main spring housing and, using stock screw, push out housing retainer pin.
+
+After the retainer pin is removed, the takedown is the same as for the 
+pre-war models. The following instructions are taken from a 1915 Pre-Woodsman
+instruction booklet. 
+
+ To Dismount: 
+Remove magazine by pressing the magazine catch. 
+
+ (After removing magazine, look to see that there is no cartridge left in 
+the chamber.) 
+With pistol in left hand, grasp slide between thumb and middle finger of right
+hand and pull to rear as far as it will go. 
+ Click on the picture for a larger illustration 
+
+Then with index finger of right hand, push down assembly lock plunger (on top of slide,) and while holding pressure on plunger allow slide to move forward to closed position. When fully closed, pull trigger and release pressure on assembly lock plunger. (Note: All Second Series Woodsmans, and some Third Series guns made in 1955, have a magazine safety. With them the empty magazine must be inserted before pulling the trigger.) 
+
+With thumb of right hand press on housing at point where same is knurled; 
+pressure should be exerted upwards as well as in. 
+ Click on the picture for a larger illustration 
+
+This will release housing from receiver and it may be withdrawn; at the same time magazine catch and sear spring (which are pinned together) are released and can be taken from arm. 
+
+Slide can now be drawn rearward from receiver. 
+ To Assemble: 
+
+Place slide on receiver and push forward to closed position. Insert magazine catch and sear spring in position, being sure that lug on magazine catch fits into slot provided for same in handle, sear spring resting on sear and under hammer strut. The hammer must be in forward position with hammer strut resting on sear spring; (pull trigger to insure hammer being fully forward.)
+
+Place top of housing under end of receiver and resting on sear spring. 
+ Click on the picture for a larger illustration 
+Press on lower end of housing, causing it to snap
+into place. 
+
+ The foregoing is all the dismounting necessary to clean and properly 
+care for the arm. 
+
+ Editor's Note (added): The following NOTE is very important. I have had dozens, perhaps hundreds, of telephone calls, letters, and emails from people who could not put their Woodsman back together, and the cause has almost always been due to the recoil spring having been knocked out of its captured position. The assembly lock is easily jarred loose from the recoil spring guide, thereby allowing the recoil spring to expand to the rear of the slide. To someone who doesn't know what it is supposed to look like, that condition will look perfectly normal, but in fact the pistol cannot be re-assembled until the recoil spring is re-captured by the assembly lock. That is not easy to do, but it can be done with patience, some mechanical aptitude, and a tool with which to compress the recoil spring back into the slide so the assembly lock can be re-engaged in the recoil spring guide. I use a small, flat bladed screwdriver for that tool. 
+
+ NOTE: If, at any time, during the taking apart or assembling, the recoil 
+spring should jar off from the assembly lock, it should be again pressed 
+into its forward position and held secure by pressing down the assembly lock 
+plunger.
+
+ NOTE (Added): 
+
+Unfortunately, the wording of the above note from the original Colt instructions is not crystal clear, but it is very important. I have had dozens, perhaps hundreds, of telephone calls, letters, and emails from people who could not put their Woodsman back together, and the cause has almost always been due to the recoil spring having been knocked out of its captured position. The assembly lock is easily jarred loose from the recoil spring guide, thereby allowing the recoil spring to expand to the rear of the slide. To someone who doesn't know what it is supposed to look like, that condition will look perfectly normal, but in fact the pistol cannot be re-assembled until the recoil spring is re-captured by the assembly lock. That is not easy to do, but it can be done with patience, some mechanical aptitude, and a tool with which to compress the recoil spring back into the slide so the assembly lock can be re-engaged in the recoil spring guide. I use a small, flat bladed screwdriver for that tool.
+
+ Recoil Spring in Captured Position (Correct)
+
+Recoil Spring out of Captured Position (Incorrect)
+
+Recoil Spring AND Recoil Spring Guide out of position (Really, Really, Incorrect) 
+
+A 2nd Series Match Target slide is used for the above three illustrations, but the recoil spring positioning information is the same for all models and all series. Thanks to Adam Patrick for the photos.
+
+ Back to Assembly/Disassembly

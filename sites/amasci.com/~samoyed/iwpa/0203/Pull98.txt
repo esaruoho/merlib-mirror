@@ -1,0 +1,547 @@
+Pull 98 -- Manson Snow Pull
+ -- Day 1 
+
+ Manson Snow Pull 
+Manson, Washington 
+
+ Pull: 98 
+ Organizer(s): Ryan Wood 
+ Snow on Wet Snow
+ Region: 2 
+
+ Track: 
+ Fair, kind of slushy 
+ Date: 
+Sat
+ 15 
+Feb
+ 2003 
+
+ Weather: 
+ rained most of the day 
+
+ Day 1 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Ryan Wood 
+
+ 40 # Class 
+
+Judged by 
+Bob Daymude
+
+ 70 # Start weight, 
+ 40 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jar Jar Binks 
+ 2 
+ 190
+
+ 26.88 
+ 35 
+ 5.43 
+ 7.0 
+ Morgan Star
+
+ Australian Cattle Dog 
+
+ Petula 
+ 2 
+ 150
+
+ 3.56 
+ 39 
+ 3.85 
+ 4.0 
+ Marcia Moon-McCearley
+
+ Irish Water Spaniel 
+
+ Cassie 
+ 2 
+ 110
+
+ 3.09 
+ 26 
+ 4.23 
+ 1.0 
+ Marlana Ashlie
+
+ Cattle Dog 
+
+ 60 # Class 
+
+Judged by 
+Bob Daymude
+
+ 70 # Start weight, 
+ 40 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Bull 
+ 2 
+ 270
+
+ 11.69 
+ 55 
+ 4.91 
+ 7.0 
+ Ryan Wood
+
+ Am. PitBull Terrier 
+
+ Kima 
+ 2 
+ 150
+
+ 6.97 
+ 52 
+ 2.88 
+ 4.0 
+ Aviva Beach
+
+ Mixed 
+
+ Marley 
+ 2 
+ 110
+
+ 4.66 
+ 54 
+ 2.04 
+ 1.0 
+ Marcia Moon-McCearley
+
+ Irish Water Spaniel 
+
+ 80 # Class 
+
+Judged by 
+Bob Daymude
+
+ 110 # Start weight, 
+ 40 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Spike 
+ 2 
+ 710
+
+ 11.25 
+ 74 
+ 9.59 
+ 8.0 
+ Ryan Wood
+ Lacy Wood
+
+ Boxer/Pitbull mix 
+
+ Timber 
+ 2 
+ 670
+
+ 8.02 
+ 76 
+ 8.82 
+ 5.0 
+ Judith McCauley
+
+ Siberian Husky 
+
+ Rocky 
+ 2 
+ 630
+
+ 7.39 
+ 74 
+ 8.51 
+ 2.0 
+ Torrie (Victoria) Wood
+
+ Boxer/Pitbull mix 
+
+ Kady 
+ 2 
+ 270
+
+ 3.25 
+ 67 
+ 4.03 
+ 0.5 
+ Ron Kondrup
+ Jaci Rodgers
+
+ Labrador Retriever 
+
+ 100 # Class 
+
+Judged by 
+Ryan Wood
+
+ 150 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Boomerang 
+ 2 
+ 870
+
+ 8.28 
+ 96 
+ 9.06 
+ 11.0 
+ Devin Crouch
+
+ Alaskan Malamute 
+
+ Vader 
+ 2 
+ 790
+
+ 4.25 
+ 98 
+ 8.06 
+ 8.0 
+ Devin Crouch
+
+ Alaskan Malamute 
+
+ Sequoia 
+ 2 
+ 710
+
+ 6.31 
+ 97 
+ 7.32 
+ 5.0 
+ Carole Parsons
+
+ Alaskan Malamute 
+
+ Nuka Tu 
+ 2 
+ 550
+
+ 6.80 
+ 84 
+ 6.55 
+ 3.0 
+ Bob Daymude
+ Donna Daymude
+
+ Alaskan Malamute 
+
+ Jackie 
+ 2 
+ 310
+
+ 7.40 
+ 93 
+ 3.33 
+ 2.0 
+ Jeff Parsons
+
+ Alaskan Malamute 
+
+ Shadow 
+ 2 
+ 230
+
+ 5.09 
+ 89 
+ 2.58 
+ 1.0 
+ Walt Valentine
+
+ Alaskan Malamute 
+
+ Sunny 
+ 2 
+ 230
+
+ 7.09 
+ 96 
+ 2.40 
+ 0.5 
+ Carole Parsons
+ Jeff Parsons
+
+ Alaskan Malamute 
+
+ 125 # Class 
+
+Judged by 
+Bob Daymude
+
+ 230 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jazz 
+ 2 
+ 790
+
+ 7.91 
+ 103 
+ 7.67 
+ 9.0 
+ Ryan Wood
+
+ Alaskan Malamute 
+
+ Koluk 
+ 2 
+ 710
+
+ 6.78 
+ 111 
+ 6.40 
+ 6.0 
+ Devin Crouch
+
+ Alaskan Malamute 
+
+ Avalanche 
+ 2 
+ 710
+
+ 14.03 
+ 114 
+ 6.23 
+ 3.0 
+ George Ferrari
+
+ Alaskan Malamute 
+
+ Sitka 
+ 2 
+ 390
+
+ 10.18 
+ 116 
+ 3.36 
+ 1.0 
+ Walt Valentine
+
+ Alaskan Malamute 
+
+ Thumper 
+ 2 
+ 230
+
+ 2.63 
+ 122 
+ 1.89 
+ 0.5 
+ Rhonda Wood
+
+ Alaskan Malamute 
+
+ 150 # Class 
+
+Judged by 
+Bob Daymude
+
+ 230 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Rebel 
+ 2 
+ 1030
+
+ 5.44 
+ 145 
+ 7.10 
+ 9.0 
+ Ryan Wood
+
+ Alaskan Malamute 
+
+ Big Thunder 
+ 2 
+ 870
+
+ 22.44 
+ 135 
+ 6.44 
+ 6.0 
+ Sue Ferrari
+
+ Alaskan Malamute 
+
+ Dawn 
+ P 
+ 790
+
+ 16.12 
+ 146 
+ 5.41 
+ . 
+ Chelsea Cowen
+
+ Saint Bernard 
+
+ Coca 
+ 2 
+ 550
+
+ 7.31 
+ 134 
+ 4.10 
+ 1.0 
+ Jaci Rodgers
+
+ Alaskan Malamute 
+
+ Dakota 
+ 2 
+ 470
+
+ 8.31 
+ 127 
+ 3.70 
+ 0.5 
+ Aviva Beach
+
+ Alaskan Malamute 
+
+ Unlimited Class 
+
+Judged by 
+Bob Daymude
+
+ 230 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 70 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Lewis 
+ 2 
+ 390
+
+ 6.03 
+ 170 
+ 2.29 
+ 6.0 
+ Ron Kondrup
+
+ Newfoundland 
+
+ Arti 
+ P 
+ 310
+
+ 6.06 
+ 164 
+ 1.89 
+ . 
+ Ken Cowen
+
+ Saint Bernard 
+
+ Last Updated: 22:34:33 on 03-05-2003 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+  <TITLE>
+    JBM - Ballistics - Equations - Crosswind 
+  </TITLE>
+  
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+  <STYLE TYPE="text/css">
+    BODY { BACKGROUND: #FFFFFF; COLOR: #000000 } 
+    A:LINK { COLOR: #3333FF }
+    A:VISITED { COLOR: #666699 }
+    A:ACTIVE { COLOR: #CC00FF }
+    A:HOVER { COLOR: #FF3366 }
+  </STYLE>
+
+  <LINK REL="SHORTCUT ICON" HREF="http://www.eskimo.com/~jbm/graphics/jbm.ico">
+
+</HEAD>
+
+<BODY>
+
+<CENTER>
+  <TABLE>
+    <TR>
+      <TD><A HREF="../ballistics/ballistics.html">[Ballistics]</A>
+      <TD><A HREF="../bibliography/bibliography.html">[Bibliography]</A>
+      <TD><A HREF="../downloads/downloads.html">[Downloads]</A>
+      <TD><A HREF="../index.html">[JBM]</A>
+      <TD><A HREF="../links/links.html">[Links]</A>
+      <TD><A HREF="../mpm/mpm.html">[MPM]</A>
+      <TD><A HREF="../pm/pm.html">[PM]</A>
+      <TD><A HREF="../personal/personal.html">[Personal]</A>
+      <TD><A HREF="../software/software.html">[Software]</A>
+  </TABLE>
+</CENTER>
+
+
+<HR>
+
+<H1>
+  JBM - Ballistics - Equations - Crosswind
+</H1>
+
+<P>
+  This derivation is taken from Bob McCoy's <A HREF="#REFERENCES">paper</A>,
+  <CITE>The Effect of Wind on Flat-Fire Trajectories</CITE>.  I've changed
+  the coordinate system and elaborated a bit more in certain areas.
+  A list of <A HREF="#VARIABLES">variables</A> are at the bottom of this
+  page.  Where integrals are shown, I've put the integration limits in brackets 
+  beside the integral since trying to use the SUP and SUB tags doesn't work very
+  well.
+</P>
+
+<H2>
+   Crosswind Derivation
+</H2>
+
+<P>
+  From the <A HREF="cdkd.html">CD & KD</A> discussion, the vector equations of motion are
+</P>
+
+<CENTER>
+  d<B>u</B>/dt = -k v ( <B>u</B> - <B>w</B> ) + <B>g</B>
+</CENTER>
+
+<P>
+  where
+</P>
+
+<CENTER>
+  k = p s C<SUB>D</SUB> / (2 M)
+</CENTER>
+
+<P>
+  If we assume that <B>g</B> is in the z direction only and the only wind
+  is a cross wind (|<B>w</B>| = w<SUB>x</SUB>) then the first equation can be 
+  rewritten as three equations
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TD>du<SUB>x</SUB>/dt = -k v ( u<SUB>x</SUB> - w<SUB>x</SUB> )</TR>
+    <TR><TD>du<SUB>y</SUB>/dt = -k v ( u<SUB>y</SUB> )</TR>
+    <TR><TD>du<SUB>z</SUB>/dt = -k v ( u<SUB>z</SUB> ) + g<SUB>z</SUB></TR>
+  </TABLE>
+</CENTER>
+
+<P>
+  The value v is defined as
+</P>
+
+<CENTER>
+  v = [(u<SUB>x</SUB> - w<SUB>x</SUB>)<SUP>2</SUP> + 
+       (u<SUB>y</SUB> - w<SUB>y</SUB>)<SUP>2</SUP> + 
+       (u<SUB>z</SUB> - w<SUB>z</SUB>)<SUP>2</SUP>]<SUP>1/2</SUP>
+</CENTER>
+
+<P>
+  This leads to non-linear equations that cannot be solved directly, but we
+  can make a suitable approximation for v
+</P>
+
+<CENTER>
+  S = &int; v dt  on the interval [0,t]
+</CENTER>
+
+<P>
+  Then for the first and second equations above
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TD>du<SUB>x</SUB>/dS = -k ( u<SUB>x</SUB> - w<SUB>x</SUB> )</TR>
+    <TR><TD>du<SUB>y</SUB>/dS = -k ( u<SUB>y</SUB> )</TR>
+  </TABLE>
+</CENTER>
+
+<P>
+  which can be solved:
+</P>
+
+<CENTER>
+  <TABLE>
+    <TR><TD>u<SUB>y</SUB> = u<SUB>y</SUB><SUB>0</SUB> e^(- &int; k dS<SUB>1</SUB>)  [0,S]</TR>
+    <TR><TD>u<SUB>x</SUB> = e^(- &int; k dS<SUB>1</SUB>)  [0,S]
+                            &int; w<SUB>x</SUB>k dS<SUB>1</SUB>  [0,S]
+                            e^( &int; k dS<SUB>2</SUB>  [0,S<SUB>1</SUB>]</TR>
+  </TABLE>
+</CENTER>
+
+<P>
+  Since w<SUB>x</SUB> is constant, one can readily perform the integrals (assuming constant k)
+</P>
+
+<CENTER>
+  u<SUB>x</SUB> = w<SUB>x</SUB> [ 1 - u<SUB>y</SUB>/u<SUB>x0</SUB> ]
+</CENTER>
+
+<P>
+  Integrate one more time with respect to t on the interval [0,t]
+</P>
+
+<CENTER>
+  x = &int; u<SUB>x</SUB> dt [0,t] = w<SUB>x</SUB> [ t - R/u<SUB>x0</SUB> ]
+</CENTER>
+
+<P>
+  where
+</P>
+
+<CENTER>
+  R = &int; u<SUB>y</SUB> dt [0,t]
+</CENTER>
+
+<P>
+  and x is the deflection, u<SUB>x0</SUB> is the muzzle velocity (initial 
+  velocity in the y direction), R is the range, t is the time of flight to 
+  that range, and w<SUB>x</SUB> is the wind speed in the crosswind direction.
+</P>
+
+<P>
+  Assumptions made for this derivation include constant crosswind speed, 
+  constant C<SUB>D</SUB>, and the approximation that t is the time of flight 
+  along the arc of the trajectory (S) to range R.  [In reality t is the 
+  time of flight to range R for the wind in question -- which you
+  don't know]. For small angles (flat fire approximation) or less 
+  than 5&deg;, these approximations are very good and can be less than 1%.
+</P>
+
+<H2>
+  <A NAME="VARIABLES">Variables</A>
+</H2>
+
+<TABLE WIDTH="100%">
+  <TR> 
+    <TD> <B>a</B> </TD> 
+    <TD> total vector acceleration, d<B>u</B>/dt </TD>
+    <TD> <B>a</B><SUB>D</SUB> </TD> 
+    <TD> vector acceleration due to drag </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>g</B> </TD> 
+    <TD> vector gravitational acceleration </TD> 
+    <TD> M </TD> 
+    <TD> bullet mass </TD> 
+  </TR>
+  <TR> 
+    <TD> p </TD> 
+    <TD> atmospheric density </TD> 
+    <TD> p<SUB>0</SUB> </TD> 
+    <TD> sea level atmospheric density  </TD> 
+  </TR>
+  <TR> 
+    <TD> s </TD> 
+    <TD> cross sectional area (pi d<SUP>2</SUP>/4) </TD> 
+    <TD> <B>v</B> </TD> 
+    <TD> vector velocity, | <B>v</B> | = (<B>v</B><B>v</B>)<SUP>1/2</SUP>
+         and <B>v</B> = <B>u</B> - <B>w</B>
+    </TD> 
+  </TR>
+  <TR> 
+    <TD> <B>w</B> </TD> 
+    <TD> vector wind velocity </TD> 
+    <TD> <B>u</B> </TD> 
+    <TD> velocity of bullet relative to ground</TD> 
+  </TR>
+  <TR> 
+    <TD> C<SUB>D</SUB> </TD> 
+    <TD> drag coefficient </TD> 
+    <TD> S </TD> 
+    <TD> distance along curved trajectory to range R</TD> 
+  </TR>
+</TABLE>
+
+<H2>
+  <A NAME="REFERENCES">References</A>
+</H2>
+
+<P>
+  <CITE>The Effect of Wind on Flat-Fire Trajectories</CITE>,
+  Robert L. McCoy, BRL Report Number 1900, Ballistic Research
+  Laboratories, Aberdeen Proving Ground, Maryland, August 1976, [ADB012872]
+</P>
+
+<HR>
+
+<TABLE WIDTH="100%">
+  <TR ALIGN="RIGHT">
+    <TD ALIGN="RIGHT">
+      <SMALL>
+        Last update 13 July 2004, Copyright &copy; 1996-2004
+        <A HREF="mailto:jbm@eskimo.com">JBM</A>
+        <A HREF="http://www.htmlhelp.com/cgi-bin/validate.cgi?url=referer&amp;input=yes">[V]</A>
+      </SMALL>
+</TABLE>
+
+
+</BODY> 
+</HTML>

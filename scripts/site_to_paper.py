@@ -42,6 +42,9 @@ from datetime import datetime, timezone
 HTML_EXT = {".htm", ".html", ".xhtml"}
 # Mirror bookkeeping files that are not site content.
 SKIP_NAMES = {"ALLFILES.txt", "SOURCE.txt", "index.txt"}
+# GitHub hard-rejects blobs over 100 MB. Stay well under, and skip loudly rather
+# than emit a file that makes the whole mirror unpushable.
+MAX_CONSOLIDATED_MB = 60
 
 
 # ── HTML parsing ────────────────────────────────────────────────────────────
@@ -193,6 +196,42 @@ def find_entry(html_pages):
 
 # ── main ────────────────────────────────────────────────────────────────────
 
+def clear_stale_pages(pages_dir, say):
+    """Empty _paper/pages/ before writing it.
+
+    Per-page filenames encode a sequence number and a title slug
+    (`001-some-title.md`). Both change when the corpus changes: adding pages
+    renumbers everything after the insertion point, so a re-run writes NEW
+    filenames and leaves the previous run's files sitting beside them.
+
+    That is not cosmetic. Measured on amasci.com: a refresh wrote 10,303 current
+    files into a directory that then held 18,704 — 8,401 stale orphans under old
+    numbering. A page-per-page analysis pointed at that directory would consume
+    both, treating superseded duplicates as if they were distinct pages, and any
+    aggregate drawn from it would be silently wrong.
+
+    The directory is wholly derived from the mirror, so clearing it is safe: every
+    file is about to be regenerated. Confined to *.md inside pages/ — never the
+    mirror itself.
+    """
+    if not os.path.isdir(pages_dir):
+        return 0
+    removed = 0
+    for name in os.listdir(pages_dir):
+        if not name.endswith(".md"):
+            continue
+        try:
+            os.remove(os.path.join(pages_dir, name))
+            removed += 1
+        except OSError:
+            pass
+    if removed:
+        say(f"site_to_paper: cleared {removed:,} previous per-page file(s) "
+            f"— they are regenerated below, and stale numbering would otherwise "
+            f"accumulate as phantom pages")
+    return removed
+
+
 def collect_html_pages(site_dir):
     """Every mirrored HTML page, as relpaths, sorted. Skips derived/meta files.
 
@@ -264,6 +303,7 @@ def build(site_dir, title=None, author=None, quiet=False):
     paper_dir = os.path.join(site_dir, "_paper")
     pages_dir = os.path.join(paper_dir, "pages")
     os.makedirs(pages_dir, exist_ok=True)
+    clear_stale_pages(pages_dir, say)
 
     source_url = ""
     src_txt = os.path.join(site_dir, "SOURCE.txt")
@@ -384,8 +424,27 @@ def build(site_dir, title=None, author=None, quiet=False):
                    + ("…" if len(imgs) > 8 else "") + "*" if imgs else ""),
                 "", md, ""]
 
+    # The single consolidated paper does not scale, and failing to notice that
+    # would break the repo rather than just bloat it. amasci.com: 824 pages made a
+    # 44 MB file, so its full 10,060-page corpus projects to ~540 MB — past
+    # GitHub's 100 MB HARD limit, so the push would be REJECTED and the whole
+    # mirror would fail to land over a derived artifact nobody can open anyway.
+    #
+    # The per-page markdown under _paper/pages/ is the real product (it is what
+    # the page-per-page analysis consumes); the stitched file is a convenience.
+    # So: write it when it is a sane size, and when it is not, say so loudly and
+    # skip it rather than producing something unpushable.
     paper_path = os.path.join(paper_dir, f"{domain}-CONSOLIDATED.md")
-    open(paper_path, "w").write("\n".join(out))
+    body = "\n".join(out)
+    size_mb = len(body.encode("utf-8")) / 1048576.0
+    if size_mb > MAX_CONSOLIDATED_MB:
+        say(f"site_to_paper: CONSOLIDATED.md SKIPPED — would be {size_mb:,.0f} MB "
+            f"(limit {MAX_CONSOLIDATED_MB} MB; GitHub rejects >100 MB).")
+        say(f"site_to_paper: the {len(sequence):,} per-page files in _paper/pages/ "
+            f"ARE written — that is the analysable product.")
+        paper_path = None
+    else:
+        open(paper_path, "w").write(body)
     json.dump({
         "domain": domain, "source_url": source_url, "entry": entry,
         "pages_total": len(sequence), "pages_reachable": len(order),
@@ -395,7 +454,9 @@ def build(site_dir, title=None, author=None, quiet=False):
         "pages": manifest,
     }, open(os.path.join(paper_dir, "_manifest.json"), "w"), indent=2)
 
-    say(f"site_to_paper: wrote {paper_path} ({total_chars:,} chars from {len(sequence)} pages)")
+    if paper_path:
+        say(f"site_to_paper: wrote {paper_path} "
+            f"({total_chars:,} chars from {len(sequence)} pages)")
     say(f"site_to_paper: wrote {len(sequence)} per-page markdown files to {pages_dir}")
     return paper_path
 

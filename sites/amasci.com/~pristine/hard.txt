@@ -1,0 +1,782 @@
+Pure Mac: Hardware Driver Updates 
+
+ Hardware Driver Updates 
+
+ Apple CD-ROM 
+ Apple Displays 
+ Apple/GV 56K Modem Updater 
+ Apple Modem Updater 
+ Apple Printers 
+ Apple USB Adapter Card Support 
+ ATI Universal Installer 
+
+ ATTO SCSI Cards 
+ CD/DVD 1.2.2 Patch 
+ CH Products 
+ Emagic 
+ Epson 
+ FWB CD-ROM Toolkit 
+ FWB Hard Disk Toolkit 
+
+ GeoPort-Express Modem 
+ Global Village Modems 
+ Hewlett-Packard 
+ Imacon ColorFlex 
+ Imation SuperDisk 
+ Iomega 
+ iRez 
+
+ Kensington MouseWorks 
+ Kernal Joyport 
+ Keyspan 
+ LaCie 
+ Macally 
+ Minolta 
+ miroMOTION 
+ Motorola 
+
+ Newer 
+ Nikon 
+ QuickCam 
+ Relysis 
+ Supra Modems 
+ 3Dfx Voodoo Drivers 
+
+ UMAX 
+ USB Overdrive 
+ USRobotics 
+ VillageTronic 
+ Visioneer PaperPort 
+ VueScan 
+ VST 
+ Wacom Graphic Tablets 
+
+ The Mac Driver Museum 
+
+ Apple CD-ROM 5.4 
+
+Note: Later versions come with Mac OS 8 and higher.
+
+ License : Free Update.
+ Author/Publisher : Apple
+ Modification Date : May 19, 1997 
+ Requirements : An Apple CD-ROM, System 7.1 or higher
+
+ Direct Download 
+File Size: 96 Kb - version 5.4
+
+ Modify Apple's CD/DVD drivers to mount third party drives 
+
+ CD/DVD 1.2.2 patch - Patch Mac OS 8.6's CD/DVD driver to use 3rd Party Devices
+
+ Apple Displays 1.7.1 
+
+Replaces all previous versions of Apple's monitor software. Including Apple Vision and Multisync Monitors.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : February 11, 1999
+ Requirements : version 1.7.1 Requires:
+North American English Mac OS 8.0, 8.1, 8.5, or 8.5.1 and any Apple
+monitor, including Apple Studio Displays, ColorSync Displays,
+AppleVision Displays and other Multiple Scan monitors.
+
+ Direct Download
+ File Size: 3926 Kb - Apple Displays 1.7.1 - For PPC Macs and all Apple Monitors
+
+ Direct Download
+ File Size: 3231 Kb - Apple Displays 1.6 - For PPC Macs and all Apple Monitors - released April 3, 1998
+
+ Direct Download
+ File Size: 1056 Kb - Apple Displays 1.5.5 - Disk 1 of 2 - for 68040 Macs - released November 11, 1997
+
+ Direct Download
+ File Size: 1102 Kb - Apple Displays 1.5.5 - Disk 2 of 2 - for 68040 Macs - released November 11, 1997
+
+ Parent Directory 
+
+ Apple/GV 56K Modem Updater 1.1.3 
+
+Includes Apple/GV 56K Updater 2.200 and Apple/GV 56K Updater v1.001.
+The Apple/GV 56K Updater 2.200 installs the V.90 protocol. If you have
+updated to the V.90 protocol and discover that your ISP only supports
+K56flex, run the Apple/GV 56K Updater v1.001 to install the K56flex
+protocol.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : January 15, 1999
+ Requirements : The 56k internal modem which came with the Power Macintosh G3 (Desktop
+or Minitower, or Power Macintosh 6500 series computers. These updaters DO NOT support the modem in the iMac or the new Power
+Macintosh G3 (Blue and White).
+
+ Direct Download
+ File Size: 867 KB
+
+ Parent Directory
+
+ Apple Modem Updater 2.0 
+
+The Apple Modem Updater will update modems in the PowerBook G3 Series, iMac,
+Power Macintosh G3 (Blue and White), and Power Macintosh G4 (PCI and AGP)
+computers. The updater installs version 2.3 of the Conexant firmware which
+contains the latest versions of both the V.90 and the K56flex protocols. The
+modems can use either the K56flex or V.90 protocols and will automatically
+negotiate with the service provider to use the appropriate one.
+
+After you have updated the modem you may notice that the connection speed that
+is reported when you first establish a connection may be lower than it was prior
+to the upgrade, however the modem throughput will be at least as good and often
+better than before the upgrade. Throughput is the measure of how quickly a
+certain amount of data is transferred from one modem to another. It is important
+to remember that the connection speed that is reported is only the initial
+connection speed. The modems will adjust their communications speed as line
+conditions require. A faster connection speed does not necessarily indicate a
+higher throughput, factors like resending data due to noise on the phone lines
+will lower overall throughput.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : October 17, 2000
+ Requirements : This updater supports the internal modem which came with your PowerBook G3 Series, iMac, Power
+Macintosh G3 (Blue and White), and Power Macintosh G4 (PCI and AGP) computers.
+
+ Direct Download
+ File Size: 1289 KB
+
+ Info
+
+ Apple Printers 
+
+Updates for your Apple printer.
+
+ License : Free Updates
+ Author/Publisher : Apple
+ Modification Date : Various 
+ Requirements : Appropriate Apple Printer
+
+ Direct Download - Apple Color StylerWriter 4000 Update 1.0 File Size: 1725 Kb - Released: July 10, 2000 - Mac OS 9 fix for the Color StyleWriter 4100 and 4500
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 1 of 3) File Size: 442 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 2 of 3) File Size: 1165 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 6000 Series 3.1.1 (Disk 3 of 3) File Size: 804 Kb - Released: August 5, 1997 - Use for the Color StyleWriter 6000 Series
+
+ Direct Download - Apple Color StylerWriter 2500 2.2.1 File Size: 2268 Kb - Released: January 15, 1997 - Use for the Color StyleWriter 2200, 2400 and 2500
+
+ Direct Download - Apple Color StylerWriter 1500 2.2.1 File Size: 2068 Kb - Released: January 15, 1997 - Use for the Color StyleWriter 1500, StyleWriter, StyleWriter II, and StyleWriter 1200
+
+ Direct Download - Apple Color StylerWriter Pro 1.5.2 File Size: 203 Kb - Released: March 25, 1995 - Use for the Color StyleWriter Pro
+
+ Direct Download - LaserWriter 8.6 File Size: 3588 Kb - For all systems Previous to Mac OS 8.5 - released March 24, 1998
+
+ Direct Download - LaserWriter 8.6.1 File Size: 3097 Kb - Mac 0S 8.5x only - released March 24, 1998
+
+ Parent Directory 
+
+ Apple USB Adapter Card Support 1.2 
+
+Apple's USB Adapter Card Support is a set of software extensions that provide support for
+USB PCI adapter cards installed in Macintosh computers. This software will not install on Power
+Macintosh computers with USB ports built-in. Support for built-in USB ports and USB PCI
+adapter cards is already included in these systems.
+
+ License : Free
+ Author/Publisher : Apple
+ Modification Date : July 19, 1999
+ Requirements : PCI Macs without USB ports built-in
+
+ Direct Download
+ File Size: 944 KB
+
+ Parent Directory
+
+ ATI 
+
+The latest drivers for ATI video cards and products.
+
+ License : Free Updates
+ Author/Publisher : ATI
+ Modification Date : Various
+ Requirements : ATI Card
+
+ Driver Search
+
+ Techinical Support 
+
+ ATTO SCSI Cards 
+
+Updates for ATTO's SCSI cards.
+
+ License : Free Updates
+ Author/Publisher : ATTO
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ CD/DVD 1.2.2 patch 
+
+In Short - Patches a copy of the Apple CD-rom driver in OS 8.6 to recognize all SCSI CD-rom and DVD drives. 
+
+In English - If you use this patch, you may be able to use that old SCSI CD-rom of unknown origin and make(that you use as a door stop) on your
+mac. I've also even heard stories of people using cheap DVD's on their mac because of this patch. Technically, you could go out and buy a cheap PC
+DVD drive and use Dvd Player to play movies. I offer no guarantees, but it should work.
+
+ License : Freeware
+ Author/Publisher : Dan Schmidt
+ Modification Date : May 29, 1999
+ Requirements : Mac OS 8.6's Apple CD/DVD Driver 1.2.2 
+
+ Direct Download File Size: 38 Kb
+
+ Home Page 
+
+ CH Products 
+
+Updates for your joystick or gamepad etc.
+
+ License : Free Updates
+ Author/Publisher : CH Products
+ Modification Date : July 31, 1997
+ Requirements : Flight Stick Pro, Jetstick, GamePad etc.
+
+ Direct Download File Size: 1914 Kb - Flightstick Pro 1.3.3
+
+ Direct Download File Size: 1902 Kb - Jetstick 1.3.3
+
+ Direct Download File Size: 1442 Kb - GamePad 1.0.5
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ Emagic 
+
+Updates for Emagic audio cards.
+
+ License : Free Updates
+ Author/Publisher : Emagic
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ Epson 
+
+Updates for various Epson printers and scanners.
+
+ License : Free Updates
+ Author/Publisher : Epson
+ Modification Date : Various 
+ Requirements : Appropriate Printer or Scanner
+
+ File Downloads 
+
+ Home Page 
+
+ FWB CD-ROM Toolkit 4.0.1b 
+
+If you have a non-Apple CD-Rom this is pretty much your only choice for a driver besides using an older version of Apple's driver
+or hacking the more recent ones ( See Above ).
+
+ License : Free Update - Purchase for $42
+ Author/Publisher : FWB.
+ Modification Date : Octber 4, 2000
+ Requirements : Appropriate software
+
+ Updates Page 
+
+ Home Page 
+
+ FWB Hard Disk Toolkit 4.0 
+
+Hard Disk ToolKit 3.0 includes compatibility with Mac OS 8.5, support for iMac and the latest G3
+models, RAID array creation, full HFS+ support, and significant additions to IDE/ATA support. HDT
+3.0 now comes with a straightforward tab-based user interface that makes it easier than ever to use.
+
+ License : Free Updaters - Purchase for (Personal Edition $50 - Full Edition $124.95)
+ Author/Publisher : FWB
+ Modification Date : April 24, 2000
+ Requirements : 680x0 or PPC
+
+ Download Page For Full Edition
+
+ Download Page
+ For Personal Edition only 
+
+ Home Page 
+
+ GeoPort-Express Modem 3.1.1 Updater 
+
+For Power Macintosh users with GeoPort Telecom Adapter, this update provides support for V.34 protocols, which allow data transfer at speeds up to 28.8 Kbps.
+For Express Modem users, this update provides software improvements, but does not provide any speed increase to the Express Modem.
+
+ License : Free Update
+ Author/Publisher : Apple
+ Modification Date : January 29, 1997 
+ Requirements : GeoPort Telecom Adapter or Express Modem
+
+ Direct Download 
+File Size: 1134 Kb - File 1 of 2
+
+ Direct Download 
+File Size: 445 Kb - File 2 of 2 
+
+ Parent Directory 
+
+ Global Village Modems 
+
+Various upgrades for your Global Village modem.
+
+ License : Free Updates
+ Author/Publisher : Global Village
+ Modification Date : Various
+ Requirements : Global Village Modem
+
+ Software Locator 
+
+ Global Village FTP Directory 
+
+ Global Village Home Page 
+
+ Hewlett-Packard 
+
+Updates for your Hewlett-Packard printer or scanner.
+
+ License : Free Updates
+ Author/Publisher : Hewlett-Packard
+ Modification Date : Various 
+ Requirements : Appropriate Printer
+
+ Parent Directory 
+
+ Driver Downloads 
+
+ Customer Care 
+
+ Customer Care Search 
+
+ Imacon ColorFlex 
+
+The latest software for your FlexTight Scanner.
+
+ License : Free Updates
+ Author/Publisher : Imacon
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Updates Page
+
+ Home Page 
+
+ Imation SuperDisk 2.0a 
+
+Imation SuperDisk diskettes look like their 3.5" predecessors but they hold an incredible
+120MB. And SuperDisk drives act like two drives in one. They work with conventional floppies as
+well as SuperDisk diskettes - so you get the best of all possible worlds.
+
+ License : Free Update
+ Author/Publisher : Imation
+ Modification Date : May 28, 1999
+ Requirements : SuperDisk
+
+ Direct Download
+ File Size: 307 Kb
+
+ Updates Page
+
+ Home Page 
+
+ IomegaWare 2.8 
+
+Upgrade your Zip or Jaz Drive's software.
+
+ License : Free Update
+ Author/Publisher : Iomega
+ Modification Date : December 11, 2000
+ Requirements : Iomega Zip or Jaz Drive
+
+ Direct Download
+ File Size: 4314 Kb - IomegaWare 2.8
+
+ Direct Download
+ File Size: 4246 Kb - IomegaWare 2.7.2
+
+ Direct Download
+ File Size: 4907 Kb - IomegaWare 2.5
+
+ Direct Download
+ File Size: 7682 Kb - IomegaWare Tools 2.2.1
+
+ Download Page 
+
+ Iomega Home Page 
+
+ iRez 
+
+USB video cameras suitable for video-conferencing, webcams etc.
+
+ License : Free Updates
+ Author/Publisher : Iomega
+ Modification Date : Various
+ Requirements : iRez Kritter cam or other USB camera, Mac OS 8.6 or later
+
+ Direct Download
+ File Size: 1835 Kb - ReelEyes 1.1.1 - released July 27, 2000 - video capture software - $69.95 - free for purchasers of iRez cameras
+
+ Direct Download
+ File Size: 482 Kb - KritterUSB drivers - released November 29, 2000
+
+ Download Page 
+
+ Home Page 
+
+ Kensington MouseWorks 5.4 
+
+Upgrade your Kensington mouse's software.
+
+ License : Free Update
+ Author/Publisher : Kensington
+ Modification Date : March 29, 2000
+ Requirements : Kensington Mouse
+
+ Direct Download
+ File Size: 3879 Kb - MouseWorks 5.4 - Only for USB devices
+
+ Direct Download
+ File Size: 1333 Kb - MouseWorks 5.0.5b1 - Updated for Mac OS 8.5 - Released October 13, 1998
+
+ Parent Directory
+
+ Download Page 
+
+ Kensington's Home Page 
+
+ Kernal Joyport 
+
+Joystick adapter for the Mac OS. Adapts Nintendo 64, Playstation, Atari, Genesis and PC joysticks and gamepads.
+
+ License : Free Update
+ Author/Publisher : Kernal
+ Modification Date : July 16, 1999
+ Requirements : Joyport
+
+ Direct Download File Size: 40 Kb - Joyport USB 1.0
+
+ Direct Download File Size: 2212 Kb - Joyport ADB 1.0
+
+ Home Page 
+
+ Keyspan 
+
+Upgrades for your Keyspan Serial or USB cards or adapter.
+
+ License : Free Update
+ Author/Publisher : Keyspan
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Products Page 
+
+ Home Page 
+
+ LaCie 
+
+Updates for Lacie CD/CD-R/Hard Drives etc.
+
+ License : Free Update
+ Author/Publisher : Lacie
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Minolta Home Page 
+
+ Macally 
+
+Updates for Macally products.
+
+ License : Free Update
+ Author/Publisher : Macally
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Parent Directory
+
+ Macally Home Page 
+
+ Minolta Scanners etc. 
+
+Updates for Minolta products.
+
+ License : Free Update
+ Author/Publisher : Minolta
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Minolta Home Page 
+
+ miroMOTION 
+
+Updates for miroMotion video cards.
+
+ License : Free Updates
+ Author/Publisher : Pinnacle Systems
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ Motorola Modems 
+
+Upgrade your Motorola modem.
+
+ License : Free Update
+ Author/Publisher : Motorola
+ Modification Date : Various
+ Requirements : BitSURFER Pro or Premier Modem
+
+ Software Archive
+
+ Parent Directory 
+
+ Motorola Home Page 
+
+ Newer 
+
+Updates for Newer products.
+
+ License : Free Updates
+ Author/Publisher : Newer
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Newer Home Page 
+
+ Nikon 
+
+Upgrades for your Nikon Scanner.
+
+ License : Free Update
+ Author/Publisher : Nikon
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Firmware Update 
+
+ Driver Update 
+
+ Home Page 
+
+ QuickCam 2.1.3 
+
+Update your QuickCam's software.
+
+ License : Free Updates
+ Author/Publisher : Logitech, formerly Connectix
+ Modification Date : February 9, 1999
+ Requirements : QuickCam
+
+ Direct Download
+ File Size: 1170 Kb - QuickCam 2.1.3 Updater - USB driver for the QuickCam Pro desktop video camera
+
+ Direct Download
+ File Size: 1316 Kb - For B&W and Color QuickCam 2.1.2 Updater - released August 20, 1998 - incorporates fixes for Powerbook 1400, 2400 and 3400 series
+machines, and for the first time, support for USB Macintoshes. You will not be able to use an ADB QuickCam with USB Macs even with an adapter
+
+ Download Page 
+
+ Relysis 
+
+Updates for Relysis scanners and hardware.
+
+ License : Free Updates
+ Author/Publisher : Relisys
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ Supra Modems 
+
+Flash Rom upgrades for your Supra modem.
+
+ License : Free Update
+ Author/Publisher : Diamond Multimedia
+ Modification Date : Various
+ Requirements : Appropriate Supra Modem
+
+ Home Page 
+
+ 3Dfx Voodoo Drivers 
+
+Free drivers for any Voodoo based 3D graphics cards. Pretty much what this means is you can buy any PC voodoo card and use
+it with your Mac.
+
+ License : Freeware
+ Author/Publisher : 3dfx
+ Modification Date : December 21, 2000
+ Requirements : Mac OS 8.1 or higher, Any Voodoo based 3D graphics accelerator
+
+ Direct Download
+ File Size: 1431 Kb - Voodoo 4/5 1.1.3 driver (unofficial) works with Voodoo 3 also - released December 21, 2000
+
+ Direct Download
+ File Size: 1387 Kb - Voodoo 4/5 1.1.2 driver - released November 20, 2000
+
+ Direct Download
+ File Size: 487 Kb - Voodoo 3 1.0b12 driver - released April 14, 2000
+
+ Home Page 
+
+ UMAX 
+
+Updates for UMAX scanners and clones.
+
+ License : Free Updates
+ Author/Publisher : Umax
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ USB Overdrive 1.3.7 
+
+The USB Overdrive is a universal USB driver that handles all USB mice,
+trackballs, joysticks and gamepads from any manufacturer and lets you configure
+them either globally or on an application-specific basis. It reads all kinds of
+wheels, buttons, switches and controls and supports scrolling, keyboard
+emulation, launching and complex macros as well as all the usual stuff like
+clicking, control-clicking and so forth. The USB Overdrive can easily handle
+several USB devices at once- I have two mice, one trackball, two joysticks and
+one gamepad connected to the same iMac, and each of them comes from a different
+manufacturer.
+
+ License : Shareware, $20
+ Author/Publisher : Alessandro Levi Montalcini
+ Modification Date : September 12, 2000
+ Requirements : USB Mac and Mac OS 8.5 or later
+
+ Direct Download 
+ File Size: 383 Kb
+
+ Home Page 
+
+ USRobotics Modems 
+
+Upgrades for USRobotics modems.
+
+ License : Varied
+ Author/Publisher : USRobotics
+ Modification Date : Various
+ Requirements : Appropriate Modem
+
+ Upgrade Page
+
+ Support Page
+
+ USRobotics Home Page 
+
+ VillageTronic 
+
+Updates for VillageTronic graphics cards.
+
+ License : Free Updates
+ Author/Publisher : VillageTronic
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ Visioneer PaperPort 
+
+Updates for your PaperPort scanner.
+
+ License : Free Updates
+ Author/Publisher : Newer
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Direct Download
+ File Size: 139 Kb - version 5.0.3 - Mac OS 9 update - released December 2, 1999
+
+ Software Updates
+
+ Home Page 
+
+ VST 
+
+Updates for VST Firewire, SuperDisk, USB Floppy Drive's etc.
+
+ License : Free Updates
+ Author/Publisher : VST
+ Modification Date : Various
+ Requirements : Appropriate Hardware
+
+ Software Updates
+
+ Home Page 
+
+ VueScan 7.1.10 
+
+VueScan is a program for producing high-quality scans using HP, Minolta, Nikon,
+Polaroid, Acer, Agfa, Epson, Microtek, Umax and Canon scanners. It reads the
+full bit-depth of the scanner and uses sophisticated color processing to produce
+images with excellent color accuracy.
+
+VueScan does automatic cropping and automatic white balance, and then lets you
+use an external image viewer to tweak the cropping (if you desire) and tweak the
+color balance (if necessary). A lot of effort has been put into VueScan to make
+it accurately crop and white-balance scans, so the amount of manual adjustment
+needed is minimal - something you'll appreciate when batch scanning large
+numbers of images. You can also manually crop images by using the left mouse
+button to move the edges of the crop box in the Preview tab.
+
+ License : Shareware, $40
+ Author/Publisher : Hamrick Software
+ Modification Date : August 25, 2001
+ Requirements : PPC, Mac OS 8 and higher and Mac OS X
+
+ Direct Download File Size: 1746 Kb
+
+ Home Page 
+
+ Wacom Graphic Tablets 
+
+Update for your Wacom Graphic Tablet.
+
+ License : Free Updates
+ Author/Publisher : Wacom
+ Modification Date : Various
+ Requirements : Wacom Graphic Tablet
+
+ Parent Directory 
+
+ Download Page 
+
+ Home Page 
+
+ Back to the main page of Pure Mac

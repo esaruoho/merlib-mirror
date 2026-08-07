@@ -1,0 +1,167 @@
+---
+title: "Mullspace | Kat Litter | September, 2002"
+source_domain: amasci.com
+source_path: ~strange/litter/septlitter02.html
+order: 8546
+reachable_from_entry: false
+images: 1
+internal_links: 8
+extracted: 2026-08-07T17:16:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Mullspace | Kat Litter | September, 2002
+
+*Source page: `~strange/litter/septlitter02.html`*
+
+<span id="top"></span>
+
+<div align="center">
+
+<img src="../images/MullChalk03a.jpg" data-border="0" alt="Welcome to Mullspace" />\
+<a href="../katbox.html" class="nav">Portal</a> \| <a href="litter.html" class="nav">Kat Litter</a> \| <a href="../fiction/fiction.html" class="nav">Tales</a> \| <a href="../nfiction/nfiction.html" class="nav">Lectures</a> \| <a href="../gallery.html" class="nav">Eye Candy</a> \| <a href="../list.html" class="nav">Accreations</a> \| <a href="../resume.html" class="nav">Kat Who?</a> \| <a href="mailto:mull.space@lycos.com" class="nav">Poke</a>
+
+</div>
+
+\
+\
+
+# September, 2002
+
+\
+\
+
+posted: September 6, 2002
+
+\
+
+## Going Buggy
+
+\
+
+If the great outdoors is so great, why is it full of insects?
+
+This has been the year of gnats. Great, flying, hovering pestilences of gnats.
+
+And where there are gnats there are spiders. The dock and boat are festooned with webs. Every morning, I wipe away as many as I can, my shoe or hand coming away sticky with the collapsed weave of miles of spider silk and dessicated gnats.
+
+Spiders big as half-dollars on the hoof. Bulging brown behemoths waiting in their wind-played silk harps. Scuttling, sneaky, skulking spiders.
+
+Eat the gnats, I pray you, Arachne, but please don't stow away below decks. Down among the people, far from the madding crowd (of gnats and 'squitos), where insectiva fear to tread (I sincerely hope), alas, a spider I espy, creeping in its pace across the ceiling.
+
+Arghhh!
+
+Someone once told me it's bad luck to kill a spider in your home. This obviously has little to do with the spider's home, since no one seems to care if you kill a spider outdoors, whether it's in its web or not. And so, momentarily mindful, I scoop up (down?) the spider and toss it overboard. (Now outdoors, does it matter if the spider drowns? I doubt it, since I also doubt the spider will drown. Quite likely it cast a web and crawled right back on board while my back was turned.) Another spider lurks nearby and she soon joins the previous one.
+
+I am not an arachnaphobe. (Well, I'm *not*!) But I don't care for them in my home. They give me the creeps, even while I can appreciate the elegant chemical and engineering feats of their webs. Terribly clever, spiders. And that's the real reason I distrust them.
+
+I quite expect to be told, someday, that spiders are, in fact, intelligent aliens who have been hanging out and keeping an eye on us for millennia. Let's face it: there's nothing reasonable about having eight legs, eight eyes, and ichorous blood. They simply aren't of this earth (and neither are any of their creepy relatives: the scorpion and the sea-going spiders which most people call "crabs"--and now you know why I rarely eat crab and certainly not "Kwab".)
+
+You see, I have evidence of their intent and I must protect myself from them and their scouts, for I have witnessed their intelligence, their cunning, planning and coordination (surely evidence of advanced sneaky-alienness). Let me tell you of this, so that, if they should ever prove successful in their bid to silence me, the evidence may still survive and warn others.
+
+Late one night, aboard the previous boat, my mate and I lay down to sleep. It was an evening late in summer, much like these recent ones. Barely had we snuggled down into our sheets and blanket, I resting my head upon my husband's chest, when, without notice, he attempted to break my neck!
+
+"Yarrrgh!" he yelled and wrenched me violently across the bed.
+
+"Yeeee!" I gasped, finding myself flung sideways with much vigor and pounced upon. "What?! What?!"
+
+"Spider!"
+
+Eh...? Spider?
+
+I wriggled out from under his bulk. We searched quickly and discovered the spider making good its escape across the bedspread.
+
+We quickly dispatched it to spider-heaven, then searched around, just in case. Finding no other spiders, we shut off the light and climbed back into bed.
+
+Lying in the darkness, we began to relax and slide back toward sleep.
+
+**Banzai!!**
+
+A platoon of arachnid paratroops exploded from the light fixture! They abseiled toward our helpless faces on lines of silent silk, hooked mandibles gnashing and octagel eyes gleaming with malice.
+
+But we had not fallen back to sleep as the evil pararachinds hoped. Risking life and limb (or at least hair and face) we leapt from bed, screaming the battle cry of the damned:
+
+"AAhhhhh! Shit!"
+
+The platoon spread out quickly across the Land of Counterpane, preparing to deploy who-knew-what beastly (insectly?) engine of destruction. We raised a mighty earthquake in response by grabbing at the coverlet and flipping it into a folded mass, disrupting the dastardly operation.
+
+Foiled, the troops scattered to escape, some spilling out of the edges of the blanket and rappelling to the floor. I was in charge of taking out the fleeing opposition with shoes, hastily grabbed, while Jim made a frontal attack on the last-known enemy position: the bed.
+
+Boldly he flipped open the terrain of Counterpane and fearlessly hunted down each and every foe, demolishing them utterly with his mighty sneaker, handily employed (by hand, of course).
+
+And I say boldly because my husband is truly an arachnaphobe. Shudders at the sight, which is why he nearly broke me in two at the beginning of the adventure.
+
+Once the platoon of spiders had been dealt with, we crawled about all over the place, under things and over things and inspected every inch of the ceiling. We discovered the spider base cleverly hidden behind the light fixture and several supply depots and infiltrators in various locations throughout the cabin. Heartlessly, we eradicated them.
+
+Even still, we didn't get back to sleep easily or quickly. We had smashed them all into oblivion, in our zeal, and could not, now, be certain that we had not seen them carrying tiny radios, relaying messages to the Central Arachnid Command "All is lost, enemy alerted! Abort, abort!"
+
+I suspect that something got through, though. The scouts are all around us, once again. I shall have to keep a can of *Raid* near my bed, but I doubt it will be enough.
+
+If you never hear from me again, you will know why. Be sure to tell my tale and take heed: the spiders are out to get us....
+
+\
+\
+
+posted: September 13, 2002
+
+\
+
+## Sheep Shot
+
+\
+
+When going onto escalators, they pause in clots at the top before they step aboard and stop again at the bottom to regroup. They block the rest of the escalatorians and never notice. If you ask them politely to move aside, they stare at you in apparent incomprehension. When you shove on past them so as not to be trampled to death by the others behind you, they bleat and blare in wounded dignity.
+
+What is the strange attraction of escalators and sheep? Haven't they ever heard of stairs?
+
+When driving, they like to be near others. They will never pass a police car, even if it is driving 15 miles under the speed limit. If one changes lanes to go around an obstacle, the others don't bother to look ahead and see that the lane ends, they go ahead and follow the first one right down to the end of the lane and then panic and dart wildly back into traffic with a hooting of horns and a howling of invective.
+
+Mid-size sedans were built for sheep: they herd so well together and have many, many air-bags (to complement the air-heads).
+
+They dress in sheep clothing and drink sheep liquor. They put on wolfskins and swear they are predators, but only so long as all the other sheep are doing it.
+
+I think sheep are nice.
+
+For shearing.
+
+And eating....
+
+\
+\
+
+posted: September 26, 2002
+
+\
+
+## Shooting Zen
+
+\
+
+It's been ten years, but after the initial flinching from the metallic ringing of the room under the concussion wave exiting the muzzle of a .40-caliber handgun next to me, it's all curiously calm and familiar. They get a lot of negative press and a lot of people seem to wave them about, figuratively or actually, as if they are mighty, magical talismans whose mere presence is the catalyst of dire and powerful happenings. Ehhh... *\*shrug\**. It's just a gun, man.
+
+On the other hand, what I do find rather magical about them (aside from the sheer mechanical elegance of some specific specimens) is the intense, downward-spiraling silence of focussed concentration which completely absorbs me when target-shooting. I've jogged and run until I "hit the wall", I've danced until I met the divorce of body and mind in pure action, I've worked out at the gym to the point of floating concentration which knows only my muscle straining against a weight and the sound of my breath, and I've sat in still and inward-looking meditation expanding mind and senses in an upward welling rush that fills the universe within. For me, shooting has elements of all of these and it is as easy to reach as simply going to the gun range and practicing. And there's not much as satisfactorily stress-relieving as reducing regulation paper targets to precision-punched doilies.
+
+OK, I'm politically incorrect, but I like this stuff. It doesn't matter to me at that moment that the tool for the job can be misused. I have no intention of doing that, any more than I would willfully stab someone with a screwdriver or attack them with a Skil Saw. My only goal is to use the tool in the most efficient and precise fashion it was intended for to send a 40-grain projectile 7 yards at a very high speed to punch a very small hole in a piece of printed paper in exactly the location I chose. It requires finesse and calm. Good shooting is not done in the heat of excitement. It is a controlled and focussed thing, a balance of strength and delicacy. You don't just stick the gun out in front of you and pull the trigger.
+
+At two-pounds, my .22-caliber target pistol sounds light, until you've tried standing very still with it held out in front of you at arms' length for fifteen minutes. And not just holding it up, but holding it steady, so steady that you can find and hold the precise point of aim exactly in the sights exactly the same way, shot after shot. And when the sight picture is perfect, then squeeze smoothly, like stroking toothpaste from a tube, one-fingered, back and back, until resistance breaks, like a thin rod of glass and the mechanical elegance of the machine smashes a dull pin against the primer, compressing and crushing, creating heat and spark, which fires the powder, which burns with a fury too hot to contain in a tiny, brass case and blows the streamlined bit of lead forward, shoving it out, out, fast, faster, out of the narrow confines of chamber and barrel, into the air where it rushes, cracking, straight and unwavering, toward the target.
+
+For every action there is an equal and opposite reaction. The bullet leaves the muzzle at faster than 1,000 feet per second, shoved out at the front of an expanding gas-cloud. And the gun attempts to move backward just as quickly, and maybe even to twist sideways in lockstep with the twist of the rifling in the barrel which makes the bullet go so straight. Now muscle, stance, grip, and calm work together to control the heaving piece of steel. I must keep my finger off the trigger while I resist the 100-foot-pounds of thrust and hold the gun down, steady, pointed always toward the target, or at least the backstop, never letting it go flailing loosely, pointing toward wall, ceilings, people. Nor should I let it flip upward and smack me a good one on the head or face. That would put a damper on the afternoon. I bring it back to the point of aim with minimal effort expended. I plan to do this for several hours, after all, and the less energy wasted, the better.
+
+Over and over, until 10 little brass cartridges have become empty of their loads of powder and projectile, been spit out onto the floor, smoking and gray. Over and over, the same sight picture, the same controlled squeeze, the same calm return to zero-point. Until the magazine is empty and I can take a short break to reload, mechanically, automatically, while inspecting the target. Then out with a new target, and repeat.
+
+Over and over, until there are 500 empty cartridge cases and the smell of cordite and hot, oiled steel hangs still as pre-dawn over my head. There's powder marks on my hands and lead smudges on my fingers and on my face where I pushed my glasses back into place. Unburned powder clings to my clothes and hands in a pale grit.
+
+Now, I'm tired. I clean up my area, put things away, re-case the gun and return it, with my earmuffs, to the range-master.
+
+I can go home, tired, satisfied at progress defined clearly in increasingly small circumferences of bullet-punched holes in paper, in clusters which increasingly resemble misshapen circles, and decreasingly resemble polka-dot dresses. Tired, but not worn-down.
+
+And very quiet.
+
+\
+\
+
+Back to [top](#top) of this page, please.
+
+[Back to Index](lindex.html)\
+
+© 2002 M. Kathleen Huffine/Kat Richardson. All rights reserved.

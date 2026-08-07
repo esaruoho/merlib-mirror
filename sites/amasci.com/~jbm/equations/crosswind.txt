@@ -1,0 +1,130 @@
+JBM - Equations - Crosswind 
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Equations - Crosswind
+
+ This derivation is taken from Bob McCoy's paper ,
+ The Effect of Wind on Flat-Fire Trajectories . I've changed
+ the coordinate system and elaborated a bit more in certain areas.
+ A list of variables are at the bottom of this
+ page. Where integrals are shown, I've put the integration limits in brackets 
+ beside the integral since trying to use the SUP and SUB tags doesn't work very
+ well.
+
+ Crosswind Derivation
+
+ From the CD & KD discussion, the vector equations of motion are
+
+ d u /dt = -k v ( u - w ) + g 
+
+ where
+
+ k = p s C D / (2 M)
+
+ If we assume that g is in the z direction only and the only wind
+ is a cross wind (| w | = w x ) then the first equation can be 
+ rewritten as three equations
+
+ du x /dt = -k v ( u x - w x ) 
+ du y /dt = -k v ( u y ) 
+ du z /dt = -k v ( u z ) + g z 
+
+ The value v is defined as
+
+ v = [(u x - w x ) 2 + 
+ (u y - w y ) 2 + 
+ (u z - w z ) 2 ] 1/2 
+
+ This leads to non-linear equations that cannot be solved directly, but we
+ can make a suitable approximation for v
+
+ S = &int; v dt on the interval [0,t]
+
+ Then for the first and second equations above
+
+ du x /dS = -k ( u x - w x ) 
+ du y /dS = -k ( u y ) 
+
+ which can be solved:
+
+ u y = u y 0 e^(- &int; k dS 1 ) [0,S] 
+ u x = e^(- &int; k dS 1 ) [0,S]
+ &int; w x k dS 1 [0,S]
+ e^( &int; k dS 2 [0,S 1 ] 
+
+ Since w x is constant, one can readily perform the integrals (assuming constant k)
+
+ u x = w x [ 1 - u y /u x0 ]
+
+ Integrate one more time with respect to t on the interval [0,t]
+
+ x = &int; u x dt [0,t] = w x [ t - R/u x0 ]
+
+ where
+
+ R = &int; u y dt [0,t]
+
+ and x is the deflection, u x0 is the muzzle velocity (initial 
+ velocity in the y direction), R is the range, t is the time of flight to 
+ that range, and w x is the wind speed in the crosswind direction.
+
+ Assumptions made for this derivation include constant crosswind speed, 
+ constant C D , and the approximation that t is the time of flight 
+ along the arc of the trajectory (S) to range R. [In reality t is the 
+ time of flight to range R for the wind in question -- which you
+ don't know]. For small angles (flat fire approximation) or less 
+ than 5&deg;, these approximations are very good and can be less than 1%.
+
+ Variables 
+
+ a 
+ total vector acceleration, d u /dt 
+ a D 
+ vector acceleration due to drag 
+
+ g 
+ vector gravitational acceleration 
+ M 
+ bullet mass 
+
+ p 
+ atmospheric density 
+ p 0 
+ sea level atmospheric density 
+
+ s 
+ cross sectional area (pi d 2 /4) 
+ v 
+ vector velocity, | v | = ( v v ) 1/2 
+ and v = u - w 
+
+ w 
+ vector wind velocity 
+ u 
+ velocity of bullet relative to ground 
+
+ C D 
+ drag coefficient 
+ S 
+ distance along curved trajectory to range R 
+
+ References 
+
+ The Effect of Wind on Flat-Fire Trajectories ,
+ Robert L. McCoy, BRL Report Number 1900, Ballistic Research
+ Laboratories, Aberdeen Proving Ground, Maryland, August 1976, [ADB012872]
+
+ Last update 3 October 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

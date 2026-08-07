@@ -1,0 +1,34 @@
+Question 7.23 
+
+ Question 7.23 
+ I'm allocating structures which contain pointers to other
+dynamically-allocated objects.
+When I free
+a structure,
+do I have to free each subsidiary pointer first?
+
+ Yes.
+In general,
+you must arrange that each pointer returned from malloc 
+be individually passed to free ,
+exactly once
+(if it is freed at all).
+
+A good rule of thumb
+is that for each call to malloc in a program,
+you should be able to
+point at
+the call to free 
+which frees the memory allocated by that malloc call.
+
+ See also question 7.24 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

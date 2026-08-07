@@ -1,0 +1,122 @@
+Play-During - Cascading Style Sheets Properties 
+
+ play-during 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ volume 
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ auto 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ < bgsound 
+ SRC ="[soundfile]"> 
+
+ What is it? 
+ This property specifies a sound to be played while an element's content
+ is rendered.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ mix 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ This value indicates that whatever sound file is to be played for this
+ element will be played with the sound inherited from the parent element's
+ 'play-during' property. If this value is not used, the element's
+ background sound replaces the 'play-during' sound of any parent. 
+
+ repeat 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ This value indicates that the specified sound will be repeated to fill
+ the time needed to render the element, if it is too short. Otherwise, the
+ sound plays once and then stops. If the 'play-during' sound is longer than
+ the time needed to render the element content it will be clipped. 
+
+ auto 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ The 'play-during' sound of the parent element plays only once more. 
+
+ none 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Nothing is played in the background during the element's rendering, not
+ even any parent 'play-during' value. Parent 'play-during' values will
+ resume playing after the element is rendered. 
+
+ [URL] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Indicates the URL to be used as a background sound while the element's
+ content is rendered. 
+
+ Syntax 
+ Selector { play-during: 
+ auto|none|inherit } OR 
+ Selector { play-during: 
+ [URL] [mix]? [repeat]? }
+
+ Example 
+ Ext/Doc: q {
+ play-during: url(accordian.wav) mix } 
+ In-Line:&#160; < q 
+ STYLE =" play-during: 
+ url(accordian.wav) mix">Four score and seven years ago!</ q > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

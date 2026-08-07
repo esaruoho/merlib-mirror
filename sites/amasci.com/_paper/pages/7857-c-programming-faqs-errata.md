@@ -1,0 +1,411 @@
+---
+title: "C Programming FAQs Errata"
+source_domain: amasci.com
+source_path: ~scs/C-faq/book/Errata.html
+order: 7857
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:15:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C Programming FAQs Errata
+
+*Source page: `~scs/C-faq/book/Errata.html`*
+
+Errata list for "C Programming FAQs: Frequently Asked Questions",
+    by Steve Summit, Addison-Wesley, 1996, ISBN 0-201-84519-9
+    (first printing).
+
+    A possibly more up-to-date copy of this errata list may be
+    obtained at any time by anonymous ftp from ftp.eskimo.com
+    in the file ~scs/C-faq/book/Errata, or on the web at
+    http://www.eskimo.com/~scs/C-faq/book/Errata.html .
+    (If you read this years from now and those addresses don't
+    work, try ftp://ftp.aw.com/cseng/authors/summit/cfaq/ or
+    http://www.awl.com/cseng/titles/0-201-84519-9 .)
+
+    scs 2001-Jul-16
+
+    page    question
+    ----    --------
+
+    front cover The ladder has no rungs.
+
+    xxix        "woundn't" should be "wouldn't"
+
+    2   1.1 Interpreted as a C expression,
+
+                sizeof(char) <= sizeof(short) <= sizeof(int) <=
+                                sizeof(long)
+
+            is vacuously true (see question 3.13).  The intent,
+            of course, is a mathematical relation, which might
+            be more apparent if real less-than-or-equal signs
+            were used instead of <=.
+            [Thanks and $1 to Mark Brader]
+
+    6   1.7 There may be zero definitions of an external
+            function or variable that is not referenced
+            in any expression.
+            [Thanks and $1 to James Stern]
+
+    7   1.7 "use include to bring" should be
+            "use #include to bring"
+
+    11  1.14    In the second fix, at the bottom of the page,
+            it could conceivably be necessary to precede
+            the line
+
+                typedef struct node *NODEPTR;
+
+            with the line
+
+                struct node;
+
+            for the reason mentioned on page 13, although
+            in that case one of the two other fixes would
+            clearly be preferable.
+            [Thanks to James Stern]
+
+    13  1.15    In the alternate fix, at the bottom of the page,
+            it could conceivably be necessary to precede
+            the typedef declarations with the lines
+
+                struct a;
+                struct b;
+
+            although again, putting those typedefs after the
+            complete structure definitions would clearly be
+            preferable in that case.
+            [Thanks to James Stern]
+
+    18  1.22    The odd "return 0;" line is not really necessary.
+
+    20  1.24    Another possible arrangement is
+
+                /* file1.h */
+                #define ARRAYSZ 3
+                extern int array[ARRAYSZ];
+
+                /* file1.c */
+                #include "file1.h"
+                int array[ARRAYSZ];
+
+                /* file2.c"
+                #include "file1.h"
+
+            [Thanks to Jon Jagger]
+
+    23  1.29    [2nd bullet] "everything else termed" should be
+            "everything else, termed"
+
+    24  1.29    [Rule 3] "if the header" should be "if any header".
+            [Thanks and $1 to James Stern]
+
+    24  1.29    [Rule 4] "(i.e., function names)" should be
+            "(e.g., function names)".
+            [Thanks and $1 to James Stern]
+
+    24  1.29    The text at the bottom of the page suggests that
+            "future directions" name patterns such as str[a-z]*
+            are reserved only if their corresponding headers
+            (e.g. <stdlib.h>) are included.  The reserved
+            function names are unconditionally reserved;
+            it is only the macro names that are reserved only
+            if the header is included.
+            [Thanks and $1 to Mark Brader]
+
+    25  1.29    "if you don't include the header files" should be
+            "if you don't include any header files".
+
+    32  2.4 Besides -> and sizeof, the . operator, as well as
+            declarations of actual structures, also require
+            the compiler to know more about the structure and
+            so preclude incomplete or hidden definitions.
+            [Thanks to James Stern]
+
+    40  2.12    When trying to minimize wasted space in structures,
+            array members should be ordered based on the size
+            of their primitive types, not their overall size.
+            [Thanks and $1 to James Stern]
+
+    43  2.20    "ANSI/SIO" should be "ANSI/ISO"
+
+    50  3.3 Of course, another way to increment i is i += 1.
+            [Thanks to James Stern]
+
+    51  3.4 "higher precedence than *):" should be
+            "higher precedence than *:"
+
+    52  3.6 Delete the close parenthesis at the end of the answer.
+
+    57  3.12    In C++, the preincrement form ++i is preferred.
+            [Thanks to James Stern]
+
+    73  4.11    The reference to K&R2 sec. 5.2 should be pp. 95-7.
+            [Thanks and $1 to Nikos Triantafillis.]
+
+    75  4.13    "can interconverted" should be "can be interconverted".
+            [Thanks and $1 to Howard Ham]
+
+    84  5.8 Either the comma or the parentheses in the answer
+            should be changed.
+
+    95  6.2 The typography in the following line is inconsistent
+            for the "x" of "x[3]".
+
+    115 7.1 The close parenthesis and period ")." at the bottom
+            of the page are not part of the #define line.
+
+    121 7.9 There is an extra semicolon at the end of the first
+            line of mymalloc's definition.
+            [Thanks and $1 to Todd Burruss]
+
+    126 7.10    Missing "it"; should be "even if it is not
+            dereferenced".
+            [Thanks and $1 to Clinton Sheppard]
+
+    136 8.1 "Although string literal" should be
+            "Although a string literal"
+
+    136 8.2 C can be tricked into seeming to assign an array
+            as a whole if you hide the array inside a
+            structure or union.
+            [Thanks and $1 to James Stern]
+
+    143 9.2 The example variable isvegetable should perhaps
+            be named is_vegetable to avoid naming conflicts
+            (see question 1.29).
+            [Thanks and $1 to Jon Jagger]
+
+    151 10.4    Extra space in "/* (no trailing ; ) */".
+
+    152 10.6    [paragraph below bullets] "bring the header wherever"
+            should be "bring the header in wherever"
+
+    158 10.15   If you have to, you can #define a companion macro
+            name for each typedef, and use #ifdef with that.
+            [Thanks to James Stern]
+
+    161 10.21   The suggested replacement macro should
+            parenthesize c:
+
+                #define CTRL(c) ((c) & 037)
+
+            [Thanks and $1 to James Stern]
+
+    164-5   10.27   The file parameter of the dbginfo() function and
+            the fmt parameter of the debug() function could
+            be of type const char *.
+            [Thanks to James Stern]
+
+    174 11.10   As written, the "complicated series of assignments"
+            includes one initialization.
+            [Thanks to James Stern]
+
+    175 11.10   "e.g., (const char) ** in this case" should be
+            "e.g., (const char **) in this case"
+
+            "when the pointers which" should either be
+            "when the pointers" or "with pointers which"
+
+    180 11.19   "questions 20.20" should be "question 20.20"
+
+    182 11.25   "The function offers" should be
+            "The memmove function offers".
+            [Thanks and $1 to Gordon Burditt]
+
+    186 11.29   You may also need to rework calls to realloc
+            that use NULL or 0 first or second arguments
+            (see question 7.30).
+
+    186 11.29   You may also need to rework conditional compilation
+            involving #elif.
+            See also the Rationale's list of "Quiet Changes"
+            (see question 11.2).
+            [Thanks to James Stern]
+
+    189 11.33   A fourth class of behavior is locale-specific.
+            [Thanks and $1 to James Stern]
+
+    198 12.11   A semicolon is missing after "int i = 0".
+
+            The } just before the line "*p = '\0'" is
+            indented one tab too few.
+
+            Two instances of "*--p" have the minus signs merged
+            so as to appear as one.
+
+    201 12.16   [case 2] The variable line is not declared;
+            it might be char * or char [].
+            [Thanks and $1 to James Stern]
+
+    205 12.19   There's an extraneous double quote in what
+            should be "intervening whitespace:".
+
+    207-8   12.21   The technique of writing to a file may give the
+            wrong answer if the disk fills up.
+            [Thanks and $1 to Mark Brader]
+
+    212 12.28   The answer is in the wrong font.
+
+    213 12.30   Updating (overwriting) a text file in-place is
+            not fully portable; the C Standard leaves it
+            implementation-defined whether a write to a
+            text file truncates it at that point.
+            [Thanks and $1 to Tanmoy Bhattacharya]
+
+    224 13.4    "upper- or lowercase" should probably be
+            "upper or lower case".
+
+    225 13.6    Since the fragment calls printf, it must
+            #include <stdio.h>.
+            [Thanks and $1 to James Stern]
+
+    226 13.6    [last code fragment] A declaration and initialization
+
+                char string[] = "this\tis\t\ta\ttest";
+
+            similar to the one on p. 225 should appear.
+            [Thanks and $1 to Doug Liu]
+
+    234 13.14   "time_ts" should perhaps be "time_t's"
+
+    240 13.17   The code
+
+                srand((unsigned int)time((time_t *)NULL));
+
+            though popular and generally effective is, alas,
+            not strictly conforming.  It's theoretically
+            possible that time_t could be defined as a
+            floating-point type under some implementation,
+            and that the time_t values returned by time()
+            could therefore exceed the range of an unsigned
+            int in such a way that a well-defined cast to
+            (unsigned int) is not possible.
+
+    242-3   13.20   The attributions listed for methods 2 and 3 are
+            scrambled.  Method 2 is the one described in
+            the 1958 Box and Muller paper (as well as by
+            Abramowitz and Stegun, apparently).  Method 3
+            is originally due to Marsaglia.
+
+    244 13.21   If you're not familiar with the notation [0, 1),
+            it means that drand48() returns a number x
+            such that 0 <= x and x < 1.
+
+    250 14.5    The suggested expression should read
+
+                fabs(a - b) <= epsilon * fabs(a)
+
+            It performs poorly if a == 0.0 (which is another
+            argument in favor of "mak[ing] the threshold
+            a function of b, or of both a and b").
+
+    253 14.9    The name isnan() is a potential namespace conflict
+            (see question 1.29), although it's a de facto
+            standard in some environments.
+            [Thanks to Jon Jagger]
+
+    260-1   15.4    The first argument to vstrcat() could be const char *,
+            as could the fmt argument to miniprintf().
+            [Thanks to James Stern]
+
+    264 15.5    The fmt argument to error() could be const char *.
+
+    269-71  15.12   The fmt arguments to faterror(), verror(), and
+            error(), and could all be const char *.
+
+    274 16.4    [point 2] The problem could be caused by a setbuf
+            or setvbuf buffer local to any function.
+            [Thanks and $1 to James Stern]
+
+    276 16.7    Variable "s" isn't declared.  It's pretty obvious
+            what it should be, but to make it explicit, change
+            the struct declaration to
+
+                struct mystruct { ... } s;
+
+            [Thanks to Peter Hryczanek]
+
+    287 18.1    The URL in the list of metrics tools is really
+            "http://www.qucis.queensu.ca:1999/Software-Engineering/Cmetrics.html".
+
+    294 18.13   The conventional spelling is "NetBSD".
+            [Thanks and $1 to Peter Seebach]
+
+    294 18.14   Extra space in site which should be "sunsite.unc.edu".
+
+    296 18.16   Extra space in address which should be
+            "archie@archie.cs.mcgill.ca".
+
+    308 19.11   Note that a test using fopen() *is* approximate;
+            failure does not necessarily indicate nonexistence.
+
+    310 19.14   Updating (overwriting) a text file in-place is
+            not fully portable; the C Standard leaves it
+            implementation-defined whether a write to a
+            text file truncates it at that point.
+            [Thanks and $1 to Tanmoy Bhattacharya]
+
+    317 19.27   The return value of system() is not guaranteed
+            to be the command's exit status.
+            [Thanks and $1 to Peter Seebach]
+
+    318 19.30   If you forget to call pclose, it's probably at
+            least as likely that you'll run out of file
+            descriptors as processes.
+            [Thanks and $1 to Jens Schweikhardt]
+
+    319 19.31   argv[0] may also be a null pointer.
+            [Thanks and $1 to Tanmoy Bhattacharya]
+
+    324 19.42   "control characters, such as" should be
+            "control characters such as"
+
+    339-40      The page break makes the code very hard to follow.
+
+    346 20.17   Missing tab in line which should be
+
+                #define CODE_NONE   0
+
+    350 20.21   The overbars are misaligned.
+
+    355 20.29   "and computes that number" should either be
+            "computed" or "and is computed".
+
+    363     [aggregate] Unions are not aggregates.
+            [Thanks and $1 to Kinichi Kitano]
+
+    368     [parameter] Extraneous semicolon at end of
+            line which should be
+
+                f(int i)
+
+    370-1       The glossary entry for "undefined" is misplaced.
+            [Thanks and $1 to James Stern]
+
+    376     The two minus signs in the index entry for
+            "-- operator" overlap and appear to be one.
+
+    379     The pairs of underscores in the index entry for
+            "__FILE__ macro" overlap and might appear to be one.
+
+    382     The pairs of underscores in the index entry for
+            "__LINE__ macro" overlap and might appear to be one.
+
+    back cover  "on the Usenet/Internet on the C FAQ" is muddled
+            and should say something else.
+
+            "com.lang.c" should be "comp.lang.c".
+
+            The ftp address for source code should be
+            ftp://ftp.aw.com/cseng/authors/summit/cfaq .
+
+    more information about this book
+
+    on-line version of FAQ list
+
+    scs home page

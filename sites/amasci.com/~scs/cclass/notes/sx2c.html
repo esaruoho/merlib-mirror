@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>2.3 Declarations</title>
+<link href="sx2b.html" rev=precedes>
+<link href="sx2d.html" rel=precedes>
+<link href="sx2.html" rev=subdocument>
+</head>
+<body>
+<H2>2.3 Declarations</H2>
+
+<p>[This section corresponds to K&amp;R Sec. 2.4]
+</p><p>Informally, a <dfn>variable</dfn>
+(also called an <dfn>object</dfn>)
+is a place you can store a value.
+So that you can refer to it unambiguously, a variable needs a name.
+You can think of the variables in your program
+as a set of boxes or cubbyholes,
+each with a
+label
+giving its name;
+you might imagine that storing a value ``in'' a variable
+consists of writing the value on a slip of paper
+and placing it in the cubbyhole.
+</p><p>A <dfn>declaration</dfn>
+tells
+the compiler
+the name and type of a variable you'll be using in your program.
+In its simplest form,
+a declaration consists of the type,
+the name of the variable,
+and a terminating semicolon:
+<pre>
+	char c;
+	int i;
+	float f;
+</pre>
+</p><p>You can also declare several variables of the same type in one declaration,
+separating them with commas:
+<pre>
+	int i1, i2;
+</pre>
+</p><p>Later we'll see that declarations may also contain
+<dfn>initializers</dfn>,
+<dfn>qualifiers</dfn> and <dfn>storage classes</dfn>,
+and that we can declare
+<dfn>arrays</dfn>,
+<dfn>functions</dfn>, <dfn>pointers</dfn>,
+and other kinds of data structures.
+</p><p>The placement of declarations is significant.
+You can't place them just anywhere
+(i.e. they cannot be interspersed with the other statements in your program).
+They must either be placed at the beginning of a function,
+or at the beginning of a brace-enclosed block of statements
+(which we'll learn about in the next chapter),
+or outside of any function.
+Furthermore, the placement of a declaration,
+as well as its storage class,
+controls
+
+several things about its <dfn>visibility</dfn> and
+<dfn>lifetime</dfn>, as we'll see later.
+</p><p>You may wonder <em>why</em> variables must be declared before use.
+There are two reasons:
+
+</p><OL><li>It makes
+things somewhat
+easier on the compiler;
+it knows right away what kind of storage to allocate
+and what code to emit to store and manipulate
+each variable;
+it doesn't have to try to intuit the programmer's intentions.
+<li>It forces a bit of useful discipline on the programmer:
+you cannot introduce variables willy-nilly;
+you must think about them enough to pick appropriate types for them.
+(The compiler's error messages to you,
+telling you that you apparently forgot to declare a variable,
+are as often helpful as they are a nuisance:
+they're helpful when they tell you that you misspelled a variable,
+or forgot to think about exactly how you were going to use it.)
+</OL><p>Although there are a few places where
+declarations can be omitted
+(in which case the compiler will assume an implicit declaration),
+making use of these removes the advantages of reason
+2
+above,
+so I recommend always declaring everything explicitly.
+</p><p>
+Most of the time,
+I recommend writing one declaration per line.
+For the most part, the compiler doesn't care what order declarations are in.
+You can order the declarations alphabetically,
+or in the order that they're used,
+or to put related declarations next to each other.
+Collecting all variables of the same type together on one line 
+essentially orders declarations by type,
+which isn't a very useful order
+(it's only slightly more useful than random order).
+</p><p>A declaration for a variable can also contain an initial value.
+
+This <dfn>initializer</dfn> consists of
+an equals sign and an expression,
+which is usually a single constant:
+<pre>
+	int i = 1;
+	int i1 = 10, i2 = 20;
+</pre>
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx2b.html" rev=precedes>prev</a>
+<a href="sx2d.html" rel=precedes>next</a>
+<a href="sx2.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

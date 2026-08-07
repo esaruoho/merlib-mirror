@@ -1,0 +1,6 @@
+OriginaltextTOCframe.htm 
+
+ Filename: "OriginaltextTOCframe.htm" 
+ Displayed in composite window called from: 
+ 0_TOC_Frames_START_dobeTutAll.htm 
+ in: (id="TOC_frame")

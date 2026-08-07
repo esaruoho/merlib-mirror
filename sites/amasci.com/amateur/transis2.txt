@@ -1,0 +1,182 @@
+WHY I NEVER UNDERSTOOD BIPOLAR TRANSISTORS
+
+
+
+CURRENT GAIN IS NOT FUNDAMENTAL
+
+TEXTBOOKS ONLY EXPLAIN PNP COMMON BASE AMPLIFIERS
+
+ALL CONDUCTORS ARE PRE-FILLED WITH CHARGE, VS. "HOLLOW PIPES" VIEWPOINT
+  (EMITTER emits particles into "filled" conductor)
+
+TWO KINDS OF "ELECTRICITY" CAN FLOW IN ONE CONDUCTOR
+
+METAL/SEMICONDUCTOR JUNCTIONS DON'T ALWAYS FORM DIODES
+
+HOLE FLOW IS REAL, YET IS NOT REAL    (matter/antimatter pair creation
+and annhilation)
+
+HOLE/ELECTRON FLOW CAN POUR TOGETHER, BUT CAN'T PULL BACK APART
+EXCEPT AT METAL/SILICON JUNCTIONS
+
+SILICON CAN CHANGE FROM CONDUCTIVE "METAL" TO INSULATING "GLASS"
+
+"STATIC" CHARGE AND "STATIC" ELECTRIC FIELDS ARE HIGHLY IMPORTANT
+WITHIN TRANSISTORS, VS.
+"Static Electricity" ONLY EXISTS
+   IN CLOTHES DRYERS, SHOE-SCUFFING, AND PHOTOCOPIERS
+
+METALS CONTAIN LIQUID ELECTRICITY, SEMICONDUCTORS CONTAIN "GAS"
+ELECTRICITY
+
+"FEEL OF A ROTATING SOLID WHEEL", rope passing over many pulleys, global
+dynamics, VS.
+   reductionist local description
+
+
+
+CURRENT GAIN IS NOT FUNDAMENTAL
+
+The number one reason I could never understand transistors: I was wrongly
+taught that the basic operation of transistors was to multiply current. 
+
+Put a milliamp through the base of a transistor, and ten times more
+current appears in the collector/emitter circuit.  But try as I might, I
+could find no clear explanation of HOW the transistor accomplished this
+multiplication. Some textbooks explained it as being a consequence of the
+thinness of the base region, but somehow this did not satisfy me at all. 
+Other textbook chapters dribbled off into details of holes, fields, and
+particle statistics, and never specifically answered the question. 
+
+Years later I realized the truth.  It happened after I had made it a habit
+to look for errors in textbooks.  I wondered if the traditional
+explanation of transistors might be misguided.  I hadn't thought much
+about the subject since college, and had learned quite a bit about solid
+state physics since then, so I posessed some new tools for attacking the
+topic. 
+
+I found that yes, the traditional explanation is wrong.  The operation of
+transistors is NOT based upon current gain.  While it is true that I(b) 
+is somewhat proportional to I(c), this is more of a happy accident than a
+clue to the workings of the transistor.  It is an artifact of the physics,
+and if we could SEE into a transistor and watch it "transist", we would
+become aware of how transistors really work. 
+
+Bipolar transistors contain a thin layer of insulator between the base
+region and the emitter region of the semicondictor crystal.  This layer is
+called the "depletion layer."  The thickness of this insulating layer can
+change.  The thickness is controlled by the base-emitter voltage, by the
+voltage applied across the layer.  The more positive the voltage, the
+thinner the layer becomes, and if the voltage polarity is reversed, the
+layer becomes very thick.  When it is thick, almost no charges can flow
+from emitter to base.  When it is thin, the layer hardly presents any
+barrier to charges at all.  So, raise the Vbe, and you reduce the
+thickness of the depletion layer, which makes it less opaque to charges,
+which "opens the valve" inside the transistor.  Set Vbe to zero, and the
+layer thickens again and closes off the flow. The bipolar transistor is a
+valve that's controlled by voltage. 
+
+This is different than I was taught, I was taught that the transistor is
+controlled by current.  In fact, when designing a transistor circuit we
+assume that Vbe approximately equals 0.7v, never changes!  How can Vbe be
+the transistor's controlling input?  What's going on here?  Simple.  When
+Vbe is raised a little, the thickness of the insulating layer decreases
+almost to zero, and both the current through that layer and also the
+LEAKAGE CURRENT THROUGH THE BASE WIRE both increase enormously.  The base
+leakage is proportional to the Vbe voltage, though the current increases
+very nonlinearly with voltage.  The collector current is also proportional
+to Vbe, and is also nonlinear.  And therefor the base current and the
+collector current are proportional to each other.  This is where the
+seeming "current amplification" comes in to play: 
+
+   The base leakage and the collector current both happen to be
+   nonlinear in the same way, so if we ignore Vbe entirely and
+   simply compare Ib to Ic, we find that Ic/Ib equals an
+   amplification factor.
+
+The nonlinearity cancels out, leaving us APPARANTLY with a current
+amplifying device.  The transistor SEEMS to be amplifying current.  But
+the main transistor current Ic is really controlled by the width of the
+depletion layer, which is controlled by the base-emitter voltage and not
+by the base-emitter current.  The base current is a leakage current, and
+in an "ideal" transistor the base current could even be zero Raise the
+Vbe, the base leakage current goes up a little, while the collector
+current goes up a lot. 
+
+The textbooks make a simple mistake: they assume that the base current
+somehow controls the thickness of the depletion layer, which then controls
+the collector current.  This is wrong, it is backwards.  In fact, the
+thickness of the depletion layer controls the base current.  The thickness
+of the depletion layer also controls the collector current.  But then what
+controls the thickness of this layer?  Our old friend Vbe, which we keep
+(wrongly) assuming never changes from 0.7 volts. 
+
+
+
+PNP COMMON BASE IN TEXTBOOKS
+
+Some textbooks introduce transistor operation by analyzing the transistor
+configuration called PNP COMMON BASE.  Yet the single most common
+transistor configuration in use today is the NPN COMMON EMITTER
+configuration.  Common-base circuits are extremely rare, and most
+electronics people encounter them only in their textbooks. 
+
+I see that I myself had a hard time understanding transistors right
+from the start, because I was taught to understand them in terms of
+a grounded base and an emitter which emits charges.  This might help
+in learning how common-base amplifiers work, but it did me very little
+good in understanding most of the real-world amplifiers which did NOT
+use the common-base configuration.
+
+Now, if the BASE of a transistor is supposed to be the input, and the
+emitter is supposed to be grounded, how can we visualize the "emitter"
+as emitting?  We cannot, and hence we cannot visualize how common base
+amplifiers work.
+
+And so one key to understanding amplifiers is to give up on the
+"common base" viewpoint and "emitter emits charge" concept, and
+learn transistor operation in from other standpoints.
+
+
+ALL CONDUCTORS ARE PRE-FILLED WITH CHARGE, VS. "HOLLOW PIPES" VIEWPOINT
+(EMITTER emits particles into empty conductor)
+
+TWO KINDS OF "ELECTRICITY" CAN FLOW IN ONE CONDUCTOR
+
+METAL/SEMICONDUCTOR JUNCTIONS DON'T ALWAYS FORM DIODES
+
+HOLE FLOW IS AND IS NOT REAL    (matter/antimatter pair creation and
+annhilation)
+
+HOLE/ELECTRON FLOW CAN POUR TOGETHER, BUT CAN'T PULL BACK APART
+
+SILICON CAN CHANGE FROM CONDUCTIVE "METAL" TO INSULATING "GLASS"
+
+"STATIC" CHARGE AND "STATIC" ELECTRIC FIELDS ARE HIGHLY IMPORTANT
+IN TRANSISTOR OPERATION (, VS. "Static Electricity" ONLY EXISTS
+IN CLOTHES DRYERS, SHOE-SCUFFING, AND PHOTOCOPIERS
+
+METALS CONTAIN LIQUID ELECTRICITY, SEMICONDUCTORS CONTAIN "GAS"
+ELECTRICITY
+
+"FEEL OF A ROTATING SOLID WHEEL", rope passing over many pulleys, global
+dynamics, VS. reductionist local description
+
+Why is this not in all the textbooks?
+Words of experts pulled out of ass without thinking, yet worshipped
+forever after, unchangable, never seen as faulty
+
+Little tradition of creativity.
+Belief that the teaching was perfected long ago, no hope of a teacher
+discovering an improvement, resultant blindness
+
+Worship of the printed word, rather than seeing textbooks as created by
+peers, textbooks are at pinnacle,
+no changes needed
+
+Belief that physicists and discoverers are far better at teaching than
+are educators
+	Lack of community, lack of communication between educators.  If
+one teacher discovers a wonderful new way to
+		explain things, other teachers will never hear about it.
+

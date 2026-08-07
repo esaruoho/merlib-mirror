@@ -1,0 +1,28 @@
+all_radiator_differences 
+
+ UnofficialBMW.com 
+[an error occurred while processing this directive]
+
+ From digest.v7.n601 Sun Nov 16 17:29:37 1997 
+From: "T VanAusdal" <thiroy@hotmail.com> 
+Date: Sun, 16 Nov 1997 11:10:14 PST 
+Subject: Radiator differences 
+
+ The radiator is larger on AT cars because there is a heat exchanger
+built into the end tank for the ATF; manual gearboxes do not have a
+torque converter (converts it into freakin' heat, baby), and thus do
+not need the special endtank. 
+
+ Basically the ATF enters through a hydraulic fitting, goes through
+a set of tubes in the end tank, and exits another hydr. fitting. 
+You can bypass this with a small 'radiator' device they sell in 
+some auto parts stores. It mounts separately and you route the ATF 
+lines through this instead of, or complementary to, the radiator.
+
+ For big RVs and towing vehicles with ATs, it is essential to mount
+a separate automatic transmission cooler. The motor will appreciate
+the radiator's reduced load, too.
+
+Thi V.
+
+Get Your Private, Free Email at http://www.hotmail.com

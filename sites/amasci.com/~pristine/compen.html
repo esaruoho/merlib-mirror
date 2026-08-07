@@ -1,0 +1,892 @@
+
+<HTML>
+<HEAD><TITLE>Pure Mac: Compression, Encoding & Disk Images</TITLE>
+ </HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#3333CC" VLINK="#339933" ALINK="#CC0033">  
+   
+
+<A HREF="index.html"><IMG SRC="images/puremacsm.gif" ALIGN=Right WIDTH="88" HEIGHT="20" BORDER="0" ALT="Pure Mac"></A>
+<BR>
+<BR>
+<CENTER><H1>Compression, Encoding & Disk Images</H1></CENTER>
+ 
+<BR>
+    
+<HR>
+ 
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#binhex">Binhex</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#cpt">CompactPro</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#decodedacode">Decode da Code</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#decoder">Decoder</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#diskcopy">Disk Copy</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#diskdup">DiskDup+</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#dropmacbin">Drop MacBinary III</A></TD></TR>
+</TABLE>
+</TD>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#dropstuff">DropStuff</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#dropzip">DropZip</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#easybz">Easy-BZ</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#easygz">Easy-GZ</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#filesmiler">File Smiler</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#gifblast">GIF Blast</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#instantpack">Instant Packages</A></TD></TR>
+</TABLE>
+</TD>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#lhaex">LHA Expander</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#macbin">MacBinary II+</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#macbin3">MacBinary III</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#maccom">MacCompress</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#macgzip">MacGzip</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#maclha">MacLHa</A></TD></TR>
+</TABLE>
+</TD>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#unrar">MacRAR</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#tar">MacTar</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#zipunzip">MacZip</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#mindexpander">MindExpander</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#mpack">MPack</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#openup">OpenUp</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#rosetta">Rosetta</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#swrap">ShrinkWrap</A></TD></TR>
+</TABLE>
+</TD>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#smartzip">SmartZip</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#stuffcm">StuffCM</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#stuffitd">StuffIt Deluxe</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#stuffite">StuffIt Expander</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#stuffitl">StuffIt Lite</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#suntar">SunTar</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#tape">Tape</A></TD></TR>
+</TABLE>
+</TD>
+<TD VALIGN=TOP ALIGN=LEFT>
+<TABLE BORDER=0 CELLSPACING=1 CELLPADDING=1>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#tomeviewer">TomeViewer</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#unsha">UnShar</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#uucd">uucd</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#uuundo">uuUndo</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#uulite">UULite</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#yadecoder">YA-Decoder</A></TD></TR>
+<TR><TD VALIGN=TOP ALIGN=LEFT><A HREF="#zipit">Zip It!</A></TD></TR>
+</TABLE>
+</TD>
+</TR></TABLE>
+</CENTER>
+<a name = "binhex"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/binhex.gif"> <B>Binhex 4.0</B>
+<BR><BR>
+For .hqx files.  Use instead of uuencoding when transferring Mac applications. This is the old original
+version of binhex and it still works quite well.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Yves Lempereur
+<LI><B>Modification Date</B>: February 9, 1985
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="ftp://mirrors.aol.com/pub/mac/util/compression/binhex4.0.bin">Direct Download
+</A>File Size:  6 Kb 
+<BR>
+<A HREF="ftp://mirrors.aol.com/pub/mac/util/compression/">Parent Directory</A>
+<a name = "cpt"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/cpt.gif"> <B>CompactPro 1.52</B>
+<BR><BR>
+Compact Pro is a shareware file compression and archival utility. It
+compresses and stores files in "archives" which may span multiple diskettes.
+Compact Pro supports data encryption (US and Canadian users only) and
+self-extracting archives. Version 1.52 is a "fat" binary, so it will run in native
+mode on Power Macs as well as on standard Macs. This is just a documentation update of version
+1.51 released April 4, 1995.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $25
+<LI><B>Author/Publisher</B>: Bill Goodman
+<LI><B>Modification Date</B>: December 17, 1998
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.cyclos.com/downloads/compact-pro.bin">Direct Download
+</A>File Size: 165 Kb 
+<BR>
+<A HREF="http://www.cyclos.com/compactpro.htm">Home Page</A>
+<a name = "decodedacode"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/decodedacode.gif"> <B>Decode da Code 1.5</B>
+<BR><BR>
+Decode da Code is an application which decodes base64 and uuencode(.uu) encoded files, and can
+figure out multi-part MIME mail messages, including files encoded in the AppleDouble format.
+It can use Internet Config to figure out what kind of file is encoded and set the appropriate file
+type and creator codes. It can also open the decoded file with a post-processing application that
+is specified in Internet Config.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $12
+<LI><B>Author/Publisher</B>: <A HREF="mailto:lucius@kagi.com">Lucius Kwok</A>
+<LI><B>Modification Date</B>: December 5, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.felttip.com/products/bin/decode_da_code_1.5.sit.bin">Direct Download
+</A>File Size: 105 Kb 
+<BR>
+<A HREF="http://www.felttip.com/products/decode/">Home Page</A>
+<a name = "decoder"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/decoder.gif"> <B>Decoder 2.1</B>
+<BR><BR>
+Designed to decode files that have been converted to a diferent format so that they can be more easily
+downloaded or e-mailed. Decoder 2.0 will decode AppleSingle, BinHex, MacBinary (versions I, II,
+and III), UUencoded, and MIME formats. Just drag and drop the encoded files onto the Decoder
+application icon and Decoder can detect the encoding scheme and decode accordingly.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $10
+<LI><B>Author/Publisher</B>: <A HREF="mailto:info@harmonysoftware.com">John Daniel</A>/Harmony Software
+<LI><B>Modification Date</B>: April 11, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.harmonysoftware.com/Decoder68k.hqx">Direct Download
+</A>File Size: 447 Kb - 68k version
+<BR>
+<A HREF="http://www.harmonysoftware.com/DecoderPPC.hqx">Direct Download
+</A>File Size: 473 Kb - PPC version
+<BR>
+<A HREF="http://www.harmonysoftware.com/">Home Page</A>
+<a name = "diskcopy"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/diskcopy.gif"> <B>Disk Copy 6.3.3</B>
+<BR><BR>
+For images in the new NDIF format.
+Disk Copy is a utility application that will mount disk
+images on your desktop, make exact copies of floppy disks
+from a disk image, convert disk images from one format to
+another, and create a disk image from a mounted volume or
+individual folder.
+<BR>
+<UL>
+<LI><B>License</B>: Free
+<LI><B>Author/Publisher</B>: Apple
+<LI><B>Modification Date</B>: May 5, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/Utilities/Disk_Copy/Disk_Copy_6.3.3.smi.bin">Direct Download
+</A>File Size: 753 Kb Disk Copy 6.3.3
+<BR>
+<A HREF="http://download.info.apple.com/Apple_Support_Area/Apple_Software_Updates/English-North_American/Macintosh/Utilities/Disk_Copy/">Parent Directory
+</A>
+<a name = "diskdup"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/diskdup.gif"> <B>DiskDup+ 2.9.2</B>
+<BR><BR>
+For Apple DiskCopy images. Now compatible with HFS+.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $25
+<LI><B>Author/Publisher</B>: Roger D. Bates
+<LI><B>Modification Date</B>: April 8, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.teleport.com/~rbates/DiskDup+.sit.hqx">Direct Download
+</A>File Size: 74 Kb 
+<BR>
+<A HREF="http://www.teleport.com/~rbates/">Home Page
+</A>
+<a name = "dropmacbin"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/dropmacbin.gif"> <B>Drop MacBinary III 1.1</B>
+<BR><BR>
+An exellent little drag and drop application for making and decoding Macbinary III files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: <A HREF="mailto:cevans@poppybank.com">Chris Evans</A>
+<LI><B>Modification Date</B>: August 23, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.lazerware.com/FTP/DropMacBinary_III.sit.hqx">Direct Download
+</A>File Size:  13 Kb 
+<a name = "dropstuff"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/dropstuff.gif"> <B>DropStuff 6.0</B>
+<BR><BR>
+Tired of waiting for your email attachments to be sent? Use DropStuff! DropStuff
+compresses your files and folders up to 95% smaller than their original size, so
+they transmit faster. DropStuff's StuffIt compression is the best available -
+an average of 20% better than any other compression format. So, whether you're
+sending a file to a friend or posting files to the Web, your small StuffIt files
+will save you time and money online. And, it's easy to use - just drag, drop,
+and you're done!
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $30
+<LI><B>Author/Publisher</B>: Aladdin Systems
+<LI><B>Modification Date</B>:  March 19, 2001
+<LI><B>Requirements</B>: PPC, Mac OS 8.1 or higher, 5.5 and below are 680x0 or PPC
+</UL>
+<A HREF="http://www.aladdinsys.com/downloads/files/dropstuff601.sit">Direct Download
+</A>File Size: 4078 Kb - version 6.0.1
+<BR>
+<A HREF="http://www.aladdinsys.com/downloads/files/dropstuff55.sit">Direct Download
+</A>File Size: 1919 Kb - version 5.5 - released November 10, 1999
+<BR>
+<A HREF="ftp://ftp.scruz.net//users/aladdin/public/">Parent Directory</A>
+<BR>
+<A HREF="http://www.aladdinsys.com/dropstuff/index.html">Home Page</A>
+<a name = "dropzip"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/dropzip.gif"> <B>DropZip 6.0.1</B>
+<BR><BR>
+For those times when you need to send a Zip-compressed file to a PC user, use
+DropZip. DropZip makes sending Zip files quick and easy - just drag and drop a
+file or folder onto the DropZip icon to compress. That's all there is to it!
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $30
+<LI><B>Author/Publisher</B>: Aladdin Systems
+<LI><B>Modification Date</B>: March 19, 2001
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.aladdinsys.com/downloads/files/dropzip601.sit">Direct Download
+</A>File Size: 3941 Kb - version 6.0.1
+<BR>
+<A HREF="http://www.aladdinsys.com/dropzip/macindex.html">Home Page</A>
+<a name = "easybz"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/easybz.gif"> <B>Easy-BZ 1.1</B>
+<BR><BR>
+Easy-BZ is a compression tool based on the BZip2 format. Although Easy-BZ can compress even tighter than GZ, it
+takes a lot of processor power.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: John Stiles
+<LI><B>Modification Date</B>: March 31, 1999
+<LI><B>Requirements</B>: MacOS 8 or higher
+</UL>
+<A HREF="http://www.komkon.org/~stiles/easy-gz/easy-bz.sit.bin">Direct Download
+</A>File Size: 76 Kb 
+<BR>
+<A HREF="http://www.komkon.org/~stiles/easy-gz/index.html">Home Page</A>
+<a name = "easygz"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/easygz.gif"> <B>Easy-GZ 1.1</B>
+<BR><BR>
+Easy-GZ is a compression tool which allows extremely tight compression and quick decompression.
+Based on the GZip standard and optimized for the Macintosh platform, an easy-to-use, effective GZ
+compressor has finally been brought to the Mac OS.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: John Stiles
+<LI><B>Modification Date</B>: July 28, 1998
+<LI><B>Requirements</B>: MacOS 8 or higher
+</UL>
+<A HREF="http://www.komkon.org/~stiles/easy-gz/easy-gz.sit.hqx">Direct Download
+</A>File Size: 154 Kb 
+<BR>
+<A HREF="http://www.komkon.org/~stiles/easy-gz/index.html">Home Page</A>
+<a name = "filesmiler"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/filesmiler.gif"> <B>File Smiler 1.6.1</B>
+<BR><BR>
+Drag files, folders and disk image files onto File Smiler to create a Self Mounting Image file.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Mellow Software
+<LI><B>Modification Date</B>: September 20, 1998
+<LI><B>Requirements</B>: MacOS 8 or higher, Disk Copy 6.3 or higher
+</UL>
+<A HREF="http://www.netspace.net.au/~petemel/mellow-software/files/FileSmiler161.sit">Direct Download
+</A>File Size: 78 Kb 
+<BR>
+<A HREF="http://www.netspace.net.au/~petemel/mellow-software/desktop/index.html">Home Page</A>
+<a name = "gifblast"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/gifblast.gif"> <B>GIF Blast 3.0</B>
+<BR><BR>
+GIF Blast is a compressor designed especially for GIF files. The usual file compressors do not work on GIF files; GIF
+Blast does. GIF files are compressed to so-called GFB files that are usually 27 to 33% smaller.<BR>
+GIF files are compressed by GIF Blast to so-called GFB files. GIF Blast is recommended for applications such as
+storing GIF files on BBS's and posting GIF files to Usenet.
+<BR>
+Because GIF Blast perfectly preserves all images and other information in GIF files, the user need not be concerned
+with harming the images.
+<BR>
+The compression/decompression algorithm used in GIF Blast is quite slow, so you would probably not want to store
+frequently viewed GIF files in compressed form. However, GIF Blast should be useful in applications where getting
+maximum compression is important, such as: Storing GIF files on bulletin boards for downloading; 
+Posting GIF files on Usenet; Transmitting GIF files via modem; Sending GIF files on floppy disk.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $10
+<LI><B>Author/Publisher</B>: Eric Toonen
+<LI><B>Modification Date</B>: May 31, 1997
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.euronet.nl/users/raver/gifblast.hqx">Direct Download
+</A>File Size: 227 Kb 
+<BR>
+<A HREF="http://www.euronet.nl/users/raver/gifblast.html">Home Page</A>
+<a name = "instantpack"></a><HR>
+<IMG ALIGN=Center Width="32" Height="32" ALT="Icon" SRC="images/cmm.gif"> <B>Instant Packages 1.0</B>
+<BR><BR>
+This plugin (aimed primary at developers) extends Contextual Menus to allow you to create packages from
+folders, or to turn packages back into folders. 
+Packages are new to the Mac OS starting with Mac OS 9.0.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Ricky A. Sharp
+<LI><B>Modification Date</B>: November 1, 1999
+<LI><B>Requirements</B>: PPC, Mac OS 8 or later
+</UL>
+<A HREF="http://www.instantinteractive.com/download/freeware/Instant%20Package.sit">Direct Download
+</A>File Size: 61 Kb
+<BR>
+<A HREF="http://www.instantinteractive.com/download/freeware/InstantPackage.html">Home Page</a>
+<a name = "lhaex"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/lhaex.gif"> <B>LHA Expander 1.0.8</B>
+<BR><BR>
+LHA Expander is a drag and drop utility for LHA file decompressing.
+LHA Expander can handle general LHA archives (.lzh, .lha, lzs), self extracting
+archives (.exe, .com, .x) and MacLHA archives (wich were encoded in MacBinary format
+first, then compressed).
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Masanori Sekino
+<LI><B>Modification Date</B>: December 16, 1997
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="LHAExpander1.0.8.sit.hqx">Direct Download
+</A>File Size: 157 Kb 
+<BR>
+<A HREF="http://w3mb.kcom.ne.jp/~m-sekino/software/">Home Page
+</A>
+<a name = "macbin"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/macbin.gif"> <B>MacBinary II+ 1.0.2</B>
+<BR><BR>
+MacBinary II+ is a System 7 drag&drop converter for MacBinary files.  It has no User
+Interface, simply drop a MacBinary file on it and it will be decoded, drop any other
+file or folder on it and it will be encoded.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Peter N Lewis
+<LI><B>Modification Date</B>: April 5, 1993
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="ftp://ftp.stairways.com/stairways/unsupported/macbinaryii+102.sit.bin">Direct Download
+</A>File Size: 17 Kb 
+<BR>
+<A HREF="ftp://ftp.stairways.com/stairways/unsupported/">Parent Directory
+</A>
+<a name = "macbin3"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/macbin.gif"> <B>MacBinary III 1.0a1</B>
+<BR><BR>
+Peter Lewis's program for encoding files in the MacBinary III format.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Peter N Lewis
+<LI><B>Modification Date</B>: August 23, 1998
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="http://www.lazerware.com/FTP/MacBinary_III.sit.hqx">Direct Download
+</A>File Size: 13 Kb 
+<BR>
+<A HREF="ftp://ftp.share.com/peterlewis/">Parent Directory
+</A>
+<a name = "maccom"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/maccom.gif"> <B>MacCompress 3.2</B>
+<BR><BR>
+For .Z files. The UNIX compression standard.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Lloyd L. Chambers
+<LI><B>Modification Date</B>: December 8, 1994
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="ftp://mirrors.aol.com/pub/mac/util/compression/maccompress3.2.hqx">Direct Download
+</A>File Size: 74 Kb 
+<BR>
+<A HREF="ftp://mirrors.aol.com/pub/mac/util/compression/">Parent Directory
+</A>
+<a name = "macgzip"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/macgzip.gif"> <B>MacGzip 1.1.3</B>
+<BR><BR>
+A gzip compressor/decompressor. For .gz files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Jean-loup Gailly
+<LI><B>Modification Date</B>: September 16, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="ftp://ivo.cps.unizar.es/pub/SPDsoft/MacGzip_68K_1.1.3.sit">Direct Download
+</A>File Size: 145 Kb - 68k version
+<BR>
+<A HREF="ftp://ivo.cps.unizar.es/pub/SPDsoft/MacGzip_PPC_1.1.3.sit">Direct Download
+</A>File Size: 152 Kb - PPC version
+<BR>
+<A HREF="ftp://ivo.cps.unizar.es/pub/SPDsoft/">Parent Directory
+</A>
+<BR>
+<A HREF="http://persephone.cps.unizar.es/General/gente/spd/gzip/gzip.html">Home Page
+</A>
+<a name = "maclha"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/maclha.gif"> <B>MacLHA 2.22</B>
+<BR><BR>
+Creates and extracts LZH and LHa files
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Kazuaki Ishizaki
+<LI><B>Modification Date</B>: January 5, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://hp.vector.co.jp/authors/VA008909/mac/MacLHA_2.22.sea.hqx">Direct Download
+</A>File Size: 186 Kb 
+<BR>
+<A HREF="http://hp.vector.co.jp/authors/VA008909/">Home Page
+</A>
+<a name = "unrar"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/unrar.gif"> <B>MacRAR 2.5.1</B>
+<BR><BR>
+The MacUnRAR utility is a freeware program developed for extracting the contents of archives created with the PC RAR archiver, MacRAR now also
+makes compressed RAR archives.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Guillaume Dufay
+<LI><B>Modification Date</B>: September 7, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://macrar.free.fr/MacRAR251.sit.hqx">Direct Download
+</A>File Size: 971 Kb
+<BR>
+<A HREF="http://macrar.free.fr/">HomePage
+</A>
+<a name = "tar"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/mactar.gif"> <B>MacTar 4.2.1</B>
+<BR><BR>
+This program reads and writes tar format archives.  It has been tested against tar running on A/UX (3.0), 4.3 BSD and the GNU tar program (POSIX compatible).  Floppies and tapes can be exchanged with other systems (on Unix, use raw devices).  The tar archive manipulation code is based on John Gilmore's public domain tar program.
+As of version 4.1, "tar" has been renamed "MacTar" and maintenance has been taken over by Joe Strout.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: <A HREF="mailto:joe@strout.net">Joe Strout</A>
+<LI><B>Modification Date</B>: October 18, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.strout.net/files/mactar68k.sit.hqx">Direct Download
+</A>File Size: 81 Kb - 68k version
+<BR>
+<A HREF="http://www.strout.net/files/mactar.sit.hqx">Direct Download
+</A>File Size: 91 Kb - PPC version
+<BR>
+<A HREF="http://www.strout.net/macsoft/mactar/">Home Page</A>
+<a name = "zipunzip"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/unzip.gif"> <B>MacZip 1.05</B>
+<BR><BR>
+A simple application to compress and decompress zip files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Info-Zip
+<LI><B>Modification Date</B>: July 31, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://members.sitec.net/maczip/download/MacZip105nc.hqx">Direct Download
+</A>File Size: 369 Kb
+<BR>
+<A HREF="ftp://ftp.cdrom.com/pub/infozip/MAC/">Parent Directory</A>
+<BR>
+<A HREF="http://members.sitec.net/maczip/">Home Page</A>
+<a name = "mindexpander"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/mindexpander.gif"> <B>MindExpander 1.0</B>
+<BR><BR>
+MindExpander will expand all popular internet files. MindExpander has built-in support for MacBinary,
+BinHex, StuffIt, Zip, etc. And for the files we don't support, we'll automatically use any available
+programs on your hard disk which do support those files. MindExpander is designed to be your
+"one-stop shop" for file expansion.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: MindVision Software
+<LI><B>Modification Date</B>: September 24, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="ftp://ftp1.mindvision.com/pub/mac/MindExpander_1.0.hqx">Direct Download
+</A>File Size: 303 Kb 
+<BR>
+<A HREF="http://www.mindvision.com/consumer/">HomePage
+</A>
+<a name = "mpack"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/mpack.gif"> <B>MPack 1.5</B>
+<BR><BR>
+For MIME/Base 64 files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: John Myers/Carnegie Mellon University - Mac Port Chris Neuman
+<LI><B>Modification Date</B>: May 1, 1995
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/mpack-15.hqx">Direct Download
+</A>File Size: 78 Kb 
+<BR>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/">Parent Directory
+</A>
+<a name = "openup"></a><HR>
+<IMG ALIGN=Center Width="32" Height="32" ALT="Icon" SRC="images/openup.gif"> <B>OpenUp 3.1</B>
+<BR><BR>
+OpenUp allows you to double-click on a variety of formats of compressed and
+archived files and have them unarchived and opened in the Workspace without
+having to resort to command-line tools. Supported formats include: .arc, .arj, .b64, .bin, .bz2, .bz,
+.compressed, .cpt, .gnutar, .gnutar.bz2, .gnutar.bz, .gnutar.gz, .gsm, .gz, .hqx, .lza, .lzh, .macbin,
+.mime, .pit, .sit, .tar, .tar-gz, .tar.Z, .tar.gz, .tar.bz, .tar.bz2, .taz, .tgz, .tbz, .tbz2, .uu, .uue,
+.xx, .xxe, .z, .zip, .zoo, .Z
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Scott Anguish
+<LI><B>Modification Date</B>: April 4, 2001
+<LI><B>Requirements</B>: Mac OS X
+</UL>
+<A HREF="http://homepage.mac.com/sanguish/OpenUp-3.1.dmg">Direct Download
+</A>File Size: 1116 Kb
+<a name = "rosetta"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/rosetta.gif"> <B>Rosetta 1.4.2</B>
+<BR><BR>
+Rosetta is an application that can decode files that have been encoded using the most common encoding methods (BinHex,
+MacBinary, MIME Base64, uuencode).
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $15
+<LI><B>Author/Publisher</B>: Brian Clark
+<LI><B>Modification Date</B>: October 28, 2001
+<LI><B>Requirements</B>: PPC, Mac OS 8.5 or higher or Mac OS X
+</UL>
+<A HREF="http://www.thothsw.com/utilities/rosetta-1.4.1.img.bin">Direct Download
+</A>File Size: 347 Kb
+<BR>
+<A HREF="http://www.thothsw.com/utilities/index.html">Home Page</A>
+<a name = "smartzip"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/smartzip.gif"> <B>SmartZip 1.0.1</B>
+<BR><BR>
+SmartZip is a MacOS application designed to be the simplest and most efficient way to manage ZIP
+files. You can automatically compress files (or entire folders) by dragging them onto SmartZip and in
+the same way you can easily expand ZIP files.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $30 
+<LI><B>Author/Publisher</B>: Vampire Software
+<LI><B>Modification Date</B>: September 30, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.vampiresoft.com/Download/SmartZip.sit.hqx">Direct Download
+</A>File Size: 370 Kb
+<BR> 
+<A HREF="http://www.vampiresoft.com/Products/MacOS/SmartZip.html">Home Page</A>
+<a name = "swrap"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/swrap.gif"> <B>ShrinkWrap 3.5.1</B>
+<BR><BR>
+ShrinkWrap is a utility made to manipulate all types of disks and disk images on the Macintosh. It incorporates
+the functionality of DiskCopy and DropDisk into one easy to use application, then improves on these products by
+adding on the fly compression/decompression with the StuffIt Engine, implementing extensive drag and drop and
+AppleScript support, and supporting almost all known image file formats, including its new self-mounting image
+files.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $30 
+<LI><B>Author/Publisher</B>: Aladdin Systems
+<LI><B>Modification Date</B>: February 1, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://www.aladdinsys.com/shrinkwrap/downloads/shrinkwrap_35_trial.sit">Direct Download
+</A>File Size: 824 Kb - version 3.5 Trail
+<BR>
+<A HREF="ftp://ftp.aladdinsys.com/pub/mac/ShrinkWrap/shrinkwrap_351_update.bin">Direct Download
+</A>File Size: 661 Kb - version 3.5.1 updater
+<BR>
+<A HREF="ftp://ftp.informatik.rwth-aachen.de/pub/mirror/info-mac.org/disk/shrink-wrap-21.hqx">Direct Download
+</A>File Size: 380 Kb - version 2.1 - Released November 5, 1996
+<BR>
+<A HREF="http://www.aladdinsys.com/shrinkwrap/index.html">Home Page
+</A>
+<a name = "stuffcm"></a><HR>
+<IMG ALIGN=Center Width="32" Height="32" ALT="Icon" SRC="images/stuffcm.gif"> <B>StuffCM 2.6</B>
+<BR><BR>
+StuffCM is a contextual menu plugin that works with Aladdin Systems' StuffIt Engine. It can stuff, unstuff, convert, and BinHex files directly in the Finder through the contextual menu commands.
+As of version 2.1 it can switch between using the 5.x or 4.x engines to stuff files. This goes a long way in making the latest version of Stuffit more usable.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $9
+<LI><B>Author/Publisher</B>: <A HREF="mailto:dathorc@kagi.com">David Catmull</A>
+<LI><B>Modification Date</B>: March 23, 2000
+<LI><B>Requirements</B>: PPC, Mac OS 8 or better
+</UL>
+<A HREF="http://www.dathorc.com/stuffcm.sit">Direct Download
+</A>File Size: 276 Kb
+<BR>
+<A HREF="http://www.dathorc.com/">Home Page</A>
+<a name = "stuffitd"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/stuffitd.gif"> <B>StuffIt Deluxe 6.5.1</B>
+<BR><BR>
+Tired of waiting for large email attachments and downloads? Frustrated with
+files that you can't open? You need StuffIt Deluxe! Award-winning,
+industry-standard StuffIt Deluxe compresses your files up to 95% smaller than
+their original size, so they transmit faster. Plus, StuffIt Deluxe opens just
+about any file you download off the Web or receive in your email. And, as the
+worldwide compression standard, your StuffIt files can be accessed by any Mac or
+PC user, anywhere, hassle-free!
+<BR>
+<UL>
+<LI><B>License</B>: Purchase for $79.95
+<LI><B>Author/Publisher</B>: Alladdin Systems
+<LI><B>Modification Date</B>: November 12, 2001
+<LI><B>Requirements</B>: PPC, Mac OS 8.1 or higher, 5.5 and below are 680x0 or PPC
+</UL>
+<A HREF="http://www.stuffit.com/stuffit/deluxe/updates.html">Updates
+</A>
+<BR>
+<A HREF="ftp://ftp2.aladdinsys.com/pub/mac/StuffIt_Deluxe/deluxe_651_classic_update.sit">Direct Download
+</A>File Size: 3.5 MB  - 6.5 - 6.5.1 for OS 8.6 to 9.1 updater - released November 13, 2001
+<BR>
+<A HREF="ftp://ftp2.aladdinsys.com/pub/mac/StuffIt_Deluxe/deluxe_651_x_update.sit">Direct Download
+</A>File Size: 4.5 MB  - 6.5 - 6.5.1 for OS X updater - released November 13, 2001
+<BR>
+<A HREF="http://www.aladdinsys.com/downloads/files/deluxe601up.sit">Direct Download
+</A>File Size: 3270 Kb  - 6.0 - 6.0.1 updater - released March 19, 2001
+<BR>
+<A HREF="http://www.aladdinsys.com/deluxe/downloads/dlx551.sit">Direct Download
+</A>File Size: 751 Kb  - 5.5 - 5.5.1 updater - released April 25, 2000 - Free update - it is highly recommended that you rebuild your desktop after updating
+<BR>
+<A HREF="http://www.aladdinsys.com/deluxe/downloads/dlx515.sit">Direct Download
+</A>File Size: 4416 Kb  - 5.x to 5.1.5 updater - released November 16, 1999 - Free update - This is a Mac OS 9 Compatible Update
+<BR>
+<A HREF="http://www.stuffit.com/stuffit/deluxe/index.html">Home Page</A>
+<a name = "stuffite"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/stuffite.gif"> <B>StuffIt Expander 6.5</B>
+<BR><BR>
+StuffIt Expander easily expands and decodes all those files you download from the Web or receive in your email. It quickly accesses StuffIt files, unzips zip files created by WinZip and other zip utilities, plus decompresses tar, gzip and bzip files for Unix users. Just drag, drop, and you're done! Expander works seamlessly with Web browsers such as Internet Explorer and Netscape. From BinHex to zip, StuffIt to MIME, Expander accesses more formats, in less time, with zero hassles.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Aladdin Systems
+<LI><B>Modification Date</B>: September 19, 2001
+<LI><B>Requirements</B>: PPC, Mac OS 8.6 or higher and Mac OS X, 5.5 and below are 680x0 or PPC
+</UL>
+<A HREF="http://www.aladdinsys.com/downloads/files/StuffItLite6.5Installers.sit">Direct Download
+</A>File Size: 11,170 Kb - version 6.5 (Actually Stuffit Lite with Expander included)
+<BR>
+<A HREF="http://www.aladdinsys.com/downloads/files/aladdin_exp601.sit">Direct Download
+</A>File Size: 2336 Kb - version 6.0.1
+<BR>
+<A HREF="http://www.aladdinsys.com/downloads/files/aladdin_exp55.hqx">Direct Download
+</A>File Size: 1094 Kb - version 5.5
+<BR>
+<A HREF="http://www.aladdinsys.com/expander/notes.html">Have Aladdin email you a copy</A>
+<BR>
+<A HREF="http://www.aladdinsys.com/expander/index.html">Home Page</A>
+<a name = "stuffitl"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/stuffitl.gif"> <B>StuffIt Lite 3.6</B>
+<BR><BR>
+For making and expanding .sit files. Unlike DropStuff it segments files too.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $30
+<LI><B>Author/Publisher</B>: Aladdin Systems
+<LI><B>Modification Date</B>: March 19, 1997
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/stuffit-lite-36.hqx">Direct Download
+</A>File Size: 847 Kb 
+<BR>
+<A HREF="http://www.aladdinsys.com/stuffitlite/index.html">Home Page</A>
+<a name = "suntar"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/suntar.gif"> <B>SunTar 2.2.2</B>
+<BR><BR>
+SunTar extracts tar archives (i.e. un-tars their contents) created on any UNIX machine. It also extracts MacBinary,
+BinHex, uuencode and PackIt files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: <A HREF="mailto:sauro.speranza@comune.bologna.it">Sauro Speranza</a>
+<LI><B>Modification Date</B>: May 9, 1999
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/suntar-222.hqx">Direct Download
+</A>File Size: 457 Kb - Fat version
+<BR>
+<A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/">Parent Directory
+</A>
+<a name = "tape"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/tape.gif"> <B>Tape 1.6.2</B>
+<BR><BR>
+Tape is a Macintosh program that will allow you to quickly and easily
+create Mac OS 9.0 "packages". Packages are a new way to distribute
+applications or other files that can have multiple components associated
+with them in a single unified file.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $10
+<LI><B>Author/Publisher</B>: Public Access Software
+<LI><B>Modification Date</B>: September 15, 2001
+<LI><B>Requirements</B>: PPC, Mac OS 9 or higher and Mac OS X
+</UL>
+<A HREF="ftp://ftp.pasoftware.com/tape/Tape_1.6.2.sit.bin">Direct Download
+</A>File Size: 387 Kb 
+<BR>
+<A HREF="http://www.pasoftware.com/products/tape/">Home Page</A>
+<BR>
+<A HREF="http://developer.apple.com/technotes/tn/tn1188.html">Apple Technote on Packages</A>
+<a name = "tomeviewer"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/tomeviewer.gif"> <B>TomeViewer 1.3d3</B>
+<BR><BR>
+Ever needed to open one of those Tomes from a set of System Software install disks?  Wanted to know, for example, which version of the WorldScript Power Adapter you'd get from a German 7.5.3 Update 2.0 install -- without going through a long and large footprint install?
+Now you can.
+TomeViewer will open an installer compressed file tome and allow you to view the tome's contents.  You can also expand and extract any of the items which reside in the tome.  Finally, you can use the "Show Info..." menu item to view more detailed information concerning the item.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Apple
+<LI><B>Modification Date</B>: December 18, 1998
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="ftp://ftp.macresource.com/tomeviewer-13d3.sit">Direct Download
+</A>File Size: 284 Kb
+<a name = "unshar"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/unshar.gif"> <B>UnShar 1.11</B>
+<BR><BR>
+For shar files.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Sak Wathanasin
+<LI><B>Modification Date</B>: October 12, 1995
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/unshar-111.hqx">Direct Download
+</A>File Size: 112 Kb 
+<BR>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/">Parent Directory
+</A>
+<a name = "uucd"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/uucd.gif"> <B>uucd 2.5</B>
+<BR><BR>
+This is a simple effective application for decoding and encoding uu and MIME base64 files
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Laurent Hagimont
+<LI><B>Modification Date</B>: October 6, 1998
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/uucd-25.hqx">Direct Download
+</A>File Size: 105 Kb 
+<BR>
+<A HREF="http://www.worldnet.net/~riff/shareware/uucd/index.html">Home Page
+</A>
+<a name = "uuundo"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/uuUndo.gif"> <B>uuUndo 1.0b5</B>
+<BR><BR>
+For .uue (uuencoded) files. For use with NewsWatcher.
+<BR>
+<UL>
+<LI><B>License</B>: Freeware
+<LI><B>Author/Publisher</B>: Aaron Giles
+<LI><B>Modification Date</B>: November 8, 1994
+<LI><B>Requirements</B>: 680x0
+</UL>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/uu-undo-10.hqx">Direct Download
+</A>File Size: 58 Kb 
+<BR>
+<A HREF="ftp://mirrors.aol.com/pub/info-mac/cmp/">Parent Directory
+</A>
+<a name = "uulite"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/uulite.gif"> <B>UULite 3.0</B>
+<BR><BR>
+For.uue files. Merges files, decodes and encodes. A fat binary.  You can select an uuencoded image
+file in NewsWatcher, choose "Extract Binaries" and have the image
+decoded and fed to a program like JPEGView for immediate display on
+your screen...all in one step.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $29
+<LI><B>Author/Publisher</B>: Jeff Strobel
+<LI><B>Modification Date</B>: February 28, 1997
+<LI><B>Requirements</B>: 680x0, System 7 or better
+</UL>
+<A HREF="http://www.peanutsw.com/UULite3.0.1UR.hqx">Direct Download
+</A>File Size: 511 Kb 
+<BR>
+<A HREF="http://www.peanutsw.com/UULite30Info.html">Home Page
+</A>
+<a name = "yadecoder"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/yabase64.gif"> <B>YA-Decoder 3.0.2</B>
+<BR><BR>
+An updated and expanded version of Brian Clark's YA-Base64. Yet Another Decoder is a simple droplet
+designed to decode MIME Base64 (including AppleSingle and AppleDouble), BinHex, MacBinary (including
+MacBinary III), and uuencoded files that are dropped upon it. It assumes that all segments of the
+original encoded document have been concatenated into the file being decoded, and that the segments
+are in order.
+This is intended as a helper application for decoding usenet binary attachments. It is not a general
+purpose decoder. However, it does handle most usenet binaries fairly well, and it can deal with
+multiple attached files.
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $15
+<LI><B>Author/Publisher</B>: <A HREF="mailto:baclark@kagi.com">Brian Clark</A>
+<LI><B>Modification Date</B>: February 13, 2000
+<LI><B>Requirements</B>: 680x0 or PPC
+</UL>
+<A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/ya-decoder-302.hqx">Direct Download
+</A>File Size: 200 Kb - version 3.0.2
+<BR>
+<A HREF="http://www.newsreaders.com/mac/yanw/yadecoder241.sit.bin">Direct Download
+</A>File Size: 161 Kb - version 2.4.1 - for Pre Mac OS 8.5 users
+<BR>
+<A HREF="http://www.newsreaders.com/mac/yanw/">Parent Directory
+</A>
+<A HREF="ftp://ftp.pathcom.com/pub/mac/News/YA-Utilities/YA-Base64%201.2.9/ya-base64-129.hqx">Direct Download
+</A>File Size: 82 Kb - YA-Base64 1.2.9 version 1.2.9 - Freeware
+<BR>
+<a name = "zipit"></a><HR>
+<IMG ALIGN=Center Height="32" Width="32" ALT="Icon" SRC="images/zipit.gif"> <B>Zip It! 2.1</B>
+<BR><BR>
+ZipIt is a Macintosh program that zips and unzips archives in a format fully compatible with PKZip for the IBM
+and zip implementations on other systems. A zip archive is any file that ends with the extension '.zip'. The zip format is popular on the IBM, and is widely
+used as an interplatform compression format. In addition, ZipIt can compress Macintosh applications and
+documents without losing any of their data. ZipIt is best used when transferring compressed documents to and
+from other computer types. Some examples are: text files, TIFF pictures, Excel databases, and QWK message
+packets, to name just a very few. Note that files that end in '.Z' or '.gz' are not ZipIt files, even though
+Netscape may give them a ZipIt icon. 
+<BR>
+<UL>
+<LI><B>License</B>: Shareware, $15
+<LI><B>Author/Publisher</B>: Thomas Brown
+<LI><B>Modification Date</B>: August 31, 2001
+<LI><B>Requirements</B>: Mac OS 8.6 or higher and Mac OS X
+</UL>
+<A HREF="http://www.maczipit.com/zipit-21.sea.bin">Direct Download
+</A>File Size: 646 Kb - version 2.1
+<BR>
+<A HREF="http://www.maczipit.com/zipit-14.sea.bin">Direct Download
+</A>File Size: 827 Kb - version 1.4
+<BR>
+<A HREF="http://www.maczipit.com/">Home Page</A>
+<HR>
+<CENTER><A HREF="index.html"><B>Back to the main page of Pure Mac</B></A></CENTER>
+<BR>
+<BR>
+ 
+</BODY>
+</HTML>
+
+
+
+

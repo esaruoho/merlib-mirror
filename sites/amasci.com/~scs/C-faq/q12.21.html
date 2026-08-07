@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 12.21</title>
+<link href="q12.20.html" rev=precedes>
+<link href="q12.23.html" rel=precedes>
+<link href="s12.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 12.21</H3>
+<p>How can I tell how much destination buffer space I'll need
+for an arbitrary <TT>sprintf</TT> call?
+How can I avoid
+overflowing
+the destination buffer with <TT>sprintf</TT>?
+</p><hr>
+<p>There are not
+(yet)
+any good answers to either of these
+excellent
+questions,
+and this
+
+represents perhaps the biggest deficiency in the
+traditional
+stdio library.
+</p><p>When the format string being used with <TT>sprintf</TT> is
+known and
+relatively simple,
+you can usually predict
+a
+buffer
+size in an ad-hoc way.
+If
+the format
+consists of one or two <TT>%s</TT>'s,
+you can count the fixed
+characters in the format
+string yourself
+(or let <TT>sizeof</TT> count them for you)
+and add in the result of calling <TT>strlen</TT>
+on the string(s) to be inserted.
+You can
+conservatively
+estimate the size that <TT>%d</TT> will expand to with
+code like:
+<pre>#include &lt;limits.h&gt;
+char buf[(sizeof(int) * CHAR_BIT + 2) / 3 + 1 + 1];
+sprintf(buf, "%d", n);
+</pre>
+</p><p>(This code
+computes
+the number of characters required
+for a base-8 representation of a number;
+a base-10 expansion is guaranteed to take as much room or less.)
+</p><p>When the format string is more complicated,
+or
+is
+not
+even
+known until run time,
+predicting the buffer size becomes as
+difficult
+as reimplementing <TT>sprintf</TT>,
+and correspondingly error-prone
+(and inadvisable).
+A
+last-ditch
+technique
+which is sometimes
+suggested
+is to use
+<TT>fprintf</TT> to print the same text to a
+bit bucket or
+temporary file,
+and
+then to
+look at <TT>fprintf</TT>'s return value
+
+or
+the size of the file
+(but see question <a href=q19.12.html>19.12</a>).
+</p><p>If there's
+any
+chance that the buffer might not be big enough,
+you won't want to call <TT>sprintf</TT>
+without some guarantee
+that the buffer will not overflow
+and overwrite some other part of
+memory.
+Several
+stdio's
+(including GNU and 4.4bsd)
+provide
+the obvious
+<TT>snprintf</TT> function,
+which can be used like this:
+<pre>	snprintf(buf, bufsize, "You typed \"%s\"", answer);
+</pre>and we can hope that a future revision of the ANSI/ISO C Standard
+will include this function.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q12.20.html" rev=precedes>prev</a>
+<a href="q12.23.html" rel=precedes>next</a>
+<a href="s12.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

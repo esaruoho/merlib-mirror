@@ -1,0 +1,182 @@
+<HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Created on October, 31  2001 by texi2html 1.64 -->
+<!-- 
+Written by: Lionel Cons <Lionel.Cons@cern.ch> (original author)
+            Karl Berry  <karl@freefriends.org>
+            Olaf Bachmann <obachman@mathematik.uni-kl.de>
+            and many others.
+Maintained by: Olaf Bachmann <obachman@mathematik.uni-kl.de>
+Send bugs and suggestions to <texi2html@mathematik.uni-kl.de>
+ 
+-->
+<HEAD>
+<TITLE>Algae: Bugs</TITLE>
+
+<META NAME="description" CONTENT="Algae: Bugs">
+<META NAME="keywords" CONTENT="Algae: Bugs">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META NAME="Generator" CONTENT="texi2html 1.64">
+
+</HEAD>
+
+<BODY LANG="" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<A NAME="SEC54"></A>
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_8.html#SEC53"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+
+<HR SIZE=2>
+<h1><img src="icon.gif" alt="">  9. Bugs </H1>
+<!--docid::SEC54::-->
+<P>
+
+Your bug reports play an essential role in making <CODE>algae</CODE> reliable.
+By reporting a bug, you may or may not get a timely solution to your
+problem.  Either way, bug reports help us to make the next version of
+<CODE>algae</CODE> better.  In addition, your comments or criticisms on
+<CODE>algae</CODE> or the Algae language are also welcomed.</P><P>
+
+<A NAME="IDX540"></A>
+The <CODE>algae</CODE> interpreter is incomplete.  There are several operations
+that it should be able to perform but that have not yet been
+implemented.  These cases elicit a "detour" message from <CODE>algae</CODE>.
+Since they're not bugs, you don't need to tell us about them.  Still,
+complaining about them might get them fixed.</P><P>
+
+<BLOCKQUOTE><TABLE BORDER=0 CELLSPACING=0> 
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_9.html#SEC55">9.1 Reporting Bugs</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+<TR><TD ALIGN="left" VALIGN="TOP"><A HREF="algae_9.html#SEC56">9.2 Reported Bugs</A></TD><TD>&nbsp;&nbsp;</TD><TD ALIGN="left" VALIGN="TOP"></TD></TR>
+</TABLE></BLOCKQUOTE>
+<P>
+
+<A NAME="Reporting Bugs"></A>
+<HR SIZE="6">
+<A NAME="SEC55"></A>
+<H2> 9.1 Reporting Bugs </H2>
+<!--docid::SEC55::-->
+<P>
+
+In order for a bug report to serve its purpose, you must include the
+information we need to fix it.  As the GNU people say, "report all the
+facts".  But never mind Joe Friday--the more information the better.
+It usually doesn't pay to explore the "envelope" of the bug; that is,
+changes to the input that affect it.  Providing a simple example is the
+best way to get a bug fixed.</P><P>
+
+You should include the following information with your bug report:
+</P><P>
+
+<UL>
+<LI>
+The version of <CODE>algae</CODE>.  You can get this by running it with the
+<SAMP>`-V'</SAMP> option.<P>
+
+<LI>
+A complete input file that will reproduce the bug.  A single statement
+is generally not sufficient.<P>
+
+<LI>
+The type of machine you are using, and the operating system name and
+version number.<P>
+
+<LI>
+A description of what behavior you observe that you believe is
+incorrect.</UL>
+<P>
+
+Send bug reports to:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>ksh@sideslip.org
+</pre></td></tr></table></P><P>
+
+or, as a last resort, mail them to:
+</P><P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>Algae Bugs
+Attn: Scott Hunziker
+The Boeing Company
+P.O. Box 3707, MC 4C-41
+Seattle, WA  98124-2207
+</pre></td></tr></table></P><P>
+
+<A NAME="Reported Bugs"></A>
+<HR SIZE="6">
+<A NAME="SEC56"></A>
+<H2> 9.2 Reported Bugs </H2>
+<!--docid::SEC56::-->
+<P>
+
+Below is a list of bugs that are known to exist in the current version
+of <CODE>algae</CODE> and are waiting to be fixed.</P><P>
+
+<DL COMPACT>
+<DT>1
+<DD>Recurse deep enough, and <CODE>algae</CODE> dumps core.  For example, the
+expression<P>
+
+<TABLE><tr><td>&nbsp;</td><td class=example><pre>function () { return self(); } ()
+</pre></td></tr></table></P><P>
+
+will not return gracefully.  (I just tried it, and I had to reboot my
+machine!)  It usually takes more than 500 levels of recursion to hit
+this bug, though, so you'll probably only encounter it with runaway
+functions.</P><P>
+
+<DT>16
+<DD>We have problems when a parse error occurs in a recursive call to the
+parser.  Local variables created in the recursive call are left in an
+invalid state.  This happens, for example, if you call the <CODE>source</CODE>
+function from an interactive session and encounter a parse error in the
+process.<P>
+
+<DT>22
+<DD>Every time Algae parses a file, it leaks the memory in which the name of
+that file is stored.  The names are kept around because user functions
+refer to them.  Instead, we should arrange for the names to be stored
+with each user function so that they get deleted when the function is
+deleted.<P>
+
+<DT>23
+<DD>When Algae reads a binary file that contains a user function, it
+allocates memory for every string constant in that function.  If you
+then delete that function, this memory is leaked.<P>
+
+<DT>24
+<DD>We use the texi2html program to make Algae's HTML documentation from the
+texinfo source.  Among its numerous deficiencies, it sometimes splits an
+anchor from the text with which it is supposed to be associated.  For
+example (from algae-3.5.0), the anchor for the section named "Running
+Algae" is put at the bottom of the file <TT>`algae_6.html'</TT> instead of
+at the top of <TT>`algae_7.html'</TT> where it belongs.  For this reason,
+the Algae <CODE>info</CODE> function may not take you to the right place in
+the document.</DL>
+<P>
+
+<A NAME="Concept Index"></A>
+<HR SIZE="6">
+<TABLE CELLPADDING=1 CELLSPACING=1 BORDER=0>
+<TR><TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_9.html#SEC54"> &lt;&lt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57"> &gt;&gt; </A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT"> &nbsp; <TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae.html#SEC_Top">Top</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_toc.html#SEC_Contents">Contents</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_10.html#SEC57">Index</A>]</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT">[<A HREF="algae_abt.html#SEC_About"> ? </A>]</TD>
+</TR></TABLE>
+<BR>  
+<FONT SIZE="-1">
+This document was generated
+by <I>K. Scott Hunziker</I> on <I>October, 31  2001</I>
+using <A HREF="http://www.mathematik.uni-kl.de/~obachman/Texi2html
+"><I>texi2html</I></A>
+
+</BODY>
+</HTML>

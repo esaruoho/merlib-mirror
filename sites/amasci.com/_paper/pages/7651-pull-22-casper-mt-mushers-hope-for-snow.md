@@ -1,0 +1,556 @@
+---
+title: "Pull 22 -- Casper Mt. Mushers' Hope for Snow"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Pull22.html
+order: 7651
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T17:15:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 22 -- Casper Mt. Mushers' Hope for Snow
+
+*Source page: `~samoyed/iwpa/9899/Pull22.html`*
+
+Casper Mt. Mushers' Hope for Snow\
+Norske Kennels, Casper, Wyoming
+==================================
+
+Pull: 22
+
+Organizer(s): Kay Bramson
+
+Wheels Region: 3
+
+Packed Dirt
+
+Track: Fairly Good. Got a little soft as weights increased.
+
+Date: 11/14/98
+
+Weather:
+
+Windy and warm: 50F.
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Missy
+
+3
+
+950
+
+8.20
+
+30
+
+31.67
+
+7.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Georgia
+
+9
+
+770
+
+33.40
+
+31
+
+24.84
+
+4.0
+
+Rick Williams
+
+Am. PitBull Terrier
+
+Odda
+
+3
+
+500
+
+8.60
+
+29
+
+17.24
+
+1.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Stoker
+
+3
+
+1460
+
+10.50
+
+49
+
+29.80
+
+14.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Chief
+
+3
+
+1460
+
+11.40
+
+54
+
+27.04
+
+11.0
+
+Kevin Jackson
+
+Am. PitBull Terrier
+
+Cerabus
+
+3
+
+1250
+
+10.90
+
+48
+
+26.04
+
+8.0
+
+Larry McGee
+
+Am. PitBull Terrier
+
+Yoshi
+
+9
+
+1250
+
+11.50
+
+55
+
+22.73
+
+6.0
+
+Kathy Burke
+
+Mixed
+
+Kassi
+
+9
+
+1040
+
+8.20
+
+57
+
+18.25
+
+5.0
+
+Justine Alvarado
+
+Siberian Husky
+
+Shiney
+
+3
+
+1040
+
+10.50
+
+53
+
+19.62
+
+4.0
+
+Thomas James
+
+Mixed
+
+Xena
+
+3
+
+830
+
+7.80
+
+50
+
+16.60
+
+3.0
+
+Kay Bramson
+
+Norwegin Elkhound
+
+TuLuck
+
+3
+
+830
+
+9.50
+
+46
+
+18.04
+
+2.0
+
+Roger Bramson
+
+Siberian Husky
+
+Gus
+
+3
+
+830
+
+10.40
+
+59
+
+14.07
+
+1.0
+
+Darryl Williams
+
+Mixed
+
+Hjelle
+
+3
+
+620
+
+6.40
+
+41
+
+15.12
+
+0.5
+
+Kay Bramson
+
+Norwegin Elkhound
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Xydako
+
+9
+
+1490
+
+38.80
+
+61
+
+24.43
+
+10.0
+
+Justine Alvarado
+
+Mixed
+
+Prince Apollo
+
+9
+
+1490
+
+60.80
+
+71
+
+20.99
+
+7.0
+
+Terence Reed
+
+Boxer
+
+Lady Hawk
+
+9
+
+1280
+
+8.60
+
+79
+
+16.20
+
+4.0
+
+Larry Williams
+
+Alaskan Malamute
+
+Achoo
+
+3
+
+1070
+
+15.00
+
+71
+
+15.07
+
+2.0
+
+Darryl Williams
+
+Mixed
+
+Kiauna
+
+9
+
+860
+
+8.80
+
+76
+
+11.32
+
+1.0
+
+Steve Riggs
+
+Mixed
+
+Hobo
+
+3
+
+650
+
+9.50
+
+63
+
+10.32
+
+0.5
+
+Roger Bramson
+
+Siberian Husky
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Kobuk
+
+9
+
+1280
+
+18.30
+
+97
+
+13.20
+
+6.0
+
+Steve Riggs
+
+Alaskan Malamute
+
+Sam
+
+3
+
+650
+
+9.00
+
+87
+
+7.47
+
+3.0
+
+Roger Bramson
+
+Akita
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Tess
+
+3
+
+1490
+
+14.20
+
+111
+
+13.42
+
+6.0
+
+Dee Ann Snyder
+
+English Mastiff
+
+Palakwayo
+
+9
+
+1280
+
+13.60
+
+102
+
+12.55
+
+3.0
+
+Rick Williams
+
+Alaskan Malamute
+
+Last Updated: 00:41:50 on 12-16-1998
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](%20%20%20%20%20%20%20%20%20%20Pull21.html%20%20%20) | [Next Pull \#](%20%20%20%20%20%20%20%20%20%20Pull23.html%20%20%20) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

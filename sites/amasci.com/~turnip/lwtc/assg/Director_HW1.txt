@@ -1,0 +1,25 @@
+Director I HW#1: Five Exercises 
+
+ MMDP 125 "Director" 
+ Homework #1: Five Exercises 
+ Click here for a list of skills you will need for this assignment -->
+ Due: Tues Apr 22, beginning of class 
+ Value: 15 points 
+ Download the Director file "Director_HW1.dir" (right click (PC) or 
+ Option click (MAC) on this link to download) 
+ (Director 8.0 version here ). Open the file 
+ in Director & follow the instructions
+ Trouble opening the file? Remember, I made these files on a PC, so you can't 
+ open them just by doubleclicking; you have to start Director & locate the 
+ file using the File:Open dialog.
+ ** GUIDELINES FOR SUBMITTING HOMEWORK ASSIGNMENTS ** 
+ Please submit your homework file, on or before the due date, in one
+of the following ways:
+
+ Upload it to the Director Drop Box on BigMac 
+ Email it to turnip@eskimo.com (please 
+ zip or stuff it first) 
+
+ Click here to see what Part 5 should look like. 
+
+ Back

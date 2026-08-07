@@ -1,0 +1,111 @@
+0-1 Integer Linear Programming 
+
+Richard Bean, contact me 
+
+I use 0-1 Integer Linear Programming extensively in
+my combinatorics research. However the Linear Programming FAQ is out of date, and doesn't list
+all the software available.
+
+Typically the models I use have a very high degree of symmetry,
+and solve set-covering problems or slight generalisations
+of such problems. 
+Francois Margot works on these kind of problems.
+
+These are the programs I've been using. 
+
+ Tested 
+
+ WSAT 
+This is excellent at finding the best solutions quickly, but
+it cannot prove maximum or mimimum bounds. A Linux version
+which works until December 2003 is available (January 13,2003).
+January 9, 2004 - now you have to email the author. 
+I used it in the critical sets for elementary abelian 2- and 3-groups paper. 
+
+ CPLEX with 
+ AMPL where the demo version of CPLEX 8 is.
+This is apparently the industry standard for linear programming.
+It has a good output format providing upper and lower bounds,
+and many options for guiding the search. It doesn't find
+the best solutions quickly, but is excellent at proving bounds - you
+can take the WSAT answer and put it into CPLEX. Even
+the academic version is at least $US995 - this is only
+affordable by large companies or Western universities.
+I used CPLEX 8 in my smallest critical set paper
+and
+in the critical sets for elementary abelian 2- and 3-groups paper. But BonsaiG, GLPK, and Sbb are all so good, 
+I could have coped without it. Of course, ILOG claims that
+ILP has wonderfully improved between CPLEX 8 and CPLEX 9,
+but with the death of the benchmark page below, who would know?
+
+ OPBDP 
+This is sometimes better than CPLEX at finding good initial
+solutions and uses less memory. But it cannot find
+provably optimal solutions as well as CPLEX.
+
+ PBS 
+The papers about it claim great performance, but the results
+for the kind of problems I typically solve weren't good. Email
+the author for information.
+
+ BSOLO 
+Haven't used it much. Uses "pbf format" files, 
+performance
+doesn't seem to be exceptional. No documentation. Use "+V0"
+to just have the bounds displayed, "+Tn" to set the maximum
+CPU time used to n seconds. It seems pretty flaky too.
+
+ lp_solve 
+A standard LP solver, but not much good for integer programming.
+
+ OSL 
+IBM's Optimization Solutions and Library software. Free for research.
+Average performance. Whoever invented MPS format should be shot.
+
+ LINDO Got a demo version for Linux based on Lindo 6. It wasn't so good. Sent some sample programs to them for benchmarking with latest version, not so good either.
+
+ BonsaiG GPL. 
+I used it in my smallest critical set paper. 
+On AMD processors, it performed better than CPLEX for this kind of problem.
+ GLPK GPL. Could have used it in the scs paper too.
+
+ MOSEK Had them send a time-limited demo version - wasn't so great.
+ MOMIP Free. I can't remember if it was good, but see benchmark below.
+ COIN/Sbb The author of BonsaiG suggested I use this instead when I emailed him about the FORTRAN kludge in BonsaiG beoming crufty (it only works with gcc 2.95, not gcc 3.3). Haven't tested it lately.
+
+ Commercial or untested or maybe not even for 0-1 ILP 
+
+ XA 
+ XPRESS 
+ ZOOM 
+ MINOS (Not for ILP, I don't think!).
+ FortMP 
+ MINTO 
+ SOPT 
+ XLSOL 
+ IPENUM (link broken as at 2004-03-02)
+ OR Library 
+ CSPLIB when there's no objective function (another CSPLib link for constraint solvers)
+ BOB branch-and-bound library, link doesn't work 2003-02-18
+ LPABO 
+ PCx 
+ HOPDM 
+ BPMPD 
+ KNITRO 
+
+Many of the above are available at the NEOS server. 
+And more obscure software is at NEOS Guide. 
+There WAS a Mixed Integer Linear Programming Benchmark. (The author didn't just stop doing
+the benchmarks, he took down all the current ones. How unfriendly.)
+
+Also, according to the PBS
+paper , it should be possible to rewrite any 0-1 ILP problem in
+(DIMACS) CNF format, which means SAT solvers such as zChaff could be
+used. However I haven't found software to do this or written any
+myself. 
+
+In old versions of the Linear Programming FAQ, Bob Craig
+from Lucent is mentioned as having written software
+to do this, but I couldn't find a working email address.
+
+ Free counter

@@ -1,0 +1,46 @@
+C Programming 
+
+the
+ comp.lang.c FAQ List ,
+by yours truly
+
+the
+ Lysator C archive 
+
+The official
+ISO/IEC JTC1/SC22/WG14-C
+ home page ,
+including C9X drafts and related material
+(see also
+Dave Keaton's
+ home page ,
+which seems to contain some of the same stuff )
+
+the
+ notes for some C classes I teach 
+(a sort of on-line tutorial)
+
+J. Blustein's
+ C Programming Language Resources 
+
+Vinit Carpenter's
+ ``Learn C/C++ Today'' 
+
+A
+ C and C++ page 
+by Jack Klein
+
+other tutorials and resources listed in
+ question 18.9 
+of the
+ FAQ List 
+(this link will break soon, when I forget to change it;
+please mail me when it does)
+
+the
+ International Obfuscated C Code Contest 
+
+ Ted Nokonechny's ``C Programming Tips'' 
+
+ Peter Seebach 's
+ ``Useless C Page''

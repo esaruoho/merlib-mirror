@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>2.7 Function Calls</title>
+<link href="sx2f.html" rev=precedes>
+<link href="sx3.html" rel=precedes>
+<link href="sx2.html" rev=subdocument>
+</head>
+<body>
+<H2>2.7 Function Calls</H2>
+
+<p>We'll have much more to say about functions in a later chapter,
+but for now let's just look at how they're called.
+(To review: what a function <em>is</em> is a piece of code, 
+written by you or by someone else, which
+performs some useful, compartmentalizable task.)
+You call a function by mentioning its name followed by a pair 
+of parentheses.
+If the function takes any arguments, you place the arguments 
+between the parentheses, separated by commas.
+These are all function calls:
+<pre>
+	printf("Hello, world!\n")
+	printf("%d\n", i)
+	sqrt(144.)
+	getchar()
+</pre>
+The arguments to a function can be arbitrary expressions.
+Therefore, you don't have to say things like
+<pre>
+	int sum = a + b + c;
+	printf("sum = %d\n", sum);
+</pre>
+if you don't want to;
+you can instead collapse it to
+<pre>
+	printf("sum = %d\n", a + b + c);
+</pre>
+Many functions return values, and when they do, you can embed 
+calls to these functions within larger expressions:
+<pre>
+	c = sqrt(a * a + b * b)
+	x = r * cos(theta)
+	i = f1(f2(j))
+</pre>
+The first expression squares <TT>a</TT> and <TT>b</TT>,
+computes the square root of the sum of the squares,
+and assigns the result to <TT>c</TT>.
+(In other words,
+it computes <TT>a * a + b * b</TT>,
+passes that number to the <TT>sqrt</TT> function,
+and assigns <TT>sqrt</TT>'s return value to <TT>c</TT>.)
+The second expression passes the value of the variable <TT>theta</TT> to 
+the <TT>cos</TT> (cosine) function,
+multiplies the result by <TT>r</TT>,
+and assigns the result to <TT>x</TT>.
+The third expression
+passes the value of the variable <TT>j</TT> to the function <TT>f2</TT>,
+passes the return value of <TT>f2</TT>
+immediately to the function <TT>f1</TT>,
+and finally assigns <TT>f1</TT>'s return value to the variable <TT>i</TT>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx2f.html" rev=precedes>prev</a>
+<a href="sx3.html" rel=precedes>next</a>
+<a href="sx2.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,42 @@
+About Classification Properties 
+
+ About Classification Properties 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Classification Properties 
+ display |
+ visibility |
+ position |
+ float |
+ clear 
+
+ What Do They Do? 
+ The classification properties serve to classify elements and select which
+ layout models will be used in their display. In the visual media formatting
+ model, an element's rendering is based heavily upon, among other things,
+ the positioning method specified (floating, positioned or normal flow
+ positioning) and the classification type of the element's box (the 'display'
+ property.)
+
+ Related Sites 
+ Official Reference: CSS Level 1, Sections 5.5.25-6 and 5.6.1 
+ 5.6.1: ' display ' 
+ 5.5.25: ' float ' 
+ 5.5.26: ' clear '
+ Official Reference: CSS Level 2, Section 15.2 
+ 9.2.5: ' display ' 
+ 11.2: ' visibility ' 
+ 9.3.1: ' position ' 
+ 9.5.1: ' float ' 
+ 9.5.2: ' clear '
+ Browser Reference: Microsoft MSDN 
+ ' display '
+ Browser Reference: Netscape DevEdge Online 
+ ' visibility '
+
+ Boring Copyright Stuff....

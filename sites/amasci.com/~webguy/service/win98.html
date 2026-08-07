@@ -1,0 +1,167 @@
+<html>
+<!-- Copyright 2003-2004 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Windows 98
+</title>
+
+<link rel=stylesheet type="text/css"
+      href="../css.css" title="hoverstyle">
+
+<link rel="shortcut icon" href="../favicon.ico">
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Getting<br>
+Windows 98<br>
+on the Local Area Network
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+May 11, 2003
+<p>
+
+<font size=+0>
+
+I am using a D-Link LAN card 
+(<a href="http://support.dlink.com/Products/view.asp?productid=DFE-690TXD">DFE-690TXD</a>)
+connected to
+Windows 98 (Win98) computer.
+To get the Win98 computer to work on the LAN, do the following:
+<p>
+
+<ol type=1>
+<li>Run the <i>Network Setup Wizard</i> from the floppy disk you created
+during your 
+<a href="winxp.html">
+WinXP session with the <i>Network Setup Wizard.</i>
+</a>
+Choose the <b>second</b> option:
+<p>
+
+<blockquote>
+<font size=-1>
+This computer connects to the Internet through another computer on my network
+or through a residential gateway.
+</font>
+</blockquote>
+<p>
+
+After the <i>Network Setup Wizard</i> exits, reboot.
+<p>
+
+<li>Then do the following. See the Win98 help for detailed explanations on how-to:
+<p>
+
+<ol type=a>
+<li>You need to create a <b>unique name</b> for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's <b>different</b> from
+every other computer on the LAN.
+<p>
+
+<li>You need to create a group name. Again, it doesn't matter what it is
+as long as it's the <b>same group name</b> on every computer on the LAN.
+<p>
+
+<li>You need to create another account with a username and password for the network.
+It doesn't matter what the username and password is as long as you
+<b>exactly match</b> this account information with the WinXP server.
+<p>
+
+I would suggest you create a separate user account just for the network on each machine. 
+<p>
+
+<li>Then you may want to set some folders as <i>Shared</i> in the 
+<i>File Manager.</i> If you want <i>older</i> versions of Windows (like Windows 3.11)
+to be
+able to access your share folder, make the share folder name 8 characters
+or less.
+<p>
+
+Please see the 
+<a href="ics.html">
+ICS main webpage
+</a> regarding <i>firewall</i> information and updates.
+
+</ol>
+<p>
+
+You probably need to reboot again.
+<p>
+
+<li><b>Login to the network account</b> you created above.
+<p>
+
+<li>Open a <i>Command Window</i> and type:
+<p>
+
+<blockquote>
+ <b>ipconfig</b>
+</blockquote>
+<p>
+
+The IP address should be <b>192.168.0.XXX</b> where XXX is a number other than 1.
+The subnet mask should be <b>255.255.255.0</b>.
+Use <b>ipconfig /?</b> to get help on this command.
+<p>
+
+<li>The Win98 computer and shared directories should now be 
+recognized on the LAN.
+Go to <i>My Network Places</i> and click <i>View workgroup computers.</i>
+This should bring up the other computer names on the LAN.
+</ol>
+
+</font>
+
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+
+<center>
+
+<table border=7 cellpadding=5>
+<tr><td>
+<a href="ics.html">
+Internet Connection Sharing
+</a>
+</td>
+
+<td>
+<a href="../writings/writings.html">My Writings</a>
+</td></tr>
+</table>
+<p>
+
+<font size=2>
+Last updated : March 13, 2004
+<br>
+Copyright 2003-2004 Al Wong, Los Angeles, California, USA
+</font>
+
+</center> 
+
+</body>
+</html>
+
+
+
+
+
+

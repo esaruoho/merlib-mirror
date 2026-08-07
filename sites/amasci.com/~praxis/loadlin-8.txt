@@ -1,0 +1,9 @@
+The Loadlin+Win95 mini-HOWTO: Credits 
+
+ 8. Credits 
+
+ A special thanks to
+ Norm Jacobowitz and 
+ Fred Harris for
+helping me sort out the Windows 95 OSR2 issues and for helping me
+improve this mini-HOWTO.

@@ -1,0 +1,29 @@
+<HTML><HEAD>
+</HEAD>
+<BODY>
+<H1>Companies I've Worked For</H1>
+I've been working at <a href="http://www.surreal.com/">Surreal Software</a> since 1998, developing AI for Playstation2 and PC games.  I'm currently working on an AI system for two upcoming PS2 games after finishing work on the PS2 game, <i>Drakan: The Ancients' Gates</i>, which was released in February 2002.  Before that I worked on <i>Drakan: Order of the Flame</i>, a PC title released in 1999.
+<p>
+Before Surreal, I worked for PsychoHazard Software, developing the 2D geometry engine and AI for <i>StixWorld</i>, a PC game released in 1998.
+<p>
+While working on my B.S. at the University of Utah, I worked as a Programmer Tester at Evans and Sutherland.  That's where I first learned 3D graphics programming, developing demos to test the ESV, a then "high-end" UNIX-based PHIGS+ graphics workstation.  Two of the demos were selected to be shown at the 1990 and 1991 SIGGRAPH conventions.  One was <i>PexCycles</i>, a six-player, networked, first-person perspective, Tron light-cycles game.  The computer players were controlled by neural networks.  The other was <i>MandZoom</i>, an interactive, real-time 3D fractal viewer.
+<p>
+<FOOT>
+<CENTER>
+<TABLE border=1 cellPadding=4>
+  <TBODY>
+  <TR>
+    <TH colSpan=7>Greg Alt's Personal Pages 
+  <TR>
+    <TH width="14%"><a href="Work.shtml">Companies<br>I've<br>Worked For</a>
+    <TH width="14%"><a href="Education.shtml">Education</a>
+    <TH width="14%"><a href="Games.shtml">Completed<br>Games</a> 
+    <TH width="14%"><a href="Publications.shtml">Publications</a>
+    <TH width="14%"><A href="bike.shtml">Bicycle<BR>Commuting<BR>Checklist</A> 
+    <TH width="14%">My<BR>Realtime<BR>Raytracer 
+    <TH width="14%"><A href="index.shtml">Homepage</A> 
+  </TR></TBODY></TABLE>
+<P>
+</CENTER>
+
+</BODY></HTML>

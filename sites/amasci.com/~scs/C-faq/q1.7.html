@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.7</title>
+<link href="q1.4.html" rev=precedes>
+<link href="q1.11.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.7</H3>
+<p>What's the best way to declare and define global variables?
+</p><hr>
+<p>First, though there can be many
+<dfn>declarations</dfn>
+(and in many translation units)
+of a single ``global''
+
+(strictly speaking, ``external'')
+variable
+or function,
+there must be exactly one
+<dfn>definition</dfn>.
+(The
+definition is the declaration that actually allocates space,
+and provides an initialization value, if any.)
+The best arrangement
+is to
+place each
+definition in some relevant
+.c file,
+with
+an external declaration in a
+header
+(``.h'')
+file,
+which is
+<TT>#include</TT>d
+wherever the declaration is needed.
+The .c file containing the definition should also <TT>#include</TT> the
+same header file,
+so that the compiler can check
+that the definition matches the declarations.
+</p><p>This rule promotes a high degree of portability:
+
+it
+is consistent with the requirements of the ANSI C Standard,
+and is also consistent with most pre-ANSI compilers and linkers.
+(Unix
+compilers and linkers typically use a ``common model''
+which allows multiple definitions,
+as long as at most one is initialized;
+this
+behavior is mentioned as a ``common extension'' by
+the ANSI Standard,
+no pun intended.
+A few
+very odd
+systems may require an explicit initializer to
+distinguish a definition from an external declaration.)
+</p><p>It is possible to use preprocessor tricks
+to arrange that
+a line like
+<pre>	DEFINE(int, i);
+</pre>need only be entered once in one header file,
+
+and turned into a definition or a declaration
+depending on the setting of some macro,
+but it's not clear if
+this is
+worth the trouble.
+</p><p>It's
+especially important
+to put global declarations in header files
+if you want the compiler
+to
+catch inconsistent declarations for you.
+In particular,
+never place a prototype for an external function
+in a .c file:
+it wouldn't generally be checked for consistency with the definition,
+and an incompatible
+prototype is worse than useless.
+</p><p>See also
+questions <a href=q10.6.html>10.6</a> and <a href=q18.8.html>18.8</a>.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+<p>References:
+
+K&amp;R1 Sec. 4.5 pp. 76-7
+<br>
+K&amp;R2 Sec. 4.4 pp. 80-1
+<br>
+ANSI Sec. 3.1.2.2, Sec. 3.7, Sec. 3.7.2, Sec. F.5.11
+<br>
+ISO Sec. 6.1.2.2, Sec. 6.7, Sec. 6.7.2, Sec. G.5.11
+<br>
+Rationale Sec. 3.1.2.2
+<br>
+H&amp;S Sec. 4.8 pp. 101-104, Sec. 9.2.3 p. 267
+<br>
+CT&amp;P Sec. 4.2 pp. 54-56
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q1.4.html" rev=precedes>prev</a>
+<a href="q1.11.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

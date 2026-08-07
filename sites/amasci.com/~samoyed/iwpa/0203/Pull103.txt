@@ -1,0 +1,335 @@
+Pull 103 -- Corapeake Snow Pull
+ -- Day 2 
+
+ Corapeake Snow Pull 
+Corapeake, North Carolina (759 Daniels Rd) 
+
+ Pull: 103 
+ Organizer(s): Catlin, Kevin 
+ Snow on Null
+ Region: 7 
+
+ Track: 
+ Zamboni Shavings
+Pulling surface rated at 5 
+ Date: 
+Thu
+ 20 
+Feb
+ 2003 
+
+ Weather: 
+ 40 degrees 
+
+ Day 2 of 2 
+
+ Entered by Donna Daymude 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Todd Pederson 
+
+ 40 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Swampdog's Dutchess 
+ 7 
+ 100
+
+ 3.43 
+ 40 
+ 2.50 
+ 5.0 
+ Brandon Pederson
+
+ Am. PitBull Terrier 
+
+ 60 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jaws 
+ 11 
+ 100
+
+ 2.19 
+ 59 
+ 1.69 
+ 6.0 
+ Ed St Lawrence
+
+ Am. Bull Dog 
+
+ Swampdog's Sobe 
+ 7 
+ 100
+
+ 2.46 
+ 59 
+ 1.69 
+ 3.0 
+ Logan Pederson
+
+ Swampdog 
+
+ 80 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Swampdog's Nala 
+ 7 
+ 100
+
+ 2.19 
+ 79 
+ 1.27 
+ 5.0 
+ Todd Pederson
+
+ Am. Bull Dog 
+
+ 100 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Princess 
+ 11 
+ 340
+
+ 3.93 
+ 94 
+ 3.62 
+ 9.0 
+ Ron Kemp
+
+ Am. Bull Dog 
+
+ Haus 
+ 11 
+ 280
+
+ 3.98 
+ 84 
+ 3.33 
+ 6.0 
+ Ron Kemp
+
+ Am. Bull Dog 
+
+ Torah 
+ 11 
+ 280
+
+ 9.06 
+ 97 
+ 2.89 
+ 3.0 
+ Mark Pickrel
+
+ Alaskan Malamute 
+
+ Swampdog's Casper 
+ 7 
+ 160
+
+ 2.88 
+ 95 
+ 1.68 
+ 1.0 
+ Todd Pederson
+
+ Am. Bull Dog 
+
+ Swampdog's Twitch 
+ 7 
+ 100
+
+ 2.15 
+ 97 
+ 1.03 
+ 0.5 
+ Todd Pederson
+ Tina Pederson
+
+ Am. Bull Dog 
+
+ 125 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Swampdog's Bugg 
+ 7 
+ 220
+
+ 2.30 
+ 112 
+ 1.96 
+ 6.0 
+ Todd Pederson
+ Tina Pederson
+
+ Am. Bull Dog 
+
+ Suki 
+ 11 
+ 220
+
+ 12.30 
+ 125 
+ 1.76 
+ 3.0 
+ Kevin Catlin
+
+ Alaskan Malamute 
+
+ 150 # Class 
+
+Judged by 
+Todd Pederson
+
+ 100 # Start weight, 
+ 60 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Moses 
+ 11 
+ 640
+
+ 6.98 
+ 145 
+ 4.41 
+ 6.0 
+ Mark Pickrel
+
+ Alaskan Malamute 
+
+ Chief 
+ 11 
+ 220
+
+ 3.18 
+ 132 
+ 1.67 
+ 3.0 
+ Kevin Catlin
+
+ Alaskan Malamute 
+
+ Last Updated: 22:39:24 on 03-06-2003 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

@@ -1,0 +1,1351 @@
+HTML clipboard 
+
+ Ronald E. Bowser 
+ Ronald E. Bowser 
+ 2001-03-30T13:27:04Z 
+ 1996-09-17T05:26:50Z 
+ 2001-05-05T13:14:14Z 
+ 9.4402 
+
+ 16 
+ #8080FF 
+
+ 17 
+ #802060 
+
+ 18 
+ #FFFFC0 
+
+ 19 
+ #A0E0E0 
+
+ 20 
+ #600080 
+
+ 22 
+ #0080C0 
+
+ 23 
+ #C0C0FF 
+
+ 33 
+ #69FFFF 
+
+ 36 
+ #A6CAF0 
+
+ 37 
+ #CC9CCC 
+
+ 39 
+ #E3E3E3 
+
+ 42 
+ #339933 
+
+ 43 
+ #999933 
+
+ 44 
+ #996633 
+
+ 45 
+ #996666 
+
+ 48 
+ #3333CC 
+
+ 49 
+ #336666 
+
+ 52 
+ #663300 
+
+ 55 
+ #424242 
+
+ Entry Status 
+
+ 264 
+
+ 68 
+ -2 
+ 300 
+
+ 3 
+ 36 
+ 2 
+
+ 3 
+
+ 2 
+ 48 
+ 16 
+
+ False 
+ False 
+ False 
+
+ Column A 
+
+ Column B 
+
+ 26569 
+ entry_status_26569 
+ SourceSheet 
+ HtmlStatic 
+
+ 15606 
+ entry_status_15606 
+ SourcePrintArea 
+ HtmlStatic 
+
+ Sheet3 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet4 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet5 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet6 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet7 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet8 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet9 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet10 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet11 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet12 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet13 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet14 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet15 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet16 
+
+ 264 
+ False 
+ False 
+ False 
+
+ 6300 
+ 12120 
+ 0 
+ 36 
+
+ False 
+ False 
+
+ EntryTimes 
+ ='Entry Status'!$A$3:$K$70 
+
+ HTML_CodePage 
+
+ =1252 
+
+ HTML_Control 
+
+ ={"'Entry Status'!$A$1:$L$57"} 
+
+ HTML_OBDlg2 
+
+ =FALSE 
+
+ HTML_OBDlg3 
+
+ =TRUE 
+
+ HTML_OBDlg4 
+
+ =TRUE 
+
+ HTML_OS 
+
+ =0 
+
+ HTML_PathFile 
+
+ ="f:\iwpa\9899\entry_status.htm" 
+
+ HTML_PathTemplate 
+
+ ="F:\IWPA\9899\entry_status_template.htm" 
+
+ HTML1_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$15" 
+
+ HTML1_11 
+
+ =1 
+
+ HTML1_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML1_2 
+
+ =-4146 
+
+ HTML1_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML2_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$3:$K$15" 
+
+ HTML2_11 
+
+ =1 
+
+ HTML2_12 
+
+ ="D:\www\WebPages\iwpa\MyHTML.htm" 
+
+ HTML2_2 
+
+ =-4146 
+
+ HTML2_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML3_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$3:$K$3" 
+
+ HTML3_11 
+
+ =1 
+
+ HTML3_12 
+
+ ="D:\www\WebPages\iwpa\MyHTML.htm" 
+
+ HTML3_2 
+
+ =-4146 
+
+ HTML3_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML4_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$16" 
+
+ HTML4_11 
+
+ =1 
+
+ HTML4_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML4_2 
+
+ =-4146 
+
+ HTML4_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML5_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$17" 
+
+ HTML5_11 
+
+ =1 
+
+ HTML5_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML5_2 
+
+ =-4146 
+
+ HTML5_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML6_1 
+
+ ="'[entry_status.xls]Entry Status'!$B$1:$K$17" 
+
+ HTML6_11 
+
+ =1 
+
+ HTML6_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML6_2 
+
+ =-4146 
+
+ HTML6_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML7_1 
+
+ ="'[entry_status.xls]Entry Status'!$A$1:$K$19" 
+
+ HTML7_11 
+
+ =1 
+
+ HTML7_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML7_2 
+
+ =-4146 
+
+ HTML7_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTML8_1 
+
+ ="'[entry_status.xls]Entry Status'!$C$1:$K$19" 
+
+ HTML8_11 
+
+ =1 
+
+ HTML8_12 
+
+ ="D:\www\WebPages\iwpa\entry_status.htm" 
+
+ HTML8_2 
+
+ =-4146 
+
+ HTML8_3 
+
+ ="D:\www\WebPages\iwpa\HTMLTemp.htm" 
+
+ HTMLCount 
+
+ =8 
+
+ Print_Area 
+ 1 
+ ='Entry Status'!$A$1:$N$73 
+
+ PullsByCity 
+ ='Entry Status'!$A$3:$F$70 
+
+ IWPA 2000/2001 Pull Entry/Distribution
+ Status 
+
+ Yellow have not been
+ received 
+
+ Received, not entered 
+ Entered, Not Posted 
+ Entered, Not Sent to Newsletter 
+
+ 1st Date 
+ Last Date 
+
+ Location 
+ State 
+ Reg 
+ Pull #s 
+ Received 
+ Entered 
+ Online 
+ Mailed NL 
+ In NL 
+ Web Calendar 
+ Mailed Sample to Organizer 
+
+ 02-Sep 
+ 03-Sep 
+
+ Corapeake 
+ NC 
+ 7 
+ 001 - 002 
+ 18-Sep 
+ 18-Sep 
+ 19-Sep 
+ 18-Sep 
+ Oct 
+ 28-Aug 
+
+ 09-Sep 
+ 10-Sep 
+
+ Gardners 
+ PA 
+ 5 
+ 003 - 004 
+ 18-Sep 
+ 18-Sep 
+ 19-Sep 
+ 18-Sep 
+ Oct 
+ 28-Aug 
+
+ 16-Sep 
+ 17-Sep 
+
+ Victoria 
+ BC 
+ 2 
+ 007 - 008 
+ 27-Sep 
+ 29-Sep 
+ 02-Oct 
+ 02-Oct 
+ Nov 
+ 28-Aug 
+
+ 16-Sep 
+ 17-Sep 
+
+ Kalkaska 
+ MI 
+ 6 
+ 005 - 006 
+ 24-Sep 
+ 25-Sep 
+ 26-Sep 
+ 26-Sep 
+ Nov 
+ 28-Aug 
+
+ 23-Sep 
+ 24-Sep 
+
+ Newboro 
+ ON 
+ 5 
+ 009 - 010 
+ 16-Oct 
+ 17-Oct 
+ 18-Oct 
+ 22-Oct 
+ Nov 
+ 28-Aug 
+
+ 23-Sep 
+
+ Casper 
+ WY 
+ 3 
+ Canceled.
+ No-one showed because of 1' of snow 
+ 28-Aug 
+
+ 30-Sep 
+ 01-Oct 
+
+ Longmont 
+ CO 
+ 9 
+ 011 - 012 
+ 16-Oct 
+ 18-Oct 
+ 18-Oct 
+ 22-Oct 
+ Nov 
+ 28-Aug 
+
+ 07-Oct 
+ 08-Oct 
+
+ Cashmere 
+ WA 
+ 2 
+ 013 - 014 
+ 18-Oct 
+ 19-Oct 
+ 20-Oct 
+ 22-Oct 
+ Nov 
+ 28-Aug 
+
+ 07-Oct 
+ 08-Oct 
+
+ Eason Crossroads 
+ NC 
+ 7 
+ 015 - 016 
+ 18-Oct 
+ 20-Oct 
+ 20-Oct 
+ 22-Oct 
+ Nov 
+ 28-Aug 
+
+ 14-Oct 
+ 15-Oct 
+
+ Kalkaska 
+ MI 
+ 6 
+ 017 - 018 
+ 03-Nov 
+ 14-Nov 
+ 15-Nov 
+ 19-Nov 
+ Dec 
+ 28-Aug 
+
+ 21-Oct 
+ 22-Oct 
+
+ North Elba 
+ NY 
+ 5 
+ 019 - 020 
+ 03-Nov 
+ 15-Nov 
+ 15-Nov 
+ 19-Nov 
+ Dec 
+ 28-Aug 
+
+ 21-Oct 
+ 22-Oct 
+
+ Virginia Beach 
+ VA 
+ 6 
+ 021 - 022 
+ 03-Nov 
+ 15-Nov 
+ 15-Nov 
+ 19-Nov 
+ Dec 
+ 28-Aug 
+
+ 21-Oct 
+ 22-Oct 
+
+ Missoula 
+ MT 
+ 3 
+ 023 - 024 
+ 03-Nov 
+ 15-Nov 
+ 15-Nov 
+ 19-Nov 
+ Dec 
+ 21-Sep 
+
+ 28-Oct 
+ 29-Oct 
+
+ Arcola 
+ VA 
+ 6 
+ 025 - 026 
+ 17-Nov 
+ 18-Nov 
+ 18-Nov 
+ 19-Nov 
+ Dec 
+ 22-Sep 
+
+ 04-Nov 
+
+ Casper 
+ WY 
+ 3 
+ 027 
+ 17-Nov 
+ 18-Nov 
+ 18-Nov 
+ 19-Nov 
+ Dec 
+ 28-Aug 
+
+ 04-Nov 
+ 05-Nov 
+
+ Hartford 
+ CT 
+ 5 
+ 028 - 029 
+ 17-Nov 
+ 18-Nov 
+ 19-Nov 
+ 19-Nov 
+ Dec 
+ 28-Aug 
+
+ 11-Nov 
+ 12-Nov 
+
+ Kalkaska 
+ MI 
+ 6 
+ 030 - 031 
+ 24-Nov 
+ 09-Dec 
+ 09-Dec 
+ 15-Dec 
+ Jan 
+ 28-Aug 
+
+ 11-Nov 
+ 12-Nov 
+
+ Missoula 
+ MT 
+ 3 
+ 032 - 033 
+ 24-Nov 
+ 11-Dec 
+ 11-Dec 
+ 15-Dec 
+ Jan 
+ 21-Sep 
+
+ 11-Nov 
+ 12-Nov 
+
+ Frackville 
+ PA 
+ 5 
+ 034 - 035 
+ 24-Nov 
+ 11-Dec 
+ 11-Dec 
+ 15-Dec 
+ Jan 
+ 23-Sep 
+
+ 18-Nov 
+
+ Greeley 
+ CO 
+ 9 
+ 036 
+ 18-Dec 
+ 03-Jan 
+ 03-Jan 
+ 21-Jan 
+ Feb 
+
+ 18-Nov 
+ 19-Nov 
+
+ Union Gap 
+ WA 
+ 2 
+ 037 - 038 
+ 18-Dec 
+ 03-Jan 
+ 03-Jan 
+ 21-Jan 
+ Feb 
+ 23-Sep 
+
+ 02-Dec 
+ 03-Dec 
+
+ Missoula 
+ MT 
+ 3 
+ 039 - 040 
+ 18-Dec 
+ 03-Jan 
+ 03-Jan 
+ 21-Jan 
+ Feb 
+ 21-Sep 
+
+ 02-Dec 
+ 03-Dec 
+
+ Forksville 
+ PA 
+ 5 
+ 041 - 042 
+ 18-Dec 
+ 05-Jan 
+ 05-Jan 
+ 21-Jan 
+ Feb 
+
+ 09-Dec 
+
+ Casper 
+ WY 
+ 3 
+ 043 
+ 18-Dec 
+ 05-Jan 
+ 05-Jan 
+ 21-Jan 
+ Feb 
+
+ 09-Dec 
+ 10-Dec 
+
+ Danville 
+ KY 
+ 6 
+ 044 - 045 
+ 02-Jan 
+ 20-Jan 
+ 20-Jan 
+ 21-Jan 
+ Feb 
+
+ 10-Dec 
+
+ Newark 
+ DE 
+ 6 
+ 046 
+ 02-Jan 
+ 20-Jan 
+ 20-Jan 
+ 21-Jan 
+ Feb 
+
+ 16-Dec 
+ 17-Dec 
+
+ Michigan Center 
+ MI 
+ 6 
+ 047 - 048 
+ 02-Jan 
+ 20-Jan 
+ 20-Jan 
+ 21-Jan 
+ Feb 
+
+ 30-Dec 
+ 31-Dec 
+
+ Newport News 
+ VA 
+ 6 
+ 049 - 050 
+ 27-Jan 
+ 10-Feb 
+ 10-Feb 
+ 19-Feb 
+ Mar 
+ 03-Dec 
+
+ 06-Jan 
+
+ Greeley 
+ CO 
+ 9 
+ 051 
+ 27-Jan 
+ 10-Feb 
+ 11-Feb 
+ 19-Feb 
+ Mar 
+
+ 13-Jan 
+
+ Denver 
+ CO 
+ 9 
+ 052 
+ 27-Jan 
+ 11-Feb 
+ 11-Feb 
+ 19-Feb 
+ Mar 
+ 03-Dec 
+
+ 13-Jan 
+ 14-Jan 
+
+ Andover 
+ OH 
+ 6 
+ 053 - 054 
+ 27-Jan 
+ 15-Feb 
+ 15-Feb 
+ 19-Feb 
+ Mar 
+ 03-Dec 
+
+ 13-Jan 
+ 14-Jan 
+
+ Leavenworth 
+ WA 
+ 2 
+ 055 - 056 
+ 27-Jan 
+ 16-Feb 
+ 16-Feb 
+ 19-Feb 
+ Mar 
+ 23-Sep 
+
+ 20-Jan 
+ 21-Jan 
+
+ Deer Park 
+ WA 
+ 2 
+ 057 - 058 
+ 05-Feb 
+ 17-Feb 
+ 17-Feb 
+ 19-Feb 
+ Mar 
+ 11-Nov 
+
+ 20-Jan 
+ 21-Jan 
+
+ Kalkaska 
+ MI 
+ 6 
+ 059 - 060 
+ 05-Feb 
+ 17-Feb 
+ 18-Feb 
+ 19-Feb 
+ Mar 
+ 03-Dec 
+
+ 20-Jan 
+ 21-Jan 
+
+ Ticonderoga 
+ NY 
+ 5 
+ 061 - 062 
+ 05-Feb 
+ 18-Feb 
+ 18-Feb 
+ 19-Feb 
+ Mar 
+ 03-Dec 
+
+ 20-Jan 
+ 21-Jan 
+
+ Greeley 
+ CO 
+ 9 
+ 063 - 064 
+ 05-Feb 
+ 18-Feb 
+ 18-Feb 
+ 19-Feb 
+ Mar 
+ 09-Jan 
+
+ 27-Jan 
+ 28-Jan 
+
+ Casper 
+ WY 
+ 3 
+ 065 - 066 
+ 05-Feb 
+ 18-Feb 
+ 18-Feb 
+ 19-Feb 
+ Mar 
+
+ 27-Jan 
+ 28-Jan 
+
+ Lorraine 
+ NY 
+ 5 
+ 067 - 068 
+ 20-Feb 
+ 24-Feb 
+ 25-Feb 
+ 21-Mar 
+ Apr 
+ 03-Dec 
+
+ 03-Feb 
+
+ Berthoud 
+ CO 
+ 9 
+ 069 
+ 20-Feb 
+ 24-Feb 
+ 25-Feb 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 03-Feb 
+ 04-Feb 
+
+ Lake George 
+ NY 
+ 5 
+ 070 - 071 
+ 20-Feb 
+ 26-Feb 
+ 27-Feb 
+ 21-Mar 
+ Apr 
+ 03-Dec 
+
+ 03-Feb 
+ 04-Feb 
+
+ East Tawas 
+ MI 
+ 6 
+ 072 - 073 
+ 20-Feb 
+ 02-Mar 
+ 02-Mar 
+ 21-Mar 
+ Apr 
+ 03-Dec 
+
+ 10-Feb 
+ 11-Feb 
+
+ Newboro 
+ ON 
+ 5 
+ 074 - 075 
+ 23-Feb 
+ 03-Mar 
+ 03-Mar 
+ 21-Mar 
+ Apr 
+
+ 10-Feb 
+ 11-Feb 
+
+ Gates 
+ NC 
+ 7 
+ 076 - 077 
+ 23-Feb 
+ 03-Mar 
+ 03-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 17-Feb 
+ 18-Feb 
+
+ Missoula 
+ MT 
+ 3 
+ 078 - 079 
+ 02-Mar 
+ 05-Mar 
+ 06-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 17-Feb 
+ 18-Feb 
+
+ Warrensburg 
+ NY 
+ 5 
+ 080 - 081 
+ 02-Mar 
+ 06-Mar 
+ 06-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 24-Feb 
+ 25-Feb 
+
+ Yakima 
+ WA 
+ 2 
+ 082 - 083 
+ 07-Mar 
+ 09-Mar 
+ 09-Mar 
+ 21-Mar 
+ Apr 
+ 23-Sep 
+
+ 24-Feb 
+ 25-Feb 
+
+ Beaverton 
+ MI 
+ 6 
+ 084 - 085 
+ 07-Mar 
+ 09-Mar 
+ 09-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 24-Feb 
+ 25-Feb 
+
+ Culpeper 
+ VA 
+ 6 
+ 086 - 087 
+ 07-Mar 
+ 10-Mar 
+ 10-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 24-Feb 
+ 25-Feb 
+
+ Gering 
+ NE 
+ 9 
+ 088 - 089 
+ 07-Mar 
+ 10-Mar 
+ 10-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 03-Mar 
+
+ Port Clinton 
+ PA 
+ 5 
+ 090 
+ 10-Mar 
+ 10-Mar 
+ 10-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 03-Mar 
+
+ Greeley 
+ CO 
+ 9 
+ 91 
+ 12-Mar 
+ 12-Mar 
+ 13-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 03-Mar 
+ 04-Mar 
+
+ Victoria 
+ BC 
+ 2 
+ 096 - 097 
+ 14-Mar 
+ 19-Mar 
+ 19-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 03-Mar 
+ 04-Mar 
+
+ Mundelein 
+ IL 
+ 4 
+ 092 - 093 
+ 14-Mar 
+ 18-Mar 
+ 18-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 10-Mar 
+
+ Greeley 
+ CO 
+ 9 
+ 098 
+ 14-Mar 
+ 19-Mar 
+ 19-Mar 
+ 21-Mar 
+ Apr 
+
+ 10-Mar 
+ 11-Mar 
+
+ Providence 
+ RI 
+ 5 
+ 094 - 095 
+ 13-Mar 
+ 14-Mar 
+ 14-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 17-Mar 
+ 18-Mar 
+
+ Union Gap 
+ WA 
+ 2 
+ 101 - 102 
+ 23-Mar 
+ 25-Mar 
+ 25-Mar 
+ 01-Apr 
+ Apr 
+ 23-Sep 
+
+ 17-Mar 
+ 18-Mar 
+
+ Greeley 
+ CO 
+ 9 
+ 099 - 100 
+ 19-Mar 
+ 19-Mar 
+ 19-Mar 
+ 21-Mar 
+ Apr 
+ 29-Jan 
+
+ 23-Mar 
+ 25-Mar 
+
+ Ridgefield 
+ WA 
+ 2 
+ 112 - 114 
+ 27-Mar 
+ 29-Mar 
+ 29-Mar 
+ 01-Apr 
+ Apr 
+ 20-Feb 
+
+ 24-Mar 
+
+ Tannersville 
+ PA 
+ 5 
+ 103 
+ 26-Mar 
+ 27-Mar 
+ 27-Mar 
+ 01-Apr 
+ Apr 
+ 29-Jan 
+
+ 24-Mar 
+ 25-Mar 
+
+ Missoula 
+ MT 
+ 3 
+ 104 - 105 
+ 26-Mar 
+ 27-Mar 
+ 27-Mar 
+ 01-Apr 
+ Apr 
+ 29-Jan 
+
+ 24-Mar 
+ 25-Mar 
+
+ Sutherlin 
+ VA 
+ 6 
+ 106 - 107 
+ 26-Mar 
+ 28-Mar 
+ 28-Mar 
+ 01-Apr 
+ Apr 
+ 29-Jan 
+
+ 24-Mar 
+ 25-Mar 
+
+ Cheyenne 
+ WY 
+ 3 
+ 115 - 116 
+ 28-Mar 
+ 30-Mar 
+ 30-Mar 
+ 01-Apr 
+ Apr 
+ 20-Feb 
+
+ 24-Mar 
+ 25-Mar 
+
+ Cadillac 
+ MI 
+ 6 
+ 108 - 109 
+ 26-Mar 
+ 29-Mar 
+ 29-Mar 
+ 01-Apr 
+ Apr 
+ 20-Feb 
+
+ 24-Mar 
+ 25-Mar 
+
+ South Vienna 
+ OH 
+ 6 
+ 110 - 111 
+ 26-Mar 
+ 28-Mar 
+ 28-Mar 
+ 01-Apr 
+ Apr 
+ 20-Feb 
+
+ 31-Mar 
+
+ South Vienna 
+ OH 
+ 6 
+ 118 
+ 02-Apr 
+ 02-Apr 
+ 02-Apr 
+ 03-Apr 
+ Apr 
+ 20-Feb 
+
+ 31-Mar 
+
+ Casper 
+ WY 
+ 3 
+ 117 
+ 01-Apr 
+ 01-Apr 
+ 01-Apr 
+ 03-Apr 
+ Apr 
+
+ 28-Apr 
+ 29-Apr 
+
+ Cheyenne 
+ WY 
+ 3 
+ 119 - 120 
+ 03-May 
+ 04-Apr 
+ 05-Apr 
+ 05-Apr 
+
+ Championships 
+
+ 05-May 
+
+ Last update this page

@@ -1,0 +1,7 @@
+default URL 
+
+I'm not sure how you got here,
+but where you want to be is
+ http://www.eskimo.com/~scs/C-faq/top.html .
+(It's not generally safe to abbreviate or truncate URL's;
+always type or paste them exactly as shown.)

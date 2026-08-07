@@ -1,0 +1,22 @@
+Critical sets in the elementary abelian 2- and 3- groups
+Richard Bean
+
+Institute for Studies in Theoretical Physics and Mathematics 
+PO Box 19395-5746 
+Tehran, I.R. Iran 
+
+In 1998, Khodkar showed that the minimal critical set in the Latin
+square corresponding to the elementary abelian 2-group of order 16
+is of size at most 124.  Since the paper was published, improved
+methods for solving integer programming problems have been
+developed.  Here we give an example of a critical set of size 121
+in this Latin square, found through such methods. We also give a
+new upper bound on the size of critical sets of minimal size for
+the elementary abelian 2-group of order $2^n$:
+$4^{n}-3^{n}+4-2^{n}-2^{n-2}$. We speculate about possible lower
+bounds for this value, given some other results for the elementary
+abelian 2-groups of orders 32 and 64. An example of a critical set
+of size 29 in the Latin square corresponding to the elementary
+abelian 3-group of order 9 is given, and it is shown that any such
+critical set must be of size at least 24, improving the bound of
+21 given by Donovan, Cooper, Nott and Seberry.

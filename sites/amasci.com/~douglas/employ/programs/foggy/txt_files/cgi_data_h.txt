@@ -1,0 +1,19 @@
+#ifndef CGI_DATA_H
+#define CGI_DATA_H
+
+struct cgi_data
+  {
+  char  *key;      // name of form input field, such as "user_name"
+  int    count;    // normally, this will have a value of 1, but if
+                   // the env_name contains several values (such as
+                   // from multiple selections from a scrolled list)
+                   // then count will be > 1
+  char **value;    // an array of strings, usually with just a single
+                   // array element, but in all cases "count" will
+                   // indicate the exact number of strings in the array
+  };
+
+extern char *get_debug_query_string();
+extern void save_query_string(const char* query_string);
+
+#endif

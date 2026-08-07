@@ -1,0 +1,585 @@
+---
+title: "jetindex"
+source_domain: amasci.com
+source_path: ~daddog/jetting/index.html
+order: 2126
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:08:36Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jetindex
+
+*Source page: `~daddog/jetting/index.html`*
+
+DADDOG's JETTING PAGE
+
+for BEGINNERS
+
+for the YFZ-450 Quad
+
+------------------------------------------------------------------------
+
+ 
+
+**WATCH THESE 4 VIDEOS BEFORE YOU GO ANY FURTHER:**
+
+ 
+
+[**JETTING VIDEO: REMOVING THE CARBURETOR WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/removethecarb.wmv)
+
+[**JETTING VIDEO: JETTING THE NEEDLE CHANGING THE NEEDLE CLIPS WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/jettingtheneedle.wmv)
+
+[**JETTING VIDEO: JETTING THE MAINJET AND PILOT JETS WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/jettingmainpilot.wmv)
+
+[**JETTING VIDEO: PUTTING BACK THE CARB WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/reinstallthecarb.wmv)
+
+ 
+
+[**JETTING VIDEO: JETTING THE FAST DOG WAY**](http://www.eskimo.com/~daddog/videos/fastdogjetting.wmv)
+
+ 
+
+------------------------------------------------------------------------
+
+ DOES YOUR 450 RUN ROUGH AT IDLE? (LEAN PILOT)
+
+ Does it not even idle unless you hold the throttle down? (LEAN PILOT)
+
+ Idle screw just won't get it idling fast enough? (LEAN PILOT)
+
+ Won't even start after the cam mod? (LEAN PILOT)
+
+ DOES IT (pop) ON RELEASE? (LEAN NEEDLE)
+
+ DOES IT HESITATE ON ACCELERATION? LEAN NEEDLE)
+
+ DOES IT GET VERY HOT ON IDLE? (LEAN PILOT)
+
+ DOES IT GET HOT RUNNING? (LEAN SOMEWHERE)
+
+ DOES IT HESITATED AND POP AT WIDE OPEN THROTTLE? (LEAN OR RICH AT WIDE OPEN THROTTLE)
+
+ Then you need to learn about jetting.
+
+ Please read the following after watching these videos. (Jetting is not that scary.) A YFZ owner must learn these things.
+
+  JETTING VIDEOS FOR BEGINNERS -To teach you how to jet a carburator, step by step. This is as easy as it gets. Step by step on how to remove the carburetor and EVERYTHING! And then videos showing you how to put it all back! Do not be afraid any more of trying to jet, you won't ruin anything if you follow these video! Jetting is a necessary skill for the new quad owner!
+
+ NEW! VIDEOS!
+
+ 
+
+[**JETTING VIDEO: REMOVING THE CARBURETOR WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/removethecarb.wmv)
+
+[**JETTING VIDEO: JETTING THE NEEDLE CHANGING THE NEEDLE CLIPS WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/jettingtheneedle.wmv)
+
+[**JETTING VIDEO: JETTING THE MAINJET AND PILOT JETS WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/jettingmainpilot.wmv)
+
+[**JETTING VIDEO: PUTTING BACK THE CARB WITHOUT BREAKING ANYTHING**](http://www.eskimo.com/~daddog/videos/reinstallthecarb.wmv)
+
+ 
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[**WHY DO I HAVE TO JET ALL THE TIME?**](whydoihavetojet.htm)
+
+ 
+
+[**HOW TO REMOVE THE CARBURETOR STEP BY STEP**](removingthecarb.htm)
+
+ 
+
+[**SETTING NEEDLE CLIPS**](jetneedle.htm)
+
+ 
+
+[**THE PILOT JET**](tthepilotjet.htm)
+
+ 
+
+[**THE MAIN JET**](themainjet.htm)
+
+ 
+
+ 
+
+[**THE NEEDLE CHOICES**](theneedle.htm)
+
+ 
+
+[**DISCLAIMER**](disclaimer.htm)
+
+ 
+
+[**I'M HAVING TROUBLE JETTING!**](jettingtrouble.htm)
+
+ 
+
+[**BACK TO HOME**](http://www.eskimo.com/~daddog/index.htm)
+
+takingoutcarb jettingneedle jettingmainandpilot puttingincarb
+
+ 
+
+ 
+
+ 
+
+  Dear friend:
+
+  This web site is written by a newbie to quads starting a few years ago , going through a lot of needless expense and finally learning how to make a faster running quad for not much money, and finally settling on one of the best quad ever made, the YFZ-450! This site will give the basics of jetting and repair of the 450 as we develop it.
+
+ 
+
+  JETTING UPDATE! 12-16-2003
+
+  YOUR HIGHEST JET on the MAIN will probably be a 175-178 mainjet Kehein series 13 jet if you have lots of mods. if you have an aftermarket needle. If you have a stock needle, and have done many mods you could go to 180 on the mainjet. your pilot should be swapped out to a 45 pilot right away, it is a better pilot, instead of the 42.if you are planning ANY MODS AT ALL.
+
+ 
+
+  JETTING UPDATE:5-2004 My last update on jetteing here is something I want you to read: THE YAMAH IS LEAN FROM THE FACTORY ALL THE WAY AROUND!
+
+  They had to meat California specs - and that means a barely sufficient jetting - (and more motor rebuilds most likely ) if you do any mods at all.
+
+  Please subscribe to www.mototune.com - it is a great learning site... , and read all the back issues that you will recieve after you subscribe: Here is a tidbit I removed from there. It tells us even on the RACE BIKES, stock quads are usuaully lean, if you add ANYTHING to them. the company is too lean.
+
+  Just read this and see an example of what to do when you buy an R6!
+
+ 
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+  R6 Shopping List
+
+ Improving on the basic power curve starts out with the right tuning.
+
+ R6's are extremely sensitive to exhaust system and jetting.
+
+ (SO IS THE YFZ-450 - it is a RACE QUAD-Ed.)
+
+ There's nothing an engine builder can do with the motor to compensate for the wrong exhaust system or jetting set up.
+
+  Exhaust Systems
+
+So far, I've tested 7 different brands of exhaust systems. Yoshimura and Akropovic are the only pipes I've seen that will give you the tractable power characteristics and the high average HP of The Mototune R6.
+
+ 
+
+ Air Filter
+
+ Good News! You already own the best R6 air filter ... stock Yamaha ! Keep it clean by washing it in dishwashing detergent, never use gas or other solvents.
+
+ Be sure it's completely dry before you reinstall it. (no oil or water)
+
+ 
+
+ Jetting Set Up:
+
+ Fuel Screws: On U.S. models youll have to first drill into the brass plug that blocks the pilot screw access, then use a sheet metal screw to pull out the plug. Carefully clean out all the chips, and turn the screws in until they lightly seat. Back them out 2 1/2 3 turns from there.
+
+ 
+
+  Needles: use a .020 inch (.5 mm) washer to raise the stock needles. Make sure the washer is no larger than the diameter of the needle top, or it won't seat in the bottom of the slide correctly.
+
+ 
+
+  Main Jets: Keep the stock stagger, and increase the main jet 1-3 half step sizes richer (depending on temperature, humidity and elevation) Always use stock main jets, aftermarket jets use a different calibration system.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+This is very common. I am here to tell you the YFZ-450 stock is the most plugged up Quad I know about, and it STILL performs. The pipe is like stuffing a shoe in the exhaust and the airfilter works VERY WELL but keeps the airpressure difference very high so they had to put in a skimpy pilot and a low mainjet, to even make it run while it is that plugged up.
+
+  Once you start unplagging, you are going to have to change everything.
+
+  The Pilot, the needle and the mainjet.
+
+  Or, you can just run it stock, but even THEN I would change the pilot to 55 and needle to clip \#5 and mainjet to 160 stock! IF YOUR QUAD WILL NOT IDLE RIGHT, YOUR PILOT IS WRONG. TRY ANOTHER AND ADJUST THE NEEDLE OPPOSITE ONE CLIP. OTHERWISE, IT IS TRIAL AND ERROR, WITH a few tips from this and other web sites. FOR THE BEST AWESOME JETTING YOU CAN POSSIBLY GET,,, BUY THE WWW.JET4POWER.COM MAN, YOU CAN THEN STOP WORRYING AND JUST GO RIDING.
+
+SO WHEN JETTING I WILL HAVE TO SAY
+
+START AT 162 mainjet in the jet kits, and slowly move up and maybe you can run a 170 like many people here with all the mods!
+
+if you have many mods and are running good at 175 then I say BE HAPPY you are about maxxed out!
+
+and this also means if your motor is running good, then stay with 175 and adjust the needle clip a little up or down.
+
+Remember you are LEAN FROM THE FACTORY.
+
+also why do we go up on the jets? Fuel ratios change when you change your air flow in the motor.
+
+because with the airbox lid off negative pressure goes down and the fuel does not come from the pilot as well as it should so you increase the jets a bit.
+
+Simple trial and error jetting works.
+
+go UP and UP until you loose power!
+
+then back off. you wont go up usually more than 2 or three sizes before you have to come back down. Don't be afraid of going up, going rich wont hurt the motor.
+
+but I would like to add, on your motors that will be right around 175 usually if you have a pipe and airbbox or filter mod..
+
+------------------------------------------------------------------------
+
+THIS IS AN UPDATE ADDED ON 03-22-2003
+
+IF you are using the JD jet kit (with blue needles and red needles) your pilots will be ONE or TWO LOWER than if you use GYTR needles, LIKE YZ450 dirtbike needle or the stock needle or NCVQ NEEDLE! So wiht JD kits you probably will run 45 pilots only cause the do all the calculations for you and you wont have to fool with pilots they increase the low end on their needles, BECAUSE they need to.
+
+This site is for GYTR needles and just subtract off one pilot and one or two mainjets if you use JD jet kits. you see JD Jetting BUILT IN THIS SECRET of changing the pilots and mains into their needle so it is easier to jet initially. You should still run a 45 pilot.anyway. Our new rule of thub is if you use the JD kit you probably will run a pilot 45 If you use the GYTR jet kit, you should run a pilot 48.
+
+To try and jet your first time, you probably should take the carburetor out so it will be easier, but you can try it while on the quad if you don't mind getting on your knees with a flashlight. Be careful and absolutely disconnect the electrical cable on the right, it DOES BREAK and CRACK from rotating the carb too much, and we just replaced ours with a 180 dollar check.
+
+------------------------------------------------------------------------
+
+If you are going to remove the carburetor, you should remove the throttle cable from the carb.so it doesnt just hang there.
+
+The boys can do either needle and jets without removing the carb, but it takes special tools (ground off hex wrench short screwdriver. and rounded hex nut drivers and a little more patience. Or you can do it with regular tools if you REALLY twist the carb (be careful)
+
+------------------------------------------------------------------------
+
+TO REMOVE THE CARB:
+
+Remove the air box rubber hose by loosening the airbox clamp a bit then pulling off the rubber hose to the carb.
+
+Then put your hand in the carb and lift the slide. That will rotate the fuel cable disk so that you can lift out the fuel cable and rotate it past the attachment hole and pop it out of there with your right hand and it pops right out. (loosen the nuts so you CAN pull it out first).
+
+That frees the carburetor so that you COULD just rotate the carb far enough to unscrew the top and remove the needle, but you have to get a little grabber or tweezer to pull the needle out, if you do it thise way, so, just take out the carb, then you will be able to just turn over the carb and have the needle fall out by itself.
+
+There is an easier trick to change the mainjets while they are still on the carburetor.
+
+Just get a 6 volt boxy flashlight, set it on the left footpeg/heel guard shining upwards into the bottom of the carburetor, get on your knees and look up into the carburetor. You will see both jets easily after you rotate the carb to yourself.
+
+Those are some easy tips to change the jets while not removing the carburetor.
+
+After you remove the carburetor a few times you will be able to try it this way and will be able to change needle or jets without removing anything first.
+
+------------------------------------------------------------------------
+
+You will probably not be able to jet a 450 by the book, or jet two 450's perfectly the same, because no two are the same. We have two and we found this out. We have found out, it is one fire breathing machine, the airflow is very high and changes slightly with any modification in this motor. it is a full racing engine.
+
+------------------------------------------------------------------------
+
+It derives its power (only 439 cc) from EFFICIANCY and lots of airflow.
+
+Even changeing small percentages of air flow change your jetting! Temperature, winter etc all change it. You don't have to worry about it, just KNOW about it if you want peak performance.
+
+But I am sure this winter, when some kids get PIPES, and K&N airfilters and do not JET, some may MELT DOWN THEIR MOTORS about February-march when it gets warmer out, and the cold air won't overcool their motors anymore.
+
+It will be sad, all the stories of how the 450 breaks down! There may be many threads saying MY QUAD JUST STOPPED RUNNING and the electric starter wont turn over! WHATS WRONG? And we will have to tell them they just seized up their engine!
+
+PLEASE SPREAD THE WORD on jetting BEFORE christmas, and warn anyone you know that is running a pipe, drive up to them and ask them if they jetted thier quad and what the jets are! If they are off, then race them, then tell them what you are running. Beating them makes them listen. We never discuss jetting until they have been whooped, then they listen.
+
+If you were a newbie and didn't know, wouldn't you want others to warn you? I WOULD!
+
+------------------------------------------------------------------------
+
+WHAT IS WITH ALL THE JETTING FOR THE 450?
+
+Uhm, it is a race bike with lots of power.
+
+If you want a bike you just BUY AND RIDE in death valley and pikes peak, go buy a honda 400ex. They are VERY STABLE VERY HARDY RUN GOOD and put out way way less power! you don't really have to jet them, cause if you do they still will be pretty slow, so what is the difference? They are great for families and kids learning to ride and wheely.
+
+I am still surprised at yamahas decisions to put out this FULL BORE RACE ENGINE to the general public! Didn't they know they would get lots of complaints about running poorly? Evidently not, they guessed and guessed right, that the enourmous power output would set off any complaints.! Yamaha is very wise!
+
+So what happens we get lots of beginer newbies (LIKE MYSELF!) who have overheating, popping etc, but we are HAPPY! HAPPY! HAPPY!
+
+So the only option we have, if you don't like the way it runs, just rejet it and improve it yourself! It is a race quad! Learn to be a racer! Learn to jet!
+
+Yamaha put in a carb that you dont even have to remove to rejet! Now that is thoughtful! so my advice is this, learn to jet young man/woman, and you will be happier.
+
+We went through many trials and money to learn the few little things we know, and so I put all our two teaspoons of BEGINNERS knowledge I know on this jetting site. And I hope to update as needed. (FREE)
+
+Our only goal is to make all 450's everywhere run perfectly and beat all other quads, and not melt down. That is not too much to ask is it? Think of all the HAPPY riders instead of SAD REBUILDING riders!
+
+I can give you safe jetting that will run anywhere and run pretty good. But you will have to do it! My screwdriver doesn't reach through the coputer screen.
+
+I will on this site give you a GOOD PLACE TO START! SOON you will be BETTER THAN ME at JETTING YOUR QUAD! NO man can jet your quad like you can. It isn't possible. You couldn't afford someone to spend a month jetting your quad cause that is what it takes to perfect it. I am not advising you to ignore the guidelines in the Yamaha book, you may use them! and you will meet all strict lean Yamaha california requirements!(yes, you could) but I will tell you yamaha tried REAL HARD to get the california green sticker! SO you know stock jetting is junk for drags.
+
+For the BEGINNER who wnat to JET ONE TIME and FORGET ALL ABOUT this subject here is the key:
+
+pilot 45 (biggest in the gytr jet kit for the YFZ450) airscrew 2 and mainjet 165 (Biggest in the Yamaha jet kit)and needle clip stock \#4 is my advice to anyone buying a 450 right off the shelf, if you remove the baffle and the airbox lid then put the needle on \#5 clip.
+
+IF YOU BUY A PIPE then get a 170 mainjet at least usually unless you are at altitude of several thousand feet..
+
+THAT IS ALL YOU HAVE TO KNOW! Popping and crackling and a little hesitation, is not much problem it won't hurt anything, and your tail pipe will glow RED! It is cool at night! Don't melt your pants. This won't cost you any money except a 6 dollar pilot and a 4 dollar mainjet. Order from BOB 1-800-487-3236 or from your local yamaha dealer. BOB is a yamaha dealer that believes in the cam mod and other options and knows about jetting. If you just want to get the GYTR JET KIT you get a needle also, put this needle on \#3. Another great JET KIT is the James Dean jet kit and it has two extra racing needles like a blue needle and a red needle. and you can go all through his papers and stuff and read a lot, but don't get confused. for your quad, your jetting will be unique.
+
+Go to www.bluetraxx.com or www.yfzcentral.com to ask about jetting they have guides there. There are some good people there who can help in difficult cases.
+
+The cost of the GYTR jet kit is high but it is a simple way to get appropriate jets for a stock 450 if you just want to remove baffle and air box lid and ROCK!
+
+Once you do pipes and airfilter pipe and cam mod, you will be many jet sizes above that kit. For just DO IT ONCE AND FORGET IT FOREVER, and if you never plan to modify the cam timing, then the GYTR kit (yamaha stock parts kit) is fine, order it from BOB 1-800-487-3236 if your local Yamaha dealer doe not have it.
+
+just get the GYTR kit install the biggest pilot and mainjet and put the gytr clip on \#3, you'll beat most stock 450's and some banshees with that setup. The JD jet kit or ordering bigger jets individually from bob or your local dealer is best for top performance. Or if you get better make your own needles and jets, but that is advanced and I won't cover that here. You can also get triple rate needles from JD that go beyond what Yamaha offers. But this takes advanced jetting skills This is for those who want to win.
+
+------------------------------------------------------------------------
+
+If you just buy the GYTR JET KIT, and put in the 45 pilot and the 165 mainjet, you can run that with airfilter on or off baffle in or out pismo glamis and colorado
+
+You probably won't melt your motor, it will backfire only occasionally and you can have fun and forever forget about jetting, popping up and down hills and running pretty fast. When people ask you why its backfiring, just tell them "Cause of all the extra power!" and drive off. If they tell you YOUR RUNNING LEAN AND WILL MELT YOUR MOTOR, just tell them you already jetted and you are pretty safe.
+
+When your ready to maximize your power, visit first www.bluetraxx.com or www.yfzcentral.com, that is where the jetters hang out. Then start sneaking up on the jets until you run very well.
+
+------------------------------------------------------------------------
+
+The first change is alway a bigger mainjet then one up on the needle clip, then a bigger mainjet again. When you think you have it right, then you need to take out your spark plug and put in a new one. check the old one and see what color the electrodes are. This tells you if you are jetted safely. If there is a LOT OF WHITE or chalk color on the electrodes, then you are runniing too hot and too lean.
+
+If the electrodes look BLACK and like PENCIL LEAD COLOR you are too rich and need to go down a main jet and try again. Or down a needle clip. CHANGE ONLY ONE THING AT A TIME. IF you have the cam mod you should run pilot 48.
+
+------------------------------------------------------------------------
+
+NEVER go below a PILOT OF 45! for any reason.
+
+------------------------------------------------------------------------
+
+NEVER go below a mainjet of 165 for any reason. NEVER put your needle clip below \#4 for any reason on the STOCK NEEDLE!
+
+CLIP 4 means the fourth clip counting from the big fat end. The closes notch to the big fat end is clip \# 1 this is danger zone clip \#2 is danger zone and clip \#3 is danger zone if you do any mods clip \#4 is safe for simple mods and so is clip 5 and 6.
+
+------------------------------------------------------------------------
+
+Looking at the plug, you will see that a good plug is light brown.
+
+if you have white on the electrodes then you are too lean, that means your jet numbers are a little bit low, so put in one bigger one. either a mianjet or another clip up on the needle. DO NOT JUST KEEP PUTTING IN BIGGER AND BIGGER MAINJETS! the rule of thumb is FIRST put in one mainjet, THEN GO UP ON THE NEEDLE TO \#4 then go u 1-2 more mainjets. then go up to \#5 on the needle then go up 1 mainjet. then go up to \#6 then go up 1-2 mainjets. Don't just go up only on mainjets, youll get way out of balance.
+
+AFTER GOING UP TWO CLIPS ON THE NEEDLE YOU MUST GO UP ON THE PILOT BY ONE or you will get hesitation. IF IT WILL NOT START then go down on the pilot by one.
+
+------------------------------------------------------------------------
+
+The 450 Runs hot from the factory, and the needle is chalk white from stock! (this was written in July 2003 when the bike cam with needle clip on \#3 ! they have since read the data out here and have gone to \#4 clip.You need to increse the needle and the mainjet right awa when you buy the quad to the needle on clip \#4, the pilot change to 45 and the mainjet to 162 from the factory.
+
+By one number clip up on the needle and at least a 165 mainjet. That gets it into NORMAL range! Also the pilot needs to be a 45. you can leave the 45 pilot forever until you have problems, with hesitation, then increas your pilot. when you accelerate and it hesitates, then go to a 48 with lots of mods and porting you need a 50 pilot WITH APPROPRIATE NEEDLE YOU NEVER HAVE TO GO OVER A 50 pilot! If they jetted your quad with a 60 pilot, they just didn't change the needle like they should have. You dont have to go over 50 pilot.
+
+------------------------------------------------------------------------
+
+STOCK NEEDLE is good for simple mods GYTR needle NCVQ is good for cam mod and hot pipes and
+
+everything you can clamp on, and for porting the NCVP needle on clip \#3 ROCKS! those are the only three needles you will ever need unless you bore it out to a 500 or try to run alcohol.
+
+To begin jetting, put in a 45 pilot no matter what.move your needle to clip \#4 and then start increasing mainjets.
+
+Your airscrew/fuelscrew should start at 1.5 turns that means turn it all the way clockwise till closed or all the way rotated clockwise, then open 360 degrees (1 full turn ) counterclockwise and another 1/2 turn counterclockwise. This is called opening it 1.5 turns.
+
+AFTER YOU ARE DONE JETTING then fiddle with your airscrew/fuelscrew. the fuelscrew on the YAMAHA is a pain! you have to take off the carb to adjust it! there is a company called ZIPTYE racing that makes a little extension that replaces the airscrew! This is awesome product. Buy one at 1-760-244-7028 and tell them DADDOG sent you. (I don't get kickbacks, nor do I even know them!But I would like to see their face when everyone starts telling them that! LOL)
+
+NOW START INCREASEING the MAINJET by one each day you ride and ride it a while, and see how it feels and race a few quads, if you do worse, then go back on the mainjet again and drop it by one. YOU ARE CHECKING THE TOP END ONLY when you do this. WHEN YOU GO YOUR FASTEST then you have the mainjet right. and that is where you sit till you buy some more mods. You need to rejet and test and redo this when you buy another mod, and each time you can get more power. AND MORE SPEED!
+
+IF YOU SEE BLACK on the tail pipe, you have to go back down a jet size (like from 170 to 168 main jet)
+
+There will be ONE JET COMBINATION that makes you HAUL like a SCALDED DOG! Your job is to find it, it exists!
+
+NEVER GO UNDER 160 mainjet and you probably will never need to go over 180 mainjet in fact you should be right around 165-170 on the mainjet give or take 5. These are the ones I would buy 168,170,172,175,178 .mainjets. thats like 25 dollars. or to go cheaper go 165,170,175,180 and get in the ballpark for 15 bucks.
+
+------------------------------------------------------------------------
+
+BEFORE you race a 450 ask them what their jet sizes are and you will be able to tell pretty well, if they will be faster than you. Also look at their tailpipe and if black soot is hanging out, and they say they jetted 185!! and they are smoking, you can beat them!.
+
+A properly jetted quad will rev QUICK! If they rev REAL FAST and QUICK they got it jetted right, watch out! And a good quad jetting does not pop pop popple on deceleration.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+When you go to another area you will rejet if you want to run the best, or you may just ignore jetting and have fun, popping and backfiring occasionally and having a great time, as long as you are above a 165 main and clip \#4 stock needle you shouldn't meltdown.
+
+HAVE FUN RIDING if you ever get stuck jetting give us a holler.
+
+Have fun and run fast!
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Here is a good article from allthingsmoto.com please visit their site.
+
+Carburetor tuning has the greatest effect on engine performance. When a motorcycle manufacturer builds a bike, they usually install jets in the carb that are too rich. The manufacturers sell the same model worldwide, so they couldnt afford to install different jets in the carb to suit all the different climates and types of fuel. In addition to the climate and fuel, the manufacturer would also have to consider many other factors, such as the terrain and type of riding. And then there is the most important jetting consideration, the rider.
+
+When I worked as a mechanic, I was in charge of jetting the bike over the course of the day. During morning practice sessions, the track was usually muddy and the air temperature was at its lowest point. I had to jet the bike rich for practice because the air density was greater and the mud put more of a load on the engine. Then I had to watch the rider and the bike perform on different sections of the track. I would go to the obstacle on the track that presented the greatest load on the bike, typically an uphill straight section.
+
+Id listen to my engine and watch the rider. Id listen for pinging or knocking noises or excessive smoke from the pipe. I would watch to see if the rider had to fan the clutch a lot and how my bike pulled in comparison to others. Getting feedback from the rider is difficult because they are concentrating on riding not the bikes performance. At a pro national there is one practice session, followed by a series of qualifiers and eventually two race motos. The time spacing of the riding sessions over the course of the day was such that I had to compensate the jetting two or three times. Otherwise, the bike would either seize from being too lean in the morning or run too rich for the second moto.
+
+Race mechanics have different techniques for carb jetting. These techniques range from asking other mechanics what jets they are running to using precise measuring gauges to monitor the engine performance. In motocross races, where most of the riders are of equal skill levels, a holeshot in the start can mean the difference between a place on the podium and 30 minutes of roost in your face! The difference in horsepower between the bike that gets the holeshot and the bike that brings up the back of the pack may only be a few ponies! The race mechanic can give his rider an awesome advantage if he carefully monitors the carb jetting.
+
+This section will give you insight into the carb tuning process, from diagnosing mechanical problems that mimic poor jetting to tuning tools such as gauges. It will also give you tips on a jetting method that Ive developed called the "ride-and-feel" method," which I consider to be the best method Its a technique that I teach to all the riders Ive worked with. You dont need any fancy tools, just the ability to make observations while you ride.
+
+------------------------------------------------------------------------
+
+The Differences in Two-Stroke and Four-Stroke Carbs
+
+The difference between a two-stroke and four-stroke engine is intake velocity. Two-stroke engines have lower velocity so the needle jet has a half-moon shaped hood protruding into the venturi to produce a low pressure area that aids in drawing the fuel up through the needle jet. Four-stroke carbs need to atomize the fuel more so than a two-stroke carb because so much of the fuel shears along the intake port and separates from the mixture stream. Four-stroke carbs have more jets and finer adjustment screws, plus they usually are equipped with an accelerator pump. A typical state of the art four-stroke carb is the Kehin CR.
+
+The latest trend in two-stroke carbs features a pump that sprays fuel into the venturi from 1/4th to 3/4th throttles. In the past, carb manufacturers made jet needles that attempted to compensate for the natural lean condition of the mid-range but that compromised the jetting at full throttle. The auxiliary pumps are powered by electricity supplied by the alternator (about 5 watts) and controlled by either a throttle position or an rpm sensor.
+
+------------------------------------------------------------------------
+
+Identification Guide to Popular Carb Types
+
+On two-stroke engines, several different model carbs have been used over the years, but there are basically two big carb manufacturers. Kehin and Mikuni are two popular brands of Japanese carbs used on nearly every dirt bike.
+
+Kehin has several different models. The most popular ones are the PJ, PWK, and PWM. The PJ is used on Honda CR125, 250, and 500 models from 1985-1997 The slide is oval shaped and there are no additional pumps, its just a simple carb. In fact it's so simple that the choke and idle screw share the same jet. The PWK was the next step up from the PJ. The PWK has a crescent shaped slide and a separate idle circuit from the choke. The PWK is used on Kawasaki KX125, 250, and 500 models from 1990-97. The latest version of the PWK features a pump to supply extra fuel in the mid-range. The PWM is similar to the older PWK (no pump) and the overall length is shorter.
+
+Mikuni has several different model carbs too. The original model VM had a round slide. There are many different parts available including needle jets of different diameters and jet needles with different taper angles and diameters. The next model was the TMX, which became available in 1987. It was a flat-slide carb, which offered a greater peak flow rate. The TMX was revised several times, becoming smaller with fewer parts. The TMS carb introduced in 1992 had no main or pilot jet. The slide and jet needle handled all the jetting. That carb worked great on 250cc bikes but never became popular. The PM is the latest Mikuni model. It features an oval crescent shaped slide and a very short body. That carb comes standard on Yamaha YZ125 and 250 1998 and newer models.
+
+------------------------------------------------------------------------
+
+Carburetor Parts and Function
+
+A carburetor is a device that enables fuel to mix with air in a precise ratio while being throttled over a wide range. Jets are calibrated orifices that take the form of parts such as pilot/slow jets, pilot air screw, throttle valve/slide, jet needle, needle jet/spray-bar, air jet, and main jet. Fuel jets have matching air jets, and these jets are available in many sizes to fine-tune the air-fuel mixture to the optimum ratio for a two-stroke engine, which is 12.5: 1.
+
+------------------------------------------------------------------------
+
+Fuel Jets, Air Jets, and Throttle Positions
+
+Three circuits control the air: the air-screw, the throttle slide, and the air jet. Four circuits control the fuel: the pilot/slow jet, the spray-bar/needle jet, the jet needle, and the main jet. The different air and fuel circuits affect the carb jetting for the different throttle-opening positions, as follows:
+
+------------------------------------------------------------------------
+
+Closed to 1/8 throttleair screw and pilot/slow jet
+
+1/8 to 1/4 throttleair-screw, pilot/slow jet, and throttle slide
+
+1/4 to 1/2 throttlethrottle slide and jet needle
+
+1/2 to full openjet needle, spray-bar/needle jet, main jet, and air jet
+
+(Note: On many modern carbs the spray-bar/needle jet and air jets are fixed-diameter passages in the carburetor body and cannot be altered.)
+
+------------------------------------------------------------------------
+
+Basic Carb Service
+
+Nobody likes to fiddle with a carb if they don't have to. Wedged in between the engine and frame with tubes, cables, and wires sprouting out like spaghetti, carbs are a pain to work on. Carbs require cleaning just like anything else, and some careful observations can save you big money in the long run. Start by pressure washing the bike, especially around the bottom of the carb where roost from the tires and oil from the chain accumulate. Take care when removing the carb, it's easy to damage the cable. Its better to remove the sub-frame so as to enable unrestricted access to the carb. This will also make it easier to route the vent hoses in their proper positions too. When you remove the carb look at the vent hoses. Are they melted from heat or clogged with mud? If so that can cause a vapor-locking problem in the float bowl and make the engine bog.
+
+Remove the top of the carb and disconnect the cable from the slide. Is the cable frayed or kinked? Is the rubber dust cover missing? If so then replace the cable. Now remove the float bowl, jet baffle (white plastic shroud around main jet), float and fuel inlet needle, and the air-screw. Shake the floats and listen for fluid that may have seeped inside. If so replace the floats otherwise the engine might suffer from constant fuel flooding. Check the fuel inlet needle. It has a Viton rubber tip and occasionally fuel additives and dirt damage the tip.
+
+Also check the spring-loaded plunger on the opposite end of the tip. If the spring doesn't push the plunger all the way out then replace it. Check the air-screw, there should be a spring and o-ring on the end of the needle. The spring provides tension to keep the air-screw from vibrating outward and the o-ring seals out dirt and water from entering the pilot circuit. Next check the bell mouth of the carb. Look for the two holes at the bottom of the bell mouth. The
+
+one in the center is the air passage for the needle jet and the other hole offset from center is the air passage for the pilot circuit. It's typical for those passages to get clogged with dirt and air filter oil. That would cause the engine to run rough because without a steady stream of air to mix with and atomize the fuel, raw fuel droplets make the jetting seem rich.
+
+Once the carb is basically stripped down (pilot/slow and main jet still in place) you can flush the passages. Get an aerosol can of brake or carb cleaner from an auto parts store. Make sure you get the type with the small diameter plastic tube that attaches to the spray tip. Direct the tip into the airscrew passage. When you spray the cleaner you should see it flow out the pilot/slow jet and the air passage in the bell mouth. Next spray through the pilot/slow jet, look for flow through a tiny passage located between the venturi and the intake spigot. Spraying cleaner through these passages insures that the low speed air and fuel circuits are open and free flowing. The last area to flush with the carb cleaner is the slide bore and slide. Dirt tends to trap there, causing the mating surfaces to develop scratches that could cause the throttle to stick!
+
+Just a small amount of water and dirt can get trapped in the tiny passages of the carb and cause havoc with jetting or even engine damage. How often should you service the carb? When it gets dirty! For example if you ride in muddy wet conditions you should at least check the vent hose. If the riding conditions are dusty and your air filter is covered with dirt, then its a good idea to do a basic carb servicing.
+
+------------------------------------------------------------------------
+
+Mechanical Problems
+
+The process of jettingchanging air or fuel jets in order to fine-tune engines' performanceis very simple. Jetting becomes complicated because mechanical problems sometimes mimic improper jetting. This causes you to waste time and money trying to correct the problem with expensive carburetor jets.
+
+Before you ever attempt to jet a carb, make sure the engine doesnt have any of the problems in the following list. If you are in the process of jetting a carb and you are stumped with a chronic problem, use this section as a guide to enlightenment!
+
+Crankcase air leaksAir leaks can occur at the cylinder base, reed valve, or the magneto seal. Air leaks make the throttle response sluggish and may produce a pinging sound. That sound occurs when the air-fuel mixture is too lean.
+
+Crankcase oil leaksThe right-side crankcase seal is submerged in the transmission oil. When this seal becomes worn out, oil can leak into the crankcase. The oil is transferred up to the combustion chamber and burned with the air-fuel mixture. The oil causes the spark plug to carbon-foul. This mechanical problem makes the jetting seem to be too rich.
+
+Coolant-system leaksCoolant systems leaks commonly occur at the cylinder-head gasket. When the coolant leaks into the combustion chamber, it pollutes the air-fuel mixture and causes a misfire or popping sound at the exhaust pipe. Check the engines coolant level frequently. Hondas and Kawasakis have characteristic coolant leaks because they use steel head gaskets. Yamahas and Suzukis use O-rings to seal the head and cylinder. Coolant-system leaks lower the engines peak horsepower. It makes the engine run as if the air-fuel mixture is too rich.
+
+Carbon-seized exhaust valvesThe exhaust valves sometimes become carbon-seized in the full-open position. This mechanical problem can make the engine run flat at low rpm and make the slow-speed jetting seem lean. The carbon can be removed from the exhaust valves with oven cleaner. Clean the exhaust valves whenever you replace the piston and rings.
+
+Blown silencerWhen the fiberglass packing material blows out of the silencer, excess turbulence forms in the silencer and the turbulence causes a restriction in the exhaust system. This restriction makes the engine run flat at high rpm.
+
+Broken reed-valve petalsThe petals of the reed-valve can crack or shatter when the engine is revved too high. This mechanical problem makes the engine difficult to start and can also have a loss of torque. Expert rider should switch to carbon fiber reed petals because they resist breaking at high rpm. Novice riders should use dual-stage fiberglass reeds (Aktive or Boyesen). These types of reed petals provide an increase in torque.
+
+Weak sparkWhen the ignition coils deteriorate, the engine performance will become erratic. Normally, the engine will develop a high-rpm misfire problem. Check the condition of the coils with a multimeter.
+
+Clogged carburetor vent hosesWhen the carburetor vent hoses get clogged with dirt or pinched closed, the jetting will seem to be too lean, so the engine will run sluggish. Always check the condition of your carburetor vent hoses. Make sure there is no mud in the hoses and that the hoses are not pinched between the suspension linkage.
+
+Carburetor float levelWhen the float level is too low, the jetting will seem to be too lean, so the engine performance will be sluggish. When the float level is too high, the jetting will seem to be too rich.
+
+Worn carburetor fuel-inlet needleWhen the fuel-inlet needle wears out, excess fuel enters the float bowl and travels up the slow jet and into the engine. This makes the carb jetting seem to be too rich. Replace the fuel-inlet needle and seat every two years.
+
+------------------------------------------------------------------------
+
+Jetting Shouldn't Be Scary!
+
+Jetting is the process of making adjustments to the air and fuel jet sizes in order to fine tune the carburation to suit the load demands on the engine and make the power delivery consistent and optimum. Too much anxiety is placed on jetting. Most people just want to call me on the phone and ask what jets they should put in their carb. Thats an impossible question because that the big dirt bike magazines attempt to answer just to increase readership. People get confused because they read jetting specs in a magazine, put those jets in their bike and seize the engine. Any quoted jetting in this book is just a baseline. Most magazines don't list parameters for their jetting specs like; Brand new bike running with VP C-12 fuel with Silkolene oil mixed at 30:1 and a NGK 8 spark plug, ridden by a really slow lard-ass editor twisting the throttle on a hard-packed track. Some part numbers and jet sizes are given in the Tuning Tips section for models that definitely need certain jets in order to get the bike near the
+
+baseline. There is an old saying that says you can fish for a man and feed him for a day or teach him to fish and enable him to feed himself for life. Here is a quick lesson on how to jet your dirt bike.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+The Ride and Feel Method THIS IS THE ONE WE USE!
+
+The most basic method of determining correct carburetor jetting is "ride and feel." This method requires you to determine if the carburetor tuning is too rich or too lean by the sound and feel of the engine. The first step is to mark the throttle body in 1/4-throttle increments, from closed to full open. Then, this method requires that you ride the motorcycle on a flat, circular course. To check the carb jetting for throttle positions up to 1/2 throttle, ride the motorcycle in second or third gear. Roll on the throttle slowly from 1/4 to 1/2 open. If the engine is slow to respond and bogs (engine makes a booooowah sound) then the carb jetting is too lean. You can verify lean jetting by engaging the carbs choke to the halfway position. This will make the air-fuel mixture richer and the engine should respond better. If the carb jetting is too rich, then the engine will make a crackling sound; the exhaust smoke will be excessive and the engine will run as if the choke is engaged. Careful engagement of the choke
+
+------------------------------------------------------------------------
+
+can help you determine if the jetting is rich or lean. Another important tip is to just change the jets one increment at a time, either rich or lean, until the engine runs better. Most people are afraid to change a jet because they think that the engine will be in danger of seizing. Believe me, one jet size won't make your engine seize but it could be the difference between running bad and running acceptable.
+
+To check the jetting for throttle positions from 1/2 to full open, ride the motorcycle in third and fourth gear. (You may need to increase the diameter of the circular riding course for riding in the higher gears.) Check the jetting in the same manner as listed above. The carb jets that affect the jetting from 1/2 to full throttle are the jet-needle, main jet, power jet (electronic carbs) and the air jet (on four-strokes).
+
+If you want to take this technique out to the racetrack, you can test the pilot/slow jet when accelerating out of tight hairpin turns, the needle clip position on sweeper turns and short straits, and test the main jet on the big uphill or long straits. Of course be careful if you try to use the choke technique because you could lose control when riding one handed.
+
+------------------------------------------------------------------------
+
+Jetting for Riding Techniques
+
+Certain types of riders require jetting to compliment their technique. For example beginner minibike riders will need slightly richer jetting on the pilot/slow jet and the needle clip position to mellow the powerband and make it easier to ride. Conversely desert racers who hold the throttle wide open for long periods of time need rich main jets to compensate for the high load.
+
+------------------------------------------------------------------------
+
+The Weather Makes The Biggest Difference!
+
+The weather can have a profound affect on the carb jetting because of the changes in air density. When the air density increases, you will need to richen the air-fuel mixture to compensate. When the air density decreases, you will need lean-out the air-fuel mixture leaner to compensate. Use the following as a guide to correcting your jetting when the weather changes:
+
+Air temperatureWhen the air temperature increases, the air density becomes lower. This will make the air-fuel mixture richer. You must select jet sizes with a lower number to compensate for the lower air density. When the barometric pressure decreases, the opposite effect occurs.
+
+HumidityWhen the percentage of humidity in the air increases, the engine draws in a lower percentage of oxygen during each revolution because the water molecules (humidity) take the place of oxygen molecules in a given volume of air. High humidity will make the air-fuel mixture richer, so you should change to smaller jets.
+
+AltitudeIn general, the higher the altitude the lower the air density. When riding at racetracks that are at high altitude, you should change to smaller jets and increase the engines compression ratio to compensate for the lower air density.
+
+------------------------------------------------------------------------
+
+Track Conditions and Load
+
+The conditions of the terrain and the soil have a great affect on jetting because of the load on the engine. Obstacles like big hills, sand, and mud place a greater load on the engine that requires more fuel and typically richer jetting. In motocross, track conditions tend to change over the course of the day. Typically in the morning the air temperature is cooler and the soil wetter requiring richer jetting. In the afternoon when the temperature rises and the track dries out, leaner jetting is needed in order to keep the engine running at peak performance. Other changes for mud and sand riding might include changing to a lower final-drive ratio (rear sprocket with more teeth) to reduce the load on the engine and help prevent it from overheating. Advancing the ignition timing will make the engine more responsive at low to middle rpm.
+
+------------------------------------------------------------------------
+
+Fuel and Oil Mixture Ratios
+
+When we talk about the "fuel" in the air-fuel mixture for a two-stroke engine, we are really talking about a mixture of fuel and oil. If you richen the pre-mix ratio (20:1 as opposed to 30:1) there is more oil and less fuel in the same volume of liquid, which effectively leans the air-fuel ratio. And this fact gives the clever tuner one more tool to use when the correct jet is not available or when none of the standard jets are exactly right. You can richen the jetting by slightly reducing the pre-mix ratio (less oil). You can lean the jetting by increasing the pre-mix ratio (more oil). The best part is that changes in the pre-mix ratio affect the jetting over the entire throttle-opening range, but the changes in ratio must be small to prevent excess wear from lack of lubricating oil or fouled plugs from too much oil.
+
+Pre-mix oils are formulated for a fairly narrow range of pre-mix ratios. You should examine the oil bottle for the oil manufacturers suggestion on the pre-mix ratio. All production two-stroke dirt bikes have a sticker on the rear fender suggesting that you set the pre-mix ratio to 20:1 That sticker is put there for legal purposes. Always refer to the oil manufacturers suggestion on pre-mix ratios. In general, small-displacement engines require a richer pre-mix ratio than do large-displacement engines because smaller engines have a higher peak rpm than larger engines. The higher the engine revs, the more lubrication it requires.
+
+------------------------------------------------------------------------
+
+Tuning Gauges
+
+There are three types of gauges that professional tuners use to aid carb jetting:
+
+1\. Relative-air-density (RAD) gauge
+
+2\. Air-fuel (AF) ratio meter
+
+3\. Exhaust-gas-temperature (EGT) gauge
+
+The following is a description of how each gauge functions and their advantages.
+
+RAD gaugeThis is the best gauge for dirt bikes because of the convenience. The gauge is no good unless you get the jetting perfect once. The RAD gauge provides you with an indication of how much the air density changes, helping you compensate for the affects of changes in the air temperature, altitude, and barometric pressure. The gauge is calibrated in percentage points. Once you set the jetting with the ride and feel method, you can set the calibration screw on the gauge so the needle is pointing to 100 percent. When the air density changes, the RAD gauge will show the relative percent of change. Using a calculator you can multiply the percentage change shown on the RAD gauge by the jet size and determine the corrected jet size for the air density. The pilot/slow and main jet have number sizes that correlate with the RAD gauge, but the needle clip position can only be estimated. Normally for every two main jet increments, the needle clip must be adjusted one notch.
+
+------------------------------------------------------------------------
+
+AF ratio meterThe AF meter measures the percentage of oxygen in the exhaust gasses, and displays the approximate air-fuel ratio of the carb. The gauge displays AF ratios from 10-16:1 The optimum AF ratio for a two-stroke engine is 12:1. The AF gauge utilizes a lambda sensor that is inserted into the center of the exhaust stream, approximately six inches from the piston in the header pipe of a four-stroke and in the baffle cone of a two-stroke engine. A permanent female pipe fitting (1/4in.) must be welded to the side of the exhaust pipe in order to fasten the sensor. The weld-on fitting set-up is also used on the temperature gauges, and the fitting can be plugged with a 1/4in. male pipe fitting when the gauge is not in use. This gauge is ideal for four-stroke engines.
+
+------------------------------------------------------------------------
+
+EGT gaugeThe EGT gauge measures the temperature of the gasses in the exhaust pipe by means of a temperature probe fastened into the exhaust pipe, six inches from the piston. This type of gauge enables you to tune the carb jetting and the pipe together, taking advantage of the fact that exhaust pipes are designed with a precise temperature in mind.
+
+------------------------------------------------------------------------
+
+An exhaust pipe is designed to return a compression wave to the combustion chamber just before the exhaust port closes. Most pipes are designed for a peak temperature of 1,200 degrees Fahrenheit. Most dirt bikes are jetted too rich, which prevents the exhaust gasses from reaching their design temperature, so power output suffers. Sometimes just leaning the main jet and the needle-clip position makes a dramatic difference.
+
+------------------------------------------------------------------------
+
+Digitron is the most popular brand of EGT gauge. It measures both EGT and rpm. This gauge is designed for go-kart racing so its not suited for wet weather conditions. It is designed to mount on the handlebars. That way the rider can focus in on it. Once you have performed the baseline jetting, send the rider out on the bike with the EGT. The rider observes the EGT to give you feedback on the necessary jetting changes. Once the jetting is dialed, we use the tachometer to check the peak rpm of the engine on the longest straight of the racetrack. For example, if the peak rpm exceeds the point of the engines power-peak rpm, then change the rear sprocket to a higher final-drive ratio (rear sprocket with fewer teeth) until the rpm drops into the target range. An EGT gauge is ideal for dirt track bikes and go-karts, where peak rpm temperature is critical.
+
+[**GO BACK TO HOME PAGE**](http:\\www.eskimo.com/~daddog/index.htm)

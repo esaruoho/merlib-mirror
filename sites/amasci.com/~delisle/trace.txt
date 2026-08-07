@@ -1,0 +1,27 @@
+Internet Traceroute Tools 
+
+ Internet PING and TRACEROUTE Connectivity Tools Via WWW 
+
+ Can the customer PING and TRACEROUTE from their computer to other places on the net? Can you PING and TRACEROUTE from these places to the customer's computer or the places she is trying to reach? Do they or you reach some sites but not others? Does it depend on where you look from and to? This can help determine if the problem is within the customer's computer,
+his local service provider, the final service they are connecting along some problem along the route.
+ These tools can be used to see if other sites are having the same connection problems you are having. For example, if you cannot TRACEROUTE to the Internic ( rs.internic.net ) or major world sites like Microsoft or regional ISP's like eskimo.com from your site, you can use the links
+below to see if you can do it from various places in the world. Note that these tools are run by them. 
+
+ Privacy Analysis of your Internet Connection - If we wanted, what we could fi
+nd out about you. (Via Pivacy.NET)
+ Tracert.com The Multiple Gateway of the Internet. 
+ Traceroute from Cortland Cortland Communications, Seattle WA. 
+ Traceroute.ORG big list of Traceroute Servers. 
+ PING From Voice Of America VARIOUS TOOLS From Monash University Australia A tool for tracking down junk e-mailers, junk news posters and their internet service providers.
+ Traceroute from Brisbane, Australia. TRACEROUTE From wiskit.com in Portland OR. (Only back to you) 
+ TRACEROUTE From Getnet in Phoenix Arizona 
+ TRACEROUTE From Pubnix TRACEROURE From Lyceum 
+ TRACEROUTE From Voice Of America 
+ TRACEROUTE From www.carpe.net TRACEROUTE From Pics Online 
+ TRACEROUTE From Israel 
+
+ 1997,99 Ben de Lisle . Subject to change. 
+ Back to Ben's Sno-space Page. 
+ Local and national ISP services provided by Eskimo North Internet. 
+
+ .end.of.file.

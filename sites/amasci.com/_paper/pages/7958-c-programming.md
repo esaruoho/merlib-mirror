@@ -1,0 +1,57 @@
+---
+title: "C Programming"
+source_domain: amasci.com
+source_path: ~scs/cclass/cclass.html
+order: 7958
+reachable_from_entry: false
+images: 0
+internal_links: 8
+extracted: 2026-08-07T17:15:35Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C Programming
+
+*Source page: `~scs/cclass/cclass.html`*
+
+# C Programming
+
+The notes on these pages are for the courses in C Programming I used to teach in the [Experimental College](http://www.eskimo.com/~scs/expcoll/) at the University of Washington in Seattle, WA. Normally these notes accompany fairly traditional classroom lecture presentations, but they are intended to be reasonably complete (more so, for that matter, than the lectures!) and should be usable as standalone tutorials.
+
+I originally designed the first, Introductory course around The C Programming Language (2nd Edition) by Kernighan and Ritchie, and the notes were designed to complement that text, highlighting important points and explaining subtleties which might be lost on the general reader. Later, I rewrote the notes to stand on their own (in part because, in spite of the first set of notes, too many of my students found K&R a bit too technical for an informal, introductory course). Finally, I occasionally teach an Intermediate course, which covers the topics which tend to be skipped or glossed over in introductory courses (bitwise operators, structures, file I/O, etc.). The Intermediate course has its own set of notes.
+
+All three sets of notes are available here. If you have a copy of K&R2 and would like a thorough treatment of the language, read K&R and the \`\`Notes to Accompany K&R'' side by side. If you're just getting your feet wet and would like a somewhat simpler introduction, read the \`\`Introductory Class Notes.'' If you have had an introduction to C (either here or elsewhere) and are now looking to fill in some of the missing pieces, read the \`\`Intermediate Class Notes.''
+
+Of course, just reading a book or these notes won't really teach you C; you will also want to write and run your own programs, for practice and so that the language concepts will make some kind of practical sense. Most of my [programming assignments](#assignments) (including review questions) are here as well, along with their solution sets. (No peeking at the answers until you've given the problems your best shot!)
+
+These notes are arranged for the web in the usual hierarchy by section and subsection. If you want to read through all of them, without keeping track of your own stack to implement a depth-first tree traversal, just follow the \`\`read sequentially'' links at the bottom of each page.
+
+Depending on your backgrouund, you might want to read one or both of the two preliminary handouts: one on programming in general, and one which reviews some math which is relevant to programming.
+
+One note about the HTML: these pages were produced automatically from the base manuscripts for my class notes, using a program of my own devising which is, all too typically, not (yet?) perfect. I apologize in advance for any formatting glitches. In particular, when you see `<sup>`...`</sup>` or `<sub>`...`</sub>` in the text, these do not represent bugs in your browser or accidental bugs in my markup; instead, these are my interim compromise way of representing superscripts and subscripts to you, since there's no way to do so in portable HTML.
+
+Finally, I realize that reading these notes on the net is not always as convenient as it might be, particularly when the net is slow. Please realize, though, that the net is what it is, and that I have gone to a certain amount of effort to place these notes here at all. Please do not ask me to send you a set of these notes for browsing on your own machine, as I am currently unable to do so.
+
+------------------------------------------------------------------------
+
+Handout: [A Short Introduction to Programming](progintro/top.html)
+
+Handout: [A Brief Refresher on Some Math Often Used in Computing](mathintro/top.html)
+
+Readings: [Notes to Accompany *The C Programming Language*, by Kernighan and Ritchie (\`\`K&R'')](krnotes/top.html)
+
+Readings: [Introductory C Programming Class Notes](notes/top.html) *(standalone)*
+
+Readings: [Intermediate C Programming Class Notes](int/top.html)
+
+<span id="assignments">Assignments:</span> (questions, exercises, and solutions)\
+[introductory class](asgn.beg/index.html)\
+[intermediate class](asgn.int/index.html)
+
+[Other Handouts](handouts)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+This page by [Steve Summit](http://www.eskimo.com/~scs/) // [Copyright](copyright.html) 1996-9 // [mail feedback](mailto:scs@eskimo.com)

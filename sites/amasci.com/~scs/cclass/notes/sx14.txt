@@ -1,0 +1,26 @@
+Chapter 14: What's Next? 
+
+ Chapter 14: What's Next? 
+
+ This last handout contains a brief list
+of the significant topics in C which we have not covered,
+and which you'll want to investigate further
+if you want to know
+all of
+C.
+ Types and Declarations 
+ Operators 
+ Statements 
+ Functions 
+ C Preprocessor 
+ Standard Library Functions 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995, 1996
+// mail feedback

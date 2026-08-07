@@ -1,0 +1,82 @@
+Structures, Unions, and Enumerations 
+
+ 2. Structures, Unions, and Enumerations 
+
+ 2.1
+What's the difference between
+ struct x1 { ... }; 
+and
+ typedef struct { ... } x2; 
+
+?
+ 2.2
+Why doesn't
+" struct x { ... };
+x thestruct; "
+work?
+ 2.3
+Can a structure contain a pointer
+to itself?
+ 2.4
+What's the best way of implementing opaque (abstract) data types in C?
+ 2.6
+I came across some code that declared a structure
+with the last member an array of one element,
+and then did some tricky allocation to make
+it act like the array
+had several elements.
+Is
+this
+legal or portable?
+ 2.7
+I heard
+that structures could be assigned
+to variables and passed to and from functions, but K&R1
+says
+not.
+
+ 2.8
+Why can't you compare structures?
+ 2.9
+How
+are
+structure passing and returning
+implemented?
+ 2.10
+Can
+I pass constant values to functions which accept structure arguments?
+ 2.11
+How can I read/write structures from/to
+
+data files?
+
+ 2.12
+How can
+I turn off
+structure
+padding?
+
+ 2.13
+Why does sizeof report a larger size than I expect for a
+structure type?
+ 2.14
+How can I determine the byte offset of a field within a structure?
+ 2.15
+How can I access structure fields by name at run time?
+ 2.18
+I have a program which
+works correctly, but
+dumps core
+after it
+finishes.
+Why?
+ 2.20
+Can I initialize unions?
+ 2.22
+What is the difference between
+an enumeration and a set of
+preprocessor #define s?
+ 2.24
+Is there an easy way to print enumeration values symbolically?
+
+ top

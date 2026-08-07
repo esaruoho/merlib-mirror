@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 1.31</title>
+<link href="q1.30.html" rev=precedes>
+<link href="q1.32.html" rel=precedes>
+<link href="s1.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 1.31</H3>
+<p>This code, straight out of a book, isn't compiling:
+<pre>f()
+{
+	char a[] = "Hello, world!";
+}
+</pre></p><hr>
+<p>Perhaps you have a pre-ANSI compiler,
+which doesn't allow initialization of ``automatic aggregates''
+(i.e. non-<TT>static</TT> local arrays, structures, and unions).
+As a workaround,
+you can
+
+make the array global or <TT>static</TT>
+(if
+you won't need a fresh copy
+during
+any
+subsequent calls),
+or
+replace it with a pointer
+(if the array won't be written to).
+(You
+can always initialize local <TT>char *</TT> variables
+
+
+
+to point to
+string literals,
+but
+see question
+<a href=q1.32.html>1.32</a>.)
+If neither of
+these
+conditions hold,
+you'll have to
+
+
+
+initialize
+the array
+by hand
+with <TT>strcpy</TT>
+when
+<TT>f</TT>
+is called.
+See also question
+<a href=q11.29.html>11.29</a>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q1.30.html" rev=precedes>prev</a>
+<a href="q1.32.html" rel=precedes>next</a>
+<a href="s1.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

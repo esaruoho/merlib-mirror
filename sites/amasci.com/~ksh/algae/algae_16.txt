@@ -1,0 +1,188 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Function Index: R -- Z 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ Function Index: R -- Z 
+ Jump to: A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ Z 
+
+ Index Entry Section 
+
+ R 
+ rand 6.2 Arrays 
+ randn 6.2 Arrays 
+ read 6.6 Basic I/O 
+ readnum 6.6 Basic I/O 
+ real 6.1 Basic Math 
+ replot 6.9 Special Tools 
+ require 6.8 Execution 
+ reverse 6.2 Arrays 
+ roots 6.5 Numerical Analysis 
+ round 6.1 Basic Math 
+
+ S 
+ save 6.7 Entity I/O 
+ scalar 6.2 Arrays 
+ search_path 6.8 Execution 
+ select 6.2 Arrays 
+ seq 6.2 Arrays 
+ set 6.3 Sets 
+ shape 6.2 Arrays 
+ show 6.10 Miscellaneous 
+ sign 6.2 Arrays 
+ sin 6.1 Basic Math 
+ sinh 6.1 Basic Math 
+ solve 6.4 Linear Algebra 
+ sort 6.2 Arrays 
+ source 6.8 Execution 
+ sources 6.8 Execution 
+ sparse 6.2 Arrays 
+ spline 6.5 Numerical Analysis 
+ split 6.10 Miscellaneous 
+ splot 6.9 Special Tools 
+ sprintf 6.6 Basic I/O 
+ sqrt 6.1 Basic Math 
+ srand 6.2 Arrays 
+ src 6.8 Execution 
+ ssi 6.4 Linear Algebra 
+ string 6.10 Miscellaneous 
+ strip 6.8 Execution 
+ substr 6.10 Miscellaneous 
+ sum 6.2 Arrays 
+ svd 6.4 Linear Algebra 
+ symmetric 6.2 Arrays 
+ system 6.8 Execution 
+
+ T 
+ tan 6.1 Basic Math 
+ tanh 6.1 Basic Math 
+ test 6.10 Miscellaneous 
+ time 6.10 Miscellaneous 
+ tmp_file 6.6 Basic I/O 
+ tolower 6.10 Miscellaneous 
+ toupper 6.10 Miscellaneous 
+ transform 6.4 Linear Algebra 
+ tril 6.2 Arrays 
+ triu 6.2 Arrays 
+
+ U 
+ umin 6.9 Special Tools 
+ union 6.3 Sets 
+ unlabel 6.2 Arrays 
+ unplot 6.9 Special Tools 
+
+ V 
+ vector 6.2 Arrays 
+
+ W 
+ what 6.10 Miscellaneous 
+ who 6.10 Miscellaneous 
+
+ Z 
+ zero 6.2 Arrays 
+
+ Jump to: A 
+
+ B 
+
+ C 
+
+ D 
+
+ E 
+
+ F 
+
+ G 
+
+ H 
+
+ I 
+
+ L 
+
+ M 
+
+ N 
+
+ O 
+
+ P 
+
+ R 
+
+ S 
+
+ T 
+
+ U 
+
+ V 
+
+ W 
+
+ Z 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

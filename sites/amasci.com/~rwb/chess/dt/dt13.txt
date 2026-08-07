@@ -1,0 +1,55 @@
+From: clong@remus.rutgers.edu (Chris Long)
+Newsgroups: rec.games.chess
+Subject: aries-scratchy
+Message-ID: <Jan.22.01.31.33.1993.200@remus.rutgers.edu>
+Date: 22 Jan 93 06:31:33 GMT
+Organization: Rutgers Univ., New Brunswick, N.J.
+Lines: 43
+
+
+
+Here is a beautiful game which took place on ICS between IM Mark
+Ginsburg (aries) and Deep Thought (scratchy).  Would anyone like
+to annotate it?
+
+aries vs. scratchy --- Wednesday January 13, 11:23 AM EST, 1993
+
+Unrated standard match, initial time: 10 minutes, increment: 5 seconds.
+
+Move     aries                  scratchy
+----     --------------         --------------
+   1     P/d2-d4 (0:05)         P/f7-f5 (0:01)
+   2     P/c2-c4 (0:15)         N/g8-f6 (0:02)
+   3     P/g2-g3 (0:10)         P/g7-g6 (0:01)
+   4     B/f1-g2 (0:02)         B/f8-g7 (0:01)
+   5     N/g1-h3 (0:03)         P/c7-c5 (0:37)
+   6     P/d4-d5 (0:07)         N/f6-g4 (0:14)
+   7     o-o (0:15)             Q/d8-b6 (0:23)
+   8     N/b1-c3 (0:04)         N/b8-a6 (0:18)
+   9     P/e2-e4 (0:44)         N/g4-e5 (0:19)
+  10     P/e4-f5 (0:09)         N/e5-c4 (0:20)
+  11     N/h3-f4 (0:19)         N/c4-b2 (1:30)
+  12     Q/d1-c2 (0:26)         N/b2-c4 (0:00)
+  13     P/d5-d6 (0:35)         Q/b6-d6 (0:18)
+  14     N/c3-b5 (1:34)         Q/d6-b8 (0:44)
+  15     Q/c2-c4 (0:23)         B/g7-a1 (0:41)
+  16     P/f5-g6 (0:05)         P/e7-e6 (0:43)
+  17     B/c1-e3 (0:17)         B/a1-e5 (0:32)
+  18     P/g6-h7 (0:12)         R/h8-h7 (0:11)
+  19     R/f1-e1 (0:58)         R/h7-f7 (0:24)
+  20     N/f4-g6 (0:33)         R/f7-h7 (0:54)
+  21     Q/c4-g4 (0:54)         B/e5-d6 (0:16)
+  22     R/e1-d1 (0:34)         B/d6-g3 (0:10)
+  23     P/h2-g3 (0:05)         P/d7-d5 (0:10)
+  24     B/e3-f4 (0:08)         P/e6-e5 (0:10)
+  25     Q/g4-e2 (0:09)         K/e8-f7 (0:02)
+  26     N/g6-e5 (0:05)         K/f7-g7 (0:06)
+  27     N/e5-f3 (0:10)         Q/b8-f4 (0:12)
+  28     B resigns
+--
+Chris Long, 265 Old York Rd., Bridgewater, NJ 08807-2618
+
+Score: 0, Diff: 1, clong killed by a Harvard Math Team on  1
+
+
+

@@ -1,0 +1,98 @@
+From pbender@AUSTIN.LOCKHEED.COM Sun Dec 11 12:11:25 1994
+Return-Path: <pbender@AUSTIN.LOCKHEED.COM>
+Received: from shrike.Austin.Lockheed.COM by mail.netcom.com (8.6.9/Netcom)
+	id MAA12113; Sun, 11 Dec 1994 12:11:21 -0800
+Received: by shrike.Austin.Lockheed.COM (4.1/1.49); Sun, 11 Dec 94 14:11:31 CST
+Received: by ladyhawk.Austin.Lockheed.COM.c2i (4.1/SMI-4.1)
+	id AA16998; Sun, 11 Dec 94 14:16:26 CST
+Date: Sun, 11 Dec 94 14:16:26 CST
+From: pbender@AUSTIN.LOCKHEED.COM (Patricia Bender)
+Message-Id: <9412112016.AA16998@ladyhawk.Austin.Lockheed.COM.c2i>
+To: patricia@netcom.com
+Subject: 93-94 standings
+Status: R
+
+
+
+Final regular season standings for the 1993-94 season and the first
+round playoff bracket. 
+x - in playoffs
+y - division title
+
+                                     Games
+Atlantic                  W  L  Pct  Behind  Home  Away  Streak  L10
+yNew York Knicks ....... 57 25  .695   -    32-9  25-16  Won 3   5-5 
+xOrlando Magic ......... 50 32  .610   7    31-10 19-22  Won 1   7-3
+xNew Jersey News ....... 45 37  .549  12    29-12 16-25  Lost 1  7-3
+xMiami Heat ............ 42 40  .512  15    22-19 20-21  Lost 1  4-6
+Boston Celtics ......... 32 50  .390  25    18-23 14-27  Lost 1  6-4
+Philadelphia 76ers ..... 25 57  .305  32    15-26 10-31  Won 1   4-6
+Washington Bullets ..... 24 58  .234  33    17-24  7-34  Won 1   3-7
+ 
+                                     Games
+Central                   W  L  Pct  Behind  Home  Away  Streak  L10
+yAtlanta Hawks ......... 57 25  .695   -    36-5  21-20  Won 1   7-3
+xChicago Bulls ......... 55 27  .671   2    31-10 24-17  Lost 2  7-3
+xIndiana Pacers ........ 47 35  .573  10    29-12 18-23  Won 8   8-2
+xCleveland Cavaliers ... 47 35  .573  10    31-10 16-25  Won 2   6-4
+Charlotte Hornets ...... 41 41  .500  16    28-13 13-28  Lost 1  8-2
+Detroit Pistons ........ 20 62  .244  37    10-31 10-31  Lost 13 0-10
+Milwaukee Bucks ........ 20 62  .244  37    11-30  9-32  Lost 2  1-9
+
+
+                                     Games
+Midwest                   W  L  Pct  Behind  Home  Away  Streak  L10
+yHouston Rockets ....... 58 24  .707   -    35-6  23-18  Lost 2  6-4
+xSan Antonio Spurs ..... 55 27  .671   3    32-9  23-18  Won 1   3-7
+xUtah Jazz ............. 53 29  .646   5    33-8  20-21  Won 4   8-2
+xDenver Nuggets ........ 42 40  .512  16    28-13 13-27  Won 1   6-4
+Minnesota Timberwolves . 20 62  .244  38    13-28  7-34  Lost 10 0-10
+Dallas Mavericks ....... 13 69  .159  45     6-35  7-34  Won 2   4-6
+
+                                     Games
+Pacific                   W  L  Pct  Behind  Home  Away  Streak  L10
+ySeattle Supersonics ... 63 19  .768   -    73-4  26-15  Won 3   8-2
+xPhoenix Suns .......... 56 26  .683   7    36-5  20-21  Won 7   8-2
+xGolden State Warriors . 50 32  .610  13    29-12 21-20  Lost 1  8-2
+xPortland Trailblazers . 47 35  .573  16    30-11 17-24  Lost 1  6-4
+Los Angeles Lakers ..... 33 49  .402  30    21-20 12-29  Lost 10 0-10
+Sacramento Kings ....... 28 54  .341  35    20-21  8-33  Won 1   4-6
+Los Angeles Clippers ... 27 55  .329  36    17-24 10-31  Lost 4  1-9
+
+-----
+
+Playoffs - First Round
+
+Eastern Bracket
+
+1. Atlanta Hawks
+8. Miami Heat
+
+4. Orlando Magic
+5. Indiana Pacers
+
+
+2. New York Knicks
+7. New Jersey
+
+3. Chicago Bulls
+6. Cleveland Cavaliers
+
+
+Western Bracket
+
+1. Seattle Supersonics
+8. Denver Nuggets
+
+4. San Antonio Spurs
+5. Utah Jazz
+
+
+2. Houston Rockets
+7. Portland Trailblazers
+
+3. Phoenix Suns
+6. Golden State Warriors
+
+
+

@@ -1,0 +1,44 @@
+---
+title: "all_evenmoteheadboltstuff"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_evenmoteheadboltstuff.html
+order: 2168
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:38Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_evenmoteheadboltstuff
+
+*Source page: `~dalus/bmw/all/engine/all_evenmoteheadboltstuff.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v4.n733 Sat Jun 15 20:17:30 1996</span>\
+From: sean thompson \<sean.ti@worldnet.att.net\>\
+Date: Sun, 16 Jun 1996 00:29:41 GMT\
+Subject: E30 head bolt replacement\
+
+I did the bolt update today and for the benefit of those considering this job here are my observations:\
+The few tools you need are:besides bently book so you know what order to do them.
+
+1.  10mm socket to remove valve cover
+
+2.  nut driver to remove hose clamp
+
+3.  breaker bar
+
+4.  6in. extension
+
+5.  E14 torx socket
+
+6.  17mm socket to remove old bolts
+
+7.  torque wrench
+
+    8\> something to measure the angle(90deg. stages 2 and 3)torque angle guage\
+    is \*\*THE\*\* tool .Napa has it for \~~40.00. I used a square. whatever you use make sure you have quality tools. these are tight. I broke a cheapo 17mm socket trying to get out an old one. The bolts and a new gasket ran about 35.00 inc. shipping If you read the FAQ, there is mention of cleaning the holes w/ brake cleaner. I did do this but the compressed air in my small air tank was not enough to clear all the holes. Make sure all liquid is out of there. I took my time and was careful and it took about 2 hours. not too difficult. withe the cover it would be a good time to adj. the valves. I seem to have misplaced my feeler guages so I didn't do it this time.happy motoring.
+
+Sean-- now rid of that fearful threat of breaking headbolts

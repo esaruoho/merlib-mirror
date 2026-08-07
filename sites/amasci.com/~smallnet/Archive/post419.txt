@@ -1,0 +1,339 @@
+SMALLnet post419 
+
+ SMALLnet Posting post419
+
+Date: Sat, 20 Apr 2002 00:20:19 -0500
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet/ >
+
+Charlie Ziehl < Radioflyz@aol.com > requests:
+
+I am a handicapped person who still (after 60 years) loves to fly
+models. I am in need of an Ace single stick assembly to rebuild
+the transmitter I have been flying with. Is there anyone who can
+help me? Thanks for any and all you can suggest. Charlie Ziehl
+
+Patrick LeRay < PLeray@aol.com > suggests:
+
+Here's a way of checking for wing warps without an incidence
+thingie:
+
+Rubber band a 36" straight stick of balsa under each wing about
+halfway out. (Use the same size, fairly stiff, sticks for each
+wing). Even if the airfoil isn't truly "flat-bottomed", you can
+set them similarly along the bottom surface by eye.
+
+Then walk away to one side of the plane, and sight down the pair
+of sticks. If both wings have the same incidence, the sticks will
+appear to be parallel. Then move the sticks to the tips (equal
+distances, of course) and see if both wing tips have the same
+washout. In fact, you can use four sticks at the same time,
+putting one stick halfway out from the root on each panel, and
+one at the tip.
+
+That way you can see if you have warps, equal wash-out -- or
+horrors, wash-in! --- Patrick LeRay
+
+Curt Hulette < rchulett@swbell.net > reports:
+
+With my incidence meter I found more wash-out in my 
+Playmate's right wing than in the left. Probably that's what 
+caused the right turn trouble. I also increased downthrust and 
+added ailerons. The wing balances, and the incidence on 
+stabilizer and wing are 0-0. I've been away on business, 
+so haven't yet tried flying the Playmate again.
+
+...Curt's message brings up an important consideration that's not
+as well-known as it should be. Model airplane wings -- or any
+portion thereof! -- stall at less than 10 degrees angle of attack.
+
+The reason wash-in is deadly is that it makes one wingtip stall.
+Most of the wing continues working; so the result of one tip's
+stalling is that the local loss of lift and sudden jump in drag 
+cause a snaproll toward the stalled-out side.
+
+Many modelers consider ailerons as an all-purpose lateral control.
+Yet a down-deflected aileron can act EXACTLY like a washed-in
+wingtip, and produce an unexpected snaproll.
+
+As a general rule of thumb, downward aileron deflection should
+never be greater than this: With the model set up level, as for
+incidence checking, apply a straight stick to the wing undersurface
+(as in Patrick's method) that just touches both the TE of the
+"down" aileron and the underside of the front part of the wing.
+The incidence of this stick shouldn't exceed 10 degrees. [JW]
+
+Jack Tompkins < TECKORAT66@aol.com > informs us:
+
+ Source: Batteries, Lithium 
+
+Don Matlack Senior < dononerc@juno.com > sells Lithium 
+Ion batteries set up for the Picco Stick/Lite Stick. I've had mine
+for a couple of months now and they work great.
+
+They provide about 1/2 hour of power per charge. Don is/was
+selling them for $45.00 for two packs plus the charger, set
+up and ready. My batteries came charged and ready to fly.
+
+Lithium Ion batteries do not lose their charge with time, so
+you can charge them at home, then go fly.
+
+Don has a great reputation and is very much respected on the
+E-flight and Slow Flight (SFRC) newsgroups.
+
+Jack Tompkins Linden, Pennsylvania
+
+Bob Chiang < rhc3@cornell.edu > adds:
+
+Here are three links to information about using Lithium Ion
+batteries to power model airplanes. I believe the first link
+has the most technical information. The second and third links
+describe the process of stripping off the plastic case from a
+specific battery pack, that results in an 830 mAh, 8.4 volt,
+2-ounce battery pack.
+
+From what I've read, it is very important to use a suitable
+charger, or the cells may explode. It's also important to not
+exceed a discharge rate of about 1.5 amps or discharge the cells
+too low, or the cells will be damaged. The batteries come with
+electronics to automatically protect the cells.
+
+< http://www.flyelectric.ukgateway.net/lithium.htm > 
+< http://pease1.sr.unh.edu/aew/rc/HowTo/Qualcomm/ > 
+< http://home.attbi.com/~zagizagi/lithium/ > 
+
+ Source: Batteries, Lithium 
+
+If you just want to get flying, look at the third link that refers
+you to this site: < http://www.hackettelec.com/~hackelec/qc.html >
+as a mail order source of the batteries and charger.
+
+I ordered a set of batteries and charger, and the service was
+excellent. I have not flown with them yet, but bench tests look
+promising, and there have been messages from lots of happy flyers
+on the E Zone.
+
+Bob Chiang Ithaca, New York USA
+
+Oscar Aitken Corral < oscait@ctcinternet.cl > worries:
+
+I hope it's not true that the MP Jets .061 is out of production.
+This is one of my best engines! (Both the glow and diesel.)
+
+...Bad news, Oscar. I checked with Ed Carlson, the exclusive
+US importer of MP Jets engines. Ed says that the .061 IS out of
+production now. He still has a supply of the glow version, but no
+more diesels. He HOPES that .061 production will resume "next
+year sometime" -- but that's all...
+
+By the way, I was mistaken about the degree of similarity between
+the glow and diesel MP's. Ed says that the cylinders and porting
+of the two engines differ significantly.
+
+According to Ed Carlson, the MP Jets company is now producing
+"plastic model stuff". This is another indication of how greatly
+electric power has taken over in the former "1/2A model powerplant"
+market.
+
+True, much of the decline in 1/2A use is due to the disappearance
+of the engines themselves from hobby shops. 50 years ago we had
+a fabulous wealth of selections. K&B, OK, Atwood, and Mel 
+Anderson each produced a wide variety of under-.10 model motors. 
+McCoy, Fox, Allyn (the Sky Fury maker), and O&R all made 1/2A's. 
+Cox was just then beginning their fantastic lineup of glow .049's.
+
+Now they're all gone. [JW]
+
+Andy Woitowicz < ajw@ntl.sympatico.ca > contributed:
+
+Back in February, I asked about running diesels in cold weather.
+Many thanks to those who responded. The consensus is that no
+special fuels or techniques are needed. Starters can be used,
+and in certain circumstances can be useful -- but must be
+employed with "diesel technique" in mind.
+
+Just as with glows though, starters ought to be unnecessary except
+where compression seal is not optimum. I've made up a starter
+(using electric drive components) with low torque and speed that
+seems to be just right for 1/2A, so I use it most of the time.
+Many of my glows have so many hours that the compression seal 
+is gone. Despite that, once started with an electric starter, these
+deliver nearly as much power as when new.
+
+I've been busy lately with running an early AAN Norvel with an
+RJL diesel conversion head. I'm happy to say that the conversion
+is a resounding success. This project had been commissioned by my
+good friend, Raj Massilamoni in Singapore. I've done a number of
+Norvel style throttles for him to try on various vintage diesels
+that he owns.
+
+This particular Norvel he had entrusted to me to test run for
+him, and I'm grateful for that. Using a throttle onto which an
+adjustable airbleed was added, we achieved 4.5K up to 12.5K on
+a 7 X 3.5 Cox grey prop. Fuel was 40% kerosene, 33% ether,
+25% castor, and 2% amyl nitrate.
+
+Idle is forever, rock solid; and transition is very good. Just a
+hint of smoke with no hesitation. Linearity is on par with glow
+except that mid-range is just a hair rich. The top end, once
+adjusted, emits a sweet, although loud, growl; somewhat louder
+than my 1/2A PAW. The steadiness of rpm is truly inspiring.
+
+This throttle had a reduced bore from stock. A stock barrel, as
+well as a bored-out barrel, was tried. The larger bore yielded a
+healthy 13K rock solid. Idle suffered though, at 6K.
+
+Very important to this project was the use of a throttle with an
+adjustable airbleed. For those who might recall the discussion 
+of sub-piston induction, I think it's quite significant that this
+engine has that feature and yet throttles very well, diesel or
+glow, as long as the idle mixture can be adjusted.
+
+On the subject of excessive cooling in the winter. The Norvel
+is a modern engine using a tight, squeaky fit at TDC when cold.
+The fit improves to just right when the engine's up to running
+temperature. If it doesn't get up to normal temperature due to
+excessive cooling, as might happen in cold weather, there is the
+chance that the engine's fit will be ruined. This is why you
+never break in this type of engine by running it rich, as you
+might do with older engines using steel sleeves and cast iron
+pistons.
+
+Dave Gierke, noted engine expert and columnist addressed this
+issue in one of his columns several years ago. His tests and
+experiments led him to the conclusion that, just as with running
+this type of engine excessively rich, running it with excessive
+cooling can, indeed, ruin the fit. It was from this that I
+expressed my concern about cold weather running.
+
+The Norvel had me particularly concerned as it has very large
+and effective fins. Extensive running in the cold has proved to
+have no harmful effects. So, while turning down the fins of the
+Norvel can't be considered "butchering", it has been proven to
+be unnecessary.
+
+While working with this engine, I found it relatively easy to
+start, even for a diesel novice like me. I drew fuel up the line
+by choking but no further than the edge of the carb. Then I
+closed the needle valve completely. I backed off the compression,
+gave one shot of prime, then flipped five or six times.
+
+No results from this prompted a quarter turn of the compression
+screw, another shot of prime and another several flips. I repeated
+this procedure until I got a brief burp. Then I opened the needle
+a quarter turn at a time.
+
+Eventually the engine fired and kept running. I backed off the
+high-speed needle, and the smoke indicated a slightly rich setting.
+A minute or so of running at this setting allowed the engine
+temperature to stabilize. Then I turned in the compression screw
+bit by bit until maximum rpm was achieved. Then I backed off a bit.
+Then I turned the needle in slowly until a sweet-sounding growl
+emerged. Masculine is the only way to describe it. Loud, but
+nothing like the shrill screech of a glow. Nice.
+
+The downside is that although the RJL head works extremely well,
+the compression screw has the habit of spinning around under
+vibration. You need seven fingers on one hand to hold the screw
+steady while also manipulating the locking lever. This with a
+meat cleaver spinning at 12.5K just inches away.
+
+As a result, I was happy to come up with a technique which worked 
+on this particular engine, without needing to adjust the compression
+screw once it was set. Running off the prime three or four times
+would bring the engine's temperature up to the point to where it
+would keep running with a neat burrp, burrp, sound. A minute
+later, the temperature would stabilize and a solid, steady,
+top end would result.
+
+This may not work with all diesels but I was pleased at how easily
+the modified Norvel started with this technique. It must be kept
+in mind that the next flying session will likely be at a different
+temperature and humidity, so the compression will most likely need
+to be adjusted along with the needle.
+
+A muffler was tried. The high speed and idle were adjusted to suit
+and power and handling were the same. Another plus for the Norvel
+diesel was the fact that the engine could be started with just a
+heavy prime into the intake. It took five or six flips and the run
+off of several primes to get the engine up to temperature -- but
+from there, the burrp, burrp would transition into a solid run.
+
+Future projects will include testing my tuned muffler along with a
+tuned pipe. Has anyone had any experience with tuned pipe diesels?
+
+One last note. If anyone has any worn-out Norvel AAN (shiny fins)
+pistons and cylinders they'd like to have revived, I'd like to try
+an experiment that would restore the fit and perhaps improve
+durability.
+
+I'll do the first three for free excluding shipping. I'll pay the
+shipping back. I live in Canada. Please contact me directly.
+
+Andy Woitowicz
+
+...John Clapp of FAI
+Model Supply has exchanged a few e-mails with me about
+the availability of FAI TAN rubber. So far there's been no
+definite news about renewed production of TAN II.
+
+However, John says that a modern version of T-56 rubber --
+mainstay of rubber-power flyers in the "Good Old Days" --
+will soon be available from FAI. It will be designated as
+"Sport" rubber. [JW]
+
+Don Garry < dongarry@webtv.net > wrote:
+
+ Source: Plans, Jeep 
+
+The Dan Lutz Jeep plan is advertised in John Pond's plans catalog.
+Published in Model Airplane News 11-60, it is listed at 27 inch
+span and for Free Flight. You can get the entire construction
+article for 2 bucks, including plan (magazine size) from SAM's
+librarian, Gene Wallock, phone # 580-536-0303, e-mail at
+< Velinak@aol.com >.
+
+Donald Garry Cocoa, Florida 32927
+Phone # (321) 632-9115
+
+Kevin < KevinIrishmoon@aol.com > contributed:
+
+I have been reading the SMALLnet for some time now and enjoy it
+very much. I don't know if this will be of any help to the person
+requesting plans for the Chester Jeep racer, but Dave Livesay has
+a website that offers plans for the Art Chester "Goon".
+
+The site also includes an index of plans that can help find the
+exact magazine issue in which a certain plan appeared. The
+address is: .
+
+The plan for the "Goon" is in the PEANUT section under 
+RACERS, and is also in the CADD PLANS. If you have a 
+program that can read these, they are very nice.
+
+I hope that this is of some help and I look forward to reading
+the next Posting.
+
+...Kevin, the Jeep and the Goon were about as different as a
+Mustang is from a P-40. Their designer, Art Chester, named his
+raceplanes after characters in the Popeye comic strips -- and it
+seemed to me that the Jeep and Goon reflected in their overall
+styling the characters they were named for.
+
+The Jeep was a friendly-looking craft, while the Goon had a cold,
+deadly air to it in my eyes. Both designs do make good-flying
+models -- and the Jeep would have been much more popular in 
+model form if it hadn't been for the difficulty of reproducing its
+curved-in-front-view landing gear struts.
+
+The Goon had retracting gear and no wing lift struts. With its
+short-span wings and long fuselage it makes a dandy rubber-powered
+competitor in the limited-wingspan free flight events such as
+"Peanut" and "Walnut". [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

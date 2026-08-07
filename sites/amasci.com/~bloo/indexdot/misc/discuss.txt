@@ -1,0 +1,50 @@
+News, Mailing list and Discussion forums 
+
+ News, Mailing list and Discussion forums 
+ = Index DOT Html/Css by 
+ Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML
+ Support History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Discussion Forums 
+
+ The discussion forum for this site: 
+ http://www.network54.com/Hide/Forum/goto?forumid=6940 
+ Experts-exchange: A great resource on many technical categories. Includes forums for HTML and CSS:
+ Web languages category 
+
+ Mailing Lists 
+
+ css-foundations: Western Civ's beginner CSS mailing list (listinfo and archives)
+ http://four.pairlist.net/mailman/listinfo/css-foundations 
+ css-discuss: Evolt.org/Eric Meyer's advanced CSS discussion list (listinfo and archives)
+ http://www.css-discuss.org/ 
+ TheList at Evolt.org 
+ "A discussion list for designers, developers and web managers working to make 
+ the web a better place for all." Site includes list info, full archives, search 
+ and lists of collected helpful tips from thelist:
+ http://lists.evolt.org/ 
+ HTML Writer's guild list archives (various lists on many authoring topics)
+ http://www.hwg.org/lists/archives.html 
+
+ Usenet News 
+
+ HTML newsgroup: 
+ comp.infosystems.www.authoring.html 
+ CSS newsgroup: 
+ comp.infosystems.www.authoring.stylesheets 
+ Site design: 
+ comp.infosystems.www.authoring.site-design 
+ TopStyle CSS Discussion 
+ topstyle.support.css 
+
+ If you know of other resources that should be listed here, please email me 
+
+ Boring Copyright Stuff...

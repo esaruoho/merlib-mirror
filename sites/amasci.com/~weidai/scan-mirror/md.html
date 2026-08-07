@@ -1,0 +1,1538 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+ "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Standard Cryptographic Algorithm Naming</title>
+  <style type="text/css">
+      UL.noindent { margin: 0 0 0 0 }
+      LI { padding: 0% 0% 1% 0% }
+      SPAN.error { color: red; font-weight: 600 }
+      SPAN.s { color: blue }
+      SPAN.p { color: green }
+      SPAN.x { color: red }
+      SPAN.a { color: purple }
+      A.s    { color: blue }
+      A.p    { color: green }
+      A.x    { color: red }
+      A.a    { color: purple }
+  </style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link=blue vlink="#000077" alink="#FF0000">
+
+<h2>MessageDigest Algorithms</h2>
+
+<a name="links"></a>
+<h3>Links</h3>
+
+<ul>
+  <li> Helger Lipmaa's page on hash functions:<br>
+       <a href="http://www.tcs.hut.fi/~helger/crypto/link/hash/" target="_blank">
+       http://www.tcs.hut.fi/~helger/crypto/link/hash/</a>
+  <li> SecurityTechNet's page on hash functions:<br>
+       <a href="http://www.securitytechnet.com/crypto/algorithm/hash.html" target="_blank">
+       http://www.securitytechnet.com/crypto/algorithm/hash.html</a>
+  <li> The Hashing Function Lounge:<br>
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html" target="_blank">
+       http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html</a>
+</ul>
+
+
+<a name="papers"></a>
+<h3>Design and Analysis</h3>
+
+<ul>
+  <li> S. Bakhtiari, R. Safavi-Naini, J. Pieprzyk,<br>
+       "Cryptographic Hash Functions: A Survey," 1995.<br>
+       <a href="http://citeseer.nj.nec.com/bakhtiari95cryptographic.html" target="_blank">
+       http://citeseer.nj.nec.com/bakhtiari95cryptographic.html</a><br>
+       [obsolete in places, but still a good overview of definitions]
+
+  <li> Joan Daemen,<br>
+       "Cipher and hash function design. Strategies based on linear and differential 
+        cryptanalysis,"
+       PhD thesis, March 1995.
+       <a href="http://www.esat.kuleuven.ac.be/~cosicart/ps/JD-9500/" target="_blank">
+       http://www.esat.kuleuven.ac.be/~cosicart/ps/JD-9500/</a>
+
+  <li> T. Sato, M. Haga, K. Kurosawa,<br>
+       "Towards secure and fast hash functions,"<br>
+       IEICE Trans. E82-A, [1], pp. 55-62 (1999).
+       <a href="http://tsk-www.ss.titech.ac.jp/~kurosawa/1999/hash.ps" target="_blank">
+       http://tsk-www.ss.titech.ac.jp/~kurosawa/1999/hash.ps</a>
+
+  <li> RSA Labs FAQ: What are some techniques against hash functions?<br>
+       <a href="http://www.rsasecurity.com/rsalabs/faq/2-4-6.html" target="_blank">
+       http://www.rsasecurity.com/rsalabs/faq/2-4-6.html</a>
+
+  <li> P. van Oorschot, M. Wiener,<br>
+       "Parallel collision search with Cryptanalytic Applications,"<br>
+       <cite>Journal of Cryptology</cite>, 12(1):1-28, 1999.
+       <a href="http://members.rogers.com/paulv/papers/JoC97.pdf" target="_blank">
+       http://members.rogers.com/paulv/papers/JoC97.pdf</a>
+</ul>
+
+
+<a name="interop"></a>
+<h3>Interoperability</h3>
+
+One of the attributes of message digest algorithms that sometimes causes
+interoperability problems or difficulty in implementation, is that by convention
+most message digests can be applied to either a bit string, or a byte string.
+(Remember that byte is synonymous with "octet" in this specification.)
+The specification will usually concentrate on one of these input representations,
+and sometimes does not make it clear how to apply the algorithm to the other.
+Here we use the following terminology to describe how bit and byte ordering
+is handled by each message digest:
+
+<ul>
+  <li> An algorithm is "little-bit-endian" if the least significant bit of
+       each byte is first in the corresponding bit string, or "big-bit-endian"
+       if the most significant bit is first.
+  <li> If an algorithm processes a message by converting it to words larger
+       than 8 bits internally, then it is "little-byte-endian" if the least
+       significant byte of each word is first in the corresponding byte string,
+       or "big-byte-endian" if the most significant byte is first.
+  <li> Some convention must be defined for how the last bits of a message
+       are justified within the last byte (this is true even if the
+       input length is a multiple of 8 bits, because the padding is
+       normally specified as "append a one bit, followed by zero bits").
+       An algorithm is "left-justified" if the data in the last byte is
+       shifted towards the more significant bits (i.e. the less significant
+       bits represent padding). It is "right-justified" if the data is
+       shifted towards the less significant bits.
+</ul>
+
+Example: if the bit string 1110 is hashed with a big-bit-endian,
+little-byte-endian, left-justified algorithm, then this becomes the
+octet string [11101000, 00000000, 00000000, 00000000], which
+corresponds to the word 00000000000000000000000011101000.
+<p>
+For messages that are specified as octet strings (or a multiple of 8 bits),
+a left-justified algorithm that employs the "one and zeroes" padding method
+can be implemented by appending the byte value 0x80 to the message.
+In the same circumstances a right-justified algorithm can be implemented
+by appending the byte value 0x01 to the message.
+<p>
+Note that the bit-endianness and byte-endianness of an algorithm are not
+necessarily the same (for example MD4 and MD5 are big-bit-endian, but
+little-byte-endian). The most consistent choice for left or right
+justification is that a big-bit-endian algorithm be left-justified, and
+a little-bit-endian algorithm be right-justified; all of the SCAN algorithms
+that have been defined so far follow this rule.
+
+
+<a name="blockmd"></a>
+<h3>Block MessageDigests</h3>
+
+Some MessageDigest algorithms can be classified as "Block MessageDigests".
+These algorithms have the following properties:
+
+<ul>
+  <li> Data is processed in fixed-size blocks. The final block normally has
+       a maximum size less than the block size, and is padded to the block
+       size in a standard way.
+  <li> At any point (i.e. after processing some number of blocks), the state
+       of the MessageDigest can be represented as a fixed-length sequence of
+       bytes. The length of this sequence is called the "state size".
+  <li> The digest can be described mathematically as having an initial state,
+       a "compression function" (called <i>compress</i>), a "padding
+       function" (called <i>pad</i>), and a "finalisation function" (called
+       <i>final</i>), as follows:
+
+<blockquote>
+       <i>split</i>(D) = D split into a sequence of n &gt;= 1 blocks<br>
+       H<sub>D, 0</sub> = initial state<br>
+       H<sub>D, i</sub> = <i>compress</i>(H<sub>D, i-1</sub>, <i>split</i>(D)<sub>i</sub>), for i = 1..n-1<br>
+       H<sub>D, n</sub> = <i>compress</i>(H<sub>D, n-1</sub>, <i>pad</i>(<i>split</i>(D)<sub>n</sub>))<br>
+       digest(D) = <i>final</i>(H<sub>D, n</sub>)
+</blockquote>
+</ul>
+
+Block MessageDigest implementations SHOULD provide additional methods to get
+the state size, the block size, the maximum size of the final block, and to
+perform the compression, padding, and finalisation functions. This is necessary
+because some constructions that use MessageDigests, depend on being able to access
+these parameters and functions independently (rather than treating the digest as
+a black box).
+<p>
+The representation of the state always uses the same byte order convention as the
+rest of the algorithm, and chaining variables are represented in the same order as
+they are numbered or lettered.
+<p>
+Some algorithms, such as GOST-Hash or Panama, are not classified as Block MessageDigests
+even though it would technically be possible to describe them in the form given above,
+because the representation of the state is complicated or has not been standardised.
+
+
+<p><a name="BRS-Hn"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>BRS-H1</span>(<i>cipher</i>)...<span
+                                   class=p>BRS-H20</span>(<i>cipher</i>)</font>
+      <td align=right>20 Block MessageDigest Constructions
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> The paper by Black, Rogaway, and Shrimpton cited below specifies 20
+         message digest constructions based on a block cipher, which it
+         refers to as <i>H</i><sub>1</sub> to <i>H</i><sub>20</sub>.
+         BRS-H1 to BRS-H20 are based on these contructions, but with
+         concrete choices for the initial value <i>h</i><sub>0</sub> and
+         the constant value <i>v</i> where applicable, and using
+         Merkle-Damg&aring;rd-strengthening as specified below.
+         <p>
+         Let B be the cipher block size in bytes.
+         The initial value <i>h</i><sub>0</sub> is the first block
+         of the binary expansion of the fractional part of
+         <img src="pi.gif" alt="pi">, i.e.
+         <i>h</i><sub>0</sub>&nbsp;=&nbsp;I2OSP<sub>B</sub>(floor((<img src="pi.gif" alt="pi">&nbsp;-&nbsp;3)&nbsp;&#215;&nbsp;256<sup>B</sup>)).
+         The first 32 bytes of this are:
+         <blockquote>
+           <code>&lt;243F6A8885A308D313198A2E03707344<br>
+               &nbsp;A4093822299F31D0082EFA98EC4E6C89&gt;</code>
+         </blockquote>
+         <p>
+         (The BRS paper suggests a zero block for <i>h</i><sub>0</sub>, but
+         this may have unfortunate consequences for the constructions that
+         use <i>h</i><sub>0</sub> as a key, if the zero block is a weak
+         key for the cipher.)
+         <p>
+         The fixed block <i>v</i> used by BRS-H{13,15,16,19} is the first block
+         of the binary expansion of the fractional part of <i>e</i> (the
+         base of natural logarithms), i.e.
+         <i>v</i>&nbsp;=&nbsp;I2OSP<sub>B</sub>(floor((<i>e</i>&nbsp;-&nbsp;2)&nbsp;&#215;&nbsp;256<sup>B</sup>)).
+         The first 32 bytes of this are [[TBD]].
+         <p>
+         The MD-strengthening is done in the same way as SHA-1. That is:
+         <ul>
+           <li> pad the message using the <a href="cs.html#pad_OneAndZeroes">OneAndZeroes</a>
+                padding method, so that 8 bytes remain in the last block
+                for the encoded length.
+           <li> append I2OSP<sub>8</sub>(bitlength), i.e. an eight-byte
+                big-endian representation of the length of the message
+                in bits.
+         </ul>
+         <p>
+         The block size, B bytes, MUST also be a valid key size for the cipher.
+         (For BRS-H5 and BRS-H15, this constraint is not absolutely required
+         by the definitions of the constructions, but the general case of
+         BRS-H{5,15} where the message can be processed in blocks corresponding
+         to any valid key size is not currently included in SCAN.)
+  <dt><b>Aliases:</b>
+    <dd> "Davies-Meyer" is an alias for BRS-H5.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] J. Black, P. Rogaway, T. Shrimpton,<br>
+           "Black-Box Analysis of the Block-Cipher-Based Hash-Function Constructions
+            from PGV,"<br>
+           May 31, 2002.<br>
+           <a href="http://www.cs.ucdavis.edu/~rogaway/papers/hash.htm" target="_blank">
+           http://www.cs.ucdavis.edu/~rogaway/papers/hash.htm</a>
+      <li> [<i>Inf</i>] B. Preneel, R. Govaerts, J. Vandewalle,<br>
+           "Hash functions based on block ciphers: A synthetic approach."<br>
+           In Advances in Cryptology - CRYPTO '93,
+           Lecture Notes in Computer Science, pages 368-378. Springer-Verlag, 1994.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String cipher</code> [creation/read, no default] - the name of
+            the cipher on which this MessageDigest is to be based. This MUST be
+            an available symmetric block cipher, of block size B&nbsp;>=&nbsp;8 bytes.
+            An implementation MAY also require B&nbsp;<=&nbsp;32 bytes.
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> B bytes.
+  <dt><b>Block size:</b>
+    <dd> B bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> ((-9) mod B) bytes.
+  <dt><b>State size:</b>
+    <dd> B bytes.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors; first 32 bytes of expansion of <i>e</i>.
+  <dt><b>Comments:</b>
+    <dd> BRS-H1...BRS-H20 are big-bit-endian and left-justified.
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> The digest output length is equal to the cipher block size.
+           There are only a small number of block ciphers with a block size
+           of 160 bits or greater, and arguably none of these have had
+           extensive analysis (especially in the context of use in these 20
+           hash constructions).
+      <li> The black box model used in the BRS paper is controversial.
+           The proofs only cover cases in which the attacker makes <em>no</em>
+           use of any non-random properties of the block cipher; they do not
+           imply real-world security against an unconstrained attacker
+           for any particular instantiation of the cipher, under any standard
+           assumption.
+      <li> Certain types of key schedule weakness in the block cipher,
+           <em>even if they only affect a negligable proportion of keys</em>,
+           can lead to devastating attacks on BRS-H{5...20}.
+           For BRS-H{1...4}, the security of the hash also depends heavily
+           on the strength of the cipher key schedule, but weaknesses that
+           affect only a negligable subset of keys that does not include
+           <i>h</i><sub>0</sub>, do not appear to be as significant.
+    </ul></dd>
+</dl>
+
+<p><a name="GOST-Hash"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">GOST-Hash</font> <td align=right>MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Alias:</b>
+    <dd> "GOST-R-34.11-94"
+  <dt><b>Published:</b>
+    <dd> 1994
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] GOST R 34.11-94, Gosudarstvennyi Standard of Russian Federation,<br>
+           "Information Technology. Cryptographic Data Security. Hashing function,"<br>
+           Government Committee of the Russia for Standards, 1994 (in Russian).
+      <li> [<i>An</i>] John Kelsey, Bruce Schneier, David Wagner,<br>
+           "Key-schedule cryptanalysis of IDEA, G-DES, GOST, SAFER, and triple-DES,"<br>
+           <cite>Advances in Cryptology - CRYPTO '96 Proceedings</cite>,
+           Volume 1109 of Lecture Notes in Computer Science (N. Koblitz, ed.),
+           Springer-Verlag, 1996.<br>
+           <a href="http://www.cs.berkeley.edu/~daw/papers/keysched-crypto96.ps">
+           http://www.cs.berkeley.edu/~daw/papers/keysched-crypto96.ps</a>
+      <li> [<i>Impl, Inf, Test</i>] Markku-Juhani Saarinen,<br>
+           <cite>C implementation and test vectors for GOST hash function</cite>,<br>
+           <a href="http://www.tcs.hut.fi/~mjos/gosthash.tar.gz">
+           http://www.tcs.hut.fi/~mjos/gosthash.tar.gz</a><br>
+           [This also contains <em>draft</em> translations into English of
+           the GOST 28147-89 and GOST R 34.11-94 standards.]
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 32 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The description of GOST-Hash in Applied Cryptography section 18.11 is
+           incorrect.
+      <li> GOST-Hash is not defined for bit string inputs.
+    </ul></dd>
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> According to <a href="http://www.tcs.hut.fi/~mjos/" target="_blank">Markku-Juhani Saarinen</a>,
+           "<a href="cs.html#GOST">[GOST] 28147</a>, the only nonlinear
+           part of R 34.11-94, has huge weak key classes and bit changes take 8 or 9 rounds
+           to affect all other bits."
+      <li> According to Bruce Schneier (posting to sci.crypt, 12 Nov 1998), "GOST has a 256-bit
+           key, but its key schedule is so weak that I would not use it as a hash function
+           under any circumstances."
+    </ul></dd>
+</dl>
+
+
+<p><a name="HAS-V"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>HAS-V</span>[(<i>digestLength</i>)]</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Nan Kyoung Park, Joon Ho Hwang, Pil Joong Lee
+  <dt><b>Published:</b>
+    <dd> 2000
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Nan Kyoung Park, Joon Ho Hwang, Pil Joong Lee,<br>
+           "HAS-V: A New Hash Function with Variable Output Length,"<br>
+           <cite>Proceedings of the Seventh Annual Workshop on Selected Areas in Cryptography</cite>, August 2000
+           (Waterloo, Ontario, Canada).<br>
+           Volume 2012 of Lecture Notes in Computer Science (Doug Stinson and
+           Stafford Tavares, eds.), p. 202 ff. Springer-Verlag.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>Integer digestLength</code> [creation/read, default 40] - the
+             length of the output in bytes (minimum 16, maximum 40, multiple of 4)
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> As specified by the <code>digestLength</code> parameter (in bytes).
+  <dt><b>Block size:</b>
+    <dd> 128 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 118 bytes.
+  <dt><b>State size:</b>
+    <dd> 40 bytes.
+  <dt><b>Missing information:</b>
+    <dd> Test vectors for tailored output (<i>digestLength</i>&nbsp;&lt;&nbsp;40).
+  <dt><b>Comment:</b>
+    <dd> HAS-V is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+</dl>
+
+
+<p><a name="HAVAL"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">HAVAL[(<i>digestLength</i>[<i>,passes</i>])]</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.sis.uncc.edu/~yzheng/" target="_blank">Yuliang Zheng</a>,
+         Josef Pieprzyk,
+         <a href="http://www.itacs.uow.edu.au/people/jennie/" target="_blank">Jennifer Seberry</a>
+  <dt><b>Published:</b>
+    <dd> 1992
+  <dt><b>Alias:</b>
+    <dd> "OpenPGP.Digest.7" for HAVAL(20,5)
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Yuliang Zheng, Josef Pieprzyk, Jennifer Seberry,<br>
+           "HAVAL -- a one-way hashing algorithm with variable length of output",<br>
+           <cite>Advances in Cryptology - AUSCRYPT '92 Proceedings</cite>,
+           Lecture Notes in Computer Science,
+           Springer-Verlag, 1993.<br>
+           Available from <a href="http://www.sis.uncc.edu/~yzheng/src/" target="_blank">
+           http://www.sis.uncc.edu/~yzheng/src/</a><br>
+           <span class=error>(This paper contains errors concerning bit and byte order;
+           see comments below.)</span>
+      <li> [<i>Inf, Test, Impl</i>] Yuliang Zheng, Josef Pieprzyk, Jennifer Seberry,<br>
+           <cite>HAVAL reference implementation (in C)</cite>,<br>
+           Corrected version, April 1997.<br>
+           Available from <a href="http://www.sis.uncc.edu/~yzheng/src/" target="_blank">
+           http://www.sis.uncc.edu/~yzheng/src/</a><br>
+      <li> [<i>An</i>] Kasselman, Penzhorn,<br>
+           "Cryptanalysis of Reduced Version of HAVAL",<br>
+           Electronics letters, Vol. 36, No. 1, January 2000, pp. 30-31.
+      <li> [<i>An</i>] Sangwoo Park, Soo Hak Sung, Seongtaek Chee, Jongin Lim,<br>
+           "On the Security of Reduced Versions of 3-Pass HAVAL,"<br>
+           Proceedings of <cite>Information Security and Privacy --
+           7th Australasian Conference, ACISP 2002</cite>,
+           (3-5 July 2002, Melbourne, Australia).<br>
+           Volume 2384 of Lecture Notes in Computer Science
+           (L. Batten and J. Seberry, eds.), pp. 406-419.
+           Springer-Verlag.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>Integer digestLength</code> [creation/read, default 32] - the
+             length of the output in bytes (minimum 16, maximum 32, multiple of 4)
+      <li> <code>Integer passes</code> [creation/read, default 5] - the number of
+             passes to be performed (minimum 3, maximum 5)
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> As specified by the <code>digestLength</code> parameter (in bytes).
+  <dt><b>Block size:</b>
+    <dd> 128 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 117 bytes.
+  <dt><b>State size:</b>
+    <dd> 32 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The default for the <code>passes</code> parameter has been changed from 3
+           to 5 since SCAN 1.0.9, which is a backward-incompatible change.
+      <li> HAVAL is little-bit-endian, little-byte-endian, and right-justified.
+           <p>
+           Note that the beginning of section 2 of the HAVAL specification
+           (<code>haval.ps</code>)
+           appears to say that HAVAL is big-bit-endian, big-byte-endian and
+           left-justified -- at least if the "left" of a bit or byte string is
+           interpreted as being first. However, the C reference code and test
+           vectors contradict this. We take the test vectors from the files
+           <code>haval.cert</code> and <code>cert.data</code> in the April 1997
+           version of <code>haval.tar.Z</code> (which are written in the usual
+           left-to-right order) as being definitive.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> 5 passes are recommended, to protect against the attacks described in
+         the paper "Cryptanalysis of Reduced Version of HAVAL".
+</dl>
+
+
+<p><a name="MD2"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">MD2</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> <a href="http://theory.lcs.mit.edu/~rivest/" target="_blank">Ron Rivest</a>
+  <dt><b>Alias:</b>
+    <dd> "OpenPGP.Digest.5"
+  <dt><b>Object Identifier:</b>
+    <dd> 1.2.840.113549.2.2
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl, Test</i>] Burt Kaliski,<br>
+           "The MD2 Message-Digest Algorithm,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc1319.txt" target="_blank">
+           <cite>RFC 1319</cite></a>, April 1992.<br>
+           <span class=error>(This contains errors; see the
+           <a href="http://www.rfc-editor.org/errata.html" target="_blank">RFC
+           Errata page</a> and comments below.)</span>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 18.6 MD2,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>An</i>] <cite>RSA Laboratories Security Bulletin #4</cite>,<br>
+           <a href="ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf" target="_blank">
+           ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf</a>
+      <li> [<i>An</i>] N. Rogier, P. Chauvaud,<br>
+           "The compression function of MD2 is not collision-free,"<br>
+           Workshop record, <cite>2nd Workshop on Selected Areas in Cryptography</cite>
+           (SAC '95), Ottowa, Canada, May 18-19 1995.
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 16 bytes.
+  <dt><b>Block size:</b>
+    <dd> 16 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 15 bytes.
+  <dt><b>State size:</b>
+    <dd> 32 bytes (current value of 16-byte checksum, followed by feedback registers).
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The pseudocode description of calculating the checksum in section 3.2
+           of RFC 1319 is inconsistent with the reference code and test vectors; the
+           latter are correct. There is also some missing text in the middle of the
+           last sentence of that section. See the
+           <a href="http://www.rfc-editor.org/errata.html" target="_blank">RFC Errata page</a>
+           for corrections.
+      <li> MD2 is not defined on bit strings, and is byte-order-neutral.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> N. Rogier and P. Chauvaud have found a method of generating
+         collisions for MD2's compression function. Quoting from
+         <cite>RSA Laboratories Security Bulletin #4</cite>:
+         <blockquote>
+             [C]aution requires that MD2 be no longer recommended for new
+             applications where collision-resistance is required. Questions
+             about the continuing suitability of MD2 for existing applications
+             remain open. [... O]ur recommendation would be to upgrade
+             applications away from MD2 whenever it is practical.
+         </blockquote>
+</dl>
+
+
+<p><a name="MD4"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">MD4</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> <a href="http://theory.lcs.mit.edu/~rivest/" target="_blank">Ron Rivest</a>
+  <dt><b>Published:</b>
+    <dd> 1990
+  <dt><b>Object Identifier:</b>
+    <dd> 1.2.840.113549.2.4
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl, Test</i>] Ron Rivest,<br>
+           "The MD4 Message-Digest Algorithm,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc1320.txt" target="_blank">
+           <cite>RFC 1320</cite></a>, April 1992.
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 18.4 MD4,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>An</i>] <cite>RSA Laboratories Security Bulletin #4</cite>,<br>
+           <a href="ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf" target="_blank">
+           ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf</a>
+      <li> [<i>An</i>] B. den Boer, A. Bosselaers,<br>
+           "An attack on the last two rounds of MD4,"<br>
+           <cite>Advances in Cryptology - Proceedings of CRYPTO '91</cite>,
+           Volume 576 of Lecture Notes in Computer Science, pp. 194-203.
+           Springer-Verlag, 1992.
+      <li> [<i>An</i>] Serge Vaudenay,<br>
+           "On the need for multipermutations: cryptanalysis of MD4 and SAFER,"<br>
+           <cite>Fast Software Encryption, Leuven Workshop</cite>,
+           Volume 1008 of Lecture Notes in Computer Science, pp. 286-297.
+           Springer-Verlag, 1995.
+      <li> [<i>An</i>] Hans Dobbertin,<br>
+           "Cryptanalysis of MD4,"<br>
+           <cite>Fast Software Encryption, Third International Workshop</cite>,
+           Volume 1039 of Lecture Notes in Computer Science (D. Gollmann, ed.),
+           pp. 53-69. Springer-Verlag, 1996.
+      <li> [<i>An</i>] Hidenori Kuwakado, Hatsukazu Tanaka,<br>
+           "New Algorithm for Finding Preimages in a Reduced Version of the MD4
+            Compression Function,"<br>
+           <cite>IEICE Transactions Vol. E83-A No. 1</cite>, pp. 97-100, 2000/1.
+           <a href="http://search.ieice.or.jp/2000/files/e000a01.htm#e83-a,1,97" target="_blank">
+           http://search.ieice.or.jp/2000/files/e000a01.htm#e83-a,1,97</a>
+           (or <a href="http://search.ieice.or.jp/2000/pdf/e83-a_1_97.pdf" target="_blank">here</a>)
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 16 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 16 bytes.
+  <dt><b>Comment:</b>
+    <dd> MD4 is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+  <dt><b>Security comment:</b>
+    <dd> Bert den Boer, Antoon Bosselaers and Hans Dobbertin have found
+         a method of generating collisions for the full MD4 algorithm.
+         Quoting from
+         <cite>RSA Laboratories Security Bulletin #4</cite>:
+         <blockquote>
+             [I]t has been shown that collisions for MD4 can be found
+             in about a minute on a typical PC. [...] MD4 [...] should
+             not be used.
+         </blockquote>
+</dl>
+
+
+<p><a name="MD5"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">MD5</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> <a href="http://theory.lcs.mit.edu/~rivest/" target="_blank">Ron Rivest</a>
+  <dt><b>Alias:</b>
+    <dd> "OpenPGP.Digest.1"
+  <dt><b>Object Identifier:</b>
+    <dd> 1.2.840.113549.2.5
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl, Test</i>] Ron Rivest,<br>
+           "The MD5 Message-Digest Algorithm,"<br>
+           <a href="http://www.rfc-editor.org/rfc/rfc1321.txt" target="_blank">
+           <cite>RFC 1321</cite></a>, April 1992.
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 18.5 MD5,"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>An</i>] Thomas Berson,<br>
+           "Differential Cryptanalysis Mod 2<sup>32</sup> with Applications to MD5,"<br>
+           <cite>Advances in Cryptology - EuroCrypt '92 Proceedings</cite>,
+           Volume 658 of Lecture Notes in Computer Science, Springer-Verlag.
+      <li> [<i>An</i>] <cite>RSA Laboratories Security Bulletin #4</cite>,<br>
+           <a href="ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf" target="_blank">
+           ftp://ftp.rsa.com/pub/pdfs/bulletn4.pdf</a>
+      <li> [<i>An</i>] Hans Dobbertin,<br>
+           <cite>Cryptanalysis of MD5 Compress</cite>,<br>
+           <a href="http://www-cse.ucsd.edu/~bsy/dobbertin.ps">
+           http://www-cse.ucsd.edu/~bsy/dobbertin.ps</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 16 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 16 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> <a href="http://www.faqs.org/faqs/cryptography-faq/part07/" target="_blank">Section
+           7 of the sci.crypt FAQ</a> says:
+           <blockquote>
+               Note that a transcription error was found in the original MD5 draft
+               RFC. The corrected algorithm should be called MD5a, though some
+               people refer to it as MD5.
+           </blockquote>
+           This is wrong; the corrected algorithm should be called MD5, and is in
+           practice never referred to as MD5a.
+      <li> MD5 is big-bit-endian, little-byte-endian, and left-justified.
+           (Note the opposite bit and byte order.)
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> Hans Dobbertin has found a method of generating collisions for
+         MD5's compression function. Quoting from
+         <cite>RSA Laboratories Security Bulletin #4</cite>:
+         <blockquote>
+             Given the surprising speed with which techniques
+             on MD4 were extended to MD5 we feel that it is
+             only prudent to draw a cautious conclusion and to
+             expect that collisions for the entire hash function
+             might soon be found.
+         </blockquote>
+         <p>
+         In addition, the 128-bit output is arguably not long enough to make
+         generating collisions using a birthday attack infeasible.
+</dl>
+
+
+<p><a name="Panama"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Panama</font> <td align=right>MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.esat.kuleuven.ac.be/~rijmen/daemen.html" target="_blank">Joan Daemen</a>,
+         <a href="http://standard.pictel.com/ftp/research/security/readme.txt" target="_blank">Craig Clapp</a>
+  <dt><b>Published:</b>
+    <dd> 1998
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Joan Daemen, Craig Clapp,<br>
+           "Fast Hashing and Stream Encryption with Panama,"<br>
+           <cite>Fast Software Encryption '98</cite>,
+           Volume 1372 of Lecture Notes in Computer Science (S. Vaudenay, ed.), pp. 60-74.
+           Springer-Verlag, 1998.<br>
+           <a href="http://standard.pictel.com/ftp/research/security/panama.pdf" target="_blank">
+           http://standard.pictel.com/ftp/research/security/panama.pdf</a>
+      <li> [<i>Inf, Impl, Test</i>] Joan Daemen,<br>
+           <cite>Panama reference implementation (in C)</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~rijmen/daemen/panama.zip" target="_blank">
+           http://www.esat.kuleuven.ac.be/~rijmen/daemen/panama.zip</a>
+      <li> [<i>An</i>] Vincent Rijmen, Bart van Rompay, Bart Preneel, Joos Vandewalle,<br>
+           "Producing Collisions for PANAMA,"<br>
+           Presented at <cite>Fast Software Encryption 2001</cite>, Yokohama, Japan.
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 32 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The description of Panama in the December 1998 issue of Dr.&nbsp;Dobb's&nbsp;Journal
+           is incorrect.
+      <li> The C reference code, and its output in <code>panavecs.txt</code>, use
+           an unconventional byte order when printing test vectors (the order of
+           bytes is reversed across the whole block).
+           <p>
+           For reference, the first and last test vectors in the last section of
+           <code>panavecs.txt</code>
+           (input "The quick brown fox jumps over the lazy dog" represented in
+           US-ASCII and truncated to various lengths), written using the usual
+           left-to-right convention, are:
+<pre>
+   input  = "T"
+   output = &lt;049D698307D8541F22870DFA0A551099
+             D3D02BC6D57C610A06A4585ED8D35FF8&gt;
+
+   input  = "The quick brown fox jumps over the lazy dog"
+   output = &lt;5F5CA355B90AC622B0AA7E654EF5F27E
+             9E75111415B48B8AFE3ADD1C6B89CBA1&gt;
+</pre>
+      <li> Panama is little-bit-endian, little-byte-endian, and right-justified.
+    </ul></dd>
+</dl>
+
+
+<p><a name="RIPEMD-128"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-128</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Hans Dobbertin,
+         <a href="http://www.esat.kuleuven.ac.be/~bosselae/" target="_blank">Antoon Bosselaers</a>,
+         <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>
+  <dt><b>Published:</b>
+    <dd> April 1996
+  <dt><b>Alias:</b>
+    <dd> "RIPEMD128"
+  <dt><b>Object Identifier:</b>
+    <dd> 1.3.36.3.2.2
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>RIPEMD-160: A Strengthened Version of RIPEMD</cite>.<br>
+           A joint publication by the German Information Security Agency
+           (POB 20 03 63, D-53133 Bonn, Germany)
+           and the Katholieke Universiteit Leuven, ESAT-COSIC
+           (K. Mercierlaan 94, B-3001 Heverlee, Belgium), 18 April 1996.<br>
+           Available from
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+      <li> [<i>Inf, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+      <li> [<i>Inf</i>] ISO/IEC 10118-3:1998,<br>
+           Information technology -- Security techniques -- Hash-functions --
+           Part 3: Dedicated hash-functions.<br>
+           To order: <a href="http://www.iso.ch/cate/d25428.html" target="_blank">
+           http://www.iso.ch/cate/d25428.html</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 16 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 16 bytes.
+  <dt><b>Comment:</b>
+    <dd> RIPEMD-128 is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+         SCAN 1.0.16 incorrectly stated "little-bit-endian, little-byte-endian,
+         and right-justified".
+  <dt><b>Security comment:</b>
+    <dd> The 128-bit output is arguably not long enough to make
+         generating collisions using a birthday attack infeasible.
+</dl>
+
+
+<p><a name="RIPEMD-160"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-160</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Hans Dobbertin,
+         <a href="http://www.esat.kuleuven.ac.be/~bosselae/" target="_blank">Antoon Bosselaers</a>,
+         <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>
+  <dt><b>Published:</b>
+    <dd> April 1996
+  <dt><b>Aliases:</b>
+    <dd> "RIPEMD160", "OpenPGP.Digest.3"
+  <dt><b>Object Identifier:</b>
+    <dd> 1.3.36.3.2.1
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, An</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>RIPEMD-160: A Strengthened Version of RIPEMD</cite>.<br>
+           A joint publication by the German Information Security Agency
+           (POB 20 03 63, D-53133 Bonn, Germany)
+           and the Katholieke Universiteit Leuven, ESAT-COSIC
+           (K. Mercierlaan 94, B-3001 Heverlee, Belgium), 18 April 1996.<br>
+           Available from
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+      <li> [<i>Inf, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html</a>
+      <li> [<i>Inf</i>] A. Menezes, P.C. van Oorschot, S.A. Vanstone,<br>
+           "Algorithm 9.55 RIPEMD-160 hash function,"<br>
+           <cite>Handbook of Applied Cryptography</cite>,
+           CRC Press, 1997.<br>
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf" target="_blank">
+           http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf</a>,
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.ps">.ps</a>
+      <li> [<i>Inf</i>] ISO/IEC 10118-3:1998,<br>
+           Information technology -- Security techniques -- Hash-functions --
+           Part 3: Dedicated hash-functions.<br>
+           To order: <a href="http://www.iso.ch/cate/d25428.html" target="_blank">
+           http://www.iso.ch/cate/d25428.html</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 20 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 20 bytes.
+  <dt><b>Comment:</b>
+    <dd> RIPEMD-160 is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+         SCAN 1.0.16 incorrectly stated "little-bit-endian, little-byte-endian,
+         and right-justified".
+</dl>
+
+
+<p><a name="RIPEMD-256"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-256</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Hans Dobbertin,
+         <a href="http://www.esat.kuleuven.ac.be/~bosselae/" target="_blank">Antoon Bosselaers</a>,
+         <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>
+  <dt><b>Published:</b>
+    <dd> April 1996
+  <dt><b>Alias:</b>
+    <dd> "RIPEMD256"
+  <dt><b>Description:</b>
+    <dd> A double-width variant of <a href="#RIPEMD-128">RIPEMD-128</a>.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html#extensions" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html#extensions</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 32 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 16 bytes.
+  <dt><b>Comment:</b>
+    <dd> RIPEMD-256 is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+         SCAN 1.0.16 incorrectly stated "little-bit-endian, little-byte-endian,
+         and right-justified".
+  <dt><b>Security comment:</b>
+    <dd> This message digest is not claimed to provide a security level higher than
+         RIPEMD-128. Since the 128-bit internal state is arguably not long enough to
+         make generating collisions using a birthday attack infeasible, RIPEMD-256
+         should also not be used for applications where collision-resistance is
+         required. Consider using <a href="#SHA-256">SHA-256</a> instead.
+</dl>
+
+
+<p><a name="RIPEMD-320"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">RIPEMD-320</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Hans Dobbertin,
+         <a href="http://www.esat.kuleuven.ac.be/~bosselae/" target="_blank">Antoon Bosselaers</a>,
+         <a href="http://www.esat.kuleuven.ac.be/~preneel/" target="_blank">Bart Preneel</a>
+  <dt><b>Published:</b>
+    <dd> April 1996
+  <dt><b>Alias:</b>
+    <dd> "RIPEMD320"
+  <dt><b>Description:</b>
+    <dd> A double-width variant of <a href="#RIPEMD-160">RIPEMD-160</a>.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Impl, Test</i>] Hans Dobbertin, Antoon Bosselaers, Bart Preneel,<br>
+           <cite>The RIPEMD-160 page</cite>,<br>
+           <a href="http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html#extensions" target="_blank">
+           http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html#extensions</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 40 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 20 bytes.
+  <dt><b>Comment:</b>
+    <dd> RIPEMD-320 is big-bit-endian, little-byte-endian, and left-justified.
+         (Note the opposite bit and byte order.)
+         SCAN 1.0.16 incorrectly stated "little-bit-endian, little-byte-endian,
+         and right-justified".
+  <dt><b>Security comment:</b>
+    <dd> This message digest is not claimed to provide a security level higher than
+         RIPEMD-160. Consider using <a href="#SHA-384">SHA-384</a>,
+         <a href="#SHA-512">SHA-512</a> or <a href="#Whirlpool">Whirlpool</a> instead.
+</dl>
+
+
+<p><a name="SHA-0"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">SHA-0</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.nsa.gov/">U.S. National Security Agency</a>
+  <dt><b>Published:</b>
+    <dd> January 1992
+  <dt><b>Object Identifier:</b>
+    <dd> 1.3.14.3.2.13
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Test</i>] U.S. National Institute of Standards and Technology,<br>
+           <cite>Secure Hash Standard</cite>, NIST FIPS PUB 180.
+      <li> [<i>An</i>] Florent Chabaud, Antoine Joux,<br>
+           "Differential Collisions in SHA-0,"<br>
+           Advances in Cryptology - CRYPTO'98, LNCS 1462, H. Krawczyk (Ed.)
+           Springer-Verlag, 1998, pp. 56-71.
+           <a href="http://fchabaud.free.fr/English/Publications/sha.pdf" target="_blank">
+           http://fchabaud.free.fr/English/Publications/sha.pdf</a>,
+           <a href="http://fchabaud.free.fr/English/Publications/sha.ps">.ps</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 20 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 20 bytes.
+  <dt><b>Comment:</b>
+    <dd> SHA-0 is big-bit-endian, big-byte-endian, and left-justified.
+  <dt><b>Security comment:</b>
+    <dd> This is the original version of the Secure Hash Algorithm, and has
+         been superceded by SHA-1. Although the motivation for the change
+         leading to SHA-1 was not made public by the NSA, the paper by
+         Chabaud and Joux cited above provides evidence that this change
+         improved security.
+</dl>
+
+
+<p><a name="SHA-1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">SHA-1</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.nsa.gov/">U.S. National Security Agency</a>
+  <dt><b>Published:</b>
+    <dd> April 1995
+  <dt><b>Aliases:</b>
+    <dd> "SHA", "SHA1", "OpenPGP.Digest.2", "http://www.w3.org/2000/02/xmldsig#sha1"
+  <dt><b>Object Identifier:</b>
+    <dd> 1.3.14.3.2.26
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Test</i>] U.S. National Institute of Standards and Technology,<br>
+           <cite>Secure Hash Standard</cite>, NIST FIPS PUB 180-1.
+           <a href="http://www.itl.nist.gov/div897/pubs/fip180-1.htm" target="_blank">
+           http://www.itl.nist.gov/div897/pubs/fip180-1.htm</a>
+      <li> [<i>Test</i>] U.S. National Institute of Standards and Technology,<br>
+           <cite>SHA-1 Sample Vectors</cite>.<br>
+           <a href="http://csrc.nist.gov/cryptval/shs/sha1-vectors.zip" target="_blank">
+           http://csrc.nist.gov/cryptval/shs/sha1-vectors.zip</a>
+      <li> [<i>Inf</i>] Bruce Schneier,<br>
+           "Section 18.7 Secure Hash Algorithm (SHA),"<br>
+           <cite>Applied Cryptography, Second Edition</cite>,
+           John Wiley &amp; Sons, 1996.
+      <li> [<i>Inf</i>] A. Menezes, P.C. van Oorschot, S.A. Vanstone,<br>
+           "Algorithm 9.53 Secure Hash Algorithm - revised (SHA-1),"<br>
+           <cite>Handbook of Applied Cryptography</cite>,
+           CRC Press, 1997.<br>
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf" target="_blank">
+           http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf</a>,
+           <a href="http://www.cacr.math.uwaterloo.ca/hac/about/chap9.ps">.ps</a>
+      <li> [<i>An</i>] Florent Chabaud, Antoine Joux,<br>
+           "Differential Collisions in SHA-0,"<br>
+           Advances in Cryptology - CRYPTO'98, LNCS 1462, H. Krawczyk (Ed.)
+           Springer-Verlag, 1998, pp. 56-71.
+           <a href="http://fchabaud.free.fr/English/Publications/sha.pdf" target="_blank">
+           http://fchabaud.free.fr/English/Publications/sha.pdf</a>,
+           <a href="http://fchabaud.free.fr/English/Publications/sha.ps">.ps</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 20 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 20 bytes.
+  <dt><b>Comment:</b>
+    <dd> SHA-1 is big-bit-endian, big-byte-endian, and left-justified.
+</dl>
+
+
+<p><a name="SHA-256"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">SHA-256</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.nsa.gov/">U.S. National Security Agency</a>
+  <dt><b>Published:</b>
+    <dd> October? 2000
+  <dt><b>Object Identifier:</b>
+    <dd> 2.16.840.1.101.3.4.2.1
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def, Test</i>] U.S. National Institute of Standards and Technology,<br>
+           <cite>FIPS 180-2, Secure Hash Standard (SHS)</cite>.<br>
+           <a href="http://csrc.nist.gov/encryption/tkhash.html" target="_blank">
+           http://csrc.nist.gov/encryption/tkhash.html</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 32 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 32 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> SHA-{256,384,512} are big-bit-endian, big-byte-endian, and left-justified.
+      <li> When the compression function is used directly, it is considered to
+           include the chaining variable addition (as opposed to being separate
+           as shown in the specification).
+    </ul></dd>
+</dl>
+
+
+<p><a name="SHA-384"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">SHA-384</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.nsa.gov/">U.S. National Security Agency</a>
+  <dt><b>Published:</b>
+    <dd> October? 2000
+  <dt><b>Object Identifier:</b>
+    <dd> 2.16.840.1.101.3.4.2.2
+  <dt><b>References:</b>
+    <dd> [see references for <a href="#SHA-256">SHA-256</a>]
+  <dt><b>Digest length:</b>
+    <dd> 48 bytes.
+  <dt><b>Block size:</b>
+    <dd> 128 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 111 bytes.
+  <dt><b>State size:</b>
+    <dd> 64 bytes.
+  <dt><b>Comments:</b>
+    <dd> [see comments for <a href="#SHA-256">SHA-256</a>]
+</dl>
+
+
+<p><a name="SHA-512"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">SHA-512</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.nsa.gov/">U.S. National Security Agency</a>
+  <dt><b>Published:</b>
+    <dd> October? 2000
+  <dt><b>Object Identifier:</b>
+    <dd> 2.16.840.1.101.3.4.2.3
+  <dt><b>References:</b>
+    <dd> [see references for <a href="#SHA-256">SHA-256</a>]
+  <dt><b>Digest length:</b>
+    <dd> 64 bytes.
+  <dt><b>Block size:</b>
+    <dd> 128 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 111 bytes.
+  <dt><b>State size:</b>
+    <dd> 64 bytes.
+  <dt><b>Comment:</b>
+    <dd> [see comments for <a href="#SHA-256">SHA-256</a>]
+</dl>
+
+
+<p><a name="Snefru-2"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Snefru-2[(<i>digestLength</i>[<i>,passes</i>])]</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designer:</b>
+    <dd> Ralph Merkle
+  <dt><b>Published:</b>
+    <dd> 1990?
+  <dt><b>Description:</b>
+    <dd> This is version 2.x of Snefru. The version numbers 2.0, 2.1, 2.2, 2.3 and 2.5a
+         for the reference implementation all refer to the same algorithm (although with
+         a different number of default passes). Therefore, it is only necessary to
+         specify the major version number (2) in the algorithm name.
+         <p>
+         The difference between Snefru-1 and Snefru-2 is that Snefru-2 uses a different
+         set of initial S-boxes, derived from the Rand Corporation's list of random
+         digits.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>, <i>Test</i>] Ralph Merkle,<br>
+           <cite>Snefru-2.5a reference implementation and test vectors</cite>,<br>
+           <a href="ftp://ftp.parc.xerox.com/pub/hash/hash2.5a/snefru.tar" target="_blank">
+           ftp://ftp.parc.xerox.com/pub/hash/hash2.5a/snefru.tar</a>
+      <li> [<i>Inf</i>] Ralph Merkle,<br>
+           "A Fast One-Way Hash Function,"<br>
+           Journal of Cryptology, Vol. 3, No. 1, pp. 43-58, 1990.<br>
+           [This describes version 1 of Snefru.]
+      <li> [<i>An</i>] Eli Biham, Adi Shamir,<br>
+           "Differential Cryptanalysis of Snefru, Khafre, REDOC-II, LOKI and Lucifer,"<br>
+           Extended Abstract in <cite>Advances in Cryptology - CRYPTO '91 Proceedings</cite>,
+           Volume ??? of Lecture Notes in Computer Science, Springer-Verlag, 1991.
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>Integer digestLength</code> [creation/read, default 32] - the
+             length of the output in bytes (16 or 32)
+      <li> <code>Integer passes</code> [creation/read, default 8] - the number of
+             passes to be performed (4 or 8)
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> As specified by the <code>digestLength</code> parameter (in bytes).
+  <dt><b>Block size:</b>
+    <dd> For <i>digestLength</i> = 16: 48 bytes.<br>
+         For <i>digestLength</i> = 32: 32 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> For <i>digestLength</i> = 16: 40 bytes.<br>
+         For <i>digestLength</i> = 32: 24 bytes.
+  <dt><b>State size:</b>
+    <dd> 32 bytes.
+  <dt><b>Comment:</b>
+    <dd> Snefru-2 is not defined on bit strings, and is big-byte-endian.
+  <dt><b>Security comment:</b>
+    <dd> From <a href="ftp://ftp.parc.xerox.com/pub/hash/REWARD" target="_blank">ftp://ftp.parc.xerox.com/pub/hash/REWARD</a>:
+         <blockquote>
+             In the author [Ralph Merkle]'s opinion, further security analysis of
+             Snefru is required before it can be considered for production use.
+         </blockquote>
+</dl>
+
+
+<p><a name="Tiger"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Tiger[(<i>digestLength</i>[<i>,passes</i>])]</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www.cl.cam.ac.uk/users/rja14/" target="_blank">Ross Anderson</a>,
+         <a href="http://www.cs.technion.ac.il/~biham/" target="_blank">Eli Biham</a>
+  <dt><b>Published:</b>
+    <dd> 1996
+  <dt><b>Alias:</b>
+    <dd> "OpenPGP.Digest.6" for Tiger(24,3)
+  <dt><b>Object Identifier:</b>
+    <dd> 1.3.6.1.4.1.11591.12.2 for Tiger(24,3)
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Ross Anderson, Eli Biham,<br>
+           "Tiger: A Fast New Hash Function,"<br>
+           Proceedings of Fast Software Encryption 3, Cambridge, 1996.<br>
+           <a href="http://www.cs.technion.ac.il/~biham/Reports/Tiger/tiger/tiger.html" target="_blank">
+           http://www.cs.technion.ac.il/~biham/Reports/Tiger/tiger/tiger.html</a>
+           (<a href="http://www.cl.cam.ac.uk/ftp/users/rja14/tiger.ps.Z">.ps.Z format</a>)<br>
+           <span class=error>(See comments below.)</span>
+      <li> [<i>Def</i>] Ross Anderson, Eli Biham,<br>
+           "Generation of the S boxes of Tiger,"<br>
+           <a href="http://www.cl.cam.ac.uk/ftp/users/rja14/tigersb.ps.Z">
+           http://www.cl.cam.ac.uk/ftp/users/rja14/tigersb.ps.Z</a>
+      <li> [<i>Inf, Impl, Test</i>] Ross Anderson, Eli Biham,<br>
+           <cite>The Tiger Home Page</cite>,<br>
+           <a href="http://www.cs.technion.ac.il/~biham/Reports/Tiger/" target="_blank">
+           http://www.cs.technion.ac.il/~biham/Reports/Tiger/</a>
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>Integer digestLength</code> [creation/read, default 24] - the
+             length of the output in bytes (16, 20 or 24)
+      <li> <code>Integer passes</code> [creation/read, default 3] - the number of
+             passes to be performed (minimum 3)
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> As specified by the <code>digestLength</code> parameter (in bytes).
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 55 bytes.
+  <dt><b>State size:</b>
+    <dd> 24 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> The paper "Tiger: A Fast New Hash Function," specified that padding
+           for Tiger would be done in the same way as the MD4 family, i.e.
+           big-bit-endian, little-byte-endian and left-justified. That would
+           imply that the first byte of padding is 0x80, and the initial version
+           of the Tiger reference implementation was consistent with this
+           interpretation.
+           <p>
+           However, it is stated on the Tiger home page that the first byte of
+           padding is intended to be 0x01 (i.e. little-bit-endian, little-byte-endian
+           and right-justified), and that is the interpretation used for
+           the definition of this algorithm, <em>despite</em> the fact that it is
+           apparently not consistent with the original paper.
+           <p>
+           To confuse matters further, an old copy of the Tiger reference implementation,
+           dated February 1996, was available from Ross Anderson's web site until
+           October 2002. That version should not be used; instead refer
+           to the reference implementation and test vectors at the
+           <a href="http://www.cs.technion.ac.il/~biham/Reports/Tiger/" target="_blank">
+           Tiger home page</a>.
+           <p>
+           Finally, note that the test vectors use a non-standard convention
+           for the order of bytes in the output. For reference, the first two
+           test vectors written using the usual left-to-right convention are:
+<pre>
+   input  = &lt;&gt;
+   output = &lt;3293AC630C13F0245F92BBB1766E16167A4E58492DDE73F3&gt;
+
+   input  = &lt;616263&gt;
+   output = &lt;2AAB1484E8C158F2BFB8C5FF41B57A525129131C957B5F93&gt;
+</pre>
+      <li> The Tiger paper uses "Tiger#/N" as the name for Tiger with # passes
+           and N-bit output; this is equivalent to the SCAN name Tiger(N/8,#)
+           (for consistency with other SCAN message digest names).
+    </ul></dd>
+</dl>
+
+
+<p><a name="Whirlpool-0"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Whirlpool-0</font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Paulo Barreto,
+         <a href="http://www.esat.kuleuven.ac.be/~rijmen/" target="_blank">Vincent Rijmen</a>
+  <dt><b>Published:</b>
+    <dd> November 2000
+  <dt><b>Description:</b>
+    <dd> This is the "original" version of Whirlpool submitted to the first
+         round of the NESSIE project.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Paulo Barreto, Vincent Rijmen,<br>
+           <cite>The Whirlpool Hashing Function</cite>.<br>
+           Whirlpool.pdf in
+           <a href="http://www.cryptonessie.org/submissions/whirlpool/whirlpool.zip">
+           http://www.cryptonessie.org/submissions/whirlpool/whirlpool.zip</a>
+      <li> [<i>Inf, Impl, Test</i>] Paulo Barreto, Vincent Rijmen,<br>
+           <cite>The Whirlpool Hashing Function page</cite>.<br>
+           <a href="http://planeta.terra.com.br/informatica/paulobarreto/WhirlpoolPage.html">
+           http://planeta.terra.com.br/informatica/paulobarreto/WhirlpoolPage.html</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 64 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 31 bytes.
+  <dt><b>State size:</b>
+    <dd> 64 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Whirlpool-0 is big-bit-endian, big-byte-endian, and left-justified.
+      <li> SCAN 1.0.13 used the name "Whirlpool" to refer to Whirlpool-0,
+           not to the <a href="#Whirlpool">tweaked version</a> that is
+           currently assigned that name. This is an incompatible change.
+    </ul></dd>
+</dl>
+
+
+<p><a name="Whirlpool"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">?&nbsp;<span class=p>Whirlpool</span></font> <td align=right>Block MessageDigest
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> Paulo Barreto,
+         <a href="http://www.esat.kuleuven.ac.be/~rijmen/" target="_blank">Vincent Rijmen</a>
+  <dt><b>Published:</b>
+    <dd> September 2001
+  <dt><b>Alias:</b>
+    <dd> "Whirlpool-1"
+  <dt><b>Description:</b>
+    <dd> This is the "tweaked" version of Whirlpool.
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] Paulo Barreto, Vincent Rijmen,<br>
+           <cite>The Whirlpool Hashing Function (Tweaked version)</cite>.<br>
+           <a href="http://planeta.terra.com.br/informatica/paulobarreto/whirl-tweak.zip">
+           http://planeta.terra.com.br/informatica/paulobarreto/whirl-tweak.zip</a>
+      <li> [<i>Inf, Test</i>] Paulo Barreto, Vincent Rijmen,<br>
+           <cite>The Whirlpool Hashing Function page</cite>.<br>
+           <a href="http://planeta.terra.com.br/informatica/paulobarreto/WhirlpoolPage.html">
+           http://planeta.terra.com.br/informatica/paulobarreto/WhirlpoolPage.html</a>
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> 64 bytes.
+  <dt><b>Block size:</b>
+    <dd> 64 bytes.
+  <dt><b>Max. final block size:</b>
+    <dd> 31 bytes.
+  <dt><b>State size:</b>
+    <dd> 64 bytes.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> Whirlpool is big-bit-endian, big-byte-endian, and left-justified.
+      <li> SCAN 1.0.13 used the name "Whirlpool" to refer to Whirlpool-0,
+           not to this tweaked version. This is an incompatible change.
+      <li> This algorithm is preferred instead of <a href="#Whirlpool-0">Whirlpool-0</a>.
+    </ul></dd>
+</dl>
+
+
+<p><a name="MGF1"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">&#215;&nbsp;<span class=x>MGF1</span>(<i>digest</i>)</font> <td align=right>MessageDigest Construction
+</tr></table>
+<dl>
+  <dt><b>Designers:</b>
+    <dd> <a href="http://www-cse.ucsd.edu/users/mihir/" target="_blank">Mihir Bellare</a>,
+         <a href="http://www.cs.ucdavis.edu/~rogaway/" target="_blank">Phillip Rogaway</a>,
+         P1363 Working Group
+  <dt><b>Published:</b>
+    <dd> 1999
+  <dt><b>Description:</b>
+    <dd> MGF1 is defined as:
+         <blockquote>
+           MGF1(<i>digest</i>)(<i>input</i>) =<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>input</i> || I2OSP<sub>4</sub>(0)) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>input</i> || I2OSP<sub>4</sub>(1)) ||<br>
+           <code>&nbsp;&nbsp;&nbsp;&nbsp;</code><i>digest</i>(<i>input</i> || I2OSP<sub>4</sub>(2)) || ...
+         </blockquote>
+         The maximum output length is
+         (2<sup>32</sup>&nbsp;-&nbsp;1)&nbsp;&#215;&nbsp;(output&nbsp;length&nbsp;of&nbsp;digest).
+         <p>
+         This is the same as the definition given in PKCS #1 v2.0.<br>
+         <strong>See the comments below concerning compatibility with IEEE P1363a.</strong>
+  <dt><b>References:</b>
+    <dd><ul class=noindent>
+      <li> [<i>Def</i>] RSA Security, Inc.,<br>
+           <cite>PKCS #1: RSA Cryptography Standard, version 2.0</cite>.<br>
+           <a href="http://www.rsalabs.com/pkcs/pkcs-1/" target="_blank">
+           http://www.rsalabs.com/pkcs/pkcs-1/</a>
+      <li> [<i>Inf</i>] IEEE,<br>
+           <cite>IEEE Std 1363-2000: Standard Specifications For Public Key Cryptography</cite>.<br>
+           <a href="http://grouper.ieee.org/groups/1363/index.html" target="_blank">
+           http://grouper.ieee.org/groups/1363/index.html</a>
+      <li> [<i>An</i>] Victor Shoup,<br>
+           "A Proposal for an ISO Standard for Public Key Encryption
+            (version 2.1)"<br>
+           Revised December 20, 2001.<br>
+           <a href="http://www.shoup.net/papers/" target="_blank">
+           http://www.shoup.net/papers/</a>
+      <li> [<i>Test</i>] RSA Security, Inc.,<br>
+           <cite>Test vectors for OAEP-based encryption scheme: #1</cite> and <cite>#2</cite>,<br>
+           <a href="ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-1v2/p1ovect1.txt" target="_blank">
+           ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-1v2/p1ovect1.txt</a><br>
+           <a href="ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-1v2/p1ovect2.txt" target="_blank">
+           ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-1v2/p1ovect2.txt</a><br>
+           [these test vectors are for RSA/OAEP-MGF1(SHA-1), but include inputs and
+            outputs for MGF1(SHA-1)]
+    </ul></dd>
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String digest</code> [creation/read, no default] - the name
+             of the message digest on which this PRF is to be based.
+    </ul></dd>
+  <dt><b>Missing information:</b>
+    <dd> Test vectors when used with a little-bit-endian hash function.
+  <dt><b>Comments:</b>
+    <dd><ul class=noindent>
+      <li> If the current P1363a definition of MGF1 were used with a little-bit-endian
+           message digest, then it would be incompatible with this algorithm.
+           This is because, in the P1363a definition, byte string key inputs
+           are converted to a bit string using the OS2BSP primitive (which
+           always uses big-bit-endian order), and then processed by the digest
+           function using its native bit order. Therefore the bits in each byte
+           of the key would need to be reversed, relative to the algorithm
+           defined here and in PKCS #1 v2.0.
+           <p>
+           However, P1363a only defines MGF1 for a specific set
+           of message digest functions: SHA-1, SHA-{256,384,512}, and RIPEMD-160.
+           All of these are big-bit-endian, and so there is no incompatibility
+           in practice. It is likely that if some future amendment of IEEE Std 1363
+           allowed any little-bit-endian digest functions, it would correct this
+           bit order problem.
+      <li> SCAN 1.0.12 classified MGF1 as a PRF/KDF, by setting
+           the input to (<i>key</i>&nbsp;||&nbsp;<i>seed</i>). However, that would
+           have allowed extension attacks (due to the Markle-Damg&aring;rd
+           structure of most message digest algorithms). Thanks to Richard Parker for
+           this observation. SCAN 1.0.13-17 disallowed use of the seed input, but
+           still had MGF1 in the <a href="prfi.html" target="_top">PRF/KDF section</a>.
+           <p>
+           The classification of MGF1 as a message digest is incompatible with
+           versions of SCAN before 1.0.18. If a PRF is required, use an algorithm
+           designed for that purpose, such as <a href="prf.html#HMAC-PRF">HMAC-PRF</a>.
+    </ul></dd>
+  <dt><b>Security comment:</b>
+    <dd> In section 12.3 of the cited paper by Victor Shoup, use of MGF1 (which is
+         referred to there as "KDF1") for applications that require entropy smoothing,
+         is criticised as being dependent on the security of "a quite unorthodox
+         construction that does not appear to be based on any well-worn or otherwise
+         sound principles."
+</dl>
+
+
+<p><a name="Parallel"></a><hr>
+<table width="100%"><tr>
+  <td><font size="+2">Parallel(<i>digestNames</i>+)</font> <td align=right>MessageDigest Construction
+</tr></table>
+<dl>
+  <dt><b>Description:</b>
+    <dd> This output of this algorithm is obtained by concatenating the outputs of each
+         of the listed algorithms. For example, "Parallel(SHA-1,RIPEMD-160)" produces a 40-byte
+         output, the first half of which is calculated by applying SHA-1 to the input, and the
+         second half by applying RIPEMD-160. Any non-zero number of algorithms may be listed,
+         separated by commas.
+  <dt><b>Parameters:</b>
+    <dd><ul class=noindent>
+      <li> <code>String[] digestNames</code> [creation/read, no default] - the list of
+             component digest algorithm names. Reading this property MUST return an
+             unaliased array; changing the array will not affect the algorithm.
+    </ul></dd>
+  <dt><b>Digest length:</b>
+    <dd> The sum of the digest lengths of the component algorithms.
+  <dt><b>Security comments:</b>
+    <dd><ul class=noindent>
+      <li> This construction is provably at least as resistant to collisions as the
+           most collision-resistant of the component algorithms. However, it does not
+           help to prevent attacks against pre-image resistance, and probably should
+           only be used in applications where the most important required property is
+           collision resistance.
+      <li> All of the component algorithms should be distinct, since otherwise parts
+           of the output will be repeated, which would be a serious weakness in some
+           applications.
+    </ul></dd>
+</dl>
+
+
+<a name="alleged"></a><hr>
+<h3>Alleged MessageDigests</h3>
+
+<ul>
+  <li> <a class=a href="http://www.randombit.net/misc/has160.txt"
+          target="_blank">HAS-160</a> is an earlier version of <a href="#HAS-V">HAS-V</a>.
+  <li> <a class=a href="http://eprint.iacr.org/1997/001/" target="_blank">MuHASH, AdHASH, LtHASH</a>.
+  <li> <span class=a>NASD</span> is <span class=a>AdHASH</span> with small parameters, and is
+       <a href="http://citeseer.nj.nec.com/wagner02generalized.html"
+          target="_blank">broken</a>.
+  <li> <span class=a>FFT-Hash-I</span> [Crypto '91 rump session] is
+       <a href="http://www.esat.kuleuven.ac.be/~cosicart/pdf/JD-9100.pdf"
+          target="_blank">broken</a>.
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#S92"
+          target="_blank">FFT-Hash-II</a> is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#V92"
+          target="_blank">broken</a>.
+  <li> <a class=a href="http://citeseer.nj.nec.com/context/89936/0"
+          target="_blank">N-Hash</a> is
+       <a href="http://citeseer.nj.nec.com/86579.html"
+          target="_blank">broken</a>. (Apparently two variants with variable # of rounds.)
+  <li> <a href="http://islab.oregonstate.edu/documents/People/preneel/hash.ps"><span
+          class=a>Decimal-Shift-and-Add</span> is broken</a>.
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#AR92"
+          target="_blank">AR</a> is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#DK93"
+          target="_blank">broken</a>.
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#DGV92a"
+          target="_blank">Boognish</a> is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#JD02"
+          target="_blank">"certainly weak"</a>, according to Joan Daemen.
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#JD95"
+          target="_blank">StepRightUp</a> is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#RRPV01"
+          target="_blank">broken</a>.
+       (<a href="#Panama">Panama</a> derives from StepRightUp.)
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#RIPE92"
+          target="_blank">RIPEMD</a> is
+       <a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#D97"
+          target="_blank">broken</a> [also HAC p380].
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#DGV91"
+          target="_blank">Cellhash</a>.
+  <li> <a class=a href="http://planeta.terra.com.br/informatica/paulobarreto/hflounge.html#DGV92b"
+          target="_blank">Subhash</a> [paper on-line
+       <a href="http://www.esat.kuleuven.ac.be/~cosicart/pub92.html"
+          target="_blank">here</a>]. 128-bit output.
+       Based on Subterranean stream/hash module; derives from Cellhash.
+  <li> <span class=a>Snefru-1</span> [see refs for <a href="#Snefru-2">Snefru-2</a>].
+  <li> <span class=a>BCA</span> (Binary Condensing Algorithm). Mentioned in Snefru-1 paper.
+  <li> <span class=a>Extended-MD4</span> is broken [HAC p380].
+  <li> <span class=a>MD3</span> [AC2 p446]. RSA Labs TR-101, apparently not on-line.
+  <li> <span class=a>SL2</span> [CRYPTO '94] is broken [AC2 p446, ASIACRYPT '94].
+  <li> <span class=a>sqmodn</span> is broken [HAC p381].
+  <li> <span class=a>MASH-1</span>, <span class=a>MASH-2</span> [HAC p351].
+  <li> <span class=a>MDC-2</span>(<i>cipher</i>), <span class=a>MDC-4</span>(<i>cipher</i>) [HAC p378].
+  <li> <span class=a>Merkle</span>(<i>cipher</i>) [HAC p339, p378].
+  <li> <span class=a>Merkle-Preneel</span>(<i>cipher</i>) [HAC p378].
+  <li> <span class=a>Tandem-Davies-Meyer</span>(<i>cipher</i>) [HAC p380].
+  <li> <span class=a>Abreast-Davies-Meyer</span>(<i>cipher</i>) [HAC p380].
+  <li> <span class=a>Modified-Davies-Meyer</span>(<i>cipher</i>) [AC2 p449]. Probably a duplicate of
+       Tandem- or Abreast-Davies-Meyer.<br>
+       (Note that ordinary, single-block-output Davies-Meyer is
+       included in SCAN as <a href="#BRS-Hn">BRS-H5</a>.)
+  <li> <span class=a>Lai-Massey</span>(<i>cipher</i>) [HAC p380; the "third m-bit hash function" of HAC ref. [729]).
+  <li> <span class=a>Miyaguchi-Preneel</span>(<i>cipher</i>) [HAC].
+  <li> <span class=a>Matyas-Meyer-Oseas</span>(<i>cipher</i>) [HAC].
+  <li> <span class=a>QG-original</span>(<i>cipher</i>), <span class=a>QG-revised</span>(<i>cipher</i>) [HAC p379].
+  <li> <span class=a>LOKI-DBH</span> [HAC p379].
+  <li> IBC-Hash [AC2 p458] is actually a MAC.
+  <li> also see the <a href="uh.html">UniversalHash</a> category.
+</ul>
+
+
+<hr size=3 noshade>
+<img src="cryptix-s.gif" alt="" align=right>
+
+<table><tr>
+  <td width=200>
+      <a target="_blank" href="http://validator.w3.org/check/referer">
+      <img src="vh40.gif" alt="Valid HTML 4.0" border=0 height=31 width=88></a>
+      <a target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer">
+      <img src="vcss.gif" alt="Valid CSS" border=0 height=31 width=88></a>
+  <td valign=top>
+      <a href="intro.html#copyright">Copyright and trademarks</a>
+</tr></table>
+
+</body>
+</html>

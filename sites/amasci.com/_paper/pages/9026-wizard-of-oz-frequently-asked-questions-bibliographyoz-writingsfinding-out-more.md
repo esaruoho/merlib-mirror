@@ -1,0 +1,184 @@
+---
+title: "Wizard of Oz - Frequently Asked Questions - Bibliography/Oz writings/Finding out more"
+source_domain: amasci.com
+source_path: ~tiktok/faq20.html
+order: 9026
+reachable_from_entry: false
+images: 19
+internal_links: 5
+extracted: 2026-08-07T17:17:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Wizard of Oz - Frequently Asked Questions - Bibliography/Oz writings/Finding out more
+
+*Source page: `~tiktok/faq20.html`*
+
+**THE WONDERFUL WIZARD OF OZ\
+LIST OF FREQUENTLY ASKED QUESTIONS**
+
+**20. Bibliography/Oz writings/Finding out more**
+
+This FAQ only covers the main points about Oz. Much more information is available from these resources, many of which were consulted during the compilation of this FAQ. Anyone looking for more detailed information is encouraged to seek out some of these books, magazines, and videos. (Those seeking out even more resources, especially newspaper, magazine, and journal articles, should check out the bibliographies of these books, notably Hearn's *Critical Heritage* edition of *The Wizard of Oz*.) The bibliography is divided into general categories.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**Introductory and general information about Oz**
+
+- *The Baum Bugle*. The International Wizard of Oz Club, 1957-present.
+- Carroll, Williard, and John Fricke. *100 Years of Oz*. Stewart Tabori and Chang, 1999.
+- Eyles, Allen. *The World of Oz*. Black Pig Editions (UK) and HPBooks, Inc. (USA), 1985.
+- Greene, David L., and Dick Martin. *The Oz Scrapbook*. Random House, 1977.
+- *Oz: The American Fairyland*. Video documentary, Sirocco Video, 1998.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About the Land of Oz and its citizens**
+
+- Clarke, Peter B. *Who's Who, What's What, and Where's Where in Oz*. Arcus Company, 1994. (An updated and expanded edition is reportedly in the works.)
+- Haff, James E., and Dick Martin. "Maps of Oz and the Surrounding Countries." The International Wizard of Oz Club, 1964 (with several subsequent revisions).
+- Haff, James E., with descriptions, additions, notes, and a gazeteer by Ruth Berman. *Who's Who in Oz: An Appendix*. Privately published by Berman, 1994.
+- Manguel, Alberto, and Gianni Guadalupi. *The Dictionary of Imaginary Places* (updated and expanded edition). Harcourt Brace, 1999.
+- Pattrick, Robert R. *Unexplored Territory in Oz* (second edition, annotations by Patrick Maund). The International Wizard of Oz Club, 1990 (the first, unannotated edition is also available).
+- Snow, Jack. *Who's Who in Oz*. The Reilly and Lee Co., 1954.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About L. Frank Baum and his works**
+
+- Attebery, Brian. *The Fantasy Tradition in American Literature: From Irving to LeGuin*. Indiana University Press, 1980.
+- Baum, Frank Joslyn, and Russell P. MacFall. *To Please a Child: A Biography of L. Frank Baum, Royal Historian of Oz*. The Reilly & Lee Co., 1961.
+- Baum, L. Frank, edited and annotated by Nancy Tystad Koupal. *Our Landlady*. University of Nebraska Press, 1996. (While much of this book is made up of Baum's "Our Landlady" columns of 1890 and 1891, Koupal's introduction and notes are of value for those researching Baum's life and early writings.)
+- Carpenter, Angelica Shirley, and Jean Shirley. *L. Frank Baum, Royal Historian of Oz*. Lerner Publications Company, 1992.
+- *The Dictionary of Literary Biography*, vol. 22. Gale, 1983. (Includes critical essays by Michael Patrick Hearn of both Baum and Ruth Plumly Thompson.)
+- Ferrara, Susan. *The Family of the Wizard: The Baum's of Syracuse*. Xlibris, 1999. (A look at Baum's early years in upstate New York and the rest of his family.)
+- Ford, Alla T., and Dick Martin. *The Musical Fantasies of L. Frank Baum*. The Wizard Press, 1958.
+- Gardner, Martin, and Russel B. Nye. *The Wizard of Oz and Who He Wa*s. Michigan State University Press, 1957.
+- Golding, William, and Harold Bloom. *Classic Fantasy Writers*. Chelsea House, 1994.
+- Greene, Carol. *L. Frank Baum, Author of The Wonderful Wizard of Oz*. Childrens Press, 1995.
+- Hearn, Michael Patrick. *The Annotated Wizard of Oz*. Clarkson N. Potter, 1973.
+- Koupal, Nancy Tystad, ed. *Baum's Road to Oz: The Dakota Years*. South Dakota Historical Society, 2000. (A collection of essays about Baum's time living in South Dakota, and how it may have affected his later writings.)
+- Leach, William R. *Land of Desire: Merchants, Power, and the Rise of a New American Culture*. Pantheon Books, 1993. (The title says it all -- but it turns out that L. Frank Baum was a part of the process.)
+- Riley, Michael O. *Oz and Beyond: The Fantasy World of L. Frank Baum*. University Press of Kansas, 1997.
+- Rogers, Katherine M. *L. Frank Baum: Creator of Oz*. St. Martin's Press, 2002.
+- Rylant, Cynthia. *Margaret, Frank, and Andy: Three Writers' Stories*. Harcourt Brace and Company, 1996.
+- Wheeler, Jill C. *Frank Baum*. Abdo and Daughters, 1997.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**Criticisms and interpretations of Baum and his works**
+
+- Bausch, William J. *Yellow Brick Road: A Storyteller's Approach to the Spiritual Journey*. Twenty-Third Publications, 1999.
+- Brousky, Samuel. *The Wizard of Oz Revealed*. Writers Consortium, 1995.
+- Dighe, Ranjit S., ed. *The Historian's Wizard of Oz : Reading L. Frank Baum's Classic As a Political and Monetary Allegory*. Praeger Publishing, 2002.
+- Earle, Neil. *The Wonderful Wizard of Oz in American Popular Culture: Uneasy in Eden*. The Edwin Mellen Press, 1993.
+- Greene, Joey. *The Zen of Oz: Ten Spiritual Lessons from Over the Rainbow*. Renaissance Books, 1998.
+- Hearn, Michael Patrick, ed. *The Critical Heritage Series: The Wizard of Oz*. Schocken Books, 1983. (This is the original story, plus twenty essays by a number of writers covering a number of aspects of Oz. Includes an extensive supplemental reading list of still more Oz writings.)
+- Main, Darren John. *Spiritual Journeys Along the Yellow Brick Road*. Findhorn Press, 2000.
+- Marvel, Richard. *The New Oz: The Wizard Revisited*. Valkyrie Publishing House, 1992.
+- Moore, Raylyn. *Wonderful Wizard, Marvelous Land*. Bowling Green University Popular Press, 1974.
+- Morena, Gita Dorothy. *The Wisdom of Oz*. Inner Connections Press, 1998. (An examination of the psychological and spiritual meanings of Oz, written by L. Frank Baum's great-granddaughter.)
+- Peaston, Monroe. *Story Patterns in Some Great American Classics*. Fithian, 1999.
+- Rahn, Suzanne. *The Wizard of Oz: Shaping an Imaginary World*. Twayne Publishers, 1998.
+- Wagenknecht, Edward. *Utopia Americana*. University of Washington Book Store, 1929.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About collecting Oz books**
+
+- Greene, Douglas G., and Peter E. Hanff. *Bibliographia Oziana* (revised and enlarged edition). The International Wizard of Oz Club, 1988.
+- Hinke, C. J. *Oz in Canada*. William Hoffer, 1982.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About The Movie**
+
+- Fricke, John, Jay Scarfone, and William Stillman. *The Wizard of Oz: The Official 50th Anniversary Pictorial History*. Warner Books, 1989.
+- Harmetz, Aljean. *The Making of* The Wizard of Oz. Alfred A. Knopf, 1978. (Updated editions appeared in 1989 from Delta Books, and in 1999 from Hyperion.)
+- Langley, Noel, Florence Ryerson, and Edgar Allan Woolf, edited by Michael Patrick Hearn. *The Wizard of Oz: The Screenplay*. Delta Books, 1989.
+- McClelland, Doug. *Down the Yellow Brick Road: The Making of The Wizard of Oz*. Pyramid Books, 1976.
+- Nathanson, Paul. *Over the Rainbow: The Wizard of Oz as a Secular Myth of America*. State University of New York Press, 1991.
+- Rushdie, Salman. *BFI Film Classics: The Wizard of Oz*. BFI Publishing, 1992.
+- Stillman, William, and Jay Scarfone. *The Wizardry of Oz*. Random House, 1999.
+- *The Wizard of Oz*. Designed by Peter Ward, forward by John Russell Taylor. Portland House/Limpsfield (USA) and Dragon's World, Ltd. (UK), 1989. (A lavish coffee table book edition of the script, with many, many photographs from The Movie.)
+- *The Wonderful Wizard of Oz: Fifty Years of Movie Magic*. Television documentary, 1990.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About the Ruby Slippers**
+
+- *The E! True Hollywood Story: The Trail of the Ruby Slippers*. E! Television production, 2000.
+- Thomas, Rhys. *The Ruby Slippers of Oz*. Tale Weaver Publishing, 1989.
+- *Treasure! The Search for the Ruby Slippers*. A&E television/video documentary.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About the cast and crew of The Movie**
+
+- *Biography: Judy Garland*. A&E television/video documentary.
+- Burke, Billie. *With a Feather on My Nose*. Appleton-Century-Crofts, 1949. (Another book by Burke of interest is *With Powder on My Nose*, published by Coward McCann in 1959. It is not an autobiography, however, but a book of make-up tips.)
+- Carroll, Willard. *I, Toto: The Autobiography of Terry, the Dog Who Was Toto*. Stewart Tabori & Chang, 2001.
+- Clarke, Gerald. *Get Happy: The Life of Judy Garland*. Random House, 2000.
+- Cox, Stephen. *The Munchkins of Oz*. Cumberland House, 2002. (A second, updated edition of the 1996 edition, which was itself an updated and expanded version of Cox's first book about the Munchkins and the people who played them, *The Munchkins Remember: The Wizard of Oz and Beyond*. E. P. Dutton, 1989.)
+- Denton, Clive. *The Hollywood Professionals: King Vidor, John Cromwell, Mervyn LeRoy*. A. S. Barnes and Co., 1976.
+- Ebsen, Buddy. *The Other Side of Oz*. Donovan Publishing, 1994.
+- Finch, Christopher. *Rainbow*. Grosset & Dunlap, 1975. (Considered by many to be the definitive biography of Judy Garland.)
+- Frank, Gerold. *Judy*. Harper & Row, 1975. (Another highly regarded Garland biography.)
+- Fricke, John. *Judy Garland: World's Greatest Entertainer*. Henry Holt and Company, 1992. (A thorough, objective examination of Judy Garland's life and career.)
+- *Harold Arlen: Somewhere Over the Rainbow*. Video documentary, 1998.
+- Haley, Jack. *The Heart of the Tin Man*. Seven Locks Press, 2001.
+- Jablonski, Edward. *Harold Arlen: Rhythm, Rainbow, and Blues*. Northeastern University Press, 1996. (An earlier book about Arlen, *Happy with the Blues*, also by Jablonski, was published by Doubleday in 1961.)
+- Lahr, John. *Notes on a Cowardly Lion*. Alfred A. Knopf, 1969.
+- LeRoy, Mervyn. *Mervyn LeRoy: Take One*. Hawthorn, 1974.
+- LeRoy, Mervyn (as told to Alyce Canfield). *It Takes More Than Talent*. Alfrd Knopf, 1953.
+- Meyerson, Harold, and Ernie Harburg. *Who Put the Rainbow in* The Wizard of Oz*? Yip Harburg, Lyricist*. University of Michigan Press, 1993.
+- Vidor, King. *A Tree Is a Tree*. Longmans, Green, 1954.
+- *We're Off to See the Munchkins*. Video documentary, hosted by John Fricke.
+- Wehr, Wesley. *The Eighth Lively Art: Conversations With Painters, Poets, Musicians, and the Wicked Witch of the West*. University of Washington Press, 2000.
+
+(There are, of course, many other biographies of Judy Garland available, but this list would be far too long if I were to name them all.)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**About other dramatic interpretations and the people involved**
+
+- Anobile, Richard J. *The Wiz Scrapbook*. Berkley Publishing Corp., 1978. (Primarily a behind-the-scenes look at the making of the movie, but with an extensive look at *The Wiz* on Broadway as well.)
+- Baum, L. Frank, Frederic Chapin, and Arthur Gillespie. Introduction by David Maxine. *Complete Sheet Music from the 1905 Musical Comedy The Woggle-Bug*. Hungry Tiger Press, 2001.
+- Baum, L. Frank, Paul Tietjens, Vincent Bryan, and Robert B. Smith, annotated by David Maxine and James Boyle. *The Illustrated Libretto and Complete Vocal Score for the 1903 Musical Extravaganza The Wizard of Oz*. Hungry Tiger Press, 2002.
+- Fields, Amond. *Fred Stone: Circus Performer and Musical Comedy Star*. McFarland and Company, 2002. (His big break was playing the Scarecrow in 1902.)
+- Goldschmidt, Rick. *The Enchanted World of Rankin/Bass*. Miser Bros. Press, 2001. (Includes information on three Oz-related Rankin/Bass projects: *Tales of the Wizard of Oz*, *Return to Oz* (1964), and *The Life and Adventures of Santa Claus* (1985).)
+- Stone, Fred. *Rolling Stone*. McGraw-Hill, 1945. (Autobiography of the actor who played the Scarecrow in the 1902 stage production.)
+- Swartz, Mark Evan. *Oz Before the Rainbow : L. Frank Baum's the Wonderful Wizard of Oz on Stage and Screen to 1939*. Johns Hopkins University Press, 2000.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+**Miscellaneous**
+
+- *Charles Santore Illustrates the Wizard of Oz*. Video documentary, Sirocco Video, 1998.
+- Greene, Douglas G., and Michael Patrick Hearn. *W. W. Denslow*. Clarke Historical Library, 1976. (Biography of Baum's *Wizard of Oz* collaborator.)
+- Martin, Dick. *An Oz Picture Gallery*. The International Wizard of Oz Club, 1984.
+- Martin, Dick. *The Oz Sketchbook*. The International Wizard of Oz Club, 1986.
+- Moser, Barry. *Forty-Seven Days to Oz*. The International Wizard of Oz Club, 2002.
+- Scarfone, Jay, and William Stillman. *The Wizard of Oz Collector's Treasury*. Schiffer Publishing, 1992. (A catalog of Oz items.)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+[<img src="pics/cottabus2.gif" data-curious="" data-cottabus="" data-from="" data-kabumpo="" data-in="" data-oz.="" data-border="0" width="200" height="153" alt="The" />\
+Wizard of Oz FAQ Table of Contents](ozfaq.html#faqtoc)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## [Section 19<img src="pics/backward.gif" data-section="" data-border="0" width="159" height="324" alt="Previous" />](faq19.html) \| [<img src="pics/forward.gif" data-section="" data-border="0" width="159" height="324" alt="Next" />Updates](update.html)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## [<img src="pics/home.gif" data-home="" data-border="0" width="100" height="88" alt="Back" /> There's no place like the home page...](index.html)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+[Get FREE clip art, such as the rainbow bar used on this page, from ClipArtConnection.com](http://www.clipartconnection.com)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />\
+
+This webpage, its contents, and the code used to create it are copyright © 1996-2003 Eric P. Gjovaag\
+All rights reserved. For full legal disclaimer, see the [About This Site](aboutsite.html#legalstuff) page

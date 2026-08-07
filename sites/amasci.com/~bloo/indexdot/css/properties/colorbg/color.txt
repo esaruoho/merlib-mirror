@@ -1,0 +1,96 @@
+Color - Cascading Style Sheets Properties 
+
+ color 
+ Support Key: 
+ [ CSS1 | CSS2 ] 
+ [ IE3B1 | N4B2 | O3.5 ] 
+ Other Color/Background Properties 
+
+ layer-background-color 
+ layer-background-color 
+ background 
+ background-color 
+ background-image 
+ background-repeat 
+ background-attachment 
+ background-position 
+ background-position-x 
+ background-position-y 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ Browser dependent 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < body 
+ TEXT ="#RRGGBB"> |
+ < font 
+ COLOR ="#RRGGBB"> 
+
+ What is it? 
+ This property describes the color of text within an element. Values for
+ the property outside the specified ranges will be clipped or truncated
+ to create a valid value.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ]
+ [ N6 | O7 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [color] 
+ [ CSS1 | CSS2 ] 
+ [ IE3B1 | N4B2 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ This is a representation of the values for Red/Green/Blue used to
+ determine a final display color. Please see the section on
+ Color Units for details on the
+ various color specification schemes. 
+
+ Example 
+ Ext/Doc: body {
+ color: blue } 
+ In-Line:&#160; < body 
+ STYLE =" color: 
+ blue">text</ body > 
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 3.0: 
+ - This property does not apply to form fields
+ 4.0+: 
+ - This porperty now applies to form fields, and the OPTION element
+ as well (only 'color' and 'background-color' apply to individual
+ OPTION elements in IE4+)
+
+ Netscape 
+
+ 4.x: 
+ - This property does not apply to form fields, HR, DT/DD, or TABLE elements.
+ - Applying this property to LI elements only applies the effect to
+ the list marker, not the item content.
+
+ Opera 
+
+ 3.5: 
+ - This property does not apply to form fields or HR elements
+
+ Boring Copyright Stuff....

@@ -1,0 +1,41 @@
+CSS Property Index: Text 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Text&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About Text Properties... ] 
+
+ word-spacing 
+ letter-spacing 
+ white-space 
+ word-wrap 
+ text-align 
+ text-align-last 
+
+ text-decoration 
+ text-transform 
+ text-shadow 
+ text-indent 
+ text-underline-position 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

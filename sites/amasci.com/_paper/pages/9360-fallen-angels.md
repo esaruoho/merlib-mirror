@@ -1,0 +1,1344 @@
+---
+title: "Fallen Angels"
+source_domain: amasci.com
+source_path: ~vecna/Fallen.htm
+order: 9360
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:17:24Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Fallen Angels
+
+*Source page: `~vecna/Fallen.htm`*
+
+# Fallen Angels
+
+by
+
+Christine Morgan
+
+------------------------------------------------------------------------
+
+\
+Fallen Angels\
+Christine Morgan (vecna@eskimo.com)\
+\
+
+------------------------------------------------------------------------
+
+\
+Author's Note: the characters of Gargoyles belong to Disney and are\
+used here without their knowledge or consent. The others are my own\
+creation. This story is a sequel to "Double Date."\
+Acknowledgements: I'd like to credit Thomas with the idea about Dr.\
+Sevarius' involvement in WWII. And I'd like to thank author Robert\
+McCammon for the use of the castle! I heartily recommend his novel\
+"They Thirst," and just about everything else by him as well.\
+WARNING LABEL: this story contains scenes of sexual content which\
+are quite disturbing! Mature readers only! (oh, yeah, there's some\
+violence, bloodshed, and death too).\
+\
+
+------------------------------------------------------------------------
+
+\
+"Not the trophy but the race, not the quarry but the chase." -- old\
+saying.\
+"I shall in all my best obey you, madam." -- Hamlet, Act I, Scene II.\
+"O wicked wit and gifts, that have the power so to seduce!" -- Hamlet,\
+Act I, Scene V.\
+"So shall you hear of carnal, bloody, and unnatural acts." -- Hamlet, Act\
+V, Scene II.\
+                \*               \*\
+Demona, voice over -- "Previously, on Gargoyles ...\
+(Dominique Destine's kitchen, early morning)\
+        She listened with half an ear while planning her strategy for\
+her first meeting of the day. A Mr. Nicholas Diamant. Much as it galled\
+her, she had a better chance of destroying the Quarrymen if she was\
+able to infiltrate their organization.\
+        " -- revealed to be a gargoyle!"\
+        Dominique knocked her coffee cup to the floor as she spun to\
+face the television, suddenly sure that she'd been exposed and ruined.\
+        The blow-dried newscaster's unnaturally perfect smile gave\
+way to a film clip of a crowded concert, and a dark form gliding down\
+to the stage.\
+        She knew that form, knew it intimately. When the spotlight\
+gleamed over skin like obsidian and hair like snow, she upended her\
+dining room table.\
+        "Thailog!"\
+                \*               \*\
+ONE YEAR AGO -- THE ANVIL CORPORATION\
+        "I said no and I meant no. It remains far too dangerous."\
+        He turned away from them, toward the wide windows,\
+showing them his back. It was supposed to have the effect of silencing\
+them and making them uneasy, but all it did was free them from his\
+baleful gaze so that one in particular felt safe shooting off his big\
+American mouth.\
+        "You're going chicken on us, J.C!" Nicholas Diamant accused.\
+"It's been months since we've made a move! I'm getting tired of\
+smashing statues and listening to you run your gums!"\
+        Murmurs swept the room, the younger "board members" in\
+agreement, the older gentlemen in disapproval at Diamant's tone and\
+choice of words.\
+        "He is still too visible," J.C. said, glad that he was still facing\
+away so that they couldn't see how his hands were clenching into fists\
+so tight that his nails dug into his own skin. "And too far away. We\
+haven't the manpower nor the resources to risk a cross-country assault\
+on such a well-known target."\
+        "It would be like assassinating Michael Jackson or Madonna,"\
+someone chimed in.\
+        "As if that would be a bad thing," someone else added in a low\
+voice.\
+        "It's because of his visibility and popularity that he should be\
+our main objective!" Diamant argued. "The others have gone into\
+hiding. He's out there getting famous!"\
+        "Your grudge against Big Black is purely personal," J.C.\
+pointed out, turning to coldly eye Diamant. "Which clouds your\
+judgement. You've lost sight of the true crusade."\
+        "So have you!" Diamant shot back. "You've turned us into a\
+cult, all talk and money-grubbing, and no action! Maybe it's time for a\
+change!"\
+        Another ripple swept the room, this time comprised of shocked\
+rustling and gasps. Diamant was on his feet, angrily brushing back his\
+long, unkempt hair.\
+        J.C. said nothing for a long moment, letting the others look\
+back and forth between them. He stood straight, hands neatly folded,\
+aristocratic manner firmly in place. Diamant was a scruffy juvenile by\
+comparison, and he knew it.\
+        "A change?" J.C. said softly. "If you're not pleased with our\
+progress, Mr. Diamant, I'm sure the board would agree that you are\
+welcome to seek employment elsewhere."\
+        Realizing he was losing the edge, Diamant slouched into an\
+arrogant pose and grinned insolently at J.C. "I might at that! I've been\
+having some very profitable meetings with Dominique Destine."\
+        J.C.'s compsure shattered like glass. "What?!?"\
+        "I'm surprised you hadn't approached her yourself, J.C. She's\
+very sympathetic to our cause and interested in our operations."\
+        "You fool! You unbelievable fool!" J.C. choked out.\
+        "\_You've\_ been meeting with Dominique Destine?" one of the\
+city's wealthiest investment bankers raised his eyebrows doubtfully.\
+        "She likes younger men," Diamant winked. "And she's not a\
+woman who's afraid to take action!"\
+        "No! Idiot! How could you -- how dare you -- " J.C. sputtered.\
+        Diamant looked scornfully at him. "What bug's flown up your\
+ass?"\
+        "SHE'S ONE OF THEM!" he screamed at the top of his lungs.\
+"THE ENEMY! SHE'S A GARGOYLE!"\
+        A brief but total silence fell, during which they all regarded\
+him with the careful speculation used when one realized one might be\
+dealing with a lunatic.\
+        Diamant smirked. "A gargoyle," he repeated. "Dominique\
+Destine, CEO of Nightstone Unlimited. A gargoyle. Are we talking\
+about the same babelicious redhead, Johnny?"\
+        "Imbecile! She uses sorcery to become human by day! She's\
+the demon, I tell you, the demon!"\
+        Now none of them would look at him, only at each other. The\
+jury was coming in on his sanity, with unfavorable results. He actually\
+felt their esteem slipping away. Hot blood filled his face, thundered in\
+his ears.\
+        "Suuuuurrrrrre she is," Diamant said, nodding knowingly.\
+"Suuuuurrrrre she is."\
+        Something snapped in J.C., a mental circuit breaker sizzling\
+and blowing sparks. He leapt at Diamant and grabbed the younger man\
+by the shoulders, shaking him back and forth like a Rottweiller with a\
+mailman. "WHAT HAVE YOU DONE, YOU FOOL? WHAT HAVE\
+YOU TOLD HER?!"\
+        Pandemonium broke out as the rest of the board members tried\
+to pull them apart. Diamant resisted their efforts long enough to take a\
+swing, clipping J.C. on the jaw and knocking him back. He crashed\
+over a chair and fell heavily to the floor, his legs tangled.\
+        Diamant stood over him, even more rumpled and unkempt. His\
+shirt sleeve had ridden up, revealing a truly appalling tattoo of a robed\
+figure with blazing red wings.\
+        J.C. summoned all the dignity he could muster without getting\
+up. "Turn in your hood and hammer, Mr. Diamant, and get the bloody\
+hell out of my building."\
+        "I'll tell you where you can put your hammer," Diamant said.\
+"And make sure you charge it up first!" With that, he shrugged off the\
+men that were holding him, flipped back his hair again, and strode out.\
+                \*               \*\
+SIX MONTHS AGO\
+From V.I.P. Magazine (Elaine Kristin's byline):\
+        It's a typical gorgeous Southern California spring day. The sun\
+beats down brightly on the red-tiled roof of the faux-hacienda, bees\
+drone lazily in the bouganveillia bushes, and silhouetted against a\
+brilliant blue sky, a dark and brooding figure looks over the peaceful\
+scene.\
+        Los Angeles, the City of Angels, is now the home of Scarlet\
+Angel, one of the hottest young bands in America. And the dark figure\
+ watching over them is none but their own guardian Angel, manager and\
+bass player, known only as Ebon.\
+        Ebon is a gargoyle.\
+        His story seems part Phantom of the Opera and part Beauty\
+and the Beast, but also remains one of the deepest mysteries around.\
+His fellow band members are closemouthed about his past and exactly\
+how he came to be one of them.\
+        "It's one of those things you can't really talk about because\
+nobody will believe you," guitarist Johnny Harlowe says. With his\
+dreamy blue eyes and movie-star smile, Johnny by rights should be the\
+male heartthrob of the band, but he doesn't seem to mind being\
+displaced by a guy with a tail and an eighteen-foot wingspan.\
+        "We all have our secrets," wild-haired drumstress Pagan adds.\
+"Ebon's been our good luck, got us moving in the right direction."\
+        It is thanks to Ebon's skillful management that the band has\
+gone from a hand-to-mouth existence living out of their van and touring\
+the country for gigs to being one of the most sought-after properties of\
+the decade. They've produced three albums in the past year and a half,\
+and two of those have gone straight to number one. Their concert tour,\
+kicked off by the infamous Blue Moon Concert in Central Park\
+(revealing Ebon to the world for the first time), was nothing short of a\
+wild success.\
+        Success hasn't changed Scarlet Angel, not yet. They're still\
+close, close as a family. "A clan," lead singer Julianna corrects, saying,\
+"We all come from broken families, so that word doesn't mean as much\
+to us. We're clan."\
+        When asked if there is a more-than-clan relationship between\
+her and Ebon, the ethereal brunette only glances up to the roof with a\
+faraway smile. Since more than half of Scarlet Angel's major hits have\
+been love songs, she doesn't really need to reply.\
+        The five band members share the sprawling house. "Way more\
+room than the old van," keyboardist and lyricist Aquarius, a shambling\
+goodnatured hippy-type says with a grin. The old van he mentions is\
+\
+parked in the middle of their landscaped backyard, supposedly to\
+remind them of their beginnings, a humble gesture uncommon in most\
+of today' stars.\
+        In a lot of ways, stardom has yet to go to their heads. They\
+give cheerful tours of the house and grounds, and in doing so let slip a\
+few hints about their background. Julianna, for instance, is comfortable\
+with the size of the estate and the servants. That combined with her\
+slight East-Coast accent suggests that there might be a Boston socialite\
+or New York debutante hiding in her past. But the faint scars on her\
+wrists tell a darker history.\
+        "Yes, I have tried suicide," Julianna admits readily enough. "It\
+was a stupid thing, and I'm not proud of it, but I don't deny it. 'Last\
+Chance,' a song on our new album, is my way of trying to tell people\
+that it's not the answer."\
+        At dusk, an amazing ceremony takes place. The four young\
+people gather on the roof as the sun sinks blazing into the Pacific (the\
+view from the roof is right off a postcard, especially on days like this\
+when California is every bit the golden dream it is believed to be). And\
+then, something incredible happens.\
+        Like the fault lines that underlay the city, cracks race across\
+Ebon's stone surface. Chips explode outward as he comes to life. His\
+friends, his clan, come to greet him.\
+        Are gargoyles monsters?\
+        Ebon looks sinister, with his jet-black skin and blood-red eyes,\
+but there is nothing sinister about his welcoming smile. News stories\
+about gargoyles portray them as vicious, destructive, and uncivilized.\
+That image is quickly lost in the face of Ebon's polite and charming\
+conversation.\
+        Like the rest of Scarlet Angel, he doesn't like to talk about his\
+past. He admits a connection with New York's gargoyles ("Relatives,\
+after a fashion," he says in the deep voice that makes most women\
+dizzy) but denies any other involvement.\
+        With the news full of gargoyle sightings and hate groups, it is\
+dangerous for Ebon to live in such a high-profile fashion. He isn't\
+concerned, and even hopes that his example will help the rest of his\
+kind gain some sort of acceptance. "People fear that which is different,"\
+he says. "But there are similarities beneath the differences, and I like to\
+think that we are helping to show that."\
+        Hot talk on the movie scene is that Ebon was offered a major\
+role as a villain in the next Batman installment. "I declined," he says\
+with an enigmatic smile. "I felt that portraying a genetically-engineered\
+monster at this point in my career would be backsliding."\
+        So what is next for Scarlet Angel? They will be appearing on\
+the Tonight Show with Jay Leno to promote their new album (Embrace\
+the Night), many videos are in the works, and there are rumors of an\
+upcoming world tour. For Scarlet Angel, for Ebon, and maybe even for\
+all of us, it is the dusk of a new night.\
+                \*               \*\
+ONE MONTH AGO -- SEPTEMBER 1998 -- NIGHTSTONE\
+UNLIMITED\
+        "It never rained like this on Avalon," Jericho remarked,\
+pausing in mid-set to look up at the water beating on the skylights.\
+        "If you say one more word about how flippin' spiffy Avalon is,\
+I'm gonna come over there and pound your butt into the mat," Hector\
+Gervaso said without looking up from his magazine.\
+        Jericho bristled. He had his mother's temper as well as her\
+looks, and while on Avalon he'd tried to keep it under control, here she\
+encouraged him to let it show. "I'd like to see you try it, bald one!"\
+        Now Heck looked up. His thick black brows crawled over each\
+other as he rearranged his features into a glower. "Don't say what you\
+don't mean, kid, or I'll bump you so hard you really will think you're\
+back on precious Avalon among the fairies."\
+        "Come on, then." Jericho set down the barbell and beckoned\
+with his talons. "Let's see what you can do, old man!"\
+        Heck got to his feet and laid aside his magazine. The cover\
+depicted a barechested man creeping in the bushes, his face streaked\
+with black, a knife in his teeth. "Club Gung-Ho!!!" the title hollered in\
+slashed red letters that looked like they were dripping blood. "The\
+complete commando training vacation experience!"\
+        Jericho crouched warily, his legs and tail flexing as he tried to\
+predict Heck's first move. The human was more than a foot shorter, but\
+was nearly as wide as he was tall and that width was pure muscle.\
+Despite his bulk, he was cat-quick and could even take down Demona\
+three out of five. His official title for payroll purposes was "Security\
+Specialist," but he was in reality an amoral mercenary and had been\
+Jericho's personal trainer for the past two months.\
+        They circled each other, each looking for an opening and\
+waiting for the other to make a careless move. Jericho couldn't help but\
+be impressed.\
+        Before coming to New York, his only teacher had been\
+Guardian Tom, whose own skills were paltry as he'd lived on Avalon\
+since he was but a child. Guardian Tom had learned to fight for defense,\
+for necessity. Heck fought for different reasons entirely, those reasons\
+being profit and love of mayhem.\
+        More than anything, Jericho wanted to become a warrior. A\
+real warrior! He wanted to learn to use any and every weapon there\
+was, every style of fighting. His mother Demona was fully supportive,\
+and nothing made her prouder than when he mastered some new skill.\
+He worked himself to exhaustion night after night just to see that light\
+in her eyes.\
+        Just as he was about to make his first move, the intercom\
+buzzed. "Mr. Gervaso?"\
+        Jericho glanced that way, realized his mistake too late, and\
+tried to dodge as Heck's fists came in, one-two, blurrily fast. Next thing\
+he knew, Jericho was facedown on the exercise mat, snarling in\
+frustration and humiliation.\
+        Heck went to the intercom and pressed the reply button.\
+"Here."\
+        "Ms. Destine is holding on Line 2," the evening secretary said\
+importantly.\
+        He plucked the reciever off the wall. "Gervaso here." He\
+listened for a moment. "Eating floor, why? Yeah, okay." Heck tossed\
+the phone to Jericho. "Your mommy's calling."\
+        Jericho shot him a dirty look and held it to his ear, checking to\
+be sure he was doing it right this time. All of this technology was still\
+fairly new to him, but he was determined to get the hang of it.\
+"Mother?"\
+        "Hello, my son," Demona said warmly. "How is your training\
+going?"\
+        "I can't stand this human," he growled, knowing that Heck\
+could hear him and not caring. Heck only snorted as if amused and\
+picked up his magazine again, turning to a section about shark hunting.\
+        "Don't worry about him," Demona soothed. "You'll learn\
+everything he knows, become as good as him, and then become even\
+better. On the day you can best him, you can kill him."\
+        His mouth dropped open. "But --"\
+        "In this world, Jericho, we have to learn to kill or we'll be\
+killed. We can't afford to hold back, to be weak."\
+        "I'm not afraid to kill!" he declared, moving out of Heck's\
+earshot. "But I thought he was valuable to you ...?"\
+        "Not a hundredth so much as you are. Consider it both your\
+final exam and my graduation present."\
+        "Thank you, Mother!" He grinned ferally. "I'll devote myself\
+to my studies!"\
+        "The reason I called," she said, "was to ask you a favor. I left\
+something in the research lab. Can you bring it when you come back to\
+the house? I wouldn't want to trust it to anyone else."\
+        "Of course!"\
+        "Good. It's a tan leather case with my initials on it. If you can't\
+find it --"\
+        "I'll find it. You can rely on me, Mother. I'll have it in your\
+hands by midnight!"\
+        She laughed, the husky throaty laugh that made him tingle. "I\
+don't know how I lived without you, Jericho. I'll see you later."\
+        He hung up the phone, letting his fingers trail across it for a\
+moment in a lingering caress. His exertions had left him warm but not\
+\_this\_ warm. Hurriedly, without so much as a glance at Heck, he\
+headed for the shower.\
+        Later, his hair still damp from a torturous five-minute\
+immersion under the icy spray, he stepped into the elevator and used his\
+code key to descend to the basement sub-level 5.\
+        He didn't much care for being down here, as if he could feel\
+the entire massive weight of the skyscraper pressing down on him, tons\
+upon tons of concrete, steel, and black glass, not to mention the weight\
+of the many human drones and their machines. But he always kept his\
+nervousness on a tight rein, never wanting his mother to see it.\
+        The subterranean corridors were spotlessly clean and well lit,\
+yet still managed to give the impression of dungeon gloom. The air had\
+a medicinal tang to it that couldn't be overpowered by the forest-fresh\
+spray.\
+        Jericho poked around, being careful not to touch the\
+machinery, until he found the forgotten leather case. It was unlatched,\
+so when he picked it up, it swung open and dumped a drift of papers\
+onto the floor. A couple of computer disks also fell out but he was able\
+to catch those before they struck.\
+        He muttered an oath and bent to gather the papers. Atop the\
+pile was a slick magazine, and when he turned it over and saw the front\
+cover, he froze.\
+        A gargoyle. A gargoyle who, except for his coloring, looked\
+exactly like Goliath. He was shown in profile, facing a darkhaired\
+human female over a microphone. Across the top were the letters V.I.P.\
+and a date (April 1998), and across the bottom: "Scarlet Angel -- On the\
+Wings of Love."\
+        During their few days on Avalon, his mother Demona had told\
+him her millenium-spanning life story. Including how she had been used\
+and betrayed by the clone Thailog.\
+        "How dare he!" Jericho snarled, crumpling the magazine's\
+slick paper in his fists. He set it aside before he could damage it and\
+thumbed through the rest of the papers. Maps, addresses, notes, but\
+nothing that immediately caught his eye.\
+        He read through the article. California, he knew, was on the\
+other side of the country. This world was far, far bigger than the one\
+he'd known, so he couldn't very well rush off and avenge the slight to\
+his mother, no matter how much he'd like to.\
+        Putting his temper on hold, he replaced everything in the case\
+and headed for the elevator. When he found himself in an unfamiliar\
+corridor, he realized he must have taken a wrong turn.\
+        Grumbling, aware that midnight was fast approaching and he\
+had promised to be home by then, he went back but still didn't come to\
+a place he recognized. Rather than keep wandering, he paused and\
+listened, then set off in the direction which hinted at being less deserted.\
+        His ears led him to a large room filled with monitors and\
+medical devices. One entire wall was taken up with a window of thick\
+glass, looking into another room.\
+        In that other room, a man was strapped securely to a hospital\
+bed. Tubes and wires connected him to a variety of machines. His eyes\
+were taped shut. He was unclothed, and, Jericho observed with some\
+distaste, in a state of apparent arousal. Through speakers, he could hear\
+the man, groaning in combined ecstacy and mortal terror.\
+        The human was painfully thin, just the wasted shell of what\
+must have been a fairly robust body. His skin was sallow, his brown\
+hair was a snarled horror, his features nearly lost in a tangle of beard.\
+There was a discoloration on his arm, a reddish shape that from here\
+almost looked like a gargoyle.\
+        CRACK!\
+        The sound was sharp and loud as a gunshot, and right behind\
+Jericho. He spun, every nerve afire, claws hooked to gouge and tear.\
+        "Guten Abend, mein Herr."\
+        Jericho relaxed, but only a little. "Sevarius!"\
+        The sharp sound had been the metal-shod tip of the doctor's\
+cane slamming down on the tiled floor. His long-fingered hand caressed\
+the silver gargoyle's head at its top.\
+        Gustav Sevarius was tall, but stooped with age. His thick white\
+hair was severely short, his face as distinguished as that of a gentleman\
+esquire. His eyes were a bright, direct green, and Demona had\
+laughingly confided to Jericho that the staff believed Sevarius to be\
+Dominique's father because of that clear emerald gaze.\
+        He was the only human Jericho had met that made him uneasy.\
+        "Exploring your castle, young Jericho?" he asked with casual\
+disinterest as he went to one of the monitors and made an adjustment.\
+He spoke with a thick accent which Jericho had come to believe was\
+largely contrived, turning "exploring" into "eckshplorink."\
+        He held up the case defensively. "My mother asked me to\
+bring her this." His curiosity overcame him and he had to add, "What\
+are you doing to that human?"\
+        "What is it to you?"\
+        "I want to learn all about Nightstone's projects," he said.\
+        "As the heir apparent?" Sevarius cackled. "Very well. Some\
+background is in order. My brother and I have long been interested in\
+science. But where Anton chose to study the body, I devoted my studies\
+to the mind. We enjoyed the height of our research in Germany --" his\
+accent made it come out "Churmunny" -- "during the war. Oh,\
+technology has advanced a thousandfold since those days, but the\
+experimental subjects were much more readily available." He gazed\
+into space, nostalgia coloring his words.\
+        "What did you study?" Jericho asked, drawn despite himself.\
+He was dimly aware of the war of which Sevarius spoke, since Demona\
+had mentioned it fondly in her biography. Anything that led to humans\
+killing each other on a grand scale had her approval.\
+        "My area of expertise was behavior modification and memory\
+enhancement. Hypnosis, regression, interrogation, truth serums --"\
+        "False memories?" In his spare time, he was a voracious movie\
+watcher, and because his mother favored high-body-count action flicks,\
+he had recently gone on a Schwarzenegger binge, including the space\
+movie Total Recall.\
+        "Very good," Sevarius said, nodding. "Those as well. In time, I\
+became fascinated with the effects of traumatic memories on the brain\
+and nervous system. Test subjects had strong reactions when asked to\
+recall unpleasant events. I wanted to find out what would happen if we\
+could isolate an experience and, if you will, put it on constant replay."\
+        "That's what you're doing to him?" Jericho stared through the\
+glass.\
+        "Indeed. With a combination of mnemzetropine and electrical\
+synaptic stimulation, we have effectively trapped that man in a single\
+moment of his life, causing him to relive it again and again."\
+        "For how long?"\
+        "Almost a year now," Sevarius said proudly. "It has made his\
+psyche extremely malleable."\
+        "You mean he's mad as a badger."\
+        "Words mean nothing. Results do."\
+        "What good is it to destroy his mind?" Jericho wondered\
+aloud.\
+        "He becomes as a blank slate, the perfect subject for behavior\
+modification. You see, with traditional brainwashing methods,\
+including drugs and hypnosis, it is possible to accomplish a great deal.\
+However, it remains difficult to program a subject to perform an act that\
+goes against his moral code." He sneered the last two words as if he\
+doubted they existed. "This process should eliminate all traces of\
+personality, eradicate the very soul, if you will."\
+        "You say that as if you don't believe in souls."\
+        He laughed. "Between my brother and I, we have dissected\
+every inch of the human body and brain. We know its structures, its\
+cells, every part and function. Never, in all our years of study, have we\
+found any evidence of a soul."\
+        \
+                \*               \*\
+        He screamed until his larynx ruptured, and only then did\
+merciful darkness claim him.\
+        For a while.\
+        And then it began again.\
+        He stretched out on the bed as she'd directed. The black satin\
+sheets were cool and slippery against his bare skin.\
+        He watched with growing desire as she stripped off her blouse.\
+"For an older woman, you've still got what it takes," he said\
+appreciatively.\
+        She freed her hair from the bun, letting it tumble over her\
+shoulders. "You like?"\
+        "Oh, yeah."\
+        "Surprised I invited you here?"\
+        "No," he lied brashly. "I saw the signals. I'll tell you, though,\
+I'm not used to the woman making the first move."\
+        Her skirt slid down her legs and she stepped out of it, now in\
+nothing but lace bra and panties so filmy he could tell she was a natural\
+redhead. "You know what really excites me?" she breathed.\
+        "What?"\
+        "Being in control." She unhooked her bra and dropped it, then\
+placed her hands behind her head and took a deep breath.\
+        "You mean, being on top?"\
+        "That, too." She turned so that her back was to him and rolled\
+her panties down, bending over and giving him a world-class view of\
+her shapely tush. "But that's not all."\
+        "Well, what?"\
+        She practically \_oozed\_ to the bedside and stood in a pose that\
+begged him to reach for her. So, not being dumb, he did.\
+        She grabbed his wrist and before he knew what was happening,\
+had whipped a fur-lined cuff around it and snapped it tight.\
+        "Being in control, like I said. Total control."\
+        He was startled for a beat or two, then grinned. "Okay, if that's\
+what gets your motor running."\
+        "Yes," she said. "It does."\
+        "Fine by me." He flopped on his back and obligingly stretched\
+out his arms, trying to look as if he'd done this a hundred times before.\
+He'd have his chance later to be in charge, the way it should be.\
+        She restrained him at the wrists and the ankles, then regarded\
+him with her hands on her hips. "My, my, don't you look tempting, all\
+helpless like that."\
+        He laughed. "When do you get out your whips and leather?"\
+        "Maybe later." She crawled sinuously onto the bed and began\
+running her hands lasciviously over his captive body. She toyed with\
+him, not touching him where he really wanted to be touched, paying\
+attention to every other part of him except that major part. Her hair, her\
+lips, her tongue, her breasts, she was all over him.\
+        He tried to grab her whenever she got within reach of one of\
+his bound hands, but she twisted away with a chiding smile. This game\
+was getting old, he wasn't used to this sort of frustration, but he was\
+willing to go along because if he didn't, she'd show him the door.\
+        Finally, when he was so hard it hurt, she straddled his hips. He\
+bucked upward eagerly but she anticipated him and shifted so that he\
+missed. She bent close, her breath warm on his face, hands braced on\
+either side of his head. Lowered her hips so that he was poised at the\
+very gates of paradise, but holding him pinned with her muscular\
+thighs, she darted her tongue across his lips.\
+        "Excuse me while I change into something more comfortable,"\
+she purred.\
+        And then it happened.\
+        Her claws ripped furrows in the bed as her hands convulsed.\
+Mattress stuffing bulged upward like disembowled intestines, blinding\
+white against the shredded black satin.\
+        Wings exploded from her bare back. Her skin shaded rapidly\
+to blue. She threw back her head, mouth open to expose fangs. Her ears\
+stretched into points. When she snapped her gaze back down, her eyes\
+were hell-furnace pools.\
+        His body was rigid with shock, except for the part that was\
+rigid with arrested lust. His chest was paralyzed. He wanted to scream,\
+surely would scream as soon as he could draw in a breath through a\
+constricted throat.\
+        She thrust her hips down and engulfed him in her slick\
+inhuman heat.\
+        Panting with dark excitement, she rode him feverishly. He\
+lunged against his bonds but his feeble struggles only seemed to further\
+her cruel passion. She growled savagely, using him, rudely taking her\
+monstrous pleasure.\
+        Now he could breathe, and now he could scream. Now he\
+\_had\_ to scream as he felt, even through unimaginable horror and\
+revulsion, the rushing onset of an unspeakable event.\
+        As his body betrayed him and shuddered in explosive orgasm,\
+he screamed until his larynx ruptured, and only then did merciful\
+darkness claim him.\
+        For a while.\
+        And then it began again.\
+                \*               \*\
+NOW -- OCTOBER 1998\
+        "Don't play with that," Gustav Sevarius said. "It isn't a toy.\
+One slip, and you'll be reliving your stupidity for the next month."\
+        "I wasn't going to slip," Jericho complained, but he\
+nonetheless turned the weapon so that it was pointed well away from\
+himself. "It looks like a flare gun."\
+        "The barrel must be wide in order to accomodate the\
+projectile. In future revisions, we will doubtless be able to scale it down\
+considerably."\
+        "It will be fine for this first ... field test," Demona said, resting\
+a hand on Jericho's shoulder.\
+        "Now. Attend please." Sevarius opened the small black case.\
+"Six projectiles, all plugged into this battery pack. They can only hold a\
+charge for a matter of minutes on their own, but once in contact with the\
+target, the galvanic currents in the skin will prove sufficient to power\
+them indefinitely. The drug is here, in this glass ampoule."\
+        "Are those prongs strong enough to pierce clothing?" Jericho\
+asked.\
+        "Of course. They will even go through bone, which is what we\
+want. You will shoot for the head. Barring that, the spine. Any other\
+site is likely to have less than optimal results. Of course, we still have\
+no way of knowing what effect it will have on gargoyles. I do wish a\
+test subject had been available."\
+        "And I told you, that wasn't possible," Demona said harshly.\
+"We'll have to try it and see."\
+        "What could happen?" Jericho asked.\
+        "Total synaptic collapse, hallucinations, seizures, who\
+knows?" Sevarius shrugged. "Even to me, the human brain remains\
+mysterious, and the gargoyle brain all but a complete unknown."\
+        "You'll carry the gun," Demona told Jericho.\
+        He swelled with pride. "I won't fail you!"\
+        "I know." She twined a lock of his scarlet hair around her\
+finger, then tweaked his ear. "I know."\
+        \
+                \*               \*\
+        She was waiting for him when he awoke, a lovely vision\
+against the gold and amethyst sky.\
+        "Julianna," Ebon said warmly. He held out his hand. She\
+clasped his fingers, her smile lifting his soul.\
+        "This came in the mail." She held out a thick ivory envelope.\
+"It got mixed in with the fan letters and Johnny only just found it. But\
+look at the return address!"\
+        He did so. "The Aerie Building, Manhattan? Hmm.\
+Lexington?"\
+        "It isn't his handwriting."\
+        Ebon opened it, read the card that slid out, and his brow ridges\
+raised in surprise. "Mr. and Mrs. Peter Maza are pleased to announce\
+the wedding of their daughter, Elisa Maria ... to Goliath of Castle\
+Wyvern!"\
+        "A wedding invitation?" she gasped. "But he's ... but they're\
+..."\
+        "Not entirely unlike us," he finished, looking at her.\
+        She blushed and averted her eyes. "When is it?"\
+        He consulted the card. "The thirty-first. Halloween. If I'd\
+known sooner ... "\
+        "If you want to go, we can manage without you."\
+        "No. I made a promise to the hospital. The children are\
+expecting it."\
+        "At least now you know that the clan trusts you," she said\
+gently. "If Goliath still held you to blame for what happened before, he\
+wouldn't want you at his wedding. "\
+        "You're right, my angel." He caressed her cheek. "As usual."\
+        She closed her eyes and leaned into his touch for a moment,\
+then pulled away. He sighed. Even after all this time, she was reluctant\
+to fully let go, afraid to get too close.\
+        "I have to get going," she said hastily. "Johnny and I are going\
+to the premier party for the new Robin Williams movie. Sure you don't\
+want to come?"\
+        "Another time," he promised. "When the theater constructs a\
+seat that will hold me and not let my height obscure the view. Give\
+Robin my regards, though, and tell him I thought his impression was\
+actually quite humorous."\
+        "I will." She brushed a quick kiss on his cheek. "See you\
+later?"\
+        "Of course."\
+        He sank into a thoughtful silence, watching the lights come on\
+in the vast urban sprawl that was the L.A. basin. Their estate was\
+perched high in the Hollywood Hills, isolated, solitary. The only other\
+building in sight was the Kronsteen Castle, which had been unoccupied\
+for several years and was now a ruin of its former dark glory.\
+        Isolated. Solitary. Remote, even. Far from prying eyes.\
+        Why, then, did he have the cliche feeling that he was being\
+watched?\
+                \*               \*\
+        Demona set down her binoculars when Thailog left the roof of\
+the Spanish-style house.\
+        "It must be a genetic flaw," she muttered. "This weakness for\
+brunette humans!"\
+        Jericho glided down to land beside her, carefully, for the old\
+stones showed some signs of crumbling. "Is it time?"\
+        "Soon, my son. Soon."\
+        "Did you sleep?"\
+        "Revenge will rejuvenate me the way a day's stone sleep once\
+did. Just being here," she gazed around at the towers, the arrowslits, the\
+menacing gargoyles, "is restful in itself. Do you know, I lived here\
+once? When the horror movie star who brought it over from Europe\
+was killed, the castle got the reputation for being haunted. It provided\
+me a good hideaway in exchange for furthering that legend."\
+        "What were you doing here, in California?"\
+        "Trying to survive," she said bitterly. "I'd been driven out of\
+my previous home by the Hunter, and thought he'd never find me here.\
+It was here that I met Xanatos, when he and Fox were trying to start up\
+The Pack. But that's all in the past." She tensed alertly, picking up the\
+binoculars again.\
+        "What is it?"\
+        "Two of the humans are leaving. They're getting into the car."\
+        "The fewer we have to deal with, the better."\
+        "No," she declared. "We'll deal with those two first."\
+                \*               \*\
+        "I think you two are great together," Johnny said.\
+        Julianna didn't reply. She sat in the passenger seat, hands\
+primly folded in the lap of her pale blue dress.\
+        "Everyone thinks so," he continued. "Well, except for those\
+loonies that send you the hate mail, but who cares about them? Can't\
+please everybody, right?" He chuckled, expertly steering through the\
+first of the switchbacks that would take them past the Kronsteen place\
+and down into civilization. "I remember when we first met him, he just\
+loomed in front of us --"\
+        Something loomed in front of them.\
+        Julianna cried out in surprise as the winged shape sailed over\
+the car.\
+        "Hey! Was that Ebon?" They veered, but Johnny quickly\
+corrected and slowed down. "What the hell is he doing? I nearly pissed\
+myself!" He craned his neck to peer ahead and up.\
+        "I don't think it was --" Julianna began, and then there was a\
+huge thump.\
+        The roof of the car buckled inward, punctured in two places by\
+sharp talons. Johnny yelled and slammed on the brakes. Julianna's\
+seatbelt locked tight, crushing the breath from her lungs. The car slewed\
+sideways and came to a shuddering stop.\
+        The thing on the roof flipped forward onto the hood, crouching\
+there with white-blazing eyes and a snarling fang-filled mouth. A\
+gargoyle, but not Ebon.\
+        His fist crashed through the windshield, showering Julianna\
+with bits of gummed safety glass. Claws shredded her seatbelt, then\
+hauled her out through the broken glass. Johnny grabbed at her feet,\
+suspending her in an agonizing tug-of-war. She shrieked and flailed her\
+arms.\
+        "Hang on, Jules!" Johnny hit the horn with his elbow. It blared\
+mindlessly into the night.\
+        Another shape dropped on his side of the car and ripped the\
+door off. Johnny's grip on Julianna let loose so fast that the gargoyle fell\
+backwards, dragging her with him. They tumbled over the hood and\
+into the road, gravel grinding beneath them.\
+        A female gargoyle slammed Johnny's face into the steering\
+wheel. His scream was cut off even as it began. He slumped sideways,\
+out of Julianna's sight.\
+        The male jerked her to her feet, her back to him. One large\
+hand pinned her wrists behind her, while his other hand closed over her\
+throat. "I have her!"\
+        "Well done!" The female approached and studied Julianna\
+with utter loathing. "I cannot comprehend the attraction," she said\
+scornfully.\
+        "Please ..." Julianna whispered, tears welling up.\
+        The female's mouth twisted in disgust. "Begging, so soon? Not\
+much like the detective, are you?"\
+        Julianna's entire body was quaking with fear. If the male hadn't\
+been holding her upright, she would have collapsed.\
+        "I understand we have a couple of things in common. Nick, for\
+instance."\
+        "Nick!" Julianna bolted, her sudden move taking the male so\
+much by surprise that his hold slipped. He recovered fast, wrenching\
+her left arm painfully. "Nick! Where is he!" Her eyes darted back and\
+forth in bright panic.\
+        The female caught Julianna by the chin. "He's a continent\
+away and in no condition to trouble you. The one you should be afraid\
+of, sweetness, is me. And I'll see that you are."\
+        Her fist flashed out. Julianna's head snapped back. She went\
+limp.\
+                \*               \*\
+        "Leave her there for now." Demona pointed to the side of the\
+road. "Dirt will be the last of her worries."\
+        Jericho did as she commanded, then joined her at the side of\
+the stalled car. "What about him?"\
+        "Here, help me push it."\
+        He looked from the unconscious human inside to the steep\
+drop ahead. "But ... he's helpless. It'll kill him."\
+        "Do you think he'd hesitate if the situations were reversed? Do\
+you think the Vikings had second thoughts as they were about to shatter\
+our clan? Humans have chased us from our homes, hunted us to near\
+extinction! I thought you understood, Jericho! I thought you wanted to\
+be a warrior and take back the world for gargoyle kind! Now I see that\
+you're more concerned with protecting the precious humans!"\
+        She spun away, shoulders sagging in defeat. "Just like your\
+father."\
+        The words fell upon him like damnation.\
+        "Never," he whispered, and threw his weight against the car.\
+He strained, muscles quivering, teeth clenched.\
+        The car began to move, sluggishly at first because three of the\
+tires had blown, and then quicker as Jericho dug his back claws into the\
+asphalt and cried out from the effort. It rolled ponderously, picked up\
+speed, and then he was trotting alongside it as it wobbled toward the\
+ravine.\
+        The car got hung up on the edge, its undercarriage caught on\
+scrub brush and rocks, so Jericho gave it a final shove and felt gravity\
+take over.\
+        The noise was horrific, squealing and crunching. The\
+remaining doors and the hood were torn off in tangles of metal.\
+        Jericho could see the human, held fast by his seatbelt, tossed\
+bonelessly back and forth. A final bounce punched in the entire driver's\
+side. The car came to rest a hundred feet below, crumpled like a beer\
+can.\
+        He stood on the edge, wings flared slightly, waiting for the\
+explosion that a steady diet of action movies had taught him to expect.\
+Aside from a small, disenheartened lick of flame, though, there was\
+nothing.\
+        Nothing but the battered, lifeless shells of car and man.\
+        He slowly turned, and raised his head to Demona.\
+        Pride shining in her eyes, she opened her arms to him. He\
+accepted her embrace and rested his brow against her shoulder. She\
+stroked his hair, murmured his name.\
+        He closed his eyes and breathed deep of her scent. Leather and\
+cinnamon, and the lingering ghost of Dominique's musky perfume. His\
+arms went around her of their own accord, drawing her firm curves\
+against his body.\
+        Conflicting fires burned in him, incendiary, consuming. He\
+wanted her; she was his mother. His desire was greater than anything\
+he'd felt for any of his sisters on Avalon; some inner voice cried out that\
+it was wrong. He shook from the force of that inner struggle.\
+        "The first kill is the hardest," she breathed, comforting him,\
+evidently mistaking his reaction for shock and remorse. "It is easier in\
+battle. You'll see."\
+        How could he explain to her that the human was the last thing\
+on his mind? She saw him only as a son, that much was obvious. What\
+was also obvious was that she still harbored some feelings for this\
+Thailog, although he had ill-treated her. When Thailog was out of the\
+way ... and possibly even Goliath himself ...\
+                \*               \*\
+        Ebon strummed thoughtfully, then nodded at Aquarius. "Yes, I\
+think we've got it. Shall we again, from the top?"\
+        "Just a mo. My incense is burnt out." Aquarius set aside his\
+keyboard and gangled over to the shelf where he inserted a long stick\
+between the pursed lips of a marble gargoyle and lit it up. The fragrant\
+smoke slipped toward the ceiling.\
+        "Where is Pagan tonight? Did she go with Julianna and\
+Johnny?"\
+        "Nah. She's dying her hair."\
+        "What color this time?" he asked resignedly.\
+        "Last I saw, she was trying to decide on whether to tip the\
+yellow spikes with purple or green." Aquarius shook his head. "Fret it\
+not, big dude. She'll grow out of it."\
+        "I'd like her opinion on this new --" he broke off, listening\
+intently. "Did you hear something?"\
+        "Nothin' but the turning of the great cosmic wheel, man."\
+        All of the lights went out.\
+        "What the --" Aquarius began, but Ebon hushed him with a\
+warning look.\
+        "Something's not right," he whispered. He gripped the\
+overlarge bass guitar like a weapon. "Stay here."\
+        "No problem."\
+        Ebon crept through the house as quietly as he could, the glow\
+through the windows more than enough to light his way. The house felt\
+\_wrong\_ in a way that a mere power outage could not justify. The\
+sound he'd heard just beforehand, a sound like breaking glass mingled\
+with a muffled cry ... ungood.\
+        He reached the door to Pagan's room. It was standing open,\
+and the air reeked. Hair dye ... and blood.\
+        Alarm shot through him, but he did not rush blindly in.\
+Moving with extreme caution, he went to the next room down, which\
+adjoined via a bathroom. It was dark and silent, undisturbed by so much\
+as a breath or motion.\
+        He eased the bathroom door open. The stink intensified, nearly\
+gagging him. Against the white tile and porcelain, the stains stood out\
+like visual screams. Spilled dye and splashes of blood, modern art for a\
+museum of death.\
+        Pagan was in the tub. Her colorful hair was matted maroon by\
+the blood that sluggishly flowed through it and into the drain. Her throat\
+had been sliced open, almost to the point of decapitation.\
+        A single glance told him that she was beyond help. His instant\
+of grief turned swiftly to fury. He had failed as her protector; he would\
+have to settle for vengeance.\
+        Whoever had done this atrocity was still in the house. He\
+sensed it. He had to find the killer, and right quick, because Aquarius\
+was still upstairs. They could escape, but Julianna and Johnny might\
+return at any time. He couldn't have them walk in on such danger.\
+        He spared one final grief-stricken look back at Pagan. For a\
+moment, he saw Julianna's lovely features superimposed over hers,  like\
+an omen of things to come.\
+        No. Not Julianna. He would die a thousand times over before\
+letting her suffer the merest hurt.\
+        He made no more effort to be quiet. Let the killer hear him,\
+come to him. He wanted to be found, wanted a chance to deal with this\
+in a personal and final manner. Not the police, no, he had seen enough\
+of human law to know that murderers often went unpunished even in the\
+face of overwhelming evidence.\
+        His shadow paced him as he crossed the spacious living room.\
+        No.\
+        Not his shadow.\
+        He whirled toward the gargoyle, whose build was enough like\
+his own to have fooled him. But already the other was too close,\
+moving with deadly proficiency and speed. Ebon started to raise the\
+guitar but it was ripped from his grasp and careened across the floor.\
+        Instinct, yes, Ebon had instinct aplenty, but no training and\
+little experience in combat, whereas his opponent benefitted from all of\
+the above. He struck with both power and efficiency, driving Ebon\
+gasping to his knees with a combination of blows.\
+        The cold tip of a blade, tacky with what he knew was Pagan's\
+blood, pressed against his temple.\
+        "Move an inch, and I'll spit you like a roast of beef."\
+        Ebon's first insane thought was that his attacker was Goliath,\
+because of the shape and the strength and the skill. But the voice, which\
+should have been a copy of his own, was different. Not Goliath. Not\
+anyone he knew.\
+        "Well done," a new voice, a richly textured female voice that\
+sent unaccountable chills through him, said proudly.\
+        Ebon looked up. The living room was open to the second\
+floor, and ringed by a gallery where they displayed their gold records\
+and framed enlargements of their album covers. At the top of the stairs\
+was another gargoyle, standing in the skylight's radiance.\
+        Her, he knew, by reputation and by strong warnings from\
+Lexington.\
+        "Demona," he said.\
+        She unfurled her wings and leapt to land in front of him. "You\
+know me? Nick told me you had amnesia."\
+        "Lexington told me you were the cause. Why have you done\
+this? I am not the gargoyle you knew!" The knife dug harder against his\
+temple as he started to surge forward, and he subsided.\
+        "Just because you don't remember doesn't mean I've forgotten!\
+Nor does it excuse you! Still," she mused, tapping her claw against her\
+lips, "it is less than satisfying. You should know why you're being made\
+to suffer."\
+        "I only know what I was told. It means nothing to me."\
+        She glanced at the other gargoyle, who Ebon could now see\
+was a young male with coloring similar to hers. Her expression was wry\
+and chagrined. "I should have had my memory expert working on that,"\
+she said to the other.\
+        "It will gain you nothing to kill me. Your revenge will be\
+empty," Ebon said, promising himself that \_his\_ revenge would not be,\
+not when he himself was the cause of poor Pagan's murder. If not for\
+him, this harridan would never have come here!\
+        "Still, I have an idea." She picked up Ebon's dropped guitar\
+and ran her fingers over the strings, drawing forth a tortured sound.\
+"This always works in the movies."\
+        With that, she swung it with all her strength.\
+        CRASH-TWANG!!!\
+        The heavy instrument, modified to withstand the strength of\
+Ebon's hands, came down on the top of his head and snapped in two.\
+        \
+                \*               \*\
+        "Everything's going according to plan," Demona uttered in her\
+best imitation of David Xanatos.\
+        "Will the cage hold him?" Jericho asked.\
+        "If you couldn't break out of it, how can he? You're younger,\
+stronger." She touched his arm, tracing the swell of his bicep, feeling\
+him shiver. "He's grown soft living among the humans. If he does\
+awaken with his memory restored, he'll be disgusted with himself."\
+        She gave the cylindrical iron cage a disdainful push, setting it\
+to swing on the thick chain with a rusty squeal. Thailog did not move.\
+She'd feared she'd killed him outright with the blow, which would have\
+been a disappointment and a shame. She had a better fate in mind for\
+him.\
+        "How long will it be before someone finds the others?"\
+        "We'll be gone by then," she promised. "Tonight, we'll finish\
+with him and be on our way."\
+        "It wasn't much of a fight," he said sadly.\
+        She turned to him and took his face between her palms,\
+smiling up at him. "You'll have other chances to test yourself. This was\
+only an appetizer. Humans like those could hardly pose much of a\
+challenge, especially to a trained warrior like yourself. Even Thailog\
+couldn't stand against you. Look how your studies have progressed! I\
+am so very pleased! More than I ever hoped!"\
+        "It's all for you," he said earnestly, putting his hands over hers.\
+"I want to make you proud of me. I want ..."\
+        She let her gaze soften, parted her lips slightly. "What do you\
+want?" she breathed.\
+        He faltered, looked abashed. "Uh ... to make you proud of\
+me," he repeated.\
+        "Oh, I am! I am!" She caressed the line of his jaw, making him\
+tremble. She inhaled deeply so that her breasts pushed briefly against\
+his chest. As he began to lean helplessly toward her, she added, "What\
+mother wouldn't be?" he withdrew in sudden shamed confusion.\
+        "I ... I'll go patrol the walls until dawn, just in case," he\
+stammered, and hastily turned from her to hurry away.\
+        Demona laughed silently as he left. When her eyes chanced to\
+fall on Thailog, though, her mood soured. "It's your fault, you know,"\
+she berated the unconscious gargoyle. "You and Goliath. Mostly\
+Goliath, yes. He could have made me whole again, had he but loved me\
+again! The other males, so very long ago ... they were nothing to me.\
+Dalliances, a night's pleasure here and there, always on the run from the\
+Hunter and the rest of the humans, never secure enough to choose a real\
+mate and breed, and then they were all dead and I was alone! I could\
+have won Goliath back to me, but even upon the very night of our\
+reunion, he rushed away from me to spend time with a human!"\
+        Hot tears stung her eyes and she angrily dashed them away.\
+"And then there was Brooklyn. I admit, I made a mistake there. I was\
+too quick with him. A slower seduction and I might have won his\
+loyalty for all time instead of having it so fast turn to hatred. Then you,\
+Thailog!"\
+        She laughed again, this time with a hard, cruel edge. "You. A\
+hatchling in a full-grown body, knowing only those things that Xanatos\
+programmed you to know, crude and unsophisticated when it came to\
+coupling! And unwilling to learn! That first time, when you took me\
+against the wall of Notre Dame ... you grunted like a rutting boar!\
+MacBeth was worlds better!"\
+        The words startled her so much that she clapped a hand over\
+her mouth and glanced around in alarm. A hot flush suffused her body\
+as unwanted memories washed over her. She firmly put them out of her\
+mind.\
+        "How long were you going behind my back with that ... that\
+abomination?!" she demanded of him, although he could not answer\
+even if he remembered. "What did you call her? Delilah? Oh, very\
+clever, Thailog! Such a clever name, a play on words, and how dare you\
+suggest that it would be an improvement on me to combine my cells\
+with that infernal human?! Of all the millions of them, you chose her,\
+for no other reason than to infuriate me! Well, it worked, Thailog. It\
+worked. And tomorrow night, you'll pay the price for your insolence."\
+        Demona stalked from the dungeon and up the seemingly\
+endless winding stair that led from the undercellars of Kronsteen Castle\
+to the highest tower.\
+        She emerged into the night air, smelling the salt of the Pacific\
+freshening the usual miasma of L.A. To the west was utter blackness, to\
+the east was a pale line behind the mountains. In New York, it would be\
+day already, Goliath and his clan sealed in stone, too far away to\
+interfere with her plans this time.\
+        Below, Jericho was just leaving the courtyard, entering the\
+main keep of the castle. Something about his manner, his posture,\
+seemed furtive. As if he didn't want to be noticed.\
+        Demona frowned. He couldn't be having a fit of conscience,\
+could he? His performance had been excellent after that initial bit of\
+backsliding. He wouldn't take pity on the human female, not after he so\
+cleanly did away with her three friends.\
+        Would he?\
+        She glided down to follow him at a discreet distance, silent as\
+a cloud moving across midnight.\
+        When she found him, she realized at once that he belonged to\
+her.\
+        He was in a shadowed corner of an antechamber off the grand\
+hall, a place which upon first look seemed private. But she knew this\
+castle far better than he, knew secrets about it that even Kronsteen\
+himself hadn't known, so it was an easy matter to find the spyhole.\
+         The torture she had been inflicting on him was having the\
+desired effect. Unable to cope with the mixed messages of temptress\
+and mother, he was in dire need of some outlet for his frustrated\
+arousal. To that end, he had taken matters into his own hands.\
+        "My, my," she whispered under her breath. "You do take after\
+your father in some respects!"\
+        His head was thrown back, eyes closed, face tense with the\
+urgency of his need. But, urgent as it was, he seemed unable to find\
+release, tormented no doubt by the forbidden thoughts racing through\
+his mind.\
+        She hadn't been unaffected by her games, hadn't missed\
+noticing what a fine figure of a gargoyle he was. Now, seeing him like\
+this, she felt the familiar yearning course through her.\
+        Keeping her sight fixed on him, she slid her hands along her\
+thighs and under her garment. Her tail as well, timing her movements to\
+match his.\
+        What would he do, she wondered, if he could see her like this?\
+Would he flee from her in shame, or fall upon her with a frenzied lust?\
+What would she do, seeing the direct heat and intent in his eyes?\
+        He cried out, low and gutteral, and she nearly echoed it with\
+an impassioned moan of her own that would surely have alerted him.\
+She bit her lip to hold in such outbursts. Slower, now, she moved her\
+hands and tail, slow and forceful, while Jericho quickened his pace.\
+        Another, louder cry was wrung from him as he yeilded to his\
+need. An instant later, she followed suit, her knees buckling so that she\
+sank to the floor of the passage. She rested her brow against the cool\
+stone, feeling the tremors gradually subside.\
+                \*               \*\
+        By day, Los Angeles looked far less impressive than it did by\
+night. The twinkling sea of lights gave way to a dull collection of flat\
+buildings, all canopied by a greasy, murky brown pall. The mountains\
+trapped the smog, except on those rare occasions when the wind blew\
+the whole stinking biosphere out to sea.\
+        Demona, now in the guise of Dominique, stood on the curved\
+terrace and thought that if she'd seen the place by day all those years\
+ago, she wouldn't have found it nearly so fascinating.\
+        She swept her gaze over her old stomping grounds. Malibu,\
+Burbank ... how perfect it had seemed, once she'd learned that Goliath's\
+clan chose names from New York, to give the clones names that had\
+meaning to her.\
+        Her grin faded. Thailog had ruined that as well. Stolen her clan\
+before they even emerged from their tanks, made them blindly loyal to\
+him.\
+        He'd even destroyed the one that meant the most to her. Oh,\
+he'd claimed that Ventura's death was accidental, a result of a chemical\
+imbalance, but now she knew better.\
+        Had it been fear that led him to kill her? Fear that she, a Snow\
+White in reverse with hair as white as snow, skin as black as ebony, and\
+eyes as red as blood, might have been mistaken for his own offspring?\
+        And then Angela had rejected her again, so she'd lost both the\
+real daughter and the false.\
+        Now, though, she had her son. She walked over to him where\
+he crouched in a protective pose, and ran a hand over his stony flank.\
+        What \_would\_ Goliath think, she wondered. He'd never win\
+Jericho away from her the way he had won Angela.\
+        Far below, she heard the insignificant popping sounds of\
+humans using guns on one another. It brought a smile back to her lips.\
+That was part of the city's more recent charm. In the fifties, when she\
+had been a frequent guest at this castle, the days of freeway shootings\
+and the like were unimaginable. New York, for all its crime, had never\
+reached this level of degredation and squalor.\
+        "I love L.A.," Demona murmured.\
+                \*               \*\
+        "It hasn't worked," Ebon said by way of greeting as Demona\
+entered the dungeon, the sputtering torches turning her scarlet hair to\
+flame.\
+        "I'm sure that's what you'd like me to believe, to buy yourself\
+more time."\
+        "I still remember nothing!" he protested.\
+        "It won't work, Thailog. I know your lies."\
+        He lunged back and forth within the cage. "I speak the truth!"\
+        The other gargoyle came in behind Demona. He was carrying\
+a black case and a strange-looking weapon. He glared scathingly at\
+Ebon.\
+        "What enemy am I of yours?" Ebon asked him, perplexed.\
+        "He is my son," Demona boasted.\
+        Ebon studied the young male piercingly and made a very good\
+guess. "If so, then you must have some of your father's nobility --"\
+        Demona laughed. "Why? You didn't!"\
+        "Don't speak of him to me! Would that he wasn't my father,\
+and that I was no kin of his, nor yours even by clonish proxy!" The\
+male's eyes flared white.\
+        "Wait, Jericho, wait," Demona soothed. "We're not yet\
+finished."\
+        He nodded and moved to stand beside and behind the cage,\
+barely within Ebon's peripheral vision.\
+        "So you plan to torture me?" Ebon asked, his voice filling with\
+scorn. "When, for all intents and purposes, \_I\_ remain innocent of what\
+this Thailog has done?"\
+        "You are good," Demona remarked, cocking her head. "I could\
+almost think you meant it." Her wings flew suddenly wide and her tail\
+lashed in anger. "But it will not save you now!" She sprang to the wall\
+and turned a rust-clotted torch holder.\
+        Stone grated against stone as part of the wall slid aside.\
+        "And there she stood," Demona said. "Delilah, living proof of\
+your betrayal. But this was the best I could do."\
+        "Julianna!" Ebon threw himself against the bars with all his\
+strength.\
+        Manacles joined her wrists. She still wore the pale blue gown\
+she'd put on to attend the movie premiere, but it was dirty and torn and\
+stained. Her fair shoulders were scratched, bruises darkened her skin.\
+Her eyes, when she turned them toward his cry, were fogged with pain\
+and fear.\
+        "Release her!" Ebon thundered. "She is no part of this!"\
+        "I loved you," Demona said. "I trusted you. Together, we built\
+a new clan. And then you took it all away from me. Well, now you\
+know what it is to love, to trust, to have a clan. And I am going to take\
+it all from you." She dragged Julianna, dazed and unprotesting, from the\
+recess in the wall. "You are never going to forget the price you paid for\
+your treachery."\
+        "Let her go!" he commanded.\
+        "Will you beg me, proud Thailog? Will you grovel on your\
+knees and beg for this wretched human's life?"\
+        "You would not free her if I did. You have no honor."\
+        "Behold who talks!" Demona showed all of her teeth. "Ah, but\
+how should it be? Should I use some of these?" She waved at the array\
+of old torture implements. They glimmered in the torchlight, all sharp\
+edges and vicious points. "Should I throw her to the floor and bid\
+Jericho to use her, so brutally that she would die of it?"\
+        "No!" Ebon cried, horrified.\
+        "What?" the male said, startled.\
+        Julianna seemed unaware of her surroundings, unaware even\
+of his presence, and did not react to the hideous threat.\
+        "Do you want her?" Demona offered to her son.\
+        "No! She's ... no!" he stammered, repulsed.\
+        "Good," she said, satisfied. "That is one more thing you didn't\
+inherit from Goliath."\
+        "Don't do this," Ebon said to him. "She is insane, surely you\
+can see that. Don't let her lower you to her level."\
+        "I go willingly wherever she would take me," Jericho declared.\
+        Demona smiled smugly. "Now, that is loyalty."\
+        "Demona, if you have an ounce of compassion, let the girl go!"\
+        "This from the gargoyle who didn't hesitate at trying to blow\
+up Goliath's human sweetheart on an oil tanker, just because she had the\
+bad luck to be there. Compassion, Thailog? For humans? That was\
+burned out of me centuries ago!"\
+        "She's innocent!"\
+        "No one is innocent. But I grant you this -- at least I'll let it be\
+quick."\
+        With that, she snapped Julianna's neck.\
+        The thin crack! was audible even through Ebon's roar.\
+        Demona threw Julianna. She landed near Ebon's cage, a\
+broken doll. Their eyes met one last time, and then life fled from hers\
+while anguished tears blurred his.\
+        "Now," Demona said.\
+        Whuph! A coughing noise sounded behind him.\
+        Something struck Ebon in the back, square between the wings\
+and just below the base of his neck. Metal fangs bit deep, cold, so cold,\
+injecting icy poison into him. The coldness crawled over the inside of\
+his skull.\
+        Nothingness.\
+                \*               \*\
+        "Well, it's about time," Gustav Sevarius said. The small\
+monitor was grainy, but it still captured the calculating menace of his\
+emerald eyes. "Progress?"\
+        "Here." Demona plugged the mediscanner into the base of the\
+monitor, then ran the device over Thailog. "He's alive, barely. You\
+should be getting the readings on your computer now."\
+        "Hmm. He's not showing the typical responses. His EEG is\
+nearly flat, and there doesn't seem to be the expected activity in the\
+affected regions of his brain. On first impression, we must conclude that\
+the drug is not interacting properly with his brain."\
+        "You mean, he's not going to relive that moment for all time?"\
+Demona's lip curled, then she relented. "Well, he did live it once!"\
+        "I'll be surprised if he lasts the hour," Sevarius said. "It seems\
+that the systems of his brain are shutting down one by one. I'm afraid\
+you'll have to settle for the fast-food version of your dish served cold,\
+my lamb, rather than the nine-course meal you were hoping for."\
+        "He's dying, then?" Demona kicked Thailog in the jaw and he\
+didn't even blink. "Misbegotten oaf, you could have at least given me\
+the pleasure of dying well!"\
+        "We're gaining some valuable information," Sevarius consoled\
+her. "I'm sure that next time, we'll be able to obtain the desired results."\
+        "Won't he be healed by next dusk?" Jericho asked while\
+Demona, unconsoled and not happy about being called "my lamb"\
+either, stormed about and threw things.\
+        Onscreen, Sevarius shook his head. "Dust from a gargoyle's\
+stone skin was added to the metal alloy that makes up the prongs. The\
+device will turn to stone and back as he does. Sleep may give him some\
+surcease from the memory, but then again, it may not. I've not yet been\
+able to determine the levels of brain activity and dreams in a sleeping\
+gargoyle. And this is all assuming, of course, that he survives. Which I\
+frankly doubt."\
+        Demona ran her claws through her hair and exhaled in disgust.\
+"Oh, chain him down and leave him to it. Even without Goliath here to\
+thwart me, I am thwarted!"\
+        "Shall I finish him?" Jericho asked eagerly.\
+        "No. Let him linger here, chained, in the company of the\
+dead." She rolled Julianna's body close to Thailog. "There."\
+        "Ah, the classic error," Sevarius remarked. "Leaving the foe\
+alive."\
+        Demona switched off the monitor and Sevarius vanished in a\
+jagged scrawl of static.\
+                \*               \*\
+HEADLINES -- NOVEMBER 1998\
+From V.I.P. Magazine (Elaine Kristin's byline):\
+        It's been over a month since the bodies of three out of five\
+members of the megastar rock band Scarlet Angel were found dead in\
+and around their California home.\
+        All three cases are being investigated as murder, even the fatal\
+car crash that claimed the life of Johnny Harlowe. Police sources say\
+that there were "irregularities" about the crash.\
+        Two questions are on everyone's lips -- who could do such a\
+horrible thing, and what has become of the last two members, Julianna\
+and Ebon?\
+        An insider, who wishes to remain anonymous, suggested to\
+this writer that the answer to both of those questions might be easy.\
+Damage to the car that is inconsistent with a crash but could very well\
+have been caused by claws, and the tremendous strength necessary to so\
+completely mutilate a human body (as this insider says was the case\
+with one of the bodies but refused to name which one), point to a\
+gargoyle.\
+        Could Ebon himself have been responsible? Could he have\
+turned on the people he earlier in this very magazine referred to as his\
+"clan" and viciously murdered them? Has Julianna been carried off to\
+some gruesome fate, or might she have even been in on it?\
+        This writer refuses to believe such vicious accusations. But as\
+the weeks go by with neither of them coming forth, the only other\
+explanation is that they, too, are victims and their bodies remain\
+undiscovered.\
+        Manhattan's gargoyle task force expert, Detective Matthew\
+Bluestone, has been working closely with local investigators. He states\
+a lack of belief that Ebon has committed this terrible crime, but would\
+not comment on the possibility of other gargoyle involvement.\
+        This brutal tragedy has shocked the entertainment world.\
+Scarlet Angel fans across the country have been holding memorial\
+services in the band's honor, but many times those services have been\
+broken up by sign-waving anti-gargoyle groups ...\
+                \*               \*\
+\
+From The Daily Tattler:\
+        GARGOYLES RAMPAGE IN SOUTHERN CALIFORNIA!\
+        (artist's conception of an actual photo)\
+        Monsters live among us! That is the cry of the Quarrymen,\
+whose dedication to the pursuit and extermination of these living\
+nightmares has been vindicated by the recent murders of celebrities.\
+        "They've been doing this for years and getting away with it\
+because the public doesn't believe," a spokesman for the Quarrymen\
+says. "Now everyone will have to admit the truth. They must be\
+destroyed!"\
+        Gargoyles -- the urban Bigfoots -- have been in the news for\
+years. All that time, the Daily Tattler has faithfully printed every\
+encounter, sometimes to the ridicule of skeptics. It can only be hoped\
+that in the wake of the recent bloodbath, gargoyle sightings will be\
+taken more seriously.\
+        They could be anywhere. They could strike at any time. What\
+innocuous-looking stone figure might, under full moonlight, transform\
+into a bloodthirsty demon ...\
+                \*               \*\
+From The Los Angeles Times:\
+        SCARLET ANGEL INVESTIGATION UNCOVERS\
+EVIDENCE OF EMBEZZLEMENT\
+        In a startling new development, investigators yesterday\
+discovered band's group, business, and even individual members'\
+private bank accounts have all been drained dry ...\
+                \*               \*\
+From "Stranger in the Night" magazine:\
+        For Sale -- complete Scarlet Angel album collection,\
+autographed posters, T-shirts, much, much more. Get yours now before\
+the loonies (or my mom) burn them! Call Joey at (123)555-1234 ...\
+                \*               \*\
+From The New York Times, obituary column.\
+        Hector Gervaso, decorated veteran, died suddenly in a work-\
+related accident ...\
+                \*               \*\
+From a pamphlet distributed by Strikehammer California (West Coast\
+branch of the Quarrymen):\
+        Fast track to Hell -- Scarlet Angel, gargoyle worship, and\
+Satanism. Are YOUR children, YOUR friends, YOUR neighborhood,\
+YOUR community, in danger? What YOU can do to prevent it!\
+Workshop and rally November 6th, 7:00 PM ...\
+                \*               \*\
+From "Psychobabble Today" magazine:\
+        Angels of Death -- A Statistical Analysis of Popular Music,\
+Cults, and Teen Suicide ...\
+                \*               \*\
+        \
+NOVEMBER 1998 -- NIGHTSTONE UNLIMITED.\
+        "So, naturally, Ms. Destine, everyone in Accounting is deeply\
+concerned," the rabbity-looking man finished, blotting his nervous\
+palms on his handkerchief.\
+        Dominique scowled and sifted through the sheaf of papers he'd\
+brought. "There must be some mistake! These figures cannot be\
+correct."\
+        "Our point exactly. But the numbers are too ... expansive ... to\
+indicate a simple computational error. Even a series of errors would not\
+produce discrepancies of this degree."\
+        Behind his wire-framed glasses, his normally meek brown eyes\
+were uncharacteristically suspicious. Dominique saw how he was\
+watching her, looking for a reaction, looking for guilt, and knew what\
+he was thinking.\
+        "Accounting concludes that someone's been dipping their\
+fingers in the till, hmm?"\
+        "Well, that is one possible explanation ..." he stammered, then\
+firmed up. "But, if so, whoever is doing it isn't being particularly\
+careful. These sorts of things are usually more discreetly handled,\
+concealed to avoid detection for as long as ..."\
+        "This is absurd," she said. "There must be a mistake in the\
+computers." She switched on hers and drummed her fingers impatiently\
+while it hummed into life.\
+        "We've never had such problems before," the rabbity man\
+reminded her.\
+        "No, and I've used the same program ever since ..." her voice\
+failed her and she went cold, remembering just who had designed that\
+particular program. Who would be just the sort to leave hidden\
+trapdoors and codes even though she'd changed all of the passwords.\
+        "Surely there must be --" he began.\
+        She silenced him with an inhuman snarl that left him shaking\
+in his chair. Her hands flew over the keyboard, calling up the desired\
+file.\
+        Instead of what she expected to see, four words floated in the\
+middle of the screen.\
+        THANKS FOR THE MEMORIES.\
+        "Bastard!" she raged.\
+        Even as she read them, the words disappeared. Instantly, data\
+began scrolling past, fast as the eye coud see, snippets of directories and\
+systems, subsystems and files.\
+        Dominique shrieked in negation and horror as she realized\
+what was happening. She slapped the power switch and the screen went\
+dark.\
+        How much? she wondered frantically. How much damage was\
+done?\
+        From the outer office, through the half-open door, she heard\
+Stephanie's startled exclamation and the patter of her keyboard.\
+        "Turn it off!" Dominique yelled, bowling rabbity-man to the\
+floor as she charged from her desk.\
+        All over Nightstone Unlimited, technicians and engineers\
+fought helplessly as their computers ate themselves and went dead.\
+Even the giant supercomputer, called Shelob after the great she-spider\
+in Tolkien, fell prey to a worse beast.\
+        Dominique Destine walked in a daze through the building,\
+growing numb as the full magnitude of her ruination sank in.\
+        \
+                \*               \*\
+        The grave was marked with a solid block of stone that ten men\
+couldn't have budged. Moonlight turned the granite to silver, except\
+where a large shadow blotted out the light.\
+        The shadow moved, and now the moon looked down on the\
+letters, carved into the stone not by hammer and chisel but by claws.\
+        "Heaven too soon called home this fairest angel."\
+        \
+                \*               \*\
+EPILOGUE\
+From the International Journal of Neurologic Medicine, January 1999:\
+        " ... newly patented drug mnemzetropine has been found\
+singularly effective in the treatment of amnesia and also shows\
+promising results for coma patients ..."\
+                \*               \*\
+The End.\
+
+------------------------------------------------------------------------
+
+Click [here](ffiction.htm) to return to previous page
+
+------------------------------------------------------------------------
+
+\
+Fallen Angels / Page Copyright 1997 - Christine Morgan / <vecna@eskimo.com>

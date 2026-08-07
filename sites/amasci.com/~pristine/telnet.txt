@@ -1,0 +1,433 @@
+Pure Mac: Telnet & SSH 
+
+ Telnet & SSH 
+
+ Miscellaneous 
+ Rlogin 
+ SSH 
+ Telnet 
+ Terminal Emulators 
+ TN3270 
+
+ Hytelnet 
+
+ BetterTelnet 
+
+ dataComet-Secure 
+ F-Secure SSH Client 
+ MacSSH 
+ Nifty Telnet SSH 
+
+ BetterTelnet 
+ Black Night 
+ Comet 
+ dataComet 
+ Mocha Telnet 
+ NCSA Telnet 
+ Nifty Telnet 
+ Nifty Telnet SSH 
+ ProTERM 
+ TGE TCP Tool 
+
+ Black Night 
+ Communicate Lite 
+ 5PM Term 
+ PC ANSI Tool 
+ MultiTerm Plus 
+ ProTERM 
+ ZTerm 
+
+ Comet 
+ dataComet 
+ dataComet-Secure 
+ Mocha TN3270 
+ tn3270 
+
+ Hytelnet Search for Public TELNET and TN3270 sites 
+
+ BetterTelnet 2.0fc1 
+
+BetterTelnet for Mac OS is a significantly enhanced version of NCSA Telnet 2.7b5. It fixes many bugs and has a
+redesigned interface that is not only easier to use and configure than NCSA Telnet, but still has as much as if not
+more configuration flexibility compared to NCSA Telnet. All configuration options from NCSA Telnet are still in
+BetterTelnet. Version 2.0 now also has rlogin support. Note: BetterTelnet is also capable of SSH but the needed
+module is not being distributed due to US governmental regulations.
+
+ License : Freeware
+ Author/Publisher : Rolf Braun
+ Modification Date : January 3, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 370 Kb - Fat version
+
+ Parent Directory
+
+ Home Page 
+
+ Black Night 1.0.7 
+
+Black Night is a communication and terminal emulation application.
+It is fully Apple Scriptable and Recordable, supports drag and drop, the 
+communications toolbox and includes its own drivers for Serial/Modem, 
+ANSI/PC, VT100, VT220, XMODEM, YMODEM and ZMODEM. 
+
+ License : Shareware, $30
+ Author/Publisher : Christopher Swan /Raine Storm Softworks
+ Modification Date : September 16, 1997
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 607 Kb 
+
+ Parent Directory 
+
+ Home Page 
+
+ Comet 3.11 
+
+Cornell's MacTCP-based Telnet/TN3270 client.
+
+ License : Freeware
+ Author/Publisher : Cornell University
+ Modification Date : April 24, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 1043 Kb
+
+ Parent Directory 
+
+ Communicate Lite 1.0.2 
+
+A good commercial terminal emulation program.
+
+ License : Demo - Purchase for $49.95
+ Author/Publisher : Mark/Space 
+ Modification Date : May 20, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 530 Kb - Demo
+
+ Parent Directory 
+
+ Home Page 
+
+ dataComet 4.6.3 
+
+Fast, reliable terminal emulation over both Telnet and dialup connections 
+ Telnet sessions offer Kerberos and SOCKS v4 security options 
+ Edit windows for off-line composition with easy paste-thru to emulator windows using the Enter key 
+ Thorough on-line documentation (400KB of text) 
+ On-line help: pressing Control and selecting a menu or dialog item fetches the documentation for the item 
+ Powerful AppleScript and macro support with automatic macro recording and an easy-to-use key remapping dialog 
+ Modeless dialogs ease session configuration 
+ Extensive file transfer support 
+ Compatible with Mac systems from 6.0.7 to MacOS 9.0
+
+ License : Shareware, $20
+ Author/Publisher : databeast inc.
+ Modification Date : May 24, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1829 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ dataComet-Secure 5.0.3 
+
+An AppleScriptable Macintosh VT220, PC-ANSI, and IBM-3270 terminal emulator for
+Secure Shell 1 + 2, Telnet/TN3270 (K5), and Serial connections with SCP, ZMODEM,
+IBM IND$FILE, and Text Editing support
+
+ License : Shareware, $60
+ Author/Publisher : databeast inc.
+ Modification Date : October 19, 2000
+ Requirements : 680x0 or PPC - Mac OS 6.0.7 to 9.2.1
+
+ Download Page File Size: 2262 Kb
+
+ Home Page 
+
+ 5PM Term 3.5.1 
+
+5PM Term is a state-of-the-art modular terminal emulation solution for Mac OS
+users. It provides connections to IBM mainframe, AS/400, UNIX, VMS and HP
+hosts. 5PM Term provides more than just a replacement for terminal screens.
+Added-value features enable organizations to customize their environment and enhance productivity.
+
+ License : Demo - Purchase for $259
+ Author/Publisher : PowerLan
+ Modification Date : September 19, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 3735 Kb
+
+ Parent Directory 
+
+ Home Page 
+
+ F-Secure SSH Client 2.0 
+
+Keep the packet sniffers away. F-Secure SSH Clients provide the users with secure login
+connections over untrusted networks. F-Secure SSH Clients
+acts as a replacement for the telnet protocol. The clients use
+the cryptographic authentication, automatic session encryption,
+and integrity protection methods that are defined by the SSH
+protocol. F-Secure SSH Clients fully support VT100 terminal emulation. 
+
+ License : 30 day Trial - Purchase for $99
+ Author/Publisher : Data Fellows Ltd.
+ Modification Date : September 16, 1999
+ Requirements : 68020 or Better or PPC
+
+ Direct Download
+ File Size: 998 Kb - Version 2.x - The SSH2 protocol is completely different from the SSH1 protocol and provides capabilities that are beyond the old protocol. For this reason, MacSSH 2 requires a version 2 server. Server versions older than 2.0.0 are guaranteed not to work.
+
+ Put both of the following files into the same folder, and click on the installer 
+ Direct Download
+ File Size: 1784 Kb - File 1 for version 1.x
+
+ Direct Download
+ File Size: 1032 Kb - File 2 for version 1.x
+
+ Download Page
+
+ Home Page 
+
+ Ssh (Secure Shell) Home Page 
+
+ Hytelnet 6.9 
+
+Basically a bookmarker/launcher for NCSATelnet and TN3270.
+
+ License : Freeware
+ Author/Publisher : Charles Burchill based on Hytelnet by Peter Scott
+ Modification Date : June 11, 1995
+ Requirements : 680x0, Hypercard or Hypercard Player
+
+ Direct Download
+ File Size: 826 Kb 
+
+ Parent Directory 
+
+ MacSSH 2.1fc2 
+
+MacSSH is a modified version of BetterTelnet with SSH2 support. 
+
+ License : Freeware
+ Author/Publisher : Jean-Pierre Stierlin/Based on Rolf Braun's BetterTelnet
+ Modification Date : November 16, 2001
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 492 Kb - 68k version
+
+ Direct Download
+ File Size: 537 Kb - PPC version
+
+ Home Page 
+
+ Mocha Telnet 1.1 
+
+Mocha Telnet is a JAVA Application, making it possible to run telnet based applications from a Web browser,
+without a local installed telnet application. It can run either as a stand-alone Java application, applet 
+or applet popup window.
+
+ License : Shareware, $15
+ Author/Publisher : Mochasoft
+ Modification Date : May 13, 1999
+ Requirements : PPC, Java
+
+ Direct Download
+ File Size: 109 Kb 
+
+ User Guide 
+
+ Home Page 
+
+ Mocha TN3270 1.5 
+
+Mocha TN3270 is a JAVA Application, making it possible to run TN3270 based applications from a Web browser,
+without a local installed tn3270 application. It can run either as a stand-alone Java application, applet 
+or applet popup window.
+
+ License : Shareware, $25
+ Author/Publisher : Mochasoft
+ Modification Date : June 11, 1999
+ Requirements : PPC, Java
+
+ Direct Download
+ File Size: 114 Kb
+
+ User Guide 
+
+ Home Page 
+
+ MultiTerm Plus 5.4 
+
+Vicomsoft MultiTerm for Mac OS is a powerful general purpose terminal emulation
+package for connections to a large variety of hosts using 36 different emulations.
+
+ License : Demo - Purchase for $195
+ Author/Publisher : Vicom
+ Modification Date : October 5, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 2658 Kb - Fat version
+
+ Home Page 
+
+ NCSA Telnet 2.7b4 
+
+The popular Telnet application.
+
+ License : Freeware
+ Author/Publisher : Clint Popetz, Jim Browne and various former developers/National Center for Supercomputing Applications at the Unviversity of Illinois at Urbana-Champaign
+ Modification Date : June 28, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 184 Kb - 68k version
+
+ Direct Download
+ File Size: 335 Kb - Fat version
+
+ Parent Directory 
+
+ Nifty Telnet 1.1 
+
+NiftyTelnet is a simple, fast telnet client for the Macintosh.
+
+ License : Freeware
+ Author/Publisher : Chris Newman
+ Modification Date : October 28, 1996
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 174 Kb - 68k version
+
+ Direct Download
+ File Size: 190 Kb - PPC version
+
+ Home Page 
+
+ Nifty Telnet SSH 1.1r3 
+
+This is an enhanced version of NiftyTelnet which includes support for the SSH
+(Secure Shell) protocol for encrypted terminal sessions. NEWS! September 6, 2000
+RSA Data Security, Inc. today put the RSA public-key encryption algorithm into
+the public domain, meaning that United States users can now download and use
+NiftyTelnet SSH legally. This was done two weeks before the expiration of their
+patent granted in 1983.
+
+ License : Freeware
+ Author/Publisher : Jonas Walden
+ Modification Date : June 7, 1999
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 559 Kb
+
+ Home Page 
+
+ PC ANSI Tool 1.0.0 
+
+For logging into PC ANSI servers. Use with terminal programs which use the Comm Tool Box such as Black Night, ClarisWorks, Communicate Lite etc.
+
+ License : Demo - Purchase for $29.95
+ Author/Publisher : Mark/Space
+ Modification Date : February 22, 1996
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 324 Kb - Demo
+
+ Parent Directory 
+
+ Home Page 
+
+ ProTERM 1.5 
+
+Powerful, extremely fast, feature-rich Macintosh computer communication (telecom
+and Telnet) solution. ProTERM is an optimum solution, is indisputably an
+easy-to-use, versatile, dependable software with many unique features. Popular
+emulations include color ANSI, VT102, SCO-ANSI & more.
+
+ License : Demo, 30 day - Purchase for $80
+ Author/Publisher : Greg Schaefer/InTrec Software, Inc.
+ Modification Date : April 4, 2000
+ Requirements : 680x0 or PPC
+
+ Direct Download
+ File Size: 1265 Kb
+
+ Parent Directory
+
+ Home Page 
+
+ TGE TCP Tool 2.5 
+
+Use with CTB aware communications programs such as ClarisWorks or Black Night
+for your telnet connections. Unlike TCPack or Black Night Connection Set, it's free.
+A little buggy but certainly usable. I recommend the Black Night Telnet Tool.
+
+ License : Freeware
+ Author/Publisher : Tim Endres
+ Modification Date : June 3, 1994
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 25 Kb
+
+ Parent Directory 
+
+ tn3270 2.5b2 
+
+tn3270 allows a Macintosh computer with a TCP/IP network connection to negotiate a
+Telnet session emulating an IBM 3270 terminal. Features of the emulation include color,
+extended highlighting, APL and 3179-compatible graphics.
+
+ License : Freeware
+ Author/Publisher : Peter John DiCamillo/Brown University
+ Modification Date : October 27, 1995
+ Requirements : 680x0
+
+ Direct Download
+ File Size: 719 Kb
+
+ Parent Directory 
+
+ ZTerm 1.0.1 
+
+ZTerm is a shareware telecommunications program for the Macintosh. It features ZModem,
+YModem, XModem, Kermit and CIS B-Plus/Quick-B file transfers, VT100 & ANSI-BBS
+emulation, including colors, and an efficient scroll back buffer. 
+ZTerm is a terminal emulation program for the Macintosh. In its day, many people used it to connect to Bulletin Board Systems
+and download files. Now we have the internet. Its still a useful utility for those systems that only offer dialup connections and for
+connecting to devices through a serial port, like many routers. For newer Macintoshs that don't have a normal serial port, ZTerm
+can talk to ports on USB to serial adapters, through the appropriate driver software supplied with the adapter.
+
+ License : Shareware, $30
+ Author/Publisher : David P. Alverson 
+ Modification Date : October 20, 1995
+ Requirements : 680x0 or PPC and Mac OS X
+
+ Direct Download
+ File Size: 404 Kb - version 1.0.1
+
+ Direct Download
+ File Size: 176 Kb - version 1.1b4 - released April 17, 2001
+
+ Direct Download
+ File Size: 239 Kb - Mac OS X version 1.1b4 - released April 17, 2001
+
+ Home Page 
+
+ Back to the main page of Pure Mac

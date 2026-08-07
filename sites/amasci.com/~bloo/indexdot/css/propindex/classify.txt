@@ -1,0 +1,34 @@
+CSS Property Index: Classification 
+
+ CSS Property Index 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Classification&#160;&#160;&#160; 
+ &#160;&#160;&#160;[ About Classification Properties... ] 
+
+ display 
+ visibility 
+ position 
+ float 
+ clear 
+
+ All | Fonts |
+ Text | Colors/Backgrounds |
+ Scrollbars | Outlines |
+ Lists | Tables 
+
+ &#160;&#160;&#160; Classification | Dimensions |
+ Positioning | Margins |
+ Padding | Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Boring Copyright Stuff....

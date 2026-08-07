@@ -1,0 +1,505 @@
+
+<html>
+<head>
+<link rev="made" href="mailto:billb@eskimo.com">
+<TITLE>Nikola Tesla Page, Tesla Coils (Bill Beaty's Homepage)</title>
+
+<meta http-equiv="keywords" content="nikola,tesla,coil,coils,high,voltage,
+plasma,sphere,ball,lightning,science,project,jacob,jacob's,ladder"> 
+
+<meta http-equiv="description" content="Very large collection of resources
+for the Tesla coil builder.  Construction hints and techniques, sources
+for coil plans, pointers to online forums, collection of Tesla links,
+software aids.  Part of Bill B.s SCIENCE HOBBYIST site.">
+
+</head>
+
+<body bgcolor="#ffffff">
+<center>
+<TABLE cellpadding=5><TR>
+<TD ALIGN="CENTER">
+<a href="/">SCI. HOBBYIST</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/~billb/cgi-bin/guestbook.html">GUESTBOOK</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/unew.html">GOOD STUFF</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/news.html">NEW STUFF</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/search.html">HELP</a><br></TD>
+</TR></TABLE>
+</center>
+
+<h1><font size=7>Nikola Tesla Page, tesla coils</font></h1>
+
+<pre>
+Hey, congratulations, you found some <a href="/tesla/biog.txt">Tesla</a> stuff on WWW!  I highly
+recommend Chip A's coil-building discussion list at <a href="http://www.pupman.com">'Pupman.'</a>  
+Also check out <a href="ftp://nic.funet.fi/pub/sci/electrical/tesla/00README">nic.funet.fi</a>
+(TESLA GROUP below) for more files on coils.  All coil builders should
+subscribe to the <a href="/tesla/tcba.html">T.C.B.A.</a> newsletter, and buy all  the back issues too!
+(It contains hundreds of plans for TCs large and small.)  An <a href="/tesla/tcba.html">index</a> now
+exists for the TCBA Newsletter, so buying the correct back-issues is
+fairly simple.
+</pre>
+This page is part of WEIRD SCIENCE / AMATEUR SCIENCE.  Created 12/94.
+
+
+<h1>Shortcuts</h1>
+<ul>
+<li><a href="#tdis">Tesla Discussion Groups</a>
+<li><a href="#tlnk">Tesla WWW links</a>
+<li><a href="#tclr">Coiler's pages</a>
+<li><a href="#tphot">Coil Photos</a>
+<li><a href="#tplan">Coil plans, instructions, etc.</a>
+<li><a href="/weird/wbookstr.html#tes">Some Tesla Books</a>
+<li><a href="/tesla/plasplan.html">Plasma Spheres</a>
+<li><a href="#tcaps">Homebrew Capacitors</a>
+<li><a href="#tfiles">Text files & other info</a>
+<li><a href="#tsupl">Suppliers/stores</a>
+<li><a href="#tsw">SOFTWARE</a>
+<li><a href="#keel">Keelynet Tesla files</a>
+
+</ul>
+<hr>
+LOOKING FOR BOOKS? Try searching
+<a href="http://www.amazon.com/exec/obidos/redirect-home/sciencehobbyist">
+amazon.com</a>:<br><p>
+<form method="get"
+action="http://www.amazon.com/exec/obidos/external-search/">
+<input type= "text" name="keyword" size=35 value="nikola tesla">
+<input type= "hidden" name="tag" value="sciencehobbyist">
+<input type="submit" value="Search">
+ <font size=3>(try "tesla coil" too)</font>
+</form>
+<font size=3> 
+Help Support <a href="http://www.halcyon.com/sciclub">the Science
+Club</a>,
+ use the above form to buy your books.<br>
+(We make a few $$ on any books ordered via these links.)</font>
+<hr>  
+
+<strong>
+<br>
+<a name="tdis"></a>
+<h1>Tesla Discussion Groups</h1>
+<ul>
+<li><a href="http://www.pupman.com">TESLA GROUP</a> listserv for advanced hobbyists "pupman"
+<li><a href="http://www.dejanews.com/=dnt_test1/dnquery.xp?search=word&svcclass=dncurrent&showsort=date&ST=QS&query=~g%20alt.energy.high-voltage">ALT.ENERGY.HIGH-VOLTAGE</a> newsgroup via dejanews
+<li><a href="http://privat.schlund.de/G/GTL/toc.htm">German-speaking Tesla Coilers</a>
+<li><a href="/tesla/tes1.html">Info about usa-tesla Listserv</a> (defunct)
+<li><a href="http://www.icorp.net/users/kev/tesla/list.htm">Tesla-2</a> group for beginners
+<li><a href="http://www.high-voltage-assoc.com/wwwboard/">HV Association wwwboard</a>
+</ul>
+
+<a name="tclr"></a>
+<h1>Coiler's Pages</h1>
+<ul>
+<li><a href="http://www.webring.org/cgi-bin/webring?ring=TeslaRing&list">Tesla Coil Webring</a>
+<li><a href="http://www.geocities.com/CapeCanaveral/Hangar/6160/ccc.html">Cincinnati Coiling Club</a>
+<li><a href="http://www.classictesla.com/sitemap.html">Bart's classictesla</a>
+<li><a href="http://www.hot-streamer.com/">hot-streamer.com</a>
+<li><a href="http://users.better.org/tfritz/site/tesla_site.html">Terry F.</a>
+<li><a href="http://www.drmegavolt.com/">Dr. Megavolt</a>
+<li><a href="http://www.iki.fi/dncmrc/">Marco's coil & thesis paper</a>
+<li><a href="http://nature.juara.com/chengas123/index.htm">B. McCann's page</a>
+<li><a href="http://privat.schlund.de/s/skluge/toc.htm">Stefan's page</a>, also coiler's discussion en Deutch
+<li><a href="http://tesla.better.org">Stan's TC Info Depot</a>
+<li><a href="http://www.ResonanceResearch.com">D.C. Cox, Resonance Research</a>
+<li>Greg Leyh's <a href="http://www.lod.org">Lightning On Demand</a>
+<li><a href="http://www.achim-fendel.de">Achims High-Energie-Page</a> TC,HV,Laser (Deutsch)
+<li><a href="http://www.vortexia.com/coil/">Coil at Vortexia</a>
+<li><a href="http://fly.hiwaay.net/~park_e_r/">Adam's TC</a>
+<li><a href="http://www.netcomuk.co.uk/~wwl/electric.html">Electric Stuff</a> from Mike H.
+<li><a href="http://www.icorp.net/users/kev/tesla/">Kevin N.</a>'s page
+<li><a href="http://www.voltnet.com/">C. Brush's</a> coil
+<li><a href="http://members.aol.com/rscopper/index.htm">R. S. Coppersmith</a> page (TC design software)
+<li><a href="http://bhs.broo.k12.wv.us/homepage/alumni/dstevick/tc.htm">dstevick's</a> page
+<li><a href="http://www.rzuser.uni-heidelberg.de/~cbauman1/tesla.html">C. Baumann</a>
+<li><A href="http://timmins.vianet.on.ca/pages/clementj/">John Clement</a>
+<li><a href="http://home1.gte.net/res07cmo/hv/hv.htm">Steve Cole and others</a>
+<li><a href="http://home.sprynet.com/~halldo/teslaInd.htm">Doug Hall</A>
+<li><a href="http://www.edm.net/~jwilliams/">TeeCee's</a>
+<li><a href="http://www.ttr.com">Tesla Technology Research</a> (Bill
+Wysock)
+<li><a href="ftp://nic.funet.fi/pub/sci/electrical/tesla">"Tesla Group" FTP file archive</a> (loads of pictures!)
+<li><a href="http://www.geocities.com/ResearchTriangle/Thinktank/3319/index.html">jgore's "Tesla Coil Madness"</a>
+<li><a href="http://www.pupman.com">Chip A's coil</a>
+<li><a href="http://home.dmv.com/~tbastian/static.htm">T. Bastian Tesla papers</a>
+<li><a href="http://cator.hsc.edu/~kmd/tcbor/">TCBOR</a>, Tesla Coil Builders of Richmond
+<li><a href="http://www.apc.net/bturner/hv-page.htm">Brent Turner</a> Tesla Page
+</ul>
+
+<h2>Tesla Coil Explanations</h2>
+<ul>
+<li><a href="http://www.voltnet.com/tesla/index.html">Tesla coil animation</a>
+<li><a href="http://users.tm.net/lapointe/HowItWorks.htm">How TCs work</a>
+</ul>
+
+<a name="tlnk"></a>
+<h1>Tesla WWW links</h1>
+<ul>
+<li><a href="http://bhs.broo.k12.wv.us/homepage/chip/safety.htm">
+Tesla Coil Safety Sheet</a> from <a href="http://bhs.broo.k12.wv.us/homepage/chip/safety.htm">Chip Atkinson</a>
+<li><a href="http://www.drmegavolt.com/underpages/warning.asp">Warning Page</a> from Dr. Megavolt
+</ul>
+<ul>
+<li><a href="http://www.teslascience.org/pages/questions.htm">Tesla FAQ</a> at 
+the <a href="http://www.teslascience.org">Wardenclyffe Project</a>
+<li><a href="http://www.geocities.com/coogan23/tesla/teslachrono.html">Tesla chronology</a>
+
+<li><a href="http://www.pbs.org/tesla/">PBS:  Tesla, Master of Lightning</a>, also the 
+<a href="http://www.amazon.com/exec/obidos/ASIN/B000051SHA/sciencehobbyist/">VHS tape,</a> $14
+<ul>
+<li><a href="http://www.pbs.org/tesla/ll/">PBS: Tesla's life </a>
+<li><a href="http://www.pbs.org/tesla/ins/">PBS: Inventions </a>
+<li><a href="http://www.pbs.org/tesla/tt/">PBS: Teacher resources </a>
+<li><a href="http://www.pbs.org/tesla/dis/">PBS: Interviews </a>
+<li><a href="http://www.pbs.org/tesla/res/">PBS: Patents & articles </a>
+</ul>
+
+<li>Article at Chipcenter: Tesla, Inventor of the Century (via archive.org)
+<ul>
+<li><a href="http://web.archive.org/web/20010602083213/http://onlinetools.chipcenter.com/netsim/tesla/tesla1.html">I - Genius</a>
+<li><a href="http://web.archive.org/web/20010602083213/http://onlinetools.chipcenter.com/netsim/tesla/tesla1.html">II - Electrical Wizard</a>
+<li><a href="http://web.archive.org/web/20010602083213/http://onlinetools.chipcenter.com/netsim/tesla/tesla1.html">III - Mad Scientist</a>
+<li><a href="http://web.archive.org/web/20010602083213/http://onlinetools.chipcenter.com/netsim/tesla/tesla1.html">IV - Science Fiction</a>
+</ul>
+<li><a href="http://www.tfcbooks.com/writings/energy.htm">"The Problem of Increasing Human Energy"</a>, N. Tesla
+<li><a href="http://www.bbc.co.uk/dna/h2g2/alabaster/A486182">H2G2: Tesla; why marginalized</a>
+<li><a href="http://www.netsense.net/tesla/questions.html">A bit about Tesla's "Death Ray"</a>
+<li><a href="http://www.wired.com/news/print/0,1294,11898,00.html">WIRED: I.T.S. conference (1998)</a>
+<li><a href="http://web.archive.org/web/20010203144900/http://www.dimatt.com/">Tesla mechanical osc.</a> (earthquake machine)
+<li><a href="http://www.100megsfree4.com/farshores/wmtesla.htm">Tesla Lost Manuscript</a> (real or hoax?)
+<li><a href="http://members.aol.com/uhaumann2/plasma/eplasma.htm">Tesla coil plasma loudspeaker</a>
+<li><a href="http://www.tfcbooks.com/">21st Century Books</a>, Tesla books
+<li><a href="http://cmug.com/~minesroad/Tesla.html">Tesla History</a>, but another "tesla" altogether!
+<li><a href="http://www.hightension.org">Tesla Info Source</a>
+<li><a href="http://members.home.net/phil.hamilton/">Phil Hamilton</a> page (Tesla FBI FOIA papers)
+<li><a href="http://pages.nyu.edu/~jas4/">Wardenclyff Project</a>          
+<li><a href="http://www.yurope.com/org/tesla/index.htm">The Tesla Museum</a> (Beograd)
+<li><a href="http://www.eet.com/news/98/1016news/tesla.html">EE Times Tesla Article</a>
+<li><a href="http://www.tesla.org">International Tesla Inst.</a> JW McGinnis
+<li><a href="http://www.concentric.net/~jwwagner/">Nicola Tesla - Erased at the Smithsonian</a>
+<li><a href="http://www.parascope.com/en/1096/tesindex.htm">Parascope/Enigma: Tesla</a>
+<li><a href="http://home1.gte.net/res07cmo/hvTcba//tcba.htm">TCBA News Page</a> on <a href="http://users.deltanet.com/~stcole/hv/hv.html">Steve Cole's HV page</a>
+<li><a href="/tesla/tes2.html">TESLA NEWSLETTERS, GROUPS, MAIL ORDER BOOKS, ETC.</a>
+<li><a href="/tesla/tcba.html">TCBA</a>, the Tesla Coil Builder's Association
+<li><a href="http://www.brotherhoodoflife.com/ProGen%20TOC.html">Prodigal Genius</a>,Tesla biog., the entire book!  From <a href="http://www.brotherhoodoflife.com">BOL Books</a>
+<li><a href="http://www.davearcher.com/">Dave Archer</a> TC paintings
+<li><a href="http://www.neuronet.pitt.edu/~bogdan/tesla/">Bogdan K.</a> Tesla Page 
+<li><a href="http://www.yurope.com/org/tesla/">Tesla Museum</a> in Belgrade
+<li><a href="http://execpc.com/~teba">TESLA ENGINE BUILDERS ASSOCIATION (TEBA)</a>
+<li><a href="/tesla/tslsoc.html">Tesla Memorial Society Inc.</a>
+<li><a href="http://www.t0.or.at/tesla/teslatli.htm">Lost Inv.</a> Zer0 Tesla Page
+<li><a href="http://nic.funet.fi/pub/sci/electrical/tesla">"Tesla Group" FTP file archive</a> (loads of pictures!)
+<li><a href="/freenrg/keely.html">Keelynet</a> files on WWW/SPIRIT, tesla stuff in ENERGY section.
+
+<h3>Other related pages</h3>
+<li><a href="/tesla/ballgtn.html">Ball Lightning</a> page
+<li><a href="/amateur/elehob.html">Electronics Hobbyist</a>
+<li><a href="http://dmoz.org/Science/Technology/Electronics/High_Voltage/">DMOZ: High Voltage</a>
+<li><a href="http://www.geocities.com/CapeCanaveral/Lab/5322/hv2.html">Snock's HV page</a>
+<li><a href="http://ww1.arcsandsparks.com/webpages2/arcsandsparks/vacuumtubepage.html">PV Geissler tube catalog</a>
+<li><a href="http://www.esdjournal.com/articles/lightn.htm">Laser-triggered  Lightning</a>
+
+<li><a href="http://www.strattman.com">Luminglas</a>, flat "plasma globe" sculptures
+<li><a href="http://www.pages.drexel.edu/~lfh25/">Geissler tubes</a> (India) (WARNING, FRAUD)
+<li><a href="http://www.plasma-art.com">plasma-art.com</a>
+<li><a href="http://lynx.neu.edu/home/httpd/d/dlima/davelab.htm">Plasma Sphere</a> page
+<li><a href="http://wvlightning.com">Lightning Page</a> (w/christianity-hawking ads)
+<li>Lightning FAQ:
+<ul>
+<li><a href="http://www.nssl.noaa.gov/edu/ltg/">NOAA</a>
+<li><a href="http://www.nofc.forestry.ca/~kanderso/ltgfaq.html">Canadian Forest Serv.</a>
+<li><a href="http://www.ucar.edu/communications/infopack/lightning/faq.html">NCAR</a>
+<li><a href="http://www.lightningtech.com/intro.html">Lightning Tech</a>
+<li><a href="http://tlpinc.com/MOREINFO/lightning_faq.htm">Thompson Lightning prot.</a>
+<li><a href="http://www.lightningstorm.com/ls2/faq/index.jsp">Lightningstorm</a>
+</ul>
+
+<li><a href="http://elf.gi.alaska.edu/sprites.html">Sprites & Jets</a>
+<li><a href="http://www.strikingimages.com">Striking Images</a> archive
+<li><a href="http://www.neonshop.com/neonweb/nl/test/index.html">NEON-L</a> discussion group
+<li><a href="http://rimeice.msfc.nasa.gov:5678/skeets.html">Space SHuttle Lightning obs</a>
+<li><a href="http://www.nssl.uoknor.edu/personal/Doswell/ltgph.html">Lightning photograpy</a>
+<li><a href="http://www.ee.ualberta.ca/~charro/cookbook/">Internet Schematic Archives</a>
+<li><a href="http://fribble.cie.rpi.edu/~repairfaq/">sci.electronics FAQ</a>
+<li><a href="http://www.fys.ruu.nl/~asselber/">Halloween Hobbyists</a>
+<li><a href="/freenrg/febooks.html">Unconventional Sci. Books</a> 
+<li><a href="/freenrg/fejnls.html">Unconventional Sci. Journals</a> 
+</ul>
+
+<a name="tphot"></a>
+<h1>Coil Photos</h1>
+<ul>
+<li><a href="http://www.netcomuk.co.uk/~wwl/cdzap.html">Oven-zapped CDs</a> atop a large TC
+<li>G. Leyh's <a href="http://www.srl.org/Images/TeslaSeattle.jpg">Big coil</a> at Seattle <a href="http://www.srl.org">SRL</a> performance 
+<li><a href="http://www.mos.org/sln/toe/toe.html">Giant VandeGraaff</a> at Boston's Museum of Science
+<li><a href="http://www.mos.org/sln/toe/tesla.gif">Tesla Coil</a> at Boston's Museum of Science
+<li><a href="http://www.mos.org/sln/toe/bigtesla.gif">Another Coil</a> at MOS
+
+<h4>Links to Photos at <a href="ftp://nic.funet.fi/pub/sci/electrical/tesla">nic.funet.fi</a>, from Richard Quick:</h4>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_a800.gif">Streamers, 2.8KW, 10"dia coil, R. Quick</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_b800.gif">StreamersII, 2.8KW, 10" coil, R. Quick</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_c800.gif">Streamers, Magnifier coil, R.Quick</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_e800.gif">12 ft arc, 'Nemesis' coil, R. Hull</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_f800.gif">Magnifier, running at 2KW, R. Hull</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_g800.gif">Coil w/small sphere, corona, R. Quick</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_h800.gif">BW GIF, streamers. Coil, J. Mullins & G. Legel</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_i800.gif">10' arc, 5KW, B. Svangren</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_j800.gif">Coil detail, B. Svangren</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_k800.gif">12" streamers, 'Bargain Basement' coil, J. Hartwick</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_l800.gif">Setting up 10" dia coil, R. Quick</A> 
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/rq/rq_m800.gif">rq_m800.gif</A> 
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/bigcoil.gif">bigcoil.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/bipole2.gif">bipole2.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/chip/chip_a1.jpg">chip_a1.jpg</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/chip/chip_a2.jpg">chip_a2.jpg</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/chip/chip_a3.jpg">chip_a3.jpg</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/chip/chip_a4.jpg">chip_a4.jpg</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/chip/chip_a5.jpg">chip_a5.jpg</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/hartwck1.gif">hartwck1.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/hartwck2.gif">hartwck2.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/niagara1.gif">niagara1.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/rodney.gif">rodney.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/run_tesla.gif">run_tesla.gif</A>
+<li><A HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/sparkgp1.gif">sparkgp1.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/sparkgp2.gif">sparkgp2.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/tesla.gif">tesla.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/tesla1.gif">tesla1.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/tesla32.gif">tesla32.gif</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/tesla50.jpg">tesla50.jpg</A>
+<li><a HREF="http://nic.funet.fi/pub/sci/electrical/tesla/pictures/misc/tesladia.gif">tesladia.gif</A>
+<li><a HREF="ftp://nic.funet.fi/pub/sci/electrical/tesla/pictures/">Doc files for above pics</A> 
+
+</ul>
+
+<a name="tplan"></a>
+<h1>Coil plans, instructions, etc.</h1>
+<ul>
+<li><a href="#pln1">Links to TC plans</a>
+<li><a href="/freenrg/ideas.html#three">Lex Luthor's Kryptonite Death Beam Machine</a> and other screwy ideas
+<li><a href="/tesla/where.html">Where is the good info?</a>
+<li><a href="/tesla/sources.html">Magazines</a> with tesla coil plans
+<li><a href="/tesla/plasplan.html">PLASMA BALL</a> info, sources of plans
+<li><a href="/tesla/teslabld.exe">teslabld.exe</a> (pc dos required)
+<li><a href="/tesla/tc.txt">Some TC Builders Hints</a>
+<li><a href="/tesla/tc2.txt">Coil winding Hints</a>
+<li><a href="/tesla/diode.html">Sources of wire, HV diodes</a>
+<li><a href="/tesla/toroid2.txt">Toroid</a> hints
+<li><a href="/tesla/toroid1.txt">More Toroid</a> hints, theory
+<li><a href="/tesla/tesfet.txt">Large coil with FET drive</a>
+<li><a href="/tesla/primary.txt">TC Primaries</a>
+<li><a href="/tesla/pwres.txt">Power Resistor</a> trick
+<li><a href="/tesla/wire1.txt">Wire Gauge</a>
+<li><a href="ftp://nic.funet.fi/pub/sci/electrical/tesla">Tesla Group's FTP file directory</a>
+<li><a href="ftp://nic.funet.fi/pub/sci/electrical/tesla/00README">Tesla Group, file descriptions</a>
+</ul>
+<a name="pln1"></a>
+<h4>Links to actual TC plans elsewhere</h4>
+<ul>
+<li><a href="http://web.archive.org/web/20020126112443/http://www.eio.com/public/lasers/1104.html">Beware of "Amazing Devices", "Info. Unlimited"</a>
+<li><a href="http://www.100megsfree4.com/farshores/tesla_3.htm">Tube-type TC</a>, 1967 plans from SCI. EXPERIMENTER
+<li><a href="http://www.webring.org/cgi-bin/webring?ring=TeslaRing&list">Tesla Coil Webring</a> (lots of plans!)
+<li><a href="/tesla/teslplan.txt">Coil building instructions fm/sci.electromag newsgroup.</a>
+<li><a href="http://freeweb.pdq.net/headstrong/ind2.htm">BIZARRE STUFF</a> page now has Tesla Coil plans
+<li><a href="http://www.altair.org/tesla.htm">Plans at altair.org</a>
+<li><a href="http://tacashi.tripod.com/elctrncs/ssstc/ssstc.htm">One-transistor mini-teslacoil</a>
+<li><a href="http://www.misty.com/people/don/tesla.html">Don Klipstein's</a> TC plans
+<li><a href="http://www.misty.com/people/don/hv.html">Flyback Xfrmr Type</a> (just leave off the HV diode)
+<li><a href="http://bhs.broo.k12.wv.us/homepage/alumni/dstevick/zip/bbs.htm">TC-PLANS.ZIP</a> from <a href="
+http://bhs.broo.k12.wv.us/homepage/alumni/dstevick/tc.htm">dstevik's page</a>
+<li><a href="http://bhs.broo.k12.wv.us/homepage/alumni/dstevick/coildope.zip">dstevick's coil and schematic</a>
+<li><a href="/tesla/sstesla.gif">Tesla Group, mini coil schematic</a> (can be used for Plasma Sphere)
+<li><a href="/tesla/sstesla2.gif">Tesla Group, another coil schematic</a> 
+</ul>
+
+<a name="tcaps"></a>
+<h3>Homebrew Capacitors</h3>
+<ul>
+<li><a href="/tesla/cap3.txt">R. Quick's Capacitor</a>
+<li><a href="/tesla/cap4.txt">B. Pool's Capacitor</a>
+<li><a href="/tesla/cap.txt">TBCOR Capacitor</a>
+<li><a href="/tesla/cap2.html">D. Lima's capacitor</a>
+<li><a href="/tesla/cap1.txt">E. Schwartz' capacitor</a>
+</ul>
+
+<a name="tfiles"></a>
+<h1>Text files & other info</h1>
+<ul>
+<li><a href="#tplan">Tesla Coil Plans</a>
+<li><a href="/tesla/tesceive.html">Resonant "energy sucking" antennas</a>
+<li><a href="/tesla/tmistk.html">Tesla's big 'mistake'</a>
+<li><a href="/tesla/tradio.txt">Tesla invented radio</a>
+<li><a href="/tesla/spark.html">Sparks</a> and Lightning
+<li><a href="/tesla/biog.txt">Tesla Autobiography (.txt)</a>
+<li><a href="http://www.eskimo.com/~bilb/tesla/biog.pdf">Tesla Autobiography</a> in <a href="http://www.adobe.com/Software/Acrobat/">(Adobe .pdf)</a>
+<li><a href="/tesla/cdzap.txt">CDROM effect</a>
+<li><a href="/tesla/testrik.txt">Tricks</a> with a Tesla Coil
+<li><a href="/weird/microexp.html">Unwise Microwave Oven Experiments</a>
+<li><a href="/emotor/scifirst.html">Science First</a>, aluminum toroids
+<li><a href="/tesla/heli1.html">Plasma Sphere</a> without vacuum pump!
+<li><a href="http://lynx.neu.edu/home/httpd/d/dlima/davelab.htm">dlima's Plasma Sphere hints</a>
+<li>Cursed with <a href="/tesla/earplas.txt">hearing plasma spheres</a>
+<li><a href="/tesla/tealase.txt">Nitrogen Pulse Lasers</a>
+<li><a href="/tesla/tespc.txt">TCs in particle accelerators</a>
+<li><a href="/miscon/elect.html">Electricity Misconceptions!</a>
+<li><a href="/amateur/belljar.html">The Belljar</a>, vacuum hobbyist newsletter
+<li><a href="/tesla/jl1.txt">Jacob's Ladders</a>
+<li><a href="http://www.repairfaq.org/sam/jacobs.htm">Repairfaq: Jacob's ladders</a>
+</ul>
+
+<a name="tsupl"></a>
+<h1>Suppliers/stores</h1>
+<ul>
+<h3>Books</h3>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/B000051SHA/sciencehobbyist/">PBS VIDEO: Tesla, master of lightning</a>
+<li><a href="http://www.tfcbooks.com/">21st Century Books</a>, Tesla books
+<li><a href="http://home.sprynet.com/halldo/teslaInd.htm">Surefire Tesla Coil Cookbook</A>
+<li><a href="http://www.erols.com/teslaproj/">Tesla Project</a> 23 volume biog.
+<li><a href="http://www.brotherhoodoflife.com">B.O.L. Books</a>
+<li><a href="http://cator.hsc.edu/~kmd/tcbor/">TCBOR</a>, TC videotapes
+<li><a href="http://www.teslabook.com/books.html">Tesla Book Company</a>
+<li><a href="http://www.borderlands.com/catalog/tesla.htm">Tesla Books</a> from BSRF catalog
+</ul>
+
+<h3>Hardware, misc.</h3>
+<ul>
+<li><a href="http://www.el-dim.com/Catalog.html#High%20Voltage">Electronic Dimensions</a> custom-wound TC secondaries
+<li><a href="/emotor/scifirst.html">Science First</a>, aluminum toroids
+<li><a href="http://www.high-voltage-assoc.com">High Voltage Association</a> company & products links
+<li><a href="http://www.mgte.com/h_tesla.htm">MG Electronics</a> Tesla Stuff
+<li><a href="http://www.t-r.com">T-R</a> pole-pig transformers
+<li><a href="http://www.sdmyers.com/tstock/sales.shtml">S.D. Meyers</a> more pole-pigs
+<li><a href="http://www.pages.drexel.edu/~lfh25/">Geissler tubes</a> (India) (WARNING, FRAUD)
+<li><a href="http://www.maxwell.com">Maxwell Labs</a> HV capacitors
+<li><a href="http://www.ttr.com">Tesla Technology Research</a> (Large coils, special effects)
+<li><a href="http://www.apc.net/bturner/hv-page.htm">B. Turner's</a> High Voltage Demonstrations
+<li><a href="/supliers.html">SURPLUS SOURCES</a> & neat junk mail-order catalogs for sci/electronics hobbyists. 
+<li>Amasci <a href="/amasci.html#supl">Stores and Surplus list</a>
+<li>B. Merriman's<a href="http://www.math.ucla.edu/~barry/CF/suppliers.html">Chemical Suppliers list</a>
+<li><a href="/tesla/rqsup.txt">Transformer</a>resources from R. Quick
+<li><a href="/amateur/bllsupl.txt">Suppliers</a> list from The BellJar
+</ul>
+</strong>
+
+<hr>
+<a name="tsw"></a>
+<h1>SOFTWARE</h1>
+<ul>
+<li><a href="http://members.aol.com/rscopper/index.htm">R. S. Coppersmith</a> page (TC design software)
+<li><a href="/tesla/fieldexe.txt">TC Field calc program</a> 
+<li><a href="http://www.ee.ualberta.ca/~charro/cookbook/README.ARCHIVES">Decompressing .Z files</a>
+</ul>
+
+<br>
+<a name="keel"></a>
+The files in the list below are available from this Keelynet mirror
+site, or from the Keelynet BBS itself, phone 214-324-3501.  Any disabled 
+files below are only on Keelynet itself, and have not been uploaded to 
+ELEKTROMAGNUM as yet.
+
+<p><a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/">
+Keelynet mirror at ELEKTROMAGNUM, with excellent indexing system</a> 
+<p>Try <A HREF="http://www.newphys.se/elektromagnum/">
+Elektromagnum</A> itself, with lots of interesting stuff!
+
+<pre> 
+<a href="/tesla/teslac.zip">TESLAC.ZIP</a> U/L on 01/19/94 Desc    | Tesla Coil Design Program 
+Sz = 36864 DL = 50 Last = 08/26/94 | 
+
+<a href="ftp://ftp.funet.fi/pub/sci/electrical/tesla/misc/teslac.zip">TESLACII.EXE</a> U/L on 07/28/94 Desc  | A NEW VERSION OF TESLAC, THE TESLA COIL 
+Sz = 59904 DL = 32 Last = 09/15/94 | DESIGN PROGRAM. 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/hardy1.asc">hardy1.asc</a>  U/L on 08/01/92 Desc    | double helix energy emission from a 
+Sz = 11150 DL = 19 Last = 06/15/94 |  Tesla coil excited pyramid (see.GIF)
+ 
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/tesla2.asc">TESLA2.ASC</a> U/L on 08/29/90 Desc    | basic Tesla coil theory 
+Sz = 4943 DL = 16 Last = 07/30/94  | 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/tesla3.asc">TESLA3.ASC</a> U/L on 08/29/90 Desc    | influence of Vedic philosophy on Tesla's
+Sz = 39407 DL = 9 Last = 07/30/94  | work
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/tesla4.asc">tesla4.asc</a> U/L on 11/05/90 Desc    | the Scalar Howitzer and a good descript
+Sz = 50644 DL = 12 Last = 07/30/94 | of the Tesla wave principles
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/tesla5.asc">tesla5.asc</a> U/L on 01/13/91 Desc    | The Greatest Hacker - includes SDI info
+Sz = 26058 DL = 12 Last = 07/30/94 | and Tesla Anecdotes 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/tesla6.asc">tesla6.asc</a> U/L on 02/24/92 Desc    | Death Rays and how Tesla probably caused 
+Sz = 32610 DL = 10 Last = 06/30/94 | the Tunguska crater, good info....  
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/teslafe1.asc">teslafe1.asc</a> U/L on 02/01/93 Desc  |Article on the Tesla Power Box as used 
+Sz = 28599 DL = 10 Last = 05/19/94 | in a 1931 Packard to drive 80hp AC motor 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/energy/teslafe2.asc">teslafe2.asc</a> U/L on 02/01/93  Desc | sysop comments on Tesla Power Box with 
+Sz = 15867 DL = 6 Last = 05/19/94  | Moray comparisons 
+
+zap.asc U/L on 08/02/92 Desc       | 2.3 MV Tesla coil experiments with some 
+Sz = 10072 DL = 12 Last = 05/20/94 | anomalous observations (see .GIF's) 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/diagrams/TESLAFE1.GIF">TESLAFE1.GIF</a> U/L on 02/01/93 Desc  | shows 
+parallel version of Tesla Power 
+Sz = 9801 DL = 24 Last = 04/23/94  | Box...conceptual of course 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/diagrams/TESLAFE2.GIF">TESLAFE2.GIF</a> 
+U/L on 02/01/93 Desc  | shows SERIES version of Tesla Power 
+Sz = 7746 DL = 22 Last = 10/28/93  | Box... 
+
+<a href="http://www.newphys.se/elektromagnum/physics/KeelyNet/diagrams/Teslapic">teslapic   </a> 
+U/L on 03/18/91 Desc  | Graphics of Tesla Howitzer.  From T.E. 
+Sz = 133371 DL = 52 Last = 08/26/94 | Beardens book. IBM's only. Read me file 
+
+<hr>
+Here are three more files from Keelynet which are NOT yet on the 
+two mirror sites.  They run on PC compatibles:
+
+
+<a href="/tesla/teslabld.exe">TESLABLD.EXE</a> U/L on 06/10/93 Desc  | How to build your own Tesla coil with 
+Sz = 57435 DL = 77 Last = 08/28/94 | diagrams and parts list...very good 
+
+<a href="/tesla/teslac.zip">TESLAC.ZIP</a> U/L on 01/19/94 Desc    | Tesla Coil Design Program 
+Sz = 36864 DL = 50 Last = 08/26/94 | 
+
+<a href="/tesla/teslacol.zip">TESLACOL.ZIP</a> U/L on 11/29/92 Desc  | program to design your own coil..  
+Sz = 110638 DL = 70 Last = 09/12/94 | excellent program!  
+</pre>
+
+
+<h3>Other things here</h3>
+<ul>
+<li><font size=7><a href="/weird.html"></font><font size=1>
+<font size=7>W</font><font size=6>E</font><font size=5>I</font><font size=4>R</font><font size=3>D</font>
+<font size=7> S</font><font size=6>C</font><font size=5>I</font><font size=4>E</font><font size=3>N</font><font size=2>C</font><font size=1>E</font></font>
+<li><font size=6><a href="/amasci.html">AMATEUR SCIENCE</a></font>
+<li><font size=6><a href="/amateur/elehob.html">Electronics Hobbyist</a></font>
+<li><font size=6><a href="/scied.html">SCIENCE DEMOS</font></a> ARTICLES, EXPERIMENTS, EXHIBITS</a> - MRA, ENERGY, GRAVITY, "CRAZY" INVENTIONS
+<li><font size=6><a href="/edu.html">SCIENCE EDUCATION</a></font> RESOURCE WWW LINKS
+<li><font size=6><a href="/museum.html">SCIENCE MUSEUMS</a></font>
+<li><font size=6><a href="/home.html">HOME SCHOOLING LINKS</a></font>
+
+</ul> 
+
+<pre>
+
+
+
+
+
+
+
+</pre>
+<center>
+<a href="/tesla/tesla.html">
+/tesla/tesla.html</a><br>
+<font size=3>
+Created and maintained by <a href="/billb.html">Bill Beaty</a>.  Mail me at: <a href="/amateur/amform.html#urls">billb@eskimo.com</a>.
+<br>
+If you are using Lynx, type "c" to email.
+</center>
+</strong>
+</font>
+</body>
+</html>
+

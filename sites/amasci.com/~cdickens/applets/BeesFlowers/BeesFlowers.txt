@@ -1,0 +1,17 @@
+Bees and Flowers Experiment 
+
+ Uncle Chuck's "Bees Among The Flowers" 
+ A Java Applet, v1.0 
+
+[area blocked by bee]
+
+ G o to your fields and your gardens, and you 
+shall learn that it is the pleasure of the bee to 
+gather honey of the flower, 
+ B ut it is also the pleasure of the flower to 
+yield its honey to the bee. 
+ F or to the bee a flower is a fountain of life, 
+ A nd to the flower a bee is a messenger of love, 
+ A nd to both, bee and flower, the giving and 
+the receiving of pleasure is a need and an ecstasy. 
+ --- K ahlil G ibran

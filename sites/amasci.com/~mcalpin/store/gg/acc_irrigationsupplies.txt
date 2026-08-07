@@ -1,0 +1,332 @@
+Gardening Irrigation Supplies - Order 
+
+ >>> Category Locator 
+
+ Lighting - Seeds/Cuttings - Hydroponics Systems - Ventilation 
+
+ Trays and Reservoirs - Odour Control - CO 2 & Environment - Weather Center 
+
+ pH & EC Meters - Plant Foods & Supplements - Ready Grow Closets 
+
+ Fungus/Pest Control - Growing Media - Accessories - Growing Media 
+
+ Reverse Osmosis Water Systems - Starter Packs, Specials 
+
+ >>> Irrigation Supplies 
+
+ Tubing 
+ Barbed Connectors 
+ Barbed Reducer 
+ EBB & Flow Fitting 
+ Clic Clamps (for Tubing) 
+ Inline Valves 
+ Aeroponic Clone Spinner - 360&deg; 
+ Aeroponic Microjet Sprayers 
+ Hose Punch 
+ Dripper Stakes 
+ Float Valve 
+ Grommets 
+
+ Tubing 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708215 
+
+ 1/4" 
+ CLEAR (100 ft roll) 
+
+ $ 11.95 
+
+ 708220 
+ 1/4" BLACK (100 ft roll) 
+
+ $ 24.95 
+
+ 708225 
+ 1/2" BLUE (100 ft roll) 
+
+ $ 31.95 
+
+ 708230 
+ 1/2" WHITE - Thick Wall (100 ft roll) 
+
+ $ 39.95 
+
+ 708235 
+ 1/2" BLACK (100 ft roll) 
+
+ $ 34.95 
+
+ 708245 
+ 3/4" BLACK - Thick Wall (100 ft roll) 
+
+ $ 109.95 
+
+ 708250 
+ 3/4" WHITE - Thick Wall (100 ft roll) 
+
+ $ 129.95 
+
+ Barbed Connectors 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708080 
+ 1/4" (4mm) STRAIGHT 
+
+ $ 0.16 
+
+ 708030 
+ 1/4" (4mm) ELBOW 
+
+ $ 0.25 
+
+ 708105 
+ 1/4" (4mm) TEE 
+
+ $ 0.25 
+
+ 708085 
+ 1/2" (13mm) STRAIGHT 
+
+ $ 0.30 
+
+ 708040 
+ 1/2" (13mm) ELBOW 
+
+ $ 0.35 
+
+ 708110 
+ 1/2" (13mm) TEE 
+
+ $ 0.35 
+
+ 708095 
+ 3/4" (19mm) STRAIGHT 
+
+ $ 0.65 
+
+ 708045 
+ 3/4" (19mm) ELBOW 
+
+ $ 0.75 
+
+ 708120 
+ 3/4" (19mm) TEE 
+
+ $ 0.85 
+
+ Barbed Reducer 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708055 
+ 3/4" to 1/2" 
+
+ $ 0.70 
+
+ EBB & Flow Fittings 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708145 
+ 1/2" TUB Outlet Fitting (13mm) 
+
+ $ 5.00 
+
+ 708150 
+ 3/4" TUB Outlet Fitting (19mm) 
+
+ $ 5.50 
+
+ 708155 
+ 1" TUB Outlet Fitting (25mm) 
+
+ $ 6.00 
+
+ 708135 
+ Screen 
+
+ $ 1.00 
+
+ 708130 
+ Outlet Extension 
+
+ $ 1.25 
+
+ Clic Clamps (for tubing) 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708005 
+ 1/2" Clic Clamp 
+
+ $ 0.50 
+
+ 708010 
+ 3/4" Clic Clamp 
+
+ $ 0.80 
+
+ 708020 
+ 1" Clic Clamp 
+
+ $ 1.10 
+
+ Inline Valves 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708290 
+ 1/2" Inline Valve 
+
+ $ 2.25 
+
+ 708295 
+ 3/4" Inline Valve 
+
+ $ 2.50 
+
+ Aeroponic Clone Spinner - 360&deg; 
+
+ A rotating 360&deg; sprayer that is ideal for rooting cuttings aeroponically. The spinner comes complete with a male thread for a secure, no leak fit. 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708190 
+ 360&deg; Clone Spinner 
+
+ $ 1.75 
+
+ Aeroponic Microjet Sprayers 
+
+ Used in high output aeroponic gardening applications. 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708195 
+ 180&deg; Sprayer 
+
+ $ 0.75 
+
+ 708200 
+ 360&deg; Sprayer 
+
+ $ 0.75 
+
+ Hose Punch 
+
+ Tough enough to punch a hole in thick, flexible tubing. Makes a 1/8" hole specifically for drip lines. 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708180 
+ 1/8" Hose Punch 
+
+ $ 0.75 
+
+ Dripper Stakes 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708280 
+ Dripper Stake w/1/8" dripper line 
+
+ $ 0.70 
+
+ Float valve 
+
+ An essential part for do-it-yourselfers! This float valve assembly controls the water/nutrient solution level in your primary reservoir. Comes with 1/2" brass barbed fitting. 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708170 
+ Float Valve 
+
+ $ 14.95 
+
+ Grommets 
+
+ These grommets can be used to replace old, worn grommets in your hydroponic systems and are essential components when making a system from scratch. 
+
+ Product# 
+ Description 
+
+ Price 
+
+ 708300 
+ 1/4" (6mm) Grommet 
+
+ $ 0.60 
+
+ 708305 
+ 1/2" (13mm) Grommet 
+
+ $ 0.70 
+
+ 708310 
+ 5/8" (16mm) Grommet 
+
+ $ 0.70 
+
+ 708315 
+ 3/4" (19mm) Grommet 
+
+ $ 1.00 
+
+ 708320 
+ 1/2" (25pcs) Grommet GH 
+
+ $ 17.25 
+
+ 708325 
+ 1" (10pcs) Grommet GH (Aeroflo Chamber Sprayline) 
+
+ $ 15.90 
+
+ 708330 
+ 1-1/4" (10pcs) Grommet GH (Aeroflo Chamber Sprayline) 
+
+ $ 15.90 
+
+ What is my real order cost? 
+ Click here to convert to your currency of choice 
+
+ All prices are in US Funds 
+ we are using 128-bit secure processing technology 
+
+ Policies, item availability, and prices are subject to change without notice. The price in effect when we receive your order will be the price that you are charged. We are not responsible for any typographical errors in this catalog.

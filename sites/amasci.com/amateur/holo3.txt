@@ -1,0 +1,144 @@
+Here's why I call these images "holograms"                W. Beaty
+
+In conventional "white light" or "Benton Rainbow" holograms, each point on
+the photographed object generates a particular interference pattern on the
+film.  This interference pattern is the basic "pixel" of the hologram.  It
+looks roughly like this:
+
+    ||||||//////====----====\\\\\\||||||
+
+In reality the little lines are thousandths of a mm apart.  However, the
+entire swatch might be several mm wide, and a fraction of a mm tall.  It's
+similar to a small slice of the bullseye pattern in a Gabor zoneplate
+lens.  Points on the object become little horizontal swatches of
+interference fringes on the film.
+
+Imagine that a Rainbow hologram is made up of thousands of these "pixels" 
+layed atop each other.  The X,Y position of each "pixel" corresponds to
+the X,Y position of each object point.  For example, if you could stamp
+the above interference pattern in many places on your film, you'd have a
+rainbow hologram of a field of stars (but all of them having the same
+depth.) 
+
+The depth information for each point is encoded as the overall size of the
+"pixel" pattern:  an image-point which reconstructs as deep within the
+hologram will have a "pixel" with large width and slightly-curved fringes,
+while a shallow point will have a tiny "pixel" and small-radius fringes. 
+So a Rainbow hologram is very similar to a standard 2D photograph in
+structure, but instead of pointlike pixels, it has various sizes of
+swatches of interference fringes which store the depth info for each
+recorded point.
+
+The above crude figure implies something interesting: depth information is
+only stored in the ANGLES OF THE SMALL FRINGES, and not in their spacing. 
+If we observe a Rainbow hologram under laser light and under sunlight, we
+find that both types of light will reproduce the holographic image, but
+the sunlight causes the diffracted image of the sun to be spread into a
+stripe of rainbow colors which will be seen within the horizontal "slot"
+of each "pixel" fringe pattern.  Other than this rainbow-colored artifact,
+the holographic image is not affected by illumination frequency.  A
+rainbow hologram, within limits, is a frequency independent hologram.
+
+Frequency independence implies fringe size independence.  In other words,
+the Rainbow hologram should still operate correctly even if the fringes
+were spaced much more widely than the frequency of light.  Huh?  Really? 
+Yes.  If we double, or triple, or quadruple the fringe spacing of the
+interference pattern, THE HOLOGRAM STILL WORKS.  Very strange.  And it
+leads to something wonderful.  If the following pattern was scratched by
+hand into a sheet of plastic: 
+
+    ||||||//////====----====\\\\\\||||||
+
+...it would create a little glowing dot which floats inside the plastic.
+It would be a Rainbow Hologram "pixel", but with absolutely gigantic
+interference fringes.  They wouldn't even be interference fringes anymore,
+and optical interference would no longer apply.  Yet the hologram would
+still function.  Holography without interference.  (Pretty easy to
+generate with a computer, eh?  Hint hint!)
+
+To recap, here is what we do: we take the "pixels" of a Benton Rainbow
+hologram, square off the sinusoidal fringe pattern, increase the distance
+between the fringes by several orders of magnitude, and lower their duty
+cycle so they appear as single thin lines with wide spaces between them. 
+In terms of interference, we would find that the "rainbow" artifact would
+acquire numerous multiple-order copies of itself (produced by the square,
+nonsinusoidal fringes), and as the fringe spacing was enlarged, the
+multiple copies of the rainbow image would compress together into a
+glowing stripe of white light.  The "rainbow" would be gone, it will have
+turned white, yet the rest of the hologram still functions as it
+originally did, it still creates the same 3D scene. 
+
+The particular geometry of Benton's Rainbow holograms allows anyone to
+draw the fringe patterns by hand with a needle, and to thereby create
+holographic images without lasers and even without interference.  This can
+be taken to ridiculous lengths: giant holograms composed of curved,
+polished metal rods become practical.  The metal rods are the interference
+fringes!
+
+It is not strictly necessary that the above horizontal swatch of
+interference pattern be exactly duplicated in order to produce a hologram. 
+When the fringes have been widely separated they stop interacting, so an
+individual "fringe" can replace the multiple-fringe pattern.  A
+conventional hologram's pattern of nested hyperbolic fringes can be
+replaced with a single curved reflective fiber or surface scratch.  It
+need not even be hyperbolic, a circular scratch drawn with a compass makes
+a dandy "hologram diffraction grating." 
+
+I've been drawing holograms of simple 3D objects by scratching a polished
+plastic plate by hand with a compass.  The X,Y position of the scratches
+determines the X,Y position of the reconstructed image points, and the
+radius of each scratch determines the perceived depth of the image point.
+It's akin to needlepoint knitting, since images must be built up from
+hundreds of brightly glowing dots.  It takes quite a bit of labor to
+produce a simple image such as a piece of holographic text, or a 3D
+polyhedron.
+
+So far I've drawn such things as polyhedra, starfields, text at various
+depths, opaque planes which hide text behind them, boxes with walls
+composed of random dots, etc.  When lit with an extended source these
+"holograms" appear as sets of fine curved scratches, somewhat like several
+superposed LP record albums.  When illuminated by a point-source, each
+scratch produces a small "highlight," and the whole set of scratches
+produces a 3D object composed of bright highlight points. 
+
+See, scratch holograms ARE real holograms.  Nyaa-nyaa, tol ya so! <grin!>
+
+P.S.  
+
+  I've received email which points out that conventional holograms store
+  phase information, while "scratch holograms" do not.  This is correct. 
+  The authors then use this fact to argue that "scratch holograms" are not
+  holograms.  This is incorrect, because conventional Benton Rainbow
+  Holograms don't use phase either.  That's why they can still operate
+  under white light illumination. The spacing of their interference
+  patterns is unimportant, it only affects the colors of the rainbow
+  artifact.  If "scratch holograms" are not holograms because they do not
+  record the phase of the light waves, THEN WE ARE FORCED TO SAY THAT THE
+  RAINBOW HOLOGRAMS ON CREDIT CARDS AND ELSEWHERE ARE NOT HOLOGRAMS
+  EITHER.  Such an assertion would be silly.  Therefor I jump on the
+  coat-tails of Rainbow Holography and claim that if Rainbow Holograms are
+  holograms, then so are "scratch holograms." 
+
+  Other writers point out that "scratch holograms" are like conventional
+  photographs in that they do not preserve the phase of the illuminating
+  light source, and therefor they are not holograms.  This is incorrect. 
+  Mirrors preserve the phase of reflected light.  So do the interference
+  patterns of conventional Rainbow holograms.  So do the scratches of
+  "scratch holograms".  They preserve the spatially-horizontal phase while
+  scrambling the vertical phase.  Each scratch in a "scratch hologram"
+  acts as a tiny cylindrical mirror, and it reflects in one dimension
+  while scattering light in the other.  As a result, both rainbow
+  holograms and "scratch holograms" only have horizontal parallax, and the
+  3D effect will vanish if they are turned sideways.  Their horizontal
+  parallax depends upon their ability to preserve horizontal spatial phase
+  of the illuminating light source.  It's like looking into a curved,
+  slit-shaped mirror.  We see a virtual image of the illuminating source,
+  and since the illuminator is a point source, we see a glowing dot which
+  floats either behind or before the plastic surface.
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L

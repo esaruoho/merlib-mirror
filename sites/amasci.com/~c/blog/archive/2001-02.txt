@@ -1,0 +1,609 @@
+C.M. Connelly: Blog: Archive for February, 2001 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for February, 2001 
+
+ February 3, 2001 (Sat) 
+
+ We've been working hard on M's job applications. We're applying to
+about a zillion places, some she doesn't stand much of a chance at,
+some she should be a shoo-in for, some that are in places we'd never
+want to live (Utah; most of the American South), some that sound
+idyllic (New England) or just cool for various other reasons
+(Washington State). One thing's for sure, it's a lot of work. 
+
+ While I'm at it, I want to put in some words of praise for our utterly
+fantastic printer . This baby churns out letters, CVs, teaching
+statements, research interest statements, and even envelopes at a
+crisp, clean 1200 dpi, complete with our fancy multiple-master fonts.
+It's great. Of course it's also been discontinued, but its
+replacement is almost certainly just as good. If you do a lot of
+writing, you might want to go get yourself one. (It's good to see
+that HP still has one of the worst websites out there.) 
+
+ Needless to say, I haven't been spending a lot of time reading the
+web, or anything else, either. (I have started reading the Oxford
+University Press edition of A Tale of Two Cities 
+(Dickens). So far, I've read the end notes, and if the book's half as
+interested as the notes, it'll be great. 
+
+ Today, though, I had a chance to read a bit while I was waiting for
+ gv to show me some letters (it's very slow when it comes to
+dealing with multiple-master fonts). Anyway, Graham had a pointer to
+an article about the
+swooshtika , which was fun and interesting. (My dot.com had a
+swoosh in their logo, too!) I spent a while poking around, between
+reviewing letters, and came across an article about the
+Situationists . More to the point, about the idea of the
+ derive , which I've been fascinated by since I first read
+about it in Greil Marcus's Lipstick Traces . 
+
+ I've always practiced the derive &#8212;when
+I would get depressed, I'd walk the streets of whatever town or city I
+was in until I was either less depressed or too tired not to sleep.
+Things (usually) looked better in the morning. In the process, I
+would often be amazed by the things I came across&#8212;odd signs,
+strange happenings, bizarre juxtapositions. 
+
+ The article also talks about Archigram, an architectural movement that
+coalesced around the idea of the Instant City&#8212;cities constructed
+from modular components that could be put together for one purpose,
+then dismantled and reassembled in some other configuration for
+another activity. The best known fictional version of Archigram's
+dream city is probably the &#8220;plug-in lifestyle&#8221; described in John
+Brunner's The Shockwave Rider . 
+ via Virulent Memes 
+
+ A
+well-reasoned call for impeachment of the five members of the
+U.S. Supreme Court who acted to hand George W. Bush the election .
+(If you didn't know, the five are Scalia, Thomas, Rehnquist, O'Connor,
+and Kennedy.) Also, the
+Vincent Bugliosi article from The Nation outlining
+the case for impeachment. 
+ Via the Red Rock Eater mailing list list. 
+
+ February 5, 2001 (Mon) 
+
+ Whoo-hoo! We got almost fifty applications off in today's mail (it
+would've been 50, but we were rushing to assemble, fold, insert in the
+correct envelope, and seal, so we accidentally included two letters in
+one&#8212;luckily, I happened to choose that one to demonstrate that all
+the envelopes weighed less than the 50 g cutoff for the cheapest rate,
+and it failed). Plus around 20 by e-mail. That leaves us with
+roughly a dozen that either need additional components or some
+fine-tuning. We're getting good at this stuff, although if there's
+any justice, we'll never have to do it again! 
+
+ My brother sent me a really
+nasty, funny slam on Bush that's worth a look.
+
+ From Brian 
+
+ While we're on the topic, be sure to read Vincent Bugliosi's &#8220;None
+Dare Call it Treason&#8221; . 
+ Via the Red Rock Eater mailing list list. 
+
+ February 6, 2001 (Tue) 
+
+ So far M's heard from two schools by
+'phone. Granted, one's in Texas and one's in South Carolina, but it's
+a start. 
+
+ Meanwhile, Debian's 
+ testing distribution still appears to be broken (courtesy
+of X). A couple of days ago, when we were in the thick of things,
+ apt-get dist-upgrade -s claimed that I could upgrade
+safely. Except that I think I probably typed
+ upgrade instead of dist-upgrade . I did
+decide to do an upgrade, which was fine except that apt 
+chose to attempt an ill-informed and
+disastrous upgrade of some of the X support packages. Luckily they
+died before any real damage was done, and I reinstalled my old
+packages and set them to hold. 
+
+ I also got mail this morning telling me that my
+wishlist bug against exmh was closed
+because a new version had been uploaded. Because it won't filter down
+to testing for a couple of weeks, I decided to track it
+down with
+ lynx . While I was poking around, I checked to see if
+there was a newer version of Emacs , realized I hadn't
+looked for information on version 21 for a while, checked Google, and,
+ voila ! 
+
+ It's not officially out yet, of course, but there
+are unofficial packages, including Debian source. It wasn't compiled
+for PPC (again, of course), and it won't compile out of the box, but
+I'm getting closer... at least I'm getting different error
+messages.... 
+
+ Anyway, I managed to find some interesting screen shots and an
+article about the new release.
+
+ Via genehack 
+
+ I also came across this
+article about LinuxWorld 2001 and how all the companies that have
+jumped onto the Linux bandwagon are dragging it down. 
+
+ I got it going! It turns out that it has a
+conflict with calc , but since I never use
+ calc anyway, that was easily dealt with. Now how long
+will it be until I get annoyed enough to go back to version 20? And
+what will I do when I can't?! 
+
+ February 7, 2001 (Wed) 
+
+ More 'phone calls... 
+
+ A great site 
+keeping an eye on the media and their decidedly right-of-center
+slant. Warning: May be too depressing for some readers.
+
+ Via Pith & Vinegar 
+
+ The National
+Network (formerly The Nashville Network, hence the domain name)
+started showing Miami Vice a couple of weeks ago. I
+always liked that show, and it's kind of interesting to see it now,
+almost twenty years later, when I'm a completely different person.
+One bizarre/annoying thing about their presentation is the compression
+scheme they're using&#8212;some of the Canadian satellite networks use a
+method that results in the image becoming jerky before a dramatic
+change (cuts between scenes, mostly). TNN's compression scheme is
+less obvious, but more disturbing: So long as you aren't carefully
+watching, everything looks fine. Pay attention, though, and you'll
+notice that people's faces pulse and throb as they speak&#8212;the
+compression creates a lag that you can really see with small
+movements. 
+
+ Salon has an article
+about a new documentary about William Gibson , the man who (with
+the help of Tom Maddox) finally allowed us to stop watching The
+X-Files about halfway through the last (horrible) season.
+Gibson, it seems to me, is all about style. You don't read his stuff
+for the plots or for the science, but for the haircuts, the clothes,
+the martial arts moves. He can describe strikingly beautiful visual
+scenes&#8212;panning across Farside, a machine assembling a Cornell
+box from pieces of floating detritus&#8212;and he can get moods
+right, too&#8212;the atmosphere in the Rastafarian space station, the
+tension in a love hotel. But those ideas don't seem to translate well
+into film or television. Somehow the wonder and power of a scene that
+his words can evoke in the mind of a reader manifest as tired old
+sci-fi cliches when handed over to actors, directors, and special
+effects technicians. 
+
+ Yay! My car works again. We took it down to
+Canadian Tire after charging it for about half an hour. It started
+twice for us (M was worried about the cables getting caught in the
+engine, so insisted I turn the engine off before she disconnected the
+cables), but not in the parking lot. They tested it, and it came up
+BAD. So we got a replacement at a prorated cost (a bit more than half
+the cost of a new one), installed, and the car seems to be happy again. 
+
+ February 8, 2001 (Thu) 
+
+ It's snowing! 
+
+ Salon has a review
+of Eric Schlosser's Fast Food Nation: The Dark Side of the
+All-American Meal , which we're
+reading right now. (It was in SFU's slush pile until I thought to
+check and see if they had it, resulting in their deciding to acquire
+it after all.) Good&#8212;if scary&#8212;stuff. I've never been a huge fan
+of fast food, and this book provides me with all the ammunition I need
+to just stay away. (Made all the easier by the fact that there are no
+Carl's Jr.s north of Oregon, and thus no Western Cheeseburgers. Oh,
+yes, and my violent intestinal reactions to consuming most beef.) 
+
+ We first heard about Schlosser's book from The Atlantic
+Monthly , which printed an excerpt, &#8220;Why
+McDonald's Fries Taste So Good&#8221; , in its February, 2001, issue.
+(There's also an online-only interview, &#8220;Unhappy
+Meals&#8221; .) 
+
+ There's also an e-mail
+conversation between James Fallows and Joseph J. Ellis, author of
+ Founding Brothers: The Revolutionary Generation , which
+I've just requested from the library. I am weirdly
+fascinated with periods of history I never cared about when I was in
+grade school of late.... 
+
+ Part of it, at least, is that once M has a job, I
+have to start thinking about what I want to be doing. I could go back
+to doing systems administration, or maybe some more editing, but I'm
+really wondering about going into some historical field&#8212;either just
+working at a museum or perhaps going back to school, to do, well,
+what? Historical archaeology is always a possibility (you can bet I'd
+try to get a job at Historic
+St. Mary's City (where I spent the summer of 1989) if M got
+hired by St. Mary's College &#8212;although that
+might be a little too weird), but architectural history is also
+appealing (since it brings in my interests in architecture). Or maybe
+pure history. Or folklore. And I have occasional moments of interest
+in geology and cartography. And design. No doubt you can see why I
+didn't just go on to grad school in the first place. 
+
+ February 9, 2001 (Fri) 
+
+ Not much happening here or on the Web. I'm spending some time reading
+( Fast Food Nation ) and working on some backend scripts
+for the blog. By the time I'm through, I should be able to have
+archives and permalinks. Not sure about adding date stamping for
+individual entries, although that probably wouldn't be that hard,
+either. 
+
+ February 11, 2001 (Sun) 
+
+ Hmm. Something seems to be amiss with the new version of
+ exmh . There are a couple of pretty serious bugs open
+against it, and it seems to be the most likely suspect in crashing my
+machine. (It looks like something that was happening when it was
+trying to read a particular message&#8212;most likely to do with getting
+or checking a GPG key&#8212;led to a huge memory leak, causing
+ kswapd to run continuously, making the machine completely
+inaccessible. I've had this problem with kswapd for
+ages; although I thought it had been fixed, it seems like maybe it was
+just fixed so that the number of things that tickle the problem were
+reduced. Oh, well, back to exmh 2.2....) 
+
+ February 12, 2001 (Mon) 
+
+ Hey, look, they're at it again! Yes, big surprise, you put 'em in
+power, and they try to take your rights away. Senator Tim Hutchinson
+(R-AR) and Representative David Vitter (R-LA) have introduced
+legislation ( S.251 / H.R. 482 ) to impose severe restrictions on the use
+of mifepristone RU-486 to induce miscarriages. 
+
+ The ACLU has more
+information and a way to send faxes to your legislators. Maybe
+you could suggest that they support the Saving
+Women's Lives through International Family Planning Act of 2001 
+(HR 361, introduced by Carolyn B. Maloney (D-NY) and James
+C. Greenwood (R-PA)) instead.
+
+ Via Rebecca's Pocket . 
+
+ An article
+about Hunter Thompson and Fear and Loathing in Las
+Vegas from Los Vegas CityLife . I did a book
+review of F & L back in high school. Ah, those were
+the days....
+
+ Via Pith and Vinegar . 
+
+ Updated the t1utils package I maintain for Debian . 
+
+ Expect some breakage. In particular, the &#8220;permanent links&#8221; might
+not be. 
+
+ February 13, 2001 (Tue) 
+
+ &#8220;Don't look now, but the various recounts under way in Florida are
+determining that the wrong guy is in the White House.&#8221; So says an
+article in The Nation . Seems the recounts that have
+been underway for the last couple of months are leaning heavily in
+Gore's favor. Anyone surprised? 
+
+ Also, internal
+turf battles heat up . It's kind of scary when you have to rely on UK
+newspapers for critical information about the American government.
+
+ Via Red Rock Eater mailing list 
+
+ February 14, 2001 (Wed) 
+
+ Busy trying to skim through Dionysus: Myth and Cult so M
+can return it tomorrow, as well as staying out of M's way as much as
+possible. 
+
+ February 16, 2001 (Fri) 
+
+ Ooh, (not) big fun: upgrading to XFree86 4.0.2. Ugh. But, hey, it
+only took me a couple of hours to get X working again, not to mention
+a lot of poking around, gratuitous use of dpkg , and so
+on. And I even managed to seriously crash the machine. 
+
+ But it's running now. It *might* be more stable. I can use the
+delete key in the login box. My fonts are too damn big. And, maybe,
+just maybe, I'll never have to do it again. 
+
+ I'm also building a new tetex-bin . There are still
+several patches that aren't being applied to the Debian package. I
+wonder if I should have updated the source code to the more recent
+beta release, too.... 
+
+ February 19, 2001 (Mon) 
+
+ Apropos of nothing, here are my top four movies I'd want to own on
+DVD (that aren't available): 
+
+ Bis ans Ende Der
+Welt , AKA Until the End of the World (1991) 
+ The Adventures of
+Buckaroo Banzai Across the Eighth Dimension (1984) 
+ Home of the Brave: A Film by Laurie Anderson (1986) 
+ Animalympics 
+(1979) 
+
+ (Number five was originally True Stories 
+(1986), but it's actually available! (And, hey, I already taped it
+uncut from Bravo...) 
+
+ Ooh... As part of the XFree upgrade, I can now run xmms 
+without crashing X. Now I can see what Jaime's Gronk was meant to
+look like.... 
+
+ February 20, 2001 (Tue) 
+
+ Salon has an
+article about and an
+interview with Los Bros. Hernandez, creators of Love &
+Rockets , as well as an image gallery I can't look at (it uses
+Flash). I've always liked Jaime's stuff best, probably because his
+characters are a lot closer to me and my friends. 
+
+ February 21, 2001 (Wed) 
+
+ We're starting to see what I like to call the &#8220;Great Canadian
+Superstore Effect&#8221;. For those who don't know, the &#8220;Great Canadian
+Superstore&#8221; is a cheap and crappy Wal-Mart wannabe. 
+
+ But they hate their customers. Their prices are so low that their
+margins must be razor thin, and everyone knows that low prices attract
+poor people, and poor people, well, they're scum, aren't they?
+Certainly can't trust them not to steal you blind. So they force
+people to leave any bags they're carrying at the front of the store.
+Not check their bags, mind you, just leave them where anyone
+can take them. (Better to have those poor people steal from one
+another, they think!) 
+
+ These are also the kinds of places that give you a hard time if you
+pay by check or credit card. After all, if you're shopping there, you
+must be a loser, and probably a thief, so they have to scrutinize your
+credit card and your signature very carefully, and goddess help you if
+you try to write a check. You'd better remember your birthday,
+mother's maiden name, the name of your first family pet and maybe be
+ready to give them a DNA sample, too. 
+
+ I can only imagine what they do to their employees. 
+
+ Why anyone who doesn't desperately have to would shop at these places
+is beyond me. Why not pay a few dollars extra and be treated like a
+human being? Even when I was desperately poor, a few years ago, I
+avoided these places like the plague&#8212;the &#8220;savings&#8221; just aren't. 
+
+ Anyway, some of these schools have similar attitudes. The crappiest
+schools want transcripts all the way back to your undergrad degree.
+They want you to prove to them that you're capable of teaching their
+courses before they tell you anything. They fully expect you to
+believe that it's reasonable for you to teach three or even four
+courses a semester&#8212;every semester. And no negotiation, either.
+They want you to fill out a McApplication, even though you're applying
+to become a professor and all of that information is on your C.V. or
+in your application letter&#8212;oh, except for the bit where you assure
+them that you've never been convicted of a felony. The very worst
+ones have everything handled by human resources&#8212;perhaps they're
+afraid that having a faculty member call would result in whispered
+warnings to &#8220;get out now, while you still can!&#8221; 
+
+ The best schools, in contrast, have long since figured out that it's
+an applicant's market this year. They have someone from the
+department call and sell the department&#8212;maybe several times. They
+tell you how nice the area is, how small the class sizes are, about
+the awesome new 16-processor machine the department just got. If you
+express reservations, they try harder, stressing their pluses.
+They're willing to negotiate on teaching load and benefits. 
+
+ Sure does make the decisions a bit easier, doesn't it? 
+
+While I waited for M to finish up some slides for her talk for me to
+look at, I did a dist-upgrade , which included a new
+ lintian . I decided to check over my packages, and found
+two minor problems in two of the packages. I fixed them, and, as long
+as I was at it, I also checked the Build-Depends and made some
+changes, and updated the Standards-Version, rebuilt the packages,
+checked them again, and uploaded them to master. So there are new
+version of mminstance and thoughttracker in
+the pipe, but they don't really have any significant changes from an
+end-user perspective. On the other hand, they might actually get into
+testing now.... 
+
+ February 22, 2001 (Thu) 
+
+ Numerous telephone calls, followed by having our hair cut, followed by
+a useless visit to the mall (people wear those clothes?!) and a CN$20
+spending spree on wacky Asian snacks at T & T. Then the regular
+grocery store and home for more fun with job applications.... 
+
+ February 23, 2001 (Fri) 
+
+ A balloon came to me tonight. 
+
+ M and I had gone downtown to look for clothes for her trip. She found
+a top and a pair of gloves in Eddie Bauer, but after wandering through
+several other stores and finding nothing worth more than a laugh, we
+ended up at the Kishu restaurant on Seymour. On our way to catch a
+homeward-bound bus on Hastings, we passed an alley, and as we passed,
+a transparent purple balloon dodged across our path, heading for the
+street. Noticing a long trailing ribbon, I stepped on it and stopped
+the balloon. I don't know exactly what its message means, but it did
+have a tag reading &#8220;4&#8221;.... 
+
+ February 27, 2001 (Tue) 
+
+ According to this
+survey , I am a member of the &#8220;New
+Aquarians&#8221; tribe , meaning that I supposedly identify with people
+such as &#8220;Singer Sarah McLachlan, Author Naomi Klein, Singer/activist
+Jello Biafra, Rap-metal group Rage Against the Machine,
+Author/activist John Zerzan, Actress Sarah Michelle Gellar, and Dead
+Prez&#8221;. I mean, Jello, sure, he's cool, I'm against paying to
+advertise for corporations (let's be honest: I'm against advertising
+for corporations, period), and I like Buffy (although my
+fave character there is probably Willow), but who the hell are &#8220;Dead
+Prez&#8221; and &#8220;Rage Against the Machine&#8221;? From the pictures included
+on that page, they like two more corporate rock/rap groups designed to
+divert youth anger away from the corporate exploitation of youth
+culture. 
+
+ As is true with so many of these surveys, though, the questions and
+the choices you can make are so vague that I often have a hard time
+choosing, meaning that for many questions I end up choosing an answer
+I'm not particularly enthusiastic about. 
+
+ As for &#8220;everything changed in Seattle&#8221;, well, yeah, it did. What
+changed in Seattle is the attitudes of &#8220;democratic&#8221; governments to
+organized protests against their actions and policies and those of
+their corporate sponsors. Think I'm kidding? Take a look at the
+preparations for the Summit of the Americas in Quebec this April.
+(Which, of course, I can't find a link to, even though I watched Alexa
+McDonough (the leader of the NDP) and Svend Robinson (our local MP)
+give a press conference criticizing the suspension of rights
+associated with the conference yesterday.) 
+
+ Meanwhile, Frontline redeems itself after last week's
+pathetic (Canadian) documentary on &#8220;hackers&#8221; with &#8220;The
+Merchants of Cool&#8221; , an examination of the way that corporate
+marketers steal and twist youth culture to sell their products. The
+scariest thing about this documentary for me is the marketing execs&#8212;thirtypluses who dress half their age and live to manipulate kids.
+They remind me of my last manager. (Over forty and dressing half her
+age in Hilfiger adwear.) 
+
+ Doug Rushkoff & Co. do a wonderful job of exposing the way that
+the dominant cultural expression has become increasingly constricted
+to the offerings of a handful of transnational conglomerates that
+include television, movies, music, and books, as well as fast food,
+drink (soft and hard), clothes, and damn near everything else. The
+marketers trying to sell one of these products work with the marketers
+trying to sell the others until they've created a lifestyle feedback
+loop&#8212;what you read or see on television and in movies influences
+what you eat, drink, wear, and listen to, which in turn influences who
+you hang out with, which affects what you watch, read, and listen to,
+ad infinitum. 
+
+ Especially interesting is the way that &#8220;anti-corporate music&#8221; is
+absorbed, its energies redirected to &#8220;safe&#8221; targets (gays,
+intellectuals), and sold back to the same kids who think they're so
+individualistic for liking those bands. (Particularly sad is the way
+that the &#8220;rebel&#8221; kids are already so much like their more sheeplike
+peers in the way that they adopt a uniform look and attitude that's
+ever so easy to coopt.)
+
+ Via /usr/bin/girl .
+Also, thanks to Rebecca's
+Pocket , which included a link to the Frontline site
+for &#8220;The Merchants of Cool&#8221;. 
+
+ M. is back safe after her adventure in Oregon. We both survived a two
+day separation&#8212;next week, the real trial begins.... :-\ 
+
+ February 28, 2001 (Wed) 
+
+ Wow. We just had an earthquake! That makes the first one I've
+actually felt, including the one in San Francisco when I was talking
+in a meeting and everyone else stopped paying attention to me and then
+started estimating its strength. 
+
+ Weird feeling&#8212;I was in bed, going through the notes at the end of
+ Founding Brothers , when I felt the bed jiggle a bit. I
+first wondered if I had somehow pinched a nerve and gotten my leg
+muscles to shake, then heard a rattle and wondered if it might not be
+me after all, then glanced up to see the ceiling lamp swaying back and
+forth. (In my defense, I was staying out of M's way while she was
+talking to a school on the east coast&#8212;ordinarily I am a wonder of
+productivity. ;) ) 
+
+ More
+information! Turns out that the earthquake was a 4.7 magnitude one
+(about the strength of the one I missed in the meeting). Its
+epicenter was near Olympia, Washington (the capital, just south of
+Seattle). 
+
+ If you felt it, you can report your
+experience to the Pacific Geoscience Center of Natural Resources
+Canada (in Sidney, BC). (Assuming their server stays up long
+enough, that is....) 
+
+So, in the few minutes it took me to assemble the last entry, they've
+reappraised, and now the strength of the earthquake is up to 6.2, and
+they're reporting some damage in the Puget Sound area and Langley, BC. 
+
+ Canadian estimate is up to 6.8. My relatives in Seattle are safe and
+sound, although J's office building was damaged. 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ February, 2001 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+ 4 
+
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+
+ 26 
+ 27 
+ 28 
+
+ More Archives... 
+ March, 2004 
+ February, 2004 
+ January, 2004 
+ December, 2003 
+ November, 2003 
+ October, 2003 
+ more... 
+
+ Copyright &copy; 1998&#8211;2004, C.M. Connelly. 
+
+This work is licensed under a Creative Commons License .
+
+ Last modified at 4:53 PM PST, Wednesday, March 3, 2004; last rendered at 
+ 4:53 PM PST, Wednesday, March 3, 2004 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

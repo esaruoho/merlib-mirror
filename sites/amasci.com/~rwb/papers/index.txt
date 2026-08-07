@@ -1,0 +1,74 @@
+Publications of Richard Bean 
+
+PhD thesis: Critical sets in Latin squares and associated structures 
+ Richard Bean 
+ abstract 
+
+Closing a gap in the spectrum of critical sets 
+ Richard Bean and Diane
+Donovan 
+ abstract 
+
+A new bound on the size of the largest critical set in a Latin square
+ (arXiv) 
+
+ Richard Bean and E.
+S. Mahmoodian 
+ abstract 
+
+Steiner trades that give rise to completably decomposable Latin interchanges 
+ Richard Bean, Diane
+Donovan, Abdollah Khodkar, 
+and Anne Penfold Street 
+ abstract 
+
+ A census of critical sets in Latin squares of order at most six 
+ Peter Adams, Richard
+Bean, and Abdollah Khodkar 
+ abstract 
+
+ Disjoint critical sets in Latin squares 
+ Peter Adams, Richard
+Bean, and Abdollah Khodkar 
+ abstract 
+
+ Critical sets in the elementary abelian 2- and 3- groups 
+ Richard
+Bean 
+ abstract 
+
+ The size of the smallest uniquely completable set in order 8 Latin squares 
+ Richard
+Bean 
+ abstract 
+
+ A Mixture Model-Based Approach to the Clustering of Microarray Expression Data (DBLP) 
+
+ G. J. McLachlan, D.
+Peel and R. Bean 
+ abstract 
+
+Modelling high-dimensional data by mixtures of factor analyzers 
+ G. J. McLachlan, D.
+Peel and R. Bean 
+ abstract 
+
+ Technical Reports 
+
+ Some recent methods in clustering microarray gene expression data and applications 
+ K. Do, G. J. McLachlan, R. Bean, and S. Wen 
+ abstract 
+
+ A comparison of two methods of clustering gene microarray data 
+ K. Do, G. J. McLachlan, R. Bean, and S. Wen 
+ abstract 
+
+ Recreational Mathematics 
+
+ Counting nodes in chess 
+ Richard Bean 
+ abstract 
+
+Richard Bean, rwb AT eskimo DOT com
+
+ Free counter

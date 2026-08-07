@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>APAS Anonymous Remailer Use [FAQ 8/8]: Troubleshooting</title>
+</head>
+<body>
+<!-- TOP LINK BEGIN -->
+<a href="./">Up: APAS Anonymous Remailer Use [FAQ]</a>
+<br>
+<a href="./faq.7.html">Previous: APAS Anonymous Remailer Use [FAQ 7/8]: Nyms</a>
+<hr>
+<!-- TOP LINK END -->
+<h1>APAS Anonymous Remailer Use [FAQ 8/8]: Troubleshooting</h1>
+<ul>
+<li><a href="#0">Introduction</a>
+<li><a href="#1">[FAQ 8.1] It's hours later! Why hasn't my test post arrived?</a>
+<li><a href="#2">[FAQ 8.2] Why didn't my email/post make it through?</a>
+</ul>
+<a name="0"><hr></a>
+<pre>
+Subject: APAS Anonymous Remailer Use [FAQ 8/8]: Troubleshooting
+
+This is the eight and final part of a list of frequently-asked
+questions and their answers regarding anonymous remailer use.  This
+part discusses troubleshooting.
+
+This FAQ is provided "as is" without any express or implied
+warranties.  While every effort has been taken to ensure the accuracy
+of the information contained in these message digests, the maintainer
+assumes no responsibility for errors or omissions, or for damages
+resulting from the use of the information contained herein.  This FAQ
+is provided for information only; reference to a Web page does not
+constitute endorsement of that page's content.
+</pre>
+<a name="1"><hr></a>
+<pre>
+Subject: [FAQ 8.1] It's hours later! Why hasn't my test post arrived?
+
+While it is true that remailer traffic is sometimes unreliable one
+must realize that a remailer isn't just a mail server. Mail must not
+only be delivered but it must be delivered securely and anonymously.
+Latency (delay before delivery) is part of the anonymizing process
+like it or not.
+
+For starters, every remailer has some existing latency (depending on
+numerous factors including load, processor power, type of Internet
+connection, etc...) Users can specify a latency directive
+(Latent-Time: +0:00) to override the normal built in latency of the
+remailers. Users may also add MORE delay to their messages if they
+wish by adding, for example, Latent-Time: +2:30. This would cause an
+additional 2 hr and 30 min delay before delivery.
+
+Also, many remailers use features like reordering ('reord' in the cap
+string) and RATE/POOLSIZE which may delay messages even further , all
+in the name of defeating traffic analysis and increasing anonymity.
+
+Still, there are other reasons why your email or post might be
+unnaturally delayed:
+
++ Your message may in fact have been posted to Usenet but either
+hasn't arrived at your news server yet, or might not arrive for any
+number of possible Usenet related problems. Usenet propagation is not
+instantaneous. Poorly connected servers can take days to receive
+messages, if they get them at all. You might check on the Deja
+archives [<a href="http://www.deja.com/usenet">http://www.deja.com/usenet</a>] and see if they got the post, or
+try another server if you have access to one.
+
++ You may have chosen a remailer that is not online full time (dial-up
+account). These remailers may collect mail once an hour, once a day or
+perhaps only in the evening hours.
+</pre>
+<a name="2"><hr></a>
+<pre>
+Subject: [FAQ 8.2] Why didn't my email/post make it through?
+
++ Your message may have just been lost in the network for any number
+of reasons. It does happen. The system isn't 100% reliable.
+
++ You are using broken chains or stale remailer keys.
+
++ Your source address or domain is being blocked by the first remailer
+in your chain.
+
++ Your destination address, domain, or newsgroup is being blocked by
+the last remailer in your chain.
+
++ The Usenet group you are posting to is not available on the news
+server or gateway being used by the last remailer in your chain.
+
++ You are trying to crosspost to too many newsgroups and the final
+remailer in your chain discarded the message. Send a blank email to
+the remailer with 'remailer-conf' as the subject to determine how many
+newsgroups the remailer allows you to cross-post to. Spammers abuse
+the cross posting option so operators are cutting back to 3 or 4 cross
+posts to deter the spammers.
+
++ You have too many addresses in the To, Cc, or Bcc headers and the
+final remailer in your chain discarded the message.
+
++ You attempted to send an anonymous message to a nym that is
+configured to either reject Bcc messages (directive +nobcc) or not
+accept any mail at all.
+
++ Your e-mail recipient is filtering out messages from anonymous
+remailers.
+
++ You are simply having a bad day. 'Better luck tomorrow!
+
+RProcess, the author of JBN2 and the Reliable Remailer, has
+systematically examined why so many anon messages seem to disappear.
+His conclusions [<a href="http://www.bigfoot.com/~potatoware/PSKB-035.html">http://www.bigfoot.com/~potatoware/PSKB-035.html</a>] are
+quite provocative.
+</pre>
+<!-- BOTTOM LINK BEGIN -->
+<hr>
+<a href="./">Up: APAS Anonymous Remailer Use [FAQ]</a>
+<br>
+<a href="./faq.7.html">Previous: APAS Anonymous Remailer Use [FAQ 7/8]: Nyms</a>
+<!-- BOTTOM LINK END -->
+<hr>
+<address>
+Computer Cryptology &lt;<a href="mailto:turing@eskimo.com">turing@eskimo.com</a>&gt;<br>
+Generated by <a href="http://www-viz.tamu.edu/~sgi-faq/tools/">digest2html.pl</a>, 2001-12-02
+</address>
+</body>
+</html>

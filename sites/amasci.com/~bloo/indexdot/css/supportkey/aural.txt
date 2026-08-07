@@ -1,0 +1,609 @@
+CSS specification/browser support page: Aural Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ volume 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ silent 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Absolute scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Number] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ stress 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Number] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ richness 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Number] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ azimuth 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Absolute scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Relative scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Angle] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ elevation 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Absolute scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Relative scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Angle] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ voice-family 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ male|female|child 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Specific voice] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ speak 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ spell-out 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ speak-punctuation 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ code 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ speak-numeral 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ digits 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ continuous 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ pitch 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Absolute scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Frequency] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ pitch-range 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Number] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ speech-rate 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Absolute scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Relative scale] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Number] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ play-during 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ mix 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ repeat 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [URL] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ pause 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Time] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ pause-before 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Time] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ pause-after 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Time] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ cue 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [URL] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ cue-before 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [URL] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ cue-after 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ none 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ [URL] 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ Boring Copyright Stuff...

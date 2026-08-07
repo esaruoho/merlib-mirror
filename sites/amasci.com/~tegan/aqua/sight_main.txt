@@ -1,0 +1,1390 @@
+Gradings:
+
+Grade 1 - Character is the Main Character of the book, he's on the cover or he's the drive of the plot, 
+            or shares the story with only one other character.
+       -----examples: Any Aquaman title, Adventure comics with Aquaman as the lead in a story, Team-ups 
+            in Brave and the Bold
+Grade 2 - Character is a major part of the plot, is part of a team in the plot, or is a guest in another
+            character's book.
+       -----examples: Aquaman's Justice League appearances, Flash #66
+Grade 3 - Character makes an appearance in the book that helps to move the plot along, usually must 
+            say a few lines.
+       -----examples: Kingdom Come #2, some Justice League issues
+Grade 4 - Character makes a cameo appearance, says something and is more than one panel.
+       -----examples: Guy Gardener #29, Zero Hour Crisis in Time #3
+          NOTE: The difference between Grade Three and Grade Four is plot.  If you remove a Grade Four 
+            appearance, the plot will not change, but if you remove a Grade Three appearance something must 
+            replace the missing piece.
+Grade 5 - Character appears: in background, on the cover, in a panel or a few.
+       -----examples: The Golden Age TPB
+Grade 6 - Character is mentioned but does not appear, or book has major effect on the Character in 
+            specific 
+       -----for instance: Superman's Death had a major effect on most DC heroes, I'd wager, but not on 
+            most heroes in specific.  Atlantis Chronicles has a major effect on Aquaman, specifically, 
+            even though he's not in most of them).  I will not make an effort to list Grade Six sightings, 
+            but if I know about them, I'll put them in.
+Grade R - Reprint.  See the original for more information.
+Grade ? - Unconfirmed (and updated) by me.
+
+---------------------------------------------------------------------------
+Aquaman Sightings
+---------------------------------------------------------------------------
+
+80 Page Giant Magazine
+8	Mar-65	G=R	Reprints Adventure #260 (May 59)
+
+100-Page Super Spectacular
+DC-8	Jan-72	G=R	Reprints Adventure #276 (Sep-60)
+DC-15	Mar-73	G=R	Reprints Adventure #270 (Mar-60)
+
+Action Comics
+272	Jan-61	G=1	"Superman's Rival, Mental Man", Superman & Aquaman team-up (with Aqualad)
+314	Jul-64	G=?	JLA
+366	Aug-68	G=?	
+404	Sep-71	G=R	Reprints Adventure #220 (Jan-56)
+405	Oct-71	G=R	Reprints Adventure Comics #206 (Nov-54)
+443	Jan-75	G=?	JLA, 100 pg special
+480	Feb-78	G=?	JLA
+482	Apr-78	G=?	
+517	Mar-81	G=1	
+518	Apr-81	G=1	
+519	May-81	G=1	
+520	Jun-81	G=1	
+521	Jul-81	G=1	
+527	Jan-82	G=1	
+528	Feb-82	G=1	
+529	Mar-82	G=1	
+530	Apr-82	G=1	
+531	May-82	G=6	Aquaman is only mentioned, in wrap-up to previous adventure
+535	Sep-82	G=?	
+536	Oct-82	G=1	
+537	Nov-82	G=1	
+538	Dec-82	G=1	
+539	Jan-83	G=1	
+540	Feb-83	G=1	
+541	Mar-83	G=?	
+546	Aug-83	G=?	JLA
+650	Feb-90	G=?	
+675	Mar-92	G=2	Panic in the Sky
+
+Adventure Comics
+103	Apr-46	G=1
+104	May-46	G=1
+105	Jun-46	G=1
+106	Jul-46	G=1
+107	Aug-46	G=1
+108	Sep-46	G=1
+109	Oct-46	G=1
+110	Nov-46	G=1
+111	Dec-46	G=1
+112	Jan-47	G=1
+113	Feb-47	G=1
+114	Mar-47	G=1
+115	Apr-47	G=1
+116	May-47	G=1
+117	Jun-47	G=1
+119	Aug-47	G=1
+120	Sep-47	G=1
+121	Oct-47	G=1
+122	Nov-47	G=1
+123	Dec-47	G=1
+124	Jan-48	G=1
+125	Feb-48	G=1
+126	Mar-48	G=1
+127	Apr-48	G=1
+128	May-48	G=1
+129	Jun-48	G=1
+130	Jul-48	G=1
+131	Aug-48	G=1
+132	Sep-48	G=1
+133	Oct-48	G=1
+134	Nov-48	G=1
+135	Dec-48	G=1
+136	Jan-49	G=1
+137	Feb-49	G=1
+138	Mar-49	G=1
+139	Apr-49	G=1
+140	May-49	G=1
+141	Jun-49	G=1
+142	Jul-49	G=1
+143	Aug-49	G=1
+144	Sep-49	G=1
+145	Oct-49	G=1
+146	Nov-49	G=1
+147	Dec-49	G=1
+148	Jan-50	G=1
+149	Feb-50	G=1
+150	Mar-50	G=1
+151	Apr-50	G=1
+152	May-50	G=1
+154	Jul-50	G=1
+156	Sep-50	G=1
+158	Nov-50	G=1
+160	Jan-51	G=1
+162	Mar-51	G=1
+164	May-51	G=1
+167	Aug-51	G=1
+168	Sep-51	G=1
+170	Nov-51	G=1
+171	Dec-51	G=1
+172	Jan-52	G=1
+173	Feb-52	G=1
+174	Mar-52	G=1
+175	Apr-52	G=1
+178	Jul-52	G=1
+179	Aug-52	G=1
+180	Sep-52	G=1
+181	Oct-52	G=1
+182	Nov-52	G=1
+183	Dec-52	G=1
+184	Jan-53	G=1
+185	Feb-53	G=1
+186	Mar-53	G=1
+187	Apr-53	G=1
+188	May-53	G=1
+189	Jun-53	G=1
+190	Jul-53	G=1
+191	Aug-53	G=1
+192	Sep-53	G=1
+193	Oct-53	G=1
+194	Nov-53	G=1
+195	Dec-53	G=1
+196	Jan-54	G=1
+197	Feb-54	G=1
+198	Mar-54	G=1
+199	Apr-54	G=1
+200	May-54	G=1
+201	Jun-54	G=1
+202	Jul-54	G=1
+203	Aug-54	G=1	[Reprint: Super-DC Giant #S26 (Aug-71)]
+204	Sep-54	G=1
+205	Oct-54	G=1
+206	Nov-54	G=1	[Reprint: Action #405 (Oct-71)]
+208	Jan-55	G=1
+209	Feb-55	G=1
+210	Mar-55	G=1
+211	Apr-55	G=1
+212	May-55	G=1
+213	Jun-55	G=1
+214	Jul-55	G=1
+215	Aug-55	G=1
+216	Sep-55	G=1
+217	Oct-55	G=1
+218	Nov-55	G=1
+219	Dec-55	G=1	
+220	Jan-56	G=1	[Reprint: Action #404 (Sep-71)]
+221	Feb-56	G=1	
+222	Mar-56	G=1	
+223	Apr-56	G=1	[Reprint: World's Finest #223 (May-74)]
+224	May-56	G=1	
+225	Jun-56	G=1	
+226	Jul-56	G=1	
+227	Aug-56	G=1	
+228	Sep-56	G=1	
+229	Oct-56	G=1	
+230	Nov-56	G=1	
+231	Dec-56	G=1	
+232	Jan-57	G=1	
+233	Feb-57	G=1	
+234	Mar-57	G=1	
+235	Apr-57	G=1	
+236	May-57	G=1	
+237	Jun-57	G=1	
+238	Jul-57	G=1	
+239	Aug-57	G=1	
+240	Sep-57	G=1	
+241	Oct-57	G=1	
+242	Nov-57	G=1	
+243	Dec-57	G=1	
+244	Jan-58	G=1	
+245	Feb-58	G=1	[Reprint: World's Finest #230 (Jun-75), Greatest Fifties Stories Ever Told (1990)]
+246	Mar-58	G=1	
+247	Apr-58	G=1	[Reprint: DC Silver Age Classics (1992)]
+248	May-58	G=1	
+249	Jun-58	G=1	
+250	Jul-58	G=1	
+251	Aug-58	G=1	[Reprint: Super DC-Giant #S-26 (Aug-71)]
+252	Sep-58	G=1	
+253	Oct-58	G=1	
+254	Nov-58	G=1	
+255	Dec-58	G=1	
+256	Jan-59	G=1	
+257	Feb-59	G=1	
+258	Mar-59	G=1	
+259	Apr-59	G=1	
+260	May-59	G=1	[Reprint: 80-Page Giant Magazine #8 (Mar-65), DC Special Series #19 (Fal-79), Aquaman #48 (Dec-69)]
+261	Jun-59	G=1	
+262	Jul-59	G=1	
+263	Aug-59	G=1	
+264	Sep-59	G=1	
+265	Oct-59	G=1	
+266	Nov-59	G=1	[Reprint: Super DC-Giant #S-26 (Aug-71)]
+267	Dec-59	G=1	[Reprint: Super-Team Family #3 (Feb-76), Greatest Team-Up Stories Ever Told (1989)]
+268	Jan-60	G=1	
+269	Feb-60	G=1	[Reprint: Showcase #79 (Dec-68), DC Special Blue Ribbon Digest #9 (May-81)]
+270	Mar-60	G=1	[Reprint: 100-Page Super Spectacular #DC-15 (Mar-73)]
+271	Apr-60	G=1	
+272	May-60	G=1	[Reprint: Super DC-Giant #S-26 (Aug-71)]
+273	Jun-60	G=1	
+274	Jul-60	G=1	
+275	Aug-60	G=1	
+276	Sep-60	G=1	[Reprint: 100-Page Super Spectaculer #DC-8 (Jan-72)]
+277	Oct-60	G=1	
+278	Nov-60	G=1	[Reprint: Teen Titans #38 (Mar-72)]
+279	Dec-60	G=1	
+280	Jan-61	G=1	
+282	Mar-61	G=1	
+284	May-61	G=1	[Reprint: Brave and the Bold #114 (Sep-74)]
+423	Sep-72	G=?	
+435	Oct-74	G=1	Cover: Wierd Adventure Comics
+436	Dec-74	G=1	Cover: Wierd Adventure Comics
+437	Feb-75	G=1	Cover: Wierd Adventure Comics
+441	Oct-75	G=1	
+442	Dec-75	G=1	
+443	Feb-76	G=1	
+444	Apr-76	G=1	
+445	Jun-76	G=1	
+446	Aug-76	G=1	
+447	Oct-76	G=1	
+448	Dec-76	G=1	
+449	Feb-77	G=1	
+450	Apr-77	G=1	
+451	Jun-77	G=1	
+452	Aug-77	G=1	
+453	Oct-77	G=6	Aqualad
+454	Dec-77	G=6	Aqualad
+455	Feb-78	G=6	Aqualad
+460	Nov-78	G=1	
+461	Jan-79	G=1	
+462	Mar-79	G=1	
+463	May-79	G=1	
+464	Jul-79	G=1	
+465	Sep-79	G=1	
+466	Nov-79	G=1	
+475	Sep-80	G=1	
+476	Oct-80	G=1	
+477	Nov-80	G=1	
+478	Dec-80	G=1	
+491	Sep-82	G=R	Digest, Reprints Aquaman #40 (Aug-68)
+492	Oct-82	G=R	Digest, Reprints Aquaman #41 (Oct-68)
+493	Nov-82	G=R	Digest, Reprints Aquaman #42 (Dec-68)
+494	Dec-82	G=R	Digest, Reprints Aquaman #43 (Feb-69)
+495	Jan-83	G=R	Digest, Reprints Aquaman #44 (Apr-69)
+496	Feb-83	G=R	Digest, Reprints Aquaman #45 (Jun-69)
+497	Mar-83	G=R	Digest, Reprints Aquaman #46 (Aug-69)
+498	Apr-83	G=R	Digest, Reprints Aquaman #47 (Oct-69)
+499	May-83	G=R	Digest, Reprints Aquaman #48 (Dec-69)
+501	Jul-83	G=R	Digest, Reprints Aquaman #49 (Feb-70)
+502	Aug-83	G=R	Digest, Reprints Aquaman #50 (Apr-70)
+503	Sep-83	G=R	Digest, Reprints Aquaman #51 (Jun-70) and #52 (Aug-70)
+
+Adventures in the DC Universe
+6	Sep-97	G=?	"Family Matters"
+
+Adventures of Bob Hope
+94	Sep-65	G=4	One panel cameo
+
+Adventures of Superman
+442	Jul-88	G=?	
+488	Mar-92	G=2	Panic in the Sky
+489	Apr-92	G=5	Panic in the Sky
+557	May-98	G=?
+Ann 4	1992	G=?	
+
+The All-New Super Friends Hour
+X	1977	G=2	TV Series
+
+All-Star Squadron
+14	Oct-82	G=?	JLA
+15	Nov-82	G=?	JLA
+59	Jul-86	G=4	Earth-Two Aquaman, "Out of the Ashes... Mechanique"
+
+Aquaman (1) (First Solo Series)
+1	Feb-62	G=1	
+2	Apr-62	G=1	
+3	Jun-62	G=1	
+4	Aug-62	G=1	
+5	Oct-62	G=1	
+6	Dec-62	G=1	
+7	Feb-63	G=1	
+8	Apr-63	G=1	
+9	Jun-63	G=1	
+10	Aug-63	G=1	
+11	Oct-63	G=1	Mera's First App
+12	Dec-63	G=1	[Reprint: World's Finest #228 (Mar-75)]
+13	Feb-64	G=1	
+14	Apr-64	G=1	
+15	Jun-64	G=1	
+16	Aug-64	G=1	
+17	Oct-64	G=1	
+18	Dec-64	G=1	Aquaman's Wedding (JLA)
+19	Feb-65	G=1	
+20	Apr-65	G=1	
+21	Jun-65	G=1	
+22	Aug-65	G=1	
+23	Oct-65	G=1	Aquababy Born
+24	Dec-65	G=1	
+25	Feb-66	G=1	
+26	Apr-66	G=1	
+27	Jun-66	G=1	
+28	Aug-66	G=1	
+29	Oct-66	G=1	Orm (Ocean Master) First App, [Reprint: Best of DC #10 (Mar-81)]
+30	Dec-66	G=1	
+31	Feb-67	G=1	
+32	Apr-67	G=1	
+33	Jun-67	G=1	Aquagirl (2) First App [Tula]
+34	Aug-67	G=1	
+35	Oct-67	G=1	[Reprint: DC Super-Stars #7 (Sep-76)]
+36	Dec-67	G=1	
+37	Feb-68	G=1	
+38	Apr-68	G=1	
+39	Jun-68	G=1	
+40	Aug-68	G=1	[Reprint: Adventure #491 (Sep-82)]
+41	Oct-68	G=1	[Reprint: Adventure #492 (Oct-82)]
+42	Dec-68	G=1	[Reprint: Adventure #493 (Nov-82)]
+43	Feb-69	G=1	[Reprint: Adventure #494 (Dec-82)]
+44	Apr-69	G=1	[Reprint: Adventure #495 (Jan-83)]
+45	Jun-69	G=1	[Reprint: Adventure #496 (Feb-83)]
+46	Aug-69	G=1	[Reprint: Adventure #497 (Mar-83)]
+47	Oct-69	G=1	[Reprint: Adventure #498 (Apr-83)]
+48	Dec-69	G=1	[Reprint: Adventure #499 (May-83)], Reprints Adventure #260 (May-59)
+49	Feb-70	G=1	[Reprint: Adventure #501 (Jul-83)]
+50	Apr-70	G=1	[Reprint: Adventure #502 (Aug-83)]
+51	Jun-70	G=1	[Reprint: Adventure #503 (Sep-83)]
+52	Aug-70	G=1	[Reprint: Adventure #503 (Sep-83)]
+53	Oct-70	G=1	
+54	Dec-70	G=1	
+55	Feb-71	G=1	
+56	Apr-71	G=1	
+
+Aquaman Series (Filmation)
+X	1966	G=1	TV Series
+
+Aquaman (1) (Continuation of First Series numbering)
+57	Sep-77	G=1	
+58	Nov-77	G=1	
+59	Jan-78	G=1	
+60	Mar-78	G=1	
+61	May-78	G=1	
+62	Jul-78	G=1	
+63	Sep-78	G=1	
+
+Aquaman Mini (1) [Blue costume] 1986
+1	Feb-86	G=1	
+2	Mar-86	G=1	
+3	Apr-86	G=1	
+4	May-86	G=1	
+
+Aquaman Special: The Missing Peace 1988
+1	1988	G=1	
+
+Aquaman Special: Legend of Aquaman 1989
+1	1989	G=1	New Aquaman Origin
+
+Aquaman Mini (2) 1989
+1	Jun-89	G=1	
+2	Jul-89	G=1	
+3	Aug-89	G=1	
+4	Sep-89	G=1	
+5	Oct-89	G=1	
+
+Aquaman (2)
+1	Dec-91	G=1	
+2	Jan-92	G=1	
+3	Feb-92	G=1	
+4	Mar-92	G=1	
+5	Apr-92	G=1	
+6	May-92	G=1	
+7	Jun-92	G=1	
+8	Jul-92	G=1	
+9	Aug-92	G=1	
+10	Sep-92	G=1	
+11	Oct-92	G=1	
+12	Nov-92	G=1	
+13	Dec-92	G=1	
+
+Aquaman Mini (3) Time and Tide 1993
+1	Dec-93	G=1	Flash guests
+2	Jan-94	G=1	
+3	Feb-94	G=1	
+4	Mar-94	G=1	
+TPB	1996	G=1	
+
+Aquaman (3)
+1	Aug-94	G=1	
+2	Sep-94	G=1	Aquaman loses hand
+0	Oct-94	G=1	
+3	Nov-94	G=1	Superboy guests
+4	Dec-94	G=1	Lobo guests
+5	Jan-95	G=1	
+6	Feb-95	G=1	
+7	Mar-95	G=1	
+8	Apr-95	G=1	
+9	Jun-95	G=1	
+10	Jul-95	G=1	Green Lantern (Kyle) guests
+11	Aug-95	G=1	
+12	Sep-95	G=1	
+13	Oct-95	G=1	
+14	Nov-95	G=1	Underworld Unleashed
+15	Dec-95	G=1	
+16	Jan-96	G=1	Justice League guests
+17	Feb-96	G=1	
+18	Mar-96	G=1	
+19	Apr-96	G=1	
+20	May-96	G=1	
+21	Jun-96	G=1	
+22	Jul-96	G=1	
+23	Aug-96	G=1	Undersea Heroes
+24	Sep-96	G=1	Undersea Heroes
+25	Oct-96	G=1	Undersea Heroes
+26	Nov-96	G=1	Final Night
+27	Dec-96	G=1	
+28	Jan-97	G=1	Martian Manhunter guests
+29	Feb-97	G=1	
+30	Mar-97	G=1	
+31	Apr-97	G=1	The Shark App
+32	May-97	G=1	Swamp Thing guests
+33	Jun-97	G=1	
+34	Jul-97	G=1	
+35	Aug-97	G=1	Animal Man guests
+36	Sep-97	G=1	
+37	Oct-97	G=1	
+38	Nov-97	G=1	
+39	Dec-97	G=1	
+40	Jan-98	G=1
+41	Feb-98	G=1
+42	Mar-98	G=1
+43	Apr-98	G=1
+44	May-98	G=1
+45	Jun-98	G=1
+46	Jul-98	G=1
+47	Aug-98	G=1
+48	Sep-98	G=1
+49	Oct-98	G=1
+1000000	Nov-98	G=1
+50	Dec-98	G=1
+51	Jan-99	G=1
+52	Feb-99	G=1
+53	Mar-99	G=1
+54	Apr-99	G=1
+55	May-99	G=1
+56	Jun-99	G=1
+57	Jul-99	G=1
+58	Aug-99	G=1
+59	Sep-99	G=1
+60	Oct-99	G=1
+61	Nov-99	G=1
+62	Dec-99	G=1
+63	Jan-00	G=1
+64	Feb-00	G=1
+65	Mar-00	G=1
+66	Apr-00	G=1
+67	May-00	G=1
+68	Jun-00	G=1
+69	Jul-00	G=1
+70	Aug-00	G=1
+71	Sep-00	G=1
+72	Oct-00	G=1
+73	Nov-00	G=1
+74	Dec-00	G=1
+75	Jan-01	G=1
+
+Aquaman Annual
+1	1995	G=1	Year One Annual [In Continuity]
+2	1996	G=1	Legends of the Dead Earth Annual
+3	1997	G=1	Pulp Heroes: Hard Boiled [In Continuity]
+4	1998	G=1	Ghosts [In Continuity]
+5	1999	G=1	JLApe [In Continuity]
+
+Aquaman Secret Files
+1	Dec-98	G=1	
+
+Aquaman: The Defeat of the Dehydrator
+X	19??	G=1	Audio Recording
+
+Aquaman: The Official Adventures of Aquaman
+X	19??	G=1	Audio Recording
+
+Aquaman: War of the Waterworlds
+1	1996	G=1	CD-Rom Comic Book (Inverse)
+
+Armageddon 2001
+2	Oct-91	G=?	JLA
+
+Armageddon The Alien Agenda
+1	Nov-91	G=?	JLA
+
+Atlantis Chronicles Mini  (Aquaman Origin)
+1	Mar-90	G=6
+2	Apr-90	G=6
+3	May-90	G=6
+4	Jun-90	G=6
+5	Jul-90	G=6
+6	Aug-90	G=6
+7	Sep-90	G=3	Birth of Aquaman
+
+Atom
+8	Apr-63	G=?	JLA
+
+Aztek: The Ultimate Man
+10	May-97	G=2
+
+Batman
+238	Jan-72	G=R	Reprints Adventure #276
+
+Batman and the Outsiders
+1	Aug-83	G=?	JLA
+
+Batman: Holy Terror
+X	1991	G=3	Elseworld
+
+Best of the Brave and the Bold
+3	Dec-88	G=R	Reprints Brave and the Bold #82 (Feb-69)
+
+Best of DC
+10	Mar-81	G=R	Reprints Aquaman #29 (Oct-66)
+13	Jun-81	G=R	Reprints World's Finest #203 (Jun-71)
+
+Blue Beetle (2)
+20	Jan-88	G=?	JLA, Millenium crossover
+22	Mar-88	G=?	JLA
+
+Brave and the Bold
+28	Mar-60	G=2	JLA
+29	May-60	G=2	JLA
+30	Jul-60	G=2	JLA
+51	Dec-63	G=1	Aquaman and Hawkman team-up, "Fury of the Exiled Creature", [Reprint: Brave and the Bold #112 (May-74)]
+54	Jun-64	G=?	
+60	Jun-65	G=?	
+73	Sep-67	G=1	Aquaman and Atom team-up				
+82	Feb-69	G=1	Batman and Aquaman team-up, [Reprint: Best of the Brave and the Bold #3 (Dec-88)]
+112	May-74	G=R	Reprints Brave and the Bold #51 (Dec-63)
+114	Sep-74	G=1	100 pages, 2 Aquaman stories, one Reprints Adventure #284 (May-61)
+126	Apr-76	G=1	Batman and Aquaman team-up
+142	Aug-78	G=1	Batman and Aquaman fight
+
+Captain Atom (2)
+24	Dec-88	G=5	
+53	May-91	G=2	
+
+Captain Carrot and His Amazing Zoo Crew
+14	Apr-83	G=?	Parody, Featuring "Aquaduck"
+15	...-..	G=?	Parody
+
+Celebrate the Century Stamp Album
+2	1998	G=2	Aquaman introduces the Panama Canal Stamp
+
+Challenge of the Superfriends
+X	1978	G=2	TV Series
+
+Crisis on Infinite Earths
+5	Aug-85	G=5	
+6	Sep-85	G=4	
+9	Dec-85	G=4	
+10	Jan-86	G=4	Tula Dies
+11	Feb-86	G=5	
+12	Mar-86	G=4	
+
+DC Challenge (12 Issues Maxi-series)
+2	Dec-85	G=2	
+3	Jan-86	G=2	
+4	Feb-86	G=2
+6	Apr-86	G=5	
+7	May-86	G=2	
+9	Jul-86	G=2	
+12	Oct-86	G=2	
+
+DC Comics Presents
+5	Jan-79	G=1	Superman and Aquaman team-up, "The War of the Undersea Cities!"
+48	Aug-82	G=1	Superman and Aquaman team-up, "Eight Arms of Conquest!"
+
+DC One Million
+1	Nov-98	G=2	Present and Future Aquaman
+2	Nov-98	G=2	Future Aquaman
+3	Nov-98	G=2	Future Aquaman
+4	Nov-98	G=2	Present and Future Aquaman
+
+DC One Million 80-Page Giant
+1000000	Aug-99	G=1	Future Aquaman
+
+DC Silver Age Classics
+3C	1992	G=R	Reprints Adventure #247 (Apr-58)
+6F	1992	G=R	Reprints Brave and the Bold #28 (Mar-60)
+
+DC Special
+27	Apr-77	G=?	
+28	Jun-77	G=1
+
+DC Special Blue Ribbon Digest
+9	May-81	G=R	Reprints Adventure #269 (Feb-60)
+
+DC Special Series
+1	Sep-77	G=1	"A King without a Sea!"
+19	Fal-79	G=R	Reprints Adventure #260 (May-59)
+23	Feb-81	G=R	Reprints World's Finest #137 (Nov-63)
+
+DC Super-Stars
+7	Sep-76	G=R	Reprints Aquaman #35 (Oct-67)
+
+DC versus Marvel/Marvel versus DC
+1	Feb-96	G=5
+2	Mar-96	G=2
+3	Apr-96	G=5
+4	May-96	G=5
+
+DC/Marvel: All Access
+1	Dec-96	G=5
+3	Jan-97	G=5
+4	Feb-98	G=2	Amalgamated with Iceman
+
+DCU Holiday Bash
+III	Jan-99	G=5	Cameo in Sergio Aragones pin-up
+
+Deathstroke The Terminator
+13	Aug-92	G=?	JLA
+
+Detective Comics
+293	Jul-61	G=1
+294	Aug-61	G=1
+295	Sep-61	G=1
+296	Oct-61	G=1
+297	Nov-61	G=1
+298	Dec-61	G=1
+299	Jan-62	G=1
+300	Feb-62	G=1
+
+Doom Patrol
+17	Dec-88	G=?	Invasion Crossover
+
+Eclipso: The Darkness Within Special
+2	Oct-92	G=?	JLA
+
+Flash (1)
+158	Feb-66	G=?	JLA	
+175	Dec-67	G=?	JLA
+327	Nov-83	G=?	JLA	
+328	Dec-83	G=?	JLA	
+329	Jan-84	G=?	JLA	
+
+Flash (2)
+8	Jan-88	G=?	Millennium Crossover	
+66	Jul-92	G=2	
+
+Freedom Fighters
+4	Sep-76	G=?	
+
+Genesis
+1	Oct-97	G=2
+2	Oct-97	G=2
+3	Oct-97	G=5
+4	Oct-97	G=5
+
+Greatest Fifties Stories Ever Told
+book	1990	G=R	Reprints Adventure #245 (Feb 58)
+
+Greatest Team-Up Stories Ever Told
+book	1989	G=R	Reprints Adventure #267 (Dec 59)
+
+Green Arrow
+101	...-95	G=?	
+
+Green Lantern (2)
+29	Jun-64	G=?	JLA
+
+Green Lantern (3)
+25	Jun-92	G=?	JLA	
+30	Oct-92	G=?	JLA
+63	Jun-95	G=?	JLA
+64	Jul-95	G=?	JLA
+108	Jan-99	G=?	JLA
+
+Green Lantern: Fear Itself
+X	1999	G=2
+
+Guy Gardner: Warrior
+29	Mar-95	G=4	JLA, Had two covers, one had Aquaman
+
+Hawk and Dove
+1	Jun-89	G=?	
+
+Hawkman (2)
+3	Oct-86	G=?	
+
+Hawkman (3)
+15	Dec-94	G=2	
+
+Hostess Ads
+X	1976	G=1	Twinkies and Kelp
+X	1977	G=1	That Dirty Beach
+X	1977	G=1	The Ice Age
+X	1978	G=6	Mera Meets the Manta Men (no Aquaman)
+X	1978	G=1	The Imperiled Sub
+X	1981	G=1	The Space Capsule
+X	1982	G=1	Pirates' Gold
+
+Invasion!
+2	Feb-89	G=?	
+
+JLA
+1	Jan-97	G=5	
+2	Feb-97	G=2	
+3	Mar-97	G=5	
+4	Apr-97	G=2	
+5	May-97	G=5	
+6	Jun-97	G=2	
+7	Jul-97	G=2	
+8	Aug-97	G=2	
+9	Sep-97	G=2	
+10	Sep-97	G=2	
+11	Oct-97	G=2	
+12	Nov-97	G=2	
+13	Dec-97	G=2	
+14	Jan-98	G=2	
+15	Feb-98	G=2	
+16	Mar-98	G=2	
+17	Apr-98	G=2	
+18	May-98	G=2	
+19	Jun-98	G=5	
+22	Sep-98	G=2	
+23	Oct-98	G=2
+1000000	Nov-98	G=2	Future Aquaman	
+24	Dec-98	G=2	
+25	Jan-99	G=2	
+26	Feb-99	G=2	
+27	Mar-99	G=2	
+30	Jun-99	G=2	
+31	Jul-99	G=2	
+32	Aug-99	G=2	
+current ...-..	
+
+JLA: Paradise Lost
+1	Jan-98	G=5
+2	Feb-98	G=2
+3	Mar-98	G=2
+
+JLA: The Nail
+1	1998	G=?	Elseworld
+2	1998	G=?	Elseworld
+3	1998	G=?	Elseworld
+TPB	1999	G=?	Elseworld
+
+JLA: Tomorrow Woman
+1	Jun-98	G=2
+
+JLA: World Without Grownups
+1	Aug-98	G=2
+2	Sep-98	G=2
+
+JLA: Year One
+1	Jan-98	G=2
+2	Feb-98	G=2
+3	Mar-98	G=2
+4	Apr-98	G=2
+5	May-98	G=2
+6	Jun-98	G=2
+7	Jul-98	G=2
+8	Aug-98	G=2
+9	Sep-98	G=2
+10	Oct-98	G=2
+11	Nov-98	G=2
+12	Dec-98	G=2
+
+JLA/Titans
+1	Dec-98	G=2
+2	Jan-99	G=2
+3	Feb-99	G=2
+
+JLA 80-Page Giant
+1	Jul-98	G=1	"Revelations", Wonder Woman and Aquaman team-up
+
+JLA Annual
+1	1997	G=2
+2	Oct-98	G=4
+
+JLA in Crisis Secret Files
+1	Nov-98	G=3
+
+JLA Secret Files
+1	Sep-97	G=2
+2	Aug-98	G=2
+
+JLX	Marvel/DC amalgamation of Justice League and X-Men
+1	Apr-96	G=2	Crossover
+
+Justice League A Midsummer's Nightmare
+1	Sep-96	G=2	
+2	Oct-96	G=2	
+3	Nov-96	G=2	
+
+Justice League America
+33	Dec-89	G=?	
+34	Jan-90	G=?	
+35	Feb-90	G=?	
+40	Jul-90	G=?	
+46	Jan-91	G=?	
+64	Jul-92	G=?	
+70	Jan-93	G=?	Funeral For A Friend
+92	Sep-94	G=?	
+96	Feb-95	G=?	
+
+Justice League Archives (reprints of early JLoA)
+1	1992	G=R	Reprints Brave and Bold 28-30, and JLoA 1-6
+2	1993	G=R	Reprints JLoA 7-14
+3	1994	G=R	Reprints JLoA 15-22
+4	1998	G=R	Reprints JLoA 23-??
+
+Justice League Europe
+26	May-91	G=?	
+37	Apr-92	G=2	
+38	May-92	G=2	
+39	Jun-92	G=2	
+40	Jul-92	G=2	
+41	Aug-92	G=2	
+42	Sep-92	G=2	
+43	Oct-92	G=2	
+44	Nov-92	G=2	
+45	Dec-92	G=2	
+46	Jan-93	G=2	
+47	Feb-93	G=2	
+48	Mar-93	G=2	
+49	Apr-93	G=2	
+50	May-93	G=2	
+Ann 3	1992	G=?	
+
+Justice League International
+68	Aug-94	G=?	
+
+Justice League of America
+1	Nov-60	G=2	"World of No Return"
+2	Jan-61	G=2	"Secret of the Sinister Sorcerers"
+3	Mar-61	G=2	
+4	May-61	G=2	
+5	Jul-61	G=2	
+6	Sep-61	G=2	
+7	Nov-61	G=2	
+8	Jan-62	G=2	
+9	Feb-62	G=2	
+10	Mar-62	G=2	
+11	May-62	G=2	
+12	Jun-62	G=2	
+13	Aug-62	G=2	
+14	Sep-62	G=2	
+15	Nov-62	G=2	
+16	Dec-62	G=2	
+17	Feb-63	G=2	
+18	Mar-63	G=2	
+19	May-63	G=2	
+20	Jun-63	G=2	
+21	Aug-63	G=2	
+22	Sep-63	G=2	
+23	Nov-63	G=2	
+24	Dec-63	G=2		
+26	Mar-64	G=2	
+27	May-64	G=2	
+28	Jun-64	G=2	
+29	Aug-64	G=2	
+31	Nov-64	G=2	
+33	Feb-65	G=2
+35	May-65	G=2
+36	Jun-65	G=2
+38	Sep-65	G=2
+40	Nov-65	G=2
+41	Dec-65	G=2
+44	May-66	G=2
+50	Dec-66	G=2
+52	Mar-67	G=2
+53	May-67	G=2
+59	Dec-67	G=2
+60	Feb-68	G=2
+61	Mar-68	G=2
+63	Jun-68	G=2
+65	Sep-68	G=2
+68	Dec-68	G=2
+86	Dec-70	G=2
+88	Mar-71	G=2
+89	May-71	G=2
+90	Jun-71	G=2
+92	Sep-71	G=2
+94	Nov-71	G=2
+95	Dec-71	G=2
+97	Mar-72	G=2
+98	May-72	G=2
+99	Jun-72	G=2
+100	Aug-72	G=2
+102	Oct-72	G=2
+104	Feb-73	G=2
+105	May-73	G=2
+106	Aug-73	G=2
+109	Feb-74	G=2
+110	Apr-74	G=2
+111	Apr-74	G=2
+112	Aug-74	G=2
+114	Dec-74	G=2
+116	Apr-75	G=2
+118	May-75	G=2
+119	Jun-75	G=2
+121	Aug-75	G=2
+122	Sep-75	G=2
+123	Oct-75	G=2
+124	Nov-75	G=2
+125	Dec-75	G=2
+126	Jan-76	G=2
+129	Apr-76	G=2
+130	May-76	G=2
+131	Jun-76	G=2
+133	Aug-76	G=2
+138	Jan-77	G=2
+139	Feb-77	G=2	DC Giant
+142	May-77	G=2
+143	Jun-77	G=2
+144	Jul-77	G=2
+146	Sep-77	G=2
+150	Jan-78	G=2
+151	Feb-78	G=2
+155	Jun-78	G=2
+156	Jul-78	G=2
+157	Aug-78	G=2
+160	Nov-78	G=2
+161	Dec-78	G=2
+170	Sep-79	G=2
+177	Apr-80	G=2
+178	May-80	G=2
+179	Jun-80	G=2
+181	Aug-80	G=2
+187	Feb-81	G=2
+188	Mar-81	G=2
+189	Apr-81	G=2
+190	May-81	G=2
+192	Jul-81	G=2
+193	Aug-81	G=2
+195	Oct-81	G=2
+200	Mar-82	G=2
+202	May-82	G=2
+203	Jun-82	G=2
+205	Aug-82	G=2
+207	Oct-82	G=2
+208	Nov-82	G=2
+209	Dec-82	G=2
+210	Jan-83	G=2
+212	Mar-83	G=2
+217	Aug-83	G=2
+218	Sep-83	G=2
+221	Dec-83	G=2
+222	Jan-84	G=2
+223	Feb-84	G=2
+228	Jul-84	G=2
+229	Aug-84	G=2
+230	Sep-84	G=2
+231	Oct-84	G=2
+233	Dec-84	G=2
+234	Jan-85	G=2
+235	Feb-85	G=2
+236	Mar-85	G=2
+237	Apr-85	G=2
+238	May-85	G=2
+239	Jun-85	G=2
+240	Jul-85	G=2
+241	Aug-85	G=2
+242	Sep-85	G=2
+243	Oct-85	G=2
+Ann 1	1983	G=2
+Ann 2	1984	G=2
+
+Justice League Quarterly
+3	Sum-91	G=4	
+5	Win-91	G=5
+
+Justice League Spectacular
+1	1992	G=
+
+Justice League Taskforce
+1	Jun-93	G=2
+2	Jul-93	G=2
+3	Aug-93	G=2
+
+The Kingdom
+2	Feb-99	G=5	Hypertime spread has Aquaman from JLA: The Nail
+
+Kingdom Come
+2	...-..	G=3	Elseworld
+
+Kingdom Come: The Audio Adaptation
+X	199?	G=3	Audio Recording
+
+League of Justice
+2	1996	G=3	Elseworld
+
+Legends of the DC Universe
+12	Jan-99	G=2	JLA
+13	Feb-99	G=2	JLA
+
+Legends of the DC Universe 3-D Gallery
+1	Dec-98	G=5
+
+Legends of the DCU: Crisis on Infinite Earths
+1	Feb-99	G=2	Aquaman of Earth-D
+
+Limited Collector's Edition
+C-41	...-..	G=?	JLA
+
+Lobo
+50	Apr-98	G=4	Aquaman gets the last panel
+
+Martian Manhunter
+0	Oct-98	G=5
+6	May-99	G=2
+7	Jun-99	G=2
+8	Jul-99	G=2
+9	Aug-99	G=2
+
+Millennium
+1	Jan-88	G=4
+5	Feb-88	G=4
+6	Feb-88	G=4
+7	Feb-88	G=4
+8	Feb-88	G=5
+
+Mister Miracle (2)
+17	...-..	G=
+
+More Fun Comics	(Paul Norris and Mort Weisinger)
+73	Nov-41	G=1	[Reprint: Secret Origins #7 (Nov-74)]
+74	Dec-41	G=1	
+75	Jan-42	G=1	
+76	Feb-42	G=1	
+77	Mar-42	G=1	
+78	Apr-42	G=1
+79	May-42	G=1	
+80	Jun-42	G=1	
+81	Jul-42	G=1	
+82	Aug-42	G=1	
+83	Sep-42	G=1	
+84	Oct-42	G=1	
+85	Nov-42	G=1	
+86	Dec-42	G=1	
+87	Jan-43	G=1	
+88	Feb-43	G=1	
+89	Mar-43	G=1	
+90	Apr-43	G=1	
+91	May-43	G=1	
+92	Jul-43	G=1	
+93	Sep-43	G=1	
+94	Nov-43	G=1	
+95	Jan-44	G=1	
+96	Mar-44	G=1	
+97	May-44	G=1	
+98	Jul-44	G=1	
+99	Sep-44	G=1	
+100	Nov-44	G=1	
+101	Jan-45	G=1	
+102	Mar-45	G=1	
+103	May-45	G=1	
+104	Jul-45	G=1	
+105	Sep-45	G=1	
+106	Nov-45	G=1	
+107	Jan-46	G=1	
+
+More Secret Origins
+	See 80 Page Giant Magazine
+
+Mystery in Space
+75	May-62	G=?	JLA
+
+New Teen Titans (2)
+6	Mar-85	G=?	
+
+New Titans
+85	...-..	G=?	
+87	...-..	G=?	
+
+Panic in the Sky
+TPB	1992	G=2	Reprint of the storyline from the Superman Comics
+
+Phantom Zone
+2	Feb-82	G=?	
+3	Mar-82	G=?	
+4	Apr-82	G=?	
+
+Planet Krypton
+1	Feb-99	G=6	Waiter dressed as Aquaman
+
+Plastic Man Special
+1	Aug-99	G=5	Cover app only
+
+Prometheus (Villains)
+1	Feb-98	G=5	Cameo in picture of JLA
+
+Secret Origins (1)
+7	Nov-74	G=R	Reprints More Fun #73 (Nov-41)
+
+Secret Origins (2)
+32	Nov-88	G=?	JLA
+46	Dec-89	G=?	JLA
+Ann 3	1989	G=?	JLA
+
+Sergio Aragones Destroys DC
+X	...-..	G=?	Parody
+
+Sergio Aragones Massacres Marvel
+X	...-..	G=?	Parody, tiny cameo
+
+Shadow War of Hawkman
+3	Jul-85	G=?	JLA
+4	Aug-85	G=5	JLA
+
+Showcase
+30	Jan-61	G=1	[Reprint: Super DC-Giant #S-26 (Aug-71)]
+31	Mar-61	G=1
+32	May-61	G=1
+33	Jul-61	G=1
+59	Nov-65	G=
+79	Dec-68	G=R	Reprints Adventure #269 (Feb-60)
+100	May-78	G=?	JLA
+
+Sovereign Seven
+Ann 2	1996	G=2	
+
+Spectre
+62	Feb-98	G=5
+
+Starman
+43	Jun-98	G=5	cover app only
+
+Strange Adventures
+235	Apr-72	G=?	JLA
+
+Suicide Squad
+59	Nov-91	G=?	
+60	Dec-91	G=?	
+61	Jan-92	G=?	
+62	Feb-92	G=?	
+
+Superboy
+171	Jan-71	G=1	Featured "Aquaboy"
+
+Super DC-Giant
+S-26	Aug-71	G=R	Reprints Showcase #30 (Jan-61), Adventure #251 (Aug-58), #272 (May-60), #266 (Nov-59), #203 (Aug-54)
+
+Super Friends
+X	1973	G=?	TV Series
+
+Super Friends: Legendary Super Powers Show
+X	1984	G=?	TV Series
+
+Super-Friends
+1	Nov-76	G=2	
+2	Dec-76	G=2
+3	Feb-77	G=2
+4	Apr-77	G=2
+5	Jun-77	G=2
+6	Aug-77	G=2
+7	Oct-77	G=2	Wonder Twins start
+8	Nov-77	G=2
+9	Dec-77	G=2	Last Wendy, Marvin, and Wonderdog
+10	Feb-78	G=2
+11	Apr-78	G=2
+12	Jun-78	G=2
+13	Aug-78	G=2
+14	Nov-78	G=2	Origin of Wonder Twins
+15	Dec-78	G=2	
+16	Jan-79	G=2
+17	Feb-79	G=2
+18	Mar-79	G=2
+19	Apr-79	G=2
+20	May-79	G=2
+21	Jun-79	G=2
+22	Jul-79	G=2
+23	Aug-79	G=2
+24	Sep-79	G=2
+25	Oct-79	G=2
+26	Nov-79	G=2
+27	Dec-79	G=2
+28	Jan-80	G=2
+29	Feb-80	G=2
+30	Mar-80	G=2
+31	Apr-80	G=2
+32	May-80	G=2
+33	Jun-80	G=2
+34	Jul-80	G=2
+35	Aug-80	G=2
+36	Sep-80	G=2
+37	Oct-80	G=2
+38	Nov-80	G=2
+39	Dec-80	G=2
+40	Jan-81	G=2
+41	Feb-81	G=2
+42	Mar-81	G=2
+43	Apr-81	G=2
+44	May-81	G=2
+45	Jun-81	G=2
+46	Jul-81	G=2
+47	Aug-81	G=2
+Spec 1	...-..	G=2
+
+Supergirl (2)
+20	...-..	G=?	JLA
+
+Superman (1)
+138	Jul-60	G=?	
+148	Oct-61	G=?	"Superman Owes a Billion Dollars"
+165	Nov-63	G=?	
+199	Aug-67	G=?	"Superman's Race with the Flash!"
+327	Sep-78	G=?	
+
+Superman (2)
+12	Dec-87	G=?	
+63	Jan-92	G=2
+65	...-..	G=2	Panic in the Sky
+66	...-..	G=2	Panic in the Sky
+76	Feb-92	G=2	JLA, Funeral For A Friend #4
+83	...-..	G=
+132	Feb-98	G=2
+137	Aug-98	G=2	Alternate Aquaman
+147	Aug-99	G=2
+
+Superman's Girl Friend, Lois Lane
+12	Oct-59	G=2	
+29	Nov-61	G=2	JLA	
+30	...-..	G=?	
+74	May-67	G=?	JLA
+128	...-..	G=?	
+Ann 1	Sum-62	G=?	
+
+Superman's Pal Jimmy Olsen
+115	Oct-68	G=2	
+
+Superman: The Animated Series
+"A Fish Story"	G=2	1999	TV Episode
+
+Superman: The Man of Steel
+10	Apr-92	G=2	Panic in the Sky
+20	Feb-93	G=3	JLA, Funeral For A Friend #3
+48	Sep-95	G=2		
+Ann 4	1995	G=2	
+
+Super Powers Collection
+8	1983	G=1	Action Figure tie-in, Flash and Penguin
+
+Super Powers: Galactic Guardians Team
+X	1985	G=2	TV Series
+
+Super-Team Family
+3	Feb-76	G=R	Reprints Adventure #267 (Dec 59)
+13	Nov-77	G=?	JLA
+
+Swamp Thing, Saga of the (2)
+24	...-..	G=?	JLA
+46	...-..	G=?	
+
+Teen Titans
+1	Feb-66	G=?	
+25	...-..	G=?	
+35	Sep-71	G=R	Reprints World's Finest #139 (Feb-64)
+38	Mar-72	G=R	Reprints Adventure #278 (Nov-60)
+40	...-..	G=?	
+47	...-..	G=?	
+49	...-..	G=?	
+53	Feb-78	G=?	
+
+Teen Titans Spotlight
+10	May-87	G=?	
+18	Jan-88	G=?	
+
+Tempest [Origin of Aqualad's new powers]
+1	Nov-96	G=
+2	Dec-96	G=
+3	Jan-97	G=
+4	Feb-97	G=
+
+Total Justice (Action Figure tie-in)
+1	Oct-96	G=
+2	Nov-96	G=
+3	Nov-96	G=
+
+Total Justice
+X	1998	G=?	Audio Recording
+
+Unlimited Access
+2	Jan-98	G=2
+3	Feb-98	G=2
+4	Mar-98	G=2
+
+War of the Gods
+1	Sep-91	G=2
+2	Oct-91	G=2
+3	Nov-91	G=2
+4	Dec-91	G=2
+
+What The...?	(Marvel Comics)
+7	Apr-90	G=?	Parody, Featuring "A-Wet-Man"
+
+Who's Who: The Definitive Directory... 1985
+1	Mar-85	G=?	
+
+Who's Who Update '87
+5	Dec-87	G=?	
+
+Who's Who '91
+12	...-..	G=
+
+Wonder Woman (1)
+215	Jan-75	G=2	JLA
+222	...-..	G=?	
+300	...-..	G=?	JLA
+
+Wonder Woman (2)
+61	...-..	G=
+126	Oct-97	G=5
+
+World's Finest
+6	Jul-42	G=1	
+125	May-62	G=1	
+126	Jun-62	G=1	
+127	Aug-62	G=1	
+128	Sep-62	G=1	
+129	Nov-62	G=1	
+130	Dec-62	G=1	
+131	Feb-63	G=1	
+132	Mar-63	G=1	
+133	May-63	G=1	
+135	Aug-63	G=1	
+137	Nov-63	G=1	[Reprint: DC Special Series #23 (Feb-81)]
+139	Feb-64	G=1	[Reprint: Teen Titans #35 (Sep-71)]
+189	Nov-69	G=
+203	Jun-71	G=
+223	May-74	G=R	Reprints Adventure #223 (Apr-56)
+228	Mar-75	G=R	Reprints Aquaman #12 (Dec-63)
+230	Jun-75	G=R	Reprints Adventure #245 (Feb-58)
+246	Aug-77	G=
+250	Apr-78	G=
+255	Feb-79	G=
+262	Apr-80	G=1
+263	Jun-80	G=1
+264	Aug-80	G=1
+265	Oct-80	G=
+266	Dec-80	G=
+267	Feb-81	G=
+268	Apr-81	G=
+269	Jun-81	G=
+270	Aug-81	G=
+271	Sep-81	G=
+272	Oct-81	G=
+273	Nov-81	G=
+300	Feb-84	G=?	JLA
+
+World's Greatest Super Friends
+X	1979	G=2	TV Series
+
+Young Heroes in Love
+14	Jul-98	G=5
+
+Young Justice
+6	Mar-99	G=2
+
+Zero Hour
+4	Sep-94	G=2
+3	Sep-94	G=2
+1	Sep-94	G=2
+0	Sep-94	G=5
+
+

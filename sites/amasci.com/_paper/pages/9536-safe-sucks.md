@@ -1,0 +1,258 @@
+---
+title: "Safe Sucks"
+source_domain: amasci.com
+source_path: ~vecna/safesucks.html
+order: 9536
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Safe Sucks
+
+*Source page: `~vecna/safesucks.html`*
+
+# Safe Sucks
+
+## by [Christine Morgan](mailto:christine@sabledrake.com)
+
+------------------------------------------------------------------------
+
+\
+Author's Note: his story was written in hopes of submitting to an anthology of vampire erotica, but since I never heard anything back\
+and it's been over a year and a half now, I thought I'd just go ahead and post it here. Those familiar with my other stories, works-in-\
+progress and even games may notice a few similarities and connections. Mature readers only, please, due to sexual content.\
+
+------------------------------------------------------------------------
+
+\
+ 
+
+<table data-border="0" cols="1" width="85%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td>        Tsk! sniffed Eloia Rand. More of those greedy bloodsuckers, Kyra, can you believe it?<br />
+        Kyra glanced up from her lunch, her gaze taking in the stern disapproving set of her mothers profile and beyond her, the thorny white ship descending to the docking gantry. <br />
+        The outer wall of the First Colonial Malls sustenance court was force-window from floor to ceiling, making it seem as if nothing stood between the diners and the spaceport. Dozens of ships, from the hulking Oullian freighters to the dart-shaped interplanetary messengers, moved in computer-guided harmony. Beyond the spaceport, several of Cahaldras other moons were silhouetted against the ever-changing purple and gold swirls of the gas giant. <br />
+        Whats the matter, Mother? Its just a Bram craft, Kyra said, with a shrug that wasnt half so indifferent as she felt.<br />
+        Thats my very point, Eloia said. Youd think people would stay where they belong. Hmf. Isnt anyones homeworld good enough?<br />
+        Wasnt ours? Kyra countered.<br />
+        Thats different, and you know it. Your grandmother was --<br />
+        On one of the first terraforming crew from Earth ... Kyra joined in by rote.<br />
+        Dont be smart, Eloia said. What matters is that <em>we</em> made Rannok what it is today, and its being taken over by aliens.<br />
+        Were all aliens here, Kyra said. Theyre only looking for the same things we are. Homes, jobs, good lives. Theyre not that different from us, really.<br />
+        Oh, and how do you know so much about them all of a sudden? Eloias voice took on the patronizing tone that had so infuriated Kyra through the first twenty-five years of her life, something that didnt seem likely to change now that she was into her second quarter of a century. I cant imagine many Bram come to places like Sunspots.<br />
+        No, of course not. Kyra shut herself up and went back to concentrating on her meal, though nervousness had stolen her appetite.<br />
+        Good. And even if they did, Id hope any daughter of mine would have the sense to stick to her own kind. Now, hurry up and finish your dinner. I still need to find something for your sisters promotion gift and be on our way before were swamped by aliens. Why they built the spaceport concourse to deposit those leeches smack in the middle of things is beyond me.<br />
+        Im done. As she started to rise, her foot bumped the bag resting beside her chair. It fell over and sent her purchases rolling every which-way across the glassy-smooth floor.<br />
+        Kyra, I swear, sometimes you have all the grace of an Oullian block-lizard, Eloia sighed in exasperation. Here, Ill help --<br />
+        Ive got it, thanks, thats fine, Ive got it! Kyra dropped to her knees and began sweeping items back into the bag. <br />
+        Where was it? Where was it ...?<br />
+        She saw it directly under her mothers chair, the black and white box with its red lettering.<br />
+        Why didnt those marketing people use a little <em>discretion</em>? She wasnt asking for a plain brown wrapper, but did it have to have such bold and dynamic design?<br />
+        Eloia bent to collect her own parcels, and her hand brushed the side of the box. Kyras adrenal system dumped panic into her bloodstream by the liter. She lunged for it, too slow. Her mother picked up the box, glanced curiously at it, and began to hand it to Kyra. Then Eloia froze, a statue in the shape of a woman. Her complexion paled until she was nearly the shade of a Bram. Slowly, ever-so-slowly, she looked back at the box. <br />
+        Kyyyyyyra? She drew it out into a wavering accusation that packed a galaxy worth of this had better not be what it looks like into a single word.<br />
+        Its not mine, Kyra blurted, rooted to the floor. <br />
+        Her position instantly reduced her to a child again, especially as her mother stood. Kyra had inherited her height, or lack thereof, from her space-jockey father. Eloia was tall and robust terraformer stock. As she towered over her abjectly horrified daughter, she seemed a monument to some forgotten goddess.<br />
+        She gingerly extended her arm, holding the box as far from her as she could. Her face wrinkled as if she smelled something nasty.<br />
+        Kyras chagrin was not helped by the fact that they had drawn the attention of everyone at the surrounding tables. All of them could easily read what was emblazoned on the package, and looked at her with knowing smirks or scandalized shock.<br />
+        Its not mine, Kyra said again, with a little more strength and a little less blatant guilt. Well, I did buy it --<br />
+        Oh, Kyra!<br />
+        But its not for me, Kyra finished. Its for ... um ... one of my friends from work! She asked me to pick one up for her when I mentioned our shopping outing.<br />
+        Inwardly, she was kicking herself black and blue.<br />
+        Never, <em>never</em> buy things like that with your mother! Dont even go into that aisle! You thought you were being so tricky, that she was too involved with the new ficvid releases to notice, and you lucked out there, but did you really think you could pull this off, Kyra? Now look! Just look! <br />
+        Not for you, Eloia said.<br />
+        Not for me, Kyra assured her as fervently as she could.<br />
+        For a friend.<br />
+        A friend from work.<br />
+        She ... does this sort of thing?<br />
+        She said she met someone at a club. I didnt ask for details.<br />
+        Her mother, with a grimace of distaste, let the box fall into Kyras open shopping bag. She wiped her fingers on her napkin. I hope this isnt a person you spend much time with, Kyra Jane.<br />
+        We barely know each other. She crammed everything else into the bag, hiding the offending article. <br />
+        Eloia held her spine stiff as a titanium rod, her manner as imperious as a queen as she proceeded toward the lifts that would take them to the shopkeep levels. Kyra trailed after, not daring to speak.<br />
+        <em>Well, Donovan,</em> she thought, <em>after all this, youd better be worth it!</em>
+<p>**</p>
+<p>        Tonights the night, is it? Vinkiri asked, hopping onto the corner of Kyras console. Her bronzed skin gleamed, her hair shined like a spill of rubies in the solar spas artificial sunlight.<br />
+        Shh! Kyra hissed. I dont need the whole planet to know!<br />
+        But everyone here already does, Vinkiri pointed out. Youve done nothing but talk about him. Donovan, Donovan, Donovan. Is he picking you up here?<br />
+        No ... were meeting at my place.<br />
+        She lowered her voice to what she probably thought was a conspiratorial whisper, which would only have carried to everyone inside Sunspots. Did you get it?<br />
+        I did. But, Vinkiri, I dont know.<br />
+        Honey, if youre going to do it, youve got to be protected.<br />
+        What if its too soon? What if Im rushing things?<br />
+        You like the guy, dont you?<br />
+        Hes great. Sweet, charming, romantic --<br />
+        Gorgeous, Vinkiri added.<br />
+        Gorgeous, Kyra agreed. But weve only been out three times. I dont want him to think Im ... well, easy.<br />
+        Oh, come on, Kyra! That way of thinking went out four hundred years ago!<br />
+        But this is different. Its risky.<br />
+        Thats why you use protection. Relax.<br />
+        And what if hes not attracted to me that way?<br />
+        Vinkiri rolled her eyes expressively. Would you listen to this woman? Not attracted to you that way? Those big brown eyes, that golden skin, hair like a selkies mane, those darling titties ... Kyra, <em>Im</em> attracted to you that way! If he isnt, get him to the medics, because he needs help!<br />
+        Kyra laughed. Thanks, Vinkiri, I think. I just want this to be right. Its bad enough knowing what my mother would say. She still wont admit that Im an adult.<br />
+        This isnt about your mother. Its about you and Donovan. Youre prepared, you know what youre getting into. Enjoy it!</p>
+<p>**</p>
+<p>        Kyras shift ended, leaving her with two hours to get ready before Donovan arrived. Shed been able to put her edgy excitement away while she was at work, but now, on her way home, she gave in to the thrill of hopeful anticipation.<br />
+        Would tonight be the night? Was she ready? Were <em>they</em> ready?<br />
+        What shed told her mother hadnt been a complete fabrication. Shed met him in a club, having been dragged there by Vinkiri when the vivacious redhead was in one of her experimental moods. <br />
+        Kyra had been expecting to have a dreary time, spending the evening alone in a corner nursing a Nebula Blue while Vinkiri took to the dance floor with one partner after another. Men, women, nats, alters, aliens ... didnt matter. Hers was a freedom that Kyra, having grown up under her parents strict instruction, found unnerving and enviable.<br />
+        Shed been sitting there for almost an hour when shed become aware of the man at the next table. In nearly the very same pose as her. Nursing a drink, watching a more outgoing companion writhe to the music. <br />
+        Hed sensed her looking at him, caught her eye with a marvelous ice-green gaze, and tipped his drink in a rueful shared toast. And then, though shed never done anything like it before, Kyra had gone over to him and introduced herself.<br />
+        Theyd hit it off at once despite their many differences. Hed only just arrived on Rannok, while she had been born here -- grandmother one of the original terraforming crew, yes, right, never could forget that. She was a solar spa technician, he was an artist. <br />
+       And the other differences ...<br />
+        Donovan.<br />
+        Just the thought of him brought a twinge of yearning deep within Kyra. She closed her eyes and imagined sinking her fingers into the coarse silk of his hair, which was of a color her mind could never satisfactorily name. Blond, he called it, with a shy grin. But calling it blond was like saying that Cahaldra was clouded. Donovans hair was buff-tawny-white-beige-platinum, long and manelike and wild.<br />
+        She wanted to know what it was like to feel that hair loose and brushing over every inch of her body. To caress his milky-fair skin, comparing its softness with the lean firmness of his flesh. To twine their naked limbs together and elicit low cries of pleasure from him ...<br />
+        Kyra gradually realized that she had stopped in the middle of the skybridge, with a wide dreamy grin on her face. People were parting to go around her, a few with scowls but most with amused glances.<br />
+        She collected herself and hurried onward, disembarking the skybridge at the connection to her building. It was nothing special, one of the countless residential complexes that surrounded Colonial Citys main business district, but it was the first place shed lived on her own. <br />
+        Kyra tidied up and adjusted the environmental controls, dimming the lights to make the room more intimate and comfortable for Donovan. <br />
+        She paused when she picked up the small box containing her precaution. What to do with it? Couldnt leave it sitting out in plain sight. Donovan might be flattered, but then again, he might be offended that she was so cautious about his status.<br />
+        What if he thought it would ruin the mood? Shed heard that sometimes happened ... that they resented having to stop in the heat of passion and put those things on. Or that it dulled their sensation, made the encounter less enjoyable.<br />
+        Well, that was just too bad. If it was going to happen, Kyra was going to take steps to keep herself safe. She had a responsibility to herself that went beyond worrying about hurting Donovans feelings. He had to understand that. <br />
+        She tucked it away in a table drawer beside the lounging platform, out of sight but within easy reach. Closed it. Opened it partway. No, too obvious ... closed it again.<br />
+        The comm signal beeped as she was putting the finishing touches to a romantic dinner provided by the kitchenettes food dispensers. <br />
+        She checked the mirror one last time. A simple clip held her hair back from her face, letting it tumble in rich brown waves nearly to her waist. Out of deference to Donovans acute senses, she wore no perfume and only the merest hint of cosmetics. The hem of her silkweave dress swirled around her thighs in fluttering panels of violet, sapphire, and deep green. A matching scarf was bound around her neck.<br />
+        Satisfied, Kyra went to the comm and activated the incoming video component. The reception was fuzzed with lines of interference, through which she saw the entryway of the building, a few of her neighbors coming and going in the background.<br />
+        A hissing buzz emanated from the speaker, and then a synthvoice said, Caller for Unit 1801, K.J. Rand.<br />
+        Approved, Kyra said. Ill see you in a few minutes, Donovan.<br />
+        The speaker spat a feline burst of static by way of reply.<br />
+        Kyra turned the comm off and activated the firestars, tall tapering crystals that shed a flickering glow across the carefully-arranged table. She started to program some music, then paused, wondering if that might make it look too much like a stage set for seduction.<br />
+        But isnt that what it is? she murmured to herself, and selected a haunting Tynevan melody that floated through the room like eddies of cool smoke.<br />
+        The proximity light began to blink. Kyra opened the door.<br />
+        Enter freely, she said.<br />
+        Donovan took one step into the apartment and stopped, slowly pulling off the black-glass visor that shielded his sensitive sight. Kyra ...<br />
+        She resisted the urge to shift position self-consciously, though she couldnt help fiddling with the trailing ends of her scarf. Many times in her life, shed heard phrases like <em>he drank in the sight of her,</em> but this was the first time she really felt it was happening. <br />
+        Fair enough, for she was drinking in the sight of him. His long coat was unbelted, flaring casually behind him like a cape. Beneath it, he wore a high-collared vest in a shade of green so dark it was almost black, relieved by the pearly shine of its double row of buttons. The somber shades made for a startling contrast to his white skin and that glorious hair.<br />
+        Do you like it? she ventured needlessly, gesturing around the room.<br />
+        How could I not? You are perfection! He shook himself slightly and drew a breath. His ice-green eyes gleamed with pleasure as he sampled the air in tiny sips. Do I smell lissite broth?<br />
+        I made dinner for us. If thats all right with you.<br />
+        What a wonderful surprise, Kyra! I would be delighted. He brought one arm from behind his back, offering her a bouquet. These are for you.<br />
+        The flowers had tissue-thin black petals traced with delicate veins of red, the white stems as slender and graceful as a nebula dancer. Kyra gathered them close to her face, inhaling deeply. The scent was very faint but evocative, as if the night wind had its own fragrance.<br />
+        How pretty! What are they?<br />
+        Theyre called <em>bathory</em>, named for an ancient queen of our world.<br />
+        She arranged them on the table, aware that he was admiring her every move. Then it was her turn to admire his, as he slipped off his coat and turned to hang it on the rack. The width of his shoulders tapered to a narrow waist and hips, and long, lean legs ... just watching him made Kyra want to forget dinner and pounce on him.<br />
+        He was no mind reader, but his enhanced senses let him detect emotions. Donovan turned back to Kyra, his head tilted questioningly. Cream-gold strands fell rakishly over his forehead, giving him an aspect at once boyish and irresistible. <br />
+        But there was something else about him, too ... that inescapable hint of danger. It stirred her desire and her fear at the same time, and she was finally beginning to understand what was so compelling about him. It was the razors edge between life and death, the ultimate chance.<br />
+        Kyra?<br />
+        I thought we could stay in tonight, she heard herself say, marveling at the newly husky quality to her voice.<br />
+        Id like that. He advanced toward her, his uncanny grace making him seem to glide without touching the floor. <br />
+        Before she was quite sure how hed gotten there, he had taken hold of her hands and raised them to brush his lips across the backs of her knuckles. She shivered at the cool touch.<br />
+        The timer in the kitchenette chimed, breaking the dreamlike spell that had begun to fall over Kyra. She reluctantly freed her hand from Donovans. <br />
+        Pour the wine while I serve? she suggested.<br />
+        She was glad shed splurged and bought the food dispenser expansion set, which included recipes from nearly every known culture. His appetite wasnt hearty, but it was discerning. They dined on tender cuts of meat in a variety of spiced sauces, a fruit dish popular on  Oull, the savory lissite broth with shavings of briarnut and herbs floating on top, and ended with a cream-filled flake pastry for dessert.<br />
+        Over the meal, they talked of this and that, but Kyras mind couldnt linger long on conversation. The table was so small that she was constantly aware of Donovans knee against hers, and all it took was a single glance at the firestarlight reflecting in the twin jewels of his eyes to send a melting thrill down her spine.<br />
+        Shall we take the last of the wine and sit for a while? Donovan asked, indicating the lounging platform.<br />
+        I have a new scenevid, Kyra said. <br />
+        She took her glass and led him to the platform, where they sat side by side on the padding that molded itself to support them. Her hand trembled a little as she reached over to set her glass on the table. The scenevid showed images from around the system and the outlying worlds, scenes of unspoiled beauty and cultural majesty, blended together to music. She let herself relax into the cushions as she finished her wine.<br />
+        Kyra. The sound of her name was like a caress. She turned to him, and he stroked the side of her face from cheek to chin. May I kiss you?<br />
+        Please do, she breathed.<br />
+        He leaned closer, cradling her head in both hands. It was a featherlight kiss, gentle and testing. Kyra sensed the tension in him, the readiness to pull back if she reacted with fear. <br />
+        Im not afraid, Donovan.<br />
+        But you know what I am ... you know my status.<br />
+        I know <em>you</em>, and I like you. Very much. She finally did as shed been yearning to do all day, sinking her fingers into his hair. I want to get to know you better.<br />
+        He smiled, and she caught the briefest glimpse of the whiteness of his teeth before he brought his mouth to cover hers again. This time the kiss was longer, more sure. Their lips parted, tongues and breath mingling, sharing the sweet flavor of the wine.<br />
+        So lovely, Kyra, so alive, Donovan murmured, slowly rubbing her upper arm. I feel the warmth of your skin, the vitality of your flesh.<br />
+        She drew him down until they were half-reclined. He was cool as marble, even through the fabric of his clothes. The rest of the scenevid went unwatched as the fervor of their kisses intensified.<br />
+        Arent you uncomfortable in that tight vest? Kyra asked. Let me help you with it ...<br />
+        She undid the pearly buttons and removed it. Underneath, he wore a black silkweave shirt, loose and billowy, open in a deep V. Kyra bent and kissed her way down the edge of the V, resting her hand lightly on his hip.<br />
+        Donovan sighed and rolled onto his back, pulling her with him. She acquiesced willingly, snuggling atop him with a sigh of her own. Her head rested on his chest, hearing the silence within him. It momentarily gave her pause, truly bringing home to her that he was not one of her kind.<br />
+        But your heart, he said, working a hand beneath her to cup her breast, beats fast enough for us both.<br />
+        Im sorry ...<br />
+        Dont be ... does it disturb you?<br />
+        Sort of, but it intrigues me, too. The differences.<br />
+        I assure you, in many important ways were not so different.<br />
+        She shifted her legs and grinned down at him. I can tell.<br />
+        Perhaps you should examine me thoroughly before reaching a conclusion.<br />
+        Thats the best idea Ive heard all day, she purred.<br />
+        He started in surprise as she began undressing him, but when she mock-sternly admonished him to hold still and wait his turn, he did. <br />
+        In the dim light, against the dark upholstery, his paleness made him seem to radiate with a soft inner light. He was somehow more elegant without clothes than hed been with them. The lines of his body were long and lean, as artistically sculpted as any alabaster statue of a god in repose. Not a scar or mark anywhere marred the smooth perfection of his skin. He was utterly hairless aside from his lustrous white-gold mane and a darker tawny patch at his groin. <br />
+        If shed had any worries about their physical compatibility, they were dashed away. He looked ... oh, yes ... <em>very</em> compatible. And very ready, not urgently so but most definitely attentive. Like the rest of him, that part was long and lean, and elegantly shaped.<br />
+        Donovan ... youre beautiful!<br />
+        He opened his arms to her. Come to me, Kyra. Let me hold you.<br />
+        A swooning dizziness rushed through her head, and for a moment she thought she would ruin the evening by fainting from an overload of sexual desire. He tenderly took the clip from her hair and spread it in a sable fan over her shoulders.<br />
+        An instant later, they were entwined and she was feeling the coolness of his flesh all over her body. The thin material of her dress did not provide much barrier, even had it not ridden up to her waist and slid off one arm to bare a breast. <br />
+        His loving hands sent streams of white fire flowing through Kyra, spiraling inward from every point of contact to meet in a single growing blaze of sweetly unbearable heat at the base of her belly. She ended up supine, as Donovan knelt on the floor between her parted legs. He leaned over her, looking down adoringly.<br />
+        Kyra, he whispered, tugging at cloth. May I remove this? I just want to see you, to touch you here ... I promise you I will not penetrate.<br />
+        A spark of hesitation flared, and just as quickly died. All right, Donovan ...<br />
+        She sat up, holding her hair out of the way as he gently unwound her scarf. He did it with the breathless anticipation of someone unwrapping a long-awaited present, and as each layer peeled away to expose more of the column of her throat, his breathing quickened. When the last of it was gone, leaving her bare from collarbones to chin, his eyes went half-lidded in appreciation.<br />
+        Oh, Kyra ... <br />
+        Kyra raised her chin and slowly turned her head to each side. When she swallowed, causing the muscles of her neck to flex in a rippling series, Donovan groaned his helpless passion.<br />
+        She felt a single cool touch as his fingertip traced from her earlobe behind her jaw and down, stopping on the drumming pulse. He closed his eyes, and though he did not move, it seemed as if his entire body throbbed in time with the steady tide of her blood.<br />
+        His mouth had fallen partway open, and Kyra could see the proof of his arousal. His fangs were at full extension, the canines descended into twin glistening curves. <br />
+        Donovan, can I ...? she ventured, reaching out.<br />
+        His eyes flickered open and focused on her. She saw a mixture of emotions in them, lust and hope but mainly a sweeping relief at the realization that she was not afraid. He nodded mutely.<br />
+        Kyra used her first and second fingers to touch his fangs, sliding them down. They were sleek and hard, satin and ice. She pressed the pads of her fingertips lightly against their points.<br />
+        Donovan shuddered and drew back. Wed better stop now, he said, his voice thick. Or I wont be able to.<br />
+        I have ... protection, Kyra said, suddenly shy as she saw incredulity suffuse his expression. She fumbled at the drawer, which conspired against her by coming halfway out at a slant and wedging stuck. Still, it was enough for her to dig out the box. She showed him the red lettering -- VEIN-GUARD, it read. If you want to, I mean.<br />
+        If you do. He spoke as one who couldnt believe his ears.<br />
+        Yes, Donovan. I want to. And I know that you cant ... you know ... without giving in to the instinct.<br />
+        Will you put it on for me?<br />
+        She took the molded clearplast device from the box. It was designed on a principle similar to the mouth-guards that kept slap-disc players from losing their teeth, but made to accommodate the dental structure of the Bram.<br />
+        I heard they dull the sensation, she said apologetically. But ...<br />
+        Youd rather be safe, of course. Do not be concerned, Kyra. I understand.<br />
+        His fangs had retracted a little, but as she leaned toward his open mouth, they twitched and elongated again. Kyra fitted the blunted device over them.<br />
+        Is it all right? she asked.<br />
+        Its somewhat strange, he said, his words muffled. But not disturbingly so.<br />
+        Good. She let her hands slip down, over his chest and taut stomach, and lower yet. <br />
+        He gasped as she curled her fingers around his length. That, too, was cool to the touch, but there would be no mistaking it for anything artificial, not ever. The texture of him was slick and velvety. She stroked him with a firm pressure, watching his face in fascination as she brought him to the brink of his bite reflex. His lips pulled back from his teeth, jaws chewing fitfully at the air.<br />
+        They fell across the lounging platform together, Donovans weight pressing her pleasantly against the cushioned surface. He bent his head to nuzzle at her breasts, lips teasing her nipples until they were tight rosebud nubs. <br />
+        Your dress, he said.<br />
+        My dress. She wiggled out of it with his help, somehow doing so without ever breaking their embrace. Her underwear quickly followed suit, joining the pile of discarded clothes.<br />
+        He cupped the dark-furred mound between her legs, probing exploringly at the warm, moist folds. She cried out as fierce quakes shook her to the core, a sudden orgasm that made the white fire burning in her burst into an inferno. Donovan echoed her cry with a low needful wail, lowering himself onto her.<br />
+        Now, Kyra, I need you now.<br />
+        Enter freely, she sighed, reaching to guide him as the tip of his erection nudged her opening. Her thighs scissored his hips. She raised her buttocks to meet him as he entered her with a long, slow push. <br />
+        The overwhelming rush of that intimate connection drove her into a frenzy, triggering a second climax so close on the heels of the first that it was as if she never subsided, but rode the firestorm higher than shed ever thought possible.<br />
+        Kyra surrendered. She let her head fall back, arching her neck to him, vulnerable and exposed.<br />
+        Donovan moaned with joy and relief. He clamped his mouth to her throat as his instinctive compulsive need seized control of him.<br />
+        She felt the smoothness of his lips and the hardness of his teeth beneath them, the blunt push of the device on her skin hard enough to leave a bruise, but in that instant she didnt care if it left a brand large enough to proclaim to the entire galaxy what shed been doing. <br />
+        The pace of his thrusts sped into urgency, taking Kyra with him as he rushed toward his conclusion. She clung to him, writhing and aflame, knowing only that it had never been like this, shed never thought it could be like this, that nothing could possibly be better --<br />
+        And then something was! A piercing shock shot through her like a silver arrow, every nerve suddenly alight and awash in a sheer ecstasy that dimmed her third orgasm into inconsequence. She heard her rapturous shriek without realizing shed voiced it. <br />
+        With a painless twinge, her mind meshed with Donovans, fused with his, and his sensations were her own just as hers flew to him. She knew the scent/feel/heat of her body, felt the explosive outpouring as he emptied himself into her. It was as if she were doing it herself, emptying into him, but with no sense of being drained, only of giving ...<br />
+        Kyra knew the taste of her own blood, just as Donovan knew it.<br />
+        They collapsed together with a final shudder, neither of them immediately capable of movement. <br />
+        He was warm against her. The thumping of her heart was mirrored by his.<br />
+        Donovan shakily raised his head, and brought his hand to his mouth. When he took it away, it was dark with the rich crimson liquid that stained his lips.<br />
+        Kyra looked numbly up at him. What ...?<br />
+        He spat the device into his hand and stared at it, aghast. It broke!<br />
+        What?!? She found her strength and struggled out from under him, snatching the clearplast from him. <br />
+        There was a hole in it, a hole through which one of his fangs had been driven. <br />
+        She touched her neck, and winced as she found a solitary, seeping wound.<br />
+        Kyra ... Im sorry! I should have pulled out, but by the time I realized, it was too late. He pleaded with her with his eyes. I swear to you, I did not mean it.<br />
+        I know you didnt, she said. But what do we do now?<br />
+        It was only once, he said in apologetic shame. And it was only a half-bite. Youve hardly lost any blood.<br />
+        You mean, maybe well luck out?<br />
+        It could be. The chances against anything happening are very slight.<br />
+        But what if it <em>does</em>, Donovan? What if I get ... She couldnt even bring herself to say the word.<br />
+        If it does, Kyra, Ill do the right thing, he promised, clasping her hand. I would not run out on you, no matter your condition.<br />
+        She managed a weak smile, which he tentatively returned. They lay quietly as their senses returned to normal, and then Kyra ventured another question. <br />
+        Donovan?<br />
+        Yes, Kyra?<br />
+        What I felt ... is it always like that? For the other person, I mean.<br />
+        No, not usually.<br />
+        Oh, she said, more wistfully than she meant to.<br />
+        It was only a half-bite, he added, flicking the empty VEIN-GUARD box with his fingernail. As I told you ... these dull the sensation.<br />
+ <br />
+**</p>
+<p>The End<br />
+  </p></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+\
+*Copyright 2000 Christine Morgan / <christine@sabledrake.com>*\
+ \
+ \
+ \
+ \
+ \
+ \
+ \
+ \

@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995, 1996 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Chapter 2: Basic Data Types and Operators</title>
+<link href="sx1c.html" rev=precedes>
+<link href="sx2a.html" rel=precedes>
+<link href="top.html" rev=subdocument>
+</head>
+<body>
+<H1>Chapter 2: Basic Data Types and Operators</H1>
+
+<p>The <dfn>type</dfn> of a variable
+determines what kinds of values it may take on.
+An <dfn>operator</dfn> computes new values out of old ones.
+An <dfn>expression</dfn> consists of variables, constants, and
+operators combined to perform some useful computation.
+In this chapter, we'll learn about C's basic types,
+how to
+write constants and
+declare variables of these types,
+and
+what the basic operators are.
+</p><p>As Kernighan and Ritchie say,
+``The type of an object determines the set of values it can have
+and what operations can be performed on it.''
+This is a fairly formal, mathematical definition of what a type is,
+but it is traditional (and meaningful).
+There are several implications to remember:
+<OL><li>The ``set of values'' is
+finite.
+C's <TT>int</TT> type can not represent <em>all</em> of the integers;
+its <TT>float</TT> type can not represent <em>all</em> 
+floating-point numbers.
+<li>When you're using an object (that is, a variable) of some type,
+you
+may
+have to remember what values it can take on and what 
+operations you can perform on it.
+For example,
+there are several operators which
+play with
+
+the binary (bit-level) representation of integers,
+but these operators
+are not meaningful for
+and may not be applied to
+floating-point operands.
+<li>When declaring a new variable and picking a type for it,
+you have to keep in mind the values and operations you'll be needing.
+</OL>In other words,
+picking a type for a variable is not some abstract academic exercise;
+it's closely
+connected
+to the way(s) you'll be using that variable.
+</p><p><a href=sx2a.html rel=subdocument>2.1 Types</a></p>
+<p><a href=sx2b.html rel=subdocument>2.2 Constants</a></p>
+<p><a href=sx2c.html rel=subdocument>2.3 Declarations</a></p>
+<p><a href=sx2d.html rel=subdocument>2.4 Variable Names</a></p>
+<p><a href=sx2e.html rel=subdocument>2.5 Arithmetic Operators</a></p>
+<p><a href=sx2f.html rel=subdocument>2.6 Assignment Operators</a></p>
+<p><a href=sx2g.html rel=subdocument>2.7 Function Calls</a></p>
+<hr>
+<p>
+Read sequentially:
+<a href="sx1c.html" rev=precedes>prev</a>
+<a href="sx2a.html" rel=precedes>next</a>
+<a href="top.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995, 1996
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

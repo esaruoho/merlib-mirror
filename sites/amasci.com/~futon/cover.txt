@@ -1,0 +1,198 @@
+HTML 403 Error - File or Directory Access Forbidden 
+
+ HTTP Error 403 - File or Directory Access Forbidden. 
+ Access to the file or directory has been forbidden either by the site 
+administrators or by the file owners. 
+
+ Web Applications 
+ Account Services 
+
+ Web Mail 
+ Eskimo North Bulletin Board 
+ Web SSH Shell Terminal 
+
+ Services & Rates 
+ Internet Hosting 
+
+ Business 
+Domains 
+ Personal 
+Domains 
+ Unix Shell, Game, 
+E-Mail, Lists, Usenet, IRC 
+ Virtual Domains 
+ ETRN Polling E-mail 
+
+ Internet Access 
+
+ Free 2-Week Trial 
+ 56k Dial 
+Access 
+ Broadband 56k Dial
+Backup 
+ 56K ASCII
+Access (Vision Impaired) 
+ 128k ISDN 
+Access 
+ DSL Broadband 
+Internet 
+
+ Support 
+ Dial Access Settings 
+
+ FreeBSD (Console) 
+ Linux (Console / X) 
+ OS/2 
+ Sega Dreamcast 
+ Windows 
+
+ Application Settings 
+
+ Email Settings 
+ PostgreSQL
+Database 
+ SSH Port 
+Forwarding 
+ Usenet News 
+Settings 
+ Website Creation 
+
+ Other Support 
+
+ Contact Us 
+ Find Your IP 
+Address 
+ Traceroute 
+Your IP 
+ Swish Web-Indexing 
+ UnixHelp 
+ Virus Alerts and 
+Filters 
+
+ Join BannerXC Now - Banner Exchange Network 
+
+ Finding Contact Information or Alternate Resources 
+
+ Access is forbidden to the web page specified. If you followed a link
+from another web page, please notify the mainter of that site that this
+link is invalid. 
+
+ If the URL begins with,
+"http://www.eskimo.com/~name", where "name" is a 1-8
+alphanumeric string, the web page belongs to our customer with that
+username. Try going to their home page at
+"http://www.eskimo.com/~name". Their e-mail is
+"name@eskimo.com". 
+
+ If the URL begins with "http://www.eskimo.com/",
+the page is a Eskimo North system page. You may find what you are looking for
+in the left and right bars or on our home page at " http://www.eskimo.com/ ". You can contact
+us at support@eskimo.com . 
+
+ If the URL begins with a different domain name, then it is
+most likely a page that belongs to a business domain hosting , personal domain hosting , or virtual domain 
+customer. You can find contact information by using a domain registries whois
+such as " http://www.gandi.net/whois ". 
+
+ You can search our domain or the Internet on Google.
+
+ Enter your search terms 
+
+ Submit search form 
+
+ Web 
+
+ www.eskimo.com 
+
+ Eskimo North is not a large company but you will not find better human
+personalized service anywhere else. Whatever your needs, you will always
+receive live knowledgeable human assistance when you call 1-800-246-6874 or
+write to support@eskimo.com . 
+
+ Hello! I am Robert Dinse, the founder, owner, and operator of Eskimo 
+North. 
+
+ Eskimo North was started as a BBS running on a Trs-80 model III in 1982,
+grew into a multi-line Unix time-share service, and then a full-service ISP
+providing a broad range of Internet access and hosting services. 
+
+ I've been interested in communications all my life, and specifically in 
+providing the ability for the common person to communicate to a wide 
+audience. 
+
+ I had an interest in pirate and public non-commercial radio when I was in Jr
+High and High School because I felt at the time that commercial radio did not
+fairly represent the broad spectrum of human interests and opinions. Thirty
+years later I still feel this way. In fact, with the demise of the broadcast
+ownership restrictions when broadcast rules were rewritten in the 1996 
+Telecommunications Act, broadcast is now controlled in major markets by only 
+three large corporations with the result being an almost total lack of diverse 
+opinions or local content. 
+
+ After high school I attempted to earn a living in commercial broadcast
+engineering but just was not successful in breaking into a large market with
+little experience. I ended up working for PNB telephone company, which got
+swallowed up by US West which later changed it's name to Qwest for 17 years. In
+1995 I left the telephone company to devote full time to running Eskimo
+North. Providing these services are a way I can still give the common man 
+access to a wide audience so that everyone's ideas can be heard. Below are 
+some of my personal sites. 
+
+ Free Web Games 
+ Flash and Java 
+
+ Eskimo Arcade (Over 200 Games!) 
+
+ System Information 
+ Announcements 
+
+ Customer 
+Testimonials 
+ Eskimo Login 
+Message 
+ General 
+Announcements 
+ System Outages 
+
+ Miscellaneous 
+
+ Equipment 
+Details 
+ Eskimo North 
+History 
+
+ Links 
+ Internal 
+
+ Link to Us 
+ Random User 
+Homepage 
+ User Pages 
+Directory 
+
+ Business/Organizations 
+
+ Animals 
+ Automotive 
+ Aviation 
+ Clothing / Accessories 
+ Computers / Internet 
+ Entertainment 
+ Food / Drink 
+ Gift Ideas 
+ Health / Medicine 
+ Home / Garden 
+ Media 
+ Recreation 
+ Science / Technology 
+ Society / Culture 
+
+ External 
+
+ Newnet IRC 
+Network 
+ Linux User Groups 
+ Miscellaneous Links 
+ Powered by 
+Apache 
+ Powered by Linux

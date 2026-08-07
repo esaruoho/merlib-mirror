@@ -1,0 +1,465 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD html 4.0 transitional//EN">
+<html>
+<SCRIPT LANGUAGE = "JavaScript1.1">
+
+//* script by Neko-kun *
+//added up to btn 16 value
+
+btn1val= 0;
+btn2val = 2;
+btn3val = 4;
+btn4val = 6;
+btn5val = 8;
+btn6val = 10;
+btn7val = 12;
+btn8val = 14;
+btn9val = 16;
+btn10val = 18;
+btn11val = 20;
+btn12val = 22;
+btn13val = 24;
+btn14val = 26;
+btn15val = 28;
+btn16val = 30;
+btn17val = 32;
+btn18val = 34;
+btn19val = 36;
+btn20val = 38;
+btn21val = 40;
+images = new Array(34);
+for(i=0;i<34;i++)
+{
+	images[i] = new Image();
+}
+images[0].src = "sidebar/rola000.gif";
+images[1].src = "sidebar/rolb000.gif";
+images[2].src = "sidebar/rola001.gif";
+images[3].src = "sidebar/rolb001.gif";
+images[4].src = "sidebar/rola002.gif";
+images[5].src = "sidebar/rolb002.gif";
+images[6].src = "sidebar/rola003.gif";
+images[7].src = "sidebar/rolb003.gif";
+images[8].src = "sidebar/rola004.gif";
+images[9].src = "sidebar/rolb004.gif";
+images[10].src = "sidebar/rola005.gif";
+images[11].src = "sidebar/rolb005.gif";
+images[12].src = "sidebar/rola006.gif";
+images[13].src = "sidebar/rolb006.gif";
+images[14].src = "sidebar/rola007.gif";
+images[15].src = "sidebar/rolb007.gif";
+images[16].src = "sidebar/rola008.gif";
+images[17].src = "sidebar/rolb008.gif";
+images[18].src = "sidebar/rola009.gif";
+images[19].src = "sidebar/rolb009.gif";
+images[20].src = "sidebar/rola010.gif";
+images[21].src = "sidebar/rolb010.gif";
+images[22].src = "sidebar/rola011.gif";
+images[23].src = "sidebar/rolb011.gif";
+images[24].src = "sidebar/rola012.gif";
+images[25].src = "sidebar/rolb012.gif";
+images[26].src = "sidebar/rola013.gif";
+images[27].src = "sidebar/rolb013.gif";
+images[28].src = "sidebar/rola014.gif";
+images[29].src = "sidebar/rolb014.gif";
+images[30].src = "sidebar/rola015.gif";
+images[31].src = "sidebar/rolb015.gif";
+images[32].src = "sidebar/rola016.gif";
+images[33].src = "sidebar/rolb016.gif";
+// 20 images for 10 buttons
+
+function out(butnam,butval)
+{
+	
+	document[butnam].src = images[butval].src;
+
+}
+function over(butnam,butval)
+{
+
+	document[butnam].src = images[butval + 1].src;
+
+}
+
+</SCRIPT>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Larry Drews">
+   <meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">
+   <title>Nekocon FLASH! Hotel Page</title>
+</head>
+<BODY bgcolor="white" MARGINWIDTH=0 MARGINHEIGHT=0 LEFTMARGIN=0 TOPMARGIN=0>
+
+<!--Main Table-->
+<TABLE WIDTH=717 BORDER="0" cellpadding="0" cellspacing="0" valign="top" align="left">
+
+<!-- Side Bar Table -->
+
+<!-- TOP BAR -->
+    <table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+    <td VALIGN=TOP width=717><img SRC="sidebar/neo000.gif" BORDER=0></td>
+    </tr>
+    </table>
+
+<!-- Bar and Buttons -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="717">
+<tr>
+<td VALIGN=TOP WIDTH="9" BACKGROUND="sidebar/neo2004.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=9></center>
+</td>
+<td VALIGN=TOP WIDTH="100" BACKGROUND="sidebar/blubg.jpg">
+
+<!-- java buttons  -->
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="100" >
+<td align=center>
+<A HREF="index.html" onMouseOver="over('btn1',btn1val );" onMouseOut="out('btn1',btn1val);">
+<IMG SRC="sidebar/rola000.gif" NAME="btn1" NOSAVE width=100 height=25 border=0 alt='Front Page'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="guest.html" onMouseOver="over('btn2',btn2val );" onMouseOut="out('btn2',btn2val);">
+<IMG SRC="sidebar/rola001.gif" NAME="btn2" NOSAVE width=100 height=25 border=0 alt='The NekoCon Guest List'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dealer.html" onMouseOver="over('btn3',btn3val );" onMouseOut="out('btn3',btn3val);">
+<IMG SRC="sidebar/rola002.gif" NAME="btn3" NOSAVE width=100 height=25 border=0 alt='Dealer Room Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="hotel.html" onMouseOver="over('btn4',btn4val );" onMouseOut="out('btn4',btn4val);">
+<IMG SRC="sidebar/rola003.gif" NAME="btn4" NOSAVE width=100 height=25 border=0 alt='Hotel, Travel and Local Information'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="general.html" onMouseOver="over('btn5',btn5val );" onMouseOut="out('btn5',btn5val);">
+<IMG SRC="sidebar/rola004.gif" NAME="btn5" NOSAVE width=100 height=25 border=0 alt='Registration, Mailing and Internet Info'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="prog.html" onMouseOver="over('btn6',btn6val );" onMouseOut="out('btn6',btn6val);">
+<IMG SRC="sidebar/rola005.gif" NAME="btn6" NOSAVE width=100 height=25 border=0 alt="What's Going on at the Con"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="amvcontest.html" onMouseOver="over('btn7',btn7val );" onMouseOut="out('btn7',btn7val);">
+<IMG SRC="sidebar/rola006.gif" NAME="btn7" NOSAVE width=100 height=25 border=0 alt='Anime Music Video Contest Rules'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="cosplay.html" onMouseOver="over('btn8',btn8val );" onMouseOut="out('btn8',btn8val);">
+<IMG SRC="sidebar/rola007.gif" NAME="btn8" NOSAVE width=100 height=25 border=0 alt="Cosplay Rules and Info"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="dnloads.html" onMouseOver="over('btn9',btn9val );" onMouseOut="out('btn9',btn9val);">
+<IMG SRC="sidebar/rola008.gif" NAME="btn9" NOSAVE width=100 height=25 border=0 alt="Forms for Download"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="ads.html" onMouseOver="over('btn10',btn10val );" onMouseOut="out('btn10',btn10val);">
+<IMG SRC="sidebar/rola009.gif" NAME="btn10" NOSAVE width=100 height=25 border=0 alt="Advertising"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="vol.html" onMouseOver="over('btn11',btn11val );" onMouseOut="out('btn11',btn11val);">
+<IMG SRC="sidebar/rola010.gif" NAME="btn11" NOSAVE width=100 height=25 border=0 alt='Help run the con'></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="art.html" onMouseOver="over('btn12',btn12val );" onMouseOut="out('btn12',btn12val);">
+<IMG SRC="sidebar/rola011.gif" NAME="btn12" NOSAVE width=100 height=25 border=0  alt="Art Show Rules"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="contacts.html" onMouseOver="over('btn13',btn13val );" onMouseOut="out('btn13',btn13val);">
+<IMG SRC="sidebar/rola012.gif" NAME="btn13" NOSAVE width=100 height=25 border=0  alt="Get in touch with us"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="t-shirts.html" onMouseOver="over('btn14',btn14val );" onMouseOut="out('btn14',btn14val);">
+<IMG SRC="sidebar/rola013.gif" NAME="btn14" NOSAVE width=100 height=25 border=0 alt="T-shirts"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="gallery.html" onMouseOver="over('btn15',btn15val );" onMouseOut="out('btn15',btn15val);">
+<IMG SRC="sidebar/rola014.gif" NAME="btn15" NOSAVE width=100 height=25 border=0 alt="NekoCon Art Gallery"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="link.html" onMouseOver="over('btn16',btn16val );" onMouseOut="out('btn16',btn16val);">
+<IMG SRC="sidebar/rola015.gif" NAME="btn16" NOSAVE width=100 height=25 border=0 alt="Links"></A>
+</td>
+<tr>
+<td align=center>
+<A HREF="News.html" onMouseOver="over('btn17',btn17val );" onMouseOut="out('btn17',btn17val);">
+<IMG SRC="sidebar/rola016.gif" NAME="btn17" NOSAVE width=100 height=25 border=0 alt="News, Web Updates"></A>
+</td>
+</table>
+
+
+
+
+
+<td VALIGN=TOP WIDTH="13" BACKGROUND="sidebar/neo2006.gif">
+<center><img SRC="sidebar/clear.gif" height=10 width=13></center>
+</td>
+<!-- end java buttons  -->
+</td>
+
+<td valign=top WIDTH="575">
+
+<TABLE align=center BORDER=0 WIDTH=575>
+<TR>
+<TD>
+
+
+<!-- Begin Main Body Insertion Point -->
+
+<center><table CELLSPACING=0 CELLPADDING=0 WIDTH="570" >
+<tr>
+<td valign=top WIDTH="367">
+<center><h3>Hotel Information</h3></center>
+
+<font face="Arial,Helvetica" size=-1>
+Animecon going is once again returning to the wonderful hospitality of the Holiday Executive Center in lovely Virginia Beach, Virginia. (Birthplace of Katsucon and NekoCon) The HIEC has held more animecons than any other hotel east of the Mississippi River. During the year we were away from the hotel, it has gone under a slight transformation.  A new look for a new Millennium, while still retaining the laid back and casual atmosphere that our attendees and guests have come to enjoy year after year.<br>
+</font>
+<p>
+<u><font size=+1>Nightly Rates</font></u></b>
+<font size=+1><b><font color="#FF0000">$79.00</font></b> </font>
+<font face="Arial,Helvetica" size=-1>per room per night for Single to Quad Occupany.<br>
+This rate will available starting the Thursday night before the convention through to
+the Monday morning after.
+<br></td>
+
+<td WIDTH="193"><img SRC="images/hieclogo.jpg" height=87 width=193>
+<br><img SRC="images/hiecphoto1.gif" BORDER=0 height=199 width=193></td>
+</tr>
+</table></center>
+
+<center><table CELLSPACING=3 CELLPADDING=3 COLS=2 WIDTH="570" >
+<tr>
+<td VALIGN=TOP>
+<center><b><u>Making Resevations</u></b></center>
+
+<dd>It is best to place your resevations <b>Mon-Fri</b> between <b>8AM and 5PM EST</b> directly with the hotel.  If you call Holiday Inn's 1-800 national number there is a chance they will either tell you that the hotel is booked, or that they don't know about the convention. (It has happened) When you do make your reservations, You must mention NekoCon in order to get the grouip rate. Deadline to reserve a room under the convention rate is <b>September 29, 2001</b>
+<dd>You can place your reservations for Neko-Con by either contacting the hotel
+directlty at the address and phone number below.
+
+<p>Holiday Inn Executive Center
+<br>5655 Greenwich Road
+<br>Virginia Beach, Virginia 23462
+<br>(757) 499-4400
+
+<center><b>or</b></center>
+You can make your reservations over the internet from the <b>Holiday Inn
+Executive Center's <a href="http://www.insiders.com/chesapeake-va/wwwads/holidayexec/index.htm">Online
+Reservation Service</a> , </b>loctaed on their web site.&nbsp;</td>
+
+
+
+
+<td>
+<center><b><u>Hotel Amenities</u></b></center>
+Guestrooms with In-Room Coffee, Cable Television &amp; Complimentary HBO
+<br>Free Parking
+<br>Complimentary Local Phone Calls
+<br>In-Room Voice Mail and Messages
+<br>Mailboxes Etc. locataed in Hotel Lobby
+<br>Room Service
+<br>Complimentary Airport Transportation
+<br>Full Service Restaurant and Lounge
+<br>Indoor/Outdoor Swimming Pools
+<br>Exercise Room, Sauna and Whirlpool
+<br>Business Center Available
+<br>Computer Ports in all Guest Rooms
+<br>Dry Cleaning and Laundry Services</td>
+</tr>
+</table></center>
+
+<hr>
+<center><h2>Overflow Hotels</h2></center>
+<b>Hampton Inn - 5793 Greenwich Road (757)490-9800</b><br>
+122 units. Kings & doubles avail. - free continental breakfast - exercise and weight room - pool - CC/TV - non-smoking rooms<P>
+<b>Courtyard by Marriott - 5700 Greenwich Road (757) 490-2002</b><br>
+146 units. A/C - restaurant - lounge - pool - exercise room - whirlpool - CC/TV<p> 
+
+Both hotels are next door to the Holiday Inn Exec Center.<br>
+Note: There is no con rate for the overflow hotels but they are the same price or cheaper.<p>
+
+<hr SIZE=3 WIDTH="85%">
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=1 WIDTH="570" >
+<tr>
+
+
+<td>
+<center><h3>Travel Directions</h3></center>
+<b>By Car</b><br>
+For directions by car, <a href="directions/index.html">CLICK HERE</a>
+
+
+<p><b>Air</b>
+<br>Most major carriers fly into Norfolk International<br>
+(Norfolf Int's 3 Letter Airport Code is <b>ORF</b>)<br>
+The airport is only a short 15 minute ride away and the Holiday Inn Exec Center <br>
+ does offer a complimentary shuttle service for arriving and deprating guests.
+ 
+<p><b>Amtrack and Bus Service</b>
+<br>The nearest Amtrack or Bus Terminal is located in neighboring Norfolk.&nbsp;
+No shuttle service is available. Calling a cab, or arranging for a friend
+to pick you or drop you off is your best way to&nbsp; reach the hotel.</td>
+</tr>
+</table></center>
+
+<hr SIZE=3 WIDTH="85%">
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=1 WIDTH="570" >
+<tr>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>After you arrive at the convention, occasionally you may want to leave
+to get food, stop by an ATM. or even just fuel up before your long trip
+home.&nbsp; Here's a easy to follow map and a listing of some the favorite
+spots near the hotel.</td>
+</tr>
+
+<tr>
+<td>
+<center><img SRC="images/Map2.jpg" height=554 width=560></center>
+</td>
+</tr>
+</table></center>
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=2 WIDTH="570" >
+<tr VALIGN=TOP>
+<td ALIGN=LEFT VALIGN=TOP><img SRC="images/star.jpg" height=40 width=43 align=CENTER>&nbsp;
+
+<b>Holiday Inn Executive Center</b></td>
+
+<td><img SRC="images/hosp.jpg" height=40 width=43 align=ABSCENTER>&nbsp; <b>Sentara
+Leigh Hospital</b></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>1.&nbsp;&nbsp; Denny's
+<br>2.&nbsp;&nbsp; 7-Eleven
+<br>3.&nbsp;&nbsp; Exxon Service Station
+<br>3a. Exxon Gas
+<br>4.&nbsp;&nbsp; Wendy's
+<br>5.&nbsp;&nbsp; MacDonald's
+<br>6.&nbsp;&nbsp; Shoney's
+<br>7.&nbsp;&nbsp; <b>Strip Mall</b>
+<br><dd>Kyushuu's Take Out Sushi</dd>
+<br><dd>Tony's Hot Dogs</dd>
+<br><dd>New Town Inn</dd>
+<br>8.&nbsp;&nbsp; Amoco Gas
+<br>9.&nbsp;&nbsp; Getty Mart
+<br>10.&nbsp Willie's Grill
+<br>11.&nbsp;&nbsp; <b>Arrow Head Plaza</b>
+<br><dd>Dunkin Donuts</dd>
+<br><dd>Zero's Subs</dd>
+<br><dd>Burger King</dd>
+<br>12.&nbsp;&nbsp; Nick's Grill</td>
+
+<td VALIGN=TOP>13&nbsp;&nbsp; <b>Kempsville Plaza</b>
+<br><dd>Pizza Hut Express Carry Out</dd>
+<br><dd>Szechuan Gardens</dd>
+<br><dd>Pastrami Joe's</dd>
+<br>14&nbsp;&nbsp; China Combo Express
+<br>15&nbsp;&nbsp; McDonalds's and Lomg John Silvers
+<br>16&nbsp;&nbsp; Amoco
+<br>17&nbsp;&nbsp; Palard's Chicken
+<br>18&nbsp;&nbsp; Ragazzi's
+<br>19&nbsp;&nbsp; Exxon
+<br>20&nbsp;&nbsp; <b>Military Circle Plaza</b>
+<br><dd>Kinko's</dd>
+<br><dd>Compu USA</dd>
+<br><dd>Office Depot</dd>
+<br><dd>Kentucky Fried Chicken</dd>
+<br>21.&nbsp;&nbsp; BP Gas
+<br>22. Texaco
+<br>23. Crown Gas</td>
+</tr>
+</table></center>
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=1 WIDTH="570" >
+<tr>
+<td ALIGN=CENTER>ATM machine are located at the Chartway and the Naval
+Federal Credit Union. located within walking distance on Newtown Road.
+(Turn at the light on Newton and Greenwich road)&nbsp;
+<br>
+<hr SIZE=3 WIDTH="100%">
+<br><b>Neko-Con would like to thank Patrick Starling for updating the&nbsp;</b>
+<br><b>information for our local area map.</b></td>
+</tr>
+</table>
+
+
+
+
+<!-- End Main Body Insertion Point -->
+<!-- COPYRIGHT STUFF -->
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="550" >
+<tr>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box000.jpg" height=8 width=8></td>
+<td HEIGHT="8" BACKGROUND="boxbars/box001.jpg"><img SRC="boxbars/clear.gif" height=8 width=63></td>
+<td WIDTH="8" HEIGHT="8"><img SRC="boxbars/box002.jpg" height=8 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" BACKGROUND="boxbars/box003.jpg"><img SRC="boxbars/clear.gif" height=10 width=8></td>
+<td WIDTH="531">
+<center><font face="Arial,Helvetica"><font size=-1>Neko-Con FLASH and the contents of this page &copy;2000
+&amp; 2001 Chibi Neko Entertainment.</font>
+<br><font size=-1>Please send comments to the sites <a href="mailto:neko-kun@triad.rr.com">webmaster</a></font></center>
+</td>
+<td WIDTH="11" BACKGROUND="boxbars/box005.jpg"><img SRC="boxbars/clear.gif" height=10 width=11></td>
+</tr>
+<tr>
+<td WIDTH="8" HEIGHT="11"><img SRC="boxbars/box006.jpg" height=11 width=8></td>
+<td HEIGHT="11" BACKGROUND="boxbars/box007.jpg"><img SRC="boxbars/clear.gif" height=11 width=63></td>
+<td WIDTH="11" HEIGHT="11"><img SRC="boxbars/box008.jpg" height=11 width=11></td>
+</tr>
+</table>
+</center>
+<!-- COPYRIGHT STUFF -->
+
+</table>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

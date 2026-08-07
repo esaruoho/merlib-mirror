@@ -1,0 +1,156 @@
+Device plans: room-temperature Meissner-shield Maglev 
+
+ SCIENCE HOBBYIST 
+
+ GUESTBOOK 
+
+ GOOD STUFF 
+
+ NEW STUFF 
+
+ HELP! 
+
+ Magnetic Levitation cradle Lifts a magnet from
+below 
+
+ Based upon an electrically-produced Meissner-like effect 
+
+I'm a science hobbyist and occasional exhibit designer for science museums. 
+The devices
+shown here were part of a prototype "room-temperature superconductive
+table" which never 
+made it to a museum. I thought I'd place it here so students and hobbyists
+could experiment with this strange maglev effect. 
+
+This device is not trivial to build, so I would recommend it mostly for
+ ADVANCED HIGH-SCHOOL LEVEL AND ABOVE . If you've never built any
+electronic devices before, I wouldn't recommend the maglev cradle as your
+first project. I built mine using parts from a mail-order surplus store. 
+Since you'll be using DIFFERENT surplus parts, my plans are only
+guidelines for experienced hobbyists rather than detailed instructions for
+a beginner. Experimentation will be required in order to get this device
+to work. Also check out " Simple maglev
+train ", which uses only permanent magnets, and the Science Projects page. 
+ Dowling
+magnetics sells SDK-100, a maglev train kit which uses only permanent
+magnets. DON'T MISS MY " AMATEUR
+SCIENCE " WEBSITE 
+
+RECOMMENDED LINK:
+ WHO REALLY INVENTED "LEVITRON?" 
+
+ My Maglev Articles: 
+
+ Feedback-stablized Cradle 
+ Photo, cores diagram 
+ Schematic & info 
+
+ Doin' it Mechanically! 
+ Independent discovery (patented!)
+ Hall-effect sensors 
+ Some Maglev theory 
+ Simple maglev train 
+ Linear motor maglev drive 
+ "Superconductor" plate w/visible current 
+
+A Maglev book. Get it through "interlibrary loan" at your public library:
+
+"Electromagnetic Levitation and Suspension Techniques", B.V. Jayawant,
+Publishers: Edward Arnold, London, 1981, ISDN:0713134283
+
+A project article:
+
+POPULAR ELECTRONICS magazine, May 1989, Vol 6 No. 5, pp35-37, The
+"Antigravity" Generator, by V. Vollono. A coil lifts a plastic ball and 
+magnet from above, controlled by photocell. Instructions, schematic, parts
+list.
+
+LOOKING FOR BOOKS? Try searching
+
+amazon.com : 
+
+ (try "science fair" too) 
+
+Help Support the Science Club ,
+ use the above form to buy your books. 
+(We make a few $$ on any books ordered via these links.) 
+
+ Some Maglev Links 
+ Kits & curric 
+
+ 'Hover engine' maglev kit
+ Lev Globe (UK) 
+ Diamagnetic Levitator 
+ Maglev Globe Kit 
+
+ Levitation Train Kit from Dowling Magnetics 
+ Levitation Train Exhibit Kit 
+ Argonne maglev curriculum
+ Kyrene maglev curriculum
+
+Kelvin maglev curriculum ($)
+ Wondermagnet, inexpensive supermagnets 
+
+ LINKS 
+
+ Levitron's Hidden History (a stolen invention)
+ Skeptic momentarily suspects that Levitron is pseudoscience?!
+ WHO REALLY INVENTED "LEVITRON?" 
+ Levitron and dishonesty 
+ Mike & Karen Sherlock 
+
+ Electromag levitator project 
+
+ Maglev Toy uses Hall-effect feedback (NEW 11/2000)
+ Maglev Toy uses photosensor feedback
+ Amateur Seismometer using maglev 
+ Halbach Array inductive maglev
+ Lev Globe (UK) 
+ Diamagnetic Levitator (no spin, no batteries!)
+ Levitating World Globe Exhibit at an Aust. science center
+ Scitoys: levitator 
+ M. Lamb diamagnetics 
+ Wondermagnet, inexpensive supermagnets 
+ Look inside a commercial "maglev world globe"
+ Propelled Maglev Train by C. Huckle
+ Levitating train 
+project from Magnet Man website
+
+Levitating World-globe 
+ Levitation Train Kit from Dowling Magnetics 
+ NASA Large Gap levitator , and References 
+ Physics of Maglev 
+ Maglev Globe Kit 
+ with permanent magnets?
+ Colorado Superconductor 
+ TRAC maglev education project & products
+ Student maglev project 
+ Maglev bearings 
+ Student lab MAGLEV 
+ Sandia science edu. outreach MAGLEV 
+ Allegro Inc. , source for hall-effect sensors
+ Levitron maglev toy
+ Levitron toy 
+ Maglev display stand 
+ DOT Research on EMF due to Maglev systems 
+ maglev for VR feedback 
+ Maglev train sound 
+ Energywise options 
+ RTRI: Japanrail Maglev Project 
+ RTRI: Overview of Maglev Test Lines 
+ RTRI: Superconducting Maglev Technology 
+ USAF to develop Maglev 
+ Maglev Gets a Boost 
+ Prof. Schetz Maglev 
+ Designing and Testing "Maglev" Vehicles and Systems 
+ LAH HIGH SPEED/AUTOMATED TRANSPORTATION 
+ LAH ARCHIVES MAGLEV 
+ French TGV project 
+ Maglev turbine energy storage 
+ NASA LARC papers '92 
+ NASA LARC papers '94 
+ NASA LARC paper instructions 
+
+Created and maintained by Bill Beaty . Mail me at: billb@eskimo.com .
+
+If you are using Lynx, type "c" to email.

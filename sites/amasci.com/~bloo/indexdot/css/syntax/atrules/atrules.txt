@@ -1,0 +1,72 @@
+At-Rules - Cascading Style Sheets Syntax 
+
+ At-Rules 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ At-Rules 
+ @charset [ CSS2
+ | IE5.5 | N6
+ | O?? ]
+ Specifies the character encoding used in the external style sheet.
+ @import [ CSS1
+ | CSS2 | IE4
+ | N6 | O3.5 ]
+ Imports a style sheet fragment file to the current style sheet.
+ @media [ CSS2
+ | IE4 | N6
+ | O3.5 ]
+ Specifies style rules to be rendered only with specified media.
+ @namespace [ CSS3
+ | N6 ]
+ Declares namespace prefixes for use in CSS selectors.
+ @page [ CSS2
+ | IE5.5 | O?? ]
+ Defines a page box.
+ @fontdef [ N4-4.x ]
+ Netscape's method for specifying an external font definition file.
+ @font-face [ CSS2 |
+ IE4 ]
+ Describes the characteristics of a particular font.
+
+ What Are At-Rules? 
+ At-Rules extend CSS Rule Set syntax beyond simple Selector/Declaration
+ blocks. Any functionality in CSS that does not fall under the umbrella of
+ selector/style declaration pair bindings uses a special At-Rule syntax.
+
+ Syntax: An At-Rule begins with the "@" character
+ followed immediately by a keyword. Following the keyword separated by
+ a space is an At-rule statement appropriate to the At-keyword used.
+ If the At-Rule is a simple declarative statement (charset, import, fontdef),
+ it is terminated by a semi-colon (";".) If the At-Rule is a conditional
+ or informative statement (media, page, font-face), it is followed
+ by optional arguments and then a style declaration block inside
+ matching curly braces ("{", "}".) At-Rules are sometimes nestable,
+ depending on the context. If any part of an At-Rule is not understood,
+ it should be ignored. 
+
+ Syntax/Examples 
+ Simple, declarative At-Rule 
+ Syntax: 
+ @[ Keyword ] [ arguments ];
+ Example: 
+ @ import 
+ url( foo.css )
+ screen ; 
+
+ Conditional/Informative At-Rule 
+ Syntax: 
+ @[ Keyword ] [ arguments ]
+ { [ style declaration block ] }
+ Example: 
+ @ media 
+ screen 
+ { color: green;
+ background-color: yellow } 
+
+ Boring Copyright Stuff....

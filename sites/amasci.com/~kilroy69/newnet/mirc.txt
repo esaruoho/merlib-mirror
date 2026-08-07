@@ -1,0 +1,34 @@
+mIRC Page on CoolTime 
+
+ mIRC Download Page on C l Time 
+
+ Welcome to C l Times
+mIRC download page. mIRC is a favorite IRC
+Client. Version 5.11 is available now!
+
+ IRC (Internet Relay Chat) is a system which allows people from around
+the world to engage in text based chat both in large groups discussing
+particular topics and in privte one-on-one conversations. 
+mIRC is
+easy to set up and easy to use
+simply download the appropriate version below. You may also want to
+download the appropriate help file. To download, hold down SHIFT and
+click on the file you want.
+
+ mirc511s.exe mIRC 16
+ bit client for Windows 3.1x 
+ mirc511t.exe mIRC 32
+bit client for Windows 95 
+ mfaq29hp.zip help file 
+ mircfq29.zip FAQ 
+
+ More help and information will be appearing here soon but I wanted to 
+get this up and running :-). If you're looking for more information, go to
+ http://www.mirc.co.uk/ 
+for lots more information.
+
+ You can go back to the pictures or follow
+links to other NewNET homepages. 
+
+ Site provided courtesy of C l
+Time Website Design.

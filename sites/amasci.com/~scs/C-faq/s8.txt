@@ -1,0 +1,25 @@
+Characters and Strings 
+
+ 8. Characters and Strings 
+
+ 8.1
+Why doesn't
+" strcat(string, '!'); "
+work?
+ 8.2
+Why won't the test if(string == "value") 
+correctly compare string against the value?
+ 8.3
+Why can't I assign strings to character arrays?
+ 8.6
+How can I get the
+numeric
+(character set)
+
+value
+corresponding to a
+character?
+ 8.9
+Why is sizeof('a') not 1?
+
+ top

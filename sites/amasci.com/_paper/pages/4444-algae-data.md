@@ -1,0 +1,212 @@
+---
+title: "Algae: Data"
+source_domain: amasci.com
+source_path: ~ksh/algae/algae_5.html
+order: 4444
+reachable_from_entry: false
+images: 1
+internal_links: 6
+extracted: 2026-08-07T17:11:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Algae: Data
+
+*Source page: `~ksh/algae/algae_5.html`*
+
+<span id="SEC35"></span>
+
+|  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|
+| \[ [\<\<](algae_4.html#SEC7) \] | \[ [\>\>](algae_6.html#SEC36) \] |   |   |   |   |   | \[[Top](algae.html#SEC_Top)\] | \[[Contents](algae_toc.html#SEC_Contents)\] | \[[Index](algae_10.html#SEC57)\] | \[ [?](algae_abt.html#SEC_About) \] |
+
+------------------------------------------------------------------------
+
+# ![](icon.gif) 5. Data
+
+Entities are the basic objects (constants and variables) in Algae. They contain members and elements. Members contain information about the entity, such as the number of rows in a matrix. An entity's elements, if it has any, contain the data such as the value of a scalar. There are five classes:
+
+`` `scalar' ``  
+<span id="IDX143"></span> <span id="IDX144"></span> The `` `scalar' `` data structure contains a single element, its value, which may have any of the data types described above. Its members are:
+
+`` `class' ``  
+The string `` `"scalar"' ``.
+
+`` `type' ``  
+The type (like `` `"integer"' `` or `` `"real"' ``).
+
+Notice that a scalar is not the same as a one-element vector or matrix.
+
+`` `vector' ``  
+<span id="IDX145"></span> The `` `vector' `` entity contains a one-dimensional array of elements. Its members are:
+
+<span id="IDX146"></span>
+
+`` `class' ``  
+The string `` `"vector"' ``.
+
+`` `type' ``  
+The type (like `` `"integer"' `` or `` `"real"' ``).
+
+`` `density' ``  
+Either `` `"dense"' `` or `` `"sparse"' ``.
+
+`` `ne' ``  
+The number of elements.
+
+`` `nn' ``  
+The number of non-zero elements.
+
+`` `eid' ``  
+The element labels.
+
+The element labels of a vector are themselves a vector.
+
+`` `matrix' ``  
+<span id="IDX147"></span> The `` `matrix' `` data structure contains two-dimensional arrays of elements. It contains zero or more rows and columns. The members of a matrix are:
+
+<span id="IDX148"></span>
+
+`` `class' ``  
+The string `` `"matrix"' ``.
+
+`` `type' ``  
+The type (like `` `"integer"' `` or `` `"real"' ``).
+
+`` `symmetry' ``  
+One of `` `"general"' ``, `` `"symmetric"' ``, or `` `"hermitian"' ``.
+
+`` `density' ``  
+One of `` `"dense"' ``, `` `"sparse"' `` or `` `"sparse_upper"' ``.
+
+`` `nr' ``  
+The number of rows.
+
+`` `nc' ``  
+The number of columns.
+
+`` `nn' ``  
+The number of nonzero elements. For matrices with "sparse_upper" density, this number does not include the elements on the diagonal, all of which are stored. Sorry.
+
+`` `rid' ``  
+The row labels.
+
+`` `cid' ``  
+The column labels.
+
+The row and column labels of a matrix are vectors. The row label vector has the same number of elements as its matrix has rows, and likewise for the column label.
+
+<span id="IDX149"></span>
+
+`` `table' ``  
+The `` `table' `` object is like a bucket that can contain any number of other objects.
+
+Several functions return tables. For example, the `eig` function returns a table that contains the matrices `values` and `vectors`.
+
+The entities contained in a table are members of it, so they can be extracted using the <span class="kbd">.</span> operator. Thus `eig(A).values` returns the eigenvalues of `` `A' ``.
+
+<span id="IDX150"></span>
+
+`` `function' ``  
+Functions are entities just like scalars and matrices, and can be operated on in the same manner. Functions have two members: `` `class' ``, which is `"function"`, and `` `ilk' ``, which is either `"user"` or `"builtin"`.
+
+<span id="IDX151"></span> <span id="IDX152"></span> <span id="IDX153"></span> The `scalar`, `vector`, and `matrix` classes are known collectively as *arrays*. These are the only classes that contain elements, and all have the member `type` that specifies the data type. There are four types:
+
+`` `integer' ``  
+<span id="IDX154"></span> On most machines this is a 32-bit integer, like 42 or -273.
+
+`` `real' ``  
+<span id="IDX155"></span> This is a floating point number like 3.1415. It is stored in 64 bits on most machines.
+
+`` `complex' ``  
+<span id="IDX156"></span> This is a complex number having both real and imaginary parts.
+
+`` `character' ``  
+<span id="IDX157"></span> This is a character string like `` `"Hello"' ``.
+
+<span id="IDX158"></span> <span id="IDX159"></span> <span id="IDX160"></span> Scalar constants are specified in a manner similar to that used in other programming languages. Numeric constants can be given in decimal form, such as `` `32' `` or `` `32.0' ``, or in scientific notation, such as `` `3.2E1' ``. In the latter notation, the letters `` `e' `` and `` `E' `` may be used interchangeably to prefix the exponent. White space (space, tab, etc.) is significant in that context, of course, so that `` `1.2e+3' `` (1200.0) is definitely not the same as `` `1.2e +3' `` (4.2).
+
+<span id="IDX161"></span> <span id="IDX162"></span> <span id="IDX163"></span> <span id="IDX164"></span> <span id="IDX165"></span> <span id="IDX166"></span> <span id="IDX167"></span> <span id="IDX168"></span> A `` `character' `` constant is a sequence of one or more characters surrounded by matching double-quotes. Within the quotes, the backslash character may be used to introduce "escape sequences" for unusual characters like <span class="kbd">newline</span>. For example, the string `` `"\""' `` is a string containing a single character (the right double-quote). The following escape sequences may be used:
+
+`\a`  
+bell
+
+`\b`  
+backspace
+
+`\e`  
+escape
+
+`\f`  
+formfeed
+
+`\n`  
+newline
+
+`\r`  
+carriage return
+
+`\t`  
+tab
+
+`\v`  
+vertical tab
+
+`\ooo`  
+octal number
+
+`\xhh`  
+hexadecimal number
+
+The escape sequence `\ooo` consists of a backslash followed by one, two, or three octal digits, which are taken to specify the value of the desired character. For example, `\33` is the ASCII "escape" character (which is also given by `\e`). Likewise, the sequence `\xhh` consists of a backslash followed by `` `x' ``, followed by one or two hexadecimal digits, which specify the value of the desired character. For example, `\x1b` also specifies the ASCII "escape" character.
+
+If the character following the backslash is not one of those specified above, then that character is taken literally. For example, `\"` specifies the double-quote character--not the end of the character constant.
+
+<span id="IDX169"></span> Matrices may be generated by specifying their elements within brackets. Commas separate elements within rows and semicolons separate the rows. Thus `[1,2;3,4]` specifies the matrix
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td> </td>
+<td class="display"><pre style="font-family: serif"><code>[ 1  2 ]
+[ 3  4 ]</code></pre></td>
+</tr>
+</tbody>
+</table>
+
+<span id="IDX170"></span> <span id="IDX171"></span> A vector may be generated by using either of the forms `` `i:j' `` or `` `i:j:k' ``. It is obtained by starting with the value `` `i' `` and incrementing by `` `k' `` (or 1 if the first form is used) while remaining between `` `i' `` and `` `j' ``, inclusive. (Notice that this is not the same format used by MATLAB.) For example, `[1:8:2]` is the same as `[1,3,5,7]`. All elements within a matrix have the same type (`` `integer' ``, `` `real' ``, etc.); conversion will be performed automatically if possible.
+
+The terms within the brackets may be constants, variables, or expressions. For example, `[1+2,3]` is the same as `[3,3]`. Matrices may be involved, as long as their dimensions are appropriate. For example, if the variable `` `A' `` is defined to be equal to the square matrix `` `[1,2;3,4]' ``, then a new column could be appended to it with the expression `[A,[5;6]]` to yield
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td> </td>
+<td class="display"><pre style="font-family: serif"><code>[ 1  2  5 ]
+[ 3  4  6 ]</code></pre></td>
+</tr>
+</tbody>
+</table>
+
+Matrices may be partitioned by specifying the desired row and column numbers within brackets. For example, if `` `A' `` is a previously defined matrix then `A[1;1]` specifies a scalar having the value of the element in the first row and the first column of `` `A' ``. The semicolon within the parentheses separates the row specifiers from the column specifiers.
+
+Members of data structures are referred to by using the member operator `` `.' ``. For example, the number of rows in a matrix is stored in the member `nr`, so `A.nr` returns the number of rows in the matrix `A`. The member operator associates left to right, so that `A.type.type` returns the string `"character"`.
+
+<span id="Standard Functions"></span>
+
+------------------------------------------------------------------------
+
+|  |  |  |  |  |  |  |  |  |  |  |
+|----|----|----|----|----|----|----|----|----|----|----|
+| \[ [\<\<](algae_4.html#SEC7) \] | \[ [\>\>](algae_6.html#SEC36) \] |   |   |   |   |   | \[[Top](algae.html#SEC_Top)\] | \[[Contents](algae_toc.html#SEC_Contents)\] | \[[Index](algae_10.html#SEC57)\] | \[ [?](algae_abt.html#SEC_About) \] |
+
+\
+This document was generated by *K. Scott Hunziker* on *October, 31 2001* using [*texi2html*](http://www.mathematik.uni-kl.de/~obachman/Texi2html%0A)

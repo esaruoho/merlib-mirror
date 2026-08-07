@@ -1,0 +1,137 @@
+---
+title: "belljar"
+source_domain: amasci.com
+source_path: amateur/belljar.html
+order: 376
+reachable_from_entry: true
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:05:01Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# belljar
+
+*Source page: `amateur/belljar.html`*
+
+INFORMATION ON
+                            "the Bell Jar"
+                    Vacuum Technique and Related Topics 
+                        for the Amateur Investigator  
+                            ISSN 1071-4219 
+              
+                     The Complete Newsletter and Journal
+                         for the Vacuum Experimenter 
+
+            $20 (US addresses), $23 (Canada, Mexico), $29 (elsewhere)
+
+- [the BELLJAR](http://www.tiac.net/users/shansen/belljar/) page
+- [Index](http://www.eskimo.com/~billb/amateur/bllindx.txt)
+- [SUPPLIERS](http://www.eskimo.com/~billb/amateur/bllsupl.txt) list
+- [Belljar \#1](http://www.eskimo.com/~billb/amateur/blljar1.txt)
+- [Belljar \#2](http://www.eskimo.com/~billb/amateur/blljar2.txt)
+- [Belljar \#3](http://www.eskimo.com/~billb/amateur/blljar3.txt)
+- [Belljar \#4](http://www.eskimo.com/~billb/amateur/blljar4.txt)
+
+<!-- -->
+
+              ***************************************
+              *                                     *
+              *  CONTACT:                           *
+              *                                     *
+              *  the BELLJAR                        *
+              *  Steve Hansen (editor & publisher)  *
+              *  35 Windsor Drive                   *
+              *  Amherst, NH 03031                  *
+              *                                     *
+              *  Phone: (603) 429-0948              *
+              *  email: hansen35@delphi.com         *
+              *                                     *
+              ***************************************
+
+    Access to moderately good vacuum apparatus can open up a whole new
+    dimension to the amateur. However, practical information has not
+    been easy to come by. 
+
+    In the 1950's and 1960's there was some level of discourse on
+    simple vacuum apparatus. For those who remember, two good examples
+    were C.L. Stong's Amateur Scientist column in the Scientific
+    American and the amateur oriented pumps, kits and plans once
+    offered by the firm of Morris & Lee of Buffalo, NY. Between the
+    two, an impressive array of apparatus emerged from the efforts of
+    ambitious basement experimenters. There were a variety of gas
+    lasers, x-ray tubes, potential drop accelerators, mass
+    spectrometers, simple & compound electron microscopes and high
+    altitude chambers, to name a few. All of these were cobbled
+    together with converted refrigeration compressors, single stage
+    diffusion pumps, copper & glass tubing, wax and a lot of ingenuity.
+    The staying power of these endeavour is evidenced by the continued
+    recycling of plans (often in the form of poor imitations) for a
+    number of the vacuum related projects in Stong's columns. In the
+    intervening years there has been an almost complete lapse in the
+    availability of up-to-date information on vacuum technique and
+    apparatus specifically targeted toward the amateur, educator, or
+    professional who likes to tinker. 
+
+    "the Bell Jar" was created at the start of 1992 to bring together
+    those experimenters who have an established interest in vacuum as
+    well as to promote vacuum technique as an interesting and
+    challenging hobby. 
+
+    Nearly three years later, the readership numbers in the hundreds
+    and contributors range from true amateurs to professionals with
+    established credentials in the field. This diversity has made for
+    a lively publication and has resulted in favourable comments from
+    the professional community (e.g. "There's Life in this Bell Jar"
+    in the Newsletter of the American Vacuum Society, May/June 1994).
+
+    The following outlines the article content by annual volume: 
+    INDEX
+
+    Regular features include free classifieds, readers' commentary,
+    items of interest from the professional literature, notes on
+    suppliers of vacuum components and scientific apparatus.
+
+    Subscriptions to "the Bell Jar" are on a calendar year basis with
+    issues mailed in January, April, July and October. Subscription
+    orders received after November 1 begin with the first issue of the 
+    following year unless otherwise specified. Each issue contains an
+    average of 16 pages of well packed and neatly composed content with
+    no commercial advertising. Back volumes are always available.
+    Prices, including first class or air mail postage, are:
+
+    ******************************************************************
+    1995    $20 (US addresses), $23 (Canada, Mexico), $29 (elsewhere)
+    1994    $20 (US addresses), $23 (Canada, Mexico), $29 (elsewhere)
+    1993    $20 (US addresses), $23 (Canada, Mexico), $29 (elsewhere) 
+    1992    $15 (US addresses), $18 (Canada, Mexico), $24 (elsewhere) 
+    ******************************************************************
+
+    Electronic Version
+
+    As an adjunct to the hardcopy publication, a truncated ascii format
+    version is being produced on an IRREGULAR basis. Comprised of
+    material extracted from "the Bell Jar", this version appears as a
+    posting on several Usenet newsgroups. Individuals may also request
+    to be placed on the distribution list by sending email to the
+    editor. 
+
+              ***************************************
+              *                                     *
+              *  CONTACT:                           *
+              *                                     *
+              *  Steve Hansen (editor & publisher)  *
+              *  35 Windsor Drive                   *
+              *  Amherst, NH 03031                  *
+              *                                     *
+              *  Phone: (603) 429-0948              *
+              *  email: hansen35@delphi.com         *
+              *                                     *
+              ***************************************
+
+- [Index](http://www.eskimo.com/~billb/amateur/bllindx.txt)
+- [SUPPLIERS](http://www.eskimo.com/~billb/amateur/bllsupl.txt) list
+- [Belljar \#1](http://www.eskimo.com/~billb/amateur/blljar1.txt)
+- [Belljar \#2](http://www.eskimo.com/~billb/amateur/blljar2.txt)
+- [Belljar \#3](http://www.eskimo.com/~billb/amateur/blljar3.txt)
+- [Belljar \#4](http://www.eskimo.com/~billb/amateur/blljar4.txt)

@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>Refreshing with WM_PAINT</title>
+</head>
+<body>
+<h1>Refreshing with WM_PAINT</h1>
+
+One of the weaknesses of <b>windraw1</b> is that a drawn image
+can become broken. If you cover a part of the circle with another
+window and then move that window away, you are left with a
+partial circle. Windows expects you to redraw that portion, and
+it signals you by posting a WM_PAINT message. 
+
+<ul>
+<li><a href="#paint">WM_PAINT, BeginPaint, and EndPaint</a></li>
+
+<li><a href="#example">An example program</a></li>
+</ul>
+
+[ <a href="win32asm.htm">Back to Win32 ASM Page</a> ] 
+
+<h3><a name="paint"></a>WM_PAINT, BeginPaint, and EndPaint</h3>
+
+The WM_PAINT message is sent when the client area of a window
+requires repainting. One such case is when portions of the client
+area are "uncovered" by closing, moving, or resizing an
+overlapping window. Because the display DC does not hold the
+image that is supposed to be there, the uncovered portion must be
+redrawn by the application. <br>
+ When handling WM_PAINT, always call both BeginPaint and
+EndPaint, even if you don't do any graphics. These functions
+handle the special needs of the WM_PAINT message. If you don't
+handle this message, DefWindowProc will call these functions for
+you. <br>
+ BeginPaint returns a DC handle, and EndPaint releases it. So
+it's not necessary to call GetDC and ReleaseDC. 
+
+<h2><a name="example"></a>An example program</h2>
+
+The example program, <b>windraw2.asm</b>, draws a circle in the
+client area of the "main" window, and maintains it. Most of the
+code is the same as <b>windraw1.asm</b>, so we show only what is
+different. 
+
+<ul>
+<li><a href="#example1">Message dispatch</a></li>
+
+<li><a href="#example2">Painting</a></li>
+</ul>
+
+<h3><a name="example1"></a>Message dispatch</h3>
+
+We respond to WM_PAINT, instead of WM_LBUTTONDOWN. 
+
+<pre>
+; The window procedure...where messages for one class of windows
+;   are processed.
+;
+; Parameters are hWnd, message, wParam, lParam.
+;   hWnd is the window receiving this message.
+;   message is the message ID.
+;   wParam and lParam depend on the message ID.
+;
+; Must preserve EBX, ESI, and EDI.
+;
+        extrn   DefWindowProc:near,PostQuitMessage:near
+
+        .code
+WndProc:
+        mov     eax,[esp+4+4]   ; message ID
+        cmp     eax,WM_DESTROY  ; about to start window destruction
+        je      on_destroy
+        cmp     eax,WM_PAINT    ; paint command
+        je      on_paint
+        jmp     DefWindowProc   ; delegate other message processing
+</pre>
+
+<h3><a name="example2"></a>Painting</h3>
+
+The old mouse button handler now becomes the new WM_PAINT
+handler. Because of the message, we must use BeginPaint and
+EndPaint. We define a PAINTSTRUCT that's needed by these two
+functions. <br>
+ Now, when the window is uncovered, it will be restored. It
+will also restore after a resizing of the window. 
+
+<pre>
+; Process WM_PAINT.  Some window area needs repainting.
+;
+; wParam is ???.
+; lParam is ???.
+;
+; Return zero if processed.
+;
+; Must preserve EBX, ESI, and EDI.
+;
+        .data
+        align   4
+wndDC   dd 0            ; DC handle (hDC) of window client area
+
+ps      PAINTSTRUCT     &lt;&gt;      ; this would normally be on the stack
+
+        .code
+
+        extrn BeginPaint:near,EndPaint:near
+        extrn Ellipse:near
+
+on_paint:
+        mov     eax,[esp+4+0]           ; hWnd
+        push    offset ps               ; lpPaint
+        push    eax
+        call    BeginPaint
+        mov     [wndDC],eax             ; hDC for window
+
+        push    large 150               ; y, lower right
+        push    large 150               ; x
+        push    large 50                ; y, upper left
+        push    large 50                ; x
+        push    [wndDC]                 ; hDC
+        call    Ellipse
+
+        mov     eax,[esp+4+0]           ; hWnd
+        push    offset ps               ; lpPaint
+        push    eax
+        call    EndPaint
+
+        xor     eax,eax
+        ret     16
+</pre>
+
+<hr width="100%">
+</body>
+</html>
+

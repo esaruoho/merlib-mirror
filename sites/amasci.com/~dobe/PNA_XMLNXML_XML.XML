@@ -1,0 +1,1539 @@
+<?xml version="1.0"?>
+<!-- New format for Dobe's Punny Name Archive on 12-24-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: PNA_XMLNXML_XML.XML -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright January 03, 2002
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+
+<?xml-stylesheet type="text/xsl" href="PNA_XMLnXML_XSL.xsl"?>
+	<!-- ~LAST MODIFIED: 2002_01_03 -->
+	<!-- ~use with "PNA_XMLnXML_XSL.xsl"~ -->
+
+<!-- Begin Root Element: -->	
+<!DOCTYPE dobedoc SYSTEM "PNA_XMLnXML_DTD.dtd" [
+	<!ENTITY dfd "Dobe Fnord Doinat">
+	<!ENTITY ge "General Entity">
+	<!ENTITY pe "Parameter Entity">
+	<!ENTITY ges "General Entities">
+	<!ENTITY pes "Parameter Entities">
+	<!ENTITY nbsp "&#xA0;">
+]>
+
+<!-- Comments with "Element:" show DTD structure -->	
+<!-- Begin Root Element: <!ELEMENT dobedoc (last_updated?, title?, body)+> -->	
+  <dobedoc>
+<!-- Begin Next Element: <!ELEMENT last_updated (#PCDATA)> -->	
+  <last_updated>January 4, 2002</last_updated>
+<!-- Begin Next Element: <!ELEMENT title (#PCDATA)> -->	
+   <title>XML/XSLT Guide</title>
+
+<!-- Begin Next Element:  -->	
+<!-- Begin new BODY Block of Result Tree -->		
+  <body>	
+<!-- Begin new GLOSSARY Block  -->		
+	<glossary>
+	      <keywords>
+	      
+<!-- dobedoc/body/glossary/keywords/keyword  -->		
+	      
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Well-formed~~~~~~~~ -->	
+																	<!-- ! -->				
+		<keyword name="Well-formed">Well-formed		
+			<def>Well-formed means that every element is properly nested,
+			as well as properly closed. If the element has content, (either 
+			other elements or text), it must have a closing tag. If it is an 
+			empty element, it may be closed with a special syntax, using
+			a 'space', 'slash', then close bracket ( ' /&gt;' ). Every attribute value 
+			must be enclosed in (either double quotes or single, matching) quotes.
+			Additionally, Entity References (using '&amp;lt;', '&amp;gt;', or '&amp;amp;')
+			must be used instead of using a '&lt;' or '&gt;' or '&amp;', etc.
+			Well-formed XML documents without a DTD or schema reference 
+			have all attributes as CDATA by default.
+			</def>
+				<example>
+					<newline />&lt;doc&gt;
+					<newline />&nbsp;&nbsp;&lt;chapter&gt;
+					<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&lt;!-- This is properly nested and follows the rules! --&gt;</red>&lt;br /&gt;
+					<newline />&nbsp;&nbsp;&lt;/chapter&gt;
+					<newline />&lt;/doc&gt;<newline />
+				</example>
+		</keyword>	
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSL Valid~~~~~~~~ -->	
+																	<!-- ! -->				
+<!-- Begin new KEYWORD -->				
+			<keyword name="Valid">Valid		
+			<def><newline />A valid document is not only well-formed, but complies with 
+			either a XML Schema (compliant) or a Document Type Definition (compliant) file 
+			which must be able to be found by the XSLT engine.
+			</def>
+				<example>
+					<newline />&lt;?xml version="1.0"?&gt;
+					<newline /><red>&lt;!DOCTYPE doc SYSTEM "DTDfilename.dtd"&gt;</red>
+					<newline />&nbsp;&nbsp;&lt;doc&gt;
+					<newline />&nbsp;&nbsp;&lt;chapter&gt;
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;picture link="filename.jpg" /&gt;
+					<newline />&nbsp;&nbsp;&lt;chapter&gt;
+					<newline />&lt;/doc&gt;	<newline />
+				</example>
+			</keyword>	
+
+			
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSL Elements~~~~~~~~ -->	
+																	<!-- ! -->				
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:apply-templates">xsl:apply-templates	
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			Directs the XSL processor to find the appropriate template to apply 
+			based on the type and context of each selected node.<newline />
+			The non-standard behavior in MSIE may include using the attributes: <newline />
+			<red>order-by = '+|-pattern'</red> and <red>select = 'pattern'</red> and possibly others.<newline />
+			This applies an XSL template to the current element (and sometimes it's children nodes as well).<newline /> 
+			In the absence of a select attribute, the xsl:apply-templates instruction processes all of the children of the current node, 
+			including text nodes. However, text nodes that have been stripped will not be processed. 
+			If stripping of whitespace nodes has not been enabled for an element, then all whitespace in the content of the element 
+			will be processed as text, and thus whitespace between child elements will count in determining the position of a child 
+			element as returned by the position function. A select attribute can be used to process nodes selected by an 
+			expression instead of processing all children. The value of the select attribute is an expression. 
+			The expression must evaluate to a node-set. The selected set of nodes is processed in document order, 
+			unless a sorting specification is present.<newline /><newline />
+
+			Syntax:<newline />
+					<newline /><green>&lt;!-- </green><red>Order-by</red><green> is non-standard according to W3C --&gt;</green>
+    	 <newline />&nbsp;&lt;xsl:apply-templates<newline />
+    				&nbsp;&nbsp;&nbsp;<red>order-by</red>="sort-criteria-list"<newline />
+    				&nbsp;&nbsp;&nbsp;select="pattern"  &gt;<newline />
+    				&nbsp;&lt;/xsl:apply-templates&gt;<newline />
+			</def>
+				<example>
+					<newline />&lt;xsl:template match="red"&gt;
+					<newline />&nbsp;&nbsp;&lt;span class="red"&gt;
+					<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates/&gt;</red>
+					<newline />&nbsp;&nbsp;&lt;/span&gt;
+					<newline />&lt;/xsl:template&gt;<newline />
+				</example>
+				
+			</keyword>	
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:attribute">xsl:attribute
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>name = 'attribute-name'</red> and possibly others.<newline />
+			The xsl:attribute element can be used to add attributes to result elements whether created by literal result elements 
+			in the stylesheet or by instructions such as xsl:element. The expanded-name of the attribute to be created is 
+			specified by a required name attribute and an optional namespace attribute. Instantiating an xsl:attribute element 
+			adds an attribute node to the containing result element node. The content of the xsl:attribute element is a template 
+			for the value of the created attribute. <newline /><newline />
+			This adds a new attribute to the current output element:
+			</def>
+
+<example>
+<newline />&nbsp;&lt;Copies the "myElement" element and adds a "copied" attribute with the value "true".&gt;
+<newline />&nbsp;&lt;xsl:template match="myElement"&gt;
+  <newline />&nbsp;&nbsp;&nbsp;&lt;xsl:copy&gt;
+    <newline />&nbsp;&nbsp;&nbsp;&lt;xsl:attribute name="copied"&gt;true&lt;/xsl:attribute&gt;
+    <newline />&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+  <newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:copy&gt;
+<newline />&nbsp;&lt;/xsl:template&gt;<newline /><newline />
+</example>
+
+
+				<example>
+					<newline />&lt;xsl:template match="text()"&gt;
+					<newline />&nbsp;&nbsp;&lt;table&gt;
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;<red>xsl:attribute name="width"&gt;100%&lt;/xsl:attribute&gt;</red>
+					<newline />&nbsp;&nbsp;&lt;/table&gt;
+					<newline />&lt;/xsl:template&gt;<newline />
+				</example>
+<example>
+	<newline /><newline />&nbsp;&lt;img&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:attribute name="src"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select="imagenames/imagename" /&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:attribute&gt;
+	<newline />&nbsp;&lt;/img&gt;
+</example>
+			</keyword>	
+				
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:cdata">xsl:cdata
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>name = 'attribute-name'</red> and possibly others.<newline />
+			This adds a new attribute to the current output element. 
+			</def>
+				<example>
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;Non-W3C-Standard element!
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;Waiting for better example...<newline />
+				</example>
+			</keyword>	
+				
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:choose">xsl:choose
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			This provides a selection mechanism based on conditions. <newline />
+			The xsl:choose element selects one among a number of possible 
+			alternatives. 
+			<newline />It consists of a sequence of xsl:when elements 
+			followed by an optional xsl:otherwise element. 
+			<newline />Each xsl:when element has a single attribute, 
+			test, which specifies an expression. 
+			<newline />The content of the xsl:when and xsl:otherwise 
+			elements is a template. 
+			<newline />When an xsl:choose element is processed, each of the xsl:when elements is tested in turn, 
+			by evaluating the expression and converting the resulting object to a boolean as if by a call to the boolean function. 
+			<newline />The content of the first, and only the first, xsl:when element whose test is true is instantiated. 
+			<newline />If no xsl:when is true, the content of the xsl:otherwise element is instantiated. 
+			<newline />If no xsl:when element is true, and 
+			no xsl:otherwise element is present, nothing is created. 
+			<newline />
+			For simple conditional testing, use the <red>xsl:if</red> element structure instead.
+			<newline /><newline />
+			The <red>xsl:otherwise</red> element provides a DEFAULT condition 
+			for the <red>xsl:choose</red> element. Other alternatives are 
+			indicated by <red>xsl:when</red> elements.
+			<newline />
+			</def>
+				<example>
+	<newline /><green>&lt;!--</green> 
+	<newline />&nbsp;&nbsp;&nbsp;<green>This example declares a variable named color, 
+			then sets it's value to the color attribute of the current element.
+			If the current element has no color attribute, the value of the variable will be set to red:</green>
+			<newline />
+			--&gt;<newline />
+
+					<newline />&lt;xsl:variable name = "color"&gt;
+					<newline />&nbsp;&nbsp;<red>&lt;xsl:choose&gt;</red>
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:when test="@color"&gt;
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of select="@color"&gt;
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:when&gt;
+					<newline />&nbsp;&nbsp;&lt;xsl:otherwise&gt;red&lt;/xsl:otherwise&gt;					
+					<newline />&nbsp;&nbsp;&lt;/xsl:choose&gt;
+					<newline />&lt;/xsl:variable&gt;<newline />
+				</example>
+			</keyword>	
+				
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:comment">xsl:comment
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:comment element is instantiated to create a comment node in the result tree. 
+			The content of the xsl:comment element is a template for the string-value of the comment node. 
+			<newline />
+			In addition (see second example  <red>hiLite()</red> below), it acts as a <bold>hide/unhide</bold> for JavaScripts within a &lt;script&gt; element in an XSLT template! Powerful, and in my testing, required!
+			</def>
+				<example>
+					<newline /><red>&lt;xsl:comment&gt;</red>Comment Node value<red>&lt;/xsl:comment&gt;</red>
+					<newline />
+				</example>
+
+<example>
+		<newline /><newline /><green>&lt;!-- Here's a neat trick of transforming a source element "</green><black>notes</black>" <green>into a comment in the result tree!</green>
+		<newline /><green>  --&gt;</green>
+		<newline /><newline />&nbsp;&lt;xsl:template match="<black>notes</black>"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;  &lt;xsl:comment&gt;
+		<newline />&nbsp;&nbsp;&nbsp;    &lt;xsl:value-of /&gt;
+		<newline />&nbsp;&nbsp;&nbsp;  &lt;/xsl:comment&gt;
+		<newline />&nbsp;&lt;/xsl:template&gt;<newline />
+</example>			
+
+
+	<example>
+		<newline /><green>&lt;!--</green> 
+		<newline /><green>This next example shows how a call to JavaScript looks in an XSL page.</green>
+		 <newline /><green>The very XSLT document, in fact, which transformed the page you now read! </green>
+		  <newline /><green>&nbsp; &nbsp;(Namely, </green> 
+		  <bold>" _XMLnXML_XSL.xsl "</bold>
+		<green>) (Only tested in MSIE 5+.)</green>
+		<newline />
+		  <newline /><green>I found</green> <red>hiLite()</red> <green> in Microsoft documentation in MSDN</green>
+		  <newline /><green>call hiLite() from anywhere in an HTML page or virtual equivilent,</green>
+		  <newline /><green>such as XSLT, ASP, JSP, etc. with this syntax:</green>
+		  <newline />&nbsp;&nbsp;&nbsp;<bold>div style="background-color:yellow" onClick="hiLite()"&gt;Click me!&lt;/div&gt;</bold>
+		<newline /><green>--&gt;</green><newline />
+		  <newline />&lt;head&gt;  
+		  <newline />&nbsp;<bold>&lt;script language="Javascript"&gt;</bold>
+		  <newline />&nbsp;&nbsp;&nbsp;<bold>&lt;xsl:comment&gt;</bold>
+		  <newline />&nbsp;&nbsp;&nbsp;<bold>&lt;![CDATA[</bold>
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;function <red>hiLite()</red>
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e = window.event.srcElement;
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if (e.style.backgroundColor != 'yellow')
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.style.backgroundColor = 'yellow';
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.style.backgroundColor = 'white';
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+		  <newline />&nbsp;&nbsp;&nbsp;&nbsp;<bold>]]&gt;</bold>
+		  <newline />&nbsp;&nbsp;&nbsp;<bold>&lt;/xsl:comment&gt;</bold>
+		  <newline />&nbsp;<bold>&lt;/script&gt;</bold>
+		  <newline />&lt;/head&gt;
+	</example>			
+
+</keyword>	
+									
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:copy">xsl:copy
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:copy element provides an easy way of copying the current node. Instantiating the xsl:copy element 
+			creates a copy of the current node. The namespace nodes of the current node are automatically copied as well, 
+			but the attributes and children of the node are not automatically copied. The content of the xsl:copy element is a 
+			template for the attributes and children of the created node; the content is instantiated only for nodes of types that 
+			can have attributes or children (i.e. root nodes and element nodes).  <newline />
+			</def>
+				<example>
+					<newline />&lt;xsl:template match = "ThisElement"&gt;
+					<newline />&nbsp;&nbsp;<red>&lt;xsl:copy&gt;</red> 
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+					<newline />&nbsp;&nbsp;&lt;/xsl:copy&gt;
+					<newline />&lt;/xsl:templates&gt;
+				</example>
+<example>
+		<newline /><newline /><green>&lt;!-- </green><newline />
+		<green>The identity transform copies each node in the source to the output to provide a 
+		logically equivalent tree. It does NOT yield character-by-character 
+		equivalence, for instance, entities WILL be expanded, and white space that is NOT marked as 
+		SIGNIFICANT may be removed.</green><newline />
+
+		 <green>--&gt;</green><newline />
+
+		<newline />&nbsp;<green>&lt;!-- XSL Styleheet Identity Transform --&gt;</green>
+		<newline />&nbsp;<green>&lt;!-- Modify to accommodate whitespace! --&gt;</green>
+		<newline />&nbsp;&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/TR/WD-xsl"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:copy&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates select="@*"/&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates/&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:copy&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+		<newline />&nbsp;&lt;/xsl:stylesheet&gt;<newline />
+
+</example>				
+			</keyword>	
+			
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:define-template-set">xsl:define-template-set
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline /><bold>Non-W3C-Standard element!</bold>
+			</def>
+				<example>
+					<newline />&nbsp;&nbsp;&nbsp;&nbsp;Example...?<newline />
+				</example>
+			</keyword>	
+			
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:element">xsl:element
+			<def><newline />
+			This element provides an escaping mechanism for creating elements with namespace clashes, such as xsl itself.<newline />
+			<red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:element element allows an element to be created with a computed name. The expanded-name of the 
+			element to be created is specified by a required name attribute and an optional namespace attribute. 
+			The content of the xsl:element element is a template for the attributes and children of the created element. 
+			The name attribute is interpreted as an attribute value template. It is an error if the string that results from instantiating 
+			the attribute value template is not a QName. An XSLT processor may signal the error; if it does not signal the error, 
+			then it must recover by making the the result of instantiating the xsl:element element be the sequence of nodes 
+			created by instantiating the content of the xsl:element element, excluding any initial attribute nodes. If the namespace 
+			attribute is not present then the QName is expanded into an expanded-name using the namespace declarations in 
+			effect for the xsl:element element, including any default namespace declaration. If the namespace attribute is present, 
+			then it also is interpreted as an attribute value template. The string that results from instantiating the attribute value 
+			template should be a URI reference. It is not an error if the string is not a syntactically legal URI reference. 
+			If the string is empty, then the expanded-name of the element has a null namespace URI. Otherwise, the string is 
+			used as the namespace URI of the expanded-name of the element to be created. The local part of the QName 
+			specified by the name attribute is used as the local part of the expanded-name of the element to be created. 
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>&lt;xsl:element name = '{@attribute-name}'&gt;</red> and possibly others.<newline /></def>
+
+<example>
+		<newline /><green>&lt;!--</green>
+		<newline /><green>The xsl:element is necessary because XSL elements cannot be used as output elements.</green>
+		<newline /><green>--&gt;</green>
+		<newline />&nbsp;&lt;xsl:template match="item"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:element name="xsl:template"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:attribute name="match"&gt;cost&lt;/xsl:attribute &gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:attribute name="xml:space"&gt;preserve&lt;/xsl:attribute&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:element&gt;
+		<newline />&nbsp;&lt;/xsl:template&gt;
+</example>
+			</keyword>	
+			
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:entity-ref">xsl:entity-ref
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:entity-ref element adds a new entity reference node to the output. 
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>&lt;xsl:entity-ref name = '@attribute-name'&gt;</red> and possibly others.<newline /></def>
+				<example>
+					<newline />To be entered later
+				</example>
+			</keyword>	
+					
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:eval">xsl:eval
+			<def>
+	<newline />Evaluates a SCRIPT expression to generate a text string.
+	<newline /><newline /><red>NOTE:</red> Only valid with a stylsheet specifying the 
+	<newline />&nbsp;&nbsp;&nbsp;<red>xsl namespace, http://www.w3.org/TR/WD-xsl</red>.<newline />
+	<newline /><newline /><red>NOTE:</red> Stylesheets using the XSLT namespace:  
+	<newline />&nbsp;&nbsp;&nbsp;<red>http://www.w3c.org/1999/XSL/Transform</red>, 
+	<newline />cannot use this element.
+	<newline /><newline /><red>NOTE:</red> This attribute accepts the same values 
+	as the language attribute on the HTML SCRIPT element.<newline />
+	<newline /><red>NOTE:</red> 
+	The contents of this element are treated as an expression. 
+	Alternatively, this element can also contain a sequence of 
+	script statements. The value returned by the script is 
+	converted to a string.
+	The reserved characters &lt;, &gt;, and &amp; are escaped 
+	using the character entities &amp;lt;, &amp;gt;, and &amp;amp; respectively.
+	Other than at the text level, xsl:eval does not provide a 
+	mechanism for affecting structural transformation, which may require using  
+	the <red>expr</red> attribute on <red>xsl:if</red> and <red>xsl:when</red>.
+	
+	<newline /><newline />
+
+			<red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:eval element provides an evaluation mechanism to evaluate output content.
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>&lt;xsl:eval language = 'JScript'&gt;</red> and possibly others.<newline />
+			<newline />
+			<red>NOTE: </red><bold>Also see &lt;xsl:comment&gt; for JavaScript example and syntax.</bold>
+			<newline />
+</def>
+<example>
+	<newline /><green>&lt;!-- </green>
+	<newline /><green>Demonstrates a call to a user-defined routine in VBScript, called Celsius</green>
+	<newline /><green>This example is also seen in </green><red>xsl:script</red>.
+	<newline /><green>--&gt;</green><newline />
+	<newline />&nbsp;&lt;xsl:stylesheet <red>language="VBScript"</red> xmlns:xsl="http://www.w3.org/TR/WD-xsl"&gt;
+	<newline /><newline />&nbsp;&nbsp;&lt;xsl:template match="/"&gt;
+	<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:eval&gt;<red>Celsius(32)</red>&lt;/xsl:eval&gt;
+	<newline />&nbsp;&nbsp;&lt;/xsl:template&gt;<newline />
+ 
+	<newline />&nbsp;&nbsp;&nbsp;  &lt;xsl:script language="VBScript"&gt;
+	<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function Celsius(fDegrees)</red>
+	<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Celsius = (fDegrees - 32) * 5 / 9</red>
+	<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Function</red>
+	<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:script&gt;<newline />
+	<newline />&nbsp;&lt;/xsl:stylesheet&gt;
+</example>
+			</keyword>	
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:for-each">xsl:for-each
+			<def><newline />
+			<red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red> 
+			<newline />
+			The xsl:for-each element provides a mechanism to create a loop in the output stream.. 
+
+	<newline /><newline />&nbsp;&nbsp;&nbsp;<green>&lt;!-- </green>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<red>Order-By Attribute</red>
+	<green>Using the</green> <bold>now-deprecated</bold><green> order-by attribute, 
+	specify sort criteria in a semicolon-separated list. 
+	When the first sort results in two equal items, the 
+	second sort criterion is checked, and so on. Although this works in MSIE 5+, 
+	the standard recommended W3C is the </green><bold>xsl:sort</bold> <green>element.</green>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<green>The first non-white-space character in 
+	each sort criterion indicates whether the sort is 
+	ascending (optional +) or descending (-).</green> 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<green>The sort criterion is expressed as an </green><bold>XSL pattern</bold><green>, 
+	relative to the pattern described in the 
+	select attribute.</green>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<red>Select Attribute</red> 
+	<green>XSL pattern query evaluated the current context to 
+	determine the set of nodes to iterate over. 
+	The default value "node()" indicates selection of all 
+	children of the current node.</green>
+	<newline />&nbsp;&nbsp;&nbsp;<green>--&gt;</green><newline /><newline />
+			
+			
+			When the result has a known regular structure, it is useful to be able to specify directly the template for selected nodes. 
+			The xsl:for-each instruction contains a template, which is instantiated for each node selected by the expression specified 
+			by the select attribute. The select attribute is required. The expression must evaluate to a node-set. The template is 
+			instantiated with the selected node as the current node, and with a list of all of the selected nodes as the current node list. 
+			The nodes are processed in document order, unless a sorting specification is present. 
+			<red>&lt;xsl:for-each select = 'pattern'&gt;</red>,<newline />
+			<red>&lt;xsl:for-each order-by = '+|-pattern'&gt;</red> and possibly others.<newline /></def>
+<example>
+    <newline />&nbsp;&lt;xsl:for-each<newline />
+    &nbsp;&nbsp;&nbsp;order-by="sort-criteria-list"<newline />
+    &nbsp;&nbsp;&nbsp;select="pattern"  &gt;<newline />
+    &nbsp;&lt;/xsl:for-each&gt;<newline />
+</example>
+	<example>
+	<newline /><green>&lt;!-- </green>
+	<newline /><green>As the syntax template above and the example below shows, 
+	a template may be specified that defines what the structure of 
+	the overall output document should be (a top-level 'html' element 
+	containing 'body' and 'table' elements with repeated rows for each customer) 
+	and uses templates to create 'td' elements for the 'name', 'address', 
+	and 'phone' elements of the source XML data to a result tree to be 
+	output as html or 'formatted' XML.</green>
+	<newline /><bold>For another useful example,</bold> <green>look in the XSLT stylesheet 
+	transforming this XML document, (</green> <red>_XMLnXML_XSL.xsl</red><green> ) and look for the template: </green>
+	<newline />&nbsp;&nbsp;&nbsp;<bold>&lt;xsl:template match="keywords"&gt;</bold>
+
+	<newline /><green>--&gt;</green><newline />
+
+		<newline />&nbsp;&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/TR/WD-xsl"&gt;
+		<newline />&nbsp;&nbsp;&lt;xsl:template match="/"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;body&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;table&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select="customers/customer"
+		<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;order-by="name; -address/state"&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;tr&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;td&gt;&lt;xsl:value-of select="name" /&gt;&lt;/td&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;td&gt;&lt;xsl:value-of select="address" /&gt;&lt;/td&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;td&gt;&lt;xsl:value-of select="phone" /&gt;&lt;/td&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/tr&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:for-each&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/table&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/body&gt;
+		<newline />&nbsp;&nbsp;&nbsp;&lt;/html&gt;
+		<newline />&nbsp;&nbsp;&lt;/xsl:template&gt;
+		<newline />&nbsp;&lt;/xsl:stylesheet&gt;
+	</example>
+
+			</keyword>	
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:if">xsl:if
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			The xsl:entity-ref element provides a conditional branch mechanism based on a condition. <newline />
+			The xsl:if element has a test attribute, which specifies an expression. The content is a template. 
+			The expression is evaluated and the resulting object is converted to a boolean as if by a call to the boolean function.
+			<newline />If the result is true, then the content template is instantiated; otherwise, nothing is created in the Result Tree. 
+			
+			<newline />
+			The non-standard behavior in MSIE may include using the attribute: <newline />
+			<red>&lt;xsl:if expr = 'script-expression'&gt;</red> and possibly others, such as in the example below.
+			<newline />
+			</def>
+			
+				<example>
+					<newline /><newline />&nbsp;&lt;xsl:if
+					<newline />&nbsp;&nbsp;&nbsp;expr="script-expression"
+					<newline />&nbsp;&nbsp;&nbsp;language="language-name"
+					<newline />&nbsp;&nbsp;&nbsp;test="pattern"  &gt;
+					<newline />&nbsp;&lt;/xsl:if&gt;<newline />
+				</example>
+				
+<example>
+	<newline /><green>&lt;!-- </green>
+	<newline /><green>The next example inserts a Horizontal Rule (HR) before the first "item" element in a set, 
+	and another HR element after the last "item" element in the set.</green> 
+	<newline /><red>NOTE:</red> <green>The "</green><red>context()</red><green> " method refers to the set of "item" elements selected by the </green>
+	<red>&lt;xsl:apply-templates&gt;</red> <green> element that caused this template to be invoked.</green>
+	<newline /><green>--&gt;</green><newline />
+	<newline />&nbsp;&lt;xsl:template match="item"&gt;
+	<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:if test="<red>context()[0]</red>"&gt;&lt;HR/&gt;&lt;/xsl:if&gt;
+	<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+	<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:if test="<red>context()[end()]</red>"&gt;&lt;HR/&gt;&lt;/xsl:if&gt;
+	<newline />&nbsp;&lt;/xsl:template&gt;
+</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:otherwise">xsl:otherwise
+			<def>
+			<newline />
+			The <red>xsl:otherwise</red> element provides a DEFAULT condition 
+			for the <red>xsl:choose</red> element. Other alternatives are 
+			indicated by <red>xsl:when</red> elements.
+			<newline />
+			<newline />
+			For simple conditional testing, use the <red>xsl:if</red> element.
+			</def>
+		<example>
+	<newline /><green>&lt;!-- </green>
+	<newline />&nbsp;&nbsp;&nbsp;<green>This example shows a template for 
+	'order' elements, and inserts an hr or br before the order's contents 
+	based on the order's 'total' element value.</green>
+	 
+	<newline /><green>--&gt;</green><newline />
+			<newline />&nbsp;&nbsp;&lt;xsl:template match="order"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:choose&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:when test="total[. $lt$ 10]"&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- If the total is less than 10, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr style="color:black" /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a black HR will be generated. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:when&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:when test="total[. $lt$ 20]"&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- If the total is less than 20, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr style="color:red" /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a red HR will be generated. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:when&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:otherwise&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- Otherwise, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;br /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a br element will be created. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:otherwise&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:choose&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+			<newline />&nbsp;&nbsp;&lt;/xsl:template&gt;
+		</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:pi">xsl:pi
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />The <red>xsl:pi</red> element generates a processing instruction 
+			(PI) in the output. The <red>name</red> is indicated by the name attribute. 
+			The <red>content</red> of the element provides the rest of the PI.			
+			</def>
+		<example>
+			<newline /><green>&lt;!-- </green>
+			<newline /><green>This example shows a template that </green><red>generates the XML declaration</red> <green>and a 
+			style sheet processing instruction in the output.</green>
+			<newline /><green>--&gt;</green><newline />
+			<newline />&nbsp;&lt;xsl:template match="/"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:pi name="xml"&gt;version='1.0' standalone='yes'&lt;/xsl:pi&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;  &lt;xsl:pi name="xml-stylesheet"&gt;type="text/xsl" href="style.xsl"&lt;/xsl:pi&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;  &lt;xsl:apply-templates /&gt;
+			<newline />&nbsp;&lt;/xsl:template&gt;
+		</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:script">xsl:script
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />Within the <red>xsl:script</red> element, 
+			declare variables and define functions. This can 
+			appear within the <red>xsl:stylesheet</red> or <red>xsl:template</red> elements. 
+			A script block thus nested is treated as a global script block.
+	<newline />
+			In Internet Explorer version 5.01+, you can also instantiate 
+			COM objects in the <red>xsl:script</red> element. 
+	<newline />
+			However, a user's security settings may prevent the script 
+			from instantiating a client-side object.
+			</def>
+		<example>
+	<newline /><green>&lt;!--</green> 
+	<newline /><green>Demonstrates a call to a user-defined routine in VBScript, called Celsius.</green>
+	<newline /><green>This example is also seen in </green><red>xsl:eval</red>.
+	<newline /><green>--&gt;</green>
+	<newline />&nbsp;&lt;xsl:stylesheet <red>language="VBScript"</red> xmlns:xsl="http://www.w3.org/TR/WD-xsl"&gt;
+	<newline /><newline />&nbsp;&nbsp;&lt;xsl:template match="/"&gt;
+	<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:eval&gt;<red>Celsius(32)</red>&lt;/xsl:eval&gt;
+	<newline />&nbsp;&nbsp;&lt;/xsl:template&gt;<newline />
+ 
+	<newline />&nbsp;&nbsp;&nbsp;  &lt;xsl:script language="VBScript"&gt;
+	<newline /><newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function Celsius(fDegrees)</red>
+	<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Celsius = (fDegrees - 32) * 5 / 9</red>
+	<newline /><red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Function</red>
+	<newline /><newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:script&gt;<newline />
+	<newline />&nbsp;&lt;/xsl:stylesheet&gt;
+		</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:stylesheet">xsl:stylesheet
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />An XSL style sheet contains the xsl:stylesheet element. 
+			This element can have a set of <red>xsl:template</red> elements representing 
+			different output templates. Processing begins by processing the 
+			root template, indicated by the pattern "/".<newline />			
+			<newline />&nbsp;&nbsp;&lt;xsl:stylesheet
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;version="1.0"
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;default-space="preserve"
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;indent-result="yes"
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;language="language-name"    
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;result-ns="value"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CONTENT...]			
+			<newline />&nbsp;&nbsp;&lt;/xsl:stylesheet&gt;
+			
+	<newline /><newline />ATTRIBUTES:
+	<newline />&nbsp;&nbsp;<red>version</red>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>Required!</red>.  
+	Indicates version of XSLT style sheet requires. 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Value should be set to 1.0 for this version of XSLT.
+	<newline />&nbsp;&nbsp;<red>default-space</red>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Whether to preserve white space 
+	that appears in the source document. 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>Only the value of 'default' 
+	is supported;</red> other values are ignored.
+	<newline />&nbsp;&nbsp;<red>indent-result</red>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Whether to preserve 
+	 any white space that appears in style sheet, in result tree. 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;The actual white-space characters themselves can be changed. 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>Only the value 'yes' is supported; other values are ignored.</red>
+	<newline />&nbsp;&nbsp;<red>language</red>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Active Scripting language is used 
+	within this style sheet. <newline />&nbsp;&nbsp;&nbsp;&nbsp;The <red>default is 'JScript'</red> (ECMAScript). 
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Accepts same values as 'language' attribute in  
+	HTML 'SCRIPT' element.
+	<newline />&nbsp;&nbsp;<red>result-ns</red>
+	<newline />&nbsp;&nbsp;&nbsp;&nbsp;Indicator of what the output of the 
+	XSL processor is. <newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>In MSIE 5+</red>, 
+	all output is XML, including HTML, <red>thus this attribute is ignored</red>.
+	<newline />
+			</def>
+		<example>
+			<newline /><green>&lt;!--</green> 
+			<newline />&nbsp;&nbsp;&nbsp;<green>Complete XSL style sheet containing a set of templates.</green>
+			<newline /><green>--&gt;</green><newline />
+			<newline />&lt;?xml version="1.0"?&gt;
+			<newline />&nbsp;&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/tr/wd-xsl"&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template <red>match="/"</red>&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;html&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;body&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;table&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:for-each select="customers/customer"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates select="name" /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates select="address" /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates select="phone" /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:for-each&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/table&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/body&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/html&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template <red>match="name"</red>&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td style="font-size:14pt font-family:serif"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template <red>match="address"</red>&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; 
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt; 
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/td&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template <red>match="phone"</red>&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td&gt; 
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt; &lt;/td&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:template <red>match="text()"</red>&gt;
+			<newline />&nbsp;<green>&lt;!-- This is a default rule... --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:value-of /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;/xsl:template&gt;
+			<newline />
+			<newline />&nbsp;&lt;/xsl:stylesheet&gt;
+		</example>
+			</keyword>	
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:template">xsl:template
+			<def>
+			<newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />The <red>xsl:template</red> element defines the desired output for nodes of a particular type and context.
+			<red>Parent</red> elements: xsl:apply-templates, xsl:stylesheet		
+			<red>Child</red> elements: xsl:apply-templates, xsl:attribute, xsl:choose, xsl:comment, xsl:copy, xsl:element, xsl:eval, xsl:for-each, xsl:if, xsl:pi, xsl:value-of, output elements 		
+			<newline />The '<red>match</red>' attribute of the <red>xsl:template</red> element 
+			defines the 'context' for which the template should be executed. 
+			<newline />This attribute can be used to change the context of the source 
+			document, and provides a convenient way to navigate down into 
+			the document tree. 
+			<newline />The default is <red>"node() | / | @*"</red>, to match all nodes. 
+			</def>
+		<example>
+			<newline /><green>&lt;!--</green> 
+			<newline /><green>The example template below has a pattern that 
+			identifies elements of type</green> <bold>'stock'</bold> <green>and produces an output 
+			</green><red>div element </red><green>with the attribute</green> <bold>style='font-weight:bold'</bold>.
+			<newline /><green>--&gt;</green><newline />
+			<newline />&nbsp;&lt;xsl:template match="<bold>stock</bold>"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;<red>div</red> style="font-weight:bold"&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Symbol: &lt;xsl:value-of match="symbol" /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price: &lt;xsl:value-of match="price" /&gt;
+			<newline />&nbsp;&nbsp;&nbsp;&lt;<red>/div</red>&gt;
+			<newline />&nbsp;&lt;/xsl:template&gt;
+		</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:value-of">xsl:value-of
+			<def>
+			<newline />The <red>xsl:value-of</red> element default is: 
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<red>"node() | / | @*"</red>, to match all nodes. 
+			<newline /><newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline />
+			</def>
+		<example>
+			<newline /><green>&lt;!--</green> 
+			<newline /><green>The</green> <bold>xsl:value-of element</bold> <green>inserts a text string 
+			representing the value of the first element (in document order) 
+			specified by the select attribute.</green>
+			<newline /><green>If the XSL pattern returns more than a single node, 
+			the xsl:value-of element returns the text of the first node 
+			returned. </green>
+			<newline /><green>If the node returned is an element with substructure, 
+			xsl:value-of returns the concatenated text nodes of that 
+			element's subtree with the markup removed.</green>
+			<newline /><green>--&gt;</green><newline />
+			<newline /><green>&lt;!--</green> <bold>Syntax:</bold> <green>(Also see </green><red>XSL Pattern Syntax</red> <green>in this glossary and tutorial.) --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;<bold>&lt;xsl:value-of select="pattern" /&gt;</bold>
+			<newline /><newline /><green>&lt;!-- Outputs the string value of the current node --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:value-of <red>select="."</red> /&gt;
+			<newline /><newline /><green>&lt;!-- Outputs the string value of the first child element, in this case, address --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:value-of <red>select="address</red>" /&gt;
+			<newline /><newline /><green>&lt;!-- Outputs the (converted-to-a-string) value 
+			of the sum of the values of the attributes of the current node, 
+			assuming they are all numeric values. </green>
+			<newline /><green>If any are non-numeric attributes, the result will be: '</green>
+			<red> NaN </red><green>', ('Not A Number').</green>
+			<newline /><green> --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:value-of <red>select="sum(@*)"</red> /&gt;
+			<newline /><newline /><green>&lt;!-- Outputs the value of variable $x after converting to a string. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&lt;xsl:value-of <red>select="$x"</red> /&gt;
+		</example>
+			</keyword>	
+
+			
+<!-- Begin new KEYWORD -->				
+			<keyword name="xsl:when">xsl:when
+			<def>
+			<newline />The <red>xsl:when</red> element Provides multiple 
+			conditional testing in conjunction with the <red>xsl:choose</red> and 
+			<red>xsl:otherwise</red> elements.
+			<newline /><newline /><red>NOTE: This element may have non-standard behavior in MSIE 5.X! 
+			</red>
+			<newline /><newline /><green>&lt;!--&nbsp;Attributes&nbsp;--&gt;</green>
+			<newline /><bold>expr</bold>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;Script expression evaluating to a <red>Boolean</red>.
+			If this expression returns <red>TRUE</red>, and the test pattern succeeds, the contents of 
+			<red>xsl:when</red> are placed in the output.
+			<newline />If one of these tests fails, the next 
+			<red>xsl:when</red> or <red>xsl:otherwise</red>
+			in the <red>xsl:choose</red> block is tested.
+			<newline /><newline /><bold>language</bold>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>Scripting</red> language used for the expression in the expr attribute.
+			If left <red>unspecified</red>, the current scripting language is used, as specified by a language attribute on an ancestor.
+			<red>JScript</red>is used by default if no such attribute exists.
+			<newline />Accepts same values as 'language' attribute on the HTML 'SCRIPT' element.
+			<newline /><newline /><bold>test</bold>
+			
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>XSL pattern</red> to be tested against the current context.
+			<newline />The <red>default</red> value is <red>"."</red>, which indicates evaluation of the current node and thus is always true. 
+
+			<newline />
+			
+			</def>
+		<example>
+			<newline /><newline /><green>&lt;!--&nbsp;Syntax&nbsp;--&gt;</green>
+			<newline />&nbsp;&lt;xsl:when
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expr="script-expression"
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;language="language-name"
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test="pattern"&gt; 
+			&nbsp;&nbsp;&nbsp;<green>&lt;!--&nbsp;See</green> <red>XSL Pattern Syntax</red><green>.&nbsp;--&gt;</green>
+			<newline />&nbsp;&lt;/xsl:when&gt;<newline />
+		</example>
+		<example>
+	<newline /><newline /><green>&lt;!--</green> 
+	<newline />&nbsp;&nbsp;&nbsp;<green>This example shows a template for '</green>
+	<bold>order</bold><green>' elements, and inserts an &lt;hr /&gt; or &lt;br /&gt; before the order's contents 
+	based on the order's '</green><red>total</red><green>' element value.</green>
+	 
+	<newline />--&gt;
+			<newline />&nbsp;&nbsp;&lt;xsl:template match="<bold>order</bold>"&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:choose&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:when test="<red>total</red>[. $lt$ 10]"&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- If the total is less than 10, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr style="color:black" /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a black HR will be generated. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:when&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:when test="<red>total</red>[. $lt$ 20]"&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- If the total is less than 20, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;hr style="color:red" /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a red HR will be generated. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:when&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:otherwise&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- Otherwise, --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;br /&gt;
+			&nbsp;&nbsp;&nbsp;&nbsp;<green>&lt;!-- a br element will be created. --&gt;</green>
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:otherwise&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsl:choose&gt;
+			<newline />
+			<newline />&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsl:apply-templates /&gt;
+			<newline />&nbsp;&nbsp;&lt;/xsl:template&gt;
+		</example>
+			</keyword>	
+
+<!-- **********	END KEYWORDS in Glossary beginning with xsl: ********** -->
+
+
+
+
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSLT Data Types~~~~~~~ -->	
+																	<!-- ! -->				
+<!-- Begin new KEYWORD -->
+			<keyword name="XSLT Data Types">XSLT Data Types
+			<def>
+			<newline /><red>Variables and parameters</red> take whatever type of value is assigned to them. However, once a value is given to a variable, it cannot be changed! There are no assignment statements in XSLT, but certain XSLT engines have extensions which make this feasible.  Without the extensions, it is necessary to use recursive programming techniques.
+			<newline />
+			</def>
+		<example>
+			<newline /><newline /><green>&lt;!--&#xA0;Data types defined in XSLT and XPATH are:&#xA0;--&gt;</green>
+			<newline />&#xA0;<red>String</red> (Any sequence of Unicode)
+			<newline />&#xA0;<red>Number</red> (Double-precision floating point)
+			<newline />&#xA0;<red>Boolean</red> (true or false)
+			<newline />&#xA0;<red>Node-set</red> (A set of nodes in the source tree)
+			<newline />&#xA0;<red>Tree</red> (A data structure called a Result Tree Fragment)
+			<newline />&#xA0;<red>External Object</red> (A Java object for example)<newline />
+		</example>
+	</keyword>
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSLT Elements~~~~~~~ -->	
+												<!-- AT LEAST 500 LINES!!! -->				
+<!-- Begin new KEYWORD -->
+			<keyword name="XSLT Elements">XSLT Elements
+			<def>
+			<newline /><red>Overview</red>
+			<newline /><newline />
+			<green>&lt;!--&#xA0;See each element in Glossary for syntax and examples.&#xA0;--&gt;</green>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Defining and invoking template rules&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:template&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:apply-templates&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:call-template&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Defining the structure of the stylesheet&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:stylesheet&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:include&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:import&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Defining variables and parameters&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:variable&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:param&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:with-param&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Elements used to copy information from source to result&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:copy&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:copy-of&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Elements used for conditional processing / iteration&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:if&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:choose&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:when&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:otherwise&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:for-each&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Elements used to control sorting and numbering&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:sort&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:number&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Elements used to control final output format&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:output&gt;</red>
+
+			<newline /><newline /><green>&lt;!--&#xA0;Misc. other XSLT Elements&#xA0;--&gt;</green>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:apply-imports&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:attribute&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:attribute-set&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:call-template &gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:comment&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:decimal-format&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:element&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:fallback&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:key&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:message&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:namespace-alias&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:preserve-space&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:processing-instruction&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:strip-space&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:text&gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:transform &gt;</red>
+			<newline />&#xA0;&#xA0;<red>&lt;xsl:value-of &gt;</red>
+			<newline />
+			</def>
+
+		<example>
+			<newline />&#xA0;
+		</example>
+	</keyword>
+
+<!-- Begin new KEYWORD -->
+			<keyword name="XSLT Expressions">XSLT Expressions
+
+			<def>
+			<newline />
+	These are used to select data from the source document and to manipulate it to generate data to go in the result document.
+	They are the <red>SELECT statements</red> for structured documents, allowing specific portions of the whole to be selected for transformation.
+	<red>XPATH expressions</red> can include standard function calls.
+
+			<newline /><bold>&#xA0;AbbreviatedAbsoluteLocationPath</bold>
+			<newline /><bold>&#xA0;AbbreviatedAxisSpecifier</bold>
+			<newline /><bold>&#xA0;AbbreviatedRelativeLocationPath</bold>
+			<newline /><bold>&#xA0;AbbreviatedStep</bold>
+			<newline /><bold>&#xA0;AbsoluteLocationPath</bold>
+			<newline /><bold>&#xA0;AdditiveExpr</bold>
+			<newline /><bold>&#xA0;AndExpr</bold>
+			<newline /><bold>&#xA0;Argument</bold>
+			<newline /><bold>&#xA0;AxisName</bold>
+			<newline /><bold>&#xA0;AxisSpecifier</bold>
+			<newline /><bold>&#xA0;Digits</bold>
+			<newline /><bold>&#xA0;EqualityExpr</bold>
+			<newline /><bold>&#xA0;Expr</bold>
+			<newline /><bold>&#xA0;ExprToken</bold>
+			<newline /><bold>&#xA0;ExprWhitespace</bold>
+			<newline /><bold>&#xA0;FilterExpr</bold>
+			<newline /><bold>&#xA0;FunctionCall</bold>
+			<newline /><bold>&#xA0;FunctionName</bold>
+			<newline /><bold>&#xA0;Literal</bold>
+			<newline /><bold>&#xA0;LocationPath</bold>
+			<newline /><bold>&#xA0;MultiplicativeExpr</bold>
+			<newline /><bold>&#xA0;MultiplyOperator</bold>
+			<newline /><bold>&#xA0;NameTest</bold>
+			<newline /><bold>&#xA0;NCName / NCNameChar</bold>
+			<newline /><bold>&#xA0;NodeTest</bold>
+			<newline /><bold>&#xA0;NodeType</bold>
+			<newline /><bold>&#xA0;Number</bold>
+			<newline /><bold>&#xA0;Operator</bold>
+			<newline /><bold>&#xA0;OperatorName</bold>
+			<newline /><bold>&#xA0;OrExpr</bold>
+			<newline /><bold>&#xA0;PathExpr</bold>
+			<newline /><bold>&#xA0;Predicate</bold>
+			<newline /><bold>&#xA0;PredicateExpr</bold>
+			<newline /><bold>&#xA0;PrimaryExpr</bold>
+			<newline /><bold>&#xA0;Qname</bold>
+			<newline /><bold>&#xA0;RelationalExpr</bold>
+			<newline /><bold>&#xA0;RelativeLocationPath</bold>
+			<newline /><bold>&#xA0;Step</bold>
+			<newline /><bold>&#xA0;UnaryExpr</bold>
+			<newline /><bold>&#xA0;UnionExpr</bold>
+			<newline /><bold>&#xA0;VariableReference</bold>
+			</def>
+
+		<example>
+		<newline />
+			<newline />&#xA0;<green>&lt;!-- There will be examples added as time of development allows. --&gt;</green>
+		<newline />
+		</example>
+
+	</keyword>
+
+
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSLT Pattern Syntax~~~~~~~~ -->	
+												<!-- AT LEAST 500 LINES!!! -->				
+<!-- Begin new KEYWORD -->						<!-- May Split this out!!! -->				
+			<keyword name="XSLT Pattern Syntax">XSLT Pattern Syntax
+			<def>
+
+			<newline /><newline /><bold>XSLT Patterns</bold>
+			 provide a simple query language for identifying nodes in an 
+			 XML document, based on their type, name, and values, 
+			 as well as the relationship of the node to other nodes 
+			 in the document. 
+			 <newline />The query 
+			 "find <red>'author'</red> elements that have a <red>'period'</red> 
+			 attribute with 
+			 the value <red>'classical'</red>, and that are contained in the 
+			 <red>'authors'</red> element at the <red>document root</red>" 
+			 can be expressed as an XSL Pattern of the form 
+			 <newline /><newline />&nbsp;&nbsp;&nbsp;&nbsp;<red>"/authors/author[@period='classical']"</red>.
+			 <newline /><newline /><bold>XSL Pattern Operators</bold>
+			 <newline />			 
+			 <newline />The "<red>/</red>" <bold>Child</bold> operator; selects <bold>immediate children</bold> of the left-side collection. When this path operator appears at the start of the pattern, it indicates that children should be selected from the root node.<newline /> 
+			 <newline />The "<red>//</red>" means <bold>Recursive descent</bold>; searches for the <bold>specified element at any depth</bold>. When this path operator appears at the start of the pattern, it indicates recursive descent from the root node. <newline />
+			 <newline />The "<red>.</red>" indicates the <bold>current context</bold>. <newline />
+			 <newline />The "<red>*</red>" is the <bold>Wildcard</bold>; selects all elements regardless of the element name. <newline />
+			 <newline />The "<red>@</red>" means an <bold>Attribute</bold>; it's a prefix for an attribute name. <newline />
+			 <newline />The "<red>@*</red>" is the <bold>Attribute Wildcard</bold>; selects all attributes regardless of name. <newline />
+			 <newline />The "<red>:</red>" is the <bold>Namespace separator</bold>; separates the namespace prefix from the element or attribute name. <newline />
+			 <newline />The "<red>! *</red>" applies the specified method to the <bold>reference node</bold>. <newline />
+			 <newline />The "<red>( ) *</red>" groups operations to explicitly <bold>establish precedence</bold>. <newline />
+			 <newline />The "<red>[ ]</red>" applies a <bold>filter pattern</bold>. <newline />
+			 <newline />The "<red>[ ] *</red>" is the <bold>Subscript</bold> operator. Used for <bold>indexing within a collection</bold>. <newline />
+
+		<newline /><newline /><bold>XSL Boolean, Comparison, and Set Expressions</bold>
+		<newline />Filter patterns can contain Boolean expressions, 
+		comparison expressions, and set expressions. 
+		Shortcuts listed here represent alternative symbols that are 
+		also provided in the XSL implementation. 		
+
+		<newline />
+		<newline /><red>not()</red>|<red>$not$</red>, is the <red>Negation</red> operator
+		<newline />&#xA0;&#xA0;<red>=</red>&#xA0;&#xA0;|&#xA0;<red>$eq$</red>, is the <red>Equality</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$ieq$</red>, is the <bold>Case-insensitive equality</bold> operator
+		<newline />&#xA0;<red>!=</red>&#xA0;&#xA0;|&#xA0;<red>$ne$</red>, is the <red>Not equal</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$ine$</red>, is the <bold>Case-insensitive inequality</bold> operator
+		<newline />&#xA0;<red>&lt;</red> &#xA0;&#xA0;&#xA0;|&#xA0;<red>$lt$</red>, is the <red>Less than</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$ilt$</red>, is the <bold>Case-insensitive less than</bold> operator
+		<newline />&#xA0;<red>&lt;=</red>&#xA0;|&#xA0;<red>$le$</red>, is the <red>Less than or equal</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$ile$</red>, is the <bold>Case-insensitive less than or equal</bold> operator
+		<newline />&#xA0;<red>&gt;</red>&#xA0;&#xA0;&#xA0;|&#xA0;<red>$gt$</red>, is the <red>Greater than</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$igt$</red>, is the <bold>Case-insensitive greater than</bold> operator
+		<newline />&#xA0;<red>&gt;=</red>&#xA0;|&#xA0;<red>$ge$</red>, is the <red>Greater than or equal</red> operator
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$ige$</red>, is the <bold>Case-insensitive greater than or equal</bold> operator
+		<newline />&#xA0;&#xA0;<red>|</red>&#xA0;&#xA0;&#xA0;|&#xA0;<red>$$</red>, is the <bold>Set</bold> operator returns the <bold>union of two sets of nodes</bold>
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$all$</red>, is the <bold>Set</bold> operator, returning TRUE if condition is true 
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;(for ALL items in collection)
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<red>$any$</red>, is the <bold>Set</bold> operator, returning TRUE if condition is true 
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;(for ANY items in collection)
+		<newline />
+			</def>
+
+		<example>
+		<newline />
+			<newline />&#xA0;<green>&lt;!-- There will be examples added as time of development allows. --&gt;</green>
+		<newline />
+		</example>
+
+			
+  </keyword>	
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSLT Pattern Examples~~~~~~~~ -->	
+												<!-- AT LEAST 450 LINES!!! -->				
+<!-- Begin new KEYWORD -->						<!-- May Split this out!!! -->				
+			<keyword name="XSLT Pattern Examples">XSLT Pattern Examples
+			<def>
+
+			<newline /><newline /><red>XSLT Pattern Examples</red>
+
+			<newline />See XSLT Pattern Syntax for rules, operators and syntax. 
+
+			</def>
+ 
+	<example>
+		<newline />
+		<newline />&#xA0;Find all fnord elements within the current context:
+		<newline />&#xA0;&#xA0;<red>./fnord</red> (equivalent to: fnord)<newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all first.name elements:
+		<newline />&#xA0;&#xA0;<red>first.name</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the root element (dobedoc) of this document:
+		<newline />&#xA0;&#xA0;<red>/dobedoc</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements anywhere within the current document:
+		<newline />&#xA0;&#xA0;<red>//fnord</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnessess where the value of the specialty attribute is equal to "textweirdnesss":
+		<newline />&#xA0;&#xA0;<red>/weirdnesses[@specialty = "textweirdnesss"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss where the value of the style attribute on the weirdness is equal to the value of the specialty attribute of the weirdnesses element at the root of the document:
+		<newline />&#xA0;&#xA0;<red>weirdness[/weirdnesses/@specialty = @style]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all copybook_source elements within an fnord element.
+		<newline />&#xA0; Note that the fnord children of the current context are found, and then copybook_source children are found relative to the context of the fnord elements.
+		<newline />&#xA0;&#xA0;<red>fnord/copybook_source</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all thingie elements, one or more levels deep in the weirdnesses (arbitrary descendants):
+		<newline />&#xA0;&#xA0;<red>weirdnesses//thingie</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Note that this is different from the following pattern, which finds all thingie elements that are grandchildren of weirdnesses elements:
+		<newline />&#xA0;&#xA0;<red>weirdnesses/*/thingie</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find emph elements anywhere inside weirdness excerpts, anywhere inside the weirdnesses:
+		<newline />&#xA0;&#xA0;<red>weirdnesses//weirdness/widget//emph</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all thingies, one or more levels deep in the current context. Note that this situation is <red>essentially the only one where the period notation is required</red>:
+		<newline />&#xA0;&#xA0;<red>.//thingie</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all element children of fnord elements:
+		<newline />&#xA0;&#xA0;<red>fnord/*</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all aliass that are grandchildren of weirdnesss:
+		<newline />&#xA0;&#xA0;<red>weirdness/*/alias</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the grandchildren elements of the current context:
+		<newline />&#xA0;&#xA0;<red>*/*</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the weirdness element from the "my" namespace:
+		<newline />&#xA0;&#xA0;<red>my:weirdness</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all elements from the "myNS" namespace:
+		<newline />&#xA0;&#xA0;<red>myNS:*</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all elements with the "Farm_Out" attribute. Note that this example uses filters and attributes.
+		<newline />&#xA0;&#xA0;<red>*[@Farm_Out]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the style attribute of the current element context:
+		<newline />&#xA0;&#xA0;<red>@style</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the snafu attribute on worth elements within the current context:
+		<newline />&#xA0;&#xA0;<red>worth/@snafu</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;The following example is <red>NOT VALID</red>!:
+		<newline />&#xA0;&#xA0;<red>worth/@snafu/total</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss with style attributes:
+		<newline />&#xA0;&#xA0;<red>weirdness[@style]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the style attribute for all weirdness elements:
+		<newline />&#xA0;&#xA0;<red>weirdness/@style</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all attributes of the current element context:
+		<newline />&#xA0;&#xA0;<red>@*</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all attributes from the "my" namespace.
+		<newline />&#xA0;This does not include unqualified attributes on elements from the "my" namespace:
+		<newline />&#xA0;&#xA0;<red>@my:*</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all copybook_source elements.
+		<newline />&#xA0;&#xA0;<red>./copybook_source (equivalentto copybook_source</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all unqualified weirdness elements:
+		<newline />&#xA0;&#xA0;<red>weirdness</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Finds the first fnord element:
+		<newline />&#xA0;&#xA0;<red>fnord[0]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Finds the third fnord element that has a copybook_source:
+		<newline />&#xA0;&#xA0;<red>fnord[copybook_source][2]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Note that indexes are relative to the parent:
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>x</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>y/</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>y/</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>/x</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>x</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>y/</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>y/</red>&gt;
+		<newline />&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&lt;<red>/x</red>&gt;<newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the first y from each x:
+		<newline />&#xA0;&#xA0;<red>x/y[0]</red>
+		<newline />&#xA0;&#xA0;<red>x/y[index() = 0]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the first y from the entire set of y elements within x elements:
+		<newline />&#xA0;&#xA0;<red>(x/y)[0]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the first y from the first x:
+		<newline />&#xA0;&#xA0;<red>x[0]/y[0]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the last weirdness:
+		<newline />&#xA0;&#xA0;<red>weirdness[end()]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the last fnord for each weirdness:
+		<newline />&#xA0;&#xA0;<red>weirdness/fnord[end()]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the last fnord from the entire set of fnords of weirdnesss:
+		<newline />&#xA0;&#xA0;<red>(weirdness/fnord)[end()]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss that contain at least one widget element:
+		<newline />&#xA0;&#xA0;<red>weirdness[widget]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all thingies of weirdnesss that contain at least one widget element:
+		<newline />&#xA0;&#xA0;<red>weirdness[widget]/thingie</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords of weirdnesss where the weirdness contains at least one widget, and the fnord has at least one excerption:
+		<newline />&#xA0;&#xA0;<red>weirdness[widget]/fnord[excerption]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss that have fnords with at least one excerption:
+		<newline />&#xA0;&#xA0;<red>weirdness[fnord/excerption]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss that have an widget and a thingie:
+		<newline />&#xA0;&#xA0;<red>weirdness[widget][thingie]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements that contain at least one excerption and one award:
+		<newline />&#xA0;&#xA0;<red>fnord[excerption and award]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;
+Find all fnord elements that contain at least one excerption or award and at least one sighting:
+		<newline />&#xA0;&#xA0;<red>fnord[(excerption or award) and sighting]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements that contain at least one excerption element and that contain no sighting elements:
+		<newline />&#xA0;&#xA0;<red>fnord[excerption and not(sighting)]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements that contain sighting elements but do not contain either excerption elements or award elements:
+		<newline />&#xA0;&#xA0;<red>fnord[not(excerption or award) and sighting]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements that contain a alias element with the value Bob:
+		<newline />&#xA0;&#xA0;<red>fnord[$any$ alias = "Bob"]</red>
+		<newline />&#xA0;&#xA0;<red>fnord[$any$ alias $eq$ "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements where the first alias is Bob:
+		<newline />&#xA0;&#xA0;<red>fnord[alias[0] = "Bob"]</red>
+		<newline />&#xA0;&#xA0;<red>fnord[alias = "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords where the "from" attribute is not equal to "Mars":
+		<newline />&#xA0;&#xA0;<red>excerption[@from != "Mars"]</red>
+		<newline />&#xA0;&#xA0;<red>excerption[@from $ne$ "Mars"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords where the alias is the same as the /guest/alias element (note that this assumes there is only one alias; see Set Operations):
+		<newline />&#xA0;&#xA0;<red>fnord[alias = /guest/alias]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords whose text is "Mr. Bob":
+		<newline />&#xA0;&#xA0;<red>fnord[. = "Mr. Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements whose alias is "Bobby" and whose worth is &gt; 50 (note that this assumes there is only one alias and worth for an fnord;):
+
+		<newline />&#xA0;&#xA0;<red>fnord[alias = "Bobby" and worth $gt$ 50]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords whose alias begins with "M" or greater:
+		<newline />&#xA0;&#xA0;<red>fnord[alias $ge$ "M"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;When an fnord can have several aliases in the schema (such as Clemens and Twain), use the following patterns:
+		<newline />&#xA0;&#xA0;<red>fnord[$any$ alias $ge$ "M"]</red><newline />
+		<newline />&#xA0;&#xA0;<red>fnord[$all$ alias $ge$ "M"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnords whose alias begins with "M", "m", or greater:
+		<newline />&#xA0;&#xA0;<red>fnord[alias $ige$ "M"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the first three weirdnesss (0, 1, 2):
+		<newline />&#xA0;&#xA0;<red>weirdness[index() $le$ 2]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements where any one of the aliass is Bob:
+		<newline />&#xA0;&#xA0;<red>fnord[$any$ alias = "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements where none of the alias elements are Bob:
+		<newline />&#xA0;&#xA0;<red>fnord[$all$ alias != "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements containing a copybook_source child whose text is "Bob" (note that this and following samples assume there is only one copybook_source child for an fnord):
+		<newline />&#xA0;&#xA0;<red>fnord[copybook_source!value() = "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all fnord elements containing any child element whose text is "Bob":
+		<newline />&#xA0;&#xA0;<red>fnord[*!value() = "Bob"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss where the sighting date is before January 1, 1995 (note that these samples assume there is only one sighting date for a weirdness):
+		<newline />&#xA0;&#xA0;<red>weirdnesss[sighting_date &lt; date("1995-01-01")]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find all weirdnesss where the sighting date is before the date value stored in the attribute first:
+		<newline />&#xA0;&#xA0;<red>weirdnesss[sighting_date &lt; date(@first)]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;These examples are equivalent:
+		<newline />&#xA0;&#xA0;<red>fnord[alias!value() = "Bob" and copybook_source!value() = "Moe"]</red><newline />
+		<newline />&#xA0;&#xA0;<red>fnord[alias = "Bob" and copybook_source = "Moe"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;These examples are equivalent:
+		<newline />&#xA0;&#xA0;<red>worth[@intl!value() = "foo"]</red><newline />
+		<newline />&#xA0;&#xA0;<red>worth[@intl = "foo"]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the first 23 excerptions:
+		<newline />&#xA0;&#xA0;<red>excerption[index() $lt$ 23]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the second text node in each bar element in the current context:
+		<newline />&#xA0;&#xA0;<red>bar/textnode()[1]</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the nearest weirdness ancestor of the current element:
+		<newline />&#xA0;&#xA0;<red>ancestor(weirdness)</red><newline />
+	</example>
+
+	<example>
+		<newline />&#xA0;Find the nearest ancestor fnord element that is contained in a weirdness element:
+		<newline />&#xA0;&#xA0;<red>ancestor(weirdness/fnord)</red><newline />
+	</example>
+	
+</keyword>	
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~XSLT Variables~~~~~~~~ -->	
+																	<!-- ! -->				
+<!-- Begin new KEYWORD -->
+			<keyword name="XSLT Variables">XSLT Variables
+			<def>
+			<newline />XSLT allows <red>global variables</red>, available throughout the entire stylesheet, and
+			<newline /><red>local variables</red>, available only within a particular template body.
+			</def>
+		<example>
+			<newline /><newline />&lt;!--&#xA0;
+			This variable, <red>global</red> if it appears as a child of the <red>&lt;xsl:stylesheet&gt;</red> element, or <red>local</red> if it appears within the body of an <red>&lt;xsl:template&gt;</red> element, can be referenced in an XPATH expression as <red>$varName</red>.
+The &lt;<red>;xsl:param&gt;</red> element can also be used to declare global parameters, while <red>&lt;xsl:with-param&gt;</red> element is used to declare local parameters.
+			&#xA0;--&gt;
+			<newline />&#xA0;&lt;xsl:variable name="varName" select="varValue" /&gt;
+			<newline />&#xA0;&lt;&gt;<newline />
+		</example>
+	</keyword>
+
+			
+  <!-- Insert additional keywords conforming to the DTD above! -->				
+	      </keywords>
+	</glossary>	
+   </body>	
+  </dobedoc>
+  <!-- End Root Element -->	

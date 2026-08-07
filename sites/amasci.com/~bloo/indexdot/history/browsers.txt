@@ -1,0 +1,158 @@
+Browser History timeline: Overview 
+
+ Browser Timelines 
+ (Releases important to HTML and CSS development) 
+= Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Expand All 
+
+ Windows IE 
+
+ 1.0 
+ Final 
+ Aug. 1995 
+
+ 2.0 
+ Final 
+ Nov. 1995 
+
+ 3.0 
+ Final 
+ Aug. 1996 
+
+ 4.0 
+ Final 
+ Oct. 1997 
+
+ 5.0 
+ Final 
+ Mar. 1999 
+
+ 5.5 
+ Final 
+ Jul. 2000 
+
+ 6.0 
+ Final 
+ Oct. 2001 
+
+ Macintosh IE 
+
+ 2.0 
+ Final 
+ Apr. 1996 
+
+ 2.1 
+ Final 
+ Sep. 1996 
+
+ 3.0 
+ Final 
+ Jan. 1997 
+
+ 4.0 
+ Final 
+ Jan. 1998 
+
+ 4.5 
+ Final 
+ Jan. 1999 
+
+ 5.0 
+ Final 
+ Mar. 2000 
+
+ Mosaic 
+
+ 1.0 
+ Final 
+ Nov 1993 
+
+ 2.0 
+ Final 
+ Nov. 1995 
+
+ 2.1 
+ Final 
+ Jan. 1996 
+
+ 3.0 
+ Final 
+ Jan. 1997 
+
+ Mosaic Ends 
+
+ Netscape 
+
+ 1.0 
+ Final 
+ Dec 1994 
+
+ 1.1 
+ Final 
+ Apr. 1995 
+
+ 2.0 
+ Final 
+ Mar. 1996 
+
+ 3.0 
+ Final 
+ Aug. 1996 
+
+ 4.0 
+ Final 
+ Jun. 1997 
+
+ 4.5 
+ Final 
+ Oct. 1998 
+
+ 6.0 
+ Final 
+ Nov. 2000 
+
+ 7.0 
+ Final 
+ Aug. 2002 
+
+ Opera 
+
+ 2.1 
+ Final 
+ Dec. 1996 
+
+ 3.0 
+ Final 
+ Dec. 1997 
+
+ 3.5 
+ Final 
+ Nov. 1998 
+
+ 4.0 
+ Final 
+ Jun. 2000 
+
+ 5.0 
+ Final 
+ Dec. 2000 
+
+ 6.0 
+ Final 
+ Nov. 2001 
+
+ 7.0 
+ Final 
+ Jan. 2003 
+
+ Boring Copyright Stuff...

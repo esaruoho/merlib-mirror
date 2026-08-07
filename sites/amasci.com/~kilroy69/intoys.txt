@@ -1,0 +1,37 @@
+My Favorite Internet Toys 
+
+ Welcome and I hope you have as much fun with these toys as I do.
+I will try to keep this list as up to date as possible but given the speed of
+change on the net, no list will ever be complete. If you know of any
+really cool toys or other internet applications that are not here, 
+please send me an e-mail at kilroy69@eskimo.com 
+and tell me the name of the application and where I can find it if you know it.
+Also indicate whether it is available for IBM, MAC or BOTH if you know.
+I am an IBM user myself, so I have not tried any of the MAC toys you find 
+here. 
+
+ Worlds Chat AND Alpha World. Worlds Chat is a new
+internet chat program that allows you to wander around in a 3-D 
+spaceship. In color, with sound effects. This certainly does not
+replace IRC for chatting, but provides a novel interface to chat in.
+My observation so far is that people typically end up chatting with
+one individual at a time. Try This!!! It's neat and definitely 
+worth the time to download it. 
+ Alpha World is like a cross between SimCity and IRC where you're one of 
+the Simms. You get to build houses, trees, lakes, waterfalls, sounds, midi music, some animations. Better than Worlds Chat, try it too :-).
+
+ The Ultimate Collection Of Winsock Software. 
+What more can I say, it has everything and stays up to date. FTP clients,
+ daemons, IRC Clients, WinZip, related, If it works through WinSock,
+ it's gotta be on this site. All kinds of stuff for all windows platforms.
+
+ Happy Puppy---> Mostly games (lots of 
+them). Also realaudio brodcast info, much much more. Check them out. Both 
+IBM and MAC users will like this site.
+
+ Visual IRC . Only tried this a few times but it looks like a nice irc client. Still in Beta release, waiting to see what 1.0 looks like :-).
+
+Time to Quit again. Ok, I just started this part. I'll work more on it later.
+Send me your suggestions please! kilroy69@eskimo.com . 
+
+ Return to Main Page .

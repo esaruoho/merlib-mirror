@@ -1,0 +1,493 @@
+CSS specification/browser support page: General Syntax 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Syntax 
+ Specific Syntax 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ Inclusion Methods 
+ X 
+ X 
+ 3.0 
+ 4.0B2 
+ 3.5 
+
+ External Style Sheets 
+ X 
+ X 
+ 3.0 
+ 4.0B2 
+ 3.5 
+
+ Embedded Style Sheets 
+ X 
+ X 
+ 3.0 
+ 4.0B2 
+ 3.5 
+
+ Inline Style Sheets 
+ X 
+ X 
+ 3.0 
+ 4.0B3 
+ 3.5 
+
+ @Rules 
+ X 
+ X 
+ 4.0 
+ 4.0 
+ 3.5 
+
+ @charset 
+ -- 
+ X 
+ 5.5 
+ 6.0 
+ ?? 
+
+ @import 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ @media 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ @namespace 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ @page 
+ -- 
+ X 
+ 5.5 
+ -- 
+ ?? 
+
+ @fontdef 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ @font-face 
+ -- 
+ X 
+ 4.0 
+ -- 
+ -- 
+
+ Rule Set Syntax 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Selector
+ Grouping 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Declaration
+ Grouping 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Declaration
+ Shorthands 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Selectors 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Element -
+ Namespace 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ Element -
+ Universal 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ Element -
+ Simple 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Element -
+ Descendent 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Element - Child 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 3.5 
+
+ Element - Adjacent 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 5.0 
+
+ Attribute -
+ Simple 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ Attribute -
+ Value 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ Attribute -
+ Begin Value 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ Attribute -
+ End Value 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ Attribute -
+ Substring Value 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ Attribute -
+ One-Of-Many 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ Attribute -
+ Hyphen 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ Attribute -
+ Namespace 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ HTML -
+ Class 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ HTML -
+ ID 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Pseudo-Classes 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ :link 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ :visited 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ :active 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 5.0 
+
+ :hover 
+ -- 
+ X 
+ 4.0 
+ 6.0 
+ 4.0 
+
+ :focus 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ :root 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :empty 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :not 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :first-child 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ :first-node 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :last-node 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :last-child 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :lang 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ :viewport 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :viewport-scroll 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :canvas 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :scrolled-content 
+ -- 
+ -- 
+ -- 
+ 6.0 
+ -- 
+
+ :first 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ :left 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ :right 
+ -- 
+ X 
+ -- 
+ -- 
+ ?? 
+
+ Pseudo-Elements 
+ X 
+ X 
+ 5.5B1 
+ 6.0 
+ 3.5 
+
+ :before 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ :after 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ :first-letter 
+ X 
+ X 
+ 5.5B1 
+ 6.0 
+ 3.5 
+
+ :first-line 
+ X 
+ X 
+ 5.5B1 
+ 6.0 
+ 3.5 
+
+ Miscellaneous Syntax 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ Unicode Escapes 
+ -- 
+ X 
+ 6.0 
+ 6.0 
+ 6.0 
+
+ Comments 
+ X 
+ X 
+ 3.0 
+ 4.0 
+ 3.5 
+
+ !important 
+ X 
+ X 
+ 4.0 
+ 6.0 
+ 3.5 
+
+ Boring Copyright Stuff...

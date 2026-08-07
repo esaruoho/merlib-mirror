@@ -1,0 +1,130 @@
+<HTML>
+<!--This file created 14/12/98 18:24 by Claris Home Page version 3.0-->
+<HEAD>
+   <TITLE>Untitled Document</TITLE>
+   <META NAME=GENERATOR CONTENT="Claris Home Page 3.0">
+   <X-CLARIS-WINDOW TOP=0 BOTTOM=0 LEFT=0 RIGHT=0>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+<SCRIPT language="JavaScript"><!-- hide
+function queryClimbsDB(Branch,Class) {
+
+var currDate=new Date()
+var queryString="/mountaineers/"
+var queryHost="http://larch.forest.net"
+
+queryString+="FMPro?-DB=Trips98_.fp4"
+queryString+="&-Format=trip_schedule2.htm"
+queryString+="&-Lay="
+queryString+=escape("Trip Signup View")
+queryString+="&-Op=gt"
+queryString+="&Date="
+queryString+=1+currDate.getMonth() 
+queryString+="/"
+queryString+=currDate.getDate()
+queryString+="/"
+queryString+=currDate.getYear()
+if (Class != "") {
+   queryString+="&TripClass="
+   queryString+=Class
+   }
+if (Branch != "") {
+   queryString+="&Branch="
+   queryString+=Branch
+   }
+queryString+="&-Max=20"
+queryString+="&-SortField=Date"
+queryString+="&-Find"
+
+// alert(queryString)
+ 
+window.location = queryHost + queryString
+}
+
+// unhide --></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#E5ECEF">
+<H2>Overview of the Seattle Climbing Program
+
+<HR SIZE=8>
+
+</H2>
+
+<P>The Mountaineers Climbing program offers a number of opportunities
+to become involved with technical climbing. We stress safety and
+leadership in our classes and invite members of The Mountaineers to
+join our program at any level .</P>
+
+<P>Most new climbers enter the climbing program through the <A HREF="basic-climbing.shtml">Basic
+Climbing Class</A>, which has been offered annually since 1935 and
+provides graduates with a sound background for climbing in the alpine
+mountains of the Pacific Northwest and beyond. For graduates of the
+Basic Climbing Class who wish to brush up their skills, a <A HREF="basic-refresher.shtml">Basic
+Refresher Class</A> is also given in the spring.</P>
+
+<P>An option for those with a technical mountaineering background is
+<A HREF="basic-equivalency.shtml">Basic Equivalency</A>. This allows
+a member with experience and training from outside The Mountaineers
+to become involved with the climbing program at the level of a
+graduate of the Basic Climbing Class.</P>
+
+<P>For those who wish to pursue climbing on a more technical level,
+The Mountaineers offers the <A HREF="intermediate-climbing.shtml">Intermediate
+Climbing Class</A>, and <A HREF="advanced-climbing.shtml">Advanced
+Climbing Experiences</A>. Those with an extensive technical
+mountaineering background over many years on snow, ice and rock might
+consider applying for Intermediate Equivalency.</P>
+
+<P><A HREF="club-climbs.shtml">Club Climbs</A> are offered to
+graduates of the Basic Climbing Course, in order to provide a more
+relaxed environment than the instructional trips run in the Basic
+Course. Extended trips to remote locations are also organised.</P>
+
+<P>A number of climbing-related <A HREF="seminars.shtml">Seminars</A>
+are offered through the year, ranging in subject from friction
+climbing and crack climbing in the Leavenworth area to small-party
+technical self-rescue and aid climbing. Usually the field trips are
+open to Basic Climbing graduates or equivalents, though some may be
+limited to Intermediate Climbing students or graduates. Seminars held
+in the clubhouse are open to all.</P>
+
+<P>The <A HREF="crag-climbing.html">Crag Climbing Class</A> is
+offered to those members who prefer to concentrate on rock climbing
+technique in readily accessible cliffs. A related <A HREF="alpine-scrambling.shtml">Alpine
+Scrambling Class</A> (non-technical mountaineering trips, not
+involving the use of climbing ropes or other technical hardware) is
+offered yearly by the Seattle Alpine Scrambling Committee.</P>
+
+<P>To provide learning experiences for these classes, the Seattle
+Climbing Committee annually organizes several hundred <A HREF="schedules.shtml">Technical
+Climbs</A> to destinations in the Pacific Northwest and beyond.
+Collected wisdom from climbers within and outside the Mountaineers is
+gathered into the book <A HREF="freedom6.shtml"><I>Mountaineering:
+The Freedom of the Hills</I> (6th Edition)</A>, available from <A HREF="http://www.mountaineersbooks.org">Mountaineers Books</A>
+which
+is the publishing division of The Mountaineers. It is the primary
+reference for our climbing classes.</P>
+
+<P>Climbing Courses are also offered through the <A HREF="http://www.bellinghammountaineers.org">Bellimgham</A>
+,
+<A HREF="http://www.everettmountaineers.org">Everett</A>
+, <A HREF="http://www.techline.com/~oly-mts/" TARGET="_parent">Olympia</A>
+
+<A HREF="http://www.tacomamountaineers.org/" target="_parent">Tacoma</A>.
+ and<A HREF="http://www.crcnet.com/~johnshir/mountaineers/mountaineers.html">Wenatchee</A>
+
+branches of The Mountaineers.</P>
+
+<P>A <a href="course-registration-form.html">course registration form is available for enrolling in any of our
+courses.</P>
+
+<P>A quantity of <A HREF="Reference/reference.shtml">Reference
+Material</A> is provided, and a <A HREF="http://www.eskimo.com/~pc22/CC/Bboard/wwwboard.html">Bulletin
+Board</A> is available for the use of Mountaineers climbers.</P>
+
+<P>The Climbing Committee welcomes your <A HREF="http://www.eskimo.com/~pc22/CC/addsuggestion.html">Suggestions
+or Comments</A>.</P>
+
+<CENTER><FONT SIZE="+1"><BR>
+Safe Climbing!</FONT></CENTER>
+</BODY>
+</HTML>

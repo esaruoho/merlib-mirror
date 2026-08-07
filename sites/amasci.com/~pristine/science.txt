@@ -1,0 +1,1488 @@
+Pure Mac: Science - Software for Macintosh 
+
+ Science 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Biology 
+ Biology 
+ Chemistry 
+ Chemistry 
+ Earth Sciences 
+ Physics 
+
+ AmplifX 
+ ApE 
+ BioAssistant 
+ BLAST 
+ Bone Age 
+ CClims 
+ Emboss 
+ EnzymeX 
+ Evolution 
+ 4Peaks 
+ Gene Construcktion Kit 
+ Gene Inspector 
+ Golly 
+
+ ImageJ 
+ iNMR 
+ Life 
+ LifeLab 
+ MacClade 
+ MacVector 
+ Mesquite 
+ MutantMaker 
+ ODLog 
+ Oligo 
+ OligoChecker 
+ RAAViewer 
+
+ The Atomic Mac 
+ Ball & Stick 
+ Beware of Molecules 
+ ChemLab 
+ CrystalDiffract 
+ CrystalMaker 
+ Elements 
+ GenChemLab 
+
+ iMass 
+ iMol 
+ Molecules 
+ Periodic Table 
+ PTE 
+
+ Earth Browser 
+ EarthDesk 
+ EarthGlobe 
+ Google Earth 
+ Live Deskpicture 
+ MegaTrack 
+ Mr. Tides 
+ OSXGeoCalc 
+ OSXBackstrip 
+ OSXFlex2D 
+ OSXplanet 
+ Tide Widget 
+
+ Atom in a Box 
+ GearTrain 
+ Ising 
+ IsingCocoa 
+ Mac Brownian Motion 
+ Physics 101 SE 
+ Wooster Physics Software 
+
+ You may also want to check the Calculators & Math , Astronomy and Weather pages. 
+
+ The LaTeX section of the Text page and the Charts & Graphs page may also be of interest. 
+
+ Crystalography on OS X 
+ DarwinPorts Science Portfiles 
+ Fink - Package Database - Section sci 
+ Math, Physics and Engineering Applets 
+ Mac OS X for Astrophysicists 
+ Mac OS X for Oceanographers and Atmospheric Scientists 
+ Mac OS X for Physicists 
+ OS X Scientific Computing 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AmplifX 1.37 
+
+The main purpose of AmplifX is to seek in a collection of primers, such
+as any molecular biologist will get in his refrigerators, those which can be
+used to amplify a fragment into a target sequence. For example, and
+particularly, to design strategies to screen recombinant clones by PCR.
+Some information is associated with each primer, some automatically
+computed by AmplifX (like TM, Quality, length) and others given by the
+user (name, comments,...) This allows general aspects of primer
+management (sequences and real tubes). AmplifX can also design new
+primers.
+
+ License : Freeware
+ Author/Publisher : Nicolas Jullien
+ Modification Date : November 11, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ ApE 1.1.0.1 
+
+A plasmid Editor - It is designed to be an all-in-one molecular biology workbench. It can
+read strider, EMBL, genbank, Fasta sequence file formats. In addition it
+can read and display ABI trace files. It can query and download from the
+NCBI EMBL database and can blast sequences directly at the NCBI BLAST
+server. Sequence features can be added individually or automatically
+from pre-defined feature definition libraries. It can draw graphic
+(liear or circular) and text-based restriction maps that include
+annotated features of the sequence. It contains a restriction enzyme
+choser that can perform boolean queries for enzymes that match cut
+frequency and enzyme property parameters. It can show virtual agarose
+gels. It can align two sequences or a sequence and an ABI trace file. It
+can search selected sequence for potential PCR primers matching given
+parameters. All analysis functions are hyperlinked back to the original
+sequence.
+
+ License : Freeware
+ Author/Publisher : M. Wayne Davis
+ Modification Date : December 19, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ The Atomic Mac 6.8 
+
+The Atomic Mac is the award winning periodic table of the elements for
+the Macintosh. In addition to the usual information found in such
+programs, The Atomic Mac also contains a wealth of nuclear information
+on each isotope, including half life, decay mode, and daughter products.
+No other periodic table of the elements has more data than The Atomic
+Mac.
+
+ License : Shareware, $25
+ Author/Publisher : Chris Smolinski/Black Cat Systems
+ Modification Date : November 15, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 6.3 MB
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ Atom in a Box 1.1 
+
+Atom in a Box is an application that aids in visualizing the Hydrogenic atomic orbitals, a prime and
+otherwise unwieldy example of quantum mechanics. Unlike other tools in this category, this program
+raytraces through a three-dimensional cloud density that represents the wavefunction's probability
+density and presents its results in real-time.
+The user interface is very interactive and provides a wide degree of flexibility.
+
+ License : Shareware, $20
+ Author/Publisher : Dean Dauger
+ Modification Date : May 16, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 465 Kb - version 1.1
+
+ Download 
+File Size: 404 Kb - version 1.0.8
+
+ Home Page 
+
+ Ball & Stick 3.8b3 
+
+Ball & Stick generates images and animations of three dimensional
+molecular models at atomic resolution. It requires input files from
+either structure libraries (e.g. protein data bank) or generated by
+experimental methods (e.g. X-ray crystallography, NMR,...) of by
+computatioanl chemistry (e.g. molecular mechanics,
+quantum-mechanics,...)
+
+ License : Freeware
+ Author/Publisher : Norbert Mueller
+ Modification Date : November 15, 2000 - No longer in development
+ Requirements : Mac OS X and Mac OS 7.1 or higher 
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ Beware of Molecules 3.3.4 
+
+Beware of Molecules 3 is a small application designed as a small helper
+for calculating the weight on different molecules. It comes loaded with
+over a hundred compounds, and more can be added.
+
+ License : Freeware
+ Author/Publisher : Totland Software
+ Modification Date : Sepetember 7, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 552 Kb
+
+ Documentation 
+
+ Home Page 
+
+ BioAssistant 1.7.2 
+
+BioAssistant was written to assist PCR Chemists design DNA Probes. With
+BioAssistant you can do all the things you could do with Probe
+Assistant, such as determine probe Melting Points (Tm), Molecular
+Weights, Hybridization information and other useful tidbits, but with a
+much cleaner and easy to use interface. It also extends on Probe
+Assistant feature set by introducing several useful tools, such as a
+Master Mix Calculator.
+
+ License : Shareware, $20
+ Author/Publisher : Chaotic Software
+ Modification Date : October 29, 2003
+ Requirements : Mac OS X and Mac OS 9 or higher
+
+ Download 
+File Size: 512 Kb
+
+ Home Page 
+
+ BLAST 2.2.1.0 
+
+BLAST is a popular open source biotechnology application used by life
+science researchers to find matches in DNA and protein sequences - a
+highly processor - intensive task. Developed by ACG in collaboration with
+Genentech, Inc. and the Stanford University Genetics Department,
+Apple/Genentech BLAST provides improved accuracy and speed over the
+standard NCBI BLAST, depending on search parameters such as the
+nucleotide match-length.
+
+ License : Freeware
+ Author/Publisher : Apple/Genentech
+ Modification Date : June 22, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 13.4 MB - Source code
+
+ Home Page 
+
+ Bone Age 2.1 
+
+Assess bone age and stature according to the reference standards of
+Greulich and Pyle (2nd ed). A graph of bone age is plotted against
+chronological age which is then available for importing into the medical
+record.
+
+Due to copyright restrictions the software does not include the source
+reference standards and images, which may be obtained
+ here 
+[Stanford University].
+
+ License : Freeware
+ Author/Publisher : David Davies-Payne
+ Modification Date : November 26, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 468 MB
+
+ Home Page 
+
+ CCLims 1.0 
+
+The Cell Culture Laboratory Information Management System (CCLims) is
+an all emcompasing solution that manages all facets of your Cell Culture
+Laboratory. The CCLims was designed by Cell Culture Specialists for Cell
+Culture Specialists. No other LIMS comes close to supporting Cell
+Culture the way the CCLims does.
+
+Just a few of the things you can do with the CCLims...
+ * Seamlessly manage all of your dewars and freezers.
+ * See a list of growing cells with one click.
+ * Get reminders for upcoming tasks like medium changes or dosings.
+ * Quickly print labels for all of your flasks.
+ * Easily keep separate records for each user in your laboratory.
+ * Track all inventory used for any experiment automatically.
+ * Set up complicated formulas in advance of an experiment using a integreated calculation engine.
+ * Automatically link customers, users and vendors.
+ * Organize your whole day in just a few minutes.
+ * Print and configure reports for any and all data within the CCLims.
+ * Maintain continuity of procedures and data as specialists come and go.
+
+ License : Demo, Single User $2495
+ Author/Publisher : Selznick Scientific Software
+ Modification Date : November 9, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ ChemLab 3.04 
+
+Whether your challenge is to introduce new computer technology to your
+curriculum, or bring the lab experience to on-line students or a need
+for an alternative to dangerous, expensive or environmentally hazardous
+labs, then Model ChemLab is the classroom proven solution for you.
+
+Model ChemLab is a unique product incorporating both an interactive
+simulation and a lab notebook workspace with separate areas for theory,
+procedures and student observations. Commonly used lab equipment and
+procedures are used to simulate the steps involved in performing an
+experiment. Users step-through the actual lab procedure while
+interacting with animated equipment in a way that is similar to the real
+lab experience.
+
+ License : Shareware, Standard $30 - Pro $130
+ Author/Publisher : Model Science Software
+ Modification Date : January 2, 2006
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ CrystalDiffract 5.1.4 
+
+CrystalDiffract works with CrystalMaker, reading from saved crystal
+files to simulate and display powder diffraction patterns on screen. You
+can drag-and-drop a crystal file into CrystalDiffract, or use
+CrystalMaker's Transform > Diffraction Pattern > Powder command to
+obtain a diffraction pattern for any displayed crystal structure.
+
+Diffraction patterns can be displayed as traditional greyscale "films",
+or as diffractometer traces (graphs of intensity versus two-theta,
+d-spacing, 1/d, time-of-flight or energy). Tools allow you to measure
+peak positions, intensities, and their Miller indices. You can precisely
+scroll the diffraction pattern, or select a plot range and zoom. Other
+tool buttons provide scaling functions, as well as x and y-axis offsets.
+
+ License : Demo, $319 - Academic $189
+ Author/Publisher : CrystalMaker Software
+ Modification Date : January 22, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.8 MB
+
+ Home Page 
+
+ CrystalMaker 8.0 
+
+CrystalMaker is a program for generating, displaying, and manipulating all kinds of crystal and
+molecular structures, in stunning photo-realistic colour. CrystalMaker is a very powerful
+crystallographic tool - but is designed to be used by everyone, not just professional crystallographers.
+CrystalDiffract is a program to generate, display and manipulate x-ray and neutron powder
+diffraction patterns - straight from your CrystalMaker binary files.
+
+ License : Demo, $629
+ Author/Publisher : CrystalMaker Software
+ Modification Date : Augsut 28, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.3 MB
+
+ Home Page 
+
+ EarthDesk 4.1 
+
+EarthDesk is the only cross-platform dynamic desktop map, supporting
+real time clouds and accurate moonlight.
+ - 4320x2160 resolution
+ - Multi-display support
+ - Multiple projections
+ - City lights glow at night
+ - Accurate moonlight
+ - Beautiful, crisp images
+
+ License : Shareware, $20
+ Author/Publisher : Xeric Design
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.9 MB
+
+ Home Page 
+
+ Earth Browser 2.11.0 
+
+EarthBrowser is a three dimensional model of the earth with constantly
+updating live information. Exploring the earth is fun and easy with a
+point and click interface that lets you rotate and zoom to any desired
+location. EarthBrowser's dynamic nature makes it an information resource
+that is always useful and fascinating.
+Major Features
+ - Weather forecasts for over 17,000 locations
+ - High resolution 1km/pixel satellite map of the Earth
+ - Live hurricane and tropical storm tracking
+ - Satellite cloud animations are updated every 3 hours
+ - Live earthquake locations and magnitudes with links
+ - Live ocean buoy data for over 250 buoys
+ - Antarctic iceberg tracking
+ - Daily fire hotspot display
+ - Hundreds of dynamic webcams all over the globe
+ - Add and save your own webcams
+ - Political borders/Tectonic plate boundaries
+ - Over 15,000 volcanoes with links to more information
+ - Screen Saver
+ - Current time of day in cities worldwide
+ - Links to facts about countries all over the world
+ Customizable
+ EarthBrowser enables you to set which cities display weather and even
+add your own cities to automatically get the closest weather report.
+View hundreds of live webcams across the globe and add your own webcam
+or vacation picture links right on the globe.
+
+ License : Shareware, $24
+ Author/Publisher : Lunar Software
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.2 or higher, 400MHz or faster
+
+ Download 
+File Size: 9.7 MB
+
+ Home Page 
+
+ EarthGlobe 0.9 
+
+Designed as a sister application to MoonDock - it provides a lightweight
+view of the Earth day-light/seasonal cycles and takes up few system
+resources so it can be left running on your desktop.
+
+ License : Freeware
+ Author/Publisher : Gary C. Martin
+ Modification Date : July 26, 2002
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 139 KB
+
+ Home Page 
+
+ Elements 2.0.1 
+
+A beautiful and easy to use Periodic Table and a powerful Molecular
+Weight Calculator. Ideal for students, teachers and researchers in
+chemistry or physics, and all persons who need information on atoms.
+
+ License : Shareware, $10
+ Author/Publisher : Digital Science
+ Modification Date : May 8, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ EMBOSS 4.0 
+
+EMBOSS, The European Molecular Biology Open Source Software Suite, is a
+package of high-quality FREE Open Source software for sequence analysis.
+
+EMBOSS includes hundreds of applications. They share a similar
+interface, but each comes with its own documentation.
+
+ License : Freeware
+ Author/Publisher : EMBOSS Project
+ Modification Date : July 17, 2006
+ Requirements : Mac OS X 10.3 or higher and X11
+
+ Download 
+File Size: 16.8 MB
+
+ Home Page 
+
+ EnzymeX 3.1 
+
+EnzymeX is a program for molecular biologists, developed to help you
+determine which restriction enzymes you should use to cut your DNA of
+interest. In addition, it gives you all the specific properties of these
+enzymes so that you can make sure that every single digestion is a
+success.
+
+ License : Freeware
+ Author/Publisher : Mek&Tosj
+ Modification Date : June 20, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Evolution 0.2.3 
+
+The aim is to introduce a computer simulation that simulates the origin
+of species in a population of virtual animals caused by evolution.
+
+ License : Freeware
+ Author/Publisher : Ivo Naepflin
+ Modification Date : December 24, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 168 Kb
+
+ Home Page 
+
+ 4Peaks 1.7.2 
+
+4Peaks is a program that helps molecular biologists to visualize and
+edit their DNA sequence files. At last there is a decent solution for
+analyzing trace files on the MacOSX platform, taking another step away
+from slow and non-native programs from the MacOS9 period. Also, 4Peaks
+supports most commonly used sequence file formats right out of the box,
+you no longer have to convert them first using AppleScripts or other
+painstaking methods. Analyzing your sequence was never so much fun!
+
+ License : Freeware
+ Author/Publisher : Mek&Tosj
+ Modification Date : May 21, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.3 MB
+
+ Home Page 
+
+ GearTrain 1.0 
+
+GearTrain calculates the angular velocity of the final driven gear in a
+gear chain. The user enters the revolutions per minute and driection of
+the first driver gear along with information about the number of teeth
+of each gear in the series. The program will output the RPM and
+direction of the final driven gear in the gear train. It was designed as
+a tool for educators and students wishing to learn or check calculations
+for a gear chain in a Technology Education or Robotics program.
+
+ License : Freeware
+ Author/Publisher : Travis East
+ Modification Date : September 27, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 992 KB
+
+ Home Page 
+
+ GenChemLab 1.0 
+
+GenChemLab is an OpenGL-based application intended to simulate several
+common general chemistry exercises. It is meant to be used to help
+students prepare for actual lab experience. It could also be used in
+cases where laboratory facilites are not accessible, for instance in
+K-12 schools or home schooling.
+
+At present, supported experiments include titration, calorimetry,
+freezing point depression, vapor pressure, and spectrophotometry.
+
+ License : Freeware
+ Author/Publisher : ATG Software
+ Modification Date : February 2, 2005
+ Requirements : Mac OS X 10.3 or higher and Qt 3.1 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ Gene Construcktion Kit 2.5 
+
+The Gene Construction Kit allows graphic manipulation of DNA sequences and sophisticated plasmid
+drawing capabilities. The Gene Construction Kit represents a breakthrough in interface design that allows graphic manipulation of DNA sequences in
+addition to providing sophisticated drawing capabilities. It is ideal for designing and managing complex construction projects or
+assembling DNA sequences for use in DNA analysis programs such as the DNA Inspector. It readily generates high quality
+black and white or color illustrations for slides, posters, or papers.
+
+ License : Demo
+ Author/Publisher : Textco, Inc.
+ Modification Date : June 21, 2001
+ Requirements : Mac OS X and Mac OS 9 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Direct Download
+ - Manual
+
+ Home Page 
+
+ Gene Inspector 1.6.7 
+
+The Gene Inspector can perform many sophisticated sequence analyses, but this new software is much more than just another
+sequence analysis product. Imagine having the ability to define an entire suite of analyses to be performed each time you have a
+new sequence, and to design custom style sheets which specify exactly how your output will look for each analysis. Because
+you can predefine and store analysis parameters for any analysis to fit your needs, anyone in the lab will be able to obtain
+meaningful and consistent results, whether they are a novice just entering the lab, or an experienced researcher familiar with
+the analysis routines. The combination of notebook with navigation and drawing tools and sophisticated analyses provides the
+ability to annotate experimental results and analyses in a single location, rather than keeping your sequence analyses separate from
+you lab notes.
+
+ License : Demo
+ Author/Publisher : Textco BioSoftware
+ Modification Date : October 5, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.8 MB - Demo
+
+ Download 
+File Size: 3.4 MB - 1.6.7 updater
+
+ Home Page 
+
+ Golly 0.91 
+
+Golly is an open source, cross-platform Game of Life simulator currently
+under development by Andrew Trevorrow and Tomas Rokicki. Our goal is to
+write a world-class Life simulator, solicit ideas and help from the
+planet's best Life hackers, and share some of our excitement.
+ Golly's key features:
+ Unbounded universe (limited only by memory).
+ Fast, memory-efficient conventional algorithm.
+ Super fast hashing algorithm for highly regular patterns.
+ Responsive even while generating or garbage collecting.
+ Reads RLE, Life 1.05/1.06, and macrocell formats.
+ Can paste in patterns from the clipboard.
+ Auto fit option keeps patterns sized to the window.
+ Full screen option (no menu/status/tool/scroll bars).
+ Built-in HTML help system (thanks to wxWidgets).
+
+ License : Freeware
+ Author/Publisher : Andrew Trevorrow and Tomas Rokicki
+ Modification Date : October 9, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Google Earth 4.2.205.5730 
+
+Want to know more about a specific location? Dive right in -- Google
+Earth combines satellite imagery, maps and the power of Google Search to
+put the world's geographic information at your fingertips.
+
+Fly from space to your neighborhood. Type in an address and zoom right
+in.
+
+Search for schools, parks, restaurants, and hotels. Get driving
+directions.
+
+Tilt and rotate the view to see 3D terrain and buildings.
+
+Save and share your searches and favorites. Even add your own
+annotations.
+
+Google Earth puts a planet's worth of imagery and other geographic
+information right on your desktop. View exotic locales like Maui and
+Paris as well as points of interest such as local restaurants,
+hospitals, schools, and more.
+
+ License : Freeware
+ Author/Publisher : Google
+ Modification Date : November 27, 2007
+ Requirements : Mac OS X 10.3.9 or higher, 500 MHz or higher and a 3D video card
+
+ Download 
+File Size: 27.2 MB
+
+ Home Page 
+
+ ImageJ 1.38 
+
+ImageJ is a public domain Java image processing program inspired by NIH
+Image for the Macintosh.
+
+It can display, edit, analyze, process, save and print 8-bit, 16-bit and
+32-bit images. It can read many image formats including TIFF, GIF, JPEG,
+BMP, DICOM, FITS and "raw". It supports "stacks", a series of images
+that share a single window. It is multithreaded, so time-consuming
+operations such as image file reading can be performed in parallel with
+other operations.
+
+ License : Freeware
+ Author/Publisher : Wayne Rasband
+ Modification Date : July 9, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.7 MB
+
+ Upgrade ImageJ by downloading the latest JAR file September 7, 2007
+
+ Home Page 
+
+ iMass 1.0 
+
+iMass (short for isotopeMass) includes a molecular mass calculator, a
+periodic table of the elements, an isotope distribution graph and a
+calculator that computes elemental compositions matching a given mass.
+iMass understands complex chemical formulas as well as user defined
+abbreviations for commonly used formulas.
+
+ License : Freeware
+ Author/Publisher : Urs Roethlisberger
+ Modification Date : January 15, 2002
+ Requirements : Mac OS X
+
+ Download 
+File Size: 849 Kb
+
+ Home Page 
+
+ iMol 0.31 
+
+iMol is a free molecular visualization application for Mac OS X
+operating system. The program is an indispensable tool for chemists and
+molecular biologists. iMol allows loading molecules using several file
+formats: PDB, XYZ, MOL2, HIN, CAR, ALC, BIO. The molecules can be saved
+as PDB, XYZ or BIO files. The BIO file stores all view and rendering
+settings (e.g. colors, lighting, orientation of molecules). iMol can
+easily handle both small and large molecules, it can load multiple
+molecules, move and rotate them independently.
+
+ License : Freeware
+ Author/Publisher : Piotr Rotkiewicz
+ Modification Date : March 14, 2006
+ Requirements : Mac OS X 10.1.5 or higher
+
+ Download 
+File Size: 405 Kb
+
+ Home Page 
+
+ iNMR 2.4.2 
+
+Are you longing for an NMR software as stylish as the iMac, as intuitive
+as the iPod, as surprising as iLife and as cheap as iWork? Fast,
+interactive and perfectly integrated with Tiger? Look no further. Enter
+iNMR. It is continuosly tailored to the needs of the customers and, at
+the same time, strictly adhers to the conventions of the Acqua
+interface. Ours is the only NMR software written for Mac OS X. While
+others say: "running under" we say: "written for". What a difference two
+words make!
+
+ License : Demo, $95
+ Author/Publisher : Giuseppe Balacco
+ Modification Date : January 14, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ Ising 1.1 
+
+Ising is a Monte Carlo simulation of the two-dimensional Ising model,
+demonstrating phase transitions of a magnetic system. You can adjust the
+temperature, magnetic field, and lattice size (up to 400x400) while the
+simulation is running. Besides graphical output, the program keeps track
+of the current value, average, and standard deviation of the energy and
+magnetization, which you can copy and paste into a spreadsheet for
+further analysis.
+
+ License : Freeware
+ Author/Publisher : Dan Schroeder
+ Modification Date : September 22, 2002
+ Requirements : Mac OS X and Mac OS 8 or higher
+
+ Download 
+File Size: 910 Kb
+
+ Download 
+File Size: 728 Kb
+
+ Home Page 
+
+ IsingCocoa 1.0 
+
+This application provides an interface for running simulations of the
+Ising model of magnetically interacting spins on a 2-dimensional
+lattice. It is intended as a demonstration of the possibilities for
+interactive exploration of scientific models - the computing power
+available in modern machines is sufficient to perform sophisticated
+calculations on the fly as the parameters are changed.
+
+Source code is also available via the IsingCocoa home page.
+
+ License : Freeware
+ Author/Publisher : Cameron Hayne
+ Modification Date : May 13, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 123 Kb
+
+ Home Page 
+
+ Life 4.0 
+
+This is a small application which displays "Life" a simulation of cells
+which live & die by three simple rules. Life was created by John Conway
+and popularized in Scientific American's Mathematical Recreations
+column. A classic in the computer world.
+
+ License : Freeware
+ Author/Publisher : Soporific Software
+ Modification Date : July 26, 2003
+ Requirements : Mac OS X and Mac OS 9
+
+ Download 
+File Size: 118 Kb
+
+ Home Page 
+
+ LifeLab 4.4 
+
+LifeLab is a Mac application for exploring John Conway's Game of Life
+and other cellular automata. CAs were first studied in the mid-1950s by
+Stanislaw Ulam and John von Neumann. The subject became much more widely
+known in 1970 when Life was described by Martin Gardner in his
+Scientific American column.
+
+Life is played on an arbitrary-sized grid of square cells. Each cell has
+two states: "dead" or "alive". The state of every cell changes from one
+"generation" to the next according to the states of its 8 nearest
+neighbors: a dead cell becomes alive (a "birth") if it has exactly 3
+live neighbors; a live cell dies out if it has less than 2 or more than
+3 live neighbors. The "game" of Life simply involves starting off with a
+pattern of live cells and watching it evolve.
+
+ License : Shareware, $20
+ Author/Publisher : Andrew Trevorrow
+ Modification Date : March 3, 2005
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 270 Kb
+
+ Home Page 
+
+ Live Deskpicture 3.1 
+
+An alternative to a static desktop picture - Install a self-updating
+time-zone map of the earth with day, night, twilight and city lights.
+The map updates automatically as the world turns. High resolution maps
+and graphics are individually crafted for 16 different monitor sizes
+from 800 x 600 all the way up to 2560 x 1600 pixels (The new Apple 30"
+display). While you work or while you leave your computer just sitting
+there, the newest desk picture keeps slipping behind your icons as often
+as you choose. The process repeats every time the earth rotates one
+pixel on your screen. Program operation is time-sliced in order to avoid
+interruptions of your work. The dock icon menu lets you highlight time
+zones to find the time at any worldwide location. If you are using two
+monitors, Live Deskpicture X works with either one or both.
+
+ License : Shareware, $20
+ Author/Publisher : Leighton L. Paul
+ Modification Date : March 27, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 4.9 MB - version 3.1
+
+ Download 
+File Size: 1.9 MB - version 1.2.2
+
+ Home Page 
+
+ Mac Brownian Motion 1.3b3 
+
+Mac Brownian Motion is a program that simulates (tah dah...) Brownian
+Motion. Brownian Motion is exhibited in a variety of situations,
+including motion of particles. Much of stochastic analysis (introduced
+in a graduate statistics program) is based on the properties of Brownian
+Motion. Physicists, engineers, economists, and statisticians all rely on
+its nice properties. It is primarily an educational tool. In fact, its
+purpose is (originally) rather narrow: to visualize Brownian Motion in
+one dimension over time.
+
+ License : Freeware
+ Author/Publisher : John D. Johnson
+ Modification Date : April 29, 2001
+ Requirements : Mac OS X or Mac OS 8.6 or higher
+
+ Download 
+File Size: 529 Kb
+
+ Home Page 
+
+ MacClade 4.0.8 
+
+MacClade is used as a tool for phylogenetic analysis. But by its nature
+it also embodies a world view, a portrayal of a phylogenetic approach to
+studying diversity and evolution. It is relatively easy to see the
+diversity of living organisms, but it has proved more difficult to see
+that diversity in terms of its history; the slow development of a
+thoroughly phylogenetic perspective in biology attests to this
+challenge. Together the MacClade manual and program present methods for
+analyzing and exploring phylogenetic hypotheses, including hypotheses
+about character evolution. MacClade is one attempt to give our mind's
+eye phylogenetic lenses, to help us think about and see lineages and
+evolution.
+
+ License : Demo, $500 for up to 10 simultaneous users
+ Author/Publisher : David Maddison and Wayne Maddison
+ Modification Date : July 25, 2005
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 1.1 MB - Demo
+
+ Download 
+File Size: 1.5 MB - 4.0.8 updater
+
+ Home Page 
+
+ MacVector 9.5.2 
+
+Researchers who want a simple, but comprehensive, desktop sequence
+analysis application continually turn to MacVector, the leading sequence
+analysis package for the Macintosh. MacVector provides sequence editing,
+primer design, Internet database searches, protein analysis, sequence
+confirmation, contig assembly capabilities, multiple sequence alignment,
+phylogenetic reconstruction, coding region analysis, and a wide variety
+of other functions. With MacVector, you can view the results of any
+analysis in graphical or text format.
+
+ License : Demo, ~ $2,000 - $4,000
+ Author/Publisher : MacVector, Inc
+ Modification Date : November 20, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 23.1 MB - Demo
+
+ Download 
+File Size: 14.7 MB - 9.5.2 updater
+
+ Home Page 
+
+ MegaTrack 1.4.1 
+
+Hurricane tracker.
+
+ License : Freeware
+ Author/Publisher : Bob Rudis
+ Modification Date : August 30, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 8.1 MB
+
+ Home Page 
+
+ Mesquite 1.11 
+
+Mesquite is software for evolutionary biology, designed to help
+biologists analyze comparative data about organisms. Its emphasis is on
+phylogenetic analysis, but some of its modules concern population
+genetics, while others do non-phylogenetic multivariate analysis.
+Because it is modular, the analyses available depend on the modules
+installed. Analyses include:
+ Reconstruction of ancestral states (parsimony, likelihood)
+ Tests of process of character evolution, including correlation
+ Simulation of character evolution (categorical, DNA, continuous)
+ Parametric bootstrapping (integration with programs such as PAUP* and NONA)
+ Morphometrics (PCA, CVA, geometric morphometrics)
+ Coalescence (simulations, other calculations)
+ Tree comparisons and simulations (tree similarity, Markov speciation models)
+
+ License : Freeware
+ Author/Publisher : David Maddison and Wayne Maddison
+ Modification Date : June 21, 2006
+ Requirements : Mac OS X 10.2 or higher and Mac OS 9 or higher
+
+ Direct Download 
+File Size: 9.5 MB
+
+ Direct Download 
+File Size: 7.9 MB
+
+ Home Page 
+
+ Molecules 1.0 
+
+Molecules is a two-dimensional molecular dynamics simulation of a
+collection of structureless, interacting particles (such as noble gas
+atoms). Click the image at right to see a demonstration applet. Uses of
+this program range from visualizing frictionless motion to quantitative
+study of phase transformations. The full-featured user interface lets
+you create up to 1000 particles of two different types, adjust their
+sizes, masses, and interaction strengths, add a gravitational field,
+monitor the temperature and pressure, and save configurations for later
+use.
+
+ License : Freeware
+ Author/Publisher : Dan Schroeder
+ Modification Date : November 22, 2002
+ Requirements : Mac OS X and Mac OS 8 or higher
+
+ Download 
+File Size: 975 Kb
+
+ Download 
+File Size: 792 Kb
+
+ Home Page 
+
+ Mr. Tides 3.0r15 
+
+Mr. Tides 3.0 is a Universal application for Mac OS X 10.4 that displays
+tides and currents for locations around the world. Written completely in
+Objective-C, Mr. Tides 3 is compatible with both Intel and PPC Macintosh
+computers.
+
+ License : Freeware
+ Author/Publisher : August Hahn
+ Modification Date : December 5, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.9 MB - version 3.0r15
+
+ Download 
+File Size: 8.3 MB - version 2.5.6.2
+
+ Download 
+File Size: 12.6 MB
+
+ Home Page 
+
+ MutantMaker 1.0 
+
+MutantMaker helps researchers performing site directed mutagenesis
+screen their potential mutants with restriction enzyme digests rather
+than costly sequencing. The oligonucleotide sequences suggested by
+MutantMaker will create or destroy restriction sites while both creating
+the desired mutant and retaining flanking amino acids.
+
+Using a simple and elegant user interface, researchers enter their
+original DNA sequence into a text field, drag a codon selector over the
+codon to mutate, and choose how to mutate their selected amino acid.
+
+MutantMaker has 492 unique restriction enzymes built right in, not
+including isoschizomers! Users can select any set of enzymes based on
+commercial availability or size.
+
+MutantMaker results are even multi-colored showing exactly which
+nucleotides were mutated.
+
+In typical fashion, results can be saved and reloaded for later use. And
+for reliability, data files are human-readable XML.
+
+ License : Demo, $39
+ Author/Publisher : Selznick Scientific Software
+ Modification Date : November 9, 2005
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 762 Kb
+
+ Home Page 
+
+ ODLog 2.6 
+
+ODLog is an easy-to-use application for the accurate timing and
+recording of observational data. ODLog is typically used by scientists
+in:
+ naturalistic field observation studies
+ animal behavioral experiments
+ human psychological experiments
+
+ License : Demo, $159
+ Author/Publisher : Macropod Software
+ Modification Date : May 15, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.9 MB
+
+ Home Page 
+
+ Oligo 6.89 
+
+Oligo is a multi-functional program that searches for and selects
+oligonucleotides from a sequence file for polymerase chain reaction
+(PCR), DNA sequencing, site-directed mutagenesis, and various
+hybridization applications. It calculates hybridization temperature and
+secondary structure of oligonucleotides based on the nearest neighbor
+thermodynamic values.It is also a good tool for construction of
+synthetic genes, finding an appropriate sequencing primer among those
+already synthesized, finding and multiplexing consensus prmers and
+probes, and even finding potential restriction sites in a protein.
+
+The Oligo software has been broadly accepted as the industry software
+standard for selecting and analyzing oligonucleotides for various
+molecular biology applications. The first commercial version of the
+software has been introduced in 1989.
+
+ License : Demo, $1,200
+ Author/Publisher : Molecular Biology Insights
+ Modification Date : March 8, 2005
+ Requirements : Mac OS X and Mac OS 9 or higher
+
+ Download 
+File Size: 956 Kb - Demo
+
+ Updates 
+
+ Home Page 
+
+ OligoChecker 2.21.25 
+
+A program to let you check which of your oligos you can use in a PCR for
+any given template (on my 1 GHz Powerbook it checks my 409 oligos
+against a 2 kB template in about 1.5 seconds).
+
+Upon selecting two oligos for a PCR it will show the sequence (and
+inverted sequence) and size of the PCR product as well as the alignment
+of the oligos with the template.
+
+It is not a program to help you design oligos - there are already
+programs out there which do this (e.g. the $1,200 Oligo, or online with
+Primer3).
+
+Neither is it 's main purpose to run a PCR simulation
+
+ License : Shareware, $10
+ Author/Publisher : Markus Winter
+ Modification Date : March 22, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.1 MB
+
+ Home Page 
+
+ OSXBackstrip 2.2 
+
+OSXBackstrip performs 1D Backstripping of sedimentary Strata.
+Backstripping is not a difficult task but it is tedious. OSXBackstrip
+makes backstripping enjoyable.
+
+ License : Freeware
+ Author/Publisher : Nestor Cardozo
+ Modification Date : November 21, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 972 Kb
+
+ Home Page 
+
+ OSXFlex2D 2.2 
+
+OSXFlex2D is a program that implements the "elastic" , "flexural" model.
+Flexural modeling is not a difficult task but it is tedious. OSXFlex2D
+makes flexural modeling easy.
+
+ License : Freeware
+ Author/Publisher : Nestor Cardozo
+ Modification Date : November 21, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 914 Kb
+
+ Home Page 
+
+ OSXGeoCalc 2.5 
+
+OSXGeoCalc is a Structural Geology Calculator. It operates on lines and
+planes, strains, and stresses. Individual computations can be made using
+the calculator's interface. Multiple computations can be performed using
+text files. Lines and planes can be visualized in a Stereonet.
+
+OSXGeoCalc was made for geologists, but it can be used by anyone who is
+interested in planes and lines, strains, and stresses (physicists,
+engineers, geotechnicians, etc.).
+
+ License : Freeware
+ Author/Publisher : Nestor Cardozo
+ Modification Date : November 21, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ OSXplanet 1.0.1 
+
+OSXplanet is a live desktop program based on xplanet.
+
+ License : Freeware
+ Author/Publisher : Gabriel Otte
+ Modification Date : January 16, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 10.7 MB
+
+ Home Page 
+
+ Periodic Table 4.0.8 
+
+Packed with data and easy to use features, Periodic Table 4 is superb
+for chemists and chemistry students, as well as anyone who is fascinated
+with science or the world around them! It's not just for chemists!
+Periodic Table includes a variety of historical information on element
+discoveries, element name etymologies and more!
+
+Whether you're looking for aluminum or actinium (or aluminium), melting
+points or magnetic susceptiblities, or zinc or zirconium, Synergy
+Creations' Periodic Table has it.
+
+ License : Shareware, $20
+ Author/Publisher : Synergy Creations
+ Modification Date : September 5, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Physics 101 SE 7.0.1 
+
+The perfect solution for physics students and teachers everywhere,
+Physics 101 SE is the premier physics calculation tool, allowing you to
+focus on physics and not mathematical busywork. With its ability to
+instantly solve for almost any variable in over 125+ (list of formulas)
+of the most commonly used physics formulas, you'll be able to quickly
+and accurately complete physics assignments like never before. Just
+select the formula you need, enter values like distance and time, then
+click "calculate." With Physics 101 SE, it's that simple, every time.
+
+ License : Shareware, $10
+ Author/Publisher : Praeter Software
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 16.9 MB
+
+ Home Page 
+
+ PTE 3.1.7 
+
+Not only is PTE a printable Periodic Table of Elements and contains
+detailed information on each of the elements, but allows users to get
+specific information in a snap, or view everything in a sortable list!
+Users can easily bring up two or more windows to compare elements, or
+copy the data into another application.
+
+With its easy to use interface and affordability to students, we hope
+our software will aid in your chemistry projects, homework, and
+everything else you need to become an expert!
+
+ License : Shareware, $10
+ Author/Publisher : Josh Hague/Koingo Software
+ Modification Date : June 3, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ RAAViewer 071130 
+
+Radiology Anatomy Atlas. This is a free program that allows viewing of labeled images of human
+anatomy. The labels are linked to a database that offers in-depth
+descriptions of the parts of anatomy. An image or series of images is
+stored in a folder and then accessed by the program. The user can
+download as many of these folders of images as desired and then access
+them using their own personal computer.
+
+ License : Freeware
+ Author/Publisher : Bearboat Software
+ Modification Date : November 30, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 31.8 MB
+
+ Manual 
+
+ Home Page 
+
+ Tide Widget 2.21 
+
+The Tide widget displays the current tide or current for locations
+worldwide, using the XTIDE tide engine to predict the tides.
+
+ License : Freeware
+ Author/Publisher : August Hahn
+ Modification Date : May 12, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ Wooster Physics Software 
+
+The College of Wooster Computational Physics Project showcases some of the best computer software created by Wooster physics majors. These applications are written in C++ and exploit many of the features of the modern Macintosh Graphical User Interface.
+
+ License : Freeware
+ Author/Publisher : The College of Wooster Computational Physics Project
+ Modification Date : 2002 - 2004
+ Requirements : Mac OS X and Mac OS
+
+ Download 
+File Size: 69 Kb - Percolation 3D - Percolate water through rock of a user-defined porosity.
+
+ Download 
+File Size: 50 Kb - Foucault - Animates a Foucault pendulum at user defined latitudes.
+
+ Download 
+File Size: 127 Kb - Duffing - Interactively explore the phase space flow of the famous Duffing nonlinear oscillator
+
+ Download 
+File Size: 86 Kb - Sandpile - 3D OpenGL sandpile automaton.
+
+ Download 
+File Size: 78 Kb - Thomson's Sphere - Repulsive particles move on a 2-sphere to minimum-energy configurations.
+
+ Download 
+File Size: 85 Kb - Drumhead - Waves on a square drumhead rendered in 3D. Adjust damping and initial state.
+
+ Download 
+File Size: 98 Kb - Protein Folding - Chain of hydrophilic and hydrophobic monomers fold at finite temperature to form an energy minimizing polypeptide.
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

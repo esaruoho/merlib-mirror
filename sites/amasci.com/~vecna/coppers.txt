@@ -1,0 +1,231 @@
+Coppers 
+
+Coppers
+
+ Coppers The Alchemist
+(Author's Note: some of this material has already appeared in SJ
+Games' Pyramid Magazine in the Supporting Cast feature, early
+1996)
+
+ On a street of mostly deserted buildings is a ramshackle little
+house with boarded-over windows, weed-infested yard, and a small
+sign reading "Open" posted next to a sliding view-panel in the door.
+ This is the shop of the alchemist known as Coppers. His real
+name is Benjamin Cyrus, and generations ago his family included
+some of the greatest wizards in the land. Coppers is the last of his
+line. The residents of town tend to avoid him, which is easy, because
+he avoids them.
+ Coppers is known for two things. First, his nickname. He
+refuses to take any coins of silver, gold, or platinum, wanting only
+copper. He will take gems and items in trade (so long as they do not
+contain precious metals), though prefers copper. To buy an
+expensive alchemical item in copper, usually the lowest-
+denomination of money, requires a tremendous amount of coins.
+ The other thing for which Coppers is known is his raving
+paranoia. He believes that "They" are out there. "They" look just like
+normal people, except for their "steely little eyes" and the "green
+glowing wires" under their scalps. Coppers believes that "They" hate
+magic and seek to destroy it in all forms, including people with
+magical talent. "They" know that users of magic tend to be among the
+wealthier classes and therefore have large amounts of silver and
+gold. "They smell it on ya," Coppers always says.
+ Because of his paranoia (he's also agoraphobic), Coppers
+hardly ever leaves the house. He occasionally goes out at night to
+gather plants or haul wood and water. He has food and supplies
+delivered regularly, but will put any visitor through extensive
+questioning and examining to make sure it isn't one of "Them," even
+if it is someone Coppers has known for years. This investigation is
+conducted entirely through the sliding panel in the door. Customers
+must also go through this same process, and will also be asked if
+they're carrying any silver or gold. If they are, Coppers will not even
+open the door.
+ Coppers himself is a bent, stooped man somewhere
+between the ages of fifty and ninety. He has a balding pate with a
+fringe of wild yellow-white hair, sharp features, bright blue eyes sunk
+deep in nests of wrinkles, and about twelve teeth. His hands are
+notable in that they are large, callused, scarred, yellowed as if by
+nicotine, and marked with chemical burns. He wears a solid copper
+neckchain with a flat copper disc pendant about the size of a tea
+saucer, covered with protective runes, and his neck has gone green
+from the constant contact. His usual garb consists of plain woolen
+trousers, a shirt that might have once been white, old leather
+sandals, and a large leather apron with many deep pockets.
+ Inside, the shop is small, crowded, and smoky. There is a
+counter running along the back wall, usually covered with odds and
+ends (empty vials, crumpled parchment, bits of string, dishes with
+forgotten food, etc.). On the end of the counter is a stuffed jackalope
+(large hare with deerlike antlers) mounted on a stand with a
+decorative piece of driftwood. This is Jake, and Coppers talks to and
+about him as if he is alive.
+ The rest of the front area is given over to shelves full of vials
+and a large armoire with the doors torn off, where Coppers displays
+the few magical items he has in stock. He is not much of an
+enchanter himself, but has been known to trade items for potions. He
+is a wizards of some ability, but uses his magic mostly in his alchemy
+or for home defense.
+ The vials are a hodgepodge of glass, metal, ceramic, old
+preserves jars, inkwells, and the like. None are labeled, and they do
+not appear to be categorized in any sensible manner. Coppers prides
+himself on knowing exactly what is where (unless "They" have been
+fiddling with his stuff).
+ Behind the counter is a doorway with a tattered curtain
+hanging in it, and a trapdoor in the ceiling. There is also a bin behind
+the counter, filled to the brim with copper coins. Most are local, but
+samples of currencies from many different countries are mixed in.
+Next to the bin is a small, sturdy, locked chest containing various
+gems and trinkets (the key is hidden in Jake's stand). There is a tall
+stool with one leg shorter than the others, so it is propped on a stack
+of bricks. Coppers falls off his stool at least four times a week.
+ The curtained doorway leads to the back room, which is
+where Coppers does his work. It is crammed with alchemical
+equipment, tools, supplies, and ingredients. Again, there is neither
+rhyme nor reason to the mess and only Coppers can find anything
+back there. In addition to the equipment, this rom also serves as his
+kitchen, with a small fireplace and cabinets. There is a small oaken
+tub here that Coppers uses for his own infrequent baths as well as
+mixing potions.
+ The trapdoor has a slide-down ladder that leads to the loft.
+This low-ceilinged space is where Coppers sleeps. There is a straw-
+filled mattress, a fine wood chest with brass fittings that has seen
+better days, a washbasin, and a chamber pot.
+Ben Cyrus, aka Coppers.
+Age 65, 5'8" (when not slouching, 5'5" otherwise), 120 lbs; balding
+with frizz of yellowish-white hair, bright blue eyes, wrinkles
+ST 10 IQ 15 Speed: 5.25
+DX 11 HT 10 Move: 5 
+Dodge: 5
+PD 1, DR 1; front torso only from leather apron
+Advantages: Eidetic Memory Level 1, Magery 2, Literacy.
+Disadvantages: Absent-Mindedness, Skinny, Paranoia, Delusion
+(gold and silver attract "Them"), Agorophobia.
+Quirks: Believes Jake is alive; Will only accept copper coins; Always
+tries to get customers to buy love potions; Never drinks alcohol;
+Loves raisin bread.
+Skills:
+Alchemy -- 16; Botany -- 13; Cooking -- 14; First-Aid -- 14;
+Geology -- 13; History -- 13; Literature -- 13; Merchant -- 14;
+Metallurgy -- 12; Naturalist -- 13; Occultism -- 14; Poisons -- 14;
+Pottery -- 14; Scrounging -- 13; Stealth -- 10; Spell Throwing
+(Fireball) -- 12; Teaching -- 13; Weather Sense -- 14.
+Spells (all at 15):
+Sense Life, Sense Foes, Sense Emotion, Truthsayer, Compel Truth,
+Hide Thoughts, Seek Earth, Purify Air, Create Air, Ignite Fire, Create
+Fire, Shape Fire, Extinguish Fire, Fireproof, Heat, Cold, Fireball,
+Seek Water, Purify Water, Create Water, Destroy Water, Dehydrate,
+Test Food, Seek Food, Decay, Purify Food, Poison Food, Cook,
+Create Food, Ferment, Distill, Recover Strength, Detect Magic, Aura,
+Identify Spell, Analyze Magic, Light, Continual Light, Scryguard,
+Scrywall, Counterspell, Dispel Magic, Apportation, Seek Plant,
+Identify Plant, Sense Danger, Watchdog, Nightingale, Missile Shield.
+Description:
+ The first sight anyone ever has of Coppers is of a pair of
+bright blue eyes peering suspiciously through a sliding panel in his
+door. The eyes are nested deep in a face as brown and wrinkled as a
+walnut, topped by a balding age-spotted pate fringed with yellowish-
+white hair. His infrequent smiles reveal teeth as rickety as the fence
+around a haunted house. His neck is tinged green from the solid
+copper neckchain he always wears.
+ Coppers' next most noticeable feature is his scrawniness. A
+shirt of uncertain color billows around his thin frame, his bony wrists
+and gnarled hands protruding from frayed cuffs. His woolen trousers
+are cinched with a length of old rope. His feet, in leather sandals, are
+as bony and scant of meat as the rest of him. Over all, he wears a
+scorched and stained leather apron.
+ Though disheveled, Coppers is anything but lazy. His
+movements are rapid, jerky, almost manic. He is always whipping
+around to look behind him, or scuttling across the room to check the
+doors and windows.
+Possessions:
+ House/shop, yard overgrown with weeds, windows boarded
+over. Door has sliding panel next to small wooden sign reading
+"Open." Back room holds complete alchemy lab, shelves of
+ingredients. Personal quarters in loft. Front room of shop lined with
+shelves of vials. Huge antique armoire, etched-glass dorr panels,
+used for display of collectibles and magic items. Stuffed jackalope on
+piece of driftwood, small brass plaque on base reading "Jake."
+Behind counter is huge bin filled with copper coins.
+Background:
+ Coppers is the last descendant of the Cyrus Clan.
+Generations ago, his ancestors were magical advisors to kings and
+emperors. In his youth, Coppers attended the finest magical schools.
+But as he aged and grew increasingly peculiar, he abandoned high
+society and established his ramshakle shop. He was married once,
+but his wife left him and is now married to a wealthy merchant in the
+city. Coppers has no children.
+Personality:
+ During his studies, Coppers realized that wizards had
+enemies. These enemies, the mysterious "Them," wanted to control
+or destroy everyone who knew about the use of magical forces.
+Coppers believed that "They" were not human, although "They" could
+pass for human to the untrained eye. "They" have small steely eyes,
+and greenish blood that can be best seen flowing through the veins
+on their scalps. "They" have sensitive noses and can smell out gold
+and silver, which wizards tend to amass.
+ Coppers' delusion has firmly entrenched itself. He will not
+accept gold or silver as payment, only copper and gems. Before
+letting anyone into his shop, he will quiz them to make sure they are
+really what they appear to be, and that they are not carrying precious
+metals.
+ His fear of "Them" has made Coppers a recluse. He hardly
+ever leaves the house, having his groceries delivered if he trusts the
+delivery person. His only friend is Jake, the stuffed jackalope on the
+end of his counter. Coppers believes that Jake is alive and watches
+over the shop.
+Quote:
+ "I dasn't take gold, nor silver. They smell it on ya, see! Got
+any ... coppers? Ten thooooouuusaand copper pieces will get you
+this fine looooove potion!"
+Adventure Ideas:
+ Coppers can be used in any campaign when elixirs are
+required or items need identifying. Characters will need to go through
+an interrogation on each visit, even if they return more than once in
+the same day. They will also need to get ahold of large amounts of
+copper.
+ If Coppers becomes a regular feature, the characters might
+begin to notice even stranger things about the shop. Maybe it's the
+way Jake seems to be in a different position. Or maybe it's the steely-
+eyed man lurking in the doorway across the street ...
+ Suppose that "They" are real, and "They" have realized that
+Coppers knows the truth. "They" might try to kill him, but more likely
+would want to capture him, because "They" want to control all magic
+in the world.
+ What are "They?" Where do "They" come from? And what
+will "They" do when "They" realize that Coppers has shared his
+suspicions with others?
+ For another idea, suppose a wealthy merchant's wife is on
+her deathbed and reveals that her eldest child isn't really the
+merchant's offspring. The person in question could hire the party to
+track down the real father, or for a real kick, the person in question
+could be one of the characters!
+Shopping at Coppers':
+ Coppers' shop is likely (1-4 on 1d6) to have 2d6 of any of the
+following elixirs -- Beast-Speech, Invulnerability, Endurance, Warrior,
+Speed, Strength, Huntsman, Fear, Weakness, Lecherousness,
+Death, Fire Resistance, Transformation, Flight, Water-Breathing,
+Fertility, Healing, Antidote, Sleep, Love.
+ At any one time, Coppers is likely to have a dozen or so
+items in the armoire. These are all for sale at book price. Here are a
+dozen examples to start with --
+ 1. Wooden whistle (Beast Summoning, any type)
+ 2. Dark blue woolen cloak (Itch, Slow Fall, and Mage Stealth)
+ 3. Black leather bracer with silver and garnet (Resist Pain)
+ 4. Bronze helmet with large rams' horns (Control Person)
+ 5. Plain grey wand with gold tip (Stone Missile)
+ 6. Necklace with cloud, snowflake, raindrop designs (Clouds,
+Rain, Snow)
+ 7. Gem-encrusted bastard sword, named Sunsfire (Flaming
+Weapon, Quick-Draw, Accuracy +1)
+ 8. Quiver of six arrows (each arrow has Accuracy +2 and
+Puissance +2)
+ 9. Polished oaken staff with pewter dragon's claw gripping
+crystal eye at end; the Staff of Pormyndwyn the Sage (Staff, Know
+Illusion, Mage Sight, Mage Sense, See Invisible, See Secrets)
+ 10. Dagger with black hilt (Accuracy +1, Magic Resistance,
+Puissance +2)
+ 11. Jade-handled eating utensil (Purify Food)
+ 12. Harp with strings made from a princess' hair (Mass
+Suggestion) 
+
+ Click here to return to the previous page.
+
+Coppers / Copyright 1996 - Tim Morgan / vecna@eskimo.com

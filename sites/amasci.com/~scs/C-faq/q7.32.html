@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 7.32</title>
+<link href="q7.31.html" rev=precedes>
+<link href="q8.1.html" rel=precedes>
+<link href="s7.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 7.32</H3>
+<p>What is <TT>alloca</TT> and why is its use discouraged?
+</p><hr>
+<p><TT>alloca</TT>
+
+allocates memory which is automatically freed when the
+function which called <TT>alloca</TT> returns.
+That is, memory allocated with <TT>alloca</TT> is local to a particular
+function's ``stack frame'' or context.
+</p><p><TT>alloca</TT> cannot be written
+portably,
+and
+is difficult to implement on machines without a
+conventional
+stack.
+Its use is problematical
+(and the
+obvious
+implementation on a stack-based machine fails) when its
+return value is passed directly to another function, as in
+<TT>fgets(alloca(100), 100, stdin)</TT>.
+</p><p>For these reasons, <TT>alloca</TT>
+is not Standard and
+cannot be used in programs which must be widely
+portable,
+no matter how useful it might be.
+</p>
+<p>See also question <a href=q7.22.html>7.22</a>.
+</p>
+
+
+<p>References:
+
+Rationale Sec. 4.10.3
+<br></p><hr>
+<p>
+Read sequentially:
+<a href="q7.31.html" rev=precedes>prev</a>
+<a href="q8.1.html" rel=precedes>next</a>
+<a href="s7.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

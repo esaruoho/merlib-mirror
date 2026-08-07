@@ -1,0 +1,457 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 10 Nov 2002 to 16 Nov 2002"
+source_domain: amasci.com
+source_path: ~tegan/blog/20021110-20021116.html
+order: 8713
+reachable_from_entry: false
+images: 6
+internal_links: 11
+extracted: 2026-08-07T17:16:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 10 Nov 2002 to 16 Nov 2002
+
+*Source page: `~tegan/blog/20021110-20021116.html`*
+
+<div id="head">
+
+Bloggity-Blog-Blog-Blog Archive IV
+
+Words that swim into the head of Laura "Tegan" Gjovaag
+
+</div>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><br />
+<br />
+Saturday, November 16, 2002 <span id="84638156"></span>
+<strong>Wednesdays At My Sister's House</strong>
+<br />
+&#10;<p>My sister is a very good writer, although she doesn't believe it. Her letters to the family are a joy to read for the writing, and very often a terror to read for the events therein. After the last one, I just <em>had</em> to ask if I could post it here on my blog. So, with permission, I present for you the adventure of (my niece) Jenna's Wednesday:<br />
+</p>
+<blockquote>
+<p><br />
+</p>
+<p>We've decided that it's not us that are jinxed - it's Wednesdays! Definitely Wednesdays.<br />
+</p>
+<p>This week's horror day was a Wednesday (of course!) field trip with Jenna's class to clean up a local city park. For 40 man hours of work by the class and parents, they earn $250 from the city -- to be used for field trips, class books, computer games, etc. So, we went to clean up the park!<br />
+</p>
+<p>My group of kids was assigned to rake up the oak leaves that were molding and mildewing underneath and around the park entrance sign. So, I sent two kids up onto the hill that the sign was sitting on, and two of us at the bottom of the hill and did a "pass the leaves part-way, next team brings them down to the ground" routine -- trying hard NOT to have anyone get hurt falling to asphalt from the top of a 10 foot, slippery wet hill!<br />
+</p>
+<p>We were doing fairly well actually -- although our job was BY FAR the biggest one of the whole assignment. Others were planting tulips, picking up trash and sanitizing picnic tables and play equipment. Eventually, the teacher came over and realized that our hillside was the size of two big backyards and that we were not going to be able to finish it up all alone, just the four of us. So, she sent another team over to help out.<br />
+</p>
+<p>Unfortunately, this second team was all boys and behaving as such, they got a little careless/rambunctious with the lawn rakes. Anyway, I was at the top of the hill when I heard Jenna scream that she'd been hurt. This was then followed by a panic-stricken, decibel rising, screaming fit, "I'm bleeding, I'm BLEEDING, <strong>I'M BLEE-EE-EE-D-D-I-I-N-N-G-G-G!!!!!!</strong>"<br />
+</p>
+<p>So, I'm yelling at her to stand still and put pressure on the wound (from the top of the hill, I could see the blood spurting everywhere!) and I scrambled down the hill as she started to really freak out. So, knowing my Jen as I do, I grabbed her arm and yelled into her screaming face, "Stop it, right NOW! You're going into shock." It startled her enough to make her stop screaming and I quickly checked her face to find a big gash on her lower lip -- bleeding profusely and now covered in the dirt that had been on her work gloves when she pressed them to her mouth! JOY!!<br />
+</p>
+<p>Well, long story short -- her good friend, Julian, had been raking madly (working hard, truly) and had already hit her in the back and arm with the rake handle at least twice, but this time, he got her in the mouth hard enough to split her lower lip to at least 1/4" deep. So, Julian is cowering behind her, crying in guilt and fear, Jenna is whimpering (although thankfully no longer screaming hysterically!), the rest of the kids and the other parent are all asking, "Is she o.k?" "Is Jenna o.k.?", and I , (at least this is what the other parent told me later -- I don't remember much about it, myself!), said calmly, "No, she's really not o.k, guys. We're going to go find [the teacher] and get the first aid kit. And Nick, get out of the street, young man - there's a car coming!" This impressed the other parent since she was Nick's mother! She later said that she was so impressed at how cool and collected I was about the whole thing. I confided to her that I usually do quite well in the emergency itself, it's 8 - 10 hours LATER that I fall apart! ;-)<br />
+</p>
+<p>Anyway, we washed the wound as best as possible with just a lawn pressure hose for a water source...FUN! The school's first aid kit was ridiculous! All I needed were a few 2x2s to stop the bleeding, and instead, I was handed a compressed surgical wrap that was 2 FEET wide and 3 FEET long -- would be useful if she'd had a huge, gaping chest or belly wound! And, the fancy, "smash and shake" chemical ice packs didn't even work!<br />
+</p>
+<p>Fortunately, one of the other mothers had a small kit in her car with some antibiotic lotion and some big bandaids, so we fixed Jen up long enough to get back to the school (along with another child who banged his head on the picnic table he was cleaning under) -- only to find that the "school nurse" WASN'T a nurse! She kept trying to talk me into putting a butterfly bandage on Jen's lip, and I kept insisting that the wound WASN'T cleaned properly and you don't close up a wound with dirt inside it! DUH!!<br />
+</p>
+<p>So, since the bleeding had stopped, and poor Julian still was crying in class, thinking that he had killed Jenna - (she was COVERED in blood spatters - shoulder to toe), I sent Jen back to class for the last 20 minutes of the day while I called various clinics and [my husband] to arrange for her to go to the hospital and get some professional care/opinions.<br />
+</p>
+<p>ANOTHER Wednesday at the hospital!<br />
+</p>
+<p>Eventually, the plastic surgeon decided to put in two little stitches until Monday -- just to get the lip lines (the "deluvian crest lines" or some such thing) to match up and heal together properly so that she wouldn't look like she had a fat lip for the rest of her life....(THANK YOU!) And Jen went back to school on Thursday with two stitches for everybody to "ooh" and "ahh" about. The doctor didn't want it covered with anything except a generous coating of antibiotic ointment (to prevent keloids hopefully), so they are sitting right "out there" for the whole world to see.<br />
+</p>
+<p>At least poor Julian has stopped crying by now! Everybody knows it was an accident, and Jen will live -- hopefully with no more than a tiny vertical scar on her lower lip....but it's beginning to look like Wednesdays aren't good for us! Next week, we've decided to skip Wednesday and have two Thursdays instead.<br />
+</p>
+</blockquote>
+<br />
+&#10;<p>Happily, Jenna is now able to smile again without pain. I'm looking forward to seeing her at the Thanksgiving party and seeing how she's healed up by then. And, as always, I'm amazed at my sister's wonderful ability to tell the story so you feel like you are there. <em>By the way, in case you were wondering, Jenna is 8 years old.</em></p>
+posted by Tegan | <a href="#84638156">3:51 PM</a>
+<hr />
+<span id="84624820"></span>
+<strong>Morning Thoughts</strong>
+<br />
+&#10;<p>Down to <a href="http://www.eskimo.com/%7Etegan/aqua/countdown.html">25 days</a> until Aquaman #1 hits the stands, wahoo!<br />
+</p>
+<p>DC also put up the promised <a href="http://www.dccomics.com/features/aquaman/index.html">Aquaman mini-site</a> complete with new preview images and the Newsarama interview with Rick Veitch. Man, I'm really looking forward to this book. <em>As if you couldn't tell.</em><br />
+</p>
+<p>Ok, I'll confess. The book I pulled out of the Preview pack on Wednesday and begged my store owner to let me take home was the <a href="http://www.dccomics.com/directcurrents/comics/Nov_20/dc_jlajsasf1.html">JLA/JSA Secret Files &amp; Origins</a>. The reason for the begging? This contains the first Aquaman story by Rick Veitch. To my surprise, the other two books I could've asked for out of the store's preview packs were both Marvel books. Considering that I only buy three Marvel titles right now, that was a little shock. Of course, reading the Aquaman prelude story has only whetted my appetite for more Aquaman... at least Wednesday the finale to Obsidian Age will be out...<br />
+</p>
+<p>Check out this <a href="http://www2.warnerbros.com/madmagazine/files/onthestands/ots_424/bunion.html">Mad Magazine Parody of on-line parody news mag Onion</a>. Frankly, I'm surprised it's as funny as it is. Many thanks to <a href="http://www.povonline.com/">Mark Evanier</a> for pointing this link out in his newsblog.<br />
+</p>
+<p>Ah well, time to get ready for work. I'll write more when I get home.</p>
+posted by Tegan | <a href="#84624820">8:35 AM</a>
+<hr />
+<br />
+<br />
+Friday, November 15, 2002 <span id="84606689"></span>
+<strong>Mickey?</strong>
+<br />
+&#10;<p>We may not have to wait for the Supreme Court's decision on copyrights to see Mickey Mouse in the public domain. See, he's apparently on a <a href="http://news.bbc.co.uk/2/hi/entertainment/2481749.stm">700-year-old church fresco in Austria</a>. <em>Ok, so we know it's not Mickey, but the resemblance is truly frightening.</em><br />
+</p>
+<a href="http://news.bbc.co.uk/2/hi/entertainment/2481749.stm"><img src="http://www.eskimo.com/~tegan/blog/blogpics/700yearoldmouse.jpg" data-border="0" width="280" height="167" /></a>
+<br />
+&#10;<p>Over on eBay, Jim Lee has sold himself to raise funds for <a href="http://www.cbldf.org/">the Comic Book Legal Defense Fund</a>, and the going price for Jim Lee is $6,700. The CBLDF needs money for the appeal to the Supreme Court of the <a href="http://www.cbldf.org/pr/archives/000055.shtml">Castillo Decision</a>.<br />
+</p>
+<p>The taping of the Victoria's Secret special was <a href="http://www.cnn.com/2002/US/11/15/victorias.peta/index.html">disrupted by anti-fur protesters</a>. They targeted a model by the name of Gisele Bundchen who has just become a spokesmodel for fur designer Blackglama. Said the model: "I'm the biggest animal lover in the world, I was just doing my job." PETA, on the other hand, says: "Gisele has blood on her hands and blood money in her pockets."<br />
+</p>
+<p>The wonderful hubby-Eric taped SpongeBob for me yesterday, so I was able to see a few more stories. No Mermaid Man yet. And I don't think there will be more reviews of Spongy, too much work...<br />
+</p>
+posted by Tegan | <a href="#84606689">7:56 PM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>I love Mickey................</p>
+<p>Paige | <a href="mailto:roguefan1@aol.com">Email</a> | 11.16.02 - 1:28 pm</p>
+<p>How does it feel to know that he's over 700 years old?</p>
+<p>Laura Gjovaag | <a href="mailto:tegan@eskimo.com">Email</a> | <a href="http://realtegan.blogspot.com/">Homepage</a> | 11.16.02 - 6:37 pm</p>
+<hr />
+<span id="84589218"></span>
+<strong>Good, um, Morning</strong>
+<br />
+&#10;<p>Missed SpongeBob yesterday after getting called in to work a 14-hour day, and missed it this morning because I couldn't wake up in time. Ah well. My boss was nice enough to tell me last night that I should sleep in today as long as I needed, and come to work when I felt like it... ah, bliss...<br />
+</p>
+<p>Here's another brainteaser, this one is a classic, so you all probably know the answer already. Arrange four "8"s using any mathematical symbols into an equation that equals 100. No tricks with this one, it's pretty straightforward, I think.<br />
+</p>
+<p>This is the fourth morning in a row (since I started counting) that I haven't eaten any hamster eggs for breakfast.<br />
+</p>
+<p>The Seattle Mariners have announced who the new manager is going to be, and it's *surprise!* someone I've never heard of. Since I follow only one team, I don't know a lot about most baseball people outside of the Mariner's organization. A quick peruse of the front page of <a href="http://seattletimes.nwsource.com/html/sports/134576747_mari15m0.html">The Seattle Times</a> tells me that he is a former catcher and bench coach for the Arizona Diamondbacks. This guy has his work cut out for him, as Lou Pinella was well-loved in Seattle.<br />
+</p>
+<p>Of course, it doesn't help that the poor guy is being referred to as Melvin in news articles, and all I can think of is the <a href="http://www.collectmad.com/madcoversite/mad001.html">cover to Mad #1</a> whenever I read that. "It's Melvin!" *sigh*<br />
+</p>
+<p>I found the editorial cartoon in today's Seattle Times to be very interesting:<br />
+</p>
+<a href="http://www.oregonlive.com/news/oregonian/jack_ohman/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/ohman_20021114.gif" data-border="0" width="400" height="284" /></a>
+<br />
+&#10;<p>The whole "war on terror" thing has just taken a turn for the worse, apparently. I'm just tired of it, and this cartoon pretty much captures that whole feeling.<br />
+</p>
+<p>Politics in Seattle just got interesting, according to <a href="http://seattletimes.nwsource.com/html/localnews/134576666_seattlebudget15m.html">this article</a> in the Seattle Times. A secret note, apparent threats from the Mayor's office... tsk tsk. Somebody has been bad.<br />
+</p>
+<p>My current hometown football team has been making waves for once. After reading <a href="http://seattletimes.nwsource.com/html/sports/134576573_bothell15.html">this article</a> in the Times, I was just flabbergasted at their previous record. 22-68 for the ten years prior to the current coach's run, and 24-6 with the current coach. Not bad, coach!<br />
+</p>
+<p>That news made me go look up my old high school's football results for this year. 5-5, ouch.<br />
+</p>
+<p>And to end on a happy note, Paris is apparently has its share of people with a sense of humor. <a href="http://seattletimes.nwsource.com/html/nationworld/134576601_fake15.html">The Seattle Times</a> reports that fake plaques have appeared in several spots in Paris, that commemorate various non-events. One says, "On April 17, 1967 — nothing happened here." I gotta put some of those up in Seattle.</p>
+posted by Tegan | <a href="#84589218">11:33 AM</a>
+<hr />
+<br />
+<br />
+Thursday, November 14, 2002 <span id="84525461"></span>
+<strong>Rapid Reviews - 13 Nov 2002 - Part II</strong>
+<br />
+&#10;<p><strong>JLA: Secret Origins</strong>: As stunning as the two-page origin spreads are, and as fantastic as the the fully painted artwork is, I found myself *ahem* drawn to the pencil sketches in the back, and I was far more interested in those than in the main focus of the book. Not that the origin pages were bad by any means! On the contrary, except for the Flash origin (which hurt my eyes after the nice clay-tones in the Wonder Woman origin) I found them all to be wonderful. Ok, I don't "get" the "Who Am I?" bit in the Aquaman origin (is this a reference to Artie Jr?) but otherwise it's all quite good. But the interview and sketches were a very nice touch and made what would've been a bit of an overpriced package into something really cool. 4 starfish.<br />
+</p>
+<p><strong>Birds of Prey: Primal Scream</strong>: I really wanted to like this show when it started, but it abandoned every premise that made the comic book series interesting. The way the show is currently set up, even the name makes no sense! And this last episode was a shambles, not even saved by the valiant effort the actors made with the lousy parts they've been given. Perhaps the appearance of Black Canary in the last episode really drove it home: This show <em>isn't</em> Birds of Prey, and it hardly deserves to share the name with the comic. 1 starfish.<br />
+</p>
+<p>In other news, I didn't actually expect anyone to take a stab at my quiz-from-heck questions I posted, but David made a great effort. I figure he's <em>not</em> an Aquaman fanatic, so it's cool that he got one right. Here's the answers:<br />
+</p>
+<p><em>1) What surfacer island nation destroyed Poseidonis and Tritonis with the help of Ocean Master and coral creatures?</em><br />
+</p>
+<p>This was a "gimme" question at the time of the quiz, as this issue of the book had *just* come out in stores in the short-lived but well received Dan Jurgens run. The islander nation was Cerdia, and it will hopefully someday make a re-appearance in the Aquaman mythos, as at the end of the storyarc Atlantis annexed the territory.<br />
+</p>
+<p><em>2) Who was Aquaman's father in the Silver Age? What was his profession?</em><br />
+</p>
+<p>Good ol' Tom Curry, the lighthouse keeper, was Aquaman's actual father in the Silver Age. He also was apparently a Navy man, as he got a burial at sea in a flag-draped casket.<br />
+</p>
+<p><em>3) Who was Aquaman's first recurring villain?</em><br />
+</p>
+<p>I said this quiz went from the Golden Age to the modern age, and these three questions demonstrated that clearly. Aquaman's first ever recurring villain was Black Jack the Modern Pirate, who showed up in More Fun #74, and kept coming back for more all through the Golden Age.</p>
+posted by Tegan | <a href="#84525461">6:11 AM</a>
+<hr />
+<br />
+<br />
+Wednesday, November 13, 2002 <span id="84509186"></span>
+<strong>Rapid Reviews - 13 Nov 2002 - Part I</strong>
+<br />
+&#10;<p><strong>Spectre #23</strong>: You know, I really don't like this book much. It is pretentious, and it tries far too hard to make itself more than it is. Despite the very interesting subplot with Helen, this book is almost of no interest to me. 1 1/2 starfish.<br />
+</p>
+<p><strong>JSA #42</strong>: Ok, I like the cliffhanger. The whole Terrific team-up went by a little too fast, but I know if it had been spread out over another issue I would be complaining about how slow it was, so it deserves a re-read. 3 starfish.<br />
+</p>
+<p><strong>Gotham Central #1 Preview</strong>: Five pages and the cover, at reduced size to make it hard on your eyes... but it's a very interesting concept. If I'd been able to fit this into our budget, we would have ordered it. As it is, I may want to try it anyway once it comes out. 4 starfish.<br />
+</p>
+<p><strong>Green Lantern #156</strong>: Ya know, I quite like John as Green Lantern, and I would like to see more of him in the role. This wasn't a great issue for storyline, but it was a nice catch-yer-breath issue. 3 starfish.<br />
+</p>
+<p><strong>Green Lantern: Evil's Might #3 (of 3)</strong>: I'm definitely going to have to read the whole thing again now that it's all out, but this wasn't the ending I expected. There's been some criticism among GL fans because Alan is the bad guy in this tale, but it's an <em>Elseworld</em>, things like that happen. If there's a fault in the story, it is the attempt to juggle too many characters, making it hard for the reader to remember who is who, especially after the long wait for this issue to finally arrive. 2 1/2 starfish.<br />
+</p>
+<p>As for SpongeBob, apparently there was some sort of U-Pick show going on at 5 pm, and I missed the first part of it, but I managed to catch three Spongy shorts so I'll just review those:<br />
+</p>
+<p><strong>SpongeBob Squarepants: Dumped</strong>: SpongeBob's cat-like snail pet was terribly cute, in a slimy sort of way. I can understand the whole thing with losing a pet (I used to have pets when I was a kid) so this one actually was touching. I sort of wonder what happened to SpongeBob's replacement snail, though. 3 starfish.<br />
+</p>
+<p><strong>SpongeBob Squarepants: Arrgh!</strong>: Um, playing at pirates is fun. Finding actual treasure could be even more fun. Not a bad episode. Very odd, yes, but not bad. 2 1/2 starfish.<br />
+</p>
+<p><strong>SpongeBob Squarepants: Rock Bottom</strong>: Getting lost in a strange place is scary, and when the buses seem to be avoiding you, even scarier. You can't help feeling a bit sorry for SpongeBob as he waits for the bus, hungry and lonely. 2 1/2 starfish.<br />
+</p>
+<p>And there was one more episode at 8pm with two Spongy shorts:<br />
+</p>
+<p><strong>SpongeBob Squarepants: Texas</strong>: I got to meet SpongeBob's, er, girlfriend. Sandy the Squirrel. The Texan Squirrel. Who lives in an air dome and walks around in a diving suit sort of thing that she has to flush if she cries. Which she did a bit in this episode, as she'd gotten homesick. What <em>really</em> got to me was the stills of an actual squirrel doing various Texan activities during her homesick song. 3 starfish.<br />
+</p>
+<p><strong>SpongeBob Squarepants: Walking Small</strong>: In this one, I get to meet the evil Plankton, who wants to empty a beach to put his restaurant there. Very odd. 2 starfish.<br />
+</p>
+<p>Still have the Alex Ross JLA book and the Birds of Prey TV show to review, but those will have to wait until tomorrow.</p>
+posted by Tegan | <a href="#84509186">8:43 PM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>You know, Spongebob (when it first aired-my wife loved it from the get-go) set off all kinds of alarms in my head, until I actually sat down and watched it and was won over by its goofy charm. The episode that got me was the one where Bob and Patrick went around imitating Squidward (my favorite character by far). Spongebob tightened his belt around his head, and stretched out his nose, the said (in Squidward's voice) "I practice the clarinet every single day and I never get any better at it". Then Patrick said "My turn" then did nothing but dance around saying "I'm Squidward! I'm Squidward!" I lost it and laughed for 20 minutes, I think.</p>
+<p>It's a pretty clever, often surreal show and while NIck is definitely running it into the ground, I still enjoy it occasionally. I hope you get to see the Mermaid Man episode soon. It's pretty good.</p>
+<p>I completely agree with you about the Spectre book, I dropped it ages ago. The covers are pretty nice right now, though...</p>
+<p>And I know Aquaman's original dad was a lighthouse keeper, and I'm guessing that his brother the Ocean Master was his first recurring villian...but I have no clue about the other quiz question.</p>
+<p>Dave aka Johnny B | 11.13.02 - 11:59 pm</p>
+<p>Part of me just doesn't know what to make of SpongeBob. I guess it is one of those shows that just can't really be pinned down. But it really is funny, and they throw in just enough stuff for the adults in the audience to make it watchable.</p>
+<p>As for the Quiz, you got one right. I'll post the answers shortly.</p>
+<p>Laura Gjovaag | <a href="mailto:tegan@eskimo.com">Email</a> | <a href="http://realtegan.blogspot.com/">Homepage</a> | 11.14.02 - 8:49 am</p>
+<hr />
+<span id="84499780"></span>
+<strong>Spongy...</strong>
+<br />
+&#10;<p>While talking to my manager at work today, I casually mentioned that I had watched "SpongeBob Squarepants" this morning. Immediately, a customer browsing the curriculum books asked me which episode I'd seen, and what I thought of it. This older gentleman then went on to enthuse about the show for a couple of minutes, telling me about his favorite bits (he agreed with me that the show was "stupid" in a good way, he said it makes a lot of sense to 4-7 year olds). When I explained that I wanted to see a Mermaid Man episode, he said I'd have plenty of chances: The show is on three times a day.<br />
+</p>
+<p>Glub! Three times? Sure enough, getting home today (after a stop at the comic shop, hi Paige and Carol!) I checked the listings. It's on twice more tonight, and I've got a timer set to warn me when the next showing is about to start.<br />
+</p>
+<p>I'm about to overdose on SpongeBob, all in hopes of seeing a <em>parody</em> of my favorite character.<br />
+</p>
+<p>So, the next question, should I bother reviewing them? I did this morning's reviews entirely on a lark. If I'm going to try to watch the show consistently for a few days, should I also try to write my little rapid reviews? Or should I let them rest? I guess I'll cross that bridge when I come to it.<br />
+</p>
+<p>In other news, less spongily, <a href="http://comicscontinuum.com/index.htm">Comics Continuum</a> has posted Dark Horse's books for February. Only two stood out. I'm vaguely interested in the trade of <em>Fort!: Prophet of the Unexplained</em>. I would like to read some reviews of the mini, I guess, before ordering it. The other book is, of course, <em>Usagi Yojimbo #64</em>, which is firmly on my pull list. Usagi stands as much chance of being removed from my pull as Aquaman does (maybe even less).<br />
+</p>
+<p>Also non-spongily enough, today <em>was</em> new comics day. Diamond didn't use the holiday as an excuse for once! I'm a little surprised. Waiting in my pull box were JSA #42, Green Lantern: Evil's Might #3, Green Lantern #156, Spectre #23, and the oversized JLA: Secret Origins special. I also pulled another book out of one of the store's preview packages, but I'll wait to review it until it actually comes out (there were actually three books in the preview packages that I could have snagged, but I only asked if I could take one). Rapid reviews for the rest should happen fairly soon, I'm in a reading mood tonight, even if I do plan on watching TV.<br />
+</p>
+<p>Another piece of news I just read about, on <a href="http://www.newsarama.com/">Newsarama</a>, is that December issues of Wildstorm books will include a one-page Astro City story. I just checked Previews mag, I don't buy any Wildstorm. I need to figure out which book I'll buy to get the Astro City tale...<br />
+</p>
+<p>A recent thread on the official DC Aquaman Message Board reminded me of the quiz-from-heck I wrote about Aquaman a couple of years back. I still think it's one of my best efforts, so much so that I reposted the quiz in the thread about it. If I had to do it again, the questions would probably be even harder. Here's the first three questions from the Quiz:<br />
+</p>
+<p><strong>SUNNY'S AQUAMAN QUIZ</strong><br />
+</p>
+<p><strong>SECTION ONE: THE STORY OF AQUAMAN</strong><br />
+</p>
+<p>1) What surfacer island nation destroyed Poseidonis and Tritonis with the help of Ocean Master and coral creatures?<br />
+</p>
+<p>2) Who was Aquaman's father in the Silver Age? What was his profession?<br />
+</p>
+<p>3) Who was Aquaman's first recurring villain?<br />
+</p>
+<p>Feel free to try to answer, or even to tell me that I was nuts to think that anyone could... but I'll tell you, the winner of the contest got 28.5 of the 30 questions right. The quiz was divided into five sections, all but the first with five questions. I tried to spread the questions and the answers over Aquaman's entire history, which certainly made it harder for people who didn't know about Aquaman in the Golden Age. However, I think <em>every</em> question was answered on my <a href="http://www.eskimo.com/%7Etegan/aqua/">website</a> somewhere, a fact that I pointed out a couple of times during the contest.<br />
+</p>
+<p>The contest was run at the request of Sunny Lee, an artist who, at that time, had just done the art for the Aquaboy/Lagoon Man Sins of Youth one-shot. The prize was a piece of original artwork by Sunny.<br />
+</p>
+<p>Timer is ringing... I'm off to watch TV!</p>
+posted by Tegan | <a href="#84499780">5:09 PM</a>
+<hr />
+<span id="84479986"></span>
+<strong>Morning TV</strong>
+<br />
+&#10;<p>I just sat down and watched my first episode of "SpongeBob Squarepants" as I read the morning paper and ate breakfast. A very funny, and stupid, show. The stupidity is intentional, though, and that makes all the difference between it being a bad show and a good one. This is a show that knows what level it's at, and knows what it wants the audience to get. It makes no pretension of being something it is not. Put together, that makes it a pretty good show. I didn't happen to catch one of the episodes that is the reason I'm watching this show, so I'll probably end up watching more. I guess until I see Mermaid Man and Barnacle Boy for myself...<br />
+</p>
+<p>And now for a rapid review:<br />
+</p>
+<p><strong>SpongeBob Squarepants: Big Pink Loser</strong>: This episode was one of those examples of someone being incredibly patient with a person who needed a friend... at least, for the first few minutes. I thought I was watching an after-school special as SpongeBob helped his friend Patrick learn how to open a jar. After that, the action gets more slapstick as Patrick mimicks SpongeBob, and I couldn't figure out how it would end. All-in-all, very amusing. 3 starfish.<br />
+</p>
+<p><strong>SpongeBob Squarepants: Bubble Buddy</strong>: This was a cringe-o-rama for me, as I watched it thinking, "How can SpongeBob possibly pull this trick on all these people?" The twist at the end was unexpected, but the last line <em>made</em> this episode. 4 starfish.<br />
+</p>
+<p>According to the episode guides, if they are showing the eps in order, tomorrow's should be a Mermaid Man episode.<br />
+</p>
+<p>And, time for another rapid review before I bolt for work:<br />
+</p>
+<p><strong>The Witch and the Jackal #1</strong>: I've already related how I ended up purchasing this issue, now I'll tell you what I think. I like the characters, and I like the storyline. I've always been a sucker for fantasy settings, and this is a new one for me. The artwork is not "there" yet, although the artist has a fantastic grasp of storytelling, which is one of the hardest bits of comic book creation to master. My biggest complaint with the artwork is the preponderance of square-jawed men. Until I see more issues, I won't be able to know if that's a valid nit or not. But it's definitely worth a look for anyone who is into fantasy stories, and I feel that this will only get better as it goes along. 3 1/2 starfish.<br />
+</p>
+<p>To check out a free preview, go to <a href="http://www.witchandjackal.com/">The Witch and the Jackal Web Site</a>.</p>
+posted by Tegan | <a href="#84479986">9:30 AM</a>
+<hr />
+<br />
+<br />
+Tuesday, November 12, 2002 <span id="84458777"></span>
+<strong>TV Tonight</strong>
+<br />
+&#10;<p>First off, yes, I saw Aquaman on <strong>That 70s Show</strong> in the Super Friends segment. Yes, I was amused. Heck, the whole segment was amusing, and I must thank hubby-Eric for calling me in to watch it as soon as it started.<br />
+</p>
+<p>And, now for a rapid review:<br />
+</p>
+<p><strong>Smallville: Ryan</strong>: This one kept me guessing in that I wasn't sure if Ryan would live, losing his power, or if he would die. The ending was touching, and that last shot of Clark was very effective. I think the worst part of this episode was the comic books, and the attempt to remind us that Smallville is based on Superman's mythos. For some reason it made the episode less effective for me. 4 starfish.</p>
+posted by Tegan | <a href="#84458777">10:08 PM</a>
+<hr />
+<span id="84423093"></span>
+<strong>Random Thoughts</strong>
+<br />
+&#10;<p>First off, PAD has updated how the <a href="http://peterdavid.malibulist.com/gmlog/00000179.html">Retailer Poll</a> is going in his daily blog, and I must say that there really is no surprise there. I'm still looking forward to the final results, and I hope that PAD can get a majority of retailers responding (there are ways to check, I'm sure).<br />
+</p>
+<p>My lateral-thinking brainteaser I posted last Thursday got no response, possibly because it was too easy: "A powerful and rich king had three magnificent and valuable rings that he kept in a gorgeous and ornate box. As he grew older, he decided one day to give each of his three daughters one of the rings. After the giving was done, a single ring still remained in the box. Can you tell me how?"<br />
+</p>
+<p>The answer, of course, is that he also gave the box to one of the daughters. Which begs the question (that is never answered in questions like this) as to why one of the daughters deserved both a ring and a box to keep it in. Did the king give other boxes to the other daughters, or was the one ring left in the box less ornate or valuable than the others? Was he fair to the daughters, or was there something else going on? Ok, so maybe I'm the only person in the world who worries about that... I'll try to make the next puzzle more interesting.</p>
+posted by Tegan | <a href="#84423093">8:33 AM</a>
+<hr />
+<span id="84420844"></span>
+<strong>Hamster Eggs For Breakfast</strong>
+<br />
+&#10;<p>Hubby-Eric and I watched the last part of the show on Game Show goofs last night, and we were both laughing our heads off at the poor people under pressure. Since hubby-Eric would very much like to get on Jeopardy (and has even got so far as to make the contestant pool, only to not be called), we had that uneasy feeling of there-but-for-the-grace-of-tv-producers-could-be-me...<br />
+</p>
+<p>The funniest one for me was the guy who, when asked on Family Feud what Russia was famous for, said "Russians". He had a point, but the survey didn't agree with him.<br />
+</p>
+<p>The one that kept us both giggling deep into the night, though, was also on Family Feud: "Name an animal whose eggs you don't usually eat for breakfast." The contestant, fast on the answer, said "Hamsters." That was enough to bring tears of laughter to our eyes.<br />
+</p>
+<p>Now we're going to have to watch for the repeat of that show. It was a nice way to lighten up the evening.</p>
+posted by Tegan | <a href="#84420844">7:41 AM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>Hey, I saw that too! Hilarious.</p>
+<p>I got a kick out of the English fellow who answered "turkey" to the first three final round Feud questions...</p>
+<p>David J | 11.13.02 - 12:14 am</p>
+<p>We actually cheered when he got some survey points for the last one (things you stuff).</p>
+<p>Laura Gjovaag | <a href="mailto:tegan@eskimo.com">Email</a> | <a href="http://realtegan.blogspot.com/">Homepage</a> | 11.13.02 - 12:23 am</p>
+<hr />
+<br />
+<br />
+Monday, November 11, 2002 <span id="84400853"></span>
+<strong>Down to 30 Days!</strong>
+<br />
+&#10;<p>Yeah, yeah... if you've read this blog at all you know I'm a raving lunatic Aquaman fan. So raving, in fact, that when I feel the urge to try new things with HTML, they usually end up somewhere on my <a href="http://www.eskimo.com/%7Etegan/aqua/">Aquaman page</a>. My latest fun was learning how to make a different image appear every time a page was reloaded, as well as learning how to do a countdown that updated by second. Both are in Javascript, and both are at my <a href="http://www.eskimo.com/%7Etegan/aqua/countdown.html">completely pointless countdown page</a>:<br />
+</p>
+<a href="http://www.eskimo.com/%7Etegan/aqua/countdown.html"><img src="http://www.eskimo.com/~tegan/aqua/pics/logocount.gif" data-border="0" width="300" height="150" alt="The Completely Pointless Aquaman Countdown" /></a>
+posted by Tegan | <a href="#84400853">8:40 PM</a>
+<hr />
+<span id="84398756"></span>
+<strong>Color Me Surprised</strong>
+<br />
+&#10;<p>The new shipping lists are up at <a href="http://www.diamondcomics.com/shipping.asp">Diamond</a> despite this being a holiday. Yeah, I know UPS was still shipping today, but that hasn't stopped Diamond in the past from claiming that they couldn't get the books out on time. Still, the odds are 50-50 that the books won't arrive at my local shop until Thursday. If they do, I'll be ... well, slightly impressed.</p>
+posted by Tegan | <a href="#84398756">7:53 PM</a>
+<hr />
+<span id="84398015"></span>
+<strong>Thoughts on DC's 2003</strong>
+<br />
+&#10;<p>Note: Most of this information comes from <a href="http://www.comicscontinuum.com/stories/0211/09/plansdc.htm">Comics Continuum's Coverage</a> and from <a href="http://www.newsarama.com/dc.html">Newsarama's Coverage</a> of the Retailer Representative Program held in Los Angeles this last weekend.<br />
+</p>
+<p>First off, a serious gripe. <em>Young Justice</em> is being cancelled to make way for a new <em>Teen Titans</em> book with a different creative team. This is pretty sad, because Young Justice is one of the most consistently good books out there, always managing to be the saved-for-last book in my reading pile because I know I'll enjoy it. And the end for the book is <em>really</em> near! <a href="http://peterdavid.malibulist.com/gmlog/00000178.html">PAD reports in his blog</a> that the series will end with issue 55, that's only four more issues! I think this counts as an act of utter stupidity for DC. Well, at least this decision is going to save me a few bucks a month... until Todd Nauck and Peter David get work going on more series that I want to try.<br />
+</p>
+<p>This bad news spins out of the report of an utterly dreadful sounding 3-issue prestige mini-series called <em>The Titans/Young Justice: Graduation Day</em> which I'll buy just for the characters involved and hopefully will enjoy much more than I think I will. This whole "mysterious woman from the future" and "death of one of the founding members" just turns me off. Enough with time travel stories and enough with cheap gimmicky deaths that will be undone in a couple of months, if they wait <strong>that</strong> long. The mini will lead right into two new teams books, with <em>Teen Titans</em> replacing <em>Young Justice</em> and <em>Outsiders</em> replacing the admittedly tepid <em>Titans</em>.<br />
+</p>
+<p>The <em>Teen Titans</em> book will feature Geoff Johns as writer, and Mike McKone as penciller, and I'm afraid that neither one inspires me to pick up the book, since I like <em>Young Justice</em> more for the controlled choas that PAD manages to sustain rather than the characters, and not one of the member of the new Titans team interests me enough to try the book. YJ qualified as a book I was picking up solely for the writing.<br />
+</p>
+<p><em>Outsiders</em> is more likely to get on my pull list, despite me not being interested in it at all. I don't dislike Judd Winick's writing, but he's not a writer I intend to follow, and I know nothing about Tom Raney's art. I was only getting <em>Titans</em> because Garth was in the book, and so it may end up I only get <em>Outsiders</em> because Jade is in the book, and hubby-Eric likes Jade. If it were solely up to me, however, this one wouldn't make the cut.<br />
+</p>
+<p>Fwew... I'm hardly even started reviewing the info and I'm already tired of it... Moving on, there wasn't much Aquaman news.<br />
+</p>
+<p>The biggest piece of Aquaman news I could find was the planned 4th Quarter release of new JLA Action Figures, including Aquaman in his new, new look. Yeah, not the harpoon, but the Veitch-look. Depressingly, there was no mention of the Veitch series itself, despite other ongoing series getting promoted.<br />
+</p>
+<p>In other books, Aquaman will make an appearance of some sort in <em>The New Frontier</em>, a six issue prestige series about Hal Jordan's career prior to joining the Justice League. While the series will include others, Hal is apparently the main focus, and all the key figures of the Silver Age, including Aquaman, will make guest appearances. Sounds like one to start saving up for.<br />
+</p>
+<p>Another possible appearance for Aquaman... ok, probably not, but the book sounds good anyway... is <em>Formerly Known As The Justice League</em> which brings back Keith Giffen to write the characters that made him famous and dubbed an entire era "the Giffen League".<br />
+</p>
+<p>Moving on again, <em>JSA: All-Stars</em> is an 8-issue mini with back-up stories that hubby-Eric will probably want to buy. And we're not likely to unsubscribe from <em>Green Arrow</em> or <em>Green Lantern</em> before the Winick and Raab team-up crossover, nor after the books have gone their separate ways again.<br />
+</p>
+<p>The four-issue mini by Kurt Busiek called <em>Superman: Secret Identity</em> looks interesting, if only for the writing. It also sounds like it might be an Elseworlds, which would clinch it for me.<br />
+</p>
+<p>There's a new anthology book about to hit town, and it's title is <em>Solo</em>. While I'm sure DC could have come up with something catchier for a title, the concept has me hooked already, since I like anthology books. Every issue will feature one DCU character in one of the stories, with no other limitations. Sounds like something I'll enjoy.<br />
+</p>
+<p><em>Astro City: Local Heroes</em> will no doubt be worth the wait, and no doubt it'll sell pretty well despite the long hiatus while Kurt recovered from Mercury Poisoning. There's not a lot to say about this except: WAHOO, New Astro City in February!!<br />
+</p>
+<p>Having become a fan of the Golden Age Spectre through reading old More Fun comics on microfiche, I'm delighted that DC is putting out <em>The Golden Age Spectre Archives</em> and I hope to someday be able to afford it. Even if I don't get it right away, it'll be something to put on my wish list and it'll be nice that more people get to read these classic tales.<br />
+</p>
+<p>In other news, I've already mentioned the John Cleese Superman Elseworlds, so read my previous blog entry on that. The Justice League Cartoon series has been picked up for another season, HUZZAH! and Super Friends will start coming out on DVD next April (which could be very good or very bad, depending on how they do it). Kingdom Come action figures are in the works, and although an Aquaman one hasn't been announced, I can keep wishing...</p>
+posted by Tegan | <a href="#84398015">7:37 PM</a>
+<hr />
+<br />
+<br />
+Sunday, November 10, 2002 <span id="84345024"></span>
+<strong>JOHN CLEESE?!??</strong>
+<br />
+&#10;<p>According to <a href="http://www.newsarama.com/cgi-bin/ubb/ultimatebb.cgi?ubb=get_topic&amp;f=1&amp;t=000048">Newsarama</a>, John Cleese and Kim "Howard" Johnson will be writing a DC Elseworlds called <strong>True Brit</strong>, involving Kal-El's rocket landing in England.<br />
+</p>
+<p>Needless to say, I'll believe it when I see it, but I <em>really</em> hope it does get made. Sounds like a lot of fun.</p>
+posted by Tegan | <a href="#84345024">8:18 PM</a>
+<hr />
+<span id="84339398"></span>
+<strong>Comicard Convention!</strong>
+<br />
+&#10;<p>When I woke up this morning, I seriously did not believe I was going to the Seattle Comicard Convention today. Indeed, I <em>knew</em> I wasn't going, because hubby-Eric and I had discussed it quite seriously last night and determined that we really couldn't afford it.<br />
+</p>
+<p>So, when I found myself entering the doors to the Northwest Rooms at the Seattle Center at noon, I wasn't quite sure how we had suddenly gone from "not going" to "ok, we'll go." I'm still not sure. But... we went!<br />
+</p>
+<p>We had just enough cash to pay for parking and to get in the front door, and since we had not a cent more, we went to the signing area and ignored all the dealer tables.<br />
+</p>
+<p>The first booth we went to was the great <a href="http://www.studiofoglio.com/index.html">Studio Foglio</a> where I got a signature from Kaja for my green-book-o-autographs and chatted a bit with them. We then wandered over to Greg Rucka's table where I got another signature.<br />
+</p>
+<p>Then we went to Jim Calafiore's table and hubby-Eric got a sketch for his Green Lantern/Oz sketchbook while I drooled over original pages of Aquaman. Eric's sketchbook is a thing of wonder! His concept is that the nature of Green Lantern is such that <em>any</em> character could be a member of the GL Corps, so when he asks for a sketch he tells people that they can draw any character they want... as Green Lantern. This approach has led to some fascinating, and funny, sketches. One of the first is "Carnage Lantern" by Randy Emberlin. Amanda Conner did a funny self-portrait, Steve Lieber did Stetko as Green Lantern, and Brent Anderson did an Octopus Lantern. Because Eric is also a Wizard of Oz fan, Eric Shanower did the Green Lantern of Oz, and Leah Adezio did a portrait of Dorothy and Toto... with Toto wearing a GL ring. <em>There are a lot more images in the sketchbook, if you happen to run into us at a con, ask for a peek.</em><br />
+</p>
+<p>Getting back to today, Jim Calafiore drew Nocturne of Exiles with the GL Ring.<br />
+</p>
+<p>I asked Jim about an Elseworld he had submitted, and he showed me his pin-up of Kal-El as Aquaman (his ship having landed in Atlantis instead of Kansas). It was fantastic, and if I'd had $300 to spare I think I might have bought it. I mentioned <a href="http://www.eskimo.com/%7Etegan/aqua/chronicles/index.html">The Aquaman Chronicles</a> and he said he had to dig out some stuff for it, but John has already asked him about doing a feature on it in the fanzine. I hope we get a print of the pin-up, it was <em>great</em>.<br />
+</p>
+<p>Both Eric and I next visited Peter Gross, who drew Aquaboy for me, and DC's Death as Green Lantern for Eric.<br />
+</p>
+<p>Next up, we wandered over to Frank Brunner's table and I asked about sketches, but he said he was only taking commissions. I got his autograph in the green book.<br />
+</p>
+<p>Next off we visited Chisai publishing, home of the all-new book <a href="http://www.witchandjackal.com/">The Witch and the Jackal</a> which has been getting quite a lot of press from me, despite me not having reviewed the first issue yet (although I've read it). The artist on the book, Steve Ratch, was willing to try his hand at sketches, but didn't want to try Aquaman. He drew one of the main characters from his book, Jack. Aka Jackal. Then came Eric's sketchbook, and the pun-of-the-con, as Steve drew Jack as the Green Lantern (with a ring-created sword). His associate and business manager promptly dubbed the sketch "Jackal Lantern".<br />
+</p>
+<p>We then wandered over to <a href="http://www.committedcomics.com/">Committed Comics</a>, and I was remembered by the amazing Quenton Shaw, who apparently never forgets a face. He's seen me maybe once a year, if that, since 1999 and remembers that I'm the Aquaman fan every time we meet. Mark Brill was at the table, and since I've already got a fantastic sketch by Mark Brill of Aquaman, Eric got to ask for a sketch for his book, and got Brill's character Platypus Rex as "The Green Platypus"!<br />
+</p>
+<p>Then it was off to Rick Hoberg's table. He's currently working on the Batman Family crossover in the Batman books with inker Stefano Gaudiano, who was sitting next to him. Both did sketches for both our books. Rick did a Silver Age Aquaman for me, and R2-D2 as Green Lantern for Eric. Yes, R2-D2. From Star Wars. The short robot. Stefano did a cool "modern" Aquaman with the harpoon, which we jointly decided he didn't need to ink. He drew a demon as Green Lantern for Eric.<br />
+</p>
+<p>We wanted to get a sketch from Karl Kesel for Eric's book, since Kesel's Aquaman sketch in my book is so cool, but Karl needed a break and started to wander the floor at that point. So we scoped out the remainder of artists and visited a couple of dealer tables. At the <a href="http://modernpulp.com/">Modern Pulp</a> table we ran into artist Brian Meredith who did a somewhat animated style Hal Jordan Green Lantern for Eric, and the harpoon version Aquaman for me. Both are fantastic. This guy can <em>draw</em>.<br />
+</p>
+<p>At this point we were tired and there weren't any more artists that we could approach, so we decided that if Kesel didn't return soon, we'd leave and hope to catch him at a future con. Of course, the moment we decided that, Karl wandered back to the table.<br />
+</p>
+<p>After flipping through my original Aquaman sketchbook (in which his sketch is the fifth one, so he hadn't seen most of the sketches), he agreed to do a sketch for Eric. He pondered it awhile, and while he pondered, I decided to try something I had tried once before.<br />
+</p>
+<p>Way back at the third con I ever got sketches at, I asked Art Adams to do a sketch for me. He apologized and explained he wasn't doing sketches at cons at the time, and I understood... but it was <em>Art Adams</em>! So, right before we left that con, I went up to him again and said, "I would never forgive myself if I didn't try a second time to get a sketch from you," at which point he took my sketchbook and drew a wonderful rendition of Aquaman.<br />
+</p>
+<p>Today it was Frank Brunner's turn.<br />
+</p>
+<p>Brunner doesn't make it to many west coast cons, and I had never met him before this, and I felt it was unlikely I would ever meet him again, so I went up to him and said that I would completely understand if he didn't want to do a sketch, but I really had to ask, since I have to live with myself, one more time. He reluctantly agreed to look at my sketchbook, and even more reluctantly said he would try an Aquaman, although I repeatedly said he didn't have to do Aquaman if he didn't want to. He told me that he really liked Mermaid Man from SpongeBob Squarepants, and I said he could draw him if he liked. To keep the pressure off, I told him I would just leave my book with him and go over and talk with Karl Kesel. I honestly wasn't sure if he'd draw anything, but at least I gave it my best shot.<br />
+</p>
+<p>In the meantime, Karl had come up with his idea and sketched away. The result was "The Most <u>FANTASTIC</u> Green Lantern Ever!" Yup, he drew Mr Fantastic of the Fantastic Four as GL, complete with a "4" inside the GL Logo.<br />
+</p>
+<p>After he finished and laughs were exchanged all around, Eric and I walked over to Frank Brunner's table, and he handed it back to me saying, "I'm not sure if it's Aquaman or Moses." If anything, I think it may be Neptune. He couldn't remember how to draw Mermaid Man, so he was going for the modern Aquaman look, but the hair got a bit curly on him. I like it quite a bit. I felt a bit like yelling "I got a Frank Brunner sketch!" but managed to contain myself. That makes me two for two on second tries.<br />
+</p>
+<p>After that exciting bit of fun, Eric and I left the con, and decided that it was worth the cost to have a bit of fun and get some more sketches together.<br />
+</p>
+<p>And we learned that coming next February is the debut of a new ComiCon in Seattle, <a href="http://www.emeraldcitycomicon.com/">The Emerald City ComiCon</a>. It will be interesting to see how well it goes.</p>
+posted by Tegan | <a href="#84339398">6:03 PM</a>
+<hr /></td>
+<td width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><div class="sidetextcenter">
+<a href="20021103-20021109.html">11/03/2002 - 11/09/2002</a><br />
+11/10/2002 - 11/16/2002<br />
+<a href="20021117-20021123.html">11/17/2002 - 11/23/2002</a><br />
+&#10;</div>
+<div class="sidehead">
+current
+</div>
+<div class="sidetextcenter">
+<a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a>
+</div>
+<div class="sidehead">
+archives
+</div>
+<div class="sidetextcenter">
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+<a href="2006Archive.html">2006 Archive</a><br />
+&#10;</div>
+<div class="sidehead">
+other
+</div>
+<div class="sidetextcenter">
+<a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a>
+</div>
+<div class="sidehead">
+ &#10;</div></td>
+<td width="1" data-bgcolor="#000000"><img src="http://www.eskimo.com/~tegan/blog/blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-bgcolor="#036303"><img src="http://www.eskimo.com/~tegan/blog/blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<div id="footer">
+
+</div>

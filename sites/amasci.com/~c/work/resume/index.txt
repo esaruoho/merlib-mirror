@@ -1,0 +1,57 @@
+C.M. Connelly: R&eacute;sum&eacute; 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ R&eacute;sum&eacute; 
+
+All versions of my r&eacute;sum&eacute; have been updated as of April
+17, 2002. As usual, the PDF versions should be considered to be
+definitive. If you're at all serious about contacting me about
+a position, please consult the PDF files. 
+
+ My r&eacute;sum&eacute; is available in a number of different formats: 
+
+ An HTML version (suitable for
+ on-line review) 
+ A PDF version (suitable
+ for printing) 
+ A text version (suitable for
+ tossing in a database) 
+
+ I also have a document describing the work I've done in various
+positions in greater detail. Like my r&eacute;sum&eacute;, it was
+updated on April 17, 2002, and it's available in several formats: 
+
+ An HTML version (suitable for
+ on-line review) 
+ A PDF version (suitable for
+ printing) 
+ A text version (suitable for
+ tossing in a database) 
+
+ As I mentioned, the PDF version is the master. At the moment, I'm
+creating the other versions of these documents via a considerable
+amount of hand-editing (the existing tools don't work very well, and I
+make updates infrequently enough to not want to bother with writing my
+own). At some point I might migrate the master to some SGML/XML
+format, which would presumably make production of the other versions
+easier. Expect that migration to take place sometime around the turn
+of the (next) century, if not sooner. 
+
+Please note that these on-line versions contain relatively little contact 
+information. If you're interested in discussing a position with me, please 
+send me e-mail .
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 4:38 PM PDT, Wednesday, April 17, 2002; last rendered at 
+ 2:42 PM PDT, Monday, September 2, 2002 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

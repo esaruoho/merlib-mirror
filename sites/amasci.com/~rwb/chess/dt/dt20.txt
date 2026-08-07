@@ -1,0 +1,435 @@
+From: mginsbur@rnd.GBA.NYU.EDU (Mark Ginsburg)
+Newsgroups: rec.games.chess
+Subject: _Chow Upload_ !  Some aries-scratchy games
+Message-ID: <34336@rnd.GBA.NYU.EDU>
+Date: 17 Dec 92 06:23:38 GMT
+Distribution: rec.games.chess
+Organization: NYU Stern School of Business
+Lines: 422
+
+
+"Deep Slop"
+
+by IM Mark Ginsburg
+
+[This appeared, I think, in the April 1992 _Chess Chow_]
+
+Famous IBM research project/chess program Deep Thought is a
+welcome addition to the Internet Chess Server scene.  Going by
+the alias of "Scratchy", this version of DT (DT-2) is
+terrorizing other humans and programs alike  (even though
+Gnuchess seems to be moving quicker every day!).
+
+The current version of this program is not yet rated, but the
+last incarnation was 2514 USCF.
+
+The chief programmer, Feng-Hsiung Hsu, calls this version
+"obsolete".  Well, it's still strong.
+
+DT-2 has quickly soared to number one status, most convincingly
+in blitz.  Feeling honor-bound, so to speak, to uphold the
+banner of humanity I had a go with it in the following hot,
+sweaty May encounter:
+
+Deep Thought 2 - IM Mark Ginsburg  15/15 game, ICS 1992
+
+1. e4 g6 2. d4
+
+To mystify me, DT spent 47 seconds on this move.
+
+ 2...Bg7 3. Nf3 d6 4. Be2 Bg4 5. o-o Nf6 6. h3 Bxf3 7. Bxf3 Nc6
+8. c3 O-O 9. Be3 e5 10. d5 Ne7 11. c4 Nd7
+
+Now I'm kind of happy.  This type of position offers black
+kingside chances.  I was more worried about white keeping the
+center fluid.
+
+ 12. Qb3 b6 13. Nc3 f5 14. Qd1 Nf6 15. b4 a5 16. a3 fxe4 17.
+Bxe4 Nf5 18. Bxf5 gxf5 19. Bg5 Qe8 20. Bd2 Qf7
+
+The queen could have gone to g6 in one go.
+
+ 21. Qf3 Qg6 22. Nb5 Ne4 23. Be1 Rf7 24. Rc1 ab4 25. ab4 Bh6 26.
+Rb1 Rg7 27. h4
+
+This looks like a concession but I'm getting a little short of
+time now.
+
+ 27...Bd2(!)
+
+To get a very useful defensive piece off the board.
+
+28. Rb2 Bxe1 29. Rxe1 Rf8
+
+At the time I wasn't sure if I should abandon the a-file but now
+it looks like a good choice.
+
+ 30. Kh1 Qh6 31. g3 Ng5 32. Qg2 f4
+
+Met starke aanvaal, ja?
+
+ 33. Rb3 fxg3 34. fxg3 Rgf7 35. Rb2 Kh8!
+
+A necessary prophylaxis before proceeding.
+
+ 36. Qd2 Rf4! 37. Qe3 Nf3 38. Ree2 Rxh4!+
+
+A crushing blow to culminate the attack.
+
+ 39. gxh4 Qh4+??
+
+DT later informed me, by way of Murray Cambell, that 39...Rg8!
+would do the trick.  The human is starting to go downhill now!
+
+40. Rh2 Nxh2 41. Rxh2 Qxc4 42. Rf2!
+
+Nice one!  White is in no danger now.
+
+42... Qxd5+ 43. Kh2 Rg8!
+
+43...Rxf2 44. Qxf2 Kg8 is not going to be too pleasant for
+black, although he might hold.
+
+ 44. Qh6 Qxb5??
+
+Oh, the humanity, the humanity.  I thought it had to go for a
+perpetual now!  A few seconds more and I would play the obvious
+44...e4! and black cannot lose.
+
+I suspect that DT would force an immediate perpetual check with
+45. Qd8+ or 45. Qf8+ after 44...e4!.   In fact, if white
+blunders with 45. Nxc7? (much more plausible for a human than
+DT, of course) then 45...Qe5+ forces mate in all variations (!):
+a.  46. Qf4 Qh5+, b. 46. Rf4 Qb2+, c. 46. Kh3 Qc3+, d. 46. Kh1
+Qa1+.
+
+45. Qf6+ Rg7 46. Rg2
+
+Ugh!  46...Qd7 47. Qf8+.
+
+1-0
+
+aries - DT-2  G/15  ICS 1992 Nimzo-Indian Defense
+
+1.  d4 (0:09) Nf6 (0:00) 2.  c4 (0:04) e6 (0:01) 3.  Nc3 (0:03)
+Bb4 (0:01) 4. e3 (0:04) O-O (0:00) 5.  Bd3 (0:06) c5 (0:01) 6.
+Ne2 (0:06) d5 (0:18) 7. cxd5 (0:02) cxd4!? (0:14)
+
+DT-2 diverges from 7...exd5 8. a3 Bxc3 9. bxc3 b6 10. O-O Ba6
+11. dxc5 bxc5 12. Bxa6 Nxa6 13. Qa4 Qb6 14. c4! which left white
+somewhat better in a previous aries-DT game.
+
+8.  exd4 (0:08) Nxd5 (0:08) 9. O-O (0:05) Nc6 (0:10) 10. a3
+(0:10) Bd6! (0:16)
+
+The machine wants to get active on the kingside.
+
+11. Ne4 (0:22) Bb8 (0:17)
+
+Very aggressive play!
+
+12. Bg5 (0:10) Qc7 (0:16) 13. N2g3!? (0:39)
+
+Maybe DT-2 will grab my d-pawn!  I've prepared a nippy
+continuation...not sure how good it is...
+
+      13...h6 (0:16)
+
+Oh well, it wants to play safe.  I guess it's right; let's see,
+any way to keep going?  Yes...
+
+14. Qh5 (0:49)
+
+I'm trying to have fun and mate the thing.
+
+14...hxg5 (0:15) 15. Nxg5 (0:05) Nf6 (0:10)
+
+Fun time's over.  It's just a draw.
+
+16. Bh7+ (0:23)  Kh8 (0:24) 17. Qh3 (0:15) Qf4 (0:01) 18. Bb1+
+(1:17) Kg8 (0:16) 19. Bh7+ (0:09)        1/2 - 1/2
+
+aries-Deep Thought   G/12
+
+1. d4 (0:05) Nf6 (0:01) 2. c4 (0:06) e6 (0:01) 3. Nf3 (0:05) b6
+(0:01) 4. Nc3 (0:14) Bb7 (0:03) 5.       Bg5 (0:07) Be7 (0:01)
+6. e3 (0:06) h6 (0:01) 7. Bh4 (0:06) Ne4 (0:01)
+
+An interesting line and not clearly worse than the more usual
+7...g5.
+
+8. Bg3 (0:06)
+
+A suggestion of Taimonov's (in his German-language opening
+series) to keep some pieces on.
+
+8...Bb4 (0:18)
+
+9.  Qc2 (0:04) Bxc3 (0:07) 10. bxc3 (0:05) Nxg3 (0:10) 11. hxg3
+(0:08) d6 (0:14) 12. Bd3 (0:07)       Nd7 (0:10) 13. B/d3-e4
+(0:06)
+
+Nothing special for white here.
+
+13...c6 (0:16) 14. O-O (0:09) Nf6 (0:05) 15.      Bd3 (0:13) O-O
+(0:09) 16. e4 (0:05) c5 (0:18)
+
+This looks a little mistimed.
+
+17. Re1 (0:10) Re8 (0:15)
+
+Another mysterious move.
+
+18. e5! (0:10) dxe5 (0:14)
+
+White's clearly on top now; the doubled c-pawns help control the
+center.
+
+19. dxe5 (0:09) Nh5 (0:03)
+
+20.      R/a1-d1 (0:10)         Q/d8-e7 (0:14) 21.      B/d3-e4
+(0:28)         R/a8-d8 (0:13) 22.      Q/c2-e2 (1:04)
+B/b7-e4 (0:12) 23.      Q/e2-e4 (0:05)         P/g7-g6 (0:08)
+24.      P/g3-g4 (0:09)         N/h5-g7 (0:02) 25.      P/g2-g3
+(0:16)         R/d8-d1 (0:13) 26.      R/e1-d1 (0:04)
+R/e8-d8 (0:08) 27.      R/d1-d8 (0:06)         Q/e7-d8 (0:06)
+28.      Q/e4-b7 (0:05)         Q/d8-d1 (0:05) 29.      K/g1-g2
+(0:05)         Q/d1-a4 (0:07) 30.      N/f3-d2 (0:21)
+N/g7-e8 (0:01) 31.      Q/b7-e7 (0:16)         K/g8-g7 (0:01)
+32.      N/d2-e4 (0:16)         Q/a4-c6 (1:10) 33.      P/f2-f3
+(0:06)         Q/c6-a4 (0:13) 34.      N/e4-f6 (1:26)
+Q/a4-a2 (0:12) 35.      K/g2-h3 (0:09)         Q/a2-a1 (0:01)
+36.      N/f6-e8 (0:16)         K/g7-g8 (0:01) 37.      N/e8-f6
+(0:49)         K/g8-g7 (0:01) 38.      Nxe8+ (0:57)
+K/g7-g8 (0:11) 39.  g5 (0:12)
+
+This "try" is completely unrealistic.  White could have agreed
+to a draw immediately.
+
+  39...Qh1+ (0:10) 40. Kg4 (0:10) h5+ (0:01) 41.    Kf4 (0:07)
+Qc1+ (0:02)
+
+DT must have taken about 2 nanoseconds to work out this
+perpetual.
+
+ 42. Ke4 (0:08) Qb1+ (0:01) 43. Ke3 (0:08)         Qe1+ (0:02)
+44.  Kd3 (0:05) Qd1+ (0:01) 45. Ke3 (0:07)  Qe1+ (0:02)
+
+OK, OK.
+
+1/2 - 1/2
+
+A loss.
+
+1       P/c2-c4 (0:06)         N/g8-f6 (0:01)
+
+2       N/b1-c3 (0:06)         P/e7-e6 (0:01)
+
+3     /e2-e4 (0:07)         P/c7-c5 (0:01)
+
+4       P/e4-e5 (0:05)         N/f6-g8 (0:01)
+
+5       N/g1-f3 (0:05)         N/b8-c6 (0:01)
+
+6       P/d2-d4 (0:08)         P/c5-d4 (0:01)
+
+7       N/f3-d4 (0:17)         N/c6-e5 (0:01)
+
+8       N/d4-b5 (0:05)         P/f7-f6 (0:01)
+
+9       B/c1-e3 (0:06)         P/a7-a6 (0:15)
+
+10      N/b5-d6 (0:09)         B/f8-d6 (0:34)
+
+11      Q/d1-d6 (0:06)         N/g8-e7 (0:08)
+
+12      B/e3-b6 (0:06)         N/e7-f5 (0:14)
+
+13      B/b6-d8 (0:09)         N/f5-d6 (0:14)
+
+
+
+14      B/d8-c7 (4:10)         K/e8-e7 (0:31)
+
+
+
+15      P/c4-c5 (0:04)         N/d6-e8 (0:14)
+
+
+
+16      B/c7-b6 (0:06)         P/d7-d5 (0:13)
+
+
+
+17      P/c5-d6 (0:04)         N/e8-d6 (0:10)
+
+18      o-o-o (0:02)           B/c8-d7 (0:13)
+
+19      P/f2-f4 (0:35)         N/e5-c4 (0:13)
+
+20      B/b6-d4 (0:16)         R/a8-c8 (0:13)
+
+21      B/f1-e2 (0:13)         P/b7-b5 (0:13)
+
+22      P/b2-b3 (0:04)         N/c4-e3 (0:13)
+
+23      R/d1-d3 (0:17)         N/e3-d5 (0:01)
+
+24      K/c1-b2 (0:38)         N/d-f4 (0:03)
+
+25      R/d3-g3 (0:06)         N/d6-f5 (0:13)
+
+26      R/g3-g4 (0:12)         P/g7-g5 (0:13)
+
+27      R/h1-d1 (0:14)         N/f5-d4 (0:20)
+
+28      R/d1-d4 (0:07)         P/e6-e5 (0:01)
+
+0-1
+
+Ugh!!
+
+Now, a win.
+
+DT-aries  Game in 12
+
+1       P/e2-e4 (0:03)         P/g7-g6 (0:06)
+
+2       P/d2-d4 (0:01)         P/d7-d6 (0:05)
+
+3       N/g1-f3 (0:01)         B/f8-g7 (0:04)
+
+4       B/f1-e2 (0:01)         B/c8-g4 (0:11)
+
+5       o-o (0:16)             N/g8-f6 (0:03)
+
+6       N/b1-c3 (0:53)         o-o (0:07)
+
+7       B/c1-e3 (0:01)         N/b8-c6 (0:16)
+
+8       Q/d1-d2 (0:01)         P/e7-e5 (0:05)
+
+9       P/d4-d5 (0:02)         N/c6-e7 (0:04)
+
+10      R/a1-d1 (0:01)         B/g4-d7 (0:07)
+
+11      N/f3-e1 (0:01)         N/f6-g4 (0:07)
+
+12      B/e2-g4 (0:02)         B/d7-g4 (0:05)
+
+13      P/f2-f3 (0:01)         B/g4-d7 (0:05)
+
+14      P/f3-f4 (0:01)         B/d7-g4 (0:07)
+
+15      R/d1-b1 (0:01)         P/c7-c6 (0:20)
+
+So far, so theory.
+
+16      P/f4-e5 (0:15)         B/g7-e5 (0:05)
+
+17      N/e1-d3 (0:08)         B/e5-g7 (0:23)
+
+18      N/d3-f2 (0:14)         B/g4-d7 (0:09)
+
+19      B/e3-f4 (0:04)         P/c6-d5 (0:07)
+
+20      N/c3-d5 (0:14)         N/e7-d5 (0:07)
+
+21      Q/d2-d5 (0:14)         B/d7-c6 (0:13)
+
+22      Q/d5-d6 (0:01)         Q/d8-d6 (0:28)
+
+23      B/f4-d6 (0:02)         R/f8-d8 (0:08)
+
+24      P/e4-e5 (0:14)         P/f7-f6 (0:14)
+
+25      B/d6-e7 (0:13)         R/d8-d2 (0:05)
+
+26      P/e5-f6 (0:15)         B/g7-h6 (0:04)
+
+27      P/c2-c4 (0:14)         B/h6-e3 (0:15)
+
+28      B/e7-b4 (0:14)         R/d2-c2 (0:10)
+
+29      B/b4-c3 (0:07)         K/g8-f7 (0:10)
+
+30      R/b1-d1 (0:13)         R/a8-e8 (0:10)
+
+31      R/d1-d3 (0:01)         B/e3-c5 (0:23)
+
+32      R/d3-d2 (0:13)         R/c2-d2 (0:14)
+
+33      B/c3-d2 (0:01)         R/e8-e2 (0:06)
+
+34      B/d2-c3 (0:13)         P/b7-b6 (0:26)
+
+35      P/a2-a3 (0:36)         B/c5-e3 (0:10)
+
+36      P/b2-b3 (0:33)         P/h7-h5 (0:04)
+
+37      P/h2-h3 (0:11)         P/g6-g5 (0:06)
+
+38      P/g2-g4 (0:13)         P/h5-h4 (0:06)
+
+39      B/c3-b4 (0:12)         K/f7-f6 (0:09)
+
+40      B/b4-c3 (0:08)         K/f6-g6 (0:05)
+
+41      P/a3-a4 (0:27)         P/a7-a5 (0:05)
+
+42      P/b3-b4 (0:09)         P/a5-b4 (0:09)
+
+43      B/c3-b4 (0:07)         B/c6-a4 (0:03)
+
+44      P/c4-c5 (0:14)         P/b6-c5 (0:05)
+
+45      B/b4-c3 (0:01)         B/a4-c6 (0:06)
+
+46      B/c3-a5 (0:26)         P/c5-c4 (0:05)
+
+47      B/a5-e1 (0:06)         B/c6-f3 (0:21)
+
+48      B/e1-a5 (0:54)         K/g6-f7 (0:07)
+
+49      B/a5-c3 (0:06)         K/f7-e6 (0:05)
+
+50      B/c3-g7 (0:20)         B/f3-d5 (0:05)
+
+51      B/g7-c3 (0:07)         K/e6-d6 (0:06)
+
+52      B/c3-a5 (0:10)         K/d6-c6 (0:04)
+
+53      B/a5-c3 (0:05)         R/e2-c2 (0:08)
+
+54      B/c3-e1 (0:22)         P/c4-c3 (0:08)
+
+55      B/e1-c3 (0:12)         R/c2-c3 (0:19)
+
+56      R/f1-e1 (0:36)         B/e3-c5 (0:08)
+
+57      R/e1-b1 (0:10)         R/c3-h3 (0:09)
+
+58      K/g1-f1 (0:06)         R/h3-f3 (0:07)
+
+59      K/f1-g1 (0:05)         B/c5-f2 (0:12)
+
+60      K/g1-f1 (0:15)         B/f2-c5 (0:09)
+
+61      K/f1-e1 (0:10)         P/h4-h3 (0:08)
+
+62      R/b1-b8 (0:07)         R/f3-f8 (0:10)
+
+63      R/b8-f8 (0:07)         B/c5-f8 (0:06)
+
+64      K/e1-d2 (0:05)         P/h3-h2 (0:04)
+
+65      K/d2-c3 (0:01)
+
+0-1
+
+
+[The End]
+
+
+
+

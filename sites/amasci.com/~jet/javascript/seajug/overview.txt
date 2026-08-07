@@ -1,0 +1,11 @@
+Overview: JavaScript presentation for SeaJUG 
+
+ Overview of presentation 
+
+ How JavaScript fits in with HTML, browsers, and Java 
+ A simple programming example 
+ JavaScript's object and event models 
+ Samples of JavaScript in action 
+ List of JavaScript resources 
+
+ Return to title page

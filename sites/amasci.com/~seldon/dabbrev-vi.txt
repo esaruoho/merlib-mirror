@@ -1,0 +1,131 @@
+"This is an attempt to implement Emacs's (dabbrev-expand) in classic vi.
+"
+"Author: Will Mengarini <seldon@eskimo.com> <http://www.eskimo.com/~seldon>
+"
+"Everything in this file should be directly includable in a .exrc file except
+"for the control characters in the final line (which is the only line of
+"code; everything else is documentation).  To put those robustly on a web
+"page I put, for example, "^" then "[" to represent <Escape>; you'll need to
+"edit all the caret notation in the final line of code to make it work.
+"If you try to mess with any of the intermediate versions, don't forget to
+"edit their caret notation too.
+"
+"This code works, and I still actually use it when I'm using classic vi,
+"which happens on dial-ups to Unix shells where I don't want to run Emacs.
+"However, it's not a full-fledged (dabbrev-expand), as you've already
+"guessed if you know anything about classic vi.  Most of this file is
+"basically a war story, although it ends with working code.
+"
+"This was the original plan:
+"
+"  ^V^[
+"     Exit input mode
+"  my
+"     Set mark y
+"  b
+"     Move to beginning of word (the abbrev) from which we were invoked
+"  "yyw
+"     Yank abbrev to register y
+"  o?\<^V^[
+"     On next line, code start of backward search for word beginning
+"  "yp
+"     Append register y as word to search for
+"  0"ydd
+"     Go to beginning of line that has that code & delete to register y
+"  `yb
+"     Move to beginning of abbrev
+"  @y
+"     Execute register y (error out if not found)
+"  "yyw
+"     Yank expansion to register y
+"  `y
+"     Return to position y (after the abbrev)
+"  bdw
+"     Move to beginning of word & delete it
+"  "yp
+"     Paste expansion in place of it
+"  A
+"     Return to input mode
+"
+"That would have produced this macro:
+"  map! ^V^K^V^D ^V^[myb"yywo?\<^V^["yp0"ydd`yb@y"yyw`ybdw"ypA
+"Before you keep reading, see whether you can figure out why
+"that abends the .exrc with the error message "missing rhs".
+"
+"[beat]
+"
+"The problem is the choice of keymapping; "rhs" stands for right
+"hand side, & this is failing because ^D is the EOF char!
+"
+"That exemplifies the crap I had to put up with to get this
+"to work.  I couldn't map it to ^C^J, my Emacs mapping
+"for (dabbrev-expand), because ^C always just beeps, even
+"though the .exrc gives no error message when it's mapped.
+"
+"The next problem was that, amazingly, using the same letter for
+"the mark & the register was failing.  I still don't really believe this,
+"but when I replaced mark x with mark y in the development version,
+"the replaced version fails.  Unfortunately (I guess) I later improved
+"the code by taking out a brain fart--yydd instead of just dd--& when
+"I did that, the x/y nonsense stopped happening.  Just in case you
+"don't believe me, here
+"  map! ^V^K^V^K ^V^[mxb"yywo?\<^V^["yp0"yyydd`xb@yyw`xbP dwA
+"is a copy of the final working version with the brain fart still
+"there, & with mark x used instead of y.  If your vi has the same
+"dain bramage as mine, you should be able to make that the active
+"version, verify that it works, then change the "x"s to "y"s, &
+"it should fail.  But don't try to read that working version yet;
+"there's more to the horror story.  After I gave up on a mnemonic
+"(for suitable values of "mnemonic"--same as I use in Emacs, anyway)
+"keymapping, I just picked an ergonomic one instead, ^K^K.  This
+"  map! ^V^K^V^K ^V^[mxb"yywo?\<^V^["yp0"yyydd`xb@y"yyw`xbdw"ypA
+"would've been the working version if the x/y swap had sufficed.
+"No such luck, though.
+"
+"Mysteriously, I started getting "can't yank inside global/macro"
+"where I try to yank the expansion into register y, overwriting
+"the search expression; & switching to an unused register had no
+"effect.  It's some random failure inside vi/ex.  I hacked the
+"problem by doing an anonymous yank, & that works, but requires
+"contortions for deleting the abbrev, since that'd overwrite the
+"anonymous yank.  Instead I do the paste before the deletion, then
+"move a char forward (I use the space char for that command instead of
+""l" since I've remapped "l"), and delete what remains of the word.
+"
+"Here are the 3 versions for review.  The final one "works".
+"  map! ^V^K^V^K ^V^[mxb"yywo?\<^V^["yp0"ydd`xb@y"yyw`ybdw"ypA
+"  map! ^V^K^V^K ^V^[mxb"yywo?\<^V^["yp0"ydd`xb@y"wyw`xbdw"wpA
+"  map! ^V^K^V^K ^V^[mxb"yywo?\<^V^["yp0"ydd`xb@yyw`xbP dwA
+"
+"That's for suitable values of "works", because it'll fail on a
+"one-char abbrev, & I can't find a way around that.  I did try.  What
+"I needed is a synonym for "b" that won't move off the first char of
+"a word.  Doing "?\<" (search backward for word beginning) behaves
+"like "b".  Searching backward for a word separator will work unless
+"the abbrev begins a line, so inserting a search sentinel at the
+"beginning of the line is necessary.  (Remember it needs to be removed
+"before the macro errors out if the search for the expansion fails.)
+"So I spent another hour and a half trying to get a helper macro to
+"work that would do b-without-changing-words.  It got as far as this
+"  map ^V^K~ mz0i~^V^[`z ?[^A-Za-z0-9_]^V^[ mz0x`z
+"which I think is correct, but it errors out on the final "`z" because
+"mark z somehow gets cleared & never reset.  Changing the name to something
+"previously unused has no effect.  The macro works correctly when executed
+"by hand, but when run as a macro, the final "mz" just doesn't happen; this
+"can be verified by attempting "`z" by hand after the macro fails.
+"This might work under a less flaky vi; nvi, perhaps.  If you do that,
+"you should be able to replace all the "b" commands in my (dabbrev-expand)
+"with "^V^K~"s & get a (dabbrev-expand) that'll work on 1-char abbrevs.
+"
+"As for vi classic, there've been enough failures already
+"on macros that'd work if vi vi vi worked that further hacking
+"doesn't seem worth it.  So abbrevs must have at least 2 chars.
+"
+"Also, using (dabbrev-expand) is un-undoable.
+"
+"I don't feel like implementing the rest of elisp in vi tonight.
+"
+"But anyway, hey, it's vi, & now it has a working (dabbrev-expand).
+"Here's the final result:
+"
+map! ^V^K^V^K ^V^[myb"yywo?\<^V^["yp0"ydd`yb@yyw`ybP dwA

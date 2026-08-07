@@ -1,0 +1,283 @@
+Operations Questions 
+
+ Operations Questions 
+
+ 1. Training Expense 
+
+Our team closed its home area plant and moved its production to a 
+plant in Sereno. However the training expenditure entered on the 
+decision form is still going to the home area plant. We spent 155 in 
+training. The income statement shows 155 in training expense in the 
+home area with 163 for consolidated training and 203 for training in 
+Sereno. The Sereno plant just opened a new line which apparently 
+accounted for the training cost there. 
+
+ Answer 
+
+The training expense entered on the decision form always is borne by 
+the parent company for ongoing training everywhere.
+
+Training for employees on new lines is in the area (and currency) of 
+the manufacturing plant.
+
+Training for new salespeople is in the area (and currency) of the area 
+where they are located.
+
+The Ps 203,000 for new-line training in Sereno must translate to about 
+$8,000 with an exchange rate around Ps 25 to $1.
+
+ 2. New model 
+
+ Our company will be producing a new model next quarter and we 
+stocked out in several areas except one. Will we see a new model 
+increase in sales (normally an increase) this quarter or next quarter? 
+In the older BPG v3, you could get immediate benefits if you stock out 
+in the previous quarter. The documentation implies that you do not 
+regardless as to whether you stock-out or not. We are assuming not 
+because of what is said on page 68 in the box.
+
+ Answer 
+
+The box on page 68 of the Player's Manual is correct. Even though you 
+may substitute new model production for old model orders, the effect 
+of the new model on demand will not be apparent until it officially 
+goes on sale at the beginning of the next quarter.
+
+ 3. Payment for plant construction 
+
+Do we pay for construction of the new plant in Sereno in pesos or 
+dollars? With the exchange rate jumping so much, we would be able to 
+build the plant in Sereno with much less dollars this quarter than 
+last because of the jump in exchange rates. We are assuming that the 
+exchange rates will help us.
+
+ Answer 
+
+Payment is made in pesos for a new plant in Sereno. If your Sereno 
+subsidiary needs additional funds to make the payment, your parent 
+company will purchase enough stock in the subsidiary to make up the 
+shortage. The dollars will be converted to pesos at the exchange rate 
+in effect at the time of the funds transfer.
+
+ 4. Plant expansion 
+
+ The book states on page 119 that when a company makes a plant in the 
+home area, there is space for two new lines on each side of the new 
+plant. Does that mean that if a company makes a new plant with a 
+capacity of 6 lines that the maximum number of lines they can have 
+after plant additions is 6 + 2 + 2 = 10 lines? We made a 8 line plant 
+in Sereno from the get-go and will get to 12 lines soon, but my team 
+is interested in the fate of the other teams that made 6 lines or less 
+from the beginning in Sereno.
+
+ Answer 
+
+The maximum plant size in any area is 12 lines, no matter what the 
+original size of the plant was. Expansion can be undertaken by 
+building additions with two lines capacity--one addition being the 
+maximum to start in any quarter. See the BPG Player's Manual, page 
+119, second paragraph under "Additions to Existing Plant."
+
+ 5. Production variance 
+
+ Last quarter, we scheduled overtime on 8 of our line in Sereno. We 
+expected production to be around 499 units. Instead, we got only 432 
+units. Is this variance normal or within the limits of the program or 
+does the Sereno workers not do overtime as efficiently as Merica?
+
+ Answer 
+
+Actual production may vary from the amount scheduled. In Merica 
+plants the variation seldom exceeds five percent, but experience has 
+shown that the variability in Sereno plants is greater, and is more 
+likely to be less than scheduled than more. Your actual production of 
+13 percent less than scheduled is within the limits of variability. 
+See the Player's Manual, page 96.
+
+ 6. Deactivate lines 
+
+We would like to deactivate two lines at our home plant in M2 for the 
+fourth quarter. As far as we understand, deactivation occurs 
+immediately when it is sent in with a decision. Therefore, we did not 
+deactivate the two lines on this decision. However, the handbook does 
+not state this clearly - if we wait until the next decision (year 3, 
+quarter 4) to choose to deactivate two lines, will they then be 
+deactivated, and not a quarter later (year 4, quarter 1)? We have 
+enough cash in our budget to allow for this deactivation even in this 
+decision, should it take one quarter to take effect.
+
+ Answer 
+
+Deactivation takes effect immediately. If you don't need the lines 
+for only a couple of quarters, you might find it less expensive to try 
+"layoff" rather than deactivation.
+
+ 7. Transferring employees from second to first shift 
+
+In a real production setting, an organization that is adding a new 
+addition to a plant would realistically keep Second Shift personnel on 
+the Second Shift lines until they could be transferred to the new 
+lines on First Shift. In this simulation, it appears that we have to 
+lay the Second Shift employees off and then hire them for the new 
+First Shift lines by paying for their training. Is there any way to 
+transfer the productive Second Shift employees to new First Shift 
+lines or do we have to treat them like someone off of the street and 
+effectively re-hire them?
+
+ Answer 
+
+It is not possible to transfer second-shift production employees to 
+the first shift, though that may be a good idea for future versions of 
+the simulation.
+
+ 8. Inventory allocation 
+
+We currently do not have a Sales Office in Sereno and therefore ship 
+all produced product to Merica for Sale. Considering this, we are 
+unsure how the Sereno produced product is distributed in Merica.
+
+ Specifically: Is the Sereno produced product equally distributed 
+to all three Merica areas?
+
+or
+
+ Is the Sereno produced product distributed only to those Merica 
+areas that do not have an operating production facility?
+
+or
+
+ Is the Sereno produced product distributed to all three areas 
+within Merica, but only in a ratio that is the same as the ratio of 
+Sales Office orders for each of the areas?
+
+ Answer 
+
+If there is a plant but no sales office in Sereno, and if there are 
+unsold goods at the end of the quarter from that plant, they would 
+show up as "inventory." Normally, goods held in inventory are not 
+shipped to other market areas (see Player's Manual, page 18), but held 
+for sale by the sales office in the same area. Where there is a 
+plant, but no sales office, the goods from inventory are added to 
+current production to establish the amount of goods "available for 
+shipment" from Sereno (as outlined on pages 18-19).
+
+If goods are available for shipment from more than one plant, sales 
+office orders are filled first from non-home area plants beginning 
+with Sereno, then from domestic non-home areas, and finally from the 
+home area. They are not spread equally across other market areas 
+without a plant. For example, if you had a Sereno plant, but none in 
+areas 1 and 2, Sereno production would be used to fill the Area 1 
+sales office orders first. Then, if more goods from Sereno were still 
+available, they would be shipped to Area 2. Any unfilled sales office 
+orders in Area 2 would be shipped from the Area 3 plant. Goods would 
+not be shipped to Area 3 unless there were not sufficient goods 
+available from Area 3 production.
+
+If you are producing goods in three domestic areas, the sales office 
+orders in those areas will be filled first from the plants in those 
+areas. If there is not sufficient production in an area to satisfy 
+the sales office in the same area, goods will be shipped from other 
+areas--first from non-home areas (starting with Sereno), then from the 
+home area.
+
+ 9. Produce in Sereno and ship to Merica 
+
+How can a company specify that it wants to produce in Sereno and ship 
+the units produced back to Merica to take advantage of the low 
+production costs in Sereno?
+
+ Answer 
+
+The allocation of production is explained on pages 17 to 19 of the 
+Player's Manual. We have set up the rules so that it is easy to ship 
+from Sereno as a low cost producer. When sales orders cannot be 
+filled from a plant within a Merica area, if a plant is located in 
+Sereno and the plant has produced more units of product than the sales 
+office in Sereno has ordered, the excess Sereno produced units are the 
+first shipped to sales offices in Merica where orders were not filled 
+completely by production plants in their area. By careful management 
+of production capacity and sales office orders, teams can take 
+advantage of low cost production in Sereno. 
+
+As an aside you can raise some interesting questions about the impact 
+that has upon US workers and what responsibility the firm has to its 
+work force. Many interesting avenues of discussion can be followed 
+from this.
+
+ 10. Deactivate all lines 
+
+We may wish to deactivate all of the lines operating in our home area 
+(as we move production operations into Sereno). However, we aren't 
+positive that we wish to close the home plant. If we deactivate all 
+lines, is there any way we can keep the plant (but not produce 
+anything from it)? To save on production costs, we may just move all 
+production operations into Sereno (and add second-shifts as demand 
+requires).
+
+ Answer 
+
+Deactivating a line just provides for laying off the workers and 
+securing the production line equipment for extended storage. It still 
+sits in the plant. To close and sell the plant you also have to sell 
+the equipment and the plant.
+
+Second-shift operations are not available in Sereno.
+
+ 11. New model introduction 
+
+My team came out with a new model last quarter. The following quarter 
+the old model was not liquidated. Could you please explain the 
+liquidation procedure and the timing of it when you come out with a 
+new model.
+
+ Answer 
+
+In the quarter when a new model number is entered on the decision 
+form, production of the old model ceases and only the new model is 
+produced.
+
+The market demand for that quarter (when the new model is being 
+produced) is still for the old model, as the market introduction of 
+the new model has not yet occurred.
+
+Sales of the old model during that quarter will be from inventory on 
+hand of the old model. If there are not sufficient goods in 
+inventory, units of the new model may be substituted in any area where 
+the inventory is exhausted. Because all production for the quarter is 
+of the new model, all shipments to sales offices during that quarter 
+will be of the new model.
+
+At the beginning of the next quarter, when the new model officially 
+goes on sale, any unsold units of the old model will be sold to a 
+liquidation agent.
+
+Please see the Player's Manual, page 68, for additional details.
+
+ 12. Training expense 
+
+We are having trouble with our BPG training expense. According to our 
+figures training expenses should be 281,000. This allows for 71,000 
+general training, 10,000 for sales people training and 200,000 for two 
+second shift lines. According to the report, our training expenses 
+are 504,000. We would appreciate if you could explain why this two 
+figures differ. 
+
+ Answer 
+
+It is kind of hard to tell what is happening without more information. 
+It looks like the team may have entered the entire amount of training 
+expense on the decision form instead of only the $71,000 general 
+training. New employee training for sales and production are 
+calculated automatically by the program (including increases due to 
+changes in the CPI) and added to the amount entered for training 
+continuing employees.
+
+Allowing a little bit for inflation, the numbers would come out about 
+right on this assumption. The figures given for training new 
+employees is for Year 3, Quarter 1. As you go through the game, the 
+amounts will increase according to changes in the CPI.
+
+This page is maintained by David Fritzsche ( Home 
+page ). Send comments to
+ fritzsch@eskimo.com . 
+ This page last updated 1 November 2001.

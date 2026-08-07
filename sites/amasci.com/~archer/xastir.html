@@ -1,0 +1,555 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<link rev="made" href="mailto:archer@eskimo.com">
+<TITLE>WE7U's Home Pages:  XASTIR</TITLE>
+</HEAD>
+
+<BODY>
+
+<CENTER>
+<H2>
+XASTIR:  X Amateur Station Tracking and Information Reporting
+</H2>
+</CENTER>
+
+<br>
+<br>
+
+<STRONG> <I>
+<A HREF = "http://www.xastir.org" TARGET="_top">
+Xastir's Home Page</A>
+</I></STRONG>
+.
+Another entry point to
+<STRONG> <I>
+<A HREF = "http://xastir.sourceforge.net" TARGET="_top">
+Xastir information</A>
+</I></STRONG>
+, including a link to screen shots of Xastir.
+<p>
+
+
+This is a mapping and amateur radio APRS-type program that currently
+runs on FreeBSD, Linux, Solaris, and Mac OS X platforms.
+Real-time mapping of APRS stations is the main usage
+but it can also do messaging and weather-related functions.
+<STRONG>
+This software is available at no charge and comes with full source code!
+</STRONG>
+<p>
+
+<strong>
+SUPPORTED LANGUAGES:
+</strong>
+<br>
+1) Dutch
+<br>
+2) English
+<br>
+3) French
+<br>
+4) German
+<br>
+5) Italian
+<br>
+6) Portuguese
+<br>
+7) Spanish
+<p>
+
+
+<strong>
+SUPPORTED WEATHER STATIONS:
+</strong>
+<br>
+1a) Peet Brothers Ultimeter 2000 (logging mode)
+<br>
+1b) Peet Brothers Ultimeter 2000 (Packet mode)
+<br>
+2) Peet Brothers U-II
+<br>
+3) Radio Shack WX-200/Huger WM-918/Oregon Scientific WM-918
+<br>
+4) Networked weather stations using
+<STRONG> <I>
+<A HREF = "http://wx200d.sourceforge.net" TARGET="_top">
+wx200d software.</A>
+</I></STRONG>
+<p>
+
+<strong>
+SUPPORTED TNC's:
+</strong>
+<br>
+1) AX.25 kernel networking (KISS-mode TNC's, soundcard TNC's, Baycom TNC's, etc).
+<br>
+2) Serial-port TNC's such as Kantronics KAM & kpc3, Kenwood TH-D7A/TM-D700A,
+AEA, TAPR, MFJ, Paccomm, etc.
+<br>
+3) Support for HSP adapters is built-in.  An HSP adapter lets you connect
+TNC and GPS to the same serial port.
+<br>
+4) Control-E support for TNC's with GPS port built-in such as Kantronics KPC-3+ and Paccomm dual-port PicoPacket.
+<p>
+
+<strong>
+SUPPORTED GPS's:
+</strong>
+<br>
+1) Anything putting out NMEA standard GPRMC and/or GPGGA sentences.
+<br>
+2) GPS's can be used with TNC's on the same serial port via HSP adapter.
+<br>
+3) Networked GPS's using
+<STRONG> <I>
+<A HREF = "http://russnelson.com/gpsd/" TARGET="_top">
+gpsd software.</A>
+</I></STRONG>
+<br>
+4) Control-E support (TNC's with GPS port built-in).
+<p>
+
+<strong>
+SUPPORTED MAP FORMATS:
+</strong>
+<br>
+1-105:  
+<STRONG> <I>
+<A HREF = "http://www.imagemagick.org/www/formats.html" TARGET="_top">
+ImageMagick.</A>
+</I></STRONG>
+(two formats are write-only, not included in total)
+<br>
+  106:
+<STRONG> <I>
+<A HREF = "http://web.ew.usna.edu/~bruninga/aprs.html" TARGET="_top">
+APRSdos</A>
+</I></STRONG>
+Vector Format Maps & Weather Alert Maps
+<br>
+  107:
+<STRONG> <I>
+<A HREF = "http://aprs.rutgers.edu/" TARGET="_top">
+WinAPRS/MacAPRS/X-APRS</A>
+</I></STRONG>
+Vector Format Maps & Weather Alert Maps
+<br>
+  108:  1:24k
+<STRONG> <I>
+<A HREF = "http://mcmcweb.er.usgs.gov/drg/" TARGET="_top">
+USGS DRG</A>
+</I></STRONG>
+Raster Maps (geoTIFF Topo Maps)
+<br>
+  109:  1:100k
+<STRONG> <I>
+<A HREF = "http://mcmcweb.er.usgs.gov/drg/" TARGET="_top">
+USGS DRG</A>
+</I></STRONG>
+Raster Maps (geoTIFF Topo Maps)
+<br>
+  110:  1:250k
+<STRONG> <I>
+<A HREF = "http://mcmcweb.er.usgs.gov/drg/" TARGET="_top">
+USGS DRG</A>
+</I></STRONG>
+DRG Raster Maps (geoTIFF Topo Maps)
+<br>
+  111:
+<STRONG> <I>
+<A HREF = "http://www.esri.com/software/opengis/openpdf.html" TARGET="_top">
+ESRI Shapefile</A>
+</I></STRONG>
+Polyline Vector Maps
+<br>
+  112:
+<STRONG> <I>
+<A HREF = "http://www.esri.com/software/opengis/openpdf.html" TARGET="_top">
+ESRI Shapefile</A>
+</I></STRONG>
+Polygon Vector Maps
+<br>
+  113:
+<STRONG> <I>
+<A HREF = "http://www.pocketaprs.com" TARGET="_top">
+PocketAPRS</A>
+</I></STRONG>
+PDB Vector Maps
+<br>
+  114:
+<STRONG> <I>
+<A HREF = "http://geonames.usgs.gov/gnishome.html" TARGET="_top">
+USGS GNIS</A>
+</I></STRONG>
+files
+<p>
+
+ImageMagick can also handle automatic decryption or decompression
+of maps files as long as support for these utilities is present and
+compiled into ImageMagick.  It can handle these formats:  ".Z",
+".gz", ".bz2", and ".pgp".
+<p>
+
+<strong>
+MAP SOURCES:
+</strong>
+<p>
+Built into Xastir (Require ImageMagick libraries):
+<br>
+1:  Online
+<STRONG> <I>
+<A HREF = "http://www.census.gov/geo/www/tiger/" TARGET="_top">
+Tiger</A>
+</I></STRONG>
+Raster Maps
+<br>
+2:  Online
+<STRONG> <I>
+<A HREF = "http://www.terraserver.com" TARGET="_top">
+Terraserver</A>
+</I></STRONG>
+Raster Maps
+<br>
+3:  Online
+<STRONG> <I>
+<A HREF = "http://www.noaa.gov" TARGET="_top">
+NOAA</A>
+</I></STRONG>
+ Weather Radar Maps
+<br>
+4:  Online GIF/JPG/PNG/etc files (http or ftp links)
+<p>
+
+Downloadable Maps (some of these require additional libraries):
+<br>
+1: <STRONG> <I>
+<A HREF = "http://web.ew.usna.edu/~bruninga/aprs.html" TARGET="_top">
+APRSdos</A>
+</I></STRONG>
+<br>
+2: <STRONG> <I>
+<A HREF = "http://aprs.rutgers.edu/Maps.htm" TARGET="_top">
+WinAPRS/MacAPRS/X-APRS</A>
+</I></STRONG>
+<br>
+3: <STRONG> <I>
+<A HREF = "http://www.ui-view.com" TARGET="_top">
+Ui-View</A>
+</I></STRONG>.  Xastir's scripts directory contains a script that will
+make Ui-View maps usable within Xastir.
+<br>
+4: <STRONG> <I>
+<A HREF = "http://www.pocketaprs.com/mapindex.html" TARGET="_top">
+PocketAPRS</A>
+</I></STRONG>
+, some European maps are
+<STRONG> <I>
+<A HREF = "http://www.homepages.hetnet.nl/~pe1dnn/" TARGET="_top">
+Here</A>
+</I></STRONG>
+<br>
+5:
+<STRONG> <I>
+<A HREF = "http://isl715.nws.noaa.gov/mapdata/newcat/" TARGET="_top">
+NOAA</A>
+</I></STRONG>
+Shapefile maps
+<br>
+6:
+<STRONG> <I>
+<A HREF = "http://www.lib.ncsu.edu/stacks/gis/data.html" TARGET="_top">
+NCSU Libraries GIS Data</A>
+</I></STRONG>
+Shapefile maps
+<br>
+7:  USGS geoTIFF topo maps are available at
+<STRONG> <I>  
+<A HREF = "http://mcmcweb.er.usgs.gov/drg/free_drg.html" TARGET="_top">
+USGS</A>
+</I></STRONG>  
+, at
+<STRONG> <I>  
+<A HREF = "http://www.gisdatadepot.com" TARGET="_top">
+GIS Data Depot</A>
+</I></STRONG>
+(Click on "Free Data")
+, and at
+<STRONG> <I>  
+<A HREF = "http://wagda.lib.washington.edu/data/drgs.html" TARGET="_top">
+WA State DRG's</A>
+</I></STRONG>
+<br>
+8:  Scanned maps (most image formats)
+<br>
+9:
+<STRONG> <I>  
+<A HREF = "http://www.gisdatadepot.com" TARGET="_top">
+GIS Data Depot</A>
+</I></STRONG>
+GeoTIFF topo maps, Shapefiles (Click on "Free Data")
+<br>
+10:  City/County/State GIS Departments (Shapefiles)
+<br>
+11:  Tiger97 map data converted to Shapefiles at
+<STRONG> <I>
+<A HREF="http://mapshots.com/">Mapshots.com</A>
+</I></STRONG>
+<br>
+12: TIGER/Line 2000 map data converted to Shapefiles at
+<STRONG> <I>
+<A HREF="http://www.geographynetwork.com/data/tiger2000/">GeographyNetwork.com</A>
+</I></STRONG>.  This one requires you to register with an e-mail
+adress, but the data is free.
+<p>
+
+
+You'll need a recent version of "wget" installed on your system to
+enable the http/ftp functionality.
+<p>
+
+Xastir can query findu.com for the previous two weeks of posits for a
+particular station.
+<p>
+
+Xastir comes with a script (inf2geo.pl) which converts .INF files to
+.GEO files.  This makes it easier to use maps from other APRS
+programs with Xastir.
+<p>
+
+Another script is available which creates the minimal .fgd files Xastir
+needs for the geoTIFF topo maps.  This script also comes with Xastir.
+This script is only necessary if you can't download the .fgd files along
+with the .tif map files.
+<p>
+
+
+<strong>
+Summary of libraries Xastir can use:
+</strong>
+<br>
+Motif,
+<STRONG> <I>
+<A HREF = "http://www.openmotif.org" TARGET="_top">
+OpenMotif</A>
+</I></STRONG>
+, or
+<STRONG> <I>
+<A HREF = "http://www.lesstif.org" TARGET="_top">
+LessTif</A>
+</I></STRONG>
+: Required : The GUI widget set
+<br>
+pthreads : Required : Threading capability
+<br>
+Xpm : Optional : XPM images.  Not needed if installing ImageMagick.
+<br>
+<STRONG> <I>
+<A HREF = "http://gdal.velocet.ca/projects/shapelib/index.html" TARGET="_top">
+Shapelib</A>
+</I></STRONG>
+: Optional : ESRI Shapefile maps
+<br>
+<STRONG> <I>
+<A HREF = "http://www.imagemagick.org/" TARGET="_top">
+ImageMagick</A>
+</I></STRONG>
+: Optional : Many graphics images
+<br>
+<STRONG> <I>
+<A HREF = "http://www.libtiff.org" TARGET="_top">
+libtiff</A>
+</I></STRONG>
+/
+<STRONG> <I>
+<A HREF = "http://www.remotesensing.org/geotiff/geotiff.html" TARGET="_top">
+libgeotiff</A>
+</I></STRONG>
+/
+<STRONG> <I>
+<A HREF = "http://www.remotesensing.org/proj/" TARGET="_top">
+libproj</A>
+</I></STRONG>
+/
+<STRONG> <I>
+<A HREF = "ftp://ftp.remotesensing.org/pub/proj/proj-nad27-1.1.tar.gz" TARGET="_top">
+datums</A>
+</I></STRONG>
+: Optional : geoTIFF maps (i.e. USGS topos)
+<br>
+<STRONG> <I>
+<A HREF = "http://sourceforge.net/projects/hams/" TARGET="_top">
+AX.25</A>
+</I></STRONG>
+: Optional : Kernel AX.25 networking support
+<br>
+<STRONG> <I>
+<A HREF = "http://www.speech.cs.cmu.edu/festival/" TARGET="_top">
+Festival</A>
+</I></STRONG>
+: Optional : Speaking alerts
+<br>
+<STRONG> <I>
+<A HREF = "ftp://ftp.gnu.org/gnu/wget/" TARGET="_top">
+Wget</A>
+</I></STRONG>
+: Optional : Internet images as maps
+<p>
+
+--------------------------------------------------------------
+<pre>
+Note from Chuck:
+Xastir should be able to compile (and run) on any "recent" Linux (x86) 
+machine as long as the needed libs are available.  Others, eg., *BSD, AIX 
+(Yikes!), Solaris, may (probably) will require some "tweeking."  The biggest 
+hinderance would be a GNU build environment and threading libs (pthread).
+
+Note from WE7U:
+Operating systems that the latest Xastir snapshots work with.
+I still need data on those with question marks (most of them):
+
+  *Linux        ?SuSE 5.x
+                *SuSE 6.4                         WE7U,DK7IN
+                *SuSE 7.1                         WE7U,DK7IN
+                *SuSE 7.2                         N7IPB,WA7QFR,KD7NM,NV0U
+                *SuSE 7.3                         WA7QFR
+                *Red Hat 5.2                      PE1DNN(Note 3)
+                *Red Hat 6.2                      N5JXS
+                *Red Hat 7.0                      N5JXS(Note 2), KC7ZRU
+                *Red Hat 7.1                      N5JXS,KC7ZRU,N2YGK(Note 1),KJ5O(Note 4)
+                *Red Hat 7.2                      N5JXS,KC7ZRU
+                ?Slackware 5.x, 6.x
+                *Slackware 7.0                    PE1ICQ
+		*Slackware 7.1                    WE7U
+		*Slackware 8.0                    PE1ICQ(Note 7)
+                *Debian 2.2r0 (Potato)
+		*Mandrake 7.2                     ZL2BSJ
+                *Mandrake 8.0                     K7MKG,ZL2BSJ
+		*Mandrake 8.1                     ZL2BSJ(Note 6)
+                *Caldera OpenLinux eDesktop v2.4  KG0YJ
+                ?TurboLinux (versions?)
+                ?Others (versions?)
+  *FreeBSD      *4.4-STABLE                       KC2ELS
+  *Mac OS       *Mac OS X                         PE1LIF(Note 5),N2LBT
+  ?NetBSD
+  ?BSD386
+  ?OpenBSD
+  ?SunOS        ?4.x
+  *Solaris      *2.5 (OS 5.5)                     WE7U
+                ?2.6 (OS 5.6)
+                *7                                WE7U,KD6ZWR
+                *8                                KC8OBZ
+  ?AIX
+  ?IRIX
+  ?HPUX
+  ?BeOS
+  ?SCO Unix
+  ?SCO Xenix
+  ?VRTX
+  ?QNX
+  ?Others
+
+
+(*) = Confirmed.
+(?) = May compile/run.  Status currently unknown.
+
+(1) I had to do a
+    ./configure --with-motif-includes=/usr/X11R6/LessTif/Motif1.2/include \ 
+      --with-ax25 --with-xbae-includes=/usr/X11R6/include \
+      --with-motif-libraries=/usr/X11R6/LessTif/Motif1.2/lib
+    on Redhat 7.1.  Seems configure wasn't finding these libraries in the
+    right places on my system for some reason.
+(2) Difficult to get Xastir running on 7.0
+(3) For Linux note that the CVS version does not compile on RedHat 5.2 without
+    changes anymore. Older GCC compilers choke on -march=xxx and -mcpu=xxx.
+    Bypass I use now is delete those flags from the Makefile and src/Makefile
+    after configure.
+    Futhermore I have never seen Imagemagick stuff working on RH5.2. It compiles
+    but crashes and dumps an error when attempting to use it (loading an bitmap
+    map). When loading a bigger image then Imagemagick eats up all memory until
+    it is depleated, after which is terminates the program. Quick fix I use is
+    edit config.h and comment HAVE_IMAGEMAGICK out (I'm sure there is a better
+    way, but this works for me).
+(4) I had to modify maps.c to get it to compile with the latest ImageMagick 
+    libraries.  Also, the stock Lesstif that was installed appeared not to 
+    have the proper printing libraries, and so I uninstalled the Lesstif RPM 
+    and got the tarball; after that it compiles perfectly with ImageMagick, 
+    geoTiff, Festival, and ShapeLib support.
+(5) See "http://homepage.mac.com/opzeeland1/" for mods.
+(6) At the linking stage, the libax25 library isn't mentioned on the command
+    line.  The linking fails because the gcc linker can't resolve a bunch of
+    ax25 functions.  Before you do the 'make', edit src/Makefile. Add (append)
+    to the LIBS line the following:
+        -lXp -lax25
+    to include libXp and libax25 in the linking process.  Do a 'make clean',
+    then 'make'.  Xastir should build.
+(7) Needed to upgrade from libtiff-3.5.5 to libtiff-3.5.7 available at:
+    http://sharon.esrac.ele.tue.nl/pub/slackware/pre-current/contrib/ham/packet/
+    or ftp:// (same address)
+
+----------------------------------------------------------------------------------
+
+Xastir CVS Notes:
+-----------------
+
+Follow the instructions on SourceForge for setting up CVS the first
+time.  After that it gets much easier and a few extra commands might
+help you get around:
+
+Here's how you might update your local copy of the sources from the remote
+server:
+
+  # Update my local copy from the CVS tree
+  cvs -z3 update -d -P
+
+The -z3 makes the CVS server compressing the files before transferring
+them with a gzip level 3. The files are automatically unzipped by your
+CVS client.  Please use always compressed transfer to reduce netload.
+I recommend to create a file ~/.cvsrc which these lines: 
+
+  cvs -z3
+  update -P -d 
+
+The line update -P -d makes CVS purging empty directories (-P) and
+checking out newly added directories on a later update. Once you've
+checked out the code you can easily update it from time to time. Go to
+the newly created directory and type 
+
+  cvs -z3 update 
+
+All information about the repository, login, module and branch is stored
+by CVS in the subdirectories CVS, so that you don't have to care about
+this any more. The password (in this case it's empty) is stored in
+~/.cvspass. You can move the checked out source around, you can even move
+it to another machine without losing the ability to do a CVS update.
+
+Some other commands I defined as aliases in the bash startup files.  Some
+of these will not work for anyone except a developer, as they change the
+CVS repository.  The "cvsstat*" cnd "cvsdiff" cmmands might be quite useful
+to see if any files have been changed or added since your last update:
+
+alias cvsadd='cvs add'
+alias cvsbyedel='cvs release -d'
+alias cvsdelsticky='cvs update -A'
+alias cvsdiff='cvs diff -w -r HEAD'
+alias cvsfiles='ls $CVSROOT'
+alias cvsfindsticky='cvs status -v | grep Sticky | grep -v none'
+alias cvsget='cvs checkout'
+alias cvsgetrelease='cvs checkout -r'
+alias cvslog='cvs log'
+alias cvsroot='echo $CVSROOT'
+alias cvssave='cvs commit'
+alias cvsstat='(cvs status 2>&1) | grep -E "Status: | Examining" | grep -v Up-to-date'
+alias cvsstat2='cvs -n -q update'
+alias cvsstat3='(cvs status 2>&1) | grep -E "Status: | Examining" | grep -v Up-to-date | grep -v Makefile.in'
+alias cvstag='cvs tag'
+alias cvstags='cvs status -v'
+alias cvsupdate='cvs update'
+
+</pre>
+
+<A href="http://sourceforge.net"> <IMG src="http://sourceforge.net/sflogo.php?group_id=45562&type=2" width="125" height="37" border="0" alt="SourceForge Logo"></A>
+
+</BODY>
+</HTML>
+

@@ -1,0 +1,39 @@
+Style 
+
+ 17. Style 
+
+ 17.1
+
+What's the best style for code layout in C?
+
+ 17.3
+Is the code
+" if(!strcmp(s1, s2)) "
+good style?
+ 17.4
+Why do some people write
+ if(0 == x) 
+instead of
+ if(x == 0) ?
+ 17.5
+I came across some code that
+puts
+a (void) cast before
+each
+call to printf .
+
+Why?
+ 17.8
+What is Hungarian Notation''?
+Is it worthwhile?
+ 17.9
+Where can I get the
+``Indian Hill Style Guide''
+and other
+coding standards?
+ 17.10
+Some people say that goto 's are evil
+and that I should never use them.
+Isn't that a bit extreme?
+
+ top

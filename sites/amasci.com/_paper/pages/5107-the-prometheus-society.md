@@ -1,0 +1,651 @@
+---
+title: "THE PROMETHEUS SOCIETY"
+source_domain: amasci.com
+source_path: ~miyaguch/MCReport/mcreport4.html
+order: 5107
+reachable_from_entry: false
+images: 3
+internal_links: 0
+extracted: 2026-08-07T17:12:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# THE PROMETHEUS SOCIETY
+
+*Source page: `~miyaguch/MCReport/mcreport4.html`*
+
+**X. MATHEMATICAL CONCEPTS and METHODS APPENDIX**
+
+**The concepts and methods described here are what we, the members of this committee, have used in one capacity or another in the analyses that we have performed. Some of the methods described here are standard statistical approaches to the kinds of problems we have addressed, but include them for handy reference to the evaluators of our work. Others incorporate more innovative concepts and methodologies that seem worthy of documentation.**
+
+***Bayes Theorem --***
+
+**Bayes theorem is the basis of conditional probability analyses considered in applying Intelligence Filters to assess distributions of the general population when only a restricted population distribution is available. It is simply another way of stating the conditional probability formula:**
+
+**P{x \| y} = P{xy} / P{xy}**
+
+**where P{z} represents the probability that z occurs, P{zy} the probability that z and y occur, and P{z \| y} the probability that z occurs given that y has occurred. The conditional probability formula can be read, "The probability that x will occur, assuming that y is known to have occurred, is equal to the probability that both x and y occur divided by the probability that y occurs." But Bayes theorem pertains to the more general case where there are multiple conditions so that we have:**
+
+**P{x<sub>k</sub> \| y} = P{y \| x<sub>k</sub> } P{ x<sub>k</sub> } / SUM<sub>i</sub>( P{y \| x<sub>i</sub> } P{ x<sub>i</sub>} )**
+
+**where SUM<sub>i</sub>(u<sub>i</sub>) indicates the summation of the products ui over all pertinent conditional assumptions xi.**
+
+**William Feller, the consummate probability theorist, made the comment with regard to Bayes theorem, that: "it is logically acceptable and corresponds to our way of thinking. Plato used it to prove the existence of Atlantis and philosophers used it to prove the absurdity of Newtons mechanics." But it is none-the-less a very useful tool if used correctly. See for example the discussion under Intelligence filters below.**
+
+***Central Limit Theorem --***
+
+**It can be shown that the distribution of the sum of independent variables each characterized by a normal distribution is itself a normal distribution. In fact, this property of preserving the form of the distribution is true of the sum of normally distributed variables whether the variables that are so distributed are independent or not. More remarkable yet is the fact that typically the distribution of the sum of independent random variables, even when they have arbitrary distributions, tends increasingly toward a normal distribution as the number of variables in the sum becomes quite large. This pot pouri of information, together with statements of conditions under which the results can be proven, is what has become known as the Central Limit Theorem. These conditions are usually not testable in practical situations such as in application to the distribution to various categories of intelligence, but it is an empirical fact that a preponderance of random variables encountered in our lives display a distribution which closely approximates the normal. It is therefore reasonable to anticipate that if intelligence were characterized by unique capabilities whose sum is a meaningful measure of overall intelligence, then the distribution of that overall intelligence would be normally distributed and act for all the world like a single random variable.**
+
+**Checking for statistical independence, esp. how correlated variables and (self-)selection biases can affect score distributions -- (Refer to discussions of *Cofactor Analysis* and *Selective Filtering*.)**
+
+***Confidence Interval Determination --***
+
+**A confidence interval is the range of the independent variable over which a probability distribution varies such that it is always within the specified value of its peak. In the maximum likelihood scoring methodology (see description further on), once the peak likelihood score is determined for the individual, the likelihood of his responding as he did is re-evaluated at cognitive abilities above and below the assignment as shown in the diagram in figure X.1 below to determine at what scores the likelihood drops to the designated confidence level below the peak value.**
+
+<span id="Figure X.1Illustration for confidence interval determination"></span><img src="Image149.gif" width="318" height="327" />
+
+**Figure X.1: Illustration for confidence interval determination**
+
+***Equipercentile Equating --***
+
+**"Linear Equating," as this method is sometimes called, is where scores on one test are equated to scores on another by scaling using means and standard deviations. It is effectively equating "normalized" scores. (See definitions.) This relationship is clearly symmetric in that the conversion from test A to test B gives the same answer as the conversion from test B to test A.**
+
+**"Regression," however, is not symmetric because regression of A on B does not generally give the same relationship as regression of B on A (they are the same only if the correlation is 1). For this reason, regression is not used for test equating.**
+
+**Equipercentile equating is frequently used when there are differences in difficulty between different tests. For example, one test may be more difficult than another at high and low scores, but less difficult in the middle. "The equating function is an equipercentile equating function if the distribution of scores on \[test A\] converted to the \[test B\] scale is equal to the distribution of scores on \[test B\] in the population. The equipercentile equating function is developed by identifying scores on \[test A\] that have the same percentile ranks as scores on \[test B\]." \[from p. 35 of Kolen & Brennan\].**
+
+**When scores are discrete:**
+
+**"A tradition exists in educational and psychological measurement to view discrete test scores as being continuous by using percentiles and percentile ranks as defined in many educational and psychological measurement textbooks. ... In this approach, an integer score of 28, for example, is considered to represent scores in the range 27.5 - 28.5. Examinees with a score of 28 are conceived of being uniformly distributed in this range. The percentile rank of a score of 28 is defined as being the percentage of scores *below* 28. However, because only 1/2 of the examinees who score 28 are considered to be below 28, ... the percentile rank of 28 is the percentage of examinees who earned a score of 27 and below, plus 1/2 the percentage of examinees who earned an integer score of 28." \[from p. 37 of Kolen & Brennan\].**
+
+**It is important to note that, in "score pairing," the equipercentile equating technique is being used only on the sub population that took both tests. Thus, an SAT-to-Mega relationship was determined by equipercentile equating for the 220 or so that reported both SAT and Mega scores. We assume that the same general SAT-to-Mega relationship holds for the rest of the 4000 or so who have taken the Mega test. There would be a standard error (i.e., 1/30,000 corresponds to Mega score of 36 +/- something) associated with the size of the sample, etc. This standard error would probably be proportional to the standard deviation of the Mega test (about 9) divided by the square root of the number of people in the sub sample (220).**
+
+**We have spent considerable time discussing the legitimacy of this method and believe the approach itself to be an appropriate method to be used with the Mega and SAT data, even though there are some problems with the distribution patterns. It would be nice if we could insist on admission tests (or a battery of admission tests) which have validity and reliability above some cutoff (say 95%), but we don't believe we will have that luxury. There aren't enough instruments that discriminate or enough candidates that qualify at the 1/30,000 level. We will have to do the best we can with plausibility arguments and accept the fact that this is an imperfect science. The Prometheus Society entrance criteria should be a score above the cutoff on any of the accepted tests (with some of the tests, perhaps, also requiring, in addition, a 99.9% score on a supervised test).**
+
+***Data selection filtering --***
+
+**Data selection filtering addresses the problem that selecting testees at random from the general population could require millions of individual testees to achieve the desired confidence of percentile rankings for norming at the 4-sigma level and higher. This difficulty can largely be circumvented, however, by implementing some form of advanced screening of the testees to augment the random selection process. Of course, to be helpful the characteristics of the screening process must be accurately known. The use of such filtering techniques involves the use of Baye's theorem of conditional probability. See also the discussion of Bayes' Theorem (above) and the relationship of filtering to the resulting distribution of data. The effective filter for high level mental performance test data is derived as follows:**
+
+**Let H(n) be the number of people who scored n on the high level mental performance test and let N be the total number of people who took the test. Then the conditional probability that someone would score n on the test given that they took the test is**
+
+**P(n; take test) = H(n)/N**
+
+**By Bayes Theorem**
+
+**H(n) / N = P(n) \* f(take test; n) / SUMn\[P(n) \* f(take test;n)\] = P(n) \* F(n), where**
+
+**F(n) = f(take test; n) / SUMn\[P(n) \* f(take test;n)\]**
+
+**Note that the denominator on the right side of the last equation is a constant independent of n, so F(n) is just proportional to f(take test; n), i.e. the conditional probability that someone who would score n on the Mega test will take the test. This function is given by**
+
+**F(n) = H(n) / P(n)**
+
+**H(n) is given by the associated norming data for the test; the constant N has been absorbed into F(n), and P(n) is just the probability that someone in the general population would score n on the test, which is (a section of) the normal distribution.**
+
+**P(n) = NORMDIST(n, MEAN = MH, SD = SH, False)**
+
+**(Note: P(n) should actually be the integral of this expression from n-1/2 to n+1/2, but the error introduced by using the above expression is less than 1%).**
+
+**H(n) = Mega(n) is the number of respondents scoring n on the Mega and P(n) is the probability of occurrence of individuals in the general population who could score n on the high level mental performance test (the Mega in this case) if they took the test. F(n), the filter, F(n) times Np, does not have a theoretically-predetermined form. It is merely a best fit to the reality of the situation. Several different forms seem to predict the actual data better in different situations.**
+
+**Figures 9 and 10 in the body of the report plot MegaIQ(n), the actual raw score distribution for the sixth norming rescaled to a uniform standard IQ scale on the abscissa as determined by the fourth norming of the Mega Test. Also plotted in those figures is the hypothesized general distribution that accounts for virtually all of the scores at or above the 4 sigma level. In addition, the filter that selects from the general population to predicted the Mega IQ standard scoring distribution is plotted.**
+
+**In a similar way selection of which students will actually take the SAT involves high levels of filtering as can easily be demonstrated by comparing distributions of a cross section sampling of high school students and data for "college bound" students. The "college prospect" has in itself always resulted in filtering of who takes the SAT -- a rather effective filter actually. For the case of the SAT selective filter shown in figures 18 and 19, the best fit is obtained using the cummulative normal distribution:**
+
+**f(n) = NORMDIST(n, MEAN, SD, True)**
+
+**The MEAN = 1350, SD = 770. In addition in this case there are severe (probably pathological) filtering of the general population at the lower and upper ends of the general population distribution. Virtually no one whose score would be less than 400 ever takes the SAT. This is also the case in the *National High School* *Survey* sample; the reason no doubt being that the associated score corresponds to IQs for which even attendance in high school is virtually impossible. See the table in section 8.3.2 where it is seen that severe retardation applies to this region of the scale. One might suspect a similar pre-filtering at the extreme upper end for which numbers are somewhat under what one would predict if a normal distribution applied at this extreme; perhaps hypersensitivities and mental illness preclude viability in the high school environment.**
+
+**Similar phenomena no doubt occur for the GRE and other tests for which very restrictive subsets of the population have participated. However, we have been unable to find sufficient data to evaluate these**
+
+**situations.**
+
+***Factor analysis --***
+
+**Factor analysis involves calculating all possible correlations among problem responses. This involves many correlations. The number of correlations that have to be computed are:**
+
+**( k \* ( k - 1) ) / 2**
+
+**where k is the number of problems on a test. For convenience, these correlations are presented in a matrix format, called the Correlation Matrix**
+
+**This matrix is triangular. The entries in the bottom left portion are omitted as they are redundant with those in the upper right (the correlation between a and b is the same as the correlation between b and a...). The correlation of a variable with itself, appears in the diagonal entries of the matrix, are all 1.00 and convey no useful information. It is this correlation matrix is what we are trying to understand with factor analysis.**
+
+**Computer programs are currently available which factor elements to obtain a minimum set of "independent" components upon which the measured data all "depend." In a factor analysis, independent factors are assigned to columns in another matrix, with the problems associated with rows in this matrix. The elements in this matrix (that look a lot like correlations) are called "factor loadings." They are an index of the degree of relationship between scores on the specific measure and the "factor." Thus a very high loading (e.g., .85 for say Factor I) indicates that the measure is highly associated with that factor. This is sometimes called "saturation," in which case one we might say that the problem is highly saturated with Factor I because of the high loading.**
+
+**The most difficult aspect of factor analysis may be to find a way to interpret the factors -- to discover what they represent. This can be a rather subjective enterprise -- but it can also be done with considerable objectivity. The tricky part of factor analysis is to apply it to domains where we don't know what to expect and see how many and what kind of factors can be seen to underlay this domain**
+
+**Thurstone uncovered 7 factors when he factor analyzed a set of intellectual measures. This was the first application of this technique, called COMMON factor analysis. Currently active researchers argue about "g" which was "uncovered" in this way.**
+
+***Ferguson's formula --***
+
+**The term is used by HiQ Societies such as Prometheus and Mega (I havent heard the term used anywhere else) to indicate a method of combining test scores on imperfectly correlated tests to obtain a theoretically more accurate score (more accurate because it would be based on more test items). The formula is just the relation**
+
+**VAR(X1+X2) = VAR(X1) + VAR(X2) + 2\*COV(X1,X2)**
+
+**for random variables X1 and X2, or**
+
+**(SD(X1+X2))2 = (SD(X1))2 + (SD(X2))2 + 2\*R(X1,X2)\*SD(X1)\*SD(X2).**
+
+**For n random variables:**
+
+**(SD(X1+X2+...+Xn))2 = (SD(X1))2 + ...+ (SD(Xn))2 + 2\*SUMij\[R(Xi,Xj)\*SD(Xi)\*SD(Xj)\]**
+
+**where SUMij is the sum over all i,j from 1 to n and with i less than j.**
+
+**This equation is discussed in most probability and statistics books, including Statistical Analysis in *Psychology and Education* 3rd ed., by George Ferguson (pages 103-105 are reprinted in *Noesis* \#141. This text is evidently the reason the term "Fergusons formula" is used).**
+
+**The utility of this formula can be shown by the following example. Suppose X1 and X2 are scores on two different IQ tests with correlation .7, mean 100, and standard deviation 16. Then, according to Fergusons formula,**
+
+**SD(X1+X2) = SQRT\[162 + 162 + 2\*.7\*16\*16\] = 29.5**
+
+**Also,**
+
+**MEAN(X1+X2) = MEAN(X1) + MEAN(X2) = 200**
+
+**So X1+X2 has mean 200 and standard deviation 29.5. The-4 sigma level on the combined test is 200+4\*29.5=318=2\*159. Thus an average score of 159 on two tests with .7 correlation would correspond to the 4 sigma level, or to an IQ of 164 on the combined tests. For two tests with .6 correlation, an average score of 157 would correspond to the 4-sigma level.**
+
+**CAUTION. As pointed out in a letter from Grady Towers in *Noesis* \#141, "When you combine test scores you must use the metrics of the tests being used (mean and standard deviation), and not the metrics for the general population." EXAMPLE: For the LAIT and for the Mega, the mean is about 142 and the standard deviation is about 9.5 (According to Grady Towers letter in *Noesis* \#141). The LAIT-Mega inter-test correlation is about .6 (More accurate numbers, anyone?). Then the mean for the LAIT + Mega scores is 284 and the standard deviation is SQRT\[9.5^2 + 9.5^2 + 2\*.6\*9.5\*9.5\] = 17. For both the LAIT and the Mega, the "4-sigma cutoff" is at (164-142)/9.5=2.3 test standard deviations above the test mean. 2.3 standard deviations for the LAIT + Mega is at 2.3\*17=39.1, for a combined score of 284+39=323, or an average score of 161.5. (Its not obvious to me how to simply apply this formula in the case where the two tests have different means and standard deviations, in which case they would have different "4-sigma cutoffs" expressed as number of test standard deviations above the test mean. I havent spent very much time on this problem, though. Maybe someone else on the MC knows how to do this).**
+
+**Advantage of this approach: It can allow high scores from two (or more) tests with ceilings below 4-sigma to be combined in a way that allows 4 sigma individuals to be identified.**
+
+**Disadvantage: If 4 sigma scores on Test A OR Test B qualify one for membership, then in effect the Society is already selecting below the 1/30,000 level (see Grady Towers article on use of multiple tests at Darryl Miyaguchis web site), and this situation is even worse if the qualification criteria are something like "A score of 164 or higher on Test A OR a score of 164 or higher on Test B OR an average score of 161.5 or higher on Tests A and B." -**
+
+***Maximum Likelihood Test Scoring --***
+
+**The Maximum Likelihood Test Scoring method applies specifically when tests are employed whose problems are not all of the same level of difficulty. In the case where a test employs questions which have equivalent difficulty profiles, the results will be equivalent to the traditional scoring approach methodology. The method is based on a maximum likelihood analysis of the test participant's unique set of incorrect answers. An ability rating will be assigned to the individual, which maximizes the likelihood of his obtaining that particular unique allocation of right and wrong answers. A confidence level can also be obtained that corresponds to the arrangement using a similar methodology.**
+
+**Once simplistic scoring methods which do not take into account which problems were missed on a test are abandoned, it is becomes necessary to analyze the specific probabilities of missing a particular (rather than just any) problem on the test as well as the capability of the individual her/himself. This is because it is the expectation that derives from the individual's scores on other problems on the test that contributes to his likelihood of missing the particular problem. What we are trying to assess is the most likely mental ability** C*<sub>j</sub>* **that goes with the individual's particular permutation of right and wrong responses to the questions. This is assessed by analyzing the probability associated with that permutation as follows:**
+
+***N***
+
+***P<sub>k1 ,k2 ,kK</sub>* (*C<sub>j</sub>* ) = ( 1 - *p<sub>k1</sub>*(*C<sub>j</sub>* ) ).( 1 - *p<sub>k2</sub>*(*C<sub>j</sub>* ) ) ... ( 1 - *p<sub>kK</sub>*(*C<sub>j</sub>* ) ) . P { *p<sub>n</sub>* (*C<sub>j</sub>* ) }**
+
+***<sup>n ¹ k1¹ k2¹ kK</sup>***
+
+**where** P<sub>k1 ,k2 ,kK</sub> *(*C<sub>K</sub> *)* **is the probability for an individual of ability** C<sub>K</sub> **missing problems k<sub>1</sub>, k<sub>2</sub>,, k<sub>K</sub>. p<sub>k1</sub>(C<sub>K</sub>) is the probability for an individual of ability C<sub>K</sub> missing problems k<sub>1</sub>. (See figure X.4.) The product of the N probabilities of correctly answering all N problems is indicated by the series product symbol, P {p**<sub>n</sub>**}.**
+
+**We may begin by using *C<sub>K</sub>* to characterize two individuals who each missed *K* total (but unique sets of) problems. A systematic method of trial and error with different values of *C<sub>j</sub>* is used to obtain the correct value of *C<sub>j</sub>* for which *P<sub>k1 ,k2 ,kK</sub>*(*C<sub>j</sub>* ) is maximized for each individual. That value of *C<sub>j</sub>* will be different in the two cases if the problems they missed have different problem difficulty probability distributions. To understand these**
+
+<span id="Figure X.2Difficulty Profile, pk (CK), for problem 11 on the Mega"></span><img src="Image150.gif" width="621" height="394" />
+
+**Figure X.2: Difficulty Profile, pk (CK), for problem \#11 on the Mega**
+
+** **
+
+**differences, consider the ratio of the initial probabilities *P<sub>k1</sub>*(*C<sub>K</sub>*) and *P<sub>k2</sub>*(*C<sub>K</sub>*) for the two individuals:**
+
+***P<sub>k1</sub>*(*C<sub>K</sub>*) / *P<sub>k2</sub>*(*C<sub>K</sub>*) = { ( 1 - *p<sub>k1</sub>*(*C<sub>K</sub>* ) ). *p<sub>k2</sub>*(*C<sub>K</sub>* ) } / { *p<sub>k1</sub>*(*C<sub>K</sub>* ).( 1 - *p<sub>k2</sub>*(*C<sub>K</sub>* ) }**
+
+**Clearly, these probabilities are only equal if:**
+
+***p<sub>k1</sub>*(*C<sub>K</sub>* ) = *p<sub>k2</sub>*(*C<sub>K</sub>* )**
+
+**or both**
+
+**( 1 - *p<sub>k1</sub>*(*C<sub>K</sub>* ) ) = *p<sub>k1</sub>*(*C<sub>K</sub>* )**
+
+**and**
+
+**( 1 - *p<sub>k2</sub>*(*C<sub>K</sub>* ) ) = *p<sub>k2</sub>*(*C<sub>K</sub>* )**
+
+**The first of these conditions corresponds to an ideal test for which any two problems have an identical scoring profile. This will rarely be realized -- certainly not on the Mega. The second condition corresponds to an even more stringent instance of the first where the probabilities of success and failure happen to both be precisely equal.**
+
+**Maximum Likeihood scoring is illustrated in figures 4&5 in the body of this report.**
+
+***Non-normal distribution handling --***
+
+**The handling of non-normal distributions requires abandonment of use of standard deviation as a metric if the departure from normality is more than trivial. Although non-normal distributions generally have a standard deviation, it is not easy to interpret that standard deviation in terms of percentiles or rarity.**
+
+***Point estimation, maximum likelihood estimation --***
+
+**(See discussion of Maximum Likelihood Test Scoring.)**
+
+***Tests of significance --***
+
+**The statistical procedure (could be a z-, t-test, or another test) applied to assess the probability that the observed effect (i.e.; difference in scores) is not merely due to chance. The alpha level is typically set to .05, in which case significance of the observed effect means that the chances are 95% that the effect is real.**
+
+** **
+
+** **
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="XI. MEMBERSHIP COMMITTEE RESUME DATA"></span>**XI. MEMBERSHIP COMMITTEE RESUME DATA**
+
+** **
+
+**FRED BRITTON**
+
+**FORMAL EDUCATION:**
+
+**B.A. in psychology and philosophy (U. of Waterloo). Two years of graduate school in psychology (University of Illinois), specializing in the area of personality. Three courses in statistics, two undergrad, one graduate. One graduate level course in the theory of psychometrics. Was a research assistant to R. B. Cattell in the '67 to '68 academic year. First came into contact with the technique of factor analysis at that time. Cattell's personality theory was essentially built on factor analysis. Also became familiar with Cattell's theory of fluid and crystallized intelligence at that time.**
+
+**VOCATION:**
+
+**I have played poker and engaged in other forms of gambling at which one can get an edge, such as speculative markets. I am currently engaged in several gambling-related programming projects, written in the C language. My long-term ambition is to create a poker program that is to poker what Deep Blue is to chess. I plan to call it Deep Pockets :-)**
+
+**So as not to be too narrowly focused, I am also learning the winemaking business. Seems like it would be a nice retirement business.**
+
+**AVOCATION:**
+
+**Have maintained an interest in psychology over the years, including an interest in the special areas of intelligence and psychometrics. Have also maintained an interest in the area of the practical application of statistics and probability theory.**
+
+**Reading: Have read Jensen's Bias in Mental Tests and The g Factor. Have read Chris Brand's The g Factor, Brodie's Intelligence, and various other authors' works on intelligence or testing.**
+
+**PUBLICATIONS:**
+
+**Coauthor of a book on searching for and identifying roulette wheels with number biases, The Biased Wheel Handbook. My coauthor wrote most of the text, based on our joint ideas. I did all the mathematical tables, formulas, proofs, etc. as well as set up the statistical analysis.**
+
+**ROBERT DICK**
+
+**FORMAL EDUCATION:**
+
+**BS in Electrical Engineering, MS and PhD in Electrical Engineering, Information Theory. Assisted teaching a course in probability, took three courses in random processes, in one of which I got an A+, took a course in decision and estimation theory.**
+
+**VOCATION:**
+
+**Worked with the Singular Value Decomposition (SVD) for five years, which is the "signal processing" version of factor analysis.**
+
+**AVOCATION:**
+
+**Biases: The more g loaded is a test the more I like it, both as an experience and as an instrument for selection for Prometheus. Want a "culture fair" way of getting people into Prometheus. Want less emphasis on math and puzzle solving for admission, i.e. want tests to be more "woman-friendly". Want less drudgery than the Mega Test imposes.**
+
+**PUBLICATIONS:**
+
+**Numerous contributions to High IQ journals**
+
+**GUY FOGLEMAN**
+
+**FORMAL EDUCATION:**
+
+**B.S., M.S., Ph.D. in Physics, M.A. in Math. Currently half way through an M.A. in Philosophy. About twelve years ago I toyed with the idea of becoming an actuary. I studied for and passed the probability & statistics actuarial exams, but haven't used those skills since.**
+
+**VOCATION:**
+
+**Manager of aerospace R&D projects for the last eleven years.**
+
+**AVOCATION:**
+
+**I became interested in intelligence (definitions, distributions, etc.) after taking the LAIT nineteen years ago. Recently I read most of Jensen's The g Factor. I just bought Eysenck's Intelligence: A New Look, but haven't read it yet. I've spent some time playing around with the Mega test data published at Darryl Miyaguchi's site.**
+
+**BIAS: It will not be possible to find a way to test at the 1/30,000 level such that the test is 1) Reliable, 2) Practical to implement, and 3) Immune from cheating. But it will be interesting to see how close we can come!**
+
+**PUBLICATIONS:**
+
+**I've published a dozen papers in the peer-reviewed scientific literature on various topics including theoretical elementary particle physics, early meteorite impacts as they relate to the origin of life, dust storms on Venus, and "sense of presence" in virtual environments. Nothing immediately relevant to the charter of the MC.**
+
+**GREG GROVE**
+
+**FORMAL EDUCATION:**
+
+**Two degrees in music plus California Teacher Credential from San Jose State University.**
+
+**PhD. in Education with emphasis on Educational Psychology**
+
+**VOCATION:**
+
+**Teacher, School Principle, Professor of Music for seven years. Currently school Principle.**
+
+**AVOCATION:**
+
+**Triple Nine Society Psychometrician**
+
+**PUBLICATIONS:**
+
+**College level text in Music Appreciation, works of poetry, a few of his school entrance tests are being used across the country**
+
+**GINA LOSASSO**
+
+**FORMAL EDUCATION:**
+
+**M.A. Clinical Psychology (1997); Ph.D. Clinical Psychology in progress (ABD); Major Track: Neuropsychology; Minor Track: Biopsychology**
+
+**VOCATION:**
+
+**Clinical Psychologist; Currently on Internship: Major Rotation: Neuropsychology; Minor: Consultation-Liason Psychiatry. Most of my assessment experience has been with head-injured, psychiatric, or medical populations.**
+
+**AVOCATION:**
+
+**Ongoing research over past 5 years. Principal Investigator on two grant-supported projects. Research assistant on two other projects. Have done a lot of reading on intelligence and creativity.**
+
+**PUBLICATIONS:**
+
+**Numerous articles for chess journals, primarily Chess Life, and Chess Mate. The only publications that have to do with assessment is a paper on assessing neurotoxicity (in review), and the following:**
+
+**LoSasso, G.L., Rapport, L.J., Axelrod, B.N., & Reeder, K. (1998). Intermanual and alternate-form equivalence on the trail making tests. Journal of Clinical and Experimental Neuropsychology, Vol. 20, No. 1, pp. 107-110. (Has to do with assessment and handedness.)**
+
+**BILL McGAUGH**
+
+**FORMAL EDUCATION:**
+
+**I have a Bachelor's in Psychology from UCLA, a Master's in Educational Psychology from the University of California, Riverside, and have a couple of years of course work toward a Ph.D. in Ed.Psych, specializing in psychometrics...I have had about a dozen Ph.D. level courses in Statistics, including courses in Psychological Testing, Factor Analysis, etc..**
+
+**VOCATION:**
+
+**I am a Mathematics/Computer Science teacher at the moment (and have teaching credentials in Physics, Chemistry, Biology, Social Sciences, and Physical Education)**
+
+**AVOCATION:**
+
+**One of my problems with Memcom participation has been that I keep falling into a "paralysis by analysis" mode...I have spent a lot of time playing with many different statistical techniques, exploring ideas that are fun, but end up not being useful. I decided I needed to get over that.**
+
+**PUBLICATIONS:**
+
+**DARRYL MIYAGUCHI**
+
+**FORMAL EDUCATION:**
+
+**BS, MS in electrical engineering; no classes in psychology or statistics.**
+
+**VOCATION:**
+
+**15 years at a large engineering firm; current assignment requires some knowledge of basic statistics; competent in C programming; know my way around Excel.**
+
+**AVOCATION:**
+
+**Familiar with and have in my possession all 6 Mega Test normings. Understand the mechanics underlying and am able to reproduce Grady Towers' norming of the Mega Test. Can describe (but not reproduce) Keith Raniere's norming of the Mega Test.**
+
+**Books read: The g Factor, The Bell Curve, How to Think About Statistics. (I know it's not very much!) Would like to get around to reading Gulliksen's Theory of Mental Tests, Jensen's Bias in Mental Testing, Hambleton's introductory text on Item Response Theory, and Arpad Elo's book on chess ratings.**
+
+**PUBLICATIONS:**
+
+**Maintains the primary Internet "Grand Central" for the High IQ community at his Uncommonly Difficult I.Q. Tests website: \<http://www.eskimo.com/~miyaguch/\>. Much of the raw data used in the analyses of this report are also available at this site.**
+
+**FREDRIK ULLÉN**
+
+**FORMAL EDUCATION:**
+
+**(i) Scientific education**\
+ 
+
+**PhD, Faculty of Medicine, 1996, Dept. of Neuroscience, Karolinska Institutet, Stockholm, Sweden (thesis: Neural correlates of the visual control of spatial orientation and locomotion)**
+
+**Bachelor of Medicine, 1987 (Karolinska Institutet, Stockholm)**
+
+**(ii) Musical education**\
+ 
+
+**Piano studies with prof. Gunnar Hallhagen (Stockholm) 1983-1986**
+
+**Piano studies at the Royal College of Music, Stockholm 1986-1990**
+
+**Master of Perfoming Arts (Royal College of Music, Stockholm), 1990**
+
+**Post-graduate studies in Colone and Freiburg (Germany), 1992 (funded by Swedish Academy of Music)**
+
+**Attended around 8 international master-classes 1986-1992**
+
+**Studies in harmony, counterpoint and organ with dome organist Gunnar Nordenfors 1978- 1983**
+
+**Cantor (Uppsala, 1983)**
+
+**VOCATION:**
+
+**(i) Current position**\
+ 
+
+**Currently post-doctoral fellow at Karolinska Institutet (Dept of Neuroscience) and the Royal Institute for Technology (Dept for Numerical Analysis and Computer Science)**
+
+**(Project: Modelling of neural mechanisms for postural control and spatial orientation)**
+
+**Free-lance pianist: performs extensively as soloist & chamber musician in Europe, including participation in ca 10 different international music festivals; tour organized by Swedish National Concert Institute, 1997**
+
+**(ii) Pedagogical activities - science**\
+ 
+
+**Lectured in undergraduate courses at Karolinska Institutet and Royal Institute for Technology: The Nervous System (medical education), Neurophysiology \[(a) physical training masters; (b) preventive medicine; (c) external course\], Artificial Neural Networks Organizer and lecturer within the Summer Academy in Biomusicology (graduate student course, Inst. for Biomusicology & KI)**
+
+**(iii) Pedagogical activities - music**\
+ 
+
+**Invited seminars/master-classes at the Sibelius Academy, Helsinki, Finland; Franz Liszt Academy, Budapest, Hungary; Royal Academy of Music, Stockholm, Sweden; College of Music in Malmö, Sweden; College of Music, Trondheim, Norway; College of Music, Jyvaskyla, Finland**
+
+**(iv) Other (music) Cantor, Västerås-Barkarö church, Västerås, 1984-1990**
+
+**AVOCATION (relevant):**
+
+**Read Jensen, The g factor; Eysenck, Genius; Gardner, Extraordinary Personalities; Gardner, Frames of Mind**
+
+**PUBLICATIONS:**
+
+**(i) Science**\
+ 
+
+**11 original articles published in neuroscientific and physiological journals ca 20 conference reports (abstracts) active participation in ca 15 international scientific conferences**
+
+**(ii) Music**\
+ 
+
+**ca 20 pieces recorded for the Swedish National Radio (studio) live recordings for Swedish National Radio, Hungarian National Radio, Estonian National Radio**
+
+**2 solo CDs (BIS Gramophone)**
+
+**participation (single tracks) on 2 other CDs (Caprice, Queen Sonja Music Competition)**
+
+**AWARDS (etc):**\
+ 
+
+**Diapason d'or (BIS CD-783)**
+
+**CHOC de Le Monde de la Musique (BIS CD-783)**
+
+**Disc of the Week (The Guardian) (BIS CD-783)**
+
+**BIS CD-783 was also nominated among best 5 five CDs 1996 by three independent**
+
+**international reviewers**
+
+**Working Scholarship, Swedish Academy of Music, 1997**
+
+**Working Scholarship, Swedish Artistic Council, 1998**
+
+**numerous smaller stipends in music and science**
+
+**FRED VAUGHAN**
+
+**FORMAL EDUCATION:**
+
+**BS in physics with course credits enough for a BS in math as well. Some graduate study in physics. Probability and statistics courses. Attended seminars where related topics were being taught via crash course techniques as a part of vocation.**
+
+**VOCATION:**
+
+**An aerospace engineer for over thirty years with most of that time spent in electronics research. I have studied, designed and implemented tracking filters and spent some time (and budget) looking into the duality of the track-estimation/sensor-tasking-control problem which is quite related to what we have to analyze. I have also coordinated activities for highly technical teams.**
+
+**AVOCATION:**
+
+**Mostly my interests are in physics. My interest in intelligence distributions began after I joined the high IQ groups. I've read Gould, Dennet's Consciousness Explained, some hype on giftedness, Descartes, and William James's Psychology. Gelb's Applied Optimal Estimation is a good book, Fuller on probability and statistics.**
+
+**PUBLICATIONS:**
+
+**I have written numerous technical papers and articles that have appeared in journals and conference proceedings of the IEEE, ACM, and AAS and have received the Outstanding Paper award from the IEEE Computer Society. The papers ranged in topic and scope; a couple were intimately involved with conditional probability analyses of resource contention and reliabilities of complex systems. I also have three patents on computer systems.**
+
+**HEDLEY ST. JOHN-WILSON**
+
+**FORMAL EDUCATION:**
+
+**BA Hons University of Durham**
+
+**Erasmus University of Paris**
+
+**VOCATION:**
+
+**Previous work in media & technology, and television documentaries. I am currently a student. AVOCATION:**
+
+**Familiar with work by Eysenck, Jensen, Howe, Sternberg, Brand, Hendrickson, Simon, Haier, Vernon, Thorndike and other researchers.**
+
+**I am interested in the development of fluid intelligence and the development of the many forms of crystallized intelligence such as musical, mathematical, linguistic, artistic etc..**
+
+**PUBLICATIONS: Several *Gift of Fire* Articles**
+
+------------------------------------------------------------------------
+
+**THIS PAGE INTENTIONALLY LEFT BLANK**
+
+------------------------------------------------------------------------
+
+** **
+
+<span id="XII. REFERENCES"></span>**XII. REFERENCES**
+
+** **
+
+<span id="Books:"></span>**Books:**
+
+1.  **Anastasi, Anne, *Psychological Testing* 3rd ed. 1968. 78-86.**
+2.  **Ashenfelter, *Cracks in the Bell Curve*, Twentieth Century Fund Press, 1998**
+3.  **Benbow, Camilla P. (Editor) and Stanley, Julian C., *Intellectual Talent: Psychometric and Social Issues*, Johns Hopkins Univ Pr; ISBN: 080185301X, 1997**
+4.  **Brand, Chris, *The g Factor*, For a PHOTOCOPY of the book (temporarily out of print), send stlg30 and a label bearing your address to: Chris Brand; 71, South Clerk Street; Edinburgh EH8 9PP; UK or email cbrand@cycad.com., now being offered re-publication by a well-known academic publisher of psychological works in the USA.**
+5.  **Crocker, Linda M. and Algina, James, *Introduction to Classical and Modern Test Theory*, Holt Rinehart & Winston; ISBN: 0030616344, 1986**
+6.  **Delaney, E., & Hopkins, T., *Stanford-Binet Intelligence Scale examiner's handbook: An expanded guide for fourth edition users*. Chicago: The Riverside Publishing Company, 1987**
+7.  **Devlin, Bernie, *Intelligence, Genes, and Success: Scientists Respond to the Bell Curve (Statistics for Social Science and Public Policy)*, Springer Verlag, 1998**
+8.  **Eysenck, Hans, *Intelligence: A New Look*, published Aug. 1998**
+9.  **Eysenck, Hans and Michael, *Mind Watching*, Multimedia books Limited, 1994**
+10. **Feller, William, *An Introduction to Probability Theory and Its Applications*, Vol. I, 2<sup>nd</sup> Ed., Wiley, 1962**
+11. **Fischer, Claude S.; Hout, Michael; Jankowski, Martin Sanchez; Ann Swidler (Contributor), Samuel R. Lucas (Contributor), *Inequality by Design : Cracking the Bell Curve Myth*, Princeton University Press, 1996**
+12. **Fischer, Gerard H. and Molenaar, Ivo W., *Rasch Models: Foundations, Recent Developments, and Applications*, Springer Verlag; ISBN: 0387944990, 1995**
+13. **Fraser, Steve, *The Bell Curve Wars: Race, Intelligence, and the Future of America*, Basic Books, 1995**
+14. **Gardner, Martin and Ravielli, Anthony, *Entertaining Mathematical Puzzles*, Dover, ISBN: 0486252116 (November 1986)**
+15. **Gardner, Martin and Sinclair, Jeff (Illustrator), *Classic Brainteasers*, Sterling Publications; ISBN: 0806912618 (October 1995)**
+16. **Heaton, Robert K., Grant, Igor, & Mathews, Charles G*., Comprehensive Norms for an Expanded Halstead-Reitan Battery*, Odessa, Florida: Psychological Assessment Resources, Inc., 1991**
+17. **Heaton, Robert. K., *A supplement for the Wechsler Adult Intelligence Scale-Revised*. (supplement to preceding document),1991**
+18. **Herrnstein, Richard J.and Murray, Charles, *The Bell Curve*, Intelligence and Class Structure in American Life, by Herrnstein and Murray, New York: Free Press (ISBN 0-684-82429-9), 1994**
+19. **Holland, Paul and Rubin, Donald, Editors, *Test Equating, a collection of papers*, Academic Press, 1982. Editors are with ETS.**
+20. **Jacoby, Russell; Glauberman, Naomi, *The Bell Curve Debate; History, Documents, Opinions*, Times Books, 1995**
+21. **Janda, Louis H., *Psychological Testing. Theory, and Applications*, Allyn & Bacon; ISBN: 0205194346, 1998**
+22. **Kincheloe, Joe L., *Measured Lies: The Bell Curve Examined*, Reprint edition, St.Martin's Press, 1997**
+23. **Kline, Paul, *The* *New Psychometrics: Science, Psychology, and Measurement*, Routledge; ISBN: 0415187516, 1998**
+24. **Kline, Paul, *The Handbook of Psychological Testing*, Routledge; ISBN: 0415054818, 1993**
+25. **Kolen, Michael and Brennan, Robert, *Test Equating: Methods and Practices*, Springer, 1995**
+26. **Kuder, G.F., & Richardson, M.W., *The theory of estimation of test reliability*, Psychometika, 2, 151-160, 1937**
+27. **Murphy, Kevin R. and Davidshofer, Charles O., *Psychological Testing: Principles and Applications*, 4<sup>th</sup> edition, Prentice Hall; ISBN: 0132638150, 1997**
+28. **Nunnally, Jum C. and Bernstein, Ira H., *Psychometrics Theory*, McGraw-Hill Series in Social Psychology, 1994**
+29. **Olkin, I.; Gleser, L. J.; Derman, C., *Probability Models and Applications*, 1980.**
+30. **Raven, J.C., Court, J.H., & Raven, J*., Manual for Raven's Progressive Matrices and Vocabulary Scales* (Section 4), London: H.K. Lewis, 1988**
+31. **Sattler, Jerome M., *Assessment of Children*, Rev. and updated 3rd ed., San Diego: J.M. Sattler, 1992**
+32. **Spreen, Otfried, *A Compendium of Neuropsychological Tests: administration norms, and commentary*, 2nd Edition, New York : Oxford University Press, 1998**
+33. **Van Der Linden, Wim J., (Editor), *The Handbook of Modern Item Response Theory*, Springer Verlag, ISBN: 0387946616, 1996**
+34. ***10 SATs*, 3rd Edition, 1988, The College Board**
+35. ***National Longitudinal Survey of Youth*, Center for Human Resource Research, Ohio State University, CD ROM disc available for nominal fee**
+
+<span id="Articles:"></span>**Articles:**
+
+1.  **Aax, Alan, "High IQ Testing", *Gift of Fire* (the journal of the Prometheus Society), Issue 82, 5 - 8, February 1997**
+2.  **Anastasir, Anne, "Review of the Stanjord-Biet Intelligence Scale, Fourth Edition*", The Seventh Mental Measurements Yearbook*, CTB/McGraw-Hill, 342, 1963**
+3.  **Bors, A., Douglas and Stokes, Tonya L. (University of Toronto at Scarborough), "Raven's Advanced Progressive Matrices: Norms for first-year university students and the development of a short form", *Educational and Psychological Measurement*, Vol. 58 No. 3, 382-398, June 1998**
+4.  **Britton, Fred, "Iintelligence and IQ", *Gift of Fire* (the journal of the Prometheus Society), Issue 94, 18 - 19, March 1998**
+5.  **Britton, Fred, "Is There a Physical Substrate to Intelligence", *Gift of Fire* (the journal of the Prometheus Society), Issue 83, 15 - 20, March, 1997**
+6.  **Britton, Fred, "Comment on Intelligence", *Gift of Fire* (the journal of the Prometheus Society), Issue 92, 18, January 1998**
+7.  **Carlson, Roger D., Ph.D., "The Mega Test", *Test Critiques*, Volume VIII, Daniel J. Keyser, Ph.D., Richard C. Sweetland, Ph.D., General Editors, 1991, ISBN 0-89079-254-2, pp. 431-435**
+8.  **Colgate, Michael D., "P's and Q's of Intelligence", *Gift of Fire* (the journal of the Prometheus Society), Issue 97, 7, July 1998**
+9.  **Cureton, Edward E. and Scott, Thomas B., "Equivalent Scores for the Graduate Record Verbal and Miller Analogies Tets", *Educational and Psychological Measurement*, Vol. 27, 611-615, 1967**
+10. **Deary, I. J., Egan, V., Gibson, G. J. , Austin, E., Brand, C. R. & Kellaghan, T. , "Intelligence and the differentiation hypothesis," *Intelligence*, 23, 105-132, 1996**
+11. **Dick, Robert, "What is Intelligence", *Gift of Fire* (the journal of the Prometheus Society), Issue 82, 16 - 19, February 1997**
+12. **Dick, Robert, "Elo and IQ", *Gift of Fire* (the journal of the Prometheus Society), Issue 94, 17, March 1998**
+13. **Fallows, James, "The Tests and the Brightest", *Atlantic Monthly*, February 1980. (Available at: http://www.http://www.theatlantic.com/atlantic/issues/95sep/ets/fall.htm)**
+14. **Fan, Xitao "Item Response Theory and Classical Test Theory: An empirical comparison of their item/person statistics", *Educational and Psychological Measurement*, Vol. 58 No. 3, June 1998 357-381).**
+15. **Fogleman, Guy, "An Amateur Statistical Analysis of a Hi-IQ Society Membership Trend", *Gift of Fire* (the journal of the Prometheus Society), Issue 97, 16 - 17, July 1998**
+16. **Fogleman, Guy, "EloIQ System = Rasch Model", *Gift of Fire* (the journal of the Prometheus Society), Issue 100, 8, October 1998**
+17. **Grove, Greg, "IQ/Percentile Ready Reckoner," *VIDYA* (the journal of the Triple nine Society), Issue 177, 19 - 21, July/August 1998**
+18. **Haier, R.J., Siegel, B.V. et al. "Cortical Glucose Metabolic Rate Correlates of Abstract Reasoning and Attention Studied with Positron Emission Tomography", *Intelligence*, 12, 199-217, 1988**
+19. **Haier, R.J., "The End of Intelligence Research", *Intelligence*, 14, 371-374, 1990**
+20. **Haier, R.J., "Positron Emission Tomography and Cognition", *Blackwell's Dictionary of Cognitive Psychology*, M. Eysenck (Ed), Basil Backwell, 1990**
+21. **Haier, R.J., Siegel, B.V., MacLachlan A., Soderling E., Lottenberg S., & Buchsbaum M.S., "Regional Glucose Metabolic Changes After Learning a Complex Visuospatial/Motor Task: A PET Study", *Brain Research*, 570, 134-143, 1992a**
+22. **Haier, R.J., Siegel, B.V., Tang, C., Abel, L., & Buchsbaum, M.S., "Intelligence and Changes in Regional Cerebral Glucose Metabolic Rate Following Learning", *Intelligence*, 16, 415-426, 1992b.**
+23. **Haier, R.J., "Cerebral Glucose Metabolism and Intelligence", *Biological Approaches to the Study of Human Intelligence*, Edited by Philip A. Vernon, Ablex Publishing, New Jersey, 1993**
+24. **Haier, R.J., Seigel, B., Crinnella F., & Buchsbaum, M.S., "Biological & Psychometric Intelligence: Testing an Animal Model In Humans With Positron Emission Tomography*", New Trends in Intelligence Research*, Edited by D. Detterman, Ablex Publishing, 1993**
+25. **Harbeck, James, "Questions Concerning the Membership Committee", *Gift of Fire* (the journal of the Prometheus Society), Issue 83, 8, March 1997**
+26. **Hendrickson, D.E. & Hendrickson, A.E., "The biological basis of intelligence", In Eysenck, H.J. (Ed.), *A Model for Intelligence*, New York, Springer-Verlag, 1982**
+27. **Hvatum, Kjeld, "Letter to Ron Hoeflin" and Ron's response, *In-Genius* (the journal of the Top One Percent Society), \# 15, August 1990**
+28. **Jensen, Arthur R., "The g Factor", *Gift of Fire* (the journal of the Prometheus Society), Issue 94, 21, March 1998**
+29. **Johnson, Don, "Intelligence Testing and the Ego", *Gift of Fire* (the journal of the Prometheus Society), Issue 100, 10 - 11, October 1998**
+30. **Langdon, Kevin and Seaborg, David, "Sex Differences in the Distribution of Mental Ability", *Gift of Fire* (the journal of the Prometheus Society), Issue 97, 19 - 22, July 1998**
+31. **Langdon, Kevin, "Mensa Tests and Other Standard Tests", *Gift of Fire* (the journal of the Prometheus Society), Issue 81, 20 - 21, January 1997**
+32. **Langdon, Kevin, "Reply to Paul Maxim on the Norming of the Mega Test", *Gift of Fire* (the journal of the Prometheus Society), Issue 100, 12 - 13, October 1998**
+33. **Langdon, Kevin, "Admission Standards", *Gift of Fire* (the journal of the Prometheus Society), Issue 99, 7, September 1998**
+34. **Langdon, Kevin, "Admission Tests", *Gift of Fire* (the journal of the Prometheus Society), Issue 98, 27 - 28, August 1998**
+35. **Larson, G., Haier, R.J., Lacasse, L., & Hazen, K., "Evaluation of a 'Mental Effort' Hypothesis for Correlations Between Cortical Metabolism and Intelligence", *Intelligence*, 21(3), 1996**
+36. **Lemann, Nicholas, "The Great Sorting", *Atlantic Monthly*, Sept. 1995 (by an ETS official who has worked on the SAT).**
+37. **Levy, Stephen, "ETS and the Coaching Cover-up," *New Jersey Monthly*, March 1979 issue.**
+38. **Low, Robert, "What is Intelligence...isn't...is too!" *Gift of Fire* (the journal of the Prometheus Society), Issue 82, 21 - 23, February 1997**
+39. **Low, Robert, "What is this thing called 'g' or Gee, what is this thing called?" *Gift of Fire* (the journal of the Prometheus Society), Issue 80, 13, November 1996**
+40. **Maxim, Paul, "Renorming Ron Hoeflin's Mega Test", *Gift of Fire* (the journal of the Prometheus Society), Issue 79, 8 - 12, October 1996**
+41. **McGaugh, Bill, "(Bill we need a title)", *Gift of Fire* (the journal of the Prometheus Society), Issue 102, January 1999**
+42. **McGaugh, Bill, "Improving Mental Performance", *Gift of Fire* (the journal of the Prometheus Society), Issue 91, 35 - 39, December 1997**
+43. **McGaugh, Bill, "IQ 400, Sequences, Information Processing, and Meta-Abstraction", *Gift of Fire* (the journal of the Prometheus Society), Issue 92, 11 - 14, January 1998**
+44. **McGaugh, Bill, "A Reply to Ron Penner's 'On Speed and Mental Testing'", *Gift of Fire* (the journal of the Prometheus Society), Issue 92, 16 - 18, January 1998**
+45. **McGaugh, Bill, "The Elo System and Mental Performance", *Gift of Fire* (the journal of the Prometheus Society), Issue 93, 13 - 14, February 1998**
+46. **McGaugh, Bill, "An Elo-Based Intelligence Scale", *Gift of Fire* (the journal of the Prometheus Society), Issue 97, 10 - 13, July 1998**
+47. **Messick, S. & Jungblut, A. "Time and method in coaching for the SAT." *Psychological Bulletin*, Vol. 89. 1981.**
+48. **Penner, Ron, "On Speed and Mental Testing", Gift of Fire (the journal of the Prometheus Society), Issue 92, 15 - 16, January 1998**
+49. **Penner, Ron, "Untitled Discussion of Iintelligence", Gift of Fire (the journal of the Prometheus Society), Issue 97, 8, July 1998**
+50. **Penner, Ron, "Gee, Maybe There's More to 'g'", Gift of Fire (the journal of the Prometheus Society), Issue 82, 24 - 25, February 1997**
+51. **Roscoe, David, "Group IQ Tests", Gift of Fire (the journal of the Prometheus Society), Issue 81, 21 - 23, January 1997**
+52. **Scott, Greg, "For Acceptance of Mensa Supervised Tests", Gift of Fire (the journal of the Prometheus Society), Issue 99, 18 - 10, September 1998**
+53. **Slater, David H., "Some Thoughts on Super High IQ Society Admission Procedures", Gift of Fire (the journal of the Prometheus Society), Issue 100, 14 - 16, October 1998**
+54. **Spruill, Jean, "Review of the Wechsler", Test Critiques, (ISBN 0-9611286-6-6(v.1), 1984**
+55. **Sullivan, Elizabeth T., Clark, Willis W., and Tiegs, Ernest W., "California Test of Mental Maturity, 1963 Revision", The Seventh Mental Measurements Yearbook, CTB/McGraw-Hill, 338, 1963**
+56. **Sullivan, Elizabeth T., Clark, Willis W., and Tiegs, Ernest W., "California Short-Form Test of Mental Maturity, 1963 Revision", The Seventh Mental Measurements Yearbook, CTB/McGraw-Hill, 337, 1963**
+57. **Towers, Grady, "A Norming of the Mega Test," In-Genius (the journal of the Top One Percent Society), \# 25, January 1991**
+58. **Towers, Grady "Letters to Kevin Langdon", Noesis (the journal of the Mega Society), 131 (Special Issue on Psychometric Issues), 11,September 1998**
+59. **Ullen, Fredrik, "The Multiple Biological Correlates of g", Gift of Fire (the journal of the Prometheus Society), Issue 100, 9, Ocyober 1998**
+60. **Vaughan, Russell F., "Intelligence Filters," Gift of Fire (the journal of the Prometheus Society), Issue 79, 13 - 17, October 1996.**
+61. **Vaughan, Fred, "The Membership Committee and Its Charter", Gift of Fire, Issue 100, 6, October 1998**
+62. **Vaughan, Fred, "Discussion of the Central Limit Theorem as Applied Specifically to Overall Intelligence", Gift of Fire (the journal of the Prometheus Society), Issue 82, 19 - 20, February 1997**
+63. **Vaughan, Fred, "Assessing Assessment of Mental Performance", Gift of Fire (the journal of the Prometheus Society), Issue 92, 19 - 22, January 1998**
+64. **Vaughan, Russell F., "Maximum likelihood Scoring," Gift of Fire (the journal of the Prometheus Society), Issue 102, January 1999.**
+65. **St. John-Wilson, Hedley, "The Scientific Evidence Behind 'General Intelligence' Tests", Gift of Fire (the journal of the Prometheus Society), Issue 95, 18 - 26, January 1998**
+66. **St. John-Wilson, Hedley, "On the Development of "IQ" Tests with Elo-Based Scoring", Gift of Fire (the journal of the Prometheus Society), Issue 97, 13, July 1998**
+67. **Wright, Benjamin and Panchapakesan, Nargis, "A Procedure for Sample-Free Item Analysis," Educational and Psychological Measurements, Vol. 29, 23-48, 1969.**
+
+** **
+
+** **
+
+<span id="Web sites and web pages:"></span>**Web sites and web pages:**
+
+1.  **[http://prometheus.wwwh.com/](http://prometheus.wwwh.com/subscribers/_) -- Prometheus Society Web Page and on-line *Gift of Fire***
+2.  **http://prometheus.wwwh.com/subscribers/MCReport.html -- entire Membership Committee report is available on-line here**
+3.  **http://www.eskimo.com/~miyaguch/megadata/megacorr1.html -- correlations of Mega with other tests.**
+4.  **http://www.eskimo.com/~miyaguch/prometheus/gre.html -- GRE data**
+5.  **http://www.eskimo.com/~miyaguch/prometheus/hvatum.html -- discussion of tests at high levels**
+6.  **http://www.brain.com/bboard/read/iq-archive2/2351 -- Sare's predictions discounting Stanford-Binet scores**
+7.  **http://www.brain.com/bboard/read/iq-archive3/ -- discussion of Raven APM**
+8.  **http://www.collegeboard.org/press/html9899/html/981123a.html -- discussion of SAT coaching**
+9.  **http://www.collegeboard.org/press/html9899/html/981123a.html. -- description needed.**
+10. **http://www.brain.com/bboard/read/iq-archive3/1620 -- "Educational and Psychological Measurement"**
+11. **http://www.theatlantic.com/atlantic/issues/95sep/ets/grtsort2.htm -- "The Great Sorting" by Nicholas Lemann**
+12. **http://www.cycad.com/cgi-bin/Brand/quotes/ -- Chris Brand, PERSONALITY, BIOLOGY & SOCIETY (A Resource Manual of Quotations about the Psychology of Individual and Group Differences). Part of Chris Brand's New Homepage**
+13. **http://www.review.com/about/new/coaching.cfm -- Princeton Review and that info. can be obtained from them. This URL should be included here, for quick internet access.**
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+*** ***
+
+***Ignis Aurum Probat***
+
+<img src="Image10.gif" width="193" height="210" />
+
+<div align="right">
+
+***Miseria Fortes Homines***
+
+</div>

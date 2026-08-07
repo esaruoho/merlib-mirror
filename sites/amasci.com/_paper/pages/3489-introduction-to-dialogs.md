@@ -1,0 +1,129 @@
+---
+title: "Introduction to Dialogs"
+source_domain: amasci.com
+source_path: ~htak/win32asm/windlg.htm
+order: 3489
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:10:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Introduction to Dialogs
+
+*Source page: `~htak/win32asm/windlg.htm`*
+
+# Introduction to Dialogs
+
+Dialogs, known officially as ***dialog boxes***, are popup windows which are created from ***dialog templates***. The use of templates simplify the creation of windows containing controls. The predefined window procedure for a dialog also gives you a standard set of keyboard navigation functions.
+
+- [Modal and modeless dialogs](#modeness)
+- [Creating a dialog box](#createdlg)
+- [The dialog procedure](#dlgproc)
+- [Communicating with the dialog box](#dialogdata)
+- [Keyboard navigation](#keyboard)
+- [Creating a dialog template with a resource compiler](#direct)
+- [Creating a dialog template in memory without a resource compiler](#indirect)
+
+[Back to Win32 ASM Page](win32asm.htm)
+
+### <span id="modeness"></span>Modal and modeless dialogs
+
+Dialog boxes can be either ***modal*** or ***modeless***.\
+A modal dialog disables its **owner** window and, consequently, its owner's child windows. It also executes its own message loop, commandeering the thread, until the dialog is terminated. Although the dialog owner won't receive mouse- or keyboard-generated messages, it can accept and process messages sent to it by other means.\
+A modeless dialog acts like any other popup window.
+
+### <span id="createdlg"></span>Creating a dialog box
+
+A modal dialog box is created with either DialogBoxParam or DialogBoxIndirectParam. A modeless dialog box is created with either CreateDialogParam and CreateDialogIndirectParam. (If you've been writing Win32 in C or C++, surprise!--windows.h uses macros to convert the other dialog creation functions into these forms.)\
+These functions load a dialog template, the "direct" version loads from the resource section of an EXE or DLL file, the indirect version from memory.
+
+### <span id="dlgproc"></span>The dialog procedure
+
+Each dialog is created with the dialog window class (it's called \#32770). The window procedure of this class calls an application supplied ***dialog procedure*** to handle its messages. When a dialog is first being created, the window procedure creates the dialog and all of the controls, and then calls the dialog procedure with the WM_INITDIALOG message. In addition to further dialog initialization, the dialog procedure should respond to this message by returning nonzero (TRUE) if the default of setting the focus to the first control is desired.\
+For most messages, the dialog procedure will return nonzero (TRUE) if the given message was processed. If a message requires a return value, SetWindowLong should be used to set the DWL_MSGRESULT field in the dialog's (internal) window structure.\
+There are a few exceptions that were created before MS got wise. Instead of a "processed?" status, the following messages expect the dialog procedure to return values:
+
+WM_CTLCOLORxxxxx\
+WM_COMPAREITEM\
+WM_VKEYTOITEM\
+WM_CHARTOITEM\
+WM_QUERYDRAGICON
+
+If the dialog box is modal, EndDialog will terminate the dialog.\
+If the dialog box is modeless, DestroyWindow will terminate the dialog.
+
+### <span id="dialogdata"></span>Communicating with the dialog box
+
+The dialog box procedure is where the dialog box communicates with its controls. But how do we get the data to and from the dialog box?\
+One solution is to use global memory, that is, letting the dialog box directly access fixed locations (e.g., in the .data segment). Many people dislike this solution. This is bad if you want to have more than one instance of a particular dialog -- like the property pages that you can pop up all over Win95.\
+The common dialogs use a different solution -- an information structure. The address of an information structure, which can be allocated anywhere in memory (global, stack, or heap), is passed to the dialog box when it is created. It can include starting values, which the dialog box can use to initialize its controls. The dialog box can fill in fields, in the information structure, by querying its controls or as a response to control notifications. After the dialog box is terminated, the application can use the captured information. The dialog box creation functions have a ***parameter*** argument that can be used for this purpose. This argument becomes the lParam of the WM_INITDIALOG message.
+
+### <span id="keyboard"></span>Keyboard navigation
+
+A modal dialog will automatically handle keyboard navigation.\
+To make a modeless dialog handle keyboard navigation, call IsDialogMessage in the message loop. If it processes a keyboard message, the function returns nonzero (TRUE), and the rest of the message loop should be skipped.
+
+### <span id="direct"></span>Creating a dialog template with a resource compiler
+
+***Dialog editors*** are the preferred way of creating dialog boxes. They simplify sizing and placement of controls. They may be part of a suite of ***resource editors***. Resource editors, such as dialog editors, may produce text files that can be compiled by a ***resource compiler***. The result of the resource compiler can then be included in an EXE or DLL file as a ***resource***.\
+The resource compiler will produce dialog templates for inclusion as resources. The dialog box functions can then access the dialog templates by name or by resource number.
+
+### <span id="indirect"></span>Creating a dialog template in memory without a resource compiler
+
+It's also possible to build a dialog template in memory and use the indirect dialog box functions to create dialogs.\
+The dialog template is an "internal" format, and because the Win32 version was first implemented in NT, all strings that it uses must be in Unicode. This is in spite of the fact that there are two entry points (A and W) for the indirect functions.
+
+The following is the extended Win95 dialog template. Check the SDK documentation for the old NT dialog template. (Win95 can handle the old dialog template.)\
+The Win95 dialog template is divided into three parts: the header, an optional font item, and a sequence of dialog items.\
+The header contains a fixed-size section followed by three variable-sized fields.
+
+    DLGTEMPLATEEX STRUC        ; the header
+    dlttex_wDlgVer      DW 1        ; overlays old dltt_style
+    dlttex_Signature    DW 0FFFFh   ; overlays old dltt_style
+    dlttex_HelpID       DD ?
+    dlttex_ExStyle      DD ?
+    dlttex_style        DD ?
+    dlttex_cDlgItems    DW ?    ; number of dialog items
+    dlttex_x            DW ?    ; location of top left corner
+    dlttex_y            DW ?
+    dlttex_cx           DW ?    ; size
+    dlttex_cy           DW ?
+    DLGTEMPLATEEX ENDS
+
+The three variable-sized fields are the menu, class, and title. The first word of each field has special meaning. If it's not one of the special values, it's the first character of a zero terminated Unicode string.
+
+Menu: 0000h = no menu, 0FFFFh = next word is menu id\
+Class: 0000h = standard dialog class, 0FFFFh = next word is window class atom\
+Title: 0000h = no title
+
+The font item exists only if dlttex_style contains DS_SETFONT.\
+The font item has a fixed-size section followed by the font name in zero terminated Unicode.
+
+    FONTINFOEX STRUC
+    dfont_PointSize    DW ?
+    dfont_Weight       DW ?   ; FW_ constants
+    dfont_Italic       DW ?   ; TRUE or FALSE
+    FONTINFOEX ENDS
+
+The final section is the sequence (list) of dialog items. Each dialog item has a fixed-size section followed by three variable-sized fields.
+
+    DLGITEMTEMPLATEEX STRUC
+    dlitex_HelpID    DD ?
+    dlitex_ExStyle   DD ?
+    dlitex_Style     DD ?
+    dlitex_x         DW ?    ; location of top left corner
+    dlitex_y         DW ?
+    dlitex_cx        DW ?    ; size
+    dlitex_cy        DW ?
+    dlitex_id        DD ?    ; control ID
+    DLGITEMTEMPLATEEX ENDS
+
+The three variable-sized fields are the class, title, and creation data. The first word of each field has special meaning. If it's not one of the special values, it's the first character of a zero terminated Unicode string.
+
+Class: 0000h = standard dialog class, 0FFFFh = next word is window class atom\
+Title: 0000h = no title\
+Creation data: the first word is byte count of actual creation data which follows immediately
+
+------------------------------------------------------------------------

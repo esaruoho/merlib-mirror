@@ -1,0 +1,293 @@
+Ronald E. Bowser 
+ Ronald E. Bowser 
+ 1999-03-02T02:49:48Z 
+ 1999-03-02T01:41:44Z 
+ 1999-03-02T02:56:46Z 
+ * 
+ 9.2216 
+
+ Sheet1 
+
+ 264 
+
+ 300 
+ 300 
+
+ 38 
+
+ 3 
+ 35 
+ A36:C36 
+
+ False 
+ False 
+ False 
+
+ 19558 
+ alaska_19558 
+ SourceRange 
+ A36:C36 
+ HtmlStatic 
+
+ Sheet2 
+
+ 264 
+ False 
+ False 
+ False 
+
+ Sheet3 
+
+ 264 
+ False 
+ False 
+ False 
+
+ 10536 
+ 15084 
+ 96 
+ 132 
+
+ False 
+ False 
+
+ These results were sent to me by Tom Rueter, President of the Saint Bernard
+Club of Alaska. See their web site at http://www.alaska.net/~sbcak for other
+results, their rules, some history, etc. A quick glance and it appears
+their rules are very similar to IWPA; however, they pull 25' instead of 16'. 
+I assume the following pull is on snow? 
+
+ 31st 
+ Annual World Championship Dog Weight Pull 
+
+ Produced by The
+ Saint Bernard Club of Alaska 
+
+ Sponsored by 
+ Anchorage Fur Rendezvous 
+
+ February 20, 1999 
+
+ At Anchorage Rendezvous 
+
+ Weather Sunny and warm 
+ 25 - 30 F 
+
+ 327 W. Railroad Avenue 
+ Anchorage, Alaska 
+
+ Ultralight
+ Weight 
+ 0 - 55 pounds 
+
+ 1st 
+ Frank 
+ Husky x 
+ Kelley Griffin 
+ 950 lbs 
+ 28.22 sec 
+
+ 2nd 
+ Nevada 
+ Weimaraner x 
+ Kelley Griffin 
+ 800 lbs 
+ 30.47 sec 
+
+ 3rd 
+ Ivy 
+ Dalmatian 
+ Cathy Herrin 
+ 650 lbs 
+ 30.00 sec 
+
+ Light
+ Weight 
+ 0ver 55 to 85 pounds 
+
+ 1st 
+ Riley 
+ McKensie River x 
+ Kelley Griffin 
+ 1550 lbs 
+ 16.76 sec 
+
+ 2nd 
+ Fuzz 
+ Mix 
+ Chuck Durnan 
+ 1400 lbs 
+ 36.47 sec 
+
+ 3rd 
+ Tractor 
+ Mix 
+ Chuck Durnan 
+ 950 lbs 
+ 27.36 sec 
+
+ 4th 
+ Nike 
+ Husky x 
+ Kelley Griffin 
+ 950 lbs 
+ 32.30 sec 
+
+ 5th 
+ Blue 
+ Weimaraner 
+ Kelley Griffin 
+ 650 lbs 
+ 7.10 sec 
+
+ 6th 
+ Shamrock 
+ Husky Mix 
+ Theresa Rodgers 
+ 650 lbs 
+ 13.43 sec 
+
+ 7th 
+ Elsa 
+ Ak Mal Husky 
+ Tony Valosek 
+ 500 lbs 
+ 7.91 sec 
+
+ Middle
+ Weight 
+ Over 85 - 125 pounds 
+
+ 1st 
+ Hooligan 
+ MaKensie River 
+ Dave Sorensen 
+ 2750 lbs 
+ 11.75 sec 
+
+ 2nd 
+ Coalfoot 
+ Mix 
+ Chuck Durnan 
+ 2750 lbs 
+ 18.76 sec 
+
+ 3rd 
+ Moxie 
+ St. Bernard 
+ Jared Schumacher 
+ 2150 lbs 
+ 20.96 sec 
+
+ 4th 
+ Parka 
+ Ak Malamute 
+ Tony Valosek 
+ 1100 lbs 
+ 18.47 sec 
+
+ 5th 
+ Molly 
+ Newfoundland 
+ Cathy Baxter 
+ 950 lbs 
+ 38.75 sec 
+
+ 6th 
+ Dartagnon 
+ Newfoundland 
+ Don Hardison 
+ An honest effort 
+
+ Heavy
+ Weight 
+ Over 125 pounds 
+
+ 1st 
+ Leo 
+ St. Bernard 
+ Ken & Norma Erickson 
+ 3050 lbs 
+ 12.56 sec 
+
+ 2nd 
+ Sif 
+ St. Bernard 
+ Ken & Norma Erickson 
+ 2600 lbs 
+ 11.12 sec 
+
+ 3rd 
+ Dozer 
+ St. Bernard 
+ Dean Fritz 
+ 2150 lbs 
+ 8.44 sec 
+
+ 4th 
+ Yukon Bear 
+ St. Bernard 
+ Bob Mercer 
+ 1400 lbs 
+ 11.80 sec 
+
+ Total of 20
+ Entries 
+
+ Another
+ successful event 
+
+ Thanks to
+ all who helped. 
+
+ Announcer: 
+ Glen Williams 
+
+ Recorder: 
+
+ Barb Pinney 
+
+ Line Judge
+ & Timer: 
+ Rod Herrin 
+
+ Sled
+ Placement: 
+ Bill Pinney 
+
+ Pin Sales: 
+
+ Joyce Walters 
+
+ Dog Sales: 
+ Byron Elzig 
+
+ Pullback
+ Team: 
+ Cordova Center Volunteers 
+
+ Participating
+ Club Members 
+
+ Ken &
+ Norma Erickson 
+
+ Dean Fritz 
+
+ Saint
+ Bernard Club of Alaska 
+
+ P. O. Box
+ 90847 
+
+ Anchorage,
+ Alaska 99509 
+
+ (907)
+ 345-8328 
+
+ Reported by
+ Tom Rueter, Club President 
+
+ url: 
+ http://www.alaska.net/~sbcak

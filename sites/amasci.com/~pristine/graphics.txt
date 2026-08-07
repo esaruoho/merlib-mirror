@@ -1,0 +1,2534 @@
+Pure Mac: Graphics - Software for Macintosh 
+
+ Graphics 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Cataloguers 
+ Draw 
+ Editors/Paint 
+ Helpers 
+ Mac OS Classic Essentials 
+ Simple Viewers 
+
+ Aperture 
+ iView Media Pro 
+ iPhoto 
+ JetPhoto 
+ Lightroom 
+ LightZone 
+ Picture Arena 
+ Portfolio 
+ QPict 
+ Shoebox 
+ Comic Viewers 
+ FFView 
+ French Kiss 
+ Jomic 
+ Simple Comic 
+
+ Canvas 
+ CorelDRAW 
+ Create 
+ DrawIt 
+ EazyDraw 
+ Expression 
+ Freehand 
+ Illustrator 
+ Inkscape 
+ Intaglio 
+ Lineform 
+ Scribbles 
+ WouldjaDraw 
+ Zeus Draw 
+
+ Acorn 
+ ArtRage 
+ ChocoFlop 
+ CinePaint 
+ Compositor 
+ GIMP 
+ Gimpshop 
+ Goldberg 
+ GraphicConverter 
+ ImageMagick 
+ Image Tricks 
+ ImageWell 
+ iMaginator 
+ LightZone 
+ Painter 
+ Painter Essentials 
+ PhotoComplete 
+ PhotoMagic 
+ Photoshop 
+ Photoshop Elements 
+ Pixelmator 
+ Pixen 
+ Rita 
+ Seashore 
+ SketchBook Pro 
+ ZeboPhoto 
+
+ AlexWarp 
+ Art Text 
+ Cameraid 
+ Colorate 
+ Comic Life 
+ EasyFrame 
+ FrameAway 
+ Free Ruler 
+ GammaToggle 
+ iPhoto Buddy 
+ iWatermark 
+ Mike's Edge 
+ Omnidea Rulers 
+ Picturesque 
+ Posterino 
+ Scaletron 
+ TextureMagic 
+ ThumbsUp 
+ xScope 
+ Image Layout 
+ ImageBuddy 
+ Portraits & Prints 
+ Snapshot 
+
+ GraphicConverter 
+ Jade 
+ JPEGView 
+ Photo Tagging 
+ ExifRenamer 
+ Geophoto 
+ Geotagger 
+ GPSPhotoLinker 
+ Keyword Manager 
+ PhotoGPSEditor 
+ PhotoInfoEditor 
+ Resize/Crop 
+ Downsize 
+ EasyBatchPhoto 
+ EasyCrop 
+ ImageWell 
+ iResize 
+ QuickScale 
+ ResizeIt 
+ Sizerox 
+ SmallImage 
+
+ Flip Through Images 
+ FR-PhotoStudio 
+ ImageBrowser 
+ ImageReel 
+ JustLooking 
+ JView 
+ PhotoGrid 
+ PhotoStickies 
+ SimpleImage 
+ ToyViewer 
+ ViewIt 
+ VirtuFrame 
+ VitaminSEE 
+ Xee 
+ Slide Shows 
+ CocoaSlideShow 
+ PhotoPresenter 
+ PresentArms 
+ Slide Show 
+ Slides! 
+ Toucan 
+
+ You may also want to check the Web Graphics page for Web Animation, Image Optimization, Image Mapping and Web Album Software. 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Acorn 1.0.3 
+
+Acorn is a new image editor built with one goal in mind - simplicity.
+Fast, easy, and fluid, Acorn provides the options you'll need without
+any overhead. Acorn feels right, and won't drain your bank account.
+
+ License : Shareware, $40
+ Author/Publisher : Flying Meat Inc.
+ Modification Date : November 9, 2007
+ Requirements : Mac OS X 10.4.9 or higher
+
+ Download 
+File Size: 5.6 MB
+
+ Home Page 
+
+ AlexWarp 1.0 
+
+AlexWarp is an image-warping program. You can use it to do cool things to people's faces.
+Think of it as a light version of Kai's Power Goo or Flo'.
+
+ License : Freeware
+ Author/Publisher : Alex Rosen
+ Modification Date : April 9, 1996
+ Requirements : Mac OS X and System 7.5 or higher
+
+ Download 
+File Size: 16 Kb
+
+ Download 
+File Size: 28 Kb - Java program compatible with OS X
+
+ Home Page 
+
+ Aperture 1.5.6 
+
+On the one hand, you have the application designed from the ground up to
+make working with RAW images as easy as working with JPEGs. On the
+other, you have the fastest, most feature-rich family of Mac computers
+ever.
+
+Bring Aperture and the the new Macs together, and you have the ultimate
+photographer's workstation. The ideal systems on which to run the photo
+workflow application that deliver all the speed you need to work with
+and manage photos of any type. RAW, JPEG, or TIFF.
+
+ License : $299, Free Update
+ Author/Publisher : Apple
+ Modification Date : October 26, 2007
+ Requirements : Mac OS X 10.4.8 or higher, 1.25 GHz or faster, 1GB of RAM, 2GB of Ram required for Mac Pro
+
+ Download 
+File Size: 130.6 - 1.5.6 Updater
+
+ Pro Application Support 4.0.2 
+File Size: 7.6 MB - September 6, 2007
+
+ Home Page 
+
+ ArtRage 2.5 
+
+ArtRage is a painting package designed to provide a realistic and fun
+simulation of using paint on a canvas, along with pens, pencils,
+crayons, and other tools. ArtRage is available for both Windows and Mac
+OS X. It can be used with a mouse, but works better if you have a
+graphics tablet, or even better on a Tablet PC where ArtRage takes
+advantage of the unique interaction of pen and screen to produce a
+realistic painting feel.
+
+ArtRage is all about playing with paint without the mess, and having fun
+in the process. You can paint your own image from a blank canvas to
+completed work, or load in a picture to trace and have the tools pick
+their colours for you as you paint over it.
+
+ License : Freeware, Full Edition $25
+ Author/Publisher : Ambient Design Ltd.
+ Modification Date : November 1, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.4 MB - Version 2.5 - freeware
+
+ Home Page 
+
+ Art Text 1.2.4 
+
+Art Text is an application to create high quality textual graphics,
+headings, logos, icons, web banners and buttons. The program implements
+the latest Mac OS X technologies which allow you to easily modify any
+texts and vector shapes into a fancy graphic. Use the result with iWork,
+Microsoft Office, BeLight applications and other programs. Create more
+compelling business presentations, brochures, flyers, postcards,
+business cards and Web sites with the program.
+
+ License : Shareware, $30
+ Author/Publisher : BeLight Software
+ Modification Date : November 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.1 MB
+
+ Home Page 
+
+ Cameraid 1.3.1 
+
+A powerful digital photography and JPEG management utility:
+ Lossless rotation and transforms for JPEG format photos
+ Eliminate duplicate photos
+ Fast viewer with a photo grading system for quickly marking good & bad photos
+ Batch processing
+ Rename patterns using EXIF and file information
+ JPEG-aware image enhancement expert for digital photographs
+ Download photos from many popular digital cameras
+
+ License : Shareware, $20
+ Author/Publisher : Juri Munkki
+ Modification Date : November 19, 2003
+ Requirements : Mac OS X and Mac System 7 or higher
+
+ Download 
+File Size: 512 Kb
+
+ Download 
+File Size: 484 Kb
+
+ Download 
+File Size: 482 Kb
+
+ Manual 
+File Size: 275 Kb
+
+ Home Page 
+
+ Canvas X build 926 
+
+Create complex technical illustrations with one comprehensive tool.
+Slash the costs and time involved with using multiple graphics and
+desktop tools. Use Canvas X to create graphics, edit images, layout
+documents and craft eye-catching presentations.
+
+ License : Demo, $350
+ Author/Publisher : ACD Systems
+ Modification Date : June 8, 2007
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 79.0 MB - build 926 Updater
+
+ Download 
+File Size: 59.6 MB - Demo - October 11, 2005
+
+ Home Page 
+
+ ChocoFlop 0.75 
+
+CoreImage-based, realtime, non-destructive, high dynamic range Image and Photo Editing
+Application for Mac OS X.
+
+ License : Freeware until stable
+ Author/Publisher : Santiago Lema
+ Modification Date : December 12, 2007
+ Requirements : Mac OS X 10.4 or higher, 1 Ghz or faster, At least a Radeon or Nvidia - 32 MB Graphics Card
+
+ Download 
+File Size: 2.3 MB
+
+ Home Page 
+
+ CinePaint 0.21-2.1 
+
+CinePaint is an open source painting program used by motion picture
+studios to retouch images in 35mm films. It was formerly called Film
+Gimp. It has been used in a dozen feature films including Harry Potter,
+Scooby-Doo, and the Fast & the Furious.
+
+ License : Freeware
+ Author/Publisher : CinePaint Project
+ Modification Date : November 8, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 20.3 MB
+
+ Home Page 
+
+ CocoaSlideShow 0.4.3 
+
+Features:
+ full screen mode
+ handles Apple Remote
+ rotate pictures
+ drag and drop files and folders (recursive)
+ add / remove / export / trash pictures
+ no Bezel, Ken Burns effect or Minuet in G :o)
+ really fast
+
+ License : Freeware
+ Author/Publisher : Nicolas Seriot
+ Modification Date : September 10, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 104 Kb
+
+ Home Page 
+
+ Colorate 1.2 
+
+Colorate is a donationware utility for creation of harmonic color
+palettes, aimed from hobbyst to professional designers.
+
+Colorate fully automatizes the palette generation from a particular
+color swatch, selected from the standard Color Panel, dragged from other
+application or obtained from an image through the integrated Image
+Analyze feature.
+
+ License : Freeware
+ Author/Publisher : Mosquito SW
+ Modification Date : November 14, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ Comic Life 1.4.1 
+
+Comic Life gives you a super-quick and easy way to create astounding comics, beautiful
+picture albums and enticing instruction booklets to name a few of the many possibilities.
+
+Included are professional and fun templates, ready to drag and drop onto your page for
+instant attractive photo layouts. Or if you like to be in control, position your photos
+and panels how you like and save them for later use.
+
+ License : Shareware, $25
+ Author/Publisher : Plasq
+ Modification Date : January 8, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Home Page 
+
+ Compositor 2.9.9 
+
+Compositor is a full featured image editing and image to art
+application. Take the tour and check it out.
+
+ License : Shareware, $35
+ Author/Publisher : Robert Covington/Artley There
+ Modification Date : November 10, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ CorelDRAW 11.693 
+
+Discover an incredible
+collection of tools for illustration, page layout, photo editing and painting
+with CorelDRAW.
+
+ License : Updater - Corel No Longer Supports Mac Version
+ Author/Publisher : Corel
+ Modification Date : March 5, 2003
+ Requirements : Mac OS X
+
+ Download 
+File Size: 5.3 MB - 11.693 updater
+
+ Home Page 
+
+ Create 13.0 
+
+Create is a professional page layout, illustration and web page
+authoring application with many advanced features, and a surprisingly
+simple interface.
+
+ License : Demo, $150
+ Author/Publisher : Stone Design
+ Modification Date : March 13, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 13.7 MB
+
+ Home Page 
+
+ Downsize 2.7 
+
+Downsize is a utility that allows you to prepare images for the web by
+resizing, and adding watermarks, frames, and drop shadows. Batch resize
+an entire folder of images in bulk to save time. If you have a digital
+camera and want to reduce file sizes before sending your photographs
+through email, or posting them on the web, Downsize is the fastest and
+easiest way to do it. It's also fully integrated with iPhoto, so you can
+organize your photos there, and process them with Downsize.
+
+ License : Shareware, $20
+ Author/Publisher : Stunt Software
+ Modification Date : March 1, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 428 Kb
+
+ Home Page 
+
+ DrawIt 3.2.1 
+
+DrawIt is an intuitive image editing and vector-drawing application.
+We've tried to pack an impressive list of features into the elegantly
+designed interface. Apart from what the obvious stuff like a layer-based
+interface, super-easy vector drawing, powerful text support, advanced
+support for masks and more, DrawIt introduces a few tools never before
+seen in an image editor: what about Expose for your layers, or a
+perfect distance-measuring tool?
+
+ License : Shareware, $29
+ Author/Publisher : Pieter Omvlee
+ Modification Date : January 9, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.0 MB
+
+ Home Page 
+
+ EasyBatchPhoto 2.2.1 
+
+Photographers and webmasters often find themselves spending too much
+time converting, resizing and watermarking (with copyright, for example)
+images. EasyBatchPhoto frees you from these repetitive tasks by
+processing hundreds, or even thousands, of images with a single
+drag-and-drop.
+
+ License : Shareware, $24
+ Author/Publisher : Yellow Mug Software
+ Modification Date : September 14, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ EasyCrop 2.2.4 
+
+Use EasyCrop with Mail to quickly prepare photo for e-mailing, or use it
+to add photos to your contacts in Address Book, or you could even use it
+for setting up your Mac OS X login picture. These are just some ideas,
+EasyCrop works great with any application that accepts dragged images or
+files.
+ EasyCrop is an easy-to-use application that lets you rotate,
+crop and resize images. What makes EasyCrop so special is that you can
+drag the resulting image directly into another application or the
+Finder. What this means is no more confusing file dialogs to navigate
+and no temporary files to delete.
+
+ License : Shareware, $12
+ Author/Publisher : Yellow Mug
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.7 Kb
+
+ Home Page 
+
+ EasyFrame 2.2.1 
+
+Whether it is for emailing or posting on your blog, adding a border or edge effect can
+dramatically enhance the appeal of a picture.
+EasyFrame is extremely intuitive and easy to use. It lets you quickly "try on" different
+edge effects. When you find what you like, simply drag the result off.
+
+ License : Shareware, $19
+ Author/Publisher : Yellow Mug Software
+ Modification Date : October 18, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.3 MB
+
+ Home Page 
+
+ EazyDraw 2.5 
+
+EazyDraw is an affordable drawing application designed exclusively for
+Mac OS X. It is useful for many creative projects including technical
+drawings, illustrations, icons, logos, and stylized text.
+
+ License : Demo, $95
+ Author/Publisher : Dekorra Optics, LLC
+ Modification Date : January 4, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 21.1 MB
+
+ Home Page 
+
+ ExifRenamer 2.1 
+
+ExifRenamer allows you to interactively control the renaming process.
+You can have a file preview and can add a prefix, suffix, change the
+name or can add a time difference.
+ The photographs can now be sorted in chronological correct order
+just by displaying them in alphabetical order. The used naming
+convention is: YYYY-MM-DD_hh-mm-ss.jpg The program supports many camera
+vendors (for example Casio, Olympus, Canon, ...). Just select
+ExifRenamer as Automatic Task in ImageCapture...
+
+ License : Freeware
+ Author/Publisher : Stefan Robl
+ Modification Date : December 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Expression 3.3b1 
+
+Expression 3 is an innovative vector-based illustration and graphics
+tool that provides exciting creative capabilities for designers working
+in print, web, video, and interactive mediums.
+
+ License : Freeware
+ Author/Publisher : Microsoft
+ Modification Date : April 12, 2004
+ Requirements : Mac OS X 10.1 or higher and Mac OS 9.x
+
+ Download 
+File Size: 55.8 MB
+
+ FFView 0.9.9 
+
+FFView is a fast OpenGL-powered picture viewer a la ACDsee (2.x). It is
+aimed at letting you read manga or other comics onscreen (windowed &
+fullscreen mode). Features include fast prefetching, smooth panning,
+voice commands, 2-page mode, a magnifying lens, the ability to browse
+pictures inside archives (.rar/.cbr, .zip/.cbz) and sticky per-picture
+options. It reads EXIF tags and is scriptable.
+
+ License : Freeware
+ Author/Publisher : feedface.com
+ Modification Date : August 26, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ Flip Through Images 1.2 
+
+Flip Through Images is a Macintosh application for quickly displaying multiple image files.
+ Drag files or folders onto the Flip Through Images window or icon. 
+ Image files will be gathered into a list; other files will be ignored.
+ Use the left and right arrow keys to step through the list. 
+ Use the delete key to remove an image file from the list. (The file will not be deleted.)
+
+ License : Freeware
+ Author/Publisher : Sam Bushell
+ Modification Date : June 10, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 54 MB
+
+ Home Page 
+
+ FrameAway 2.0 
+
+Unless you're an artist with a great eye, understanding composition will
+take a while. This is where FrameAway can help; it will allow you to
+recompose your shots so the next time you take a look at a scene through
+your viewfinder you will know a bit more of what you should look for.
+
+ License : Shareware, $18
+ Author/Publisher : Modulo Consulting
+ Modification Date : October 1, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Freehand MX 11.0.2 
+
+Macromedia FreeHand 9 is the professional solution for designers publishing for
+print and Web, offering sophisticated illustration tools, time-saving
+productivity features, and tight integration with the award-winning family of
+Macromedia Web publishing software, including Macromedia Flash. Create
+eye-catching illustrations, logos, graphics for Macromedia Flash, site
+storyboards, and design-intensive documents in the unique design and layout
+environment of FreeHand 9.
+
+ License : Demo, $399
+ Author/Publisher : Macromedia
+ Modification Date : February 27, 2004
+ Requirements : Mac OS X 10.2.6 or higher
+
+ Download 
+File Size: 44.3 MB - Demo
+
+ Download 
+File Size: 6.9 MB - 11.0.2 updater
+
+ Home Page 
+
+ Free Ruler 1.7b5 
+
+Features:
+ * A horizontal and vertical ruler which can be used independently or simultaneously.
+ * Measurement in pixels, inches, picas, or centimeters.
+ * Automatic alignment of rulers.
+ * The ability to group rulers and move them around as a unit.
+ * Shadowless rulers with customizable transparency.
+ * Interactive tick marks which follow the mouse location for more precise measurement.
+ * Independent resizing of rulers, from 200 pixels to 5000 pixels in length.
+ * Single key shortcuts for most ruler functions.
+ * Conversion assistant to set ruler resolution based on screen size and resolution.
+ * Unit converter utility for converting numbers between different units of measure.
+
+ License : Freeware
+ Author/Publisher : Pascal Balthrop
+ Modification Date : January 2, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 2.8 MB
+
+ Home Page 
+
+ French Kiss 2.2.2.11 
+
+For viewing KISS files (anime). French Kiss is graphics software that lets you work with graphics 
+in a whole new way. Instead of viewing a static picture, you can decide what you like and create 
+your own drag-and-drop, roll-your-own graphics! In a nutshell, you can dress up cute anime girls in 
+a variety of scenes, which can even include sound and animation, and pick and choose what you enjoy.
+Pretty much like computerized paper dolls.
+
+ License : Freeware
+ Author/Publisher : John Stiles
+ Modification Date : June 2, 2002
+ Requirements : Mac OS X and System 7 or higher
+
+ Download 
+File Size: 122 Kb 
+
+ The Big KISS Page 
+
+ FR-PhotoStudio 3.0 
+
+FR-PhotoStudio is a high speed browser that facilitates viewing and
+managing image files and movie files on your Macintosh.
+ Main features:
+ High speed response.
+ Finder-like file management.
+ Batch rename.
+ Slideshow with transition effect.
+ Slideshow movie generation.
+ Full screen movie playback.
+ QuickTime movie editing.
+ Preview icon generation.
+ Image filters: Sharpen, Blur, HSL balance, RGB balance, Brighetness, Contrast.
+ Resizing.
+
+ License : Shareware, $15
+ Author/Publisher : FR-Soft
+ Modification Date : September 7, 2007
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ GammaToggle 1.22 
+
+If you design web pages with graphics and photos, you have undoubtedly
+had PC users say that your photos are too dark. GammaToggle allows a
+Mac-based designer to very easily toggle back and forth between the two
+standard gamma settings - allowing a simple way to see how graphics will
+look on both PCs & Macs. You can toggle between gamma settings from
+within any application (eg: Photoshop when you are editing pictures, web
+browser when you are previewing and editing an HTML document).
+
+ License : Shareware, $15
+ Author/Publisher : Roland Gustafsson
+ Modification Date : July 28, 2005
+ Requirements : Mac OS X 10.1 or higher and System 7.1 or higher
+
+ Download 
+File Size: 41 Kb 
+
+ Download 
+File Size: 77 Kb 
+
+ Home Page 
+
+ Geophoto 1.8.1 
+
+With Ovolab Geophoto, you can see your pictures from a new perspective.
+Break the limits of long lists of pictures sorted by date! You can now
+browse your photo albums by location, easily finding the pictures you've
+taken in a particular place, during a particular trip.
+
+Orbit around the Earth to view all the countries you have visited, or
+zoom into your city for a view of the pictures you've taken at home, or
+at your friends' places.
+
+And you can share your photos as well, allowing your friends to zoom
+across the planet and see where your pictures were taken and how far
+you've traveled.
+
+ License : Shareware, $20
+ Author/Publisher : Ovolab
+ Modification Date : January 11, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 44.8 MB
+
+ Home Page 
+
+ Geotagger 1.2 
+
+This is a little application for tagging your photos using the incredible Google Earth
+application. All you have to do is center Google Earth (version 4 only) over the spot your
+photos were taken at, or shows, and the drop the images you want to tag onto Geotagger. I
+put Geotagger into the Dock so it's easy to reach but it'll work from anywhere.
+
+You can drag your photos from within iPhoto, and they will be tagged, but iPhoto records
+the GPS data when it imports photos and doesn't recheck if you edit them using an external
+application. I highly recommend that you edit your photos before importing them to iPhoto,
+if that's the app you you to catalog them.
+
+ License : Freeware
+ Author/Publisher : Stanton Software
+ Modification Date : December 4, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ GPSPhotoLinker 1.5.2 
+
+GPSPhotoLinker can be used to save location and GPS position data to a photo. The latitude
+and longitude recorded by your GPS unit while you were taking photos can be linked, and
+saved, to the photos. GPSPhotoLinker automatically enters the city, state, and country
+annotations into the metadata.
+
+ License : Freeware
+ Author/Publisher : Jeffrey J. Early
+ Modification Date : July 12, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ GIMP.app 2.2.11 
+
+The GIMP is the GNU Image Manipulation Program. It is a freely
+distributed piece of software for such tasks as photo retouching, image
+composition and image authoring. It works on many operating systems, in
+many languages.
+
+ License : Freeware
+ Author/Publisher : Gimp Project
+ Modification Date : April 21, 2006
+ Requirements : Mac OS X 10.3 or higher, X11
+
+ Download 
+File Size: 82.6 MB
+
+ Gimp.app Home Page 
+
+ Gimp Home Page 
+
+ Gimpshop 2.2.11 
+
+If you've never used Photoshop before, you may not appreciate my GIMPshop hack. What I've
+done is renamed and reorganized GIMP's tools, options, windows, and menus to closely
+resemble Adobe Photoshop's menu structure and naming conventions. Many of the menu options
+and even whole menus were recreated to faithfully reproduce a Photoshop-like experience.
+After running my GIMPshop hack, you'll find that Photoshop and the GIMP are strikingly
+similar.
+
+ License : Freeware
+ Author/Publisher : Plastic Bugs
+ Modification Date : May 23, 2006
+ Requirements : Mac OS X 10.3 or higher with X11
+
+ Download 
+File Size: 84.9 MB
+
+ Home Page 
+
+ Goldberg 2.5.1 
+
+Goldberg is a freeware image and movie viewer with image editing
+capabilities and support for applying QuickTime and other effects.
+
+Version 2.0 is a major rewrite and offers rotation capabilities, free
+zooming, undo support and more.
+
+ License : Freeware
+ Author/Publisher : Opus Software
+ Modification Date : January 6, 2008
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 818 Kb
+
+ Home Page 
+
+ GraphicConverter 6.0.3 
+
+GraphicConverter X/Classic converts pictures to different formats.
+ Also it contains many useful features for picture manipulation.
+ Key features of GraphicConverter X/Classic: 
+ * Universal Binary version for the Intel-Macs
+ * Operator for quick image enhancement
+ * Imports about 190 graphic file formats
+ * Exports about 79 graphic file formats
+ * Browser
+ * Batch conversion with additional actions
+ * Slide show
+ * Easy creation of optimized images for the internet
+ * Basic images manipulation
+ * Enhanced images manipulation
+ * AppleScript support
+
+ License : Shareware, $35
+ Author/Publisher : Thorsten Lemke
+ Modification Date : December 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 75.4 MB - PPC - requires Mac OS X 10.3 or higher
+
+ Download 
+File Size: 81.1 MB - Universal - requires Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 22.3 MB - Classic PPC - requires Mac OS 8.6 or higher
+
+ Home Page 
+
+ Illustrator CS3 13.0.2 
+
+Create sophisticated vector artwork for virtually any medium with Adobe
+Illustrator CS3 software. Capture your ideas easily with
+industry-standard drawing tools, and experiment freely with flexible new
+color controls. Experience tight integration with other Adobe
+applications, and let improved performance help speed you through
+creating extraordinary graphics.
+
+ License : Demo, $599
+ Author/Publisher : Adobe
+ Modification Date : September 4, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 1.12 GB - CS3 Demo
+
+ Download 
+File Size: 3.1 MB - 13.0.2 Updater
+
+ Updates Page
+
+ Home Page 
+
+ ImageBrowser 2.4 
+
+ImageBrowser is a program for viewing and organizing images, movies and
+sounds. It makes it easy to move around the folders on your hard drive,
+using either the mouse or keyboard, and see all the image, movie, and
+sound files in each folder. When an image or movie file is selected it
+is shown in the ImageBrowser window, or can be opened in its own window.
+The list of files can be shown as thumbnails, making finding images
+easy.
+
+ License : Shareware, $10
+ Author/Publisher : Simon Beavis
+ Modification Date : February 9, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 591 Kb
+
+ Home Page 
+
+ ImageBuddy 3.5.5 
+
+A digital image layout program designed especially for use on the Mac
+that is quick and easy to use. Photo printing on the Macintosh has never
+been easier or more flexible.
+ Quick page layout - Contact sheet - Thumbnail
+ Slide show - Full screen viewing - Grade and sort images
+ - Variable resolution - Export jpeg - Import tiff / jpeg
+ - Full image rotation - Export images sized for emailing
+ - Cropping, masking, and overlays
+ - Page caption, image name - Quick image identifcation
+ Create event pages (great for school sport pictures)
+ ... and much much more!!!
+
+ License : Shareware, $19
+ Author/Publisher : KepMad Systems
+ Modification Date : December 29, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ ImageMagick 6.3.6 
+
+ImageMagick is a software suite to create, edit, and compose bitmap
+images. It can read, convert and write images in a large variety of
+formats. Images can be cropped, colors can be changed, various effects
+can be applied, images can be rotated and combined, and text, lines,
+polygons, ellipses and Bezier curves can be added to images and
+stretched and rotated.
+
+Most of the functionality of ImageMagick can be used interactively from
+the command line; more often, however, the features are used from
+programs written in the programming languages C, Ch, C++, Java, Lisp,
+Pascal, Perl, PHP, Python, Ruby, Tcl/Tk, for which ready-made
+ImageMagick interfaces (MagickCore, MagickWand, PerlMagick, Magick++,
+PythonMagick, MagickWand for PHP, RMagick, TclMagick, L_Magick, and
+JMagick) are available. This makes it possible to modify or create
+images automatically and dynamically.
+
+ImageMagick supports many image formats (over 95) including formats like
+GIF, JPEG, JPEG-2000, PNG, PDF, PhotoCD, TIFF, and DPX.
+
+ License : Freeware
+ Author/Publisher : ImageMagick Studio
+ Modification Date : October 14, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 6.9 MB
+
+ Home Page 
+
+ ImageReel 1.3.2 
+
+ImageReel is a great tool for viewing, organizing, and renaming all of
+your images in Mac OS X. With it's multiple viewing options, flexible
+batch renaming, and full support for OS X's drag & drop... it won't be
+long before it becomes your default image viewer.
+
+ License : Shareware, $15
+ Author/Publisher : Brian Toth
+ Modification Date : August 13, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ Image Tricks 2.4 
+
+Image Tricks is a free image editing application that allows you using
+Mac OS X Tiger Core Image filters. With the program you can easily edit
+and apply various effects and filters to your photos and images. Have
+fun modifying your pictures and save the masterpiece.
+
+ License : Freeware
+ Author/Publisher : BeLight Software
+ Modification Date : January 8, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.8 MB
+
+ Home Page 
+
+ ImageWell 3.3.2 
+
+Drag images in and out of the well, resize, crop, shape, rotate and add
+a watermark, border, or drop shadow. No need to launch multiple
+applications to add text, labels, arrows, circles and squares to your
+image. Add a thought cloud or talking balloon. A few simple clicks,
+copy, paste, and send them off to your web server instantly. At the
+click of a button the image is sent and a handy URL is copied to the
+clipboard. Just like that, it doesn't get any easier.
+
+ImageWell comes in two flavors - a free image editing app and a paid upgrade with
+Xtras! If all you want to do is quickly resize, rotate, add watermarks and a few text
+tidbits to your image, then the free ImageWell is all you need. We also offer a paid
+upgrade that lets you do more - such as batch resizing, more drawing shapes, add more
+than one image to your canvas. If you like ImageWell you'll like the upgrade even
+more.
+
+ License : Shareware, $10
+ Author/Publisher : XtraLean Software, Inc.
+ Modification Date : November 15, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 930 Kb
+
+ Home Page 
+
+ iMaginator 3.6.1 
+
+iMaginator from Stone Design is the low cost image processing power
+house for Mac OS X 10.4 aka Tiger. With over 108 filters and effects at
+your fingertips, you can instantly combine text, images, filters and
+effects to turn photos into art and QuickTime movies. Just $49 & free
+upgrades for life!
+
+ License : Shareware, $49
+ Author/Publisher : Stone Design
+ Modification Date : January 1, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.2 MB
+
+ Home Page 
+
+ Inkscape 0.45.1 
+
+Inkscape is an Open Source vector graphics editor, with capabilities
+similar to Illustrator, Freehand, CorelDraw, or Xara X using the W3C
+standard Scalable Vector Graphics (SVG) file format. Supported SVG
+features include shapes, paths, text, markers, clones, alpha blending,
+transforms, gradients, patterns, and grouping. Inkscape also supports
+Creative Commons meta-data, node editing, layers, complex path
+operations, bitmap tracing, text-on-path, flowed text, direct XML
+editing, and more. It imports formats such as JPEG, PNG, TIFF, and
+others and exports PNG as well as multiple vector-based formats.
+
+Inkscape's main goal is to create a powerful and convenient drawing tool
+fully compliant with XML, SVG, and CSS standards. We also aim to
+maintain a thriving user and developer community by using open,
+community-oriented development process, and by making sure Inkcape is
+easy to learn, to use, and to extend.
+
+ License : Freeware
+ Author/Publisher : Inkscape Developers
+ Modification Date : March 21, 2007
+ Requirements : Mac OS X 10.4 or higher and X11
+
+ Download 
+File Size: 22.9 MB - Universal
+
+ Home Page 
+
+ Intaglio 2.9.7.1 
+
+Patterned after the original Macintosh drawing applications, Intaglio is
+intuitive to beginners and familiar to traditional Macintosh users.
+Intaglio builds on the 2D graphics, text, color, and scripting
+capabilities of Mac OS X to provide unprecedented power and flexibility
+in an inexpensive drawing program. Intaglio isn't just compatible with
+Mac OS X, it was designed from the ground up to fully exploit the
+capabilites that make this platform ideal for graphics work. Naturally
+Intaglio is great for casual users, but it is also an ideal tool for
+experienced graphics experts who need special features or want a
+simpler experience than what is provided by the usual multi-platform
+graphic franchises.
+
+ License : Demo, $89
+ Author/Publisher : Purgatory Design
+ Modification Date : December 21, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ iPhoto 7.1.1 
+
+Don't be daunted by all those digital photos you've been taking. Have
+fun with them. Share them by email or create amazing web pages, cards
+and calendars. iPhoto automatically organizes your photo library and
+makes editing as easy as clicking your mouse - so you can get the most
+out of even the biggest collection.
+
+ License : Free Update, Buy iLife for $79
+ Author/Publisher : Apple
+ Modification Date : November 14, 2007
+ Requirements : Mac OS X 10.4.9 or higher, iLife Support 8.1, iPhoto 7.1
+
+ Download 
+File Size: 9.3 MB - 7.1.1 updater - iLife '08 version
+
+ Download 
+File Size: 59.3 MB - 7.1 updater - iLife '08 version
+
+ Download 
+File Size: 6 MB - iLife Support 8.1.1 - October 25, 2007
+
+ Download 
+File Size: 6.2 MB - 6.0.6 updater
+
+ Download 
+File Size: 56.1 MB - 6.0.5 updater
+
+ Download 
+File Size: 39.2 MB - 5.0.4 updater
+
+ Home Page 
+
+ iPhoto Buddy 1.3.0 
+
+iPhoto Buddy is a Mac OS X application that allows you to easily create,
+manage, and switch between multiple iPhoto Libraries. The advantages of
+splitting your One Huge Photo Library into multiple, smaller ones
+include improved iPhoto performance, increased flexibility in organizing
+your digital photo collection, and a consistency with most other Mac
+applications that allow their respective data to be stored in as many
+documents (in this case, "Libraries") as you like.
+
+iPhoto Buddy uses a simple, streamlined interface that was inspired by
+iPhoto itself. Anyone that has used iPhoto will immediately feel right
+at home using iPhoto Buddy. It truly is a companion application--a real
+buddy!
+
+ License : Freeware
+ Author/Publisher : Rick Neil
+ Modification Date : November 26, 2007
+ Requirements : Mac OS X 10.2.4 or higher
+
+ Download 
+File Size: 13.6 MB
+
+ Home Page 
+
+ iResize 2.3.5 
+
+Batch resize and compress images, known types are: 
+.jpeg, .pict, .tiff,.gif, .psd and QuickTime images
+
+ License : Freeware
+ Author/Publisher : Aaron Madlon-Kay
+ Modification Date : October 4, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 2.9 MB
+
+ Home Page 
+
+ iView Media Pro 3.1.3 
+
+iView MediaPro is an award-winning media management, presentation,
+editing, publishing and cataloging application. It offers a rich and
+intuitive feature set essential for creative professionals and digital
+photographers. MediaPro incorporates powerful slide show presentations,
+custom annotation fields, and support for more than 120 file formats.
+
+ License : Demo, $199
+ Author/Publisher : iView Multimedia, LTD.
+ Modification Date : February 26, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 11.2 MB - version 3.1.3
+
+ Download 
+File Size: 5.1 MB - version 2.6.4
+
+ Home Page 
+
+ iWatermark 3.10 
+
+iWatermark is the worlds No. 1 watermarking application for Mac and
+Windows. Stylishly Copyright all your images in just minutes.
+
+iWatermark includes new effects like aqua and emboss.
+
+iWatermark is an essential tool for anyone with a digital camera,
+professionals and beginners or graphic artist.
+
+ License : Shareware, $20
+ Author/Publisher : Sam Rowlands
+ Modification Date : October 15, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 8.0 MB
+
+ Home Page 
+
+ Jade 1.2 
+
+Multiple threaded execution and a proprietary virtual memory scheme
+form the foundation for Jade 1.2, one of the most versatile JPEG
+viewers available for the Macintosh. By utilizing these unique
+features, Jade can view JPEGs with amazing speed while maintaining
+a small memory footprint.
+
+ License : Freeware
+ Author/Publisher : Eric Shieh
+ Modification Date : November 11, 1996
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 449 Kb
+
+ JetPhoto 2.9.1 
+
+JetPhoto is a full-featured freeware to store, organize, view and share
+digital photos, as well as publish photo albums onto Web. JetPhoto
+contains a Mac software - JetPhoto Studio, and a PHP-based Web service
+software - JetPhoto Server. It's easy to use JetPhoto Studio to create,
+organize and review photo albums on user's Macintosh computer. Once the
+photo album is prepared, only One-Click is needed to synchronize local
+album with online photo album based on JetPhoto Server.
+
+ License : Freeware - Registration for full support $38
+ Author/Publisher : Atomix Technologies Limited
+ Modification Date : August 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 20.6 MB - JetPhoto Studio 2.9.1
+
+ Download 
+File Size: 714 Kb - Server (PHP) version 1.1
+
+ Home Page 
+
+ Jomic 0.9.29 
+
+This info needs to be changed.Jomic is a viewer for comic book archives.
+It can handle both CBZ and CBR archives and has a two page mode.
+Supported image formats are PNG, JFIF/JPEG, TIFF, and GIF. It is Open
+Source software distributed under the GNU General Public License.
+
+ License : Freeware
+ Author/Publisher : Thomas Aglassinger
+ Modification Date : December 28, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ JPEGView 3.3.1 
+
+A fast, powerful image viewer for both 680x0 and PowerPC Macintoshes. 
+JPEGView can open and display images in JPEG, PICT, GIF, TIFF, BMP,
+MacPaint, or Startup Screen formats.
+
+ License : Freeware
+ Author/Publisher : Aaron Giles
+ Modification Date : January 10, 1995
+ Requirements : 680x0 or PPC
+
+ Download 
+File Size: 773 Kb
+
+ JustLooking 1.0.1 
+
+Welcome to JustLooking, an image viewing program for Mac OS X.
+JustLooking is designed to be a replacment for the "Preview" application
+on your computer for browsing images. In particular, it has the
+following differences:
+ - It focuses on files and directories instead of lists of files.
+Thus, once you load a file, you can easily navigate through all other
+files in the same directory.
+ - It displays images at their native resolution instead of
+interpreting DPI information stored in the image meta-data. While images
+are printed at the maximum resolution possible, on screen they are
+displayed pixel-by-pixel.
+ - Being designed more for viewing of Images, it properly shows
+animated GIF files.
+ - The entire program can easily be manipulated and powered by simple
+keystrokes for a quick and pleasant viewing experience.
+ - JustLooking also supports such basic features as printing and
+rotating and will hopefully prove to be sufficiently functional for most
+users' needs.
+
+ License : Freeware
+ Author/Publisher : Marc Wandschneider
+ Modification Date : November 20, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.0 MB
+
+ Home Page 
+
+ JView 2.5 
+
+JView stands for jpeg view - a simple image viewer that supports most commonly used image formats.
+
+ License : Freeware
+ Author/Publisher : Allan Liu
+ Modification Date : January 4, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 654 Kb - for Leopard
+
+ Download 
+File Size: 657 Kb - for Tiger
+
+ Home Page 
+
+ Keyword Manager 1.3.2 
+
+Keyword Manager introduces a brand new way of assigning keywords to your
+photos in a simple and efficient way. Keyword Manager is a plug-in for
+iPhoto that extends the functionality of your familiar iPhoto setup, and
+this plug-in will greatly enhance your photo management experience.
+
+ License : Shareware, $19
+ Author/Publisher : Bullstorm
+ Modification Date : September 28, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 985 Kb
+
+ Home Page 
+
+ Lineform 1.5 
+
+Lineform is a completely new drawing program. Lineform is the ideal tool
+for posters, diagrams and drawings. Powerful features combine with a
+simple interface to make your drawing great.
+ * Easy, simple powerful interface
+ * Powerful Bezier editing tools
+ * Boolean operations
+ * Great typesetting
+ * Artistic strokes
+ * SVG
+ * and much more...
+ If you want to do any drawing from simple logos to complex designs, then
+Lineform is the ideal program for you.
+
+ License : Demo, $80
+ Author/Publisher : Freeverse
+ Modification Date : January 14, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 8.1 MB
+
+ Home Page 
+
+ Lightroom 1.3.1 
+
+Adobe Photoshop Lightroom software is the professional photographer's
+essential toolbox, providing one easy application for managing,
+adjusting, and presenting large volumes of digital photographs so you
+can spend less time in front of the computer and more time behind the
+lens.
+
+ License : Demo, $199
+ Author/Publisher : Adobe
+ Modification Date : December 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 42.7 MB - 1.3.1 Demo/Update
+
+ Home Page 
+
+ LightZone 3.2 
+
+LightZone is the essential desktop photo-editing software for people who
+value their photographs. LightZone is purpose-built for photography and
+allows anyone, regardless of photographic skillset, to edit photographs
+quickly and easily.
+
+LightZone comes with a complete set of photo editing, asset management
+and workflow features, eliminating the need to buy a separate photo
+database. Just leave your photographs in the file-system, LightZone
+helps you manage them.
+
+ License : Demo, $149
+ Author/Publisher : Light Crafts, Inc.
+ Modification Date : November 12, 2007
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 14.8 MB
+
+ Home Page 
+
+ Mike's Edge 1.1.1 
+
+Mike's edge supplies a single task with a powerful and professional, yet easy to use approach. 
+It makes image masks, and it does it well. 
+Whether you prefer the term mask, transparency, or matte, what Mike's Edge does is it 
+allows you to decide which pixels of an image will show, and which will not. 
+These masked images ultimately have a destination, and be it the web, video, or print, 
+Mike's Edge will deliver. 
+
+ License : Freeware
+ Author/Publisher : Mike Sedore
+ Modification Date : March 11, 2003
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ Omnidea Rulers 1.1.194 
+
+Omnidea Rulers allow you to create a set of rulers on the whole screen area,
+unlike most common graphic editors which allow this on their own working areas only.
+
+Using the guide lines enables you to measure and position objects with
+precision. It's incredibly useful in many fields, such as computer
+graphics, desktop publishing and web design.
+
+Rulers can also be used to select a screen area and take a screenshot
+that is automatically saved to the desktop or copied to the system clipboard.
+
+ License : Freeware
+ Author/Publisher : Omnidea
+ Modification Date : September 21, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ Painter 10.1 
+
+A powerful and robust digital painting technology, gives
+sophisticated digital artists and professional graphic designers
+results that have become the creative standard for computer art.
+Hundreds of Natural-Media brushes and paper textures create
+looks that can't be duplicated in any other program. 
+
+ License : Demo, $419
+ Author/Publisher : Corel
+ Modification Date : June 20, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 102 MB - Demo version 10.0
+
+ Download 
+File Size: 10.4 MB - 10.1 Updater
+
+ Home Page 
+
+ Painter Essentials 4.0 
+
+Corel Painter Essentials 4 is the simple-to-use home art studio that
+makes it easy for you to sketch, paint and turn your photos into
+paintings. Two new workspaces put the tools you need at your fingertips,
+whether you're turning a photo into a painting, or sketching and
+painting on a blank canvas. Based on the world's most powerful painting
+and illustration software, Corel Painter, it's the ideal way to get
+started with digital art!
+
+ License : Demo, $80
+ Author/Publisher : Corel
+ Modification Date : August 8, 2007
+ Requirements : Mac OS X 10.4 or higher, 700 MHz or faster
+
+ Download 
+File Size: 64.9 MB
+
+ Home Page 
+
+ PhotoComplete 1.2.1 
+
+If you're looking for more powerful photo editing features than provided
+by iPhoto, but find the complexity and expense of big-money professional
+applications puts you off, then PhotoComplete could be for you.
+PhotoComplete provides an extremely easy to use and intuitive photo
+editing interface, but still has the power and flexibility necessary to
+allow you to get the results you want, and all at an affordable price.
+
+ License : Demo, $39
+ Author/Publisher : Funkypixels Software
+ Modification Date : February 10, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ PhotoGPSEditor 1.5.4 
+
+Do you want to edit meta-data (latitude and longitude, location, description, and notes)
+of photo (JPEG, RAW or Tiff) files? Do you wish to change all the names of your photo
+files at once? Do you have GPS track-data (gpx of NMEA) for trips on which you took
+photos? If you do then PhotoGPSEditor from MMISoftware may be the answer.
+
+PhotoGPSEditor is an easy to use meta-data editor for photo files, plus it can match data
+from GPS (gpx or NMEA) files. The program is freeware, however, donations can be made to
+help support future development.
+
+With PhotoGPSEditor you can add location and summary details to a photo file. Location
+information consists of latitude and longitude data, as well as town, area/region, and
+country. This can be added automatically by matching up photos with GPS (gpx or NMEA) file
+track data, manually (just type it in) or 'automatically' by placing a pointer on a map to
+get the latitude and longitude data. The program can then add town, area/region, and
+country information. This process can also be described as 'geocoding' a picture/photo.
+
+ License : Freeware
+ Author/Publisher : MMI Software
+ Modification Date : May 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ PhotoGrid 1.8 
+
+A quick image viewer. Thumbnails can be resized at anytime.
+
+ License : Shareware, $15
+ Author/Publisher : NattaWorks
+ Modification Date : July 4, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ PhotoInfoEditor 1.2 
+
+Do you want to edit meta-data (latitude and longitude, location, description, and notes)
+of photo (JPEG/RAW/Tiff) files? Do you wish to change all the names of your photo files at
+once? If you do then PhotoInfoEditor from MMISoftware may be the answer.
+
+PhotoInfoEditor is an easy to use meta-data editor for photo files. The program is
+freeware, however, donations can be made to help support future development.
+
+With PhotoInfoEditor you can add location and summary details to a JPEG, RAW or Tiff photo
+files. Location information consists of latitude and longitude data, as well as town,
+area/region, and country. This can be added manually (just type it in) or 'automatically'
+by placing a pointer on a map to get the latitude and longitude data, and then allowing
+the program to add town, area/region, and country information. This process can also be
+described as 'geocoding' a picture/photo.
+
+ License : Freeware
+ Author/Publisher : MMI Software
+ Modification Date : April 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ PhotoMagic 1.2.4 
+
+PhotoMagic is designed to add fun and perfection to photography. If you
+have a digital camera or mobile phone - with built-in camera - Shortcut
+PhotoMagic is the perfect add-on for giving your photos a finishing
+touch. Unlike other products PhotoMagic offers all you need into one
+photo suite: professional, award winning, and patented technologies
+provide the highest quality. It has an easy to use yet powerful
+interface to design, paint, enlarge, repair and print your photos.
+
+ License : Demo, $49
+ Author/Publisher : BenVista
+ Modification Date : June 21, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 20.6 MB - Demo
+
+ Home Page 
+
+ PhotoPresenter 3.3 
+
+Present quickly and easily all your pictures and movies with
+PhotoPresenter. Choose your preferred slideshow style among several
+amazing themes and view any image and movie - either from your iPhoto
+library or from anywhere else, such as from a CD.
+
+ License : Shareware, $8
+ Author/Publisher : Arizona Software
+ Modification Date : January 15, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ Photoshop CS3 10.0.1 
+
+Ideal for photographers, graphic designers, and web designers, Adobe
+Photoshop CS3 software includes automated tools that slash the time
+needed for selecting and compositing; live filters that boost the
+comprehensive, nondestructive editing toolset; and a streamlined
+interface and new, timesaving tools that make your work flow faster.
+
+Adobe Photoshop CS3 Extended software allows you to render and
+incorporate 3D images into your 2D composites. Stop time with easy
+editing of motion graphics on video layers. And probe your images with
+measurement, analysis, and visualization tools. Photoshop CS3 Extended
+is ideal for film, video, and multimedia professionals and graphic and
+web designers using 3D and motion, as well as professionals in
+engineering and science.
+
+ License : Demo, $649 - Upgrade $199 - Extended $999
+ Author/Publisher : Adobe
+ Modification Date : April 16, 2007
+ Requirements : Mac OS X 10.4.8 or higher
+
+ Download 
+File Size: 796 MB - Photoshop CS3 Demo
+
+ Download 
+File Size: 796 MB - Photoshop CS3 10.0.1 Update
+
+ Updates Page 
+
+ Home Page 
+
+ Photoshop Elements 4.0.1 
+
+Adobe Photoshop Elements 4.0 software combines power and simplicity to
+help you do it all. Edit and enhance your photos by fixing common flaws
+instantly or using advanced options for more control. Keep every photo
+at your fingertips. And show off your creativity in even more
+entertaining ways, including cards, calendars, and more.
+
+ License : Demo, $80
+ Author/Publisher : Adobe
+ Modification Date : June 22, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 12.9 MB - 4.0.1 Updater
+
+ Download 
+File Size: 172 MB - 3.0 Demo - December 8, 2004
+
+ Updates Page
+
+ Home Page 
+
+ PhotoStickies 5.6.1 
+
+PhotoStickies displays one or more photos (located on your local drives
+or in the Internet) on your screen, shows webcam pictures, acts as a
+fast image viewer, and records and replays slideshows. Also,
+PhotoStickies can be used as a wallpaper utility.
+
+ License : Freeware
+ Author/Publisher : Devon Technologies
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 922 Kb
+
+ Home Page 
+
+ Picture Arena 1.3.5 
+
+Picture Arena is the next generation tool to manage, use, rework,
+present and browse your digital picture collection. Navigate by speech,
+quickly browse directories, rework your images, create a presentation
+CD, a web gallery, a slideshow or a printed album. With ease.
+
+ License : Shareware, $32
+ Author/Publisher : Iospirit, GmbH
+ Modification Date : November 7, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.4 MB
+
+ Home Page 
+
+ Picturesque 1.0.3 
+
+Picturesque is an application designed to make images look gorgeous for
+the web. With an animated "drag and drop" style interface, Picturesque
+can beautify your images with reflections, soft glows, shadows, delicate
+curves, strokes and fades in less time than it takes to open Photoshop.
+Picturesque can also beautify a whole stack of images in batch with a
+single click, and includes a set of handy Automator actions.
+
+ License : Shareware, $20
+ Author/Publisher : Acqualia
+ Modification Date : July 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 84 MB
+
+ Home Page 
+
+ Pixelmator 1.1.1 
+
+Pixelmator, the beautifully designed, easy-to-use, fast and powerful
+image editor for Mac OS X has everything you need to create, edit and
+enhance your images.
+
+ License : Shareware, $59
+ Author/Publisher : Pixelmator Team Ltd
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 44.7 MB
+
+ Home Page 
+
+ Pixen 3.0 
+
+Pixen is an innovative graphics editor for the Mac. It's designed from
+top to bottom for pixel artists - people who make low-resolution raster
+art like the sprites you see in old video games. But it's great for
+artists of all arenas: Pixen is like a very powerful MSPaint or a
+simpler, more agile Photoshop. And best of all, it's Free!
+
+ License : Freeware
+ Author/Publisher : Open Sword Group
+ Modification Date : June 15, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 5.9 MB
+
+ Home Page 
+
+ Portfolio 8.5 
+
+Surprisingly affordable, Portfolio quickly handles the tasks of
+locating, organizing, archiving and publishing your digital work.
+
+ License : Demo, $200
+ Author/Publisher : Extensis
+ Modification Date : August 5, 2007
+ Requirements : Mac OS X 10.4.4 or higher
+
+ Download 
+File Size: 156 MB
+
+ Home Page 
+
+ Portraits & Prints 2.2 
+
+Portraits & Prints is your complete solution to turning digital
+photographs and scanned images into high quality prints. Digital
+photographs can be quickly imported and arranged for output on your
+color printer. Besides printing, you can develop your layouts at your
+favorite photo center or email your prints to friends. Special tools for
+modifying each photo's brightness, contrast, sharpness, and saturation
+as well as red eye reduction, cropping, and rotation make it easy to fix
+up your photos. Add balloon captions or text to truly personalize your
+photos.
+
+ License : Shareware, $30
+ Author/Publisher : Econ Technologies, Inc.
+ Modification Date : April 12, 2006
+ Requirements : Mac OS X 10.2.7 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ Posterino 1.3.2 
+
+Posterino provides a solution for the common problem we face in the age
+of digital images: We shoot a lot of marvelous pictures, bury them deep
+down in the file system of our computers and most of them never see the
+light of day again. The solution is simple: Compose a "best of" poster
+every couple of month and pin it at the wall in your floor. This will
+make you happy every time you walk by, and it will be a great
+eye-catcher for your friends and family too.
+
+ License : Shareware, $25
+ Author/Publisher : Zykloid Software
+ Modification Date : December 3, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.2 MB
+
+ Home Page 
+
+ PresentArms 1.2.3 
+
+PresentArms is a slideshow program. It allows the user to create a show
+using a large variety of image types, and a playlist of songs to play
+while the slideshow is in progress. Slideshows can be played in both
+windowed and full screen mode, and can be looped if the user so desires.
+Finally, PresentArms allows the user to quickly see the projected length
+of the slideshow, along with the length of the playlist he or she has
+created.
+
+ License : Freeware
+ Author/Publisher : Waveform Software
+ Modification Date : June 17, 2005
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 90 Kb
+
+ Home Page 
+
+ QPict 7.0.1 
+
+Keeping track of your images and other media files can be a tedious
+task. There are tools available that will help you, both free and
+expensive ones. The free ones are too limited and you will soon outgrow
+them. The expensive ones are complex and often forces you to work in a
+way that doesn't suit you. This is where QPict comes into play.
+
+QPict offers an attractive and inexpensive way to view, organize, search
+and batch process all your media files. Our media database engine
+supports common standards such as IPTC, XML and EXIF and supports many
+different media file formats including images, movie clips, fonts, RAW
+images and sounds.
+
+ License : Shareware, $35
+ Author/Publisher : Hide Itoh
+ Modification Date : January 24, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.4 - version 7.0.1
+
+ Download 
+File Size: 3.5 MB
+
+ Home Page 
+
+ QuickScale 3.5 
+
+Quickscale is designed to let you scale a large set of pictures to a
+desired size and format. Now, why would you want to do that? For
+example, if you wish to share your holiday photo's with family and
+friends, you can either send them by e-mail or put them somewhere on a
+website. The problem is that these pictures are usually far to large,
+have immense resolutions, and take far to long to send.
+
+Meet Quickscale: select the images, choose a desired resolution, and
+Quickscale scales them down for you. QuickScale can read from, and write
+to almost every format supported by your Mac OS (including jpg, png,
+gif, and more).
+
+ License : Shareware, $5
+ Author/Publisher : CodingMammoth
+ Modification Date : January 9, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ ResizeIt 2.0.1 
+
+ResizeIt allows you to change the size of multiple images
+simultaneously. It can also convert file formats at the same time.
+
+ License : Freeware
+ Author/Publisher : SYW Software
+ Modification Date : November 17, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 282 Kb
+
+ Home Page 
+
+ Rita 1.1.2 
+
+Rita is a paint program for MacOS X that attempts to be limitless,
+flexible and easy to use. Unlike traditional paint programs Rita does
+not restrict you to a particular image size or resolution. Instead, it
+uses an infinite canvas. You can make the image as big as you like and
+zoom in as much as you want without ever encountering any big blocky
+pixels.
+
+Rita is most fun when using a Wacom drawing board or a similar device.
+
+ License : Shareware, $20
+ Author/Publisher : Niklas Frykholm
+ Modification Date : July 24, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ Scaletron 3.0 
+
+Scaletron! is a scaling calculator -- an electronic replacement for the
+old graphic arts proportion wheel, used for calculating enlargements and
+reductions of artwork. Great for sizing scans and artwork, calculating
+page enlargements or reductions and other layout or output needs,
+Scaletron! is an ideal tool for graphic artists, scanner operators and
+prepress technicians.
+
+ License : Freeware
+ Author/Publisher : RJay Hansen
+ Modification Date : November 30, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 449 Kb
+
+ Home Page 
+
+ Seashore 0.1.9 
+
+Seashore is an open source image editor for Cocoa. It features
+gradients, textures and anti-aliasing for both text and brush strokes.
+It supports multiple layers and alpha channel editing. It is based
+around the GIMP's technology and uses the same native file format.
+
+ License : Freeware
+ Author/Publisher : Mark Pazolli Software
+ Modification Date : April 5, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.4 MB
+
+ Home Page 
+
+ Shoebox 1.7 
+
+Shoebox is an application for organizing digital photos by content.
+Photos are added to categories, which are like virtual folders for
+dates, people, places and things. Shoebox learns what's in each photo,
+and helps you quickly find just the photos that you're looking for.
+
+ License : Shareware, Express $30, Pro $80
+ Author/Publisher : KavaSoft
+ Modification Date : February 26, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ Simple Comic 1.6.1 
+
+Features
+ Page Layout - Pages laid out as they would be in print
+ Page Ordering - Left to right or right to left
+ Page Scaling - Original size, window fit, horizontal fit and defined height
+ Fullscreen - Maximize viewing area
+ Archive Handling - Seamlessly deals with .cbr, .cbz, .zip, .rar, tar, 7z, lha and others
+ PDF Handling - Opens PDF based comics
+ Multiple Sessions - View multiple comics at one time
+ Auto-save - Comics are automatically bookmarked and reopened at launch
+ Page Rotation - Rotate the pages to maximize display area
+
+ License : Freeware
+ Author/Publisher : Dancing Tortoise Software
+ Modification Date : November 13, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ SimpleImage 5.0.1 
+
+SimpleImage is a simple but powerful image and movie viewing application that
+lets you view all the most popular image and movie formats, like JPEG, GIF,
+animated GIF, TIFF, PICT, PNG, MPEG, AVI and more in a single, sleek application.
+
+ License : Shareware, $25
+ Author/Publisher : Christopher Wood
+ Modification Date : December 31, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ Sizerox 1.2.6 
+
+Sizerox is a tool that resizes your "JPEG" or "TIFF" images and saves
+them as "JPEG". You can easily resize and rename your images from your
+digital camera or scanner to send them with E-Mails or use it for the
+web. When you drop images on the Sizerox application icon, Sizerox will
+be started and it will immediately begin with the job. If the checkbox
+"Quit after Job" in the preferences is checked, Sizerox will quit after
+the job is finished. You can use the powerful Renamer engine to rename
+the images while resizing them.
+
+ License : Shareware, $8
+ Author/Publisher : Omid Pajuhideh
+ Modification Date : January 4, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.6 MB
+
+ Home Page 
+
+ SketchBook Pro 2.0 
+
+Award-winning Alias SketchBook Pro is a nimble, high-quality paint and
+drawing application designed specifically for use with Tablet PC or
+digitized pen tablets.
+
+It features an artist-friendly, gesture-based user interface built
+around Alias' patented Marking Menu technology. With a flick of the
+stylus you can access any of the software's best-of-class tools: fast,
+reactive pencils, markers and brushes; pen driven layers; background
+templates; a 75-brushstroke undo/redo option, and a unique pan/zoom
+tool. With its well-designed, streamlined user interface and fast
+intuitive workflow you'll be able to start using Alias SketchBook Pro in
+a matter of minutes.
+
+ License : Demo, $179
+ Author/Publisher : Autodesk
+ Modification Date : June 3, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 7.5 MB
+
+ Home Page 
+
+ Slides! 1.2 
+
+Slides! is a full screen image file viewer for Mac OS X. Just drag some
+files into the Slides! window from the Finder - or any other application
+that supports file drags - and click "Start the Show"
+
+Slides supports most all image formats that are supported by Mac OS X.
+This includes JPEG, GIF, TIFF, EPS, PDF (First Page), BMP and PICT.
+
+ License : Freeware
+ Author/Publisher : Richard Knuckey
+ Modification Date : September 1, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 253 Kb
+
+ Home Page 
+
+ Slide Show 9.0 
+
+Apimac Slide Show is a slideshow and presentation tool for multimedia
+files, movies, sounds and images that allows you to quickly and easily
+create slideshow presentations and portfolios that can be distributed as
+free-standing programs for Mac and Windows.
+
+It is fast to learn and easy to use. Apimac Slide Show lets you
+personalize a presentation, adapting it to the most varied needs. You
+can create presentations and slide shows that can be manually or
+automatically controlled and personalize the presentation with colored
+backgrounds, use multiple soundtracks and show images and movies along
+with their names and custom text.
+
+ License : Shareware, $30
+ Author/Publisher : Apimac
+ Modification Date : December 11, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 16.9 MB
+
+ Home Page 
+
+ SmallImage 2.0.6 
+
+SmallImage is a simple and efficient tool to batch process JPEG files,
+resize them, recompress them, remove embedded profiles and make them
+ready for the web or store them efficiently.
+
+ License : Freeware
+ Author/Publisher : Fabien Conus
+ Modification Date : February 23, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 944 Kb
+
+ Home Page 
+
+ Snapshot 2.0 
+
+Snapshot brings the power of a photo lab to you computer. Printing your digital images has
+never been easier. You have full control over the print size and how you want to crop and
+frame your picture. Add borders and speech bubbles for more interesting and personal
+prints. Multiple layout styles allow you to get just the prints you want - and full print
+previews make wasted paper a thing of the past!
+
+ License : Shareware, $30
+ Author/Publisher : Stunt Software
+ Modification Date : January 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.8 MB
+
+ Home Page 
+
+ TextureMagic 1.4.2 
+
+TextureMagic offers plenty of effects and filters to create unique seamless
+textures. You can influence them by changing meaningful no-nonsense parameters
+to create truly amazing new textures. Unlike other texture creators TextureMagic
+is a bitmap editor like Adobe Photoshop -- so you apply filters and effects the way
+you already know.
+
+ License : Shareware, $40
+ Author/Publisher : Artis Software
+ Modification Date : April 8, 2003
+ Requirements : Mac OS X and Mac OS 9.6 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ ThumbsUp 4.4 
+
+ThumbsUp is a simple, drag-and-drop based utility to create thumbnails
+for a bunch of pictures and supports all image formats of Mac OS X and
+QuickTime (including PDF documents). In addition size, quality,
+sharpening and antialiasing are configurable. Images can be scaled by
+percentage or limited to a maximum size, and with a scaling of 100
+percent it may as well be used as an ultra-fast, comfortable image
+converter. Note: This utility is not intended to be a HTML thumbnail
+gallery generator; there are already lots of them out there.
+
+ License : Freeware
+ Author/Publisher : DEVONtechnologies
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 307 Kb
+
+ Home Page 
+
+ Toucan 1.5 
+
+Toucan is a Mac OS X & Mac OS 9 slide show designed for showing your images quickly.
+Just drag them on the Toucan icon and go!
+
+ License : Shareware, $15
+ Author/Publisher : Boudewijn Pelt
+ Modification Date : Junly 29, 2006
+ Requirements : Mac OS X
+
+ Download 
+File Size: 904 Kb
+
+ Home Page 
+
+ ToyViewer 4.91 
+
+ToyViewer is an image viewer, which also provides various editing
+functions and image converting filter services to other applications. If
+ToyViewer is installed in your Mac, you can see image files in PCX, PPM,
+Sun Raster, etc. on other Cocoa applications.
+
+ License : Freeware
+ Author/Publisher : Takeshi Ogihara
+ Modification Date : February 17, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.6 MB
+
+ Home Page 
+
+ ViewIt 2.22 
+
+ViewIt is a shareware, OS X native, fast and easy to use image viewer
+that supports most popular image formats: JPEG, TIFF, PNG, PSD , RAW,
+DNG, animated GIF and more. Now even corrupted JPEG files load in no
+time.
+
+Important ViewIt features include: unique, intuitive interface, full
+screen mode, quick image sorting, printing, digital cameras and EXIF
+tags.
+
+Currently includes plugins: convert file format, create web pages,
+Finder previews, lose less JPEG transformations, shell scripts support,
+rename sequentially, create contact sheets.
+
+ License : Shareware, $20
+ Author/Publisher : HexCat
+ Modification Date : December 11, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.8 MB
+
+ Home Page 
+
+ VirtuFrame 2.8.6 
+
+VirtuFrame is the original virtual frame application for Mac OS X.
+VirtuFrame sports a clean user experience and refined interface for the
+photo aficionado.
+
+As part of the experience, VirtuFrame includes several frame styles sure
+to appeal to a wide audience of users. Every frame was designed with
+charm and craftsmanship in mind, attempting to replicate the quality of
+photo frames found in framing galleries. With each release, new frame
+styles are added, giving users the ability to match their computing
+environment with an appropriate frame.
+
+ License : Freeware
+ Author/Publisher : TriLateral Systems
+ Modification Date : October 29, 2005
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ VitaminSEE 0.7.1.2 
+
+VitaminSEE is an image viewer for OSX that focuses on interface responsiveness and speed.
+
+ License : Freeware
+ Author/Publisher : Elliot Glaysher
+ Modification Date : March 30, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 952 Kb
+
+ Home Page 
+
+ WouldjaDraw 1.1.2 
+
+With WouldjaDraw, you have the power of an expensive drawing program at
+your fingertips, for a fraction of the price. It's never been easier or
+more inexpensive to create a quick, beautiful drawing using
+WouldjaDraw's advanced features.
+
+ License : Shareware, $30
+ Author/Publisher : Wouldja Software
+ Modification Date : January 12, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Xee 2.0 
+
+Xee is a lightweight, fast and convenient image viewer and browser. It is designed to be a
+serious tool for image viewing and management, with a sleek and powerful interface. Xee
+works as a much more useful replacement for Preview, or most any other image viewer
+available on Mac OS.
+
+ License : Freeware
+ Author/Publisher : Dag Agren
+ Modification Date : January 29, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.3 MB
+
+ Home Page 
+
+ xScope 1.5 
+
+xScope is a powerful set of tools that are ideal for measuring, aligning
+and inspecting on-screen graphics and layouts.
+ xScope is really six tools in one that will help any designer do their
+job faster and produce more accurate results:
+ * Rulers - On-screen rulers that measure distances and angles
+ * Screens - A dynamic view of smaller screen sizes and web browser content areas
+ * Loupe - A magnifying glass that gives you a close-up view of your work
+ * Guides - Markers for precise horizontal and vertical alignment
+ * Frames - Markers for precise width, height & origin alignment
+ * Crosshair - Finds the exact location on screen
+
+ License : Shareware, $17
+ Author/Publisher : ARTIS Software & The Iconfactory
+ Modification Date : March 16, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ ZeboPhoto 2.0.1 
+
+ZeboPhoto is a Mac image viewer featuring various image editing effects
+and unique multiple image slide shows. This affordable image viewer
+provides quick easy access to photos with its browser.
+
+ License : Shareware, $25
+ Author/Publisher : Bobby Cronkhite Software
+ Modification Date : December 3, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 11.6 MB
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ Zeus Draw 1.2 
+
+ZeusDraw is a vector drawing program with a fluid, graceful
+interface, great brushes and a host of other features.
+
+ License : Demo, $90
+ Author/Publisher : Chromatic Bytes
+ Modification Date : July 12, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 9.4 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,110 @@
+Scott's Windows Software 
+
+ Windows 
+
+ Home 
+ Pilot games 
+ Win CE 
+ EPOC 
+ daVinci games 
+ Comments 
+
+ Welcome! This is my page
+ for software I've written for Windows. Comments? You can send me comments and
+ feedback at scottlu@eskimo.com . 
+
+ EZSetup v1.1 - A WinCE Setup App Creation Tool 
+
+ v1.1 Released 07/21/01
+
+ If you are a WinCE author and are looking for an inexpensive way to create / obtain a
+ setup program, look at EZSetup! Once you have created your .cab files (as described in the
+ WinCE SDK), you are ready to use EZSetup. EZSetup takes your .cab files and *outputs* a
+ compressed, self-contained, self-extracting Windows setup program that will set up your
+ WinCE software. PocketChess for Windows CE uses this
+ tool for its setup requirements. The result is a single executable that will set up your
+ WinCE app simply by clicking on the download link! You provide EZSetup with a readme.txt
+ file, a eula.txt file (end-user license agreement), and your .ini & .cabs, and it'll
+ output a setup program ready to be used. It is really simple to use. Save yourself the
+ time and effort trying to make your own setup program or purchasing expensive
+ alternatives!
+
+ EZSetup is free software, released under the Gnu
+ Public License . 
+ Download
+ EZSetup v1.1 
+ The source code for EZSetup is available under Gnu
+ Public License . EZSetup is a free alternative to the
+ expensive 3rd party install application creation tools. Help make EZSetup
+ better for the whole WinCE developer community! 
+ Download
+ EZSetup v1.1 Source Code 
+ What's new in v1.1: Specify English, German, or French for
+ localized installer text. Also fixed a bug when EzSetup was run on a path
+ with spaces. 
+ For more info contact me at: scottlu@eskimo.com . 
+
+ CExe Executable Compressor
+ v1.0b 
+ Compress any executable! With CExe, you can compress any
+ executable and make it significantly smaller and still fully functional. This is useful
+ for sending executables in email, downloading executables over the net, fitting
+ executables on floppies, etc. CExe can compress Win32 executables, Win16 executables, OS/2
+ executables, WinNT Posix executables... the output format is *always* Win32 executable
+ format. 
+ CExe has 2 compressors built into it, and picks the one that
+ makes the result the smallest. For smaller files, it uses LZExpand to decompress, which is
+ part of Windows. For larger files (.exe files are usually large!), it uses the free and
+ incredibly useful ZLib Library for
+ decompression. In the case of using ZLib, the decompressor itself is decompressed using
+ LZExpand and then used, resulting in a smaller overall compressed file size. 
+ At this time the tool runs on NT only - if someone were willing to write resource
+ writing code it would be working on Win95/98 too (the BeginUpdateResource()... apis aren't
+ implemented on Win95/98). 
+ The compressed executables it creates work on any Windows platform. 
+ Here are some results: 
+
+ Program 
+ Old size (bytes) 
+ New size (bytes) 
+ Percent Savings 
+
+ mspaint.exe 
+ 339728 
+ 170496 
+ 49.81% 
+
+ excel.exe 
+ 5604624 
+ 3492352 
+ 37.69% 
+
+ winhlp32.exe 
+ 311056 
+ 178688 
+ 42.55% 
+
+ sort.exe 
+ 24848 
+ 14848 
+ 40.24% 
+
+ winver.exe 
+ 20752 
+ 12800 
+ 38.32% 
+
+ sw98.exe 
+ 124416 
+ 50688 
+ 59.26% 
+
+ In the spirit of the fantastic & free ZLib, and the fact that there are so many non-free 
+ exe compressors on the market, I am making cexe freely available. 
+ Download
+ CExe v1.0b 
+ The source code for CExe is available under Gnu
+ Public License . Help make CExe better for the Windows community! 
+ Download
+ CExe v1.0b Source Code 
+ For more info contact me at: scottlu@eskimo.com .

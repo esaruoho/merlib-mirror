@@ -1,0 +1,1208 @@
+---
+title: "Pull 49 -- RSK's 1st Annual New Years Pull - Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull49.html
+order: 7468
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T17:15:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 49 -- RSK's 1st Annual New Years Pull - Day 1
+
+*Source page: `~samoyed/iwpa/0001/Pull49.html`*
+
+RSK's 1st Annual New Years Pull - Day 1\
+Newport News Park, Newport News, Virginia
+=========================================
+
+Pull: 49
+
+Organizer(s):Stephanie & Dave Coleman
+
+Wheels Region: 6
+
+Dirt
+
+Track:Good
+
+Date:12/30/2000
+
+Weather:
+
+Cold - 25F - Windy
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Irish Rose
+
+6
+
+1100
+
+12.09
+
+35
+
+31.43
+
+11.0
+
+Richard Rodgers
+
+Am. PitBull Terrier
+
+Rummy
+
+6
+
+1100
+
+15.71
+
+32
+
+34.38
+
+8.0
+
+Nella Johnson
+
+Am. PitBull Terrier
+
+Reba
+
+P
+
+900
+
+10.59
+
+32
+
+28.13
+
+.
+
+Stephanie Coleman
+
+Am. PitBull Terrier
+
+Ownership was under the Coleman's at this time, then reverted back to the Pedersons later. Setting provisional to clear points on previous owner when there is an ownership change.
+
+Diffy
+
+7
+
+900
+
+16.43
+
+32
+
+28.13
+
+3.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Rocko
+
+7
+
+900
+
+17.56
+
+31
+
+29.03
+
+2.0
+
+Brandon Pederson
+
+Am. PitBull Terrier
+
+Jubilee
+
+6
+
+800
+
+11.40
+
+32
+
+25.00
+
+1.0
+
+Charlie Johnson
+
+Am. PitBull Terrier
+
+Calli
+
+7
+
+800
+
+12.84
+
+29
+
+27.59
+
+0.5
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Cody
+
+6
+
+1700
+
+31.87
+
+56
+
+30.36
+
+17.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Jaws
+
+6
+
+1600
+
+10.90
+
+56
+
+28.57
+
+14.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Starbuck
+
+5
+
+1600
+
+13.09
+
+53
+
+30.19
+
+11.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Kindr
+
+5
+
+1500
+
+64.87
+
+58
+
+25.86
+
+9.0
+
+Debi Pruznick
+
+Samoyed
+
+Star
+
+6
+
+1300
+
+9.06
+
+56
+
+23.21
+
+8.0
+
+Larry Brillhart
+
+Alaskan Husky
+
+Larae
+
+6
+
+1300
+
+12.12
+
+42
+
+30.95
+
+7.0
+
+Richard Rodgers
+
+Am. PitBull Terrier
+
+Zorro
+
+5
+
+1200
+
+36.71
+
+54
+
+22.22
+
+6.0
+
+Steve Jackson
+
+Siberian Husky
+
+Alexis
+
+6
+
+1100
+
+16.81
+
+43
+
+25.58
+
+5.0
+
+Jose' Cintron
+
+Am. PitBull Terrier
+
+Jake
+
+5
+
+900
+
+9.03
+
+54
+
+16.67
+
+4.0
+
+Wendy Leister
+
+Siberian Husky
+
+Maggie
+
+6
+
+800
+
+10.31
+
+50
+
+16.00
+
+3.0
+
+Stephanie Coleman
+
+Am. PitBull Terrier
+
+Koala
+
+6
+
+600
+
+24.34
+
+58
+
+10.34
+
+2.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Gypsy
+
+P
+
+500
+
+7.00
+
+45
+
+11.11
+
+.
+
+Charlie Schwabe
+
+Am. PitBull Terrier
+
+Justice
+
+6
+
+500
+
+11.58
+
+56
+
+8.93
+
+0.5
+
+Janet McMillan
+
+Am. PitBull Terrier
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Sitting Bull
+
+6
+
+2100
+
+13.90
+
+76
+
+27.63
+
+17.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Glory
+
+P
+
+2100
+
+25.65
+
+78
+
+26.92
+
+.
+
+Todd Pederson
+
+Am. Bull Dog
+
+Nala
+
+7
+
+1800
+
+9.06
+
+77
+
+23.38
+
+11.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Blood
+
+6
+
+1800
+
+12.75
+
+75
+
+24.00
+
+9.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Froggy
+
+7
+
+1800
+
+14.68
+
+74
+
+24.32
+
+8.0
+
+Brandon Pederson
+
+Am. Bull Dog
+
+Shane
+
+6
+
+1500
+
+13.25
+
+79
+
+18.99
+
+7.0
+
+Dave Coleman
+
+Am. PitBull Terrier
+
+Rawhide
+
+6
+
+1500
+
+13.50
+
+74
+
+20.27
+
+6.0
+
+Richard Rodgers
+
+Am. PitBull Terrier
+
+Brutus
+
+P
+
+1500
+
+20.03
+
+71
+
+21.13
+
+.
+
+Jaried Frogosa
+
+Am. Bull Dog
+
+Tyler
+
+6
+
+1200
+
+7.68
+
+62
+
+19.35
+
+4.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Darla
+
+6
+
+1200
+
+9.09
+
+75
+
+16.00
+
+3.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+Xena
+
+6
+
+1200
+
+9.75
+
+78
+
+15.38
+
+2.0
+
+Carol Dodds
+
+Alaskan Malamute
+
+Yuengling
+
+5
+
+900
+
+16.09
+
+68
+
+13.24
+
+1.0
+
+Steve Jackson
+
+German Shepherd
+
+Keno
+
+6
+
+600
+
+46.87
+
+66
+
+9.09
+
+0.5
+
+Kim Willis
+
+Rhodesian Ridgeback
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Diesel
+
+6
+
+2400
+
+11.87
+
+92
+
+26.09
+
+18.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Blitz
+
+6
+
+2400
+
+32.50
+
+91
+
+26.37
+
+15.0
+
+Charlie Johnson
+
+Am. Bull Dog
+
+Avalanche
+
+7
+
+2100
+
+11.00
+
+88
+
+23.86
+
+12.0
+
+Donald Taylor
+
+Am. PitBull Terrier
+
+Zeus
+
+7
+
+2100
+
+14.46
+
+90
+
+23.33
+
+10.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Max
+
+7
+
+2100
+
+30.27
+
+96
+
+21.88
+
+9.0
+
+Wayne Mullins
+
+Am. PitBull Terrier
+
+Casper
+
+7
+
+2100
+
+40.25
+
+96
+
+21.88
+
+8.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Nina
+
+6
+
+1800
+
+11.03
+
+90
+
+20.00
+
+7.0
+
+Richard Rodgers
+
+Rottweiler
+
+Moose
+
+6
+
+1800
+
+11.53
+
+92
+
+19.57
+
+6.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Dozer
+
+6
+
+1800
+
+25.75
+
+86
+
+20.93
+
+5.0
+
+Stephanie Coleman
+
+Am. Bull Dog
+
+Alcatraz
+
+7
+
+1500
+
+9.69
+
+88
+
+17.05
+
+4.0
+
+Donald Taylor
+
+Am. PitBull Terrier
+
+Baby
+
+P
+
+1500
+
+33.93
+
+84
+
+17.86
+
+.
+
+Jaried Frogosa
+
+Am. Bull Dog
+
+Crystal
+
+6
+
+1200
+
+12.68
+
+83
+
+14.46
+
+2.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Riggs
+
+6
+
+900
+
+8.25
+
+90
+
+10.00
+
+1.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Hinter
+
+6
+
+300
+
+8.28
+
+87
+
+3.45
+
+0.5
+
+Kim Willis
+
+Rhodesian Ridgeback
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Bo-Bo
+
+6
+
+2100
+
+30.40
+
+102
+
+20.59
+
+10.0
+
+Ricky Stevens
+
+Alaskan Malamute
+
+Toby
+
+7
+
+1800
+
+18.18
+
+104
+
+17.31
+
+7.0
+
+Caroline Howell
+
+Am. Bull Dog
+
+Hakuna
+
+6
+
+1800
+
+41.62
+
+104
+
+17.31
+
+4.0
+
+Richard Rodgers
+
+Rottweiler
+
+Atom
+
+6
+
+1800
+
+72.62
+
+114
+
+15.79
+
+2.0
+
+Dave Coleman
+
+Am. Bull Dog
+
+Sarg
+
+6
+
+1500
+
+6.00
+
+110
+
+13.64
+
+1.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Sherman
+
+6
+
+1200
+
+39.84
+
+110
+
+10.91
+
+0.5
+
+Linda Draper
+
+Rottweiler
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Cleatus
+
+7
+
+3000
+
+73.34
+
+155
+
+19.35
+
+9.0
+
+Debbie Lee
+
+Mastiff/Bernard
+
+Anna
+
+7
+
+2700
+
+56.75
+
+139
+
+19.42
+
+6.0
+
+Terry Lee
+
+Mastiff/Bernard
+
+Moses
+
+6
+
+2100
+
+10.43
+
+131
+
+16.03
+
+3.0
+
+Mark Pickrel
+
+Alaskan Malamute
+
+Largo
+
+6
+
+1800
+
+49.09
+
+136
+
+13.24
+
+1.0
+
+Carol Dodds
+
+Tibetan Mastiff
+
+Tolkin
+
+6
+
+1200
+
+13.09
+
+124
+
+9.68
+
+0.5
+
+Linda Draper
+
+Rottweiler
+
+Last Updated: 02:15:47 on 03-20-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull48.html) | [Next Pull \#](Pull50.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

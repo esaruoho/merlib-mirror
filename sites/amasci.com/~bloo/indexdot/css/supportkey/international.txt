@@ -1,0 +1,651 @@
+CSS specification/browser support page: International Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ unicode-bidi 
+ -- 
+ X 
+ 5.0 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ -- 
+ -- 
+
+ normal 
+ -- 
+ X 
+ 5.0 
+ -- 
+ -- 
+
+ embed 
+ -- 
+ X 
+ 5.0 
+ -- 
+ -- 
+
+ bidi-override 
+ -- 
+ X 
+ 5.0 
+ -- 
+ -- 
+
+ direction 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ inherit 
+ -- 
+ X 
+ 5.0 
+ -- 
+ -- 
+
+ ltr 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ rtl 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ -- 
+
+ ruby-align 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ left 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ center 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ right 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ distribute-letter 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ distribute-space 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ line-edge 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ruby-overhang 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ none 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ whitespace 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ruby-position 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ above 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ inline 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ line-break 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ normal 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ strict 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ word-break 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ normal 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ break-all 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ keep-all 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ writing-mode 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ lr-tb 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ tb-rl 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ ime-mode 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ active 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ inactive 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ deactivated 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ text-justify 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ distribute 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ distribute-all-lines 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ inter-cluster 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ inter-ideograph 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ inter-word 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ newspaper 
+ -- 
+ -- 
+ 5.5B1 
+ -- 
+ -- 
+
+ text-autospace 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ none 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ideograph-alpha 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ideograph-numeric 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ideograph-parenthesis 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ ideograph-space 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ text-kashida-space 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ inherit 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ [percentage] 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ layout-flow 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ horizontal 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ vertical-ideographic 
+ -- 
+ -- 
+ 5.5 
+ -- 
+ -- 
+
+ layout-grid 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [layout-grid-mode] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [layout-grid-type] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [layout-grid-line] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [layout-grid-char] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [layout-grid-char-spacing] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ layout-grid-mode 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ both 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ none 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ line 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ char 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ layout-grid-type 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ loose 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ strict 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ fixed 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ layout-grid-line 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ none 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Length] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ layout-grid-char 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ none 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Length] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ layout-grid-char-spacing 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ auto 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Length] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ [Percentage] 
+ -- 
+ -- 
+ 5.0 
+ -- 
+ -- 
+
+ Boring Copyright Stuff...

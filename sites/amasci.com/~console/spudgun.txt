@@ -1,0 +1,109 @@
+I am reposting this from a thread that originated on one of the UCD 
+newsgroups.  It's a crude attempt, with only ASCII pictures for 
+illustration.  Note that I in no way will be held liable for your actions 
+resulting from these instructions, including possession or use of a spud 
+gun.  They were legal in California at the time I posted this; I make no 
+implications as to their legality in other states.
+
+===========================================================================
+
+Go to the hardware store and buy:
+The following parts of ABS pipe.  This is the BLACK plumbing pipe.  DO 
+NOT USE PVC, or white, plumbing pipe as it can shatter.
+* 3 feet length of 1.5-inch diameter pipe
+* 1 foot length of 3-inch diameter pipe
+* a 3-inch to 1.5-inch coupler
+    looks like this:
+     _
+      \_
+       _
+     _/      (I know, it's crude, but hopefully you can see)
+* I don't know what it's called, but basically, a THREADED 3-inch 
+  diameter end piece, and accompanying screw cap.  The screw cap is a flat, 
+  3-inch disk with threads along the edge, and a cubical piece sticking out 
+  of the outside face, to grab onto in order to screw & unscrew it.  I 
+  think the ring and cap together are simply called a screwable end cap.
+* 1 bottle Plumbers' cement suitable for ABS.
+
+You can probably buy the following at Walmart cheaper:
+* 1 Coleman lantern igniter -- it's a little dial thingie with about a 
+  2-3 inch shaft and a piece of flint on the end, such that when you flick 
+  it vigorously (in a motion as if you're snapping your fingers), the flint 
+  sparks.
+* one 3-foot long, 1-inch diameter (actually, as big a diameter as 
+  possible up to 1.5 inches) wooden rod.  This will be your ramrod.
+* Berryman B-12 Chemtool, which is carburetor/choke cleaner, is the 
+  propellant I use.  It seems to work even better than hair spray.
+
+
+Assembly instructions:
+
+1. Couple the 1.5-inch pipe to the 3-inch pipe using the coupler (as if I 
+   need to say it, yes, you should GLUE them very well.  They don't just 
+   snap together).
+2. Glue the 3-inch endpiece on the end of the 3-inch pipe (which, if you 
+   haven't figured it out by now, is going to be your chamber) such that 
+   you'll be able to screw and unscrew the cap on the end of the gun.
+3. Drill a hole in the middle of the chamber piece (3-inch pipe) small 
+   enough that the lantern igniter will fit through snugly.  Note: don't 
+   GLUE the lantern igniter in there; you'll have to replace it eventually 
+   when it wears out!
+4. Put the lantern igniter in that hole.  It screws in; you'll see how if 
+   you have the right lantern igniter.
+5. File the edge at the end of the barrel, mostly along the outside but a 
+   little bit on the inside as well, so that the edge is relatively sharp.  
+   You will need it to be rather sharp to cut through the potato.
+6. Let the gun dry a couple hours or whatever time the Plumbers' cement 
+   says to.
+
+Crude depiction of finished product:
+
+         | <-lantern igniter dial
+     ---------\
+     |         \------------------------
+    [|                                 |
+     |         /------------------------
+     ---------/
+
+The little square bracket on the end of the chamber represents the handle 
+of the screw cap.
+
+
+Shooting instructions:
+1. Unscrew the cap from the chamber.
+2. Take a spud.
+3. Put it on the (barrel) end of the gun, and push down to cut a 1.5-inch 
+   cross section through the potato.
+4. If there's enough of the potato left for another round, save it.  
+   Otherwise, discard potato scraps.
+5. Push the potato down the barrel with your 3-foot ramrod, until it's 
+   most of the way down but not all the way.  A good measure of judgement is 
+   if you're grabbing the ramrod with your fist on the very end of the rod, 
+   push down until the edge of your hand touches the barrel end, and go no 
+   further.
+6. Make sure that the lantern igniter dial is pulled OUT all the way.  
+   Otherwise, you may saturate the flint with igniter fluid and burn your 
+   flint up in one shot.
+7. Squirt a VERY short squirt of B-12 Chemtool (less than half a second 
+   long) into the chamber.  Just aim straight in.  Don't use the stupid 
+   little straw that comes with the can of Chemtool.  Screw the cap back on 
+   the end of the chamber as quickly as possible.
+8. Hold the gun at your SIDE, about waist level.  Point it at about a 
+   45-degree angle for optimum distance.  Flick the lantern igniter and 
+   watch your spud go flying.
+
+
+A couple VERY IMPORTANT precautions to anyone building a spud gun per my 
+instructions:
+
+1. Never, EVER flick the lantern igniter while you have the cap off the 
+end.  There have been people who can't get it to spark, and unscrew the 
+cap, look in the chamber, and say "gee, I wonder why it's not firing" as 
+they flick the igniter, only to get 3rd-degree burns on their face as a 
+huge flame bursts from the end.
+
+2. After firing, while all your friends are oo-ing and ah-ing, unscrew 
+the cap and let it air out.  It's best to get the remaining vapors out of 
+there before you fire it again.
+
+--CC, 1998

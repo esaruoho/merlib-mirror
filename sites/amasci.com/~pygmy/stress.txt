@@ -1,0 +1,371 @@
+        
+
+                      Stress Testing PCs with Linux
+
+                    How to Make Your Hardware Reliable
+
+                                  by 
+                             Frank Sergeant
+                        frank.sergeant@pobox.com
+
+*Introduction
+
+     How can you get your work done if you cannot rely on your
+computer?  Fortunately, I had at least two unreliable computers of my
+own to experiment upon.  Intermittent troubles are very difficult to
+track down.  Is it the hardware or is it the software?  I will
+describe the test I now use to answer that question.
+
+*The Test
+
+     Compiling the kernel of the Linux operating system uses the
+resources of the computer so intensely that it makes a good test of
+the hardware.  If the compile "blows up", then the hardware is bad.
+This may take a leap of faith at first, but I will try to explain why
+I think it is a reasonable hypothesis.  You might think that the
+compile blowing up means a software bug in the compiler.  But, if that
+were true, you would expect the compile to blow up at the same place
+each time.  Compiling the kernel consists of running the compiler on
+many different source files, producing an object file for each one,
+then linking the object files together to form the final kernel.  (The
+kernel is the heart, so to speak, of the Linux operating system.)
+Typically, if the compile blows up, it does so during the compile of a
+different source code file each time, sometimes after 45 seconds,
+sometimes after 2 or 3 or 20 minutes, etc.  It is this random nature
+of the problem that suggests bad hardware and not bad software.  More
+details about this test, examples of hardware problems and what to do
+about them, plus additional case histories are available from 
+http://www.bitwizard.nl/sig11/ or in the file CGG-SIG11-FAQ available
+on Linux distributions and ftp sites (for example, see 
+http://www.infomagic.com).
+
+     Remember, we are dealing with an intermittent problem.  If the
+computer didn't work at all, we wouldn't have a problem, we'd just
+replace it.  But, when it crashes once a day or once a week,
+especially if we are running Windows, how do we know it isn't Windows
+causing trouble?  The uncertainty is disturbing, not to mention the
+problem of losing your work, corrupting your data, and upsetting your
+employees and customers.  Because we are dealing with an intermittent
+problem, compiling the kernel once does not prove the hardware is
+good.  The more times in a row you compile the kernel successfully,
+the more likely the hardware is good.  However, a single failed kernel
+compile proves the hardware is bad.  Throughout this article, a "test"
+or a "stress test" will mean running a kernel compile.  Since even bad
+hardware can sometimes run a single test successfully, we must run a
+series of tests, 10, 20, 50, or more, depending upon our patience.
+
+     Following is the shell script to run the test multiple times.  I
+name it 'stress.sh' and invoke it with 'stress.sh 10' to run a series
+of 10 tests.  It reports the success or failure results to the screen
+and also writes them to a log file named stress.summary.
+
+----------------------- stress.sh ---------------------------------
+#!/bin/sh
+cd /usr/src/linux
+passnum=1
+while [ ${passnum} -le  $1  ] 
+do 
+    echo -ne 'starting compile #'$passnum at $(date)\
+                | tee -a $HOME/stress.summary
+
+    # perform the compile
+    (make dep; make clean; make zImage)  2>&1 > /dev/null
+
+    if [ $? -eq 0 ]   # test result code from running the compile
+    then
+       echo ' -- success --'  | tee -a $HOME/stress.summary
+    else
+       echo ' -- failure -- '  | tee -a $HOME/stress.summary
+    fi
+
+    # increment the pass number
+    passnum=$((passnum+1)) 
+done
+-----------------------------------------------------------------
+
+*What is Linux
+
+     Linux is a free clone of the Unix operating system.  It runs on
+various hardware, including PCs ('386 or better).  It is a more
+reliable operating system than DOS or Windows.  It can co-exist with
+DOS or Windows on a PC, allowing you to decide at boot time which
+operating system you wish to use.
+
+*Case Histories
+
+**First Case History: Pentium 90 MHz (24 MB RAM)
+
+***Symptoms
+
+     This computer worked most of the time.  It would lock up perhaps
+once a day or more often in Windows 95.  It would lock perhaps every
+few days in plain DOS.  It essentially never locked up in Linux.  Even
+in Linux, though, there were signs of trouble: a kernel compile would
+never complete successfully and a large LaTeX compile would fail about
+one in three times.  It would blow up at random places.  Even then,
+the computer did not lock up, but just reported an error and returned
+to the command prompt.  So, this is why I say that Linux is more
+reliable than Windows or DOS: on the very same hardware, even though
+the hardware was defective, Linux did not lock up but the other two
+did.
+
+***Testing
+
+     I first suspected a RAM (memory) problem.  I spent several days
+substituting various combinations of RAM chips and re-running the
+tests.  None of the combinations of RAM chips solved the problem.
+
+     Next, I pulled all of the cards that weren't essential to running
+the test.  This didn't help.  Next I checked the motherboard settings
+with the manual.  The CPU was rated at 90 MHz and I wanted to make
+sure the motherboard hadn't been misconfigured to run at a higher
+speed.  The settings were correct.
+
+     Then, I changed the clock settings to reduce the external clock
+speed from 60 MHz to 55 MHz.  This "fixed" the problem.  That is, a
+series of tests completed successfully.  I replaced the cards and it
+still worked.  I reset the jumper to 60 MHz and again the tests
+failed.  I reset the clock to 55 MHz and the tests passed.  The
+motherboard has two sets of jumpers.  One set controls the external
+clock speed (60 MHz, 55 MHz, etc.) and the other controls the
+multiplier for the CPU clock.  The lowest this would go was 1.5, thus,
+for a 90 MHz Pentium (really an AMD chip), the external clock should
+be set to 60 MHz and the multiplier to 1.5, giving 90 MHz for the CPU.
+I was disappointed in having paid for a 90 MHz machine but only
+receiving an 82.5 MHz machine.  But, I was much happier to have a
+reliable machine at the slower speed than to suffer the data loss and
+aggravation of the faster speed.  One test run took about 17 minutes.
+I ran a series of 30 tests overnight -- all successful.
+
+     The CPU has a fan and a heat-sink combination attached to it with
+a plastic clamp -- the heat-sink is sandwiched between the CPU and the
+fan.  The fins of the heat-sink face the fan and the smooth side of
+the heat-sink touches the CPU.  The idea is that the fan blows air
+over the fins to cool the CPU.  I was surprised to see that the
+heat-sink was merely placed "bare" against the CPU.  In the old days,
+voltage regulators and power transistors and other hot-running ICs
+usually were mounted to their heat-sinks with thermal compound
+(heat-sink grease) that was designed to improve the heat transfer.  I
+hear that the lack of using the thermal compound is typical these days
+for CPUs.  I am suspicious of this practice and think it may be
+laziness or ignorance on the part of computer assemblers.  I remounted
+the heat-sink to the CPU using heat-sink compound, reset the external
+clock speed to 60 MHz and ran another series of tests.  Yes, this
+fixed it.  Now the machine runs at full speed.
+
+**Second Case History: Pentium 166 MHz (16 MB RAM)
+
+***Symptoms
+
+     This machine, in a network of three computers, all running
+Windows 95, would lock up occasionally.  It was a new machine and no
+reason or pattern was obvious.  The installer planned to return it to
+his whole-seller for replacement.  I suggested we run the stress test
+on it first to see if the problem really was the hardware.
+
+***Performing the Test
+
+     There were some problems setting up the test that I worked around
+by temporarily installing my spare 120 MB hard disk.  I installed
+Linux on that disk and was able to run the test without disturbing the
+primary hard disk on the machine.  I felt I needed to do the tests
+this way because the primary hard drive was set up as a FAT32 file
+system with a single partition and would have been difficult to
+repartition.
+
+***Results
+
+     One run of the stress test took about 13 minutes on this machine.
+To my surprise, the first test was successful.  I set up the stress
+test to run overnight and it ran successfully 57 times in a row.  Of
+course, this does not prove the hardware is good.  The stress test
+might have failed on the 58th time.  Also, the stress test does not
+test everything.  Nevertheless, 57 successes in a row with no failures
+is a good sign that the hardware is probably good.
+
+     Our next best guess as to the cause of the lockup problem was
+that it was caused by WordPerfect version 6.0a (a 16-bit Windows 3.1
+program) running on that machine.  I had heard from an experienced
+WordPerfect user that version 6.0 was particularly buggy.  WordPerfect
+was upgraded on that machine.  The computer has not locked up since
+then, although it has only been running for a few days.  We will keep
+an eye on it and hope for the best.  Meanwhile, it appears this was a
+software problem due to WordPerfect.
+
+**Third Case History: '486 40 MHz (20 MB RAM)
+
+***Symptoms
+
+     This machine gave frequent problems under Windows 95 and under
+Windows NT.  The registry would become corrupted, software installs
+would fail, the computer would lock up, etc.  Even under Linux there
+was trouble, although not as much as under Windows.  Linux would
+usually lockup if left to run overnight.
+
+***Special Considerations
+
+     This machine presented an interesting problem due to its speed
+and its value.  Because of its relatively slow speed, the stress test
+takes a long time to run.  This makes the testing extra expensive in
+terms of time.  Then, because of the machine's age and speed, it is
+not worth very much.  So, the test costs more to run and the best
+possible final result, a working '486 machine, has little value.
+Therefore, if a '486 system seems to be causing trouble, instead of
+testing and repairing it, it might be more "cost effective" simply to
+replace it with a faster machine.
+
+     Nevertheless, the stress test might be useful even on old, slow
+machines as a quick "Good/Bad" test.  If the test fails, replace at
+least the motherboard and CPU, don't try to locate the faulty
+component.  If it passes the test, let it run overnight or over a
+weekend to give more confidence that the hardware is ok and that the
+trouble lies elsewhere.
+
+*** Test Results
+
+     Since I had the 120 MB hard drive already loaded with Linux after
+testing the Pentium 166, it was not too difficult to open the case of
+the '486 and connect this drive.  Because of other troubles I had been
+having with the '486, I was fairly sure it would not pass the stress
+test.  Sure enough it failed right away with lots of errors.
+
+     I changed various things around over a period of about a week,
+running lengthy tests between changes.  The final result appears to be
+a reliable 12 MB machine.  It seems there were two problems: (1)
+probably the 16 MB SIMM was bad and (2) the CPU needed a heat-sink and
+fan.
+
+     The length of time each test took depended upon the amount of RAM
+and whether the external cache was turned on or off.  A single test
+with 4 MB of RAM was still running after eight and a half hours when I
+finally killed it.  It might have passed the test, but I'm not going
+to run a series of tests where each one takes that long.  Thereafter,
+I tested with at least 8 MB.  Normally, a series of 10 tests would
+take between 8 and 15 hours.
+
+     After removing what later turned out to be the bad 16 MB RAM and
+replacing it with 8 MB of "known good" RAM that had passed the stress
+test in another machine, I ran a series of 10 stress tests.  This took
+about 15 hours.  Yes, with a '486-40 and only 8 MB of RAM (and a
+fairly fat Linux kernel) each compile took around and hour and a half.
+It passed the first 6 tests and the 8th test, but failed the 7th and
+9th and 10th tests.  You see how tricky this is?  If I had stopped
+after only 5 or 6 tests, I might have concluded incorrectly that the
+hardware was now fixed.  Once the hardware is fixed, how many tests
+would it take to prove it had been fixed?  We need to consult a
+statistician, but I would say certainly more than 6 and probably more
+than 30.
+
+     Although I tried a number of changes, the next beneficial change
+was to put a fan and heat-sink on the CPU.  This allowed a successful
+series of tests.  To be sure the problem wasn't due just to the lack
+of heat-sink and fan, I replaced the 16 MB SIMM and reran the tests
+which again failed.  So, the final configuration has 12 MB of RAM and
+appears (after passing about 22 tests in a row) to be fixed.
+
+*Is it Worth It?
+
+     It depends upon whether you are doing this for fun or not.  If
+you are not doing it just for fun, it doesn't make much sense to spend
+a lot of time running the tests and swapping out memory and rerunning
+the tests time after time if you have a slow '386 or '486, especially
+if you have less than 8 MB of RAM.  With at least 8 MB of RAM, it
+might make sense to run the stress test on an old '386 or '486 as
+means of verifying the hardware is good.  Forget it, though, if the
+machine has less than 8 MB of RAM.  Even then, expect it to cost a
+number of hours with, at the very best, a final diagnosis of "probably
+good".  If any of the tests fail, the machine probably should be
+replaced immediately because continued component replacement and
+retesting won't be worth the cost in time of doing the tests.  If the
+old machine tests bad, you might be better off buying a new
+motherboard and CPU.  The latest ad I have from DreamTech
+(800-237-3263) shows a 150 MHz Pentium motherboard/CPU for about $230.
+
+     On the other hand, if you are using your computer for important
+work and are experiencing problems, performing the test could be very
+worthwhile.  If your problems really are due to bad hardware, this is
+a way to fix them and to confirm that the hardware is now good.
+
+*New Machines
+
+     On new machines, a 150 MB partition could be reserved for Linux
+from the beginning and Linux installed in it.  It is hard to buy a
+machine new with as less than a 1.2 GB hard disk, so this might be a
+reasonable use of about a tenth of the disk or less.  Run the stress
+test at least overnight before putting the machine in service.  Later,
+if there are questions about the machine's reliability, it is a fairly
+simple matter to boot to Linux and run the stress test -- you don't
+even need to open the case.
+
+*Efficiency
+
+     You might complain that this stress test is overkill.  Why should
+you need to install an entire operating system, compiler, etc. just to
+test the hardware?  I agree.  The problem is that RAM testers
+apparently do not work reliably.  So, you take your RAM into a
+computer store where the clerk tests your RAM and says it's good.  All
+that means is the RAM is not always bad.  The RAM that causes you
+trouble is the RAM that is almost good and fails only in rare
+circumstances, perhaps once or twice a day or week.  It is the intense
+and effectively random testing of memory that occurs as a by product
+of compiling a Linux kernel that really gives the memory a proper
+workout.  It stands to reason that the same sort of testing could be
+done by a program designed for just that purpose, making the test a
+lot easier to perform (and perhaps faster).  It should fit on a floppy
+instead of requiring many megabytes of hard disk and RAM.  I suspect
+such as test already exists or will exist, but I do not want to write
+it or search for it or verify it myself.  I'll wait until someone
+finds it for me.  Meanwhile, the Linux kernel compile is overkill, but
+it's all I've got and it is a lot better than guessing.
+
+*Conclusions and Speculations
+
+     Don't tolerate flaky or questionable hardware.  Now that a test
+exists you don't need to keep wondering whether it is the hardware or
+the software.
+
+     Always use thermal compound when mounting a heat-sink to the CPU.
+The goal is to have the CPU itself run at room temperature, not just
+to have a cool heat-sink.
+
+     Old, slow computers may not be worth fixing unless doing it for
+fun.  The test is more expensive to run and the end result is still an
+old, slow computer.  For business purposes, your time and money might
+be better spent upgrading the motherboard and CPU.
+
+     The test is expensive and tedious to perform.  Pre-install Linux
+whenever possible, if only to use for hardware testing.  Since that
+might not always be practical, I plan to put together a Linux file
+system that will fit on a ZIP drive so I can copy it to a temporary
+Linux subdirectory on an ordinary DOS (FAT16) disk and run the test
+from the DOS disk.  This probably won't work if the disk is a Windows
+95 FAT32 or a Windows NT file system.  Because of this, I suggest, if
+you must install Windows, that you use a plain FAT16 file system.
+
+     Expect a cheaper, easier test to appear.  If you find it, please
+tell me about it.  It shouldn't take 120 MB of disk space and
+shouldn't require the installation of a full operating system and
+compiler just to check out the hardware.  On the other hand, beware of
+simplistic memory tests, including your computer store's RAM tester,
+which will pass bad memory.
+
+     Don't ever buy any Windows-only hardware.  Watch out especially
+for modems and printers that work only with Windows.  Watch out for
+Windows in general.  I read over the bug list in Kermit 95 for Windows
+95 and Windows NT where the programmers listed bug after bug in
+Windows 95 that they had to work around.  From that bug list, it
+sounds like Windows NT might be the better choice if you insist on
+running Windows.  On the other hand, some programs that run under
+Windows 95 do not run under Windows NT.
+
+     Always make proper backups of your important files.  Modern
+desktop operating systems are too complex to trust completely.
+Hardware can and will fail eventually even if it is not failing right
+now.
+
+     Am I unfairly down on Windows?  Possibly so.  After all, the
+troubles I've had with it have been on machines that I now know had
+hardware problems.  I'm interested to see how it works on the fixed
+the hardware.  Nevertheless, let's not go out of our way to tie
+ourselves to Windows.  Let's keep our options open.
+

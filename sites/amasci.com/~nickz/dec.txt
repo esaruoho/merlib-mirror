@@ -1,0 +1,563 @@
+Digital Equipment Corporation (DEC) Vintage Mini- &
+Microcomputers 
+
+ PDP-11's, RSX-11, Pro 350's, RT-11, Y2K issues and more... 
+
+This page is dedicated to PDP-11 and compatible hardware and
+software as well as other vintage DEC systems such as the Rainbow 100.
+PDP-11-based computers are still manufactured today (e.g. by Mentec and
+Strobe) and emulated (e.g. by DBit); DEC no longer makes them and in any
+case has been absorbed by Compaq. 
+
+ Click here for an
+important message about Mad Cow Disease! 
+
+ First, a historical note... 
+The first two major computer systems in history, dating from 1946 and 1951
+respectively, were ENIAC and UNIVAC. The ENIAC
+Simulation Home Page plans to have an online emulator in place
+soon that can be programmed from the web. Also of interest is the
+vintage UNIVAC page at fourmilab.ch ,
+with links to Unisys (which still
+makes Univac-compatible systems, among others). For their company
+timeline extending from 1873 to the present, click here .
+Computers back then were huge mainframes that took up an entire room and
+had a cost to match. When Digital Equipment Corporation (DEC) produced
+their first computer
+in August 1959 , they
+called their product the PDP-1 -- Programmable Data Processor, to
+distinguish it from the humongous mainframes. Subsequent machines also
+bore the name PDP. The most popular and well-known of these PDP's were
+the PDP-8, 10 and 11 minicomputers; the latter made its debut in June
+1970. Newer PDP-11's were manufactured in subsequent years with more
+memory, speed and disk capacity; this continues today with PDP-compatible
+hardware and PDP emulators for non-PDP hardware. For a timeline covering
+DEC and related products from 1958 to 1990, click
+ here .
+
+ Links, links and more links... 
+
+ New: The Telnet Song, a recursive musical classic (Words and Music 
+by The Great Quux; copyright &copy; April 1984, Guy L. Steele, Jr. & D.E. 
+Knuth; transcribed into MIDI and NWC formats by yours truly on 12/13-Aug-2001).
+Available in MIDI and NWC formats with N=2. 
+
+ New: BCKRead and related utilities page has been
+updated; for copying from a VMS or AXP .BCK saveset to MSDOS or Files-11 disks,
+including blank disk image generator and blank disks, bootable and not. 
+
+ New: P/OS I/O Driver Fiche, DEC
+#AH-CG61A-TK , contains source listings and maps for the P/OS Executive
+and drivers for DW:, DZ:, TT:, video fonts, etc. As it involves an
+enormous amount of scanning from paper copies of the fiches (each of the
+first 15 fiches contain up to 13x16 = 208 pages), it will take time to
+scan this in (and I'll probably skip the parts which seem to be the same
+as RSX-11M-Plus circa version 2, which is most of the Executive code, and
+considerably reduces the amount of scanning needed). I do hope to get the
+DZ and DW code and maybe parts of the TT code up soon, which is
+Pro-specific. Why DEC didn't supply it on floppies and make things easy
+is beyond me. Anyone else have the fiches and want to help out? So far I
+have made paper copies of ACSUB, INITL, DWDRV, DZDRV, NLDRV and the index
+on fiche 16 (to replace the thermal-paper copies made in the '80's which
+have long since faded). See how to allow DWDRV to recognize larger disks
+by zapping the NOP with a BR; P/OS V2.0 supports RD50-RD52 but support for
+other disks (e.g. RD53) can apparently be added very easily. May also be
+useful for anyone thinking of writing a Pro300 emulator. 
+
+ NoFPP.CMD , a command file allowing use
+of Fortran-77 executables on a much wider variety of RSX systems. Allows
+M-only tasks to run on M-Plus, and allows F77 programs that don't use the
+FPP to run on a system without one. See the comments for details and
+usage instructions. Requires ZAP.TSK (not included, but available on any
+P/OS distribution with Toolkit [see below] or under RSX-11M, M-Plus, or
+RSX emulation under RSTS/E). This was used to make the QIOLOG for RSX disk editing utility and Pacman tasks run on all the systems I tried
+them on, with or without an FPP, on 11M, M-Plus, Micro RSX and P/OS,
+without relinking. 
+
+ Calendar and Timeclock for P/OS and
+RSX, Pro/Basic and Basic-Plus-2 (originally under RT-11 Basic). The
+calendar program prints a full-size calendar on the line printer (or to a
+disk file in later versions) with a user-selectable ASCII-art image at the
+top; years can range from 1582 to 9999. Timeclock is a concatenation of
+TIME (an ASCII alarm clock) and CLOCK, an analog-display clock written by
+a classmate at college; the latter uses the Pro350's bitmap display and
+CORE Graphics Library calls. Calendar was on the PDP 11/23 (running RT-11
+and TSX) at Northport High School, revised by E. Schaefer at a nearby
+school in March 1975; it was enhanced by David Kraus in November 1982. I
+ported it to the Pro 350 in September 1983 (when TIME and CLOCK were
+written) and to RSX in 2000. Updated for Y2K, supplied on RX50 floppy
+image with old and new versions and INKEY routine. 
+
+ New for 2001: "2001: A Space Odyssey" -- this is the December 1978 Super
+Star Trek for RT11 on its own bootable disk image with documentation plus a
+Y2K-compatible 1998 sysgen of RT11SJ V5.01C and utilities such as CINIT and DIR2.
+Please note that this version of RT-11 is covered by Mentec's hobbyist license unless you have your own license with
+different terms. I include an E11.INI file for use with the E11 emulator, however
+it can also be used on a real PDP-11 or the Supnik or other emulators. Please keep
+in mind that only use on the Supnik emulator is covered by Mentec's hobbyist
+license included here. The E11.INI file can easily be used as a guide to the
+commands to use for the Supnik emulator; substitute ATTACH for MOUNT and boot the
+image (the key definitions and other frills are not needed unless you use KED/KEX
+or the single-line editor, which is disabled on this disk anyway). The SST software is provided on an RX02 image (zipped) and
+you can see my two highest scores in the High Score
+log , which also show that a file is missing (PLAQUE.SAV). If anyone has this
+file I'd be grateful to be able to complete the fileset. 
+
+ A very rudimentary and incomplete emulation of the P/OS V2.0a Main Menu for MS/PC-DOS . It is
+a .COM file with .TASM source code for any 80x86 machine with DOS or
+Windoze. 
+
+ DTIME V1.01 - a replacement for
+TIM that is Y2K and Y3K compliant! (This version supersedes all older
+versions, e.g. V1.00 / DTIME2.ZIP). Especially useful to set and display
+the time on the Pro 350 (it is Y2K OK but not Y3K on the Pro) but works on
+old and new RSX as well, with the same syntax as RSX TIM except one uses
+the DTI (or any other chosen abbreviation) command instead of TIM. Years
+are always displayed with four digits, but can be entered with 2 or 4
+digits in both the 20th and 21st centuries (which TIM can't do). Supplied
+on a disk image along with other goodies such as GREP and Y2K DATE
+subroutines for Macro-11 and high-level languages, with source code.
+
+ RSX-11M/M-Plus page -- some new programs and
+updates for RSX-11M (see also Pro 350 area ), and BRU Reader V1.1 for MS/PC-DOS. For reading VMS
+Backup files under MS/PC-DOS, as well as many other file transfer utilities for
+various systems, click here for the BCKREAD
+page . Patches for Fortran (IV and 77) to enable use on systems with no FPP and
+to add Year 2000 compliance also available, works on Pro 350 and all other tested
+platforms, for RT-11 and P/OS / RSX. 
+
+ Emergency Boot Disk for Pro 325/350/380 with various
+utilities, useful for recovering data from hard disk when P/OS refuses to
+boot or is corrupted; can also fix certain file structure errors via the
+logical/physical block editor. Click here 
+to download it, and click here 
+to get the updated version 4.6 of QIOLOG.TSK (1999) for these utilities.
+The disks themselves were made in 1984. See the readme files at either
+location for more information on these utilities. Note that the new
+QIOLOG is much bigger than the old one since it was linked without using
+resident libraries. Either the old (V4.5) or new (V4.6) QIOLOG will
+perform disk editing functions just as well under most circumstances, but
+V4.6 has a number of enhancements and a bugfix. 
+
+ Note: some miscellaneous utilities which were formerly hosted on
+Tripod.com have been removed due to their remote loading policy and can
+now be found in this miscellaneous DEC subdirectory . 
+
+ F11READ.COM : Files-11 index file
+information for MS/PC-DOS, works on index files and RSX/POS container
+files. Shows LBN allocation and lists the bitmap. Year-2000
+compliant. 
+
+ RT-11 Utilities and Year 2000 Patches Page 
+
+ Please read the Read Me file first,
+then download the utilities, patches and accompanying information from
+ here . The Y2K patches are intended for RT-11
+V5.01C but will work with slight modifications on other versions such
+as V5.3. Please note that these are not provided by DEC or Mentec and
+are not supported by them or any third parties, including me. The
+monitor itself is not provided, since it is copyrighted by Mentec; only
+the patches are supplied. Mentec does not permit use of the source
+code by those not licensed to use it (but see here for binaries licensed for noncommercial use
+provided they are only used with the PDP-11
+simulator by Robert Supnik). 
+
+However, the other programs which I wrote (e.g. DIR2) or obtained via
+disassembly from public-domain programs (e.g. EDMSG) or downloaded
+(PI.TEC) are not subject to these restrictions and thus the full source
+and executable code can be freely provided here. Also, P/OS and Venix do
+not require these licenses, and PDP-11 Unix is licensed by SCO or others;
+the details are here . 
+
+ Most of the files should be transfered in binary mode, but the readme
+files and some of the source code is in Unix format (linefeed for
+newline), so that it will be easiest to use text/ASCII mode for them. 
+
+There is also more information on RT-11, Year 2000 and Mentec below. 
+
+Also: A patch for DIR.SAV V5.1C for versatile use with logical disks. 
+This version is not yet Year 2000 compatible; the patch consists of a 
+ SIPP file and the documentation . Other enhancements are also
+planned. 
+
+I have posted a test program called DIR2 which was written without any DEC
+or Mentec code but does not have all the features of DIR; however it is
+fully Year 2000 compatible and handles any RT-11 date up to 31-Dec-2099. 
+At this time, it does provide a standard listing of a directory, in
+decimal or octal, optionally narrowing the list down by such attributes as
+whether the file is protected or not, today's date, and other options. I
+have updated the old RT11DIR program on this site for Year 2000
+compatibility; it is a simple DIR2 that reads RT-11 diskettes under P/OS
+or RSX. If anyone is using older versions of either DIR2 or RT11DIR, they
+should upgrade them, because the old versions had some bugs. Make sure
+the handler for the device you wish to read is loaded before running
+DIR2 . The current version for both of these is V2.1. It is also
+available on a bootable disk image. The caveat
+about making sure the device handler is loaded also applies to TCONV; they
+behave unpredictably if it is not loaded and may freeze. 
+
+ Mentec is now shipping RT-11 V5.7,
+fully Year 2000 compliant. 
+
+ Mentec permits free downloading and personal, non-commercial use of
+older versions of RSTS, RSX and RT-11, under a license that accompanies
+most distributions on the net, a copy of which is provided here . Mentec themselves do not allow
+downloading; the disk images must be downloaded from a third party and
+Mentec does not provide support for them; the license is merely a courtesy
+to hobby users, who have after all provided much over the years in
+enhancements to these systems. The images covered by the license are to
+be used only on an emulated PDP-11, not a real PDP-11. Currently, the
+versions covered are RSTS V9.6 and prior, RT-11 V5.3 and prior, and
+RSX-11M V4.3 and prior. However, all versions of P/OS and Venix are public
+domain and not subject to any such licenses. And if you have obtained a
+real PDP-11 from a third party, you should be able to transfer the
+existing license. The permitted versions covered by the hobbyist license
+may gradually increase with time and the release of new versions from
+Mentec. See below for more information on obtaining and installing such
+disk images. 
+
+ Utilities Galore: The 
+
+Sunsite PDP-11 archives , including most DECUS archives for all PDP-11
+operating systems. 
+
+ The Professional 300 Series personal computers 
+
+ Download 
+ Pro 300 series specific files (ROM
+image, disk and screen editors, RT-11 to P/OS utilities) 
+
+ Update in Sweden:
+Get P/OS V3.2 and Toolkit for free! 
+
+ The Pro300 series (325/350/380) is a PDP-11 compatible microcomputer
+released by DEC in 1983 which was supported until the early 1990's and
+still has its loyal users today. Though it was superior in many ways to
+the contemporary IBM PC's, it ran a watered-down version of RSX-11M-Plus
+called P/OS and was marketed poorly. Many were (and are?) used as
+front-ends for VAXstation systems. I still use it occasionally to access
+the internet via a 19,200 bps connection to a Unix shell account, where I
+can use elm, pine, tin, lynx, etc. One can also use Fuzzball for native internet capability on the Pro. 
+
+ A Pro can also run RT-11, a fast and efficient realtime operating
+system which is discussed below (I also provide fixes
+and information for solving problems in 21st Century dates designed
+for Version 5.01C but useful for any version prior to V5.7, which
+should have full Y2K support).
+
+ For those with P/OS, the "Pro/Tool Kit", or Native Toolkit offers a
+command-line interface on the Pro that is very close to RSX-11M-Plus DCL. 
+P/OS and RSX-11M-Plus share the same basic system calls (such as QIO$ and
+EXIT$), though P/OS has some calls of its own, like WIMP$ ("What's In My
+Professional" -- who said DEC doesn't have a sense of humor?). The Tool
+Kit supports standard RSX-11M+ Fortran 77, Macro-11, Pascal, Cobol and
+Dibol. There is a C package available from DECUS, and the Fortran and
+Macro-11 packages are also included in the freely downloadable archives of
+ Update in Sweden
+(P/OS and Toolkit included). RSX and P/OS store only the lower two digits of
+filenames so the existing Files-11 structure can be used in any century, 
+provided individual software does not make assumptions that would cause a date
+of 2002 (e.g.) to be treated as 1902. RSX-11M-Plus V4.5 is apparently
+fully year-2000 compliant, except for some minor issues in bundled
+software such as the date routines in Fortran-77, fixed in March 1998 (as
+noted on Mentec's Year 2000 page). Utilities such as PIP and RMSDSP have
+been fixed already and will work till at least 2027; the V4.6 updates
+apparently will extend this to c. 2100. 
+
+ Under P/OS 2.0a (the latest version being 3.2) the Setup routine will
+only permit dates from 1982 to 1999, but this is only an issue if the
+battery powering the CMOS non volatile RAM (clock) dies (it uses standard
+NiCd cells, easily replaceable); the system will request the new time on
+the next reboot. This can be bypassed, and one can set the time from Tool
+Kit with standard DCL commands. Any user startup routine can be named
+[ZZSYS]STARTUP.TSK to be run as soon as the ROM and bootblock have been
+read; one can check for a password and/or Y2K issues and then chain to the
+original STARTUP.TSK (P/OS V2.0 and above have built-in password and
+account software). Also, one can either write one's own utilities or use
+PAT or ZAP to fix the P/OS tasks; most RSX-11M/M-Plus utilities are
+interchangeable with their P/OS counterparts. 
+
+The Pros offered high-resolution bitmap graphics, multitasking with
+hardware memory protection and 22-bit addressing of up to 4 megabytes of
+memory, when PC's were still in real mode and hadn't even reached 640K;
+this used the same orthogonal PDP-11 instruction set that had already been
+in use through the 1970's on the PDP-11. 
+
+ Why can't I see the filenames when I dump the directories in ASCII format? 
+
+Many DEC operating systems avail themselves of Radix-50 to efficiently
+pack information such as filenames and tasknames into 16-bit words, three
+characters to each word. The "50" here is 50 octal, and the Radix-50 set
+contains all the uppercase letters, the numerals, and some special symbols
+like "$" and "." which indicate system calls or tasks (e.g.: ...PIP,
+EXIT$S, .EXIT). 
+
+ Other operating systems 
+There are also varieties of Unix for PDP-compatibles, such as Venix for the Pro
+350/380 by VentureCom, as well as BSD and other Unices for PDP-11's. The PDP-11
+FAQ states that much of Unix was, in fact, developed on PDP-11's. See this FAQ
+for a comprehensive list of all the operating systems used on PDP's; and one
+should also add Fuzzball ,
+a public-domain OS which is very compatible with RT-11 but has full TCP/IP
+internet support and utilities included.
+
+ RT-11: General Information on the Operating System 
+
+RT-11 is a popular realtime operating system for PDP-11's which has been
+in use since the early 1970's, as has Unix and its clones. Mentec has bought RT-11 and other O/S's
+from DEC and has released new
+versions of RT-11 as well as RSX-11 and other PDP-11 operating systems,
+featuring full Year 2000 compatibility. The releases having been delayed,
+some users resorted to making their own patches (RT-11 is often sold along
+with its source code, so one does not need to disassemble the monitor
+first, one merely changes the source and does a SYSGEN -- system
+generation -- which can be highly customized). 
+
+ Old Patches for RT-11 V5.1C (to be superceded by final ones)
+
+(These were written in November 1997 and are incomplete). 
+Click here for a brief
+summary of the Y2K bug in RT-11 V5.01c. I have written a patch for the
+KMOVLY.MAC file which permits RT-11 to properly handle all dates from 1-Jan-1972
+to 31-Dec-2099 which is available here , as well as an old patch for the rollover code in
+RMONFB and RMONSJ. Despite the extensions, these are SIPP files,
+not PAT files.
+
+ They are provided for the benefit of RT-11 users with older versions
+and for educational use. I have removed as much original monitor code as
+possible from the old patch files, only leaving enough in so that one can
+find the correct location in the source file to patch, especially if one
+has a different version which differs somewhat. Also some lines which I
+commented are left in; I consider this a "fair use" commentary on the code
+(DEC stripped most comments from the originally-provided source code). To
+my knowledge, it is legal for a licensed RT-11 user to download this code. 
+The code in lowercase is my own, and that is legal for anyone. If anyone
+wants specific legal advice however, I would suggest talking to a lawyer
+or checking one's license. 
+
+ All of the newer (final) patches will be in SLP or SIPP format so that
+there is no question of infringing on any of Compaq/DEC's or Mentec's
+rights. 
+
+ Version Information: The patches are for Version 5.1C. The current
+version is V5.7, which has a number of enhancements over the older
+versions, including full Year 2000 support (i.e. for dates through Dec. 31,
+2099). 
+
+ In some cases it is possible to obtain a low-cost or free license
+for hobbyist use, such as the 
+ OpenVMS Hobbyist License ; if
+you acquire a PDP-11 from a third party along with its software, the
+transfer may or may not involve technicalities, according to discussions in
+November 1997 on vmsnet.pdp-11 . 
+The same discussion noted that DEC seems to have been much more lenient
+than Mentec in its terms of license transfer when PDP-11's change hands,
+often doing so for free. If you wish to obtain a software upgrade from
+Mentec, you should have your CPU serial number and DEC number, if
+available. 
+
+ Old versions of many DEC OS's can often be used for free, if the use is
+noncommercial, as noted above. Note that they are not freeware, and
+Mentec still fully owns this software; they are just making it easier for
+hobbyists, who have provided many of the enhancements for these
+systems. 
+
+ Needless to say, the patches are provided as is, without warranty (insert
+standard disclaimers here, except that I hate disclaimers :-), of
+course. However, I have tested it and it works on my version of RT-11. If you
+have different results with your version I may be able to help, and would like
+to know how other systems fare with these patches. However, the DIR.51C patch
+noted above should not be used on versions other than V5.1C unless you want to
+patch the patch. 
+
+ For those who would like to patch RT-11 themselves, look at the code
+beginning with: 
+
+6$: MOV $DATE-$RMON(R0),R2
+
+ Hint: change the BIT #140000,R2 to BIT #140037,R2 and then process the high
+bits accordingly. The two high bits of the date word add to the 5 low bits of
+the year to give a year range of 1972-2099. One also needs to change the ROLOVR
+global routine if one has enabled month rollover in a SYSGENned monitor.
+There are also various other places that need to be patched, wherever the
+monitor or a utility reads the date (via the .DATE call, which expands to
+MOV #5000,R0; EMT 374, or 12700 5000 104374 in octal) and fails to take
+into account the effect of the year incrementing beyond 1999, or clears
+the two high bits summarily. For a complete fix, also patch the date
+references in the utilities: PIP, DIR, MACRO, SP, etc. 
+
+ Usenet Newsgroups 
+
+ DEC Micros on Usenet: Wanna
+Trade? 
+ The PDP-11 Enthusiasts' Newsgroup 
+
+ Rainbow 100 Sites 
+ The Rainbow 100 Home
+Page 
+
+ PDP-11's, both real and emulated 
+
+ John Wilson's/D Bit site : PUTR
+(file transfer between and from/to DEC and FAT formats, create bootable
+disk images), Ersatz-11 (E11) PDP-11 emulator, RT-11 software and games.
+ Relcom's
+Emulator site ; has E11 plus Robert Supnik's port of another PDP-11
+emulator, as well as emulators for many other systems (Z80, Apple,
+Sinclair, Atari)
+
+ Telnet and FAQ Resources (PDP-11, TOPS-20) 
+
+ D Bit Ersatz-11 Demo System 
+(running RSX-11M-Plus V4.5 (Y2K OK) -- login instructions provided)
+
+ Magica - PDP-11 running RSX-11M+
+V4.6 in Sweden with guest access. 
+ Telnet to a TOPS-20 System 
+
+ J. Comeau's PDP
+and other links 
+ Max & Marisa's 
+home page: PDP-11, Pro, RT-11 game archive and lots of other stuff 
+
+ The PDP-11 FAQ 
+ pdp-11.ftp 
+ The
+PDP-11 FAQ / Appendix A: Related PDP-11 Sites 
+ The PDP-11 FAQ
+/ Vendor List 
+
+ Minnie sites 
+
+ PUPS Archive FAQ 
+(Everything about getting, licensing and installing old Unix on a real
+or emulated PDP-11) 
+
+ PUPS Archive FAQ 
+(Everything about getting, licensing and installing old Unix on a real
+or emulated PDP-11) 
+
+ PUPS
+Site for Source Code for Robert Supnik's PDP-11 Simulator with Disk Images
+of UNIX, RT-11 V5.3 and Other Operating Systems 
+
+ DEC's FTP site for
+downloading Robert Supnik's PDP-11 Simulator and Disk Images of UNIX,
+RT-11 V5.3, RSTS/E V7.* and Other Operating Systems 
+
+ Printed Material for PDP Unix - Lions Book 
+
+ Note: As I said, I hate
+disclaimers, but because of our litigious society, I will state what
+should be well-known to most computer enthusiasts, i.e. that all
+trademarks are the property of their respective owners. DEC manufactured
+and trademarked their Vax, PDP-11 and similar systems (such as the
+MicroVax, Micro PDP-11) and licensed their software (though some early
+PDP-11's were licensed to use any PDP-11 OS and duplicate it for their own
+use or for others with similar licenses). It is safe to assume that most
+names of hardware and operating systems are thus trademarks (Even "VT-100"
+is a DEC trademark, as are the names of all the VT-series terminals,
+though most VT-100 emulators don't note this). 
+
+ The PDP-11 was no longer supported by DEC as of December 31, 1997, and
+DEC itself has since been assimilated by Compaq, which seems to have
+decided that it is in its best interest not to obliterate DEC's identity
+totally. Actually, even in February 1999, while Altavista has the Compaq
+name on it, DEC's home pages still are DEC. However, "DEQ" no longer
+manufactures hardware or produces the software for PDP-11's anyway; that
+is Mentec's job; they now own RSTS, RSX, RT-11, etc. Mentec continues to
+manufacture PDP-11's, and companies such as Strobe Data manufacture PDP-11
+clones-on-a-card. 
+
+ According to Mentec, there are still many PDP-11's in commercial use,
+which drives the market for PDP-11 hardware and software regardless of
+DEC's action. Several third parties, noted below, continue to manufacture
+PDP-11-compatible hardware and have no plans to stop anytime soon. There
+are also emulators for Unix, MS-DOS and the Alpha (check the Relcom site for emulators for these or any other
+platforms). The Mentec updates, generally done and released between 1995
+and 1998, make all the supported PDP-11 operating systems work with all
+dates up to at least 2099. 
+
+ P/OS and Fuzzball are public-domain operating systems and freely
+available on the net. While P/OS was designed only for use on the
+Professional 300 series personal computers (which are based on a
+microcoded PDP-11 CPU design), the RSX utilities included with P/OS
+such as PIP and ZAP are identical to their RSX counterparts of the same
+version. 
+
+ Links to DEC, Mentec and Third Party Vendors of DEC and Emulating Hardware
+and Software 
+ DEC Home Page ; or alternate page .
+ Compaq -- in case they pull the DEC page... 
+ Digital Equipment Computer Users Society (DECUS) 
+ Mentec: PDP-11 Hardware and
+Software -- featuring Year-2000 compliant RSX, RT-11 and more.
+ Strobe Data: Hardware
+PDP-11 emulation for 80x86-based systems 
+ Strobe Data's SFX V1.28 File Transfer 
+Utility , mirrored here since their FTP site went down.
+ What's New - Comware PDP11 under WinNT 
+ The REVIVER PC Upgrade System 
+ Strobe's list of competitors' products 
+ D-Bit's Ersatz-11 (E11) V2.0: Commercial
+and Demo Versions 
+ E-Mail D-Bit 
+
+ Some disk images of DEC operating systems available for download 
+
+These images are accompanied by a license permitting free non-commercial
+use on the simulator ; see the license for full
+details.
+
+ RSTS/E,
+including RSX-11M and RT-11 runtime system (some include source code) .
+
+ RT-11 V5.01C, Year 2000 compatible, RX01
+Binary , with my DIR2, CINIT, TCONV, CLOCKI and other utilities. I
+sysgenned this in January 1998; it includes multiterminal support. DATE
+displays four-digit year and allows entry in two or four digit year
+format. The license (solely for non-commercial simulator use) is here . DIR2 is Year 2000 compliant; the image
+also includes the older patched DIR.SAV that is not
+Y2K OK. Or download the zipped RL01 image with an explanation of the
+utilities ( self-extracting DOS/Windows executable , is
+smaller than uncompressed RX01 image). 
+
+ RT-11 V5.3, not Y2K compliant 
+
+ P/OS for Pro 350
+and Pro 380 plus many utilities for V2.0A - V3.2. Requires Teledisk to
+generate the RX-50 floppy images. Public domain; no need for license.
+I have many P/OS disk images in raw format also; e-mail me for information.
+
+ PDP-11 Unix: PDP-11 Versions 5, 6, 7 (BSD 
+Unix also available if you fill out license form at this site);
+ Venix for Pro 350
+or Pro 380 .
+
+ Non-PDP-11 operating systems (for PDP-8, etc.) 
+
+These companies stock DEC hardware (parts and/or systems): 
+ Processor - New/Used Hard/Software: IBM, DEC & others 
+ The World Wide Buying Network (DEC,etc/Computer Hotline) 
+ (I have not personnally shopped from these two so I can't vouch for or
+against them.)
+ Other Links of Interest 
+ DEC's Altavista Search Engine 
+ Advanced Altavista Search 
+
+ PDP-11 Resources (small
+PDP simulator written in C and other links) 
+ unsorted RSX stuff at Update (!) 
+ Users' Reference to B 
+
+ MadGoat Software Archive (VMS/Alpha) 
+
+ St. Peter's College VAX : HTML access also available, but not as
+informative. Vax with many interesting files.
+
+Your comments are welcome: Click here
+to send me mail! 
+ This site has been viewed times
+since May 3, 2001. 
+ nickz@eskimo.com 
+Last updated: September 6, 2001.

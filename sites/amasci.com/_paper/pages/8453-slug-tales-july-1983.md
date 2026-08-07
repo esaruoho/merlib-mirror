@@ -1,0 +1,205 @@
+---
+title: "Slug Tales - July 1983"
+source_domain: amasci.com
+source_path: ~stevemc/SlugTales/1983-07-st.htm
+order: 8453
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:16:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Slug Tales - July 1983
+
+*Source page: `~stevemc/SlugTales/1983-07-st.htm`*
+
+S L U G   T A L E S
+
+ 
+
+                      "Sound of One Lobe Napping"
+
+====================================================================== 
+
+Vol. 4, \#6    "Reach Out, Reach Out & Gouge Someone."      July 1983
+
+====================================================================== 
+
+Exclusive Investigative Report:
+
+ 
+
+       L A W N   C H A I R S   O F   T H E   G O D S . . . .
+
+ 
+
+  Near the Sphinx, a great picnic table once stood -- but no more.  At hundreds of widely separate locations around the world, archaeologists find tombs, temples and other sites, all littered with lawn chairs and chaise lounges.  Still, no one seems to be asking the most important questions of all: why is lawn furniture found in nearly every archaeological dig -- and where could it have come from?
+
+ 
+
+  An exhaustive, nearly two week long SLUG TALES investigative report reveals that a conspiracy of silence seems to exist about these "ultra-modern" "relics".  Even more shocking is the inexorable conclusion that ancient lawn furniture is, "unlike anything else seen in the archaeological literature"!  These assessments were provided by a respected researcher, Al Ewecaneet.  Dr. Ewecaneet further ejaculated, "I can hardly believe ....that this could have been found in an ancient culture.....it goes against all we know about early civilizations."
+
+ 
+
+  Evidence from sites on seven continents adds up to a single conclusion: this lawn furniture is far too advanced to be of Earthly Origin.  Are we really expected to believe that the Egyptian woman of the Second Century BC obtained her Versa Lounge at the Cairo K-Mart?  Did the Romans in Britain obtain their lawn chairs at a Fourth Century Woolworth's?  To say the least, these explanations appear improbable.  Those few with open mind can only wonder as the evidence accumulates...
+
+ 
+
+  If many are asking question, some are beginning to offer answers.  A former Government Employee, one Philo Leaves, told SLUG TALES that he has long suspected that the ancient lawn furniture is proof that Earth was visited long ago by alien tourists.  "I got the idea from this little old lady on my route who used to read the K Mart junk mail like it was the New (and improved?) Testament," said Mr. Leaves.  "I used to tell her those lawn chairs were either put there by UFO's or the Russians -- and she'd just nod, weirdlike."  Mr. Leaves observed further, "It was years later before I realized that there weren't no Russians in Egypt in the Second Century BC."  He ends, cryptically:  "It kind of makes you think, don't it?"
+
+ 
+
+  In researching this article we examined many journal articles, historical photographs, old issues of "National Geographic" -- along with interviewing literally several people involved in archaeological research.  What we found was beyond our wildest dreams: photos of Mayan priests preparing human sacrifices in giant Weber Kettle barbecues, Greek philosophers portrayed with lawn darts in hand in suppressed sculptures, Hindu Gods in paintings retrieving Lost Souls from the chilly realms of Playmate Ice Chests!  And NONE of this is to be found in the textbooks and popular literature available to the general public.  Why?
+
+ 
+
+  Numerous calls to the archeology and anthropology faculties of the University of Washington yielded only ridicule and unreturned calls.  What do they have to hide?  What, indeed, do they HAVE to hide?  Are THEY agents of an Alien Elite come to picnic on my grave and yours?  As a part of our research, we obtained a sample of metal obtained from an Aztec tomb in Mexico in 1936.  We gave this fragment to Dr. Al Ewecaneet, who subjected it to the most exacting and extensive tests available at his laboratory at Yakima Valley Community College.  Dr. Ewecaneet concluded the fragment was "unlike anything" he'd seen in 40 years of research and identification of relics and artifacts.  "It appears to be a piece of a TV dinner tray," noted Dr. Ewecaneet, "although that seems almost impossible. 
+
+ 
+
+  Impossible -- unless you accept that Earth was once routinely visited by a Planet-Hopping Middle Class from Beyond The Stars.  Piece by Piece the case falls into place that We Are Not Alone.  Ask respected scientists if Shuttle Astronauts are the first creatures to suck freeze-dried fruit out of plastic tubes in the outer atmosphere.  To a person, they'll say, "Yup, you bet."  But their rationalizations pale in the face of the evidence of the Ancient Lawn Chairs of The Gods.
+
+ 
+
+----------------------------------------------------------------------
+
+ 
+
+ASK MR. JIM BOB
+
+ 
+
+Advice for the Socially Inept....
+
+ 
+
+Dear Mr. Jim Bob:
+
+ 
+
+I am the mother of a sixteen year old boy, Rod (not his real name). The problem is that Rod has got this fool notion that when he grows up he wants to be an Elvis Impersonator.  All day long he stand in front of the mirror, curling his lip and singing "Love Me Tender" so far out of tune we're afraid our cat might commit suicide.  I hate to discourage the boy from something he so obviously wants, but yesterday he went over the line.  Rod came home from school, ate a deep-fried peanut butter and banana sandwich (Elvis' favorite snack) and had a fit when I wouldn't sign the Release for him to get plastic surgery to better resemble Elvis.  Please help me: I want to be supportive of Rod, and I don't want to be a nag.
+
+ 
+
+\- Confused Mom, Dogsbreath, NM
+
+ 
+
+Dear Confused Mom:
+
+ 
+
+I've been asked this question many times over the years.  You should take comfort in the knowledge that many parents face this problem every year as their children as mysteriously drawn to the Legend that is Elvis. 
+
+ 
+
+However, you should also share the following Facts with your son Rod:
+
+ 
+
+     - A recent survey of Elvis Imitators revealed that 68% wished
+
+       they had gone to college or become hairdressers
+
+ 
+
+     - Plastic surgery is not without risks: one Elvis Imitator who
+
+       went under the blade has recently been reduced to accepting
+
+       work as an Elephant Man Imitator
+
+ 
+
+     - Sociologists tell us that being an Elvis Imitator ranks Low
+
+       on the Social Desirability Scale for occupations, consistently
+
+       below "washroom attendant" and "pornographer".
+
+ 
+
+     - Within a mere 30 years, fewer than 10% of Americans will ever
+
+       have seen Elvis live.  Experts say this will mean the end of
+
+       the Elvis Imitator as we know him today.
+
+ 
+
+     - There are currently 18,000 Elvis Imitators in the US. 
+
+       Competition is making it mandatory that Imitators specialize
+
+       ( with pre-, mid-, and full-paunch being the most common
+
+       specialties).
+
+ 
+
+     - Psychologists report that Elvis Imitators have an astronomical
+
+       rate of developing severe mental problems.  The Napoleon's of
+
+       yesterday's mental institutions are the Elvis's of today.  One
+
+       physician working in a ward for the Seriously Disturbed reports
+
+       that Elvis Delusions are so common that the staff slang for
+
+       working in the unit is to be "In the Ghetto".
+
+ 
+
+I don't expect that you will find this information comforting.  But I
+
+do urge you to share it with your son and to encourage him to consider
+
+an alternate career. 
+
+                         - Mr. Jim Bob
+
+ 
+
+----------------------------------------------------------------------
+
+ 
+
+                   T h e   S l u g   F i l e
+
+ 
+
+               "All Facts...No Fluff...You Bet..."
+
+ 
+
+...Organic Patination...That's what the builder in charge of the restoration of Texas A & M's Academic Building calls it.  In plain English, this translates to spraying cow manure on the walls of the
+
+building.  The acid in the manure accelerate the aging process, making the new work match the older portions of the building.  Vice Chancellor Wesley Peel said he, "he couldn't believe it" when he found out about the process, and he reacted defensively to questions from reporters.  "Look," he said, "This is getting out of hand." "Patination is an accepted process.  "It's no joke." ("Seattle Times", 6/12).... Putting it in Perspective....."He's no worse than any other rapist," was the way Maureen Saylor, Director of Western
+
+State Hospital's Sexual Offender Program, described an escapee from the Program. (Seattle Times, 6/12)....PRODUCT UPDATES....Last time we told you about The Official Shopping Bag of the 1984 Summer Olympics.
+
+This time it's the Brother EM-200, advertised as, "The Official Typewriter of the Los Angeles 1984 Olympic Games." (NY Times, 6/12)....Yes, No, and Maybe.... There are three types of Monsters, according to Daniel Cohen, a self-described "cryptozoologist."  Meeting at New York University, the International Society of Cryptozoologist recently discussed such earthshaking topics as, "Is There a Giant Octopus?" and "Searching for the Mokele-Mbembe."  Cryptozoology is the study of "hidden monsters", which includes so-called "Yes Monsters" (e.g. gorillas), "Maybe Monsters" (e.g. the Lock Ness Monster), and "No Monsters" (e.g. vampires).  (NY Times, 6/12)....The CIA's Secret Weapon....A pedestrian walking by a house in Washington, DC recently noticed something strange about the dogs behind the gates.  It turns out that the house is a "safe house" where the CIA protects informers and agents.  The Clue that something was Different: the dogs were wearing headphones attached to radio transmitters which are capable of receiving commands for the dogs to attack, etc. (NY Times, 6/9).....
+
+ 
+
+----------------------------------------------------------------------
+
+ 
+
+SLUG TALES is published irregularly at Rancho McHrab, a .1 acre Satire Preserve in the wilds of Suburbia north of Bothell, WA.
+
+ 
+
+                               (c) 1989.
+
+ 
+
+    You are free to copy this issue of SLUG TALES and distribute it to others, but if you alter it, you, your present and future spouses, and
+
+all of your future offspring will be visited by unwelcome relatives
+
+every other week through-out eternity. 
+
+======================================================================

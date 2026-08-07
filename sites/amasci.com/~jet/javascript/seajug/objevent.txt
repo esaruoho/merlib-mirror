@@ -1,0 +1,13 @@
+JavaScript Object Model and Events 
+
+ JavaScript Object Model and Events 
+
+ JavaScript has
+ built-in
+objects and user defined objects.
+
+ JavaScript has
+ events 
+associated with various HTML constructs.
+
+ Up to overview page

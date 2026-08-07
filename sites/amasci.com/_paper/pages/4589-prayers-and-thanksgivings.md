@@ -1,0 +1,57 @@
+---
+title: "Prayers and Thanksgivings."
+source_domain: amasci.com
+source_path: ~lhowell/bcp1662/daily/thanksgivings.html
+order: 4589
+reachable_from_entry: false
+images: 15
+internal_links: 7
+extracted: 2026-08-07T17:11:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Prayers and Thanksgivings.
+
+*Source page: `~lhowell/bcp1662/daily/thanksgivings.html`*
+
+### Thanksgivings.
+
+*<span id="GeneralThanksgiving">A General Thanksgiving</span>*
+
+**<img src="../images/a_big.gif" data-align="LEFT" width="57" height="54" alt="A" />LMIGHTY** God, Father of all mercies, we thine unworthy servants do give thee most humble and hearty thanks for all thy goodness and loving-kindness to us, and to all men; \[\*particularly to those who desire now to offer up their praises and thanksgivings for thy late mercies vouchsafed unto them.\] We bless thee for our creation, preservation, and all the blessings of this life; but above all, for thine inestimable love in the redemption of the world by our Lord Jesus Christ; for the means of grace, and for the hope of glory. And, we beseech thee, give us that due sense of all thy mercies, that our hearts may be unfeignedly thankful, and that we shew forth thy praise, not only with our lips, but in our lives; by giving up ourselves to thy service, and by walking before thee in holiness and righteousness all our days; through Jesus Christ our Lord, to whom with thee and the Holy Ghost be all honour and glory, world without end. *Amen*.\
+
+*\* This to be said when any that have been prayed for desire to return praise.*
+
+\
+
+*For Rain.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> GOD** our heavenly Father, who by thy gracious providence dost cause the former and the latter rain to descend upon the earth, that it may bring forth fruit for the use of man; We give thee humble thanks that it hath pleased thee, in our great necessity, to send us at the last a joyful rain upon thine inheritance, and to refresh it when it was dry, to the great comfort of us thy unworthy servants, and to the glory of thy holy Name; through thy mercies in Jesus Christ our Lord. *Amen*.
+
+*For Fair Weather.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> LORD** God, who hast justly humbled us by thy late plague of immoderate rain and waters, and in thy mercy hast relieved and comforted our souls by this seasonable and blessed change of weather; We praise and glorify thy holy Name for this thy mercy, and will always declare thy loving-kindness from generation to generation; through Jesus Christ our Lord. *Amen*.
+
+*For Plenty.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> MOST** merciful Father, who of thy gracious goodness hast heard the devout prayers of thy Church, and turned our dearth and scarcity into cheapness and plenty; We give thee humble thanks for this thy special bounty; beseeching thee to continue thy loving-kindness unto us, that our land may yield us her fruits of increase, to thy glory and our comfort; through Jesus Christ our Lord. *Amen*.
+
+*For Peace, and Deliverance from our Enemies.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> ALMIGHTY** God, who art a strong tower of defence unto thy servants against the face of their enemies; We yield thee praise and thanksgiving for our deliverance from those great and apparent dangers wherewith we were compassed. We acknowledge it thy goodness that we were not delivered over as a prey unto them; beseeching thee still to continue such thy mercies towards us, that all the world may know that thou art our Saviour and mighty Deliverer; through Jesus Christ our Lord. *Amen*.
+
+*For restoring Publick Peace at Home.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> ETERNAL** God, our heavenly Father, Who alone makest men to be of one mind in a house, and stillest the outrage of a violent and unruly people; We bless thy holy Name, that it hath pleased thee to appease the seditious tumults which have been lately raised up amongst us; most humbly beseeching thee to grant to all of us grace, that we may henceforth obediently walk in thy holy commandments; and, leading a quiet and peaceable life in all godliness and honesty, may continually offer unto thee our sacrifice of praise and thanksgiving for these thy mercies towards us; through Jesus Christ our Lord. *Amen*.
+
+*For Deliverance from the Plague, or other common Sickness.*
+
+**<img src="../images/o_small.gif" data-align="LEFT" width="34" height="36" alt="O" /> LORD** God, who has wounded us for our sins, and consumed us for our transgressions, by thy late heavy and dreadful visitation; and now, in the midst of judgment remembering mercy, hast redeemed our souls from the jaws of death; We offer unto thy fatherly goodness ourselves, our souls and bodies which thou hast delivered, to be a living sacrifice unto thee, always praising and magnifying thy mercies in the midst of thy Church; through Jesus Christ our Lord. *Amen*.
+
+*Or this.*
+
+**<img src="../images/w_small.gif" data-align="LEFT" width="49" height="37" alt="W" />E** humbly acknowledge before thee, O most merciful Father, that all the punishments which are threatened in thy law might justly have fallen upon us, by reason of our manifold transgressions and hardness of heart: Yet seeing it hath pleased thee of thy tender mercy, upon our weak and unworthy humiliation, to assuage the contagious sickness wherewith we lately have been sore afflicted, and to restore the voice of joy and health into our dwellings; We offer unto thy Divine Majesty the sacrifice of praise and thanksgiving, lauding and magnifying thy preservation and providence over us; through Jesus Christ our Lord. *Amen*.
+
+------------------------------------------------------------------------
+
+**[<img src="../images/buttons/previous.gif" data-border="0" width="82" height="30" alt="[Previous Page]" />](prayers.html)[<img src="../images/buttons/contents.gif" data-border="0" width="80" height="30" alt="[Contents]" />](../intro/contents.html)[<img src="../images/buttons/next.gif" data-border="0" width="57" height="30" alt="[Next Page]" />](../communion/readings.html)[<img src="../images/buttons/help.gif" data-border="0" width="57" height="30" alt="[Help]" />](../notes/help.html)[<img src="../images/buttons/search.gif" data-border="0" width="67" height="30" alt="[Search]" />](../notes/search.html)[<img src="../images/buttons/directory.gif" data-border="0" width="82" height="30" alt="[Directory]" />](../directory.html)[<img src="../images/buttons/home.gif" data-border="0" width="65" height="30" alt="[Home]" />](../index.html)**

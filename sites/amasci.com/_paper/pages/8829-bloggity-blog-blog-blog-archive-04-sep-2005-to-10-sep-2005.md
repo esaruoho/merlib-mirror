@@ -1,0 +1,666 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 04 Sep 2005 to 10 Sep 2005"
+source_domain: amasci.com
+source_path: ~tegan/blog/20050904-20050910.html
+order: 8829
+reachable_from_entry: false
+images: 47
+internal_links: 11
+extracted: 2026-08-07T17:16:44Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 04 Sep 2005 to 10 Sep 2005
+
+*Source page: `~tegan/blog/20050904-20050910.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, September 10, 2005 <span id="112641630571114675"></span></p>
+<strong>Review Copy Review - Local #1</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200509_Local.jpg" data-align="right" width="100" height="150" />Let's start out this review by saying: If you liked Demo, then you will like this book. It's got the same pacing and story style. It's very much its own story, but readers of Demo will slip comfortably into the pages and feel the comfort of a familiar narrative. Reading this felt like curling up with a cup of hot cocoa and a good book. It's the comfort food of comic books, and that's a good thing.<br />
+<br />
+If you haven't read Demo, then I think it's safe to say that this is a very good book to give a try. Brian Wood has a solid sense of storytelling, and his characters manage to come alive with just a few lines of dialogue. I'm not quite as fond of Ryan Kelly's artwork, I think I miss Becky Cloonan's fine work, but maybe Kelly will grow on me. And I have to say, although I'm not yet keen on Kelly's style, the background detail is excellent. The Portland train station is instantly recognizable, and the store looks like a store.<br />
+<br />
+Like Demo, each issue of this series will stand alone, but unlike Demo, certain characters will reappear, so if you read the whole 12 issue run, you'll get more out of it. Again, the first issue is a good one for a tryout.<br />
+<br />
+For those who've read Demo, this is more like the later books in the series, in which you sometimes weren't sure if the characters had any real "powers" or not. As with those, it doesn't matter. The story is still compelling. It was good enough that I read it once then flipped right back to the beginning and read it again.<br />
+<br />
+In short, it's a good book. And don't be afraid of missing it: This book is due out November 9th from Oni Press, so if you're interested, pre-order it now. I recommend it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112641630571114675">-</a>by Tegan at 10:23 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/review-copy-review-local-1.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112641630571114675&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112641630571114675" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112641630571114675&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112639374650061868"></span>
+<strong>Mini-Random Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<a href="http://www.comicbookresources.com/news/newsitem.cgi?id=5870">Comic Book Resources</a> has a preview of True Story, Swear To God #15. The second page made me laugh very hard, especially since I knew he was pronouncing it wrong, I just didn't know what his mispronouncement <em>meant</em>. Oops.<br />
+<br />
+<a href="http://www.orlandosentinel.com/orl-ghost0805sep08,0,3349932.story">Ghosts break a lease</a>. The restaurant owner refuses to move into a building because it is reportedly haunted, and his religion requires him to avoid association with spirits or demons. Via <a href="http://www.neilgaiman.com/journal/2005/09/in-which-author-realises-that-some.asp">Neil Gaiman</a>.<br />
+<br />
+Ha. I finally got <a href="http://www.bigad.com.au/movie.html">this big ad</a> to play on my machine. Yup, it's a big ad. Via <a href="http://www.newsfromme.com/archives/2005_09_10.html#010313">Mark Evanier</a>.<br />
+<br />
+Thanks to the news that <a href="http://www.webamused.com/milkbreath/">Rachel Hartman</a> is bringing <a href="http://www.eskimo.com/~tegan/blog/blogpics/madbun.gif">The Mad Bun</a> from Amy Unbounded to <a href="http://www.girlamatic.com/">GirlAMatic</a>, I've started to look at the page on a daily basis. If you like webcomics, you ought to go check it out. It looks like most of the strips are free for the first week.<br />
+<br />
+And lastly:
+<ul>
+<li><a href="http://www.gumpop.com/archives/2005/09/gumpop_blogs_ar.html">Gumpop's Blogaround</a>.</li>
+</ul>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112639374650061868">-</a>by Tegan at 4:07 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/mini-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112639374650061868&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112639374650061868" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112639374650061868&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, September 09, 2005 <span id="112629500428862504"></span></p>
+<strong>Good News, Bad News</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Great news! Michael "there are people at the convention center?" Brown has been removed from duties relating to hurricane Katrina, and an experienced Coast Guard Vice Admiral has been put in charge instead!<br />
+<br />
+Bad news... Brown hasn't been fired as director of FEMA (and there's another three storms lurking in the Atlantic) and this move should've been made over a week ago, when Vice Admiral Thad Allen's expertise could have saved hundreds of lives.<br />
+<br />
+Still, it's a start. A very small start, but a start in the right direction nonetheless.
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112629500428862504">-</a>by Tegan at 12:37 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/good-news-bad-news.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112629500428862504&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112629500428862504" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112629500428862504&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112628362054099517"></span>
+<strong>Hero Clicks</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+So I went to pick up my new comics yesterday, and spotted the new DC Icon Heroclix. Ug. I couldn't resist. I started to pick up some boxes when one of the store regulars pointed to a box I was ignoring and said, "Aquaman is in that box." I looked at him, looked at the box, and picked it up. He added, "but only if you open it in here!"<br />
+<br />
+I grinned and paid for my purchases, then took the box he'd pointed out and opened it. First up: A blue Scarecrow. Not bad, hubby-Eric can put it in the Oz collection, if nothing else. Second pull, blue Darkseid. Again, not bad. The third one wouldn't come out, so I shook the box a little and put my hand under the opening. A <a href="http://www.wizkidsgames.com/heroclix/dc/figuregallery.asp?unitid=8371">red Aquaman</a> fell into it. I gaped. The rest of the store gaped. The regular who had directed me to the box said, "Yes, I still got it!" Heh. The last one out of the box was a yellow Cheetah. What's Aquaman doing hanging out with all those villains?<br />
+<br />
+I got two other boxes. All three boxes had a Scarecrow in them. The other two boxes both had red Bizarro. I also got a blue Starfire, yellow Batman, red Robin, and a blue Joker. I also got a Maggie Sawyer bystander token (I want to get some more of the bystander tokens. Wasn't there a Ma Hunkel one? I <em>need</em> that one...). I was hoping for more Aquaman, but oh well.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112628362054099517">-</a>by Tegan at 9:30 AM Seattle time <a href="http://realtegan.blogspot.com/2005/09/hero-clicks.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112628362054099517&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112628362054099517" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112628362054099517&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, September 08, 2005 <span id="112623764667269473"></span></p>
+<strong>Rapid Reviews - 31 August 2005 - Part II</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Yah! I finished last week's comics almost in time for this week's comics!<br />
+<br />
+<strong>JLA: Classified #11</strong>: "New Maps of Hell" Part two: Very much a set-up issue, with various events pulling in various heroes who all find something similar in the disasters they handle. For this one, <a href="http://comics.wikicities.com/wiki/JLA:_Classified">the Wiki</a> actually helped remind me what happened in the last issue, so I'd call that a success. There's a great splash page of Superman taking off that has an intriguing sign for an art exhibit. The cover really bothered me when I first saw it, and still seems subtly wrong to me. I just can't quite put me finger on what bothers me about it. Overall, this is a standard superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Neil Gaiman's Neverwhere #3</strong>: We get a little more of the history of the family, and a little more of Richard trying to adapt to a very strange situation. I'm still very interested in the book, and still curious as to how this will all turn out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Seven Soldiers: Shining Knight #4</strong>: "The Last Stand of Don Vincenzo": So the artist isn't nearly as bad as I thought. Sort of. If you feel like hunting down and reading my reviews of the first three issues, that statement should give you a major spoiler. What the <em>point</em> of the spoiler is remains to be seen. I think I'll just let this whole Seven Soldiers thing finish. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Solo #6</strong>: Jordi Bernet: Another artist I don't know anything about. Happily, the stories were pretty solid. The first tale is probably the creepiest and best, almost an episode of "The Twilight Zone". There are some other creepy ones, but after the first tale, I'd go with the prison tale and the next most fascinating. In short, another good solo effort. This is one of DC's best ideas in a long time. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Astro City: The Dark Age #3</strong>: "Casualties of War": This is still living up to the standards of Astro City, as Royal and Charles show that they aren't the perfect pair of brothers and yet... they are very much brothers. This issue tells us what happened that made both of them hate vigilantes, as well as having a nice bit of tinfoil-y subplot goodness. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Green Lantern #4</strong>: "Alienated": If that's who I think it is on the final page, I have serious hopes that a certain superhero I'm a big fan of will get a chance to tackle him in this new state as well. This is the first time I've ever found Hector Hammond to be truly menacing. I'm warming up to this title. Finally. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Beowulf #4</strong>: I don't recall the previous issues being this hard to read, with such annoying artwork. The sketchy art and extremely dull coloring makes this one a book that I just don't feel like reading anymore. Whatever good was there seems to have fled for some odd concept of style. Eh. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0015.jpg" data-border="0" width="75" height="15" alt="1 1/2 starfish" /></a><br />
+<br />
+<strong>Usagi Yojimbo #86</strong>: "The Treasure of the Mother of Mountains" Chapter Four: At first read I thought that the story was moving too slowly, but then I thought about everything that happened in this issue, and suddenly wondered if it's moving too fast instead! Maybe it's going at the perfect pace. I know I'll be rereading this one a few times once the story is complete. As usual, this book is just better than average. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112623764667269473">-</a>by Tegan at 8:46 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/rapid-reviews-31-august-2005-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112623764667269473&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112623764667269473" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112623764667269473&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112622506690870632"></span>
+<strong>The Library of Graphic Novelists - Colleen Doran</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202838&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325"><img src="http://www.eskimo.com/~tegan/blog/blogpics/lgn_doran.jpg" data-align="left" data-border="0" width="100" height="150" /></a>As you may remember, back in June I <a href="http://realtegan.blogspot.com/2005/06/library-of-graphic-novelists.html">reviewed</a> the Library of Graphic Novelists from The Rosen Publishing Group. I was, at the time, very disappointed to find that the King County Library System had only purchased five of the six volumes. I filed a complaint about not having the sixth volume and a request for it, the Colleen Doran volume, through interlibrary loan. Less than a month later I got a notice that the KCLS was ordering the Colleen Doran volume for the system, and I <em>finally</em> got a copy of the book this week.<br />
+<br />
+Going into this book, I knew very little about Doran. I knew she did a book called A Distant Soil, and I had heard someone say once that she was an Aquaman fan, but that was about it. What little I've seen of A Distant Soil didn't really impress me much, so I'd never bothered to pursue it further.<br />
+<br />
+After reading this book I know quite a bit more about her, and I'm going to seek out the first volume of A Distant Soil to give it a second chance. Since the last time I read it, I picked up an issue somewhere in the middle of the story, starting at the beginning sounds like a much better idea. Um... anyone know which volume is the first? The book indicates that the story was started twice, but it never actually lists the volumes in order. I'll also be giving Orbiter a try, although I'm less hopeful on that one since Warren Ellis' writing never seems to hook me, for some reason.<br />
+<br />
+As with the other books, this is an excellent look at the comic book world. I'm still not sure why Doran was selected, but I suspect it has to do with her experiences as a self-publisher and her uphill battle against sexism in the industry. I liked that Ramona Fradon was mentioned (with an Aquaman sketch!) and Friends of Lulu was given props as well. Like the other books, the reading level was simple, aimed at young adults.<br />
+<br />
+The six books in this first set are actually a decent look at comic books and how they are created, if you are a person who knows little or nothing about comics. The price range indicates to me that these books are aimed at libraries, and not the casual reader. I would love to see these in every school library, as a great introduction to the other side of comic books.
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202838&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Colleen Doran</a><br />
+</li>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202862&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Will Eisner</a><br />
+</li>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202854&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Neil Gaiman</a><br />
+</li>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202846&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Joe Sacco</a><br />
+</li>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/1404202811&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Art Spiegelman</a><br />
+</li>
+<li><a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/140420282X&amp;link_code=as2&amp;camp=1789&amp;tag=theaquamanwebsit&amp;creative=9325">Bryan Talbot</a></li>
+</ul>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112622506690870632">-</a>by Tegan at 5:16 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/library-of-graphic-novelists-colleen.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112622506690870632&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112622506690870632" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112622506690870632&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112620181737646840"></span>
+<strong>Unbelievably Fragile</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+What to do <a href="http://www.worth1000.com/cache/contest/contestcache.asp?contest_id=7254&amp;display=photoshop">when gas prices get too high</a>, a photoshop contest.<br />
+<br />
+<a href="http://www.dictionaraoke.org/">Dictionaraoke</a>: Your favorite songs, as performed by the audio pronunciation samples from online dictionaries. Very, very strange. Via <a href="http://www.metafilter.com/mefi/44929">MetaFilter</a>.<br />
+<br />
+There's a <a href="http://science.slashdot.org/article.pl?sid=05/09/07/1529215">Mystery Bulge</a> in Oregon. Is it a new volcano? Is it just magma moving around? Is it something else? <a href="http://livescience.com/forcesofnature/ap_050906_sisters_bulge.html">Nobody knows</a>....<br />
+<br />
+<a href="http://www.variousandsundry.com/index.php?p=2935">Augie</a> has some good links again, today, including <a href="http://www.knightopia.com/journal/archives/000779.html">25 tips on saving money on gas</a>.<br />
+<br />
+Websnark <a href="http://www.websnark.com/archives/2005/09/on_the_other_ot.html">ponders PvP</a>.<br />
+<br />
+<a href="http://www.cnn.com/2005/TECH/space/09/06/saturn.rings.ap/index.html?section=cnn_space">Saturn's Rings are changing</a> faster than scientists would expect. And in other out-of-this-world news, <a href="http://news.bbc.co.uk/2/hi/science/nature/4219858.stm">volcanoes on Mars</a> might still be active and <a href="http://www.cnn.com/2005/TECH/space/09/08/deep.impact.reut/index.html?section=cnn_space">the comet</a> isn't quite what they expected, either.<br />
+<br />
+Bragging rights to the first person who posts in the comments as to where the title of this post is from.<br />
+<br />
+<strong>Hurricane Thoughts:</strong>
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<p>Elayne has a <a href="http://elayneriggs.blogspot.com/2005/09/heroes-of-new-orleans-jabbar-gibson-of.html">list of heroes</a> of New Orleans.<br />
+<br />
+<a href="http://weblogs.variety.com/bags_and_boards/2005/09/more_comicbook_.html">Comic Book Related Charity efforts</a>. Also <a href="http://www.comicon.com/thebeat/archives/2005/09/how_to_give_mon.html">more information here</a>. FilkerTom <a href="http://www.livejournal.com/users/filkertom/228409.html">suggests Network for Good</a>.<br />
+<br />
+<a href="http://www.the-leaky-cauldron.org/MTarchives/week_2005_09_04.php#007548">Harry Potter fans continue to raise money</a>.<br />
+<br />
+Dave lets us know about <a href="http://slithytoves.sytes.net/~dave/wordpress/?p=1082">one church</a> that has taken in refugees<a href="#refugees">*</a>.<br />
+<br />
+<a href="http://politedissent.com/archives/896">Polite Scott</a> is going to assist refugees<a href="#refugees">*</a>. Thank you, Scott, and we can wait for the story dissections.<br />
+<br />
+A <a href="http://www.latimes.com/news/nationworld/nation/la-me-vietnam6sep06,0,4959341,full.story?coll=la-home-headlines">great story</a> (LA Times) about a Vietnamese Houston Mall owner who took in and helped refugees<a href="#refugees">*</a> from NOLA. Thanks for the link, <a href="http://blog.donnael.com/2005/09/ok-thats-way-its-supposed-to-work.html">Garrett</a>.<br />
+<br />
+News about the <a href="http://www.cnn.com/2005/TECH/science/09/07/katrina.zoos/index.html?section=cnn_space">Aquarium and Zoos</a>.<br />
+<br />
+Here is <a href="http://www.thinkprogress.org/katrina-timeline">a very good timeline</a> of events in the disaster.<br />
+<br />
+A <a href="http://www.boingboing.net/2005/09/07/katrina_jasmina_tesa.html">fascinating view</a> of the Austin Convention Center from Jasmina Tesanovic. Read this one. It's uplifting in a great many ways.<br />
+<br />
+<a href="http://talkleft.com/new_archives/012200.html">$2000</a> won't go far, but it will help a lot right now.<br />
+<br />
+Perhaps the absolute best news yet, <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/09/06/AR2005090601677.html">Coast Guard's Chief of Staff To Assist FEMA</a> (Washington Post). If Brown is smart, he'll give Allen control since the guy has actual credentials and knows how to help people in a disaster. Via <a href="http://collectivesigh.blogspot.com/2005_09_04_collectivesigh_archive.html#112618475645228034">Collective Sigh</a>.<br />
+<br />
+I've confined my more shrill comments to <a href="http://gjovaag.blogspot.com/2005/09/more-hurricane-thoughts.html">Gjoblaag</a>. While I certainly recommend that everyone check out the links there (new ones are at the bottom), if you are suffering from stress you'll want to avoid them. Particularly <a href="http://www.boingboing.net/2005/09/07/katrina_survivor_fir.html">this one</a>.<br />
+<br />
+<span id="refugees">*</span><em>A note regarding the word "refugees". I have heard it argued that the word is somehow racist. It isn't. It's a word about people taking refuge from something. In this case that something is the dangers of disease in NOLA. I've heard it argued that the word has negative connotations. Of course it does! It implies disaster of some sort. I've heard it argued that it implies poor black people. It doesn't to me. My first thought when I hear "refugee" is of Serbia. And so, I'll continue to use the word. If it offends you, I suggest you find something better to do with your time than read my blog.</em></p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112620181737646840">-</a>by Tegan at 10:39 AM Seattle time <a href="http://realtegan.blogspot.com/2005/09/unbelievably-fragile.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112620181737646840&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112620181737646840" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112620181737646840&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, September 07, 2005 <span id="112615105465549627"></span></p>
+<strong>Happy Blogiversary Elayne!</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Since it looks like I'm not going to be able to put together another post for today, here's to <a href="http://elayneriggs.blogspot.com/2005/09/milestone-notes-today-is-third.html">Elayne Riggs</a>, my blogmother! Three years of Blogging! It's all Elayne's fault I started this blog. That means it's about two months until <em>my</em> blog's third anniversary. Wowsa...
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112615105465549627">-</a>by Tegan at 8:39 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/happy-blogiversary-elayne.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112615105465549627&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112615105465549627" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112615105465549627&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112611442155508905"></span>
+<strong>Random Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+My, I've been doing an AWFUL lot of linkblogging lately. I need to find something of my own to talk about again.<br />
+<br />
+First up, a couple more <a href="http://realtegan.blogspot.com/2005/08/blogaround-challenge.html">Blogarounds</a>:
+<ul>
+<li><a href="http://www.comictreadmill.com/CTMBlogarchives/2005/2005_Individual/2005_09/000910.php">The Comic Treadmill's Blogaround</a>.<br />
+</li>
+<li><a href="http://comiccommentary.blogspot.com/2005/09/blogaround-challenge-met.html">Comic Book Commentary's Blogaround</a>.</li>
+</ul>
+<p><a href="http://www.neilgaiman.com/journal/2005/09/mirrormask-salsa-stuff.asp">Neil Gaiman</a> is preparing some demonic salsa from his satanic tomato, which he'll auction off for charity.<br />
+<br />
+Did I mention that I'm <em>really</em> looking forward to Rachel Hartman's triumphant <a href="http://www.sequentialtart.com/community/Forum2/HTML/004469.shtml">return to comics</a> at GirlAMatic?</p>
+<a href="http://www.girlamatic.com/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/madbun.gif" data-border="0" width="300" height="300" /></a>
+<p>This has some minor interest to me and hubby-Eric, as it's about <a href="http://eclectech.co.uk/swizz.php">identity cards</a> in Britain... but it's Wizard of Oz-related.<br />
+<br />
+The <a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20050906.html">recent Dilbert strip</a> actually made me do a double-take when I read it... so I wasn't at all surprised when I learned that it has <a href="http://www.editorandpublisher.com/eandp/search/article_display.jsp?vnu_content_id=1001055186">an alternate ending</a>.<br />
+<br />
+<a href="http://www.museumofhoaxes.com/hoax/weblog/advertising_cliches/">Great list of advertising cliches</a>. Heh. I'm not sure why #15 is on <a href="http://news.bbc.co.uk/1/hi/magazine/4204412.stm">the list</a>, though. In my experience, it's true... mmmm chocolate.<br />
+<br />
+<a href="http://ask.yahoo.com/20050907.html">Ask Yahoo</a> travels at the speed of light.<br />
+<br />
+<a href="http://nielsenhayden.com/makinglight/archives/006448.html">Folksongs teach you how to raise your children</a>.<br />
+<br />
+Fare thee well, Gilligan. <a href="http://www.comicon.com/thebeat/archives/2005/09/good-bye_little.html">Good obit here</a>, and <a href="http://www.snopes.com/radiotv/tv/gilligan.asp">Snopes</a> weighs in.<br />
+<br />
+Boing Boing <a href="http://www.boingboing.net/2005/09/05/worst_english_phrase.html">links to</a> the <a href="http://crossroads.net/honyaku/easis/">The Worst English Phrasebook Ever</a>. Go visit now, after all: "It want to beat the iron during it is hot."<br />
+<br />
+Yaaah! It's the return of <a href="http://www.livejournal.com/users/jbacardi/38632.html">Johnny B's Fearless NFL Pronostications!</a><br />
+<br />
+<a href="http://www.penguinwarehouse.com/index.php">Adopt a Penguin</a>. While I'm fairly certain this is parody, it's very well-done, including prices and everything. Via <a href="http://www.variousandsundry.com/index.php?p=2929">Augie</a>.<br />
+<br />
+<a href="http://www.thefutoncritic.com/cgi/listings.cgi?id=20050906cbs04">NUMB3RS second season is coming</a>. Hubby-Eric and I really like this show, so I'm glad to see it's coming back, starting September 23rd. Via <a href="http://www.variousandsundry.com/index.php?p=2930">Augie</a>.<br />
+<br />
+<a href="http://www.metafilter.com/mefi/44856">MetaFilter</a> points us at a <a href="http://edge.channel4.com/news/2005/08/week_4/31_gold.wmv">video</a> of recent Thracian tomb excavations in Bulgaria.<br />
+<br />
+Ooops. A fake word, <a href="http://www.museumofhoaxes.com/hoax/weblog/esquivalience_copyright_trap/">esquivalience</a>, made the Dictionary.com word of the day. Why was a fake word in the dictionary? As a <a href="http://www.newyorker.com/talk/content/articles/050829ta_talk_alford">copyright trap</a>, also known as a Mountweazel.<br />
+<br />
+Snopes doesn't know if there will be a <a href="http://www.snopes.com/politics/gasoline/strike.asp">trucker strike</a>. Considering how much profits the oil industry have been <a href="http://www.citizen.org/pressroom/release.cfm?ID=2038">raking in</a>, it wouldn't surprise me.<br />
+<br />
+<a href="http://www.talklikeapirate.com">Arrr!</a></p>
+<a href="http://www.venganza.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/FSMLogo.jpg" data-border="0" width="200" height="150" /></a><br />
+<em>Sep 15-19 is "Holy Pasta Week"<br />
+Plan your menus now.</em>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112611442155508905">-</a>by Tegan at 10:31 AM Seattle time <a href="http://realtegan.blogspot.com/2005/09/random-thoughts_07.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112611442155508905&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112611442155508905" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112611442155508905&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, September 06, 2005 <span id="112607058252383221"></span></p>
+<strong>Random Thoughts (All Comics Edition)</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Ok. Calm. Serene. Mellow.<br />
+<br />
+&#10;<a href="http://www.girlamatic.com/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/madbun.gif" data-border="0" width="300" height="300" /></a>
+<p>Yes, folks. That's the Mad Bun, from Amy Unbounded, making a <a href="http://www.webamused.com/milkbreath/archives/002468.html">return to comics</a>. Ok, well... a debut in webcomics. I'm <em>really</em> looking forward to this.<br />
+<br />
+Kaja reports on <a href="http://www.livejournal.com/users/kajafoglio/32233.html">Cascadia Con</a>.<br />
+<br />
+Boing Boing <a href="http://www.boingboing.net/2005/09/06/pirate_book_1903_ill.html">links to</a> a flickr set of <a href="http://www.flickr.com/photos/beejjorgensen/sets/894766/">Howard Pyle Illustrations</a>. If you don't know who Howard Pyle is... just go look. Really.<br />
+<br />
+My capsule reviews are pretty lame and tiny, but they are what I enjoy doing. I thought I'd link to some really good reviews:</p>
+<ul>
+<li>Brill Building reviews <a href="http://brillbuilding.blogspot.com/2005/09/adam-strange-planet-heist.html">Adam Strange: Planet Heist</a><br />
+</li>
+<li>Dave Ex Machina reviews <a href="http://slithytoves.sytes.net/~dave/wordpress/?p=1084">Tricked</a><br />
+</li>
+<li>The Beat reviews <a href="http://www.comicon.com/thebeat/archives/2005/09/virgin_triumph.html">The 40-Year-Old Virgin</a></li>
+</ul>
+<p>All three reviews were interesting reads, all three made me want to go read/watch the reviewed item. All three described the item without any massive spoilers. Great reviews.<br />
+<br />
+Mike Sterling posts <a href="http://progressiveruin.com/archives/2005_09_04_archive.html#112599138404261773">post #1000</a>.<br />
+<br />
+Another sign of the Apocalypse, <a href="http://fanboyrampage.blogspot.com/2005_09_01_fanboyrampage_archive.html#112602108715276933">here</a>. I think I need to get myself a copy of <a href="http://unrewarding.com/steve/juggling.html">Flytrap</a> since I really enjoyed Me and Edith Head.<br />
+<br />
+Happy Birthday <a href="http://www.comicsreporter.com/index.php/happy_68th_birthday_sergio_aragones/">Sergio Aragones!</a>.<br />
+<br />
+<a href="http://www.livejournal.com/users/brianwood/282331.html">Brian Wood</a> tells us how to make Ginger Beer. Hmmm. You plan on getting <a href="http://www.khepri.com/local.html">Local</a>, don't you?<br />
+<br />
+And lastly, I haven't watched the last episode of Entourage yet, but I <em>do</em> know how the season "ends". At least I know what the status quo is going into season three, which I will apparently have to keep an eye on, even if I don't watch it. I will have a review, hopefully with screen caps, of the last few episodes soon.</p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112607058252383221">-</a>by Tegan at 10:22 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/random-thoughts-all-comics-edition.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112607058252383221&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112607058252383221" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112607058252383221&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112603468557725358"></span>
+<strong>Any Sufficiently Advanced Incompetence is Indistinguishable From Malice</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+I promise that my next two posts will have NOTHING to do with Katrina, and hopefully a lot to do with comic books. I'm still furious about this disaster and the murderers in our government who made it so much worse. But I'll follow <a href="http://nielsenhayden.com/makinglight/archives/006730.html">John Ford's advice</a> and pull away from it for a couple of days... and not speak about it at all in my next two posts.
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+"Any Sufficiently Advanced Incompetence is Indistinguishable From Malice"
+<p><a href="http://www.livejournal.com/users/rozk/86241.html">Roz Kaveney</a>:</p>
+<blockquote>
+It is sufficient to point out that if you take a job involving life and death, and go on doing it when you are clearly incompetent, then you are morally responsible anyway. There is a duty not to be crap at what you do. Which is the short form of all the analyses we are going to get for the next month.
+</blockquote>
+<p>In what may go down as the worst misuse of resources ever, <a href="http://www.metafilter.com/mefi/44876">firefighters are told to distribute FEMA fliers instead of fight fires</a> in NOLA. D'oh! What idiot is in charge of FEMA down there?!!!??? Firefighters are needed in the city NOW, not propagandists. Sheesh.<br />
+<br />
+More firefighters desperate to help are <a href="http://stevegilliard.blogspot.com/2005/09/fema-is-still-failing-america.html">kept waiting by FEMA</a>.<br />
+<br />
+<a href="http://www.dailykos.com/story/2005/9/5/105538/7048">FEMA blocks experienced help from entering NOLA</a>. There are almost too many of these stories to keep straight. From cutting communication lines of local jurisdictions to turning away desperately needed help, FEMA has managed to turn a natural disaster into a national disgrace.<br />
+<br />
+<a href="http://home.earthlink.net/%7Ewhynowblog/FEMA.html">Another story about FEMA</a> and how the agency has gone from useful to completely unhelpful in less than nine years.<br />
+<br />
+Kevin Drum explains how he thinks <a href="http://www.washingtonmonthly.com/archives/individual/2005_09/007060.php">FEMA was gutted by Bush</a>.<br />
+<br />
+The rot in FEMA <a href="http://thinkprogress.org/2005/09/06/fema-deputies/">goes deep</a>. Time to clear them all out and find qualified people to take their places.<br />
+<br />
+<a href="http://www.newsfromme.com/archives/2005_09_05.html#010291">Mark Evanier</a> link to <a href="http://www.msnbc.msn.com/id/6210240/">Keith Olbermann's Commentary</a> on what happened in NOLA.<br />
+<br />
+<a href="http://www.cnn.com/2005/US/09/06/katrina.impact/index.html?section=cnn_topstories">E. Coli in floodwaters</a>.<br />
+<br />
+More <a href="http://feeds.dailykos.com/dailykos/index.xml?m=703">lies from Bush</a> about why he couldn't send in troops to help.<br />
+<br />
+<a href="http://www.cnn.com/2005/US/09/05/scene.blog/index.html">CNN reports</a>:</p>
+<blockquote>
+I am stunned by an interview I conducted with New Orleans Detective Lawrence Dupree. He told me they were trying to rescue people with a helicopter and the people were so poor they were afraid it would cost too much to get a ride and they had no money for a "ticket." Dupree was shaken telling us the story. He just couldn't believe these people were afraid they'd be charged for a rescue.
+</blockquote>
+<p><a href="http://www.cnn.com/2005/WEATHER/09/04/scene.blog/index.html">CNN reports</a>:</p>
+<blockquote>
+This medic has been to Baghdad and seen people decapitated. But he said this is so much worse because it is so disorganized and because it is on American soil.
+</blockquote>
+<p><a href="http://talkleft.com/new_archives/012159.html">TalkLeft on FEMA</a>.<br />
+<br />
+<a href="http://www.crooksandliars.com/2005/09/04.html#a4786">The head of Homeland Security</a>, desperately trying to shift blame, seems to indicate that his office gets all of its information from the media. Apparently, DHS has no channels of information of its own. But that doesn't explain how they didn't know there were people at the Convention Center when every news channel was reporting it for days. It's also exposed as yet another lie by Chertoff when <a href="http://www.wonkette.com/politics//chertoffs-reading-habits-123841.php">Wonkette</a> can't find the headline he's talking about.<br />
+<br />
+Boing Boing reports on the <a href="http://www.boingboing.net/2005/09/06/katrina_update_on_ne.html">status of the nuke power plant</a> near NOLA.<br />
+<br />
+<a href="http://www.huffingtonpost.com/timothy-naftali/katrina-our-chernobyl_b_6845.html">Timothy Naftali</a> calls Katrina our Chernobyl... stretching the comparison further, it was Chernobyl that revealed the USSR to be a shell of its former strength. Is this the end of the US as we know it?<br />
+<br />
+<a href="http://stevegilliard.blogspot.com/2005/09/notes-from-new-orleans.html">Refugee camps</a> and how people are mistreated there.<br />
+<br />
+The <a href="http://www.livejournal.com/users/interdictor/">Interdictor</a> continues to blog from the heart of New Orleans.<br />
+<br />
+<a href="http://www.snopes.com/politics/katrina/henderson.asp">Snopes</a> tackles the reliability of dispatches from a physician in NOLA.</p>
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<p>And lastly, it took several days for Bush to react to the disaster in New Orleans, but Rehnquist's body is barely cold before he <a href="http://feeds.feedburner.com/PoliticalWire?m=1077">nominates a replacement</a>. It shows where Bush's priorities lie.</p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112603468557725358">-</a>by Tegan at 12:25 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/any-sufficiently-advanced-incompetence.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112603468557725358&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112603468557725358" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112603468557725358&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112602911010167358"></span>
+<strong>Mostly Positive Hurricane Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<a href="http://mercurystudio.blogspot.com/2005/09/hurricane-art.html">Jeff Parker</a> is selling off artwork to help victims of Katrina. <a href="http://parkerspace.blogspot.com/2005/09/hurricane-auction.html">More info here</a>.<br />
+<br />
+Tom Spurgeon has <a href="http://www.comicsreporter.com/index.php/comics_katrina_support_ramps_up/">a roundup</a> of support projects. Be sure to check out <a href="http://www.wcraghead.com/weblog/2005/09/hurricane-relief-scheme.html">Warren Craghead's offer</a>.<br />
+<br />
+<a href="http://johnnybacardi.blogspot.com/2005/09/well-hello-there.html">Johnny B</a> has a link to <a href="http://webcomictelethon.com/">The Webcomic Hurricane Relief Telethon</a>.<br />
+<br />
+<a href="http://www.the-leaky-cauldron.org/MTarchives/week_2005_09_04.php#007527">Harry Potter fans</a> are ganging up to help the victims of Katrina.<br />
+<br />
+<a href="http://nielsenhayden.com/makinglight/archives/006730.html">John Ford</a> reminds us of the symptoms of stress, symptoms which may mean we've been following the disaster too closely.<br />
+<br />
+Here's a <a href="http://radio.weblogs.com/0001011/2005/09/05.html#a11046">brilliant idea</a> to help victims of Katrina: virtualize all the nonworking phone numbers in the stricken area. That way people can claim their numbers, set up voice mail, and be able to tell others they are all right.<br />
+<br />
+<a href="http://www.huffingtonpost.com/russell-shaw/my-proposal-for-a-9step-_b_6887.html">Russell Shaw</a> has another proposal on how to help victims of Hurricane Katrina recover from what is likely to be crushing debt.<br />
+<br />
+A group of kids get together <a href="http://www.huffingtonpost.com/olivia-owen-and-hannah-adelstein/the-least-we-could-do_b_6896.html">and raise $1710</a> to help victims of Katrina.<br />
+<br />
+Three students from Duke University <a href="http://stevegilliard.blogspot.com/2005/09/oh-my-god-pt-ii.html">mounted a rescue operation</a> of their own. Amazing. Simply incredible.<br />
+<br />
+Geeks help <a href="http://www.boingboing.net/2005/09/06/xeni_on_npr_geeks_or.html">re-establish communications</a>.<br />
+<br />
+Anne Rice on <a href="http://www.nytimes.com/2005/09/04/opinion/04rice.html">what it means to lose New Orleans</a> (NY Times, Reg may be required). Via <a href="http://www.dailykos.com/storyonly/2005/9/5/44055/39188">Kos</a>.<br />
+<br />
+The amazing story of <a href="http://www.latimes.com/news/nationworld/nation/la-na-children5sep05,0,113027.story?coll=la-home-headlines">Deamonte Love, age 6, and the children he protected</a>. Via <a href="http://talkleft.com/new_archives/012158.html">TalkLeft</a>.<br />
+<br />
+<a href="http://www.huffingtonpost.com/stephen-fry/the-great-stink-of-2005_b_6892.html">Stephen Fry</a> on the smell of disaster.<br />
+<br />
+Another <a href="http://www.democrats.org/a/2005/09/other_charities.php">list of charities</a>. Also, check out <a href="http://www.charitynavigator.org/">Charity Navigator</a> before you give to be sure your money is going to someone who will help.<br />
+<br />
+<a href="http://www.firstbook.org/site/c.lwKYJ8NVJvF/b.991737/k.3336/Splash_Page/apps/s/custom.asp">Firstbook</a> is donating books to children in the devastated areas. If you donate $5, they'll thrown in another book on top of it. Via <a href="http://www.bookslut.com/blog/archives/2005_09.php#006574">bookslut</a>.
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112602911010167358">-</a>by Tegan at 10:45 AM Seattle time <a href="http://realtegan.blogspot.com/2005/09/mostly-positive-hurricane-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112602911010167358&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112602911010167358" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112602911010167358&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, September 05, 2005 <span id="112598579883233108"></span></p>
+<strong>Hurricane Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Dateline: Hollywood gets it absolutely right in a nice little parody piece: <a href="http://datelinehollywood.com/archives/2005/09/05/cable-news-networks-interrupt-talking-heads-to-cover-news">Cable News Networks Interrupt Talking Heads To Cover News</a>.<br />
+<br />
+Aaron Broussard, president of Jefferson Parish, Louisiana - <a href="http://www.msnbc.msn.com/id/9179790/">Full Transcript</a>:
+<blockquote>
+I am personally asking our bipartisan congressional delegation here in Louisiana to immediately begin congressional hearings to find out just what happened here. <strong>Why did it happen? Who needs to be fired? And believe me, they need to be fired right away, because we still have weeks to go in this tragedy.</strong> We have months to go. We have years to go. And whoever is at the top of this totem pole, that totem pole needs to be chain-sawed off and we've got to start with some new leadership... <strong>FEMA needs to be empowered to do the things it was created to do.</strong> It needs to come somewhere, like New Orleans, with all of its force immediately, without red tape, without bureaucracy, act immediately with common sense and leadership, and save lives.
+</blockquote>
+<p><a href="http://feeds.dailykos.com/dailykos/index.xml?m=696">All it would have taken was a phone call from Bush</a>:</p>
+<blockquote>
+"We had the USS Bataan sailing almost behind the hurricane so once the hurricane made landfall, its search and rescue helicopters could be available almost immediately So, we had things ready. The only caveat is: we have to wait until the president authorizes us to do so. The laws of the United States say that the military can't just act in this fashion; <strong>we have to wait for the president to give us permission.</strong>"
+</blockquote>
+<p>From a British reporter: <a href="http://stuarthughes.blogspot.com/2005/09/my-colleague-dan-lak-has-been-to-some.html">When the developing world is judged to have done better than the United States in dealing with a humanitarian crisis you know something's gone seriously wrong.</a><br />
+<br />
+<a href="http://www.talkaboutcomics.com/blog/?p=290">Lea's Got It All Figured Out</a>.<br />
+<br />
+<a href="http://www.newsfromme.com/archives/2005_09_04.html#010286">Mark Evanier</a> has some good links... one is to <a href="http://brendanloy.com/page2.html#112482298633690716">the blog of a storm watcher</a>, Brendan Loy, who followed Katrina's movements from the moment it was a tropical depression. His chilling comments make for a solid timeline of the events, including when New Orleans <em>should</em> have gotten help. Brendan doesn't pull any punches when people deserve contempt.<br />
+<br />
+Speaking of contempt, New Orleans Mayor Ray Nagin apparently discovered a soul in the hurricane, but read <a href="http://leninology.blogspot.com/2005/09/everything-has-gone-according-to-plan.html">what he did before</a>. This bit from Loy's blog says it all:</p>
+<blockquote>
+The mayor of New Orleans is an idiot...I can't emphasize enough what a bad decision I think it is for New Orleans Mayor Ray Nagin to delay the mandatory evacuation order until tomorrow morning...Will Ray Nagin go down in history as the mayor who fiddled while New Orleans drowned? Could be.
+</blockquote>
+<p>Another <a href="http://www.newsfromme.com/archives/2005_09_05.html#010290">Mark Evanier rant</a> links to <a href="http://www.msnbc.msn.com/id/9216831/#050905">an editorial</a> about the incompetence of FEMA.<br />
+<br />
+The fears for the <a href="http://www.boingboing.net/2005/09/05/katrina_disease_thre.html">disease vectors</a> in New Orleans are rising with the continued existence of standing water. As if it weren't already bad enough.<br />
+<br />
+<a href="http://nielsenhayden.com/makinglight/archives/006734.html">Any sufficiently advanced incompetence is indistinguishable from malice.</a> It's hard to tell whether FEMA was there to <a href="http://feeds.dailykos.com/dailykos/index.xml?m=697">rescue or kill</a> survivors:</p>
+<ul>
+<li><a href="http://news.ft.com/cms/s/84aa35cc-1da8-11da-b40b-00000e2511c8.html">FEMA won't accept Amtrak's help in evacuations</a><br />
+</li>
+<li><a href="http://www.dailykos.com/storyonly/2005/9/5/105538/7048">FEMA turns away experienced firefighters</a><br />
+</li>
+<li><a href="http://www.nytimes.com/2005/09/05/national/nationalspecial/05blame.html?ex=1283572800&amp;en=1d14ebfbd942a7d0&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">FEMA turns back Wal-Mart supply trucks</a><br />
+</li>
+<li><a href="http://www.nytimes.com/2005/09/05/national/nationalspecial/05blame.html?ex=1283572800&amp;en=1d14ebfbd942a7d0&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">FEMA prevents Coast Guard from delivering diesel fuel</a><br />
+</li>
+<li><a href="http://www.post-gazette.com/pg/05246/565143.stm">FEMA won't let Red Cross deliver food</a><br />
+</li>
+<li><a href="http://www.zwire.com/site/news.cfm?newsid=15147862&amp;BRD=1817&amp;PAG=461&amp;dept_id=68561&amp;rfi=6">FEMA bars morticians from entering New Orleans</a><br />
+</li>
+<li><a href="http://www.dailykos.com/storyonly/2005/9/3/171718/0826">FEMA blocks 500-boat citizen flotilla from delivering aid</a><br />
+</li>
+<li><a href="http://www.chicagotribune.com/news/nationworld/chi-0509040369sep04,1,4144825.story?ctrack=1&amp;cset=true">FEMA fails to utilize Navy ship with 600-bed hospital on board</a><br />
+</li>
+<li><a href="http://www.chicagotribune.com/news/local/chi-050902daley,1,2011979.story?coll=chi-news-hed">FEMA to Chicago: Send just one truck</a><br />
+</li>
+<li><a href="http://www.wwltv.com/local/stories/WWLBLOG.ac3fcea.html">FEMA turns away generators</a> (See entry from 3:32 P.M. by Ben Morris, Slidell mayor)<br />
+</li>
+<li><a href="http://www.fema.gov/news/newsrelease.fema?id=18470">FEMA: "First Responders Urged Not To Respond"</a></li>
+</ul>
+And there's <a href="http://constructiveinterference.blogspot.com/2005/09/local-failure-caused-by-fema.html">more here</a>. Again, was FEMA actually trying to help, or were they determined to kill the hurricane survivors?<br />
+<br />
+New blog to cover <a href="http://femafailures.blogspot.com/">FEMA Failures</a>. The time to fix this is NOW, before another disaster hits.<br />
+<br />
+<a href="http://talkleft.com/new_archives/012167.html">Red Cross</a> has been giving mind-boggling help. Look at the numbers.<br />
+<br />
+&#10;<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<p>And, absolute last thought tonight: if it's not the time for finger-pointing, even by people like me who are utterly useless, then <a href="http://thinkprogress.org/2005/09/05/rove-katrina/">why is Rove already finger-pointing?</a></p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112598579883233108">-</a>by Tegan at 10:46 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/hurricane-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112598579883233108&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112598579883233108" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112598579883233108&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112596363251455605"></span>
+<strong>Joint Review</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Eric and I have done a nice little <a href="http://blogofoz.blogspot.com/2005/09/joint-review-ozf5-gale-force.html">review of OZF5: Gale Force</a> over on the Oz Blog. If you are interested, you can pop over there and read. Enjoy.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112596363251455605">-</a>by Tegan at 4:39 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/joint-review.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112596363251455605&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112596363251455605" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112596363251455605&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, September 04, 2005 <span id="112589275020241014"></span></p>
+<strong>Mostly Hurricane Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<p><a href="http://www.guardian.co.uk/international/story/0,3604,1561192,00.html">Viking horde of jewelry found</a> by three boys playing in yard.<br />
+<br />
+<a href="http://www.style.com/vogue/feature/120103/popup/slideshow1.html">Alice in Designerland</a>. Via <a href="http://www.boingboing.net/2005/09/03/vogues_alice_in_cout.html">Boing Boing</a>.<br />
+<br />
+<a href="http://www.livejournal.com/users/filkertom/227835.html">The little Spirit Rover that could</a>.<br />
+<br />
+<a href="http://www.citizen.org/pressroom/release.cfm?ID=2038">The five largest oil producers and refiners in America (ExxonMobil, ChevronTexaco, ConocoPhillips, BP and Shell) have enjoyed profits of $254 billion since 2001</a>.<br />
+<br />
+<strong>Hurricane Thoughts:</strong></p>
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<p>I'm afraid this whole section is going to be pretty political, because I can't divide the disaster from the people in leadership positions who made it so much worse by not doing their jobs.<br />
+<br />
+<a href="http://www.boingboing.net/2005/09/03/katrina_blogs_report.html">Many more to be rescued</a>. We know where they are. They've called for help. But no one goes to rescue them. <a href="http://www.livejournal.com/users/interdictor/49380.html#cutid1">They are desperate and dying</a>.<br />
+<br />
+<a href="http://www.boingboing.net/2005/09/04/broussard_we_have_be.html">Aaron Broussard, president of Jefferson Parish, Louisiana</a>. If you haven't seen this video, go find a clip and watch it now. All the way to the end.</p>
+<blockquote>
+<em>And I want to give you one last story and I'll shut up and let you tell me whatever you want to tell me. The guy who runs this building I'm in, emergency management, he's responsible for everything. His mother was trapped in St. Bernard nursing home and every day she called him and said, "Are you coming, son? Is somebody coming?" And he said, "Yeah, Mama, somebody's coming to get you. Somebody's coming to get you on Tuesday. Somebody's coming to get you on Wednesday. Somebody's coming to get you on Thursday. Somebody's coming to get you on Friday." And she drowned Friday night. She drowned Friday night. . . Nobody's coming to get us. Nobody's coming to get us. The secretary has promised. Everybody's promised. They've had press conferences. I'm sick of the press conferences. For God sakes, shut up and send us somebody.</em>
+</blockquote>
+<p>Much much more <a href="http://www.crooksandliars.com/2005/09/04.html#a4783">here</a>, <a href="http://thinkprogress.org/2005/09/04/one-of-the-worst-abandonments-of-americans-on-american-soil-ever/">here</a>, <a href="http://www.wonkette.com/politics//the-cavalry-didnt-come-123792.php">here</a>, <a href="http://www.metafilter.com/mefi/44823">here</a>, and one post that explains what happened after <a href="http://www.huffingtonpost.com/arianna-huffington/russert-watch-barbourism_b_6807.html">Broussard was cut off</a>.<br />
+<br />
+FEMA is unable to make use of their resources, including <a href="http://www.boingboing.net/2005/09/04/navy_ship_off_gulf_c.html">a navy ship</a> that's been waiting for orders... orders which have to come from FEMA. Criminal Negligence. Dereliction of Duty. The officals of FEMA should be tried for crimes against humanity.<br />
+<br />
+<a href="http://www.cnn.com/2005/US/09/03/katrina.chertoff/index.html?section=cnn_topstories">Homeland Security Secretary Michael Chertoff</a> claimed that the disaster in New Orleans was unpredictable, and a surprise. Liar. <a href="http://www.snopes.com/politics/katrina/foretold.asp">National Geographic predicted it</a> a year ago. Even worse, Chertoff HIMSELF <a href="http://atrios.blogspot.com/2005_09_04_atrios_archive.html#112588391965894469">was briefed</a> with FEMA Director Mike Brown BEFORE THE HURRICANE EVEN MADE LANDFALL. And if that wasn't enough, FEMA <a href="http://atrios.blogspot.com/2005_09_04_atrios_archive.html#112588406195940496">has considered the scenerio</a> for at least two years, and <em>supposedly</em> has been practicing for it. I say supposedly because they didn't show any sign at all of actually having prepared. I wonder where the taxpayer money has been going, since it's clear they haven't been using it to actually do their jobs. Criminal Negligence. Dereliction of Duty. The officals of FEMA and the DHS should be tried for crimes against humanity.<br />
+<br />
+Bush had the utter gall to lie outright and claim that <a href="http://www.livejournal.com/users/filkertom/227970.html">a state of emergency</a> wasn't declared. Liar. Louisiana Governor Kathleen Babnieaux Blanco declared a state of emergency starting on Friday, Aug. 26, until Sunday, Sept. 25. She knew it would be bad. Everyone in the whole freaking world except Bush and his criminal cronies knew it would be bad.<br />
+<br />
+Bush also made the argument that New Orleans was too difficult to reach for rescue operations. <a href="http://feeds.dailykos.com/dailykos/index.xml?m=683">Oh, really?</a> Liar. If <a href="http://collectivesigh.blogspot.com/2005_09_04_collectivesigh_archive.html#112585583963238571">The Hyatt</a> could get emergency supplies in, why couldn't the government of the United States?!???<br />
+<br />
+Pacific Views is <a href="http://www.pacificviews.org/weblog/archives/001465.html">quoting Bible verses</a>.<br />
+<br />
+False reports of looters <a href="http://talkleft.com/new_archives/012123.html">scared off rescuers</a>. There's plenty of blame to go around. The media has a huge debt to society to pay.<br />
+<br />
+<a href="http://talkleft.com/new_archives/012134.html">Indifference is a Weapon of Mass Destruction</a>.<br />
+<br />
+<a href="http://www.crooksandliars.com/2005/09/04.html#a4784">Senator Mary Landrieu</a> has had enough.<br />
+<br />
+<a href="http://www.potomacnews.com/servlet/Satellite?pagename=WPN%2FMGArticle%2FWPN_BasicArticle&amp;c=MGArticle&amp;cid=1031784871232&amp;path=">Regular citizens</a> have had enough.<br />
+<br />
+<a href="http://stevegilliard.blogspot.com/2005/09/too-many-dead.html">Folks stuck in NOLA</a> have had enough.<br />
+<br />
+<a href="http://stevegilliard.blogspot.com/2005/09/if-youre-not-pissed-off-youre-not.html">US Army Reserves members</a> have had enough. <em>UPDATE</em>: The Army Reserves Member who wrote the article is now facing a court-martial for criticizing Bush. Apparently the military can move quite fast when it comes to protecting Bush from opinion, but can't move at all when it comes to protecting life.<br />
+<br />
+<a href="http://stevegilliard.blogspot.com/2005/09/life-at-cajundome.html">Rescue volunteers</a> have had enough.<br />
+<br />
+But <a href="http://stevegilliard.blogspot.com/2005/09/why-help-them-theyll-just-drown-again.html">compassionate conservatives</a> show their hate.<br />
+<br />
+<a href="http://thinkprogress.org/2005/09/04/chertoff-accountable/">Chertoff</a>, in a transparent attempt to keep himself from going to prison for his dereliction of duty, says that now is not the time for pointing fingers. When is the time, then? After another few thousand have died because of their criminal negligence?<br />
+<br />
+Ben Stein <a href="http://stevegilliard.blogspot.com/2005/09/dont-blame-dear-leader.html">fails to defend Bush</a>.<br />
+<br />
+As if they haven't suffered enough, now schools won't want to take in refugee children because their schools will still be held to the <a href="http://www.huffingtonpost.com/deborah-rappaport/leaving-behind-the-childr_b_6801.html">stupid No Child Left Behind standards</a>.</p>
+<a href="http://www.opusa.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_opusa.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to Operation USA" /></a><a href="http://www.redcross.org/"><img src="http://www.eskimo.com/~tegan/blog/blogpics/tag_redcross.jpg" title="Give." data-border="0" width="75" height="75" alt="Give to The Red Cross" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112589275020241014">-</a>by Tegan at 8:57 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/mostly-hurricane-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112589275020241014&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112589275020241014" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112589275020241014&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="112586310623209555"></span>
+<strong>Volunteer Your Time</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Nothing else but your time and your internet connection is needed for this one: <a href="http://www.boingboing.net/2005/09/04/katrina_help_process.html">Help Process People Finder Information</a>.<br />
+<br />
+I'm going to give at least an hour today (time I would've spent on the Wiki) and as much as I can tomorrow.<br />
+<br />
+Update: The response was so overwhelming that we <a href="http://192.122.183.218/wiki/index.php/PeopleFinderVolunteer">killed the server</a> the database was running on. They are working to get it back up, then I'll enter more.<br />
+<br />
+Update: It's up again!
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+<a href="#112586310623209555">-</a>by Tegan at 12:43 PM Seattle time <a href="http://realtegan.blogspot.com/2005/09/volunteer-your-time.html">- Permalink</a> <a href="javascript:HaloScan(&#39;112586310623209555&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=112586310623209555" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=112586310623209555&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20050828-20050903.html">08/28/2005 - 09/03/2005</a><br />
+09/04/2005 - 09/10/2005<br />
+<a href="20050911-20050917.html">09/11/2005 - 09/17/2005</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

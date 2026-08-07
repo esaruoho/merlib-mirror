@@ -1,0 +1,25 @@
+NUMBERS COUNT
+
+excerpt of editorial by Cliff Swartz in THE PHYSICS TEACHER, p536, Vol34, 
+Dec 1996
+
+...Can airplanes really fly?  If you looked at one of the big jets at the
+terminal, and hadn't already bought your ticket, you might think that
+something that big could never get off the ground.  From the booklet
+(Magnitudes of Physics) we find that the mass of an empty 747 is 1.6e5
+kilograms.  Let's assume that the weight at takeoff is about 200tons --
+2.0e6 Newtons.  The only way to get a holding force upwards of 2e6 Newtons,
+is to provide a downward thrust of 2.0e6 Newtons.  Short of a skyhook, the
+only thing we have to throw down is air.  The momentum flow of that air
+must be at least 2.0e6 kg(m/s)/s.  That's what the wings are for.  They
+divert the air they reach and deflect it downwards.  (Sure, sure,
+Bernoulli, but if that much air doesn't go down, the plane doesn't stay
+up.)  The volume of air deflected per second must be about the length of
+the wings times the speed times the vertical thickness of the layer, which
+we will assume is about the same as the horizontal width of the wing.  For
+our big passenger jet at takeoff that's about 50m x 60m/s x 5m = 1.8e4m^3/s.
+Since the density of air is 1.2kg/m^3, there must be about 2.1e4 kg of air
+being shot partially downward every second, with a speed of about 70m/s. 
+That yields a thrust (v*dm/dt) of 1.5e6 Newtons, which, considering my
+sloppy approximations, is just about enough to get that plane off the
+ground.  Note how chancy the explanation would be without numbers... 

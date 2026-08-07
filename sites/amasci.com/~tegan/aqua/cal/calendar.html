@@ -1,0 +1,183 @@
+<HTML>
+<HEAD><TITLE>Perpetual Calendar</TITLE>
+<link rel="SHORTCUT ICON" href="../aquaman.ico">
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+<!-- Original:  Rob Patrick (rpatrick@mit.edu) -->
+<!-- Begin
+function setToday() {
+var now   = new Date();
+var day   = now.getDate();
+var month = now.getMonth();
+var year  = now.getYear();
+if (year < 2000)    // Y2K Fix, Isaac Powell
+year = year + 1900; // http://onyx.idbsu.edu/~ipowell
+this.focusDay = day;
+document.calControl.month.selectedIndex = month;
+document.calControl.year.value = year;
+displayCalendar(month, year);
+}
+function isFourDigitYear(year) {
+if (year.length != 4) {
+alert ("Sorry, the year must be four-digits in length.");
+document.calControl.year.select();
+document.calControl.year.focus();
+} else { return true; }
+}
+function selectDate() {
+var year  = document.calControl.year.value;
+if (isFourDigitYear(year)) {
+var day   = 0;
+var month = document.calControl.month.selectedIndex;
+displayCalendar(month, year);
+    }
+}
+
+function setPreviousYear() {
+var year  = document.calControl.year.value;
+if (isFourDigitYear(year)) {
+var day   = 0;
+var month = document.calControl.month.selectedIndex;
+year--;
+document.calControl.year.value = year;
+displayCalendar(month, year);
+   }
+}
+function setPreviousMonth() {
+var year  = document.calControl.year.value;
+if (isFourDigitYear(year)) {
+var day   = 0;
+var month = document.calControl.month.selectedIndex;
+if (month == 0) {
+month = 11;
+if (year > 1000) {
+year--;
+document.calControl.year.value = year;
+}
+} else { month--; }
+document.calControl.month.selectedIndex = month;
+displayCalendar(month, year);
+   }
+}
+function setNextMonth() {
+var year  = document.calControl.year.value;
+if (isFourDigitYear(year)) {
+var day   = 0;
+var month = document.calControl.month.selectedIndex;
+if (month == 11) {
+month = 0;
+year++;
+document.calControl.year.value = year;
+} else { month++; }
+document.calControl.month.selectedIndex = month;
+displayCalendar(month, year);
+   }
+}
+function setNextYear() {
+var year = document.calControl.year.value;
+if (isFourDigitYear(year)) {
+var day = 0;
+var month = document.calControl.month.selectedIndex;
+year++;
+document.calControl.year.value = year;
+displayCalendar(month, year);
+   }
+}
+function displayCalendar(month, year) {       
+month = parseInt(month);
+year = parseInt(year);
+var i = 0;
+var days = getDaysInMonth(month+1,year);
+var firstOfMonth = new Date (year, month, 1);
+var startingPos = firstOfMonth.getDay();
+days += startingPos;
+document.calButtons.calPage.value  =   " Su Mo Tu We Th Fr Sa";
+document.calButtons.calPage.value += "\n --------------------";
+for (i = 0; i < startingPos; i++) {
+if ( i%7 == 0 ) document.calButtons.calPage.value += "\n ";
+document.calButtons.calPage.value += "   ";
+}
+for (i = startingPos; i < days; i++) {
+if ( i%7 == 0 ) document.calButtons.calPage.value += "\n ";
+if (i-startingPos+1 < 10)
+document.calButtons.calPage.value += "0";
+document.calButtons.calPage.value += i-startingPos+1;
+document.calButtons.calPage.value += " ";
+}
+for (i=days; i<42; i++)  {
+if ( i%7 == 0 ) document.calButtons.calPage.value += "\n ";
+document.calButtons.calPage.value += "   ";
+}
+document.calControl.Go.focus();
+}
+function getDaysInMonth(month,year)  {
+var days;
+if (month==1 || month==3 || month==5 || month==7 || month==8 || month==10 || month==12)  days=31;
+else if (month==4 || month==6 || month==9 || month==11) days=30;
+else if (month==2)  {
+if (isLeapYear(year)) { days=29; }
+else { days=28; }
+}
+return (days);
+}
+function isLeapYear (Year) {
+if (((Year % 4)==0) && ((Year % 100)!=0) || ((Year % 400)==0)) {
+return (true);
+} else { return (false); }
+}
+// End -->
+</SCRIPT>
+
+</HEAD>
+<body background="../pics/sea.gif" bgcolor="#0000D9" text="#ffffff" link="#fff000" vlink="#ff4000"><font size="4">
+<BODY onLoad="setToday()">
+
+<CENTER>
+<H1>Perpetual Calendar</H1>
+<FORM NAME="calControl" onSubmit="return false;">
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR><TD COLSPAN=7>
+<CENTER>
+<SELECT NAME="month" onChange="selectDate()">
+<OPTION>January
+<OPTION>February
+<OPTION>March
+<OPTION>April
+<OPTION>May
+<OPTION>June
+<OPTION>July
+<OPTION>August
+<OPTION>September
+<OPTION>October
+<OPTION>November
+<OPTION>December
+</SELECT>
+<INPUT NAME="year" TYPE=TEXT SIZE=4 MAXLENGTH=4>
+<INPUT TYPE="button" NAME="Go" value="Build!" onClick="selectDate()">
+</CENTER>
+</TD>
+</TR>
+</FORM>
+<FORM NAME="calButtons">
+<TR><TD align="center"><textarea FONT="Courier" NAME="calPage" WRAP=no ROWS=8 COLS=22></textarea></TD><TR><TD><CENTER>
+<INPUT TYPE=BUTTON NAME="previousYear" VALUE= << "    onClick="setPreviousYear()">
+<INPUT TYPE=BUTTON NAME="previousYear" VALUE=" < "    onClick="setPreviousMonth()">
+<INPUT TYPE=BUTTON NAME="previousYear" VALUE="Today"    onClick="setToday()">
+<INPUT TYPE=BUTTON NAME="previousYear" VALUE=" > "    onClick="setNextMonth()">
+<INPUT TYPE=BUTTON NAME="previousYear" VALUE=" >>"    onClick="setNextYear()">
+</CENTER></TD></TR>
+</TABLE></FORM></FONT>
+
+<center>
+<font size="2">
+<p>This script is from <a href="http://javascript.internet.com">The javascript source</a>
+<br>Original:  Rob Patrick
+<br>Y2K fix by Isaac Powell
+<p>Note: You need to have Javascript enabled to view the calendar properly.
+</font>
+</center>
+<p>
+<center><h2><a href="../index.html">Unofficial Aquaman Website</a></h2></center>
+</body></html>

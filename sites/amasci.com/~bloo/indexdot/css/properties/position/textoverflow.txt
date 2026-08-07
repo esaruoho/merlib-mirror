@@ -1,0 +1,102 @@
+Text-Overflow - Cascading Style Sheets Properties 
+
+ text-overflow 
+ Support Key: 
+ [ IE6 ] 
+ Other Positioning Properties 
+
+ top 
+ right 
+ bottom 
+ left 
+ vertical-align 
+ overflow 
+ overflow-x 
+ overflow-y 
+ clip 
+ z-index 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ clip 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ Some content in an element may fall outside the element's rendering
+ box for a number of reasons (negative margins, absolute positioning,
+ content exceeding the width/height set for an element, etc.) In
+ cases where this occurs, the 'overflow' (set to "hidden" or "scroll"
+ for this property to have an effect), and 'clip' properties define
+ what content will be visible.
+
+ If text is too long for the overflow/clipping area and the content is to
+ be visually clipped, this property allows the clipped content to be visually
+ represented by the string "..." (called an "ellipsis") in the non-clipped area.
+
+ This property only applies to text overflow content in the flow of text
+ (horizontal for western text.) To explicitly force an overflow situation,
+ content must be in either a NOBR element or an element with the
+ 'white-space' property set to "nowrap" - otherwise, only a natural
+ non-breaking word existing at the clipping boundary will induce this
+ property to have an ellipsis effect (if the property is thus set.)
+
+ The clipped content can still be selected by selecting the ellipsis.
+ When selected, the ellipsis will disappear and be visually replaced
+ by as much of the the text content as is possible to display in the
+ clipping area.
+
+ Allowed Values 
+ clip 
+ [ IE6 ] 
+ Type: Explicit 
+ Description: 
+ Clips the viewable content to the area defined by the rendering box,
+ the 'overflow', and 'clip' property values. 
+
+ ellipsis 
+ [ IE6 ] 
+ Type: Explicit 
+ Description: 
+ If text content will overflow, display the string "..." in the
+ visibly-rendered region for content outside the visible area. 
+
+ Example 
+ Ext/Doc: 
+ div 
+ { position: absolute;
+ left: 20px; top: 50px; 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; width: 120px;
+ height: 50px; border: thin solid black; 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; overflow: hidden;
+ text-overflow: ellipsis } 
+ In-Line:&#160; 
+ < div 
+ STYLE =" position: absolute;
+ left: 20px; top: 50px; 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; width: 120px;
+ height: 50px; border: thin solid black; 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; overflow: hidden;
+ text-overflow: ellipsis"> 
+ < nobr >This is a NOBR section of moderate length and size.</ nobr >
+ </ div > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

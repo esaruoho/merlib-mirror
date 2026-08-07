@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995, 1996 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>3.5 <TT>for</TT> Loops</title>
+<link href="sx3d.html" rev=precedes>
+<link href="sx3f.html" rel=precedes>
+<link href="sx3.html" rev=subdocument>
+</head>
+<body>
+<H2>3.5 <TT>for</TT> Loops</H2>
+
+<p>[This section corresponds to the other half of K&amp;R Sec. 3.5]
+</p><p>Our second loop,
+which we've seen
+
+at least one example of already,
+is the <TT>for</TT> loop.
+The first one we saw was:
+<pre>
+	for (i = 0; i &lt; 10; i = i + 1)
+		printf("i is %d\n", i);
+</pre>
+More generally, the syntax of a <TT>for</TT> loop is
+<pre>
+	for( <I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I> ; <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I> ; <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I> )
+		<I>statement</I>
+</pre>
+(Here we see that the <TT>for</TT> loop has three control expressions.
+As always,
+the <I>statement</I> can be a brace-enclosed block.)
+</p><p>Many loops are set up to cause some variable to step
+through a range of values,
+or, more generally, to set up an initial condition
+and then modify some value to perform each succeeding loop
+as long as some condition is true.
+The three expressions in a <TT>for</TT> loop
+encapsulate these conditions:
+<I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I> sets up the initial condition,
+<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I> tests whether another trip through the loop should be taken,
+and <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I> increments or updates
+things
+
+after each trip through the loop and prior to the next one.
+In
+our first example,
+we had
+<TT>i = 0</TT> as <I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I>,
+<TT>i &lt; 10</TT> as <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>,
+<TT>i = i + 1</TT> as <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>,
+and the call to <TT>printf</TT> as
+<I>statement</I>,
+the body of the loop.
+So the loop began by setting <TT>i</TT> to 0,
+proceeded as long as <TT>i</TT> was less than 10,
+printed out <TT>i</TT>'s value during each trip through the loop,
+and added 1 to <TT>i</TT> between each trip through the loop.
+</p><p>
+When the compiler sees a <TT>for</TT> loop,
+first, <I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I> is evaluated.
+Then, <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I> is evaluated, and if it is true,
+the body of the loop (<I>statement</I>) is executed.
+Then, <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I> is evaluated
+to go to the next step,
+and <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I> is evaluated again,
+to see if there <em>is</em> a next step.
+During the execution of a <TT>for</TT> loop, the sequence is:
+<blockquote><pre>
+<I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I>
+<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>
+<I>statement</I>
+<I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>
+<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>
+<I>statement</I>
+<I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>
+...
+<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>
+<I>statement</I>
+<I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>
+<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>
+</pre>
+</blockquote>The first thing executed is <I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I>.
+<I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I> is evaluated after <em>every</em> trip through the loop.
+The last thing executed is always <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>, because
+when <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I> evaluates false, the loop exits.
+</p><p>All three expressions of a <TT>for</TT> loop are optional.
+If you leave out <I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I>, there simply is no initialization step,
+and the variable(s) used with the loop had better have been
+initialized already.
+If you leave out <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>,
+there is no test,
+and the default for the <TT>for</TT> loop
+is that another trip through the loop should be taken
+(such that
+unless you break out of it some other way, the loop runs forever).
+If you leave out <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>, there is no increment step.
+</p><p>The semicolons separate the three controlling expressions of a
+<TT>for</TT> loop.
+(These semicolons, by the way, have nothing to do with
+statement terminators.)
+
+If you leave out one or more of the expressions, the semicolons remain.
+Therefore, one way of writing a deliberately infinite loop in C is
+<pre>
+	for(;;)
+		...
+</pre>
+</p><p>It's useful to compare C's <TT>for</TT> loop to the 
+equivalent loops in other computer languages you might know.
+The C loop
+<pre>
+	for(i = x; i &lt;= y; i = i + z)
+</pre>
+is roughly equivalent to:
+<pre>
+	for I = X to Y step Z	<I>(BASIC)</I>
+
+	do 10 i=x,y,z		<I>(FORTRAN)</I>
+
+	for i := x to y		<I>(Pascal)</I>
+</pre>
+In C (unlike FORTRAN), if the test condition is false before
+the first trip through the loop, the loop won't be traversed at all.
+In C (unlike Pascal), a loop control variable
+(in this case, <TT>i</TT>)
+is guaranteed to retain its final value after the loop completes,
+and it is also legal to modify the control variable within the loop,
+if you really want to.
+(When the loop terminates due to the test condition turning false,
+the value of the control variable after the loop will be the
+first value for which the condition failed, not the last value
+for which it succeeded.)
+</p><p>It's also worth noting that a <TT>for</TT> loop can be used
+in more general ways than the simple, iterative examples we've
+seen so far.
+The ``control variable'' of a <TT>for</TT> loop
+does not have to be an integer, and it does not have to be
+incremented by an additive increment.
+It could be ``incremented'' by a multiplicative
+factor (1, 2, 4, 8, ...) if that was what you needed,
+or it could be a floating-point variable,
+or it could be another type of variable
+
+which we haven't met yet
+which would step, not over numeric values,
+but over the elements of an array or other data structure.
+Strictly speaking, a <TT>for</TT> loop doesn't have to have
+a ``control variable'' at all;
+the three expressions can be anything,
+although the loop will make the most sense
+if they are related and together form the expected
+initialize, test, increment
+sequence.
+</p><p>The powers-of-two example of the previous section
+does fit this pattern,
+so we could rewrite it like this:
+<pre>
+	int x;
+
+	for(x = 2; x &lt; 1000; x = x * 2)
+		printf("%d\n", x);
+</pre>
+</p><p>There is no earth-shaking or fundamental difference between the
+<TT>while</TT> and <TT>for</TT> loops.
+In fact, given the general
+<TT>for</TT> loop
+<pre>
+	for(<I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I>; <I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>; <I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I>)
+		<I>statement</I>
+</pre>
+you could
+usually
+
+rewrite it as a <TT>while</TT> loop,
+moving the initialize and increment expressions to statements
+before and within the loop:
+<pre>
+	<I>expr<tt>&lt;sub&gt;</tt>1<tt>&lt;/sub&gt;</tt></I> ;
+	while(<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>)
+		{
+		<I>statement</I>
+		<I>expr<tt>&lt;sub&gt;</tt>3<tt>&lt;/sub&gt;</tt></I> ;
+		}
+</pre>
+
+Similarly,
+given the general
+<TT>while</TT> loop
+<pre>
+	while(<I>expr</I>)
+		<I>statement</I>
+</pre>
+you could rewrite it as a <TT>for</TT> loop:
+<pre>
+	for(; <I>expr</I>; )
+		<I>statement</I>
+</pre>
+</p><p>Another
+contrast
+between the <TT>for</TT> and <TT>while</TT> loops
+is that although the test expression (<I>expr<tt>&lt;sub&gt;</tt>2<tt>&lt;/sub&gt;</tt></I>)
+is optional in a <TT>for</TT> loop,
+it is required in a <TT>while</TT> loop.
+If you leave out the controlling expression of a <TT>while</TT> loop,
+the compiler will complain about a syntax error.
+(To write a deliberately infinite <TT>while</TT> loop,
+you have to supply an expression which is always nonzero.
+The most obvious one would simply be <TT>while(1)</TT>
+.)
+</p><p>If it's possible to rewrite a <TT>for</TT> loop as a
+<TT>while</TT> loop and vice versa, why do they both exist?
+Which one should you choose?
+In general,
+when you choose a <TT>for</TT> loop,
+its three expressions
+should all
+manipulate
+the same variable or data structure,
+using the
+initialize, test, increment pattern.
+If they don't manipulate the same variable or don't follow that pattern,
+wedging them into a <TT>for</TT> loop buys nothing
+and a <TT>while</TT> loop would probably be clearer.
+(The reason that one loop or the other can be clearer is simply that,
+when you see a <TT>for</TT> loop,
+you <em>expect</em> to see an idiomatic
+initialize/test/increment of a single variable,
+and if the <TT>for</TT> loop you're looking at
+doesn't end up matching that pattern,
+you've been momentarily misled.)
+</p><hr>
+<p>
+Read sequentially:
+<a href="sx3d.html" rev=precedes>prev</a>
+<a href="sx3f.html" rel=precedes>next</a>
+<a href="sx3.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995, 1996
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

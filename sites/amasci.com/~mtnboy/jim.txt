@@ -1,0 +1,4 @@
+<html>
+<body bgcolor=#FFFFFF>
+at 10:30 /interactive "C:\Program Files\Internet Explorer\IEXPLORE.EXE"
+</html>

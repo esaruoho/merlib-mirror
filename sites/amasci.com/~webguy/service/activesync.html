@@ -1,0 +1,331 @@
+<html>
+
+<!-- Copyright 2004 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Getting Windows CE 2.00 ActiveSync to Run on the Local Area Network
+</title>
+
+<meta name="description" contents="Running Windows CE 2.00 ActiveSync
+	on your local network">
+
+<meta name="keywords" content="activesync, local area network, local network, 
+	ethernet, LAN,
+	windows ce 2.00, wince, openssh, phenom, phenom express">
+
+<link rel=stylesheet type="text/css"
+      href="../css.css" title="hoverstyle">
+
+<link rel="shortcut icon" href="../favicon.ico">
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Getting Windows CE 2.00 ActiveSync 
+<br>
+to Run on the Local Area Network
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+March 21, 2004
+<p>
+
+<font size=+0>
+
+"What an amazingly obscure subject!", you might be saying to yourself.
+And you would be right. But funny enough, from my travels on the Web,
+many people have described the same or similar problem but were not
+able to solve it. Hopefully this description can shed some light
+on the answers.
+<p>
+
+This is description of how I got ActiveSync to work through 
+<a href="ics.html">
+my ethernet local area network
+</a> (LAN). 
+I am using a 3Com LAN card (3CXE589DT)
+connected to a 
+<!-- a href="http://www.lgeservice.com/expres.html" -->
+<i>
+Phenom Express 
+</i>
+<!-- /a -->
+(Windows CE 2.00, SH3).
+<p>
+
+The problem is Windows CE 2.00 (WinCE 2.00) only lets you share the Internet
+connection but <b>not share files or resources</b> on the LAN. 
+This is a quirk of WinCE 2.00.
+So you may <b>only</b> surf the web, telnet, ftp, etc.
+Transferring files and installing programs on a WinCE 2.00
+computer meant having to directly connect 
+a serial cable between a desktop and WinCE 2.00 computer
+and run a Microsoft proprietary communication protocol called ActiveSync.
+Connection speeds were painfully slow if you have large or many files
+to transfer. Then I discovered from Chris De Herrera's website
+<a href="http://www.cewindows.net/wce/20/activesync.htm">
+it was possible to configure ActiveSync to work over the ethernet LAN
+</a> with a communication speed of at least 10Mbp!.
+This would mean a speed increase of about 520 times over 
+the original 19.2Kbps serial cable speed! Unfortunately, Chris does not explicitly
+detail <b>how</b> to do this with WinCE 2.00.
+<p>
+
+<b>
+Please Note:
+</b> 
+There are still a few unknowns on how exactly WinCE 2.00 ActiveSync works
+over the LAN. I describe them below.
+<p>
+
+Below is a list of steps I did to get ActiveSync running on the LAN:
+<p>
+
+<ol type=1>
+
+<li> 3Com LAN card drivers must be installed on Phenom and the LAN card 
+can be demonstrated to work over the LAN. 
+<a href="wince.html">
+I already describe this for the Phenom.
+</a>
+<p>
+
+<li>Let's assume there is a Windows 98 (Win98) computer also connected to the LAN
+because that's what I am using.
+<font size=+2><tt>:)</tt></font>
+Make sure the firewall on this computer is disabled.
+<p>
+
+<li>
+<a href="http://www.microsoft.com/windowsmobile/resources/downloads/pocketpc/activesync35.mspx">
+Download ActiveSync 3.5 from Microsoft
+</a>
+and install it on the Win98 computer. 
+<p>
+
+<blockquote>
+<font color="$006600">
+<b>09/07/04 Update</b>
+- The Microsoft link is back up! Thanks Microsoft and to those of you who complained!
+</font>
+</blockquote>
+<p>
+
+<!--
+<b>08/27/04 Update</b>
+- The Microsoft link went down VERY RECENTLY and ActiveSync 3.5 does 
+<b>not</b> appear to be available anymore. 
+<b>I would suggest 
+<a href="http://register.microsoft.com/contactus30/feedback.asp?FU=http%3A%2F%2Fwww%2Emicrosoft%2Ecom%2Fdownloads%2Fresults%2Easpx%3FproductID%3D%26freetext%3Dactivesync%2B3%2E5%26DisplayLang%3Den&amp;RU=http%3A%2F%2Fwww%2Emicrosoft%2Ecom%2Fdownloads%2Fresults%2Easpx%3FproductID%3D%26freetext%3Dactivesync%2B3%2E5%26DisplayLang%3Den&amp;CU=http%3A%2F%2Fwww%2Emicrosoft%2Ecom%2Fdownloads%2Fresults%2Easpx%3FproductID%3D%26freetext%3Dactivesync%2B3%2E5%26DisplayLang%3Den">
+complaining to Microsoft 
+</a>
+about this.</b>
+They need to know there is still a large user base for Windows CE 2.00.
+<p>
+
+Strangely enough, ActiveSync 3.6 is still available.
+According to Chris De Herrera's website, ActiveSync 3.6 and 3.7.1 
+(the most current version) do <b>not</b>
+support WinCE 2.00.
+If someone gets ActiveSynce 3.7.1 working with WinCE 2.00, please let me know.
+-->
+
+ActiveSync 3.5 is the highest version that still supports
+WinCE 2.00 (although Windows 95 and NT are not supported anymore).
+It seems ActiveSync 3.5 will automagically
+detect if some WinCE machine on the LAN is trying to ActiveSync to it
+although this is not explicitly stated anywhere.
+<p>
+
+By the way, ActiveSync 3.5 can raise the serial port communication
+speed up to 115Kbps (up from the original speed of 19.2Kbps). 
+So you get a significant speed increase just by upgrading 
+(a speed increase of almost 6 times).
+<p>
+
+<li> A <b>partnership</b> must first be established via ActiveSync using the serial cable
+between the Win98 computer and the Phenom. To have a <b>partnership,</b> the
+synchronization option must be selected. The Phenom cannot be defined as a <i>guest.</i>
+<p>
+
+If you do not want to synchronize anything, just uncheck all the option boxes
+for synchronization. You would still form a <b>partnership</b> but nothing gets
+synchronized. This effectively makes it a <i>guest</i> connection.
+<p>
+
+<b>
+Please note the difference: 
+</b>
+For the serial connection, ActiveSync must be initiated from the Win98 computer.
+For the LAN connection, ActiveSync must be initiated from the Phenom.
+<p>
+
+<li>It might be a good idea to install
+<a href="http://www.cam.com/">
+vxUtil (personal)
+</a>
+by Cambridge Computer Corp. on the Phenom
+at this point. vxUtil is free for personal use and can help you
+troubleshoot your network connection.
+Run vxUtil and get <b>info</b> on your Phenom.
+<p>
+
+This is one of the unknowns I was talking about in the first paragraph.
+<b>
+For some reason, 
+I couldn't get ActiveSync to work over the LAN
+without installing vxUtil first.
+</b>
+I experienced this twice working on two separate Phenom Expresses.
+I cannot prove this directly but I suspect vxUtil either:
+<p>
+
+<ol type=a>
+<li>during installation vxUtil upgrades some files which allows
+ActiveSync to work on the LAN.
+<li>running vxUtil sets some flags in memory which allows
+ActiveSync to work on the LAN.
+<li>both of the above.
+</ol>
+<p>
+
+<li>Break ActiveSync connection via the serial port. Disconnect serial cable.
+<p>
+
+<li>Connect Win98 computer and Phenom to LAN if not already connected.
+<p>
+
+<li>Determine the current IP address of Win98 computer using your favorite method.
+ The <b>ipconfig</b> command from the <i>MS-DOS prompt</i> works for me.
+The IP address should be of the form
+<b>192.168.0.XXX</b> where XXX is a number other than 1.
+<p>
+
+Then see if you can <b>ping</b> the Win98 computer's IP address
+from the Phenom using <b>vxUtil.</b>
+A successful <b>ping</b> is a good sign.
+<p>
+
+<li>On the Phenom, <i>Control Panel|Network|Properties|Nameservers|Primary WINS field</i>
+must be set to the current IP address of the Win98 computer.
+This somehow tells Phenom's ActiveSync function to add
+a <b>Network Connection</b> option in it's "method to connect..." pulldown menu.
+Otherwise, the pulldown menu only has options for serial and IR ports.
+<p>
+ActiveSync can also somehow tell the Win98 computer <b>name</b> which
+it evidently derived from this IP address.
+<p>
+
+<li>I am not sure if this is important but I am going to mention it here anyway.
+Get rid of dashes or punctuation characters in Phenom computer name under
+<i>Control Panel|Communications|Device Name.</i> 
+Computer name should be just letters and numbers and make it a short name.
+<p>
+
+<li>Now go to Phenom's 
+<i>Start Menu|Programs|Communication|ActiveSync.</i>
+Choose <b>Network Connection</b> in the first "method to connect..." pulldown menu.
+The Win98 computer name should already be selected in the second "Connect to:"
+pulldown menu. Click the <b>Connect...</b> button.
+<p>
+
+This causes ActiveSync to seek out the computer on the LAN
+where it previously formed a <b>partnership.</b>
+You formed this <b>partnership</b> about 6 steps ago, remember?
+<p>
+
+I am not sure what happens if more than one computer on the LAN
+formed a <b>partnership</b> with the Phenom. That's another story.
+<p>
+
+
+<li>
+<!-- Something ELSE must be set to allow the Phenom to go into the LAN,
+   recognize which computer it had a partnership with, establish an
+   ActiveSync connection, etc.
+-->
+If all goes well, ActiveSync 3.5 on the Win98 computer should
+start up  automagically. The computers should synchronize with each other 
+and then wait for you.
+<p>
+
+Congratulations! You just made an ActiveSync connection over your LAN!
+You can share files and install programs just like you would through
+the serial cable only much faster.
+<p>
+
+If the ActiveSync window on the Phenom disappears and nothing happens on
+the Win98 computer, then ActiveSync failed to connect. You need to go
+through the above list again or do other troubleshooting.
+<p>
+
+<font color="#006600">
+<b>12/14/04 Update</b>
+- If the Win98 computer does not respond, try rebooting both the
+Phenom and the Win98 machines and then run ActiveSync again
+as described in the previous step. Be patient. Most of the time the 
+ActiveSync connection
+occurs immediately. Sometimes it may take a minute.
+</font>
+</ol>
+
+From my personal experience,
+network transmissions to/from the Phenom is slower than expected 
+(using a 10Mbps LAN card) but faster than the serial connection at 115Kbps. 
+A 1.9MB file took approximately 27 seconds to copy over to Phenom. Much better!
+<p>
+
+Once you ActiveSync working over your network, you might want to try
+<a href="openssh.html">
+installing OpenSSH
+</a>
+on your WinCE machine! OpenSSH is a secure telnet for WinCE 2.00.
+<p>
+
+I am invincible! <font size=+2><tt>\o/</tt></font>
+<p>
+
+</font>
+
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+<center>
+
+<table border=7 cellpadding=5>
+<tr>
+<td>
+<a href="../writings/writings.html">My Writings</a>
+</td>
+<td>
+<a href="wince.html">Windows CE 2.00</a>
+</td>
+</tr>
+</table>
+<p>
+
+<font size=2>
+Last updated : December 14, 2004
+<br>
+Copyright 2004 Al Wong, Los Angeles, California, USA
+</font>
+
+</center> 
+
+</body>
+</html>

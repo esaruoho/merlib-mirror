@@ -1,0 +1,50 @@
+Pure Mac: CLUI Essentials 
+
+ CLUI Essentials 
+
+ Fink 
+ Fink Commander 
+
+ Fink 0.7.0 
+
+The Fink project wants to bring the full world of Unix Open Source
+software to Darwin and Mac OS X. We modify Unix software so that it
+compiles and runs on Mac OS X ("port" it) and make it available for
+download as a coherent distribution. Fink uses Debian tools like dpkg
+and apt-get to provide powerful binary package management. You can
+choose whether you want to download precompiled binary packages or build
+everything from source.
+
+ License : Freeware
+ Author/Publisher : Fink Core Team
+ Modification Date : April 2, 2004
+ Requirements : Mac OS X 10.3
+
+ Direct Download
+ File Size: 16.3 mb - version 0.7.0 for 10.3 only
+
+ Download Page
+ With directions. Please Read. Installers for Mac OS X 10.2 and 10.1 also available
+
+ Fink Package Database Links to tons of Unix packages here
+
+ Home Page 
+
+ Fink Commander 0.5.3 
+
+FinkCommander is an open-source, graphical user interface for the Fink
+software packaging system for Mac OS X. It provides an intuitive
+front-end to the Fink command-line tools for downloading and installing
+Unix software.
+
+ License : Freeware
+ Author/Publisher : Steven J. Burr
+ Modification Date : April 12, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download
+ File Size: 410 kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac

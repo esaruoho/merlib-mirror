@@ -1,0 +1,12 @@
+Aquaman Games 
+
+ Aquaman Games 
+ For your amusement, Javascript and Java games featuring Aquaman.
+
+ Aquaman Hangman 
+ Aquaman Wordsearch
+
+ Beginner Version 
+ Advanced Version 
+
+ More will be added if/when I find stuff that is appropriate. Enjoy!

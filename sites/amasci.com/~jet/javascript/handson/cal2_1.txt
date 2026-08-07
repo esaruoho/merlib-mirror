@@ -1,0 +1,1 @@
+Do JavaScript    Class overview   Calendar Example - substring() The HTML uses the JavaScript substring() method to get part of a string     This is a calendar for Jan 2000       Assignment  Modify the JavaScript so the calendar uses the variables month and year for the heading, then press Do it to see it written below.

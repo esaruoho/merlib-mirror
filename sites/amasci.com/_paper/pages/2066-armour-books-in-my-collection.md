@@ -1,0 +1,725 @@
+---
+title: "Armour Books in my Collection"
+source_domain: amasci.com
+source_path: ~cwn/books.html
+order: 2066
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:08:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Armour Books in my Collection
+
+*Source page: `~cwn/books.html`*
+
+\
+[\[Back to Main Page\]](index.html)\
+ \
+ \
+
+<u>Arms and Armour Books in my Collection</u>\
+Last Updated March 18, 2003
+
+\
+
+<u>2,500 Years of European Helmets</u>; 800B.C.-1700A.D.;  By Howard Curtis;  Hardcover   346 pages,  oblong 7"x8.5" (1978) Beinfield Publishing Co. North;  Hollywood, California\
+**Description:** Around 150 plates showing 1 helmet each with short description on opposite page.\
+**My Opinion:** For someone who makes replica helmets is a very valuable reference book.
+
+<u>Agincourt 1415</u> ; Men-at-Arms Vol. 9; Paperback, 96 pages; Osprey Publishing, Limited (July 1999)  ISBN: 1855329506
+
+<u>Allentown Art Museum. Arms and Armor. A loan exhibition from the collection of Stephen V. Grancsay, with important contributions by The Metropolitan Museum of Art, New York, and the John Woodman Higgins Armory, Worcester, Massachusetts. March-June 1964. </u> Text by S.V. Grancsay. Allentown, 1964.  92 pages, Prof. illus. 4to. Wraps.
+
+<u>L'ameria del Palazzo Ducale a Venezia</u> by U. Franzoi; in Italian; hardcover; 274 pages; 4to (1990)\
+**Description:** The definitive guide to the superb arms & armour collection at the Ducal Palace in Venice.
+
+<u>The Anglian helmet from Coppergate</u>  By Dominic Tweddle; softcover; 376 pages, 150 line illustrations, 155 mono plates, 56 colour plates (includes separate folder of outsize figs) AY17/8,  (1993)  Council for British Archaeology  ISBN: 1872414192\
+**Description:** (From CBA) The dramatic discovery of the helmet, in a wood lined pit, set in train a programme of analysis and study which has culminated in this lavishly illustrated (with many colour illustrations) and detailed report. One of only three known British Anglo Saxon helmets, and by far the best preserved, the Coppergate helmet has been studied by archaeologists and art historians and all the strands of evidence point to a date in the latter half of the 8th century.
+
+<u>Antiche Armi dal sec. IX al XVIII: gia Collezione Odescalchi</u> Catalogo a Cura di Nolfo di Carpegna  in Italian; softcover; 101 pages of text plus 543 b&w photos on an unknown number of pages and 3 pages of makers marks (1969)
+
+<u>Antique Arms and Armour</u> by Frederick Wilkinson;  Hardcover; Drake Publishers; 6 1/2" X 9 1/2" - 192 pages - 100's photos (1972) New York
+
+<u>The Archaeology of Weapons: Arms and Armour from Prehistory to the Age of Chivalry</u>  By R. Ewart Oakeshott; Paperback - 384 pages (October 1996) Dover Pubns; ISBN: 0486292886
+
+<u>Armamento Difensivo Trecentesco Dalle Collezioni Carrand E Ressman</u>  Bargello Museum; in Italian; 22 pages; softcover; reissue of 1984 edition
+
+<u>Armature All'Eroica Dei Negroli</u>  by M. Scalini; in Italian; softcover; 46 pages; 24 illustrations; reissue of 1987 edition
+
+<u>Le armature di S.Maria delle Grazie di Curtatone di Mantova e l'armatura lombarda del '400.</u>  by Lionello G. Boccia; in Italian; Hardcover; cm.27x32; 304pages; 536 ill. (1982) published by Bramante in Italy
+
+<u>L'armeria di Palazzo Farnese a Piacenza</u>  by Paolo Pinti; In Italian; 20.5cm x 20cm;  119 pages (1988) Piacenza
+
+<u>L'Armeria Reale di Torino</u>  edited by Franco Mazzini; Includes text by Claudio Bertolotto, Marisa Cartesegna, Michela di Macco, Giorgio Dondi, Franco Mazzini, Raffaele Natta Soleri, Giovanni Romano, and Carlenrica Spantigati; In Italian; Hardcover; 27cm x 32cm; 434 pages; 390 photos + 41 drawings;  2000 copies printed (1982) Bramante editrice
+
+<u>Armi Antiche</u>  Catalogo della Mostra a Palasso Bosdari Ancona, 16-30 Settembre 1978: Centro Studi per le Armi Antiche Ancona by Maurizio Mauro; in Italian; softcover; 47 pages of text plus 18 pages of b&w photos (1978)
+
+<u>Armi e Armature del Museo Nazionale di Ravenna: Guide Alla Lettura</u>  by Lionello G. Boccia; in Italian; softcover; 16 pages; 8 color photographs; (1996)
+
+<u>Armi e Artie: Un Viaggio Per Musei, Chiesee Castelli Alla Ricerca di Armi Antiche, Alla Scoperta di Cose Belle</u> by P. Pinti; in Italian; 256 pages; fully illustrated (1997)\
+**Description:** Guide to the smaller collections of arms and armour in museum and public places in Italy, catalogued by town.
+
+<u>Armi in Occidente</u> by Arturo Puricelli-Guerra; in Italian; softcover; 156 pages; many color photos (1966) Fratelli Fabbri Editori; Milan, Italy
+
+<u>The Armies of Agincourt</u>   Men-at-Arms Vol. 113; by Christopher Rothero; softcover; 40 pages; Osprey Publishing Limited (1981) ISBN: 0-85045-394-1
+
+<u>Armies of Medieval Burgandy, 1364-1477;</u>   Men-at-Arms Vol. 144; by Nicholas Michael; softcover, 40 pages; Stackpole Books (Nov. 1983) ISBN: 0850455189
+
+<u>Armor</u>   by Charlotte Yue  and David Yue; Hardcover;  96 pages ;  Houghton Mifflin Company (Sept. 1994) ISBN: 0395681014
+
+<u>Armor and Arms, An elementary handbook and guide to the collection in the City Art Museum of St. Louis Missouri, USA</u>   by Hoopes, Thomas T. ;   Paperback;     St. Louis Art Museum   (1954)
+
+<u>Armour from Ancient to Modern Times</u>  by Petr Klucina; Hardcover - 133 pages illustrated with full page color drawings each next to a page of text. (1997) Slovart Publishing Ltd; ISBN 0760704759
+
+<u>Armour from the battle of Wisby, 1361.</u>  by Thordeman, Bengt.;   Stockholm : Kungl. Vitterhets Historie och Antikvitets Akademien, 1939;  2 volume set ,  vol. 1 Text -- vol. 2 Plates. (1939)
+
+<u>Armour & Helmet</u>  by Peter Krenn ; 62 pages total with 32 pages of color photos; Text in English and German; German Title: <u>Harnisch Und Helm </u>   (1987)
+
+<u>The Armour of Imperial Rome </u>  by H. Russell Robinson,   Scribner's Sons,  New York, 1975
+
+<u>The Armourer and His Craft : From the XIth to the XVth Century</u>  by Charles Foulkes, Charles J. Ffoulkes   Paperback - 256 pages (January 1989) Dover Pubns; ISBN: 0486258513
+
+<u>Armourers</u>   by Matthias Pfaffenbichler  Paperback, 72 pages  ISBN: 0802077323  Publisher:  University of Toronto Press  (May 1992)
+
+<u>The Armoury of the Castle of Churburg </u> by James G. Mann & M. Scalini; Hardcover with leather spines; 2  Volume set, 516 pages and 404 pages, 4to, nearly 700 illustrations many in color; Volume 1 is a reprint of the 1929 English edition of the Churburg catalogue and volume 2 is an update to the 1929 catalogue. (1996)
+
+<u>Armoury of the Doges Palace in Venice</u>   by Umberto Franzoi     Paperback, 108 pages 72 plates , Stamperia di Venezia Editric,  Venice,  1966
+
+<u>Arms and Armor</u> (in the Cleveland Museum of Art) by Stephen Fliegel  228 pages, 100 color plates with 20 halftones, 9 x 11 in.  Paperback\
+**Description:**  A descriptive history of European arms and armor illustrated with works from the museum's Severance Collection, specially photographed for this volume after extensive conservation. The book includes a discussion of the technological and social history of armor from ancient times through the medieval period, as well as illustrated examples of arms and armor represented in art, such as tomb brasses, funeral effigies, and manuscript illuminations. With an index and a detailed technical glossary. 1998.
+
+<u>Arms & Armor</u>  by Stephen V. Grancsay  Hardcover (not issued with DJ) (1964)
+
+<u>Arms and Armor: in the Age of Chivalry</u>   (Color Treasury Series)  Intro by Aldo G. Cimarelli;  Crescent Books (1973) New York, NY
+
+<u>Arms and Armor Annual</u>, 1973,   Robert Held editor;  Paperback ; ISBN: 0695804073\
+**Description:**  Book of essays by experts on arms and armour.
+
+<u>Arms and Armor from the Antelier of Ernst Schmidt. Munich</u>  edited by E. Andrew Mowbray  forward by Stephen V. Grancsay ; 1000 printed; Hardcover; 168 pages; 84 plates with thousands of items. (1967)\
+**Description:**  Includes a reprint of a catalogue of arms and armour made or sold by Ernst Schmidt (Late 1800s to early 1900s) along with a smaller catalogue from one of his competitors.
+
+<u>Arms and Armor in the Art Institute of Chicago</u>  By Walter J. Karcheski, Jr.   Hardcover   103 color illustrations, 12 black and white. 128 pages (1995) Bullfinch Press  ISBN 0821222058 (2 copies)\
+**Description:** This is a book  of arms and armor in the George F. Harding Collection now in the Art Institute of Chicago. Includes color plates of numerous examples of arms and armour.\
+**My Opinion:** This is a good collection catalogue to have . The hardcover edition is now out of print but the paperback edition is still available and well worth the price at \$25 a copy.
+
+<u>Arms and Armor in Colonial America 1526-1783</u>  by Harold Peterson ;  Hardcover; 359 pages; (1956)
+
+<u>Arms and Armor of the Conquistador, 1492-1600</u>  (A catalogue of arms and armor from the exhibit, First Encounters: Spanish Explorations of the Caribbean and United States, 1492-1570) text by Walter J. Karcheski, Jr.  (Higgins Armory Museum) Introduction by Susan Milbrath (Florida Museum of Natural History) (1990)  Published by: Florida Museum of Natural History; No ISBN (2 copies)
+
+<u>Arms and Armor: Essays by Stephen V. Grancsay from the Metropolitan Museum of Art Bulletin 1920-1964</u>  by  Stephen V. Grancsay ; Hardcover with DJ, 542 pages (1986) Metropolitan Museum of Art, NY
+
+<u>Arms & Armor of the Greeks</u>  by Anthony M. Snodgrass; Paperback, 165 pages (Dec. 1998)  Johns Hopk;  ISBN: 0801860733
+
+<u>Arms & Armor A Pictorial Archive from Nineteenth-Century Sources</u> Selected & Arranged by Carol Belanger Grafton;  Paperback - 119 pages (1995) Dover Publications;  ISBN 0486285618\
+**Description:** This is a book of nineteenth century line drawings, no text.\
+**My Opinion:** Not of much reference value. Unless you want to scan in a line drawing for something don't bother.
+
+<u>Arms and Armor of the Samurai</u>; by Ian Bottomley and Anthony Hopson ; Hardcover  - 192 pages (many color photographs) (1988)  ISBN 0517103184\
+**My Opinion:**  This a very well illustrated book on Japanese arms and armour through out history. It has many color photographs with detailed descriptions and gives a general history of Japanese arms and armour. If your interested in Japanese arms and armour I highly recommend this book.
+
+<u>Arms and Armour</u>  by Vesey Norman   Hardcover,  96 pages, 130 Illustrations, New York, Octopus Books 1972.\
+**Description:**  This is a book on the history of European arms and armour.\
+**My Opinion:**  Good color illustrations. You can generally find a used copy of this book in VG or better condition for around \$10.
+
+<u>Arms & Armour</u>  (from the series 'Pleasures & Treasures')   by Vesey Norman; Hardcover (no DJ), 8vo (8 1/2 x 8 1/2), pictorial cover,  128 pages with many b/w & color illus.;  (1964) Putnam; NY;\
+**Note:** This is largely the same as <u>Arms and Armour</u>  by Vesey Norman (1972)
+
+<u>Arms & Armour</u>  by Frederick Wilkinson; Hardcover, 156 pages,  4to Chancellor Press, (1996) ISBN: 0737246472
+
+<u>Arms and Armour in Antiquity and the Middle Ages</u> by Charles Boutell; Paperback - 296 pages (1996) Combined Books; ISBN: 0938289624
+
+<u>Arms, Armour & Base-Metal Work, The James A. DeRothschild Colln. at Waddesdon</u>  by Claude Blair;  The National Trust; Hardcover in slip case; 9 1/2" X 12 1/2" - 531 pages (1974) London
+
+<u>Arms and Armour in Britain</u>  (2nd edition) by Alan Borg;  Paperback 32 pages, 64 b/w and 4 pages of color illustrations (1986)   ISBN: 0116705760\
+**My Opinion:** Nice booklet, good pictures.
+
+<u>Arms and Armour of the Crusading Era, 1050-1350: Western Europe and the Crusader States</u>  by David Nicolle; 1st of 2 volumes; Hardcover; 640 pages; (May 1999) Stackpole Books; ISBN: 1853673471
+
+<u>Arms and Armour of the Crusading Era, 1050-1350: Islam, Eastern Europe and Asia</u>  by David Nicolle; 2nd of 2 volumes; Hardcover; 640 pages; (November 1999) Stackpole Books; ISBN: 1853673692
+
+<u>Arms and Armour of the English Civil  War</u>   by D Blackmore    100 pages, 123 b/w and 8 color illustrations Hardcover  ISBN: 0948092122\
+**Description:**  Describes the weapons and armour used during the English Civil Wars on both sides, citing examples from the Royal Armouries including the unique Littlecote Armoury.
+
+<u>Arms and Armour of the Medieval Knight</u>  By David Edge  Hardcover (September 1993)  Crescent Books; ISBN: 0517103192 (2 copies)\
+**Description:**  This is a book on the history of European arms and armour.\
+**My Opinion:** This a very well written and illustrated book with many color photographs from the Wallace collection. There are a number of detailed photographs of the inside of a suite (from the Wallace collection). This book is a must for any one who studies arms and armour.
+
+<u>Arms & Armour from the Permanent Collection</u>  by Helmut Nickel; softcover  (1991) The Metropolitan Museum of Art   (NO ISBN)\
+**My Opinion:** Nice booklet, good pictures.
+
+<u>Arms & Armour in Spain II: A Short Survey from the End of the 12th Century to the Beginnings of the 15th Century</u>  by Ada Bruhn de Hoffmeyer;  310 pages; softcover (1982)  Instituto de Estudios Sobre Armas Antiguas
+
+<u>Arms & Armour of the Western World</u>   by Bruno Thomas, Ortwin Gamber, Hans Schedelmann; Hardcover,  252  pages (1964)
+
+<u>The Arms of the Stibbert Museum: The European and Islamic Collections</u>  this is a guidebook for the collection; in English and Italian; softcover; 48 pages; illustrated thoughout with color photographs (2000)
+
+<u>Arms Through the Ages</u>  by William Reid;  Hardcover - 280 pages with dj. 11x12 inches  (1976) Harper & Row
+
+<u>Art, Arms And Armour: An International Anthology, Volume I: 1979-80</u> by Robert Held  Hardcover 544 pages (1979)\
+**Description:**  Book of essays by experts on arms and armour.
+
+<u>The Art Of The Armorer, December 7, 1967- April 1, 1968. A Loan Exhibition of European Arms and Armor</u>  by Hodge, G. Stuart, and Stephen V. Grancsay   The Metropolitan Museum of Art
+
+<u>The Art of Chivalry: European Arms and Armor from the Metropolitan Museum of Art</u>  By Helmut Nickel    Trade Paperback (Later Printing);  American Federation of Arts (1982)
+
+<u>L'arte dell'armatura in Italia</u>  by Lionello G. Boccia and E.T.Coelho; in Italian; Hardcover in box; one of 1600 numbered copies; 549 pages; illusated with photgraphs throughout (1967) Published by Bramante in Milano, Italy
+
+<u>Arthur and the Anglo-Saxon Wars</u> (Men-at-Arms Series) by David Nicolle; Paperback - 40 pages (1984) Osprey  ISBN: 0850455480
+
+<u>The Bashford Dean Collection of Arms and Armor in the  Metropolitan Museum of Art.</u> by Kienbusch and Grancsay ; HardCover; 270 pages + 63 b/w plates illustrating 197 objects + One pull out page giving sizes and weights of various elements making up the armors.; Published in 1933 for "The Arms and Armor Club of New York City", only 250 printed.\
+**Description:**  Catalogue of the Bashford Dean collection now in to the Metropolitan Museum of Art. Also gives the history of Bashford Dean and his collection.
+
+<u>The Bashford Dean Collection of Arms and Armor in the  Metropolitan Museum of Art.</u> by Kienbusch and Grancsay ; HardCover (cloth bound); 270 pages + 63 b/w plates illustrating 197 objects + One pull out page giving sizes and weights of various elements making up the armors.; This is a Limited Reprint, the original was published in 1933 for The Arms and Armor Club of New York City" Only 250 originally published. 270 pages plus 63 plates illustrating 197 objects.  One pull out page giving sizes and weights of various elements making up the armors.
+
+<u>Castel Sant'Angelo: The Mausoleum of Hadrian</u> ;  National Military And Art Museum:  ;  85 Black and white photographs. Includes photos of armor, swords and gun locks from the collection, Military History Military History Art Castel Sant'Angelo Museum.
+
+<u>Catalogue of Armor. The John Woodman Higgins Armory.</u>    by Grancsay, Stephen V. ;  8Vo Hardcover, 127 pages with b/w photos and diagrams  (1961)\
+**My Opinion:** I find it to be a very valuable reference book but part of it is that I live about a hours drive from the Higgins Armory.
+
+<u>A Catalogue of the Collection of Arms & Armor Presented to the Cleveland Museum of Art by Mr. and Mrs. John Long Severance 1916-1923</u>  by Helen Ives Gilchrist; Hardcover; 294 page including 51 b/w photo plates; This is a limited reprint, the original was printed in 1924 by The Cleveland Museum of Art; The original printing was limited to 300 copies
+
+<u>Catalogue of the Exhibition of Ancient Helmets & Examples of Mail</u> by Baron deCosson & W. Burgess; softcover; 140 pages 15 Plates ; First published by The Society of Antiquaries of London in  "Archaeologia"  Vol. ?? 1880  (Reprinted 1985)
+
+<u>Catalogue of the Collection of European Arms & Armour Formed at Greennock by R. L. Scott</u>  described by Felix Joubert; Hardcover; This is a limited reprint of the original published in 1924; The 3 volumes of the original set are bound as one volume in this reprint; The original printing was limited to 100 copies
+
+<u>Complete Encyclopedia of Arms and Weapons</u> ;  Edited by Leonid Tarassuk and Claude Blair;   Hardcover; 543 pages (1982)  ISBN 067142257X
+
+<u>Crusader Knight: 1187-1344 AD</u>  by Christa Hook (Illustrator)  David Nicolle; Softcover, 64 pages; Osprey Publishing, Limited (March  1999) ISBN: 1855329344
+
+<u>The Development of the Coat of Plates: The Evolution of Cloth-Covered Armour 1250-1500</u> by Michael S. Lacy; Illustrated by Michael S. Lacy and Anthony J. Bryant; Published as issue \#69 of "The Compleat Anachronist" a publication of The Society of Creative Anachronism; Softcover; 68 pages; No ISBN
+
+<u>A Distinguished Collection of Arms and Armor on Permanent Display at the Los Angeles County Museum of Natural History</u>  by Russell E. Belous  (Editor).  Los Angeles County Museum of Natural History & The Ward Ritchie Press; 4to. 128 pages + 6 plates, profusely illus. (some colour), cloth binding, Deluxe Edition, Limited to 1000 copies (1969)
+
+<u>El Cid and the Reconquista 1050-1492</u> ; Men-at-Arms Series Vol. 200;  by David Nicolle  Angus McBride (Illustrator); Paperback, 48 pages; Osprey Publishing, Limited (September  1998) ISBN: 0850458404
+
+<u>English Medieval Knight 1400-1500</u>  by Christopher Gravett;  Illustrated by Graham Turner; Softcover; 64 pages; Osprey Publishing Limited  (2001) ISBN: 1-84176-146-X
+
+<u>European Arms and Armor</u>  by Charles Henry Ashdown;  Hardcover, 480 pages  (April  1995)  Barnes & Noble  ISBN: 1566196515
+
+<u>European Armour: circa 1066 to circa 1700</u> ;   by Claude Blair;  Hardcover;  248 pages, 300 text drawings  8vo.; (1958) B.T.Batsford Ltd.;  London
+
+<u>European Armour in the Tower of London</u>  by Arthur Richard Dufty;  Hardcover, 17 pages plus index, Quarto, 164 plates some in colour. (1968) London; HMSO
+
+<u>European Helmets, 1450-1650: Treasures from the Reserve Collection </u>  48 pages, 87 illustrations, 8 1/2 in. x 11 in. Softcover (2000)  Metropolitan Museum of Art. (2 copies)\
+**Description:** This publication, issued in conjunction with the exhibition "European Helmets, 1450-1650" (held at the Museum January 25, 2000  through January 2001), explores the evolution, technology, form, and fashion of European head defenses over two centuries, from 1450 to 1650.
+
+<u>European Weapons and Armour : from the Renaissance to the Industrial Revolution</u>  By Ewart Oakeshott (with line illustrations by the author) 288 p., \[24\] p. of plates : ill. ; 26 cm.  (1980)
+
+<u>Fine Arms And Armor, Treasures in the Dresden Collection</u>  by Johannes Schobel, Translated by M.O.A. Stanton,  preface by Claude Blair. Putnam's and Sons, NY. 1975 1st ed.  255 pages, 183 photographs (many color)\
+**Description:** Catalogue of Dresden collection  with detailed descriptions and a history of the collection.
+
+<u>German Medieval Armies, 1300-1500</u>  (Men-at-Arms Series, Volume 166)   by Christopher Gravett; 48 pages;  Paperback (Oct. 1988) Stackpole Books; ISBN: 0850456142
+
+<u>A Glossary of the Construction, Decoration, and Use of Arms and Armour in All Countries and in all Times</u>  by George Cameron Stone; Hardcover;  694 pages  (1961)  ISBN 0517065878
+
+<u>A Glossary of the Construction, Decoration, and Use of Arms and Armour in All Countries and in all Times</u>  by George Cameron Stone; Hardcover;  694 pages; 1st Edition  (1934)  The Southworth Press; Portland, Maine
+
+<u>The Gods of War: Sacred Images and the Decoration of Arms and Armor</u> by Donald J. LaRocca; Paperback, 48 pages, 35 illus. (25 in full color), 8 1/2 x 11 in. (1997) Metropolitan Museum of Art; ISBN: 0870997793   (2 copies)\
+**Description:** This publication explores the use of sacred images and symbolism in the decoration of armor and weapons from cultures around the world.
+
+<u>Guia Ilustrada de la Real Armeria de Madrid</u> by Javier Cortes; in Spanish; softcover; 78 pages of text plus 24 b&w photo plates (1950) Editorial Patrimonio Nacional
+
+<u>Guida Ufficiale della Reale Armeria di Torino: Compilata per cura della Direzione: dal Cav. Giuseppe Chiaudano</u> in Italian; softcover; Quinta Edizione; 151 pages; no photos (1923) Torino
+
+<u>Handbook of Arms & Armor, European & Oriental, ; Including The William H. Riggs Collection.</u>  by Bashford Dean\
+Metropolitan Museum of Art. NY.  (1921) Soft cover 163 pages, Brown wraps, black spine/cover lettering. Many b/w photos.
+
+<u>Handbook of the Severance Collection of Arms & Armor</u>  Cleveland Museum of Art 1925.  Soft cover 6" X 9" 71 pages including 14 pages\
+**Description:**  Armorer's marks for Suits of Armor, Helmets, Swords, Guns & Gun parts, Crossbows, Pole Arms and Daggers. 32 B/W Photos of approx. 100 items as above from the 13th. to 17th. Century. This is the Museum handbook for the Severance Collection given to the museum in the 1920's.
+
+<u>Der Harnisch</u>  by August Grosz; Sammlungen Des Kunsthistorischen Museums in Wien; In German; softcover; 55 pages; b&w photos (1925)
+
+<u>Harnische</u> by Bruno Thomas; Kunstverlag Wolfrun Wien; in German; softcover; 30 pages of text plus 48 b&w photo plates (1947)
+
+<u>Harnische Historisches Museum Dresden</u> in German; softcover; 70 pages including 32 b&w photo plates (1965?)
+
+<u>Helmets and Body Armor in Modern Warfare</u>  By Bashford Dean; 325 pages .; with 38 page World War II supplement; Hardcover; Carl J. Pugliese, publisher (1977)
+
+<u>Henry V and the Conquest of France 1416-53</u>; Men-at-Arms, Vol. 317; by Paul Knight  & Mike Chappell; Paperback, 48 pages; Osprey Publishing, Limited (Jan. 1999) ISBN: 185532699X
+
+<u>Henry VIII's Army</u>  (Men-at-Arms, Vol. 191) by Paul Cornish, Angus McBride (Illustrator); Paperback, 48 pages; Stackpole Books (Sept. 1998) ISBN: 085045798X
+
+<u>Heroic Armor of the Italian Renaissance: Filippo Negroli and His Contemporaries</u> by Stuart W. Pyhrr,  Metropolitan Museum of Art,  Filippo Negroli,  Silvio Leydi , Jose-A Godoy;  Hardcover, 368 pages  (March  1999)  Abrams, Harry N Inc.   ISBN: 0810965291
+
+<u>Historical Armor: A Picture Book</u>  softcover; 42 pages (19 pages of text and 23 pages of b&w photo plates) (1951) Metropolitan Museum of Art; New York City, NY, USA
+
+<u>An Historical Guide to Arms and Armor</u>  by Stephen Bull edited by Tony North. Studio (S0 Uk 1997) Oversize 15" 9" containing over 300 illus in color ab B&W 224 pages
+
+<u>Imperial Austria : Treasures of Art, Arms & Armor from the State of Styria</u> By  Peter Krenn and Walter J., Jr. Karcheski;  Hardcover
+
+<u>Die Innsbrucker Plattnerkunst</u>  Katalog: Tiroler Landesmuseum Ferdinandeum \* Innsbruck Kunstausstellung 1954: vom 26. Juni bis 30. September 1954; in German; softcover; 106 pages of text plus 96 b&w photo plates (1954)
+
+<u>Italian Medieval Armies, 1300-1500</u>  (Men-at-Arms Series, Volume 136)  by David Nicolle;  Paperback, 40 pages (Sept.  1988) Stackpole Books; ISBN: 0850454778
+
+<u>Katalog der Waffen-Sammlung im Zenghause zu Solothurn</u> by Dr. Rudolf Wegeli; In German; softcover; 116 pages of text plus 17 b&w photo plates (1905)
+
+<u>The Knights of Christ</u>; Men-at-Arms Vol. 155; by Terence Wise;Paperback, 48 pages; Stackpole Books (Nov. 1984) ISBN: 0850456045
+
+<u>The Knight and the Blast Furnace : A History of the Metallurgy of Armour in the Middle Ages & the Early Modern Period</u>  by Dr. Alan Williams; Hardcover; 950 pages (January 2003) Brill Academic Publishers, Inc.;  ISBN: 9-00412-4985
+
+<u>Knight and His Armor</u>  by Ewart Oakeshott;  2nd Edition; Paperback (May 1999) Dufour Editions, Inc.; ISBN: 0802313299
+
+<u>Knights at Tournament</u>  (Elite Series) by Christopher Gravett; Paperback - 64 pages (1988) Osprey  ISBN 0850458366
+
+<u>The Kretzschmar von Kienbusch Collection of Armor and Arms</u> by Kretzschmar von Kienbusch; Hardcover with slip case; 365 pages of text and 164 b/w photo plates showing 762 items (1963) Published by Princeton University Press in Princeton, NJ; Printing limited to 250 copies
+
+<u>The Kretzschmar von Kienbusch Collection of Armor and Arms</u> by Kretzschmar von Kienbusch; Hardcover; 365 pages of text and 164 b/w photo plates showing 762 items; This is a Limited Reprint, the original was published by Princeton University Press in Princeton, NJ in 1963; The original printing was limited to 250 copies
+
+<u>The Landeszeughaus of Graz</u> by Peter Kenn; English Edition; softcover; 64 pages; color photos throughout (1991) ISBN: 3222119511
+
+<u>Landshuter Plattnerkunst</u>  Ein Uberblick: mit Katalog der Ausstellung vom 14. Juni bis 20. Juli 1975 taglich 9-17 Uhr im Deutschen Saal der Stadtresidenz;  in German; softcover; 104 pages which includes 64 pages of b&w photo plates (1975)
+
+<u>Leather and the Warrior: An account of the importance of leather to the fighting man from the time of the ancient Greeks to World War II</u> by John W. Waterer; hardcover;  180 pages + a 20 page introduction; 158 photos (mostly b/w with a few color) (1981) The Museum of Leathercraft; Northampton, England; ISBN: 0950418218
+
+<u>Loan Exhibition of Medieval and Renaissance Arms and Armor</u> by Stephan Grancsay ;  (1953) Paperback
+
+<u>London Apprentices: Armourers and Braisiers' Company c1610-1800</u>  by Cliff Webb; softcover; 97 pages (1999)\
+**Description:** Covers: Armourers and Brasiers Company apprenticeships, an index of apprenticeships, index of places, index of subjects.
+
+<u>Lorica Segmentata: A Handbook of Roman Plate Armour</u>  Edited by M. C. Bishop; 120 pages (November 2002) Armatura Press; ISBN: 0953984842
+
+<u>Mediaeval & Renaissance Arms & Armor, loan exhibition from the Met. Museum of Art, L.A. County Museum, Jan. 15-Mar. 18, 1953</u>   by Stephan V. Grancsay; Paperback, 4to (1953) (Same as <u>Loan Exhibition of...</u>)
+
+<u>The Medieval Armour from Rhodes</u> by Walter J. Karcheski, Jr. and  T. Richardson; Hardcover; 176 pages,  248 illus. (1999)\
+**Description:** A catalogue of the armour of the Knights of St.John which survived on the island of Rhodes to the 19th Century after which it was dispersed to public & private collections in Europe & America. Nearly 200 pieces of armour are included in this lavish new catalogue.
+
+<u>Mediaeval Arms and Armour</u>  by Francesco Rossi; softcover; Magna Books; 10 1/2" X 14 1/4"; 50 plates, most in color (1990) Leicester
+
+<u>Medieval Military Costume Recreated in Colour Photographs</u>  by Gerry Embleton; softcover; 96 pages (Nov. 2000) Published by The Crowood Press, Wiltshire;  ISBN: 1-86126-371-6
+
+<u>Medieval and Renaissance Splendor: Arms and Armor from the Higgins Armory Museum, Worcester, Massachusetts, and Works of Art from the John and Mable Ringling Museum of Art, Sarasota, Florida : An Exhibition at the John and Mable Ringling Museum of ART</u>   by Cynthia Duval  and  Walter J. Karcheski;  Paperback, 121 pages   (January 1983)   The John & Mable Ringling Museum of Art Foundation     ISBN: 091675815X
+
+<u>The Medieval Soldier's World: 15th Century Campaign Life Recreated in Color Photographs</u>  by Gary A. Embleton,  Gerry Embleton,  John Houe;  Hardcover; 144 pages; (Aug. 1995)  Motorbooks International, Publishers & Wholesalers; ISBN: 1859150365
+
+<u>The Metropolitan Museum of Art Guide to the Collections: Arms and Armor</u>  softcover; 32 pages (1968) Published by The Metropolitan Museum of Art; New York City, NY, USA
+
+<u>Museo Poldi Pezzoli. Armeria. I</u>  edited by Carlo Pirovano; In Italian; Hardcover; 24.5cm x 24.5cm; 421 pages, 11 pages and 591 illustrations (1985) Musei e Gallerie di Milano / Museums and Galleries of Milan; Milan, Italy; ISBN: 88-435-1240-4
+
+<u>Museo Provincial de Alava Armeria Vitoria</u> in Spanish; softcover; 49 pages of text plus 18 pages of b&w photos (1967)
+
+<u>L'oploteca Nel Museo Nazionale di Ravenna: Tre Secoli di Armi Antiche</u>  by Lionello G. Boccia; in Italian; hardcover; 174 pages; 4to (1989)\
+**Description:** Covers the armour in the Ravenna Museum.
+
+<u>Osterreichissche Florenzhilfe Waffen: Kunsthistorisches Museum Wien Waffensammlung in der Neuen Burg</u> by Bruno Thomas and Lionello G. Boccia; in German; softcover; 81 pages of text plus 56 b&w photo plates (1970)
+
+<u>Phaidon Guide to Antique Weapons and Armour</u>   By Robert Wilkinson-Latham;  Hardcover  over 600 items illustrated in full colour artwork, photographs, and line drawings    (1984)  Prentice-Hall, Inc., Englewood Cliffs, New Jersey  ISBN: 0136619355
+
+<u>Pisanello e l'arte delle armature nel Rinascimento</u>   (Exhibition: Mantova, House of the Mantegna, 26 October 1996 - 5 January 1997) In Italian; 28cm x 28cm; 85 pages (1996) Mantova, Italy
+
+<u>La Real Armeria de Madrid</u> by Javier Cortes; in Spanish; softcover; 132 pages including 39 b&w photo plates and 8 color photo plates  (1963) Editorial Patrimonio Nacional
+
+<u>A Record of European Armour and Arms Through Seven Centuries</u> by Guy Francis Laking; reprinted in 2000 originally published in 1920-1925; 6 vol. hardcover set which includes <u>A Record of Armour Sales 1881-1924</u>  and a new introduction by  Claude Blair (2000) Ken Trotman Ltd. Cambridge, England
+
+<u>Resplendence of the Spanish Monarchy - Renaissance Tapestry and Armor from the Patrimonio Nacional</u> By Ortiz, Antonio Dominguez. et al.   Hardcover  Color illus. throughout. (1991). NY. MMA/Abrams.
+
+<u>Royal Armouries Museum</u>   32 pages, 60 color illustrations  paperback  ISBN: 0948092246\
+**Description: ** A souvenir illustrating some of the key themes and displays, gallery by gallery, in the new Royal Armouries Museum in Leeds.
+
+<u>Royal Armouries Official Guide</u>  By Peter Hammond ;  Paperback 64 pages (1986)  ISBN 0948092017\
+**My Opinion:** Nice booklet, good pictures.
+
+<u>The Royal Armoury at Greenwich 1515 to 1649: a history of its technology</u>   by A Williams and A de Reuck;  ii + 140 pages, approx. 180 b/w illustrations  paperback  ISBN: 094809222X\
+**Description:**  Traces the metallurgical development of the Greenwich workshops; this is probably the first time that the technical evolution of a particular Renaissance craft workshop has been followed from its first flowering to the obsolescence of the industry it served. Metallographic analysis of more than sixty products of the workshops are included.\
+(2nd copies)
+
+<u>Die Rustkammern</u> Kunsthistorisches Museum Sammlungen Schloss Ambras; in German; softcover; 106 pages with b&w and color photos (1981) Wien
+
+<u>Schutzwaffen aus sieben Jahrhunderten</u> Aus dem Schweizerischen Landesmuseum Edited by Paul Haupt Bern; in German; softcover; 10 pages of text plus 24 b&w photo plates (1968)
+
+<u>Shiny Shapes: Arms and Armor from the Zeughaus of Graz</u>   Landesmuseum Joanneum (Editor) Hardcover, 220 pages,  (March  1999) Springer-Verlag Wien, New York; ISBN: 3211830987\
+**My Opinion:** This book has some of the best close up photographs of armour that I've seen. I would say the book is about 90% photographs and 10% text (about the history of the armoury and the region).
+
+<u>Souvenirs de L'escalade au Musee D'art et D'histoire</u>  by Clement Bosson; in French; softcover;  23 pages including 3 pages of b&w photos (1952)
+
+<u>Spanish Arms and Armour being a Historical and Descriptive Account of the Royal Armoury of Madrid</u>  Edited by Albert F. Calvert; hardcover;  142 pages + 248 b/w plates (1907) John Lane / The Bodley Head; London, England
+
+<u>Staatliche Kunstsammlungen Dresden: Historisches Museum Dresden</u> In German; softcover; 25 pages of text plus 32 b&w photo plates (1966)
+
+<u>Das Steiermarkische Landeszeughaus in Graz</u> by Dr. Otto Schwarz; in German; softcover; 43 pages of text plus 16 b&w photo plates (1953)
+
+<u>Das Steiermarkische Landeszeughaus in Graz</u> by Peter Kenn; in German; softcover; 76 pages of text plus 16 b&w photo plates; 2nd edition (1978)
+
+<u>Studies in European Arms and Armor: The C. Otto Von Kienbusch Collection in the Philadelphia Museum of Art</u> by Jane Watkins (Editor); Contributions by Everett Fahy, Helmut Nickel, Claude Blair, Stuart W. Pyhrr, Lionello G. Boccia, A. V.B. Norman, Donald J. La Rocca; Designed by Greer Allen;  Preface by Anne d'Harnoncourt; 207 pages; Hardcover; ISBN: 0830006796
+
+<u>Studies in European Arms and Armor: The C. Otto von Kienbusch Collection in the Philadelphia Museum of Art</u>  by Claude Blair, Lionello G. Boccia, Everett Fahy, Helmut Nickel, A. V. B. Norman, Stuart W. Pyhrr, and Donald J. La Roca;   (1992)  208 pages, 200 illustrations (22 in color), 11¼ x 8 3/8" Paper ISBN: 087633088X
+
+<u>The Sutton Hoo Ship Burial a Handbook</u>  by Bruce-Mitford; 134 pages; Paperback;  illus. include 8 color pages (1979)
+
+<u>The Swiss at War, 1300-1500</u>; Men-at-Arms Series Vol. 94; by Douglas Miller; Paperback, 40 pages; Osprey Publishing, Limited; (Sept. 1998) ISBN: 0850453348
+
+<u>Techniques of Medieval Armour Reproduction: The 14th Century </u>   by Brian R. Price; 532 pages; Hardcover; 8.5" x 11"; 1032+ photographs and illustrations; A Paladin Press hardcover (2000) ISBN: 1581600984
+
+<u>Treasures from the Tower of London</u>    by A V B Norman and G M Wilson;   viii + 132 pages, 120 b/w and 23 color illustrations  hardback  ISBN: 0946009007\
+**Description: ** Describes and illustrates a varied selection of objects from the collections of the Royal Armouries.
+
+<u>A Treatise on Ancient Armour and Weapons</u>  by Francis Grose; 212 pages; 7 1/2" bu 10"; plates were taken from the original armour in the Tower of Londonand\
+other Arfenals, Mufeums, and Cabinets.; reprint of the 1786 edition;  Benchmark Publ.; (1970) Glendale, N.Y.
+
+<u>The Venetian Empire, 1200-1670</u> (Men-at-Arms Series, Volume 210)  by David Nicolle, Christopher Rothero (Illustrator); 48 pages;  Paperback (July 1989) Stackpole Books; ISBN: 0850458994
+
+ <u>Victoria & Albert Museum. European Armour</u>  by Hayward, J.F.; London, 1965. Unpaginated, (10p.) text, 40 illus.
+
+<u>Die Waffensammlung: Historisches Museum Basel</u> by Wolfgang Schneewind; in German; softcover; 79 pages of text plus 16 b&w photo plates (1958) Birkhauser Verlag, Basel
+
+<u>Waffensammlung in der Neuen Burg zu Wien Kunsthistorisches Museum</u> by August Grosz and Bruno Thomas; in German; softcover;  291 pages which includes 24 b&w photo plates (1936)
+
+<u>Wallace Collection Catalogue of European Arms & Armour</u> by J. G. Mann  ISBN 0900785055  3 volume paperback set\
+**My Opinion:** Very valuable reference book. Well worth the \$50 price (less if you buy it directly from the Wallace Collection Book Store).
+
+<u>Warriors & Worthies: Arms & Armour Through the Ages</u>  by Nickel, Helmut;  Hardcover,  8vo (9.5" x 10.25" approx.), 122 pages, color photos by B. Pendleton, b/w courtesy of The Met. Museum of Art, NY;  (1969) Atheneum; NY
+
+<u>The Wars of the Roses</u>  (Men-at-Arms Series,  Vol. 145) by Terence Wise,  Martin Windrow (Editor),  With G. A. Embleton; Paperback, 40 pages; (Sept. 1988) ISBN: 0850455200\
+ \
+ \
+\
+
+<u>Misc. Non Armour Books</u>
+
+\
+
+<u>The Art of Blacksmithing</u>  by Alex W. Bealer;  Hardcover, 438 pages, over 500 illus. Stout 8vo, cloth, d.j. Revised ed. Reprint.  Edison, Castle Books, 1995
+
+<u>The Art of War: A Revised Edition of the Ellis Farneworth Translation </u>  by  Niccolo Machiavelli and Ellis Farneworth (Translator); Paperback; 336 pages; Da Capo Press, Incorporated (Sept. 1990) ISBN: 0306804123
+
+<u>Catalogo del Palazzo Internazionale delle aste ed Esposizioni</u>  Vendita di Importanti Armi da Fuoco del XVI al XX Sec.;  52 pages; b&w photos (1973)
+
+<u>The Craft and Design of Monumental Brasses</u>  by Henry H. Trivick;  152 pages with many illus., x-lib., large format, hardcover (1969) The Humanities Press
+
+<u>On Divers Arts</u> by Theophilus; Translated from the Latin with Introduction and Notes by John G. Hawthorne and Cyril Stanley Smith; Softcover; 216 pages; 45 illustrations (1979) Dover; NY, NYC; ISBN 0-486-23784-2
+
+<u>The English Martial Arts</u>  by T. Brown;  240 pages; 220 photos; (1997)\
+**Description:** A study of medieval fighting techniques with swords and daggers, broadswords, quarterstaffs & bills.
+
+<u>The Flowering of the Middle Ages</u>  edited by Joan Evans; hardcover; 303 illus., 93 in full color; 210 photos, engravings, drawings, and maps; 242 pages (1998) Barns & Noble; NY, NY; ISBN: 0760708584
+
+<u>Formulas for Painters</u>  by Robert Massey; Softcover; 6" x 9"; 224 pages (1969) Watson-Guptill Publications; NY, NYC; ISBN: 0-8230-1877-6
+
+<u>The Kinght in Medieval England 1000-1400</u>  by Peter Coss (1996) Alan Sutton Publishing Ltd. ; Gloucestershire, UK ;  ISBN: 0750900598
+
+<u>Knives and Scabbards: Medieval Finds from Excavations in London</u> by J. Cowgill,  N. Griffiths, and   M. De Neergaard; Paperback; 2nd edition; 180 pages (Nov. 2000) Boydell & Brewer, Inc.; ISBN: 0851158056
+
+<u>A Loan Exhibition of Equestrian Equipment from the Metropolitan Museum of Art</u>   by Stephan V. Grancsay; octavo paper wrappers; Unpaginated, 158 items (most illus.), text drwgs. Pict. wraps. (1955) The J.B. Speed Art Museum; Louisville\
+**Description:**   Mostly medieval & renaissance spurs, saddles, stirrups, bits, cavessons, harness ornaments.
+
+<u>The Medieval Archer</u>  by Jim Bradbury; Hardcover; 198 pages (2000) Barns & Noble; NY, NY ISBN: 0760720398
+
+<u>Medieval Combat: A Fifteenth-Century Manual of Swordfighting and Close-Quarter Combat</u>  by Talhoffer; 304 pages; 268 illus.; An English translation of Hans Talhoffer's classic fencing manual of 1467 (2000)
+
+<u>Natural Dyes and Home Dyeing</u>  by Rita J. Adrosko;  Softcover; 5 3/8" x 8 1/2";  154 pages; 12 illustrations (1971) Dover; NY, NYC; ISBN: 0-486-22688-3
+
+<u>The New American Machinist's Handbook</u> Edited by Rupert Le Grand (Based on earlier editions of <u>The American Machinist's Handbook</u>) ; Handcover; 1572 pages (1955) This is a later printing after 1973; McGraw-Hill,  Inc.
+
+<u>The Prince</u>  by Niccolo Machiavelli ,  Luigi Ricci (Translator) , and Christian Gauss (Introduction); Paperback; 96 pages;  N A L (Sept. 1999) ISBN: 0451527461
+
+<u>Old Testament Miniatures, A Medieval Picture Book</u>  by Cockerell, Sydney C. (intro & legends by) w/preface by John Plummer; Hardcover, 210 pages, 283 paintings, 1st edition (1975) New York; George Braziller First Edition (2 Copies)
+
+<u>Textiles and Clothing: Medieval Finds from Excavations in London</u>  a publication of The Museum of London; Paperback 224 pages (1996) HMSO
+
+<u>The World of the Medieval Knight </u>    by  Christopher Gravett and Brett Breckon (Illustrator); Hardcover; 45 pages; NTC Publishing Group (Oct. 1996) ISBN: 0872262774\
+ \
+ \
+\
+
+<u>Museum Bulletins/Journals</u>\
+(with articles on armour)
+
+\
+
+Archaeologia or Miscellaneous Tracts Relating to Antiquity (Society of Antiquaries of London):\
+*(Articles on armour in the Archaeologia journals are listed in the Articles section)*
+
+1911         Vol.  62\
+1926-27 Vol.  76\
+1928         Vol.  78\
+1929         Vol.  79\
+1930         Vol.  80\
+1933         Vol.  83\
+1934         Vol.  84\
+1937         Vol.  87\
+1965         Vol.  99\
+1970         Index of Volumes 51-100\
+1979         Vol.106\
+ 
+
+Arms & Armour Society of London:
+
+1953-1955 (reprinted 1970)\
+June 1981 (Vol.X No.3)\
+September 1989 (Vol. XIII, No. 2)\
+March 1993 (Vol. XIV, No.3)\
+ 
+
+Metropolitan Museum of Art:
+
+Bulletins:
+
+Summer 1991  (Same as <u>Arms & Armour from the Permanent Collection</u>   but with 2 page director's note in front)\
+1973/1974  A special issue on the museum's collection of Arms and Armor.\
+Nov. 1965\
+Summer 1959\
+1956 (Contains <u>The New Galleries of European Arms & Armor</u>  by Stephen V. Grancsay)
+
+Journals:
+
+1989 / vol. 24  - Essays in Honor of Helmut Nickel. 326 pages, 4to, fully illus.\
+1972  / vol. 5   -  "A Harnes All Gilte: ......" by Helmut Nickel\
+ 
+
+Philadelphia Museum of Art Bulletins:
+
+Winter 1985  (Volume 81, Number 345)  <u>Kienbusch Centennial: Carl Otto Kretzschmar von Kienbusch and the Collecting of Arms and Armor in America</u>  By Donald J. LaRocca (Administrator Kienbusch Collection of Armor and Arms) (2 copies)\
+ \
+ 
+
+(UK) Royal Armouries:
+
+Year Books:
+
+Volume1 1996. ??? pages, 4to, fully illus. softcover. 1997\
+\* the new galleries in the Royal Armouries Museum in Leeds\
+\* the early history of the Tower Armouries\
+\* the elephant armour\
+\* the Ming sword\
+\* the Barendyne helm
+
+Volume 2 1997. 202 pages, 4to, fully illus. softcover. 1998.\
+\* the reconstruction of the Sardis helmet\
+\* the introduction of plate armour in medieval Europe\
+\* the swords of John Jacob\
+\* Japanese arms and armour\
+\* crossbow hunting\
+\* sniping rifles\
+\* medieval fencing\
+\* 19th-century Tower displays\
+\* acquisitions for 1997
+
+Volume 3 1998. ??? pages, 4to, fully illus. softcover. 1999.\
+\* report on the exchange of exhibitions with the Kremlin\
+\* ballistic tests carried out during 1998\
+\* armour from Malta\
+\* a 19th-century gun chest\
+\* building and firing a replica Mary Rose port piece\
+\* gunmakers Wallis of Hull and William Parker\
+\* Japanese sieges\
+\* acquisitions for 1998
+
+Volume 4 1999. 198 pages, 4to, fully illus. softcover. 2000.\
+\* study of Venus at the Forge of Vulcan by Breughel\
+\* English 17th-century guns in the Kremlin\
+\* reconstruction of the Milemete gun\
+\* watercolourists and the Board of Ordnance\
+\* an approach to the study of arms & armour from Tibet\
+\* tusk swords for the elephant armour\
+\* Victorian visitors to the Tower of London\
+\* acquisitions for 1999
+
+Volume 5 2000. ??? pages, 4to, fully illus. softcover. 2001\
+\* two maces from Henry VIII's arsenal?\
+\* Thomas Vicaridge, silver hilt-maker from St Brides, London\
+\* Snowden Slights, wildfowler\
+\* the technology of wrought-iron artillery\
+\* Dutch composite ordnance of the early 17th century\
+\* international arms exchanges, 1835-46\
+\* Charles ffoulkes, Master of the Armouries 1913-38\
+\* acquisitions for 2000
+
+Volume 6 2001. ??? pages, 4to, fully illus. softcover. 2002.\
+\* A 15th-century weapons dowry: the weapons dowry of Duke Philip the Good of Burgundy for the marriage of Mary of Guelders and James II of Scotland in 1449\
+\* Transport Corps swords in the Royal Armouries\
+\* Good and Bold: a late 15th-century artillery train Casting and firing a Mary Rose culverin\
+\* Theophilus Alexander Blakely and the revolution in Victorian gun design\
+\* The bowman's thumb-ring\
+\* Sir James Gow Mann: Master of the Armouries 1938-62\
+\* Acquisitions for 2001\
+ 
+
+Scottish Art Review (Glasgow Art Gallery and Museums Association):
+
+Vol.VI, No. 1, 1956   "Arms and Armour from the Scott Collection"\
+Vol.XII, No. 2, 1969  "Arms and Armour" (from the Scott Collection)\
+ \
+ \
+\
+
+<u>Articles</u>
+
+\
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XIII(2) 1933\
+"The Coleshill Helm." by James G. Mann; pages 151-154; 3 pages of text + 4 pages of b/w plates\
+(Offprint)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXXIII 1953\
+"The Mail-Maker's Technique" by Martin Burgess; pages 148-155; 8 pages of text + 2 pages of b/w plates\
+(Offprint and a Photocopy)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXXIII 1953\
+"Further Research into the Construction of Mail Garments" by Martin Burgess;  10 pages of text with 6 figures + 3 b/w plates\
+(Offprint and a Photocopy)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXXVII 1957\
+"The Mail Shirt from Sinigaglia" by Martin Burgess;  7 pages of text with 4 figures + 1 b/w plate\
+(2 Offprint and a Photocopy)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXXVIII 1958\
+"The Mail Shirt from the Hearst Collection" by Martin Burgess; pages 197-204; 8 pages of text + 2 pages of b/w plates\
+(Offprint and a Photocopy)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XL 1960\
+"A Habergeon of Westwale" by William Reid   and  E. Martin Burgess;  11 pages of text with 1 figure + 4 b/w plates\
+(2 Offprint and a Photocopy)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XLV 1965\
+"A Helmet from Upper Winchendon Bucks." by Martin Holmes;  pages 183-191; 9 pages of text + 7 pages of b/w plates\
+(Offprint)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XX(3) 1940\
+"A Tournament Helm in Melbury Sampford Church." by James G. Mann; pages 368-379; 12 pages of text + 6 pages of b/w pages\
+(Offprint)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXII(2) 1942\
+"Two Fourteenth-Century Gaunlets from Ripon Cathedral." by James G. Mann; pages 114-122; 9 pages of text + 5 pages of b/w plates\
+(Offprint)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XII(2) 1932\
+"Two Helmets in St. Botolphs Church, Lullingstone, Kent." by James G. Mann; pages 136-145; 10 pages of text + 6 pages of b/w plates\
+(Offprint)
+
+"The Antiquaries Journal"  Journal of The Society of Antiquaries of London Vol. XXVI(4) 1936\
+"The Visor of a Fourteenth-century Bascinet found at Pevensey Castle." by James G. Mann; pages 412-419; 8 pages of text + 6 pages of b/w plates\
+(Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1911 Vol. 62  pages ??-??\
+"On Italian Armour from Chalcis in the Ethnological Museum at Athens" by Charles Ffolkes\
+(In Journal)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1926-27 Vol. 76  pages 41-58\
+"The Armourers Company of London and the Greenwich School of Armourers" by  Charles Ffoulkes;  17 pages of text with 5 figures + 3 b/w plates\
+(In Journal and an Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1928 Vol. 78  pages 61-72\
+"Armour from the Rotunda, Woolwich, transferred to the Armouries of the Tower, 1927" by  Charles Ffoulkes;  11 pages of text with 2 figures + 4 b/w plates\
+(In Journal and 2 Offprints)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1929 Vol. 79  pages 13-28\
+"Some Aspects of the Craft of the Armourer" by  Charles Ffoulkes; 16 pages of text with 21 figures + 2 b/w plates\
+(In Journal)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1929 Vol. 79  pages 217-244\
+"Notes on the Armour of the  Maximilian Period and the Italian Wars" by James G. Mann; 27 pages of text with 2 figures + 17 b/w plates\
+(In Journal and an Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1930 Vol. 80  pages 117-142 + plates\
+"The Sanctuary of the Madonna delle Grazie with notes on the evolution of Italian armour during the 15th century." by James G. Mann;  25 pages of text with 15 figures + 14 b/w plates\
+(In Journal and 2 Offprints)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London  1933 Vol. 83 pages 285-305\
+"Notes on the Armour worn in Spain from the tenth to the fifteenth century" by James G. Mann; 20 pages of text with 9 figures + 15 b/w plates\
+(In Journal and an Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1934 Vol. 84  pages 69-97\
+"Notes on the Evolution of Plate Armour in Germany in the Fourteenth and Fifteenth Century " by  James G. Mann; 28 pages of text 9 figures + 15 b/w plates\
+(In Journal and an Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1937 Vol. 87  pages 311-351\
+"A further Account of the Armour preserved in the Sanctuary of the Madonna delle Grazie near Mantua" by James G. Mann;  40 pages with 71 figures + 32 b/w plates\
+(In Journal and 2 Offprints)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1965 Vol. 99 pages 1-56\
+"The Silvered Armour of Henry VIII in the Tower of London"  by Claude Blair;  53 pages of text with 10 figures + 25 b/w plates\
+(In Journal and an Offprint)
+
+"Archaeologia"  Journal of The Society of Antiquaries of London 1979 Vol. 106  pages 157-165\
+"A Technical Note on some of the Armour of King Henry VIII and  his Contemporaries" by Alan Williams;  10 pages of text + 16 plates\
+(In Journal and an Offprint)
+
+"Archaeology Journal" 1869 Vol. 26 page 20-24\
+"Contributions towards the History of Medieval Armour and Weapons in Europe - Helmets of the Fifteenth and Sixteenth Centuries Called Salades." by J. Hewitt; 5 pages of text + 2 pages of line drawings\
+(Offprint)
+
+"The Arms & Armour Society, The Journal of " Vol. X, No.3 pages 80-84 and 101-102, plates XXII-XXIX\
+"Four Helms of the Fourteenth Century Compared" by Alan R. Williams; 7 pages of text + 8 plates\
+(In Journal)
+
+"The Arms & Armour Society, The Journal of " Vol. XIII, No.2 pages 81-159 including plates XXXIII-LX\
+"On the Remains of a Jack of Plate Excavated from Beeston Vastle in Cheshire" by Ian Eaves; 79 pages incling 28 plates\
+(In Journal)
+
+"The Arms & Armour Society, The Journal of " Vol. XIV, No.3 pages 121-146\
+"Augsburg Craftsmen and the Metallurgy of Innsbruck Armour" by Alan Williams;  28 pages\
+(In Journal)
+
+"The Arms & Armour Society, The Journal of " Vol. XIV, No.3 pages 147-152\
+"Part of a 16th Century Quilted Jack of Plate Found at Craigievar Castle, Aberdeenshire" by Thea Gabra-Sanders;  6 pages\
+(In Journal)
+
+"Metropolitan Museum Journal" NY,NY Vol. 5  1972\
+"A Harnes All Gilte:  a Study of the Armor of Galiot de Genouilhac and the iconography of its decoration" by Helmut Nickel\
+(In Journal)
+
+"Technology and Culture" Vol.1, no. 1 Winter 1959\
+"Methods of Making Chain Mail (14th to 18th Centuries): A Metallographic Note" by Cyril Stanley Smith\
+(Photocopy)
+
+"Technology and Culture" Vol.1, no. 2 Spring 1960\
+"Controversy: A reply to Cyril Standley Smith on Mail Making Methods" by E. Martin Burgess\
+(Photocopy)\
+ \
+ \
+\
+
+<u>Auction Catalogs</u>
+
+\
+
+American Art Association Anderson Galleries Inc.:
+
+Catalogue 4371  Offerman, Gest   Arms & Armor February 4, 5, 1938\
+ 
+
+Christie's:
+
+<u>Antique Arms and Armour, Including Property from the Collection of the Metropolitan Museum of Art</u>  Monday, November 16, 1987\
+ 
+
+Glendinings London:
+
+Sale No: 30,657   Orders, Decorations and Medals 10:30am Wednesday 11th November 1998    and Arms and Armour 1:30pm Thursday 12th November 1998\
+ 
+
+Sotheby's:
+
+Valuable Armour and Weapons  Thursday, the 15th April, 1937
+
+Catalogue 6266          European Works of Art, Arms and Armour, Furniture and Tapestries New York    January 13 and 15, 1992
+
+Catalogue BH6084    <u>Antique Arms and Armour</u>   Summers Place, UK    Tuesday 26th November 1996 at 2:30pm\
+ 
+
+Misc Sale Catalogs:
+
+<u>Arms and Armor of Ancient Spain: Story and Catalog From The Collection of Irving N. Donnin</u>  2nd, Paperback, 8vo, B&W Photos  (1956)\
+ 
+
+Lyle Arms and Armour Review (Lyle Publications):
+
+1976\
+1977\
+1983\
+ \
+ \
+ 
+
+[\[Back to Main Page\]](index.html)\
+ \
+ 
+
+For more information contact :
+
+Craig Nadler\
+[mailto:craig@nadler.us](mailto:craig@nadler.us)
+
+Copyright 2002   Craig W. Nadler   All rights reserved\
+ \

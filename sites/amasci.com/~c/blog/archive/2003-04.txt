@@ -1,0 +1,310 @@
+C.M. Connelly: Blog: Archive for April, 2003 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for April, 2003 
+
+ April 4, 2003 (Fri) 
+
+ After a dark evening last night, I'm feeling much better about my
+decision to not go on a gluten-free diet.
+
+This all started a few months ago when I mentioned to my new doctor
+that I'd had stomach problems for, essentially, my whole life. Being
+a bit of a go-getter, he thought about it for a while. At my next
+appointment, he suggested that I might have coeliac
+sprue . Coeliac sprue, or celiac disease (CD), as it's usually
+called in the States, is an immune-system disorder whereby gluten
+molecules trigger an immune response that's directed against the villi
+that line the small intestine. The villi are like tiny fingers,
+vastly increasing the surface area of the small intestine. Without
+them, the body's ability to absorb nutrients drops dramatically.
+Sufferers are malnourished, lose weight, become anemic, and may
+develop a nasty skin disease called dermatitis
+herpetiformis .
+
+So, wow. Scary. Turned out there was a blood test, which looks at
+the levels of antigliadin antibodies (that's IgA AGA and IgG AGA, if
+you care). I had the test. My levels were high. 
+
+ So I was off to a specialist; a gastroenterologist. He did more tests&#8212;an EGD , a CCK HIDA scan (also called cholescintigraphy), and a colonoscopy . 
+
+ The conclusions were that I don't have coeliac sprue, that I do have irritable
+bowel syndrome , and that I should have my gallbladder removed. He
+also recommended that I go on a gluten-free, high-fiber diet, despite
+not having coeliac sprue. 
+
+ A gluten-free diet sounds pretty simple&#8212;just don't eat gluten,
+right? 
+
+ But gluten turns out to be in almost every food you can imagine.
+Gluten is found in wheat, rye, or barley. It used to be thought that
+it was in oats, as well, but recent studies show that gluten in oats
+is generally the result of wheat contamination. 
+
+ So wheat, rye, and barley&#8212;bread, donuts, cereal, cookies, sure,
+okay, you could live without those, and there are substitutes
+available, made from rice, potatoes, and corn, among others. 
+
+ But, hey, barley's the main ingredient in beer! That's okay, too, I
+don't really like beer. 
+
+ And most other alcohol is made from grains that may contain gluten.
+Well, okay, you could just not drink alcohol at all (even if the
+alcohol is prepared so that there is no gluten, it could be
+contaminated later). 
+
+ But, hey, there's wheat in soy sauce! Not to mention , many salad
+dressings, and much, much more. Oh, yeah, and anything made with
+flour, which usually means wheat flour&#8212;count out most gravies,
+soups, and sauces. And almost all fried foods&#8212;most of which are
+breaded. Even tempura, which is usually mostly rice flour, often
+contains a bit of wheat flour. 
+
+ Even foods like Rice Krispies turn out to be flavored with malt, which
+comes from barley. 
+
+ Take a look at the ingredients list for any food or drink you come
+across. You'll be surprised just how many things contain gluten. At
+least you can look at the ingredients in a grocery store before you
+buy a product. How many restaurants give you a complete list of
+ingredients with your menu? And even if they did, how could you know
+that they didn't dust a pan with flour when they were preparing your
+ostensibly gluten-free meal? Or that they used different oil to fry
+french fries than they use for breaded chicken or fish? You can't.
+And if you have coeliac sprue, even tiny amounts of gluten can hurt
+you. 
+
+ Hence the depression, relieved by the fact that I don't have
+(provable) coeliac sprue, along with a bunch of research leading me to
+conclude that going on the diet without real evidence could actually
+be a bad thing, as it would prevent real indications from ever
+appearing. 
+
+ So I'm better now, although I still have painful stomach problems, and
+we're kind of back to square one on fixing them. 
+
+ And now you know one of the big reasons I haven't had a lot to say
+here lately. 
+
+ Seen on Slashdot ,
+in an article about an Intel employee being held as a
+&#8220;material witness&#8221; to an alleged terrorist plot: 
+
+After 9/11, Bush made two statements: 
+
+ &#8220;Terrorists hate America because America is a land of freedom and
+ opportunity.&#8221; 
+ &#8220;We intend to attack the root causes of terrorism.&#8221; 
+
+ Sounds like everything is going according to plan.
+
+ sigh 
+
+ April 8, 2003 (Tue) 
+
+ Sheldon Pacotti has some interesting points to make about the futility
+of trying to suppress knowledge in a Salon article . 
+
+ He points out what seems obvious to me&#8212;all the top-down,
+totalitarian control measures a particular government (for an
+individual state or for the whole planet) might choose to impose are
+pointless if there's an underground interested in pursuing and
+disseminating knowledge. In the Soviet Union, there was
+ samizdat ; here and now we have the Internet; tomorrow, who
+knows? VPNs , wireless
+networks, and plain old hacks will provide ways to route around the
+damage imposed by a zealous government. And much of today's most
+risky technology&#8212;biological, chemical, and software&#8212;can be done
+on the cheap, with homemade, duct-taped technology, in basement or
+attic labs, in abandoned buildings, caves, or maybe next door. 
+
+ The genie is already out of the bottle. You'll never be safe again.
+But, then, you never really were. The risk hasn't changed at all
+since September 11, 2001, only people's perceptions of the risks.
+What's more likely, your being gunned down on the street, or a
+hijacked airplane crashing into your office building? Having a fatal
+car accident or being caught in a terrorist bomb explosion? Catching
+a fatal disease in general circulation (HIV, hepatitis, influenza) or
+being infected by a biological agent distributed by a terrorist plot? 
+
+ Giving up your rights, and my rights, won't save you. The
+government can't protect you. It knows that. It probably doesn't
+even care. 
+
+ But there is a way. If people aren't educated, they won't know
+they've lost something people used to have. They won't be able to
+frame questions that challenge the way things are. Chances are, it
+would never even occur to them. Imagine that future. Look around.
+
+ Via Slashdot . 
+
+ April 22, 2003 (Tue) 
+
+ Last night we watched an episode of Unwrapped ,
+which was about people obsessed with different kinds of food. There
+was a guy with an amazing collection of root-beer memorabilia and
+equipment, a guy who runs a gourd museum, a guy trying to visit every
+Starbucks everywhere, and two guys who run a cereal review site.
+(Hmm. Notice they're all guys?) 
+
+ Anyway, during the segment on The
+Empty Bowl (which, by the way, has lots of fun cereal reviews),
+someone claimed that you could still (or once again) buy Quisp and
+Kaboom, two cereals I remember from childhood. 
+
+ A bit of searching turned up Quisp.com , which has some really cute
+stuff, especially in the &#8220; Where've I Been &#8221;
+section and a store where you can&#8212;sure enough!&#8212;buy the cereal.
+Unfortunately, you have to buy at least three boxes. I can't remember
+what Quisp tastes like, so I'm not sure I really want three boxes of
+it, especially as I'd feel like I had to eat it all, even if it was
+yucky. (Maybe even especially if it was yucky, as I'd feel
+guilty giving it away if I couldn't stand eating it myself.) 
+
+ (There's also a SPUMCO cartoon, if you like that sort of thing.) 
+
+ I had less luck with finding Kaboom, but given the opinion expressed
+on Empty Bowl about it, maybe that's a good thing. 
+
+I remember they would leave a greasy puddle of colors floating off the
+marshmallows, and it would just float there. Now I don't mean just a
+mixed blend of the colors, each individual color including turquoise
+and magenta would form its own globule in the bowl. And it had the
+distinct flavor of chemicals.
+
+ So says Yobucky 
+
+ While I'm on cereal, let me just mention how annoyed I get when the
+cereal companies try to get one spokescreature to endorse a completely
+different product. The most recent example is some new chocolately
+cereal (probably with marshmallows) that I saw last week in the
+grocery store. With Tony the Tiger promoting it. You know&#8212;the
+Frosted Flakes mascot. I'm not even sure that cereal had corn in it
+(although I bet it has tons of sugar). It's just wrong. 
+
+ A couple of weeks ago I bought myself a Rotring Initial .
+My brother had one and liked it a lot, and I wrote with his a bit
+while I was visiting. He has the &#8220;extra fine&#8221; nib, and I was
+surprised by how much ink the pen put out, especially given that I
+have a core (also Rotring), and its fine nib is very fine (about .5
+mm). I also thought the Initial was a bit ugly. 
+
+ So why'd I get it? Well, I was lusting after a new pen. The core is
+fun to look at and to write with, but it's kind of big and clunky. It
+also doesn't clip into things very easily (I noticed early on that the
+rubbery stuff on the cap was a bit abraded after being clipped into a
+bag and pulled out a couple of times). As I have to carry around a
+bunch of keys at work, and often want to take my watch off and put it
+somewhere safe, I'm out of pockets. So I thought about getting a pen
+that would be tough enough to survive being in the same pocket with
+other metal objects. 
+
+ The Initial doesn't really do well there, either, of course. It's
+part shiny chrome (the cap and the end of the pen) and part brushed
+alumninum (the middle). It does, however, have a really clever clip
+that's hinged so that it moves easily, but still grips a bit. 
+
+ I was also starting to lust after one of these Pelikan
+Cities limited edition pens, which go for around $300 each.
+That's a lot of money for something as easily lost or damaged as a
+pen, and compared with that, the Initial was a no brainer. [I liked
+the San Francisco at first, in part because it's the only city in the
+series I've lived in; but I was later attracted by the Chicago, a
+black, white, and grey pen that would be similar to the moonbeam laque
+Parker Sonnet I bought back when I was dumb enough to talk myself into
+saving a few bucks so I'd have a pen I could use to fill in multipart
+forms. The bright green Berlin and bright blue Stockholm are nice,
+too, and I seem to be collecting a variety of green things, especially
+at work.] 
+
+ When I first got the Initial, I filled it up with some Purple Haze Private Reserve ink that
+I'd cleverly ordered. It had exactly the same flow rate as B's pen;
+maybe even a bit more. It was also surprisingly heavy (B has the half
+resin/half metal one). And kind of hard to balance, especially if I
+posted the cap. 
+
+ But now that I've had it for a while, I find that it's grown on me.
+It's still pretty heavy, but I'm adjusting. I don't post the cap, and
+that helps a lot. I discovered that the paper in my Frankin Covey
+planner is pretty porous; presumably they expect people to be using
+ballpoints or rollerballs with gel ink or something. The Purple Haze
+ink (I admit, I was spending a lot of time listening to the Beautiful
+People's If 60s Were 90s ) is also a factor, as it's
+clearly designed to spread out a bit to make it as light as it
+appears. But even that's gotten better&#8212;I wonder if the pen had
+some water or some other fluid in it from the factory. In any case,
+it's a reasonably nice pen, and I'm reasonably happy with it. 
+
+ older entries 
+
+ Activity 
+
+ << 
+ April, 2003 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+
+ 28 
+ 29 
+ 30 
+
+ More Archives... 
+
+ March, 2003 
+ February, 2003 
+ January, 2003 
+ December, 2002 
+ October, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 3:32 PM PDT, Tuesday, April 22, 2003; last rendered at 
+ 3:32 PM PDT, Tuesday, April 22, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

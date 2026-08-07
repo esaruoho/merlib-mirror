@@ -1,0 +1,130 @@
+NEGATIVE ION GENERATOR AS POWER SUPPLY                   - William Beaty
+http://www.eskimo.com/~billb/emotor/negion.txt
+
+Negative ion generators are very similar to Electrostatic Generators such
+as VandeGraaff or Wimshurst machines.  All electrostatic generators
+produce high voltage (that's what 'static' electricity really is, high
+voltage at low or zero current.)  A negative ion generator's high voltage
+is created with electronics rather than with moving parts.
+
+A negative ion generator is actually a 10,000-volt DC power supply.  
+Even better, since the high-voltage terminal must be safely touched by the
+users, ion generators are SAFE, current-limited, high-voltage power
+supplies.
+
+   SAFETY -  ION GENERATORS MUST BE SAFE IN ORDER TO BE SOLD IN THE UNITED
+   STATES.  CHECK FOR SAFETY WARNINGS ON YOUR ION GENERATOR BEFORE USING
+   IT IN THIS APPLICATION.  ALSO, NOTE THAT THIS TYPE OF GENERATOR CAN
+   DELIVER SMALL "STATIC ELECTRIC" SHOCKS.  THERE ARE OTHER HAZARDS
+   YOU SHOULD KNOW ABOUT:
+
+   1. NEVER REMOVE THE CASE OF AN ION GENERATOR OR STICK ANY OBJECT 
+      THROUGH SLOTS IN THE CASE, BECAUSE THE 120V POWER CONNECTIONS WITHIN
+      THE DEVICE CAN ELECTROCUTE YOU. 
+
+   2. DON'T MESS WITH IONIZING FAN-TYPE APPLIANCES.  THEIR HIGH VOLTAGE  
+      CONNECTIONS ARE BURIED DOWN INSIDE THE CASE, AND ARE DANGEROUS AND 
+      NOT INTENDED TO BE TOUCHED WITH FINGERS. STAY WITH SMALL, SAFE,
+      DESKTOP/tabletop ION GENERATORS.
+
+   3. NEVER PLAY WITH LEYDEN JARS OR HIGH-VOLTAGE CAPACITORS LARGER THAN
+      50 PICOFARADS.  WHEN CHARGED UP BY AN ION GENERATOR (OR ANY
+      OTHER HIGH-VOLTAGE SOURCE,) THEY CAN ELECTROCUTE YOU.
+
+
+I found a $5 ion generator at a garage sale.  It works really well as an
+electrostatic power supply for POP BOTTLE ELECTROSTATIC MOTOR and other
+"static electricity" experiments.  I estimate the output voltage to be
+between 10,000 and 15,000 volts.  This is well into the "static
+electricity" voltage range.  I measured the output current and found 5
+uA (microamperes).  5uA is totally safe, it is smaller than the current
+obtained from touching a flashlight battery with damp fingers.
+
+NEEDED:
+
+    * Negative Ion Generator
+    * Aluminum foil
+    * 2 (or emore) Alligator clipleads (from Radio Shack store)
+    * Plastic electrical tape
+
+
+
+My Negative Ion Generator looks like this:
+
+      Disk of
+     black foam        /|
+           _\|      /   |
+                 /      |     AIREASE(tm) NEGATIVE ION GENERATOR
+              /         |
+           /            |
+          |             |
+          |||||||||||||||               SIDE VIEW
+          |||||||||||||||
+          |||||||||||||||    (Device is about 8 inches tall)
+          |||||||||||||||
+          |||||||||||||||
+          ||||||||||||||| <-- wrapped in black foam
+          |||||||||||||||
+          |||||||||||||||
+          |             |
+          |_____________|  (AC power cord not shown)
+
+
+The circular black foam disk is the NEGATIVE power supply terminal. The
+other terminal, the POSITIVE one, is invisibly connected to ground through
+the AC cord.
+
+To connect an alligator cliplead to the Ion Generator, I placed a 1 inch
+strip of aluminum foil against the black foam disk, then wound some black
+electrical tape around both the foil and the top of the plastic case. (I
+left a tab of foil sticking out.)  This pushes the foil firmly against the
+black foam.  I then clipped my cliplead to the aluminum foil.  (Fold
+several layers of foil together to make your strip, this keeps it from
+tearing.)
+
+To verify that it worked, I plugged in the ion generator and gently
+touched the alligator clip with one finger.  Sure enough, little sparks
+crackled as I brushed the clip with my fingertip.
+
+To power the POP BOTTLE ELECTROSTATIC MOTOR, I clipped the other end of my
+alligator cliplead to the bare "commutator" wire of one of the stator
+bottles.  The other stator bottle must be connected to ground.  Grounded
+connections can be had from:
+
+    Cold water pipe
+    Faucet on the sink
+    The metal screw on an AC wall socket
+    The metal screw on a light switch
+
+When connected to the negative ion generator, my Pop-bottle motor ran at
+about 3 revolutions per second (180RPM). 
+
+If your negative ion generator is significantly different from mine, it
+might be easier for you to connect it up.  Some ion generators have a
+little tuft of black fur.  This fur is conductive, it is the negative
+terminal.  You can carefully clip your alligator clip directly to this
+fur. 
+
+SAFETY NOTE: use a small desktop ion generator, DO NOT use a FAN-TYPE ION
+GENERATOR.  The negative terminal of an ionizing fan is buried down inside
+the plastic case.  IT IS NOT DESIGNED TO BE SAFELY TOUCHED. 
+
+WHERE TO BUY?
+
+Negative ion generators are expensive when new.  $30 - $100.  They are
+very cheap at "Salvation Army" stores, garage sales, etc., if you can find
+them.
+
+Try searching at http://www.altavista.digital.com.  Use these keywords:
+
+ negative  +"ion generator" tabletop desktop
+
+Here's a 12-volt ionizer I've been meaning to try.  I don't know if it
+will work as a power supply, but it could be rigged for battery operation
+if it does work. http://www.infoscantech.com/products/house/ist101.html 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-781-3320          freenrg-L taoshum-L vortex-L webhead-L

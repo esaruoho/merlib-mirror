@@ -1,0 +1,86 @@
+The Final Test Statistical report, June 1999, Paul Cooijmans 
+
+ The Final Test 
+ Statistical report June 1999
+ Paul Cooijmans
+ Pb 44
+ 5737 ZG LIESHOUT
+ NETHERLANDS
+
+ The Final Test, created 1996, re- Titan Test 6 .98
+vised 1997, contains 52 verbal analo- Test For Genius (short) 9 .96
+gies, 1 of which unsolved to date. The Cattell Culture Fair 4 .93
+scores so far obtained (only first at- Long Test for Genius 6 .9
+tempts are included): Mega Test 7 .87
+ CHART 5 .82
+ # right frequency W-87 6 -.27
+ 2 .
+ 4 . Other (aggregate) 39 .62
+ 4.5 .
+ 12 . The "other" tests (less than 3
+ 15 . scores each) are Nemesis Test, SAT,
+ 15.5 . WAIS, Ultra Test, LAIT, A-22, Cooijmans
+ 16.5 . Intelligence Test, Drenth number se-
+ 17.5 . ries, Raven APM, Hoeflin Power, The
+ 19.5 . Opus, unspecified Mensa tests, Stan-
+ 20.5 . ford-Binet, Grove Acumen Test, Alpha
+ 21 .. Aptitude Scale, CTMM, Quest, Numbers,
+ 22 . Mbius, LSFIT, Nute, GRE, MAT, Associa-
+ 22.5 . tion, A-17, unspecified tests, Wechs-
+ 25 . ler-Bellevue.
+ 27 .
+ 33 . To ensure objectivity and avoid ar-
+ 36 . bitrary decisions, all reported prior
+ 45.5 . scores are used in norming, however
+ 47 . weighted by the square of their corre-
+ lation multiplied by 100. E.g., a cor-
+ As a measure of internal consisten- relation of .8 would give a weight of
+cy, the correlation between odd-item 64, meaning the score pairs from that
+and even-item scores was computed as test would each be used 64 times.
+.88.
+ Raw and prior scores are arranged in
+ Correlation with other tests: two columns of numerical order, the
+ highest raw score facing the highest
+ Test # cor prior IQ (prior scores are if needed
+Test to End All Tests 3 .99 converted to an IQ scale with 16 points
+Chimera Test 3 .99 per standard deviation), etc. For each
+ raw score, the median of the IQs facing
+ it is used to norm that score. The norm
+ for 1 right is extrapolated, missing
+ scores are interpolated, and scores 48
+ to 52 are extrapolated.
+
+ # right IQ %ile 
+1 116 84 31 157 99.983
+2 124 93 32 159 99.989
+3 127 95.4 33 160 99.992
+4 130 96.9 34 161 99.993
+5-9 132 97.7 35 163 99.996
+10-12 133 98 36-38 165 99.998
+13 134 98.3 39-41 166 99.9983
+14 135 98.5 42-44 167 99.9987
+15 136 98.7 45 168 99.999
+16 138 99.1 46 170 99.9995
+17 139 99.2 47 176 99.9999
+18-19 140 99.3 48 180 99.9997
+20 141 99.4 49 185 99.999995
+21 143 99.6 50 191 99.9999992
+22 147 99.83 51 198 99.99999994
+23 148 99.87 52 207 99.999999999
+24 149 99.89
+25 150 99.91 The Final Test can be obtained from
+26 151 99.93 the address on top for 1 dollar, or
+27 152 99.94 found on
+28 153 99.95 http://www.eskimo.com/
+29 155 99.97 ~miyaguch/hard_iq.html
+30 156 99.98
+ TFT is accepted for admission to the
+ Glia Society (150), The Giga Society
+ (196) and the Grail Society (207), and
+ any other society may also choose to
+ accept it.
+
+ * * * 
+
+ Return to the Uncommonly
+Difficult I.Q. Tests page.

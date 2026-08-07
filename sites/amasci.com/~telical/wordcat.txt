@@ -1,0 +1,53 @@
+Word Categories 
+
+ Word Categories 
+
+ In the "Word Category"
+database included with ParaMind there are nouns about many different subjects.
+Also there are many groups of verbs, adjectives, and adverbs as well as
+prepositions and conjunctions that you can use to merge into the sentence
+you typed. 
+
+ Knowing about what's in your "Word
+Category" database is essential to getting the most out of ParaMind.
+And to know what's in it you must first know a little about how it is arranged. 
+
+ One special note that you must know
+about the category structure is that you are required to have your "Word
+Category" title be the same in DOS as it looks in the top of the "Edit
+Categories" screen. That is, if you have a category called "pretflow.cat"
+which to you is "pretty flowers category," you can't call it
+"pretflow.cat" in your "Edit Categories" screen, and
+then go to DOS and rename it niceflow.cat" -- it must stay the same.
+This can be the cause of your category changing its shape over time. 
+
+ Make sure that if you change the
+name of your category to a better name over time, you go out to DOS and
+find the old name, and use this DOS command, "Ren [oldname.cat] [newname.cat]"
+-- that way ParaMind will be able to access the correct old category. 
+
+ You can also edit the Word Categories
+by highlighting the Word Category and selecting "edit." Likewise,
+by highlighting a Word Category you can also choose to delete it. You will
+be asked to rebuild the category. Like other database programs that build
+indexes, it may take a few minutes on slower machines. Don't be alarmed,
+this is normal. You can go to other Windows applications while it is building. 
+
+ The Word Categories are three kinds:
+ General 1 - specific groupings related to parts of speech General 2 - general
+groupings related to parts of speech General 3 - specific groupings not
+entirely related to parts of speech 
+
+ Types like "adjaffect"
+or "advtime" stand for "adjectives relating to an affect"
+and "adverb relating to time" respectively, then some are general
+like "comnou1" or "abnou1" stand for "common noun
+group #1" and "abstract noun group #1" respectively. 
+
+ You can customize the "Word
+Category" database by a simple, user-friendly interface that lets
+you title a category and type in your own list of words. You can do this
+as many times as you want, and organize them in their own directories. 
+
+Use your back button or click here for 
+ Table of Contents Page

@@ -1,0 +1,185 @@
+Dobe Doinat's Punny Name Archive Site Map 
+
+ Dobe Doinat's PNA IFrame Viewer SiteMap 
+
+ ./_dobeTutAllCommon/TUG.JPG The Snohomish Wheelhouse 
+ JohnWHartman_Resume.xml 
+ JohnWHartman_Resume.xsl 
+ PNA.xml 
+ PNA.xsl 
+ PNA500_XHTML.HTM 
+ PNA500_XML.XML 
+ PNA500_XSLT.XML 
+ PNA500_XSLT.XSL 
+ PNADataIsland.htm 
+ PNAReadme.txt 
+ PNAdobeWebTut.htm 
+ dobeContextMenu.htm 
+ dobeDefaultEN_css.txt 
+ index.html 
+ write_Copyright_EN_js.txt 
+ write_MenuLinks_EN_js.txt 
+ ------------------------------------------- 
+ JohnWHartman_Resume_xml.TXT 
+ JohnWHartman_Resume_XSL.TXT 
+ PNA_xml.TXT 
+ PNA_XSL.TXT 
+ PNA500XML_xml.TXT 
+ PNA500_XHTML_HTM.TXT 
+ PNA500_XML_xml.TXT 
+ PNA500_XSLT_xml.TXT 
+ PNA500_XSLT_XSL.TXT 
+ PNADataIsland_HTM.TXT 
+ PNAReadme.txt 
+ PNAdobeWebTut_HTM.TXT 
+ dobeContextMenu_HTM.TXT 
+ dobeDefaultEN_css.txt 
+ dobeFamilyTree_HTM.TXT 
+ index_HTM.TXT 
+ write_Copyright_EN_js.txt 
+ write_MenuLinks_EN_js.txt 
+ PNA_dir_htm.TXT 
+ ------------------------------------------- 
+ ./_dobeTutAllCommon/DnArrow.gif 
+ ./_dobeTutAllCommon/UpArrow.gif 
+ ./_dobeTutAllCommon/citylite.jpg 
+ ./_dobeTutAllCommon/dobeDefault.txt 
+ ./_dobeTutAllCommon/jumpbutton.gif 
+ ./_dobeTutAllCommon/new_site.gif 
+ ./_dobeTutAllCommon/no.gif 
+ ./_dobeTutAllCommon/open.gif 
+ ./_dobeTutAllCommon/rainbow1.jpg 
+ ./_dobeTutAllCommon/search_on.gif 
+ ./_dobeTutAllCommon/spacer.gif 
+ ./_dobeTutAllCommon/sun2plutoVertical.gif 
+ ./_dobeTutAllCommon/tools.gif 
+ ./_dobeTutAllCommon/tug.jpg 
+ ./_dobeTutAllCommon/twinkle.gif 
+ ./_dobeTutAllCommon/xml.gif 
+ ./_dobeTutAllCommon/yes.gif 
+ ------------------------------------------- 
+ ./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll.htm 
+ ./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll.htm 
+ ./_dobeFrames_REF/Blank.htm 
+ ./_dobeFrames_REF/Generic.htm 
+ ./_dobeFrames_REF/LinkedTextBANNERframe.htm 
+ ./_dobeFrames_REF/LinkedTextCENTERframe.htm 
+ ./_dobeFrames_REF/LinkedTextFOOTERframe.htm 
+ ./_dobeFrames_REF/LinkedTextRIGHTframe.htm 
+ ./_dobeFrames_REF/OriginaltextBANNERframe.htm 
+ ./_dobeFrames_REF/OriginaltextCENTERframe.htm 
+ ./_dobeFrames_REF/OriginaltextFOOTERframe.htm 
+ ./_dobeFrames_REF/OriginaltextRIGHTframe.htm 
+ ./_dobeFrames_REF/OriginaltextTOCframe.htm 
+ ./_dobeFrames_REF/Parent.htm 
+ ./_dobeFrames_REF/Self.htm 
+ ./_dobeFrames_REF/Top.htm 
+ ./_dobeFrames_REF/dobeIFrameTemplate.htm 
+ ./_dobeFrames_REF/dobeNest1FrameTemplate.htm 
+ ./_dobeFrames_REF/dobeNest2FrameTemplate.htm 
+ ./_dobeFrames_REF/dobeSimpleFrameTemplate.htm 
+ ./_dobeFrames_REF/noframes.htm 
+ ./_dobeFrames_REF/text1.htm 
+ ./_dobeFrames_REF/text2.htm 
+ ./_dobeFrames_REF/text3.htm 
+ ./_dobeFrames_REF/text4.htm 
+ ./_dobeFrames_REF/units.htm 
+ ./_dobeFrames_REF/units2.htm 
+ ./_dobeFrames_REF/units3.htm 
+ ./_dobeFrames_REF/units4.htm 
+ ./_dobeFrames_REF/typical.htm 
+ ------------------------------------------- 
+ ./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll_htm.TXT 
+ ./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll_htm.TXT 
+ ./_dobeFrames_REF/Blank_htm.TXT 
+ ./_dobeFrames_REF/Generic_htm.TXT 
+ ./_dobeFrames_REF/LinkedTextBANNERframe_htm.TXT 
+ ./_dobeFrames_REF/LinkedTextCENTERframe_htm.TXT 
+ ./_dobeFrames_REF/LinkedTextFOOTERframe_htm.TXT 
+ ./_dobeFrames_REF/LinkedTextRIGHTframe_htm.TXT 
+ ./_dobeFrames_REF/OriginaltextBANNERframe_htm.TXT 
+ ./_dobeFrames_REF/OriginaltextCENTERframe_htm.TXT 
+ ./_dobeFrames_REF/OriginaltextFOOTERframe_htm.TXT 
+ ./_dobeFrames_REF/OriginaltextRIGHTframe_htm.TXT 
+ ./_dobeFrames_REF/OriginaltextTOCframe_htm.TXT 
+ ./_dobeFrames_REF/Parent_htm.TXT 
+ ./_dobeFrames_REF/Self_htm.TXT 
+ ./_dobeFrames_REF/Top_htm.TXT 
+ ./_dobeFrames_REF/dobeIFrameTemplate_htm.TXT 
+ ./_dobeFrames_REF/dobeNest1FrameTemplate_htm.TXT 
+ ./_dobeFrames_REF/dobeNest2FrameTemplate_htm.TXT 
+ ./_dobeFrames_REF/dobeSimpleFrameTemplate_htm.TXT 
+ ./_dobeFrames_REF/noframes_htm.TXT 
+ ./_dobeFrames_REF/text1_htm.TXT 
+ ./_dobeFrames_REF/text2_htm.TXT 
+ ./_dobeFrames_REF/text3_htm.TXT 
+ ./_dobeFrames_REF/text4_htm.TXT 
+ ./_dobeFrames_REF/units_htm.TXT 
+ ./_dobeFrames_REF/units2_htm.TXT 
+
+ Choose a file in the selector above, view it in the IFrame below! 
+
+ The (default) picture of a tugboat present in the IFrame, 
+
+ TUG.JPG 
+
+ was taken in the 1950's. 
+ The salvaged wheelhouse is presently a big garden ornament / guest room in my back yard.
+
+ Other interesting XHTML and JavaScript 
+
+ Dobe's Dare The old "Yikes" button again! 
+ Check the XML Syntax Does not validate! 
+ Insert Dynamic Text Enter text and add it to this very page! 
+ Watch the Status Line 
+ See the code that causes this page to track your mouse position in the status line! 
+
+ Dobe's Dare! 
+ Back to Start 
+ Explore Your Own Roots! 
+But would you recognize them if you saw them?
+
+Check it out!! It won't byte. 
+
+ Check the syntax 
+ Back to Start 
+
+ XML is a highly structured language. All XML must be 'well-formed' and it may also
+be 'valid'. XML must have both a start tag and an end tag, 
+and use the proper syntax. 
+ Try creating an XML element with start tag, end tag, and a 
+value on a single line, 
+(Example: <DOC><NODE>VALUE</NODE></DOC> ) 
+then click the 'Well-formed?' button to see if the XML is well-formed.
+
+ Insert Dynamic Text 
+ Back to Start 
+
+ You can enter text just about anywhere you want to in a dynamic document. 
+For instance, type something into the box below and then press the button! 
+
+ Watch the Status Line (while you move your cursor!) 
+ Back to Start 
+
+ The code that has the Status Line tracking the cursor: 
+
+ < head > 
+ < SCRIPT LANGUAGE="JScript"> 
+ //This adds the current mouse location to the browser status line! 
+ function reportMove() { 
+
+ window.status = "X=" + window.event.x + " Y=" + window.event.y; 
+ } 
+ < /SCRIPT > 
+ < /head > 
+ //The reportMove() function is called from the < body > element like so: 
+ < body onmousemove=" reportMove() "> 
+ . . 
+ [Other elements and attributes and content of page...] 
+ . . 
+ < /body > 
+
+ Cut-and-pasting of code permitted for non-commercial use. 
+ Check out my source code: <Right-Click> | View Source 
+ Thank you. 
+ Back to the Beginning of this page

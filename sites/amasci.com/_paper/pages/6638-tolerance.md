@@ -1,0 +1,210 @@
+---
+title: "Tolerance"
+source_domain: amasci.com
+source_path: ~rarnold/tolerance.htm
+order: 6638
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:14:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Tolerance
+
+*Source page: `~rarnold/tolerance.htm`*
+
+CENTER INITIATIVE **\
+Eliminate prejudice and discrimination against loggers, miners, ranchers, and other resource producers\
+*Hatred of*** ***natural resource providers as "destroying life on earth" must be rooted out and new understanding cultivated for those who feed, clothe and shelter us.***
+
+The story below, written by a victim of hate against loggers, demonstrates the prejudice, discrimination and moral exclusion that must be stamped out in America. The civil and human rights of the resource class must be defended by every responsible and compassionate citizen.
+
+<http://www.timberharvesting.com/vserver/hb/display.cfm?MagazineKey=4&Iss>\
+**Timber Harvesting magazine**\
+\
+**Eco-Terrorism Means New Reality **\
+by Dan Shell   May 2002\
+ \
+Imagine the empty, hollow feeling of rolling through the woods at dawn,\
+mentally calculating the day's activities as you prepare for work, when\
+you round a corner and find your livelihood--and much of your net\
+worth--in charred ashes. Imagine the feeling of looking at the equipment\
+you paid top dollar for in a smoldering or wrecked heap, with a smear of\
+red graffiti: Go Cut Trees In Hell.\
+\
+Anger, rage, sadness, disillusionment, bitterness and a kind of frantic\
+frustration will take their turns with your emotions, but the one that\
+remains is fear: The fear that it will happen again, or happen to you\
+just like it did to another logger working just a watershed away. It's\
+the eco-terrorist's gift that keeps on giving, a general fearfulness\
+that leads you to second-guess everything you do and ultimately (the\
+terrorists hope) question the very business you're in.\
+\
+Background\
+\
+A thorn in the side of Western natural resource-based industries for\
+years, eco-terrorism took off in the '80s, with the rise of Earth First!\
+and other groups, many closely following the works of the late Edward\
+Abbey, author of The Monkeywrenching Gang and also an environmental\
+activist and advocate of vandalism and property damage to protect the\
+environment and thwart development.\
+\
+For the timber industry, early focal points included major protests and\
+demonstrations surrounding Maxxam's takeover of Pacific Lumber Co., and\
+subsequent redwood logging in northern California, plus numerous\
+demonstrations, protests and acts of vandalism in national forests\
+straddling the Cascade Mountains throughout Oregon and Washington as\
+old-growth cutting and spotted owl protection issues arose in the late\
+'80s and early '90s.\
+\
+The past decade has seen the most ominous developments, however, as acts\
+of relatively simple vandalism (cutting hydraulic lines, smashing\
+windows, painting cabs) and political theatrics (showing up at a\
+congressman's office with chicken blood and feathers to highlight the\
+plight of the spotted owl) have turned darkly violent.\
+\
+Two very loosely-organized groups, the Animal Liberation Front (ALF) and\
+Earth Liberation Front (ELF), have claimed credit for much of the\
+eco-terror carnage of the past decade. With the ALF attacking animal\
+industry facilities and the ELF hitting timber, petroleum and other\
+development interests, the groups each have spokesmen who claim to\
+receive "anonymous" communiqus from operatives claiming responsibility\
+for terror events.\
+\
+In fact, a spokesman is about as deep as the ALF and ELF go when it\
+comes to having organizational charts. Despite intense scrutiny and\
+surveillance for several years, including at least two federal grand\
+jury subpoenas and having his house searched and communications\
+equipment seized, former ELF spokesman Craig Rosebraugh was never\
+charged with a crime.\
+\
+In the past, it's safe to say that many--the media in particular--viewed\
+Earth First!'s antics as sophomoric hijinks designed to gain media\
+attention and change people's minds about certain issues while flinging\
+mud in the eye of big business. However, operatives actively promoting\
+the ELF agenda entertain no such thoughts of influencing political\
+discourse: their message is terror and fear, pure and simple.\
+\
+Each communiqu following a firebombing or other event includes a\
+threat, real or implied, to cease operations or face additional attacks.\
+The following letter was delivered to Rosebraugh when the ELF claimed\
+credit for firebombing a Boise Cascade woodlands office in Monmouth,\
+Ore. on Christmas Day 1999:\
+\
+"Boise Cascade has been very naughty. . . Let this be a lesson to all\
+multinational corporations who don't respect their ecosystems. The elves\
+are watching."\
+\
+In many ways, what we're seeing is an ominous evolution of\
+eco-terrorism. In a letter to the Willamette National Forest supervisor\
+in 1997, an anonymous writer declared an alliance between the ALF and\
+ELF: "Solidarity between these two movements is the worst nightmare of\
+those who would abuse the earth and its citizens. Leave the forests\
+alone, and no one gets hurt."\
+\
+While eco-terrorists have traditionally used vandalism to get their\
+message across, radical animal rights activists--perhaps because they\
+see themselves as saving lives as opposed to ecosystems--have routinely\
+used arson and more violent, confrontational tactics to attack various\
+facilities that offend them.\
+\
+This emergence of a more malevolent activist mind-set has directly led\
+to the escalation of "direct actions" and its ensuing property damage\
+toll. On many logging tracts across the country, the fear of becoming a\
+target is palpable.\
+\
+Impact\
+\
+"They are terrorists, and it's my belief that no distinction should be\
+made between an eco-terrorist and any other type of criminal," says Juan\
+Yraguen, part owner of Basco Logging, Sutherlin, Ore.\
+\
+"It's our own brand of terrorism, and it does put the fear into your\
+boots," he explains. "You're always wondering if any equipment will be\
+damaged or destroyed, wondering if you'll be able to work when you show\
+up or worrying about your watchman."\
+\
+The logging company has been lucky enough to escape any major incidents,\
+but it has suffered some vandalism, such as axes through hoods, severed\
+lines and broken windows.\
+\
+Two years ago Basco Logging was working a thinning job on Forest Service\
+land near Diamond Lake while a sale in a nearby area was being heavily\
+protested. "The Forest Service controlled the actual sale areas, but we\
+were on the same road system, so we had to drive through the blockades\
+and watch the protesters being pampered by the Forest Service. It was\
+pretty hard to swallow at times," Yraguen remembers, adding that the\
+contractor working the controversial sale still had his lines cut and\
+equipment painted.\
+\
+Aside from the gnawing fear and worry that can erupt any time the topic\
+crosses his mind, Yraguen says another big impact is cost. "We're\
+definitely being more vigilant and spending more to protect ourselves."\
+\
+For example, the company now has a full-time watchman on every crew and\
+at the office and shop, which lies only a stone's throw away from the\
+busy I-5 freeway in Sutherlin. Only rarely--maybe when working behind a\
+strictly controlled, single-access gate on private land--does equipment\
+go unguarded.\
+\
+Juan and his brothers, Jaime and Nick, owners of Basco Logging,\
+occasionally go to great lengths to safeguard their investments. Last\
+fall, when one watchman wasn't available for two days, they moved their\
+shop watchman to the woods.\
+\
+"Our level of fear is pretty high to make moves like that to protect\
+ourselves, but we wouldn't dare go unguarded, even for two days,"\
+Yraguen says. However, he adds, "The alternative is far uglier."\
+\
+Amazingly, no one has been killed yet, either deliberately or by an\
+accident resulting from damaged equipment. (In fall '99, a protester in\
+northern California was accidentally killed by a falling tree after a\
+group of activists repeatedly trespassed into an active timber falling\
+area.) Yet that record will only stand so long.\
+\
+Jim Gahlsdorf, owner of Gahlsdorf Logging in Salem, Ore. and co-Vice\
+President of Associated Oregon Loggers, recently completed a sensitive\
+harvest on Oregon state forest land that was near the controversial\
+Tillamook State Forest Acey Line sale. The Acey Line sale drew extensive\
+protests, including the first tree-sitters to inhabit a state timber\
+sale in Oregon.\
+\
+But instead of simply letting the protesters be, as federal authorities\
+do sometimes, Oregon state and county law enforcement officers forcibly\
+removed those trespassing in the sale area. (The action included a 70\
+ft. fall by one tree sitter who fell asleep after jumping from one tree\
+canopy to another.)\
+\
+Gahlsdorf met with state forest and law enforcement officers before\
+starting the job, which required 24-hour security on site. "I really\
+worry about the night watchmen," he says, noting that many are older,\
+retiree types. "I worry that someone is going to have a heart attack\
+during a confrontation, or a watchman will try to save a burning piece\
+of equipment and get killed."\
+\
+Another impact is on Western tradition. Unlike the South, where in many\
+states almost every timbered tract not in a city limits is leased to a\
+hunting club or otherwise posted, Western timber industry holdings have\
+traditionally offered free, unfettered public access. However, things\
+are changing.\
+\
+"We've seen a lot more tamper-proof locks and gates, and on both public\
+and private lands, there are gates going up everywhere," Yraguen says.\
+"It's sad that it needs to be that way, but it's necessary."\
+\
+Another tradition threatened by eco-terrorism is public pride--at least\
+as far as Yraguen is concerned. " We used to have our company names on\
+all our vehicles and were real proud of it, but now if you put\
+'so-and-so logging company' on your pickup and park it at a shopping\
+center, it's liable to get kicked or keyed," Yraguen explains. "We'd\
+rather not draw too much attention, so we just try to stay out of sight\
+and out of mind."\
+\
+Contact Dan Shell, ph: 334-834-1170; fax 334-834-4525; e-mail:\
+<dan@hattonbrown.com>\
+ 
+
+**<a href="initiatives.htm" style="text-decoration: none">RETURN TO INITIATIVES TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

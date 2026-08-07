@@ -1,0 +1,21 @@
+Add to our Guestbook 
+
+ Add to our Guestbook 
+
+ Fill in the blanks below to add to our guestbook. The only blanks that you 
+ have to fill in are the comments and name section. Thanks! 
+
+ Your Name: 
+ E-Mail: 
+ URL (please include the http://): 
+ City: , State: Country: 
+ Comments: 
+
+ * 
+
+ * Back to the
+Guestbook Entries 
+
+ Script and Guestbook Created by: Matt Wright . 
+Adapted for use on Eskimo North by
+ Web-presentatives

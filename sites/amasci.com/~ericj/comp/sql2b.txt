@@ -1,0 +1,187 @@
+SQL Tutorial: Images and CGI Integration 
+
+ SQL Tutorial II 
+ -- Images and CGI Integration -- 
+
+ Previous Part: 
+ Normalizing a Database 
+
+ Back to the PostgreSQL Tutorials List 
+
+ Images and CGI Integration 
+
+ First, we'll enter the data as we did before (I'll only show one line here,
+both for space issues and the possibility of my changing the "item" entries
+later). For the HTML tags within the fields, just type them in as you would
+into a web page. Notice that the single quote (') can be used to surround
+texts that may include the double quotes (") that HTML uses (the need for
+apostrophes and quotes I haven't tested yet.) 
+
+ericj=> INSERT INTO sales_item VALUES ( 
+ericj(> 'DVD-CB01', 
+ericj(> 'Cowboy Bebop #1', 
+ericj(> 'Cowboy Bebop Session 1<BR>Episodes 1-5<BR>125 min.', 
+ericj(> 29.95, 
+ericj(> '<IMG src="/~ericj/comp/img/bebop1_cover.gif" width=48 height=70>' ); 
+ericj=>
+
+ The HTML output I've been using in these examples does a conversion of "<"
+and ">" into their text-versions "<" and ">", so we'll want
+to put an extra filter in place to convert these back to the needed brackets.
+For this reason, and to help show how this can be integrated into CGI scripts,
+I'll show the actual command line my CGI scripts are using for these
+examples. 
+
+ For these examples, my scripts have been running the command exactly as
+you'd be able to from the command line (without the '-h www' bit, since the
+scripts will run on that server themselves). I turn on HTML output with '-H',
+and notice how table tags (with '-T') and other settings can be changed as
+well to make your own style of tables rather that sticking with the
+default. Next time, I'll bring out the Perl and DBI/DBD setup, which allows
+us to clean up the tables in any format we desire. Here's a sample complete
+shell-script CGI for the table below: 
+
+ #!/bin/bash
+PATH=/usr/local/pgsql/bin:/bin
+
+echo "Content-Type: text/html"
+echo 
+psql -H -T 'bgcolor="#ffffff" cellspacing=0 cellpadding=3 width="90%"' \
+ -c "SELECT * FROM sales_item ORDER BY id;" \
+ | sed -e 's/</</g' -e 's/>/>/g' 
+
+ id 
+ name 
+ description 
+ price 
+ imagetag 
+
+ DVD-CB01 
+ Cowboy Bebop #1 
+ Cowboy Bebop 1st Session Episodes 1-5 125 min. 
+ 24.95 
+
+ DVD-CB02 
+ Cowboy Bebop #2 
+ Cowboy Bebop 2nd Session Episodes 6-10 125 min. 
+ 24.95 
+
+ DVD-MP01 
+ Macross Plus #1 
+ Macross Plus, Volume 1 Episodes 1-2 90 min. 
+ 24.95 
+
+ DVD-MP02 
+ Macross Plus #2 
+ Macross Plus, Volume 2 Episodes 3-4 90 min. 
+ 24.95 
+
+(4 rows) 
+
+ Voil&aacute; . .&nbsp.&nbsp. We have images in our tables now. 
+
+ Wondering how many customers we have so far? Here's the data I added to
+that table with the shell-CGI command line used to show it here: 
+
+ psql -H -T 'bgcolor="#ffffff" cellspacing=0 cellpadding=3 width="90%"' \
+ -c "SELECT * FROM sales_customer ORDER BY name;" 
+
+ id 
+ name 
+ str_addr1 
+ str_addr2 
+ city 
+ state 
+ zip_4 
+ country 
+
+ TEST0001 
+ Alice Testing 
+
+ 12345 67th Ave 
+ Somewhere 
+ WA 
+ 98123 
+ USA 
+
+ SMIT0001 
+ Bob Smithers 
+
+ PO Box 98765 
+ Elsewhere 
+ WA 
+ 98765 
+ USA 
+
+(2 rows) 
+
+ And what did they buy? 
+
+ psql -H -T 'bgcolor="#ffffff" cellspacing=0 cellpadding=3 width="90%"' \
+ -c "SELECT * FROM sales_invoice ORDER BY name;" 
+
+ name 
+ purch_date 
+ item_name 
+ price 
+ quantity 
+ subtotal 
+
+ Alice Testing 
+ 2000-10-19 
+ Macross Plus #1 
+ 24.95 
+ 1 
+ 24.95 
+
+ Alice Testing 
+ 2000-10-27 
+ Macross Plus #2 
+ 24.95 
+ 1 
+ 24.95 
+
+ Bob Smithers 
+ 2000-09-30 
+ Cowboy Bebop #1 
+ 24.95 
+ 7 
+ 174.65 
+
+ Bob Smithers 
+ 2000-10-19 
+ Cowboy Bebop #2 
+ 24.95 
+ 5 
+ 124.75 
+
+(4 rows) 
+
+ Hmm. Looks like Bob's a purchaser for a fan club, library, or rental
+store. Might explain the PO box address, too. But then, these are phony sales
+and people anyway. Of course we wouldn't like a real invoice to include both
+purchasers, only the one we're asking about; the script can add " WHERE
+name LIKE 'Bob Smithers' " (or better yet, a check of the customer_id)
+without too much difficulty. 
+
+ Imagine how many duplicates we'd have all over the database if every row
+needed the same customer information, item description, or image tag.
+As it is, we only need to store each piece of information once and make some
+links with the "sales_purch" table. It may not make much of a difference on
+these samples, but when you get near a quota limit, it's a little late to
+redesign the whole works. 
+
+ Back to the PostgreSQL Tutorials List 
+
+-->
+
+ Home 
+ Anime 
+ Genealogy 
+ About 
+ External Links 
+
+ Feedback Appreciated .
+
+ Copyright &copy;1994-2001 by Eric T. Jorgensen. 
+ All rights reserved. Do not copy/redistribute.

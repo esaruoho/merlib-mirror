@@ -1,0 +1,35 @@
+---
+title: "Flintknapping, Collecting Material"
+source_domain: amasci.com
+source_path: ~knapper/Collecting_Matl.html
+order: 4334
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:11:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Flintknapping, Collecting Material
+
+*Source page: `~knapper/Collecting_Matl.html`*
+
+**COLLECTING MATERIAL AT GLASS BUTTES**
+
+**By Craig Ratzat**
+
+One of the most often questions that I get when I'm at a show or knap-in is-Where do you get your obsidian? The answer is, most of it comes from Glass Buttes in central Oregon. Why Glass Buttes? For two main reasons: first it's legal and second it has the most color variations in the smallest area. The BLM (Bureau of Land Management) out of Prineville has set aside a 6000-acre "Free Use Area" at Glass Buttes. Although there are plans in the works that will probably change the rules, at this time, you can take all you want and do with it what you want, but you must dig by hand. No power equipment or explosives allowed.
+
+Even though there have been a number of flintknapping classes out at the Buttes for years, things do change. I'm the first person who has had to buy a permit to teach workshops at the Buttes. The BLM has several main concerns for groups that are using the Buttes. One is waste, they want portable toilets brought in for use. Then, the inherent dangers involving campfires; in summer they don't want you to have one at all. In cooler times of the year you can have one but there are only a few juniper trees and cutting anything alive or dead that is standing is a big No-No. Next is the roads, "Stay on them" and don't dig in them or leave your debitage on them. Most of the camping sites along the roads have been listed by the BLM as modern knapping areas so to leave your debitage there is ok, but not where you have to park or drive.
+
+Many people have seen pictures of big walls of obsidian flows like in Newberry Crater only about 50 miles from the Buttes, and come out expecting to roll big blocks into the back of their truck. They used to do that by the truckload at the Newberry Crater, but now if you pick up a flake the guard will tell you to put it back. Walking up to a wall of obsidian 30 or 40 feet tall is such a site to see that they made it a national preserve that you have to pay to see.
+
+Back at the Buttes, the flows of obsidian may be hundreds of feet thick but you are standing on the top of it all; if you want material of any size, you have to dig for it. If you stay on the roads you will see where others have dug and by checking around the pits you can see what color may have been found there. I have had to spend anywhere from an hour to 6 hours just cleaning out the back fill before getting any keeper rock. At most sites you can be sure of finding good material of various colors, except the rainbow. The rainbow area is like a World War I battlefield with trenches and holes everywhere. You can dig three days and find only a few pieces of black obsidian with no color (like me) or you can go up in an evening after a flint knapping class and dig up a 300 pound rock with good color (one of my students).
+
+Although you can find obsidian over a large area it can very a lot in quality, much of it will have little white spots in it. These are gas bubbles that weaken the strength of the stone. The fewer or no spots the better the rock. Most quarry sites are in areas that have better quality of material.
+
+I have spent about 30 days a year for the last 11 years at Glass Buttes and want to do the same for the next 40 years. When I teach workshops there, I play by all the BLM rules and ask all my students to do the same; in return I freely share what I know about this great lithic treasure house so that they can enjoy it and spread the word to others. If we don't abuse our rights here we can all play here or a few hundred more years.
+
+For additional information we suggest you read "Planning a Trip to Glass Buttes" by Dane Martin, CHIPS Vol. 9, \#2, April 1997, Pg. 5-8.\
+\
+\[[CHIPS](http://www.eskimo.com/~knapper/Chips_front_page.html)\]\[[The Knapper's Corner](http://www.eskimo.com/~knapper/)\]

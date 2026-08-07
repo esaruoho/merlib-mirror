@@ -1,5 +1,5 @@
 # PDFs referenced on amasci.com but not available for download
-# Generated: 2026-03-05T15:33:29Z
+# Generated: 2026-08-07T16:59:35Z
 
 http://
 pase.uark.edu/_resources/images/the-myths-of-science.pdf
@@ -8,25 +8,43 @@ www.americanradiohistory.com/Archive-Poptronics/70s/1978/Poptronics-1978-05.pdf
 http://arxiv.org/PS_cache/arxiv/pdf/1012/1012.5166v1.pdf
 http://arxiv.org/ftp/arxiv/papers/0906/0906.3884.pdf
 http://chem3.snu.ac.kr/~surfion/Himage/pdf/2005_PRL(freezing transition).pdf
+http://ciac.llnl.gov/ciac/documents/CIAC-2304_Vulnerabilities_of_Facsimilie_Machines_and_Digital_Copiers.pdf
 http://cpsc.gov/LIBRARY/shock95.pdf
+http://csrc.nist.gov/fips/fips186-2.pdf
+http://csrc.nist.gov/publications/fips/fips186-2/fips186-2-change1.pdf
 http://dbem.ws/Does Psi Exist?.pdf
 http://ehp.niehs.nih.gov/docs/2004/6355/abstract.pdf
 http://epsppd.epfl.ch/Buda/pdf/p3_058.pdf
+http://files.totlandweb.info/BoM3HelpChap1RevA.pdf
 http://focus.ti.com/lit/an/sboa035/sboa035.pdf
 http://focus.ti.com/lit/an/slod006b/slod006b.pdf
+http://gltrs.grc.nasa.gov/reports/2004/CR-2004-213312.pdf
+http://grouper.ieee.org/groups/1363/StudyGroup/contributions/esign.pdf
+http://images.myareaguide.com/aps/Parks/cityofrocks/ciromap1.pdf
+http://images.myareaguide.com/aps/Parks/cityofrocks/ciromap2.pdf
+http://indian.senate.gov/2005hrgs/110205hrg/110205exhibits.pdf
+http://jya.com/bits.pdf
+http://jya.com/emr.pdf
+http://jya.com/rs232.pdf
+http://members.aol.com/gill6034/flyer.pdf
+http://members.rogers.com/paulv/papers/JoC97.pdf
+http://news.findlaw.com/hdocs/docs/ip/foxpenguin80703cmp.pdf
 http://pbskids.org/zoom/pdf/electroscope.pdf
 http://people.csail.mit.edu/bkph/articles/Suppressing_Traffic_Flow Instabilities_IEEE_ITS_2013.pdf
 http://phys.udallas.edu/C3P/Preconceptions.pdf
 http://pumas.jpl.nasa.gov/PDF_Examples/01_16_01_1.pdf
 http://science.nsta.org/enewsletter/2006-07/tst0411_58.pdf
+http://science.uniserve.edu.au/school/curric/stage6/phys/stw2002/sefton.pdf
+http://search.ieice.or.jp/2000/pdf/e83-a_1_97.pdf
+http://shop.pdf-office.com/product_info.php?products_id=47
 http://sites.huji.ac.il/science/stc/staff_h/Igal/Research Articles/
 Pointing-AJP.pdf
 http://sites.huji.ac.il/science/stc/staff_h/Igal/Research Articles/Pointing-AJP.pdf
+http://standard.pictel.com/ftp/research/security/panama.pdf
 http://users.bestweb.net/~hobbs/footprints/fpspie11.pdf
 http://vwisb7.vkw.tu-dresden.de/TrafficForum/journalArticles/ctd03123101.pdf
 http://wayback.archive.org/web/20061101000000*/http://www.wenzel.com/pdffiles/cloud.pdf
 http://web.archive.org/web/*/http://www.svn.net/krscfs/Charge Clusters In Action.pdf
-http://web.archive.org/web/*/http://www4.ncsu.edu/~rwchabay/mi/circuit.pdf
 http://web.archive.org/web/20040715235010/http://www.mtholyoke.edu/acad/phys/pdf/hover.pdf
 http://web.archive.org/web/20040715235010/www.mtholyoke.edu/acad/phys/pdf/hover.pdf
 http://web.archive.org/web/20050701000000*/http://www.mindspring.com/~pfriedr/archives/xsist23.pdf
@@ -42,22 +60,37 @@ http://web.archive.org/web/20110812164727/https://physics.le.ac.uk/girep2009/Con
 http://web.archive.org/web/20131011041316/https://sites.huji.ac.il/science/stc/staff_h/Igal/Research Articles/Pointing-AJP.pdf
 http://web.archive.org/web/20150501000000*/http://www.scientificexploration.org/journal/jse_13_3_towe.pdf
 http://web.archive.org/web/20161019214341/www.texzontechnologies.com/wp-content/uploads/2016/09/TEXZON_Baylor_Corum16.pdf
+http://web.archive.org/web/20161019214341/www.texzontechnologies.com/wp-content/uploads/2016/09/TEXZON_Baylor_Corum16.pdf
 
+http://web.mac.com/rlivingston/Site/Radiology_Anatomy_Atlas_files/070828RAAViewerManual.pdf
 http://www-3.unipv.it/fis/tamq/Anti-photon.pdf
+http://www.abanet.org/family/reports/samesex_fullreport.pdf
+http://www.aclu.org/torturefoia/released/FBI.121504.5053.pdf
+http://www.acousticguitarworkshop.com/images/altbass_lesson.pdf
 http://www.adobe.com/products/atmosphere/pdfs/builder_ug.pdf
-http://www.americanradiohistory.com/
-Archive-Radio-Craft/1940s/Radio-Craft-RE-1949-May.pdf
 http://www.apl.washington.edu/programs/DIDSON/Media/acoustic_lenses.pdf
+http://www.arm.gov/docs/education/lessons/nsa/pizza.pdf
 http://www.arxiv.org/PS_cache/physics/pdf/0108/0108005.pdf
+http://www.brianwood.com/local01_preview.pdf
+http://www.bricksonthebrain.com/comic/AFOLcomic-small.pdf
+http://www.cacr.math.uwaterloo.ca/hac/about/chap5.pdf
+http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf
+http://www.cdfe.org/Indictments.pdf
 http://www.cfn.ist.utl.pt/EPS2001/fin/pdf/P2.114.pdf
 http://www.colorado.edu/physics/phys3320/phys3320_sp12/AJPPapers/AJP_E&MPapers_030612/Preyer_SurfaceCharges.pdf
+http://www.cryptoengines.com/~peter/06_random.pdf
 http://www.cufos.org/pdfs/sighting_report.pdf
+http://www.dccomics.com/pdfs/batman/bmcmtrailgun1.pdf
 http://www.derwentcctv.com/datasheets/safety.pdf
 http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA498010
+http://www.ecn.ulaval.ca/w3/recherche/cahiers/1998/9814.pdf
 http://www.ee.umanitoba.ca/programs/undergraduate/courses/coursehome/c24400/24_400/Final Reports/G7 Final Report.pdf
+http://www.eecs.umich.edu/~faloul/Papers/faloul_iccad02.pdf
 http://www.electronpowersystems.com/Images/Equalibrium and Stability Chen.pdf
 http://www.ensmp.fr/aflb/AFLB-272/aflb272p241.pdf
+http://www.esat.kuleuven.ac.be/~cosicart/pdf/JD-9100.pdf
 http://www.esdjournal.com/techpapr/prevens/flow1.pdf
+http://www.eskimo.com/~miyaguch/BRAIN.pdf
 http://www.fac-media.com/spie/Holography15-1.pdf
 http://www.fisica.uh.cu/biblioteca/revcubfi/2010/vol.27-No.1/RCF27-1-2010-107.pdf
 http://www.flexitral.com/research/chemical_senses_complete.pdf
@@ -67,8 +100,16 @@ http://www.gb.nrao.edu/epo/Microsoft Word - examplevignette.pdf
 http://www.hackinghardware.com/tc/uap_vol2_ch2_wp2.pdf
 http://www.ijser.org/researchpaper\Eigenvalue-Analysis-of-Microwave-Oven.pdf
 http://www.jodkowski.pl/prywata/Diffusion.pdf
+http://www.jungseattle.org/w05/IPID-callan.pdf
+http://www.lcweb.loc.gov/copyright/legislation/hr2281.pdf
+http://www.ledet.com/margulis/Age_of_Enlightened.pdf
+http://www.loc.gov/copyright/reports/sec-104-report-vol-1.pdf
 http://www.mnsi.net/~boucher/PlasmaDisplays.pdf
 http://www.monstein.de/paraphysics/Marinovmotor/v05n3wes.pdf
+http://www.nonprofits.org/npofaq/misc/97990.pdf
+http://www.nonprofits.org/npofaq/misc/98990.pdf
+http://www.nonprofits.org/npofaq/misc/99990.pdf
+http://www.nstissc.gov/Assets/pdf/nstissam_tempest_1-00.pdf
 http://www.pei.org/Portals/0/resources/documents/Refueling Fire Incidents.pdf
 http://www.physiol.ucl.ac.uk/research/turin_l/structure-odor_paper.pdf
 http://www.rci.rutgers.edu/~williebo/za26Homopolargen.pdf
@@ -78,20 +119,38 @@ http://www.scientificexploration.org/docs/9/jse_09_1_pyatnitsky.pdf
 http://www.scientificexploration.org/journal/jse_12_4_martin.pdf
 http://www.scientificexploration.org/jse/articles/pdf/arp.pdf
 http://www.scientificexploration.org/meetings/program_18th_annual.pdf
+http://www.seascape-sail.com/newsletter_jan2001.pdf
+http://www.seascape-sail.com/newsletter_jan2002.pdf
+http://www.secstate.wa.gov/voting/vrform.pdf
 http://www.sonnetsoftware.com/support/downloads/publications/MWJ_AcceptanceOfMaxwellsEquations.pdf
 http://www.spawar.navy.mil/sti/publications/pubs/tr/1862/tr1862-vol1.pdf
 http://www.springerlink.com/content/0557v31188m3766x/fulltext.pdf
+http://www.state.ma.us/sec/pre/prepdf/onedayspecdes.pdf
 http://www.svn.net/krscfs/Charge Clusters In Action.pdf
+http://www.target.vol.at/datasheets/Formac/iProTv.pdf
 http://www.teslabook.fw.hu/The Tesla secret 1-6_en.pdf
+http://www.testudo.cc/Media/Herpetomania3-4_04.pdf
+http://www.testudo.cc/Media/Reptisun 5.0 used.pdf
+http://www.textco.com/ftp/GCK25-Demo-Manual.pdf
+http://www.usfencing.org/Forms/NACEntry.pdf
+http://www.usfencing.org/Forms/score/DE-10touch.pdf
+http://www.usfencing.org/Forms/score/DE-2of3.pdf
+http://www.usfencing.org/Forms/score/DE.pdf
+http://www.usfencing.org/Forms/score/DE32.pdf
+http://www.usfencing.org/Forms/score/DE64.pdf
+http://www.usfencing.org/Forms/score/Pool.pdf
+http://www.usfencing.org/Forms/score/TeamDE.pdf
+http://www.usfencing.org/Forms/score/TeamEntry.pdf
+http://www.usfencing.org/Forms/score/TeamScoresheet.pdf
 http://www.uvm.edu/~gpetrucc/courses/Chem219/Lectures/Paul Horowitz, Winfield Hill - The Art of Electronics-Cambridge University Press (2015).pdf
 http://www.wenzel.com/pdffiles/voltmult.pdf
 https://arxiv.org/ftp/arxiv/papers/1204/1204.4616.pdf
-https://dl.icdst.org/pdfs/files4/55091d33e9c4060d798ba255a28b94cf.pdf
 https://earthweb.ess.washington.edu/roe/Knowability_590/Week2/Myths of Science.pdf
 https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940006883.pdf
 https://web.archive.org/web/20060821053638/http://science.uniserve.edu.au/school/curric/stage6/phys/stw2002/sefton.pdf
 https://web.archive.org/web/20100525234750/http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19680009569_1968009569.pdf
 https://web.archive.org/web/20150224143428/www-3.unipv.it/fis/tamq/Anti-photon.pdf
+https://www.cosic.esat.kuleuven.ac.be/nessie/reports/kulwp3-006-1.pdf
 https://www.docdroid.net/4nxhiGD/1960-stong-the-scientific-american-book-of-projects-for-the-amateur-scientist-a-homemade-atom-smasher.pdf
 https://www.jstor.org/stable/pdf/1650658.pdf
 https://www.researchgate.net/profile/Dirk_Helbing/publication/228773166_Critical_discussion_of_synchronized_flow/links/0fcfd50bafbc43a980000000.pdf

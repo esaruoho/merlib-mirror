@@ -1,0 +1,315 @@
+CSS specification/browser support page: Classification Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ display 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ none 
+ X 
+ X 
+ 4.0B1 
+ 4.0B2 
+ 3.5 
+
+ inline 
+ X 
+ X 
+ 5.0 
+ 6.0 
+ 3.5 
+
+ block 
+ X 
+ X 
+ 5.0 
+ 4.0B2 
+ 3.5 
+
+ list-item 
+ X 
+ X 
+ 6.0 
+ 4.0B2 
+ 4.0 
+
+ marker 
+ -- 
+ X 
+ -- 
+ -- 
+ 4.0 
+
+ compact 
+ -- 
+ X 
+ -- 
+ -- 
+ 4.0 
+
+ run-in 
+ -- 
+ X 
+ -- 
+ -- 
+ 4.0 
+
+ table-header-group table-footer-group 
+ -- 
+ X 
+ 5.0 
+ 6.0 
+ 4.0 
+
+ table 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ inline-table 
+ -- 
+ X 
+ -- 
+ -- 
+ 4.0 
+
+ table-caption 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ table-cell 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ table-row table-row-group 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ table-column table-column-group 
+ -- 
+ X 
+ -- 
+ ?? 
+ ?? 
+
+ visibility 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ ?? 
+
+ visible 
+ -- 
+ X 
+ 4.0 
+ 4.5x 
+ 4.0 
+
+ hidden 
+ -- 
+ X 
+ 4.0 
+ 4.5x 
+ 4.0 
+
+ collapse 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ hide 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ show 
+ -- 
+ -- 
+ -- 
+ 4.0-4.x 
+ -- 
+
+ position 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ static 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ relative 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ absolute 
+ -- 
+ X 
+ 4.0 
+ 4.0 
+ 4.0 
+
+ fixed 
+ -- 
+ X 
+ -- 
+ 6.1 
+ 4.0 
+
+ float 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ none 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ left 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ right 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ clear 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ 4.0 
+
+ none 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ left 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ right 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ both 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ Boring Copyright Stuff...

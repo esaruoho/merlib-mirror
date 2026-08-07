@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+<title>C.M. Connelly: About this Site...</title>
+<meta name="author" content="C.M. Connelly" />
+<meta name="author-email" content="c@eskimo.com" />
+<meta name="robots" content="noarchive" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="date.modified" content="Mon, 22 Sep 2003 13:43:25 PDT" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="generator" content="HTML::Mason with mod_perl under Apache" />
+
+<link rel="stylesheet" type="text/css" href="../stylesheets/new.css" />
+
+
+</head>
+
+
+<body>
+
+<a id="top" name="top">&#160;</a>
+
+<!-- Navigation Bar -->
+<div id="navbar">
+   <p class="navlinks">
+<a class="navbar" href="../blog/index.html">Blog</a>  | 
+<a class="navbar" href="../debian/index.html">Debian</a>  | 
+<a class="navbar" href="../work/index.html">Work</a>  | 
+<a class="navbar" href="../work/resume/index.html">R&eacute;sum&eacute;</a>  | 
+<span class="thispagelink">About...</span>  
+</p>
+
+<p class="secnavlinks">
+
+<a class="navbar" href="index.html#software">Software</a>
+ | 
+
+<a class="navbar" href="index.html#weblog">Weblog</a>
+ | 
+
+<a class="navbar" href="index.html#standards">Standards</a>
+ | 
+
+<a class="navbar" href="index.html#hardware">Hardware</a>
+ | 
+
+<a class="navbar" href="index.html#claire">Me</a>
+ | 
+
+<a class="navbar" href="index.html#comments">Comments</a>
+ | 
+
+<a class="navbar" href="index.html#badges">Badges</a>
+
+</p>
+
+
+</div>  <!-- End Navigation Bar -->
+
+<!-- Header -->
+<div id="header">
+   <a href="../index.html">
+<img src="../images/logo-light.png" height="85" width="200" border="0" alt="Link to Home" />
+</a>
+
+   <h1>About this Site...</h1>
+</div>  <!-- End Header -->
+
+<!-- Content -->
+<div id="content">
+
+   
+
+<h2 id="software">Software</h2>
+
+<p>This site is maintained with <a href="http://www.masonhq.com/">HTML::Mason</a>, a Perl <abbr
+title="Content Management System">CMS</abbr> that is also used by <a
+href="http://www.salon.com/">Salon</a> as the basis of their CMS.</p>
+
+<p>As of February 2002, all the code outside of Mason itself was
+written by me.  Although I have considered using some components
+written by others, I haven't found any that would be more useful than
+those I've written myself.</p>
+
+<p>Probably the most notable components are <code>gr</code>, which
+provides a shortcut for adding links, and <code>img</code>, which
+provides a short way of inserting images (with or without links).
+Both components replace similar functionality in  <a
+href="http://frontier.userland.com/">UserLand Frontier</a>, which I
+used to generate earlier versions of my site (ca. 1997&#8211;1999).</p>
+
+<p><a href="http://www.masonhq.com/">HTML::Mason</a> is a complicated beast, but with the complexity
+comes the full power of <a href="http://www.perl.com/">Perl</a>.  Anything that can be done
+in Perl (which is pretty much anything) can be done in Mason with a
+bit of coding and stick-to-it-ivness.  I miss some of the simplicity
+of using Frontier (for example, typing <code>"foo"</code> instead of
+<code>&lt;&amp; /gr, 'foo' &amp;&gt;</code>), but I have much more
+control over everything that goes on in the site (because I wrote all
+the code, and I know there isn't any weird magic happening in some
+mysterious script being called as part of the rendering process) and
+that's worth it.  (Being free from Dave's closed source, expensive
+products, and weird idea of &#8220;support&#8221; are icing on the cake.)</p>
+
+<p>All the PDF documents on this site were created using <a
+href="http://www.latex-project.org/">LaTeX</a> and processed into PDF
+files using <a
+href="http://www.cs.wisc.edu/~ghost/doc/AFPL/6.50/Ps2pdf.htm">ps2pdf</a>.
+By and large, the typefaces used are Robert Slimbach's <a href="http://www.adobe.com/type/browser/P/P_409.html">Adobe Kepler MM</a> (serif) and <a href="http://www.adobe.com/type/browser/P/P_416.html">Adobe Cronos MM</a> (sans-serif).</p>
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+
+<h2 id="weblog">The Weblog</h2>
+
+<p>As of this writing, my weblog consists of several
+Mason components that provide the page layout and the content of the
+sidebar.</p>
+
+<p>The blog content (current page and archives) consists of several
+Mason components that are assembled by a Perl script (currently
+<em>not</em> part of the Mason site) from a series of files stored in
+a hierarchical directory structure.  Using files instead of a database
+gives me all the benefits of a database without actually having to
+waste time and energy getting a complex database server up and running
+for what is, after all, a rather modest job.  (<a
+href="http://www.jwz.org/gronk/">Jamie Zawinkski</a> would be proud
+(notice the last feature).)</p>
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+<h2 id="standards">Standards</h2>
+
+<p>I care a lot about <a href="http://www.w3.org/">standards</a> and
+accessibility.  The most recent retrofit of this site (February, 2002)
+involved tearing out the old <code>&lt;table&gt;</code>-based layout
+(inherited from older tools) and replacing it with a clean <abbr
+title="Cascading Style Sheets">CSS</abbr>-based layout.</p>
+
+<p>I'm also looking at moving the site to use 
+<abbr title="eXtensible HyperText Markup Language">XHTML</abbr>, as
+well, making it easier to move to 
+<abbr title="eXtensible Markup Language">XML</abbr> when the
+time is right.  In the meantime, the site uses the <a
+href="http://www.w3.org/TR/html401/">HTML 4.01 Transitional</a> <abbr
+title="Document Type Definition">DTD</abbr>.</p>
+
+<p>If you're seeing exceptionally plain pages, and you're not using a
+text browser, you're probably using an older browser that isn't
+completely standards-compliant.  If you can, I recommend that you
+upgrade your browser to one that is standards-compliant&#8212;you'll see
+benefits immediately.</p>
+
+<p>If you can't upgrade your browser, I apologize.  I'm stuck with an
+old, buggy version of Netscape on <code>diziet</code> myself, but I'm
+running <a href="http://www.mozilla.org/">Mozilla</a> on <code>perosteck</code>, and it's
+great.  Newer versions of Microsoft's Internet Explorer browser also
+work pretty well.</p>
+
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+
+<h2 id="hardware">Hardware</h2>
+
+<p>I'm currently running two computers.  Mason is running on my main
+system: <code>diziet</code>, a <a
+href="http://www.everymac.com/systems/powercc/powercenter/powercenter132.html">PowerComputing
+PowerCenter 132</a>.  That's a Macintosh clone (from the brief reign
+of Mac clones) with a 132 MHz PowerPC 604e processor.  Diziet has
+300&#160;MB of RAM, and a variety of hard drives, one of which holds
+my primary operating system, <a href="http://www.debian.org/">Debian GNU/Linux</a>.  I also have a cool
+monitor, the <a
+href="http://www.macworld.com/1996/03/reviews/1875.html">Portrait
+Display Labs Pivot 1700</a>, whose coolest feature&#8212;pivoting between
+landscape and portrait mode&#8212;I can't actually use under Linux.</p>
+
+<p>The new machine, <code>perosteck</code>, is a shiny <a href="http://www.apple.com/">Apple</a> Quicksilver G4 running <a href="http://www.apple.com/macosx/">Mac OS X</a>.  I'm using that machine
+more and more for web browsing and, of course, any image editing I
+need to do.  <code>diziet</code> is still my main machine, however, as
+the text-editing and mail-reading options available for Mac OS X don't
+suit my needs and preferences just yet.</p>
+
+<p>It's also fair to say that I would feel guilty abandoning
+<code>diziet</code> outright, and also that I feel much more
+comfortable with the power and flexibility offered by Debian's
+file-system layout and packaging system, for which there is no truly
+viable alternative for Mac OS X at this time.</p>
+
+<p>Other fun facts: I have a <a
+href="http://www.kensington.com/products/pro_mic_d1328.html">Kensington
+TurboMouse trackball</a> on <code>diziet</code> (and a <a
+href="http://www.kensington.com/products/pro_mic_d1399.html">TurboMouse
+Pro</a> on <code>perosteck</code>), and listen to music with <a
+href="">Harman Kardon SoundSticks</a>.</p>
+
+<p>I usually sit on a <a
+href="http://www.postureball.com/index2.html">PostureBall</a> when
+working at my <a href="http://www.ikea.com/">Ikea</a> <a
+href="http://www.ikea-usa.com/product_presentation/show.asp?ProductNumber=00004734&amp;type=III">Effectiv
+desk</a>.</p>
+
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+
+<h2 id="claire">Me</h2>
+
+<p class="noindent">You can learn plenty about me by checking out my
+my <a href="../blog/">blog</a> (and maybe my <a href="../work/">work</a>
+section), but here's a brief summary:</p>
+
+<blockquote>
+<p>I'm a thirty-something generalist.  My degree is in anthropology,
+but I've worked at archaeological sites, museums, nonprofit
+associations, computer startups, and as a freelance book editor.  I
+love to read and listen to music; my other interests (really 
+on-again&#8211;off-again obsessions) vary widely and include (but are hardly
+limited to) archaeology, computers, folklore, geography, geology,
+history, modern art, particle physics, typography, and writing.</p>
+
+<p>I'm lucky enough to have found <a href="http://www.cs.hmc.edu/~oneill/">Melissa</a> (AKA
+&#8220;M&#8221;), an amazingly cool individual with whom I joyously duel verbally,
+mentally, and emotionally every day.</p>
+</blockquote>
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+
+<h2 id="comments">Questions? Problems? Complaints?</h2>
+
+<p class="noindent">Please e-mail questions, complaints, or corrections to <em><a href="mailto:c+web@eskimo.com">c@eskimo.com</a>.</em></p>
+
+<p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+
+<h2 id="badges">Badges of Distinction</h2>
+
+<div id="badgearray">
+
+<a href="http://validator.w3.org/"><img src="../images/Valid_XHTML10.png" height="31" width="88" border="0" alt="Valid XHTML 1.0!" /></a>
+    
+<a href="http://www.masonhq.com/"><img src="../images/MadeWithMason.gif" height="41" width="122" border="0" alt="Made With HTML::Mason" /></a>
+
+<a href="http://www.w3.org/Style/CSS/Buttons/"><img src="../images/MWCSS.gif" height="31" width="88" border="0" alt="Made With Cascading Style Sheets" /></a>
+
+<br />
+
+<a href="http://www.anybrowser.org/campaign/"><img src="../images/ContentEnhanced.gif" height="32" width="96" border="0" alt="Best Viewed With Any Browser Campaign" /></a>
+
+<a href="http://www.perl.com/"><img src="../images/PerlRepublicBlue.gif" height="90" width="90" border="0" alt="The Perl Republic Logo" /></a>
+
+<a href="http://www.adobe.com/prodindex/acrobat/readstep.html"><img src="../images/GetAcrobat.gif" height="31" width="88" border="0" alt="Get Adobe Acrobat" /></a>
+
+</div>
+
+
+
+
+<!-- Footer -->
+<div id="footer">
+
+   <a href="http://validator.w3.org/check?uri=http://www.eskimo.com/~c/about/index.html;ss"><img src="../images/Valid_XHTML10.png" height="31" width="88" border="0" alt="Valid XHTML 1.0!" /></a>
+
+   <p>Copyright &copy; 1998&#8211;2002, C.M. Connelly.</p>
+
+   <p>Last modified at  1:43 PM PDT, Monday, September 22, 2003; last rendered at 
+    9:22 PM PST, Sunday, November 30, 2003 with <a href="http://www.masonhq.com/">Mason</a>
+   and <a href="http://www.perl.org/">Perl</a>.</p>
+
+   <p>Please <a href="mailto:c@eskimo.com?Subject=Problem%20with%20/eskimo/about/index.html">e-mail me about problems with this page</a>. Thanks.</p>
+
+
+</div> <!-- End Footer -->
+
+   <p class="arrow">
+<a href="#top"><img src="../images/scrollup.gif" height="11" width="9" border="0" alt="Return to Top of Page" /></a>
+</p>
+
+
+</div> <!-- End Content -->
+
+
+</body>
+</html>

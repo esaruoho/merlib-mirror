@@ -1,0 +1,40 @@
+Question 10.16 
+
+ Question 10.16 
+ How can I use a preprocessor #if expression to
+tell
+if a machine
+is big-endian or little-endian?
+
+ You probably can't.
+(Preprocessor
+arithmetic uses only long integers,
+and
+
+there is no concept of
+
+addressing.
+)
+Are you sure you need to know the machine's endianness
+explicitly?
+Usually it's better to write code which doesn't care
+).
+See also question 20.9 .
+
+ References:
+
+ANSI Sec. 3.8.1
+
+ISO Sec. 6.8.1
+
+H&S Sec. 7.11.1 p. 225
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

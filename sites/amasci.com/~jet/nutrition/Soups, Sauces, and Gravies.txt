@@ -1,0 +1,723 @@
+Food quantity grams cals protein fat carbs fiber sugars Soup, cream of asparagus, canned, condensed, commercial cup (8 fl oz) 251 173.19 4.57 8.18 21.39 1.00 1.61
+ Soup, cream of asparagus, canned, condensed, commercial can (10.75 oz) 305 210.45 5.55 9.94 25.99 1.22 1.95
+ Soup, black bean, canned, condensed, commercial cup (8 fl oz) 257 233.87 12.41 3.39 39.63 17.48 0.64
+ Soup, black bean, canned, condensed, commercial can (11 oz), undiluted 312 283.92 15.07 4.12 48.11 21.22 0.78
+ Soup, bean with pork, canned, condensed, commercial cup (8 fl oz) 269 347.01 15.82 11.89 45.65 15.87 7.10
+ Soup, bean with pork, canned, condensed, commercial can (11.5 oz) 326 420.54 19.17 14.41 55.32 19.23 8.61
+ Soup, bean with frankfurters, canned, condensed, commercial cup (8 fl oz) 263 373.46 19.99 13.97 44.05 12.10
+ Soup, bean with frankfurters, canned, condensed, commercial can (11.25 oz) 319 452.98 24.24 16.94 53.43 14.67
+ Soup, bean with ham, canned, chunky, ready-to-serve, commercial cup (8 fl oz) 243 230.85 12.61 8.51 27.12 11.18
+ Soup, bean with ham, canned, chunky, ready-to-serve, commercial can (19.25 oz), ready -to-serve 546 518.70 28.34 19.11 60.93 25.12
+ Soup, beef broth or bouillon canned, ready-to-serve cup 240 16.80 2.74 0.53 0.10 0.00 0.00
+ Soup, beef broth or bouillon canned, ready-to-serve can (10.5 oz), prepared 586 41.02 6.68 1.29 0.23 0.00 0.00
+ Soup, beef broth or bouillon canned, ready-to-serve can (14 oz), ready-to-serve 397 27.79 4.53 0.87 0.16 0.00 0.00
+ Soup, beef noodle, canned, condensed, commercial cup 251 168.17 9.66 6.17 17.97 1.51 4.82
+ Soup, beef noodle, canned, condensed, commercial cup (8 fl oz) 251 168.17 9.66 6.17 17.97 1.51 4.82
+ Soup, beef noodle, canned, condensed, commercial can (10.75 oz) 305 204.35 11.74 7.50 21.84 1.83 5.86
+ Soup, cream of celery, canned, condensed, commercial cup 251 180.72 3.31 11.19 17.65 1.51 3.39
+ Soup, cream of celery, canned, condensed, commercial can (10.75 oz) 305 219.60 4.03 13.60 21.44 1.83 4.12
+ Soup, cheese, canned, condensed, commercial cup 257 310.97 10.85 20.95 21.05 2.06 1.85
+ Food quantity grams cals protein fat carbs fiber sugars Soup, cheese, canned, condensed, commercial can (11 oz), undiluted 312 377.52 13.17 25.43 25.55 2.50 2.25
+ Soup, chicken with dumplings, canned, condensed, commercial cup (8 fl oz) 246 194.34 11.27 11.09 12.13 0.98 0.34
+ Soup, chicken with dumplings, canned, condensed, commercial can (10.5 oz) 298 235.42 13.65 13.44 14.69 1.19 0.42
+ Soup, chicken broth, canned, condensed, commercial cup (8 fl oz) 251 77.81 11.09 2.61 1.88 0.00 0.00
+ Soup, chicken broth, canned, condensed, commercial fl oz 31.4 9.73 1.39 0.33 0.24 0.00 0.00
+ Soup, chicken broth, canned, condensed, commercial can (10.75 oz) 305 94.55 13.48 3.17 2.29 0.00 0.00
+ Soup, chicken, canned, chunky, ready-to-serve, commercial cup 240 170.40 12.14 6.34 16.51 1.44 1.27
+ Soup, chicken, canned, chunky, ready-to-serve, commercial cup (8 fl oz) 251 178.21 12.70 6.63 17.27 1.51 1.33
+ Soup, chicken, canned, chunky, ready-to-serve, commercial can (10.75 oz) 305 216.55 15.43 8.05 20.98 1.83 1.62
+ Soup, chicken, canned, chunky, ready-to-serve, commercial can (19 oz), ready-to-serve 539 382.69 27.27 14.23 37.08 3.23 2.86
+ Soup, cream of chicken, canned, condensed, commercial cup 251 233.43 6.85 14.71 18.52 0.50 0.08
+ Soup, cream of chicken, canned, condensed, commercial can (10.75 oz) 305 283.65 8.33 17.87 22.51 0.61 0.09
+ Soup, chicken gumbo, canned, condensed, commercial cup (8 fl oz) 251 112.95 5.27 2.86 16.74 4.02 4.84
+ Soup, chicken gumbo, canned, condensed, commercial can (10.75 oz) 305 137.25 6.41 3.48 20.34 4.88 5.89
+ Soup, chicken noodle, canned, chunky, ready-to-serve cup 240 175.20 12.72 6.00 17.04 3.84 0.53
+ Soup, chicken noodle, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 393.47 28.57 13.47 38.27 8.62 1.19
+ Soup, chicken noodle, canned, condensed, commercial cup 246 150.06 7.95 4.55 18.75 1.48 0.20
+ Soup, chicken noodle, canned, condensed, commercial cup (8 fl oz) 246 150.06 7.95 4.55 18.75 1.48 0.20
+ Soup, chicken noodle, canned, condensed, commercial can (10.5 oz) 298 181.78 9.63 5.51 22.71 1.79 0.24
+ Soup, chicken noodle, with meatballs, canned, chunky, ready-to-serve cup (8 fl oz) 248 99.20 8.11 3.57 8.36
+ Food quantity grams cals protein fat carbs fiber sugars Soup, chicken noodle, with meatballs, canned, chunky, ready-to-serve can (20 oz) 567 226.80 18.54 8.16 19.11
+ Soup, chicken rice, canned, chunky, ready-to-serve cup 240 127.20 12.26 3.19 12.98 0.96 2.02
+ Soup, chicken rice, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 285.67 27.54 7.17 29.16 2.16 4.53
+ Soup, chicken with rice, canned, condensed, commercial cup 246 120.54 7.11 3.84 14.37 1.23 0.20
+ Soup, chicken with rice, canned, condensed, commercial can (10.5 oz) 298 146.02 8.61 4.65 17.40 1.49 0.24
+ Soup, chicken vegetable, canned, chunky, ready-to-serve cup (8 fl oz) 240 165.60 12.31 4.82 18.89
+ Soup, chicken vegetable, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 371.91 27.65 10.83 42.42
+ Soup, chicken vegetable, canned, condensed, commercial cup (8 fl oz) 246 150.06 7.23 5.71 17.24 1.72 2.83
+ Soup, chicken vegetable, canned, condensed, commercial fl oz 30.8 18.79 0.91 0.71 2.16 0.22 0.35
+ Soup, chicken vegetable, canned, condensed, commercial can (10.5 oz) 298 181.78 8.76 6.91 20.89 2.09 3.43
+ Soup, chili beef, canned, condensed, commercial cup (8 fl oz) 263 339.27 13.39 13.23 42.95 19.20 2.87
+ Soup, chili beef, canned, condensed, commercial can (11.25 oz) 319 411.51 16.24 16.05 52.09 23.29 3.48
+ Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve cup (8 fl oz) 240 134.40 7.25 3.38 18.82 2.88 4.01
+ Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve fl oz 30.0 16.80 0.91 0.42 2.35 0.36 0.50
+ Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 301.84 16.28 7.60 42.26 6.47 9.00
+ Soup, clam chowder, manhattan, canned, condensed, commercial cup (8 fl oz) 251 153.11 4.37 4.42 24.45 3.01 6.78
+ Soup, clam chowder, manhattan, canned, condensed, commercial can (10.75 oz) 305 186.05 5.31 5.37 29.71 3.66 8.23
+ Soup, clam chowder, new england, canned, condensed, commercial cup (8 fl oz) 251 175.70 10.87 5.02 21.81 1.51 0.20
+ Soup, clam chowder, new england, canned, condensed, commercial can (10.75 oz) 305 213.50 13.21 6.10 26.50 1.83 0.24
+ Soup, LIPTON, KETTLE CREATIONS PASTA & BEAN, Mix, Dry serving 35 125.30 5.72 1.35 22.85 4.38 1.81
+ Food quantity grams cals protein fat carbs fiber sugars Soup, beef broth bouillon and consomme, canned, condensed, commercial cup (8 fl oz) 246 59.04 10.75 0.00 3.54 0.00 0.00
+ Soup, beef broth bouillon and consomme, canned, condensed, commercial can (10.5 oz) 298 71.52 13.02 0.00 4.29 0.00 0.00
+ Soup, LIPTON, RECIPE SECRETS ONION, Mix, Dry serving 7.0 18.41 0.46 0.13 4.31 0.41 0.32
+ Soup, crab, canned, ready-to-serve cup (8 fl oz) 244 75.64 5.49 1.51 10.30 0.73
+ Soup, crab, canned, ready-to-serve can (13 oz) 369 114.39 8.30 2.29 15.57 1.11
+ Soup, escarole, canned, ready-to-serve cup (8 fl oz) 248 27.28 1.54 1.81 1.79
+ Soup, escarole, canned, ready-to-serve can (19.5 oz) 553 60.83 3.43 4.04 3.98
+ Soup, gazpacho, canned, ready-to-serve cup 244 46.36 7.08 0.24 4.39 0.49 2.17
+ Soup, gazpacho, canned, ready-to-serve can (13 oz) 369 70.11 10.70 0.37 6.64 0.74 3.28
+ Soup, lentil with ham, canned, ready-to-serve cup (8 fl oz) 248 138.88 9.28 2.78 20.24
+ Soup, lentil with ham, canned, ready-to-serve can (20 oz) 567 317.52 21.21 6.35 46.27
+ Soup, minestrone, canned, chunky, ready-to-serve cup 240 127.20 5.11 2.81 20.74 5.76 4.58
+ Soup, minestrone, canned, chunky, ready-to-serve can (19 oz) 539 285.67 11.48 6.31 46.57 12.94 10.29
+ Soup, minestrone, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 285.67 11.48 6.31 46.57 12.94 10.29
+ Soup, minestrone, canned, condensed, commercial cup (8 fl oz) 246 167.28 8.56 5.04 22.56 1.97 3.69
+ Soup, minestrone, canned, condensed, commercial can (10.5 oz) 298 202.64 10.37 6.11 27.33 2.38 4.47
+ Soup, mushroom barley, canned, condensed, commercial cup (8 fl oz) 251 153.11 3.76 4.52 24.10
+ Soup, mushroom barley, canned, condensed, commercial can (10.75 oz) 305 186.05 4.57 5.49 29.28
+ Soup, cream of mushroom, canned, condensed, commercial cup 251 258.53 4.04 19.00 18.57 0.75 2.48
+ Soup, cream of mushroom, canned, condensed, commercial cup (8 fl oz) 251 258.53 4.04 19.00 18.57 0.75 2.48
+ Food quantity grams cals protein fat carbs fiber sugars Soup, cream of mushroom, canned, condensed, commercial can (10.75 oz) 305 314.15 4.91 23.09 22.57 0.91 3.02
+ Soup, mushroom with beef stock, canned, condensed, commercial cup (8 fl oz) 251 170.68 6.30 8.06 18.60 0.25 5.40
+ Soup, mushroom with beef stock, canned, condensed, commercial can (10.75 oz) 305 207.40 7.66 9.79 22.60 0.30 6.56
+ Soup, mushroom with beef stock, canned, condensed, commercial cup 126 85.68 3.16 4.04 9.34 0.13 2.71
+ Soup, onion, canned, condensed, commercial cup (8 fl oz) 246 113.16 7.53 3.49 16.43 1.72 2.58
+ Soup, onion, canned, condensed, commercial can (10.5 oz) 298 137.08 9.12 4.23 19.91 2.09 3.13
+ Soup, cream of onion, canned, condensed, commercial cup 251 220.88 5.52 10.54 26.10 1.00 9.14
+ Soup, cream of onion, canned, condensed, commercial can (10.75 oz) 305 268.40 6.71 12.81 31.72 1.22 11.10
+ Soup, oyster stew, canned, condensed, commercial cup (8 fl oz) 246 118.08 4.23 7.70 8.17 0.00
+ Soup, oyster stew, canned, condensed, commercial can (10.5 oz) 298 143.04 5.13 9.33 9.89 0.00
+ Soup, pea, green, canned, condensed, commercial cup (8 fl oz) 263 328.75 17.20 5.86 53.07 5.79 0.03
+ Soup, pea, green, canned, condensed, commercial can (11.25 oz) 319 398.75 20.86 7.11 64.37 7.02 0.03
+ Soup, pea, split with ham, canned, chunky, ready-to-serve cup 240 184.80 11.09 3.98 26.81 4.08 4.49
+ Soup, pea, split with ham, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 415.03 24.90 8.95 60.21 9.16 10.08
+ Soup, pea, split with ham, canned, condensed, commercial cup (8 fl oz) 269 379.29 20.66 8.82 55.98 4.57
+ Soup, pea, split with ham, canned, condensed, commercial can (11.5 oz) 326 459.66 25.04 10.69 67.84 5.54
+ Soup, pepperpot, canned, condensed, commercial cup (8 fl oz) 246 206.64 12.77 9.30 18.84 0.98
+ Soup, pepperpot, canned, condensed, commercial can (10.5 oz) 298 250.32 15.47 11.26 22.83 1.19
+ Soup, cream of potato, canned, condensed cup (8 fl oz) 251 148.09 3.49 4.72 22.94 1.00 4.24
+ Soup, cream of potato, canned, condensed can (10.75 oz) 305 179.95 4.24 5.73 27.88 1.22 5.15
+ Food quantity grams cals protein fat carbs fiber sugars Soup, scotch broth, canned, condensed, commercial cup (8 fl oz) 246 162.36 9.96 5.26 19.02 2.46
+ Soup, scotch broth, canned, condensed, commercial can (10.5 oz) 298 196.68 12.07 6.38 23.04 2.98
+ Soup, cream of shrimp, canned, condensed cup (8 fl oz) 251 180.72 5.57 10.39 16.39 0.50
+ Soup, cream of shrimp, canned, condensed can (10.75 oz) 305 219.60 6.77 12.63 19.92 0.61
+ Soup, CAMPBELL'S Chicken Noodle, canned, condensed can (10.75 oz) 305 155.55 7.93 4.57 21.04 1.83
+ Soup, stockpot, canned, condensed, commercial cup (8 fl oz) 257 200.46 9.74 7.81 23.00
+ Soup, stockpot, canned, condensed, commercial can (11 oz), undiluted 312 243.36 11.82 9.48 27.92
+ Soup, tomato beef with noodle, canned, condensed, commercial cup (8 fl oz) 251 281.12 8.91 8.58 42.34 3.01
+ Soup, tomato beef with noodle, canned, condensed, commercial can (10.75 oz) 305 341.60 10.83 10.43 51.45 3.66
+ Soup, tomato rice, canned, condensed, commercial cup (8 fl oz) 257 239.01 4.21 5.45 43.90 3.34 20.69
+ Soup, tomato rice, canned, condensed, commercial can (11 oz), undiluted 312 290.16 5.12 6.61 53.29 4.06 25.12
+ Soup, turkey, chunky, ready-to-serve cup (8 fl oz) 236 134.52 10.22 4.41 14.07
+ Soup, turkey, chunky, ready-to-serve can (18.75 oz), ready-to-serve 532 303.24 23.04 9.95 31.71
+ Soup, turkey noodle, canned, condensed, commercial cup (8 fl oz) 251 138.05 7.81 3.99 17.27 1.51 0.75
+ Soup, turkey noodle, canned, condensed, commercial can (10.75 oz) 305 167.75 9.49 4.85 20.98 1.83 0.91
+ Soup, turkey vegetable, canned, condensed, commercial cup (8 fl oz) 246 147.60 6.20 6.08 17.34 1.23 3.35
+ Soup, turkey vegetable, canned, condensed, commercial fl oz 30.8 18.48 0.78 0.76 2.17 0.15 0.42
+ Soup, turkey vegetable, canned, condensed, commercial can (10.5 oz) 298 178.80 7.51 7.36 21.01 1.49 4.05
+ Soup, vegetable, canned, chunky, ready-to-serve, commercial cup 240 122.40 3.50 3.70 19.01 1.20 4.39
+ Soup, vegetable, canned, chunky, ready-to-serve, commercial can (19 oz), ready-to-serve 539 274.89 7.87 8.30 42.69 2.69 9.86
+ Food quantity grams cals protein fat carbs fiber sugars Soup, vegetarian vegetable, canned, condensed, commercial cup 246 145.14 4.23 3.89 24.06 1.23 9.50
+ Soup, vegetarian vegetable, canned, condensed, commercial can (10.5 oz) 298 175.82 5.13 4.71 29.14 1.49 11.50
+ Soup, beef, canned, chunky, ready-to-serve cup 240 170.40 11.74 5.14 19.56 1.44 1.61
+ Soup, beef, canned, chunky, ready-to-serve can (19 oz), ready-to-serve 539 382.69 26.36 11.53 43.93 3.23 3.61
+ Soup, vegetable beef, canned, condensed, commercial cup 251 158.13 11.17 3.79 20.36 4.02 3.36
+ Soup, vegetable beef, canned, condensed, commercial can (10.75 oz) 305 192.15 13.57 4.61 24.74 4.88 4.09
+ Soup, vegetable with beef broth, canned, condensed, commercial cup 246 162.36 5.95 3.84 26.32 3.20 2.02
+ Soup, vegetable with beef broth, canned, condensed, commercial can (10.5 oz) 298 196.68 7.21 4.65 31.89 3.87 2.44
+ Soup, cream of asparagus, dehydrated, dry mix cup 14.2 51.97 1.95 1.53 7.92 0.34
+ Soup, cream of asparagus, dehydrated, dry mix packet 64 234.24 8.80 6.91 35.68 1.54
+ Soup, bean with bacon, dehydrated, dry mix cup (8 fl oz) 28 103.60 5.43 2.13 16.16 8.62
+ Soup, beef broth or bouillon, powder, dry cup (8 fl oz) 8.0 19.04 1.28 0.71 1.89 0.00 0.03
+ Soup, beef broth or bouillon, powder, dry cube 3.6 8.57 0.57 0.32 0.85 0.00 0.01
+ Soup, beef broth or bouillon, powder, dry packet 6.0 14.28 0.96 0.53 1.42 0.00 0.02
+ Soup, beef broth or bouillon, powder, dry portion, amount of dry mix to make 8 fl oz prepared 8.0 19.04 1.28 0.71 1.89 0.00 0.03
+ Soup, beef broth, cubed, dry portion, amount of dry mix to make 8 fl oz prepared 4.8 8.16 0.83 0.19 0.77 0.00 0.00
+ Soup, beef broth, cubed, dry cube (6 fl oz prepared) 3.6 6.12 0.62 0.14 0.58 0.00 0.00
+ Soup, beef noodle mix, dehydrated, dry form cup (8 fl oz) 14.2 46.86 2.55 0.91 6.91 0.38 0.33
+ Soup, beef noodle mix, dehydrated, dry form packet 9.2 30.36 1.65 0.59 4.47 0.25 0.21
+ Soup, cauliflower, dehydrated, dry mix cup (8 fl oz) 19 68.40 2.91 1.73 10.75
+ Food quantity grams cals protein fat carbs fiber sugars Soup, cream of celery, dehydrated, dry cup (8 fl oz) 17 60.86 2.55 1.58 9.50 0.46
+ Soup, chicken broth or bouillon, dehydrated, dry cup (8 fl oz) 8.0 21.36 1.33 1.11 1.44 0.00 0.00
+ Soup, chicken broth or bouillon, dehydrated, dry tsp 2.0 5.34 0.33 0.28 0.36 0.00 0.00
+ Soup, chicken broth or bouillon, dehydrated, dry cube 4.0 10.68 0.67 0.56 0.72 0.00 0.00
+ Soup, chicken broth or bouillon, dehydrated, dry packet (6 fl oz prepared) 6.0 16.02 1.00 0.83 1.08 0.00 0.00
+ Soup, chicken broth or bouillon, dehydrated, dry portion, amount of dry mix to make 8 fl oz prepared 8.0 21.36 1.33 1.11 1.44 0.00 0.00
+ Soup, chicken broth cubes, dehydrated, dry cup (8 fl oz) 6.4 12.67 0.93 0.30 1.50 0.00 0.00
+ Soup, chicken broth cubes, dehydrated, dry cube 4.8 9.50 0.70 0.23 1.13 0.00 0.00
+ Soup, cream of chicken, dehydrated, dry cup (8 fl oz) 24 104.64 1.74 5.20 13.04 0.43
+ Soup, cream of chicken, dehydrated, dry packet 18 78.48 1.30 3.90 9.78 0.32
+ Soup, chicken rice mix, dehydrated, dry form cup (8 fl oz) 16 59.04 2.41 1.42 9.13 0.29
+ Soup, chicken vegetable, dehydrated, dry cup 14.1 48.79 2.68 0.79 7.76 0.42
+ Soup, chicken vegetable, dehydrated, dry packet 10.6 36.68 2.01 0.59 5.83 0.32
+ Soup, clam chowder, manhattan style, dehydrated, dry cup (8 fl oz) 19 65.55 2.08 1.56 10.92
+ Soup, clam chowder, new england, dehydrated, dry cup (8 fl oz) 23 96.14 2.83 3.72 13.05 1.24
+ Soup, consomme with gelatin, dehydrated, dry cup 12.6 17.26 2.17 0.01 2.05 0.00
+ Soup, consomme with gelatin, dehydrated, dry packet 57 78.09 9.80 0.06 9.29 0.00
+ Soup, leek, dehydrated, dry cup (8 fl oz) 17 64.09 1.91 1.85 10.33 0.61
+ Soup, leek, dehydrated, dry packet 78 294.06 8.78 8.50 47.41 2.81
+ Soup, minestrone, dehydrated, dry cup (8 fl oz) 17 60.86 3.40 1.33 9.11 0.61
+ Food quantity grams cals protein fat carbs fiber sugars Soup, minestrone, dehydrated, dry packet 78 279.24 15.60 6.08 41.81 2.81
+ Soup, mushroom, dehydrated, dry packet, regular 74 326.34 7.53 16.53 37.87 2.59
+ Soup, mushroom, dehydrated, dry packet, instant 17 74.97 1.73 3.80 8.70 0.60
+ Soup, onion mix, dehydrated, dry form packet 39 114.66 4.52 2.33 20.87 4.06 5.11
+ Soup, onion mix, dehydrated, dry form packet (6 fl oz prepared) 7.1 20.87 0.82 0.42 3.80 0.74 0.93
+ Soup, oxtail, dehydrated, dry cup (8 fl oz) 17 64.09 2.55 2.31 8.14 0.15
+ Soup, oxtail, dehydrated, dry packet 74 278.98 11.10 10.06 35.45 0.67
+ Soup, pea, green, mix, dehydrated, dry form packet 113 402.28 23.15 4.78 68.57 11.30
+ Soup, pea, green, mix, dehydrated, dry form packet (6 fl oz) 28 99.68 5.74 1.18 16.99 2.80
+ Soup, tomato, dehydrated, dry cup (8 fl oz) 23 82.80 1.98 1.92 15.71 0.44
+ Soup, tomato, dehydrated, dry packet (6 fl oz) 21 75.60 1.81 1.75 14.34 0.40
+ Soup, tomato vegetable mix, dehydrated, dry form cup (8 fl oz) 19 61.75 2.23 0.97 11.38 0.57 0.63
+ Soup, tomato vegetable mix, dehydrated, dry form tbsp 1.2 3.90 0.14 0.06 0.72 0.04 0.04
+ Soup, tomato vegetable mix, dehydrated, dry form packet 39 126.75 4.57 1.99 23.36 1.17 1.29
+ Soup, tomato vegetable mix, dehydrated, dry form portion, amount of dry mix to make 8 fl oz prepared 19 61.75 2.23 0.97 11.38 0.57 0.63
+ Soup, vegetable beef, dehydrated, dry cup (8 fl oz) 17 58.48 3.21 1.22 8.80 0.31
+ Soup, vegetable beef, dehydrated, dry packet 74 254.56 13.99 5.33 38.29 1.33
+ Soup, cream of vegetable, dehydrated, dry cup (8 fl oz) 24 107.04 1.92 5.78 12.50 0.72 2.24
+ Soup, cream of vegetable, dehydrated, dry packet (6 fl oz prepared) 18 80.28 1.44 4.34 9.38 0.54 1.68
+ Soup, cream of vegetable, dehydrated, dry portion, amount of dry mix to make 8 fl oz prepared 24 107.04 1.92 5.78 12.50 0.72 2.24
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, bearnaise, dehydrated, dry cup (8 fl oz) 17 61.54 2.39 1.53 10.16
+ Sauce, bearnaise, dehydrated, dry packet 25 90.50 3.52 2.25 14.94
+ Sauce, cheese, dehydrated, dry packet 35 156.80 7.94 8.90 11.78 0.39 10.28
+ Sauce, curry, dehydrated, dry cup (8 fl oz) 28 119.56 2.63 6.47 14.17
+ Sauce, curry, dehydrated, dry packet 35 149.45 3.28 8.09 17.72
+ Sauce, mushroom, dehydrated, dry cup (8 fl oz) 23 80.27 3.31 2.19 12.59
+ Sauce, mushroom, dehydrated, dry packet 28 97.72 4.03 2.66 15.32
+ Sauce, spaghetti, dehydrated, dry packet 42 118.02 2.52 0.42 26.99 1.26
+ Sauce, spaghetti, dehydrated, dry serving 10.0 28.10 0.60 0.10 6.43 0.30
+ Sauce, spaghetti with mushrooms, dehydrated, dry packet 39 118.56 3.90 3.51 19.11
+ Sauce, spaghetti with mushrooms, dehydrated, dry serving 10.0 30.40 1.00 0.90 4.90
+ Sauce, stroganoff, dehydrated, dry cup (8 fl oz) 56 196.56 6.78 5.34 32.29 0.62
+ Sauce, stroganoff, dehydrated, dry packet 46 161.46 5.57 4.38 26.52 0.51
+ Sauce, sweet and sour, dehydrated, dry cup (8 fl oz) 76 295.64 0.76 0.08 73.06 1.44
+ Sauce, sweet and sour, dehydrated, dry packet 57 221.73 0.57 0.06 54.79 1.08
+ Sauce, teriyaki, dehydrated, dry packet 46 130.18 4.14 0.92 27.60 0.87
+ Sauce, teriyaki, ready-to-serve cup 288 241.92 17.08 0.00 45.94 0.29 28.25
+ Sauce, teriyaki, ready-to-serve tbsp 18 15.12 1.07 0.00 2.87 0.02 1.77
+ Sauce, teriyaki, ready-to-serve fl oz 36.0 30.24 2.13 0.00 5.74 0.04 3.53
+ Sauce, white, dehydrated, dry cup (8 fl oz) 20 92.60 2.19 5.34 10.11 0.56
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, white, dehydrated, dry packet 50 231.50 5.47 13.35 25.28 1.40
+ Gravy, au jus, canned cup 238 38.08 2.86 0.48 5.95 0.00
+ Gravy, au jus, canned can 298 47.68 3.58 0.60 7.45 0.00
+ Gravy, au jus, dry tsp 3.0 9.39 0.28 0.29 1.42
+ Gravy, beef, canned cup 233 123.49 8.74 5.50 11.21 0.93 0.02
+ Gravy, beef, canned can 291 154.23 10.91 6.87 14.00 1.16 0.03
+ Gravy, brown, dry tbsp 6.0 22.02 0.64 0.58 3.56 0.12
+ Gravy, chicken, canned cup 238 188.02 4.59 13.59 12.90 0.95 0.19
+ Gravy, chicken, canned can 298 235.42 5.75 17.02 16.15 1.19 0.24
+ Gravy, chicken, dry tbsp 8.0 30.48 0.90 0.78 4.97
+ Gravy, chicken, dry serving 8.0 30.48 0.90 0.78 4.97
+ Gravy, mushroom, canned cup 238 119.00 3.00 6.45 13.02 0.95
+ Gravy, mushroom, canned can 298 149.00 3.75 8.08 16.30 1.19
+ Gravy, mushroom, dehydrated, dry cup (8 fl oz) 21 68.88 2.10 0.84 13.58 1.01 1.14
+ Gravy, onion, dehydrated, dry cup (8 fl oz) 24 77.28 2.16 0.72 16.23 1.44
+ Gravy, pork, dry serving 6.7 24.59 0.59 0.58 4.26 0.16 1.66
+ Gravy, turkey, canned cup 238 121.38 6.19 5.00 12.14 0.95 0.50
+ Gravy, turkey, canned tbsp 14.9 7.60 0.39 0.31 0.76 0.06 0.03
+ Gravy, turkey, canned tsp 5.0 2.55 0.13 0.11 0.26 0.02 0.01
+ Gravy, turkey, canned can 298 151.98 7.75 6.26 15.20 1.19 0.63
+ Food quantity grams cals protein fat carbs fiber sugars Gravy, turkey, dry serving 7.0 25.69 0.73 0.50 4.56
+ Gravy, unspecified type, dry cup (8 fl oz) 25 86.00 3.25 2.00 14.50
+ Soup, chicken noodle mix, dehydrated, dry form packet 74 284.90 10.27 6.70 44.73 1.63 0.36
+ Soup, chicken noodle mix, dehydrated, dry form packet (6 fl oz) 11.1 42.73 1.54 1.00 6.71 0.24 0.05
+ Sauce, NESTLE, LJ MINOR Teriyaki Sauce, ready-to-serve tbsp 16 20.80 0.15 0.58 3.74 0.00 2.79
+ Sauce, NESTLE, LJ MINOR Teriyaki Sauce, ready-to-serve package 2070 2691.00 19.25 75.14 483.76 0.00 360.80
+ Sauce, NESTLE, LJ MINOR Teriyaki Sauce, ready-to-serve serving 16 20.80 0.15 0.58 3.74 0.00 2.79
+ Sauce, NESTLE, LJ MINOR All Purpose Stir Fry Sauce, ready-to-serve tbsp 15.0 16.20 0.23 0.65 2.35 0.00 0.94
+ Sauce, NESTLE, LJ MINOR All Purpose Stir Fry Sauce, ready-to-serve package 2013 2174.04 30.80 87.16 315.24 0.00 125.61
+ Sauce, NESTLE, LJ MINOR All Purpose Stir Fry Sauce, ready-to-serve serving 15.0 16.20 0.23 0.65 2.35 0.00 0.94
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Glaze, ready-to-serve package 2183 3449.14 10.04 1.53 849.84 2.18 568.02
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Glaze, ready-to-serve serving 32 50.56 0.15 0.02 12.46 0.03 8.33
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Glaze, ready-to-serve tbsp 32 50.56 0.15 0.02 12.46 0.03 8.33
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Sauce, ready-to-serve package 2041 2490.02 9.80 48.58 505.96 16.33 425.14
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Sauce, ready-to-serve serving 33 40.26 0.16 0.79 8.18 0.26 6.87
+ Sauce, NESTLE, LJ MINOR Sweet N' Sour Sauce, ready-to-serve tbsp 33 40.26 0.16 0.79 8.18 0.26 6.87
+ Sauce, mole poblano, prepared from recipe cup, sauce 242 396.88 8.57 26.50 31.31 10.16
+ Sauce, mole poblano, prepared from recipe cup 125 205.00 4.42 13.69 16.18 5.25
+ Sauce, mole poblano, dry mix, single brand cup, sauce 265 1513.15 19.82 110.19 110.51 26.76
+ Sauce, mole poblano, dry mix, single brand cup 127 725.17 9.50 52.81 52.96 12.83
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, LA VICTORIA, LA VICTORIA Chunky Chili Dip, salsa, canned tbsp 30 9.30 0.24 0.05 1.96 0.15
+ Sauce, RIDG'S, BULLS-EYE Original Barbecue Sauce tbsp 36 63.00 0.43 0.07 15.16 0.00 11.48
+ Sauce, MARZETTI, TEXAS BEST Barbecue Sauce Original Recipe tbsp 32 41.92 0.65 2.66 4.04 0.00 2.79
+ Sauce, sofrito, prepared from recipe tbsp 14.9 35.31 1.91 2.71 0.81 0.25
+ Sauce, sofrito, prepared from recipe cup 103 244.11 13.18 18.75 5.62 1.75
+ Soup, beef mushroom, canned, condensed, commercial cup (8 fl oz) 251 153.11 11.55 6.02 13.05 0.50
+ Soup, beef mushroom, canned, condensed, commercial can (10.75 oz) 305 186.05 14.03 7.32 15.86 0.61
+ Sauce, sour cream, dehydrated, dry cup (8 fl oz) 70 358.40 10.99 21.98 33.82
+ Sauce, sour cream, dehydrated, dry packet 35 179.20 5.49 10.99 16.91
+ Soup, chicken mushroom, canned, condensed, commercial cup (8 fl oz) 251 273.59 8.79 18.32 19.08 0.50 1.98
+ Soup, chicken mushroom, canned, condensed, commercial can (10.75 oz) 305 332.45 10.67 22.26 23.18 0.61 2.41
+ Sauce, barbecue sauce cup (8 fl oz) 250 187.50 4.50 4.50 32.00 3.00 20.80
+ Sauce, barbecue sauce packet 9.3 6.98 0.17 0.17 1.19 0.11 0.77
+ Sauce, plum, ready-to-serve cup 305 561.20 2.71 3.17 130.57 2.13
+ Sauce, plum, ready-to-serve tbsp 19 34.96 0.17 0.20 8.13 0.13
+ Sauce, NESTLE, ORTEGA Enchilada Sauce, ready-to-serve package 3855 1927.50 55.90 76.33 258.67 38.55 22.36
+ Sauce, NESTLE, ORTEGA Enchilada Sauce, ready-to-serve serving 30 15.00 0.43 0.59 2.01 0.30 0.17
+ Sauce, NESTLE, ORTEGA Enchilada Sauce, ready-to-serve tbsp 30 15.00 0.43 0.59 2.01 0.30 0.17
+ Sauce, hollandaise, with vegetable oil, dehydrated, dry cup (8 fl oz) 17 63.58 2.34 1.58 10.62 0.19
+ Sauce, hollandaise, with vegetable oil, dehydrated, dry packet 25 93.50 3.44 2.33 15.61 0.28
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, hollandaise, with butter fat, dehydrated, dry cup (8 fl oz) 45 249.30 4.95 20.72 14.45 0.50
+ Sauce, hollandaise, with butter fat, dehydrated, dry packet 34 188.36 3.74 15.65 10.91 0.37
+ Sauce, NESTLE, CHEF-MATE Hot Dog Chili Sauce, ready-to-serve package 3062 3368.20 130.75 115.74 448.58 82.67 53.89
+ Sauce, NESTLE, CHEF-MATE Hot Dog Chili Sauce, ready-to-serve serving 63 69.30 2.69 2.38 9.23 1.70 1.11
+ Sauce, NESTLE, CHEF-MATE Hot Dog Chili Sauce, ready-to-serve cup 63 69.30 2.69 2.38 9.23 1.70 1.11
+ Sauce, NESTLE, ORTEGA Picante Sauce, ready-to-serve package 3855 1310.70 47.03 8.87 256.74 0.00 30.07
+ Sauce, NESTLE, ORTEGA Picante Sauce, ready-to-serve serving 30 10.20 0.37 0.07 2.00 0.00 0.23
+ Sauce, NESTLE, ORTEGA Picante Sauce, ready-to-serve tbsp 30 10.20 0.37 0.07 2.00 0.00 0.23
+ Soup, tomato bisque, canned, condensed, commercial cup (8 fl oz) 257 246.72 4.52 5.01 47.47 2.06
+ Soup, tomato bisque, canned, condensed, commercial can (11 oz), undiluted 312 299.52 5.49 6.08 57.63 2.50
+ Soup, tomato, canned, condensed, commercial cup 251 170.68 4.12 3.84 33.18 1.00 11.27
+ Soup, tomato, canned, condensed, commercial can (10.75 oz) 305 207.40 5.00 4.67 40.32 1.22 13.69
+ Sauce, ready-to-serve, salsa cup 259 72.52 3.29 0.62 16.16 4.14 10.62
+ Sauce, ready-to-serve, salsa tbsp 16 4.48 0.20 0.04 1.00 0.26 0.66
+ Sauce, ready-to-serve, salsa packet 8.9 2.49 0.11 0.02 0.56 0.14 0.36
+ Sauce, ready-to-serve, salsa cup 130 36.40 1.65 0.31 8.11 2.08 5.33
+ Sauce, homemade, white, thin cup 250 262.50 9.43 16.83 18.50 0.25 11.92
+ Sauce, homemade, white, thin cup 125 131.25 4.71 8.41 9.25 0.12 5.96
+ Sauce, homemade, white, medium cup 250 367.50 9.60 26.58 22.93 0.50 10.90
+ Sauce, homemade, white, medium cup 125 183.75 4.80 13.29 11.46 0.25 5.45
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, homemade, white, thick cup 250 465.00 9.98 34.58 29.02 0.75 9.90
+ Sauce, homemade, white, thick cup 125 232.50 4.99 17.29 14.51 0.38 4.95
+ Sauce, ready-to-serve, pepper or hot tsp 4.7 0.52 0.02 0.02 0.08 0.01 0.06
+ Sauce, ready-to-serve, pepper or hot tsp 1.2 0.13 0.01 0.00 0.02 0.00 0.02
+ Sauce, ready-to-serve, pepper, TABASCO tsp 4.7 0.56 0.06 0.04 0.04 0.03
+ Sauce, ready-to-serve, pepper, TABASCO tsp 1.2 0.14 0.02 0.01 0.01 0.01
+ Soup, stock, beef, home-prepared cup 240 31.20 4.73 0.22 2.88 0.00 1.30
+ Soup, stock, chicken, home-prepared cup 240 86.40 6.05 2.88 8.47 0.00 3.79
+ Soup, stock, fish, home-prepared cup 233 39.61 5.27 1.89 0.00 0.00 0.00
+ Sauce, hoisin, ready-to-serve tbsp 16 35.20 0.53 0.54 7.05 0.45 1.07
+ Sauce, oyster, ready-to-serve tbsp 18 9.18 0.24 0.04 1.97 0.05 0.01
+ Sauce, fish, ready-to-serve tbsp 18 6.30 0.91 0.00 0.66 0.00 0.00
+ Sauce, fish, ready-to-serve fl oz 28.4 9.94 1.44 0.00 1.03 0.00 0.00
+ Soup, shark fin, restaurant-prepared cup 216 99.36 6.91 4.32 8.21 0.00
+ Sauce, NESTLE, LJ MINOR Italian Sauce, ready-to-serve cup 128 125.44 2.15 2.43 23.67 1.79 7.17
+ Sauce, NESTLE, LJ MINOR Italian Sauce, ready-to-serve package 1956 1916.88 32.86 37.16 361.66 27.38 109.54
+ Sauce, NESTLE, LJ MINOR Italian Sauce, ready-to-serve serving 62 60.76 1.04 1.18 11.46 0.87 3.47
+ Sauce, NESTLE, LJ MINOR Italian Sauce, ready-to-serve cup 62 60.76 1.04 1.18 11.46 0.87 3.47
+ Soup, cream of mushroom, canned, condensed, reduced sodium cup 251 130.52 3.04 4.24 20.33 1.51 4.42
+ Soup, chicken broth, canned, less/reduced sodium cup 240 16.80 3.26 0.00 0.91 0.00 0.00
+ Food quantity grams cals protein fat carbs fiber sugars Soup, PROGRESSO HEALTHY CLASSICS TOMATO GARDEN, canned, ready-to-serve cup 245 98.00 3.48 0.98 21.76 3.92 5.24
+ Soup, PROGRESSO HEALTHY CLASSICS SPLIT PEA, canned, ready-to-serve cup 253 179.63 9.74 2.33 29.93 4.81 8.83
+ Soup, PROGRESSO HEALTHY CLASSICS GARLIC AND PASTA, canned, ready-to-serve cup 243 99.63 4.40 1.29 20.31 2.92 2.09
+ Soup, PROGRESSO HEALTHY CLASSICS BEEF BARLEY, canned, ready-to-serve cup 241 142.19 11.33 1.93 20.00 3.13
+ Soup, PROGRESSO HEALTHY CLASSICS CHICKEN NOODLE, canned, ready-to-serve cup 237 75.84 5.74 1.64 9.43 1.19
+ Soup, cream of asparagus, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 161.20 6.32 8.18 16.39 0.74
+ Soup, cream of asparagus, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 391.30 15.35 19.87 39.79 1.81
+ Soup, PROGRESSO HEALTHY CLASSICS CHICKEN RICE WITH VEGETABLES, canned, ready-to-serve cup 239 88.43 6.26 1.48 12.50 0.72
+ Soup, PROGRESSO HEALTHY CLASSICS CREAM OF BROCCOLI, canned, ready-to-serve cup 244 87.84 2.37 2.81 13.32 2.44
+ Soup, PROGRESSO HEALTHY CLASSICS LENTIL, canned, ready-to-serve cup 242 125.84 7.79 1.50 20.30 5.57
+ Soup, PROGRESSO HEALTHY CLASSICS NEW ENGLAND CLAM CHOWDER, canned, ready-to-serve cup 244 117.12 5.20 1.98 19.79 1.22
+ Soup, PROGRESSO HEALTHY CLASSICS MINESTRONE, canned, ready-to-serve cup 241 122.91 4.77 2.53 20.34 1.21
+ Soup, PROGRESSO HEALTHY CLASSICS VEGETABLE, canned, ready-to-serve cup 238 80.92 4.19 1.29 13.23 1.43
+ Soup, cream of celery, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 163.68 5.68 9.70 14.53 0.74
+ Soup, cream of celery, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 397.32 13.79 23.54 35.28 1.81
+ Soup, cheese, canned, prepared with equal volume milk, commercial cup 251 230.92 9.46 14.56 16.24 1.00
+ Soup, cheese, canned, prepared with equal volume milk, commercial can (11 oz), prepared 609 560.28 22.96 35.32 39.40 2.44
+ Soup, cream of chicken, prepared with equal volume milk, commercial cup (8 fl oz) 248 190.96 7.46 11.46 14.98 0.25
+ Soup, cream of chicken, prepared with equal volume milk, commercial fl oz 31.0 23.87 0.93 1.43 1.87 0.03
+ Soup, cream of chicken, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 463.54 18.12 27.81 36.36 0.60
+ Food quantity grams cals protein fat carbs fiber sugars Soup, clam chowder, new england, canned, prepared with equal volume milk, commercial cup 248 163.68 9.47 6.60 16.62 1.49 3.87
+ Soup, clam chowder, new england, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 163.68 9.47 6.60 16.62 1.49 3.87
+ Soup, clam chowder, new england, canned, prepared with equal volume milk, commercial fl oz 31.0 20.46 1.18 0.82 2.08 0.19 0.48
+ Soup, clam chowder, new england, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 397.32 23.00 16.01 40.33 3.61 9.39
+ Soup, cream of mushroom, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 203.36 6.05 13.59 15.00 0.50 7.59
+ Soup, cream of mushroom, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 493.64 14.69 32.99 36.42 1.20 18.42
+ Soup, cream of onion, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 186.00 6.80 9.37 18.35 0.74
+ Soup, cream of onion, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 451.50 16.49 22.76 44.55 1.81
+ Soup, oyster stew, canned, prepared with equal volume milk, commercial cup (8 fl oz) 245 134.75 6.15 7.94 9.78 0.00
+ Soup, oyster stew, canned, prepared with equal volume milk, commercial can (10.5 oz), prepared 595 327.25 14.93 19.28 23.74 0.00
+ Soup, pea, green, canned, prepared with equal volume milk, commercial cup (8 fl oz) 254 238.76 12.62 7.04 32.23 2.79
+ Soup, pea, green, canned, prepared with equal volume milk, commercial can (11.25 oz), prepared 616 579.04 30.62 17.06 78.17 6.78
+ Soup, cream of potato, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 148.80 5.78 6.45 17.16 0.50
+ Soup, cream of potato, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 361.20 14.03 15.65 41.66 1.20
+ Soup, cream of shrimp, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 163.68 6.82 9.30 13.91 0.25 5.83
+ Soup, cream of shrimp, canned, prepared with equal volume milk, commercial fl oz 31.0 20.46 0.85 1.16 1.74 0.03 0.73
+ Soup, cream of shrimp, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 397.32 16.55 22.57 33.77 0.60 14.15
+ Sauce, LA VICTORIA, LA VICTORIA Red Taco Sauce, mild tbsp 16 6.72 0.21 0.07 1.31 0.08 0.99
+ Sauce, LA VICTORIA, LA VICTORIA Red Taco Sauce, Medium tbsp 16 6.72 0.21 0.07 1.31 0.10 0.99
+ Sauce, LA VICTORIA, LA VICTORIA Green Taco Sauce, Mild tbsp 15 4.50 0.12 0.05 0.87 0.09 0.36
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, LA VICTORIA, LA VICTORIA Green Taco Sauce, Medium tbsp 15 4.50 0.12 0.05 0.87 0.09 0.36
+ Sauce, LA VICTORIA, Salsa Brava, Hot tbsp 5.0 2.00 0.07 0.06 0.31 0.01 0.17
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Victoria, Hot tbsp 30 7.20 0.28 0.08 1.33 0.21 0.62
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Ranchera, Hot tbsp 30 9.00 0.39 0.09 1.63 0.06 0.79
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Picante, Mild tbsp 30 8.10 0.36 0.09 1.45 0.09 0.89
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Picante, Medium tbsp 30 8.40 0.37 0.10 1.49 0.15 0.91
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Suprema, Mild tbsp 30 8.10 0.24 0.09 1.62 0.18 0.92
+ Sauce, LA VICTORIA, LA VICTORIA Salsa Suprema, Medium tbsp 30 7.80 0.35 0.08 1.40 0.24 0.97
+ Sauce, LA VICTORIA, LA VICTORIA Green Chile Salsa, Mild tbsp 30 7.50 0.39 0.07 1.29 0.12 0.46
+ Sauce, LA VICTORIA, LA VICTORIA Thick 'N Chunky Salsa, Mild tbsp 30 7.80 0.26 0.09 1.46 0.24 1.07
+ Sauce, LA VICTORIA, LA VICTORIA Thick 'N Chunky Salsa, Medium tbsp 30 7.50 0.36 0.10 1.32 0.27 0.94
+ Sauce, LA VICTORIA, LA VICTORIA Thick 'N Chunky Salsa, Hot tbsp 30 8.40 0.46 0.10 1.39 0.15 1.00
+ Sauce, LA VICTORIA, Green Salsa Jalapena tbsp 30 9.60 0.28 0.33 1.41 0.27 0.60
+ Sauce, LA VICTORIA, Red Salsa Jalapena tbsp 30 12.00 0.43 0.18 2.17 0.39 1.19
+ Sauce, LA VICTORIA, LA VICTORIA Enchilada Sauce cup 60 19.80 0.19 0.87 2.77 0.42 0.62
+ Sauce, LA VICTORIA, Mole Poblano oz 57 239.97 8.26 10.34 28.40 9.18 11.01
+ Sauce, LA VICTORIA, Cheddar Cheese Sauce cup 65 104.65 1.21 8.48 5.90 0.00 1.90
+ Sauce, LA VICTORIA, Nacho Cheese Sauce with Jalapeno Peppers, Medium cup 72 122.40 1.31 9.71 7.39 0.22 1.87
+ Soup, LIPTON, SOUP SECRETS EXTRA NOODLE, Mix, Dry serving 23 86.02 3.23 1.56 14.97 0.58 1.50
+ Soup, LIPTON, SOUP SECRETS SPIRAL PASTA SOUP, Mix, Dry serving 18 63.54 2.20 0.88 11.45 0.41 1.55
+ Food quantity grams cals protein fat carbs fiber sugars Soup, LIPTON, SOUP SECRETS CHICKEN NOODLE, Mix, Dry serving 20 77.00 3.46 1.98 11.30 0.40 1.60
+ Soup, LIPTON, SOUP SECRETS RING-O-NOODLE serving 17 65.96 2.20 1.98 9.91 0.36 1.23
+ Soup, LIPTON, SOUP SECRETS GIGGLE NOODLE, Mix, Dry serving 19 73.53 2.52 2.13 11.46 0.42 1.31
+ Soup, LIPTON, SOUP SECRETS NOODLE WITH REAL CHICKEN BROTH, Mix, Dry serving 16 62.08 2.05 1.93 9.18 0.34 1.20
+ Soup, LIPTON, CUP-A-SOUP BROCCOLI & CHEESE, Mix, Dry serving 16 66.88 1.82 2.93 8.90 0.72 2.15
+ Soup, LIPTON, CUP-A-SOUP HEARTY CHICKEN SUPREME, Mix, Dry serving 21 90.09 1.05 3.75 13.62 0.65 2.03
+ Soup, LIPTON, CUP-A-SOUP HEARTY CHICKEN NOODLE, Mix, Dry envelope 16 61.44 2.57 1.17 10.16 0.30 0.19
+ Soup, LIPTON, CUP-A-SOUP CHICKEN NOODLE WITH MEAT serving 100 381.00 15.76 8.02 61.85 2.30 1.58
+ Soup, LIPTON, CUP-A-SOUP CREAM OF CHICKEN, Mix, Dry envelope 17 68.17 0.77 2.18 11.67 0.51 2.04
+ Soup, LIPTON, CUP-A-SOUP CHICKEN FLAVOR VEGETABLE serving 14.0 52.36 1.38 1.04 9.64 0.29 0.40
+ Soup, LIPTON, CUP-A-SOUP RING NOODLE, Mix, Dry serving 14.0 53.34 1.55 1.11 9.34 0.21 0.18
+ Soup, LIPTON, CUP-A-SOUP TOMATO, Mix, Dry envelope 26 95.16 2.30 0.90 19.97 0.57 13.97
+ Soup, LIPTON, CUP-A-SOUP GREEN PEA, Mix, Dry serving 21 75.18 4.45 1.13 12.31 3.13 0.88
+ Soup, LIPTON, CUP-A-SOUP CREAM OF MUSHROOM, Mix, Dry serving 15.0 59.85 0.77 2.11 9.78 0.49 1.44
+ Soup, LIPTON, CUP-A-SOUP SPRING VEGETABLE, Mix, Dry envelope 13.0 46.93 1.72 0.99 8.23 0.65 1.22
+ Soup, LIPTON, FAT FREE CUP-A-SOUP CHICKEN BROTH, Mix, Dry serving 6.0 18.42 1.21 0.14 3.24 0.01 0.23
+ Soup, LIPTON, FAT FREE CUP-A-SOUP CHICKEN/PASTA, Mix, Dry serving 13.0 44.20 2.12 0.34 8.32 0.16 0.18
+ Soup, LIPTON, KETTLE CREATIONS HOMESTYLE LENTIL, Mix, Dry serving 36 127.44 7.46 1.18 22.50 5.26 1.17
+ Soup, LIPTON, KETTLE CREATIONS CHICKEN WITH PASTA & BEAN, Mix, Dry serving 30 105.90 4.67 1.29 19.41 2.58 1.41
+ Soup, LIPTON, RECIPE SECRETS VEGETABLE, Mix, Dry serving 10.0 27.60 0.81 0.23 6.47 1.02 1.99
+ Food quantity grams cals protein fat carbs fiber sugars Soup, LIPTON, RECIPE SECRETS ONION MUSHROOM, Mix, Dry serving 10.0 32.20 0.84 0.79 5.75 0.32 0.06
+ Soup, LIPTON, RECIPE SECRETS SAVORY HERB WITH GARLIC, Mix, Dry serving 9.0 30.87 0.95 0.40 6.04 0.29 0.55
+ Sauce, KRAFT Barbecue Sauce Original tbsp 34 39.44 0.17 0.10 8.87 0.31 7.38
+ Sauce, KRAFT Barbecue Sauce Hickory Smoke tbsp 34 39.44 0.17 0.10 8.91 0.31 7.38
+ Soup, tomato bisque, canned, prepared with equal volume milk, commercial cup (8 fl oz) 251 198.29 6.30 6.60 29.44 0.50
+ Soup, tomato bisque, canned, prepared with equal volume milk, commercial can (11 oz), prepared 609 481.11 15.29 16.02 71.44 1.22
+ Soup, tomato, canned, prepared with equal volume milk, commercial cup (8 fl oz) 248 161.20 6.10 6.00 22.30 2.73 12.20
+ Soup, tomato, canned, prepared with equal volume milk, commercial can (10.75 oz), prepared 602 391.30 14.81 14.57 54.12 6.62 29.62
+ Soup, cream of asparagus, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 85.40 2.29 4.10 10.69 0.49
+ Soup, cream of asparagus, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 207.55 5.57 9.96 25.97 1.19
+ Soup, black bean, canned, prepared with equal volume water, commercial cup 247 116.09 5.63 1.51 19.81 4.45 0.20
+ Soup, black bean, canned, prepared with equal volume water, commercial fl oz 30.9 14.52 0.70 0.19 2.48 0.56 0.02
+ Soup, black bean, canned, prepared with equal volume water, commercial can (11 oz), prepared 600 282.00 13.68 3.66 48.12 10.80 0.48
+ Soup, bean with pork, canned, prepared with equal volume water, commercial cup (8 fl oz) 253 172.04 7.89 5.95 22.80 8.60 2.76
+ Soup, bean with pork, canned, prepared with equal volume water, commercial fl oz 31.6 21.49 0.99 0.74 2.85 1.07 0.34
+ Soup, bean with pork, canned, prepared with equal volume water, commercial can (11.5 oz), prepared 614 417.52 19.16 14.43 55.32 20.88 6.69
+ Soup, bean with frankfurters, canned, prepared with equal volume water, commercial cup (8 fl oz) 250 187.50 9.98 6.97 22.00
+ Soup, bean with frankfurters, canned, prepared with equal volume water, commercial can (11.25 oz), prepared 607 455.25 24.22 16.94 53.42
+ Soup, beef noodle, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 82.96 4.83 3.07 8.98 0.73 1.34
+ Soup, beef noodle, canned, prepared with equal volume water, commercial fl oz 30.5 10.37 0.60 0.38 1.12 0.09 0.17
+ Food quantity grams cals protein fat carbs fiber sugars Soup, beef noodle, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 201.62 11.74 7.47 21.82 1.78 3.26
+ Soup, cream of celery, canned, prepared with equal volume water, commercial cup 244 90.28 1.66 5.59 8.83 0.73
+ Soup, cream of celery, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 219.41 4.03 13.58 21.47 1.78
+ Soup, cheese, canned, prepared with equal volume water, commercial cup (8 fl oz) 247 155.61 5.41 10.47 10.52 0.99
+ Soup, cheese, canned, prepared with equal volume water, commercial can (11 oz), prepared 600 378.00 13.14 25.44 25.56 2.40
+ Soup, chicken with dumplings, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 96.40 5.62 5.52 6.05 0.48 0.80
+ Soup, chicken with dumplings, canned, prepared with equal volume water, commercial fl oz 30.1 12.04 0.70 0.69 0.76 0.06 0.10
+ Soup, chicken with dumplings, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 234.40 13.65 13.42 14.71 1.17 1.93
+ Soup, chicken broth, canned, prepared with equal volume water, commercial cup 240 38.40 4.85 1.37 0.91 0.00 0.00
+ Soup, chicken broth, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 39.04 4.93 1.39 0.93 0.00 0.00
+ Soup, chicken broth, canned, prepared with equal volume water, commercial fl oz 30.0 4.80 0.61 0.17 0.11 0.00 0.00
+ Soup, chicken broth, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 94.88 11.98 3.38 2.25 0.00 0.00
+ Soup, chicken broth, canned, prepared with equal volume water, commercial envelope yields 182 29.12 3.68 1.04 0.69 0.00 0.00
+ Soup, cream of chicken, canned, prepared with equal volume water, commercial cup 244 117.12 3.44 7.37 9.27 0.24
+ Soup, cream of chicken, canned, prepared with equal volume water, commercial fl oz 30.5 14.64 0.43 0.92 1.16 0.03
+ Soup, cream of chicken, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 284.64 8.36 17.91 22.53 0.59
+ Soup, chicken gumbo, canned, prepared with equal volume water, commercial cup 244 56.12 2.64 1.44 8.37 1.95 2.49
+ Soup, chicken gumbo, canned, prepared with equal volume water, commercial fl oz 30.5 7.01 0.33 0.18 1.05 0.24 0.31
+ Soup, chicken gumbo, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 136.39 6.40 3.50 20.34 4.74 6.05
+ Soup, chicken noodle, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 74.71 4.05 2.46 9.35 0.72 0.27
+ Food quantity grams cals protein fat carbs fiber sugars Soup, chicken noodle, canned, prepared with equal volume water, commercial fl oz 30.1 9.33 0.51 0.31 1.17 0.09 0.03
+ Soup, chicken noodle, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 181.66 9.84 5.98 22.74 1.76 0.64
+ Soup, chicken with rice, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 60.25 3.54 1.90 7.16 0.72 0.24
+ Soup, chicken with rice, canned, prepared with equal volume water, commercial fl oz 30.1 7.52 0.44 0.24 0.89 0.09 0.03
+ Soup, chicken with rice, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 146.50 8.61 4.63 17.40 1.76 0.59
+ Soup, chicken vegetable, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 74.71 3.62 2.84 8.58 0.96 1.74
+ Soup, chicken vegetable, canned, prepared with equal volume water, commercial fl oz 30.1 9.33 0.45 0.36 1.07 0.12 0.22
+ Soup, chicken vegetable, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 181.66 8.79 6.91 20.86 2.34 4.22
+ Soup, chili beef, canned, prepared with equal volume water, commercial cup 250 170.00 6.70 6.60 21.45 9.50 1.35
+ Soup, chili beef, canned, prepared with equal volume water, commercial fl oz 31.2 21.22 0.84 0.82 2.68 1.19 0.17
+ Soup, chili beef, canned, prepared with equal volume water, commercial can (11.25 oz), prepared 607 412.76 16.27 16.02 52.08 23.07 3.28
+ Soup, clam chowder, manhattan, canned, prepared with equal volume water cup (8 fl oz) 244 78.08 2.20 2.22 12.22 1.46 1.07
+ Soup, clam chowder, manhattan, canned, prepared with equal volume water fl oz 30.5 9.76 0.27 0.28 1.53 0.18 0.13
+ Soup, clam chowder, manhattan, canned, prepared with equal volume water can (10.75 oz), prepared 593 189.76 5.34 5.40 29.71 3.56 2.61
+ Soup, clam chowder, new england, canned, prepared with equal volume water, commercial cup 244 95.16 4.81 2.88 12.42 1.46 0.37
+ Soup, clam chowder, new england, canned, prepared with equal volume water, commercial fl oz 30.5 11.89 0.60 0.36 1.55 0.18 0.05
+ Soup, clam chowder, new england, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 231.27 11.68 7.00 30.18 3.56 0.89
+ Soup, beef broth, bouillon, consomme, prepared with equal volume water, commercial cup (8 fl oz) 241 28.92 5.35 0.00 1.76 0.00
+ Soup, beef broth, bouillon, consomme, prepared with equal volume water, commercial can (10.5 oz), prepared 586 70.32 13.01 0.00 4.28 0.00
+ Soup, minestrone, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 81.94 4.27 2.51 11.23 0.96
+ Food quantity grams cals protein fat carbs fiber sugars Soup, minestrone, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 199.24 10.37 6.09 27.31 2.34
+ Soup, mushroom barley, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 73.20 1.88 2.27 11.71 0.73
+ Soup, mushroom barley, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 177.90 4.57 5.51 28.46 1.78
+ Soup, cream of mushroom, canned, prepared with equal volume water, commercial cup 244 129.32 2.32 8.98 9.30 0.49 1.00
+ Soup, cream of mushroom, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 314.29 5.63 21.82 22.59 1.19 2.43
+ Soup, mushroom with beef stock, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 85.40 3.15 4.03 9.30 0.73
+ Soup, mushroom with beef stock, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 207.55 7.65 9.78 22.59 1.78
+ Soup, onion, canned, prepared with equal volume water, commercial cup 241 57.84 3.76 1.74 8.17 0.96 3.04
+ Soup, onion, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 140.64 9.14 4.22 19.87 2.34 7.38
+ Soup, cream of onion, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 107.36 2.76 5.27 12.69 0.98
+ Soup, cream of onion, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 260.92 6.70 12.81 30.84 2.37
+ Soup, oyster stew, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 57.84 2.10 3.83 4.07
+ Soup, oyster stew, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 140.64 5.10 9.32 9.90
+ Soup, pea, green, canned, prepared with equal volume water, commercial cup 250 165.00 8.60 2.92 26.50 2.75 1.50
+ Soup, pea, green, canned, prepared with equal volume water, commercial can (11.25 oz), prepared 607 400.62 20.88 7.10 64.34 6.68 3.64
+ Soup, pea, split with ham, canned, prepared with equal volume water, commercial cup (8 fl oz) 253 189.75 10.32 4.40 27.96 2.28
+ Soup, pea, split with ham, canned, prepared with equal volume water, commercial can (11.5 oz), prepared 614 460.50 25.05 10.68 67.85 5.53
+ Soup, pepperpot, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 103.63 6.36 4.63 9.37 0.48 0.82
+ Soup, pepperpot, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 251.98 15.47 11.25 22.80 1.17 1.99
+ Soup, cream of potato, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 73.20 1.76 2.37 11.47 0.49
+ Food quantity grams cals protein fat carbs fiber sugars Soup, cream of potato, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 177.90 4.27 5.75 27.87 1.19
+ Soup, scotch broth, canned, prepared with equal volume water, commercial cup 241 79.53 4.96 2.63 9.47 1.21 0.60
+ Soup, scotch broth, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 193.38 12.07 6.39 23.03 2.93 1.47
+ Soup, cream of shrimp, canned, prepared with equal volume water, commercial cup 244 90.28 2.78 5.20 8.20 0.24 0.59
+ Soup, cream of shrimp, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 219.41 6.76 12.63 19.92 0.59 1.42
+ Soup, stockpot, canned, prepared with equal volume water, commercial cup (8 fl oz) 247 98.80 4.87 3.90 11.49
+ Soup, stockpot, canned, prepared with equal volume water, commercial can (11 oz), prepared 600 240.00 11.82 9.48 27.90
+ Soup, tomato beef with noodle, canned, prepared with equal volume water, commercial cup 244 139.08 4.47 4.29 21.15 1.46 2.56
+ Soup, tomato beef with noodle, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 338.01 10.85 10.44 51.41 3.56 6.23
+ Soup, tomato rice, canned, prepared with equal volume water, commercial cup 247 118.56 2.10 2.72 21.93 1.48 9.68
+ Soup, tomato rice, canned, prepared with equal volume water, commercial can (11 oz), prepared 600 288.00 5.10 6.60 53.28 3.60 23.52
+ Soup, turkey noodle, canned, prepared with equal volume water, commercial cup 244 68.32 3.90 2.00 8.64 0.73
+ Soup, turkey noodle, canned, prepared with equal volume water, commercial fl oz 30.5 8.54 0.49 0.25 1.08 0.09
+ Soup, turkey noodle, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 166.04 9.49 4.86 20.99 1.78
+ Soup, turkey vegetable, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 72.30 3.08 3.04 8.63 0.48
+ Soup, turkey vegetable, canned, prepared with equal volume water, commercial fl oz 30.1 9.03 0.39 0.38 1.08 0.06
+ Soup, turkey vegetable, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 175.80 7.50 7.38 20.98 1.17
+ Soup, vegetarian vegetable, canned, prepared with equal volume water, commercial cup 241 72.30 2.10 1.93 11.98 0.48 3.49
+ Soup, vegetarian vegetable, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 175.80 5.10 4.69 29.12 1.17 8.50
+ Soup, vegetable beef, prepared with equal volume water, commercial cup (8 fl oz) 244 78.08 5.59 1.90 10.17 0.49 0.98
+ Food quantity grams cals protein fat carbs fiber sugars Soup, vegetable beef, prepared with equal volume water, commercial can (10.75 oz), prepared 593 189.76 13.58 4.63 24.73 1.19 2.37
+ Soup, vegetable with beef broth, canned, prepared with equal volume water, commercial cup (8 fl oz) 241 81.94 2.96 1.90 13.11 0.48 5.16
+ Soup, vegetable with beef broth, canned, prepared with equal volume water, commercial can (10.5 oz), prepared 586 199.24 7.21 4.63 31.88 1.17 12.54
+ Soup, cream of asparagus, dehydrated, prepared with water cup (8 fl oz) 251 57.73 2.21 1.73 8.96
+ Soup, cream of asparagus, dehydrated, prepared with water packet 1129 259.67 9.94 7.79 40.31
+ Soup, bean with bacon, dehydrated, prepared with water cup (8 fl oz) 265 106.00 5.49 2.15 16.38 9.01 0.61
+ Soup, bean with bacon, dehydrated, prepared with water fl oz 33.1 13.24 0.69 0.27 2.05 1.13 0.08
+ Soup, beef broth or bouillon, powder, prepared with water cup (8 fl oz) 244 19.52 1.27 0.71 1.88 0.00 0.20
+ Soup, beef broth or bouillon, powder, prepared with water fl oz (prepared) 30.5 2.44 0.16 0.09 0.23 0.00 0.02
+ Soup, beef broth or bouillon, powder, prepared with water packet (6 fl oz prepared) 183 14.64 0.95 0.53 1.41 0.00 0.15
+ Soup, beef broth, cubed, prepared with water cup (8 fl oz) 241 7.23 0.84 0.19 0.80 0.00 0.17
+ Soup, beef broth, cubed, prepared with water fl oz 30.2 0.91 0.11 0.02 0.10 0.00 0.02
+ Soup, beef broth, cubed, prepared with water cube (6 fl oz prepared) 181 5.43 0.63 0.14 0.60 0.00 0.13
+ Soup, beef noodle, dehydrated, prepared with water cup 251 40.16 2.21 0.80 6.02 0.75
+ Soup, beef noodle, dehydrated, prepared with water fl oz 31.4 5.02 0.28 0.10 0.75 0.09
+ Soup, beef noodle, dehydrated, prepared with water packet (6 fl oz prepared) 187 29.92 1.65 0.60 4.49 0.56
+ Soup, cauliflower, dehydrated, prepared with water cup (8 fl oz) 256 69.12 2.89 1.72 10.73
+ Soup, cream of celery, dehydrated, prepared with water cup (8 fl oz) 254 63.50 2.62 1.63 9.75
+ Soup, chicken broth or bouillon, dehydrated, prepared with water cup (8 fl oz) 244 21.96 1.34 1.10 1.44 0.00 0.76
+ Soup, chicken broth or bouillon, dehydrated, prepared with water fl oz 30.5 2.75 0.17 0.14 0.18 0.00 0.09
+ Food quantity grams cals protein fat carbs fiber sugars Soup, chicken broth or bouillon, dehydrated, prepared with water packet (6 fl oz prepared) 183 16.47 1.01 0.82 1.08 0.00 0.57
+ Soup, chicken broth cubes, dehydrated, prepared with water cup (8 fl oz) 243 12.15 0.95 0.29 1.51
+ Soup, chicken broth cubes, dehydrated, prepared with water cube (6 fl oz prepared) 182 9.10 0.71 0.22 1.13
+ Soup, cream of chicken, dehydrated, prepared with water cup (8 fl oz) 261 107.01 1.77 5.32 13.34 0.26 3.08
+ Soup, cream of chicken, dehydrated, prepared with water fl oz 32.6 13.37 0.22 0.67 1.67 0.03 0.38
+ Soup, cream of chicken, dehydrated, prepared with water packet (6 fl oz prepared) 196 80.36 1.33 4.00 10.02 0.20 2.31
+ Soup, chicken rice, dehydrated, prepared with water cup 240 57.60 2.33 1.37 8.78 0.72 0.48
+ Soup, chicken rice, dehydrated, prepared with water fl oz 30.0 7.20 0.29 0.17 1.10 0.09 0.06
+ Soup, chicken rice, dehydrated, prepared with water packet, prepared 190 45.60 1.84 1.08 6.95 0.57 0.38
+ Soup, chicken vegetable, dehydrated, prepared with water cup (8 fl oz) 251 50.20 2.69 0.80 7.81
+ Soup, chicken vegetable, dehydrated, prepared with water packet (6 fl oz) 188 37.60 2.01 0.60 5.85
+ Soup, consomme with gelatin, dehydrated, prepared with water cup (8 fl oz) 249 17.43 2.17 0.02 2.07 0.00 0.65
+ Soup, consomme with gelatin, dehydrated, prepared with water fl oz 31.1 2.18 0.27 0.00 0.26 0.00 0.08
+ Soup, consomme with gelatin, dehydrated, prepared with water packet (36 fl oz prepared) 1121 78.47 9.75 0.11 9.30 0.00 2.91
+ Soup, leek, dehydrated, prepared with water cup 254 71.12 2.11 2.06 11.43 3.05 0.81
+ Soup, leek, dehydrated, prepared with water cup (8 fl oz) 254 71.12 2.11 2.06 11.43 3.05 0.81
+ Soup, leek, dehydrated, prepared with water packet (36 fl oz prepared) 1143 320.04 9.49 9.26 51.44 13.72 3.66
+ Soup, minestrone, dehydrated, prepared with water cup (8 fl oz) 254 78.74 4.45 1.73 11.91
+ Soup, minestrone, dehydrated, prepared with water packet (36 fl oz prepared) 1143 354.33 20.00 7.77 53.61
+ Soup, mushroom, dehydrated, prepared with water cup 253 96.14 2.23 4.86 11.13 0.76 0.38
+ Food quantity grams cals protein fat carbs fiber sugars Soup, mushroom, dehydrated, prepared with water packet (6 fl oz prepared) 194 73.72 1.71 3.72 8.54 0.58 0.29
+ Soup, onion, dehydrated, prepared with water cup 246 27.06 1.11 0.57 5.07 0.98 1.87
+ Soup, onion, dehydrated, prepared with water packet (6 fl oz prepared) 184 20.24 0.83 0.42 3.79 0.74 1.40
+ Soup, oxtail, dehydrated, prepared with water cup 244 68.32 2.71 2.46 8.64 0.49 2.59
+ Soup, oxtail, dehydrated, prepared with water cup (8 fl oz) 253 70.84 2.81 2.56 8.96 0.51 2.68
+ Soup, oxtail, dehydrated, prepared with water fl oz 30.5 8.54 0.34 0.31 1.08 0.06 0.32
+ Soup, oxtail, dehydrated, prepared with water packet (36 fl oz prepared) 1139 318.92 12.64 11.50 40.32 2.28 12.07
+ Soup, pea, green, mix, dehydrated, prepared with water cup 271 132.79 7.67 1.57 22.68 2.98 1.60
+ Soup, pea, green, mix, dehydrated, prepared with water packet (6 fl oz prepared) 206 100.94 5.83 1.19 17.24 2.27 1.22
+ Soup, tomato, dehydrated, prepared with water cup 265 103.35 2.46 2.38 19.40 0.53 9.91
+ Soup, tomato, dehydrated, prepared with water packet, prepared 199 77.61 1.85 1.79 14.57 0.40 7.44
+ Soup, tomato vegetable, dehydrated, prepared with water cup 241 53.02 1.90 0.82 9.74 0.48 3.93
+ Soup, tomato vegetable, dehydrated, prepared with water cup (8 fl oz) 253 55.66 2.00 0.86 10.22 0.51 4.12
+ Soup, tomato vegetable, dehydrated, prepared with water packet (6 fl oz prepared) 189 41.58 1.49 0.64 7.64 0.38 3.08
+ Soup, vegetable beef, dehydrated, prepared with water cup 253 53.13 2.93 1.11 8.02 0.51 0.56
+ Soup, vegetable beef, dehydrated, prepared with water packet (36 fl oz prepared) 1139 239.19 13.21 5.01 36.11 2.28 2.51
+ Soup, cream of vegetable, dehydrated, prepared with water cup (8 fl oz) 260 106.60 1.90 5.69 12.30 0.52 0.44
+ Soup, cream of vegetable, dehydrated, prepared with water packet (6 fl oz prepared) 195 79.95 1.42 4.27 9.22 0.39 0.33
+ Soup, chicken noodle, dehydrated, prepared with water cup 240 55.20 2.02 1.32 8.81 0.24 1.22
+ Soup, chicken noodle, dehydrated, prepared with water cup (8 fl oz) 252 57.96 2.12 1.39 9.25 0.25 1.29
+ Food quantity grams cals protein fat carbs fiber sugars Soup, chicken noodle, dehydrated, prepared with water packet (6 fl oz prepared) 189 43.47 1.59 1.04 6.94 0.19 0.96
+ Soup, beef mushroom, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 73.20 5.78 3.00 6.34 0.24
+ Soup, beef mushroom, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 177.90 14.05 7.29 15.42 0.59
+ Soup, chicken mushroom, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 131.76 4.39 9.15 9.27 0.24
+ Soup, chicken mushroom, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 320.22 10.67 22.24 22.53 0.59
+ Sauce, hollandaise, with butterfat, dehydrated, prepared with water cup (8 fl oz) 259 238.28 4.71 19.74 13.75 0.78 3.83
+ Sauce, hollandaise, with butterfat, dehydrated, prepared with water packet, prepared 204 187.68 3.71 15.54 10.83 0.61 3.02
+ Soup, tomato bisque, canned, prepared with equal volume water, commercial cup (8 fl oz) 247 123.50 2.27 2.52 23.71 0.49
+ Soup, tomato bisque, canned, prepared with equal volume water, commercial can (11 oz), prepared 600 300.00 5.52 6.12 57.60 1.20
+ Soup, tomato, canned, prepared with equal volume water, commercial cup (8 fl oz) 244 85.40 2.05 1.93 16.59 0.49 5.69
+ Soup, tomato, canned, prepared with equal volume water, commercial can (10.75 oz), prepared 593 207.55 4.98 4.68 40.32 1.19 13.82
+ Gravy, NESTLE, TRIO Brown Gravy Mix, dry tbsp 6.0 24.36 0.63 0.89 3.47 0.21 0.84
+ Gravy, NESTLE, TRIO Brown Gravy Mix, dry serving 6.0 24.36 0.63 0.89 3.47 0.21 0.84
+ Gravy, NESTLE, TRIO Brown Gravy Mix, dry package (16 oz) 453 1839.18 47.20 66.95 262.11 15.86 63.42
+ Gravy, CUSTOM FOODS, SUPERB Instant Brown Gravy Mix, dry package 454 1725.20 38.73 53.80 271.40 14.53 41.90
+ Gravy, CUSTOM FOODS, SUPERB Instant Brown Gravy Mix, dry serving 6.7 25.46 0.57 0.79 4.01 0.21 0.62
+ Gravy, NESTLE, TRIO Southern Gravy Mix, dry package 368 1770.08 9.05 93.66 222.68 0.00 22.08
+ Gravy, NESTLE, TRIO Southern Gravy Mix, dry serving 10.0 48.10 0.25 2.54 6.05 0.00 0.60
+ Gravy, CUSTOM FOODS, SUPERB Country Gravy Mix, dry package 680 3270.80 55.08 177.34 364.34 33.32 61.54
+ Gravy, CUSTOM FOODS, SUPERB Country Gravy Mix, dry serving 9.7 46.66 0.79 2.53 5.20 0.48 0.88
+ Food quantity grams cals protein fat carbs fiber sugars Gravy, CUSTOM FOODS, RED LABEL Au Jus Base, dry serving 10.0 19.10 1.57 0.40 2.30 0.31 1.30
+ Gravy, CUSTOM FOODS, RED LABEL Au Jus Base, dry package (16 oz) 454 867.14 71.19 18.21 104.33 14.07 59.11
+ Gravy, NESTLE, TRIO Au Jus Gravy Mix, dry tsp 3.0 8.40 0.03 0.15 1.73 0.03 0.05
+ Gravy, NESTLE, TRIO Au Jus Gravy Mix, dry package (7 oz) 198 554.40 1.80 9.92 114.50 1.98 3.17
+ Gravy, NESTLE, TRIO Au Jus Gravy Mix, dry serving 3.0 8.40 0.03 0.15 1.73 0.03 0.05
+ Gravy, CUSTOM FOODS, SUPERB Instant Au Jus Mix, dry package (4 oz) 113 334.48 23.90 6.77 44.57 3.39 20.89
+ Gravy, CUSTOM FOODS, SUPERB Instant Au Jus Mix, dry serving 6.7 19.83 1.42 0.40 2.64 0.20 1.24
+ Gravy, CUSTOM FOODS, SUPERB Peppered Old-Fashioned Biscuit Gravy Mix, dry package 680 3400.00 44.68 201.55 352.72 18.36 33.86
+ Gravy, CUSTOM FOODS, SUPERB Peppered Old-Fashioned Biscuit Gravy Mix, dry serving 9.7 48.50 0.64 2.88 5.03 0.26 0.48
+ Gravy, CUSTOM FOODS, SUPERB Instant Pork Gravy Mix, dry serving 6.7 24.32 0.56 0.53 4.34 0.16 0.83
+ Gravy, CUSTOM FOODS, SUPERB Instant Pork Gravy Mix, dry package (16 oz) 454 1648.02 37.82 35.78 293.83 10.90 56.21
+ Gravy, CUSTOM FOODS, SUPERB Instant Beef Gravy Mix, dry serving 6.7 24.72 0.66 0.64 4.09 0.29 0.72
+ Gravy, CUSTOM FOODS, SUPERB Instant Beef Gravy Mix, dry package (16 oz) 454 1675.26 44.49 43.04 277.39 19.52 48.62
+ Gravy, CUSTOM FOODS, SUPERB Old-Fashioned BISCUIT Gravy MIx, dry package 680 3366.00 44.61 190.60 368.76 32.64 57.39
+ Gravy, CUSTOM FOODS, SUPERB Old-Fashioned BISCUIT Gravy MIx, dry serving 9.7 48.01 0.64 2.72 5.26 0.47 0.82
+ Gravy, NESTLE, TRIO Country Gravy Mix, dry tbsp 8.0 34.64 0.73 1.22 5.19 0.72 2.28
+ Gravy, NESTLE, TRIO Country Gravy Mix, dry package 624 2701.92 56.66 95.28 404.79 56.16 177.84
+ Gravy, NESTLE, TRIO Country Gravy Mix, dry serving 8.0 34.64 0.73 1.22 5.19 0.72 2.28
+ Gravy, CUSTOM FOODS, SUPERB Instant Chicken Gravy Mix, dry serving 6.7 26.46 0.68 0.95 3.79 0.21 0.94
+ Gravy, CUSTOM FOODS, SUPERB Instant Chicken Gravy Mix, dry package (16 oz) 454 1793.30 46.31 64.60 256.69 14.53 63.92
+ Food quantity grams cals protein fat carbs fiber sugars Gravy, NESTLE, TRIO Chicken Gravy Mix, dry tbsp 8.0 32.40 0.91 0.94 5.06 0.11 0.82
+ Gravy, NESTLE, TRIO Chicken Gravy Mix, dry package 641 2596.05 73.07 75.64 405.24 8.97 65.38
+ Gravy, NESTLE, TRIO Chicken Gravy Mix, dry serving 8.0 32.40 0.91 0.94 5.06 0.11 0.82
+ Gravy, CUSTOM FOODS, SUPERB Instant Turkey Gravy Mix, dry serving 6.7 27.40 0.79 0.98 3.86 0.25 0.44
+ Gravy, CUSTOM FOODS, SUPERB Instant Turkey Gravy Mix, dry package (16 oz) 454 1856.86 53.21 66.56 261.32 17.25 29.78
+ Gravy, NESTLE, TRIO Turkey Gravy Mix, dry package 567 2052.54 48.59 24.61 408.52 8.50 38.56
+ Gravy, NESTLE, TRIO Turkey Gravy Mix, dry serving 8.0 28.96 0.69 0.35 5.76 0.12 0.54
+ Gravy, HEINZ, HEINZ Home Style Savory Brown Gravy, canned cup 60 24.60 0.90 0.78 3.41
+ Soup, NISSIN, OODLES OF NOODLES TOP RAMEN Ramen Noodle, Oriental flavor, dry form serving 42 190.26 3.91 7.18 27.51
+ Soup, NISSIN, CUP NOODLES, Ramen Noodle, chicken flavor, dry mix container, individual 64 296.32 5.57 14.08 36.80
+ Soup, broccoli cheese, canned, condensed, commercial can (10.75 oz) 305 265.35 6.41 16.16 23.48 5.49 1.80
+ Sauce, CUSTOM FOODS, RED LABEL All Purpose Italian Sauce Mix, dry package 425 1470.50 12.15 14.96 321.68 20.40 109.78
+ Sauce, CUSTOM FOODS, RED LABEL All Purpose Italian Sauce Mix, dry serving 5.6 19.38 0.16 0.20 4.24 0.27 1.45
+ Sauce, NESTLE, TRIO Cheese Sauce Mix, dry serving 12.0 53.52 0.89 2.30 7.31 0.00 1.30
+ Sauce, NESTLE, TRIO Cheese Sauce Mix, dry package (2 lb) 907 4045.22 66.94 173.69 552.45 0.00 97.96
+ Sauce, NESTLE, TRIO Cheese Sauce Mix, dry tbsp 12.0 53.52 0.89 2.30 7.31 0.00 1.30
+ Sauce, NESTLE, TRIO Nacho Cheese Sauce Mix, dry serving 12.0 51.36 1.07 1.86 7.57 0.07 1.28
+ Sauce, NESTLE, TRIO Nacho Cheese Sauce Mix, dry package (2 lb) 907 3881.96 81.18 140.77 571.95 5.44 97.05
+ Sauce, NESTLE, TRIO Nacho Cheese Sauce Mix, dry tbsp 12.0 51.36 1.07 1.86 7.57 0.07 1.28
+ Sauce, CUSTOM FOODS, SUPERB Instant Nacho Cheese Sauce Mix, dry serving 14.2 59.64 1.13 2.60 7.94 0.40 1.36
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, CUSTOM FOODS, SUPERB Instant Nacho Cheese Sauce Mix, dry package (2 lb) 907 3809.40 72.47 166.07 507.29 25.40 86.71
+ Sauce, CUSTOM FOODS, SUPERB Instant Cheddar Cheese Sauce Mix, dry serving 14.2 60.07 1.13 2.60 8.02 0.62 1.48
+ Sauce, CUSTOM FOODS, SUPERB Instant Cheddar Cheese Sauce Mix, dry package (2 lb) 907 3836.61 72.02 166.16 512.55 39.91 94.78
+ Sauce, CPC, KNORR Alfredo Sauce, dry mix tbsp 15.0 61.80 2.22 2.72 7.12
+ Soup, LIPTON, RECIPE SECRETS BEEFY MUSHROOM, Mix, Dry serving 11.0 32.78 0.85 0.38 6.62 0.11 1.56
+ Soup, LIPTON, RECIPE SECRETS FIESTA HERB WITH RED, Mix, Dry serving 9.0 28.98 0.96 0.34 5.80 0.41 0.67
+ Soup, LIPTON, RECIPE SECRETS BEEFY ONION, Mix, Dry serving 8.0 25.12 0.52 0.63 4.68 0.35 0.53
+ Soup, chicken corn chowder, chunky, ready-to-serve, single brand package yields 539 533.61 16.71 33.96 40.42 4.85
+ Soup, chicken corn chowder, chunky, ready-to-serve, single brand serving 240 237.60 7.44 15.12 18.00 2.16
+ Soup, chicken mushroom chowder, chunky, ready-to-serve, single brand package yields 539 431.20 16.17 23.72 38.27 7.55
+ Soup, chicken mushroom chowder, chunky, ready-to-serve, single brand serving 240 192.00 7.20 10.56 17.04 3.36
+ Soup, chicken noodle, chunky, ready-to-serve, single brand package yields 539 253.33 17.25 7.01 30.72
+ Soup, chicken noodle, chunky, ready-to-serve, single brand serving 243 114.21 7.78 3.16 13.85
+ Soup, potato ham chowder, chunky, ready-to-serve, single brand package yields 539 431.20 14.55 28.03 30.18 3.23
+ Soup, potato ham chowder, chunky, ready-to-serve, single brand serving 240 192.00 6.48 12.48 13.44 1.44
+ Soup, sirloin burger with vegetables, ready-to-serve, single brand package yields 539 415.03 22.64 19.94 36.65 12.40
+ Soup, sirloin burger with vegetables, ready-to-serve, single brand serving 240 184.80 10.08 8.88 16.32 5.52
+ Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand package yields 539 409.64 28.03 5.93 60.91
+ Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand serving 243 184.68 12.64 2.67 27.46
+ Soup, bean with bacon, condensed, single brand package yields 326 381.42 21.19 6.85 58.68 15.00
+ Food quantity grams cals protein fat carbs fiber sugars Soup, bean with bacon, condensed, single brand serving 135 157.95 8.78 2.84 24.30 6.21
+ Soup, beef broth, canned, condensed, single brand package yields 298 53.64 7.75 2.98 0.00
+ Soup, beef broth, canned, condensed, single brand serving 126 22.68 3.28 1.26 0.00
+ Soup, beef with vegetables and barley, canned, condensed, single brand package yields 312 190.32 12.17 4.37 25.58
+ Soup, beef with vegetables and barley, canned, condensed, single brand serving 127 77.47 4.95 1.78 10.41
+ Soup, chicken with star-shaped pasta, canned, condensed, single brand package yields 298 149.00 6.85 4.17 21.16
+ Soup, chicken with star-shaped pasta, canned, condensed, single brand serving 125 62.50 2.88 1.75 8.88
+ Soup, cream of chicken, canned, condensed, single brand package yields 305 301.95 7.32 19.82 23.48
+ Soup, cream of chicken, canned, condensed, single brand serving 126 124.74 3.02 8.19 9.70
+ Soup, split pea with ham and bacon, canned, condensed, single brand package yields 326 456.40 28.04 7.50 69.11 9.78
+ Soup, split pea with ham and bacon, canned, condensed, single brand serving 135 189.00 11.61 3.10 28.62 4.05
+ Soup, vegetable beef, canned, condensed, single brand package yields 298 157.94 11.32 2.38 22.95
+ Soup, vegetable beef, canned, condensed, single brand serving 136 72.08 5.17 1.09 10.47
+ Soup, chicken vegetable, chunky, reduced fat, reduced sodium, ready-to-serve, single brand package yields 454 181.60 12.26 2.27 28.60
+ Soup, chicken vegetable, chunky, reduced fat, reduced sodium, ready-to-serve, single brand serving 240 96.00 6.48 1.20 15.12
+ Soup, chicken noodle with celery and carrots, homestyle, ready-to-serve, single brand package yields 305 94.55 6.41 3.35 9.46
+ Soup, chicken noodle with celery and carrots, homestyle, ready-to-serve, single brand serving 305 94.55 6.41 3.35 9.46
+ Soup, vegetable beef, microwavable, ready-to-serve, single brand package yields 292 128.48 18.10 2.04 9.64 4.38
+ Soup, vegetable beef, microwavable, ready-to-serve, single brand serving 292 128.48 18.10 2.04 9.64 4.38
+ Gravy, PEPPERIDGE FARM HEARTY BEEF GRAVY, GLASS JAR package yields 340 146.20 10.20 2.38 21.08
+ Food quantity grams cals protein fat carbs fiber sugars Gravy, PEPPERIDGE FARM HEARTY BEEF GRAVY, GLASS JAR serving 60 25.80 1.80 0.42 3.72
+ Soup, PROGRESSO CHICKEN & WILD RICE WITH VEGETABLES package yields 538 209.82 13.45 4.84 26.90
+ Soup, PROGRESSO CHICKEN & WILD RICE WITH VEGETABLES serving 239 93.21 5.98 2.15 11.95
+ Soup, PROGRESSO HEALTHY CLASSICS BEEF BARLEY, 99% FAT FREE package yields 453 258.21 23.10 3.08 32.16 6.79
+ Soup, PROGRESSO HEALTHY CLASSICS BEEF BARLEY, 99% FAT FREE serving 241 137.37 12.29 1.64 17.11 3.62
+ Soup, beef with country vegetables, chunky, ready-to-serve, single brand package yields 539 339.57 27.49 9.70 35.57
+ Soup, beef with country vegetables, chunky, ready-to-serve, single brand serving 243 153.09 12.39 4.37 16.04
+ Gravy, NESTLE, CHEF-MATE Country Sausage Gravy, ready-to-serve package 2977 4614.35 136.94 369.15 186.96 20.84 23.22
+ Gravy, NESTLE, CHEF-MATE Country Sausage Gravy, ready-to-serve serving 62 96.10 2.85 7.69 3.89 0.43 0.48
+ Gravy, NESTLE, CHEF-MATE Country Sausage Gravy, ready-to-serve cup 62 96.10 2.85 7.69 3.89 0.43 0.48
+ Sauce, NESTLE, LJ MINOR Creole Sauce, ready-to-serve cup 248 99.20 3.70 2.75 14.83 3.22 11.66
+ Sauce, NESTLE, LJ MINOR Creole Sauce, ready-to-serve package 1956 782.40 29.14 21.71 116.97 25.43 91.93
+ Sauce, NESTLE, LJ MINOR Creole Sauce, ready-to-serve serving 62 24.80 0.92 0.69 3.71 0.81 2.91
+ Sauce, NESTLE, LJ MINOR Creole Sauce, ready-to-serve cup 62 24.80 0.92 0.69 3.71 0.81 2.91
+ Sauce, NESTLE, LJ MINOR Lemon Sauce, ready-to-serve package 2126 2848.84 4.68 12.54 678.62 0.00 520.87
+ Sauce, NESTLE, LJ MINOR Lemon Sauce, ready-to-serve serving 32 42.88 0.07 0.19 10.21 0.00 7.84
+ Sauce, NESTLE, LJ MINOR Lemon Sauce, ready-to-serve tbsp 32 42.88 0.07 0.19 10.21 0.00 7.84
+ Sauce, NESTLE, CHEF-MATE Sharp Cheddar Cheese Sauce, ready-to-serve cup 252 531.72 21.82 46.04 7.31 2.52 1.34
+ Sauce, NESTLE, CHEF-MATE Sharp Cheddar Cheese Sauce, ready-to-serve package 3033 6399.63 262.66 554.13 87.96 30.33 16.07
+ Sauce, NESTLE, CHEF-MATE Sharp Cheddar Cheese Sauce, ready-to-serve serving 63 132.93 5.46 11.51 1.83 0.63 0.33
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, NESTLE, CHEF-MATE Sharp Cheddar Cheese Sauce, ready-to-serve cup 63 132.93 5.46 11.51 1.83 0.63 0.33
+ Sauce, NESTLE, CHEF-MATE Golden Cheese Sauce, ready-to-serve cup 252 554.40 26.84 45.54 9.20 2.77 1.76
+ Sauce, NESTLE, CHEF-MATE Golden Cheese Sauce, ready-to-serve package 3033 6672.60 323.01 548.06 110.70 33.36 21.23
+ Sauce, NESTLE, CHEF-MATE Golden Cheese Sauce, ready-to-serve serving 63 138.60 6.71 11.38 2.30 0.69 0.44
+ Sauce, NESTLE, CHEF-MATE Golden Cheese Sauce, ready-to-serve cup 63 138.60 6.71 11.38 2.30 0.69 0.44
+ Sauce, NESTLE, ORTEGA Mild Nacho Cheese Sauce, ready-to-serve cup 252 476.28 18.07 40.50 10.08 2.02 0.00
+ Sauce, NESTLE, ORTEGA Mild Nacho Cheese Sauce, ready-to-serve package 3005 5679.45 215.46 482.90 120.20 24.04 0.00
+ Sauce, NESTLE, ORTEGA Mild Nacho Cheese Sauce, ready-to-serve serving 63 119.07 4.52 10.12 2.52 0.50 0.00
+ Sauce, NESTLE, ORTEGA Mild Nacho Cheese Sauce, ready-to-serve cup 63 119.07 4.52 10.12 2.52 0.50 0.00
+ Sauce, NESTLE, ORTEGA Nacho Cheese Sauce, ready-to-serve cup 252 511.56 20.97 40.40 16.08 1.76 1.84
+ Sauce, NESTLE, ORTEGA Nacho Cheese Sauce, ready-to-serve package 3005 6100.15 250.02 481.70 191.72 21.04 21.94
+ Sauce, NESTLE, ORTEGA Nacho Cheese Sauce, ready-to-serve serving 63 127.89 5.24 10.10 4.02 0.44 0.46
+ Sauce, NESTLE, ORTEGA Nacho Cheese Sauce, ready-to-serve cup 63 127.89 5.24 10.10 4.02 0.44 0.46
+ Sauce, NESTLE, CHEF-MATE Basic Cheddar Cheese Sauce, ready-to-serve cup 248 327.36 7.19 18.80 32.07 0.00 0.40
+ Sauce, NESTLE, CHEF-MATE Basic Cheddar Cheese Sauce, ready-to-serve package 3005 3966.60 87.14 227.78 388.55 0.00 4.81
+ Sauce, NESTLE, CHEF-MATE Basic Cheddar Cheese Sauce, ready-to-serve serving 62 81.84 1.80 4.70 8.02 0.00 0.10
+ Sauce, NESTLE, CHEF-MATE Basic Cheddar Cheese Sauce, ready-to-serve cup 62 81.84 1.80 4.70 8.02 0.00 0.10
+ Sauce, NESTLE, QUE BUENO Jalapeno Cheese Sauce, ready-to-serve package 3005 3876.45 95.86 224.17 369.62 0.00 5.71
+ Sauce, NESTLE, QUE BUENO Jalapeno Cheese Sauce, ready-to-serve serving 63 81.27 2.01 4.70 7.75 0.00 0.12
+ Sauce, NESTLE, QUE BUENO Jalapeno Cheese Sauce, ready-to-serve cup 63 81.27 2.01 4.70 7.75 0.00 0.12
+ Food quantity grams cals protein fat carbs fiber sugars Sauce, cheese, ready-to-serve cup 63 109.62 4.23 8.37 4.30 0.32 0.26
+ Sauce, pasta, spaghetti/marinara, ready-to-serve cup 250 142.50 3.55 5.15 20.55 4.00 13.55
+ Sauce, pasta, spaghetti/marinara, ready-to-serve serving 125 71.25 1.77 2.58 10.28 2.00 6.78
+ Sauce, pasta, spaghetti/marinara, ready-to-serve cup 125 71.25 1.77 2.58 10.28 2.00 6.78
+ Sauce, PREGO 100% Natural Spaghetti Sauce, Traditional, jar tbsp 130 136.50 2.21 5.07 20.80 4.03 10.53
+ Sauce, LIPTON, RAGU Old World Style Smooth Pasta Sauce, Traditional, jar cup 125 80.00 1.88 2.62 12.11 2.62 5.38
+ Soup, tomato, canned, condensed, reduced sodium cup 244 85.40 1.95 1.95 17.89 0.49 11.66
+ Gravy, brown instant, dry package 454 1725.20 38.73 53.80 271.40 14.53 41.90
+ Gravy, brown instant, dry serving 6.7 25.46 0.57 0.79 4.01 0.21 0.62
+ Gravy, instant beef, dry serving 6.7 24.72 0.66 0.64 4.09 0.29 0.72
+ Gravy, instant beef, dry package (16 oz) 454 1675.26 44.49 43.04 277.39 19.52 48.62
+ Gravy, instant turkey, dry serving 6.7 27.40 0.79 0.98 3.86 0.25 0.44
+ Gravy, instant turkey, dry package (16 oz) 454 1856.86 53.21 66.56 261.32 17.25 29.78
+ Peppers, hot, chili, mature red, canned, chili sauce cup 245 51.45 2.21 1.47 9.55 1.72 6.25
+ Peppers, hot, chili, mature red, canned, chili sauce tbsp 15 3.15 0.14 0.09 0.58 0.10 0.38
+ Peppers, hot, chili, immature green, canned, chili sauce cup 245 49.00 1.72 0.25 12.25 4.66 6.25
+ Peppers, hot, chili, immature green, canned, chili sauce tbsp 15 3.00 0.10 0.01 0.75 0.28 0.38
+ Fish broth cup 244 39.04 4.88 1.46 0.98 0.00 0.22
+ Fish broth fl oz 30.5 4.88 0.61 0.18 0.12 0.00 0.03
+ Soup, tomato, low sodium, with water cup 244 85.40 1.95 1.95 17.81 0.49 10.32
+ Food quantity grams cals protein fat carbs fiber sugars Soup, pea, low sodium, with water cup 250 165.00 8.50 3.00 26.50 0.75 4.10
+ Soup, chicken noodle, low sodium cup 246 76.26 4.18 2.46 11.27 0.74 0.30
+ Soup, chicken noodle, low sodium can (10.75 oz) 305 94.55 5.18 3.05 13.97 0.91 0.37
+ Vegetable soup, low sodium, with water cup 253 55.66 2.02 0.76 12.14 0.51 3.85
+ Soup, cream of mushroom, low sodium, ready-to-serve, canned cup 244 129.32 2.44 9.03 11.05 0.49 4.20
+ Soup, cream of mushroom, low sodium, ready-to-serve, canned can (10.75 oz), prepared 593 314.29 5.93 21.94 26.86 1.19 10.20
+ Soup, chicken broth, low sodium, canned cup 240 38.40 4.80 1.44 2.88 0.00 0.02
+ Sauce, worcestershire cup 275 184.25 0.00 0.00 53.52 0.00 27.58
+ Sauce, worcestershire tbsp 17 11.39 0.00 0.00 3.31 0.00 1.71
+ Sauce, tomato chili sauce, bottled, with salt cup 273 283.92 6.83 0.82 54.03 16.11 36.39
+ Sauce, tomato chili sauce, bottled, with salt packet 6.0 6.24 0.15 0.02 1.19 0.35 0.80
+ Sauce, tomato chili sauce, bottled, no salt, low sodium cup 273 283.92 6.83 0.82 78.43 1.36 65.06
+ Sauce, tomato chili sauce, bottled, no salt, low sodium tbsp 17 17.68 0.43 0.05 4.88 0.09 4.05
+ Soup, vegetable chicken, low sodium cup 241 166.29 12.29 4.82 21.11 0.96 6.12
+ Sauce, barbeque, low sodium, commercially canned cup 250 187.50 4.50 4.50 32.00 7.50 22.62
+ Sauce, barbeque, low sodium, commercially canned packet 9.3 6.98 0.17 0.17 1.19 0.28 0.84
+ Sauce, spaghetti, low sodium cup 250 272.50 4.50 12.00 39.75 7.50 28.93
+ Gravy, meat or poultry, prepared, low sodium cup 236 125.08 8.97 5.66 14.54 0.71 0.02
+ Soup, beef and mushroom, low sodium, chunk style cup 251 173.19 10.79 5.77 24.05 0.50 2.11
+ Adobo fresco cup 288 650.88 5.76 60.19 53.57 3.74 3.54
+ Food quantity grams cals protein fat carbs fiber sugars Adobo fresco tbsp 18 40.68 0.36 3.76 3.35 0.23 0.22
+ Soup, beef stroganoff, canned, chunky style, ready-to-serve cup 240 235.20 12.24 11.04 21.60 1.44 4.58
+ Soup, bouillon cubes and granules, low sodium, dry tsp 2.6 11.39 0.43 0.36 1.69 0.01 0.38
+ Soup, bouillon cubes and granules, low sodium, dry cube 3.6 15.77 0.60 0.50 2.34 0.01 0.52

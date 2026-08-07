@@ -1,0 +1,584 @@
+Pure Mac: Web 2.0 - Software for Macintosh 
+
+ Web 2.0 Clients 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Blogs 
+ Bookmarking 
+ Image Hosting Clients 
+ Music 
+ Social Networking 
+ Video/YouTube 
+
+ Blog.Mac 
+ ecto 
+ iBlog 
+ MarsEdit 
+ Xjournal 
+
+ Cocoalicious 
+ Delibar 
+
+ FlickrExport 
+ Flickr Uploadr 
+ 1001 
+ Picasa Web Albums Uploader 
+ PictureSync 
+
+ iScrobbler 
+ Last.fm 
+ Peel 
+ SpotDJ 
+
+ FMenu 
+ Spyder 
+ Twitterrific 
+
+ Tuboy Juego 
+ TubeTV 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ Blog.Mac 1.2.2 
+
+Blog.Mac is the easy to use Blogging solution built just for Apple's
+.Mac service. Unlike other blogging solutions built for the Mac or for
+the web, Blog.Mac was made to get your blog on the web quickly and
+easily while staying out of your way with complex interfaces or
+extraneous options.
+
+Blog.Mac combines the standard blogging technologies with the
+innovations standard on the Mac OS X platform. Using Blog.Mac, you'll be
+able to show what's playing on your iTunes (with automatic live
+updates), use your iSight as a live WebCam, publish your Blog posts as
+an RSS feed, and archive your Blog in one, easy step.
+
+ License : Shareware, $30 
+ Author/Publisher : Largemouth Software, LLC
+ Modification Date : April 3, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.4 MB
+
+ Home Page 
+
+ Cocoalicious 1.0b44 
+
+A Cocoa del.icio.us Client for Mac OS X.
+
+ License : Freeware
+ Author/Publisher : Sci-Fi Hi-Fi
+ Modification Date : April 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 668 Kb
+
+ Home Page 
+
+ Delibar 0.9 
+
+Usage is very simple; launch delibar, you will be asked for your
+delicious account info, put username and password, or if you don't have
+one go to Delicious and make one. Delibar will then download and display
+all your bookmarks. When you add new bookmarks, simply tell delibar
+to reload the bookmarks and you will be up to date.
+
+ License : Freeware
+ Author/Publisher : Matteo Rattotti
+ Modification Date : May 10, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 680 Kb
+
+ Home Page 
+
+ ecto 2.4.2 
+
+ecto is a feature-rich desktop blogging client for MacOSX and Windows,
+supporting a wide range of weblog systems, such as Blogger, Blojsom,
+Drupal, MovableType, Nucleus, TypePad, WordPress, and more.
+
+ License : Shareware, $18
+ Author/Publisher : Kula Co, Ltd.
+ Modification Date : January 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.2 MB
+
+ Home Page 
+
+ FlickrExport for iPhoto 2.0.11 
+
+This plugin for iPhoto provides a direct export interface to Flickr.com
+
+ License : Shareware, $23
+ Author/Publisher : Stick Software
+ Modification Date : August 2, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Flickr Uploadr 3.0.2 
+
+You can drag and drop from iPhoto or the Finder, and upload your photos in batches.
+
+ License : Freeware
+ Author/Publisher : Yahoo
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 20.2 Kb
+
+ Home Page 
+
+ FMenu 2.5 
+
+FMenu is a program for Mac OS X and Facebook that sits in the menu bar
+(near the clock) and provides notifications about various events. In
+addition, it provides a menu to easily access common Facebook pages and
+keeps a count of your messages, pokes, events, friend requests, wall
+posts, and photo comments. It also features a "Quicklaunch" box which
+gives you immediate access to your friends' profiles (just start typing
+a friend's name and it will autocomplete - press enter and go to that
+friend's profile) and Facebook searches (type a phrase and press enter).
+Notifications are issued using Growl and can be customized to the user's
+liking (including turning on/off and customizing display style). They
+are:
+ - A friend updated his profile
+ - A friend changed his status
+ - A friend wrote a new note
+ - Someone wrote on your wall
+ - You have new messages
+ - You have new pokes
+ - You have new friend requests
+ - You have new photo comments
+
+ License : Freeware
+ Author/Publisher : Paul Borokhov
+ Modification Date : July 7, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ iBlog 2.0rc2 
+
+iBlog is an elegant desktop weblogging application that makes authoring
+and publishing your personal weblogs (a.k.a blogs) a breeze. Unlike
+other weblogging systems, You don't have to be an expert database
+administrator or a perl programmer to setup and use iBlog. With a single
+click on the publish button you can publish your blogs to your iDisk.
+Optionally you can copy the entire folder of locally published pages to
+your own web server.
+
+ License : Shareware, $20
+ Author/Publisher : Lifli Software
+ Modification Date : April 18, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 8.2 MB
+
+ Home Page 
+
+ iScrobbler 2.0 
+
+An alternative to the bloat-ware that is the "official" last.fm client.
+
+ Features:
+ - Integrated iPod support.
+ - Local Scrobble lists and profile charts.
+ - Minimal or full detail interface - your choice.
+ - Stable and lightweight.
+ - Lots of other goodies.
+
+ License : Freeware
+ Author/Publisher : iScrobbler Team
+ Modification Date : December 23, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ Last.fm 1.4.2.58240 
+
+With the Last.fm software, the tracks you listen to on your computer will be "scrobbled"
+to your musical profile so you can share and compare your music taste with friends. Also,
+listen to personalised radio streams, recommend music to friends and discover new music -
+all from your desktop.
+
+ License : Freeware
+ Author/Publisher : Last.fm
+ Modification Date : December 18, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.1 MB
+
+ Home Page 
+
+ MarsEdit 2.0.5 
+
+MarsEdit is a weblog editor for Mac OS X that makes weblog writing like
+writing email - with spell-checking, drafts, multiple windows, and even
+AppleScript support.
+
+It works with various weblog systems: Blosxom, Conversant, Manila,
+Movable Type, Radio UserLand, TypePad, WordPress, and others.
+
+ License : Shareware, $25
+ Author/Publisher : Red Sweater Software
+ Modification Date : December 31, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ 1001 1.0.7 
+
+1001 is a desktop client to be used in conjunction with Flickr, the
+online photo-sharing website. 1001 not only uploads photos to your
+Flickr account, it notifies you anytime new photos from either your
+contacts, everyone, or your favorite tags are uploaded. 1001 allows you
+to step into the stream of photos passing through Flickr and to quickly
+see what's new at the moment. Just run the app in the background and if
+triggered, 1001 pops up a small unobtrusive window to notify you of new
+photos.
+
+ License : Freeware
+ Author/Publisher : Kula Co. Ltd.
+ Modification Date : January 1, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Peel 1.0.7 
+
+Never miss a hot track again. Peel is an MP3 blog reader and player rolled into one. Subscribe and stream music the minute it becomes available!
+ So, what are MP3 blogs?
+ They are also known as musicblogs or audioblogs and have become increasingly popular since
+the beginning of 2003. According to Wikipedia an MP3 blog is a type of weblog in which the
+creator makes music files, normally in the MP3 format, available for download.
+
+ License : Shareware, $15
+ Author/Publisher : Hjalti Jakobsson
+ Modification Date : January 9, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Home Page 
+
+ Picasa Web Albums Uploader 1.0.6 
+
+Now there are two easy ways for Mac users to upload photos to Picasa Web Albums -- an
+iPhotoplug-in and a drag-and-drop standalone application. This one download contains
+everything you need to get started with either method.
+
+For iPhoto
+
+The Picasa Web Albums Exporter is a plug-in that lives right inside iPhoto. Select
+photos, choose Export in the File or Share menu, and upload them directly to your web
+album.
+
+For a standalone application
+
+The Picasa Web Albums Uploader is a small application just for uploading your photos to
+your web album -- simply drag photos from the Finder and click the Upload button. Use
+this method if you want to upload photos or folders of photos that aren't in iPhoto, add
+captions to your photos before you upload them, and search your Mac for recently added
+photos.
+
+ License : Freeware
+ Author/Publisher : Google
+ Modification Date : September 11, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ PictureSync 1.8r15 
+
+PictureSync is a convenient utility that simplifies batch uploading your
+photos and video clips to online services, - directly from your
+image-management application or files, whilst preserving your own
+valuable annotations and metadata. 
+Works with: Buzznet, flickr, Fotki, FotoTime, iverse, photobucket, smugsmug, photovideo, vimeo,
+YouTube, WebShots and Zoto.
+
+ License : Shareware, $14
+ Author/Publisher : Holocore
+ Modification Date : December 8, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Supported Services 
+
+ Home Page 
+
+ SpotDJ 0.3.2 
+
+SpotDJ is a service that adds a something new and, frankly, !*#$@ing awesome to your music
+listening experience. You listen to your music just like normal, but every once in a
+while, SpotDJ will play a "spot" between songs.
+
+A spot is simply a short snippet of audio about the song you were listening to. It could
+be basic information about the song, a story about the artist, an interpretation of the
+song, news, gossip, recommendations, whatever!
+
+A SpotDJ is also a person - and by using SpotDJ you become a SpotDJ. All of the spots on
+SpotDJ are created by our users. So if you're listening to a song and have something to
+say about it, just flip to SpotDJ, click the "Spot this Song!" button and record your
+spot. Other SpotDJs listening to that song will hear your comments at the end of the song.
+
+ License : Freeware
+ Author/Publisher : Context Optional, Inc
+ Modification Date : June 25, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 705 Kb
+
+ Home Page 
+
+ Spyder 1.4.32 
+
+A MySpace Client.
+ Add friends without even thinking. Simply select users you'd like to know and Spyder does the rest.
+ Target other user's friends for sending messages or friend requests.
+ Keep everyone informed. With Spyder it's easy to post comments and let your friends and everyone else hear what you want to say. You can choose an alternate non-HTML comment to post when users don't accept HTML comments.
+ Stay connected. Send, receive and reply to messages. If people send you images in a message those will show up too.
+ Post bulletins! You can even set your bulletins to automatically re-post.
+
+ License : Shareware, $35
+ Author/Publisher : Michael Link
+ Modification Date : December 22, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ TubeTV 0.9.2 
+
+Got an Apple TV, video iPod, or iPhone and want more content for it?
+Wish you could watch YouTube on your TV or iPod? Like to keep copies of
+your favorite internet videos on your Mac? TubeTV is a new freeware
+program for Mac OS X Tiger and above which enables you to search for,
+save, and convert Google Video and YouTube videos to a format suitable
+for playback on your favorite devices.
+
+ License : Freeware
+ Author/Publisher : Chimoosoft
+ Modification Date : July 29, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 726 Kb
+
+ Home Page 
+
+ Tuboy Juego 3.1 
+
+YouTube downloader.
+
+ License : Freeware
+ Author/Publisher : Zumuya
+ Modification Date : November 4, 2007
+ Requirements : Mac OS X 10.4.9 or higher, Safari 3.0.x
+
+ Download 
+File Size: 331 MB
+
+ Home Page 
+
+ Twitterrific 3.0.1 
+
+Twitterrific is a fun little application that lets you both read and
+publish posts or "tweets" to the Twitter community website. The
+application's user interface is clean, concise and designed to take up a
+minimum of real estate on your Mac's desktop.
+
+To get started, visit the Twitter home page to sign up for an account
+for use with Twitterrific. Twitter accounts are free, take only minutes
+to set up and are a great way to stay connected with people around the
+globe.
+
+ License : Shareware, $15
+ Author/Publisher : The Iconfactory
+ Modification Date : November 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ Xjournal 1.0.5 
+
+Xjournal is a Mac OS X client for the Livejournal.com weblog service. It
+supports a number of advanced features that are not available in any
+other client.
+
+ License : Freeware
+ Author/Publisher : Fraser Speirs
+ Modification Date : May 16, 2006
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

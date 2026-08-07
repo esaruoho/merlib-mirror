@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995-7 by Steve Summit. -->
+<!-- This material may be freely redistributed and used -->
+<!-- but may not be republished or sold without permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Chapter 7: More Operators</title>
+<link href="sx6d.html" rev=precedes>
+<link href="sx7a.html" rel=precedes>
+<link href="top.html" rev=subdocument>
+</head>
+<body>
+<H1>Chapter 7: More Operators</H1>
+
+<p>In this chapter we'll meet some
+(though still not all)
+of C's more advanced arithmetic operators.
+The ones we'll meet here have to do with making common patterns of
+operations easier.
+</p><p>It's extremely common in programming to have to
+<dfn>increment</dfn> a variable by 1, that is, to add 1 to it.
+(For example, if you're processing each element of an array,
+you'll typically write a loop with an index or pointer variable
+stepping through the elements of the array,
+and you'll increment the variable each time through the loop.)
+The classic way to increment a variable is with an assignment like
+<pre>
+	i = i + 1
+</pre>
+Such an assignment is perfectly common and acceptable, but it 
+has a few slight problems:
+<OL><li>As we've mentioned, it looks a little odd,
+especially from an algebraic perspective.
+<li>If the object being incremented is
+not a simple variable,
+the idiom can become cumbersome to type,
+and correspondingly more error-prone.
+For example, the expression
+<pre>
+	a[i+j+2*k] = a[i+j+2*k] + 1
+</pre>
+is a bit of a mess,
+and you may have to look closely to see that the
+similar-looking
+expression
+<pre>
+	a[i+j+2*k] = a[i+j+2+k] + 1
+</pre>
+probably has
+a mistake in it.
+<li>Since incrementing
+things
+
+is <em>so</em> common,
+it might be nice to have an easier way of doing it.
+</OL>In fact,
+C provides not one but two other,
+simpler ways of incrementing
+variables
+and
+performing other
+similar
+operations.
+</p><p><a href=sx7a.html rel=subdocument>7.1 Assignment Operators</a></p>
+<p><a href=sx7b.html rel=subdocument>7.2 Increment and Decrement Operators</a></p>
+<p><a href=sx7c.html rel=subdocument>7.3 Order of Evaluation</a></p>
+<hr>
+<p>
+Read sequentially:
+<a href="sx6d.html" rev=precedes>prev</a>
+<a href="sx7a.html" rel=precedes>next</a>
+<a href="top.html" rev=subdocument>up</a>
+<a href="top.html">top</a>
+</p>
+<p>
+This page by <a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995-1997
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

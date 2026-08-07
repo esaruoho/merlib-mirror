@@ -1,0 +1,134 @@
+CSS specification/browser support page: Outline Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units |
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ CSS 
+
+ Browsers 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ IExplorer 
+ Netscape 
+ Opera 
+
+ outline 
+ -- X 
+ -- -- 7.0 
+
+ inherit 
+ -- X 
+ -- -- 7.0 
+
+ [Outline-color] 
+ -- X 
+ -- -- 7.0 
+
+ [Outline-style] 
+ -- X 
+ -- -- 7.0 
+
+ [Outline-width] 
+ -- X 
+ -- -- 7.0 
+
+ outline-color 
+ -- X 
+ -- -- 7.0 
+
+ inherit 
+ -- X 
+ -- -- 7.0 
+
+ invert 
+ -- X 
+ -- -- 7.0 
+
+ [Color] 
+ -- X 
+ -- -- 7.0 
+
+ outline-style 
+ -- X 
+ -- -- 7.0 
+
+ inherit 
+ -- X 
+ -- -- 7.0 
+
+ none 
+ -- X 
+ -- -- 7.0 
+
+ dotted 
+ -- X 
+ -- -- 7.0 
+
+ dashed 
+ -- X 
+ -- -- 7.0 
+
+ solid 
+ -- X 
+ -- -- 7.0 
+
+ groove 
+ -- X 
+ -- -- 7.0 
+
+ ridge 
+ -- X 
+ -- -- 7.0 
+
+ inset 
+ -- X 
+ -- -- 7.0 
+
+ outset 
+ -- X 
+ -- -- 7.0 
+
+ double 
+ -- X 
+ -- -- 7.0 
+
+ outline-width 
+ -- X 
+ -- -- 7.0 
+
+ inherit 
+ -- X 
+ -- -- 7.0 
+
+ thin|medium|thick 
+ -- X 
+ -- -- 7.0 
+
+ [Length] 
+ -- X 
+ -- -- 7.0 
+
+ Boring Copyright Stuff...

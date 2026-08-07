@@ -1,0 +1,383 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>power factor</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<META name="author" content="William J. Beaty" >
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="/ele-edu.html" >
+
+<link rel="canonical" href="http://amasci.com/elect/pfactor.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<META http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="main.css" />
+
+
+<meta http-equiv="keywords" content="">
+
+</head>
+
+<BODY bgcolor="#ffffff">
+
+<table height=77 summary="nav links, google search window" width=100%><tr>
+<td>
+<center>
+<TABLE cellpadding=5 summary="Navigation links"><TR>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="http://amasci.com/">TOP</a>&nbsp;&nbsp;| </b></font><br></TD>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="http://amasci.com/unew.html">GOOD&nbsp;STUFF</a>&nbsp;&nbsp;| </b></font><br></TD>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="http://amasci.com/news.html">NEW&nbsp;STUFF</a>&nbsp;&nbsp;| </b></font><br></TD>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="http://amasci.com/search.html">SEARCH</a></b></font><br></TD>
+</TR></TABLE>
+</center>
+</td>
+
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+
+
+
+<table summary="format two columns" width=100%><tr>
+
+
+<td width=180 nowrap align=left valign=top summary="google ad">
+
+<img align=right src="http://amasci.com/graphics/vertstr7.gif">
+<pre>
+</pre>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type ="text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<pre>
+</pre>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type ="text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+
+<td width=15>&nbsp;</td>
+
+<td valign=top summary="main text content" width=800 ><font size=4>
+
+
+
+<H1>Power Factor</H1>
+
+<pre>
+>Rob Sedgwick wrote at 11:38 AM 3/4/2013:
+>
+> Hi,
+> I feel I have a valid and major concern regarding some universal energy
+> measurement standards that are used in certain consumer devices,
+> residential service meters and potentially (as my inquiry is yet
+> unanswered) appliance ratings, (such as 'Energuide' in Canada).
+>
+> Todays existing, typical energy consumption measurements use a watt-hour
+> (Wh) or kilo-watt-hour (kWh) unit. Although the Wh or kWh unit is accurate
+> for 100% linear (resistive) loads or the resistive portion of all loads,
+> accurate and true measurements will need to calculate the total flow of
+> electrons (amperage) through both the resistive and reactive portions of
+> loads.
+>
+> The reactive portion of inductive loads (most electronics, microwaves,
+> fluorescent lights, refrigerators/freezers, pumps, etc) will increase the
+> current flow to the load based on the power factor (electrical efficiency)
+> of the load. Adding a capacitive load (such as a capacitor) can offset the
+> increased current flow by improving the power factor.
+> There is no 'free-lunch' when using the 'watt' consumption of a load and
+> not accounting for any extra energy consumed from its inefficiency
+</pre>
+
+<p>
+Hi Rob!
+<br>
+</p>
+
+<p> Here's the central issue: Power Factor is not electrical efficiency.  
+<br> </p>
+
+<p>
+The two are distantly related, but PF and efficiency are entirely 
+different concepts.  
+Because of Power Factor effects, any volt-amp meter measurements will 
+often be wrong.  Volt-amps gives an incorrect OVERestimation of the rate 
+of actual energy consumption. 
+<br> </p>
+
+<p>
+
+What's Power Factor?  It's based on the idea that an (ideal) inductor 
+consumes zero energy... yet whenever we plug inductors into 
+AC outlets, the inductors draw 
+significant current.  (Same applies to capacitors.)  If we multiply their 
+voltage 
+and current measurements, we'll see major watts of energy flow.  But this 
+wattage is wrong, and for ideal or non-lossy coils and capacitors, the 
+actual energy consumption is zero. <br> </p>
+
+<p>
+The problem is that inductors do draw energy from the utility grid  
+...but then they turn around and give back every bit!  During each cycle 
+of AC, the 
+electrical energy will be "sloshing" back and forth between the distant 
+generator and the inductor.  Resistors don't act like this.  A resistor's 
+current alternates, but the voltage alternates at the same time, so the 
+energy flows in just one direction: from generator to load.  With 
+capacitors and coils, this doesn't happen.
+<br>
+</p>
+
+<p>
+Let's take a straightforward view which avoids imaginary numbers.  We can 
+investigate zero Power Factor by driving an 
+inductor with a battery, then instantly swap the battery leads back and 
+forth to create 
+AC square waves.  
+What happens? <br> </p>
+
+<p>
+
+[Diagram, four simple schematics 1a, 1b, 1c, 1d]
+<br>
+</p>
+
+<p>
+
+When first connected in [1a] above, the current rises smoothly, and the 
+battery is dumping energy into the inductor as expected.  In [1b] we flip 
+the battery instantly.  Since inductors act like "electricity flywheels" 
+they have a 
+large "inertia effect" on the flowing charges within them.  The voltage 
+polarity reverses, yet the direction of 
+current does not.  In [1b], the battery terminals have swapped, and the 
+energy stored in the inductor flows back into 
+the battery, charging it up. <br> </p>
+
+<p>
+
+If we leave the inductor connected, the current decreases, eventually goes 
+through zero, and 
+becomes negative, as in [1c].  The reversed battery voltage is driving a 
+negative current, and negative times negative gives positive watts:  
+this means that energy is again 
+flowing from the battery into the inductor.  Next, flip the battery again 
+in [1d].  Again the current stays momentarily the same.  But reversing the 
+voltage has reversed the energy flow, and the inductor's stored energy is 
+again being dumped back to the battery.
+
+Finally, wait until the current goes to zero, and we've created one 
+complete "AC cycle."
+
+<br>
+</p>
+
+<p>
+
+See the problem?  A large current exists in the power line, but our  
+inductor uses up zero energy. On each half-cycle of AC, the inductor first 
+draws some electrical energy from the power supply, but then it dumps it 
+all back again.  Volt-amperes remains large, yet energy consumption is 
+zero, so PF is zero.   We can't just look at volt-amperes, since it 
+wrongly predicts that inductors consume immense energy.  In fact, 
+inductors consume very low energy (ideally it's zero.)
+
+<br>
+</p>
+
+<p>
+<pre>
+> 
+> For the purpose of illustration, let's look at non-linear loads that
+> basically have static consumptions (fluorescent lights, televisions).
+> Let's neglect cyclic, variable or high starting loads such as
+> refrigerators or pumps for now.
+> I've used my 120VAC circuit measurement device (a standard tool on the
+> consumer market) to read the energy consumption of a static-load
+> appliance. This device is simply taking the measured_wattage_ of the
+> appliance and multiplying it by the cumulative time recorded in the
+> device. Although this same device has the capability to measure current,
+> voltage and power factor it isn't using these values for proper energy
+> consumption calculations.
+> I believe this results in very inaccurate readings and misleading
+> information for the consumer.
+</pre>
+<br>
+</p>
+
+<p>
+
+Nope, the energy meter is doing it right.  
+<br></p>
+
+<p>
+When connected to an inductor, 
+it ignores the volt-amperes and the reversing energy flow.  We don't want 
+to measure the "sloshing energy" created by an inductor or a capacitor.  
+We only care about the total energy which moves, on average, from generator 
+to appliance.  (And, if the capacitor or inductor is getting hot, that 
+heat is caused by genuine one-way wattage being drawn from the power 
+grid.) <br> </p>
+
+
+<pre>
+
+
+
+
+</pre>
+
+
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "F0F0F0";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br>
+
+
+<center>
+<table summary="google ad">
+<tr><td summary="google ad" align=center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "F8F8F8";
+google_color_link = "0033CC";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+<td>&nbsp;</td></tr></table>
+</center>
+
+
+
+
+
+
+
+
+</font></td>
+<td></td>
+</tr></table>
+
+<br><p>
+
+<pre>
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="http://amasci.com/elect/pfactor.html">
+http://amasci.com/elect/pfactor.html</a><br>
+
+Created and maintained by <a href="http://amasci.com/billb.html">Bill 
+Beaty</a>.  Mail me at: <a href="http://amasci.com/amfrm/"><img border=0 
+width=141 height=19 src="http://amasci.com/graphics/abc.gif"></a>.
+<br>
+</center>
+
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript" >
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter" >
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank" >
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats" ></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1" >View My Stats</a>
+</center>
+
+
+</font>
+</body>
+</html>
+

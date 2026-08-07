@@ -1,0 +1,485 @@
+Pure Mac: Spreadsheets - Software for Macintosh 
+
+ Spreadsheets 
+
+ Web 
+
+ Pure-Mac.com 
+
+ AppleWorks 
+ Excel 
+ icExcel 
+ Mariner Calc 
+
+ Mesa 
+ NeoOffice 
+ Numbers 
+
+ OpenOffice 
+ Papyrus 
+ Ragtime 
+ Tables 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AppleWorks 6.2.9 
+
+The latest version of AppleWorks - the most popular program on the Mac - is
+really several applications in one. It gives you six core capabilities (and a
+number of combinations thereof): word processing, spreadsheet, database,
+presentation, drawing and painting.
+
+ License : Free Updates, Purchase for $80
+ Author/Publisher : Apple
+ Modification Date : January 14, 2004
+ Requirements : Mac OS X and Appleworks 6 requires a PPC and Mac OS 8.1 or higher
+
+ Download 
+File Size: 15.8 MB - 6.2.9 updater
+
+ Download 
+File Size: 4411 Kb - 6.04 updater - May 30, 2000
+
+ Download 
+File Size: 1311 Kb - 5.04 updater - October 26, 1999
+
+ Home Page 
+
+ icExcel 2.2 
+
+Admit it. There are times when you need to be Microsoft&reg; Excel
+compatible. If you do not have Excel installed or even if you have
+installed an old version, it gets frustrating trying to open those
+".xls" files. Now you can open any Excel file with icExcel!
+
+Without buying and installing Microsoft&reg; Excel, icExcel enables any Mac user to:
+ Gain access to Microsoft&reg; Excel files (PC or Mac created)
+ View downloaded Excel files from the Internet
+ Open email attachments from PC users
+ View on screen and print Excel spreadsheets with their original formatting preserved
+
+ License : Shareware, $20
+ Author/Publisher : Panergy
+ Modification Date : August 16, 2005
+ Requirements : Mac OS X 10.2 or higher and Mac OS 9 or higher
+
+ Download 
+File Size: 2.3 - Demo
+
+ Download 
+File Size: 2.8 - Demo
+
+ Home Page 
+
+ Mariner Calc 5.6 
+
+The ultimate Macintosh spreadsheet software! - Your Data, Your Way
+
+Mariner Calc starts faster, uses less disk space and memory than any
+other competitor on the Macintosh platform. With more than 150 built-in
+functions, charts, named ranges, split and freeze window panes, print
+preview, find, sorting, auto-sum, protected worksheets, and cell
+borders, Mariner Calc enables you to turn data into information with
+powerful tools to analyze, communicate, and share results.
+
+ License : Shareware, $50
+ Author/Publisher : Mariner Software
+ Modification Date : January 11, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ Mesa 3.1 
+
+Mesa is a spreadsheet built for Mac OS X. It has multiple worksheets
+(like Excel) and uses a subset of Excel's commands and functions (as
+well as some all it's own). It doesn't include macros or ODBC
+capabilities. It will import Excel files very successfully if you're
+using simple data, formulas and functions and formatting, but we don't
+guarantee complete Excel compatibility. You can save Mesa files in Excel
+format and read them in Excel. And once you've done your calculations,
+you can produce charts and good-looking reports, and copy your charts
+into other programs like Mail.
+
+ License : Shareware, $34
+ Author/Publisher : P & L Software
+ Modification Date : October 21, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ Microsoft Office 2008 12.1.5 
+
+Word Processor (Word), Email (Entourage), Spreadsheet (Excel) and
+Presentation (PowerPoint) combination.
+
+ License : Purchase Microsoft Office for $399 - Student/Teacher edition $149
+ Author/Publisher : Microsoft
+ Modification Date : December 3, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 104 MB - Office 2008 12.1.5 Updater - December 3, 2008
+
+ Download 
+File Size: 16.0 MB - Office 2008 12.1.4 Updater - October 28, 2008
+
+ Download 
+File Size: 154 MB - Office 2008 12.1.3 Updater - October 7, 2008
+
+ Download 
+File Size: 160 MB - Office 2008 12.1.2 Updater - August 7, 2008
+
+ Download 
+File Size: 153 MB - Office 2008 12.1.1 Updater - June 17, 2008
+
+ Download 
+File Size: 180 MB - Office 2008 12.1 Updater - May 7, 2008
+
+ Download 
+File Size: 114 MB - Office 2008 12.0.1 Updater - March 10, 2008
+
+ Download 
+File Size: 1.5 MB - Office AutoUpdate 2.1.1 for Office 2008 - February 29, 2008
+
+ Download 
+File Size: 44.8 MB - Open XML Converter 1.0.2 - December 4, 2008
+
+ Download 
+File Size: 15.1 MB - Office 2004 11.5.3 Updater - November 20, 2008
+
+ Download 
+File Size: 13.3 MB - Office 2004 11.5.2 Updater - September 30, 2008
+
+ Download 
+File Size: 14.5 MB - Office 2004 11.5.1 Updater - August 4, 2008
+
+ Download 
+File Size: 59.2 MB - Office 2004 11.5 Updater - June 9, 2008
+
+ Download 
+File Size: 9.1 MB - Office 2004 11.4.2 Updater - April 30, 2008
+
+ Download 
+File Size: 13.2 MB - Office 2004 11.4.1 Updater
+
+ Download 
+File Size: 12.3 MB - Office 2004 11.4.0 Updater
+
+ Download 
+File Size: 2.5 MB - Office 2004 11.3.9 Updater
+
+ Download 
+File Size: 9.1 MB - Office 2004 11.3.8 Updater
+
+ Download 
+File Size: 8.6 MB - Office 2004 11.3.7 Updater
+
+ Download 
+File Size: 15.2 MB - Office 2004 11.3.6 Updater
+
+ Download 
+File Size: 58.8 MB - Office 2004 11.3.5 Updater
+
+ Download 
+File Size: 12.5 MB - Office 2004 11.3.4 Updater
+
+ Download 
+File Size: 57.6 MB - Office 2004 11.3.3 Updater
+
+ Download 
+File Size: 6.5 MB - Office 2004 11.2.1 Updater
+
+ Download 
+File Size: 3.3 MB - Office 10.1.9 Updater - December 19, 2006
+
+ Updates Page 
+
+ Home Page 
+
+ NeoOffice 3.0p2 
+
+NeoOffice is a fully-featured set of office applications (including word processing,
+spreadsheet, presentation, and drawing programs) for Mac OS X. Based on the OpenOffice.org
+office suite, NeoOffice has integrated dozens of native Mac features and can import, edit,
+and exchange files with other popular office programs such as Microsoft Office.
+
+ License : Freeware
+ Author/Publisher : Patrick Luby
+ Modification Date : April 30s, 2009
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 160.0 MB - version 3.0 - Intel - March 28, 2009
+
+ Download 
+File Size: 162.0 MB - version 3.0 - PPC - March 28, 2009
+
+ Download 
+File Size: 15.7 MB - version 3.0 - Patch 2 for Intel - April 30, 2009
+
+ Download 
+File Size: 15.7 MB - version 3.0 - Patch 2 for PPC - April 30, 2009
+ s
+ Home Page 
+
+ Numbers 2.0 
+
+Innovative, powerful, and intuitive, Numbers
+lets you do everything from setting up your family budget to
+completing a lab report to creating detailed financial documents.
+
+ License : $79 for iWork '08
+ Author/Publisher : Apple
+ Modification Date : January 5, 2009
+ Requirements : Mac OS X 10.4.11 or 10.5.6 or higher
+
+ Download 
+File Size: 451 MB - iWork '09 Demo (includes Pages 4.0, Keynote 5.0 and Numbers 2.0)
+
+ Download 
+File Size: 42.7 MB - iWork 9.0.1 Updater - March 26, 2009
+
+ Download 
+File Size: 26.1 MB - Numbers 1.0.3 Updater - February 2, 2009
+
+ Home Page 
+
+ OpenOffice 3.0 Aqua 
+
+OpenOffice.org the product is a multi-platform office productivity
+suite. It includes the key desktop applications, such as a word
+processor, spreadsheet, presentation manager, and drawing program, with
+a user interface and feature set similar to other office suites.
+Sophisticated and flexible, OpenOffice.org also works transparently with
+a variety of file formats, including those of Microsoft Office, and the
+vendor-neutral OpenDocument standard from OASIS.
+
+ License : Freeware
+ Author/Publisher : openoffice.org
+ Modification Date : October 6, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 163 MB - version 3.0 for Intel
+
+ Download 
+File Size: 170 MB - version 3.0rc4 for PPC
+
+ Home Page 
+
+ Papyrus 12.56 
+
+The Office suite that works the way software should,
+ ... allowing you to work on your documents, without having to worry about your software.
+ Papyrus is extremely fast, reliable, and secure. In one single program of unmatched efficiency, you will find:
+ Word-processing with everything you need,
+ Desktop publishing suitable for professional applications,
+ Embedded spreadsheets with over 100 calculation functions,
+ Relational databases with a powerful search engine, suitable for a complete range from simple address databases, to multimedia applications, or complex inventory systems.
+ You can even install (or copy) Papyrus onto a USB-Stick (or other memory card), for mobile use on visiting computers.
+
+ License : Demo, $99
+ Author/Publisher : R.O.M. Logicware GmbH
+ Modification Date : February 22, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ Ragtime 6.0.1 
+
+RagTime is a Desktop Publishing program with an Office Suite included!
+ Word processing, spreadsheet, graphs, slide shows, pictures, drawing, movies, pictures & sound.
+ Use it for newsletters, reports, DTP, school yearbooks and newspapers.
+ Interactive tutorial built with RagTime
+ RagTime Solo is a non-commercial version of RagTime.
+ Same as commercial version except single user only and only one copy will open on a network.
+ There is a dialog when you start RagTime Solo that asks to acknowledge it is for non-commercial use.
+
+ License : Solo Version is Freeware, Full Version $695
+ Author/Publisher : RagTime GmbH
+ Modification Date : November 3, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 155 MB - Version 6.0.1
+
+ Download 
+File Size: 42.7 MB - Solo Version 5.6.4
+
+ Home Page 
+
+ Tables 1.5.2 
+
+Tables enables you to organise and present data very simply.
+
+With Tables you can not only organise data but also calculate and
+compare them, too. Add, sum or multiply numbers or process data by using
+various functions.
+
+Data can not only represent numbers but a date or an amount, too. Tables
+offer extensive options to format the data. Format them as currency, as
+an amount, as percentage rates, scientifically or with different date
+formats.
+
+Create optical attractive invoices, lists or reports and even add some
+photos and PDF documents to present your data with a great visual
+impact.
+
+You can create your own named styles in Tables to quickly assign the
+same formatting properties to other cells and also receive a uniform
+look for your document.
+
+ License : Shareware, $52
+ Author/Publisher : Daniel Schwill
+ Modification Date : April 3, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.6 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

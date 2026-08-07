@@ -1,0 +1,168 @@
+<html>
+<!-- Copyright 2004 Al Wong, Los Angeles, California, USA -->
+
+<head>
+<title>
+Windows 2000
+</title>
+
+<link rel=stylesheet type="text/css"
+      href="../css.css" title="hoverstyle">
+
+<link rel="shortcut icon" href="../favicon.ico">
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#ff0000" vlink="#880000">
+
+<center>
+<table width=80%>
+<tr>
+<td>
+
+<center>
+<h2>
+Getting<br>
+Windows 2000<br>
+on the Local Area Network
+</h2>
+</center>
+
+<a href="../writings/reply.html">
+Al Wong
+</a>
+<br>
+January 7, 2004
+<p>
+
+<font size=+0>
+
+My Windows 2000 (Win2000) computer has its own LAN card built-in.
+To make the Win2000 computer work on the LAN, 
+do the following:
+<p>
+
+<ol type=1>
+<li>Go to <i>My Network Places | Network and Dialup Connections | Network ID.</i>
+This will bring up the <i>System Properties</i> window.
+Then click the <i>Network ID</i> button to run the 
+<i>Network Identification Wizard.</i>
+Choose the <b>second</b> radio option:
+<p>
+
+<blockquote>
+<font size=-1>
+This computer is for home use and not part of a business network.
+</font>
+</blockquote>
+<p>
+
+Then click the <i>Next</i> button and choose the radio option:
+<p>
+
+<blockquote>
+<font size=-1>
+Users must enter a username and password to use this computer.
+</font>
+</blockquote>
+<p>
+
+Then click the <i>Next</i> button. Then click the <i>Finish</i> button
+to exit the <i>Network Identification Wizard.</i>
+<p>
+
+You need to reboot the Win2000 machine now.
+<p>
+
+<li>Now do the following. See the Win2000 help for detailed explanations on how-to:
+<p>
+
+<ol type=a>
+<li>You need to create a <b>unique name</b> for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's <b>different</b> from
+every other computer on the LAN.
+<p>
+
+<li>You need to create a group name. Again, it doesn't matter what it is
+as long as it's the <b>same group name</b> on every computer on the LAN.
+<p>
+
+<li>You do <b>not</b> have to create a separate user account for the LAN
+for Win2000.
+It seems the <i>Network Identification Wizard</i> automagically sets this up for you.
+<p>
+
+<li>Then you may want to set some folders as <i>Shared</i> in the 
+<i>File Manager.</i> If you want <i>older</i> versions of Windows (like Windows 3.11)
+to be
+able to access your share folder, make the share folder name 8 characters
+or less.
+<p>
+
+Please see the 
+<a href="ics.html">
+ICS main webpage
+</a> regarding <i>firewall</i> information and updates.
+
+</ol>
+<p>
+
+<li>Open a <i>Command Window</i> and type:
+<p>
+
+<blockquote>
+ <b>ipconfig /all</b>
+</blockquote>
+<p>
+
+The IP address should be <b>192.168.0.XXX</b> where XXX is a number other than 1.
+The subnet mask should be <b>255.255.255.0</b>.
+Use <b>ipconfig /?</b> to get help on this command.
+<p>
+
+<li>The Win2000 computer and shared directories should now be 
+recognized on the LAN.
+Go to <i>My Network Places</i> and click <i>View workgroup computers.</i>
+This should bring up the other computer names on the LAN.
+</ol>
+
+</font>
+
+</td>
+</tr>
+</table>
+</center>
+<p>
+
+
+<center>
+
+<table border=7 cellpadding=5>
+<tr><td>
+<a href="ics.html">
+Internet Connection Sharing
+</a>
+</td>
+
+<td>
+<a href="../writings/writings.html">My Writings</a>
+</td></tr>
+</table>
+<p>
+
+<font size=2>
+Last updated : January 7, 2004
+<br>
+Copyright 2004 Al Wong, Los Angeles, California, USA
+</font>
+
+</center> 
+
+</body>
+</html>
+
+
+
+
+
+

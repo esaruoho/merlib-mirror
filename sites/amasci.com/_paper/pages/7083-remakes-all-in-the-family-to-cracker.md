@@ -1,0 +1,88 @@
+---
+title: "Remakes - All In The Family To Cracker"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa102500b.htm
+order: 7083
+reachable_from_entry: false
+images: 0
+internal_links: 9
+extracted: 2026-08-07T17:14:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Remakes - All In The Family To Cracker
+
+*Source page: `~rkj/weekly/aa102500b.htm`*
+
+### Remakes - *All In The Family* to *Cracker*
+
+[Back To Index](aa102500a.htm)\
+*DEAR JOHN* TO *THE LUCY ARNEZ SHOW*\> Page **[1](aa102500a.htm)**, **2, [3](aa102500c.htm), [4](aa102500d.htm), [5](aa102500e.htm), [6](aa102500f.htm)**
+
+<span id="All In The"></span>***All In The Family***\
+Original UK Series: *Till Death Us Do Part* (1966-1975). A landmark BBC comedy series in the UK, with racist working class man Alf Garnett (Warren Mitchell) railing against liberals, his "silly old moo" wife, and lefty son-in-law. Written by Johnny Speight, the character was so memorable that Mitchell continued to make appearances as Alf into the 1990s in *The Thoughts Of Chairman Alf*.
+
+American Remake: *All In The Family* was adapted by Norman Lear and premiered in 1971 on CBS and was the number one series in the country for most of its nine seasons. Carroll O'Connor played Archie Bunker, with none of the bile lost from his British counterpart.
+
+Comments: The standard by which all other remakes must be judged. Both series had a lasting impact on the popular culture of their respective countries and made huge stars out of all the actors. Everything that was brilliant about the British original was expertly transferred to the American remake.
+
+<span id="Amanda's"></span>***Amanda's***\
+Original UK Series: *[Fawlty Towers](http://bennett.tvheaven.com/fawlty.htm)* (12 episodes, 1975 & 1979). Continually ranked as the funniest comedy every made in Britain, John Cleese and Connie Booth wrote every episode, supposedly spending months working on every line. As Basil Fawlty, the rudest, most inept hotelier ever, Cleese created a classic comic monster that stands the test of time.
+
+American Remake: The first remake of *Fawlty Towers* (see also *[Payne](aa102500d.htm#Payne)*) ran for only 12 episodes in 1983, starring Bea Arthur in the John Cleese role.
+
+Comments: A failure in every aspect, the final four episodes were never even broadcast.
+
+<span id="American"></span>***American Idol***\
+Original UK Series: *Pop Idol* was and is a huge hit on Channel 4 in the UK where popular music is much more on the consciousness of the public (the annual Christmas Number One song is something most people in Britain could tell you, does anyone in the US with its fragmented music scene even *know* what is number one at any time?).
+
+American Remake: Simon Cowell was wisely imported from the UK version and the rest is history, single-handedly making Fox the top rated network in 2003.
+
+Comments: Another in a long line of successful game show formats (*Who Wants To Be A Millionaire?*, *The Weakest Link*) to enjoy success in the US.
+
+<span id="As If"></span>***As If***\
+Original UK Series: Youth-oriented 2001 drama series about six teenagers and all their personal problems.  Fancy MTV-like editing and camera tricks try to disguise the fact this is just an *Afterschool Special* with more sex and drinking.
+
+American Remake: UPN premiered it in March 2002.
+
+Comments: Canceled in less than a month.
+
+<span id="Beanes"></span>***Beanes of Boston***\
+Original UK Series: *Are You Being Served?* A staple of PBS stations for decades, this low-brow comedy by David Croft and Jeremy Lloyd set in a department store ran from 1972 to 1983.
+
+American Remake: Ran in 1979 and is so obscure that Brooks and Marsh don't even have a listing for it! But it starred Alan Sues, John Hillerman (*Magnum, P.I.*), Charlotte Rae (*The Facts of Life*), and Lorna Patterson.
+
+Comments: Most Americans if they are familiar with any UK comedy, probably have seen *Are You Being Served?* at some point or another (much to the perplexity of the British). The remake evidently is being kept in a sealed vault, never to be seen again!
+
+<span id="Cold"></span>***[Cold Feet](aa120900a.htm)***\
+Original UK Series: A well-written, nicely shot, comedy/drama about three couples premiered on ITV in 1997 and is still running. Starring Helen Baxendale (*An Unsuitable Job For A Woman*) and James Nesbitt (*Playing The Field*) as the couple that still has commitment issues.
+
+American Remake: Only lasted four episodes as part of NBC's fall lineup in 1999.
+
+Comments: NBC was probably attracted by the "yuppies in love" aspect of the series, but clearly Americans weren't.
+
+<span id="Coupling"></span>***Coupling***\
+Original UK Series: Brilliantly funny Steven Moffat (*Chalk*) sitcom about six single Londoners and their ever-evolving relationships. Flashbacks and the fast pace have made it a huge success.
+
+American Remake: Much ballyhooed addition to NBC's "Must See TV" Thursday night lineup in Fall 2003. Despite 20 million viewers, considered a horrific failure and canceled after a mere four episodes.
+
+Comments: Scripts were a direct remake of the British originals (so much so that BBC America actually counterprogrammed the original episodes opposite it for direct comparison) but a lackluster cast and sky-high expectations by NBC doomed it.
+
+<span id="Cosby"></span>***Cosby***\
+Original UK Series: *[One Foot In The Grave](http://www.phill.co.uk/comedy/onefoot/guide.html)* (1990 to 2000). A classic BBC comedy written by David Renwick (*[Jonathan Creek](aa070698.htm)*) with Richard Wilson in his signature role as Victor "I don't *believe* it!" Meldrew. Retired and grumpy old man Victor suffers through life's indignities, trapped in a world he never made.
+
+American Remake: Bill Cosby took the format for his 1996 CBS series but substantial changes were made from the original pilot that shifted the show away from the grimness of the original.
+
+Comments: Though it ran for four years, Cosby's version bears little similarity to the British series. What CBS (and Cosby) seemingly wanted was just a continuation of his successful NBC series.
+
+<span id="Cracker"></span>***Cracker***\
+Original UK Series: *[Cracker](http://www.cgocable.net/~focus23/cracked/)* was a serialized drama that ran from 1993 to 1996, starring Robbie Coltrane as a brilliant psychologist with many, many problems of his own.
+
+American Remake: Ran for only one season in 1997 with Robert Pastorelli (Murphy Brown) as Gerry "Fitz" Fitzgerald.
+
+Comments: The series was canceled so quickly, that the remaining five episodes didn't run until 1999 on A&E. Incredibly, Robbie Coltrane guest starred in one of the U.S. episodes!
+
+**Next page** \> **[*Dear John* to *The Lucy Arnaz Show*](aa102500c.htm)**\> Page **[1](aa102500a.htm)**, **2, [3](aa102500c.htm), [4](aa102500d.htm), [5](aa102500e.htm), [6](aa102500f.htm)**
+
+**[Previous Features](mpreviss.htm)**\
+ \

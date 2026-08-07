@@ -1,0 +1,49 @@
+Standard Cryptographic Algorithm Naming 
+
+ KeyAgreement algorithms 
+
+[TODO: ECDH, STS, SRP-3, MQV, etc.]
+
+ DH KeyAgreement
+
+ Description: 
+ [[need more detail]]
+ Alias: 
+ "1.2.840.113549.1.3.1"
+ References: 
+
+ [ Def ] PKCS #3: Diffie-Hellman Key-Agreement Standard , 
+ An RSA Laboratories Technical Note,
+ Version 1.4. Revised November 1, 1993.
+
+ ftp://ftp.rsa.com/pub/pkcs/ascii/pkcs-3.asc 
+ [ Inf ] Whitfield Diffie et al, 
+ "New Directions in Cryptography," 
+ IEEE Transactions on Information Theory, Vol. IT-22, No. 6 ,
+ pp. 644-654. November 1976.
+ [ Inf ] Whitfield Diffie et al, 
+ "Multiuser Cryptographic Techniques," 
+ AFIPS Conference Proceedings, Vol. 45 , pp. 109-112.
+ June 8, 1976.
+ [ Patent ] M. E. Hellman, R. C. Merkle, 
+ "Public Key Cryptographic Apparatus and Method," 
+
+ U.S. Patent 4,218,582 , filed October 6 1977, issued August 19 1980.
+ [ An ] Paul Kocher, 
+ "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and
+ Other Systems," 
+
+ http://www.cryptography.com/timingattack/paper.html 
+
+ Patent status: 
+ The patent referenced above, although it only directly describes knapsack-based
+ cryptosystems, was claimed to cover all public key cryptography. It expired in 1997.
+ Security comment: 
+ DH key agreement on its own does not provide authentication of either party, and is
+ therefore vulnerable to a man-in-the-middle attack.
+
+ Author : David Hopwood < hopwood@zetnet.co.uk > 
+ Current maintainer : David Hopwood < hopwood@zetnet.co.uk > 
+
+ Copyright &copy; 1995-2000 The Cryptix Foundation Limited. All rights reserved. 
+ Cryptix is a trademark of The Cryptix Foundation Limited.

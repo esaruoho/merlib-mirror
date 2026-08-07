@@ -1,0 +1,33 @@
+Question 6.1 
+
+ Question 6.1 
+ I had the definition char a[6] in one source file, and in
+another I declared extern char *a .
+Why didn't it work?
+
+ The declaration extern char *a 
+simply
+does not match the actual
+definition.
+The type pointer-to-type-T is not the same as
+array-of-type-T.
+
+Use extern char a[] .
+
+ References:
+
+ANSI Sec. 3.5.4.2
+
+ISO Sec. 6.5.4.2
+
+CT&P Sec. 3.3 pp. 33-4, Sec. 4.5 pp. 64-5
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

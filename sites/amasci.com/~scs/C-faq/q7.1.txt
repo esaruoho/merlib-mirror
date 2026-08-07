@@ -1,0 +1,67 @@
+Question 7.1 
+
+ Question 7.1 
+ Why doesn't
+this fragment
+work?
+ char *answer;
+ printf("Type something:\n");
+ gets(answer);
+ printf("You typed \"%s\"\n", answer);
+
+ The pointer variable answer ,
+which is handed to
+ gets() 
+as the location into which the response should be
+stored,
+has not been set to
+point to any valid storage.
+That is,
+we cannot say where the pointer answer 
+points.
+(Since local variables are not initialized,
+and typically contain garbage,
+it is not even guaranteed that answer starts out as a
+null pointer.
+See questions
+ 1.30 
+and
+ 5.1 .)
+ The simplest way to correct
+the question-asking program
+is to
+use a local array, instead of a
+pointer, and let the compiler
+worry about
+allocation:
+ #include <stdio.h>
+#include <string.h>
+
+char answer[100], *p;
+printf("Type something:\n");
+fgets(answer, sizeof answer, stdin);
+if((p = strchr(answer, '\n')) != NULL)
+ *p = '\0';
+printf("You typed \"%s\"\n", answer);
+ This example also uses fgets() 
+instead of gets() ,
+so that
+the end of the array
+cannot be overwritten.
+(See question
+ 12.23 .
+Unfortunately for this example,
+ fgets() does not automatically delete the trailing \n ,
+ gets() would.)
+It would also be possible to use malloc() to allocate the answer 
+buffer.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

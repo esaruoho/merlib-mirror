@@ -1,0 +1,131 @@
+---
+title: "SCIENCE HOBBYIST: Do This Now"
+source_domain: amasci.com
+source_path: amateur/instr.html
+order: 709
+reachable_from_entry: false
+images: 1
+internal_links: 6
+extracted: 2026-08-07T17:06:17Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: Do This Now
+
+*Source page: `amateur/instr.html`*
+
+<table data-cellpadding="0" data-summary="navigation links">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong><a href="/">UP</a> |</strong><br />
+</td>
+<td><strong><a href="/unew.html">GOOD STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="/news.html">NEW STUFF</a> |</strong><br />
+</td>
+<td><strong><a href="/search.html">SEARCH</a></strong><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+    FOLLOW THESE INSTRUCTIONS                             1998 W. Beaty
+
+    Shake your hand really hard, for a fairly long time, until your fingertips
+    feel like they're turning into rubber.  Stop for a moment, then do it
+    again.  It takes less time the second time for "rubberization" to
+    commence, eh?
+
+    Keep a pocketful of dimes and quarters with you at all times, and 
+    constantly leave them in knee-level weird places where only a child would
+    ever look.  Inside the hollow shafts of toilet-paper holders.  Balanced
+    along the ridges of decorative molding.  Inside pencil sharpeners at the
+    local elementary school.  In gumball-dispensers (give 'em a half-turn.) 
+    Imagine the eventual entertainment that will result. 
+
+    Look in the mirror, use both hands to pull your lips wide, then snap your
+    teeth open and closed as shown in the photos below.  This makes you 
+    "AWARE OF YOUR SKULL"  Why, your face is just a layer of meat!  What if
+    you woke up one morning and it was gone!  (Once the full-blown skull
+    awareness wears off, find another mirror and restore it to full strength.) 
+
+    [photos eventually!]
+
+    Say "ooeeooeeooeee", but relax your face and shake your head hard and fast
+    back and forth so that your cheeks flap. Sounds like Elmer Fudd when he's
+    trying to shake off the dizzyness that comes from being hit on the head. 
+    Try this next time you get hit on the head by a falling anvil, see if it
+    helps.
+
+    Smell the table.  Smell the floor.  Smell the computer screen.  Why should
+    dogs have all the fun? 
+
+    Rub your palms together hard, so you make those little black rolls of dead
+    skin.  Those are called "Blatties."  They're named after an early computer
+    hacker at MIT. 
+
+    Teach yourself to talk understandably while your mouth is wide open.  If
+    you ever accidentally cut your lips off or misplace your lower jaw, this
+    will come in quite handy.  "Tleese take ne tll a hos-thitle innnediatly!" 
+
+    While waiting in the dark outside a movie theater or pub, violently shake
+    your head back and forth while observing nearby neon signs.  (this only
+    works with clear-tube orange signs.)  See those frilly filgerees in the
+    bands of light?  All neon signs have them, but normally they wiggle back
+    and forth so fast that humans can't see them.  Physicists call them
+    "positive column striations," while neon signmakers call them
+    "jellybeans".  Tell bystanders what you are doing, and soon you'll have a
+    crowd of people shaking their heads in the dark like fools. 
+
+    Teach yourself to read upside-down.  Comes in handy: you can read the
+    books of people sitting across the table from you.  Teach yourself to
+    write backwards in cursive.  Da Vinci did this, it was years before
+    people realized that his notebooks weren't written in unbreakable cypher.
+
+    Yawn. (no, REALLY yawn), then immediately force your tongue backwards
+    against the roof of your mouth.  The saliva glands under your tongue will
+    squirt like a squirtgun!  You can only squirt once or twice before another
+    yawn is required.  Practice this in front of a mirror until you can
+    slightly part your lips and silently hit a target with deadly accuracy. 
+    Hey!  Is it raining in here? 
+
+    Face a light source. Fill your cheeks with air partially, breathe normally
+    through your nose, and tense your cheeks and lips to compress the air
+    inside.  (It helps if you push fingers on your lips to keep air from
+    spurting out.)  Now relax your cheeks, part your lips, and spit the air
+    out slowly. (Don't breathe out, instead spit the air out with cheeks and
+    tongue.)  Smoke!  Fog comes out of your mouth.  This works great in the
+    dark with a flashlight.
+
+    While reading, eat something.  Notice that the flavor vanishes as soon as
+    you get involved with the story you're reading?  Now concentrate on your
+    mouth, and the flavor explodes into reality.  By concentrating on the book
+    or on your mouth, you can make the flavor flash on and off.  WEIRD! 
+
+    Stare at the computer screen while eating carrots or celery or an apple. 
+    You'll see strange black horizontal bands appear on the screen.  Vibrating
+    eyeballs!  Hum a deep note (or blow rasberries hard, or play a low note on
+    your sax) and you'll see moving stripes of distortion crawl across the
+    screen.  Move back away from the screen to make this work even better. 
+
+    Tune your TV to a blank station and adjust it for good "snow".  Stare into
+    the snow.  Imagine the number "3", and it will appear as a 3-shaped
+    flickering.  But then it will start to slowly rotate.  Erase the 3,
+    imagine a horizontal line.  It appears, but it won't stay still, it wants
+    to drift and rotate.  Make it shrink and vanish.  Keep staring, and soon
+    the snow will smoothly ripple, as if you were looking through the
+    distorting water of complicated waves in a swimming pool.  Think of more
+    stuff to create.  Who says that watching TV for hours isn't worthwhile?!
+
+    After getting out of the car, quickly touch one of your passengers.  Snap! 
+    Why waste a good "zap" on the car door?  (If you don't enjoy sparks, then
+    use the car keys to touch your passenger.  The shock still occurs, but YOU
+    won't feel it!) 
+
+Maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/email.gif" data-border="0" width="141" height="19" />](/amateur/amform.html#urls).\

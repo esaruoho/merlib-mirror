@@ -1,0 +1,408 @@
+Many More Software Links From WE7U 
+
+ Many More Software Links From WE7U 
+
+Have any more links for me? Are some of the links listed here inactive?
+ E-Mail me to let me know.
+
+ Back to Curt's Home Page , 
+ Jim Merkle's Personal Bookmarks 
+
+Last update: Oct. 3, 1997
+
+ Table Of Contents: 
+
+ Sound Cards To Do Radio Over Internet 
+ Using RGB Monitor On VGA 
+ Specs On Motherboards/Systems 
+ System Administration 
+ Programming For Security 
+ Security 
+ Firewalls 
+ Operating Systems 
+ Optical Scanner S/W 
+ Tape Backup Software 
+ Seattle Linux Group Mailing List 
+ Idaho Linux Group 
+ SCO 
+ Netbsd Ports 
+ Linux 
+ Linux Apps 
+ Linux Ports 
+ X-Windows Tutorials 
+ X-Based Internet Apps 
+ X Emulators For PC's 
+ Atari Emulators 
+ Windows FAQ's 
+ NT FAQ's 
+ Software Development 
+ X-Windows Development Packages 
+ Perl/TkPerl 
+
+ Sound Cards To Do Radio Over Internet : 
+
+ Index 
+
+ Using RGB Monitor On VGA : 
+
+ Monitor Conversion 
+ Altinex 
+ Video.html 
+ Apollo FAQ 
+ Photon 
+ Hitachi.html 
+
+ Specs On Motherboards/Systems : 
+
+ Venkat 
+ Op-Systems Review Page 
+ Chiplist 
+
+ System Administration : 
+
+ Sendmail FAQ 
+ SysAdmin Magazine 
+ UNIX Reference Desk 
+ ftp://ftp.sysadmin.com 
+ Sun Modems & Terminals FAQ 
+ Sun Modems & Terminals FAQ 
+ Sendpage 
+ Tpage: check the comp.sources archives
+ NIS+ FAQ 
+
+ Programming For Security : 
+
+ http://www.cerf.net/~paulp/cgi-security/safe-cgi.txt 
+ http://www.cis.ohio-state.edu/htbin/info/info/perl.info,Setuid%20Scripts 
+ bugtraq archives
+ Try hitting infoseek, yahoo, etc., for the string "secure programming"
+
+ Security : 
+
+ Secure IP 
+ http://www.unix.geek.org.uk/~arny/ (unix net hack security page)
+ http://www.unix.geek.net/~arny/ (unix net hack security page)
+ ftp://ftp.nrl.navy.mil.pub/security/nrl-opie (Secure passwords)
+ http://www.cert.org 
+ http://www.enter.net/~chronos/cryptolog.html 
+ http://www.squirrel.com/squirrel/index.html#SECLINKS 
+ http://www.deter.com/unix (unix security page)
+ http://www.icl.co.uk/access (security breaches survey)
+ http://www.icl.com/access (security breaches survey)
+ http://www.ncc.co.uk (security breaches survey)
+ ftp://ftp.infonexus.com/pub/ftp/ToolsOfTheTrade/Unix/CounterMeasures/Shadowy (shadow password suite)
+ ftp://ftp.infonexus.com/pub/ftp/Philes/AttackFlawsExploits/LinuxSpecific (Linux Security)
+ ftp://ftp.infonexus.com/pub/Philes/AttackFlawsExploits/LinuxSpecific 
+ http://www.cam.org/~pdarby/gsr1.html (Disaster Recover and Security Site)
+ http://www.stack.urc.tue.nl/~galactus/remailers 
+ http://www.tscm.com 
+ http://www.bellcore.com/pub/SECURITY 
+ http://hightop.nrl.navy.mil 
+ http://www.thecodex.com 
+ http://www.xos.nl (look for ipfwadm packet filtering utility)
+ http://bach.cis.temple.edu/linux/linux-secuity/linux-security-list.html 
+ ftp://ftp.eves.com/pub/masq (IP Masquerading)
+ alt.security
+ alt.security.index
+ alt.security.pgp
+ comp.os.netware.security
+ comp.security.announce
+ comp.security.firewalls
+ comp.security.misc
+ comp.security.unix
+
+ Firewalls : 
+
+ ftp://ftp.funet.fi/pub/Linux/PEOPLE/Linus/net-source/base/ipfw.doc 
+ http://www.tis.com/Home/NetworkSecurity/Firewalls/Firewalls.html 
+ http://www.access.digex.net/~bdboyle/firewall.vendor.html 
+ http://www.wmd.de/wmd/staff/pauck/misc/fwtk_on_linux.html 
+ http://www.lib.ox.ac.uk/internet/news/faq/archive/firewalls-faq.html 
+ http://www.cis.ohio-state.edu/hypertext/faq/usenet/firewalls-faq/faq.html 
+ http://gd.tuwien.ac.at/newfaqs/news.answers/firewalls-faq 
+ http://www.greatcircle.com/firewalls/ (firewalls mailing list info and FAQ)
+ http://www.v-one.com/pubs 
+
+ Operating Systems : 
+
+ Service Pack, Individual Users 
+ InfoWest Windows 95 Software Archive! 
+ SPEA Software AG 
+ Quarterdeck Corporation Home Page 
+ The Panasonic On-Line Home Page 
+ Aztech Systems Ltd 
+ http://www.aztechCA.com/ 
+ The Windows 95 Page! 
+ S3 On Board 
+ OS/2 
+ OS2Man's Home Page 
+ Computers:Operating Systems:Unix 
+ VXP -- Visual X windows Programming Interface 
+ NEC Home Page 
+ ftp.nec.com 
+ Adaptec 
+ Adaptec's FTP Site 
+ SCSI drive specifications 
+ USRobotics Home Page 
+ Trusted Information Systems Home Page 
+ Directory of /pub/perl/doc 
+ Directory of /pub/DOC 
+ Directory of /pub/perl 
+ The Dalmatian Group, Inc. Home Page 
+
+ Optical Scanner S/W : 
+
+ http://www.faximum.com/products.d/qna.plus.html 
+ http://www.fak14.uni-muenchen.de/infos/scan.html 
+ http://www-dmo.external.hp.com 
+ ftp://ftp.lysator.liu.se/misc/scanf-2.2.tar.gz 
+ http://sunsite.unc.edu:/pub/Linux/apps/graphics/scanners 
+
+ Tape Backup Software : 
+
+ Reviews 
+ Amanda 
+ Amanda 
+ MTI's backup.unet
+ Comp.arch.storage FAQ 
+
+ Seattle Linux Group Mailing List : 
+
+ Administrative Address: linux-list-request@ssc.com (subscribe in body)
+ Mailing List Address: linux-list@ssc.com
+
+ Idaho Linux Group : 
+
+ LUGI 
+
+ SCO : 
+
+ SCO.Com 
+ 8lgm.org 
+
+ Netbsd Ports : 
+
+ http://www.netbsd.com 
+ puma.bevd.blacksburg.va.us
+
+ Linux : 
+
+ Scientific Applications on Linux (USA) 
+ Scientific Applications on Linux (Germany) 
+ Scientific Applications on Linux (Italy) 
+
+ Voice Mail Using mgetty+sendfax 
+ German UNIX Magazine: Project diskless Linux X-terminals) 
+ Log From Running Kernel Through Coding Standards Program 
+ Redhat 
+ http://www.cdrom.com (Slackware)
+ http://sunsite.unc.edu/mdw/linux.html 
+ http://sunsite.unc.edu/pub/Linux 
+ ftp://tsx-11.mit.edu/pub/linux 
+ http://www.funet.fi/pub/Linux 
+ ftp://ftp.funet.fi/pub/Linux 
+ http://nic.funet.fi/pub/PEOPLE/Linus 
+ http://www/linux.org 
+ http://www.varesearch.com/linux-resources.html 
+ http://www.ssc.com/~roland/fvwm/fvwm.html (fvwm configs)
+ http://www.bigmall.com (universal CDROM)
+
+ Linux Apps : 
+
+ Fetchpop1.9 
+ Fetchpop1.9 
+ Fetchpop1.9 
+ Soma E-Mail Package 
+ Soma 
+ Soma 
+ News Peruser (obviates need for client/server) 
+ News Peruser (obviates need for client/server) 
+ Pronounceable Password Generator 
+ http://www.applix.com (MS Office Clone)
+ ftp://sunsite.unc.edu/pub/Linux/Incoming/magicfilter-1.2.tar.gz (auto print filter)
+ ftp://sunsite.unc.edu/pub/Linux/system/Printing/magicfilter-1.2.tar.gz (auto print fil
+ter)
+ http://www.matematik.su.se/users/kjj/knews.html (knews, threaded newsreader for X)
+ ftp://ftp.matematik.su.se/pub/kjj/knews-0.9.6.tar.gz (knews)
+ ftp://anchor.cs.binghamton.edu/pub/Linux-MobileIP/Linux-MobileIP.tar.gz (mobile-IP)
+ http://www-pu.informatik.uni-tuebingen.de/users/ettrich (word processor)
+ EXMH (Wish based front end for MH. Requires TCL/TK. Gives X11 interface to mail and looks somewhat like xmail or dxmail. Has support for mime encoding, pgp).
+ http://lantz.com (TNOS)
+ ftp://ftp.vse.cz/pub/386-unix/linux/ALPHABETA/lesstif/ (motif clone)
+ ftp://ftp.sunet.se/pub/lang/lisp/code/tools (lint)
+ xwpe (borland-like developement environment)
+ ftp://space.mit.edu/pub/davis/slsc (spreadsheet)
+ ftp://ftp.uni-stuttgart.de/pub/systems/linux/local/X11/sxmail (mailtool clone)
+ ftp://ftp.cs.umd.edu/pub/amanda (tape backup s/w)
+ http://sunsite.unc.edu/pub/Linux/system/Backup (tape backp s/w, Taper, others)
+ ftp://tsx-11.mit.edu/pub/linux/sources/bin (tape backup s/w)
+ http://www.uni-karlsruhe.de/~Karsten.Ballueder (tape backup s/w KBackup)
+ http://www.arcada.com (tape backup s/w)
+ http://www.novastor.com (tape backup s/w)
+ http://www.chey.com (tape backup s/w)
+ http://sunsite.unc.edu pub/Linux/utils/console (SVGATextMode)
+ ftp://tsx-11.mit.edu pub/linux/sources/sbin (SVGATextMode)
+ xvs191 (Mount Linux Drive Under DOS
+ 8530 SCC Driver For Linux 
+ 8530 SCC Driver For Linux 
+ GPIB (IEEE-488) Driver for Linux 
+ Slirp 
+ Slirp 
+ Slirp 
+ Slirp PPP 
+ Telnetd-b For Slirp 
+ Ftpd For Slirp 
+
+ Linux Ports : 
+
+ Latest Kernels From Finland 
+ ftp://tsx-11.mit.edu/pub/linux (US)
+ http://sunsite.unc.edu/pub/Linux (US)
+ http://nic.funet.fi/pub/Linux (Finland)
+ ftp://ftp.debian.org (US)
+ ftp://ftp.redhat.com (US)
+ ftp://src.doc.ic.ac.uk/packages/Linux (UK)
+ ftp://sunacm.swan.ac.uk/pub/Linux (UK)
+ ftp://ftp.cc.gatech.edu/pub/linux (US)
+ http://wuarchive.wustl.edu/systems/linux (US)
+ http://uiarchive.cso.uiuc.edu/pub/systems/linux (US)
+ ftp://ftp.cdrom.com/pub/linux (US)
+ 68K Atari/Amiga:
+
+ ftp://tsx-11.mit.edu/pub/linux/680x0 
+ ftp://ftp.phil.uni-sb.de/pub/atari/linux 
+ http://pfah.informatik.uni-kl.de:8000/pers/jmayer/linux68k-faq 
+ http://www-users.informatik.rwth-aachen.de/~hn/linux68k.html 
+
+ 68k Motorola VME166/167: (Amiga & Atari are production quality kernels)
+
+ ftp.uni-erlangen.de/pub/Linux/680x0/vme/linux166-pl3c.tar (Motorola MVME166/167)
+ ftp://tsx-11.mit.edu/pub/linux/680x0/vme/linux166-pl3c.tar 
+
+ 68k registry site:
+
+ http://www.cs.kuleuven.ac.be/~geert/Linux/m68k/Registration.html 
+
+ PowerPC: (Motorola 1603 boards)
+
+ http://www.redhat.com/ppc 
+ http://liber.stanford.edu/pub/linuxppc/linux-ppc-FAQ.html 
+ http://mklinux.apple.com 
+ http://www.linuxppc.org/linuxppc 
+
+ Sparc:
+
+ http://www.geog.ubc.ca/sparclinux.html 
+
+ Alpha:
+
+ http://www.azstarnet.com/~axplinux/FAQ.html 
+
+ MIPS:
+
+ http://ftp.waldorf-gmbh.de/pub/linux/mips 
+ http://www.fnet.fr/linux-mips 
+
+ ARM:
+
+ http://whirligig.ecs.soton.ac.uk/~rmk92/armlinux.html 
+
+ Aleph One 486 Card:
+
+ http://www.ph.kcl.ac.uk/~amb/linux.html 
+
+ X-Windows Tutorials : 
+
+ http://www.rahul.net/kenton/xsites.html 
+
+ X-Based Internet Apps : 
+
+ X11 Protocol Compressor 
+ X11 Protocol Compressor 
+ X11 Protocol Compressor 
+ ftp://sunsite.unc.edu/pub/Linux/X11/xutils/dxpc-0.7.tar.gz (another low-bandwidth X)
+ http://www.llnl.gov (XDIR is x-ftp interface)
+ http://ftp.x.org (xvnews)
+ ftp://ftp.uu.net 
+ http://www.yahoo.com 
+ http://www.hungry.com:8000/products/lesstif/ (Motif Clone)
+ "xanim" Plays Quicktime and other formats (not MPEG though)
+ http://www.portal.com/~podlipec/home.html 
+ ftp://ftp.fu-berlin.de/pub/unix/graphics/plan (X/Motif day planner)
+
+ X Emulators For PC's : 
+
+ ftp://ftp.ipac.net/pub/starnet/public 
+
+ Atari Emulators : 
+
+ http://www.halcyon.com/brasoft 
+ http://www.uq.edu.au/~chjdendl/sush/sushnew.html (Rom's for many, BABE pages too)
+
+ Windows FAQ's : 
+
+ http:///www.creativelement.com/win95ann/registry.html (win95 registry faq)
+ http://WWW.ZDNET.COM/~wsources/content/951016/feature/try1.html (win95 registry faq)
+ http://THECLASSIFIEDS.COM/kdWare/faqs/ (win95 registry faq)
+ http://www.windows95.com 
+ http://www.xmission.com/~rls/winfaq.htm 
+ http://walden.mo.net/~devino/ (Lots of pointers to other faq's)
+ http://walden.mo.net/~rymabry/index.htm (Good faq)
+ http://www.pcix.com/win95/win95faq.html 
+ http://www.primenet.com/~markd/win95faq.html (same faq as ~rymabry)
+ http://www.whidbey.net/~mdixon/win40001.htm 
+ http://www.windows.microsoft.com/windows/qa/qa.htm 
+ http://www.cris.com/~randybrg/win95.html 
+ http://users.aol.com/KentDB9438/RegeditFAQ/faqtxt.zip 
+ http://www-leland.stanford.edu/~llurch/win95netbugs/faq.html 
+ http://www.aa.net/~pcd/slp95faq.html 
+ http://www.cse.unsw.edu.au/~s2156495/win95/faqtxt.zip 
+
+ NT FAQ's : 
+
+ http://www.inlink.com/~sangria/winntfaq.html 
+ http://www.iftech.com/classes/admin/admin.htm 
+ http://www.mcs.com/~sculptor/NTFAX-FAQ.HTML 
+ http://www.mcs.com/~thomas/www/ntfaq/ 
+
+ Software Development : 
+
+ http://www.auroraonline.com/sock-faq (sockets)
+ http://www.ssc.com/ssc/Employees/johnsonm/devices.html (writing device drivers for Linux)
+
+ X-Windows Development Packages : 
+
+ Qt:
+
+ http://sunsite.unc.edu/pub/Linux/X11/devel 
+ http://ftp.troll.no/intro.html 
+ rpm -i ftp://ftp.troll.no/qt/linux/qt-0.95-2.i386.rpm
+
+ Fresco: Search for it on the net
+ V: (Cross-Platform, Windows & X)
+
+ http://www.cs.unm.edu/~wampler 
+
+ XForms:
+
+ ftp://bloch.phys.uwm.edu/pub/xforms/linux/elf 
+ ftp://bloch.phys.uwm.edu/pub/xforms/doc 
+ ftp://ftp.cs.ruu.nl/pub/XFORMS/linux/elf 
+ ftp://ftp.cs.ruu.nl/pub/XFORMS/doc 
+ http://bragg.phys.uwm.edu/xforms 
+ http://www.uwm.edu/~zhao 
+
+ XF: Go to a TCL/TK site to get it.
+ WxWindows: (Cross-Platform)
+
+ ftp://ftp.aiai.ed.ac.uk/pub/packages/wxwin/wxWindows 
+
+ TkPerl : 
+
+ Idiot's Guide to Solving Perl CGI Problems 
+ ftp://ftp.cis.ufl.edu/pub/perl/doc/FAQ 
+ ftp://mox.perl.com/pub/perl/ext/TK/Tk-b8.tar.gz 
+
+ Tk-composite-widgets.doc
+ Tkperldb-a1.tar.gz
+ tk-userguide.ps.gz

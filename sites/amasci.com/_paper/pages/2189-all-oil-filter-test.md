@@ -1,0 +1,49 @@
+---
+title: "all_oil_filter_test"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_oil_filter_test.html
+order: 2189
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_oil_filter_test
+
+*Source page: `~dalus/bmw/all/engine/all_oil_filter_test.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v5.n557 Thu Nov 14 13:12:20 1996</span>\
+From: "Matt R. Brumwell" \<mbrumwell@icx.net\>\
+Date: Thu, 14 Nov 1996 02:44:52 -0500\
+Subject: \<Misc\> Oil Filter Follow Up\
+
+As promised here's an update on the oil filter 'testing' that I had the NDT guys do at work.
+
+As a quick summary, I went to NDT (non destructive testing) with an oil sample I pulled from my 2002 at 500 miles. The engine died at 700 miles so I was curious what they would find. They did find unusual amounts of bearing material in my sample. If I had only tested sooner, I could've saved my block and crank....
+
+Anyway, while there we started talking about oil filters and a test they had run. In the test they took a large vat of dirty oil, mixed it, drew samples and then filtered them through various filters (Fram, Duetch, Pulorator, Motorcraft, Cat, Hastings, Wix, AC) Fram was the winner with Wix a close second in filtering ability. Hastings was dead last. They also said that the bypass in a filter typically bypasses oil until the oil is warm, this could explain the pressure diffences that someone posted earlier. It also helps explain why short trips kill engines, the oil doesn't get filtered. The final comment was that you should use the biggest filter that will fit on the car. A quick check showed that the large Fram PH8A (Ford 2.3 liter) would fit the mounting of BMW 4 cylinder cars. Larger filters hold more oil and increase overall capacity and they are quicker to actually start filtering.
+
+I wanted to see how an OEM BMW filter compared, so I brought in an OEM 11 42 125 8039, a Fram 3816, a Fram PH8A and a Hastings LF 157. These filters are for 1602's through E30 M3's.
+
+We cut each one open and examined the paper. Below is a listing of the square inches of paper and how the two ends of paper were joined (Fram use to have a problem with this joint failing). The check valve keeps unfiltered oil from flowing back out of the filter.
+
+Filter Paper size End Fastened Check Valve
+
+    Fram 3816       95.5 in2        glue / punched metal clip       No              
+    Fram PH8A       191 in2         glue / punched metal clip       Yes     
+    Hastings        107.5 in2       glue                            Yes
+    BMW OEM         211.9 in2       glue / punch metal clip         No
+
+The surprise was that the small OEM filter had more paper than the big Fram.
+
+The Fram 3816 claimed on the box that it had 'been designed for typical BMW high pressure systems'. What we found was that the spring in the by-pass valve was in fact stiffer than the typical Fram spring of the same size. The Hastings spring was a joke. The Fram PH8A had a large spring built into the top of the filter, along with the check valve. The OEM filter is obviously made to higher standards. There is a large, almost valve spring sized spring in the bottom. In fact, when we cut it open the whole filter sprung open like a jack in the box. The filter medium height, which is supported by steel on either end (Fram used cardboard, Hastings steel) is controlled by this spring. This is the first by-pass valve spring. The top of the OEM contained a second bypass system that we had to use a hack saw to get into. Again, a large well made spring controlled oil flow.
+
+It was very obvious that the OEM was the best made filter and I plan on sticking with it for the time being. Hell, it had more than twice the parts of the 3816 or Lf157. However, the PH8A has the potential to perform well. It does have a check valve, a larger (than the 3816) bypass spring, larger oil capacity and close to the same paper size as the OEM. Next time NDT tests the actual filtering I'm going to provide a few PH8A's and some OEM's to see if the extra paper is actually filtering better. They may be able to test to see when bypass stops also. I've already talked to one club racer / shop owner / race engine builder who uses the Fram PH8A in his 318i race car because of the increased oil capacity. I'll keep the list posted.
+
+matt brumwell\
+smoky mt. chapter 'cca, \#77654\
+'75 2002 '87 535is '88 M3

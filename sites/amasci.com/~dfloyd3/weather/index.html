@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Weather - Waverly, Tennessee</title>
+<script language="javascript" type="text/javascript">
+var win=null;
+function NewWindow(mypage,myname,w,h,scroll,pos){
+if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
+win=window.open(mypage,myname,settings);}
+// -->
+</script>
+</head>
+<body background="background.gif" text="#ffffff" link="#FFFF00" alink="#00FF00" vlink="#FF0000">
+<table bgcolor="#004080" width="100%" border="1" cellspacing="0" cellpadding="10">
+<tr>
+<td>
+<font color="#ffffff" size="5">Radar</font>
+<li><a href="mini.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Interactive Radar</a>
+<li><a href="radar1.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Current Surface</a>
+<li><a href="radar3.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Southeast Loop</a>
+<li><a href="radar7.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Regional Radar</a>
+<li><a href="radar4.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">SkyMax Radar</a>
+<li><a href="radar5.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">StormTarget Radar</a>
+<li><a href="radar6.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Radar/Satellite</a>
+<li><a href="other1.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Current Warnings</a>
+<li><a href="other2.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Interactive Map</a>
+</td>
+<td>
+<font color="#ffffff" size="5">Satellite</font>
+<li><a href="sat1.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Global</a>
+<li><a href="sat2.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">United States</a>
+<li><a href="sat3.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Visible</a>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+</td>
+<td>
+<font color="#ffffff" size="5">Temperatures</font>
+<li><a href="temp4.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Southeast Current</a>
+<li><a href="temp1.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">US Current</a>
+<li><a href="temp2.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Lows Tonight</a>
+<li><a href="temp3.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Highs Tomorrow</a>
+<li>
+<li>
+<li>
+<li>
+<li>
+</td>
+<tr>
+<td>
+<font color="#ffffff" size="5">The Moon</font>
+<li><a href="moon5.htm" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Lunar Phases</a>
+<li><a href="moon2.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Lunar Calendar</a>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+</td>
+<td>
+<font color="#ffffff" size="5">The Sun</font>
+<li><a href="solar2.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Solar (Soft X-Ray)</a>
+<li><a href="solar3.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Solar (Visible)</a>
+<li><a href="solar4.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Solar (Ultraviolet)</a>
+<li><a href="solar5.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Solar (H-Alpha)</a>
+<li>
+<li>
+<li>
+<li>
+<li>
+</td>
+<td>
+<font color="#ffffff" size="5">The Sky</font>
+<li><a href="solar6.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Sun Clock</a>
+<li><a href="moon3.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Current Sky</a>
+<li><a href="moon4.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Jupiter's Moons</a>
+<li><a href="earthview/solar7.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Earth Viewer</a>
+<li><a href="mars/index.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Time on Mars</a>
+<li><a href="http://liftoff.msfc.nasa.gov/realtime/JTrack/desktop.html" onclick="NewWindow(this.href,'Weather','800','600','no','center');return false" onfocus="this.blur()">Satellite Tracker</a>
+<li>
+<li>
+<li>
+</td>
+</tr>
+</table>
+</body>
+</html>

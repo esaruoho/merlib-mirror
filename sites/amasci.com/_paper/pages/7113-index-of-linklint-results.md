@@ -1,0 +1,42 @@
+---
+title: "Index of linklint results"
+source_domain: amasci.com
+source_path: ~rmisaac/linklint.html
+order: 7113
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:14:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of linklint results
+
+*Source page: `~rmisaac/linklint.html`*
+
+Index of linklint results for /u/u16/r/rmisaac/verify\
+Tue, 9 May 2000 23:09:43\
+Linklint version: 2.0B2
+
+     summary.txt: summary of results
+         dir.txt: found    4 directories
+        file.txt: found  231 files
+      file_x.txt: found  231 files (cross referenced)
+      file_f.txt: found   28 files with forward links
+      remote.txt: found 2035 remote links
+    remote_x.txt: found 2035 remote links (cross referenced)
+      anchor.txt: found  135 named anchors
+    anchor_x.txt: found  135 named anchors (cross referenced)
+      orphan.txt: found    3 directories with orphan files/directories
+        warn.txt: Warn   231 warnings
+      warn_x.txt: Warn   231 warnings (cross referenced)
+      warn_f.txt: Warn    27 files with warnings
+       error.txt: ERROR   23 missing files
+     error_x.txt: ERROR   23 missing files (cross referenced)
+     error_f.txt: ERROR   28 files had broken links/anchors
+     error_a.txt: ERROR   18 missing named anchors
+    error_ax.txt: ERROR   18 missing named anchors (cross referenced)
+
+    linklint97.txt: summary of results (27 Nov 1997)
+
+    linklint98.txt: summary of results (1 Dec 1998)

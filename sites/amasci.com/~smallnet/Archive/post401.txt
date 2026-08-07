@@ -1,0 +1,587 @@
+SMALLnet post401 
+
+ SMALLnet Posting post401
+
+Date: Wed, 5 Dec 2001 04:07:18 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+Bill Lee < Bill@WRLee.com > contributed:
+
+David Felin asked for a repeat of a vendor's address that had
+appeared in a previous Posting.
+
+This gives me an opportunity to once again point folks at the
+SMALLnet website. One of the features you will find there is
+a Source Index.
+
+Whenever Joe (or Randy as the case may be) sends out a Posting,
+I put the Posting in the Archive at the Web site. In so doing,
+I annotate the Posting, so that the when someone says "You can 
+get the Furble at Joe Littleplane's shop," the "Furble" shows up in
+the index, and is a link to the posting where it was discussed.
+
+I looked there, and perhaps I didn't catch the very latest source,
+but there is one there under "Wings, ACE R/C mini-foam".
+
+SMALLnet's web site URL is < http://www.eskimo.com/~smallnet/ >.
+
+On the recent attempts to infect SMALLnet with a virus:
+
+I am sure many of you already know about this new virus. The virus
+grabs random subject lines from the infected system, but ALWAYS
+adds the "Re:" to the front of them. The other thing that is a
+dead give-away on this one is the space (really an underscore)
+as the first character of the e-mail address in the "From:" line.
+
+It is called the W32.Badtrans.B@mm virus. You can find out
+about it at:
+
+< http://www.symantec.com/avcenter/venc/data/w32.badtrans.b@mm.html >
+
+A VERY IMPORTANT thing to note is that the virus is NOT,
+repeat: *NOT*, coming to you through the
+< SMALLnet-list@eskimo.com > e-mail list!
+
+Since the virus picks up a random subject from a message that the
+infected computer has received and uses it in the e-mail it sends,
+it may APPEAR that the message is from the list. Since several
+who have infected computers are on the SMALLnet e-mail list, it is
+quite likely that they will send the virus using an old subject
+line from a previous message that DID come through the list.
+
+The many steps that have to be followed before a message gets to
+you via eskimo.com guarantees that the list will NOT transmit
+a virus.
+
+The very FIRST of them catches this virus: the modified "From:"
+line (where the leading underscore has been added) automatically
+kicks the virus out since the name with the leading underscore
+is NOT on the eskimo.com subscriber list, and only subscribers
+can post to our list!
+
+Each time I receive one of these messages (and I have received
+quite a few), I respond to the originator by first removing the
+extraneous leading underscore from his e-mail, and then passing
+on the information on how to recognize and eliminate the virus.
+
+Bill Lee
+SMALLnet-list administrator
+
+...Chris Murphy < chrismurphy@inet.net.nz > had his computer infected
+by a virus, which sent three spurious e-mails to SMALLnet. But my
+server blocked the evil content. I had my system scoured out anyway
+by McAfee (they provide an on-line service) and it's clean. [JW]
+
+Trevor Carey < tc240z@bigpond.net.au > has some tips on this problem:
+
+Greeting from Oz. Re those virus attacks: they are bloody annoying.
+I have found one that constantly keeps popping up but is easily
+detected if you know how -- and here it is:
+
+Firstly the Virus is "WORM-BADTRANS.B". It shows up as an 
+attachment with zero bytes in it. I always open any attachment rather
+than save to disc, as this isolates the information in one part of
+the computer. When you try to open it, it won't; when you try to
+use the "reply" function to sender; that won't work either.
+
+If that happens, check your address book, and you should find a
+duplicate of the sender's address (if they are known to you) --
+but in any case the address will have a lower case bar at the
+start of the address. My advice here is kill it then and there.
+
+My virus protectors quarantine these nasties so I can look at
+them, perverse curiosity I suppose.
+
+Anyway, I hope that this is a help. Trevor Carey SAM 84
+
+P.S. Can someone tell me how to stop people borrowing my discs
+with all my saved "SMALLnet" sendings? TC
+
+...Trevor, tell them that they can buy a CD-ROM from me 
+($23 to Australian addresses, airmail postpaid) which includes 
+392 Postings plus over a dozen SMALL-related articles -- and full
+instructions for fast and easy searching to locate any and all
+mentions anywhere in the Postings of a given topic, source, or
+contributor. My mailing address is: Joe Wagner, 927 Pine Avenue,
+Ozark, Alabama 36360. [JW]
+
+Mike Gillihan < CFIIMEI@aol.com > inquires:
+
+Does anyone have any experience with the Hobbico Sky Sailer
+Rogallo ARF? My father is looking for something simple and easy
+with which to cruise the back yard. The little thing looks cute,
+but I'd love to hear someone's experience prior to his plonking
+down 100 bucks.
+
+Flying weather has been downright impressive for this time of
+year here in southern Missouri!
+
+Mike S. Gillihan 
+Designs That Fly, Inc. 
+< http://members.aol.com/DTFBiplane >
+
+Glenn Bolick < rgb8@juno.com > wrote:
+
+Let me add my thanks to both Joe and Randy for the SMALLnet!
+It's a keeper!
+
+ Source: Batteries, Nicad, sub-C 
+
+Just ran across something that is too good to pass up if anyone
+needs sub-C ni-cds in 1300 mAh capacity. Harbor Freight Tools
+is selling a replacement 9.6V battery for their Drill Master
+rechargeable drill at $3.99 per. Order number is 454943.
+
+Opened one up and it contains eight sub-C size ni-cds marked
+SC1300 mAh by Hunghy (made in China) -- not the hoped for Sanyo.
+The cells have solder tabs and are made up in a "rolled-up"
+configuration to fit the usual drill battery case, but could be
+separated and made into any desired configuration. The charger
+used with the drill is marked as 12V at 500 mAh.
+
+Glenn Bolick
+
+Trent Eyler < eyler@tulsaconnect.com > requests:
+
+I have recently purchased three old kits from eBay. All three
+appear to be complete, except *none* of them included the plans.
+
+I would appreciate it if any of you can loan (for me to copy) or
+make copies of the plans for me. Please contact me: Trent Eyler;
+1906 East 13th Street; Tulsa, OK 74104-4422 (918) 592-0517
+or by e-mail.
+
+1. Black Bullet 40" from Schlueter Free Flight models (BB-40)
+40" span (I assume)
+
+2. Cavalier from Micro Models "for sport FF or single-channel
+R/C" (F104) 36" span
+
+3. PUP II from RN Models "Free Flight low wing sport -- suitable
+for small R/C .020 power" (UA412) 35" span
+
+Thanks for any help y'all can provide to Tulsa Trent.
+
+Jim Rundle < jrr10@cornell.edu > asserts:
+
+To answer Ed Stevens, I would buy an .03 that throttled well and
+would swing a 6 x 3 prop if priced around $55. I like my little
+diesels, but my PAW .033 weighs the same as a Norvel .061.
+
+A lighter engine would fill a vacant niche. For me, it would have
+to be pleasant to use -- easy to start by hand, steady running,
+with a reliable idle and transition. There is so much new light-
+weight gear coming out for electric park fliers, but we "wet"
+engine enthusiasts can't take full advantage of it without a
+lighter engine. Even an after-market exhaust sleeve for the
+C*x .020 would be a big help.
+
+Another note to manufacturers out there -- how about some small
+spinners and new shapes? There seems to be a conspiracy to make
+spinners no smaller than 1 inch diameter, and all in the same style.
+But 1 inch spinners are too big for many of our small models,
+and Wacos, TravelAires, Spitfires, Hurricanes, Pitts Specials,
+Piper Tri-Pacers, Cherokees and Super Cruisers, and other popular
+scale subjects need spinners shorter for their diameter than
+anything on the market.
+
+Ace advertises some of their planes with spinners they no longer
+make, and Herr doesn't show spinners on some planes that should
+have them. Currently-available spinners would stick out like a
+sore nose. Even on some of the common sport types it would be
+refreshing to see something different. Obviously the economics
+depend on volume of sales, but if someone produced spinner sizes
+and styles that no one else did, I think they could have a
+"designer line" at a premium price and still get enough takers.
+Or am I the only one who thinks so? Jim Rundle
+
+Allan Leppanen < alepp@sympatico.ca > asks:
+
+I was wondering if there are any SMALLsters familiar with
+Rhoe Apt's Puddle Jumper. I've been building mine from the plans
+in the May 2001 issue of Flying Models and have it ready to cover.
+Man, it looks big for an OS .10 at 800 square inches!
+
+I've been trying to keep it light as possible, and it tips the
+scales at 23 ounces, less radio and covering. I should be close
+to the prototypes' 41.6 ounce total. I guess there's no harm in
+size, as long as the weight is low, and there's lots of lift.
+
+I'd sure like to hear about anyone else's experience with this
+unique design. Allan Leppanen
+
+Michael Blott < mblott@san.rr.com > submitted:
+
+Converted a Funcraft foam rubberband power to electric R/C.
+14" wingspan, 3.2 ounces RTF. GWS IPS direct drive motor on
+a U-80 prop. Reinforced the wings with Depron. Aileron torque
+rods are direct-connected to the servo arm.
+
+Wrapped transformer wire around a 1/64 ply stick for the
+antenna. More data on my web page under "secret projects"
+
+Michael Blott AMA# 2241
+< http://rcguy.tripod.com/RadioControlProjects.htm >
+
+Francis S. Person < persof@erols.com > wrote to JW:
+
+I have read many articles, including yours, on home-brew diesel
+fuel. Once I showed up at the field having forgotten to bring
+any diesel fuel. I figured that "Nobody" would have Diesel fuel,
+but lo and behold, I met DCRC's "other" diesel guy. He loaned 
+me a couple of tankfuls of his home brew (don't know the mix).
+
+My PAW .15 ran OK but it needed approximately an 1/8 turn extra
+compression. I have been using John Deere 80% ether starting fluid
+to pep up fuel that seems flat -- but have never made my own
+diesel fuel from scratch.
+
+A couple of questions. Can I use a kerosene substitute called
+"Clear Lite" which is made by Gulf ? Is it just extra-pure
+kerosene, or something else?
+
+If heat is the enemy of oil and diesels tend to run cooler than
+glow; why not use synthetic? I recently purchased a MP Jet .061
+from Carlson Imports. The instructions recommend 40% oil, 40%
+ether and 20% kerosene. To match this I will have to mix my own.
+Would my existing PAW BB fuel be OK? Francis S. Person
+
+...Francis, I don't know what Gulf "Clear Lite" is, and there are
+no Gulf gas stations anywhere near here. The only "extra pure"
+kerosene that I know about is aviation jet fuel.
+
+The "extra purity" of jet fuel consists primarily of its
+low moisture content. (Yes, kerosene does absorb water.)
+
+The reason that this is important in full-scale aviation is that
+the ambient air temperature is so low at the altitudes in which
+jets normally cruise, kerosene with water in it can turn into
+slush & overload the fuel pumps.
+
+Plain old gas station kerosene (NOT truck diesel fuel!) works fine
+in model diesels. People all over the world have been using it for
+that purpose since 1945. Small amounts of moisture in kerosene
+don't seem to matter much insofar as model diesel engine operation
+is involved.
+
+I tried some experiments in this line about 6 years ago. Starting
+& running adjustments changed a little with my purposely
+"moisturized" fuel -- but not enough to bother me.
+
+Now for the castor oil question. NO model diesel engine maker 
+recommends anything but castor oil for lubricant. I must have 
+written this topic up more than a hundred times: in magazine articles, 
+replies to readers, and in SMALLnet:
+
+Castor oil is the ONLY -- UNIQUE -- commonly-available lubricant
+which becomes MORE viscous with heat. And the place that this
+extra viscosity ("film strength" is another way of expressing that)
+is vitally needed is NOT between the piston and sleeve, but at
+the wrist pin.
+
+The wrist pin area is CRITICAL in all model engines, because 
+every erg of mechanical energy that the burning fuel transmits 
+to the piston has to be transferred via the wrist pin. It's the most
+heavily-loaded part of the engine -- and almost the hottest,
+because of its location so close under the piston crown.
+
+Yet the lubrication the wrist pin receives is almost accidental.
+There's no "free flowing" fuel/air mixture within the piston's
+"underside cup". And an oscillating bearing is the hardest kind
+to keep lubricated. Unlike rotary bearings, where lubricating
+films tend to remain in place and renew themselves, oscillating
+bearings squeeze their lubricant out.
+
+It's to protect the wrist pin & con rod "little end" bearing that
+Cox has always specified strictly castor-lubricated glow fuel for
+their engines -- the Cox ball-and-socket connection between
+piston & con rod becoming exceptionally highly-stressed and 
+hot at typical 1/2A rpm.
+
+Diesels have it worse. Mechanical pressure stresses are usually 
+higher than with glows, especially while starting. And diesel 
+combustion temperatures (especially when running "maximum
+lean" for best throttle response) are hotter than in most glows.
+
+Believe me, Francis, NO company that manufactures model diesel
+engines owns castor oil processors. The reason they call for
+castor oil -- and lots of it -- is that CASTOR OIL WORKS.
+
+I've had letters from modelers all over the world in the 15 years
+that I've been writing model engine columns, claiming remarkable
+results in their motors from the use of "NEW" and "IMPROVED" 
+oils of various sorts. Turbine oil; peanut oil; reclaimed deep-fry oil
+from McDonalds; Teflon-augmented oil; gun oil...
+
+I say, "Yeah, yeah," -- because these guys might just as well
+learn the expensive way (which will help them remember) that
+there's a REASON why castor oil has always been standard in
+model diesel fuel.
+
+And that reason is NOT that fuel engineers are too timid or
+ignorant to want to try anything else.
+
+To me, searching for a substitute for castor oil in model fuel 
+is akin to trying to find a cheap, efficient substitute for water.
+
+Your "existing BB diesel fuel" has about 20% castor oil. The
+MP Jets people don't think that's enough to be safe for breaking
+in their engines. I believe them. [JW]
+
+Bruce Stough < sbs1@visi.com > inquires:
+
+On the recommendation of a friend, I am planning to build a
+Terrier (RCM March, 1984 plan 909). This a 58" span aerobatic
+low wing plane, designed to be built light and powered by a sport
+.25 glow. The author used a non-Schnuerle OS .25, although 
+early '80s .40 4-stroke engines also worked well.
+
+I want to use a PAW, but don't know which one. A .19 TBR might 
+be big enough if I keep the weight down to around 3 pounds. 
+The .19 is nice in that it only weighs 6.5 ounces and is SMALL. 
+The next step up in the PAW line is the .29 (at 11.5 ounces) or 
+the .35 (at 11 ounces).
+
+Can a PAW .19 be counted on replacing a .25 sport glow?
+
+I like to fly sort of slow, but also would like enough power to
+do large loops and the like. Bruce Stough
+
+...Bruce, I have two models powered by PAW .19 plain bearing
+engines. One's an R/C biplane with about 400 square inches
+of WORKING wing area (I no longer use "gross wing area" 
+figures -- those that include the part of the wing that's covered 
+by the fuselage); the other is a control-line stunter, 54" span, 
+600 square inches, weight about 27 ounces.
+
+Both models fly well. The C/L model will climb straight up (as
+in wingovers etc.) and the heavier R/C biplane does nice "scale-
+type" aerobatics. The best PAW .19 props I've found are 
+Graupner 10-inchers; both 4- and 5-inch pitch work nicely. [JW]
+
+Steve Cheney < slcheney@mindspring.com > wrote:
+
+One of my 1/2 dozen or so "current" projects is an original
+1930's biplane. I've never built a biplane previously because
+I'm too lazy to build 2 wings, so the Ace was the trump on that
+excuse:
+
+ACE AS 6073 Tapered chord -- 166.25 square inches;
+root 5.5 inches; tip 4 inches; span 17.875 inches
+
+ACE AS 6074 Constant chord -- 192.5 square inches;
+root 5.5 inches; tip 5.5 inches; span 17.875 inches
+
+ Source: Wings, ACE R/C mini-foam 
+
+Available through Quantum Models (Jan. RCM, pages 108-112).
+These wings are not shown on their website as of my last check --
+you must request them & expect to have them backordered.
+
+< http://www.Quantummodels.com > or
+< Quantum1@core.com >.
+
+Good luck -- Steve
+
+Ron Ferrer < armadilo@creative-net.net > adds:
+
+ Source: Wings, ACE R/C mini-foam 
+
+In response to David Felin's query about Ace foam wings: they
+are indeed producing both versions, constant and tapered ones.
+You can get them through anyone who carries Ace/Thunder Tiger,
+or if all else fails, contact me! --
+< http://www.creative-net.net/~armadilo/ > -- as I stock them.
+Price is about 10 bucks.
+
+Our local guys are showing a lot of interest in Ace Simple Series
+after seeing my Simple Corsair fly. It does GREAT with a
+Norvel .074. I put a 4-ounce slimline Hayes tank in it, as that
+fit the space nicely.
+
+This plane is fully aerobatic, flies over 20 minutes, and lands
+with plenty of fuel left! We found that the Me109 makes a good
+P-40 Warhawk with the addition of a shark's mouth, and a taller
+rudder will further enhance the effect.
+
+Built the Texan; next is a Hollywood Zero conversion; painted
+olive drab green/gray with red meatballs! Kinda puts the fun back
+into WW2 combat.
+
+As most SMALLsters know, the Ace Simple Series kits were designed
+by the late, great Fred Reese. He really knew his stuff!
+
+Got a Whizard in stock a few days ago. I was surprised to see it
+is a taildragger, as I always remembered it as trike with pants
+on the mains. If anything it looks even better as a taildragger.
+
+Keep 'em flying, Ron
+
+Nic < littlepeople@space.com > is grateful:
+
+Thanks again for the great information. Here I thought Campbell,
+Blue Ridge, and Golden Age kits were nowhere to be found, but it
+looks like they're distributed in several places. Very helpful,
+and I appreciate the broad response.
+
+Thanks to JW for writing back about your experience with Cox
+Pee Wees and props. I'll let you know how it goes when it comes.
+Pee Wees definitely do make a tiny mess. I was even thinking
+recently of building a small drainage hole on the underside of
+the cowl of a Fairchild 24, to prevent reservoirs of fuel from
+accumulating there.
+
+So far I've built four or five planes, and recently decided to make
+a small powered micro R/C plane (not a lot of space in NYC, you
+know..). The hardware and breadth of choices in electric is so
+wide, I decided to go Pee Wee to simplify things. One thing at
+a time. Once I get basic construction and flying down, electric
+will be next. So I built a Guillow Fairchild 24 for two channels,
+and Pee Wee power. It shot up to about 20 feet at like 60 degrees,
+then stalled and plummeted.
+
+The Nieuport is next. Joyfully, I notice each plane is
+successively much better than the last. This time, my
+transmitter is adjusted for lower sensitivity, plane is lighter,
+balance is better, throws are smaller, control rod play is
+eliminated, etc. Any general tips to make this work?
+
+I was really glad to see your discussion of props. As you pointed
+out, the plans call for a 4.5x2 which barely clears the cowl.
+I have a nylon and carbon fiber Grish 5.5x3, and I am hoping one
+will work out. I had no idea you could put a 7" prop on a Pee Wee
+and use it to fly a 46" wingspan plane. Did you use special gearing
+to get this to work? Would you expect that size to do the job?
+
+One question on a Guillow Nieuport R/C conversion with Pee Wee.
+Can this take off from the ground? Thanks, Sean
+
+...Sean, I've seen two R/C conversions of the Guillow Nieuport 11.
+They flew nicely, but had to be hand-launched: they ground-looped
+viciously on attempted takeoffs.
+
+I used essentially stock ORIGINAL-VINTAGE Cox Pee Wees on 
+my models, modified only by replacing the paltry little fuel filler 
+nipples on the tank back with screwed-in 3/32" hard-copper-tubing 
+forward-facing vents.
+
+The 7" props I use are old, WAY out-of-production Grish 7-2
+Plasticote. They run great on Pee Wees -- developing THRUST
+rather than maximum screech.
+
+For the benefit of other SMALLsters with Pee Wee powered
+projects in mind, here's a condensed collection of Pee Wee
+information taken from my recent e-mail replies to Sean and
+other "interested parties":
+
+> Your difficult Pee Wee starting problems are probably due to
+ oxidized castor oil gumming up one or two critical areas inside
+the Pee Wee. This is COMMON on engines that have been 
+stored away a while.
+
+The critical areas are the reed seat and the fuel orifice. These
+have always been problems in Cox reed valve engines. Cox tried
+a couple of "preventive measures" to alleviate these -- one was
+a Teflon reed, but that didn't work well in operation for long.
+
+"Castor adhesion" remains troublesome for those who don't 
+know what's gone amiss inside their little power plants.
+
+Solvent or raw fuel will usually do the job -- the problem is
+getting it in to where it will do some good. If the fuel
+orifice is blocked, that prevents fuel from passing through to
+rinse it clean. And if the reed is stuck, even partially,
+to its seat, that makes the oxidized area hard for solvents
+to reach...
+
+I take my Pee Wees apart every once in a while & clean their
+insides manually. I also replace the plastic fuel tubing, which
+has invariably lost its flexibility -- and MAY even have a tiny
+air leak where it fits over the nipple.
+
+Gasket leakage can give Pee Wee owners a tough time too --
+especially the little TEENY one between the tank back and 
+the end of the intake tube.
+
+Now you know why I prefer PAW .03 diesels to Pee Wees. 
+They're SO much less finicky to keep running! (Also, have you 
+checked the price of a Pee Wee glow head recently??????)
+
+One more possible source of Cox starting trouble is the glow clip.
+If you are using a stock Cox "bifurcated clip", modify it before
+flipping one more prop! That design is the absolute VILEST
+excuse for a glow plug connector that I've ever seen.
+
+Remember that the plug needs lots of current to light brightly --
+a couple of amps usually. (I forget what the .020 glow head draws
+and am too lazy to go out to the shop right now to check.)
+
+Anyway, here's how to fix the Cox glow clip so that it will be
+capable of delivering amperes worth of current.
+
+Along one side of the yellow plastic "joining sleeve", CAREFULLY
+cut through. When the sleeve is split on one side, it can be
+spread apart and the metal connectors can be pulled out. (These
+have small barbs on them: be careful not to ruin anything.)
+
+Now remove the stock wires from the metal connectors and discard
+them. They are 24-karat JUNK. Instead, get a couple of feet of
+thin-gage lamp cord (14 or 16 gage is fine) and SOLDER this
+to the metal thingies (scraped clean first!) where the old
+"pushed-in-place" stock wires were.
+
+Now put everything back together -- and use shrink tubing to
+repair the split in the yellow plastic sleeve.
+
+NOW your Cox glow heads will LIGHT.
+
+> The Pee Wee appears compact & simple. It really IS compact --
+ but the simplicity is illusory. The operating principles and
+actions are no less complex than on larger model engines;
+and additional difficulties arise because of "scale" effects.
+
+Two detrimental "scale effects" in all miniature
+model engines are:
+
+1. The smaller the displacement, the higher the ratio between
+cooling surface area and combustion chamber volume. That 
+causes small-sized engines to run cooler. That in turn makes it 
+more difficult keeping the combustion process going, in both 
+glow and diesel model engines.
+
+2. The physical dimensions of model engines can be scaled up and
+down readily enough. However, the properties of the "fluids" they
+operate with: fuel and air -- remain constant. They don't flow
+so freely through small passageways... (That's one reason it's
+poor practice to use tiny fuel tubing on small model engines.
+That just makes it harder for the engine to draw fuel.)
+
+It's quite easy to design & manufacture a good-running & depend-
+able .15-size glow or diesel; but FAR more difficult to produce
+an .015 with those qualities.
+
+One more "hidden complexity" in Pee Wee operation is common 
+to all the Cox reed-valve engines with built-on fuel tanks. That's 
+the varying fuel level in the tank. A full tank has its fuel level
+above that of the needle orifice. Fuel then "gravity-flows".
+
+If you adjust the needle on a fully-fueled Pee Wee for maximum
+rpm, its mixture will become leaner and leaner the longer it runs.
+This will probably cause the engine to lose noticeable power in
+flight; and often to stop prematurely.
+
+To sum up: the Pee Wee is a neat-looking little power producer --
+but it has its quirks...
+
+And run it -- and all other Coxes -- ONLY on all-castor-oil
+lubricated fuel! (I use Byron's 25% nitro, all-castor fuel, with
+5 fluid ounces of castor oil added to each quart. Cox engines
+NEED lots of castor oil!)
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

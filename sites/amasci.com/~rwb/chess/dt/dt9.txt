@@ -1,0 +1,48 @@
+From: maillet@skye.usmcs.maine.edu (Edward G. Maillet)
+Newsgroups: rec.games.chess
+Subject: Another scartchy game from ICS
+Message-ID: <9302020134.AA02554@skye.usmcs.maine.edu>
+Date: 2 Feb 93 01:37:11 GMT
+Sender: daemon@cs.utexas.edu
+Organization: UTexas Mail-to-News Gateway
+Lines: 34
+NNTP-Posting-Host: cs.utexas.edu
+
+
+
+ [Here is a game worth looking at. ]
+ [scratchy vs. Zon --- Monday February 01, 08:19 PM EST, 1993]
+ [Unrated standard match, initial time: 10 minutes, increment: 10 seconds.]
+ 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4
+ cxd4 7. Qg4 g6 8. Nb5 Bc7 9. Bg5 Qd7 10. Qxd4 Nc6 11. Nxc7 Qxc7 12. Bb5
+ Bd7 13. Bxc6 Qxc6 14. c3 Rc8 15. Ne2 b6 16. a4 Qc4 17. Qxc4 Rxc4 18. a5
+ b5 19. Rd1 a6 20. Rd4 h6 21. Rxc4 bxc4 22. Be3 Ne7 23. Bc5 Nc6 24. f4
+ h5 25. O-O Kd8 26. Kf2 Kc7 27. Rd1 Kb7 28. Kf3 Rc8 29. Bd6 Na7 30. Nd4
+ Nb5 31. Nxb5 Bxb5 32. Rd2 Be8 33. Ra2 Kc6 34. Ke3 Kb5 35. h3 Bc6 36. g3
+ Rg8 37. Be7 Rc8 38. Bc5 Rg8 39. Kd4 g5 40. Ke3 gxf4 41. Kxf4 Rg6 42. Bd4
+ Be8 43. Rh2 Ka4 44. Rf2 Kb3 45. Kf3 Ka4 46. Kg2 Kb5 47. Rf3 Kc6 48. Be3
+ d4 49. Bxd4 Kd5 50. Rf4 Rg5 51. Rf6 Ke4 52. Rh6 Kd3 53. Kh2 Ke2 54. Rh8
+ Bc6 55. Rc8 Bd5 56. Rc7 Rf5 57. g4 hxg4 58. hxg4 Rg5 59. Kh3 Rg7 60. g5
+ Kf3 61. g6 Rxg6 62. Rxf7 Ke4 63. Kh4 Rg8 64. Kh5 Bc6 65. Kh6 Rd8 66. Kg5
+ Rxd4 67. Rf4 Kd3 68. Rxd4 Kxc3 69. Rd6 Bb5 70. Rxe6 Kxb4 71. Rh6 c3 72. Rh2
+ Kxa5 73. e6 Kb4 74. Kf4 Kb3 75. Ke3 a5 76. Rh5 c2 77. Rxb5 Kc4 78. Kd2
+ Kxb5 79. e7 1-0
+ [B resigns]
+
+Final Position:
+8 | |/| |/| |/| |/|
+7 |/| |/| |P| |/| |
+6 | |/| |/| |/| |/|
+5 |p|k|/| |/| |/| |
+4 | |/| |/| |/| |/|
+3 |/| |/| |/| |/| |
+2 | |/|p|K| |/| |/|
+1 |/| |/| |/| |/| |
+   a b c d e f g h
+
+
+----- Ed Maillet (White)
+ip05872@portland.maine.edu
+
+
+

@@ -1,0 +1,123 @@
+Date: Mon, 14 Aug 1995 13:57:24 -0600
+From: Richard Quick <richard.quick@slug.org>
+Reply to: usa-tesla@usa.net
+To: billb@mail.eskimo.com
+Subject: OZONE & COILING GASSES
+
+Quoting Graham Armitage <TeslaKing@aol.com>: 
+
+ > Now that the RF Ground subject has been dealt with there are   
+ > two other subjects about which I have my own ideas but have    
+ > never had the opportunity (until now) to discuss with other    
+ > Tesla builders. 
+
+ > The first involves ozone. As we all know our Tesla efforts     
+ > help considerably in replenishing the ozone layer but what     
+ > about it's immediate effects. I know it is a strong oxidant    
+ > but have read reports about it being carcinogenic. Does anyone 
+ > have any thoughts or knowledge on this subject? 
+
+I have spent hours upon hours in closed garages sweating it out
+with kilowatts of restive ballast and ozone so thick it literally
+choked those who were not acclimated to the foul air.
+
+I am a firm believer that a little ozone is stimulating, and that
+this highly reactive gas oxidizes many common air pollutants, but
+is that all a coiler is exposed to? Is it really safe to breath
+the exhaust gasses from the main system spark gap for long
+periods of time in a closed environment?
+
+No.
+
+Chemical reactions take place where corona and discharges from
+the secondary coil ionize the air. Chemical reactions also take
+placed in the arc of the main system spark gap. Most of the
+ionization and secondary discharges produce ozone, but the arc at
+the main system spark gap is so hot that various nitrogen oxides
+are also produced. Rather than try to research all of the
+possible physiological effects of these gasses individually or in
+combination, their toxicity levels, etc., I will try to give some
+simple guidelines towards common sense prevention, and list some
+common symptoms of overexposure.
+
+The first thing that the coiler needs to be aware of is that the
+sense of smell becomes accustomed to the presence of these gasses
+and that the nose is not an accurate means of determining
+exposure levels. I have on many occasions spent hours cooped up
+with a coil, performing experiments fairly comfortably, when
+someone else walked in from outside and complained bitterly about
+the ozone and nitrogen oxide levels being quite toxic. Since the
+complainer was a licensed physician who has researched the
+medical effects of ozone in high concentrations, I was forced on
+more than one occasion to heed the advice to shut down and
+ventilate before I resumed spinning the wattmeter. 
+
+First some guidelines:
+
+1) You smell ozone, but it is not strong. You have not been
+firing for more than 15 minutes cumulative. Your ventilation is
+good (complete air exchange every 15 min). Everything is fine.
+
+2) You don't smell strong ozone, but you have been firing for
+more than 15 minutes cumulative without good ventilation. In this
+instance your nose is accustomed and is no longer an accurate
+gauge to your exposure to these toxic gasses. You may be
+overexposed, then again you may not.
+
+3) Your eyes water and burn. Your throat burns. You feel a slight
+respiratory congestion. If you experience any one, or a
+combination, of these symptoms: shut down and ventilate. Do not
+resume without a complete air exchange. Leave the area while
+ventilating.
+
+I was warned by the physician mentioned above that long term
+exposure to high levels of ozone will damage the corneas of the
+eyes, but I have never encountered or heard of a case where
+anyone has suffered ocular damage as a result of exposure to
+ozone levels typical to coiling. However I have discovered that
+in over 50% of those coilers whom I questioned, overexposure to
+coiling gasses trigger intense migraine headaches. These
+headaches typically do not start until the day following the
+overexposure. They tend to be quite intense, cannot be treated
+effectively with over the counter pain relievers, and usually
+last from four to eight hours.
+
+I have had perhaps two migraine headaches in my entire life
+before I started coiling. Even with the coiling I was fine until
+I was consistently firing at power levels over 1.5 kVA. Soon
+however, I found myself having three or four genuine migraine
+headaches a week. The headaches started mid-morning and lasted
+all afternoon. I was finally able to determine that my migraines
+were directly related to my exposure of ozone and nitrogen oxides
+as a result of high powered coiling in a poorly ventilated area.
+Before I was able to make this connection (about two weeks) I was
+spending a good deal of time painfully ill and I missed a
+respectable amount of work as a result. 
+
+During one of my annual jaunts somewhere to meet up with other
+coilers, I related my experiences to a group and was surprised at
+the number of others who had had similar battles with migraines.
+About half of those whom had been affected had already made the
+connection to their exposure to coiling gasses, the others were
+dumbstruck!
+
+Later, in an effort to increase my power levels while reducing my
+discomfort, I discovered that simply venting out the gasses from
+the main system spark gaps was very helpful. Apparently, and this
+is a supposition, the combination of ozone with nitrogen oxides
+is more detrimental than exposure to ozone alone.
+
+By fitting my cylinder static gaps with plastic dryer ducts and
+venting the ducts outside I was really able to reduce both the
+room ventilation requirements, and the headaches. With a little
+bit of awareness and practice I am now able to determine when I
+am reaching toxic blood levels before I am overexposed to the
+point that I am subject to getting a migraine the following day.
+
+Just thought I might pass these little pointers along.
+
+Richard Quick
+
+
+.. If all else fails... Throw another megavolt across it!
+___ Blue Wave/QWK v2.12

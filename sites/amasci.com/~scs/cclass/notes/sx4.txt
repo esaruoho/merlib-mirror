@@ -1,0 +1,18 @@
+Chapter 4: More about Declarations (and Initialization) 
+
+ Chapter 4: More about Declarations (and Initialization) 
+
+ 4.1 Arrays 
+ 4.2 Visibility and Lifetime (Global Variables, etc.) 
+ 4.3 Default Initialization 
+ 4.4 Examples 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995-1997
+// mail feedback

@@ -1,0 +1,35 @@
+Computer Cryptology's Suggested Configuration 
+
+ Stats - Configuration 
+
+ Cypherpunk 
+
+ CPunk Stats URLs 
+
+ http://www.aarg.net/remailer/rlist.html 
+ http://digilander.iol.it/italyanonymous/rlist.html 
+ http://www.tahina.priv.at/~cm/stats/rlist.html 
+ http://www.privacyresources.org/frogadmin/MyCypSta1.html 
+ http://lexx.shinn.net/cmeclax/rlist.html 
+ http://dingo.1hwy.com/Dingorlist.html 
+ http://outel.org/mix/rlist.html 
+
+ CPunk Chain Stats URLs 
+
+http://www.eskimo.com/~turing/remailer/stats/rchain.html 
+
+ CPunk Keys URLs 
+
+ Mixmaster 
+
+ Mix Stats URLs 
+
+ http://www.aarg.net/remailer/mlist.html 
+ http://www.tahina.priv.at/~cm/stats/mlist.html 
+ http://www.privacyresources.org/frogadmin/MyMixSta1.html 
+ http://lexx.shinn.net/cmeclax/mlist.html 
+ http://dingo.1hwy.com/Dingomlist.html 
+ http://digilander.iol.it/italyanonymous/mixlist.html 
+ http://outel.org/mix/mlist.html 
+
+ Mix Stats URLs

@@ -1,0 +1,660 @@
+Pure Mac: Recipes - Software for Macintosh 
+
+ Recipes 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Beverages 
+
+ Cookbooks 
+
+ BarGenie 
+ BarWare 
+ BeerAlchemy 
+ BeerMeister 
+ Homebrew Formulator 
+ Party Pro for iPod 
+
+ BusyCooks RecipeDB 
+ The Computer Cookbook 
+ Computer Cuisine 
+ Connoisseur 
+ A Cook's Books 
+
+ CookWare 
+ iCuistot 
+ Kitchen 
+ MacGourmet 
+ Measuring Cup 
+
+ Recipe Box 
+ Organized Gourmet 
+ Shop'NCook 
+ Yum 
+ YummySoup 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ BarGenie 1.0.2 
+
+More recipes than a sailor can handle, at your fingertips. With fast
+search built right in, you can quickly and easily find the drink you
+were looking for, or maybe find a new one you didn't know you wanted.
+Export your favorites to your iPod, bartending manual, BAC calculator
+and more.
+
+ License : Shareware, $20
+ Author/Publisher : Pracx
+ Modification Date : July 9, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ BarWare Deluxe 2.5 
+
+BarWare Deluxe is a bartending guide, giving you instructions on
+everything from making classic drinks to building your mixology
+vocabulary.
+
+ License : Shareware, $13
+ Author/Publisher : Digital Fried Chicken
+ Modification Date : April 25, 2003
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 4.5 MB
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ BeerAlchemy 1.5.4 
+
+BeerAlchemy is designed to help homebrewers create great beer. It takes the drudgery out
+of recipe formulation and looks after all your recipes too!
+
+ License : Shareware, $30
+ Author/Publisher : Kent Place Software
+ Modification Date : October 24, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ BeerMeister 3.0 
+
+When I first started homebrewing a few years ago, I spent a lot of time
+looking for recipes...and for Macintosh recipe software. In the process,
+I collected quite a few recipes, but didn't find much software. So I
+decided to write my own. The result, which you see here, is BeerMeister.
+
+ License : Shareware, $15
+ Author/Publisher : Ethan Rutter
+ Modification Date : August 31, 2005
+ Requirements : Mac OS X
+
+ Download 
+File Size: 6.0 MB
+
+ Home Page 
+
+ BusyCooks RecipeDB 4.2.1 
+
+Organize all your recipes on the Mac or PC and simplify meal planning!
+ Enter and organize your own recipes
+ Add or remove categories as needed
+ Search hundreds of recipes in seconds
+ Edit recipes quickly and easily
+ Create shopping lists
+ Print recipes automatically
+ Email recipes to friends & family
+ Export database for quick back-up
+ Import recipes from the BusyCooks.com free recipes area without typing anything
+ Post your recipes to the BusyCooks.com free recipes area without typing anything
+ Swap recipes with other RecipeDB users. Send your database to another user to import your recipes on their software, and vice versa.
+ Cut and paste recipes into database from web sites, text files, emails, etc.
+
+ License : Shareware, $18
+ Author/Publisher : BusyCooks
+ Modification Date : July 1, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ The Computer Cookbook 3.1.6 
+
+The Computer Cookbook allows you to keep track of, add, delete and
+manage your Recipes easily on your computer. The Big Deal about my
+program is that you enter your recipes as you would find them in real
+recipes, As Whole numbers & FRACTIONS. No need to convert your recipes
+to decimals like most other cookbook / recipe programs make you do. With
+The Computer Cookbook you would enter 2 3/4 cups AS 2 3/4 cups. The
+Computer Cookbook also allows you to Re-Size your recipes without
+permanently changing your original recipe. You can even print out this
+re-sized recipe!
+
+ License : Shareware, $30
+ Author/Publisher : C D Rhodes
+ Modification Date : November 16, 2003
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Computer Cuisine Deluxe 5.0 
+
+Computer Cuisine Deluxe is the perfect solution to allow you to
+conveniently view, print, sort, file, organize and save your cooking
+recipes. Features include a well designed layout that makes adding,
+viewing, sorting, finding and printing a snap. In addition to the
+simple, yet highly graphical layout, Computer Cuisine Deluxe allows you
+to add an infinite number of your own recipes to the existing database.
+This will allow your personal recipe database to grow and grow! Also
+includes over 1,000 recipes to help you get started! Don't want anyone
+elses recipes? No problem. You can delete them all to ensure that only
+your recipes make it into the database.
+
+New Features! - With a host of new features, now you can manage your
+shopping list, plan a full weeks worth of meals with the meal planner,
+or see nutritional information geared exactly to your calorie
+requirements! See below for more on the new features.
+
+ License : Shareware, $20
+ Author/Publisher : Inaka Software
+ Modification Date : November 18, 2007
+ Requirements : Mac OS X
+
+ Download 
+File Size: 29.5 MB
+
+ Home Page 
+
+ Connoisseur 1.2.1 
+
+Connoisseur makes managing your recipes as easy as iTunes makes managing
+your music. From the elegant and snappy interface to auto-completing
+ingredients, we have put in the hard yards so you can focus on what is
+important; entertaining your guests.
+ Features at a glance
+ Manage Recipes: Add your own recipes or change ours.
+ Sort with ease: Find the recipe you want, fast.
+ Recipe Scaling: Big family? No problem.
+ Importing; Import any recipe.
+ Online Catalogue: Discover and share recipes.
+ Shopping List: Know what to buy.
+ Cooking View: Cook without destroying your Mac.
+ Unit conversion: Go metric!
+ Export to PDA: Compatible with Handy Shopper.
+ Export to iPod: Turn it into a cookPod.
+ Export to PDA (2): Compatible with SplashShopper.
+ Informational Freedom: Based on open formats.
+
+ License : Shareware, $20
+ Author/Publisher : The Little App Factory
+ Modification Date : October 18, 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ A Cook's Books 1.2.1 
+
+A Cook's Books is a powerful and elegant recipe manager / nutritional
+reference tool created specifically for Macintosh OS X users.
+
+ License : Shareware, $25
+ Author/Publisher : 3CAAM Software
+ Modification Date : November 11, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ CookWare Deluxe 3.2 
+
+CookWare Deluxe makes collecting and organizing recipes really simple.
+The concept of CookWare Deluxe recipe software is to be very easy to use
+without giving up features. Dragging and dropping 
+recipes into CookWare Deluxe makes adding recipes really fast.
+You can drag recipes from your Internet browser or word processor
+directly into CookWare Deluxe, categorize it and you're finished! After
+dropping your recipe into CookWare Deluxe use the Editing Helpers to
+reformat and change the abbreviations for ingredients so your entire
+collection of recipes are consistent. The Editing Helpers also auto-fill
+the recipe.
+
+ License : Shareware, $36
+ Author/Publisher : DigitalFriedChicken
+ Modification Date : November 12, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 27.1 MB
+
+ Download 
+File Size: 4.8 MB
+
+ Home Page 
+
+ Homebrew Formulator 2.7.5 
+
+Homebrew Formulator is an application for creating and managing beer recipes on Mac OS X.
+It is a Filemaker runtime application, so it has a powerful database driving its
+capabilities. It was developed by John Tull and Ken Nussear to meet our personal needs,
+but we have decided to make it available to the public free of charge. Of course, you can
+always send us some beer or donations if you would like.
+
+ License : Freeware
+ Author/Publisher : John C. Tull & Ken Nussear
+ Modification Date : January 18, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 21.4 MB
+
+ Home Page 
+
+ iCuistot 1.1 
+
+iCuistot follows the trend set by Apple's iApps. It provides a powerful
+feature set with an easy to use and familiar user interface. iCuistot
+provides a great recipe management software by taking the best from
+popular software like iTunes, iCal, Keynote, Safari and the Address
+Book. iCuistot will quickly becomes your best cooking companion!
+ Everything is at your Fingertip
+ With the Inspector all the information is centralized in a nicely place.
+More than 150 different informations may be saved for each recipes.
+Everything is so well organized that you will find what your want
+quickly. From categorization to notes, from nutritional information to
+dietary exchange lists, from appreciation to accompaniment, from the
+recipe image to preparation time, from digital rights managements
+options to Dublin Core metadata about everything is supported.
+Naturally, you fill what your want. The only required information is the
+recipe name. The inspector is contextual. When you edit recipes, you see
+recipes properties, and when you edit themes, you see themes properties.
+The Inspector can either be attached to the main window as a drawer or
+floating as a standalone window. All the flexibility is allowed, nothing
+less.
+
+ License : Shareware, $26
+ Author/Publisher : Cafederic
+ Modification Date : October 21, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 5.8 MB
+
+ Home Page 
+
+ Kitchen 1.0 
+
+Organize All Your Recipes
+ Are you tired of losing recipes and having to search through a stack of books to find them? Enter all your recipes into Kitchen, and you'll never have that problem again. Browse and search your recipes for that perfect meal for any occasion.
+
+Shopping Lists
+ Are you going to the store and wish there was an easy way to print out a list of all the items you need? Simply select all the recipes you have planned for the week, and Kitchen automatically generates a shopping list for you.
+
+Email Your Recipes
+ Do you wish you could easily email recipes to your friends and family? Kitchen lets you send recipes at the click of the mouse.
+
+ License : Shareware, $15
+ Author/Publisher : Epigroove
+ Modification Date : July 26, 2004
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 12.4 MB
+
+ Home Page 
+
+ MacGourmet 2.2.5 
+
+You organize your digital photos, you make playlists of your mp3s. Now
+bring your recipe organization into the 21st century with MacGourmet.
+Think of MacGourmet as "iTunes for recipes."MacGourmet helps you create
+and edit recipes, wine notes and cooking notes, easily browse your
+entire collection and build your own custom lists for categories like
+appetizers or desserts.
+
+In addition to recipes, MacGourmet lets you save notes and labels for
+wines you've had, creating a digital "wine scrapbook." Had a great wine
+that would go well with a certain recipe? MacGourmet lets you make a
+relationship between them. In fact, make one or many relationships
+between every kind of recipe box item.
+
+And like your wine notes, you can keep lists of your cooking notes,
+those nuggets of wisdom that are general and not necessarily specific to
+any one recipe or wine.
+
+ License : Shareware, $25
+ Author/Publisher : Advenio LLC
+ Modification Date : January 3, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.9 MB
+
+ Home Page 
+
+ Measuring Cup 1.2.3 
+
+I would like to think that it is the easiest to use recipe management
+software out there in the Mac OS X land. Think iTunes or iPhoto for
+recipes. Specifically, these are the features:
+ Simple organization of recipes. iTunes/iPhoto kind of organization. Allows user defined categories and sub-categories. Searchable.
+ In-place editing. Some software have a presentation view that is different from a editing view. I find that cumbersome. I like to edit my recipe as easy as when I am viewing it.
+ Undo/Redo support. Good - no, make that great - undo/redo support. I am a careless person and tend to make mistakes and so I absolutely need this support.
+ Simple view of a recipe. Shows the most important detail in the main screen. The rest is tucked away in an Aqua drawer.
+ Aqua luscious. I try to be a good OS X citizen.
+ XML backing store. You probably don't care about this but I thought it would be cool to mention it. All recipes are stored as XML file for easy sharing eventually.
+
+ License : Freeware
+ Author/Publisher : Shallot Patch
+ Modification Date : January 4, 2008
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ Organized Gourmet 2.3 
+
+Organized Gourmet is a complete recipe management application with the
+unique ability to schedule meals and integrate with iCal.
+
+Recipe Management - Create new recipes, edit or delete them, and group
+similar recipes (create, edit, or delete the groups as well) for easy
+access. Search for recipes by name or ingredient and sort the recipes by
+any of the information displayed. A recipe includes the following
+information: ingredients, directions, cook time, difficulty, and serving
+size. Email recipes with the click of a button.
+
+Schedule Meals - Drag and drop recipes onto the built-in calendar to
+schedule a meal for a given day. The calendar displays not only the name
+of the recipe, but an icon for the group that it belongs to. Hit the
+'iCal' button to integrate the scheduled recipes into iCal under their
+own Calendar. Full details about the recipe, including the name,
+ingredients, and directions, are included in the new iCal entries.
+
+Shopping List - After scheduling meals, view and print a shopping list
+for the selected day or week. Combine similar ingredients.
+
+Convert Units - Convert any value from one unit to another.
+
+ License : Shareware, $10
+ Author/Publisher : Ex- Spectator Software
+ Modification Date : October 12, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.4 MB
+
+ Home Page 
+
+ Party Pro for iPod 7.0.5 
+
+The ultimate bartending and party guide for your iPod.
+ Give yourself:
+ - The 800 most used drink recipes
+ - 55 drinking games
+ - Global bar and club guide for every major US + European city
+ - Bartending tips and tricks
+ - 100 pick-up lines for both men and women
+ - Post-party solutions
+
+ License : Shareware, $10
+ Author/Publisher : Helmes Innovations
+ Modification Date : February 1, 2007
+ Requirements : Mac OS X and a 3rd Generation iPod or later
+
+ Download 
+File Size: 4.5 MB
+
+ Home Page 
+
+ Recipe Box 1.3 
+
+Recipe Box is the easiest to use, most practical electronic recipe book
+application on the market. It maintains not only a database of your
+favorite recipes that can be displayed or printed scaled for any number
+of servings, but also of the ingredients, units of measure, and
+preparations methods used to ensure minimal typing and maximum
+consistency.
+
+ License : Shareware, $24
+ Author/Publisher : Sonora Graphics
+ Modification Date : January 13, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 10.9 MB
+
+ Download 
+File Size: 7.0 MB
+
+ Home Page 
+
+ Shop'NCook 3.4.2 
+
+The smart solution for your cooking and grocery shopping. Recipes are
+easily added by typing them in, pasting from the clipboard, or importing
+directly from the internet: no formatting is necessary. The wizard
+interprets the recipes, links them to the database of grocery items or
+to other recipes and yields an accurate nutritional analysis without
+user intervention. You organize your recipes by categories and in
+cookbooks that you can share with the free Shop'NCook Reader software. A
+powerful scaling tool lets you scale the ingredients and the text of the
+recipes, make automatic ingredient substitutions and unit conversions.
+The ingredients of the recipes are converted to your preferred shopping
+units and added to a collating grocery list with a click. Contrary to
+most cooking software, grocery lists can also be created by directly
+selecting items of the database, adding from sublists or just typing in
+new items. Other features: customizable database of 2000 grocery items
+with nutritional data for more than 40 nutrients; nutrition scripts to
+control the display of nutritional information and compute custom
+nutritional formulas; e-mail tool to send recipes and shopping lists;
+direct access to an online recipe database where Shop'NCook users share
+their recipes.
+
+ License : Shareware, $35, Pro $100
+ Author/Publisher : Rufenacht Innovative
+ Modification Date : March 13, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 3.4 MB 
+
+ Download 
+File Size: 3.5 MB - Pro
+
+ Home Page 
+
+ Yum 2.3.5 
+
+"Yum" is a recipe collection application featuring:
+ * Dynamic searching of all text - found set of recipes updated as you type the search terms.
+ * Indexing by category - each recipe can belong to any number of user-defined categories.
+ * Several printing options - 1 recipe, all recipes, selected recipes, all recipes in selected category, found recipes. Let's face it, who can afford to have the computer itself in the kitchen and operate it with flour and eggs all over their hands?
+ * Recipe text can be fully formatted including fonts, styles, paragraph settings, and even graphics (copy and paste, or drag and drop) so that pictures of your recipes can be included anywhere within the recipe text.
+ * Recipes can be imported from MasterCook export files, or from other Yum files, and can be exported to Yum! files or to text files.
+Included in the distribution is my own recipe collection, "Sample Collection.yum". This can be used to evaluate the software's cababilities without having to enter your own collection from scratch.
+ Even if the application does not entirely suit your needs, you might like some of these recipes!
+
+ License : Shareware, $ user determined
+ Author/Publisher : Nixanz
+ Modification Date : September 3, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.1 MB 
+
+ Home Page 
+
+ YummySoup! 1.6.2 
+
+What makes YummySoup! so great?
+ - Clean, consistent, easy to use Interface. If you can use OS X, you can use YummySoup!
+ - Browse recipes just like browsing your E-Mail
+ - Simple, Single Panel Recipe Editing
+ - Drag ingredients from web-pages or documents directly into the editor.
+ - Easy on the eyes and easily adjustable Full Screen View
+ - Super intelligent navigating system similar to iPhoto
+ - An online database which you can browse just as it were part of your local library!
+ - You can publish your favorite recipes to the online library
+ - Email recipes that look just like printouts, with an included export file so your friends can easily import the recipes into their copy of YummySoup!
+ and more...
+
+ License : Shareware, $20
+ Author/Publisher : HungrySeacow Software
+ Modification Date : January 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

@@ -1,0 +1,330 @@
+Potpourri of Links 
+
+ Web Development Tools and Resources 
+
+ If you are in the beginning stages of learning how to
+ Design Web Sites, I would like to offer a few suggestions that might help you
+ get started. It is strongly recommended that you get a few beginner books so
+ that you understand how the Internet works and the basics of HTML. It may look
+ easy when you first begin but there is a lot more to becoming a Web Site
+ Developer than just creating a pretty page. For those of you that are
+ experienced you can jump from here to the Links Menu 
+
+ Finally you finish your first page and it looks great on
+ your computer, you place it on a server and find out that it looks horrible to
+ other people with different browsers, screen resolutions, monitor sizes etc.
+ Back to the drawing board you go, to try and figure out how to fix your pages
+ so they look good on other systems. Next you think you've got it down pat, then
+ somebody writes and tells you that they are viewing your site from Lynx (a text
+ viewer) and can't read you pages at all, doesn't know where your links go, have
+ no idea what the graphics are supposed to represent. Did you remember to use
+ your ALT tag with your images? This is just one of the many problems you will
+ run into, understanding these differences before you get started with save you
+ a lot of time and frustration. 
+
+ Oh, did I mention uploading your pages to your server?
+ That was my 1st real surprise, UNIX is what the majority of servers use and it
+ has a different language than DOS. Do you know the UNIX commands that you will
+ need to be able to give permission for people to see your documents, to change
+ directories, make new directories? I suggest you talk to your ISP and find out
+ what you will need to do and then learn a little about how UNIX commands
+ work. 
+
+ Sometimes you start to feel like your
+ Mission is Impossible, that's when I stop and go back to basics.
+ When I first started I wanted to know how to not only use HTML, but I wanted to
+ learn Cgi, Perl, Java, Java Script, Animation, Graphics...I had books all over
+ the floor and desk until I couldn't find anything. Well I still don't know Perl
+ or Java, but I'm not ready yet and couldn't do anything well if I tried to do
+ it all at once. Each day I learn a few new things and I'm happy with my
+ progress. I started writing web pages 6 months ago and already have written
+ pages for other people 
+
+ If you want to earn extra income from developing web
+ sites do you know how to market or plan a business? Do you understand
+ networking? Do you know how to promote yourself? In my case I do not have a web
+ site the promotes me as a web designer, I do however get a lot of requests from
+ people that visit my site. I designed my site to be educational and fun...won't
+ think that people visiting a Llama web site would end up doing business with
+ me, would you? 
+
+ Good luck in your adventure with the Internet, I hope you
+ find some links here that can be of use to you. Please let me know if there are other pages you
+ find that you would like to see linked here. 
+
+ MENU TO LINK SECTIONS 
+
+ Access
+ Counters 
+ Java, JavaScript,
+ Embed 
+ Browsers 
+
+ Sound and Video 
+ HTML Development Info. 
+ Specifications for HTML, HTTP, and
+ URLs 
+
+ Forms & Image Maps 
+
+ CGI Scripting and PERL 
+ HTML Editors 
+
+ Tools and Tips for
+ Images 
+ HTML Validators 
+ Misc. Internet and Web Design
+ Resources 
+
+ Resources for WWW Marketing,
+ Planning & Managing 
+
+ Access Counters 
+
+ Counter
+ Tutorial 
+ More Counter
+ Info 
+ How to Add
+ Counters 
+ Useful
+ URL's to Matts' & Selenas 
+
+ Browsers 
+
+ Emacs-W3 
+ Miscosoft
+ Explorer 
+ Lynx for UNIX and
+ DOS 
+
+ Netscape 
+
+ Moasic 
+
+ Win Web (Win
+ & Mac) 
+
+ HTML Development Information 
+
+ Resources on the Web 
+ Web
+ Developers Virtual Library 
+ The
+ Advanced HTML Resource 
+ HTML Writers
+ Guild 
+
+ Harold Driscolls
+ Resources pages 
+ KillerSites 
+
+ Athenia
+ Associates, great tutorials & Info. 
+ LibraryWWW
+ Resources 
+
+ Forms & Image Maps 
+
+ Client-Site
+ Image Maps 
+ Mapedit, Creating Image Mape
+ tool 
+ Carlos Forms
+ Tutorial 
+
+ WebForm 
+
+ HTML Editors 
+
+ Hot Metal Pro,
+ HTML Editor 
+ HomeSite 2.0 HTML
+ Editor 
+ Hot Dog
+ Editor 
+ HTML
+ Editors Reviews by Carl Davis 
+
+ HyperType 
+
+ HTML Validators 
+
+ Kinder, Gentler
+ Validator 
+ Weblint
+ Home 
+ Web Techs
+ Validator 
+
+ Java, JavaScript, Embed 
+
+ Suns Java
+ Docs 
+ JavaScript for
+ Password file Protection 
+ JavaScripts Tips of the
+ week 
+ Jerry's Java
+ Page 
+
+ Java
+ Boutique 
+ Scrolling
+ Java Script 
+ JARS.com (Java Review)
+
+ The
+ Javascript Index 
+
+ Sound and Video 
+
+ Cresendo Midi
+ Player 
+ TB's Video
+ Site 
+ Digital Video
+ Primer 
+ Juke Box
+ Construction Set 
+
+ Adding
+ Sound 
+ D.
+ J. Quad's Tag Reference 
+
+ Specifications for HTML, HTTP, and URLs 
+
+ HTML
+ Reference 
+ Wilbur HTML
+ 3.2 
+ Internet Developers
+ Association 
+ Useful
+ URL's 
+
+ CGI Scripting and PERL 
+
+ Perl
+ Language Home Page 
+ Matts Web Page
+ Editor 
+ PERL/CGI
+ bulletin board system 
+ Forms in
+ Perl 
+
+ PERL CGI
+ Programming 
+ Idiot's Guide to
+ Solving Perl CGI Problems 
+ CGI
+ Documentation 
+ List of Perl
+ & HTML archives 
+
+ Exploring Perl,
+ tutorial 
+ Learn
+ Perl in 10 Min. 
+ Randel L.
+ Schwartz 
+ Selena Sol's
+ Public Domain Scripts 
+
+ Tools and Tips for Images 
+
+ A+
+ Free Images for Web Pages 
+ Gif Construction
+ set for Windows 
+ Web Tools and
+ Graphics 
+ Gif Annimation on
+ WWW 
+
+ Internet Font
+ Archive 
+ Gif Builder for
+ Macs 
+ True Type
+ Fonts 
+ InVisions
+ Graphics 
+
+ Misc. Internet and Web Design
+ Resources 
+
+ Web
+ Developers Virtual Library 
+ MapBlast 
+ Doctor HTML 
+ Help with
+ Frames 
+
+ Frames, Table
+ & Form Tutor 
+ Pagehost
+ AtoZ 
+ CIAC, Internet
+ Virus Hoaxes 
+ Cyperspace
+ Law 
+
+ Resources for WWW Marketing, Planning & Managing 
+
+ American Demographics &
+ Marketing Tools 
+ American
+ City Business Journals 
+ Business Researchers
+ Interests 
+ Business
+ Bookmarks 
+
+ Company
+ Link 
+ Dow Jones
+ Info. Services 
+ Dun & Bradstreet
+ Info. Services 
+ Electronic
+ Commerce Database 
+
+ Hoovers
+ Online 
+ Thomson &
+ Thomson 
+ US Census
+ Bureau 
+ Wall
+ Street Journal Interactive Edition 
+
+ If you have a web page you would like me to add, drop me
+ a note. 
+
+ Drop a note 
+
+ Home |
+ About Us | Cria To Teen |
+ Funny Llama FAQ | Different Kind Of Ranch Llamas In The House | Snow In The Pasture | Llamas
+ Take A Sun bath | Llama Power
+ Trips Obstacle
+ Training | Playful Yearling
+ Boys | Llamas and Dogs |
+ Our Boys Learning How
+ To Day pack | Obstacle
+ Training | Funny Llama Photos |
+ E-mail 
+
+ Web Pages Created by: PNW Web Design and Internet
+ Consulting, 
+
+ For Web Page Development contact
+ Sandy Stillwell 
+
+ Copyright &copy; 1996-2000, by Sandy
+ Stillwell. All rights reserved, including the right of reproduction in whole or
+ in part, in any form. This document can not be reproduced without the written
+ consent of the owner.

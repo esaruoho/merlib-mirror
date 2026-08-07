@@ -1,0 +1,36 @@
+---
+title: "Index of /~nickz/dec"
+source_domain: amasci.com
+source_path: ~nickz/dec/index.html
+order: 5431
+reachable_from_entry: false
+images: 15
+internal_links: 1
+extracted: 2026-08-07T17:12:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~nickz/dec
+
+*Source page: `~nickz/dec/index.html`*
+
+# Index of /~nickz/dec
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        14-Jul-2004 13:32      -  
+     686esk.dif              31-Aug-2001 23:28     1k  
+     add100.zip              03-Jun-2001 08:19     1k  
+     brr.dir                 01-May-2001 01:54     1k  
+     brr_bin10.exe           01-May-2001 01:54    90k  
+     e1108b.zip              20-Nov-1997 00:04    14k  
+     emergency.exe           01-May-2001 01:55   347k  
+     qiolog-update-info.txt  02-Jun-2001 16:56     4k  
+     rl01Y2Kboot.exe         13-Jun-1999 21:54   140k  
+     rt0901l.zip             31-Aug-2001 23:04     2k  
+     rtfb_y2k-686.dx0        17-Jun-1998 03:56   247k  
+     rtfb_y2k.dx0            01-May-2001 01:54   247k  
+     telnet-song.mid         13-Aug-2001 03:40    10k  
+     telnet-song.nwc         13-Aug-2001 03:37     2k  
+
+------------------------------------------------------------------------

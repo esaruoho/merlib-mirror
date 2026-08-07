@@ -1,0 +1,152 @@
+MOVED TO http://www.amasci.com/miscon/curstat.txt
+
+older version is below...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the difference between                       1997 William Beaty
+static and current electricity?
+
+This is a really hard question to answer.  It's not hard because it's
+complicated, it's hard because dictionaries contain several different
+definitions for each of these words.  If you ask "what is Static
+Electricity?" or "what is Current Electricity", different people will give
+you different answers.  This happens because different people are thinking
+of different meanings for the words "static electricity" and "current
+electricity".  This is a serious problem, because in science we want a
+term like "static electricity" to have just one meaning. When a term has
+several different meanings, people become confused, and they get into
+useless arguments about what "static" and "current" really are. 
+
+Here is a possible solution to this problem.  Don't ask "what is the
+difference between static and current electricity".  Instead ask "what are
+the various definitions of the words 'static electricity' and 'current
+electricity'?"  How do the meanings of the words differ?
+
+
+DEFINITION ONE:
+
+   Static and current electricity are not stuff, they are not energy. 
+   Instead they are subject areas, they are groups of things which happen. 
+   In technical terms, they are called "classes of phenomena".  
+
+For example, "weather" is not a stuff, neither is it a form of energy, but
+if you investigate the sky, you will find lots of "weather" going on.
+Weather is not made of H2O molecules or nitrogen, but weather involves
+water, air, sunlight, etc.  Weather is a class of phenomena.  Humans
+created the idea of "weather", and humans decide when something is
+"weather" or when it is not. 
+
+Under Definition 1, electricity is a thing like "weather."  It doesn't
+really exist except in our minds.  "Electricity" is a bunch of electrical
+happenings which humans have grouped together.  Looking for "electricity"
+inside wires would be as foolish as collecting rainwater in order to look
+for tiny pieces of "weather" in the water. 
+
+Under definition one, STATIC ELECTRIC EVENTS occur whenever positive or
+negative electric charges are held apart from each other.  When you comb
+your hair on a dry day, and then find that the comb can pick up bits of
+dust, then that is a static electric happening, it is an example of
+"static electricity."  But watch out: there is no "static" in the hair or
+in the comb.  Instead, the rising hair IS the "static electricity."  The
+crackling sounds ARE the "static electricity", in the same way that rain
+and wind and sunshine are "weather". 
+
+Under definition one, ELECTRIC CURRENT events occur whenever positive
+charges flow through negative charges, or when negative charges flow
+through positive charges.  When you turn on a flashlight, the charges that
+are already within the wires will begin begin to flow.  The light bulb
+lights up, and the whole thing is a current-electric happening.  It is an
+example of "current electricity."  But no "current electricity" flows in
+the wires.  Instead, the lighting of the bulb, the turning of the switch,
+the unseen motion of the charges, all these things are the "current
+electricity".  They are electrical happenings, electrical phenomena,
+therefor they are "electricity." 
+
+
+DEFINITION TWO
+
+There's another completely different way to think about the words "static"
+and "current": 
+
+  "Static Electricity and "Current Electricity" are two types of science.  
+
+Just as "physics" is a science, and "geology" is a science, there is a
+science called "static electricity."  In professional circles it is
+actually called Electrostatics.  And just as "biology" is a science and
+"optics" is another, there is a science called "current electricity." 
+Scientists have a more official name for it, they call it
+"Electrodynamics."  Static electricity is the study of electric charges,
+and the way they separate and combine.  Static Electricity studies the
+attraction and repulsion between charges, and the invisible electrical
+fields they create.  Current Electricity is the study of the flowing or
+wiggling of charges, of the magnetic attraction and repulsion they create,
+and of the way they can move energy around.  Under definition two,
+"electricity" is not a stuff and not an energy.  In a similar way,
+"physics" and "biology" are not energy or stuff.  Blood moves through the
+arteries and veins, but this is not a flow of "biology".  And electric
+charge might flow inside wires, but this is not a flow of "electricity." 
+
+
+DEFINITION THREE
+
+This definition appears in books and dictionaries, but it is misleading and
+mostly wrong:
+
+   Static electricity and current electricity are two forms of energy.
+
+It is misleading to say that they are energy, because this will give
+everyone the idea that electrical charges are energy.  Charges are not
+energy!  Or perhaps it will lead you to believe that classes of phenomena
+are energy.  Charges are not energy, they are matter.  Classes of
+phenomena are not real things, they are collections of happenings which
+humans have grouped together.  Definition 3 might also give you the wrong
+idea that electric current is a flow of energy. It is not.  When charges
+flow, energy does not flow along with them. There is actually just one
+form of electrical energy.  It is called "electromagnetism." 
+Electromagnetic energy is light, radio waves, magnetic fields, and
+electric fields. Static electricity and current electricity are not
+electromagnetic fields, so they are not a form of energy. 
+
+However, Definition 3 can be found in dictionaries.  People commonly use
+the words "static" and "current" to mean "energy."  This suggests that,
+even though it is wrong, definition 3 is real.  Don't forget that
+dictionaries also contain slang words.  Dictionaries record which words we
+commonly use, even we use those words incorrectly. 
+
+WATCH OUT!
+
+If you start to discuss "static" and "current," people will argue with
+you.  Some people will tell you that Definition One is the real answer,
+and that all the other definitions are wrong.  Other people will try to
+convince you that Definition Two is real and the others are incorrect. 
+But these people are all wrong, since ALL these definitions can be found
+in different dictionaries and encyclopedias.  All three definitions are
+real.  If you prefer one of them, then you have a problem, because there
+is no way to erase the others from all those dictionaries, and there is no
+way to force other people to stop using the alternate meanings of "static"
+and "current." 
+
+My advice: avoid the fight entirely.  Never use the words "static
+electricity", instead say "charge separation" or "the science of
+electrostatics".  Also, never say "current electricity", instead say
+"charge flow" or "electric current", or "the science of electrodynamics". 
+In this way you can avoid all the fuss, and get down to understanding the
+real science that hides somewhere behind all the confusing words.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  www.eskimo.com/~billb
+EE/programmer/sci-exhibits          science projects, tesla, weird science

@@ -1,0 +1,153 @@
+PCMCIA Software Support Fax for Poqet PC Plus
+
+PCMCIA Software Support for 
+Fujitsu Poqet PC Plus Computer
+
+This is the fax I received from Fujitsu's Technical Support Department
+regarding connecting a PCMCIA modem card to the PC Plus.
+I am retyping this fax verbatim in HTML. I absorb all fault to 
+any misspellings or grammatical errors. Any comments between the
+square brackets, [], are mine.
+
+Again, many thanks to Javed Ahmed of Fujitsu Technical Support for
+his assistance. Javed is really a very helpful guy! He also wrote
+on the fax cover page,
+
+You should also know that the PCMCIA compliance is 2.0 JEIDA 4.1
+for the slot[s].
+
+It should be noted here that 
+
+some variations of the Megahertz XJ1144 modem
+
+will also work with the PC Plus.
+
+PCMCIA Software Support
+
+Dated: 10/15/93
+
+Socket Services
+
+The purpose of socket services is to provide a layer of software support to
+the actual PCMCIA hardware that controls PCMCIA-compatible sockets
+for PCMCIA cards. For more information on socket services, please refer
+to the Socket Services Interface Specification, Release 1.01. 
+
+The PoqetPC Plus' PCMCIA socket services are provided in the following
+three driver files, which are preloaded on drive D: of the Poqet Plus
+Series computers:
+
+ PQSS.EXE
+ PQCCU.EXE
+ PQCARD.COM
+
+These drivers are not required for access to Revision 1.0 SRAM cards.
+Only PQSS.EXE an PQCCU.EXE are required for access to Revision 2.0
+SRAM cards or to the AT&T Paradyne Keep-In-Touch card. 
+[My emphasis] Those two files plus PQCARD.COM are required
+for access to a SunDisk.
+
+ Loading the Driver Files from CONFIG.SYS 
+
+The default CONFIG.SYS file loads all three PCMCIA socket services
+drivers and looks like this:
+
+FILES=20
+BUFFERS=20
+DEVICE=C:\OS$CLOCK.SYS
+REM DEVICE=D:\RAMDISK.SYS 32
+DEVICE=D:\PQSS.EXE
+DEVICE=D:\PQCCU.EXE
+INSTALL=D:\PQCARD.COM
+
+ Note: 
+The default CONFIG.SYS file shown above resides on drive C. It is
+regenerated from the ROM drive D every time the system is reset or power is
+applied after a complete loss of power (including loss of bridge battery
+power). Any changes you have made to the CONFIG.SYS file on drive C
+will be lost when this happens. Therefore, if you want to change the
+default CONFIG.SYS file, you should first copy it to a SRAM card in drive
+A or drive B. Then make sure that the card is present whenever you
+boot the system. By default, if the system finds CONFIG.SYS in either
+drive A or drive B, it will use that CONFIG.SYS rather than the default
+CONFIG.SYS on drive C.
+
+ Loading the Driver Files from AUTOEXEC.BAT 
+
+By default, PQSS.EXE, PQCCU.EXE, and PQCARD.COM are loaded from
+the CONFIG.SYS file. You can, however, load them from the
+AUTOEXEC.BAT file, though this is not recommended. If you do load
+these files from AUTOEXEC.BAT, all three must be loaded before the
+PQAUTO command, which appears on line 3 of the default
+AUTOEXEC.BAT file. If you add the three PCMCIA driver files to the
+AUTOEXEC.BAT file, the file should look like this (the socket services
+driver files are shown in bold face):
+
+@ECHO OFF
+PATH=C:\
+ D:\PQSS
+D:\PQCCU
+D:\PQCARD 
+PQAUTO
+IF NOT ERRORLEVEL 2 \AUTOEXEC
+IF ERRORLEVEL 3 \AUTOEXEC
+KEYMOUSE
+PROMPT $P$G
+ECHO Ref R3.02
+VER
+PQTIME
+IF NOT ERRORLEVEL 4 GOTO NOTIME
+DATE
+TIME
+:NOTIME
+C:
+
+[Does anyone have a copy of KEYMOUSE? My PC Plus didn't come with it.]
+
+ Note: 
+The default AUTOEXEC.BAT file on drive C does not load the socket
+services driver files. That AUTOEXEC.BAT file is regenerated from ROM
+drive D every time the system is reset or power is applied after a
+complete loss of power (including loss of bridge battery power). Thus,
+any changes you make to the default AUTOEXEC.BAT file will be lost
+when either of those events occurs. To make lasting changes to the
+AUTOEXEC.BAT file, you must first copy it to a SRAM card in drive A or
+drive B, and then make your changes. As long as the card containing
+the modified AUTOEXEC.BAT is present at boot time, and as long as you
+haven't changed the AUTOEXEC.BAT search path in System Setup, the
+system will execute the AUTOEXEC.BAT file it finds on A or B, and will
+never reach the default AUTOEXEC.BAT on C.
+
+ Loading the Driver Files for Use with an 
+AT&T Paradyne KeepInTouch Card
+
+The Keep-In-Touch card, like Revision 2.0 SRAM cards, requires the
+PQSS and PQCCU drivers. If the driver files are loaded in CONFIG.SYS,
+their respective lines should look like this:
+
+DEVICE=D:\PQSS.EXE
+DEVICE=D:\PQCCU.EXE [/C&#60;PORT&#62;,[&#60;IRQ&#62;]]
+
+where &#60;PORT&#62; is the COM port the modem should occupy, and &#60;IRQ&#62; is
+the Interrupt Request Vector that the modem should use. You can, if
+you want, specify &#60;PORT&#62; without specifying &#60;IRQ&#62;. The default value
+of &#60;PORT&#62; is COM1. The default value of &#60;IRQ&#62; is IRQ4 for COM1 and
+IRQ3 for COM2.
+
+If the drivers are executed from the command line or from
+AUTOEXEC.BAT, the commands should look like this:
+
+PQSS
+PQCCU [/C[&#60;PORT&#62;,[&#60;IRQ&#62;]]
+
+where &#60;PORT&#62; and &#60;IRQ&#62; are as explained above.
+
+ Fujitsu Poqet PC Plus Review 
+
+ Write to me 
+
+Last updated : April 29, 2001
+
+Copyright 1999-2001 Al Wong, Los Angeles, California, USA
+
+&#32;

@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Condorcet's Method</TITLE>
+   <META NAME="description" CONTENT="Miscellaneous things that interest Rob Lanphier-Politics, Emacs, Perl, Electoral Reform, etc....">
+   <META NAME="keywords" CONTENT="Condorcet election single-winner singlewinner reform proportional representation voting democracy approvalinstant runoff perl script program">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0b8Gold (Win95; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P><LINK rev="made" href="mailto:robla@eskimo.com"></P>
+
+<H1>Condorcet's Method</H1>
+
+<P>
+All of the dirt
+on Condorcet's method, an innovative (but not new) method of electing officials
+in single seat elections.  Condorcet's method is a pairwise election system where ranked ballots are used to simulate many head-to-head elections.  The winner of a Condorcet election is the candidate who wins all pairwise matchups.</P>
+
+News items:
+<ul>
+<li>(<b>3/10/2002</b>) - Randall Burns updated the <a href="http://www.outlander.com/condorcet/">Condorcet U.S. Presidential poll</a> for 2004 (now at a new location).
+<li>(2/18/2002) - Here's <a href="http://www.kuro5hin.org/story/2002/2/17/23347/8051">an article I wrote for Kuro5hin</a> about campaign finance reform, which presents the pins the problems typically associated with campaign finance on the two party system.  Good background material for why Condorcet's method is important.
+<li>(10/28/2001) - <a href="http://www.wikipedia.com">Wikipedia</a>, a free collaborative encyclopedia building effort, has a <a href="http://www.wikipedia.com/wiki/Condorcets_Method">page describing Condorcet's method</a>.
+ 
+<li>(11/18/2000) - Randall Burns put up a U.S. Presidential poll based on the aformentioned Perl scripts.
+
+<LI> (10/19/2000) - Russ Paielli and Mike Ossipoff have put together an excellent new page on Condorcet's method (<a href="http://electionmethods.org">http://electionmethods.org</a>) which is much more up-to-date with the current state of thinking, and probably explains it better than I do.   It even has it's own domain name (fancy, huh?)
+</ul>
+
+About Condorcet's method:
+<UL>
+<LI>If you are unsure why we even need to fuss with our election system
+at all, you should read <A HREF="http://www.eskimo.com/~robla/politics/condorcet-explain.html">the 
+political justification for electoral reform and Condorcet's method</A>.
+Campaign finance reform activists, media critics, and those that whine
+about voter apathy take note. This one is written for you. </LI>
+
+<LI>Here's an <A HREF="http://www.eskimo.com/~robla/politics/condorcet-front.html">
+interactive demo of Condorcet's method</A>. The user interface is a tad
+crude, but I think you can get the idea of how Condorcet's method works.  This program was <a href="http://www.samag.com/documents/s=1282/sam01030002/">featured in <i>The Perl Journal</i></a>.
+
+<LI>A technical explanation of Condorcet's method is available <A HREF="http://www.eskimo.com/~robla/politics/condorcet-tech.html">here</A>.
+I get into the specifics of how my program to calculate Condorcet winners
+works. </LI>
+
+<LI>Speaking of my program, <A HREF="http://www.eskimo.com/~robla/politics/condorcet-program.html">here's
+where you can find out how and where to get it from</A>. It's freeware (a.k.a. "<a href="http://www.opensource.org">open source</a>"),
+which means you have access to the source code and can modify and redistribute
+it, with a few strings attached.  It's licensed under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU Public License</a></LI>
+
+<LI>I'm not the only person who has written a program to calculate Condorcet
+winners. <A HREF="http://www.igs.net/~lsaumur/">Lucien Saumur</A> has also
+written a program. It does require downloading, and works only on Microsoft
+Windows. It has a lots of buttons and little clicky things though, so if
+you are into that sort of thing, you might want to try his. </LI>
+
+<LI>Blake Cretney has a great explanation on a Condorcet variant called <a href="http://www.fortunecity.com/meltingpot/harrow/124/path">Path Voting</a>.
+<LI>If you are interested in talking about Condorcet's method and other
+methods of election reform, by all means, join the <A HREF="http://www.eskimo.com/~robla/em">Election
+Methods Mailing list</A>. </LI>
+<LI>It looks as though the <a href="http://www.debian.org">Debian Project</a> has been using a variant on Condorcet for some time called the "Concorde Method".  Read about it in the <a href="http://www.debian.org/devel/constitution">appendix of the group's constitution</a>.  For those that are unfamiliar with Debian, they are responsible for Debian GNU/Linux, which is one of the leading Linux operating system distributions.
+<li>More links can be found on <a href="/~robla/condorcet/links.html">the links page</a>
+</UL>
+
+<H2>What is &quot;Condorcet's method&quot;?</H2>
+
+<P>Condorcet's method is one of several <I>pairwise</I> methods, which
+are great methods for electing people in single-seat elections (president,
+governor, mayor, etc.). Condorcet's method is named after the 18th century
+election theorist who invented it. Unlike most methods which make you choose
+the lesser of two evils, Condorcet's method and other pairwise methods
+let you rank the candidates in the order in which you would see them elected.
+The way the votes are tallied is by computing the results of separate pairwise
+elections between <I>all</I> of the candidates, and the winner is the one
+that wins a majority in <I>all</I> of the pairwise elections.</P>
+
+<P>The best result of this is that if there is Candidate A on one extreme
+who pulls 40% of the vote, Candidate B in the middle who only pulls 20%
+of the vote, and Candidate C on the other extreme who pulls 40% of the
+vote, Candidate B will get elected as a compromise. Why? Because in a two-way
+contest between A and B, B would win with 60% of the vote, and in a two-way
+contest between B and C, B would also win with 60% of the vote. (Note that
+if B is a looney billionaire, he might not be able to win separate pairwise
+elections against anyone, and this <I>would</I> be reflected with Condorcet's
+method.)</P>
+
+<P>Condorcet's method lets voters mark their sincere wishes for who they
+would like to win the election, without having to consider strategy (&quot;I'd
+vote for Candidate B, but I'm afraid of wasting my vote.&quot;). It's really
+just a logical extension of majority rule when more than two choices are
+involved. Other pairwise methods, such as Copeland's method and Smith's
+method, have other desireable characteristics. The best of the pairwise
+methods is something that is <A HREF="http://www.eskimo.com/~robla/em/">quite
+debatable</A>.</P>
+
+<H2>Wait, I've heard of this before...</H2>
+
+<P>You may have. However, there are many methods other methods similar
+to this one (though in my opinion, inferior), so don't be so sure. In order
+to be fair, here are a couple of those other methods:</P>
+
+<UL>
+<LI><B>Majority preference voting (MPV)</B> -- related to PV. Like PV,
+the voter simply ranks candidates in an order of preference (e. 1. Perot
+2. Clinton 3. Bush). The candidate with the least number of first place
+votes is eliminated, and their votes are &quot;transferred&quot; to their
+2nd choice until a candidate has a majority. It is frequently advocated
+and is better than our current system, but still has some nasty properties
+(like possibly knocking compromise candidates out of the running early).
+MPV is actually in use in Austrailia, among other places. Also known as
+Hare's Method.</LI>
+
+<LI><B>Approval</B> -- Voters are allowed to vote for <I>all</I> candidates
+they approve. For example, Bush-Yes Perot-No Clinton-Yes. The candidate
+with the highest number of &quot;yes&quot; votes wins. For a more complete
+explanation, see <A HREF="http://bcn.boulder.co.us/government/approvalvote/center.html">http://bcn.boulder.co.us/government/approvalvote/center.html</A>
+</LI>
+<LI><B><a href="http://dmoz.org/Society/Politics/Campaigns_and_Elections/Voting_Systems/">Other Election Methods</a></B>-The Netscape Open Directory Project now has a pretty complete list of alternate voting systems (ok, I'm probably biased since I'm the maintainer).
+</UL>
+
+<P>Both of these methods are somewhat reasonable solutions. However, they
+fail in many fundemental respects that are discussed on the  <A HREF="http://www.eskimo.com/~robla/em">Election
+Methods Mailing list</A>.
+</P>
+
+<TABLE BORDER=2 >
+<TR>
+<TD><A HREF="http://www.eskimo.com/~robla/politics/condorcet-explain.html">Political
+Justification of Condorcet's Method</A> </TD>
+
+<TD><A HREF="http://www.eskimo.com/~robla/politics/condorcet-front.html">Interactive
+Demo of Condorcet's Method</A> </TD>
+
+<TD><A HREF="http://www.eskimo.com/~robla/politics/condorcet-tech.html">Technical
+Explanation of Condorcet's Method</A> </TD>
+
+<TD><A HREF="http://www.eskimo.com/~robla/politics/condorcet-program.html">Source
+Code for Condorcet Winner Calculator</A> </TD>
+</TR>
+</TABLE>
+
+<P>Related sites: <BR>
+<A HREF="http://wwwis.cs.utwente.nl:8080/kbs/condorcet">The Condorcet Project</A>.
+This is named after Marquis de Condorcet, and has little to do with Condorcet's
+method, but it is related.</P>
+
+<P><A HREF="http://www.igc.apc.org/cvd"><IMG SRC="http://www.eskimo.com/~robla/politics/cvdsmall.gif" ALT="The Center For Voting & Democracy" HSPACE=5 VSPACE=5 BORDER=0 HEIGHT=79 WIDTH=196></A><A HREF="http://www.eskimo.com/~robla/cpr/"><IMG SRC="http://www.eskimo.com/~robla/politics/wacprsml.gif" ALT="Washington CitizensFor Proportional Representation" HSPACE=5 VSPACE=5 BORDER=0 HEIGHT=79 WIDTH=172></A><A HREF="http://www.eskimo.com/~robla"><IMG SRC="http://www.eskimo.com/~robla/politics/littleho.gif" ALT="Rob's Homepage" HSPACE=5 VSPACE=5 BORDER=0 HEIGHT=80 WIDTH=125></A></P>
+
+<P>
+<HR><I><A HREF="mailto:robla@eskimo.com">robla@eskimo.com</A></I> <BR>
+</P>
+
+</BODY>
+</HTML>

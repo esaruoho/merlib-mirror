@@ -1,0 +1,49 @@
+---
+title: "Interview with Hans Zimmer"
+source_domain: amasci.com
+source_path: ~toates/malick/trl/interviews/hansif.html
+order: 9095
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:17:06Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Interview with Hans Zimmer
+
+*Source page: `~toates/malick/trl/interviews/hansif.html`*
+
+# The Inside Film Interview with Hans Zimmer, Music Composer
+
+This interview originally appeared in Inside Film on an unlisted date. Interview by Simon Goodman. Copyright of A & R Publishing, Limited.
+
+No. 5 Film Composer
+
+**Composing the score for The Thin Red LIne was the hardest commission Hans Zimmer has ever accepted. And this is a man with one of the most prestigious portfoliors in the industry including As Good As It Gets, Rain Man, The Last Emperor, The Prince of Egypt and The Rock.**
+
+*Where did you train?*
+
+I had two weeks of piano lessons. I was Stanley Myers' assistant--he wrote the music for *The Deer Hunter.* I was also in the Buggles. Remember *Video Killed the Radio Star?* We ruined a whole generation! I was doing commercials in London for Air-Edel. THey had a load of film composers and that's how I met him.
+
+*What was your first gig and how did you get it?*
+
+*My Beautiful Laundrette.* They let anybody do movies back then. Stanley and I did it together. After that I did *A World Apart.* That was my big break. Barry Levinson's wife liked the music and went out to buy the CD, and Barry hired me for *Rain ManBlack Rain* and *Thelma and Louise* for director Ridley Scott.
+
+*What is the strangest film that you've had to score?*
+
+*True Romance* was the strangest. We had money for nine musicians and so to spite the budget I hired the most useless, incongruous bunch of guys I could find. The diversity gave us a great result!
+
+*And the hardest?*
+
+*Thin Red Line* was the hardest. Terrence Malick wanted me to write the music first. Usually you compose to a rough cut. I threw all my previous knowledge out the window and started again. I needed to provide a structure for him to build the film on. Th one thing Terry gave me was the ability to be a better composer. I wrote for nine months without a day off. It was incredible pressure in the cutting room.
+
+*Where's the best place to learn the craft these days?*
+
+I thought the film music course at UCLA wasn't great so I put together a one-day seminar and taught there. The best training, though, is to just do it, not study it. You learn through failure. Commericals are a good place to start. It's about learning the aesthetics. You could also try becoming someone's apprentice. In LA, I have a whole studio of young composers learning off me all the time, in the same way that I learn from stanley all those years back.
+
+*What about someone who want to get into the business?*
+
+Ask yourself these questions. How sure am I of my talent? How stubborn and resilient am I? You need to stick to your guns when the going is tough. Also see yourself as a film maker, not a composer, because you are writing, but in a different language.
+
+[Back to The Thin Red Line Interviews Page](index.html)

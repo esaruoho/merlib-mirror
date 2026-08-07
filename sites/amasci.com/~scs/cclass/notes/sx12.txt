@@ -1,0 +1,35 @@
+Chapter 12: Input and Output 
+
+ Chapter 12: Input and Output 
+
+ So far, we've been calling printf 
+to print formatted output to the ``standard output''
+(wherever that is).
+We've also been calling getchar 
+to read single characters from the ``standard input,''
+and putchar to write single characters to the standard output.
+``Standard input'' and ``standard output''
+are two predefined I/O streams 
+which are implicitly available to us.
+In this chapter
+we'll learn how to take control of input and output
+by opening
+our own streams,
+perhaps connected to data files,
+which we can
+read from and write to.
+ 12.1 File Pointers and fopen 
+ 12.2 I/O with File Pointers 
+ 12.3 Predefined Streams 
+ 12.4 Closing Files 
+ 12.5 Example: Reading a Data File 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995, 1996
+// mail feedback

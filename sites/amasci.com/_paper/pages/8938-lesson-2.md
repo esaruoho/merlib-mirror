@@ -1,0 +1,53 @@
+---
+title: "Lesson 2"
+source_domain: amasci.com
+source_path: ~telical/lesson2.htm
+order: 8938
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Lesson 2
+
+*Source page: `~telical/lesson2.htm`*
+
+Lesson2
+
+------------------------------------------------------------------------
+
+The Find Word to Substitute feature has made it possible to simply put in your sentence and be shown Word Categories that contain the words in your sentence. This speeds up the process by which you can find related Word Categories. Make a note of the ones that come up and select them when you go into Large Merge. You can also select the Replace by Category for a list of words to come up in Small Merge.
+
+We will use this sentence:
+
+we need to find business for product by want
+
+We select the Find Word to Substitute feature and it looks at the first word in the sentence "we." If the Word Category Type has the All category selected we will get this for the first word: perspro and pronoun. They stand for:
+
+perspro -- personal pronouns
+
+These are such words as: he, her, him, she, their, they, we, you, some, them, each, me, some, anyone, himself, herself, I'm. your. themselves, I'll and I'd
+
+pronoun -- general pronouns
+
+These are such words as:
+
+all, another, any, both, each, several, some, few, many, I, he, you, anything, itself, we, they, our, their, mine, your
+
+Select Continue and the next word "need" will come up. These categories have the word need in it:
+
+mark-seg -- a business category related to marketing segment comnou5 -- a common noun group 5 require -- a general Category Type related to nouns related to the noun requirement but not meaning the same thing pstvrb2 -- a category of past-tense verbs water quality --a list of adjectives related to water quality, as in "needed"
+
+The program will examine each word that you have selected in a similar fashion. If you select a Word Category that comes up you will see the words in that category in the left column. You can select a word in the left column and select "OK" and it will substitute the original word in your sentence with the new word you've highlighted.
+
+We will use this sentence again:
+
+we need to find business for product by want
+
+If you select the word "product" while in the "All" Category Type you will see 18 Word Categories appear that have the word "product" in them. Some will come up twice because they use the word "product" more than once. Select the one you want, lookat the words in that category, and select an individual word in the right column. It will then replace the word you've selected.
+
+[Click Here For Lesson 3](lesson3.htm)
+
+Use your back button or click here for [Table of Contents Page](contents.htm)

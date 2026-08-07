@@ -1,0 +1,697 @@
+---
+title: "SCIENCE HOBBYIST: Balloon Demonstrations"
+source_domain: amasci.com
+source_path: amateur/balloon.html
+order: 94
+reachable_from_entry: true
+images: 2
+internal_links: 9
+extracted: 2026-08-07T17:04:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: Balloon Demonstrations
+
+*Source page: `amateur/balloon.html`*
+
+<table data-summary="site nav" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-cellpadding="5" data-summary="Navigation links">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="/">SCIENCE HOBBYIST</a>  |<br />
+</td>
+<td><a href="/scied.html">PROJECTS</a>  |<br />
+</td>
+<td><a href="/unew.html">GOOD STUFF</a>  |<br />
+</td>
+<td><a href="/news.html">NEW STUFF</a>  |<br />
+</td>
+<td><a href="/search.html">SEARCH</a><br />
+</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
+&#10;</div></td>
+</tr>
+</tbody>
+</table>
+
+<table data-summary="format two columns" width="100%">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"><pre><code></code></pre></td>
+<td width="15"> </td>
+<td data-valign="top" data-summary="main text content" width="800"><h1 id="balloon-demonstrations-science-classroom-physics-instructional-research-association-pira">BALLOON DEMONSTRATIONS, science classroom<br />
+Physics Instructional Research Association, PIRA</h1>
+<a href="/amateur/balloon.html#first">scroll down</a>
+<p>From the PIRA FTP site at<br />
+ftp:// ftp.phys.ksu. edu/pub/pira /news+info/ balloon.txt<br />
+</p>
+<p>Collected from the TAP-L discussion group (Teaching Apparatus in Physics) tap-l@listserv.appstate.edu</p>
+<blockquote>
+Info:<br />
+<a href="http://demoroom.physics.ncsu.edu/tapl/" rel="nofollow">http:// demoroom.physics. ncsu.edu/tapl/</a> about TAP-L forum<br />
+&#10;</blockquote>
+<br />
+<br />
+&#10;<pre><code>
+&#10;
+&#10;</code></pre>
+<hr />
+<span id="first"></span> Date: Wed, 15 Feb 1995 13:04:37 -0500<br />
+From: MAIULLO@r***.edu<br />
+Subject: Balloon Demonstrations<br />
+&#10;<p>Hello fellow Tap-ler's:</p>
+<p>I'm doing a demonstration show on friday night, and I wanted to do a series of demonstrations using balloons as the basis for each one. Example: Balloon in bell jar, pull vaccuum, watch expand. or, balloon in liquid Nitrogen, etc.........</p>
+<p>Does anyone out there have a demo that they think is really neat using a balloon? Either post it here, or, send it to me direct at maiullo@r***.edu,. I have about 10 or so already in mind, and would love to see some novel ideas come through the network. Wouldn't make a bad article, once I got them all collected, would it Roger?</p>
+Thanx again,<br />
+Thanx in advance,<br />
+David M.<br />
+<br />
+&#10;<pre><code>
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 13:27:08 -0500<br />
+From: "Lecture Demo" brett@w***.edu<br />
+Subject: Re: Balloon Demonstrations<br />
+</p>
+<p>Dave -<br />
+</p>
+<p>How about the water balloon heat capacity demo? Fill a balloon with water and hold a lit match or candle up to the surface of the balloon. It will easily withstand the flame because of the high heat capacity of the water. You can even hold it over your head while you torch it if you want some drama. A candle or match works best since it burns cooler than a butane lighter; you can use a lighter but it will sometimes burn through after prolonged heating. Use a good balloon and fill it pretty full so that the skin is stretched thin, but if you get soaked I don't want to hear about it. Wouldn't mind seeing it, though.<br />
+</p>
+<p>Brett<br />
+</p>
+<pre><code>
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 13:49:23 -0500<br />
+From: FNILON@P***.EDU<br />
+Subject: Re: Balloon Demonstrations<br />
+</p>
+<p>Dear Dave:<br />
+</p>
+<p>Balloon electroscope: charge 2 balloons on opposite ends of a string and hold the string in the middle. Charge a balloon and put on the wall, podium, or whatever. You can also raise a little hair holding a charged balloon over someones head.<br />
+</p>
+<p>Change of phase in CO2: Place a small pellet of dry ice in a small test tube and cover the top with a balloon (deflated). Inflate the balloon by warming it in you hands until the dry ice has sublimated. Immerse the test tube in liquid nitrogen and dry ice will form on the sides of the test tube and the balloon will deflate (and sometimes get sucked into the small test tube.<br />
+</p>
+<p>Best wishes on you lecture<br />
+Frank N.<br />
+Pomona College<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:38:07 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+</p>
+<p>BALLOON-COATED BOTTLE INTERIOR: I recall a demo in T.P.T. where a balloon is quickly stretched across the mouth of a flask containing a small amount of rapidly boiling water. The flame is then removed, and as the flask cools, the balloon is sucked entirely inside until it "coats" the inside of the flask. When offered as a pre-made item, the balloon-coated flask is immensely befuddling. How the heck did that balloon get in there?!!!<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>From: Steve L.<br />
+Subject: Re: balloons tricky problem<br />
+<br />
+</p>
+<p>If we assume that the balloon is moving slowly near the surface of the planet, where the gravitational field (measured by g) is uniform, the density of the atmosphere is constant, and the effects of air resistance are smaller than the buoyant force, then the upward acceleration of the balloon is proportional to g.<br />
+</p>
+<p>Let m = mass of the rubber balloon itself, V = the volume of the balloon (assumed constant), d(air) = density of the atmosphere, and d(gas) = density of gas inside the balloon. Then the downward force on the balloon is mg + d(gas)Vg, and the upward buoyant force is d(air)Vg. The upward acceleration then turns out to be<br />
+</p>
+<p>a = ((d(air) - d(gas))V - m)g/(m + d(gas)V)<br />
+</p>
+<p>(Too bad we can't write proper equations on the net...) Anyway, if air resistance is neglected, the upward acceleration is proportional to g, and a balloon will rise more slowly if g is the only thing that changes. Even allowing for a lower atmospheric density as a result of a smaller g, the upward acceleration decreases with decreasing g. I haven't worked out the case with air resistance yet.<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:38:36 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+</p>
+<p>Here's one from Daedalus in Britain: a cardboard box which is not stable, and falls over, even though it is a perfect cube. In reality, the box is brown paper stretched on a frame, and has a large helium balloon in one side, so that it's center of gravity is shifted to OUTSIDE the base of the box.<br />
+</p>
+<p>Another: creating neutral density with carrots and duct tape. Tie a stick of carrot (etc.) to a helium balloon, and eat it shorter until the balloon just hangs in the air without rising or falling. If you bite too much, add weight by sticking patches of duct tape to the balloon. A roomful of these is great fun. If you make a custom mylar-bag balloon, fill it with helium, then cover it with duct tape until it's buoyancy is neutralized, you can play catch with it and show that air has considerable mass even when weightless.<br />
+</p>
+<p>Here's one that a friend found: SOUND LENS. A balloon acoustic lens. Normally a balloon is under pressure and has a higher index of acoustic refraction than the surrounding air, so it bends sound waves and behaves as a lens. Sound from distant sources will be focused behind the balloon. Practice with a balloon and a microphone, and you'll soon be able to listen in on distant conversations. Use a balloon and a tiny loudspeaker, and you'll be able to project a sound beam to an individual listener. Blow up your balloon so the rubber is really tight, this compresses the air more.<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:46:21 -0500<br />
+From: EBERT@U***.EDU (Ron E. - UC Riverside Physics Department)<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+</p>
+<p>David, how about sticking a long darning needle through a balloon without busting it? [go through the soft areas: through the fill-spout and the "nipple" -bill b.]<br />
+</p>
+<p>Or a 2 to 1 mixture of hydrogen and oxygen in the balloon, which has a tube in the stem that has a wire connected to a small Tesla coil. The Tesla coil is turned on by a remote foot switch (loadest bang you ever heard.)<br />
+</p>
+<p>Or tie a small weight to the end of the balloon and suspend the balloon in an air jet, tilting the jet away from a vertical angle.<br />
+</p>
+<p>Ron E<br />
+UCR Physics Department<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:46:45 -0500<br />
+From: cbettis@***.edu (clifford b)<br />
+Subject: Re: Balloon Demonstrations<br />
+</p>
+<p>While you have the dry ice and the balloon:<br />
+</p>
+<p>Put some in a balloon, tie off the ballon and weigh it on a balance, watch the "weight" change as the dry ice sublimes. When the balloon is fully inflated it can be used as a sound lens (I usually use a weather balloon for this). The effect is most striking if you use a fairly incoherent source of sound (e.g. running water).<br />
+</p>
+<p>Cliff<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:47:31 -0500<br />
+From: EBERT@U***.EDU (Ron E. - UC Riverside Physics Department)<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+Fill a balloon with helium and tie it to a weight. Put the balloon on a cart and then place a large bell jar around the balloon. When you shove the cart forward, the balloon moves forward, contrary to what you would expect.<br />
+</p>
+<p>Ron E<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:55:06 -0500<br />
+From: Lecture Demo<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+Dave -<br />
+Another balloon demo is the helium balloon in helium. I do it with a large glass battery jar. Blow up a helium balloon so that it's buoyant in air, then put it inside the upside-down glass jar and let it float to the top. Then squirt some helium into the jar until it displaces the air. The helium balloon then sinks to the bottom as it's no longer lighter than the "air" in the jar. If you pick the jar up, the balloon will float at the bottom of the jar on the air/helium interface. Tip the jar to let the helium escape and the ballon rises back to the top of the jar.<br />
+</p>
+<p>If you don't have a large-enough glass jar, you can remove one side of a cardboard box and replace it with a piece of acrylic or other plastic sheet. Just make sure to seal all the edges with some duct tape etc. so the helium won't leak too fast.<br />
+</p>
+<p>Brett<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 14:55:31 -0500<br />
+From: cbettis@u***.edu (clifford b.)<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+One more thing I do to explain the sound lens is use an oscilloscope and microphone to measure the speed of sound through the CO2 filled balloon. I then calculate the index of refraction and focal length (at least for the higher frequencies).<br />
+</p>
+<p>Cliff<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 15:03:10 -0500<br />
+From: EBERT@U***.EDU (Ron E. - UC Riverside Physics Department)<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+Expanding universe demo - connect a balloon to an air supply. As you slowly inflate it, paint dots on it in different colors. Every dot moves away from every other dot, emulating the behavior of galaxies in our universe.<br />
+</p>
+<p>Ron E.<br />
+UCR Physics Department<br />
+<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 15:54:13 -0500<br />
+From: Richard_E_BERG@u***.edu (rb22)<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+Dave, et. al.:<br />
+</p>
+<p>For this demonstration you need two identical balloons (about 12 inch maximum diameter models), a plastic tube a few inches long of diameter such that the balloons can be blown up and connected over the end of the tube, and a wire hose clamp.<br />
+</p>
+<p>Connect one balloon to one end of the tube, blow it up to about three inches in diameter and clamp it so no air can flow out of the balloon. Blow up the second balloon to about six inches in diameter and slip it onto the other end of the tube. No air can flow between the balloons because of the hose clamp.<br />
+</p>
+<p>What will happen when the clamp is removed:<br />
+(a) Will the smaller balloon become smaller and the larger balloon larger?<br />
+(b) Will they become equal in size?<br />
+(c) Will they stay the way they are?<br />
+<br />
+</p>
+<p>Let the group vote, then perform the experiment with the smaller balloon on top. Suggest that the reason for the resulting effect is that when the clamp is removed gravity pulls the air downward. After the boos and hisses subside, tell them the real reason, if you can think of one.<br />
+</p>
+<p>Dick B.<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:01:46 -0500<br />
+From: chuckr@W***.edu (Chuck R.)<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+Fill a balloon with a gas that has a molecular weight greater than air. Don't blow it up all the way. If you leave it set, air molecules will diffuse into the balloon and it will get bigger.<br />
+</p>
+<p>========== ========== ========== ========== ========== ==========<br />
+Charles R.<br />
+Department of Physics FM-15<br />
+University of Washington<br />
+Seattle, WA 98195<br />
+========== ========== ========== ========== ========== ==========<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:02:08 -0500<br />
+From: William Beaty<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+</p>
+<p>On Wed, 15 Feb 1995, Ron Ebert - UC Riverside Physics Department - 909 787 5730 wrote:<br />
+</p>
+<p>&gt; Expanding universe demo - connect a balloon to an air supply. As<br />
+&gt; you slowly inflate it, paint dots on it in different colors. Every dot<br />
+&gt; moves away from every other dot, emulating the behavior of galaxies<br />
+&gt; in our universe.<br />
+<br />
+</p>
+<p>And the opposite, while not exactly a physics demo, is also fun: Totally inflate a small balloon, then write on it in ink, in the smallest writing you can manage. When deflated, the writing becomes unreadably small. Kids can then use a 50x microscope to decode it. Make your own microscope slides? Send secret messages and drawings?<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:18:02 -0500<br />
+From: MAIULLO@r***.edu<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+Everyone: Thanx for the tremendous response to my request for "balloon" demonstrations. Some of them I had already thought of, but there's always lot's of great variations in everybody's descriptions of what they do, and some I can't wait to try. Keep them coming!!<br />
+</p>
+<p>Dave<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:35:11 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+</p>
+<p>Variation on the balloon electroscope:<br />
+</p>
+<p>Add weights (carrot?) to a helium balloon to make it neutrally-buoyant (or slightly heavy) (in a low humidity environment) rub the balloon with fur, wool, etc. to electrically charge its entire surface. Now each of two "players" also uses fur to charge a spot on one or two balloons held in the hands. Then play slow-motion pingpong, using the neutralized balloon as the ball.<br />
+</p>
+<p>Something similar can be done with a single air-filled balloon and two hand-held balloons, all which were given extreme surface charge. Use the two hand held balloons to levitate, or even "juggle" the single balloon. This can be quite hilarious, as the demonstrator gains and loses control over the balloon, while running all over the stage and crashing into things.<br />
+</p>
+<p>Another one pops into mind which I have not tried. Charge the surface of a dark colored balloon, write a large character upon it with a dry finger, then clap some chalkboard erasers near the balloon. Xerography effects will create a dark character upon a light background.<br />
+</p>
+<p>Adhere a small mirror chip to a balloon, use the mirror chip to bounce a laser beam to a distant screen, then hum, yell, sing, etc. at the balloon. You should get spirograph patterns as multiple resonances create Bessel- function-type patterns all over its surface.<br />
+</p>
+<p>Hold an electrically charged balloon near your mouth as you blow bubbles with a bubble ring, and the bubbles will end up with an opposite charge from the balloon. They will be strongly attracted to the balloon, and can be held suspended by keeping the balloon overhead (at least as long as there is no motion of the air)<br />
+</p>
+<p>Build a transparent enclosure with an open top, place a cake of dry ice within, allow it to fill with CO2, then drop fully-inflated balloons in. They should sit on the transparent gas. I haven't tried this one, but it DOES work with soap bubbles. If balloons end up being too heavy, this can be cured by inflating them with a helium/air mixture to lower their densities.<br />
+</p>
+<p>Fill one balloon with helium, another with sulphur hexaflouride. Breathe from one to talk higher, from the other to talk lower. If you cannot get these gases in safe, high-purity form, then don't take any chances in breathing them!<br />
+</p>
+<p>Draw a face upon a helium balloon, then use fur to charge only the area of the face. Suspend it from a string. Do the same with a second balloon, but hold it by hand. The balloons refuse to speak with each other, since the suspended balloon will rotate its face away from the approaching charged balloon. A "Friendly" version of this can be had by charging the surface of the suspended balloon OPPOSITE the face, so the face will rotate to face the oncoming hand held balloon.<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:35:39 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+On Wed, 15 Feb 1995 MAIULLO@ruthep.rutgers.edu wrote:<br />
+&gt; Everyone: Thanx for the tremendous response to my request for "balloon"<br />
+&gt; demonstrations. Some of them I had already thought of, but there's always<br />
+&gt; lot's of great variations in everybody's descriptions of what they do, and<br />
+&gt; some I can't wait to try. Keep them coming!!<br />
+&gt;<br />
+&gt; Dave<br />
+&gt;<br />
+<br />
+</p>
+<p>Make sure to try all these in advance, since I'm just pulling some ideas out of the air as I go along, and have no idea whether you might encounter difficulties when you actually try to perform them!<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:36:29 -0500<br />
+From: John M.<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+Hello out there! I just joined the list-server today so I don't know if anyone recently suggested this experiment. Mix a small amount of cupric chloride ( or Lithium chloride, Barium Bromide, something colorful when it burns) with a little methanol and put it inside a large balloon. Fill the balloon with Hydrogen and attach it to a heavy weight using along string. Attach a candle to a long pole and ignite the balloon. It explodes and shows the color of the chemical inside.<br />
+</p>
+<p>John M.<br />
+Univ. of Fl, Dept. of Physics<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:36:54 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+Take two circular sheets of mylar, one transparent and one aluminized, seal them edge to edge, then inflate. When under solar illumination, I wonder if the inside mirror curve is uniform enough to light fires at its focus. If 100-meter mylar sheets were employed, you could go into competition with that French research station with the giant mirror. Or roast REALLY BIG hotdogs on a sunny day...<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:44:51 -0500<br />
+From: Richard_E_BERG@u***.edu (rb22)<br />
+Subject: Re: RE: Balloon Demonstrations<br />
+<br />
+There is a great little paperback book which is probably exactly what Dave is looking for, if one can get it quickly.<br />
+</p>
+<p>Glenn McGlathery and Larry Malone: Tons of Scientifically Provocative and Socially Acceptable Things to Do with Balloons under the Guise of Teaching Science. Copyright 1991 Libraries Unlimited, Inc. Available from TEACHER IDEA PRESS, A Division of Libraries Unlimited, Inc., P. O. Box 6633, Englewood, CO 80155-6633.<br />
+</p>
+<p>Contains 83 experiments covering nine broad areas of science. Written for elementary and middle school students, but many of us never got beyond that point.<br />
+</p>
+<p>Dick B.<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 16:45:19 -0500<br />
+From: William Beaty<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+</p>
+<p>A friend, Jim Burrows of THE SCIENCE CLUB outreach company, uses a balloon demo as one of the few safe explosions that kids can do. Inflate a balloon, tape a short length of fine steel wire to its surface, connect this wire to the bare ends of some heavy "zip cord," speaker wire then connect the other end of the cord to a 6V lantern battery. The thin wire gets red hot and bursts the balloon. The best source of thin steel wire is steel wool (use the grey kind, and the ultra-fine XXXX type works well.) To assure a good contact between the steel and the copper, wrap the steel fiber around the copper wire then clamp it with an "alligator clip." I've always wanted to rig up a bunch of these with various balloon sizes and have a computer and an interface card do the popping automatically. Then I can write a program to play the balloon-popping version of THE WILLIAM TELL OVERTURE ! I'd need a couple of hundred balloon-circuits though...<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Wed, 15 Feb 1995 19:26:47 -0500<br />
+From: wayne@p***.us (Tony W.)<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+</p>
+<p>Blow up 4 balloons to the same size. Rub them with a rabbit fur. They hover away from each other.<br />
+</p>
+<p>Take a lit match and hold it in the center of the group after they have been charged. The balloons will come together again. THe fire is a source of free ions that will neutralize the charges on the balloons.<br />
+</p>
+<p>After the balloons have been charged, spray a mist of water on the balloons. The water vapors allow for conduction of charge to neutralize the balloons.<br />
+</p>
+<p>Take a flip flash apart. Cut out each flash bulb. Hold a balloon 10 feet away and rub it with a fur. Hold one lead from the flash bulb with a pair of pliers. Bring the other lead close to the balloon. Charge will jump from the balloon to the bulb and light it. If the bulb doesn't light, then the bulb charged too slowly (not enough current through it). Just touch the bulb to something grounded -like a sink faucet. this discharge will light it.<br />
+</p>
+<p>Take a 2 liter bottle, put a straw in it -a bendy straw. Put a balloon in it. Keep the mouth of the balloon exposed so you can blow it up. Inflate the balloon. While it is inflated, remove the straw quickly and keep the balloon over the mouth of the bottle. The balloon will stay inflated. (You can do similar things with one of those (sun tea bottles. Use the built in valve instead of a straw.)<br />
+</p>
+<p>rest an 8 ft 2x4 on an old double convex lens. Bring a charged balloon close to the board and it will rotate.<br />
+</p>
+<p>Bring a charged balloon close to an empty drink can. The can will race to the balloon.<br />
+</p>
+<p>-tony<br />
+--<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Thu, 16 Feb 1995 10:02:25 -0500<br />
+From: Paul N.<br />
+Subject: RE: Balloon Demonstrations<br />
+<br />
+</p>
+<p>&gt;Fill a balloon with helium and tie it to a weight. Put the balloon on<br />
+&gt;a cart and then place a large bell jar around the balloon. When you<br />
+&gt;shove the cart forward, the balloon moves forward, contrary to<br />
+&gt;what you would expect.<br />
+&gt;<br />
+&gt;Ron E.<br />
+<br />
+</p>
+<p>Don't forget the balloon in the car trick!<br />
+</p>
+<p>It might work with your demo bell jar if you can get enough acceleration.<br />
+</p>
+<p>Works like this: Helium filled balloon tied to a string so that it is free to roam around the car. When you hit the breaks, you get pushed toward the front of the car - the balloon gets pushed toward the rear. Have fun watching them explain that one.<br />
+</p>
+<p>Paul N.<br />
+Valparaiso University<br />
+<br />
+</p>
+<pre><code>
+&#10;
+&#10;
+</code></pre>
+<hr />
+<p>Date: Thu, 16 Feb 1995 10:10:21 -0500<br />
+From: lauterburg@u***.ch (Urs L.)<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+</p>
+<p>Hello David,<br />
+</p>
+<p>As already mentioned by others I find one nice experiment making use of a balloon to show how balloons filled with different gases either focus or defocus sound waves. Fill the ballon with Helium, CO2 or air. Place the balloon between a small speaker and a microphone and measure the microphones output. I get best results with a sine frequency of about 2.5 kHz. CO2 focuses the sound and Helium defocuses, with air of course there is no difference.<br />
+</p>
+<p>And when you have a balloon filled with Helium, you can inhale some of it and explain the experiment sounding like a little baby. Students like it a lot. But probably this is an old one and therefore well known.<br />
+</p>
+<p>greetings from Switzerland Urs<br />
+</p>
+<pre><code>
+&#10;
+&#10;</code></pre>
+<hr />
+<p>Date: Thu, 16 Feb 1995 10:58:51 -0500<br />
+From: FNILON@P***.EDU<br />
+Subject: Re: Balloon Demonstrations<br />
+<br />
+Dear fellow ballooner:<br />
+</p>
+<p>Our astro professor likes to fill a luminous painted (spots) punch ball with hydrogen and illuminate it with a black light: the expanding universe. Then we do the big bang by igniting the balloon with a propane torch (at arms length of course).<br />
+</p>
+<p>You can also fill the punch ball with compressed air and do the Newton's third law action-reaction.<br />
+</p>
+<p>Put an tied and uninflated balloon in a vacuum chamber and pump out the air. Put a balloon on the end of a tube in a one hole bell jar and pump out the air; or, stretch a rubber membrane across the bottom on the bell jar and show how our diaphragm works.<br />
+</p>
+<p>2 more cents<br />
+Frank N.<br />
+Pomona College<br />
+</p>
+<pre><code>
+&#10;
+</code></pre>
+<hr /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table data-summary="format two columns" width="100%">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;" width="180" data-valign="top" data-summary="google ad"></td>
+<td width="15"> </td>
+<td data-valign="top" data-summary="main text content" width="800">Date: Thu, 14 Mar 1996 05:19:44 -0800 (PST)<br />
+From: William Beaty<br />
+Subject: balloon 0-G boulder<br />
+<br />
+On Fri, 8 Mar 1996 gaulf@w***.us wrote:<br />
+<br />
+&gt; Hello, I am a Lab.Tech. at Westmoreland County Community College.<br />
+&gt; I set up the Chemistry and Physics Labs and also work with the Horticulture<br />
+&gt; Lab.<br />
+&gt; This is my first message on Tap-l.<br />
+&gt;<br />
+&gt; Has anyone ever tried to make a balloon from mylar ? I often see mylar<br />
+&gt; balloons being sold and wonder about what kind of mylar I would need and<br />
+&gt; where to find it.<br />
+<br />
+&#10;<p>Try a "space blanket." This is an aluminized mylar sheet sold as an emergency heat-reflective blanket and usually found in camping stores and auto parts stores. ("Heat" reflective???!)<br />
+</p>
+<p>One thing I did: make a 3ft. tetrahedron balloon, inflate with helium and seal it, then apply enough duct tape to the surface to produce neutral buoyancy. I took some time with the duct tape and distributed it uniformly over the surface in small strips so that no face of the balloon was heavier than others, and the balloon would only barely rotate to a particular orientation.<br />
+</p>
+<p>The end result was a strange lumpy boulder with considerable mass but zero weight: a zero-gee object! The mass could be felt by shaking it, or by playing a violent game of catch. But when released, it would just hang in the air. The helium only escaped slowly, and I compensated by removing duct tape. The large diameter of the balloon made for considerable buoyant force, with corresponding considerable duct tape mass. It lasted for several days before needing more helium.<br />
+</p>
+<p>______<br />
+It's not too hard to make a tetrahedron balloon using mylar and rubber cement. Overlap and glue opposite edges of the sheet together to form a tube, with about 1.5" overlap for strength, and minimal rubber cement for low weight. Strong bonds are made by lightly coating opposite faces with rubber cement, waiting a couple minutes for partial drying, then laying the glued sheets together.<br />
+</p>
+<pre><code>               
+           ___----___
+         /            \
+       /                \
+      |                  |
+     |      END VIEW     ||
+     |       OF TUBE     || overlap
+      |                  |
+       \                /
+         \____    ____/
+              ----</code></pre>
+<br />
+&#10;<p>You then flatten and glue one open end together to form a long "pillowcase" shape, sweep the bag through the air to inflate it, then flatten the other end closed, but on a line perpendicular to the first sealed end. Flatten enough of this end so that the inflated part is tetrahedral, trim the extra back to 1.5", and overlap/glue this joint together.<br />
+</p>
+<pre><code>               
+                          ____--/\
+                  ____----      ||
+            __----         __--|  |
+           /           __--    |  |
+          /        __--       |    |
+         /     __--           |    |
+        / ___--                |  |
+       /==____                 |  |
+              ----____          ||
+                      ----______\/
+</code></pre>
+<br />
+&#10;<p>Yes, the points of the tetrahedron are a problem. You can fold them over and glue the fold to the rest of the balloon, which makes the finished shape closer to a lumpy sphere than to a tetrahedron. Or make 2" mylar disks, fold them into cones (filter-paper style fold) and overlap/glue them to the points of the balloon. Don't forget to leave one point open for inflation.<br />
+</p>
+<p>Challenge: determine the dimensions needed for the sheet so that a perfect tetrahedron will be formed when the edges are glued together.<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<p>Another one: put a penny in a balloon, blow up the balloon and tie it off. Now shake the balloon to get the penny bouncing, then "swirl" the balloon in a circular motion, and the penny will begin rolling on edge. The penny orbits in the balloon with the inner balloon surface acting like a strange "gravity well."<br />
+</p>
+<p>Once you can produce the orbiting penny effect, lay your head on a table, hold the balloon in one hand and get the penny to orbit, then place the balloon on your ear. The sound from the penny is fabulous! Decreasing frequency motor noises from all directions! Sounds like UFOs landing.<br />
+</p>
+<p>With skill you can pull this prank: Make two penny/balloons, orbit the pennies VERTICALLY, so the pennies roll up over the top rather than in a horizontal plane. Now, approach someone from behind, get the pennies going fast, and clamp the balloons on either side of the head of your victim. They will experience the ufo-landing noise, but coming from all directions. This gets interesting reactions. And gives the perpetrator a certain reputation!<br />
+</p>
+<p>Oh, I just had a thought. It hasn't happened to me yet, but it's possible that the above prank could seriously backfire if the victim was wearing sharp earrings, or if the balloons were inflated to nearly the point of rupture. Maybe it would be better not to take someone by surprise with this, since one of the balloons might pop!<br />
+</p>
+<p>William Beaty voice:206-762-3818<br />
+EE/Programmer/Science exhibit designer<br />
+Seattle, WA 98117           SCIENCE HOBBYIST web page<br />
+<br />
+</p>
+<hr /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+\
+
+|     |
+|:---:|
+|     |
+
+------------------------------------------------------------------------
+
+Want books? Try searching <a href="http://www.amazon.com/exec/obidos/redirect-home/sciencehobbyist/" rel="nofollow">amazon.com</a>:\
+
+(try " <a href="http://www.amazon.com/exec/obidos/tg/browse/-/13841/ref=br_bx_c_1_0/sciencehobbyist/" rel="nofollow">science experiment project</a>" too)
+
+[/amateur/balloon.html](/amateur/balloon.html)\
+Created and maintained by [Bill Beaty](/billb.html). Mail me at: [<img src="/graphics/abc.gif" data-border="0" width="141" height="19" />](/amfrm/).\
+
+<div class="statcounter">
+
+<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
+
+</div>
+
+[View My Stats](http://statcounter.com/p10408414/?guest=1)

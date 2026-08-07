@@ -1,0 +1,51 @@
+JBM - Ballistics - Equations
+
+ [Ballistics] 
+ [Bibliography] 
+ [Downloads] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - Ballistics - Equations
+
+ This page address equations commonly used in small arms
+ ballistics. I'll add to the list as required/requested.
+
+ Where applicable, variables and references have been listed 
+ at the end of each page.
+
+ CD and KD 
+
+ Derivations of the equations used in the point mass 
+ trajectory calculations. It includes equations for
+ CD, BC and KD.
+
+ Crosswind 
+
+ Derivations of the classic crosswind deflection formula.
+
+ Energy 
+
+ A discussion of potential and kinetic energy with a
+ worked example.
+
+ Integration 
+
+ Changing variables of integration to make the trajectory
+ equation more convenient to integrate.
+
+ Sectional Density 
+
+ Equation for calculating sectional density
+
+ Runge Kutta Integration 
+
+ Equations for numerical integration using Runge Kutta methods.
+
+ Last update 29 June 2004, Copyright &copy; 1996-2004
+ JBM 
+ [V]

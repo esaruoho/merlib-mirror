@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
+<!-- This collection of hypertext pages is Copyright 1995 by Steve Summit. -->
+<!-- Content from the book "C Programming FAQs: Frequently Asked Questions" -->
+<!-- (Addison-Wesley, 1995, ISBN 0-201-84519-9) is made available here by -->
+<!-- permission of the author and the publisher as a service to the community. -->
+<!-- It is intended to complement the use of the published text -->
+<!-- and is protected by international copyright laws.  The content is -->
+<!-- made available here and may be accessed freely for personal use -->
+<!-- but may not be published or retransmitted without written permission. -->
+<html>
+<head>
+<link rev="owner" href="mailto:scs@eskimo.com">
+<link rev="made" href="mailto:scs@eskimo.com">
+<title>Question 6.8</title>
+<link href="q6.7.html" rev=precedes>
+<link href="q6.9.html" rel=precedes>
+<link href="s6.html" rev=subdocument>
+</head>
+<body>
+<H3>Question 6.8</H3>
+<p>Practically speaking,
+what
+is the
+difference between arrays and pointers?
+</p><hr>
+<p>Arrays automatically allocate space,
+but can't be relocated or resized.
+Pointers must be explicitly assigned to point to allocated space
+(perhaps using <TT>malloc</TT>),
+but can be reassigned
+(i.e. pointed at different objects)
+at will,
+and have many other uses
+besides serving as the base of blocks of memory.
+
+</p><p>Due to the
+
+
+
+so-called
+equivalence of arrays and pointers
+(see question
+<a href=q6.3.html>6.3</a>),
+arrays and pointers often seem interchangeable,
+and in particular a pointer to a block of memory
+assigned by <TT>malloc</TT> is frequently treated
+(and can be referenced
+using <TT>[]</TT>)
+exactly
+as if it were a true array.
+See questions
+<a href=q6.14.html>6.14</a>
+
+and
+<a href=q6.16.html>6.16</a>.
+(Be careful with <TT>sizeof</TT>,
+though.)
+</p><p>See also
+questions <a href=q1.32.html>1.32</a> and <a href=q20.14.html>20.14</a>.
+</p><hr>
+<p>
+Read sequentially:
+<a href="q6.7.html" rev=precedes>prev</a>
+<a href="q6.9.html" rel=precedes>next</a>
+<a href="s6.html" rev=subdocument>up</a>
+<a href=faq.html>top</a>
+</p>
+<hr>
+<p>
+This page by <a href="http://www.eskimo.com/~scs">Steve Summit</a>
+// <a href="copyright.html">Copyright</a> 1995
+// <a href="mailto:scs@eskimo.com">mail feedback</a>
+</p>
+</body>
+</html>

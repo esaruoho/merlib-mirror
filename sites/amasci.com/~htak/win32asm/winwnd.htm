@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<title>Window Styles</title>
+</head>
+<body>
+<h1>Window Styles</h1>
+
+[ <a href="win32asm.htm">Back to Win32 ASM Page.</a> ] 
+
+<p>Class styles<br>
+CS_VREDRAW: client area redrawn when vertical size changes<br>
+CS_HREDRAW: client area redrawn when horizontal size changes<br>
+CS_KEYCVTWINDOW: undocumented ???<br>
+CS_NOKEYCVT: undocumented ???<br>
+CS_DBLCLKS: enable double clicks detection<br>
+CS_CLASSDC: persistent DC created, shared by all windows<br>
+CS_OWNDC: persistent DC created for each window<br>
+CS_PARENTDC: window borrows (inherits) parent's DC<br>
+CS_NOCLOSE: Close option deleted from system menu, close button
+disabled<br>
+CS_SAVEBITS: save covered portion of screen for repaint after
+window removal<br>
+CS_BYTEALIGNWINDOW<br>
+CS_BYTEALIGNCLIENT<br>
+CS_GLOBALCLASS</p>
+
+<p>Window styles<br>
+WS_OVERLAPPED<br>
+WS_POPUP<br>
+WS_CHILD</p>
+
+<p>WS_DISABLED: no keyboard input or mouse click detected,
+overrides all enables</p>
+
+<p>WS_VISIBLE: make visible using given coordinates and size<br>
+WS_MINIMIZE: make visible in minimized form<br>
+WS_MAXIMIZE: make visible in maximized form</p>
+
+<p>WS_CLIPSIBLING: don't redraw area covered by sibling<br>
+WS_CLIPCHILDREN: don't redraw area covered by children</p>
+
+<p>WS_VSCROLL: show and enable vertical scroll bar<br>
+WS_HSCROLL: show and enable horizontal scroll bar<br>
+WS_THICKFRAME: show and enable thick sizing border</p>
+
+<p>WS_BORDER: show thin border<br>
+WS_DLGFRAME: show dialog box border<br>
+WS_CAPTION: show and enable caption (title bar) and thin
+border<br>
+WS_SYSMENU: show and enable system menu icon<br>
+WS_MINIMIZEBOX: show and enable minimize button<br>
+WS_MAXIMIZEBOX: show and enable maximize button</p>
+
+<p>If there's no caption</p>
+
+<p>WS_TABSTOP: mark as tab stop<br>
+WS_GROUP: mark as group box</p>
+
+<p>Extended styles</p>
+
+<p>WS_EX_WINDOWEDGE: 3-d window border<br>
+WS_EX_CLIENTEDGE: 3-d client border<br>
+WS_EX_STATICEDGE: 3-d (child?) border</p>
+
+<p>WS_EX_DLGMODALFRAME: double border, can be used with
+WS_CAPTION<br>
+WS_EX_TRANSPARENT: make transparent (see-through) window<br>
+WS_EX_CONTEXTHELP: show and enable context help button</p>
+
+<p>WS_EX_LEFTSCROLLBAR: put vertical scrollbar on left instead of
+usual right<br>
+WS_EX_RIGHT: right alignment (ragged left) instead of usual left
+alignment, works only with WS_EX_RTLREADING languages<br>
+WS_EX_RTLREADING: right to left reading instead of usual left to
+right</p>
+
+<p>WS_EX_TOPMOST: marks as topmost window, this style creates two
+sets of windows, topmost and nontopmost</p>
+
+<p>WS_EX_MDICHILD: make an MDI child window style<br>
+WS_EX_TOOLWINDOW: make a tool window style<br>
+WS_EX_APPWINDOW: make minimized window show up on taskbar<br>
+WS_EX_CONTROLPARENT: enable tab stops of children<br>
+WS_EX_NOPARENTNOTIFY: child window doesn't send WM_PARENTNOTIFY
+on creation and destruction<br>
+WS_EX_ACCEPTFILES: drag-and-drop target for files<br>
+
+</p>
+
+<hr>
+</body>
+</html>
+

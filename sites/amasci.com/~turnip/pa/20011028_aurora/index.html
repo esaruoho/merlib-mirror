@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Aurora - near Granite Falls, WA</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<STYLE><!--
+ A{text-decoration:none}
+--></STYLE>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFCCCC" vlink="#FFCCCC" alink="#FFCCCC">
+<script language="JavaScript">
+function WritePrompt(strPrompt) {
+  if (document.all) { // IE4+
+    document.all.PromptDisplay.innerHTML=strPrompt
+  } else if (document.layers) { // NS4
+    document.ns4PromptDisplay.document.ns4PromptDisplay2.document.write(strPrompt)
+    document.ns4PromptDisplay.document.ns4PromptDisplay2.document.close()
+  } else if (document.getElementById) { // NS6
+    // document.getElementById("PromptDisplay").innerHTML=strPrompt
+    // Above: using deprecated innerHTML; below: DOM-oriented code
+    range = document.createRange();
+    elID = document.getElementById("PromptDisplay");
+    range.setStartBefore(elID);
+    htmlFrag = range.createContextualFragment(strPrompt);
+    while (elID.hasChildNodes())
+    elID.removeChild(elID.lastChild);
+    elID.appendChild(htmlFrag);
+  }
+}
+
+var cntr=1
+var ImageList=new Array()
+ImageList[1]='Aurora_1.jpg'
+ImageList[2]='Aurora_2.jpg'
+ImageList[3]='Aurora_3.jpg'
+ImageList[4]='Aurora_4.jpg'
+// Preload images
+var p = ImageList.length
+var preLoad = new Array()
+for (i = 0; i < p; i++){
+   preLoad[i] = new Image();
+   preLoad[i].src = ImageList[i]
+}
+
+function showSlide(intForBack) {  // -1 for previous, 1 for next
+  if (intForBack==-1) {
+    cntr--;
+    if (cntr<1) cntr=p-1;
+  } else if (intForBack==1) {
+    cntr++;
+    if (cntr>(p-1)) cntr=1;
+  }
+  document.images.imgDisplay.src = preLoad[cntr].src
+  WritePrompt(cntr+'&nbsp;|&nbsp;'+(p-1))
+}
+</script>
+
+<h3><font face="Arial, Helvetica, sans-serif"> Northern Lights!</font></h3>
+<p><font face="Arial, Helvetica, sans-serif" size="-1">&nbsp;&nbsp;&nbsp;October 
+  28, 2001 - Near Granite Falls, WA</font> </p>
+<center>
+  <table border="0" cellspacing="0" cellpadding="3">
+  <tr>
+      <td colspan="3"><img src="1px.gif" width="1" height="440"><img name="imgDisplay" src="Aurora_1.jpg"></td>
+  </tr>
+  <tr>
+        <td width="*" align="right"><font face="Arial, Helvetica, sans-serif"> <a href="javascript:showSlide(-1)">|&lt;</a></font></td> 
+        <td width="200" align="center"><font face="Arial, Helvetica, sans-serif"><div id="PromptDisplay" align="center"></div>
+        <ilayer id="ns4PromptDisplay"><layer id="ns4PromptDisplay2"></layer></ilayer></font></td>
+        <td width="*" align="left"><font face="Arial, Helvetica, sans-serif"><a href="javascript:showSlide(1)">&gt;|</a></font></td>
+  </tr>
+</table>
+</center>
+<p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif" size="+2"><b><font size="+3">F</font></b></font><font face="Arial, Helvetica, sans-serif">or 
+  two days after receiving the <a href="http://www.spaceweather.com/">Spaceweather.com</a> 
+  email alert indicating that recent solar activity could spark a low-latitude 
+  display of the northern lights, I kept a close eye on the web pages that track 
+  auroral activity&#151;but nothing doing. <a href="http://www.sec.noaa.gov/rt_plots/kp_3d.html"><img src="kp_med.gif" width="259" height="89" border="0" align="right" vspace="10" hspace="10"></a>Fast 
+  forward to midnight, Saturday night: dozing in my living room chair, bad movie 
+  in the VCR &amp; glass of wine in my belly, I decided to hit the hay. But first, 
+  just one more peek at the charts. It was then that I saw that one of the main 
+  indicators, the &quot;Kp&quot; index, had skyrocketed in the past few hours 
+  (right). So I pulled on shoes &amp; a sweatshirt, grabbed my camera gear and 
+  drove north for over an hour looking for dark skies &amp; clear horizons. When 
+  I reached the vicinity of Granite Falls, I found what I was looking for! It's 
+  been 20 years since I last saw the northern lights; now I've got the pictures 
+  I've been trying to get ever since! Of the four images included here, #3 is 
+  my favorite. (If you care about photo details: 28mm, f2.5, 10-20 sec exposures, 
+  Fuji 800 film.)</font></p>
+<p><font face="Arial, Helvetica, sans-serif">This page uses Javascript to display 
+  the pictures; if you have any problems viewing them (e.g., images are stretched, 
+  slideshow doesn't work at all, etc.), I'd appreciate knowing about it via <a href="mailto:&#116;urnip&#064;&#101;skimo.com">email</a>.</font></p>
+<p> <i><font face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;- Rob</font></i> 
+  <script>WritePrompt(cntr+'&nbsp;|&nbsp;'+(p-1))</script>
+</p>
+</body>
+</html>

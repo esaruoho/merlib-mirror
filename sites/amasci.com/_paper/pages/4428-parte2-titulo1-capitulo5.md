@@ -1,0 +1,43 @@
+---
+title: "parte2 titulo1 capitulo5"
+source_domain: amasci.com
+source_path: ~krautm/parte2_titulo1_capitulo5.html
+order: 4428
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:11:12Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# parte2 titulo1 capitulo5
+
+*Source page: `~krautm/parte2_titulo1_capitulo5.html`*
+
+#### **CAPITULO V**
+
+#### **DE LA FUERZA PUBLICA**
+
+##### **Articulo 172.** De la composicin
+
+La Fuerza Publica esta integrada, en forma exclusiva, por las fuerzas militares y policiales.
+
+##### **Articulo 173.** De las Fuerzas Armadas
+
+Las Fuerzas Armadas de la Nacin constituyen una institucin nacional que sera organizada con caracter permanente, profesional, no deliberante, obediente, subordinada a los poderes del Estado y sujeta a las disposiciones de esta Constitucin y de las leyes. Su misin es la de custodiar la integridad territorial y la de defender a las autoridades legitimamente constituidas, conforme con esta Constitucin y las leyes. Su organizacin y sus efectivos seran determinados por la ley.
+
+Los militares en servicio activo ajustaran su desempeo a las leyes y reglamentos, y no podran afiliarse a partido o a movimiento politico alguno, ni realizar ningun tipo de actividad politica.
+
+##### **Articulo 174.** De los tribunales militares
+
+Los tribunales militares slo juzgaran delitos y faltas de caracter militar, calificados como tales por la ley, y cometidos por militares en servicio activo. Sus fallos podran ser recurridos ante la justicia ordinaria. Cuando se trate de un acto previsto y penado, tanto por la ley penal comun como por la ley penal militar, no sera considerado como delito militar, salvo que hubiese sido cometido por un militar en servicio activo y en ejercicio de funciones castrenses. En caso de duda de si el delito es comun o militar, se lo considerara como delito comun. Slo en caso de conflicto armado internacional, y en la forma dispuesta por la ley, estos tribunales podran tener jurisdiccin sobre personas civiles y sobre militares retirados.
+
+##### **Articulo 175.** De la Policia Nacional
+
+La Policia Nacional es una institucin profesional, no deliberante, obediente, organizada con caracter permanente y en dependencia jerarquica del rgano del Poder Ejecutivo encargado de la seguridad interna de la Nacin. Dentro del marco de esta Constitucin y de las leyes, tiene la misin de preservar el orden publico legalmente establecido, asi como los derechos y la seguridad de las personas y entidades y de sus bienes; ocuparse de la prevencin de los delitos; ejecutar los mandatos de la autoridad competente y, bajo direccin judicial, investigar los delitos. La ley reglamentara su organizacin y sus atribuciones.
+
+El mando de la Policia Nacional sera ejercido por un oficial superior de su cuadro permanente. Los policias en servicio activo no podran afiliarse a partido o a movimiento politico alguno, ni realizar ningun tipo de actividad politica.
+
+La creacin de cuerpos de policia independiente podra ser establecida por ley, la cual fijara sus atribuciones y respectivas competencias, en el ambito municipal y en el de los otros poderes del Estado.
+
+(Return to **[GOVERNMENT)](government.html)**

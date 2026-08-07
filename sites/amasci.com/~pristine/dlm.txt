@@ -1,0 +1,230 @@
+Pure Mac: Download Managers - Software For Macintosh 
+
+ Download Managers 
+
+ DeepVacuum 
+ Download Wizard 
+ Download Accelerator Plus 
+
+ Envoy 
+ Get-A-Matic 
+ GNU wget 
+ iGetter 
+
+ Monica 
+ Platypus Downloader 
+ Speed Download 
+
+ DeepVacuum 1.27 
+
+DeepVacuum is a shareware, a useful web utility based on GNU wget
+command line tool. Program includes a vast number of options to fine
+tune your downloads through both http and ftp protocols.
+
+DeepVacuum enables you to download: whole single pages, entire sites,
+ftp catalogs, link lists from a text file, filtered types, ex. images.
+
+ License : Shareware, $7
+ Author/Publisher : HexCat
+ Modification Date : December 24, 2004
+ Requirements : Mac OS X 10.3 or higher
+
+ Direct Download 
+ File Size: 871 Kb
+
+ Home Page 
+
+ Download Accelerator Plus 2.1 
+
+Download Accelerator Plus (DAP), the world's leading download manager,
+allows you to download up to 300% faster with increased reliability,
+resume support and error recovery.
+
+DAP is now available for Mac, with the power and features which made it
+the most popular download manager for Windows.
+
+DAP is fully integrated into the browser, providing the best possible
+performance from ANY Internet connection (dial-up, cable, DSL / ADSL, T1
+etc.), allowing a faster and more reliable download experience.
+
+ License : Shareware, $30
+ Author/Publisher : Speedbit
+ Modification Date : October 27, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 2.7 MB
+
+ Home Page 
+
+ Download Wizard 1.5 
+
+Download Wizard is a small, elegant and powerful replacement for your
+browser's built-in download manager. It is written entirely in Cocoa, so
+it integrates seamlessly with Mac OS X and includes features you'd
+expect from a Cocoa-based application: dock menus, service availability,
+dock icon status, localization, etc. It strives to be small, fast and
+reliable while making use of all the abilities of Apple's newest OS.
+
+ License : Shareware, $17
+ Author/Publisher : Whizzo Software
+ Modification Date : January 6, 2004
+ Requirements : Mac OS X
+
+ Direct Download 
+ File Size: 520 Kb
+
+ Home Page 
+
+ Envoy 1.0 
+
+Envoy is a download manager supporting the HTTP, FTP, and Gnutella
+protocols. It can resume transfers seamlessly, including those started
+from other programs.
+
+ License : Shareware, $18
+ Author/Publisher : Bains Software
+ Modification Date : May 27, 2003
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 1.6 MB
+
+ Direct Download 
+ File Size: 1 MB
+
+ Home Page 
+
+ Get-A-Matic 1.2.1 
+
+Get-A-Matic is an Internet download manager. It allows you to queue up a
+list of files you want to download, then rapidly download them, using a
+simple, straight-forward interface.
+
+ License : Donationware
+ Author/Publisher : SJB
+ Modification Date : December 23, 2004
+ Requirements : Mac OS X 10.2 or higher
+
+ Direct Download 
+ File Size: 492 Kb
+
+ Home Page 
+
+ GNU wget 1.9.1 
+
+GNU Wget is a free software package for retrieving files using HTTP,
+HTTPS and FTP, the most widely-used Internet protocols. It is a
+non-interactive commandline tool, so it may easily be called from
+scripts, cron jobs, terminals without Xsupport, etc.
+
+ License : Freeware
+ Author/Publisher : GNU
+ Modification Date : November 11, 2003
+ Requirements : Mac OS X
+
+ Direct Download 
+ File Size: 1.3 MB - version 1.9.1
+
+ Direct Download 
+ File Size: 1.1 MB - version 1.8.2
+
+ Fink Package Search
+
+ Home Page 
+
+ iGetter 2.1 
+
+iGetter is download utility that gives you convenience and facility in
+downloading on the Internet. The great advantage of iGetter is its
+ability to resume broken downloads, checking date and size. Behind its
+pleasant interface is hidden powerful download engine. And in addition
+iGetter has many useful functions like Internet browsers integration,
+segmented (accelerated) downloading, file mirroring, queue filtering on
+various criteria, processing web page links, scheduling downloads for
+low traffic periods, reconnecting modems, hang up and shut down when the
+downloads are done.
+
+ License : Shareware, $25
+ Author/Publisher : Presenta Software Company
+ Modification Date : December 22, 2004
+ Requirements : Mac OS X 10.2 or higher and System 7.5.3 or higher
+
+ Direct Download 
+ File Size: 1.2 MB
+
+ Direct Download 
+ File Size: 896 Kb
+
+ Home Page 
+
+ Monica 4.0b2 
+
+Downloading files from the Internet has never been easier thanks to Monica.
+Monica, the Mac download manager:
+ Uses FTP, HTTP and Hotline protocols to download your favorite free stuff (free mp3s, music, games, screensavers, clipart, maps and more!)
+ Is a great time saver for people who download many or large files from the internet
+ Allows you to either create a download queue of many files or download one file at a time.
+ Automatically retries if the server connection is dropped
+ Automatically restarts downloads without losing what you already have 
+ PLEASE NOTE: For the latest betas you must download the current full
+version and then the latest beta file, as the latest betas contain only
+the binary program.
+
+ License : Shareware, $20
+ Author/Publisher : Black Diamond Products
+ Modification Date : November 30, 2003
+ Requirements : Mac OS X 10.0.1 or higher
+
+ Direct Download 
+ File Size: 2.1 MB version 3.0pb2
+
+ Direct Download 
+ File Size: 1.7 MB 4.0b2 update
+
+ Direct Download 
+ File Size: 1.6 MB version 3.0pb1
+
+ Home Page 
+
+ Platypus 1.0.1 
+
+Platypus Downloader is a resumable downloader that let's you download
+http or ftp files in bulk. You add as many urls as you want to a list,
+select a directory where you want the files stored and start the
+download process, leaving Platypus Downloader to download the files
+sequentially.
+
+ License : Freeware
+ Author/Publisher : Single Brain Cell
+ Modification Date : September 24, 2002
+ Requirements : Mac OS X
+
+ Direct Download 
+ File Size: 304 Kb
+
+ Home Page 
+
+ Speed Download 2.3.7 
+
+Enriched with a totally redesigned Mac OS X interface and features that
+take advantage of leading edge Macintosh technology, Speed Download 2 is
+the fastest, most complete download manager for Mac OS X.
+
+ License : Shareware, $20
+ Author/Publisher : YazSoft
+ Modification Date : December 22, 2004
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Direct Download 
+ File Size: 2.4 MB
+
+ Direct Download 
+ File Size: 764 Kb
+
+ Home Page 
+
+ Back to the main page of Pure Mac 
+ Denotes Mac OS X Compatibility 
+ Denotes Mac OS 8/9 PPC Compatibility 
+ Denotes 680x0 Compatibility

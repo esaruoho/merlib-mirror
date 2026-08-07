@@ -1,0 +1,46 @@
+Newsgroups: rec.games.chess
+From: dimmen@hsr.no (Kjetil Dimmen)
+Subject: Bronstein vs Deep Thought II on ICS
+Message-ID: <1992Nov12.200105.20513@hsr.no>
+Sender: news@hsr.no
+Organization: Rogaland University Centre
+Date: Thu, 12 Nov 1992 20:01:05 GMT
+Lines: 33
+
+
+Move    White                   Black
+        David Bronstein         scratchy
+                                (DT II)
+----    -----                   -----
+1       P/e2-e4 (0:05)         P/c7-c5 (0:00)
+2       P/b2-b4 (1:10)         P/c5-b4 (0:01)
+3       P/a2-a3 (0:14)         P/d7-d5 (1:10)
+4       P/e4-d5 (0:12)         Q/d8-d5 (1:02)
+5       N/g1-f3 (0:09)         B/c8-g4 (0:57)
+6       P/a3-b4 (1:45)         Q/d5-e4 (0:02)
+7       B/f1-e2 (0:19)         B/g4-f3 (0:38)
+8       P/g2-f3 (0:09)         Q/e4-b4 (0:52)
+9       N/b1-a3 (1:29)         Q/b4-a5 (0:57)
+10      B/c1-b2 (0:38)         N/b8-c6 (0:16)
+11      P/c2-c4 (0:38)         Q/a5-g5 (1:05)
+12      Q/d1-b3 (2:30)         o-o-o   (1:01)
+13      P/d2-d4 (0:26)         Q/g5-g2 (2:15)
+14      o-o-o (2:12)           Q/g2-f2 (0:57)
+15      P/d4-d5 (0:13)         N/c6-a5 (1:02)
+16      Q/b3-b5 (2:17)         Q/f2-e3 (2:39)
+17      K/c1-b1 (0:17)         Q/e3-e2 (0:30)
+18      Q/b5-a5 (0:12)         P/a7-a6 (0:37)
+19      R/h1-e1 (2:59)         Q/e2-f2 (0:53)
+20      P/c4-c5 (3:21)         N/g8-f6 (2:03)
+21      B/b2-e5 (0:33)         N/f6-d5 (0:54)
+22      N/a3-c4 (1:10)         Q/f2-e1 (1:39)
+23      R/d1-e1 (0:44)         P/f7-f6 (1:10)
+24      N/c4-b6 (0:56)         N/d5-b6 (0:16)
+25      Q/a5-b6 (0:06)         K/c8-d7 (0:29)
+
+--
+D.    - Some people say I have a too high self-esteem.
+They may be right, but at least I have good reason to.
+
+
+

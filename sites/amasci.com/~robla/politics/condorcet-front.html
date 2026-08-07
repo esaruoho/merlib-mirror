@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Pairwise Methods Demonstration</title>
+</head>
+
+<body>
+<h1>Pairwise Methods Demonstration</h1>
+
+This is a fully-functional program for calculating the winner of a
+pairwise election, as featured in <a href="http://www.tpj.com">The Perl Journal</a>.  I will confess that this interface was
+designed more for flexibility and efficiency than user-friendliness,
+but with a little patience, it shouldn't be too tough to figure out.
+The idea is that you feed it a candidate list and a bundle of ballots,
+and it tells you the result of that election.  Currently, it calcuates
+the <a href="condorcet.html">Condorcet</a>, Copeland, and Smith winners.<P>
+
+<FORM ACTION="/cgi-bin/condorcet.cgi" METHOD="POST">
+
+To use this, enter a two column, comma-separated list of candidate
+number and candidate names below.  Candidate numbers can be any
+non-negative integers of size limited only by the memory of the machine
+(I've hardwired a limit of 200 on this machine).  For efficiency, numbering
+should start at zero and proceed up in increments of one, but this is
+not a requirement.<p>
+
+Here's some sample data you can try (just cut and paste this in to the
+field below):
+<PRE>
+1,Joe Left
+2,Sally Middle
+3,Martha Right
+</PRE>
+<TEXTAREA NAME="candlist" ROWS=10 COLS=50></TEXTAREA><P>
+
+Enter a list of ballots, one per line.  Each line should contain a
+list of candidate numbers in order of preference from most preferred to least preferred.
+The candidates should be separated by ">" when the next candidate is less preferred, and "=" when the next candidate is equally preferred.
+ It is not necessary to rank all candidates on every
+ballot.<p>
+
+If you wish to specify multiple ballots with the same ranking, precede the ranked list with "<quantity>:", where <quantity> is the number of times that ballot should be duplicated.<p>
+
+You may put comments after a hash symbol (#).  Any text after # on a line will 
+be ignored.<p>
+
+Here's some sample data you can try (just cut and paste this in to the
+field below):
+<PRE>
+40:3>2  # 40 ballots where Martha is preferred over Sally (and both implicitly over Joe)
+9:2>3   # 9 ballots, Sally over Martha (over Joe)
+16:2>1  # 16 ballots, Sally over Joe (over Martha)
+20:1=2  # 20 ballots, Joe and Sally tied, both preferred over Martha 
+15:1>2  # 15 ballots, Joe over Sally (over Martha)
+</PRE>
+<TEXTAREA NAME="votelist" ROWS=10 COLS=50></TEXTAREA><P>
+
+<INPUT TYPE="submit">
+<INPUT TYPE="reset">
+</FORM>
+
+<TABLE BORDER=2>
+  <TR>
+    <TD>
+	<a href="condorcet.html">Back to the Condorcet's method
+	homepage</a>
+    <TD>
+	<a href="condorcet-explain.html">Political Justification of
+	Condorcet's Method</a>
+    <TD>
+	<a href="condorcet-tech.html">Technical Explanation of
+	Condorcet's Method</a>
+    <TD>
+	<a href="condorcet-program.html">Source Code for Condorcet
+	Winner Calculator</a>
+  </TR>
+</TABLE>
+
+<hr>
+
+Related sites:<br>
+<a href="http://www.igc.apc.org/cvd"><img
+src="/~robla/cpr/cvdsmall.gif" alt="The Center For Voting & Democracy"
+hspace=5 vspace=5 border=0  height=79 width =196 ></a>
+
+<a href="http://www.eskimo.com/~robla/cpr/"><img
+src="/~robla/cpr/wacprsml.gif" alt="Washington Citizens
+For Proportional Representation" hspace=5 vspace=5 border=0></a>
+
+<a href="http://www.eskimo.com/~robla">
+<img src="/~robla/littleho.gif" alt="Rob's Homepage" hspace=5 vspace=5
+border=0></a><p>
+
+<HR> <address><a
+href="mailto:robla@eskimo.com">robla@eskimo.com</a></address><br>
+
+<!-- hhmts start -->
+Last modified: Sat Jan 17 23:36:43 Pacific Standard Time 1998
+<!-- hhmts end -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+

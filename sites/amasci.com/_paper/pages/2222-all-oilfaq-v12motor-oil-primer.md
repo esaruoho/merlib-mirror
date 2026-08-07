@@ -1,0 +1,205 @@
+---
+title: "all_oilfaq_v1.2Motor Oil Primer"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/misc/all_oilfaq.html
+order: 2222
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:08:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_oilfaq_v1.2Motor Oil Primer
+
+*Source page: `~dalus/bmw/all/misc/all_oilfaq.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+Motor Oil Primer
+
+## Motor Oil Primer
+
+by Ed Hackett\
+\
+
+*\[Ed is a chemical engineer who works for the University of Nevada's Desert Research facility -- Ed.\].*
+
+------------------------------------------------------------------------
+
+               More Than You Ever Wanted to Know About Motor Oil
+                      By Ed Hackett    edh@maxey.unr.edu
+
+    Edits: v1.0 First there was 1.0. Before that there was darkness.
+           v1.1 Change in description of viscosity.
+           v1.2 Updated info on AMSOIL (courtesy of Morgan McArthur   mgn@inel.gov)
+
+Choosing the best motor oil is a topic that comes up frequently in discussions between motoheads, whether they are talking about motorcycles or cars. The following article is intended to help you make a choice based on more than the advertising hype.
+
+Oil companies provide data on their oils most often referred to as "typical inspection data". This is an average of the actual physical and a few common chemical properties of their oils. This information is available to the public through their distributors or by writing or calling the company directly. I have compiled a list of the most popular, premium oils so that a ready comparison can be made. If your favorite oil is not on the list get the data from the distributor and use what I have as a data base.
+
+This article is going to look at six of the most important properties of a motor oil readily available to the public: viscosity, viscosity index (VI), flash point, pour point, % sulfated ash, and % zinc.
+
+Viscosity is a measure of the "flowability" of an oil. More specifically, it is the property of an oil to develop and maintain a certain amount of shearing stress dependent on flow, and then to offer continued resistance to flow. Thicker oils generally have a higher viscosity, and thinner oils a lower viscosity. This is the most important property for an engine. An oil with too low a viscosity can shear and lose film strength at high temperatures. An oil with too high a viscosity may not pump to the proper parts at low temperatures and the film may tear at high rpm.
+
+The weights given on oils are arbitrary numbers assigned by the S.A.E. (Society of Automotive Engineers). These numbers correspond to "real" viscosity, as measured by several accepted techniques. These measurements are taken at specific temperatures. Oils that fall into a certain range are designated 5, 10, 20, 30, 40, 50 by the S.A.E. The W means the oil meets specifications for viscosity at 0 F and is therefore suitable for Winter use.
+
+The following chart shows the relationship of "real" viscosity to their S.A.E. assigned numbers. The relationship of gear oils to engine oils is also shown.
+
+<img src="http://www.eskimo.com/~dalus/bmw/images/oilprime.gif" width="513" height="162" />
+
+Multi viscosity oils work like this: Polymers are added to a light base (5W, 10W, 20W), which prevent the oil from thinning as much as it warms up. At cold temperatures the polymers are coiled up and allow the oil to flow as their low numbers indicate. As the oil warms up the polymers begin to unwind into long chains that prevent the oil from thinning as much as it normally would. The result is that at 100 degrees C the oil has thinned only as much as the higher viscosity number indicates. Another way of looking at multi-vis oils is to think of a 20W-50 as a 20 weight oil that will not thin more than a 50 weight would when hot.
+
+Multi viscosity oils are one of the great improvements in oils, but they should be chosen wisely. Always use a multi grade with the narrowest span of viscosity that is appropriate for the temperatures you are going to encounter. In the winter base your decision on the lowest temperature you will encounter, in the summer, the highest temperature you expect. The polymers can shear and burn forming deposits that can cause ring sticking and other problems. 10W-40 and 5W-30 require a lot of polymers (synthetics excluded) to achieve that range. This has caused problems in diesel engines, but fewer polymers are better for all engines. The wide viscosity range oils, in general, are more prone to viscosity and thermal breakdown due to the high polymer content. It is the oil that lubricates, not the additives. Oils that can do their job with the fewest additives are the best.
+
+Very few manufactures recommend 10W-40 any more, and some threaten to void warranties if it is used. It was not included in this article for that reason. 20W-50 is the same 30 point spread, but because it starts with a heavier base it requires less viscosity index improvers (polymers) to do the job. AMSOIL can formulate their 10W-30 and 15W-40 with no viscosity index improvers but uses some in the 10W-40 and 5W-30. Mobil 1 uses no viscosity improvers in their 5W-30, and I assume the new 10W-30. Follow your manufacturer's recommendations as to which weights are appropriate for your vehicle.
+
+Viscosity Index is an empirical number indicating the rate of change in viscosity of an oil within a given temperature range. Higher numbers indicate a low change, lower numbers indicate a relatively large change. The higher the number the better. This is one major property of an oil that keeps your bearings happy. These numbers can only be compared within a viscosity range. It is not an indication of how well the oil resists thermal breakdown.
+
+Flash point is the temperature at which an oil gives off vapors that can be ignited with a flame held over the oil. The lower the flash point the greater tendency for the oil to suffer vaporization loss at high temperatures and to burn off on hot cylinder walls and pistons. The flash point can be an indicator of the quality of the base stock used. The higher the flash point the better. 400 F is the minimum to prevent possible high consumption. Flash point is in degrees F.
+
+Pour point is 5 degrees F above the point at which a chilled oil shows no movement at the surface for 5 seconds when inclined. This measurement is especially important for oils used in the winter. A borderline pumping temperature is given by some manufacturers. This is the temperature at which the oil will pump and maintain adequate oil pressure. This was not given by a lot of the manufacturers, but seems to be about 20 degrees F above the pour point. The lower the pour point the better. Pour point is in degrees F.
+
+% sulfated ash is how much solid material is left when the oil burns. A high ash content will tend to form more sludge and deposits in the engine. Low ash content also seems to promote long valve life. Look for oils with a low ash content.
+
+% zinc is the amount of zinc used as an extreme pressure, anti-wear additive. The zinc is only used when there is actual metal to metal contact in the engine. Hopefully the oil will do its job and this will rarely occur, but if it does, the zinc compounds react with the metal to prevent scuffing and wear. A level of .11% is enough to protect an automobile engine for the extended oil drain interval, under normal use. Those of you with high revving, air cooled motorcycles or turbo charged cars or bikes might want to look at the oils with the higher zinc content. More doesn't give you better protection, it gives you longer protection if the rate of metal to metal contact is abnormally high. High zinc content can lead to deposit formation and plug fouling.
+
+    The Data:
+
+    Listed alphabetically    --- indicates the data was not available
+
+    Brand                   VI    Flash    Pour    %ash   %zinc
+
+    20W-50
+    AMSOIL (old)           136     482     -38     <.5     ---
+    AMSOIL (new)           157     507     -44     ---     ---
+    Castrol GTX            122     440     -15     .85     .12
+    Exxon High Performance 119     419     -13     .70     .11
+    Havoline Formula 3     125     465     -30     1.0     ---
+    Kendall GT-1           129     390     -25     1.0     .16
+    Pennzoil GT Perf.      120     460     -10     .9      ---
+    Quaker State Dlx.      155     430     -25     .9      ---
+    Red Line               150     503     -49     ---     ---
+    Shell Truck Guard      130     450     -15     1.0     .15
+    Spectro Golden 4       174     440     -35     ---     .15
+    Spectro Golden M.G.    174     440     -35     ---     .13
+    Unocal                 121     432     -11     .74     .12
+    Valvoline All Climate  125     430     -10     1.0     .11
+    Valvoline Turbo        140     440     -10     .99     .13
+    Valvoline Race         140     425     -10     1.2     .20
+    Valvoline Synthetic    146     465     -40    <1.5     .12
+
+    20W-40
+    AMSOIL                 124     500     -49     ---     ---
+    Castrol Multi-Grade    110     440     -15     .85     .12
+    Quaker State           121     415     -15     .9      ---
+
+    15W-50
+    Chevron                204      415     -18     .96     .11
+    Mobil 1                170      470     -55     ---     ---
+    Mystic JT8             144      420     -20     1.7     .15
+    Red Line               152      503     -49     ---     ---
+
+    5W-50
+    Castrol Syntec         180      437     -45     1.2     .10
+    Quaker State Synquest  173      457     -76     ---     ---
+    Pennzoil Performax     176      ---     -69     ---     ---
+
+    5W-40
+
+    Havoline               170      450     -40     1.4     ---
+
+    15W-40
+    AMSOIL (old)           135      460     -38     <.5     ---
+    AMSOIL (new)           164      462     -49     ---     ---
+    Castrol                134      415     -15     1.3     .14
+    Chevron Delo 400       136      421     -27     1.0     ---
+    Exxon XD3              ---      417     -11     .9      .14
+    Exxon XD3 Extra        135      399     -11     .95     .13
+    Kendall GT-1           135      410     -25     1.0     .16
+    Mystic JT8             142      440     -20     1.7     .15
+    Red Line               149      495     -40     ---     ---
+    Shell Rotella w/XLA    146      410     -25     1.0     .13
+    Valvoline All Fleet    140      ---     -10     1.0     .15
+    Valvoline Turbo        140      420     -10     .99     .13
+
+    10W-30
+    AMSOIL (old)           142      480     -70     <.5     ---
+    AMSOIL (new)           162      520     -76     ---     ---
+    Castrol GTX            140      415     -33     .85     .12
+    Chevron Supreme        150      401     -26     .96     .11
+    Exxon Superflo Hi Perf 135      392     -22     .70     .11
+    Exxon Superflo Supreme 133      400     -31     .85     .13
+    Havoline Formula 3     139      430     -30     1.0     ---
+    Kendall GT-1           139      390     -25     1.0     .16
+    Mobil 1                160      450     -65     ---     ---
+    Pennzoil PLZ Turbo     140      410     -27     1.0     ---
+    Quaker State           156      410     -30     .9      ---
+    Red Line               139      475     -40     ---     ---
+    Shell Fire and Ice     155      410     -35     .9      .12
+    Shell Super 2000       155      410     -35     1.0     .13
+    Shell Truck Guard      155      405     -35     1.0     .15
+    Spectro Golden M.G.    175      405     -40     ---     ---
+    Unocal Super           153      428     -33     .92     .12
+    Valvoline All Climate  130      410     -26     1.0     .11
+    Valvoline Turbo        135      410     -26     .99     .13
+    Valvoline Race         130      410     -26     1.2     .20
+    Valvoline Synthetic    140      450     -40    <1.5     .12
+
+    5W-30
+    AMSOIL (old)           168      480     -76     <.5     ---
+    AMSOIL (new)           186      464     -76     ---     ---
+    Castrol GTX            156      400     -35     .80     .12
+    Chevron Supreme        202?     354     -46     .96     .11
+    Chevron Supreme Synt.  165      446     -72     1.1     .12
+    Exxon Superflow HP     148      392     -22     .70     .11
+    Havoline Formula 3     158      420     -40     1.0     ---
+    Mobil 1                165      445     -65     ---     ---
+    Mystic JT8             161      390     -25     .95     .1
+    Quaker State           165      405     -35     .9      ---
+    Red Line               151      455     -49     ---     ---
+    Shell Fire and Ice     167      405     -35     .9      .12
+    Unocal                 151      414     -33     .81     .12
+    Valvoline All Climate  135      405     -40     1.0     .11
+    Valvoline Turbo        158      405     -40     .99     .13
+    Valvoline Synthetic    160      435     -40    <1.5     .12
+
+    All of the oils above meet current SG/CD ratings and all vehicle
+    manufacture's warranty requirements in the proper viscosity. All are "good
+    enough", but those with the better numbers are icing on the cake.
+
+    The synthetics offer the only truly significant differences, due to their
+    superior high temperature oxidation resistance, high film strength, very
+    low tendency to form deposits, stable viscosity base, and low temperature
+    flow characteristics. Synthetics are superior lubricants compared to
+    traditional petroleum oils. You will have to decide if their high cost is
+    justified in your application.
+
+    The extended oil drain intervals given by the vehicle manufacturers
+    (typically 7500 miles) and synthetic oil companies (up to 25,000 miles)
+    are for what is called normal service. Normal service is defined as the
+    engine at normal operating temperature, at highway speeds, and in a dust
+    free environment. Stop and go, city driving, trips of less than 10 miles,
+    or extreme heat or cold puts the oil change interval into the severe
+    service category, which is 3000 miles for most vehicles. Synthetics can be
+    run two to three times the mileage of petroleum oils with no problems.
+    They do not react to combustion and combustion by-products to the extent
+    that the dead dinosaur juice does. The longer drain intervals possible
+    help take the bite out of the higher cost of the synthetics. If your car
+    or bike is still under warranty you will have to stick to the recommended
+    drain intervals. These are set for petroleum oils and the manufacturers
+    make no official allowance for the use of synthetics.
+
+    Oil additives should not be used. The oil companies have gone to great
+    lengths to develop an additive package that meets the vehicle's
+    requirements. Some of these additives are synergistic, that is the effect
+    of two additives together is greater than the effect of each acting
+    separately. If you add anything to the oil you may upset this balance and
+    prevent the oil from performing to specification.
+
+    The numbers above are not, by any means, all there is to determining what
+    makes a top quality oil. The exact base stock used, the type, quality, and
+    quantity of additives used are very important. The given data combined
+    with the manufacturer's claims, your personal experience, and the
+    reputation of the oil among others who use it should help you make an
+    informed choice.

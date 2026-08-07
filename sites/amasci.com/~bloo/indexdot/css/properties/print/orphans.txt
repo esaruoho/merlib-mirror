@@ -1,0 +1,65 @@
+Orphans - Cascading Style Sheets Properties 
+
+ orphans 
+ Support Key: 
+ [ CSS2 ] [ O3.5 ] 
+ Other Printing Properties 
+
+ page-break-before 
+ page-break-inside 
+ page-break-after 
+ page 
+ marks 
+ size 
+ widows 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ 2 
+ Applicable Elements: 
+ Block elements 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Visual, Paged 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property specifies the minimum number of lines of content for the current
+ element that must be left at the bottom of a page in a paged display environment.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ O4 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ [integer] 
+ [ CSS2 ] [ O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Specifies an integer value representing the minimum number of lines of content
+ that must be left at the bottom of a page. 
+
+ Example 
+ Ext/Doc: p {
+ orphans: 4 } 
+ In-Line: < p 
+ STYLE =" orphans: 
+ 4">test text in the paragraph</ p > 
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

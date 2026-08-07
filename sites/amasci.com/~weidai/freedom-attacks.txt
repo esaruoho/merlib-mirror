@@ -1,0 +1,58 @@
+Attack 1
+
+Although the ZKS Freedom AIP protocol (as described in version 1.0 of the
+ZKS whitepaper) is conceptually similar to the PipeNet protocol, there are
+several attacks against ZKS which PipeNet is not susceptible to. The
+reason is that PipeNet uses end-to-end traffic padding, whereas ZKS only
+uses link padding. I came up with several attacks against link padding
+systems while developing PipeNet, which is why I ultimately choose
+end-to-end padding. However one can argue that end-to-end padding is too
+costly, and that these attacks are not practical because they require a
+global observer or the cooperation of one or more of the anonymous router
+(AIP) operators. ZKS has not publicly made this argument, but since they
+are probably aware of these earlier attacks they must have followed its
+reasoning.
+
+I hope the practicality of the new attack presented here will change their
+mind. In this attack, a user creates an anonymous route from himself
+through a pair of AIPs back to himself. He then increases the traffic
+through this route until total traffic between the pair of AIPs reach the
+bandwidth limit set by the ZKS Traffic Shaper. At this point the AIPs no
+longer send any padding packets to each other, and the real traffic
+throughput between them can be deduced by subtracting the traffic sent by
+the attacker from the bandwidth limit.
+
+This attack implies that link padding buys virtually no security. An
+attacker, without access to network sniffers or cooperation of any AIP
+operator, can strip off link padding and obtain real-time throughput data
+between all pairs of AIPs. If end-to-end padding is not used, this data
+would correlate with traffic throughput of individual users, and
+statistical analysis could then reveal their supposedly anonymous routes.
+
+Attack 2
+
+[Based on the draft Freedom white papers as of 11/23/1999.]
+
+This attack allows a pair of AIPs in collusion to trace everyone who use
+them as first and last AIPs, thus bypassing the security of the middle
+ones. It's possible because a data packet is MAC'd only between the client
+and the last AIP. This is an active attack but it's not clear whether it's
+detectable because what the AIP does when the MAC check fails is not
+specified. At this point it has limited practical significance since the
+lack of cover traffic allows the pair of AIPs to mount a passive
+timing-correlation attack.
+
+The attack works as follows. The first AIP chooses a target client and
+records its IP address. When it receives a packet from the client it
+randomly mangles the payload section and send the packet out in both
+mangled and unmangled form. (The attack only requires the mangled packet,
+the unmangled one is to help avoid detection of the attack.) The last AIP
+watches its input to see if a packet comes in that fails the MAC check. If
+so it knows the IP address of the pseudonym associated with the ACI
+(anonymous circuit id) of the packet.
+
+In PipeNet, this attack is avoided because there is a MAC for each switch
+in the chain, so if the first switch mangles a packet, the second switch
+would immediately detect this and stop forwarding the packet. Actually the
+original PipeNet design had a similar problem but this was announced on
+cypherpunks and fixed in PipeNet version 1.1.

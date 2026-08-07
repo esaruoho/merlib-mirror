@@ -1,0 +1,150 @@
+---
+title: "Holy Instant Experience !"
+source_domain: amasci.com
+source_path: ~wayneld/hi-2.html
+order: 9804
+reachable_from_entry: false
+images: 2
+internal_links: 0
+extracted: 2026-08-07T17:17:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Holy Instant Experience !
+
+*Source page: `~wayneld/hi-2.html`*
+
+<img src="icons/li-br-m1.gif" width="600" height="6" />
+
+<img src="icons/cros-big.gif" width="70" height="70" />
+
+------------------------------------------------------------------------
+
+    Dear Wayne,
+
+    Thank you for sending the article, I enjoyed it very much.  On some 
+    level I knew it would mirror my own experience but since I have never
+    discussed it with anyone else who has had one, I wasn't sure.
+
+    I also believe that the holy instant is rare.  As much as I have 
+    meditated and followed the course, I have not had a repeat of the holy
+    instant.  But I am content to know that it is not up to me to decide 
+    when one is needed and I just thank God for what is, that is enough.
+
+    The following is a rough sketch of my experience and illustrates the 
+    fact that all your thoughts need not be "pure" to find the truth that 
+    will set you free.
+
+    Like a lot of people in the 90's I was involved with a company that 
+    decided to bring in new management and "restructure" the organization.
+    the company had just laid off 40% of the employees and I was feeling 
+    a mixture of survivors remorse, rage at the opportunists that took
+    advantage of the situation and a little guilt and vulnerability thrown 
+    in for good measure.
+     
+    Anyway my thoughts were far from holy.
+
+    One afternoon I had a Dr.'s appointment and the doctor was running 
+    behind. Knowing that there would be a long wait, I settled down with my
+    raging thoughts concerning the company I worked for.  These thoughts were 
+    my constant companions of late and quite frankly they were beginning to
+    wear me out.  I had about an hour to wait with no book to read or work to
+    do.  I decided to just relax during that space of time and to free my mind
+    of these burdens even if for just an hour.  I remember thinking "I just
+    want to go home".
+
+    As I made the decision to let go of my mental pain, my body felt instantly
+    relaxed.  I felt good for the first time in weeks.  I closed my eyes and 
+    let my mind kind of drift.  At some point I became aware of two people
+    sitting next to me having an ordinary conversation.  It was noteworthy
+    only because I was hearing their thoughts and then they were speaking
+    them.  I thought it was extremely humorous kind of like a movie where the
+    voice is out of sink with the lips.  The conversation wasn't about
+    anything special, I just remember wondering how this was possible.  At
+    that point I knew this woman. Knew that she was a single parent, with one
+    son.  I felt the love she had for her child, felt the entire mosaic of her
+    life and marveled at its beauty.
+
+    It was then that something deep inside me knew "there is but ONE MIND.  A
+    flurry of thoughts came to me then, mysteries fell into place.  I thought 
+    of Jesus and how he said to be of one mind, I thought that this would
+    explain a lot of things like why some people are psychic and why an idea
+    occurs to several scientists at once and then they simultaneously develop
+    the same theory or product.
+
+    I drifted deeper, deeper, deeper and at some stage felt a pleasantly warm
+    feeling that seemed to radiate from my very being.  I was experiencing 
+    myself as the sun and simultaneously experiencing myself as a plant that
+    was basking in the suns rays.  I could have stayed that way forever, it
+    was so completely fulfilling.
+
+    At this point I remember feeling like I was being pulled away from my 
+    body. I was not afraid but I did have the thought that I was dying.  I
+    thought of my body and how it was not actually me.  I remember thinking
+    that if snakes were crawling all over my body, I would be able to radiate
+    the love inside of me to them and that they would rest their heads on my
+    shoulder and there would be no fear between us.  My mind passed briefly
+    over the troubles at work and I was no longer saddened by them.  I no
+    longer felt the need to blame anyone including myself for anything.
+
+    I remember thinking that I would like to sink even deeper into my mind 
+    but that if I did, I would leave this world.  I didn't want to leave my
+    family and also I remember feeling a sense of betrayal at the thought of
+    removing my consciousness from those around me in the room (kind of like I
+    would be breaking a promise or something.)  A soothing voice came to me
+    then saying that they would forgive me.  I was also instructed that if I
+    retained one shred of a thought (more like a desire) about returning to my
+    body, I would return.  I distinctly remember the words "let the body go".
+    Another scriptural reference came to me then, the one about "I stand at
+    the door and knock".  I supposed that this meant the door of consciousness
+    or the one mind.  I trusted this voice and I let go!
+
+    Now I have a sensation of moving through a convoluted series of tunnels 
+    and trying to note each twist and turn so that I could find my way again.
+    I reach a place which at first I believe must be heaven.  Many individual
+    souls reside here and I feel a deep sense of peace and acceptance from
+    them.  I also find something that reminds me of a library but it is a very
+    curious library indeed.  Another scriptural reference comes to me then "in
+    my fathers house there are many mansions".  This seemed appropriate
+    because each area of knowledge was like a physical mansion in that you
+    would actually enter it.  I have always had trouble with math so I choose
+    mathematics as my subject.  I thought how I would like to know everything
+    there is to know about math.  As soon as I asked, I started to receive
+    knowledge in huge chunks.  It wasn't at all like we learn here.  All was
+    known just for the price of asking.  I knew I would not remember
+    everything because the mass of information could have filled gigabytes but
+    I do remember thinking how useful the knowledge could be and I had the
+    desire to share the knowledge with someone who could use it.  I felt at
+    that moment that I could broadcast the information to other minds.
+     
+    (I know that sounds funny)
+
+    It would have been an easy thing to go from room to room and learn so 
+    many things but it seemed unnecessary.  I said "you mean that all this is
+    available whenever I need it"  The answer YES, whenever you need it.
+
+    Now the only desire I had was to go to where my heart was yearning to go.
+    The love in me called to the source of love and I was drawn to the place 
+    of bliss.  This is the part that is so hard to describe with words.  This
+    is the place where all of creation joins as one with GOD.  This is the
+    certain knowledge that Christ meant it literally when he said "I and the
+    father are ONE.  So completely does God share himself that you don't know
+    where he stops and you start or where anyone stops and you start for here
+    there is only one.
+    This is the circle of light, of love and of life.  This is the all in all,
+    the oneness of the living God.  How amazing that I am part of this!!!  
+    Giving and receiving are like breathing here and what you give is your
+    whole being and what you receive is like what you gave only larger.
+
+    The truth that set me free that day is the same truth that I read in a 
+    book five years later.  "A COURSE IN MIRACLES"  
+
+    Pretty neat huh!
+
+    I enjoyed sharing this with you, thanks for listening.
+
+    Tera
+
+------------------------------------------------------------------------
+
+#### Jump To: [Spiritual Potpourri Collection !](http://www.eskimo.com/~wayneld/spirit.html/)

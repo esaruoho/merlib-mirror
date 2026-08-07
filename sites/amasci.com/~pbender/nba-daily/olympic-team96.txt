@@ -1,0 +1,23 @@
+
+
+No  Player (team)           Pos  Ht  Wt    B-day   College               Exp
+ 4  Charles Barkley (Pho) .  F  6-6  252  2/20/63  Auburn'84             11 
+ 5  Grant Hill (Det) ......  F  6-8  225  10/5/72  Duke'94                1
+ 6  Anfernee Hardaway (Orl)  G  6-7  195  7/18/72  Memphis State'93       2
+ 7  David Robinson (SA) ...  C  7-1  225   8/6/65  Navy'87                6
+ 8  Scottie Pippen (Chi) ..  F  6-7  225  9/25/65  C. Arkansas'87         8
+ 9  Mitch Richmond (Sac) ..  G  6-5  215  6/30/65  Kansas State'88        7 
+10  Reggie Miller (Ind) ...  G  6-7  185  8/24/65  UCLA'87                8
+11  Karl Malone	(Uta) .....  F  6-9  256  7/24/63  Louisiana Tech'86     10
+12  John Stockton (Uta) ...  G  6-1  175  3/26/62  Gonzaga'84            11
+13  Shaquille O'Neal (Orl)   C  7-1  301   3/6/72  LSU'93                 3
+14  Gary Payton ...........  G  6-4  190  7/23/68  Oregon State'90        5
+15  Hakeem Olajuwon (Hou) .  C  7-0  255  1/21/63  Houston'84            11
+
+
+Head Coach: Lenny Wilkens (Atlanta Hawks)
+Assistants: Jerry Sloan (Utah Jazz)
+            Bobby Cremins (Georgia Tech)
+            Clem Haskins (U. Minnesota)
+
+

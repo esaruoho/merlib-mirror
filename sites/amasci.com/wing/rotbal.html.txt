@@ -1,0 +1,232 @@
+The Airfoil Misconception in K-6 Textbooks 
+
+ AIRFOIL MISCONCEPTIONS | SCIENCE HOBBYIST 
+
+ AIRPLANE FLIGHT ANALOGY 1997 William Beaty 
+
+(See also J. Denker's 
+critique and my response, 8/99 )
+
+The controversy about wings and the lifting force has a definite origin. 
+It arises because we are taught about the flow patterns surrounding
+two-dimensional airfoil crossections... and then we apply those concepts
+to 3D wings.
+
+This is a major mistake. The behavior of 3D wings is fundamentally
+different than the behavior of 2D airfoils.
+
+ In a 3D world, an airplane produces a downstream wake with net
+downwash, but in a 2D wind-tunnel there is no such wake, and the 2D upwash
+must always be equal to the 2D downwash. Even more important, 3D wings
+have finite area, while 2D wings act as if they are infinitely long. An
+infinite wing gives some strange results; results never produced by finite
+3D wings. For example, if a 2D infinite wing should ever deflect even a
+tiny portion of the oncoming air downwards, it would deflect an
+ infinite amount of air and produce an infinite lifting force. As a
+result, a 2D infinite airfoil does an odd thing: it applies a FINITE force
+to an infinite mass of air. In response a net amount of air does NOT move
+downwards (since it has infinite mass!) The wing acts like a reaction
+engine, but an engine where the "exhaust gasses" have zero velocity and
+infinite mass. This strange effect only applies to 2D airfoils and
+infinitely long wings, and is never seen with 3D airplanes flying through
+3D air. 
+
+The controversy about "Bernoulli versus Newton" is really a controversy
+about two-D versus three-D. It's a controversy over the physics of
+airfoils in two-dimensional "flatland" worlds, versus the more ordinary
+physics of short 3D wings in a 3D world. 
+
+I could attempt to explain the problem in words, but words are easily
+misunderstood (especially on hot-button issues where emotions run high.) 
+A visual analogy works much better. Below is my explanation for how a
+three-dimensional airplane flys through 3D space. It is very different
+than the typical 2D explanations found in most textboooks. My
+"circulation" is flipped ninety degrees! 
+
+Imagine a huge, disk-shaped helium balloon floating in the air. The disk
+stands on edge. It is weighted for neutral buoyancy so it neither rises
+nor sinks. A small platform sticks out of its rim. (If you feel the need,
+you can imagine a counterweight on the opposite rim to the platform, so
+the balloon hovers without rotating.) See fig. 1 below 
+ _____
+ _-- --_
+ / \ fig. 1 DISK-BALLOON WITH
+ __| . | A SMALL PLATFORM
+ | |
+ \_ _/
+ --_____--
+
+Now suppose I were to leap from the top of a ladder and onto the balloon's
+small platform. The balloon would move downwards. It would also rotate
+rapidly counterclockwise, and I would be dumped off. 
+
+Next, suppose we have TWO giant disk-shaped balloons stacked adjacent to
+each other like pancakes standing on edge.
+
+ ____
+ _-- _____
+ / _-- --_
+ __| / \ fig. 2 TWO DISK-BALLOONS,
+ __| . | STACKED ADJACENTLY
+ | |
+ \_ _/
+ --_____--
+
+They do not touch each other. Both have platforms. If I jump onto the
+first platform, but then I immediately leap onto the next platform, I can
+stay up there for a tiny bit longer. 
+
+Next, suppose we have a row of these disk-balloons one KM long. It looks 
+like fig. 2 above, but with hundreds of hovering balloons. Now I can
+run from platform to platform, and I will stay aloft until I run out of
+balloons. Behind me I leave a trail of rotating, downward-moving
+balloons. I can remain suspended against gravity because I am flinging
+mass downwards. The mass takes the form of helium mass trapped inside the
+balloons. I am also doing much more work than necessary, since the energy
+I expend in rotating the balloons does not contribute to my fight against
+gravity. (In truth, all my work is really not necessary, I could simply
+walk along the Earth's surface with no need to move any massive gasbags!)
+
+To make the situation more symmetrical, let me add a second row of
+platform-bearing balloons in parallel to the first row: 
+
+ _____ _____
+ _-- --_ _-- --_ fig. 3
+ / \ / \ END VIEW OF TWO LONG
+ | . |__ __| . | ROWS OF DISK-BALLOONS
+ | | | |
+ \_ _/ \_ _/
+ --_____-- --_____--
+
+There's one platform for each of my feet. I can run forwards, leaving a
+trail of "wake turbulence" behind me. The "wake" is composed of rotating,
+descending balloons. Fig. 4 below show an animated GIF of this process.
+
+Fig. 4 Forcing the balloons downwards
+
+Also see: Smoke Ring animation 
+
+ "DISK BALLOONS" BEHIND AIRPLANES 
+
+An aircraft does much the same thing as me and my balloons: it remains
+aloft by throwing down a spinning region of mass. This mass consists of
+two long, thin, vortex-threads and the tubular regions of air which are
+constrained to circulate around them. The balloons crudely represent the
+separatrix of a vortex-pair: the cylindrical parcels of air which must 
+move with closed streamlines. 
+
+So, how do airplanes fly? Real aircraft use "invisible disk-balloons" to
+stay aloft. The two rows of "invisible balloons" form a single, very
+long, downwards-moving cylinder of air. This single cylinder has
+significant mass and carries a large momentum downwards.
+
+ _____ _____
+ _-- --_ _-- --_ fig. 5
+ / \ | / \ FRONT VIEW OF AIRCRAFT, W/
+ | ___ | | | ___ | AIR MASSES ROTATED BY THE
+ | ---____/ \____--- | WINGS' PRESSURE DIFFERENCE
+ \_ _/ \_/ \_ _/ 
+ --_____-- --_____--
+
+ \ | /
+ \ | /
+ ______ | | | ______ fig. 6
+ / ___ \ | | | / ___ \ THE CROSS-SECTION OF AN
+ / / \ \ | | | / / \ \ ACTUAL WAKE HAS STREAMLINES
+ | | o | | | | | | | o | | WHICH DO NOT PERFECTLY
+ \ \___/ / | | | \ \___/ / RESEMBLE A PAIR OF ROTATING
+ \_______/ | | | \_______/ BALLOONS. THE BALLOONS ARE
+ / | \ A CRUDE ANALOGY.
+ / | \
+
+The "exhaust" below a wing made visible 
+(See 
+Hyperphysics 
+
+ and other 
+photos. )
+
+ FLY FASTER FOR LESS DRAG 
+
+My forward speed makes a difference in how much work I perform. If I walk
+slowly along my rows of balloons, each platform sinks downwards
+significantly. I must always leap upwards to the next platform, and each
+balloon is thrown violently downward as I leap. I tire quickly. On the
+other hand, if I run very fast, my feet touch each platform briefly, the
+balloons barely move, and the situation resembles my running along the
+solid ground. 
+
+Similarly, if a real aircraft flys slowly, it must fling the vortex-pairs
+violently downward. It performs extra work and experiences a very large 
+"induced drag." If it flys fast, it spreads
+out the necessary momentum-changes, and therefore it needs only to barely
+touch each parcel of mass (each "balloon.") Hence, faster flight is
+desirable because it requires far less work to be performed in moving the
+air downwards. And if a slow-flying, heavily-loaded aircraft should fly
+very low over you, its powerful wake vortices will blow you over and put 
+dust in your eyes. 
+
+All of my reasoning implies that modern aircraft actually remain aloft by
+launching "smoke rings" downwards. Imagine one of the flying cars in the
+old 'Jetsons' cartoon, the ones with those little white rings shooting 
+down out of
+the underside. But rather than launching a great number of individual
+rings, modern aircraft throw just one very long ring downwards, and they
+are lifted by the upward reaction force.
+
+ A CRUDE PREDICTION 
+
+How well does the "disk balloons" model correspond to the real world? 
+Well, we can pull an equation out of the motions of the balloons, and use
+it to predict both aircraft energy use and induced drag. If the equation
+is at all similar to the actual aerodynamics of a real-world airplane,
+then the "disk balloons" are a useful model. If the equation is faulty,
+then the model only has weak ties with reality. 
+
+Suppose the "disk-balloons" contain air which rotates as a solid object,
+(or imagine radial membranes in the balloons.) If I add together the work
+done in creating the circulatory flow, plus the work done in projecting
+the constrained air downwards, I arrive at a predicted aircraft power
+expenditure of: 
+
+ Power = 8 * (M * g)^2 / [ pi * span^2 * V * density ]
+
+M * g being aircraft weight, V is velocity of horizontal flight, and
+"density" is the density of air. Induced drag should then be power/V:
+
+ Induced Drag = 8 * (M * g)^2 / [ pi * span^2 * V^2 * density ]
+
+What happens if I assume that the air within the disk-balloons is not
+"solid", but instead it is made to whirl faster near the center of the
+balloon, such that the tangential velocity of the air is constant
+regardless of its distance from the center of the balloon? (Imagine a
+wing which produces a downward velocity of net downwash which is
+constant at each point along the whole span of the wing.) If the
+"downwash" is constant across the wingspan, then the modified "balloon
+equation" predicts a power expenditure of 2x that above. 
+
+How does this match reality? I'm looking for information on this at the
+moment. I'm told that these two equations are identical to the equations
+of real aircraft, except that the number "8" is replaced by a factor
+which is dependent upon the particular geometry of the wing. Pretty
+good for an "amateur aerodynamicist", eh?
+
+One final note. The downwash of real airplanes contains rapidly rotating
+air. This represents wasted energy, since only the "shell" of each
+"balloon" needs to rotate as the air moves downwards. Is there a wing
+which can produce a downwash vortex-pair without any spinning cores? 
+Maybe it would use less fuel than modern wings.
+
+ LINKS 
+
+Water Striders fling underwater vortices (Nature 8/03)
+
+Harvard U: Fish Gotta Swim 
+
+Wakes in flapping flight 
+ Applet: flow around doublet/vortex etc. 
+ Applet: flow in venturi 
+ Vortex gallery: lift-generated vortices 
+
+/wing/rotbal.html 
+Created and maintained by Bill Beaty . Mail me at: .

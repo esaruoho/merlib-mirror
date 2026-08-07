@@ -1,0 +1,155 @@
+Re: Controversial
+From: gellda@umich.edu (David A. Gell)
+Date: 1996/02/06
+MessageID: gellda-0602962221190001@sprl-mac131.sprl.umich.edu
+references: <Pine.HPP.3.91.960205193015.24641A-100000@glhpx4.cen.uiuc.edu> <4f8aj1$j8j@newsbf02.news.aol.com>
+organization: Space Physics Research Lab, University of Michigan
+newsgroups: rec.models.rc.air
+
+In article <4f8aj1$j8j@newsbf02.news.aol.com>, terrantula@aol.com
+(Terrantula) wrote:
+
+#I wanted a chance to jump back in here before this thread dies, so here
+#goes.
+#
+#<snip>
+#
+#My problem was with the way scientists and engineers attempt to explain
+#lift to the layman. When I said I never had any faith in the explaination
+#given by Bernoulli's Principle, it wasn't Bernoulli I was challenging. I
+#have a science degree and recognize a law of physics when somebody beats
+#me over the head with it. What I was (and still am) troubled with was the
+#standard way lift was explained for the past 30 years in aviation texts
+#aimed at pilots as well as the general public.
+#
+#That explanation was that since the air traveling over the top of the wing
+#had to meet up the air traveling under the wing at the same time (at the
+#trailing edge), and since the distance traveled over the top of the wing
+#was greater, the air moving over the top has to go faster to "catch up" to
+#the air moving across the bottom of the wing. Bernoulli's principle was
+#then thrown in to explain the reduced pressure created by the faster
+#airflow. What this thread has done is demonstrate that we have an invalid
+#cause/effect relationship. In other words, though we can use Bernoulli's
+#principle to explain lift, the first part of the assumption is invalid and
+#doesn't logically lead to the "effect".
+#
+#So here's the question. I'm still having a hard time visualizing what's
+#going on. When it was pointed out that the air moving over the top of the
+#wing actually reached the trailing edge BEFORE the air traveling across
+#the bottom, it got even tougher for me to visualize. Is there anyone who
+#can describe what's going on in a way that is possible to visualize
+#without oversimplifying to the point of invalidity? If this is impossible,
+#I guess I'll have to accept it. I just hate telling a student that his
+#airplane flys do to a mystical phenomena that is impossible to explain.
+#
+#Terry Gamble (terrantula@aol.com)
+#Phoenix, Arizona
+
+I posted the following earlier in this thread, maybe you missed it, so
+I'll try again.  This posting should be read after reading the Model
+Airplane News article by Raskin, since it refers to some figures in that
+article.
+
+
+I'm going to take a stab at relating pressure, Burnouli, under-cambered
+wings...again.
+
+The interaction of objects and forces are governed by Newton's laws of
+motion.  The three laws are:
+
+1) An object at rest (or in uniform motion) remains at rest (or in
+   uniform motion) unless acted on by a force.  In other words, it
+   doesn't move unless pushed.
+
+2) The change in momentum is proportional to the applied force.  This is
+   also stated as the acceleration of an object is proportional to
+   the applied force and inversely proportional to the object's mass.
+   In other words, push hard to change velocity rapidly.
+
+3) If one object applies a force to another, the second object applies
+   an equal and opposite force to the first.  This is also stated as every
+   action has an equal and opposite reaction.  In other words if I push it,
+   it pushes me back.
+
+Now, how are these rules applied to a wing in the air.  The wing and the
+air molecules are objects that interact with forces.  The forces between
+air molecules are called viscosity.  One could, in principal, calculate
+the force on each molecule due to every other molecule and due to the
+presence of the wing, apply Newton's laws and determine the forces. In
+reality, this is not practical, so Newton's laws are manipulated
+mathematically to obtain other descriptions of the behavior of the air and
+the wing.  You can obtain expressions for the behavior of parcels of air,
+the Momentum equation, the conservation of Mass and Burnouli's principal.
+
+Now, why does a wing produce lift?  Simply, the wing when immersed in a
+flowing gas deflects the flow.  The only way it can do that (1st law) is
+to apply a force to the gas.  The details of the force don't really matter
+at this point, just the fact that there is a force.  Since the wing
+applies a force to the air, the air applies a force to the wing (3rd law).
+If the wing is at higher angle of attack, it deflects the air more
+strongly, thus it is applying a larger force to the air (2nd law) and the
+lift is higher.  If the wing deflects more air (flying at a higher
+airspeed) the lift is also higher.  The actual mechanism that causes the
+deflection is the complicated interactions between the air molecules
+(viscosity) and between the air molecules and the surface of the wing
+(shear forces).  It is not simply air molecules bouncing off of the wing
+surface.  One observed consequence of these interactions is the Kutta
+condition, that states that there is a stagnation point at the trailing
+edge of a body in a flowing gas.
+
+Now, what about Burnouli?.  Burnouli's principal is an expression of
+conservation of energy.  If properly applied, a calculation of the
+pressure differences using this pricipal result in the exact same lift as
+application of another set of equations.  What is often missed in the
+simple explainations of lift, using Burnouli's principal, is that there is
+no requirement for the air flow over one surface of the wing to get to the
+trailing edge at the same time as that flowing over the other surface.
+So, for example, the contents of the  side bar in the MAN artical by
+Raskin entitled "The Numbers Just Don't Add Up" is not correct.  The title
+is correct, but the content isn't because the author assumes that the air
+over the top gets to the trailing edge at the same time as that travelling
+over the bottom.  It doesn't, it gets there first.  How much faster?  Fast
+enough so that the pressure differences obtained by using Burnouli's
+principal exactly provide the observed lift.
+
+Now, why does an undercambered wing produce lift?  One might think, using
+Burnoulis principal naively (as the MAN article did), that since the upper
+and lower surfaces are the same length, AND (incorrect assumption alert)
+the flow over each surface must get to the trailing edge at the same time,
+the gas flow on the upper and lower surfaces are have the same speed, and
+therefore there is no pressure difference.  If, this were true, the wing
+would not deflect the airflow at all, and there would be no lift.  An
+undercambered airfoil does in fact deflect the airflow, and therefore,
+using Newton's First Law, must have applied a force to the air.
+
+One way of thinking about airfoils, is to consider them as a camber line
+wrapped in a fairing.  The camber line is the line of points midway
+between the upper surface and the lower surface of the wing.  It is not
+the same, in general, as the chord line which is a straight line between
+the leading and trailing edges of the wing.  The shape of the camber line
+affects properties of the airfoil such as the zero-lift angle of attack,
+the zero lift pitching moment, and maybe others that I've forgotten.  The
+shape of the fairing affects other properties, such as the zero lift
+drag.  In the case of a symetrical wing, the chord and camber lines are
+the same, the wing produces zero lift at zero angle of attack.  For a
+symetrical wing to produce lift, it must be at an angle of attack.  A flat
+bottom wing, such as used on many trainers, has a curved camber line.  You
+can imagine the camber line as one of the streamlines of the flow over the
+wing.  Since it is curved, the airflow is deflected by the wing, even when
+the wing is at zero angle of attack.  To obtain zero lift, the wing must
+be flown at a slight negative angle of attack.  Thus, inverted flight with
+such a wing requires lots of down elevator to hold the wing at the
+appropriate negative angle of attack.
+
+When you thing of wings in this manner, the examples shown in figures 2
+through 6 are much easier to understand.  Figure 2, the undercambered
+wing, has a curved camber, and deflects the air.  Figure 3, the WWI
+airfoil (also bird wing), has curved camber, deflects air correctly, and
+produces lift.  Figure 4, the humpty bump airfoil, has a camber line that
+alternately directs the airflow downward, then upward resulting in no net
+downward deflection of the air and no lift.
+
+--
+David A. Gell               |
+University of Michigan      |
+Space Physics Research Lab  |

@@ -1,0 +1,227 @@
+Border-Style - Cascading Style Sheets Properties 
+
+ border-style 
+ Support Key: 
+ [ CSS1 | CSS2 ]
+ [ IE4B1 | N4B3 | O3.5 ] 
+ Other Border-Style Properties 
+
+ border-top-style 
+ border-right-style 
+ border-bottom-style 
+ border-left-style 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ none 
+ Applicable Elements: 
+ ALL 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < img 
+ BORDER > | < table 
+ BORDER > 
+
+ What is it? 
+ This is a shorthand property which allows an author to specify
+ 'border-top-style', 'border-right-style', 'border-bottom-style', and
+ 'border-left-style' properties using a single property and value
+ notation (the values are given in this order separated by spaces.)
+ If one or more of the values are not present, the value for a missing
+ side is taken from the opposite side that is present. If only one
+ value is listed, it applies to all sides.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ NS6 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ none 
+ [ CSS1 | CSS2 ]
+ [ IE4B1 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ No border is rendered. This overrides any value of 'border-width', if present. 
+
+ hidden 
+ [ CSS2 ] [ O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Creates the same effect as 'none'. Only difference is for border conflict
+ resolution for table elements. 
+
+ dotted 
+ [ CSS1 | CSS2 ]
+ [ IE5.5B1 | N6 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ The border is rendered as a series of dots. 
+
+ dashed 
+ [ CSS1 | CSS2 ]
+ [ IE5.5B1 | N6 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ The border is rendered as a series of short lines. 
+
+ solid 
+ [ CSS1 | CSS2 ]
+ [ IE4B1 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Renders a solid line. 
+
+ groove 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the border being grooved or carved in the
+ rendering surface (A 3-D groove - the opposite of 'ridge'.) The
+ groove bevel color is rendered based upon the value of the 'color' property. 
+
+ ridge 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the border being raised from the rendering surface
+ (A 3-D ridge - the opposite of 'groove'.) The ridge bevel color is
+ rendered based upon the value of the 'color' property. 
+
+ inset 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the border being embedded in the rendering surface
+ (A 3-D inset.) The inset bevel color is rendered based upon the value
+ of the 'color' property. A distinction exists between this value and 'groove'. 
+
+ outset 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Creates the effect of the border coming out of the rendering surface
+ (A 3-D outset - the opposite of 'inset'.) The outset bevel color is
+ rendered based upon the value of the 'color' property. A distinction
+ exists between this value and 'ridge'. 
+
+ double 
+ [ CSS1 | CSS2 ]
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ A double line drawn on top of the background of the element. The two lines with
+ the space between adds up to the value of the 'border-width' property. 
+
+ -moz-bg-inset 
+ [ N6 ] 
+ Type: Explicit 
+ Description: 
+ Mozilla proprietary value - authors should not use this value.
+ The same as the "inset" value, but the element's background color is used
+ to create the inset rendering instead of any border-color specified. 
+
+ -moz-bg-outset 
+ [ N6 ] 
+ Type: Explicit 
+ Description: 
+ Mozilla proprietary value - authors should not use this value.
+ The same as the "outset" value, but the element's background color is used
+ to create the outset rendering instead of any border-color specified. 
+
+ Syntax 
+ Selector { border-style: 
+ [ style ] {1,4} }
+
+ Example 
+ Ext/Doc: strong {
+ border-style: groove inset solid none } 
+ In-Line:&#160; < strong 
+ STYLE =" border-style: 
+ dotted">this is a beautiful test</ strong > 
+
+ Notes 
+
+ CSS1 Conformance: Browsers are allowed to treat
+ values of dotted , dashed ,
+ groove , ridge ,
+ inset , outset and
+ double as the value solid .
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 4.0: 
+ - This property does not apply to input TYPE=checkbox/radio fields
+ - Applying border properties to list items skews the normal placement
+ of the marker
+ 4.0+: 
+ - Default border width for form fields and tables/table cells is not "none."
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+ - Applying a border-style of "double", "dotted" or "dashed" on the 
+ BODY element produces a "solid" border style
+ - Applying borders to the BODY element puts the border outside 
+ the canvas' scrollbars.
+ 4.0-5.0: 
+ - This property does not apply to inline elements.
+ 5.5+: 
+ - Beginning in 5.5 Beta 1, this property now applies
+ to inline elements.
+
+ Netscape 
+
+ 4.0: 
+ - Inline elements are turned into block elements when Border properties are applied.
+ - Border properties have no effect on tables and table cells
+ - Border properties applied to form fields and images: creates a linefeed
+ after the element followed by a small box carrying the border property/value.
+ - Border properties applied to list items (LI) and DT/DD:
+ creates a small box carrying the border property/value, followed by
+ a linefeed, followed by the list item content.
+ - Border properties applied to list structures (OL/UL): causes the list
+ markers to be shown as small bullets, regardless of the 'list-style-type' applied.
+ - The default value for 'border-style' is "solid", not "none". The
+ default value for 'border-width' is "0", not "medium."
+ - Border properties applied to hyperlinks make the hyperlink unusable!
+ - Border styles applied to unclosed P element, nested inside a floating
+ element: all content after opening P element disappears.
+ - Reported elsewhere: Crash when border applied to unclosed P element
+ in table cell, while another table is nested in the cell (verified in
+ 4.0x, NT but appears ok in 4.5x, 98)
+ - Styles can not be independently set for each side using this property;
+ As reported elsewhere, the border-style from the previous paragraph is
+ used. In my testing in 4.5x though, listing more than one border-style value
+ of any type (even invalid values) renders as if the style were set to "outset."
+ - Even if the 'border-style' is set to "none", an element is rendered
+ with space allowance for any indicated 'border-width' value.
+ - The borders created for hyperlinked images can not be controlled
+ by the 'border-style' "none" value.
+ - Reported elsewhere: Assigning border properties to elements with
+ 'width' set to "100%" can cause unnecessary linefeeds when printing.
+
+ Opera 
+
+ 3.5: 
+ - Borders have no effect on images, tables, table cells and form fields.
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+
+ Boring Copyright Stuff....

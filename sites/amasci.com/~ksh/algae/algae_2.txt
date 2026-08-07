@@ -1,0 +1,525 @@
+(original author)
+ Karl Berry 
+ Olaf Bachmann 
+ and many others.
+Maintained by: Olaf Bachmann 
+Send bugs and suggestions to 
+
+-->
+
+ Algae: Primer 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+ 2. Primer 
+
+What follows is a quick introduction to Algae. It shows many simple
+examples, but leaves out the detailed descriptions. See section 4. The Algae Language ,
+for more details about the Algae language. 
+
+The first thing that you'll need to know is how to get algae 
+started. If your system is properly set up, it's a simple matter of
+typing the command `algae' . This brings algae up in
+interactive mode; a prompt is displayed and it waits for you to start
+typing statements. Later we'll discuss other options, such as giving
+ algae a file of statements to execute in "batch" mode. 
+
+This manual is available on-line through the info function; type
+ info() to view it. You can go to a specific topic by naming it
+as an argument. For example, info("operators") takes you
+directly to the description of Algae's operators. 
+
+An Algae statement describes the operations to be performed. For
+example, the statement 
+
+ 1+sin(2)
+
+tells Algae to add 1 to the sine of 2. Statements may be terminated with
+a newline, a semicolon, or a question mark; the results are printed
+unless a semicolon is used. 
+
+The statement
+
+ printf ("hello, world\n");
+
+prints a hopeful little "hello, world" message to the terminal. This
+is exactly like the C language, right down to the `\n' escape
+sequence to indicate a newline. If you know C, you'll probably notice
+many other similarities between its syntax and that of Algae. 
+
+Like most computer languages, Algae has variables to which values
+can be assigned. In Algae, these variables need not be declared before
+being used, and may be created or destroyed during a session. If you
+type the statement x=1 , the variable x will be created if
+it doesn't already exist. If x already had a value, then
+assignment to x destroys its previous contents. 
+
+The values taken on by variables are known as entities , which have
+various classes such as `scalar' , `vector' ,
+ `matrix' , `table' , etc. A builtin function called
+ class returns the class of its argument, so if you make the
+assignment x=1 then the statement class(x) returns
+ `"scalar"' . 
+
+Notice that a scalar is not the same thing as a one-element vector or as
+a one-by-one matrix. The builtin functions scalar ,
+ vector , and matrix may be used to convert from one to
+another. For example, matrix(7) returns a matrix with one row
+and one column, its single element having the value 7. Algae will often
+make these conversions between classes automatically. In the
+code 
+
+ x = [ 3, 2, 1 ];
+y = sort (x);
+
+the sort function first converts its matrix argument x 
+into a vector and then returns another vector with the same elements but
+sorted in increasing order. (An expression enclosed in brackets defines
+a matrix, as we'll discuss later.) 
+
+Besides its class, an entity may have other attributes which are stored
+as its members . For example, the number of rows in a matrix is
+stored in a member called "nr". Members are referenced with the "dot"
+operator, so if M is a matrix, then M.nr returns its row
+size. Most entities have one or more predefined members (such as
+ nr in matrices) that you cannot directly modify. You can create
+new members simply by assignment. 
+
+A function called show prints information about an entity and its
+members. Another function, members , returns a vector containing
+the names of all the members of its argument.
+
+When a non-existent variable or member is referenced, the special value
+ NULL is returned. For example, the line 
+
+ a = 1; a.nr
+
+(which consists of two statements) prints "NULL", since scalars do not
+start life with a member nr . 
+
+The NULL constant may be used on the right-hand side of assignments,
+effectively deleting the previous value of an entity. Actually, the
+entity still exists, but it has the value NULL. You can perform a
+number of other operations on NULL, such as in 
+
+ if (x != NULL) { x.class? }
+
+All array entities (and that includes scalars) have a member called
+ type , which may have one of these values: "integer", "real",
+"complex", or "character". The constant 1 is an integer, but
+ 1.0 has real type. Algae has no complex constant like Fortran
+does--you have to use an expression such as sqrt(-1) . Users
+often make the assignment i=sqrt(-1) when they first start up
+Algae and then use expressions like 1+2*i for their complex
+numbers. 
+
+The "character" type refers to a string of characters. It is
+specified using double-quotes as we did for "hello world" above.
+A character scalar like "1" is different than an integer scalar
+like 1 , and an expression like 1+"1" is not allowed. 
+
+A vector is a one-dimensional array of values. For example,
+ x=1,2,3 specifies a vector with three elements. The elements in
+a vector are numbered starting at one, and the total number of elements
+is given by its ne member. All of the elements have the same
+type. 
+
+Actually, the comma character is Algae's "append" operator. You can
+put several expressions together in a vector, as in
+
+ v = 1, sin(2), 3+4;
+
+A "subvector" expression may be used to specify a particular element
+or elements. You do that simply by following the vector with a
+ specifier enclosed in brackets. For example, v[3] gives a
+scalar having the value of the third element of v . If the
+specifier is a scalar, then the result is a scalar; otherwise, the
+result is a vector. 
+
+A more complicated example is 
+
+ aset = 3, 9, 15;
+x = v[aset][2];
+
+Here, x gets the value of the ninth element of v . You can
+also assign to a subvector, so v[1]=0 sets the first element of
+ v to zero.
+
+Vectors have a member eid (it stands for element id ) that
+contains labels for its elements. You don't need labels ( eid may
+be NULL), but they can be pretty useful. For one thing, they can help
+you to avoid errors by not allowing you to perform certain operations
+unless the labels match. If you try to add two vectors and they both
+have labels, then the labels must be identical.
+
+You can also use labels instead of element numbers in a subvector
+expression. You do this by using character strings as the specifier.
+For example, the code
+
+ weight = 172, 216, 188;
+weight.eid = "Tom", "Dick", "Harry";
+
+sets up the vector weight with character string labels. Then
+ weight["Dick"] gives Dick's weight of 216. 
+
+Vectors can be generated by using the colon operator. The expression
+ 1:5:2 gives a vector whose first element is 1 , last
+element is no more than 5 , and has a difference of 2 
+between each successive element. In other words, 1:5:2 is the
+same as 1,3,5 . If you leave off the second colon and the third
+operand, then Algae infers a 1 for the third operand. Thus, if
+ n=100 , then 1:n is the vector containing all the integers
+from 1 through 100 . 
+
+A matrix is a two-dimensional array of values. The expression
+ [1,2;3,4;5,6] specifies a matrix with three rows and two
+columns--rows are given as vectors and are separated by semicolons.
+
+Submatrix expressions work just like subvector expressions, but with a
+semicolon to separate the row specifier from the column specifier. The
+expression M[3;2,3] gives a vector containing the elements of
+ M in its third row and second and third columns. If both
+specifiers are scalars, then the result is a scalar. If only one
+specifier is a scalar, then the result is a vector. Otherwise, the
+result is a matrix. The members nr and nc give the number
+of rows and columns of a matrix. 
+
+Matrices have both row and column labels. They're stored in the members
+ rid and cid , respectively. As with vectors, character
+strings used as specifiers in submatrix expressions refer to the
+labels. 
+
+A table is an entity that simply holds a collection of other
+entities. For example, the statements 
+
+ x = 1; y = "foo", "bar";
+t = { x; y };
+
+result in a table t that contains the scalar x and the
+vector y . Instead, we could write
+
+ t = { x = 1; y = "foo", "bar" };
+
+and get the same table. In the latter case, though, x and
+ y exist only inside the table.
+
+You can put any class of entity into a table, even another table. The
+members are referenced with the "dot" operator, just like the other
+entities. The line a={u=1;v=2}; a.u+a.v prints the value 3. You
+can add two tables (the members of the right-hand table are inserted
+into the left-hand table) and subtract two tables (the members of the
+left-hand table having the same name as a member of the right-hand table
+are removed). 
+
+Algae normally executes statements in the order that it receives them,
+but the control-flow statements if , for , and while 
+can change that. The code
+
+ if (x &#62; 0) { y = 1/x; }
+
+is an example of an if statement. The parentheses are required
+around the test expression. If that expression is "true", then the
+statements following it are executed. The if statement may also
+have an elseif part, an else part, or both, so 
+
+ if (x &#62; 0)
+{
+ printf ("positive");
+elseif (x &#60; 0)
+ printf ("negative");
+else
+ printf ("zero");
+}
+
+prints the sign of x . (But you should use the sign 
+function, instead.) 
+
+As long as only scalars are involved, Algae's relational, equality, and
+logical operators probably won't surprise you. An expression is
+ 1 if it's true and 0 if it's false. The relational
+operators are &#62; , &#62;= , &#60; , &#60;= . The equality
+operators are == and != . The logical operators are
+ &#38; , | , and ! . Two additional logical operators,
+ &#38;&#38; and || , are special; they are described later.
+
+Where these operators might surprise you is when vectors and matrices
+are involved. Like most Algae operators, they work on an
+element-by-element basis. For example, if A and B are
+both matrices, then the expression A==B has several features:
+
+ A and B must have the same size.
+
+Their labels must match.
+
+The expression returns a matrix with the same size as A and
+ B , every element of which is either 1 or 0 
+depending on whether the corresponding elements of A and B 
+are equal.
+
+You can see, then, that A==B doesn't give you a simple true or
+false answer but rather a matrix of answers.
+
+The if statement, however, does need a simple true or false in
+order to decide whether to execute its statements or not. It does this
+by recognizing certain entities as false--all others are true. The
+"false" entities are as follows:
+
+NULL.
+
+Numeric entities in which every element is zero.
+
+Character entities in which every element is "" .
+
+Vectors and matrices with no elements.
+
+Tables with no members.
+
+What gets new users into trouble is a statement like
+
+ if (A == B) { done = 1; }
+
+If A and B are matrices, then A==B returns a matrix
+of ones and zeros. The if statement interprets that as "true"
+if even one of its elements is nonzero. In words, the above statement
+starts out "If any element of A is equal to the corresponding
+element of B , then ... " The difficulty is that the
+element-by-element "equality" operation is not the same as a test of
+the equality of two arrays. If the latter test is what you really want,
+then you should use the equal function instead. 
+
+On the other hand, the statement
+
+ if (A != B) { done = 0; }
+
+does work in both senses. The expression A!=B returns a matrix
+that has nonzero elements where the corresponding elements of A 
+and B are unequal. Thus this expression also serves as a test of
+the inequality of the two arrays. 
+
+The &#38;&#38; ("and") and || ("or") operators are special in two
+ways: they don't perform element-by-element like the other operators in
+this section, and they "short-circuit" by skipping evaluation of the
+second operand if the result is already established by the first
+operand. 
+
+Each operand of &#38;&#38; and || is evaluated for "truth" in the
+same way that the if test does. For &#38;&#38; , if the first
+operand evaluates to "false" then the second operand is not evaluated
+and the result of the operation is 0. For || , if the first
+operand evaluates to "true" then the second operand is not evaluated and
+the result of the operation is 1. 
+
+For example, in the expression
+
+ x != NULL &#38;&#38; x.type == "integer"
+
+ x is first checked to see if it's NULL. If it is, then the first
+operand of &#38;&#38; is 0 and that's also the result of the entire
+expression. In that case, the member reference x.type is never
+evaluated. This is convenient, since that would otherwise be an
+error. 
+
+An if statement such as
+
+ if (x &#60; tol) { x = tol; }
+
+could be written instead as
+
+ x &#60; tol &#38;&#38; (x = tol);
+
+The parentheses are required in the second version, since the precedence
+of = is lower than that of &#38;&#38; . Although they accomplish
+the same thing, the first version is recommended; it is easier to read
+and executes a bit faster. 
+
+Besides if , Algae has two other control-flow statements:
+ while and for . The while statement executes a set
+of statements over and over, as long as a given condition is true. For
+example, the code 
+
+ a=0; b=1;
+while (b &#60; 10000)
+{
+ c = b;
+ b = a+b;
+ a = c;
+}
+c?
+
+computes and prints the largest Fibonacci number less than 10000. The
+interpreter checks to make sure that b&#60;10000 , executes the
+statements in the while block, and then repeats. The first time
+that the expression b&#60;10000 evaluates false, the loop
+terminates. 
+
+The for statement also causes looping, but in a different way.
+Assuming that v is a numeric vector, the code 
+
+ for (i in 1:v.ne) { v[i] = 1 / v[i]; }
+
+inverts each of its members. Inside the parentheses, the keyword
+ in separates an identifier on the left and a vector expression on
+the right. In this example, the vector expression is 1:v.ne 
+which contains the integers from 1 to the length of v . The
+ for loop sets i equal to the first element, 1, and then
+executes the statement v[i]=1.0/v[i]; . Then i is set
+equal to the second element, and the statement is executed again. This
+cycle repeats until all of the elements of 1:v.ne are used. 
+
+The previous example also illustrates an important topic concerning both
+ while loops and for loops. Essentially the same results
+would be obtained with the statement v=1/v . This obviously takes
+less typing and is easier to read. The really important difference,
+though, is that it is far more efficient. With the for loop, all
+of the operations (assignment, division, etc.) are performed by the
+interpreter. Although algae is fast, it can't possibly compete
+with doing the same job in C, as v=1/v is. On my computer, it's
+about 60 times faster. 
+
+Sometimes it's convenient to interrupt the execution of while and
+ for loops. The continue statement causes another
+iteration of the loop to begin immediately. If we wanted to invert the
+nonzero elements of a vector, we could write 
+
+ for (i in 1:v.ne)
+{
+ if (v[i] == 0) { continue; }
+ v[i] = 1 / v[i];
+}
+
+The break statement goes even further, exiting the loop
+altogether. For example, we could have written our Fibonacci routine
+as 
+
+ a=0; b=1;
+while (1)
+{
+ c = b;
+ if ((b = a+b) &#62; 10000) { break; }
+ a = c;
+}
+c?
+
+The continue and break statements affect execution of only
+the innermost enclosing loop. 
+
+It's important to note that continue and break are
+statements, not expressions. The code 
+
+ x &#60; 0 &#38;&#38; break;
+
+is not valid, since the operands of &#38;&#38; must be expressions. 
+
+Like other computer languages, Algae has functions . Some functions
+(like sin and printf ) are builtin , meaning that they
+are part of the Algae executable file. Others, called user
+functions , are those written in the Algae language. A function is
+called by giving its name followed by a parenthesized list of
+ arguments . The arguments are separated by semicolons, and their
+values are passed to the function. Since only the values are passed,
+the function cannot modify the variables that you pass it. 
+
+For example, let's assume that you're calling the function shady .
+
+ x = 1;
+y = shady (x);
+
+The value returned by shady is assigned to y . You can't
+tell by looking at it what class of entity (scalar, matrix, etc.)
+ shady returns. In fact, that might even change from one call to
+the next. Rest assured, though, the value of x is still 1, no
+matter what happened in shady . 
+
+Algae functions are entities--just like scalars and matrices. That
+means that you can perform operations on them as you do with other
+entities. For example, the statement 
+
+ my_sin = sin
+
+creates a new function called my_sin that works just like the
+original sin function. Of course,
+
+ sin = NULL;
+
+gets rid of the sin function completely--probably not a very
+good idea in most cases. 
+
+Functions may be defined during an interactive session or simply
+included from files. As an example, consider writing a function called
+"findit" that will look through the elements of a vector for a given
+value, returning the locations where it found it. The following
+function should do the job: 
+
+ findit = function (s; v)
+{
+ local (w; i);
+ w = vector ();
+ for (i in 1:v.ne)
+ {
+ if (v[i] == s) { w = w, i; }
+ }
+ return w;
+}
+
+(The builtin function find does this job much more efficiently.)
+The local statement declares its arguments as having local scope.
+For example, the assignment to w would have no effect outside
+this function. Without the local declaration, the assignment
+would change the value of w globally. 
+
+The return statement causes execution of the function to
+terminate and passes it's expression as the function's return value.
+Recursive calls to a function are no problem. For example, we could
+write a function to compute factorials as 
+
+ fact = function (n)
+{
+ if (n &#60; 2) { return 1.0; else return n * fact (n-1); }
+}
+
+This function has one slight problem. (Several, really, if you consider
+that it does no error checking.) If we later decide to change its name
+by typing factorial=fact , it still calls function fact 
+internally. Now if we're really mean-spirited we can change fact 
+as in fact=sin ; now factorial gives wrong answers. The
+way to handle this is to call the function self when you make a
+recursive function call, as in 
+
+ fact = function (n)
+{
+ if (n &#60; 2) { return 1.0; else return n * self (n-1); }
+}
+
+The self keyword refers to the current function. Besides
+recursive function calls, it's also useful for keeping data local to a
+function. For example, consider a function that returns the "shape"
+of its argument: 
+
+ shape = function (x)
+{
+ return self.(class(x)) (x);
+};
+
+shape.scalar = function (x) { return NULL; };
+shape.vector = function (x) { return x.ne; };
+shape.matrix = function (x) { return x.nr, x.nc; };
+
+This shape function determines the class of its argument and then
+calls the appropriate member function. (The standard shape 
+function additionally provides some error checking.) 
+
+ [ << ] 
+ [ >> ] 
+ [ Top ] 
+ [ Contents ] 
+ [ Index ] 
+ [ ? ] 
+
+This document was generated
+by K. Scott Hunziker on October, 31 2001 
+using texi2html

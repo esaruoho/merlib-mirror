@@ -1,0 +1,193 @@
+---
+title: "SMALLnet post308"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post308.html
+order: 8181
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post308
+
+*Source page: `~smallnet/Archive/post308.html`*
+
+## SMALLnet Posting post308
+
+------------------------------------------------------------------------
+
+**Date: Mon, 17 Apr 2000 23:51:47 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+...As I remarked last time, Norvel material just keeps ON coming in. Perhaps we should re-name this forum NORVELnet...? \[JW\]
+
+Ken Elder \< <kenelder@kenick.com> \> contributed:
+
+I've got several Norvel .061 BigMigs, the first on my LMH helicopter. It uses an exhaust throttle and about 4 shims under the head, and idles really slow.
+
+Out of the others, I've learned a few things. First, we use 15% Omega fuel and Norvel plugs. Two of the six engines we have will not idle below about half throttle or so, and this seems like the same problem many on the list have talked about.
+
+I have noticed on these engines that the carb appears to be a bit different, and there is no idle air bleed in those carbs. All the others have an idle air bleed and they all idle great.
+
+The screw that many have mentioned as interfering with the throttle arm seems to be the idle air bleed screw. We have had to back this out in some cases far enough that the throttle arm no longer interferes with it. For those of you with idle problems, I'd suggest backing this screw out. If it seems to have an offset head, as you back it out you'll find that the screw is bent.
+
+In my LMH helicopter instructions, written for the Cox .051, it mentions that you should adjust the number of shims under the glow plug until you get a reliable idle. The book says to start with 6 shims. What I've learned is to keep adding shims until the heli won't take off, then subtract shims until it has enough power.
+
+The result is a small engine that is very reliable. I use the same process with the Norvel on the helicopter and it's great.
+
+In my opinion, I like the Norvels, as they are a lot more powerful than the Cox engines, throttle a lot better, and are almost impossible to wear out. Ken Elder
+
+Malcolm Logan \< <rcav8r@loxinfo.co.th> \> comments:
+
+<span id="47">Source: Starters, small\
+</span> The two Kavan-type planetary gear starters I have are a 'no-name' brand. There isn't a single mark on them. I bought them at J & M Hobbies, San Carlos, California. They both start all my engines easily -- and other peoples' too; from 049's and 061's up to YS120's, Super Tigre 3000's and Saito 180's. They have a black shiny case with a red button and a grey hammer-finish endcap. I guess they're a knockoff, but they work fine.
+
+Ed Stevens has always responded to my emails when there's been a problem. I just wish that I didn't need to contact him. I don't think I have gearhead syndrome - just like my engines to start, run well without a lot of fiddling, and last long. Alan, since your Norvels all run so well, I'm curious why you need to contact Ed as much as you say you do ?
+
+There has been a number of mentions of 'running in' these Norvels. Is the suggestion that they need a lot of running in ? The ones I've experienced have been from brand new to having had about 30 ounces of fuel through them. How much run-in do they need ?
+
+That Norvel 074 - is it an 061 on steroids, does it fit the same bearers, or is actually a bigger size crankcase ? What props does it run on ? The Revlite Norvel mentioned - is that another series that Norvel do ?
+
+Regards, Malcolm Logan
+
+David Felin \< <dfelin@otc.cc.mo.us> \> adds:
+
+In posting \#307 Alan Porter mentioned that he wished Norvel would sell more engines, particularly .020s and .030s. I agree 100%.
+
+With the passing of the TD .020 it seems there's a void left in that segment of the market. I know there are small diesels out there in that displacement class, but their price would probably be prohibitive to many of us who have gotten used to (spoiled by?) the tremendous value offered by Norvel engines. Likewise, the TD .010 is a neat little engine but a little too "high-strung" for my tastes.
+
+I wonder if there is sufficient interest for such an engine, say an .020 with a fixed venturi and sport timing, to offer it for sale. It seems like Norvel could steal some "market segment" from the small electric motor vendors. I personally would rather run an I/C engine than an electric, but maybe I'm the only one that feels that way.
+
+Ed Stevens (if you're listening) you could sell at least one .020 to me.
+
+BTW I just received one of the new Norvel .074s. That was the tightest engine when new I have ever experienced. I managed to booger up the prop spacer trying to start it with my electric starter. The salesman at Norvel was very helpful and assured me that the engine was not improperly machined -- but suggested I take the head off and spin it with the starter for a minute or two to limber it up after first oiling the bore and piston. If that didn't work he offered to break it in for me at the factory. He even sent me a new prop spacer free of charge. It's that kind of service that swayed my decision to buy the Norvel over the Thunder Tiger .07 (which looks like a terrific little engine).
+
+Well I did get it to start and after four two-ounce tanks it hand flips like my .049. After some fiddling with the mixture I got it to idle right down to what I consider an acceptable level with the idle to Wide-Open-Throttle transition being just about perfect. I still think this engine is a long way from being completely broken in, so I expect even better things to come. David
+
+Adam Bryant \< <adamdb@juno.com> \> contributed:
+
+Ed Stevens at Norvel wrote: "I'm not exactly sure why those with rubber bladder tanks may not have plug contamination problems. I would suspect that, since competition flyers run at full rpm (and usually quite lean), their engines run at a higher temperature than an average R/C flyer's engine. So perhaps some or all dissolved rubber is consumed in the free flight and control- line engines."
+
+I have used balloon tanks on two BigMig .061 R/C-equipped planes for the last 6-8 months with nary a problem. Last time I checked, both glow plug coils were still bright and shiny. Much of my flying is done at or near full throttle, but I do also idle some, and I tend to run my engines fairly rich.
+
+I also haven't noticed any degradation in the balloons either. Maybe it's the kind of rubber used in the balloons? The balloons I am using had the phrase "helium quality" on the package. I have used mostly Omega 15% for the past several months and recently switched to Byron's 1/2A 25% for more power.
+
+I would also like to express my satisfaction with the Norvel engines. I have had nothing but GOOD luck with my two R/C BigMig .061's. I would like a slower idle, so I will try the exhaust extension idea and see if that helps.
+
+Adam Bryant Parker, Colorado
+
+...Adam, my old friend & fellow model engine columnist Clarence Lee also has never encountered "dissolved rubber problems" in any of the model motors he's worked on -- and those number way up in the THOUSANDS by this time! Also, for many years it was standard practice to use latex rubber fuel tubing in "clunk tanks". I've seen those last for years without apparent deterioration OR evil effects on glow plug elements. \[JW\]
+
+Now for MORE engine-type topics: mufflers suitable for old Enyas...
+
+Ian L. McQueen \< <imcqueen@nbnet.nb.ca> \> begins:
+
+Jack Johnson needs a muffler for an early Enya .19 engine. Davis Diesel was selling a line of German universal mufflers that were held on with a gear clamp. He may still be selling them, and there may be one small enough for the .19. Ian M
+
+Peter X Havriluk \< <Peter.Havriluk1@hartfordlife.com> \> continues:
+
+This may help Jack Johnson in his search for a muffler for his Enya .19. I recently bought some NOS 'dustbin' mufflers from JUST ENGINES in the UK, for my O.S. Max .30 control-line engines, to save weight over the cast aluminum factory-issue mufflers.
+
+These folks have an extensive online catalog; much more is available in their printed catalog; and they are very easy indeed to do business with. They're just a telephone call away, and calls are cheap. My order was in my hands in a little over a week from a phone call. They advertise that they have an extensive but diminishing selection of these aftermarket mufflers.
+
+The ones I received were very nicely made and anodized, and very light, barely an ounce, and very inexpensive. All the catalog prices, by the way, contain a 15% VAT which US purchasers do not have to pay; so our prices are nicely discounted even below the catalog.
+
+A domestic alternative is to inquire at 'J-Tec' as well. They have an extensive list of mufflers and engine mounts. A lot of what they sell never appears in the mail order companies' catalogs.
+
+Peter
+
+<span id="187">Vendor: Just Engines\
+</span> ...Since in his wild enthusiasm to send in his submission, Peter forgot to include the relevant information on how to contact JUST ENGINES, the web site is \< <http://www.justengines.unseen.org> \>, e-mail \< <justengines@enterprise.net> \>. Telephone: 01189-266215 By the way, the name is a misnomer: JUST ENGINES also sells accessories, glow plugs, etc. \[JW\]
+
+Dave Campbell \< <cdcampb@ismi.net> \> suggests:
+
+Big Art Adamisin makes mufflers for the CL Stunt crowd on a custom basis for around \$35. Nice quality aluminum construction from a custom extrusion. Last contact I have for him is \< <jury1@msn.net> \>.
+
+If that doesn't work, I'll drive over to his place and get his contact information (he's my best friend's grandfather).
+
+Dave Campbell
+
+J.C. Hill-Tout \< <kpa@keremeos.com> \> wrote:
+
+Concerning bulk CO2 supply: we were able to make arrangements with a local fire extinguisher company to refill a small extinguisher to use as a motor tank replenisher. They helped us with adapters for various chargers, and all our problems were solved. Check 'em out!
+
+Concerning float flying: Check diesels for this activity. Glow fuel is largely alcohol, which attracts water like mad; diesel fuel is oil... well, we know how well they mix. I have had a diesel splash down for long enough to get water in the tank, and watched a glob of water run thru the fuel line; the engine sputtered, coughed, then went on running without problems.
+
+We used to have problems with glow fuel just because of high humidity, diesels don't care. Just a thought...
+
+Jim Branaum \< <jgb@flash.net> \> is puzzled:
+
+Several months ago I asked what to do for a cowl to fit the House of Balsa T-6. Someone said Rubbermaid \#2. I have since determined that it is Rubbermaid \#7, and reconfirmed that when I managed to destroy the first one. Except for being extremely touchy on the take-off roll, this bird flies well and actually looks good.
+
+Now for the real question. I have flown this bird several times with a Saito .30 and I thought it was just fine. A real squirrel on the ground, but many are. A little faster than I expected, but I can always pull back the power. A week or so ago I had started trying things and I put it into a spin. Lo and behold, it did not want to come out of the spin! I tried everything I know, and it finally came out about a hair width extra above ground.
+
+My fast fix was to put on a Higley hub since I had some evidence that the T-6 might possibly not have enough nose weight. (That was how I broke the first cowl!). I took it out today and tested it, and was fairly well pleased except for one major problem. I put it into a spin, and AGAIN it did not come out! It went all the way down kind of level, and the only damage was the cowl blocks broke when it parked on the ground. Didn't even bounce or break the prop! Anybody have any ideas? I tried everything I know and it just slowed down but kept spinning.
+
+Thanks, Jim Branaum
+
+Ted Maciag \< <uncleted@digital.net> \> contributed:
+
+Wow! Up to \#307. I missed the \#300 so here are some miscellaneous thoughts. The world is divided into two kinds of people---there are those who consider an engine just a lump of metal that they must put up with to be able to fly their planes -- and those for whom the airplane is only an excuse to run that wonderful powerplant.
+
+I am one of the latter. The more controls and oily exudate the better I like it. Just flipping a switch doesn't do much for me.
+
+1/2A engines will always be more critical to set up than the bigger ones. The amazing thing is that they run as well as they do. Juggling head shims and carb settings is part of the hobby.
+
+Old saying: Having to row out to recover an ROW model plane is OK. Having to dive for it is not so good!
+
+For a reallllly esoteric powerplant look up this site: \< <http://flypower.com> \>. Many years ago in Texas I used to fly little 4" planes with the big Texas horse flies. Great fun!
+
+I have done it! I have thought of a use for old computer boards that everyone has lying around these days! Get an old mother board, mount a 1 cc engine on one end, a bellcrank in the middle, and a stick of memory at the back for an elevator -- and you have a high-tech Ukie. If you want a vertical fin, just plug in a board. Making a free flight version would be difficult, but someone might be able to R/C one. (Maybe that Diesel fuel is affecting me---)
+
+Ted Maciag Largo, Florida USA
+
+...Inasmuch as nobody else seems willing to submit much non-engine material to SMALLnet, I'll supply some myself.
+
+A while ago several SMALLsters were inquiring about sources for foam board. In a recent trip to my local Wal Mart, I discovered that they carry 20" X 30" sheets, a trifle under 1/4" thick, faced on both sides with posterboard-like paper. Price was under \$2 per sheet.
+
+However, in picking out a sheet to experiment with, I discovered that nearly every sheet in the display rack was warped in one way or another. A couple were even "saddle warped".
+
+I did find one nicely-flat piece and bought it. But over the next few days I noticed warps developing in that sheet. Evidently the inner foam core is stable enough, but humidity changes cause expansion (or shrinkage) in the paper facings.
+
+...For some time I've been plagued with premature breakage of my FAI TAN II rubber motors. I just found out (from one of the Flying Aces Club gurus) what I was doing wrong.
+
+I wasn't washing my motors.
+
+I've been informed that to prevent its sticking together, FAI TAN rubber is dusted with talcum powder before being boxed and shipped. Now, since talcum has always seemed smooth & rather slippery to me (I've had a LOT of experience with it, mostly in changing babies' diapers), it never occurred to me that it could harm anything.
+
+But I've been told that although talc is the softest mineral known, its particles are still far harder than rubber. They will dig them- selves into the surface, then abrade the neighboring strands during winding and unwinding.
+
+The proper technique in using FAI TAN rubber begins with a thorough washing and rinsing of the stuff BEFORE being made up into loops for the motor. Then it can be tied as required; and should be then lubricated before winding.
+
+I've never cared for the messy "green soap and glycerin" old-time lubricant. It comes off the rubber and goops up the inside of the model horridly -- eventually making a well-adjusted airplane tail- heavy. The same thing happens, although more gradually, with any of the grease-type rubber lubes -- such as silicone compounds.
+
+Over 20 years ago Jerry Nolin introduced me to Armor-All as a "dry" rubber lube. The first motor I used Armor-All on lasted me EIGHT YEARS ! (That was Sig's black "Contest Rubber" -- with which I did a lot of successful flying. But then at one of the early Dallas SMALL meets, Jesse Shepherd introduced me to FAI's TAN rubber...)
+
+Armor-All still works for me on FAI TAN II. However, people who do a great deal more rubber-powered flying than I do have told me that STP's "Son-of-a-Gun" is even better.
+
+My favorite kind of rubber-powered airplane is the "Earl Stahl" type. Those are more-or-less scale renditions of attractive & "historic" airplanes. These are powered with just enough rubber to provide gentle, low-altitude (20-foot maximum) tight-circling flight -- exactly right for summer evening flying in a schoolyard or park. Very little chasing or tree-climbing is needed...
+
+Earl Stahl found by extensive experimentation that the optimum size for reliable, easy-to-adjust rubber-powered scale model "fun flying" was around 100 to 125 square inches of wing area. Nearly all of his published model designs were in that size range.
+
+<span id="350">Source: Plans, Earl Stahl\
+</span> (Plans for every one of Earl's 39 different rubber-powered flying scale models can be obtained from Charles F. Schultz, 910 Broad- fields Drive, Louisville, Kentucky 40207 -- or from AeroDyne, Dick Gleason, or John Pond.)
+
+<span id="356">Source: Kits, scale rubber models\
+</span> <span id="357">Vendor: Diels Engineering\
+</span> Dave Diels puts out an excellent line of flying scale rubber models, including several off-the-beaten-track types such as the Douglas TBD-1 torpedo bomber, the Curtiss SBC-4 dive bomber, and the Grumman Bearcat F8F. Dave's e-mail address is: \< <dielsengr@kellnet.com> \>. His complete catalog costs \$2. Postal address is: Diels Engineering, P. O. Box 263, Amherst, Ohio 44001.
+
+Although Guillow produces a wide variety of "rubber-powered flying model" kits, there's a reason I added those quotation marks! Although Guillow models CAN be successfully constructed and flown, doing that is far from easy. Those models were designed mostly for display purposes, and not nearly enough attention was devoted to their flight capabilities. \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

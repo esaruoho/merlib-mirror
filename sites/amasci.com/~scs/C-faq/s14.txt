@@ -1,0 +1,46 @@
+Floating Point 
+
+ 14. Floating Point 
+
+ 14.1
+When I set a float variable to 3.1,
+why is printf printing it as 3.0999999?
+ 14.2
+Why is sqrt(144.) giving me
+crazy numbers?
+ 14.3
+I keep getting ``undefined: sin''
+
+compilation errors.
+
+ 14.4
+My floating-point calculations are acting strangely and giving me
+different answers on different machines.
+ 14.5
+What's a good way to check for ``close enough''
+floating-point equality?
+ 14.6
+How do I round numbers?
+ 14.7
+Where is C's
+exponentiation operator?
+ 14.8
+The pre- #define d constant M_PI 
+seems to be missing from
+ <math.h> .
+ 14.9
+How do I
+test for
+IEEE NaN
+and other special values?
+ 14.11
+What's a good way to implement complex numbers in C?
+ 14.12
+I'm looking for some
+mathematical library code.
+ 14.13
+I'm having trouble with a Turbo C program which crashes and says
+something like
+``floating point formats not linked.''
+
+ top

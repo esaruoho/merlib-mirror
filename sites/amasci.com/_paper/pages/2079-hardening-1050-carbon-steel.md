@@ -1,0 +1,158 @@
+---
+title: "Hardening 1050 Carbon Steel"
+source_domain: amasci.com
+source_path: ~cwn/hardening.html
+order: 2079
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T17:08:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Hardening 1050 Carbon Steel
+
+*Source page: `~cwn/hardening.html`*
+
+[\[Back to Main Page\]](index.html)\
+ \
+ \
+
+<u>Hardening 1050 Carbon Steel</u>
+
+Last Changed: April 18, 2001\
+ 
+
+**<u>General Notes</u>**
+
+**\***        "The New American Machinist's Handbook" shows the Hardening (i.e. quenching) Temperature for 1050 to be 1475 to 1550F. I heat the pieces to 1575F or 1600F because they will cool off some what in the time it takes for me to grab the plate with a pair of tongs and quench it. If I'm quenching something large such as a breast plate or a helmet then I heat it to 1600F, otherwise I heat the piece to 1575F.
+
+**\***       The electric kiln that I use for heat treating is a Paragon HT-22D (shown at the bottom of the page).
+
+**\***        I'm sure there are better alloys then 1050, the reason I picked 1050 was because it was the closest to the period 15th century steel  used for armour.
+
+**\***        There are three times during the heat treating process that plates can wrap. The first is when it's heated to 1600F it can\
+wrap under is own weight sometimes. For larger pieces such as breast plates I would said that you should build a frame to keep the piece from warping. The second is when you pick it up with the tongs to quench it, the pressure from the tongs can easily wrap the plate if you grip it the wrong way.  The third is when you quench the piece. Having the piece go into the water in such a way that it is symmetrical side to side seems to help eliminate warping. I've found that when I quench in transmission fluid or oil that plates don't seem to warp during quenching (unless it happened earlier in the process). However I been being much more dent resistance results with water quenching then transmission fluid or oil.\
+ \
+ \
+\
+\
+\
+\
+
+**<u>Quenching in Water</u>**
+
+\
+\
+\
+\
+
+**Conservative Temper for 1050 spring steel (less likely to cracking):**
+
+        Heat the pieces to 1575F and quench them in water (around 60-70F). Then reheated them to 660F for 30 minutes to temper them. Test plates heat treated using this method seemed to have the same dent resistance as mild steel plates 80% thicker.
+
+(The following chart shows my best guess of what the dent resistance of 1050 spring steel heat treated with this method is relative to mild steel.)
+
+0.035"  / 20 gauge  / ~0.9mm   =     0.063" / ~16 gauge / ~1.6mm\
+0.050"  / 18 gauge  / ~1.3mm   =     0.090" / ~13 gauge / ~2.3mm\
+0.062"  / 16 gauge  / ~1.6mm   =     0.111" / ~12 gauge / ~2.8mm\
+0.075"  / 14 gauge  / ~1.9mm   =     0.135" / ~10 gauge / ~3.4mm\
+ \
+ \
+ 
+
+**Moderate Temper for 1050 spring steel (will usually deform instead of cracking):**
+
+        Heat the pieces to 1575F and quench them in water (around 60-70F). Then reheated them to 600F for 30 minutes to temper them. Test plates heat treated using this method seemed to have the same dent resistance as mild steel plates 100% thicker.
+
+(The following chart shows my best guess of what the dent resistance of 1050 spring steel heat treated with this method is relative to mild steel.)
+
+0.035"  / 20 gauge  / ~0.9mm   =     0.070" / ~15 gauge / ~1.8mm\
+0.050"  / 18 gauge  / ~1.3mm   =     0.100" / ~12 gauge / ~2.6mm\
+0.062"  / 16 gauge  / ~1.6mm   =     0.124" / ~11 gauge / ~3.2mm\
+0.075"  / 14 gauge  / ~1.9mm   =     0.150" / ~  9 gauge / ~3.8mm\
+ \
+ \
+ 
+
+**Hard Temper for 1050 spring steel (will crack under some circumstances) :**
+
+        Heat the pieces to 1575F/856C and quench them in water (around 60-70F/16-21C). Then reheated them to 570F/299C for 30 minutes to temper them. Please note that I have only heat treated a couple of test plates using this method. The dent resistance of the heat treated plates seems to be about that of mild steel 200% thicker. If a flat plate is bent back and forth to a 90 degree angle after a couple of bends it will crack.
+
+(The following chart shows my best guess of what the dent resistance of 1050 spring steel heat treated with this method is relative to mild steel.)
+
+0.035"  / 20 gauge  / ~0.9mm   =     0.105" / ~12 gauge / ~2.7mm\
+0.050"  / 18 gauge  / ~1.3mm   =     0.150" / ~  9 gauge / ~3.9mm\
+0.062"  / 16 gauge  / ~1.6mm   =     0.186" / ~  7 gauge / ~4.8mm\
+0.075"  / 14 gauge  / ~1.9mm   =     0.225" / ~  5 gauge / ~5.7mm\
+ \
+ \
+ 
+
+**Very Hard Temper for 1050 steel (plates will crack in half if bent to far):**
+
+        I heat treated a few test plates to 550F/287C for 30 minutes.  When I put the test pieces on my anvil and hit them with a ball peen hammer about 5 times or so pieces of the plate cracked off. With another test piece I clamped one 4 inch end of the 8 inch by 4 inch plate in a vise and grabbed the other with a pair of tongs to see how far it would bend before breaking.\
+ \
+ \
+\
+\
+\
+
+**<u>Quenching in Brine (Salt Water)</u>**
+
+        When quenching in fast moving (stirred) brine it seemed seemed like the plates were somewhat less likely to warp during the quench. Also all the fire scale comes off when you quench in brine unlike quenching in water. The dent resistance after tempering the plates seemed about the same as with a water quench.\
+ \
+ \
+\
+\
+
+**<u>Quenching in Mineral Oil</u>**
+
+        After talking to a number of other armourers and knife makers that do heat treating it sounded like I could get better results using an oil or transmission fluid quench.  So I bought quenching oil (low-viscosity, straight mineral oil) from [McMaster-Carr](http://www.mcmaster.com/). The plates plates that I quenched but didn't temper bent much easier then test plates that had been water quenched and tempered to 600F/315C or even 660F/348C. The quench took much longer in the oil then in water and far longer then in fast moving (stirred) brine. The plates seemed much less likely to warp during the quench. Quenching in the oil cleaned off the fire scale similar to quenching in brine. I not sure if this is due to some special property of the quenching oil or if quenching in any mineral oil does this.\
+ \
+ \
+\
+\
+\
+
+**<u>Quenching in Transmission Fluid</u>**
+
+        I heat treated a few test plates by quenching them in transmission fluid. The plates that I quenched (but didn't temper) resisted denting about the same as test plates quenched in water and tempered to 660F/348C. However unlike the plates quenched in water the untempered plates quenched in transmission fluid cracked after 5 to 10 or so hard hits with a ball peen hammer in the same area.\
+       If the plates quenched in transmission fluid had been tempered they would be less likely to crack. However they would still be easier to dent then even a water quenched plate with a 660F/348C temper.\
+ \
+ \
+\
+\
+\
+\
+
+**<u>Heat Treating and Tinning Brigandine Plates</u>**
+
+\
+\
+\
+
+        The heat treating is done by heating the plates to 1575F(857C) and quench them in hot water at around 120(49C) to 150F(66C). If the water isn't hot some of the plates crack between the plate edge and holes near the edge. This only seems to happen with small thin plates with lots of holes in them. After quenching the plates I temper them to 650F/343C for 30 minutes. The temper is just soft enough so that you can still reshape the plates a bit if you need to and soft enough so that they won't tend to crack due to all the holes in them.\
+        After heat treating the plates I soak them it muriatic acid for at least an hour to clean them so that they can be tin\
+plated. When I take them out of the acid I put them directly into a bucket of water mixed with baking soda to neutralize the acid left on the plates. When I take the plates out of the water and dry them immediately, otherwise the plates will start to rust within minutes.\
+        For the tin plating I have a pan that I built to hold enough tin to submerge the plates in. I put the pan containing\
+the tin in to in my front loading kiln set at 700F(371C). It will take about 20 minutes for the tin to completely melt at that temperature. Before submerging the plates in the tin they need to be coated in an acid based tinning/soldiering flux. I use steel wire to suspend the plate from while submerging them in the tin. Be sure to shake off as much excess tin as possible after you take the plate out of the tin. Wear a clear face shield when you do this! Also you do need good ventilation in the room to get rid of the fumes from the burning flux.\
+ \
+ \
+ \
+ 
+
+Pictures of my kiln:
+
+<img src="photos/shop/kiln_closed.jpg" data-nosave="" width="666" height="500" />\
+<img src="photos/shop/kiln_open.jpg" data-nosave="" width="573" height="500" />\
+ \
+ \
+ 
+
+[\[Back to Main Page\]](index.html)\
+ \
+ \
+ 
+
+Copyright 1999   Craig W. Nadler   All rights reserved

@@ -1,0 +1,50 @@
+C.M. Connelly: Towards an Ideal Job 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Towards an Ideal Job 
+
+ After a few years working in the computer industry, I've taken some time 
+off to do some serious thinking about whether I want to continue working in 
+this field or move on. 
+
+ The money which tends to go with these sorts of positions is always 
+tempting&#8212;our society has enshrined money as the primary measure of 
+success or failure&#8212;but even the highest salaries often don't begin to 
+approach fair compensation for the demands on one's life which come with 
+such jobs. 
+
+ These demands might be acceptable if I had a strong commitment to a company 
+or organization for personal reasons (say, as a major investor (one with 
+stock, as opposed to stock options), or if the organization is working for 
+something I strongly believe in). But the demands which are all too often 
+made of individuals without such personal commitments seem excessive and 
+unreasonable to me. 
+
+ I would prefer to have a job with a lower salary which allows me to leave 
+it behind when I leave the office. It would be even better if I truly 
+cared about the goals of the organization or company. But I don't think I 
+could accept another position which demanded twenty-four hour access to my 
+life and control over what is supposed to be my "free time" outside of 
+work without such a personal involvement. 
+
+ I've also thought a lot about the kind of work I could do, and I believe 
+that a position which allows me to be very involved in the creation of a 
+final product&#8212;be it a Web site, a manual, a proposal, a network 
+installation, or a functioning server&#8212;rather than merely strive against an 
+ever-rising tide of tedious work maintaining an existing system which 
+allows other people to create things. 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 1:43 PM PDT, Monday, September 22, 2003; last rendered at 
+ 9:22 PM PST, Sunday, November 30, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

@@ -1,0 +1,76 @@
+Proactive Approaches 
+
+ Proactive Approaches 
+
+ Proactive approaches to understanding customers include: personal interviews ,
+ focus groups , designed surveys , benchmarking and mystery shoppers . These
+approaches provide a high level of understanding. 
+
+ Contrast these approaches with analyzing unsolicited complaints. The reactive
+approach can provide only a low level of understanding because the data obtained
+is from a biased, non representative set of customers. In addition, customers may
+fail to complain because the effort to do so exceeds any advantage or may lead to
+undesirable repercussions. 
+
+ Structured Interviews 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Structured interviews involve a specialized body of knowledge associated with systems analysis
+and management consulting. The interview technique is important in obtaining not only facts
+known to be necessary, but also facts that may be important in decision making. Typically, the
+systems analyst or management consultant will prepare a short list of broad areas related to the
+area of investigation. The individual being interviewed is asked to comment in general about the
+area and then questioning follows a depth first strategy. Often, interviews are
+confidential; this overcomes problems associated with the reactive approach to collecting information.
+
+ Focus Groups 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Focus groups are a proactive strategy that can provide a high level of understanding regarding
+process improvement and customer expectations. The focus groups can offer insights that are
+impossible to capture through surveys or even through interviews with individual customers.
+
+ Designed Surveys 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Surveys represent a broad field of knowledge associated with statistics and social science. Survey
+design is important in reducing the bias of those using the results and in obtaining high response
+rates. Typically, independent consultants are used to design surveys and tabulate results. 
+
+ Benchmarking 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Benchmarking is a proactive strategy that can provide a high level of understanding regarding
+process improvement and customer expectations. It is the search for the best practices and an
+understanding of how those practices are achieved. There are four kinds of benchmarking .
+
+ Mystery Shopper 
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ The mystery shopper is a proactive strategy that can provide a high level of understanding
+regarding process improvement and customer expectations. It may involve planting employees at
+organizations the firm supplies. 
+
+[ Top ] [ Next ] [ Prev ] [ Bot ]
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+ Java 
+
+[ Home ]
+[ Decision Tree ] 
+[ Deep Knowledge ]
+[ Acknowledgements ]
+[ Map ] 
+
+ http://www.eskimo.com/~mighetto/lsproact - last update August 15,
+2000. 
+
+ This topic is included in Decision Maker's smart database. Select the icon to
+display an imagemap.

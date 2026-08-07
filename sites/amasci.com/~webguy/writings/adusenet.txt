@@ -1,0 +1,509 @@
+Path: senator-bedfellow.mit.edu!bloom-beacon.mit.edu!news-ext.crl.dec.com!decwrl!news.PBI.net!nntp-hub2.barrnet.net!cpk-news-hub1.bbnplanet.com!cam-news-hub1.bbnplanet.com!howland.erols.net!panix!news.gw.com!deshaw.com!do-not-use-path-to-reply
+Date: Mon, 28 Oct 1996 09:00:05 GMT
+Supersedes: <Dz5Kw8.G62@deshaw.com>
+Expires: Thu, 28 Nov 1996 09:00:04 GMT
+Message-ID: <DzzAC5.7B8@deshaw.com>
+From: jfurr@acpub.duke.edu (Joel K. Furr)
+Subject: Advertising on Usenet: How To Do It, How Not To Do It
+Newsgroups: news.announce.newusers,news.admin.misc,misc.entrepreneurs,news.admin.net-abuse.misc,news.misc,misc.answers,news.answers
+Reply-To: jfurr@acpub.duke.edu
+Followup-To: news.newusers.questions
+Approved: netannounce@deshaw.com (Mark Moraes)
+Lines: 495
+Xref: senator-bedfellow.mit.edu news.announce.newusers:2652 news.admin.misc:58544 misc.entrepreneurs:214060 news.admin.net-abuse.misc:115207 news.misc:22531 misc.answers:4844 news.answers:85681
+
+Original-author: jfurr@acpub.duke.edu (Joel K. Furr)
+Archive-name: usenet/advertising/how-to/part1
+Last-change: 23 Jul 1996 by jfurr@acpub.duke.edu (Joel Furr)
+Changes-posted-to: news.misc
+
+Introduction
+------------
+
+Advertising on Usenet is a frequently misunderstood subject. The purpose
+of this message is to explain some Usenet conventions regarding
+advertising to new users and, hopefully, spare everyone involved a lot of
+needless worry. 
+
+To start with, let's define the term.  "Usenet" is *not* synonymous with
+"Internet."  Usenet is the system of online discussion groups, called
+"newsgroups," e.g. rec.humor, comp.misc, news.announce.newusers,
+talk.origins, misc.rural, alt.sex, and so forth. 
+
+This FAQ does not attempt to describe in detail all the various ways in
+which one can conduct commercial activity over the Internet and attempts
+simply to explain the issues involved in advertising in Usenet newsgroups. 
+
+The philosophy of Usenet
+------------------------
+
+Usenet started out in 1980 as a UNIX network linking sites which needed to
+talk about and receive prompt updates on UNIX system configuration and
+other UNIX questions. Message traffic started out at a few messages per
+week, but the system was so useful that traffic quickly boomed and Usenet
+almost immediately expanded to include forums on science fiction, humans
+and computers, and other subjects. 
+
+In the beginning, Usenet was largely confined to educational institutions
+such as universities and colleges, and to research companies and other
+commercial enterprises with UNIX machines on-site.  It has now grown to
+include millions of users at commercial sites such as America Online and
+at companies around the world involved in every sort of business
+imaginable.  Nevertheless, many of the customs found on Usenet today have
+their origins in the days when Usenet was very small and most Usenet sites
+were universities. 
+
+That these customs and traditions began when Usenet was much smaller and
+quite different in nature in no way lessens the anger many users feel when
+these customs and traditions are violated. 
+
+One such custom is the tradition and belief that it is rude to advertise
+for profit in Usenet newsgroups. 
+
+Advertising is widely seen as an 'off-topic' intrusion into the
+discussions of any particular newsgroup (newsgroup is the Usenet word for
+discussion group or bulletin board).  Each newsgroup has a specific set of
+subjects it is intended to cover, and in order for newsgroups to function
+as effective discussion forums, it is important that people stay
+'on-topic'.  If everyone disregarded the particular topics each newsgroup
+is intended to cover and simply posted whatever they wanted wherever they
+want, the entire system would break down. 
+
+Due to the decentralized nature of Usenet, there is no one person or body
+which can "enforce" the custom of staying on-topic.  It falls on each
+user to help preserve the culture of open discussion and free speech that
+Usenet has come to embody by not posting off-topic material. 
+
+This, of course, includes advertising. Advertising is by far the most
+pervasive form of off-topic posting, and therefore, gets most of the heat. 
+
+An analogy
+----------
+
+If an analogy will help you to visualize the situation, imagine a meeting
+at your workplace or school. 
+
+At this meeting, people are discussing a certain issue -- for example,
+getting new sidewalks installed downtown or getting new schoolbooks for
+the elementary school, or what to do about the new product your company is
+planning on introducing. 
+
+In the midst of the discussions on the new sidewalks or textbooks or
+product, someone walks into the room, interrupts everyone, then reads an
+advertisement for a local restaurant.  He or she then leaves without
+waiting for comment. 
+
+Now imagine if this happened over and over again each time your group
+tried to hold a meeting.  Every time someone tried to make a point, in
+walks some other stranger who reads an ad for some business that has
+nothing to do with the subject of the meeting. 
+
+It would soon become rather difficult to hold effective meetings, wouldn't
+it? 
+
+Similarly, it's very difficult to keep Usenet newsgroups interesting and
+useful when people deluge newsgroups with advertisements. 
+
+The hidden cost
+---------------
+
+One of the things that attracts some people to the idea of advertising via
+Usenet is that it costs so little to do it.  You pay $20 or $30 per month
+for an Internet account, and you can post literally *millions* of
+advertisements at no additional cost. 
+
+But there *is* a cost.  Each message you post takes up disk space on each
+site around the world where it lands.  People don't much mind paying for
+disk space to hold Usenet discussions since they know that people like
+taking part in those discussions and since they know that it's sort of
+like mutual backscratching: "I let your messages reside on my site for
+free, and you let the messages I post reside on your site for free." 
+Everyone benefits from interesting, informative, or amusing discussions,
+so no one really minds paying for the space. 
+
+But there's only one person who benefits from advertising: the advertiser. 
+Sure, you can say that the people who see the ad benefit from the product
+or service advertised, but when you balance that against what they lose
+when their favorite discussion group is taken over by non-stop
+advertising, it's a poor trade. 
+
+No one wants to give their disk space for free to someone who selfishly
+posts a copy of an advertisement to every newsgroup on Usenet. 
+
+
+How to advertise on Usenet 
+--------------------------
+
+There *are* acceptable ways to advertise in Usenet newsgroups.
+
+1. The on-topic notice
+
+If you have a product or a message that is specifically related to a
+particular Usenet newsgroup, and you want to let people know about it,
+it's *usually* all right to post *one* notice about it. 
+
+Note the word "notice."  A notice is a brief mention of the product with
+information about how interested persons can find out more.  It's not a
+sales pitch.  It's not an advertisement.  It's not a "BUY BUY BUY" sort of
+message.  It's a notice. 
+
+You are encouraged to make such postings one-time-only.  When your polite
+informational notice starts getting posted every week, people are going to
+start getting irked at you. 
+
+You are also *strongly* encouraged to keep such postings hype-free. What
+often works very well is to post information about your services or
+product and include a contact address, World Wide Web site, or phone
+number for people to use to get more information. 
+
+For example, if you want to post a notice about your immigration law
+services, you could post a message to alt.visa.us or the various
+misc.immigration.* newsgroups, where you'd find a large population of
+people interested in that or related subjects. Posting the same ad to
+rec.sport.football.college would *not* be appropriate because
+rec.sport.football.college has nothing to do with immigration law, visas,
+or becoming a citizen of another country.
+
+One way to tell if a post is appropriate is to look at a newsgroup's
+charter.  The charter is the formal declaration of what is on topic and
+what is not, and was generated at the time the group was created if the
+group was created in the so-called Big 7 hierarchies of comp.*, soc.*,
+rec.*, talk.*, misc.*, news.*, sci.*, and humanities.*.  Some other groups
+have charters as well, but not all -- and if they do, they're often one or
+two lines in length.  Where can you find a charter?  Well, in some cases
+the charter is regularly posted to the newsgroup or is contained in the
+newsgroup's Frequently Asked Questions files.  In other cases, the charter
+has been all but forgotten.  Charters can occasionally be difficult to
+locate, so you may have to use your best judgment and/or ask someone who's
+been reading the group for a while if a particular message would be
+appropriate. 
+
+This is not to say that on-topic notices will always be welcome; the
+proliferation of inappropriate advertisements (ads posted in the wrong way
+to the wrong place) has resulted in *all* ads, even informational notices
+posted to appropriate newsgroups, tending to get a cold shoulder. You can
+help by limiting your ads to *informational* postings posted *only*
+*where* *appropriate*, and abiding by any local restrictions a given
+newsgroup's readers have placed on advertising. 
+
+2. *.forsale and *.marketplace newsgroups
+
+There are many newsgroups directly involved in selling.  You can generally
+spot them by the word "forsale" or "marketplace" in their names. 
+
+For example, rec.games.board.marketplace is a newsgroup where people post
+for-sale and want-to-buy notices about board games they want to buy or
+sell. 
+
+Similarly, the misc.forsale.* hierarchy is full of newsgroups for buying
+and selling various computers, monitors, printers, devices, and so forth,
+as well as misc.forsale.non-computer.*, for selling stuff that's not
+computer-related.  However, the misc.forsale.* policy is rather resistant
+to *commercial* ads -- the hierarchy is intended as a place to post
+classified-style ads.  
+
+Many parts of the Net have local hierarchies as well where you can post
+for-sale and want-to-buy ads. 
+
+For example, in central North Carolina, the triangle.* hierarchy has
+triangle.forsale and triangle.wanted, where classified-style
+advertisements are the rule of the day. 
+
+It's generally considered rude, though, to crosspost a notice about your
+product to every forsale newsgroup, even ones on the opposite side of the
+country or world.  Post your notice only to your *local* forsale
+newsgroup, if one exists. 
+
+3. comp.newprod
+
+If and only if you are with a computer company which is releasing a new
+product and you want to make word of this new product known to the
+computing community, you can post a notice to the moderated newsgroup
+comp.newprod. The moderator of comp.newprod requires submissions to be
+informative and hype-free so people will use comp.newprod as a reliable
+way of gaining information. 
+
+4. biz.*
+
+There is a hierarchy of newsgroups called "biz.*" which exists mainly for
+announcement from companies of new products, fixes and enhancements,
+postings of demo software, and so forth. If your site carries biz.*, and
+you feel that a biz.* hierarchy group would suit your purposes, go to
+biz.config and ask for it. 
+
+Be warned, though, that if your goal is to create a biz.* newsgroup for
+posting hype-filled advertisements, no one would read such a newsgroup. 
+People only want to read newsgroups that are of benefit to them; they're
+not about to subscribe to a newsgroup that's nothing but ads for Bob's
+Bait and Tackle. 
+
+There are a few dozen biz.* newsgroups, some of which get used regularly
+and some of which are essentially defunct.  If your site carries biz.*,
+you can find out more about the hierarchy by asking in biz.config,
+biz.general, and biz.misc. 
+
+5. .signature advertisements.
+
+A .signature is a mini-file that is automatically appended (stuck at the
+end of) to any Usenet messages that you post -- regardless of what the
+content is.  Whether or not you can create and use a .signature depends on
+what sort of system you're using to access Usenet news.  Many UNIX systems
+simply require you to create a file called ".signature" in your root
+directory within your shell account and put whatever you want your
+.signature to say within that file.  Other systems, like America Online,
+allow you to do something similar, but the implementation varies from
+system to system.  If you can't figure out if your system supports a 
+.signature, ask the people in charge for help.
+
+Typically, it is considered bad manners to put more than four lines of 
+information in your .signature, regardless of what those four lines might 
+say or contain.  Gigantic ASCII pictures of dragons, for example, are 
+annoying when you have to see them every time a certain person posts.  
+
+Similarly, it's considered bad manners to put an advertisement in your 
+.signature and then post a lot of empty or nearly-empty articles simply 
+to get your .signature into various newsgroups.
+
+On the other hand, if you post meaningful, responsible messages in groups 
+you're actually interested in, and those messages happen to have the 
+address of your Web page tacked on at the end, few people will complain.  
+
+Just keep .signature advertisements extremely short and sweet.  Let your
+Web page contain the sales pitch -- the .signature should usually be
+little more than a listing of your URL and perhaps a mention of what sort
+of business you're in. 
+
+Restraint and responsibility are everything -- if you've got those, people
+will sit up and listen to you. 
+
+
+How *not* to advertise on Usenet
+--------------------------------
+
+Unfortunately, there are just about as many *inappropriate* ways to
+advertise on Usenet as there are appropriate ways. 
+
+1. Posting off-topic messages in unrelated newsgroups
+
+Each message you post to Usenet, regardless of its content, should only be
+posted to related newsgroups. 
+
+For example, you run a rug company.  You want to sell lots of rugs.  So,
+you post an advertisement about your rugs in sci.physics.  Not
+surprisingly, a lot of people send you email telling you what a jerk you
+are. 
+
+Why'd they do this, you ask?  It's simple: sci.physics has nothing to do
+with selling rugs.  Your ad was as off-topic as if someone had tried to
+get a discussion going there about the upcoming football season or started
+posting a lot of messages about their recent vacation. 
+
+Suppose you own that rug company, and you regularly read
+rec.crafts.textiles.weaving.  Would you like it if someone started coming
+in and posting a lot of ads to the newsgroup about ginseng tablets, and
+then someone else came in and started trying to sell magazine
+subscriptions, and before you knew it, it became hard to find any actual
+discussion of weaving going on? 
+
+Try to look at it from the other person's point of view.  If you'd resent
+someone posting an ad for *their* product to *your* favorite newsgroup,
+why would you post an ad for *your* product to thousands of other people's
+favorite newsgroups? 
+
+Remember the Golden Rule: "Do unto others as you would have them do unto
+you." 
+
+2. Spamming
+
+Spamming is defined as posting identical or nearly-identical messages (not
+just ads, although ads are usually what spammers post) to a lot of
+newsgroups, one right after the other.  Since it's really not that
+difficult to write a program that will post the same advertisement to
+dozens, if not hundreds or thousands of newsgroups, a lot of people have
+taken to doing this. 
+
+What's happened to people who've spammed? 
+
+They've lost their accounts, been mail-bombed (had thousands of pieces of
+junk email sent to them), had people call up and yell at them in the
+middle of the night, had people forward their mail (by this I mean paper
+mail, not email) to someplace strange, had people sign them up for
+thousands of unwanted magazine subscriptions, had people send them
+thousands of pages of condemnatory faxes, and so forth. 
+
+*Nothing* is as hated on Usenet as spamming. It's extremely, unbelievably
+rude and if you do it, you *will* come to regret it. 
+
+This is not a threat -- it's an observation.  Any benefits spamming might
+have brought you will be more than counteracted by the intense public
+outcry against you in every newsgroup you posted your ad to. 
+
+Some members of the media have gotten the mistaken impression that
+spamming is hated because it's *advertising*.  While it's true that Usenet
+users don't have much fondness for advertising, the real reason spamming
+is hated so much is because it's unbelievably *rude*. 
+
+If you don't regularly read a newsgroup, why would you post an ad to it? 
+In so doing, you're basically saying that you don't care what the people
+in that newsgroup think or whether your ad might inconvenience them;
+you're out to benefit yourself.  When you spam by posting the same
+advertisement to hundreds or thousands of newsgroups, you're saying that
+your personal profit is more important than the discussions of millions of
+people. 
+
+Would *you* like it if someone came by your house day after day and
+shoveled several thousand copies of an advertising circular through your
+windows? 
+
+Each copy of the ad takes up disk space on thousands of machines around
+the world -- and if you post the ad 1,000 times, that's millions of copies
+of your message that *you* are making other people pay to store copies of.
+When you spam, you're hogging hundreds of thousands of dollars worth of
+other people's storage space. 
+
+So please, don't do it. I've already explained that *one* copy of an
+off-topic ad is rude because it has nothing to do with the group it was
+posted to. Multiply that by a thousand times to get an idea of how rude it
+is to spam. 
+
+A quick note about what happens to spam:
+----------------------------------------
+
+Another consideration against spamming is that Usenet readers developed
+defenses against it, so it's not very effective. There are quite a few
+spam detectors running on Usenet, and if one of them detects that the same
+message has been posted repeatedly to multiple newsgroups, the humans who
+run those spam detectors will step in and actually *erase* the spamming
+messages with 'cancel' messages which are honored at most sites around the
+world. 
+
+A common misconception shared by many members of the media is that spam is
+bad because it's *advertising* and that people who cancel spam are doing
+so to get rid of *advertising*. In actual point of fact, most Usenet users
+consider cancellation to be extremely bad manners and something to be done
+only as a last resort. When spam-cancellers cancel spam, it's done because
+of the *volume* (posting hundreds of times), not because of the content. 
+
+The analogy that's often used is that yes, you have the right to walk down
+the street and say whatever you like -- but you do NOT have the right to
+stick your head in someone's house at 3 am and shout through a bullhorn. 
+
+So if you *do* spam, you're likely to lose your account, have your
+personal life made a living hell, possibly get sued by people whose
+storage space you're taking up, and in the end, not very many people are
+even going to see your advertisement.  It's just not worth the grief
+you'll get. 
+
+Sorry to be unpleasant about it, but spam's a really bad idea. 
+
+Finally, if you're wondering where the term "spamming" came from, it came
+from a Monty Python sketch in which the characters were in a restaurant
+which mainly sold Spam. Items on the menu included things like "Spam,
+Spam, Spam, eggs, ham, and Spam." Whenever the waitress recited the menu,
+a group of Vikings in the corner would chime in with her, chanting the
+word "Spam" over and over, drowning out everything else. 
+
+Some members of the media have spread the explanation that the word
+"spamming" derives from throwing chunks of Spam into a fan. This is not
+where the term comes from. 
+
+3. Unsolicited junk email
+
+Another often-practiced and often-punished scheme is to send email to
+thousands of strangers whose addresses you found in various Usenet
+newsgroups.  In the last year, dozens of people have lost their Internet
+access after sending thousands of strangers ads for timeshare condos in
+Cancun or dubious credit schemes, and yet, the junk email continues to
+flood in. 
+
+Suffice it to say that junk email, using Usenet posters' addresses, is a
+really bad idea. Most sites will yank your account if you do that kind of
+thing. 
+
+4) 'Mail-Merged' ads
+
+Some advertisers noticed that it was only *identical* postings that were
+getting cancelled by the spam cancellers, and cleverly came up with a way
+to post their ad to dozens of newsgroups while varying a line or two to
+make it look sufficiently different to avoid being cancelled. 
+
+For example, one book editor posted ads to dozens of newsgroups about his
+book, essentially giving a sales pitch for said book, while adding a
+paragraph to each article that purported to contain the text that had been
+printed about each newsgroup in said book. 
+
+It was rather obvious that the editor wasn't interested in getting
+feedback on the text since the book had already been published; eventually
+an employee at the company admitted that the technique had been used to
+try to avoid triggering the spam cancellers -- and that the point had
+indeed been to broadcast the ad widely without getting cancelled. 
+
+Don't do postings that say things like "Congratulations,
+REC.FOOD.DRINK.BEER reader, you are among the lucky few to be included in
+this amazing offer."  Spam that makes a token effort to relate to each
+newsgroup it's posted to is still spam, and will still be erased on sight. 
+
+Conclusion
+----------
+
+To make a long story short, off-topic advertising and advertising that
+equates to a bullhorn stuck into someone's window in the middle of the
+night are bad ideas. 
+
+*Please* exercise restraint and don't make the mistake many have of
+thinking that just because there's no central authority that can punish
+you for spamming newsgroups, that there will be no consequences if you do. 
+
+There will be consequences if you spam -- and you might be surprised by
+the lengths that vengeful Usenet users can go to when someone spams their
+favorite group with yet another off-topic advertisement. 
+
+If you want to advertise on Usenet, you can, but please follow the tips
+contained in this document's "How to" section and don't make the mistakes
+listed in "How not to do it." 
+
+Stay on topic; keep your notices hype-free; only post your notices to
+newsgroups where they are appropriate. 
+
+Do unto others as you would have them do unto you.
+
+Afterword: Advertising on the Internet
+--------------------------------------
+
+It should be noted that there are many ways to advertise on the Internet
+that don't involve Usenet at all. 
+
+Usenet, you see, is NOT the same thing as the Internet. Usenet is
+transmitted via the Internet, but is also transmitted via other means (see
+"What is Usenet" in news.announce.newusers for more information). The
+Internet also includes services like ftp, telnet, gopher, and the World
+Wide Web. 
+
+A World Wide Web page allows you to put up graphics, text, and sound in an
+interactive hypertext format that's remarkably easy to set up and use. 
+Many thousands of companies and individuals and organizations have put up
+World Wide Web pages that can be viewed by anyone around the world with a
+Web browser such as Mosaic or Netscape. 
+
+Since the only people who see a Web page are people who *choose* to see
+it, and since the person who pays for the storage space necessary to hold
+the Web page is the person or business or organization who put it up and
+designed it, a Web page is a *much* better way than advertising on Usenet
+to put your company's information up on the Internet. 
+
+If you need help getting going, ask the people who run your site for help
+on getting started; usually, all you really need to do is go buy a book on
+basic HTML (Hyper-Text Markup Language) design and/or scout out the
+newsgroup comp.infosystems.www.authoring.html. It's really not that hard
+to set up a Web page, and it's much, much, much more neighborly to put
+your advertising message on a Web page than to barrage the readers of
+Usenet. 
+
+
+IF YOU HAVE FURTHER QUESTIONS:
+
+A board of experienced Usenet users stands ready to help suggest
+non-destructive ways to use Usenet for your commercial purposes.  Send
+mail to commerce@acpub.duke.edu if you have questions or would like help. 
+
+This FAQ can also be found online at http://www.danger.com/advo.html.

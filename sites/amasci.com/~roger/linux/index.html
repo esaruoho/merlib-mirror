@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org">
+<meta http-equiv="CONTENT-TYPE" content=
+"text/html; charset=iso-8859-1">
+<title>Linux</title>
+<meta name="GENERATOR" content="OpenOffice.org 627 (Linux)">
+<meta name="AUTHOR" content="Roger">
+<meta name="CREATED" content="20010602;16182600">
+<meta name="CHANGED" content="16010101;0">
+<style type="text/css">
+ dt.c2 {margin-bottom: 0.5cm;}
+ span.c1 {font-size: 80%}
+  
+</style>
+</head>
+<body text="#ffffff" bgcolor="#000000" link="#0000ff" alink="#000088"
+ vlink="#ff0000">
+<h4>My Linux Related News:</h4>
+
+<p>2003.06.04&nbsp;&nbsp;&nbsp; - &nbsp;I've been spending most of my time now archiving old VHS tapes using my Canopus ADVC-100 with Kino and compressing with divx4linux codec. &nbsp;I've also been archiving my digital images using Linpha (a photo database tool using Apache/PHP/MySQL) to my server here. &nbsp;If you're interested in veiwing the collection of images on my local server, just email me for info on how to view the archive. &nbsp;My next step in archiving may include a purchase of Minolta's Scan Dual III (using Vuescan?) to archive 35mm film that is older then 1999. &nbsp;And, out of curiusity, found that the Webcam Go now works under linux (I've made notes leading to the urls further back in this log on the date of 20010301).
+
+<p>2003.05.10&nbsp;&nbsp;&nbsp; - &nbsp;I've finally gotten <a href="http://www.gentoo.org/">Gento Linux</a> installed.&nbsp; While trying to get a stable install, one thing that sererly stalled me was the mention of using Metalog as the system logger.&nbsp; Avoid using Metalog.&nbsp; I've found the metalog to have several bugs and seriously breaks the system as well as my PCMCIA/Cardbus (unknown if &gt;>=0.7 version resolve these see <a href="http://bugs.gentoo.org/">Gentoo Bugs</a>.&nbsp; Use a more stable logger such as sysklogd or it's successor syslog-ng.&nbsp; Another nice package to have installed is qpkg.&nbsp; One more tip is to use only the recommended Gentoo CFLAGS.&nbsp; Configuration was simplified by copying the contents of my Mandrake configuration files over to Gentoo installs.&nbsp; Some pros to using Gentoo: 1) If one has &gt;=P3's, can compile the entire system to actually use P3 optimizations instead of using (ie) Mandrake's default i586 binaries.&nbsp; 2) You only install the packages you need (I'm saving roughing 6-7GB from installing packages that I never use -- Minimized the o/s size by 50% compared to an install of Mandrake(?).&nbsp; 3) Gentoo contains many packages in it's main tree required for playing dvds and performing other operations (not completely GNU Licensed) such as libdvdcss.&nbsp; 4) Almost everything compiles without any breaks in the process.&nbsp; 5) The system can be kept more updated with every individual stable package release.&nbsp; If you're interested in what details a gentoo install, then have a look over this small <a href="http://vergil.chemistry.gatech.edu/~park/dell.html">Gentoo Install Howto</a>.&nbsp; It's simpler then I thought (especially if you already have installed something like Redhat or Mandrake and have preserved your /etc folder).
+
+<p>2003.04.04&nbsp;&nbsp;&nbsp; - &nbsp;I'm in the process of switching from Mandrake to the Gentoo Linux Distrobution.&nbsp; It's sure nice to be able to compile a whole distrobution without compiler errors.&nbsp; The only downside, Gentoo is not rpm based.&nbsp; However, there's a rumor that the portage tree might be moving to a rpm based one. (Note: This data was published on 04/01)&nbsp;  From what I have seen though, it wouldn't be too hard to migrate the ebuild file to a rpm spec file.&nbsp; </p>
+
+<p>2002.01.15&nbsp;&nbsp;&nbsp; - &nbsp;Bah.&nbsp; I returned the linksys hardware and got the orinco pcmcia card.&nbsp; It fully works and the modules/drivers are within the vanilla kernel.&nbsp; For me, the orinoco just works better.&nbsp; I found the WPC11 wlan-ng drivers to be buggy for the WPC (ver. 3) PCMCIA Card.</p>
+
+<p>2002.11.29&nbsp;&nbsp;&nbsp; - &nbsp;Am getting excellent tx/rx rates at T-Mobile Hotspots (ie Starbucks).&nbsp; It was pretty easy.&nbsp; First, I got a Linksys WPC11 PCMCIA wireless card and installed the linux-wlan-ng-0.1.16pre7-1 drivers. (you may need to set one of the conf files to use dhcp.)&nbsp; Also ensure you have "dhcp-client" and "pump" installed.&nbsp; If you are able to issue "pump -i wlan0" and the wlan interface becomes activated (in gkrellm), then you should only have to issue that particular "pump" command via console when you're around a hotspot enabled Starbucks.&nbsp; Once done, you then need to startup a browser that will automagically forward you to you're T-Mobile sign-in page.&nbsp; The only downside is that the service is only apparently one during Starbucks store hours.</p>
+
+<p>2002.11.29&nbsp;&nbsp;&nbsp; - &nbsp;Well, I finally completed installing Mandrake 9.0 and have compiled two srpm's for the dell i8k laptops.  I just want to package the gkrellm plugin for the i8k laptops fan control...mmm..might add that into the i8kutils package.</p>
+
+<p>2002.08.07&nbsp;&nbsp;&nbsp; - &nbsp;Started putting my
+"Photographs" section and am now mirroring the entire personnal
+website to eskimo.com. &nbsp;Please update your bookmarks to show
+<a href="http://www.eskimo.com/%7Eroger/">http://www.eskimo.com/~roger/</a></p>
+
+<p>2002.07.14&nbsp;&nbsp;&nbsp; -&nbsp; I've posted some screen shots of
+my desktop1, desktop2, desktop3, desktop<br>
+</p>
+
+<ul>
+<li><a href="../images/desktop1.png">Desktop 1</a> has the chat
+client i use, as well as the system monitor and other misc apps.
+(Notice the implementation of tabbed-browsing within
+multi-gnome-terminal!)</li>
+</ul>
+
+<ul>
+<li><a href="../images/desktop2.png">Desktop 2</a> has Mozilla!
+&nbsp;It's the successor to the ol' Netscape and it's great!
+(Notice how effecient tabbed-browsing is!)</li>
+</ul>
+
+<ul>
+<li><a href="../images/desktop3.png">Desktop 3</a> has <a href=
+"http://www.openoffice.org/">OpenOffice.org</a>. &nbsp;It's very
+similar to MS Office, but better. (see <a href=
+"http://wwws.sun.com/software/product_family/staroffice.html">Star
+Office</a> for the commerical version that contain support for
+those that do not want to participate within the developement of
+worry about recompiling a program.)</li>
+</ul>
+
+<ul>
+<li><a href="../images/desktop4.png">Desktop 4</a> is Evolution
+which is similar to MS Outlook. &nbsp;As you can see, i'm on
+several email mailing lists and evolution contains the other
+contacts, appointments, &amp; tasks modules as well.</li>
+</ul>
+
+<p>
+ 20010118&nbsp;&nbsp;&nbsp; - &nbsp;If you're using SGI's XFS
+filesystem, I would highly recommend upgrading from Mandrake's
+stock kernel 2.4.8! &nbsp;Mandrake's Cooker kernel is now @ 2.4.17
+and proves much more stable. &nbsp;I'm also just got finished
+upgrading to XFree86-4.1.99.6-2mdk. &nbsp;It added font aliasing to
+my Enlightenment enviroment! &nbsp;Very Nice Indeed!! :-)<br>
+</p>
+
+<p>20011214&nbsp;&nbsp;&nbsp; -&nbsp; Now using Mandrake 8.1 with
+Cooker kernel-smp-2.4.16.9mdk-1-1mdk. Also using SGI's nice XFS for
+a journalized filesystem.</p>
+
+<p>20010516&nbsp;&nbsp;&nbsp; - &nbsp;Well, finally bought a new
+scanner.&nbsp; The old one needed a new transformer.&nbsp;</p>
+
+<p>
+ 20010418&nbsp;&nbsp;&nbsp; - Mandrake 8.0 is released.&nbsp; I
+have good iso's and have confirmed a successful install!</p>
+
+<p>20010331&nbsp;&nbsp;&nbsp; - Also working on Umax 610p Scanner
+driver.&nbsp; You can find more info <a href=
+"http://umax1220p.sourceforge.net/">here</a>.</p>
+
+<p>20010319&nbsp;&nbsp;&nbsp; -&nbsp; Looks like s good Linux User
+Group has a show going.&nbsp; Check out the info (old url was here).<br>
+ And the LUG groups <a href="http://www.talug.org/">home
+page</a>.</p>
+
+<p>20010301&nbsp;&nbsp;&nbsp; -&nbsp; Currently (trying) to work on
+Webcam Go drivers for linux.&nbsp; You can find more info <a href=
+"http://sourceforge.net/projects/winbond-webcam/">here</a>.&nbsp;
+You will need to sign up on the mailing list for more current
+info.&nbsp; Recent activity since ~March 15, 2001; so post an email
+to the mailing list to find out the latest.&nbsp; Please note, this
+is for developers only with C, C++ knowledge as this just
+starting. &nbsp;20030604 - a small update here incase you're browsing this article, Creative Labs Webcam Go linux driver developement can now be found here <a href="http://go.lamarinapunto.com/modules/news/">http://go.lamarinapunto.com/modules/news/</a> and you need the updated ov511 module version 2.25 code (which is not included in 2.4 kernels yet) here <a href="http://alpha.dyndns.org/ov511/download.html#2.xx">http://alpha.dyndns.org/ov511/download.html#2.xx</a>. &nbsp;I'm in the process of testing this now. &nbsp;From reading the author's webpage, there's a very good chance that this will be in kernel-2.6, if not already in 2.5!
+ &nbsp;<br>
+ &nbsp;</p>
+
+<h4>Some Back Ground On What I Use:</h4>
+
+<p>I currently use <a href="http://www.gentoo.org/">Gentoo</a>. &nbsp; Many of the advanced users of Mandrake migrated to Gentoo, and so have I lately. &nbsp; I finally had time to test the stability and Gentoo has proven it's stability to include XFS Filesystem support.
+
+<p>As of 2003.05:&nbsp; The current version is 1.4rc<br>
+</p>
+
+<p><br><b>Support:</b><br></p>
+<p>Popular Mandrake user site for support documents (i'll leave this url up since it is a good site for simple howto docs):&nbsp; <a href=
+"http://www.mandrakeuser.org/">http://www.mandrakeuser.org/</a></p>
+
+<p>Linux From Scratch hints and documentation: &nbsp; <a href="http://www.linuxfromscratch.org/">http://www.linuxfromscratch.org/</a></p>
+
+<p>IRC Chat: &nbsp;irc.freenode.net &nbsp;port# 6667<br>
+ /join #gentoo<br>
+ 
+ There are many more irc channels for gentoo, just grep for them  on irc.freenode.net!
+ </p><br>
+
+
+<p>If you have any question, feel free to contact me via ICQ or
+email.</p>
+
+<br>
+ <br>
+</body>
+</html>
+

@@ -1,0 +1,28 @@
+#`ng elm pine` prints newsgroups matching 'elm|pine' (much faster than nngrep):
+
+ng() {
+
+  [ -z "$1" ] && { echo 1>&2 "Usage: ng regexp [regexp]*"; return 1; }
+
+  typeset g=$1
+  until [ -z "$2" ];do
+    shift
+    typeset g="$g|$1"
+  done
+
+  #{gps,actv} is an ln -s to /usr/lib/news/{newsgroups,active}.
+  #eg is an alias for egrep.
+
+  #These randomly select either the gps or actv entry:
+  #  (eg $g gps;eg $g actv|gawk '{print $1}')|sort -u +0 -1|less
+  #  (eg $g gps;eg $g actv|gawk '{print $1}')|sort -ru +0 -1|sort|less
+  #  (eg $g gps;eg $g actv|gawk '{print $1}')|sort +0 -1|sort -mu +0 -1|less
+  #  Even this group doesn't work, because there are multiple inputs to -mu:
+  #    eg $g gps|sort +0 -1 >_ng1
+  #    eg $g actv|gawk '{print $1}'|sort +0 -1 >_ng2
+  #    sort -mu +0 -1 _ng1 _ng2|less
+
+  #This prints only the gps entry if entries exist in both gps & actv:
+  (eg $g gps;eg $g actv|gawk '{print $1}')|sort -r|sort -mru +0 -1|sort|less -E
+
+}

@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>Serial Terminal Linux</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+
+<center>
+<h1>Serial Terminal Linux</h1>
+</center>
+
+<!-- NOTE TO SELF - rdev is 16384 + image offset in kbytes -->
+
+<h2>APOLOGIES TO EVERYONE</h2>
+
+<p>
+There is something wrong with the downloads on this page, as I have
+received NUMEROUS responses that the images won't boot.  I am swamped
+at the moment, but will get to this as soon as I can.  Sorry for the
+inconvenience.  I have no idea what happened, because it seems that they
+worked at one point, and then just started failing.  I also apologize to
+the people who reported this to me originally, that I haven't gotten back 
+with.  I wil try to resolve this within a week (written 2003/11/05).
+</p>
+
+<h2>Current Version</h2>
+
+The current version is 0.3, but there are no known problems
+
+<h2>NEWS!!!</h2>
+
+<ul>
+<li>Thanks to <a href="mailto:jr@scms.rgu.ac.uk">John Riddoch</a>,
+Serial Terminal Linux can now run on multiple Virtual Consoles (one for each
+serial port you have).
+<li><a href="mailto:olsson@students.uiuc.edu">Scott Olsson</a> has contributed a 
+great <a href="serial-terminal-linux.howto.txt">Serial Terminal Linux 
+HOWTO</a>.  I haven't proofed it thoroughly, but it looks pretty accurate.
+<li><a href="http://www.realweasel.com/">The PC Weasel 2000</a> is an excellent product whose functionality complements Serial Terminal Linux
+</ul>
+
+<h2>Introduction</h2>
+This project is here to transform useful laptops and computers into useless dumb serial terminals.  Really.  Why would I want to this?  Well, a couple of reasons.  First of all, the best way to learn about stuff is to just play with it.  So, I'm playing w
+ith Linux to better learn how it works.  Also, I have a laptop that all I use it for is being a serial terminal to my headless Linux servers.  So, booting a whole distribution is pretty useless.  So, I put together this mini-distribution so I could just b
+oot Linux into minicom.  
+
+<h2>How it works</h2>
+
+Basically, we use a program called 
+<a href="http://www.nodomainname.net/software/rungetty/">Rungetty</a> 
+that puts a minicom session on each virtual consone.  
+I put in all the libraries that minicom requires, the files it requires, and the terminal entry for the Linux terminal.  I discovered all of these things by running "strace minicom" (strace is a utility that causes all system calls to be displayed on st
+andard error).  I then created a filesystem containing all of these things, stripped all the binaries, dd'd the kernel onto the floppy, gzipped and dd'd the filesystem after the floppy, and then rdev'd the kernel appropriately.  There you have seriallinux.
+<p>
+Later I will post instructions for building the floppy, but for now just check out /usr/src/linux/Documentation/ramdisk.txt on your own computer.  I'm sure there's a lot of howto's as well.
+
+<h2>Download</h2>
+
+The current version is 0.3.  However, it seems stable, but there are several things left to do.  I need to statically link my init program and minicom.  
+The ability to save the configuration back to the disk would be nice, too.  <a href="mailto:johnnyb@eskimo.com">Send me</a> suggestions.
+
+<ul>
+<li>Download the <a href="seriallinux-0-3.img.bin">distribution</a>.  Install it to a floppy using the command
+
+<pre>
+dd if=seriallinux-0-3.img.bin of=/dev/fd0
+</pre>
+
+<li>Here is the <a href="seriallinux-fs-0-3.tar.gz">filesystem tarball</a> if you would like to see what's on the floppy.
+
+<li>The kernel is <a href="vmlinuz-2.2.14-i386.bin">custom 2.2.14 kernel built for i386</a> 
+
+<li>If you're on an old 386 and you run out of memory with the current version,
+here is an <a href="seriallinux-0-2.img.bin">older version</a> that only has
+one console (uses a little less memory).  You can also modify the number
+of minicoms that are spawned yourself by downloading the filesystem tarball 
+(above) and modifying a few files in /etc.
+
+</ul>
+
+<h2><a name="init">My custom init program</a></h2>
+<p>
+Serial Terminal Linux used to be run by a custom init program I wrote.  It is
+listed below.  However, the current version uses 
+<a href="http://www.nodomainname.net/software/rungetty/">Rungetty</a>, which
+is used for running programs (not logins) on different virtual consoles.
+This has allowed us to run a separate terminal for each serial port you have.  
+<p>
+Here is the source for the old init program.  You can also download it <a href="init.c">here</a>.  It's too stupid to be licensed, so you are free to do anything you want with it.  Linux and the libraries are under the GPL, so if you really want the source from me, send me $10 and I'll mail you a copy of the RedHat source CD.  Otherwise download it from <a href="http://www.redhat.com/mirrors.html">RedHat</a>.  I'm not sure what license minicom is under, and I'm too lazy to look it up.  This page is also public domain.  If I ever get real content here, I might put it under an open content license.
+
+<pre>
+#include &lt;sys/types.h&gt;
+#include &lt;sys/stat.h&gt;
+#include &lt;fcntl.h&gt;
+#include &lt;unistd.h&gt;
+
+int main()
+{
+	close(0);
+	close(1);
+	close(2);
+
+	open(&quot;/dev/console&quot;, O_RDONLY);
+	open(&quot;/dev/console&quot;, O_WRONLY);
+	open(&quot;/dev/console&quot;, O_WRONLY);
+
+	execl(&quot;/usr/bin/minicom&quot;, &quot;/usr/bin/minicom&quot;, 0);
+}
+
+</pre>
+
+<h2>Changes</h2>
+<ul>
+<li> 0.1 - initial release - used stock RedHat kernel.  Can be found <a href="seriallinux-0-1.img.bin">here</a>
+<li> 0.2 - changed kernel to i386 custom kernel
+<li> 0.3 - can run multiple minicoms, each in their own virtual console
+</ul>
+
+<h2>Todo List</h2>
+Separate the disk into three portions - kernel, root image, configuration image.
+The configuration image would be directly mounted so it could be modified (root
+images are copied into RAM, and then mounted from RAM, so all changes are lost).
+That way, preferences could be saved between sessions.  Also, we should run
+a program on the first virtual terminal that gives a little bit of help, and
+automates setting up additional virtual terminals.
+<p>
+What would be really cool (read - probably will never happen), is to get this
+to run on a <a href="http://www.lart.tudelft.nl">LART</a> box, and to maybe 
+make a serial terminal device.  Or, even make a terminal server (like a
+livingston portmaster).  Anyway, I can dream, can't I?
+
+<h2>While you're here</h2>
+<a href="..">See the rest of my site.</a> and <a href="mailto:johnnyb@eskimo.com">Tell me what you think</a>.  I am certainly willing to try to assist you in anything.
+
+<h2>Links</h2>
+<ul>
+<li><a href="http://www.realweasel.com/">The PC Weasel 2000 - Making Servers Run Headless</a> - This is an <i>AMAZING</i> product.  Basically, it acts like a VGA card, but instead of video out, it has a serial out.  Then, you can use a computer running serial terminal linux to communicate with it over a modem or local serial line.
+<li><a href="http://www.linuxfromscratch.com/">How to build a Linux OS from scratch</a>
+</ul>
+
+<br>
+Go back to my <a href="..">home page</a>
+
+</body>
+</html>  

@@ -1,0 +1,51 @@
+Horizon Technology -- Resistance of Conductor Materials 
+
+ RESISTANCE OF CONDUCTOR MATERIALS 
+(From the Handbook of Chemistry and Physics) 
+
+ MATERIAL MICRO-OHMS CM MATERIAL MICRO-OHMS CM
+
+ Silver 1.59 Palladium 11.0 
+
+ Copper (annealed) 1.72 Tin 11.5 
+
+ Copper (hard-drawn) 1.77 Tantalum 15.5 
+
+ Gold 2.44 Lead 22 
+
+ Aluminum 2.82 Arsenic 33.3 
+
+ Magnesium 4.60 Antimony 41.7 
+
+ Tungsten 5.60 Manganin 44 
+
+ Molybdenum 5.70 Monel Metal 42 
+
+ Zinc 5.80 Therlo 47 
+
+ Brass 7.00 Constantin 49 
+
+ Cadmium 7.60 Manganese Steel 70 
+
+ Nickel 7.80 Climax 87 
+
+ Phosphor Bronze 7.80 Excello 92 
+
+ Cobalt 9.80 Mercury 95.783 
+
+ Iron 10.0 Nichrome 100 
+
+ Platinum 10.0 Bismuth 120 
+
+ Steel 10.4 Gas Carbon 5000
+
+ Simplify Chart 
+
+ "...we do not know what thinking is, or what memory is. 
+And in Biology we do not know what life is. 
+The age of basic discoveries is not yet at its end." 
+ -- Immanuel Velikovsky. 
+
+ Tomorrow's Technology Today 
+
+ ghawk@eskimo.com

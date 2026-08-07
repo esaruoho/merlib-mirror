@@ -1,0 +1,92 @@
+---
+title: "C-PERT Home Page"
+source_domain: amasci.com
+source_path: ~stevemc/C-PERT.html
+order: 8452
+reachable_from_entry: false
+images: 14
+internal_links: 2
+extracted: 2026-08-07T17:16:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C-PERT Home Page
+
+*Source page: `~stevemc/C-PERT.html`*
+
+# Welcome to the C-PERT Home Page:
+
+<img src="_themes/rmnsque/romhorsa.gif" width="600" height="10" />
+
+*Committee for Personal Empowerment\
+and* *Responsibility in Telephony*
+------------------------------------
+
+### <img src="images/no800.gif" data-align="middle" data-no="" data-800"="" data-logo"="" width="105" height="105" />\
+***<span class="smallcaps">Remember to Ask Your Presidential Candidate \
+Where He Stands on the "Free Call" Boondoggle!</span>***
+
+<img src="_themes/rmnsque/romhorsa.gif" width="600" height="10" />
+
+## *Why C-PERT?*
+
+A re-awakening is under-way in America. Lulled into passivity and dependence on government hand-outs and quick fixes, the 1990's saw a re-birth in awareness of the importance of that most basic of traditional values: **Personal Responsibility**. 
+
+We believe that in the New Century the Personal Responsibility Revolution shouldn't be limited to the legislatures and churches, but to be meaningful, it must be brought into the homes and lives of us all. That's why we started C-PERT.
+
+## *What are C-PERT's Goals?*
+
+Quite simply, we want to spread the simple message that there's no "free lunch". If we want to achieve self-sufficiency in the Big Things, we **must not** neglect self-sufficiency in the "small things." And that Pull Your Own Weight ethic shouldn't stop when you pick up the phone.
+
+Just as decades of food stamps and welfare have brought us a vicious cycle of poverty and dependency, the false promise of "toll free" long distance calls obscures the true cost of so-called "800 service" for businesses and society as a whole. The misapprehension that such calls are "free" leads to drastically escalated phone charges for business which are inevitably passed on to those who really pay the bills: customers.
+
+## What Harm Could 800 Numbers Do?
+
+Many people think of 800 numbers as a *simple convenience*, but sophisticated economic analysis and tendentious dissembling by experts show that nothing could be further from the truth.
+
+In addition to increasing business phone cost, 800 numbers have actually been shown to distort the free market and interfere with the normal operation of unfettered capitalism.
+
+For example, the lack of distance-based tolls encourages a fiction that geographic location is irrelevant. So a supplier - which might otherwise rationally locate its business location physically near its major customers - is artificially subsidized in its decision to choose a remote locale. The resulting consequences include increased shipping costs for both the business and its customers, waste of energy associated with shipping and transport, and a dampening of economic growth synergy in the area where both supplier and customer would otherwise be located.  In short: it's bad for communities, bad for the environment, and ultimately bad for business.
+
+The fact is that in an increasingly competitive global economy, we cannot afford shackling ourselves with inefficiency and waste. America's dirty little secret is that the celebrated 800 number may inexorably launch us into a downward spiral of higher prices, non-competitiveness, pollution, and job loss.
+
+## Who Pays for 800 Number Calls?
+
+Ultimately: you do.  The cost of 800 (or 888 / 877!!!) calls is paid by the party called.  This means that the cost of 800 number calls is built into the price you pay for everyday goods, *whether you use the 800 number or not. * It may be "convenient" for you, but remember that in the cost of the goods you buy are the interminably long 800 calls from lonely people who choose to live in remote parts of the country.   **That "free call" is costing YOU money!**
+
+## What About 888 and 877 Numbers?
+
+Few things are more revealing about the self-consciousness of the telephone companies than their recent "stealth" 888 and 877 numbers.  Don't be fooled!  These are just 800 numbers that are attempting to "pass" as ordinary phone numbers.  
+
+<img src="_themes/rmnsque/romhorsa.gif" width="600" height="10" />
+
+*My God!\*
+**What Can I Do About This?**
+-----------------------------
+
+First and foremost, you must take **Personal Responsibility** for your telephone use and you must urge others to do so also:
+
+|  |  |
+|----|----|
+| <img src="_themes/rmnsque/rombul1a.gif" data-hspace="13" width="15" height="15" alt="bullet" /> | If you must use an 800 number, do so briefly - and only long enough to determine a non-800 number through which you can contact the company. |
+| <img src="_themes/rmnsque/rombul1a.gif" data-hspace="13" width="15" height="15" alt="bullet" /> | Do business only with companies that don't offer the "luxury" of a "toll free" number: in the long run it will cost you less. Tell them you appreciate their stand: **on your own dime!** |
+| <img src="_themes/rmnsque/rombul1a.gif" data-hspace="13" width="15" height="15" alt="bullet" /> | *Contact your legislators today and let them know how you feel on this vital issue.* Democrats must hear that you will not support this welfare state shifting of costs from one group of consumers to another. Republicans must hear that you expect their Personal Responsibility rhetoric in other areas to be matched with action on Personal Responsibility for Telephony. |
+| <img src="_themes/rmnsque/rombul1a.gif" data-hspace="13" width="15" height="15" alt="bullet" /> | Don't fall for Red Herring arguments! Truly needy telephone users can be helped by local charities and churches. Cost shifting and "toll free" numbers in the long run only hurts those it is intended to help. Be generous in your personal charity, but don't be duped! |
+| <img src="_themes/rmnsque/rombul1a.gif" data-hspace="13" width="15" height="15" alt="bullet" /> | Access your Internet Service Provider through a long distance call, even if they offer a "local number". Virtually all Internet connections travel over what should rightly be long distance data circuits. Again, voluntary Personal Responsibility should be your guiding principle. |
+
+## How Can I Get Further Information?
+
+You can email us at C-PERT. Email: [responsible@C-PERT.org](mailto:stevemc@eskimo.com)
+
+<img src="images/no800.gif" width="105" height="105" />
+
+<img src="_themes/rmnsque/romhorsa.gif" width="600" height="10" />
+
+*1997-2000, Committee for Personal Responsibility for Telephony\
+All Rights Deserved.*
+
+<img src="_themes/rmnsque/romhorsa.gif" width="600" height="10" />
+
+[<img src="images/lil-slug.gif" width="121" height="43" />Return to the Slug Tales Home Page](SlugTales/slugpage.html)
+
+[<img src="images/lil-new.gif" width="120" height="60" alt="What&#39;s News Slug Tales Logo" />The Latest Nonsense....](whatsnew.html)

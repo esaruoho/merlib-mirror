@@ -1,0 +1,291 @@
+
+MOVED TO http://amasci.com/amateur/teles.html
+
+
+
+OLD VERSION BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAKING TELESCOPES                             (c)1996 William J. Beaty
+
+                                                  ///
+                                                 /
+                       /\                        |
+                      |  |                       |
+                     |    |                /\  (( (
+                     |    |               |  |   /\\
+        .............|    |...............|  |...0 \\
+                     |    |               |  |   \//
+                     |    |                \/   /
+                      |  |                     /
+                       \/                     /
+                                             (__== )
+                                                 )
+                                                (__
+                                                   \
+                                                 __/
+                                                (
+                                                 (
+
+MAKE A TELESCOPE
+
+  A telescope with a tube is nice, but it's more complicated than
+  necessary.  A telescope with sliding-tube focus is useful, but it
+  is hard to build.  A project that is complex and difficult will drive
+  people away, when the goal is to tempt them into building it.
+
+  Here is an extremely easy version of the classic Telescope build-it
+  project.  No tube or ajustable focus mechanism is required.  All that
+  you need is a pair of lenses.  Tempting?
+
+
+THE LENSES
+
+  Two lenses are needed to build a telescope.  We call these the
+  "objective" lens and the "eyepiece" lens.
+
+                  /\
+                 |  |
+                |    |                /\  (( (
+                |    |               |  |   /\\
+   .............|    |...............|  |...0 \\
+                |    |               |  |   \//
+                |    |                \/   |
+                 |  |                     /
+                  \/
+               OBJECTIVE           EYEPIECE
+               LENS:               LENS:
+               large               small
+               weak                powerful
+               convex only         convex or concave
+
+
+  The "Objective" lens should always be a convex lens.  Convex lenses are
+  thicker in the middle, and can be used as magnifying glasses or for
+  concentrating sunlight.  Try to find one which is large and weak.  The
+  weaker it is, the more powerful your telescope will be.  The thinner it
+  is in the center, the weaker it is.
+
+      _______
+   _--       --_
+  <_           _>    Side view of convex lens
+    --_______--
+
+
+     ___----___
+   _/          \_
+  /______________\   This type of convex lens also will work
+
+
+  The "eyepiece" lens can be either a convex or concave lens.  If you use
+  a convex eyepiece, your telescope will turn everything upside-down.  This
+  kind of telescope is called a "Newtonian."  And if you use a concave lens
+  as your eyepiece, your telescope will not turn things upside-down.  This
+  type of scope is called a "Gallilean."
+
+  For your eyepiece, try to find a lens which is small and powerful.  A
+  small, powerful magnifying loupe makes a good telescope eyepiece.
+
+    |\_           _/|
+    |  ---_____---  |
+    |     _____     |   Powerful concave lens.
+    | _---     ---_ |
+    |/             \|
+
+
+     _             _
+    | ---_______--- |
+    |    _______    |   Weak concave lens.
+    |_---       ---_|
+
+
+
+USING YOUR TELESCOPE
+
+    Face a distant, well-lighted object such as a lamp, or distant trees
+    outdoors.
+
+    Hold your Eyepiece Lens right on your eye and look through it.  It's
+    OK to close your other eye.
+
+    Hold your Objective lens right in front of your eyepiece.
+
+    Slowly move your Objective lens forward until the scene comes into
+    focus.  Sometimes it's hard to find the right distance, so try
+    many different places.  Look through your lenses and find the blurry
+    edge of trees or lightbulb, then move the objective lens in or out
+    so that the blurry edge looks sharper.
+
+    Your lenses are now a telescope!
+
+    Now that you know the trick, you can make a telescope whenever you
+    find two different lenses lying around.  If a friend happens to
+    have two magnifying glasses, grab them, put the more powerful one
+    right on your eye, move the other in and out, and you'll have an
+    instant telescope.
+
+
+HOW TELESCOPES WORK
+
+    I've read many different explanations of telescopes.  Most of them are
+    confusing and complicated.  Some are even wrong.  So, if you read an
+    explanation and don't understand it, don't blame yourself.  Blame
+    the author of the book or encyclopedia for not being a good explainer!
+
+    Having said this, do I think I can do better?  I don't know.  A good
+    explanation of a telescope should be easy to understand.  I've never
+    seen a really good one, so all I can do is try to explain things in a
+    different way than books usually do, and see how well it works.
+
+
+MY SIMPLE EXPLANATION:
+
+    If you put a lens right on your eye, it makes things blurry, but it
+    does not magnify distant scenes.  This is how eyeglasses work.  They
+    change the blurry-ness or sharpness of what you see, but they don't
+    act as magnifiers when used normally.
+
+    Now if you move a lens away from your eye, and keep looking through 
+    it, everything WILL change size.  If the lens is concave (thinner in
+    the center,) everything you see in the lens will get smaller and
+    smaller as you move the lens farther away from your eye.  If you use a
+    convex lens instead, everything will get bigger and bigger as you
+    move it away.
+
+    The convex lens is the interesting one because it makes things
+    bigger when you move it farther from your eye.  Keep moving it
+    farther and farther away.  You'll find that everything will  
+    become VERY big, even infinitely big.  And infinitely blurry too.
+    Move the lens a little farther, and things get small again, but now
+    everything seen through the lens is upside-down.  
+
+    By moving the convex lens in and out, we can change the size of
+    everything, or make it all go upside-down or rightside-up.  
+    Unfortunately everything is very blurry when you're looking through
+    the lens.  If only there was some way to remove the blurryness, we
+    could  hold a convex lens in front of our eye and use it to magnify
+    distant scenes.
+
+    There is a way to remove the blur: wear glasses!  Glasses are used to
+    correct blurry vision, and they can fix this blur too. Put another
+    lens right upon your eye.  It acts like eyeglasses and makes the image
+    sharp. If you do this, you have constructed a telescope.  The
+    objective lens creates a magnified view of distant objects, while the
+    eyepiece lens removes the blur.  That's how telescopes work.
+
+MAKE A TELESCOPE USING JUST ONE LENS
+
+    Here's an interesting question.  If human beings could focus their 
+    eyes better, could we build telescopes with only one lens?  Suppose
+    you were able to focus your eyes on an object that was 1/10 inch away
+    from your eye.  Couldn't you hold an "objective" lens a few inches 
+    away, look through it, then focus really hard with your eyes and
+    create a telescope?  The answer is yes!
+
+    Even if you don't have a superhuman ability to overfocus your eyes,
+    you can still make a simple one-lens telescope.  Here's how.  Hold a
+    weak convex lens in front of your eye.  Close your other eye.  Move
+    the lens far away so that everything turns upside-down.  Move the
+    lens a bit closer so that everything stays upside-down, but gets
+    bigger and blurry.  Now focus your eyes really hard by crossing them.
+    (This might take a bit of practice!  Crossing your eyes while one eye
+    is closed is not that easy to do.)
+
+    The image you see in the lens will become sharper.  If it doesn't
+    become completely sharp, then move the lens farther away.  Also try
+    moving the lens closer while focussing really, REALLY hard.  Every-
+    thing you see in the lens will be clear, sharp, and magnified!
+    You have made a telescope with nothing but a single lens!  Tell your
+    friends about it and they won't believe you.  Then show them the
+    trick and they'll be amazed.
+
+MAKE A TELESCOPE WITH A LENS AND SOME FOIL
+
+    It is also possible to make a telescope using aluminum foil and one
+    lens.  The lens will act as the telescope's objective lens.  To make
+    an eyepiece, we just poke a tiny hole in the foil, and use this 
+    pinhole as the telescope eyepiece lens.
+
+    To make a good pinhole, stack up several layers of aluminum foil, poke
+    the stack with a pin, then separate the layers and choose whichever
+    one has a very round, very small hole.  Experiment with different
+    holes, look through them at brightly-lit scenes and see how sharp
+    everything looks. Smaller holes generally give sharper, dimmer images,
+    but VERY small holes cause blur because of "optical diffraction"
+    effects.  You want your pinhole to be very small, but not so small
+    that things become blurry.
+
+    To make a telescope, hold the pinhole against your eye and look
+    through it.  Look at a brightly lit scene, such as the sunny outdoors
+    outside a classroom window.  Now place your objective lens against the
+    pinhole, then move it slowly outwards.  When you see a magnified
+    scene, your telescope is working!
+
+    An aluminum foil pinhole can be made sturdier by using rubber cement
+    to glue it to a piece of cardboard which has a 1cm hole punched in the
+    center (don't get cement in the tiny pinhole though!)
+
+    You can use your pinhole-telescope to create a "zoom lens" effect by
+    moving the objective lens towards the pinhole or away.  And depending
+    on the distance from pinhole to lens, the scene you see can either be
+    upside-down or right-side-up.  It's very complicated to build a
+    zoom-lens telescope with real eyepiece lenses, but if you use a
+    pinhole it becomes simple.
+
+Get yourself some lenses:
+
+  American Science and Surplus sells inexpensive kits of miscellaneous
+  lenses.  Contact them at http://www.sciplus.com.  Get a "large" kit
+  for objectives, and a "small" kit for eyepieces.
+
+  Edmund Scientific sells lenses too.  Check out their website at
+  http://www.edsci.com/consumer/, and request a mail-order catalog.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA                         freenrg-L taoshum-L vortex-L webhead-L
+
+

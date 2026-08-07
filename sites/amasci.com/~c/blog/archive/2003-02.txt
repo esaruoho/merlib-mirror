@@ -1,0 +1,445 @@
+C.M. Connelly: Blog: Archive for February, 2003 
+
+ &#160; 
+
+ Blog | 
+ Debian | 
+ Work | 
+ R&eacute;sum&eacute; | 
+ About... 
+
+ Blog: Archive for February, 2003 
+
+ February 4, 2003 (Tue) 
+
+ Mother Jones interview
+with John Perry Barlow , cofounder of the EFF ,
+Grateful Dead lyricist, Mac user.... 
+
+ The article features a nice reproduction of the original
+eye-in-the-pyramid-Robert-Anton-Wilson-was-right-all-along logo for
+the U.S. government's &#8220;Total Information Awareness&#8221; nightmare.
+
+ Via Slashdot . 
+
+ Awww.... Those wussies in DARPA have changed the TIA
+logo . Oh, it still has the pyramid, but now it's lost the eye
+beaming light onto the earth, replacing it with swooshes. I don't
+feel any better with the idea that Nike is monitoring all my
+transactions, though. 
+
+ One fairly obvious prediction that I haven't seen a lot of people
+making is the death of cash. Oh, people have been saying cash was
+going to be outlawed for a long time, but if this TIA thing ever gets
+going, they're going to have to outlaw cash (and similar &#8220;off the
+books&#8221; methods of exchange) in order to ensure that they can capture
+all transactions. 
+
+ After all, what's the point of monitoring everyone's spending habits
+if the &#8220;bad guys&#8221; just do their deals off camera? 
+
+ Now that I think about it, though, I guess that suppression of
+dissension, chilling people from expressing or consuming unapproved
+opinions, or discouraging people from participating in activities not
+considered pure and patriotic probably isn't an undesirable side
+effect. 
+
+ Also amusing: a dose of
+their own medicine . 
+
+ February 8, 2003 (Sat) 
+
+ Somehow, I think it's pretty scary when I need to learn about Hunter
+Thompson's new book via a guy in
+Australia . 
+
+ Anyway, Graham points to an interview on Salon with HST.
+I put the book on my wishlist and thought nothing more of it.
+
+ Virulent Memes . 
+
+ M and I went out to get a birthday card for her aunt, which we even
+got in the mail. Mission accomplished. While we were out, I got some
+cash from one of WaMu's wackily friendly ATMs, and somehow managed to
+miss the screen where it requested my &#8220;secret code&#8221; (as it calls my
+PIN). There didn't seem to be a way to go back, so I kept going
+forward. Had I discovered a bug by which I could request massive
+amounts of cash PIN-free? (Hint: No.) 
+
+ It asked me if I wanted a receipt (&#8220;Sure&#8221; vs. &#8220;No thanks&#8221;), then
+what I wanted to do (&#8220;Get some cash&#8221;). It presented some sensible
+suggestions, from which I chose one, then said something fairly close
+to &#8220;Oops! I didn't get your secret code&#8212;enter it again and press
+Enter to continue.&#8221; I somehow managed to miss the &#8220;enter it again&#8221;
+bit (it probably doesn't help that these ATMs are positioned so that
+they're absolutely blasted by the sun, and thus almost unreadable
+without your shading them with your hand or body), and just hit the
+Enter key. It &#8220;Oops!&#8221;ed again, and this time I realized it actually
+wanted to enter the PIN on that screen, then press Enter. 
+
+ With the PIN, the machine was happy, and spat out my money while
+proudly proclaiming &#8220;Here's your cash!&#8221; 
+
+ Thinking about it, I think I was expecting there to be a password
+prompt that would echo a * or some other character as I
+typed in my PIN. Thinking more, I guess I'm pretty obviously not
+spending a lot of cash, and not using ATMs very much at all. 
+
+ Once we'd mailed the card, we floated various other possible things
+that we could do other than going home, and rejected all of them. On
+the way home, we drove through the Colleges, and were about to pass
+the bookstore when I said, &#8220;Hey, let's go to Huntley! Even though we
+never actually buy anything, I feel like we should at least stop in
+every so often, because you never know....&#8221; 
+
+ So we did. And damned if they didn't have a bunch of copies of the
+new HST book, Kingdom of Fear , on sale, for about what
+Amazon was charging. So I bought it, and added it to my stack. 
+
+ Edward Tufte redesigns the
+Pioneer space plaque with a bit of
+magic . 
+
+ Aha! M and I took a look at getting the sound to work on my new
+machine, which has built-in sound on its Asus P4PE motherboard. I had
+followed the directions in this LinuxOrbit
+HOWTO (thanks to DebianPlanet for the original
+link), and thought I had everything configured properly. But I
+couldn't get any sound out of it. 
+
+ M was checking things over when my mom called, and while we talked,
+she kept poking around. Eventually she discovered that you had to
+unmute the card, which I knew, and that to do that, you had to adjust
+the volume for the PCM device, which I hadn't know. Viola, sound. 
+
+ The new kernel I built (2.4.18-pre4-ac3) still doesn't know from some
+of the devices, though. Oh well, at least we're getting there. 
+
+ February 11, 2003 (Tue) 
+
+ Somehow it's not that reassuring when you're going in for some
+supposedly simple tests, and the hospital calls to verify a bunch of
+information, including whether you have a signed &#8220;Advanced Medical
+Directive&#8221; (the new name for a 
+ DNR ) on file. I'm sure
+it's just a question on the form.... 
+
+ My copy of The Annotated Sherlock Holmes finally arrived
+yesterday! I probably wouldn't have bought this book if I'd seen it
+first, at least not for what I paid, but I don't really care. 
+
+ I've wanted this book for nearly twenty years. I'd seen it in a
+catalog, and only ever having read The Adventures of Sherlock
+Holmes in a facsimile edition (with all the drawings), thought
+it would be a cool book to have. The entire Canon, along with
+extensive notes and illustrations. After the requisite hemming and
+hawing, I ordered it, but was tremendously disappointed when the shop
+told me that it was temporarily out of print as a new edition was in
+preparation. They cancelled my order and refunded my card. 
+
+ Later, in college, I came across a boxed set of the Canon in
+paperback, and bought and devoured that, but had forgotten about the
+annotated edition. 
+
+ Fast-forward to Christmastime in the U.K., when one of the channels
+showed a new film of The Hound of the Baskervilles . It
+was mediocre (I think it's shown in the States on PBS since, so you
+probably agree), but M had some particular objections along the lines
+of &#8220;It can't possibly be like that in the original!&#8221; 
+
+ AS my Holmes books were in New York and we were in the U.K., I
+thought, &#8220;Gosh, we would know if we had a good edition of the Canon!
+What better place to find such a thing than England around
+Christmas?&#8221; Somewhere else, apparently, as finding any editions of
+Sherlock Holmes turned out to be extremely difficult. 
+
+ Once back home, I started looking on line, remembered the annotated
+edition, and was disappointed to find that it was, once again, out of
+print. 
+
+ I finally found an edition whose seller claimed it was &#8220;very fine&#8221;
+(note for potential used-book purchasers&#8212;books in my 
+collection are very fine (read: &#8220;look like no one ever read them&#8221;);
+this book was, at best, &#8220;well read&#8221;), and after a brief mental
+debate, sprang for it.
+
+Three weeks later, I finally had it. Cool book. You think
+ Buffy fans are obsessive, wondering at Joss's plotting?
+Or Star Trek fans debating the order that the controls
+must be operated before engaging the warp drive? You need to see this
+book. Ever wonder which train Holmes could have caught in order to
+arrive at a certain station at a certain time. Someone did. And
+there's much, much more. Someone should republish it, preferably on
+acid-free paper. But I'm still glad I have a copy. 
+
+ February 12, 2003 (Wed) 
+
+ Locus has a Best of
+2002 list up, covering science fiction and fantasy novels,
+short-story collections, and art books. 
+
+ Out of all these items, I have read one: Kim Stanley Robinson's
+ The Years of Rice and Salt . Any question about whether
+I'm clued into what's going on in the SF world would seem to be
+answered rather definitively. 
+
+ February 13, 2003 (Thu) 
+
+ A story... 
+
+Some college students were doing laundry. They didn't have laundry
+baskets, but they were able to find some large garbage bags that they
+could put their laundry in. 
+
+ On the way back, they'd had to stuff their laundry in willy-nilly, and
+because the bags were heavy and they were tired, they had to carry
+them with both hands. As they walked back to their dorms, the breeze
+kept blowing the loose edges of the plastic bags against their mouths
+and noses. They kept blowing to push them away, but the breeze kept
+pushing the plastic back. By the time they reached their dorm, they
+were dead!
+
+ Moral: Buy proper laundry baskets. Or perhaps, rent a house. 
+
+ February 14, 2003 (Fri) 
+
+ Versed 
+has got to be the up-and-coming thing in corporate denial of
+responsibility. It's a drug that causes amnesia, making it possible
+for someone under its influence to give unbelievably heinous
+instructions or orders, but later completely deny&#8212;honestly&#8212;any
+memory of having done so. 
+
+ Expect to see it appear in corporate boardrooms and government
+conference rooms near you soon.... 
+
+ February 18, 2003 (Tue) 
+
+ Microsoft's threedegrees 
+reminds me of some of the applications running on the PDAs in
+ Serial Experiment Lain . Maybe I should get it running on
+my Windows box at work! (Hey, it's for debugging other people's
+Windows problems and running Web JetAdmin&#8212;it's not even near my
+desk. Jeez. Debian rocks, okay?)
+
+ Via slashdot . 
+
+ Having just finished Code , I was happy to see a pointer
+(on Slashdot ) to a Flash-synced slide show accompanying a
+ talk by Larry Lessig .
+It's a nice summary of Code , and, sadly, reality. 
+
+ (The end of the presentation turns into a bit of a hard sell for the
+ EFF , Public
+Knowledge , and some other folks who are fighting the good fight,
+but you've already given them money, right?) 
+
+ Why Nerds Are
+Unpopular rings fairly true. I solved the whole &#8220;what table do
+you sit at?&#8221; dilemma by simply not eating lunch and avoiding the
+cafeteria like the plague. Also, I was in the &#8220;don't mess with them,
+they might blow you up&#8221; clique, which helped a bit. 
+ Again,
+via slashdot .
+(Seeing a pattern?) 
+
+ February 20, 2003 (Thu) 
+
+ Currently showing on Trio is a
+Channel 4 documentary series called The Secret Rulers of
+the World , which explores various aspects of the (largely)
+right-wing conspiracy theories concerning the way the world is ruled.
+( Google! ) 
+
+ Some of these people and their stories are, not surprisingly, turn out
+to sound a lot more sane and credible than you might expect from what
+little you may have heard from mainstream media sources. Randy Weaver
+and his daughter, famous for surviving the FBI assault on Ruby Ridge,
+for instance, come off as more or less just plain folks. Some of the
+people who &#8220;support&#8221; them, however, are really scary. 
+
+ Similarly, David Icke, who has an elaborate conspiracy theory that
+boils down to a claim that the world is controlled by a race of 12'
+tall alien reptiles who can assume human form and drink human blood,
+comes off as a pretty cool guy. He may well be schizophrenic (he
+discusses the voices he heard telling him that he was the son of god
+and that the world was about to be destroyed by natural disasters that
+led to his initial humiliation and loss of his job as a UK sports
+announcer), but he seems like a nice guy who cares about his kids and
+genuinely believes in his theory and in his duty to tell as many
+people as possible. 
+
+ The real bad guys for Icke appeared to be a loose, and, ultimately
+fragile, coalition made up of the Vancouver branch of the Canadian
+version of the Anti-Defamation League and, to my surprise and disgust,
+some prominent Green party members. They got Icke booted off a couple
+of radio interviews, probably scuppered a signing at the Chapters
+bookstore (by calling in a threat of violence), and attempted to
+disrupt a book signing at Granville Books. Why? Because they'd
+decided that when Icke said &#8220;12' foot tall lizards&#8221;, he meant Jews. 
+
+ Even if he did mean Jews&#8212;it's clear that many of his followers
+think he does&#8212;wouldn't a more rational way of dealing with him be
+to let him talk, and to dispute his claims logically? Apparently not,
+as stamping on his right to free speech is far, far easier than
+debating him. 
+
+ Watching the self-proclaimed &#8220;good guys&#8221; gleefully plot against Icke
+and refuse to allow any dissenting speech during a &#8220;public&#8221; meeting
+they'd called to discuss the &#8220;threat&#8221; that Icke posed was really
+disgusting, reminding me of some of the triumphs of &#8220;political
+correctness&#8221; on college campuses in the States. 
+
+ In the end, their attempts to shut Icke up backfired, as the publicity
+that Icke got from their attacks resulted in lots more people hearing
+about his presentation and stopping by to shake his hand, offer them
+their support, and congratulate him for being brave enough to stick
+around and tell his story. The show was sold out. 
+
+ I was really into conspiracy theories when I was a teen&#8212;I read
+every book mentioned in the &#8220;bibliography&#8221; for Steve Jackson's
+ Illuminati game&#8212;and I can still spin 'em pretty well.
+But I don't have to believe that 12' tall alien lizards or shadowy
+Satan-worshipping bankers work behind the scenes to control the earth.
+Sadly, plain ol' greed, stupidity, and man's inhumanity to man can
+easily explain nearly every horror perpetrated on this planet. In a
+way, it's a shame there isn't such a cabal&#8212;it would be so much
+easier to fight a real enemy. 
+
+ In related news, I saw a pickup truck yesterday with a bumper sticker reading 
+
+IS YOUR CHURCH 
+BATF-APPROVED?
+
+ That's a reference to the Branch-Davidians, of course. They also had
+a bumper sticker that mentioned Hitler (looked like a quote) that I
+wasn't able to read as we were parking and they were leaving as we got
+out of the car. 
+
+ I thought the 
+ BATF 
+sticker was cool, but I wasn't able to read the other sticker to know
+whether it was pro- or anti-Hitler. So either these people were
+right-thinking lovers of freedom, or right-thinking scary racists.
+You just gotta love southern California.... 
+
+ Is it me, or is it not pretty damn obvious that if Turkey invites the
+U.S. military to set up shop in their country for an assault on Iraq
+and the Bush administration's latest attempt to get blanket
+U.N. support for invasion doesn't go through, Turkey is going to be
+very unpopular with Saddam Hussein and Iraq, with which it shares a
+very long and poorly defended border? 
+
+ Of course the conspiracy spin on that is that it's to the Bush
+administration's advantage to have those events happen and for Iraq to
+attack Turkey in revenge. As a 
+ NATO member,
+Turkey would be entitled to military support from all of NATO, France
+and Germany not excepted. 
+
+ In the meantime, be sure to buy plenty of food, water, and duct tape. 
+
+ February 26, 2003 (Wed) 
+
+ Saw that truck again. This time I
+was able to read the other bumper sticker. It was, indeed, a Hitler
+quote, one in keeping with the spirit of the other sticker (and the
+ NRA sticker, too): 
+
+For the first time, a civilized nation has full gun registration. Our
+streets will be safer, our police more efficient, and the world will
+follow our lead into the future.
+
+ Alas for the true believers, it turns out that this quote
+is a myth ! 
+
+ I have to admit to being amused by the idea of right-wing zealots
+ponying up fake quotes by the ultimate right-wing horrormonger in
+order to stand against what they regard as a left-wing government
+conspiracy to take away their guns. 
+
+ February 28, 2003 (Fri) 
+
+ I'm currently reading Greil Marcus's Double Trouble , a
+collection of pieces loosely related by comparisons between Elvis
+Presley and Bill Clinton. It's fun reading, and, as usual, I'm
+impressed by Marcus's ability to cite obscure recordings made by
+almost unheard of bands way back in the early fifties, and compare and
+contrast them with, say, a Nirvana hit, a constructed Beatles song, or
+the latest electronica wonder. 
+
+ In a better world (one that, arguably, we lived in about five years
+ago), it would be possible to start up your computer and download
+these disparate songs and make the comparisons yourself. Alas, in
+today's DMCA -ridden world, that's just
+not possible. 
+
+ Looks like the Ninth U.S. Circuit Court of Appeals isn't interested in
+reconsidering whether or not the Pledge
+of Allegiance is unconstitutional . Yeah. 
+
+ newer entries | older entries 
+
+ Activity 
+
+ << 
+ February, 2003 
+ >> 
+
+ Mo 
+ Tu 
+ We 
+ Th 
+ Fr 
+ Sa 
+ Su 
+
+ 1 
+ 2 
+
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+
+ More Archives... 
+ April, 2003 
+ March, 2003 
+
+ January, 2003 
+ December, 2002 
+ October, 2002 
+ more... 
+
+ Copyright &copy; 1998&#8211;2002, C.M. Connelly. 
+
+ Last modified at 3:32 PM PDT, Tuesday, April 22, 2003; last rendered at 
+ 3:32 PM PDT, Tuesday, April 22, 2003 with Mason 
+ and Perl . 
+
+ Please e-mail me about problems with this page . Thanks.

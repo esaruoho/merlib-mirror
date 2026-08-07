@@ -1,0 +1,55 @@
+Null Pointers 
+
+ 5. Null Pointers 
+
+ 5.1
+What is this infamous null pointer, anyway?
+ 5.2
+How do I get a null pointer in my programs?
+ 5.3
+Is the abbreviated pointer comparison `` if(p) '' to test for
+non-null pointers valid?
+ 5.4
+What is NULL and how is it #define d?
+ 5.5
+How should NULL be defined on a machine which uses a nonzero bit
+pattern as the internal representation of a null pointer?
+ 5.6
+If NULL were defined as
+`` ((char *)0) ,''
+wouldn't that make function calls which pass an uncast NULL work?
+ 5.9
+If NULL and 0 are equivalent
+as null pointer constants,
+which should I use?
+ 5.10
+But wouldn't it be better to use NULL ,
+in case the value of NULL changes?
+ 5.12
+
+I use the preprocessor macro
+" #define Nullptr(type) (type *)0 "
+to help me build null pointers of the correct type.
+ 5.13
+This is strange.
+ NULL is guaranteed to be 0 , but the null pointer is not?
+ 5.14
+Why is there so much confusion surrounding null pointers?
+ 5.15
+I'm confused.
+I just can't understand all this null pointer stuff.
+ 5.16
+
+Given all the confusion surrounding null pointers,
+wouldn't it be easier simply
+
+to require them to be represented
+internally by zeroes?
+
+ 5.17
+Seriously, have any actual machines really used nonzero null
+pointers?
+ 5.20
+What does a run-time ``null pointer assignment'' error mean?
+
+ top

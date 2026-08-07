@@ -1,0 +1,260 @@
+Al's Computer Page 
+
+ Al's Computer Page 
+
+ Contracting for the Jet Propulsion Laboratory 
+ Computer Consulting 
+ Teaching About the Internet 
+
+ Contracting for the Jet Propulsion Laboratory 
+
+I do contract work for the 
+ Jet Propulsion Laboratory (JPL) 
+in 
+Pasadena, CA.
+I am on my Nth contract with JPL.
+Below are some brief descriptions of the highlights of my
+work with JPL in roughly reverse chronological order.
+
+I mostly design and write websites for JPL. Right now, I am
+writing a web based cost tracking tool for the Mars Future Studies Program.
+I have also written a few javascript applications and HTML layers.
+I also have written some heavy duty CGIs (Common Gateway Interface)
+for these webpages. In fact, I single handedly
+caused a massive interest in what CGIs can do for webpages in my section.
+
+I also create CDs.
+I recently helped create a triple CD-ROM which is part of the
+ Global Rain Forest Mapping Project. 
+This triple CD maps out the
+rain forest of Central Western Africa.
+This is a joint project with
+several agencies including NASDA, Japan's counterpart to NASA.
+The data was generated from JERS-1, a Japanese satellite orbiting
+the Earth,
+and is the first
+of a series of 20-odd CDs to be produced showing the rain forests.
+One can actually see the destruction of these forests
+through controlled burning.
+This CD is also IS0-9660 compatible which
+means it can be read on multiple platforms including PC, Mac and
+Unix.
+These CDs are unique because the data included here 
+are not easily accessible or impossible to get from other sources.
+
+Earlier, I also helped create a double CD-ROM which is part of the
+ Global Rain Forest Mapping Project. 
+This double CD maps out the
+rain forest of South America.
+
+I am also an upgrade webmaster for the 
+ Galileo homepage. 
+Galileo was a very successful mission to Jupiter.
+Among other things, I have reorganized the 
+
+FAQ
+
+and made a
+
+global clickable map of Europa, 
+
+one of Jupiter's moons. It is speculated
+since Europa is one of the few moons in the solar system
+that contain substantial ice/water, there may be life on it!
+
+I was one of the redesigners for the entire 
+
+Imaging Radar homepage.
+
+I created an animated GIF below. It's pretty cool. 
+Click the image below to see it. 
+
+I ported an educational CD-ROM from the Macintosh
+onto the PC platform. This project is getting a life of its own!
+I have ended up rewriting/reformatting most of the 
+HTML and text files on the CD. 
+The CD is now ISO-9660 compatible which means
+it can be read from multiple platforms including PC, Mac and Unix!
+In fact, 
+
+the new CD is now on-line!
+
+It is connected directly to the CD-ROM drive on this machine so
+it may be a little slow in responding.
+
+My previous tasks were to create webpages for the
+ entire Radar Science and Engineering Section at 
+ JPL 
+and a 
+
+World Watch homepage for disaster preparedness.
+
+The latter webpage is a
+ Red Cross -JPL
+joint effort.
+
+My 
+ second 
+six month contract was working with the 
+Imaging Radar group
+and the 
+Airborne Imaging Radar Synthetic Aperture Radar (AIRSAR) group.
+One of my tasks is to bring up a web server on a 
+Power Macintosh (Mac)
+computer and create the 
+
+AIRSAR homepage
+
+on it.
+
+I am using the 
+
+WebSTAR
+
+web server software for the 
+Mac.
+The 
+
+homepage
+
+will have a feature where users may search for various
+radar images and the order these images from a
+
+FileMaker Pro 
+
+database also located on the 
+Mac.
+
+I am writing the interface between 
+
+WebSTAR
+
+and 
+
+FileMaker Pro
+
+in 
+
+Applescript!
+
+I also help maintain the
+
+Imaging Radar homepage
+
+which resides on a 
+DEC
+Alpha.
+
+ Netscape Communications wanted to link to our homepage
+and asked for a logo but we didn't have one!
+So I designed the the graphic on the left using
+PhotoShop.
+This is the official logo for the
+Imaging Radar homepage.
+We are now listed in the
+Netscape galleria!
+Pretty cool, huh?
+
+My first six month contract at 
+
+JPL 
+
+was programming in 
+
+C 
+
+and 
+
+Fortran 
+
+under the 
+
+X-Windows
+
+and
+
+Unix
+
+environment on a 
+DEC 
+Alpha and 
+Silicon Graphics
+machines. 
+I was geocoding radar images for the 
+
+Alaskan Synthetic Aperture Radar (SAR) facility.
+
+In case you are curious, this is how 
+
+I commute to JPL (62K GIF).
+
+How else am I going to beat the 
+
+L. A. freeway traffic?
+
+ Computer Consulting 
+
+To keep track of my work, I have started to keep
+ a list of webpages 
+that I have created and/or maintain.
+
+Although I have been doing Internet related work for the past six years,
+I also write custom software for scientific and business applications.
+ I'm constantly looking for more work. 
+I program in 
+
+C, 
+
+Fortran,
+
+Pascal 
+
+and just about every
+assembly language known. I have experience in the three major platforms,
+PC, Unix and MacIntosh.
+I have two degrees in Computer Science from the
+ University of Southern California (USC) 
+in 
+Los Angeles, CA 
+and several years of full-time work experience. I mostly work on PCs now
+but have oodles of experience working on minis and mainframes.
+Please see 
+
+my company.
+
+One of my recent projects is in 
+
+legal bill review.
+
+Although I have been on the Internet for years, I am hooked on
+the Web and am learning all I can about it.
+I think it has tremendous potential as an information distribution
+tool. The potential for marketing products and services is outstanding!
+My resume is available upon request.
+ Contact me. 
+
+ Teaching About the Internet 
+
+I recently taught two classes at a local adult school.
+They are 
+ Introduction to the Internet 
+and How to Advertise
+on the Internet . I kind of fell into this because a friend of
+mine was teaching these classes. He moved to Palo Alto and asked
+me to cover for him. This has been a good experience for me overall
+but the preparation time for these classes is more than I bargained for.
+I've spent hours creating transparencies and making handouts.
+Anyway, I never thought I would find myself teaching a class 
+(although I have been a college tutor, I turned down teaching a 
+computer-related class at another local college) 
+but the Internet is really down my alley!
+
+ Al's Wild Web Page 
+
+-->
+
+Last updated : April 29, 2001
+
+Copyright 1995-2001 Al Wong, Los Angeles, California, USA
+
+&#32;

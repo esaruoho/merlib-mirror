@@ -1,0 +1,74 @@
+James Thiele's Newton Animal Sounds 
+
+ James Thiele's Newton Animal Sounds 
+
+This program shows pictures of animals and plays an appropriate
+sound when the picture is tapped. The sounds and pictures are from an old
+Hypercard stack called "Animals". I've discovered that young kids really like
+the Newton, but there isn't much for them to do on it. This app is just for fun.
+
+ Version 1.1
+
+ The screen layout of this program from top
+to bottom and left to right has the following elements:
+
+ The name of the application.
+
+ A picture of an animal.
+
+ button which when tapped moves
+to the "previous" picture.
+
+ button, which when tapped
+moves to the "next" picture.
+
+ button which when tapped
+shows the date, time, and battery level.
+
+ when tapped will cause some
+basic info about "Animal Sounds" to be displayed.
+
+ closes "Animal Sounds".
+
+Animal Sounds can be accessed in the following compressed formats:
+
+ animals.zip (73K) for PC and UNIX.
+ animals.sit (73K) for Mac, or
+ animals.hqx (125K) for Mac.
+
+ Note: You must possess a browser or utility capable of decompressing these
+files in order to use them.
+
+ Caveats: "Animal Sounds" eats up a lot of space.
+
+ Only tested on Newton MP 100.
+
+ Mostly harmless. 
+
+ Legal stuff This program is Copyright 1994, 1995 by James
+Thiele. It may be distributed freely as long as the program is unmodified and is
+accompanied by this README file.
+
+ Because there are too many lawyers in the world, I add the following
+statement:
+
+ This program is made available without any claim that it is suitable for any
+use. The author's liability is limited to what was charged for it which was
+nothing. It works OK on my MP 100, but I am not making any other statements of
+other systems it could or should run on.
+
+ Credits Whoever created the "Animals" HyperCard stack. There are no
+credits in it, and since I got it a long time ago I don't know where it came
+from.
+
+ Author James Thiele
+
+ You can let the author know what you think of this program by contacting
+him in one of the following ways: 
+
+ email: 
+ jet@eskimo.com 
+ World Wide Web: http://www.eskimo.com/~jet/ 
+(Addresses valid as of 27 Oct 1997)
+
+ Last modified 27.Oct.97

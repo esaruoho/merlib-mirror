@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Henry S. Takeuchi">
+<meta name="KeyWords"
+ content="programming,Win32,ASM,x86,assembly language">
+<title>Win32 Programming for x86 Assembly Language Programmers</title>
+</head>
+<body>
+<h1>Win32 Programming for x86 Assembly Language Programmers</h1>
+
+Welcome to the world of Win32 programming.<br>
+ That's right! It's not impossible to write a Windows program
+in assembly language.<br>
+ My focus here is on using the basic Windows system calls.
+You should know, or learn from other resources, how to write
+code for the Intel x86 processors (and compatibles). I have used
+the Intel syntax for machine instructions, so the information
+here should be useful for those familiar with the MASM (by
+Microsoft) or the TASM (by Borland/Inprise) assemblers.<br>
+ I assume you have <b>used</b> Windows programs, but I
+<b>don't</b> assume you have <b>written</b> a Windows program.
+
+<p>The core set of basic system calls is called the <b><i>Win32
+API</i></b> (application programming interface). <br>
+ The Win32 API was once called the SDK interface because it was
+the original interface supported by Microsoft's Windows SDK 
+(Software Development Kit). This was to distinguish it
+from the MFC (Microsoft Foundation Classes) interface created
+for C++.  Microsoft now supports more than one SDK. 
+The Win32 API is supported by the Platform SDK. </p>
+
+<p>Example code has been tested on Win98 SE (second edition) with
+TASM 4.0 and the linker and libraries from VC++ 4.0.<br>
+ No attempt has been made to make these programs compatible
+with NT 3.xx. [See <a href="winplat.htm">Win32
+Platforms</a>.]</p>
+
+<ul>
+<li><a href="#sdkpgm">Programming</a><br>&nbsp;
+</li>
+
+<li><a href="win32hst.zip">Download source code and Web pages</a></li>
+
+<li><a href="win32src.zip">Download source code without the Web
+pages</a><br>&nbsp;
+</li>
+
+<li><a href="links.htm">Web <b>links</b> and other resources</a></li>
+
+<li><a href="winplat.htm">Win32 Platforms</a></li>
+
+<li><a href="asmdiff.htm">Notes for MASM programmers</a></li>
+</ul>
+
+<h3><a name="sdkpgm"></a>Programming</h3>
+
+<ul>
+<li>The very beginnings
+
+<ul>
+<li><a href="conapp.htm">Introduction to Console Applications and
+Files</a></li>
+
+<li><a href="winbasic.htm">A Basic Win32 GUI
+Program--WINBASIC.ASM</a></li>
+
+<li><a href="winxlate.htm">Translating Win32
+Documentation</a></li>
+</ul>
+</li>
+
+<li>Some fundamentals
+
+<ul>
+<li><a href="winowner.htm">Popup Windows and Ownership</a></li>
+
+<li><a href="winchild.htm">Child Windows</a></li>
+
+<li><a href="winmsg01.htm">A Little More on Messages and an
+Introduction to the Mouse</a></li>
+
+<li><a href="wingdi01.htm">Introduction to Graphics</a></li>
+
+<li><a href="wingdi02.htm">Refreshing with WM_PAINT</a></li>
+
+<li><a href="winctl.htm">Introduction to Controls</a></li>
+</ul>
+</li>
+
+<li>Message loops
+
+<ul>
+<li><a href="wincmsg.htm">Conventional and Thread Message Loops</a></li>
+
+<li><a href="wingmsg.htm">Greedy Message Loop</a></li>
+</ul>
+</li>
+
+<li>GUI topics
+
+<ul>
+<li>Standard Controls
+
+<ul>
+<!-- <li>(STATIC) [winstatc.htm]</li>
+ -->
+<li><a href="winbtn.htm">BUTTON</a></li>
+
+<!-- <li>(EDIT) [winedit.htm]</li>
+ -->
+<!-- <li>(LISTBOX) [winlbox.htm]</li>
+ -->
+<!-- <li>(COMBOBOX) [wincbox.htm]</li>
+ -->
+<!-- <li>(SCROLLBAR) [winscrll.htm]</li>
+ -->
+</ul>
+</li>
+
+<li><a href="winmenu.htm">Introduction to Menus</a></li>
+
+<li><a href="windlg.htm">Introduction to Dialogs</a></li>
+</ul>
+<li>Non-GUI topics
+</li>
+<li>Other topics
+<ul>
+<li><a href="winwnd.htm">Window Styles</a></li>
+
+<li><a href="hardcore.htm#deadlock">Deadlock Theory</a></li>
+
+<li><a href="hardcore.htm">More Programming Information</a></li>
+
+<li><a href="winelse.htm">The Rest of Windows</a></li>
+</ul>
+</li>
+</ul>
+
+<hr>
+<br>
+
+<i>Name change, January 3, 2001.</i><br>
+<i>Updated February 5, 2001.</i><br>
+<i>Links updated February 7, 2001</i><br>
+Comments and criticisms can be sent to
+ <a href="mailto:htak@eskimo.com">Henry Takeuchi, htak@eskimo.com</a>.
+<br>
+
+</body>
+</html>
+

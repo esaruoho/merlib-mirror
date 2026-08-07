@@ -1,0 +1,114 @@
+Here are some extracts from Comp.sys.newton.programmer.
++ It is an eclectic collection, corresponding to some of my interests.
++ It is not a frequently asked question list, but some of these are asked a lot.
+
+Notes:
++ Almost all of this was in Comp.sys.newton.programmer at some point.
++ I have stripped out most article headers and signatures, although many
+  have a short name of the answerer.
++ The entries were collected in 1993 and (mostly) 1994.
++ Some of these entries are outdated or obsolete.
+
++ This is a text-only file which I hope DOS & UNIX people can deal with.
++ I have not checked much of this out.
++ Remember that those who ask questions are important contributers to this.
++ It is the work of many people, especially Apple's Newton group, especially
+  DTS, which in my seldom humble opinion has worked really hard to support
+  developers.
+
++ This is provided in the hope that it will be useful.
++ If it is useful to you or someone you love please consider saying thank you.
+
+Thanks to all who contributed.
+
+Please send appreciation, corrections and (mild) flames to:
+James Thiele
+jet@eskimo.com
+http://www.eskimo.com/~jet/
+
+(Addresses valid on 27 November 1995)
+
+-------------------------------------------------------------------------------
+
+
+The topics are:
+---------------
+Application bit & scrolling
+Child Larger than parent
+= <> StrEqual
+The Books
+Sounds in ROM
+SetValue
+Path expression
+Overriding System messages
+clParagraphView
+clEditView
+clPictureView
+protoLabelInputLine
+BuildContext
+Memory Leaks
+Faking Case Statements
+Package in binary?????????????
+Dictionary IDs
+viewJustification
+Parameter passing
+Slot ordering in frames
+CR-LF
+Getting Resources
+q_xxx????
+Communications!!!!
+Traversing a soup entry
+Putting ordered slot in frame
+List slots in frame
+StrWidth vs StrWidthFont
+Miscellaneous tips
+Dragging an app
+Opening a book or app from within an app
+expando
+entryChange
+A *real* popup button
+The Self language
+Address for HandWriting Recognition?
+String rewriting?
+Tracking the stylus
+Trouble with _parent
+GetGlobals()
+Newton Clipboard
+Trace NOW in inspector
+NewtonScript character set
+Rebooting
+Adding views
+Auto parts
+Double tap
+Finding a child
+Articles via ftp
+Restoring space on cards
+Multiple languages
+Qualified/Unqualified reference
+Outbox hacking
+Catching recognition
+sub/super scripts
+Dictionary stuff
+Finding folders
+Paths
+Hard reset
+Is a view hilited
+Book icons
+Print Formats
+Some tips
+Gestures
+Hack!Hack!Hack!!
+Calculator w/o case stmts
+Heaps
+Accessing user protos
+Before/After scripts
+Compile
+Attaching non-linked views in NTK
+constant vs. DefConst
+Detecting keystrokes (or other text input)
+& operator
+NotePad & BroadcastSoupChanged
+Building bitmaps
+NTK Hints
+Conditional deferred actions
+Finding the character tapped

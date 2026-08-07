@@ -1,0 +1,95 @@
+
+Subject: CAR ALARM 
+
+>From: cyamamot@jpl-devvax.JPL.NASA.GOV (Cliff Yamamoto)
+Date: 28 Aug 89 15:56:37 GMT
+
+In article <562@hsi86.hsi.UUCP> you write:
+>I just purchased a Ford Probe 89.  I wanted to install a car alarm.  I don't
+>know the first thing about alarms and was counting on someone out there in 
+>net-land.  The type of information I am looking for is:
+>             
+>           Price?
+>           Can I install it?
+>           Brands?
+>           Are the beepers a good deal?
+>           Which brands are most effective?
+>           etc...
+
+Price-
+They range from cheapo $50 noise makers to >$1000 do everything but repair the
+car for you alarms.  It depends on how much security and convenience you want.
+The cheap stuff might flash a LED for you and honk your horn if someone tries
+to start your car (i.e. he/she has already broken in anyway).  The expensive
+stuff will make a siren wail, honk your horn, flash your lights, kill the
+ignition, cut the fuel, and page you when someone *LEANS* on your car.  Suffice
+to say the price depends on *three* major things: 1) How many and what kind of
+sensors you use 2) What does the alarm do when something sets it off 3) The
+types of conveniences you get with system to make it easier for you to use.
+
+1) consists of motion sensors, shock sensors, shatter sensors, ultrasonic
+sensors, microwave sensors, pin-switch triggers, etc.
+
+2) consists of sirens, horns, hi-beam flashing, parking-light flashing,
+pagers, hood locks, ignition kill, fuel cut-off, etc.
+
+3) consists of remote arming, passive arming, power lock control, power
+window control, trunk release, fuel cap release, remote starting, sensitivity
+controls, log of sensor status, etc.
+
+Can you install it-
+Sure, it all depends on the complexity, your knowledge of electronics, and if
+you know how your car is wired.  Some manufacturers, like Derringer, do not
+provide installation instructions and will only warrant the system if an
+authorized dealer installs it for you.  That's what turned me off from them.
+If it's simple, it can take only an hour, if it's complex (or you don't know
+what you're doing), it can take a few days.
+
+Brands-
+Well, there are really so many I can't remember (if I had my magazine in front
+of me I could).  The one's that come to mind are the popular ones: Alpine,
+Clifford, CrimeStopper, Derringer, Kenwood, Safeco and Ungo.
+
+Beepers-
+I presume you mean pagers.  They are a neat idea, but none of the people I know
+have or use one.  Having a pager means carrying another box on your belt or
+carrying a larger remote/pager combo.  It's annoying to have it go off in a
+resturant or theatre when it's a false alarm.  Also to get any decent range,
+your antenna will have to be up all the time (bye bye power antenna) or you'll
+have to get an extra antenna just for the pager.  Besides, if you do catch the
+guy in the act, what are you going to do?  Bystanders won't get involved and
+the thief will probably shoot you.
+
+Which brands are most effective-
+I'm going to give you a biased answer because I own an Ungo.  But I will tell
+you that Clifford and Alpine probably have the most "intelligent" brain boxes
+around.  Intelligent meaning that, if someone breaks in, gets scared away but
+leaves the door open, the alarm won't keep retriggering forever.  The brain can
+tell the door has been left open.  Of course now someone can enter the car
+without the alarm going off because the brain thinks the 1st thief has left the
+door open and will ignore that fact.  It's a matter of whether you want to save
+your battery or save your car.  The less "intelligent" alarms will wail forever
+*IF* the thief leaves the door open (presuming he gets that far).
+
+But why should the thief even get the opportunity to open the door?  If you get
+the right kind of sensor, he won't even get that far.  That's why I like the
+Ungo.  Maybe it's not as intelligent as the Clifford, but Ungo has THE BEST
+motion sensing you can get.  You can adjust the sensitivity so that if the
+thief even leans on the car the alarm will trigger.  So while he's pulling out
+your lock or slim-jimming your lock the alarm will be triggered.  He doesn't
+even get a chance to open the door in the first place.
+
+I will admit the others have motion sensors as well, but they don't come close
+to the reliability of the Ungo.  The Ungo's motion sensor has NO moving parts,
+and thus never wears out, freezes (if it's cold where you live) or needs
+periodic adjustments.
+
+
+If you'd like more technical info about it's sensor or other technical info on
+the Ungo, let me know.  A month ago this topic was discussed in Rec.autos and
+some other folks asked me for some info.  I have a nice 15K file with all the
+info you'd probably need to know about the Ungo.
+
+Happy alarm shopping!
+
+Cliff Yamamoto

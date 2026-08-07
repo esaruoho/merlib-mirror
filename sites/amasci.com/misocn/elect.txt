@@ -1,0 +1,181 @@
+"Electricity" Misconceptions Spread By Textbooks 
+
+ MISCONCEPTIONS | 
+
+ ELECTRICITY ARTICLES | 
+
+ NEW | 
+
+ COMMENTS | 
+
+ SEARCH 
+
+ Google: 
+
+ MISCONCEPTIONS SPREAD BY 
+K-6 TEXTBOOKS: 
+
+ "ELECTRICITY"
+
+ -
+ -
+ -
+ William J. Beaty 
+
+How does 'electricity' work? If you've learned about electricity from
+grade-school textbooks, then first we have to do some "debunking" and 
+find out how electricity DOESN'T work.
+Sorry if the following is a bit contentious at times. I wrote it in an
+attempt to get some things off my chest. If you keep watching this site,
+I'll probably clean it up and make it sound a bit more professional. 
+Also, this file is still under construction and is being written, edited,
+corrected, etc. It does currently contain some mistakes of its own. I
+placed it online as a sort of 'trial by fire' in order to hear readers'
+responses and target weak or unclear sections for improvement. Please
+feel free to post comments. -Bill B. 
+
+ scroll down 
+
+ "Many errors, of a truth, consist merely 
+in the application of the
+wrong names of things." - Spinoza
+
+ AM I JUST A NITPICKER? 
+
+ How SHOULD we teach electricity? 
+
+ LINKS: Misconceptions in K6 textbooks 
+
+ Electricity: the frequently-asked questions 
+
+ ELECTRICITY MISCONCEPTIONS: 
+
+1. ELECTRONS FLOW AT NEARLY THE SPEED OF LIGHT? 
+
+2. BATTERIES & GENERATORS CREATE ELECTRICITY? 
+
+3. ELECTRICITY LEAVES ONE BATTERY PLATE, THEN RETURNS TO THE OTHER? 
+
+4. ELECTRICITY IS A KIND OF EVENT? 
+
+5. TOO BAD FRANKLIN SAID ELECTRONS ARE NEGATIVE? 
+
+6. "ELECTRICITY" IS A PHENOMENON COMPOSED OF ENERGY? 
+
+7. ELECTRICITY IS MADE OF ELECTRONS? 
+
+8. STATIC ELECTRICITY IS THE OPPOSITE OF CURRENT ELECTRICITY? 
+
+9. EACH INDIVIDUAL ELECTRON CARRIES ENERGY? 
+
+10. ATOMS HAVE EQUAL NUMBERS OF ELECTRONS AND PROTONS? 
+
+11. CONDUCTORS ALLOW CHARGE TO PASS? 
+
+12. ELECTRICITY IS WEIGHTLESS? 
+
+13. THE "TWO FLUIDS" THEORY WAS DISPROVED? 
+ 14. "ELECTRICITY" IS A FORM OF ENERGY? 
+
+15. ELECTRICAL ENERGY FLOWS INSIDE OF WIRES? 
+
+16. VOLTS (under const) 
+
+ Truth does not consist in minute accuracy of detail, but 
+in conveying a right impression - Henry Alford 
+
+ ELECTROSTATIC MISCONCEPTIONS: 
+
+ 1. BATTERIES STORE CHARGE, CHARGE FLOWS IN WIRES? 
+ 2. "STATIC ELECTRICITY" IS CAUSED BY FRICTION? 
+ 3. "STATIC ELECTRICITY" IS A BUILDUP OF ELECTRONS? 
+ 4. "STATIC ELECTRICITY" IS STATIC AND UNMOVING? 
+ 5. STORM CLOUDS ARE CHARGED BY FRICTION? 
+ 6. BEN FRANKLIN'S KITE WAS STRUCK BY LIGHTNING? 
+ 7. HUMID AIR IS CONDUCTIVE? 
+ 8. LIGHTNING RODS DISCHARGE THE CLOUDS? 
+ More on "static"... 
+
+ Give me fruitful error any time, full of seeds, 
+bursting with its own
+corrections. You can keep your sterile truth for yourself. 
+ - Vifredo Pareto 
+
+ ELECTRIC CURRENT MISCONCEPTIONS: 
+
+ 1. THE STUFF FLOWING IN WIRES IS CALLED 'ELECTRIC CURRENT'? 
+ 2. THE DIRECTION OF CURRENT IS FROM NEGATIVE TO POSITIVE? 
+ 3. ELECTRIC CURRENT IS A FLOW OF ENERGY? 
+ 4. ELECTRICAL ENERGY FLOWS IN A CIRCLE? 
+ 5. DURING ELECTRIC CURRENT, ELECTRONS JUMP FROM ATOM TO ATOM? 
+ 6. ELECTRIC POWER FLOWS FROM GENERATOR TO CONSUMER? 
+ 7. LIGHT AND RADIO WAVES TRAVEL AT 186,000 mile/s? 
+ 8. ELECTROMAGNET COILS USE ENERGY TO CREATE MAGNETISM? 
+ 9. CURRENT IS ONLY ON THE SURFACE OF WIRES? 
+ 10. ELECTRIC CURRENT IS INVISIBLE? (under const)
+
+ "I can live with doubt and uncertainty and not knowing. I think it is
+much more interesting to live not knowing than to have answers that
+might be wrong." - Richard Feynman
+
+ Some Electrical Misconception Articles: 
+
+ How SHOULD we teach electricity???? 
+ The "Electricity" Map (GIF)
+ Capacitor Misconceptions 
+ "Static" versus "Current" 
+ Explaining "electricity" with red/green plastic sheets.
+ Which way does the "electricity" REALLY flow? 
+ Static Electric misconceptions 
+ What Is Electricity? 
+ Speed of "Electricity?" 
+ Are Amperes "Fundamental?" 
+ "Static electricity..." that flows! 
+ Sparks and Lighting 
+ Acoustomagnetoelectricisim! 
+ Understanding Electrical Energy Flow 
+ Why "Electricity" is Impossible to Understand (long)
+ All the "Electricity" articles here 
+ Some resources on Elect. misconceptions 
+
+ "I know that most men, including those at ease with problems of
+the greatest complexity, can seldom accept even the simplest and most
+obvious truth if it be such as would oblige them to admit the falsity of
+conclusions which they have delighted in explaining to colleagues, which
+they have proudly taught to others, and which they have woven, thread by
+thread, into the fabric of their lives." -Tolstoy 
+
+ Links to other Websites: Electricity 
+
+ Electricity Preprint from Chabay and Sherwood (.pdf)
+ Understanding Electricity and Circuits: What the Text Books Don't Tell You (pdf)
+ Bill Drennon's Christmas Lights 
+ The CASTLE Electrical curriculum 
+, and student manual 
+ CASTLE capacitor kits and downloadable manuals
+
+ Other articles here: 
+
+ Books and References: Electricity Misconception 
+ Books and References: Other misconceptions 
+ PREV PAGE: Main Misconceptions Page 
+ How transistors REALLY work 
+ How capacitors REALLY work 
+ COMMENT BOOK 
+ Static Electric Misconceptions 
+
+ Electricity: Frequently Asked Questions FAQ (large)
+ All Electricity Articles Here 
+ Electronics Hobbyist 
+ Books: Electronics 
+ Science Answers 
+ Static Electric Page 
+ Tesla Coils Page 
+
+ "It is important that students bring a certain ragamuffin, barefoot
+ irreverence to their studies; they are not here to worship what is
+ known, but to question it. " - Jacob Bronowski 
+
+/miscon/elect.html 
+Created and maintained by Bill 
+Beaty . Mail me at: .

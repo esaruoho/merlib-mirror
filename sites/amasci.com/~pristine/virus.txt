@@ -1,0 +1,356 @@
+Pure Mac: Virus Scanners - Software for Macintosh 
+
+ Virus Scanners 
+
+ Web 
+
+ Pure-Mac.com 
+
+ clamXav 
+ MacScan 
+ Leopard Cache Cleaner 
+
+ Norton AntiVirus 
+ Sophos Anti-Virus 
+
+ VirusBarrier 
+ VirusScan 
+
+ Pure Mac 
+ Education 
+ Accessibility 
+ Astronomy 
+ Calculators & Math 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+
+ Games 
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Internet 
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+ Audio 
+ CAD 
+ Charts 
+ DTP 
+ Ebook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+ Alternative OS 
+ Classic Updates 
+ Command Line 
+ Contextual Menus 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+ Backup 
+ Compression 
+ Cross-Platform 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+ Auctions 
+ Browsers 
+ Browser Enhancements 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Management 
+ Stock Tickers 
+ Weather 
+ Web Cams 
+ Web Editors 
+ Web Graphics 
+ Web Search 
+ Web Server 
+ Web Services 
+ Web 2.0 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ ClamXav 1.0.8e912 
+
+ClamXav is a free virus checker for Mac OS X. It uses a slightly
+modified version of the tried, tested and very popular clamav open
+source antivirus engine as a back end.
+
+Back in the days before OS X, the number of viruses which attacked
+Macintosh users totalled somewhere between about 60 and 80. Today, the
+number of viruses attacking OS X users is...NONE! However, this doesn't
+mean we should get complacent about checking incoming email attachments
+or web downloads, for two reasons. Firstly, there's no guarantee that we
+Mac users will continue to enjoy the status quo, but more importantly,
+the majority of the computing world use machines running MS Windows, for
+which an enormous quantity of viruses exist, so we must be vigilant in
+checking the files we pass on to our friends and colleagues etc. For
+example, if you're a wise person and you've turned MS Office's macro
+support off then you're not going to notice that virus which is hiding
+inside this month's edition of "Extreme Ironing.doc" which your friend
+sent you. If you then forward that document to a less wise person who
+has not turned off the macro support, then you have most likely just
+sent him a shiny new Pandora's Box with a sign saying "Open this end"!
+
+Flippancy aside, I'm sure you get the idea: check the file before
+opening and/or sending it on to someone else. This gives you the
+opportunity to avoid the file altogether or at least copy and paste any
+vital information into a new document and send that instead.
+
+ License : Freeware
+ Author/Publisher : Mark Allan
+ Modification Date : August 21, 2007
+ Requirements : Mac OS X 10.4 and higher
+
+ Download 
+File Size: 15.0 MB
+
+ Home Page 
+
+ Leopard Cache Cleaner 4.0.3 
+
+Leopard Cache Cleaner makes system maintenance simple with an easy point
+and click interface to many OS X functions. Leopard Cache Cleaner can
+improve system performance by tuning internet and file cache settings,
+implementing ram disks, and cleaning out various cached and stale data.
+LCC includes tools to help optimize files and memory. LCC can recover
+wasted disk space by eliminating language localization files and
+slimming Universal Binaries.
+
+Leopard Cache Cleaner lets you create bootable Emergency Disks that
+include system repair utilities and LCC's powerful cache cleaning
+functions. If disaster strikes, the power of Leopard Cache Cleaner is
+available at the command prompt in Single User Mode.
+
+Leopard Cache Cleaner helps protect your system from malware. Leopard
+Cache Cleaner is the only utility in its class to ship with powerful
+ClamAV antivirus built in. LCC can scan your downloads on the fly
+providing industrial strength virus protection. LCC also includes
+chkrootkit to provide protection from rootkit threats.
+
+ License : Shareware, $12
+ Author/Publisher : Northern Softworks
+ Modification Date : December 20, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.1 MB
+
+ Home Page 
+
+ MacScan 2.5.1 
+
+If you take into account the very loose definition of spyware (still not any for Macs in the sense of the Windows world),
+MacScan is still a very useful product for the following: 
+MacScan is designed to detect, isolate and remove keystroke loggers, trojan
+horses, and bring awareness to remote administration applications which could have been
+maliciously or inadvertently installed on your Macintosh.
+
+With Internet privacy in mind MacScan has added a blacklisted cookie scanner. This feature
+maintains a list of known tracking cookies, and when run, removes them from web browsers
+in which they are found. No more losing saved usernames and passwords to websites when
+you want to clean your cookies.
+
+ License : Shareware, $25
+ Author/Publisher : SecureMac.com, Inc
+ Modification Date : November 20, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.9 MB
+
+ Home Page 
+
+ Norton AntiVirus 11 
+
+Symantec's Norton AntiVirus 10.0 for Macintosh is the world's most
+trusted antivirus solution for Macintosh systems. It removes viruses
+automatically, cleans infected Internet and email downloads, and defends
+against emerging threats. Now it's also compatible with Mac OS X v10.4
+"Tiger," and comes with a widget (mini-application) that lets you
+quickly check your system's virus protection status. Norton AntiVirus
+10.0 for Macintosh also streamlines your virus defense by letting you
+scan from Mac OS X contextual menus. You can even prevent scanning
+volumes you already know are virus-free. Don't jeopardize your valuable
+data or risk passing infections to colleagues with PCs. Protect your Mac
+today with award-winning Norton AntiVirus.
+
+Norton AntiVirus for Macintosh 10.1 is compatible with the new
+Intel-based Macintosh computers. Symantec released the 10.1 update on
+January 24, 2006. If you have a new Intel-based Macintosh computer,
+install Norton AntiVirus for Macintosh 10.0 and run LiveUpdate to update
+to the latest version.
+
+ License : Purchase for $50 - Your purchase of Norton AntiVirus 11 for Macintosh includes a one-year subscription to program and virus definition updates. Subscription renewals can be made when your current subscription nears expiration. 
+ Author/Publisher : Symantec
+ Modification Date : December 10, 2007
+ Requirements : Mac OS X 10.4.10 or higher
+
+ Download 
+File Size: 39.9 MB - January 8, '07 definition files for version 9.x/10.x
+
+ Download 
+File Size: 2.0 MB - January '08 definition files for version 8.x
+
+ Download 
+File Size: 1.6 MB - January '08 definition files for version 7.0.2
+
+ Download 
+File Size: 1.8 MB - January '08 definition files for version 7.0.x
+
+ Parent Directory 
+
+ Virus Definitions Download Page 
+
+ Download Info 
+
+ Home Page 
+
+ Sophos Anti-Virus 4.9 
+
+Sophos Anti-Virus protects your network, desktop and even remote laptop
+computers from the latest viruses, Trojans, worms and spyware. The
+quality of its award-winning technology has been confirmed time and time
+again by independent bodies such as West Coast Labs, ICSA Labs and Virus
+Bulletin.
+
+ License : Demo, 1 year/25 user license $520
+ Author/Publisher : Sophos
+ Modification Date : September 26, 2007
+ Requirements : Mac OS X 10.2.8 and higher including Mac OS X 10.5
+
+ Download 
+File Size: 26.4 MB
+
+ Home Page 
+
+ VirusBarrier X4 10.4.4 
+
+The world of computers changes quickly, and your antivirus program needs
+to be up-to-date. VirusBarrier's NetUpdate function can automatically
+update the program via the Internet, to ensure that you are always
+protected.
+
+VirusBarrier uses the most recent advances in antivirus technology. It
+identifies and eradicates viruses, and prevents your Macintosh from
+being infected by viruses.
+
+VirusBarrier's innovative interface is easy to use, and you can scan
+your Macintosh, or any disk or volume, with just one click.
+
+Virus definition updates are available through NetUpdate only.
+
+ License : Demo, $70
+ Author/Publisher : Intego
+ Modification Date : September 24, 2007
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 25.0 MB - Demo/Updater
+
+ Updates 
+
+ Home Page 
+
+ VirusScan 8.6 
+
+Complete protection for PowerPC and Intel-based systems Get premier
+virus detection and elimination for Macintosh systems. McAfee
+VirusScan for Mac offers comprehensive protection against viruses,
+worms, Trojans, and other malicious code.
+
+ License : Demo, 3 user license $110
+ Author/Publisher : McAfee
+ Modification Date : November 2, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 33.2 MB - VirusScan 8.5 Demo
+
+ Download 
+VirusScan 8.6 Updater for registered users
+
+ Download 
+File Size: 18.1 MB - January 9, '08 definition files - For Virex 7.x
+
+ Download 
+File Size: 2.8 MB - October 1, '07 definition files - For Virex 6.2
+
+ Virus Definitions Download Page 
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

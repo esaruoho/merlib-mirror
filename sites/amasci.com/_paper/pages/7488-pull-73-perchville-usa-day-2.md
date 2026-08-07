@@ -1,0 +1,738 @@
+---
+title: "Pull 73 -- Perchville U.S.A. -- Day 2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull73.html
+order: 7488
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T17:15:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 73 -- Perchville U.S.A. -- Day 2
+
+*Source page: `~samoyed/iwpa/0001/Pull73.html`*
+
+Perchville U.S.A. -- Day 2\
+Tawas City, Michigan
+===========================
+
+Pull: 73
+
+Organizer(s):Shirley Webber
+
+Snow Region: 6
+
+Packed Snow
+
+Track:Hard packed snow & quite slippery for handlers
+
+Date:2/4/01
+
+Weather:
+
+Snowy, drizzly
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Fly
+
+6
+
+560
+
+37.88
+
+32
+
+17.50
+
+6.0
+
+Donna Libbey
+
+Border Collie Mix
+
+Cee
+
+6
+
+488
+
+6.09
+
+34
+
+14.35
+
+3.0
+
+Joal Brisbois
+
+Border Collie
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Petey
+
+6
+
+776
+
+6.81
+
+59
+
+13.15
+
+12.0
+
+Amy Morris
+
+Am. Staffordshire Terrier
+
+Kirby
+
+6
+
+776
+
+7.53
+
+57
+
+13.61
+
+9.0
+
+Shirley Webber
+
+Sharpi mix
+
+Bulldozer
+
+6
+
+704
+
+7.28
+
+58
+
+12.14
+
+6.0
+
+Donna Libbey
+
+Australian Cattle Dog
+
+Badger
+
+6
+
+632
+
+60.75
+
+56
+
+11.29
+
+4.0
+
+Shirley Webber
+
+Border Collie Mix
+
+Majic
+
+6
+
+560
+
+5.78
+
+54
+
+10.37
+
+3.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Willow
+
+6
+
+560
+
+14.39
+
+45
+
+12.44
+
+2.0
+
+Amy Morris
+
+Am. Staffordshire Terrier
+
+Jasmin
+
+6
+
+488
+
+13.31
+
+60
+
+8.13
+
+1.0
+
+James Webber
+
+Am. PitBull Terrier
+
+King
+
+6
+
+No Pull
+
+56
+
+.
+
+0.0
+
+Bob Goins
+
+Siberian Husky
+
+2 false starts
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Barney
+
+6
+
+992
+
+14.89
+
+69
+
+14.38
+
+12.0
+
+Jim Fockler
+
+Malamute mix
+
+Spooky
+
+6
+
+992
+
+16.53
+
+70
+
+14.17
+
+9.0
+
+Donna Libbey
+
+Bull Dog
+
+Atka
+
+6
+
+992
+
+36.57
+
+66
+
+15.03
+
+6.0
+
+Raissa Hinman
+
+Alaskan Malamute
+
+Moose
+
+6
+
+776
+
+7.46
+
+77
+
+10.08
+
+4.0
+
+Marshall Mummey
+
+Alaskan Malamute
+
+Jerry
+
+6
+
+776
+
+43.84
+
+68
+
+11.41
+
+3.0
+
+Josh Fockler
+
+Short Hair Pointer
+
+Olive
+
+6
+
+704
+
+9.54
+
+78
+
+9.03
+
+2.0
+
+Shirley Webber
+
+Mastiff/Lab mix
+
+Sister
+
+6
+
+560
+
+41.74
+
+62
+
+9.03
+
+1.0
+
+Raissa Hinman
+
+Alaskan Malamute
+
+Chippawa
+
+P
+
+344
+
+10.97
+
+74
+
+4.65
+
+.
+
+John Marks
+
+Mixed
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Maxine
+
+6
+
+992
+
+4.88
+
+86
+
+11.53
+
+9.0
+
+Shirley Webber
+
+Mastiff Mix
+
+Clyde
+
+6
+
+632
+
+50.39
+
+94
+
+6.72
+
+6.0
+
+Shirley Webber
+
+Mastiff Mix
+
+Peek
+
+6
+
+560
+
+58.85
+
+91
+
+6.15
+
+3.0
+
+Todd Allen
+
+Mastiff Mix
+
+Haley
+
+6
+
+488
+
+5.24
+
+91
+
+5.36
+
+1.0
+
+Diane Krupski
+
+Mastiff Mix
+
+Pappy
+
+6
+
+200
+
+10.80
+
+84
+
+2.38
+
+0.5
+
+Steve Baker
+
+Mastiff Mix
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Tank
+
+6
+
+1388
+
+6.92
+
+110
+
+12.62
+
+9.0
+
+Tony Radle
+
+Am. Bull Dog
+
+Midas
+
+6
+
+1172
+
+11.33
+
+114
+
+10.28
+
+6.0
+
+Shirley Webber
+
+Newfoundland
+
+Aboo
+
+6
+
+1172
+
+28.27
+
+104
+
+11.27
+
+3.0
+
+Todd Allen
+
+Mastiff Mix
+
+Grizz
+
+6
+
+1064
+
+26.01
+
+109
+
+9.76
+
+1.0
+
+Marshall Mummey
+
+Alaskan Malamute
+
+Bonnie
+
+6
+
+848
+
+35.82
+
+110
+
+7.71
+
+0.5
+
+Donna Libbey
+
+Mastiff Mix
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Rover
+
+6
+
+1700
+
+26.80
+
+153
+
+11.11
+
+8.0
+
+Joal Brisbois
+
+Mastiff
+
+Lucca
+
+6
+
+1100
+
+6.72
+
+122
+
+9.02
+
+5.0
+
+Donna Libbey
+
+English Mastiff
+
+Crocus
+
+6
+
+950
+
+5.14
+
+160
+
+5.94
+
+2.0
+
+Mark Krupski
+
+St. Bern./Mastiff
+
+Bear
+
+P
+
+650
+
+7.51
+
+151
+
+4.30
+
+.
+
+Todd Gatzemeyer
+
+Newfoundland
+
+Last Updated: 07:07:37 on 03-02-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull72.html) | [Next Pull \#](Pull74.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

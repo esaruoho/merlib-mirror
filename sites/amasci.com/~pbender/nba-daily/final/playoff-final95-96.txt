@@ -1,0 +1,31 @@
+
+ 
+Playoff Standings
+  1st Round             2nd Round             3rd Round         Finals
+  (Best of 5)           (Best of 7)           (Best of 7)       (Best of 7)
+1 Seattle (3)    __
+8 Sacramento (1)   |_ 1 Seattle (4) _____
+                    _ 5 Houston (0)      |
+4 LA Lakers (1) ___|                     |_ 1 Seattle (4) _
+5 Houston (3)                             _ 3 Utah (3)     |
+                                         |                 |
+2 San Antonio (3) _                      |                 |
+7 Phoenix (1)      |_ 2 San Antonio (2) _|                 |
+                    _ 3 Utah (4)                           |
+3 Utah (3)     ____|                                       |
+6 Portland (2)                                             |_ 1 Seattle (2)
+                                                            _ 1 Chicago (4)
+                                                           |
+1 Chicago (3) _____                                        |
+8 Miami (0)        |_ 1 Chicago (4)  ____                  |
+                    _ 5 New York (1)     |                 |
+4 Cleveland (0) ___|                     |                 |
+5 New York (3)                           |_ 1 Chicago (4) _|
+                                          _ 2 Orlando (0) 
+2 Orlando (3) _____                      |
+7 Detroit (0)      |_ 2 Orlando (4) _____|
+                    _ 6 Atlanta (1)    
+3 Indiana (2) _____|
+6 Atlanta (3)
+ 
+ 

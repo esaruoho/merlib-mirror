@@ -1,0 +1,460 @@
+ISO 8859-1 character set: 160-191 
+
+ The ISO 8859-1 Character Set: 
+ 160-191 
+ Character Ranges 
+
+ 0-31 
+ 32-64 
+ 65-96 
+ 97-126 
+ 127-159 
+ 160-191 
+ 192-223 
+ 224-255 
+
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+ = Index DOT Html 
+ by Brian Wilson 
+ = 
+ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 
+
+ Main Index |
+ Element Tree |
+ Element Index |
+ HTML Support History 
+
+ Character 
+ &#160;&#160; 
+ Numbered Entity 
+ &#160;&#160; 
+ Named Entity 
+
+ ISO 8859-1 Position 
+ Description 
+
+ Entity Number 
+ HTML Result 
+ Standards/Browser Support 
+
+ Entity Name 
+ HTML Result 
+ Standards/Browser Support 
+
+ 160 
+ Nonbreaking space 
+ &#160; '&#160;' 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &nbsp; '&#160;' 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE1 | M2A9 | N1.1 | O2.1 ] 
+
+ 161 
+ Inverted Exclamation Point 
+ &#161; &#161; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &iexcl; &iexcl; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 162 
+ Cent Sign 
+ &#162; &#162; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &cent; &cent; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 163 
+ Pound Sterling 
+ &#163; &#163; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &pound; &pound; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 164 
+ General Currency Sign 
+ &#164; &#164; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &curren; &curren; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 165 
+ Yen Sign 
+ &#165; &#165; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &yen; &yen; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 166 
+ Broken Vertical Bar 
+ &#166; &#166; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &brvbar &brvbar; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 167 
+ Section Sign 
+ &#167; &#167; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &sect; &sect; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 168 
+ Umlaut 
+ &#168; &#168; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &uml; &uml; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE3 | M | N3 | O2.1 ] 
+
+ 169 
+ Copyright 
+ &#169; &#169; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &copy; &copy; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE1 | M2A9 | N1 | O2.1 ] 
+
+ 170 
+ Feminine Ordinal 
+ &#170; &#170; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &ordf; &ordf; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 171 
+ Left Angle Quote 
+ &#171; &#171; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &laquo; &laquo; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 172 
+ Not Sign 
+ &#172; &#172; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &not; &not; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE3 | M | N3 | O2.1 ] 
+
+ 173 
+ Soft Hyphen 
+ &#173; &#173; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &shy; &shy; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 174 
+ Registered Trademark 
+ &#174; &#174; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &reg; &reg; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE1 | M2A9 | N1 | O2.1 ] 
+
+ 175 
+ Macron Accent 
+ &#175; &#175; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &macr; &macr; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE3 | M | N3 | O2.1 ] 
+
+ 176 
+ Degree Sign 
+ &#176; &#176; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &deg; &deg; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE3 | M | N3 | O2.1 ] 
+
+ 177 
+ Plus or Minus 
+ &#177; &#177; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &plusmn; &plusmn; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 178 
+ Superscript Two 
+ &#178; &#178; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &sup2; &sup2; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 179 
+ Superscript Three 
+ &#179; &#179; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &sup3; &sup3; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 180 
+ Acute Accent 
+ &#180; &#180; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &acute; &acute; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 181 
+ Micro Sign 
+ &#181; &#181; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &micro; &micro; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 182 
+ Paragraph Sign 
+ &#182; &#182; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &para; &para; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 183 
+ Middle Dot 
+ &#183; &#183; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &middot; &middot; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 184 
+ Cedilla 
+ &#184; &#184; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &cedil; &cedil; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE3 | M | N3 | O2.1 ] 
+
+ 185 
+ Superscript One 
+ &#185; &#185; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &sup1; &sup1; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 186 
+ Masculine Ordinal 
+ &#186; &#186; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &ordm; &ordm; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 187 
+ Right Angle Quote 
+ &#187; &#187; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &raquo; &raquo; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 188 
+ Fraction One-Fourth 
+ &#188; &#188; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &frac14; &frac14; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 189 
+ Fraction One-Half 
+ &#189; &#189; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &frac12; &frac12; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 190 
+ Fraction Three-Fourths 
+ &#190; &#190; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &frac34; &frac34; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ 191 
+ Inverted Question Mark 
+ &#191; &#191; 
+
+ [ 2 | 3 | 3.2 | 4 ] 
+ [ X1 | X1.1 ]
+ [ IE1 | M1 | N1 | O2.1 ] 
+ &iquest; &iquest; 
+
+ [ 2 | 3 | 3.2 | 4 ]
+ [ X1 | X1.1 ]
+ [ IE3 | M2A9 | N3 | O2.1 ] 
+
+ Boring Copyright Stuff...

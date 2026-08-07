@@ -1,0 +1,185 @@
+---
+title: "2004 Plant Auction"
+source_domain: amasci.com
+source_path: ~enumclaw/Tips/Tacoma ARS Chapter/2004 Plant Auction.html
+order: 2904
+reachable_from_entry: false
+images: 1
+internal_links: 2
+extracted: 2026-08-07T17:09:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# 2004 Plant Auction
+
+*Source page: `~enumclaw/Tips/Tacoma ARS Chapter/2004 Plant Auction.html`*
+
+* Meeting Information * News and Events * Spring Show * Pt Defiance Rhododendron Garden *
+    * Tacoma ARS Chapter of the American Rhododendron Society *
+    * Website Map * back to The Anderson Garden *
+
+ARS PLANT SALE 11/10/2004
+
+(2003 auction brought in \$1010 for the Chapter)
+
+\
+\
+1 R. hyperythrum Rhody Species White to Rose Red Flowers appear before or with leaves J. Senko
+
+2 R. rex Rhody Species Lg White to pale Pink Lg leaf & shrub to 45', RSF1999 seed J. Senko
+
+3 R. calophytum Rhody Species Lt Pink w Dk Crimson blotch Lg leaf & shrub, RSF 1999 seed J. Senko
+
+4 F. Magellanica Rubra Fuchsia-Hybrid Red over Purple Hardy upright to 5' J. Senko
+
+5 R. occidentale Rhody Species White, fragrant NW native, decidulous azalea J. Senko
+
+6 Fern: Polystichum polyblepharum Fern-Hybrid Tassel or Palm fonds in winter Evergrn J. Senko
+
+7 Home made PLUM jam Basket Each basket contains: two 8oz. jars of plum jam - one jar low sugar, the M Moloney
+
+8 Home made PLUM jam Basket other jar regular. Mona's speciality M Moloney
+
+9 Gerards Hot Shot Azalea Red, Var leaves Evergrn Stu Imire's Nursery
+
+10 Varigated Oat Grass Grass Green & White margin Evergrn Stu Imire's Nursery
+
+11 Blue Nose Rhody hybrid Purple Tall Stu Imire's Nursery
+
+12 Goldflimmer Rhody hybrid Purple, Var Leaves like Pres Roosevelt but healthlier/ stronger Stu Imire's Nursery
+
+13 Johnathan Shaw Rhody hybrid Lg Black Purple w purplish red center & prominent black flare Low purple Stu Imire's Nursery
+
+14 My-Oh-My Rhody hybrid Yellow-Orange mix Brand new from Charlie Stu Imire's Nursery
+
+15 Oceanlake Rhody hybrid Deep violet-blue flwrs. Hardy, Bonsaii type Stu Imire's Nursery
+
+16 Point Fosdick Rhody hybrid New foliage is bronze & bushy. Flowers are purplish red, compact plant. Stu Imire's Nursery
+
+17 R. calustrotum,, Ghia Rhody Species Lavender Dwarf species Stu Imire's Nursery
+
+18 R. dauricum Rhody Species White Very early Stu Imire's Nursery
+
+19 R. hanceanum Rhody Species Yellow Low, species, dwarf Stu Imire's Nursery
+
+20 R. lepidostylum Rhody Species Yellow Blue Leaves Stu Imire's Nursery
+
+21 R. virdescens Rhody Species Yellow Blue leaves Stu Imire's Nursery
+
+22 Shamrock Rhody hybrid Chartreuse (Yellow) Low, compact, wider than high, early Stu Imire's Nursery
+
+23 Songbird Rhody hybrid Brt Purple-Blue Dwarf, compact Stu Imire's Nursery
+
+24 Tiffany Rhody hybrid Fower Star shaped Pink & reflexed attractive plant w outstanding flwr color Stu Imire's Nursery
+
+25 Trilby Rhody hybrid Deep crimson w black markings Large, Late bloomer Stu Imire's Nursery
+
+26 Vibrant Violet Rhody hybrid Purple (Bright violet) 3-5ft, Bushy, small Stu Imire's Nursery
+
+27 Acer Full Moon Japanese Maple Higashi Nursery
+
+28 Acer Mai kujaku Japanese Maple Higashi Nursery
+
+29 Acer Okushimo maple Higashi Nursery
+
+30 Acer Oridon nishiki 'palmatum' maple Variegated w bright pink, cream and shiniy green leaves Higashi Nursery
+
+31 Acer Oshiobeni Japanese Maple Higashi Nursery
+
+32 Acer Red Filigree Lace dissectum Japanese Maple Laceleaf, Weeping filigree branches, red lacey leaf, to 3 feet Higashi Nursery
+
+33 Acer Sango kaku 'Coral Bark' Japanese Maple Plamatum, 30', green, small foliage w sensational coral tone winter twigs Higashi Nursery
+
+34 Acer SeIryu dissectum Japanese Maple 30 ft, finely divided, sm lt green leaves which yurn into palette of colors in fall Higashi Nursery
+
+35 Acer Shigitatsu sawa 'omoeunum' Japanese Maple 18', Variegated grn veins in yellow grn foliage, in fall has red & grn tones Higashi Nursery
+
+36 Acer Shishigashira Japanese Maple Slow growing, curly kinky leaves, last minute fall coloration foliage, to 10 feet Higashi Nursery
+
+\
+37 Cornus Florida Dogwood early pink flower Higashi Nursery
+
+38 Cornus Satomi Red Oriental Dogwood New flowers open white fades to bright-rose red, requires some shade Higashi Nursery
+
+39 Cornus korsa Dogwood late pink flower Higashi Nursery
+
+40 H. Royal Heritage Helleborus 2" flowers varying in color, blooms for 4 months Higashi Nursery
+
+41 R. Fascination Azalea hybrid Evgrn, two tone flower: Red out/White in Higashi Nursery
+
+42 R. Homebush Azalea hybrid Decidious, semi-dou, rose pink flowers w delightful ball shaped trusses Higashi Nursery
+
+43 R. Lemon Drop Azalea hybrid Decidious, Lt yellow, July blooming Higashi Nursery
+
+44 R. Linearisolium Azalea hybrid Evergreen, pink Higashi Nursery
+
+45 R. Polypetalum Azalea hybrid Macrantha, bushy upright mounding to 3ft, muted red orange w salmon undertones Higashi Nursery
+
+46 R. Silver Sward Azalea hybrid Evgrn, yew grn leaves lacedwhite at edges, flushed dk rose-purple, dk veins Higashi Nursery
+
+47 R. kiusianum "Mongetsu" Azalea species Japanese species, buds young & heavy, good for bonsai, color unknown Higashi Nursery
+
+48 R. Bob's Blue Rhody hybrid Lepidote, fantastic combination blue flowers & small deep green leaves Higashi Nursery
+
+49 R. Princess Anne "Golden Fleece" Rhody hybrid Beautiful yellow w slight greenish cast, compact Higashi Nursery
+
+50 R. Vibrant Violet Rhody hybrid Small, pointed dk green leaves, bright violet flowers to 3feet Higashi Nursery
+
+51 Sherwood Orchid Azalea hybrid vivid reddish purple, darker blotch Bill Hicks
+
+52 Gumpo Pink - light pink Azalea hybrid Light Pink Bill Hicks
+
+53 Ben Morrison - 4-6 feet high, Azalea hybrid Dp yellowish pink, blotch purplish red, irregulate white margins, very popular, excellent plant Don/Jean Clark Rhody Donation
+
+101 Ambassador (Jan Dekens x Madasme de Bruin) ML, -5F, 3' A perfect mound of dk green D & J Rhodies glossy leaves, late season, yellow-pink ball trusses, florets with orange-yellow flare.
+
+102 April Chimes (hippophaeoides x mellicomum) 3', 0F, EM D & J Rhodies Attractive, pointed leaves. Flowers rosy mauve. Excellent for cut blooms.\
+\
+103 Earl Murray (Lem's Cameo x Kubla Khan) 5', EM, 0F Spherical blooms, salmon with salmon-orange picotee margins blending to lighter hues within. D & J Rhodies
+
+104 George Sweezy (Vera Elliott x Dr. A. Blok) 4', 5F, EM Grwth habit round & upright, D & J Rhodies wider than tall. Flowers of soft pink spotted golden brown. Trusses of 12.\
+\
+105 Joe Davis {(Butter Brickle x September Song) x Eunie}5', 0F, April Lt greenish yellow at margins, D & J Rhodies shading to brilliant yellow center with prominant moderate red blotch in throat. Truss 6" high x 6" wide.
+
+106 Kabaret (Hachman hybrid) 4', May, -15F Forest Green leaves on well-branching D & J Rhodies sturdy reddish stems. Ball shaped blooms of purple-pink underscored with lilac accented by red freckling on the upper lobes.
+
+107 Lofthouse's Legacy (Butter Brickle x Viennese Waltz) 3', EM, 0F D & J Rhodies Pink picotee margins and showy red-orange flare in the throat accent shapely ball-shaped yellow blooms.
+
+108 Marley Hedges (Anna x Purple Splendour) 4', 10F, M Flwrs - 24/truss - wh, edged D & J Rhodies with strong red-purple, blotch of graytish red to moderate purplish red. Floriferous.
+
+109 Mary Bridge 5', 0F, April/May Light purple buds opening inside light purple with D & J Rhodies moderate yellow dorsal blotch spotted vivid purple, outside strong purple, long white stamens and pistil. Truss 5" high c 4" wide.. Fred Minch cross.. Ref: P109, Vol 51, No 2, Spring 1997, Journal of A R S.
+
+110 Midnight Mystique (Midnight x One Thousand Butterflies) 4', May, 0F Large dome truss of pale D & J Rhodies Ref: P109, Vol 51, No 2, Spring 1997, Journal of American Rhododendron Society.\
+\
+111 Nelda Peach 2', 0F, M Flowers openly funnel shaped, 4" broad, 14 per truss. Buds strong yellowish pink open to light yellowish pink. D & J Rhodies
+
+112 Olive (moupinense x dauricum) 4', -15F, VE Flwr orchid pk, darker spots D & J Rhodies scattered over the base of the upper lobe. Blossoms held singly or in twos.\
+\
+113 Pom Pom (Katrina x Lem's Cameo) 4', 0F, May a Thompson winner D & J Rhodies Rounded blooms of rosy-pink with salmon-orange tones that incorporate yellow hues in the throat.
+
+114 Princess Ann (hanceanum x keiskei) 2', -5F, EM Beautiful yellow flowers with D & J Rhodies faint greenish tint. Plant of compact habit, very floriferous. Leaves change to shades of bronze depending on climate.
+
+115 Point Fosdick (possibly a williamsianum hybrid) 4', 0F, EM D & J Rhodies New foliage is bronze. Flowers are purplish red on this compact plant.
+
+116 R edgeworthii 4', 15F, April D & J Rhodies Fragrant pink flowers in cluster os 2-3 and 4 1/2 " long, widely trumpet shaped.\
+\
+117 Russautinni (russatum x augustinnii) 5', -10F, EMLepidote hybrid with small D & J Rhodies foliage like russatum. Flowers slate blue with darker eye. Blooms profusely at early age.
+
+118 R yunnanence 5', Early May, 0F Tall, willowy plant. Leaves D & J Rhodies become partly deciduous in the fall. White flowers with red spotting are in clusters of 3-5.
+
+119 Repens x Essex Scarlet x Cornubia (Unregistered cross) D & J Rhodies Dark green foliage with bright red flowers. 3 to 4 feet at 10 years.
+
+120 Seaview Sunset (Nancy Evans x Canadian Sunset) 3', Early April, 0F Dense plant. Red-orange buds D & J Rhodies open to rich light yellow blooms with 5 lobed wavy edged bands of\
+red-orange.\
+\
+121 Senora Mellon (Lackamas Blue x Blue Diamond) 5', 5F, Early D & J Rhodies Wisteria blue flowers with a few green spots. Floriferous and fragrant. Small yellowish green leaves.
+
+122 R thomsonii (grown from seed from Nepal) Britt Smith received seed several years ago from Nepal. D & J Rhodies Seeds were offered at a Tacoma Chapter meeting by Britt to help finance travel of individual to the 50th Anniversay Convention in Portland.
+
+123 Wings of Gold 4', Early May, 5F Parsley green leaves on upright spreading plant. Golden yellow blooms of D & J Rhodies substance are accented with bright strawberry-red flare within. A fantastic Thompson hybrid
+
+124 Pieres (varigated) white flowers D & J Rhodies
+
+125 Cryptomeria Japonica (Japanese Cedar) D & J Rhodies
+
+126 Yak hybrid (Larson's Yak x Fawcett's Yak) Unregistered . Pink flowers. D & J Rhodies

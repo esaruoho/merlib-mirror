@@ -1,0 +1,438 @@
+SMALLnet post373 
+
+ SMALLnet Posting post373
+
+Date: Mon, 29 Jan 2001 03:24:32 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >
+
+Jody White < > wrote:
+
+I just finished a completely-stock Cox "Recon" free-flight
+plane. Construction is all-styrofoam, with a plastic cowl and
+.049 "Sure-Start" (which I suspect is another way of spelling
+"Babe Bee" ;)).
+
+The plane came with a camera rig to be mounted inside the 
+fuselage, but it's too limited for my taste. You're expected to 
+launch the plane, let it fly in a big, rising circle till it runs out of 
+fuel, then let it glide back down in circles -- and somewhere in 
+there, you trigger the camera.
+
+But you only get one shot per flight, and you have to take the
+plane apart to advance the film. The plane alone (no camera, 
+empty tank) weighs a pound and has just over 2 square feet of 
+useful wing area: about 8 ounces per square foot of wing loading. 
+With the camera, the load goes up to almost 12 ounces/square foot.
+
+I'm interested in converting it to 2-channel R/C (rudder/
+elevators). Has anyone else out there done this? If so, what sort
+of results did you get, and how did you implement it?
+
+Keep in mind, I'm leaving the camera rig on the ground. I don't
+think this bird is going to be able to handle both R/C and 
+camera without giving itself a hernia ;)
+
+Jody White
+
+(With a different choice of test animal, it would be a "dogapult".)
+
+Larry Marshall < > contributed:
+
+Bud Orren asked: "When should old Nicad batteries be replaced?"
+
+Bob Stought answered: "There is no simple answer; but in general,
+it is heat that degrades Nicad cell performance..."
+
+I don't disagree with Bob on this, but I do think there is a simple
+answer to the question asked. The thing to do is to monitor the peak
+voltage and discharge time using a standard load, and record that in
+a logbook. You'll find that as the cells age the peak voltage will
+increase and the discharge time will decrease. The peak voltage rises
+because the internal resistance of the cell is going up (it's wearing
+out) and capacity goes down -- which is the important thing for us.
+
+I don't know if Bud's question was relative to receiver batteries or
+power system batteries but I think the answers about when to get rid
+of them may be different depending on your view. I think it best to
+be conservative with receiver packs, and discard them with the first
+sight of decreased capacity. With power system batteries, however,
+it becomes a more personal decision and depends on whether you're
+still getting satisfaction from flying with the pack. A flight that's a 
+bit shorter doesn't necessarily mean you're not having fun.
+
+Bob also said, "... NiMH cells have much higher capacity than 
+Nicad cells do, but a given size NiMH battery usually cannot deliver 
+as much power as did the Nicad pack it replaces."
+
+Here I do have to disagree with Bob a bit, though only in semantics.
+NiMH cells will deliver the same "power", they'll just do it over a
+longer time and at a lower voltage. With our model airplanes, 
+volts and propeller rpm are directly related. I'm sure that's what he
+means as his solution of adding an extra cell (to increase the
+voltage) is consistent with this.
+
+"As nearly as I can see, there is not a very much difference between
+the small ferrite magnet motors of today and those of years ago."
+
+Except that the question was "old Astro ferrite 020 and 035 motors"
+vs "modern motors." The Astro 020 of today is a rare-earth magnet,
+brushless motor and will produce far more torque and rpm 
+(determines size of prop and rpm it'll spin) than its predecessors. 
+Again, I'm sure Bob knows this but it's unclear what "modern motors" 
+Bud was asking about.
+
+Cheers --- Larry
+
+Dick Scalone < > offers:
+
+If anyone would like a very easy way to draw 5-pointed stars,
+e-mail me your address. Don Ross at FM says he may be doing a
+small piece on it, since he said it was something he never saw
+before, and liked it.
+
+I had sent it to Don to see if I came up with something new,
+or was it old hat?
+
+Dick Scalone
+
+Gary Seckel < > sent:
+
+To respond to Glenn's concern for getting ether out of Starting
+Fluid spray cans. I only just spray the ether into the inside edge
+of a mason jar type container. The ether wasted amounts to very
+little. If you measure the ether sprayed into a container, you
+will find more fluid than advertised as the net weight.
+
+This is due, in my opinion, to overfilling by the factory to
+insure full net weight. The appearance of large ether loss in
+spraying out the contents seems like an illusion. I never bleed
+off the propellant anymore. I usually mix fuel right before I
+fly. It is quick to do so, and I am already outside.
+
+Gary Seckel
+
+Ed Toner < > wrote:
+
+I received my Fire Lite from Sharper Image. This is my first R/C.
+I didn't like the method of putting in the dihedral, so I used Pica
+GLUEIT. I increased the dihedral a bit, to 2.25". Looks fine,
+gives me a cleaner, stiffer wing.
+
+I still don't like the hold-down screw for the canopy. Has anyone
+used Silly Putty, Velcro, etc.?
+
+I tried to order replacement nicads, but they are out of them.
+Is there a source of interchangeable batteries? How about spare
+parts, such as the wing?
+
+Any advice will be welcomed.
+
+Ed Toner
+
+< > submitted:
+
+Just a quick note about two companies I've dealt with recently:
+Takeoff 2000, which I saw mentioned on this list -- and Radical
+R/C. I've dealt with a lot of mail-order companies before, some
+great and some not so great, but these two are top notch.
+
+The guy at Radical R/C [Dave Thacker] was super helpful on a
+problem I had one evening even though I called him at night.
+He has the tiny GWS receiver, good deals on small NiMH batteries,
+and other good stuff for this hobby. I recommend him highly.
+
+BTW, I absolutely love that GWS Receiver: 5.4 grams and 4
+channels ! $28 with crystal!!
+
+The people at Takeoff 2000 are also extremely helpful, and have
+some great and also unique items for this hobby, such as the Hangar
+Rat (fun little rubber plane) and the Fuddy Duddy (a great-flying
+little electric); some great little motors, batteries, etc.
+
+On the other side of the coin, I recently had the misfortune of
+needing to call Bob Davis of Davis Diesel. This guy seems to be the
+single most obnoxious, arrogant, Know-it-all I have ever in my life
+run into. He was the same when I talked to him years ago in Toledo,
+but I had forgotten how bad he was. I would never deal with him
+again. He probably wasted 15 minutes of my time on the phone just
+running down other people and products in the industry, such as
+the Gasparin CO2 motors, of which I have several -- and love.
+
+Oh well --- Keep flying, have fun, and try those two companies:
+you'll love them.
+
+...I, too, have been impressed with Dave Thacker's service.
+One item that needs correcting is the ACTUAL weight of the 
+GWS receiver. That 5.4 gram weight figure must have been for the
+original "vertical-pin" receiver design. The "H" model receiver
+(which is what I bought from Radical R/C) weighs about 7 grams.
+But it can be lightened! Removing the plastic outer case will
+lose about a gram; and changing the HEAVY antenna wire to a
+lighter one (but the same length!) helps too. [JW]
+
+Roy Clough < > wrote:
+
+Discussion of small fuel tanks noted. Several years back, Larry
+Renger reminded me of the use of small balloons for lightweight fuel
+tanks that would feed in any position. I've been using them for
+practically all my small tankless engines. I made up a nylon plug,
+1/2" diameter x 1/2" long, with a single hole in the middle.
+
+A fuel line, cut with a sharp taper to be poked though an undersize
+hole, can be pulled through, and seals perfectly. No clunk needed,
+just cut a vee in the end of the fuel tubing. I double back the neck
+of the balloon to keep the over-all length as short as possible and
+bind it to the nylon plug with a small rubber band.
+
+I fuel-proof the tank compartment with a coat of Elmer's Glue All,
+and make the tank accessible with a panel or trapdoor, to be opened
+for checking its filling through the single fuel line by removing it
+from the engine. Easy, because at the end of the flight the balloon
+will be sucked flat.
+
+Never had a feed failure, and alcohol model fuel is kind to the
+balloon--I have one tank in use for a year now (but cannot speak
+for diesel fuel).
+
+Now if Larry sees this, maybe he'll share with us that double-
+walled pressurized balloon tank arrangement he told me about.
+I never tried it, because the single balloon satisfied all my
+needs -- but pressure might be a good idea for larger-capacity
+balloons.
+
+Roy C.
+
+Scott Winans < > suggests:
+
+Regarding discussions about the "1 cc" group of motors (.061 -
+.074) and their performance. I have had some wonderful experience
+with TD and Medallion .09 engines over many years, and some
+particularly nice ones recently.
+
+I have a TD .09 with a throttle sleeve that is a brute when it comes
+to power output. This thing swings an 8x4 Cox grey prop at around
+13,000, and a Cox grey 7x3 at near 17K as I recall. The exciting
+part was the performance on the 8x4, as that can be well utilized in
+a larger-platform aircraft quite well.
+
+Weight is very nice for this power output level, and the idle with a
+throttle sleeve is phenomenal and very repeatable. It has been a
+pleasure.
+
+The reason I bring this up is that the Cox engines have seemingly
+fallen from favor lately with quite a few folks, leaving many in
+drawers and field boxes around the country. That makes for an
+inexpensive motor to at least play around with. Good luck.
+
+Scott Winans
+
+George < > reports:
+
+ Source: Rocket motors, Rapier 
+
+There are now 4 sizes of Rapier rocket motors. L1 is mainly for
+profile models up to about 10" span. L2 is for larger profiles and
+small scale, such as the Aerographics Komet and the new Bell X1-S.
+(Have a look at our web site, which is at last getting attention.)
+
+L3 has about the same output as a Jetex 50, so is ideal for existing
+models designed to take that size of motor. The L4 is very powerful,
+quite close to a Jetex 100. Price: L1 comes in a box of 10 and
+costs about $8.90 excluding postage. L3 & 4 are the same price for
+5 motors. L2 is a box of 10 and is $11.45.
+
+Postage for up to 4 boxes to USA would be $6. Next kit from
+Aerographics will be the Velie Monocoupe for rubber/CO2/electric.
+Due in early March. < http://www.samsmodels.demon.co.uk >.
+
+Cheers, George
+
+Rick Eis < > wrote:
+
+ Source: Plans, Dave Robelen's "Playmate" 
+
+In SMALLnet #370, Howell Gwin discusses Dave Robelen's "Playmate".
+I understand the plans (# 506) can be ordered from Model Aviation's
+web page: < http://www.modelaircraft.org/ > for $11.25.
+
+It sounds like a fun little plane to build and a good winter
+project. Does anybody know where I could find digital pictures
+of this plane?
+
+Thanks, Rick Eis, from Dewey, Arizona
+
+Dave Robelen < > might know the answer 
+to that; but here addresses another topic:
+
+I've noticed the recent comments about the throttle characteristics
+of the BigMig .061. I too was disappointed with the early
+results, where the minimum idle was much too high, and the 
+settings were tricky.
+
+The following are things I changed which improved the situation.
+
+1- Swap to a Cox plug (screws right in); either the high-compression
+Tee Dee head or one from the hot reed valve engines. Adjust 
+gaskets for best running. (I use 15% Norvel fuel). This cleared up 
+the misfiring and touchy adjustments.
+
+2- I made a separate needle valve that I could fit in the incoming
+feed line. This became the control for full throttle, and the
+original valve controls the low and mid range.
+
+3- I also used some "Bondo" body putty to fill the little notch in
+the carburetor throat just above the barrel.
+
+With these modifications my engines will idle at 4500-5000 on a
+Master Airscrew 6-4 and have great midrange response. With 
+regard to ease of handling, the first cold start is kind of annoying 
+with the ceramic version, but from then on they are sweet and 
+powerful little engines.
+
+Regards, Dave Robelen
+
+Gene Marshall < > reports:
+
+Concerning Gary Edson's inquiry about the Astro 035, I am using
+that motor with belt drive in a Norvel Folding Flyer with good
+results. This is a system from the 1980's: it is a ferrite motor
+about the size of a Speed 400, and has a 3 to 1 belt drive on it.
+
+I use an APC 9/4.7 prop, 7-KR-660AE cells, Pixie-14 speed 
+control, 2 Hitec 81 servos, and Hitec 555 receiver. Weight is 
+25 ounces.
+
+It will do rolls and loops from level flight during the first
+couple minutes of flight. Flight time at full throttle is
+6-7 minutes. A picture of it is at:
+< http://airgene.www7.50megs.com/cgi-bin/i/foldfly-1.jpg >.
+
+Best Regards, Gene Marshall, Mission, Kansas
+
+Ron Fikes < > says:
+
+I use Dave Brown wheels on most everything. I modify mine 
+by slipping a bolt through the center, tightening on a nut, and
+chucking them in a drill motor. While spinning them, I hold 
+sandpaper against the sides. The foam tires can be made any 
+shape you want (I do most thin and streamlined).
+
+Wear something old when you do this -- there will be black 'dust'
+all down your front! Use pieces of thin, nesting aluminum tubing
+to make the hubs fit your LG wire sizes.
+
+Enjoy, Ron Fikes
+
+Bob Stought < > advises:
+
+Being new to electric power can be bewildering, and it took me a
+long time to get a handle on it. My advice is to proceed as follows;
+
+1. Determine the shortest acceptable flying time for your plane.
+If it is an R/C type, that probably ought not be less than 3 minutes
+flying time at full power.
+
+2. Determine the maximum current based on the minimum flight 
+time for the battery you intend to use. Here's how to do that.
+
+(a) Convert the battery mAh (milliAmpere-hours) to Ah (Amp-hrs).
+To do this, divide the mAh by 1000.
+
+(b) Convert battery Ah to Ampere-Minutes (Am). To do this,
+multiply Ah times 60.
+
+(c) Divide Ampere-Minutes (Am) by minimum flying time in minutes.
+The result is the maximum current in Amps that you can use.
+
+3. Install a fuse rated at about this maximum current level (or
+slightly above it) in one of the motor leads.
+
+4. Run the motor with a trial propellor with speed control set at
+full power.
+
+(a) If the fuse burns out, replace it and switch to a smaller-
+diameter propeller.
+
+(b) If after about two minutes of motor run time the motor is not
+warm to the touch, try again using a larger diameter propeller.
+
+Example: You have a 7-cell 600 mAh battery and a Speed-400 motor.
+The minimum motor run at maximum current is to be 3 minutes. 
+What is the maximum current and fuse size to use?
+
+Solution: if 600 mAh is divided by 1000 the result is 0.6 Ah. The
+Am rating of the battery is 0.6 times 60, or 36 Am. The maximum
+current is 36 Am divided by 3 minutes, which is about 12 Amps.
+Therefore install a 15 Amp fuse in the motor lead before doing
+motor test runs with different size Props.
+
+If the motor test results in a large, slow turning prop that produces
+low thrust (i.e. plane not being pulled very hard), the voltage may
+be too low for that motor. Try replacing the battery with one that
+has more cells. Then replace the large Prop with a smaller one and
+start the test procedures all over again.
+
+Hope this is of use. Bob Stought
+
+Gene Nightengale < > submitted:
+
+I have been using 35mm film canisters for 1/2A fuel tanks. I drill
+holes smaller than my fuel line. Cut a point on the end of the line
+to get it started in the hole then pull it through. The lid fits
+very tight. The tank is leak proof and quick and easy to make.
+
+I direct the vent line forward and plug the filler line for tank
+pressure and more consistent engine runs. I am using this tank on
+ultra-light foam gliders that I converted to power and R/C.
+
+I have one with a Cox .049 and another with a Norvel .061 with
+throttle. They both fly good, plenty of power and they loop and
+spin really nice. I also have a foam F-16 glider that I converted,
+and I use surgical tubing to make a pressure tank that works better
+than a clunk tank for aerobatics. The F-16 flies good with a Cox
+Tee Dee .049. It is very maneuverable, fast rolls, glides like a
+brick, lots of fun. Fun -- that's what it's all about.
+
+I would rather fly than build, so I like the foamies and ARF's.
+I like the small models because they are easy to transport, and
+they are assembled and ready to fly when I get to the field.
+When I auger one in, most of the time there is no damage. I just
+dust it off and fly it again. If it is damaged, it is minor and
+I always have a backup with me anyway.
+
+Gene Nightengale
+
+...Just one added caution: make the holes for the fuel lines in
+the BODY of the 35mm canister, NOT the top. That's because the
+tops are made from a different plastic, and WILL split. Guess
+how I know that? [JW]
+
+Stuart McKenzie < > inquires:
+
+I have a Herr Aquastar I am going to build, and I have to decide
+how to power it.
+
+My choices are: 1. A BigMiG .061 R/C (pre-Revlite); 2. A BigMig
+.061 R/C Revlite; or 3. A Thunder Tiger .07 R/C. I know the
+Aquastar instructions warn you about trying to use a .10 (too
+heavy for not much increase in power), but what about the TT .07?
+
+I have test run a TT .07 on another model (although I haven't flown
+with it). Sweet little engine, and quiet, too.
+
+Also, you Aquastar owners, how far a takeoff run do you usually need?
+Does your landing runout take less water length than your takeoff?
+How big of a turning radius is needed, in feet?
+
+We have a small, narrow pond, only about 350 feet in length, and
+50 feet wide, and am wondering if I can use it for float flying.
+
+TIA, Stuart "1/2A" McKenzie
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

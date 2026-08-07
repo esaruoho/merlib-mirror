@@ -1,0 +1,591 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE> GPS and Mapping Info From WE7U </TITLE>
+</HEAD>
+<BODY>
+
+<p>
+<B>
+Latest News:
+</B>
+The Xastir APRS program now supports USGS DRG geotiff topo maps.  These
+maps are available for most areas of the US free.  Get the latest anonymous
+CVS snapshot of the Xastir sources to gain this capability.  It should appear
+in the next public release as well.  See my mapping page to find out how to
+get access via CVS.
+<p>
+
+Go to
+<A HREF="http://support.garmin.com" TARGET="_top"> Garmin Support Site </A>
+for upgradeable firmware for GARMIN GPS's.  I would suggest doing this from
+DOS, not a DOS window, just to make sure it goes well.  The software
+for doing the programming is included in the downloadable archive.
+<p>
+<br>
+
+<H3> <A NAME="Differential GPS"> Differential GPS </A> : </H3>
+<A HREF="#GPS Parallel Receivers"> Next Topic </A>.
+<p>
+
+First of all, buying a GPS receiver that is "DGPS Ready" does not mean that
+you can use DGPS out of the box.  You still need to invest in a DGPS receiver,
+antenna, and cabling to hook it to your GPS.  There are several types of
+DGPS, and I only describe the free US Coast Guard-style DGPS here.  With
+USCG DGPS, you can resolve down to 1-5 meters, if your GPS is a high-quality
+one.  See your GPS manual for the DGPS accuracy spec. <p>
+
+The other types of DGPS are:  Commercial DGPS (where you get corrections from
+a receiver supplied by them), and survey-grade DGPS (where you use a special
+receiver that listens to the military frequency as well and might resolve down
+to cm accuracy).  There is also post-processing, where you collect a bunch of
+data (usually RINEX format), then grab data off the net later and combine the
+two in post-processing software to get more accurate positions.  Post-processing
+requires a receiver capable of outputing pseudo-ranges (most consumer handhelds
+cannot). <p>
+
+<A HREF="ftp://ftp.netcom.com/pub/rc/rcochran" TARGET="_top">Code For Roll-Your-Own DGPS Receiver, by Richard Cochran.</A>
+You'll need a receiver capable of tuning 283.5 to 325 kHz, technical
+skill to build an FSK or MSK modem, and plenty of patience for tuning the
+shortwave receiver (the shift used is very narrow).  This code for a PC-clone
+will compile under Microsoft-C or Borland-C.  It receives the data from the
+modem on a handshake pin, and sends the RTCM-104 data out the TXD pin (which
+you can then put into your GPS to get a DGPS fix).  Summary:  You only need
+one COM port in order to do this.  The author of the code was using a palmtop
+computer that only had one hardware COM port (the other was IR).  Here's
+another place to get it, although it isn't guaranteed to be the latest:
+<A HREF="ftp://ftp.eskimo.com/u/a/archer/" TARGET="_top"> Curt's Anonymous FTP Site </A>
+<p>
+
+
+If you are further interested in building your own DGPS, 
+<B>
+I have put together
+a mini-FAQ on DGPS
+</B>
+ that is available if you E-Mail me (Curt, WE7U).  You can
+send me E-Mail from the link at the top of this page.
+Note that this FAQ will be of no use to those wanting to buy a DGPS receiver
+and/or figure out how to use their DGPS system.  It only discusses the U.S.
+Coast Guard DGPS system, and does not discuss survey quality DGPS like
+real-time kinematic or post-processing.  U.S. Coast Guard-style DGPS will
+get you generally within 1-10 meters, but I have heard that you can quite
+often get 1-5 meter accuracy.  It also depends on the quality of the GPS
+receiver (check your manual for DGPS accuracy specs).
+<p>
+ 
+<p>
+<A HREF="http://home1.gte.net/clseng/DGPS_index.htm" TARGET="_top"> Rich Heineck </A>
+has some too-cool designs for DGPS receivers that can be carried along
+while hiking/hunting/whatever (Click on the "Pocket Sized" link when
+you get there.  I can't say I'd recommend building the "Low Cost but Very
+Basic" design of his, at least not after seeing and using the "Pocket Sized"
+design.  I got the opportunity to borrow one.  It's very small and works great!
+His PIC processor code converts the received bits into RTCM-104 data for
+input into a GPS, and also runs through the parity algorithm and lights
+an LED if the data stream is good.  Beware that the ground from your GPS
+must be isolated from the signal ground used in this circuit.  The reason
+is the voltage doubler circuit, which creates higher voltages to send to
+the GPS (note, this is probably old info now, 'cuz his latest design doesn't
+use a voltage doubler or the expensive lithium battery).
+Make sure you click on the pictures.  He includes source code for the PIC
+processor.  Stay tuned for whatever this guy comes up with next...
+<p>
+
+<p>
+<A HREF="http://home.san.rr.com/bix/DGPS_Project.htm" TARGET="_top"> A new
+from-scratch DGPS receiver design by Jim Bixby </A>. 
+This receiver will cost just over $100 in parts, runs from Car/Boat battery,
+and can use a whip or loopstick antenna.  Control is via up/down switches,
+and it shows status via an LCD display.  Be patient with this server (or click
+on reload a lot).  This project is extremely well documented, and includes
+source code for the PIC processor.  Until the .pdf files get replaced you
+won't be able to print out the schematics though.  Contact Jim directly to
+get replacement .pdf files until the new ones get updated on the web.
+<p>
+
+To find DGPS transmitter coverage areas worldwide, try
+<A HREF="http://www.csi-dgps.com/gbl.htm" TARGET="_top"> CSI-DGPS.COM </A>.
+For more information on US Coast Guard DGPS, see
+<A HREF="http://www.navcen.uscg.mil/dgps/coverage/dgpssite.htm" TARGET="_top"> USCG.MIL </A>.
+There is a <A HREF="http://www.effective-solutions.co.uk/dgps1.html" TARGET="_top"> British
+site </A> which provides DGPS at 50pence/minute over a modem w/free DGPS software (covers
+150 mile radius around Ramsey, England).<p>
+
+More information about DGPS:<br>
+<A HREF="http://www.trimble.com/gps/nfsections/diffGPS/aa_dg1.htm" TARGET="_top"> Trimble </A><br>
+<A HREF="http://www.cnde.iastate.edu/staff/swormley/gps/dgps.html" TARGET="_top"> Sam Wormley </A><br>
+<A HREF="http://www.navcen.uscg.mil/" TARGET="_top"> US Coast Guard </A><br>
+<A HREF="http://www.navcen.uscg.mil/dgps" TARGET="_top"> US Coast Guard DGPS </A><br>
+<A HREF="http://www.dgps.com/" TARGET="_top"> DGPS.COM </A>
+<p>
+
+
+ 
+ 
+<HR>
+<H3> <A NAME="GPS Parallel Receivers"> GPS Parallel Receivers </A> : </H3>
+<A HREF="#Differential GPS"> Previous Topic </A>.
+<A HREF="#Number of Satellites Required for a Position Fix "> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+Why buy a parallel GPS receiver?
+<p>
+The scanning (multiplexing) GPS receivers (anything with less than
+5 parallel receivers) work reasonably well in marine, desert, or
+other fairly open environments, but can fall on their face amidst
+tall buildings or trees (especially trees with high moisture).
+The reason is that they don't have enough tracking loops to
+dedicate one for each satellite used in the fix, so
+they have to multiplex between the various satellites that are in
+view, and can easily lose satellites when the satellites are
+obstructed, even if its only a momentary obstruction.  Since four
+satellites are needed to get one fix, any receiver with 5 or more
+channels (tracking loops) can use the extra channels to look for
+satellites with better geometry or higher signal-to-noise ratios.
+If using a 12-channel unit, then each channel can be dedicated to
+holding the lock on a particular satellite's signal constantly.
+<p>
+
+For heavy tree foliage, high buildings, or deep canyons, one needs
+units with 5 or more parallel receiving channels (as many channels
+as you can get up to 12).  For marine or
+aviation use, parallel channels are not as important (unless you
+are just a passenger on a commercial airliner and therefore have
+poor sky visibility).  The extra channels not currently being used
+in a fix can either search for new satellites or hold the lock on
+current satellites while the other four provide a good 3-D fix.
+There are three reasons to have more than five channels:
+<p>
+
+1) Extra satellites can be used to reduce SA error by up to 25%
+   according to Apelco/Raytheon.  GPS receiver software must be
+   designed to do this of course.  I've heard that newer Garmins
+   may do this.
+<p>
+
+2) Extra satellites can help give an accurate fix when multipath
+   reflections cause some satellite's signals to be degraded.  The
+   higher S/N ratio signals from the extra satellites will be used
+   for the 3-D fix instead of the lower S/N ratio signals from the
+   multipath reflections.
+<p>
+
+3) Tracking more satellites than are necessary for a solution helps
+   in the case of obstructions, where some of the satellites are
+   temporarily removed from view.  The GPS receiver will merely
+   grab the highest S/N ratio and closest-to-horizon satellites it
+   can for the solution.  If it is tracking more satellites, it has
+   more to choose from.
+<p>
+
+<br>
+Because 12-channel receivers are in the "inexpensive" category now,
+it doesn't make sense to buy anything with fewer channels, unless
+you have very specific needs that aren't met by these units (perhaps
+battery-life or size).  The multiplexing receivers can be compared
+against parallel receivers in terms of signal-to-noise ratio (S/N).
+The multiplexing receivers will appear to have a much lower S/N
+ratio than the parallel receivers.  Good luck getting that kind of
+a figure out of the GPS manufacturers though.
+<p>
+
+
+<HR>
+
+<H3> <A NAME="Number of Satellites Required for a Position Fix"> Number of Satellites Required for a Position Fix </A> : </H3>
+<A HREF="#GPS Parallel Receivers"> Previous Topic </A>.
+<A HREF="#Good Deals"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<br>
+This chart shows how many satellites must be actively tracked in order
+to get a fix.
+
+<pre>
+No. of Satellites	Fix Provided
+-----------------	------------
+2			-none-
+3			Crude 2-D Fix
+4-12			Good 3-D Fix
+</pre>
+
+
+We need one active satellite tracked per unknown variable:  Time,
+latitude, longitude, altitude.  More than 12 channels is wasteful
+because the maximum satellites visible to any earth observer is 12.
+The exception to this is the Glonass/GPS units which track the Russian
+AND the U.S. satellites at the same time in order to get better
+position accuracy or more satellites viewable in questionable areas.
+<p>
+
+Current GPS receivers usually optimize their solution using satellites
+that are closer to the horizon, which makes the 2D position more accurate
+at the expense of altitude readings.  When very low to the horizon however,
+the errors increase due to propagation variations through the atmosphere.
+Most GPS's will have a cutoff angle below which they won't use a satellite
+for these reasons.  Once the satellite rises above this angle, it can be
+used again in the calculations.  This angle varies with the GPS model.
+<p>
+
+Here's something to think about:  A submarine can get an accurate
+fix with only two satellites if it has a $50,000 atomic clock
+connected to the GPS receiver and they assume the altitude to be 0.
+<p>
+
+
+<HR>
+
+
+<H3> <A NAME="Good Deals"> Good Deals </A> : </H3>
+<A HREF="#Number of Satellites Required for a Position Fix "> Previous Topic </A>.
+<A HREF="#Table of GPS Models"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+My interest is in land-based portables and remote sensor units.  Here are my
+current favorites for remote sensor units (must be hooked up to another device
+to be useful, as they have no screen/keyboard).  All have 12-channel receivers:
+<p>
+ 
+<font size = -1>
+<pre>
+	DeLorme Tripmate	$150*	With Delorme Street Atlas USA 4.0
+	Etak Skymap		$250	Mapping system with 12-channel PCMCIA GPS, w/remote
+	Garmin GPS-35PC		$275	Price should be lower now on this one
+</pre>
+</font>
+<p>
+ 
+
+* Warning about Rockwell engines:
+One person has done extensive tests of several models at a fixed,
+surveyed location, and has some surprising results.  Please visit
+<A HREF="http://www.erols.com/dlwilson/gps.html" TARGET="_top"> David Wilson's GPS Page </A>.
+David tested the Eagle Explorer, DeLorme Tripmate, Garmin GPS-12XL,
+GPS-35, and GPS-45, with at least a few more to follow.
+Please examine all available data before making a purchasing
+decision.
+<p>
+
+
+<HR>
+
+
+<H3> <A NAME="Table of GPS Models"> Table of GPS Models (Know of any more?) </A> : </H3>
+<A HREF="#Good Deals"> Previous Topic </A>.
+<A HREF="#General GPS Links"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+NOTE:  For a LARGE list of available GPS units, check out the January
+issue of GPS World magazine.  Over 100 manufacturers listed, and many
+models.  I've been told that ANY January issue will do, but of course
+seek out the latest one.  I'm deleted my table because it was getting
+way to outdated.
+<p>
+
+
+
+
+
+<HR>
+<H3> <A NAME="General GPS Links"> General GPS Links </A> : </H3>
+<A HREF="#Table of GPS Models"> Previous Topic </A>.
+<A HREF="#GPS Vendors"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+	<LI> <A HREF="http://www.joe.mehaffey.com/" TARGET="_top"> Joe and Jack's GPS Information </A>
+	<LI> <A HREF="http://vancouver-webpages.com/peter/index.html" TARGET="_top"> Peter Bennett's Web Pages </A>.  If you haven't visited this site, you don't know much about GPS.
+	<LI> <A HREF="ftp://sundae.triumf.ca/pub/peter/index.html" TARGET="_top">Peter Bennett's FTP directory </A>. (Same info as above, different site, ftp instead of www)
+	<LI> <A HREF="http://www.bridge.de/~tom/garmin.htm" TARGET="_top"> Info on Garmin Units </A>
+	<LI> <A HREF="http://www.nlr.nl/nin/oemtable.htm" TARGET="_top"> Info on embedded GPS units </A>
+	<LI> <A HREF="http://www.teletype.com/gps/links" TARGET="_top"> Other GPS Links </A>
+	<LI> <A HREF="http://www.ron-weber.com/" TARGET="_top"> Eagle GPS Info </A>
+	<LI> <A HREF="http://www.imaginegps.com" TARGET="_top">ImagineGPS.com</A>
+	<LI> <A HREF="http://www.fys.uio.no/~kjetikj/fjellet/GPS1.html#buying" TARGET="_top">GPS Info</A>
+	<LI> <A HREF="http://wwwhost.cc.utexas.edu/ftp/pub/grg/gcraft/notes/coordsys/coordsys.html" TARGET="_top">Coordinate Systems</A>
+        <LI> <A HREF="http://www.cnde.iastate.edu/gps.html" TARGET="_top">Global Positioning System (GPS) Resources</A>
+        <LI> <A HREF="http://www.fys.uio.no/~kjetikj/fjellet/GPS1.html" TARGET="_top">Handheld GPS's in backcountry</A>
+        <LI> <A HREF="http://galaxy.einet.net/editors/john-beadles/introgps.htm" TARGET="_top">Intro to GPS Applications</A>
+        <LI> <A HREF="http://www.abnormal.com/~thogard/" TARGET="_top">Tim Hogard's Home page (Garmin Info) </A>
+        <LI> <A HREF="http://playground.sun.com/pub/soley/garmin.txt" TARGET="_top"> http://playground.sun.com/pub/soley/garmin.txt </A>  (Garmin protocol)
+        <LI> <A HREF="http://www.ll.mit.edu/index.html" TARGET="_top"> http://www.ll.mit.edu/index2.html </A>
+        <LI> <A HREF="http://satnav.atc.ll.mit.edu/gps/images/gps-scat.gif" TARGET="_top">GPS Scatter Plot</A>
+        <LI> <A HREF="http://www.ngs.noaa.gov/CORS/cors-data.html" TARGET="_top"> http://www.ngs.noaa.gov/CORS/cors-data.html </A>
+	<LI> <A HREF="http://www.ngs.noaa.gov" TARGET="_top"> NGS Info </A>
+        <LI> <A HREF="http://www.paranoia.com/~filipg" TARGET="_top"> http://www.paranoia.com/~filipg </A>
+        <LI> <A HREF="http://www.fys.uio.no/~kjetikj/fjellet/GPS1.html" TARGET="_top"> http://www.fys.uio.no/~kjetikj/fjellet/GPS1.html </A>
+        <LI> <A HREF="http://everest.hunter.cuny.edu/gismo/" TARGET="_top"> GISMO Home Page </A>
+        <LI> <A HREF="http://everest.hunter.cuny.edu" TARGET="_top"> http://everest.hunter.cuny.edu </A>
+        <LI> <A HREF="http://www.gpsworld.com" TARGET="_top">GPS World Magazine</A>
+        <LI> <A HREF="http://www.advanstar.com:80/GEO/GPS/Subscribe.html" TARGET="_top">GPS World</A>
+        <LI> <A HREF="http://www.ggrweb.com" TARGET="_top">GeoWeb Interactive</A>
+        <LI> <A HREF="http://www.hit.fi/~ppatama" TARGET="_top">PPatama</A>
+	<LI> <A HREF="http://www.ualberta.ca/~norris/navigation/GPS/PlotSA.html" TARGET="_top"> SA - The Movie </A>
+	<LI> <A HREF="http://www.telson.net" TARGET="_top"> GPS Info </A>
+	<LI> <A HREF="http://www.cacd.rockwell.com/products/pgvplgr.htm" TARGET="_top"> Military GPS Info </A>
+	<LI> <A HREF="http://www.monmouth.army.mil/cecom/lrc/exfor/battle/plgr.html" TARGET="_top"> Military GPS Info </A>
+	<LI> <A HREF="http://www.cacd.rockwell.com/products/pgplgr9.htm" TARGET="_top"> Military GPS Info </A>
+	<LI> <A HREF="http://satnav.atc.ll.mit.edu" TARGET="_top">Satnav</A>
+	<LI> <A HREF="http://sun-valley.Stanford.EDU/projects/helicopters/helicopters.html/info.html#Stats" TARGET="_top"> Stanford Autonomous Helicopter </A>
+	<LI> <A HREF="http://callisto.worldonline.nl/~samsvl" TARGET="_top"> Board Level GPS Receivers </A>
+	<LI> <A HREF="http://www.trimble.com/satview/" TARGET="_top"> Checking Number of Satellites in View </A>
+	<LI> <A HREF="http://sirius.chinalake.navy.mil/cgi-bin/satpred-query" TARGET="_top"> Checking Number of Satellites in View </A>
+	<LI> <A HREF="http://www.cnde.iastate.edu/staff/swormley/gps/satellites.html" TARGET="_top"> Checking Number of Satellites in View </A>
+	<LI> <A HREF="http://users1.ee.net/ptech" TARGET="_top"> NMEA Decoder, speaks to you </A>
+</OL>
+
+
+<HR>
+<H3> <A NAME="GPS Vendors"> GPS Vendors </A> : </H3>
+<A HREF="#General GPS Links"> Previous Topic </A>.
+<A HREF="#GPS Manufacturers"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+	<LI> <A HREF="http://www.einet.net/editors/john-beadles/gps_dis.htm" TARGET="_top">List of GPS Distributors</A>
+	<LI> <A HREF="ftp://aleph.gsfc.nasa.gov/GPS/totally.accurate.clock/tapr-garmin-group-buy.txt" TARGET="_top"> Garmin 8-channel group buy at TAPR </A>
+	<LI> Bass Pro, 1-800-BASS-PRO
+	<LI> <A HREF="http://www.basspro.com" TARGET="_top">Bass Pro Shops</A>
+	<LI> Boat/U.S., 1-800-937-2628
+	<LI> Boater's World, 1-800-826-2628, 206-575-1920?
+	<LI> The Boating Center, 716-385-3060
+	<LI> <A HREF="http://www.cabellas.com" TARGET="_top"> Cabellas </A>, 1-800-237-4444, 308-234-5555 (foreign orders)
+	<LI> <A HREF="http://www.cansel.ca" TARGET="_top"> Cansel.ca </A>
+	<LI> <A HREF="http://www.commsysin.com" TARGET="_top"> CommSystems Intermountain </A>
+	<LI> <A HREF="http://www.dgps.com" TARGET="_top"> DCI </A>
+	<LI> Defender Industries, 1-800-628-8225
+	<LI> E&B Marine, 1-800-533-5007, 908-819-7400
+	<LI> Fred Meyer
+	<LI> <A HREF="http://rampages.onramp.net/~gcraze" TARGET="_top">The Glass Cockpit</A>
+	<LI> <A HREF="http://www.he.net/~redsword/gps/market.htm" TARGET="_top">GPS Marketplace</A>
+	<LI> <A HREF="http://www.gulf-coast-avionics.com" TARGET="_top">Gulf Coast Avionics</A>
+	<LI> Inland Marine, Salem, OR,  1-800-324-1356
+	<LI> <A HREF="http://ares.redsword.com/gps" TARGET="_top"> J. Beadles </A>
+	<LI> <A HREF="http://www.csn.net/~lwjames" TARGET="_top">James Associates</A>, lwjames@csn.net, 303-530-9014 (Garmin Dealer)
+	<LI> K-Mart
+	<LI> <A HREF="http://catalog.com/bahnware/commerce-market/magellan/magellan.html" TARGET="_top">Magellan Systems Corp. Home Page</A>
+	<LI> <A HREF="http://www.gsn.com" TARGET="_top"> MarineNet </A>
+	<LI> <A HREF="http://www.mvangel.com/ham.html" TARGET="_top"> Mathew Vangel and Associates </A> (Garmin Dealer)
+	<LI> <A HREF="http://www.mercat.com" TARGET="_top">Mercat GPS Dealer</A>
+	<LI> <A HREF="http://www.vitinc.com/nn/mud/el/el1.html" TARGET="_top">Mud Hole</A>
+	<LI> <A HREF="http://www.navtechgps.com" TARGET="_top">NavTech</A>
+	<LI> <A HREF="http://www.ncrm.com/" TARGET="_top">North Coast Resource Management </A>
+	<LI> <A HREF="http://www.alaska.net/~avionics/nlahome.html" TARGET="_top">Northern Lights Avionics</A>
+	<LI> <A HREF="http://www.novatel.ca" TARGET="_top"> NoVatel </A>
+	<LI> Offshore Angler, 1-800-4-OFFSHORE
+	<LI> <A HREF="http://www.premier-gps.com" TARGET="_top"> Premier GPS </A>
+	<LI> <A HREF="http://ourworld.compuserve.com/homepages/TT_Designs/ttd.htm" TARGET="_top"> TT Designs </A>
+	<LI> Walmart
+	<LI> <A HREF="http://www.flsun.com/boating/ads/weak_1.htm" TARGET="_top">Weak Industries (Book)</A>
+	<LI> <A HREF="http://www.iwol.com/iww/customers/westmarine" TARGET="_top"> West Marine </A>, 1-800-538-0775, 408-728-2700
+	<LI> Most any marine/camping/hunting supply catalog or store
+	<LI> <A HREF="http://www.gps4fun.com" TARGET="_top"> gps4fun.com </A>
+</OL>
+
+
+
+<HR>
+<H3> <A NAME="GPS Manufacturers"> GPS Manufacturers </A> : </H3>
+<A HREF="#GPS Vendors"> Previous Topic </A>.
+<A HREF="#GPS-Related Software"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+        <LI> <A HREF="http://truegnss.com" TARGET="_top">3S Navigation</A>
+	<LI> <A HREF="http://www.apelco.com" TARGET="_top"> Apelco (Raytheon) </A>
+        <LI> <A HREF="http://www.ashtech.com" TARGET="_top"> Ashtech </A>
+        <LI> <A HREF="http://www.marconi.ca" TARGET="_top">Canadian Marconi</A>
+        <LI> <A HREF="http://www.cmtinc.com" TARGET="_top">Corvallis MicroTechnology</A>
+	<LI> <A HREF="http://www.csi-dgps.com" TARGET="_top"> CSI DGPS </A>
+	<LI> <A HREF="http://www.delorme.com" TARGET="_top"> Delorme </A> (Made by Rockwell?)
+	<LI> <A HREF="http://www.eaglegps.com" TARGET="_top"> Eagle (Lowrance) </A>
+        <LI> <A HREF="http://www.uni.net/eagle" TARGET="_top">Eagle (Lowrance) </A> Italian?
+	<LI> <A HREF="http://www.etak.com/skymap/index.html" TARGET="_top"> Etak </A>
+        <LI> <A HREF="http://www.garmin.com" TARGET="_top"> Garmin, </A> 1-800-800-1020, 913-397-8200, 913-397-8282 (Fax), 913-599-2103 (Fax)
+        <LI> <A HREF="http://www.gec.com" TARGET="_top"> General Electric/GEC-Plessey </A>
+	<LI> II Morrow
+	<LI> Impule (See Uniden)
+	<LI> Koden
+	<LI> Leica
+	<LI> <A HREF="http://lowe.co.uk/" TARGET="_top"> Lowe (Antennas) </A>
+        <LI> <A HREF="http://www.lowrance.com" TARGET="_top"> Lowrance Electronics </A>
+        <LI> <A HREF="http://catalog.com/bahnware/commerce-market/magellan/magellan.html" TARGET="_top"> Magellan </A>
+	<LI> <A HREF="http://www.alloutdoors.com/magellan/" TARGET="_top"> Magellan </A>
+	<LI> Matsushita (See Panasonic)
+	<LI> Micrologic
+	<LI> MLR
+        <LI> <A HREF="http://www.motorola.com" TARGET="_top"> Motorola </A>
+        <LI> <A HREF="http://www.motorola.com/GSTG/" TARGET="_top"> Motorola Government Space and Technology Group </A>
+	<LI> <A HREF="http://mot-sps.com/rf/applications/gps/gps.html" TARGET="_top"> Motorola Oncore GPS Engine </A>
+	<LI> Northstar
+	<LI> NovAtel
+        <LI> <A HREF="http://www.panasonic.com" TARGET="_top"> Panasonic </A>
+        <LI> <A HREF="http://www.premier-gps.com" TARGET="_top"> Premier GPS </A>
+        <LI> <A HREF="http://www.raytheon.com" TARGET="_top"> Raytheon/Apelco </A>
+        <LI> <A HREF="http://www.nb.rockwell.com/pb/dcd_pb.html" TARGET="_top"> Rockwell </A>
+	<LI> <A HREF="http://www.ormtec.demon.co.uk/sercel/sercel.htm" TARGET="_top"> Sercel </A>
+	<LI> Silva
+	<LI> Sitex
+        <LI> <A HREF="http://www.sony.com" TARGET="_top"> Sony </A>
+	<LI> Stanford Telecom
+	<LI> Tigershark
+	<LI> <A HREF="http://www.trimble.com" TARGET="_top">Trimble</A>, 1-800-545-7762
+	<LI> <A HREF="http://www.uniden.com" TARGET="_top"> Uniden/Impulse </A>
+</OL>
+
+
+<HR>
+<H3> <A NAME="GPS-Related Software"> GPS-Related Software </A> : </H3>
+<A HREF="#GPS Manufacturers"> Previous Topic </A>.
+<A HREF="#On-Line Mapping and Waypoint Servers"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+        <LI> <A HREF="http://vancouver-webpages.com/peter/index.html" TARGET="_top"> Peter Bennett's Web Pages </A>.  Don't all searches begin here?
+        <LI> <A HREF="ftp://sundae.triumf.ca/pub/peter/index.html" TARGET="_top">Peter Bennett's FTP directory </A>. (Same info as above, different site, ftp instead of www)
+	<LI> <A HREF="http://www.shareit.com/programs/100431.htm" TARGET="_top"> GARtrip Software </A>
+	<LI> <A HREF="http://www.simtel.net/pub/simtelnet/win3/gis/gart109e.zip" TARGET="_top"> GARtrip (English) </A>
+        <LI> <A HREF="http://www.simtel.net/pub/simtelnet/win3/gis/gart109d.zip" TARGET="_top"> GARtrip (German) </A>
+        <LI> <A HREF="http://www.tu-chemnitz.de/ftp-home/pub/simtelnet/win3/gis/gart109e.zip" TARGET="_top"> GARtrip (English) </A>
+        <LI> <A HREF="http://www.tu-chemnitz.de/ftp-home/pub/simtelnet/win3/gis/gart109d.zip" TARGET="_top"> GARtrip (German) </A>
+	<LI> <A HREF="ftp://col.hp.com/hamradio/packet/wa7tas/gps" TARGET="_top"> G7TO </A>
+        <LI> <A HREF="http://binar.bbn.com/users/grossman" TARGET="_top"> Windows program for Tripmate </A>
+        <LI> <A HREF="http://ourworld.compuserve.com/homepages/rimmer/waypoint.htm" TARGET="_top"> Waypoint+ Software </A>
+        <LI> <A HREF="http://www.chem.ethz.ch/~peny/SGZ/Bonus.html" TARGET="_top">S/W to extract waypoints from Eagle AccuNav WS-1 file</A>
+        <LI> <A HREF="http://vader.castles.com/caveman" TARGET="_top"> GPS Up/Download SW </A>
+        <LI> <A HREF="ftp://sunsite.unc.edu/system/daemons/gpsd-0.9.tgz" TARGET="_top"> GPS Daemon for Linux </A>
+        <LI> <A HREF="http://jeeves.ncsa.uiuc.edu/~chabert/GpsPilot/" TARGET="_top"> GpsPilot, S/W for USR Pilot </A>
+        <LI> <A HREF="http://www.llamas.org/gps" TARGET="_top"> PilotGPS, S/W for USR Pilot </A>
+        <LI> <A HREF="http://www.netcore.com.au/~biochem" TARGET="_top"> Magellan waypoint up/download sw and DOS GPS SW </A>
+        <LI> <A HREF="http://www.abnormal.com/pub/gps/avia_dbm/" TARGET="_top"> Avia SW to maintain aviation databases </A>
+        <LI> <A HREF="hk.linkage.net/~mcoop/MCGPS/MCGPS-FULL.zip" TARGET="_top"> MCGPS </A>
+        <LI> <A HREF="http://www.pinpointsys.com/" TARGET="_top"> PinPoint Systems </A>, and <A HREF="http://www.hamptons.com/pinpoint/" TARGET="_top"> PinPoint Systems (2nd address) </A>
+        <LI> <A HREF="http://www.pobox.com/~jps" TARGET="_top"> Installing SA4 as helper app under Netscape </A>
+        <LI> <A HREF="http://www.anali.demon.co.uk/gardown.htm" TARGET="_top"> Gardown SW </A>
+        <LI> <A HREF="http://www.csn.net/~lwjames/GPSPRO.html" TARGET="_top"> MacGPS Pro SW </A>
+	<LI> <A HREF="http://www.delorme.com/tripagent" TARGET="_top"> Voice I/O for AAA Map 'n' Go and Street Atlas 4.0 </A>
+	<LI> <A HREF="ftp://sunsite.doc.ic.ac.uk/packages/psion" TARGET="_top"> AutoGPS </A> (overlays current location onto AutoRoute)
+	<LI> <A HREF="http://ourworld.compuserve.com/homepages/Jon_Duff/homepage.htm" TARGET="_top"> PsiGar </A> (Psion to Garmin ul/dl waypoints)
+	<LI> <A HREF="http://www.cix.co.uk/~wibble/adhoc/" TARGET="_top"> MM3A </A>
+	<LI> <A HREF="http://ourworld.compuserve.com/homepages/palmtopnl/" TARGET="_top"> En Route </A>
+	<LI> <A HREF="http://www.best.com/~williams/gccalc.htm" TARGET="_top"> JavaScript Distance Calculator </A>
+	<LI> <A HREF="http://www.best.com/~williams/avform.htm" TARGET="_top"> Distance Formulas </A>
+	<LI> <A HREF="http://www.devans.demon.co.uk/speedo.htm" TARGET="_top"> Speak your speed </A>
+	<LI> <A HREF="http://www.geocities.com/SiliconValley/Lakes/9420" TARGET="_top"> AirNav </A>
+	<LI> <A HREF="http://blkbox.com/~hub/gpsdb/" TARGET="_top"> GPSdb </A>
+	<LI> <A HREF="http://www.webcom.com/~criteria/mentorp/garmin.html" TARGET="_top"> Garmin GPS-25/35 control software </A>
+	<LI> <A HREF="http://www.geog.ubc.ca/~amoy/" TARGET="_top"> HP48 -> Garmin SW </A>
+	<LI> <A HREF="http://www.compucat.com.au" TARGET="_top"> Compucat Fleet Tracking System </A>
+	<LI> <A HREF="http://www.morava.com/navigate" TARGET="_top"> Navpak </A>
+	<LI> <A HREF="http://www.gpspilot.com/" TARGET="_top"> SkyDiver Program for PalmPilot </A>
+</OL>
+
+
+<HR>
+<H3> <A NAME="On-Line Mapping and Waypoint Servers"> On-Line Mapping and Waypoint Servers </A> : </H3>
+<A HREF="#GPS-Related Software"> Previous Topic </A>.
+<A HREF="#Mapping Software and Complete Systems"> Next Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+        <LI> <A HREF="http://www.cnde.iastate.edu/staff/swormley/maps/maps_waypoints.html" TARGET="_top"> Map Databases </A>
+	<LI> <A HREF="telnet://martini.eecs.umich.edu:3000" TARGET="_top"> Geographic Name Server </A> (Requires telnet)
+        <LI> <A HREF="http://www.grove.net/~tkelso/NORAD/elements" TARGET="_top"> NORAD Two-line Satellite Orbital Elements</A>
+        <LI> <A HREF="http://bobcat.etsu.edu/gps/" TARGET="_top"> TAMU-Commerce GPS Waypoint Server </A>
+        <LI> <A HREF="http://www.mapsonus.com" TARGET="_top"> Interactive US Maps down to street level w/lat-long (Etak Database) </A>
+        <LI> <A HREF="http://www.kei.com/homepages/ckd/dns-loc/finding.html" TARGET="_top"> Online Mapping </A>
+        <LI> <A HREF="http://www.etakguide.com" TARGET="_top"> Interactive US Maps (ETAK Database) </A>
+	<LI> <A HREF="http://www.census.gov/cgi-bin/gazetteer" TARGET="_top"> US Gazetteer (Tiger Database) </A>
+	<LI> <A HREF="http://www.census.gov/" TARGET="_top"> Tiger Mapping Service </A>
+	<LI> <A HREF="http://www.city.net/indexes/top_maps.html" TARGET="_top"> Interactive Maps </A>
+	<LI> <A HREF="http://www.mapquest.com" TARGET="_top"> Map Quest </A>
+	<LI> <A HREF="http://www.geocode.com/cgi-win/ef.exe" TARGET="_top"> Geocode </A>
+	<LI> <A HREF="http://www.geocode.com/eagle.html-ssi" TARGET="_top"> Geocode </A>
+	<LI> <A HREF="http://www.infoseek.com" TARGET="_top"> Infoseek Street Maps </A> (Click on "Street Maps")
+	<LI> <A HREF="http://www.nima.mil/gns/html/index.html" TARGET="_top"> NIMA Geonet Names Server </A>
+	<LI> <A HREF="http://terraserver.microsoft.com" TARGET="_top"> Terraserver </A>
+</OL>
+
+
+<HR>
+<H3> <A NAME="Mapping Software and Complete Systems"> Mapping Software and Complete Systems </A> : </H3>
+<A HREF="#On-Line Mapping and Waypoint Servers"> Previous Topic </A>.
+<A HREF="gps.html"> Go to Top </A>.
+<p>
+
+<OL>
+	<LI> <A HREF="http://www.telson.net/mapeval.htm" TARGET="_top"> Review of Mapping Software (Telson)</A>
+	<LI> <A HREF="http://www.bridge.de/~tom/garmin.htm" TARGET="_top"> Reviews of Mapping Software </A> (Site in Germany)
+	<LI> <A HREF="http://vancouver-webpages.com/peter/index.html" TARGET="_top"> Reviews of Mapping Software </A> (Peter Bennett's Site)
+	<LI> <A HREF="http://home.earthlink.net/~vpeng/carnav.html" TARGET="_top"> Reviews of Mapping Software </A>
+	<LI> <A HREF="http://http://www.alpine.com.au/promo/promo3.html" TARGET="_top"> Alpine Mapping System </A>
+	<LI> <A HREF="http://www.alpine.co.jp/ave/ae_in001.html" TARGET="_top"> Alpine Mapping System Also </A>
+	<LI> <A HREF="http://www.tapr.org" TARGET="_top"> APRS Info at TAPR </A>
+	<LI> <A HREF="http://aprs.rutgers.edu" TARGET="_top"> APRS SW at Rutgers </A>
+	<LI> <A HREF="http://www.brincad.com/avlis\psoftwar.htm" TARGET="_top"> AVL Fleet Mapping Software </A>
+	<LI> <A HREF="http://www.thecapn.com" TARGET="_top"> Capn SW, supports USGS topo & marine charts </A>
+	<LI> <A HREF="http://www.carin.com" TARGET="_top"> Phillips/Magnavox Carins System </A>
+	<LI> <A HREF="http://www.fet.uni-hannover.de/purnhage/gps/gps.html" TARGET="_top"> CHART </A>
+	<LI> <A HREF="http://www.delorme.com" TARGET="_top"> Delorme AAA MapNGo </A>
+	<LI> <A HREF="http://www.delorme.com" TARGET="_top"> Delorme MapExpert </A>
+	<LI> <A HREF="http://www.delorme.com" TARGET="_top"> Delorme Street Atlas USA </A>
+	<LI> <A HREF="http://www.delorme.com" TARGET="_top"> Delorme 3-D Explorer USA </A>
+	<LI> <A HREF="http://mcmweb.er.usgs.gov/viewers/dem_view.html" TARGET="_top"> Dem3d Viewer (USGS) </A>
+	<LI> <A HREF="http://www.hamilton.lv/dkart/" TARGET="_top"> dKart Navigator </A>
+	<LI> <A HREF="http://mcmcweb.er.usgs.gov/drg/" TARGET="_top"> DRG Maps </A>
+	<LI> <A HREF="http://www.earthvisions.com" TARGET="_top"> Earth Visions topo maps </A>
+	<LI> <A HREF="http://www.diku.dk/users/elgaard/eps/help.html" TARGET="_top"> Elgaard Positioning System </A>
+        <LI> <A HREF="http://www.etak.com/skymap/index.html" TARGET="_top"> Etak Skymap </A>
+	<LI> <A HREF="http://ourworld.compuserve.com/homepages/Fawnbench/" TARGET="_top"> Fawnbench for Psion </A>
+	<LI> <A HREF="http://www.t-online.de/home/flexgps/homepage.htm" TARGET="_top"> FlexGPS </A>
+	<LI> <A HREF="http://www.fugawi.com" TARGET="_top"> Fugawi </A>
+	<LI> <A HREF="http://www.GPSGIS.com" TARGET="_top"> http://www.GPSGIS.com </A>  (GPS-LINK and GPS-MAP software)
+	<LI> <A HREF="ftp://sundae.triumf.ca/pub/peter/gps_glid.zip" TARGET="_top"> GPS Glide, S/W for HPx00LX </A>
+	<LI> <A HREF="http://www.segelflug.de/gps/GPS_Map_e.html" TARGET="_top"> GPSMap </A> (Newton)
+	<LI> <A HREF="http://www.soaring.de/gps/GPS_Map.html" TARGET="_top"> GPSMap </A> (Newton)
+	<LI> <A HREF="http://www.gpspro.com" TARGET="_top"> GpsPro </A>
+	<LI> <A HREF="http://www.gpss.co.uk" TARGET="_top"> GPSS </A>
+	<LI> <A HREF="http://www.gpsy.com" TARGET="_top"> Gpsy (Use with SA3 for Mac) </A>
+	<LI> <A HREF="http://www.netcore.com.au/~biochem/index.html" TARGET="_top"> DOS & Palmtop SW  </A>
+	<LI> <A HREF="http://www.andren.com" TARGET="_top"> LoranGPS SW </A>
+	<LI> <A HREF="http://www.palmtop.net" TARGET="_top"> LXGPS HP100/200LX Moving Map SW </A>
+	<LI> <A HREF="http://www.cas-software.de" TARGET="_top"> Map&Guide </A> (Web page is in German)
+	<LI> <A HREF="http://www.stellarnav.com" TARGET="_top"> MapSite Mapping Software </A>
+	<LI> <A HREF="ftp://ftp.nadn.navy.mil/pub/oceano/microdem" TARGET="_top"> MicroDEM or WinDEM </A>
+	<LI> <A HREF="ftp://ftp.nadn.navy.mil/pub/oceano/website/plghome.htm" TARGET="_top"> MicroDEM or WinDEM </A>
+	<LI> <A HREF="http://www.microplot.co.uk" TARGET="_top"> Microplot </A>
+	<LI> <A HREF="http://www.microsoft.com/automap" TARGET="_top"> Microsoft Automap Streets Plus </A>
+	<LI> <A HREF="http://www.microsoft.com/automap" TARGET="_top"> Microsoft Automap Trip Planner </A>
+	<LI> <A HREF="http://www.microsoft.com/automap" TARGET="_top"> Microsoft Pocket Automap Streets for Windows CE </A>
+	<LI> <A HREF="http://www.microsoft.com/automap" TARGET="_top"> Microsoft AutoRoute for Europe </A>
+	<LI> <A HREF="http://rampages.onramp.net/~gcraze" TARGET="_top"> Moving Map Info (appears to be oriented towards pilots) </A>
+	<LI> <A HREF="http://www.maincourse.com/" TARGET="_top"> Nav Master </A>
+	<LI> <A HREF="http://www.ria.com.au/mp/" TARGET="_top"> Newton SW </A>
+	<LI> <A HREF="http://www.nobeltec.com" TARGET="_top"> NobelTec's Visual Navigation Suite </A>
+	<LI> <A HREF="http://www.powerup.com.au/~lornew/oziexp.html" TARGET="_top"> OziExplorer: GPS Software & Tips </A>
+<LI> <A HREF="http://www.pioneer.co.jp/news/release13.html" TARGET="_top"> Pioneer Navigation System </A>
+	<LI> <A HREF="http://www.chicagomap.com" TARGET="_top"> Precision Mapping </A>
+	<LI> <A HREF="http://3lib.ukonline.co.uk/" TARGET="_top"> Psi-Mapper </A>, SW for Psion PDA's
+	<LI> <A HREF="http://www.randmcnally.com" TARGET="_top"> Rand McNally Street Finder </A>
+	<LI> <A HREF="http://www.liikkuva.com/Products/MetroGuide/MetroGuide.html" TARGET="_top"> Retki Metroguide 2.0 </A>
+	<LI> <A HREF="ftp://ftp.ecst.csuchico.edu/pub/ems/sar/" TARGET="_top"> SARMAP </A>
+	<LI> <A HREF="http://www.tdc.co.uk/psion.htm" TARGET="_top"> TDC for Psion </A>
+	<LI> <A HREF="http://www.teletype.com/gps" TARGET="_top"> Teletype GPS Software </A>
+	<LI> <A HREF="http://www.rmstek.com" TARGET="_top"> Vista </A>
+	<LI> <A HREF="http://www.mayko.com/xmap" TARGET="_top"> Xmap and gpsd daemon </A>
+</OL>
+ 
+ 
+</BODY>
+</html>
+

@@ -1,0 +1,23 @@
+Web-a-toons! 
+
+ Web-a-Toons ! 
+
+Updated twice a week on Mondays and Thursdays
+
+ Your browser MUST support backgrounds, background gifs, transparent gifs, 
+and HTML ~3.0 for any of these web-a-toons to make sense. For best effect,
+ maximize your browser window. You can change the layout of some of these cartoons
+just by scrolling around or resizing the window. 
+
+ Latest Web-a-toon : Southward Bound 
+
+ Web-a-Toon Archive 
+
+ Web-a-toons are a very unique way of creating and presenting cartoons using HTML as a part of the cartoon itself. 
+ More specifically, the cartoons are created by using a mixture of transparent gifs, background images, background colors, and page layout tags.
+ If any one of these elements is missing, the whole cartoon falls apart. Hence these are really web-cartoons or web-a-toons.
+ I have never seen anyone use this process or technique on the web, so I can very much claim to have invented it. (Hopefully it won't be my only claim to fame). 
+
+ Back to main page 
+
+ ( Vikram Madan )

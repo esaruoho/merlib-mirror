@@ -1,0 +1,20 @@
+For MASM programmers 
+
+ For MASM programmers 
+
+ MASM and TASM differences 
+
+Example code has been tested with TASM 4.0 and VC++ 4.0. 
+
+ Changes may be needed to permit assembly by MASM 6+. 
+
+ STRUC may need to be changed to STRUCT (add 'T' at end) 
+
+ EXTRN may need to be changed to EXTERN (add second 'E') 
+
+ EQU may need to be changed to TEXTEQU for text macros 
+
+ LARGE is needed by TASM 4, may need to eliminate for
+MASM 
+
+ Back to Win32 ASM Page.

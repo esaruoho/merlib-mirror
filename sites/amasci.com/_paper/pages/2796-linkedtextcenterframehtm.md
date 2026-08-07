@@ -1,0 +1,19 @@
+---
+title: "LinkedTextCENTERframe.htm"
+source_domain: amasci.com
+source_path: ~dobe/_dobeFrames_REF/LinkedTextCENTERframe.htm
+order: 2796
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:09:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# LinkedTextCENTERframe.htm
+
+*Source page: `~dobe/_dobeFrames_REF/LinkedTextCENTERframe.htm`*
+
+<span class="small">Filename: **"LinkedTextCENTERframe.htm"**\
+Displayed in composite window called from:\
+**0_TOC_Frame_Target_dobeTutAll.htm** in: **(target="CENTER_frame")**</span>

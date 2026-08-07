@@ -1,0 +1,35 @@
+Question 11.20 
+
+ Question 11.20 
+ What are #pragma s 
+and what are they good for?
+
+ The #pragma directive
+
+provides a single, well-defined
+``escape hatch'' which can be used for
+all sorts of
+implementation-specific controls and extensions:
+source listing control,
+structure packing,
+warning suppression
+(like lint 's old /* NOTREACHED */ comments),
+etc.
+
+ References:
+
+ANSI Sec. 3.8.6
+
+ISO Sec. 6.8.6
+
+H&S Sec. 3.7 p. 61
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

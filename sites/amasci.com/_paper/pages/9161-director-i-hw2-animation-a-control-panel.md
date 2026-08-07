@@ -1,0 +1,44 @@
+---
+title: "Director I HW#2: Animation & a control panel"
+source_domain: amasci.com
+source_path: ~turnip/lwtc/assg/Director_HW2.htm
+order: 9161
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Director I HW#2: Animation & a control panel
+
+*Source page: `~turnip/lwtc/assg/Director_HW2.htm`*
+
+**MMDP 125 "Director I"**\
+**Homework \#2: Animation & a Control Panel**
+
+**Due: TBA**\
+**Value: 20 points**
+
+**Your spec:** Your movie should consist of three parts. Part 1 should be an opening title; use animated text & introduce your movie. Part 2 is any animation you want to create! Use pictures, text, anything you like. Tell a short story! Part 3 should be closing credits; again animate these as you see fit.
+
+*If the movie* is rewound and played, the three sections should run, *one after the other*, in an endless loop. Section number one should follow section number three. But - you must also supply some controls which are present *at all times*. This control panel should contain one button for each of the following functions:
+
+- one button to **jump ahead** to the beginning of the next section
+- one button to **skip back** to the beginning of the previous section
+- one button to **rewind** the movie to the beginning
+- one button to **pause** the movie
+- one button to **play** the movie
+
+*Sounds* - please use at least one (1) sound effect somewhere in your movie, and use at least one piece of music to play under the opening titles and/or the closing credits. You can find some sounds in Big Mac:Graphics Courses:Director:Lessons:Samples:Sounsd, or on the 'net. (NOTE: Sound can quickly bloat the size of your movie file! Please don't submit any file larger than 1MB!)
+
+NOTE: No Flash permitted in this assignment!
+
+\*\* GUIDELINES FOR SUBMITTING HOMEWORK ASSIGNMENTS \*\*
+
+Please submit your homework file, on or before the due date, in one of the following ways:
+
+- Upload it to the Director Drop Box on BigMac.
+- Email it to <turnip@eskimo.com> (please zip or stuff it first)
+
+[**Back**](javascript:history.back())

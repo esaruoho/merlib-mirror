@@ -1,0 +1,17 @@
+The Loadlin+Win95/98/ME mini-HOWTO: IMPORTANTE: Informazioni Preliminari E Setup 
+
+ 2. IMPORTANTE: Informazioni Preliminari E Setup 
+
+ 2.1 Prerequisiti: 
+
+ Windows 95/98/ME e' stato installato sul vostro sistema. 
+ Windows 95/98/ME si trova nella partione identificata dalla lettera C (da Windows). 
+ Linux e' stato installato sul vostro sistema con successo. 
+ Sapete in quale partizione Linux si trova sul disco. 
+ LILO NON e' installato sul vostro hard disk.
+
+ 2.2 Di cosa avrete bisogno prima di cominciare: 
+
+ Il programma Loadlin.exe 
+ Un file immagine del kernel, di solito dal nome bzImage or vmlinuz. (Confrontate le 
+ FAQ per maggiori informazioni).

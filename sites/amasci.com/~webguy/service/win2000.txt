@@ -1,0 +1,75 @@
+Windows 2000
+
+Getting 
+Windows 2000 
+on the Local Area Network
+
+Al Wong
+
+January 7, 2004
+
+My Windows 2000 (Win2000) computer has its own LAN card built-in.
+To make the Win2000 computer work on the LAN, 
+do the following:
+
+ Go to My Network Places | Network and Dialup Connections | Network ID. 
+This will bring up the System Properties window.
+Then click the Network ID button to run the 
+ Network Identification Wizard. 
+Choose the second radio option:
+
+This computer is for home use and not part of a business network.
+
+Then click the Next button and choose the radio option:
+
+Users must enter a username and password to use this computer.
+
+Then click the Next button. Then click the Finish button
+to exit the Network Identification Wizard. 
+
+You need to reboot the Win2000 machine now.
+
+ Now do the following. See the Win2000 help for detailed explanations on how-to:
+
+ You need to create a unique name for this computer on the LAN.
+Again, it doesn't matter what it is as long as it's different from
+every other computer on the LAN.
+
+ You need to create a group name. Again, it doesn't matter what it is
+as long as it's the same group name on every computer on the LAN.
+
+ You do not have to create a separate user account for the LAN
+for Win2000.
+It seems the Network Identification Wizard automagically sets this up for you.
+
+ Then you may want to set some folders as Shared in the 
+ File Manager. If you want older versions of Windows (like Windows 3.11)
+to be
+able to access your share folder, make the share folder name 8 characters
+or less.
+
+Please see the 
+
+ICS main webpage
+ regarding firewall information and updates.
+
+ Open a Command Window and type:
+
+ ipconfig /all 
+
+The IP address should be 192.168.0.XXX where XXX is a number other than 1.
+The subnet mask should be 255.255.255.0 .
+Use ipconfig /? to get help on this command.
+
+ The Win2000 computer and shared directories should now be 
+recognized on the LAN.
+Go to My Network Places and click View workgroup computers. 
+This should bring up the other computer names on the LAN.
+
+Internet Connection Sharing
+
+ My Writings 
+
+Last updated : January 7, 2004
+
+Copyright 2004 Al Wong, Los Angeles, California, USA

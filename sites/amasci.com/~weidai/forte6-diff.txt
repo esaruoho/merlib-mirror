@@ -1,0 +1,989 @@
+diff -c release/crypto++4.2/GNUmakefile forte/crypto++4.2/GNUmakefile
+*** release/crypto++4.2/GNUmakefile	Thu Aug 22 16:27:28 2002
+--- forte/crypto++4.2/GNUmakefile	Tue Feb 19 18:32:37 2002
+***************
+*** 1,19 ****
+! # can't use -fno-rtti yet because it causes problems with exception
+! # handling in GCC 2.95.2
+! CXXFLAGS = -g
+! # uncomment the next two lines to do a release build
+! # CXXFLAGS = -O2 -DNDEBUG -ffunction-sections -fdata-sections
+! # LDFLAGS = -Wl,--gc-sections
+! ARFLAGS = -cr	# ar needs the dash on OpenBSD
+! RANLIB = ranlib
+! UNAME = $(shell uname)
+  
+  ifeq ($(UNAME),)	# for DJGPP, where uname doesn't exist
+  CXXFLAGS := $(CXXFLAGS) -mbnu210
+  else
+  CXXFLAGS := $(CXXFLAGS) -pipe
+  endif
+  
+  ifeq ($(UNAME),SunOS)
+  LDLIBS = -lnsl -lsocket
+  endif
+--- 1,33 ----
+! # crypto++ Makefile for gmake
+! # $Id: GNUmakefile,v 1.8 2002/02/19 18:32:37 drl Exp $
+! 
+! ifeq	($(CXX),CC)
+! 
+! #CXXFLAGS = -O2
+! CXXFLAGS = -xO4
+! AR	= CC
+! ARFLAGS	= -xar -o
+! 
+! else
+  
+  ifeq ($(UNAME),)	# for DJGPP, where uname doesn't exist
+  CXXFLAGS := $(CXXFLAGS) -mbnu210
+  else
+  CXXFLAGS := $(CXXFLAGS) -pipe
+  endif
++ ARFLAGS = cr
++ GCCVER	= $(shell gcc --version)
++ ifeq	($(GCCVER),2.96)
++ # cryptest.exe segmentation faults on GCC 2.96 when using -O2
++ CXXFLAGS = -O -w
++ else
++ CXXFLAGS = -O2 -w
++ endif
++ 
++ endif
+  
++ RANLIB = ranlib
++ UNAME = $(shell uname)
+  ifeq ($(UNAME),SunOS)
+  LDLIBS = -lnsl -lsocket
+  endif
+***************
+*** 24,30 ****
+  
+  SRCS = $(wildcard *.cpp)
+  
+! ifeq ($(SRCS),)		# workaround wildcard function bug in GNU Make 3.77
+  SRCS = $(shell ls *.cpp)
+  endif
+  
+--- 38,44 ----
+  
+  SRCS = $(wildcard *.cpp)
+  
+! ifeq ($(SRCS),)				# workaround wildcard function bug in GNU Make 3.77
+  SRCS = $(shell ls *.cpp)
+  endif
+  
+diff -c release/crypto++4.2/bench.cpp forte/crypto++4.2/bench.cpp
+*** release/crypto++4.2/bench.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/bench.cpp	Tue Feb 19 18:32:37 2002
+***************
+*** 80,86 ****
+  static const double CLOCK_TICKS_PER_SECOND = 1000000.0;
+  #endif
+  
+- static const byte *const key=(byte *)"0123456789abcdef000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000";
+  
+  static double logtotal = 0;
+  static unsigned int logcount = 0;
+--- 80,85 ----
+***************
+*** 382,387 ****
+--- 381,387 ----
+  template <class T>
+  void BenchMarkKeyed(const char *name, double timeTotal, T *x=NULL)
+  {
++ 	static const byte * key=(byte *)"0123456789abcdef000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000";
+  	T c(key);
+  	BenchMark(name, c, timeTotal);
+  }
+***************
+*** 390,395 ****
+--- 390,396 ----
+  template <class T>
+  void BenchMarkKeyedVariable(const char *name, double timeTotal, unsigned int keyLength, T *x=NULL)
+  {
++ 	static const byte * key=(byte *)"0123456789abcdef000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000";
+  	T c(key, keyLength);
+  	BenchMark(name, c, timeTotal);
+  }
+***************
+*** 490,495 ****
+--- 491,497 ----
+  	BenchMarkKeyed<ARC4>("ARC4", t);
+  	BenchMarkKeyed<SEAL>("SEAL", t);
+  	{
++ 		static const byte * key=(byte *)"0123456789abcdef000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000";
+  		WAKEEncryption c(key, new BitBucket);
+  		BenchMark("WAKE", c, t);
+  	}
+diff -c release/crypto++4.2/blowfish.cpp forte/crypto++4.2/blowfish.cpp
+*** release/crypto++4.2/blowfish.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/blowfish.cpp	Tue Feb 19 22:04:11 2002
+***************
+*** 29,37 ****
+  
+  	for (i=0; i<ROUNDS; i+=2)
+  		crypt_block(pbox+i, pbox+i+2);
+- 
+  	crypt_block(pbox+ROUNDS, sbox);
+- 
+  	for (i=0; i<4*256-2; i+=2)
+  		crypt_block(sbox+i, sbox+i+2);
+  
+--- 29,35 ----
+diff -c release/crypto++4.2/blowfish.h forte/crypto++4.2/blowfish.h
+*** release/crypto++4.2/blowfish.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/blowfish.h	Tue Feb 19 22:04:11 2002
+***************
+*** 18,24 ****
+  		{Blowfish::ProcessBlock(inoutBlock, inoutBlock);}
+  	void ProcessBlock(const byte *inBlock, byte *outBlock) const;
+  
+! 	enum {ROUNDS=16};
+  
+  private:
+  	void crypt_block(const word32 in[2], word32 out[2]) const;
+--- 18,24 ----
+  		{Blowfish::ProcessBlock(inoutBlock, inoutBlock);}
+  	void ProcessBlock(const byte *inBlock, byte *outBlock) const;
+  
+! 	enum roundsENUM{ROUNDS=16};
+  
+  private:
+  	void crypt_block(const word32 in[2], word32 out[2]) const;
+diff -c release/crypto++4.2/channels.cpp forte/crypto++4.2/channels.cpp
+*** release/crypto++4.2/channels.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/channels.cpp	Mon Jan  7 11:48:40 2002
+***************
+*** 39,46 ****
+  class RouteIterator
+  {
+  public:
+! 	typedef ChannelSwitch::RouteMap::const_iterator MapIterator;
+! 	typedef ChannelSwitch::DefaultRouteList::const_iterator ListIterator;
+  
+  	const std::string m_channel;
+  	bool m_useDefault;
+--- 39,46 ----
+  class RouteIterator
+  {
+  public:
+! 	typedef ChannelSwitch::RouteMap::iterator MapIterator;
+! 	typedef ChannelSwitch::DefaultRouteList::iterator ListIterator;
+  
+  	const std::string m_channel;
+  	bool m_useDefault;
+diff -c release/crypto++4.2/config.h forte/crypto++4.2/config.h
+*** release/crypto++4.2/config.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/config.h	Tue Feb 19 18:32:38 2002
+***************
+*** 4,10 ****
+  // ***************** Important Settings ********************
+  
+  // define this if running on a big-endian CPU
+! #if defined(__sparc__) || defined(__hppa__) || defined(__ppc__) || defined(__mips__) || (defined(__MWERKS__) && !defined(__INTEL__))
+  #define IS_BIG_ENDIAN
+  #endif
+  
+--- 4,10 ----
+  // ***************** Important Settings ********************
+  
+  // define this if running on a big-endian CPU
+! #if defined(__sparc) || defined(__sparc__) || defined(__hppa__) || defined(__PPC__) || defined(__mips__) || (defined(__MWERKS__) && !defined(__INTEL__))
+  #define IS_BIG_ENDIAN
+  #endif
+  
+***************
+*** 78,84 ****
+  typedef unsigned long word32;
+  #endif
+  
+! #if defined(__GNUC__) || defined(__MWERKS__)
+  #define WORD64_AVAILABLE
+  typedef unsigned long long word64;
+  #define W64LIT(x) x##LL
+--- 78,84 ----
+  typedef unsigned long word32;
+  #endif
+  
+! #if defined(__GNUC__) || defined(__MWERKS__) || defined(__SUNPRO_CC)
+  #define WORD64_AVAILABLE
+  typedef unsigned long long word64;
+  #define W64LIT(x) x##LL
+***************
+*** 96,102 ****
+  // word should have the same size as your CPU registers
+  // dword should be twice as big as word
+  
+! #if (defined(__GNUC__) && !defined(__alpha)) || defined(__MWERKS__)
+  typedef unsigned long word;
+  typedef unsigned long long dword;
+  #elif defined(_MSC_VER) || defined(__BCPLUSPLUS__)
+--- 96,102 ----
+  // word should have the same size as your CPU registers
+  // dword should be twice as big as word
+  
+! #if (defined(__GNUC__) && !defined(__alpha)) || defined(__MWERKS__) || defined (__SUNPRO_CC)
+  typedef unsigned long word;
+  typedef unsigned long long dword;
+  #elif defined(_MSC_VER) || defined(__BCPLUSPLUS__)
+Only in release/crypto++4.2: cryptest.dsp
+Only in release/crypto++4.2: cryptest.dsw
+Only in release/crypto++4.2: cryptlib.dsp
+diff -c release/crypto++4.2/cryptlib.h forte/crypto++4.2/cryptlib.h
+*** release/crypto++4.2/cryptlib.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/cryptlib.h	Tue Feb 19 22:04:11 2002
+***************
+*** 115,121 ****
+  class FixedBlockSize : public BlockTransformation
+  {
+  public:
+! 	enum {BLOCKSIZE = N};
+  	virtual unsigned int BlockSize() const {return BLOCKSIZE;}
+  };
+  
+--- 115,121 ----
+  class FixedBlockSize : public BlockTransformation
+  {
+  public:
+! 	enum blocksizeENUM{BLOCKSIZE = N};
+  	virtual unsigned int BlockSize() const {return BLOCKSIZE;}
+  };
+  
+***************
+*** 473,478 ****
+--- 473,482 ----
+  */
+  class PK_CryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  public:
+  	//!
+  	virtual ~PK_CryptoSystem() {}
+***************
+*** 493,498 ****
+--- 497,506 ----
+  */
+  class PK_Encryptor : public virtual PK_CryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  public:
+  	//! encrypt a byte string
+  	/*! Preconditions:
+***************
+*** 511,516 ****
+--- 519,528 ----
+  */
+  class PK_Decryptor : public virtual PK_CryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  public:
+  	//! decrypt a byte string, and return the length of plaintext
+  	/*! Precondition: size of plainText == MaxPlainTextLength(cipherTextLength)
+***************
+*** 532,537 ****
+--- 544,553 ----
+  */
+  class PK_FixedLengthCryptoSystem : public virtual PK_CryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  public:
+  	//!
+  	virtual unsigned int MaxPlainTextLength() const =0;
+***************
+*** 546,557 ****
+--- 562,581 ----
+  
+  class PK_FixedLengthEncryptor : public virtual PK_Encryptor, public virtual PK_FixedLengthCryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  };
+  
+  //! abstract base class for decryptors with fixed length ciphertext
+  
+  class PK_FixedLengthDecryptor : public virtual PK_Decryptor, public virtual PK_FixedLengthCryptoSystem
+  {
++ #ifdef __SUNPRO_CC
++ 	int dummy;
++ #endif
++ 
+  public:
+  	//! decrypt a byte string, and return the length of plaintext
+  	/*! Preconditions:
+diff -c release/crypto++4.2/eccrypto.cpp forte/crypto++4.2/eccrypto.cpp
+*** release/crypto++4.2/eccrypto.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/eccrypto.cpp	Tue Feb 19 18:32:38 2002
+***************
+*** 9,15 ****
+  NAMESPACE_BEGIN(CryptoPP)
+  
+  // VC60 workaround: complains when these functions are put into an anonymous namespace
+! static Integer ConvertToInteger(const PolynomialMod2 &x)
+  {
+  	unsigned int l = x.ByteCount();
+  	SecByteBlock temp(l);
+--- 9,15 ----
+  NAMESPACE_BEGIN(CryptoPP)
+  
+  // VC60 workaround: complains when these functions are put into an anonymous namespace
+! Integer ConvertToInteger(const PolynomialMod2 &x)
+  {
+  	unsigned int l = x.ByteCount();
+  	SecByteBlock temp(l);
+***************
+*** 22,28 ****
+  	return x;
+  }
+  
+! static bool CheckMOVCondition(const Integer &q, const Integer &r)
+  {
+  	Integer t=1;
+  	unsigned int n=q.BitCount(), m=r.BitCount();
+--- 22,28 ----
+  	return x;
+  }
+  
+! bool CheckMOVCondition(const Integer &q, const Integer &r)
+  {
+  	Integer t=1;
+  	unsigned int n=q.BitCount(), m=r.BitCount();
+***************
+*** 90,96 ****
+  	inline bool operator()(const OID& a, const EcRecommendedParameters<T>& b) {return a < b.oid;}
+  };
+  
+! static void GetRecommendedParameters(const EcRecommendedParameters<EC2N> *&begin, const EcRecommendedParameters<EC2N> *&end)
+  {
+  	// this array must be sorted by OID
+  	static const EcRecommendedParameters<EC2N> rec[] = {
+--- 90,96 ----
+  	inline bool operator()(const OID& a, const EcRecommendedParameters<T>& b) {return a < b.oid;}
+  };
+  
+! void GetRecommendedParameters(const EcRecommendedParameters<EC2N> *&begin, const EcRecommendedParameters<EC2N> *&end)
+  {
+  	// this array must be sorted by OID
+  	static const EcRecommendedParameters<EC2N> rec[] = {
+***************
+*** 225,231 ****
+  	end = rec + sizeof(rec)/sizeof(rec[0]);
+  }
+  
+! static void GetRecommendedParameters(const EcRecommendedParameters<ECP> *&begin, const EcRecommendedParameters<ECP> *&end)
+  {
+  	// this array must be sorted by OID
+  	static const EcRecommendedParameters<ECP> rec[] = {
+--- 225,231 ----
+  	end = rec + sizeof(rec)/sizeof(rec[0]);
+  }
+  
+! void GetRecommendedParameters(const EcRecommendedParameters<ECP> *&begin, const EcRecommendedParameters<ECP> *&end)
+  {
+  	// this array must be sorted by OID
+  	static const EcRecommendedParameters<ECP> rec[] = {
+diff -c release/crypto++4.2/haval.cpp forte/crypto++4.2/haval.cpp
+*** release/crypto++4.2/haval.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/haval.cpp	Tue Feb 19 18:32:38 2002
+***************
+*** 43,49 ****
+  	digest[7] = 0xEC4E6C89;
+  }
+  
+! inline void HAVAL::vTransform(const word32 *in)
+  {
+  	if (pass==3)
+  		HAVAL3::Transform(digest, in);
+--- 43,49 ----
+  	digest[7] = 0xEC4E6C89;
+  }
+  
+! void HAVAL::vTransform(const word32 *in)
+  {
+  	if (pass==3)
+  		HAVAL3::Transform(digest, in);
+diff -c release/crypto++4.2/hrtimer.cpp forte/crypto++4.2/hrtimer.cpp
+*** release/crypto++4.2/hrtimer.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/hrtimer.cpp	Tue Feb 19 18:32:38 2002
+***************
+*** 8,13 ****
+--- 8,14 ----
+  #if defined(_WIN32)
+  #include <windows.h>
+  #elif defined(__unix__)
++ #include <stdlib.h>
+  #include <sys/time.h>
+  #elif defined(macintosh)
+  #include <Timer.h>
+diff -c release/crypto++4.2/ida.cpp forte/crypto++4.2/ida.cpp
+*** release/crypto++4.2/ida.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/ida.cpp	Tue Feb 19 18:32:38 2002
+***************
+*** 388,393 ****
+--- 388,395 ----
+  
+  #if defined(_MSC_VER) && !defined(__MWERKS__)		// VC60 workaround
+  	typedef reverse_bidirectional_iterator<const byte *, const byte> rit;
++ #elif defined(__SUNPRO_CC)
++ 	typedef reverse_iterator<const byte *, random_access_iterator_tag, const byte, const byte&, const byte *, ptrdiff_t> rit;
+  #else
+  	typedef reverse_iterator<const byte *> rit;
+  #endif
+diff -c release/crypto++4.2/integer.h forte/crypto++4.2/integer.h
+*** release/crypto++4.2/integer.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/integer.h	Tue Jan  8 18:10:13 2002
+***************
+*** 324,330 ****
+  		//! calculate multiplicative inverse of *this mod n
+  		Integer InverseMod(const Integer &n) const;
+  		//!
+! 		word InverseMod(word n) const;
+  	//@}
+  
+  	//! \name INPUT/OUTPUT
+--- 324,330 ----
+  		//! calculate multiplicative inverse of *this mod n
+  		Integer InverseMod(const Integer &n) const;
+  		//!
+! 		word InverseMod(const word n) const;
+  	//@}
+  
+  	//! \name INPUT/OUTPUT
+diff -c release/crypto++4.2/lubyrack.h forte/crypto++4.2/lubyrack.h
+*** release/crypto++4.2/lubyrack.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/lubyrack.h	Tue Feb 19 22:04:11 2002
+***************
+*** 20,26 ****
+  protected:
+  	LRBase(const byte *userKey, unsigned int keyLen);
+  
+! 	enum {S=T::DIGESTSIZE};
+  	const unsigned int L;	// key length / 2
+  	SecByteBlock key;
+  
+--- 20,26 ----
+  protected:
+  	LRBase(const byte *userKey, unsigned int keyLen);
+  
+! 	enum sENUM{S=T::DIGESTSIZE};
+  	const unsigned int L;	// key length / 2
+  	SecByteBlock key;
+  
+diff -c release/crypto++4.2/luc.cpp forte/crypto++4.2/luc.cpp
+*** release/crypto++4.2/luc.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/luc.cpp	Mon Jan  7 11:48:40 2002
+***************
+*** 11,17 ****
+  
+  NAMESPACE_BEGIN(CryptoPP)
+  
+! INSTANTIATE_PUBKEY_TEMPLATES_MACRO(OAEP<SHA>, PKCS_SignaturePaddingScheme, LUCFunction, InvertibleLUCFunction);
+  
+  LUCFunction::LUCFunction(BufferedTransformation &bt)
+  {
+--- 11,17 ----
+  
+  NAMESPACE_BEGIN(CryptoPP)
+  
+! INSTANTIATE_PUBKEY_TEMPLATES_MACRO(OAEP<SHA>, PKCS_SignaturePaddingScheme, LUCFunction, InvertibleLUCFunction)
+  
+  LUCFunction::LUCFunction(BufferedTransformation &bt)
+  {
+diff -c release/crypto++4.2/misc.h forte/crypto++4.2/misc.h
+*** release/crypto++4.2/misc.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/misc.h	Tue Feb 19 18:32:38 2002
+***************
+*** 328,451 ****
+  #endif
+  }
+  
+  // Fetch 2 words from user's buffer into "a", "b" in LITTLE-endian order
+  template <class T>
+  inline void GetBlockLittleEndian(const byte *block, T &a, T &b)
+  {
+! #ifdef IS_LITTLE_ENDIAN
+! 	a = ((T *)block)[0];
+! 	b = ((T *)block)[1];
+! #else
+! 	a = byteReverse(((T *)block)[0]);
+! 	b = byteReverse(((T *)block)[1]);
+! #endif
+  }
+  
+  // Put 2 words back into user's buffer in LITTLE-endian order
+  template <class T>
+  inline void PutBlockLittleEndian(byte *block, T a, T b)
+  {
+! #ifdef IS_LITTLE_ENDIAN
+! 	((T *)block)[0] = a;
+! 	((T *)block)[1] = b;
+! #else
+! 	((T *)block)[0] = byteReverse(a);
+! 	((T *)block)[1] = byteReverse(b);
+! #endif
+  }
+  
+  // Fetch 4 words from user's buffer into "a", "b", "c", "d" in LITTLE-endian order
+  template <class T>
+  inline void GetBlockLittleEndian(const byte *block, T &a, T &b, T &c, T &d)
+  {
+! #ifdef IS_LITTLE_ENDIAN
+! 	a = ((T *)block)[0];
+! 	b = ((T *)block)[1];
+! 	c = ((T *)block)[2];
+! 	d = ((T *)block)[3];
+! #else
+! 	a = byteReverse(((T *)block)[0]);
+! 	b = byteReverse(((T *)block)[1]);
+! 	c = byteReverse(((T *)block)[2]);
+! 	d = byteReverse(((T *)block)[3]);
+! #endif
+  }
+  
+  // Put 4 words back into user's buffer in LITTLE-endian order
+  template <class T>
+  inline void PutBlockLittleEndian(byte *block, T a, T b, T c, T d)
+  {
+! #ifdef IS_LITTLE_ENDIAN
+! 	((T *)block)[0] = a;
+! 	((T *)block)[1] = b;
+! 	((T *)block)[2] = c;
+! 	((T *)block)[3] = d;
+! #else
+! 	((T *)block)[0] = byteReverse(a);
+! 	((T *)block)[1] = byteReverse(b);
+! 	((T *)block)[2] = byteReverse(c);
+! 	((T *)block)[3] = byteReverse(d);
+! #endif
+  }
+  
+  // Fetch 2 words from user's buffer into "a", "b" in BIG-endian order
+  template <class T>
+  inline void GetBlockBigEndian(const byte *block, T &a, T &b)
+  {
+! #ifndef IS_LITTLE_ENDIAN
+! 	a = ((T *)block)[0];
+! 	b = ((T *)block)[1];
+! #else
+! 	a = byteReverse(((T *)block)[0]);
+! 	b = byteReverse(((T *)block)[1]);
+! #endif
+  }
+  
+  // Put 2 words back into user's buffer in BIG-endian order
+  template <class T>
+  inline void PutBlockBigEndian(byte *block, T a, T b)
+  {
+! #ifndef IS_LITTLE_ENDIAN
+! 	((T *)block)[0] = a;
+! 	((T *)block)[1] = b;
+! #else
+! 	((T *)block)[0] = byteReverse(a);
+! 	((T *)block)[1] = byteReverse(b);
+! #endif
+  }
+  
+  // Fetch 4 words from user's buffer into "a", "b", "c", "d" in BIG-endian order
+  template <class T>
+  inline void GetBlockBigEndian(const byte *block, T &a, T &b, T &c, T &d)
+  {
+! #ifndef IS_LITTLE_ENDIAN
+! 	a = ((T *)block)[0];
+! 	b = ((T *)block)[1];
+! 	c = ((T *)block)[2];
+! 	d = ((T *)block)[3];
+! #else
+! 	a = byteReverse(((T *)block)[0]);
+! 	b = byteReverse(((T *)block)[1]);
+! 	c = byteReverse(((T *)block)[2]);
+! 	d = byteReverse(((T *)block)[3]);
+! #endif
+  }
+  
+  // Put 4 words back into user's buffer in BIG-endian order
+  template <class T>
+  inline void PutBlockBigEndian(byte *block, T a, T b, T c, T d)
+  {
+! #ifndef IS_LITTLE_ENDIAN
+! 	((T *)block)[0] = a;
+! 	((T *)block)[1] = b;
+! 	((T *)block)[2] = c;
+! 	((T *)block)[3] = d;
+! #else
+! 	((T *)block)[0] = byteReverse(a);
+! 	((T *)block)[1] = byteReverse(b);
+! 	((T *)block)[2] = byteReverse(c);
+! 	((T *)block)[3] = byteReverse(d);
+! #endif
+  }
+  
+  template <class T>
+--- 328,441 ----
+  #endif
+  }
+  
++ // Fetch a word in little-endian order.
++ template <class T>
++ inline void GetWordLittleEndian(const byte *block, T &w)
++ {
++   for (size_t i = sizeof(T); i;)
++     w = (w << 8) | (byte)block[--i];
++ }
++ 
++ // Fetch a word in big-endian order.
++ template <class T>
++ inline void GetWordBigEndian(const byte *block, T &w)
++ {
++   for (size_t i = 0; i < sizeof(T); i++)
++     w = (w << 8) | (byte)block[i];
++ }
++ 
++ // Put a word in little-endian order.
++ template <class T>
++ inline void PutWordLittleEndian(byte *block, T &w)
++ {
++   for (size_t i = 0; i < sizeof(T); i++)
++   {
++     block[i] = (byte)w;
++     w >>= 8;
++   }
++ }
++ 
++ // Put a word in big-endian order.
++ template <class T>
++ inline void PutWordBigEndian(byte *block, T &w)
++ {
++   for (size_t i = sizeof(T); i;)
++   {
++     block[--i] = (byte)w;
++     w >>= 8;
++   }
++ }
++ 
+  // Fetch 2 words from user's buffer into "a", "b" in LITTLE-endian order
+  template <class T>
+  inline void GetBlockLittleEndian(const byte *block, T &a, T &b)
+  {
+!   GetWordLittleEndian(block, a);
+!   GetWordLittleEndian(block + sizeof(T), b);
+  }
+  
+  // Put 2 words back into user's buffer in LITTLE-endian order
+  template <class T>
+  inline void PutBlockLittleEndian(byte *block, T a, T b)
+  {
+!   PutWordLittleEndian(block, a);
+!   PutWordLittleEndian(block + sizeof(T), b);
+  }
+  
+  // Fetch 4 words from user's buffer into "a", "b", "c", "d" in LITTLE-endian order
+  template <class T>
+  inline void GetBlockLittleEndian(const byte *block, T &a, T &b, T &c, T &d)
+  {
+!   GetWordLittleEndian(block, a);
+!   GetWordLittleEndian(block + 1*sizeof(T), b);
+!   GetWordLittleEndian(block + 2*sizeof(T), c);
+!   GetWordLittleEndian(block + 3*sizeof(T), d);
+  }
+  
+  // Put 4 words back into user's buffer in LITTLE-endian order
+  template <class T>
+  inline void PutBlockLittleEndian(byte *block, T a, T b, T c, T d)
+  {
+!   PutWordLittleEndian(block, a);
+!   PutWordLittleEndian(block + 1*sizeof(T), b);
+!   PutWordLittleEndian(block + 2*sizeof(T), c);
+!   PutWordLittleEndian(block + 3*sizeof(T), d);
+  }
+  
+  // Fetch 2 words from user's buffer into "a", "b" in BIG-endian order
+  template <class T>
+  inline void GetBlockBigEndian(const byte *block, T &a, T &b)
+  {
+!   GetWordBigEndian(block, a);
+!   GetWordBigEndian(block + sizeof(T), b);
+  }
+  
+  // Put 2 words back into user's buffer in BIG-endian order
+  template <class T>
+  inline void PutBlockBigEndian(byte *block, T a, T b)
+  {
+!   PutWordBigEndian(block, a);
+!   PutWordBigEndian(block + sizeof(T), b);
+  }
+  
+  // Fetch 4 words from user's buffer into "a", "b", "c", "d" in BIG-endian order
+  template <class T>
+  inline void GetBlockBigEndian(const byte *block, T &a, T &b, T &c, T &d)
+  {
+!   GetWordBigEndian(block, a);
+!   GetWordBigEndian(block + 1*sizeof(T), b);
+!   GetWordBigEndian(block + 2*sizeof(T), c);
+!   GetWordBigEndian(block + 3*sizeof(T), d);
+  }
+  
+  // Put 4 words back into user's buffer in BIG-endian order
+  template <class T>
+  inline void PutBlockBigEndian(byte *block, T a, T b, T c, T d)
+  {
+!   PutWordBigEndian(block, a);
+!   PutWordBigEndian(block + 1*sizeof(T), b);
+!   PutWordBigEndian(block + 2*sizeof(T), c);
+!   PutWordBigEndian(block + 3*sizeof(T), d);
+  }
+  
+  template <class T>
+diff -c release/crypto++4.2/modes.cpp forte/crypto++4.2/modes.cpp
+*** release/crypto++4.2/modes.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/modes.cpp	Wed Jan  9 15:22:33 2002
+***************
+*** 38,44 ****
+  void CFBEncryption::ProcessString(byte *inoutString, unsigned int length)
+  {
+  	while(length--)
+! 		*inoutString++ = CFBEncryption::ProcessByte(*inoutString);
+  }
+  
+  void CFBDecryption::ProcessString(byte *outString, const byte *inString, unsigned int length)
+--- 38,48 ----
+  void CFBEncryption::ProcessString(byte *inoutString, unsigned int length)
+  {
+  	while(length--)
+! 	{
+! 		// Separated post-increment to avoid Forte compiler bug.
+! 		*inoutString = CFBEncryption::ProcessByte(*inoutString);
+! 		inoutString++;
+! 	}
+  }
+  
+  void CFBDecryption::ProcessString(byte *outString, const byte *inString, unsigned int length)
+***************
+*** 50,56 ****
+  void CFBDecryption::ProcessString(byte *inoutString, unsigned int length)
+  {
+  	while(length--)
+! 		*inoutString++ = CFBDecryption::ProcessByte(*inoutString);
+  }
+  
+  void OFB::ProcessString(byte *outString, const byte *inString, unsigned int length)
+--- 54,64 ----
+  void CFBDecryption::ProcessString(byte *inoutString, unsigned int length)
+  {
+  	while(length--)
+! 	{
+! 		// Separated post-increment to avoid Forte compiler bug.
+! 		*inoutString = CFBDecryption::ProcessByte(*inoutString);
+! 		inoutString++;
+! 	}
+  }
+  
+  void OFB::ProcessString(byte *outString, const byte *inString, unsigned int length)
+diff -c release/crypto++4.2/panama.h forte/crypto++4.2/panama.h
+*** release/crypto++4.2/panama.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/panama.h	Tue Feb 19 18:32:40 2002
+***************
+*** 53,63 ****
+  	enum {HIGHFIRST = H, IVLENGTH = 32};
+  	PanamaCipher(const byte *key, const byte *iv=NULL);
+  
+- 	byte ProcessByte(byte input)
+- 		{PanamaCipher::ProcessString(&input, &input, 1); return input;}
+- 	void ProcessString(byte *inoutString, unsigned int length)
+- 		{PanamaCipher::ProcessString(inoutString, inoutString, length);}
+  	void ProcessString(byte *outString, const byte *inString, unsigned int length);
+  
+  protected:
+  	inline static void CorrectEndianess(word32 *out, const word32 *in, unsigned int byteCount)
+--- 53,63 ----
+  	enum {HIGHFIRST = H, IVLENGTH = 32};
+  	PanamaCipher(const byte *key, const byte *iv=NULL);
+  
+  	void ProcessString(byte *outString, const byte *inString, unsigned int length);
++ 	void ProcessString(byte *inoutString, unsigned int length)
++ 		{ProcessString(inoutString, inoutString, length);}
++ 	byte ProcessByte(byte input)
++ 		{ProcessString(&input, &input, 1); return input;}
+  
+  protected:
+  	inline static void CorrectEndianess(word32 *out, const word32 *in, unsigned int byteCount)
+diff -c release/crypto++4.2/sha.h forte/crypto++4.2/sha.h
+*** release/crypto++4.2/sha.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/sha.h	Tue Feb 19 22:04:11 2002
+***************
+*** 9,15 ****
+  class SHA : public IteratedHash<word32, true, 64>
+  {
+  public:
+! 	enum {DIGESTSIZE = 20};
+  	SHA() : IteratedHash<word32, true, 64>(DIGESTSIZE) {Init();}
+  	static void Transform(word32 *digest, const word32 *data);
+  
+--- 9,15 ----
+  class SHA : public IteratedHash<word32, true, 64>
+  {
+  public:
+! 	enum digestsizeENUM{DIGESTSIZE = 20};
+  	SHA() : IteratedHash<word32, true, 64>(DIGESTSIZE) {Init();}
+  	static void Transform(word32 *digest, const word32 *data);
+  
+diff -c release/crypto++4.2/shark.h forte/crypto++4.2/shark.h
+*** release/crypto++4.2/shark.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/shark.h	Tue Feb 19 22:04:11 2002
+***************
+*** 17,23 ****
+  class SHARKBase : public FixedBlockSize<8>, public VariableKeyLength<16, 1, 16>
+  {
+  public:
+! 	enum {DEFAULT_ROUNDS=6};
+  
+  protected:
+  	static void InitEncryptionRoundKeys(const byte *key, unsigned int keyLen, unsigned int rounds, word64 *roundkeys);
+--- 17,23 ----
+  class SHARKBase : public FixedBlockSize<8>, public VariableKeyLength<16, 1, 16>
+  {
+  public:
+! 	enum default_roundsENUM{DEFAULT_ROUNDS=6};
+  
+  protected:
+  	static void InitEncryptionRoundKeys(const byte *key, unsigned int keyLen, unsigned int rounds, word64 *roundkeys);
+diff -c release/crypto++4.2/skipjack.cpp forte/crypto++4.2/skipjack.cpp
+*** release/crypto++4.2/skipjack.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/skipjack.cpp	Mon Jan  7 11:48:40 2002
+***************
+*** 81,87 ****
+  	/* tab[i][c] = fTable[c ^ key[i]] */
+  	int i;
+  	for (i = 0; i < 10; i++) {
+! 		byte *t = tab[i], k = key[i];
+  		int c;
+  		for (c = 0; c < 256; c++) {
+  			t[c] = fTable[c ^ k];
+--- 81,87 ----
+  	/* tab[i][c] = fTable[c ^ key[i]] */
+  	int i;
+  	for (i = 0; i < 10; i++) {
+! 		byte *t = (unsigned char *)tab[i], k = key[i];
+  		int c;
+  		for (c = 0; c < 256; c++) {
+  			t[c] = fTable[c ^ k];
+diff -c release/crypto++4.2/square.h forte/crypto++4.2/square.h
+*** release/crypto++4.2/square.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/square.h	Tue Feb 19 22:04:11 2002
+***************
+*** 15,21 ****
+  class SquareBase : public FixedBlockSize<16>, public FixedKeyLength<16>
+  {
+  public:
+! 	enum {ROUNDS=8};
+  
+  protected:
+  	SquareBase(const byte *userKey, CipherDir dir);
+--- 15,21 ----
+  class SquareBase : public FixedBlockSize<16>, public FixedKeyLength<16>
+  {
+  public:
+! 	enum roundsENUM{ROUNDS=8};
+  
+  protected:
+  	SquareBase(const byte *userKey, CipherDir dir);
+diff -c release/crypto++4.2/validat1.cpp forte/crypto++4.2/validat1.cpp
+*** release/crypto++4.2/validat1.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/validat1.cpp	Tue Feb 19 18:32:40 2002
+***************
+*** 116,123 ****
+  	bool pass = true;
+  
+  	cout << "\nTesting Settings...\n\n";
+  
+! 	if (*(word32 *)"\x01\x02\x03\x04" == 0x04030201L)
+  	{
+  #ifdef IS_LITTLE_ENDIAN
+  		cout << "passed:  ";
+--- 116,126 ----
+  	bool pass = true;
+  
+  	cout << "\nTesting Settings...\n\n";
++         word32 x;
++         char *cpx = (char *)&x;
++         memcpy(cpx, "\x01\x02\x03\x04", 4);
+  
+! 	if (x == 0x04030201L)
+  	{
+  #ifdef IS_LITTLE_ENDIAN
+  		cout << "passed:  ";
+***************
+*** 127,133 ****
+  #endif
+  		cout << "Your machine is little endian.\n";
+  	}
+! 	else if (*(word32 *)"\x01\x02\x03\x04" == 0x01020304L)
+  	{
+  #ifndef IS_LITTLE_ENDIAN
+  		cout << "passed:  ";
+--- 130,136 ----
+  #endif
+  		cout << "Your machine is little endian.\n";
+  	}
+! 	else if (x == 0x01020304L)
+  	{
+  #ifndef IS_LITTLE_ENDIAN
+  		cout << "passed:  ";
+diff -c release/crypto++4.2/zdeflate.cpp forte/crypto++4.2/zdeflate.cpp
+*** release/crypto++4.2/zdeflate.cpp	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/zdeflate.cpp	Tue Feb 19 18:32:40 2002
+***************
+*** 570,575 ****
+--- 570,577 ----
+  			SecBlock<unsigned int> literalCodeLengths(286), distanceCodeLengths(30);
+  #if defined(_MSC_VER) && !defined(__MWERKS__)		// VC60 workaround
+  			typedef reverse_bidirectional_iterator<unsigned int *, unsigned int> RevIt;
++ #elif defined(__SUNPRO_CC)
++ 			typedef reverse_iterator<unsigned int *, random_access_iterator_tag, unsigned int, unsigned int&, unsigned int *, ptrdiff_t> RevIt;
+  #else
+  			typedef reverse_iterator<unsigned int *> RevIt;
+  #endif
+diff -c release/crypto++4.2/zinflate.h forte/crypto++4.2/zinflate.h
+*** release/crypto++4.2/zinflate.h	Thu Aug 22 16:24:22 2002
+--- forte/crypto++4.2/zinflate.h	Tue Feb 19 18:32:40 2002
+***************
+*** 41,48 ****
+  	void Initialize(const unsigned int *codeBits, unsigned int nCodes);
+  	unsigned int Decode(code_t code, /* out */ value_t &value) const;
+  	bool Decode(LowFirstBitReader &reader, value_t &value) const;
+- 
+- private:
+  	struct CodeInfo
+  	{
+  		CodeInfo(code_t code=0, unsigned int len=0, value_t value=0) : code(code), len(len), value(value) {}
+--- 41,46 ----
+***************
+*** 52,58 ****
+  		unsigned int len;
+  		value_t value;
+  	};
+! 
+  	struct LookupEntry
+  	{
+  		unsigned int type;
+--- 50,56 ----
+  		unsigned int len;
+  		value_t value;
+  	};
+! private:
+  	struct LookupEntry
+  	{
+  		unsigned int type;

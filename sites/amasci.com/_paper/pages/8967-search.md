@@ -1,0 +1,38 @@
+---
+title: "Search"
+source_domain: amasci.com
+source_path: ~telical/search.htm
+order: 8967
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:16:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Search
+
+*Source page: `~telical/search.htm`*
+
+Search
+
+------------------------------------------------------------------------
+
+The "Search" menu includes "Find," "Replace," and "Next." "Find" allows you to find a word or any occurrence of words. "Replace" allows you to find a certain word or occurrence of words and replace them with new ones. This can be very useful in ParaMind. "Next" allows you to move from occurrence to occurrence.
+
+One feature that can be used with great effect is the "Search" functions. What might look like a useless ParaMind page can be fixed easily with the "Search-Replace" routine. You can also turn adjective Word Categories into adverbs by adding an "-ly" next to them, and change present tense verbs into past tense by adding an "-ed". Sometimes you may want to even create a type of grammatical shorthand by adding other suffixes or prefixes that might look like typographical errors but put things in better context for you.
+
+For instance, if one has a verb that is written in the Word Categories in the singular, one can use the "Replace" to make those verbs into plurals. First merge with a word using it as an adjective, or have another word as a reference around it that will be repeated in each section. Then use that reference word for the word to search for in "Replace." Put the word plus an "s" to be replaced. The result will be something like this:
+
+\
+This is the cutest little program around because of the way it increases ideas.\
+This is the cutest little program around because of the way it enlarges ideas.\
+This is the cutest little program around because of the way it advances ideas.\
+This is the cutest little program around because of the way it rises ideas.\
+This is the cutest little program around because of the way it mounts ideas.
+
+Then take out the space next to the "s" and the word it is pluralizing by looking for a " s" (that is a space and a "s") and replacing that with a "s" that will very effectively take out the spaces, and you will have salvaged a file.
+
+[Search And Replace](searchrep.htm)
+
+Use your back button or click here for [Table of Contents Page](contents.htm)

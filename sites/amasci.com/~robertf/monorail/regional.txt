@@ -1,0 +1,195 @@
+Proposed Seattle Area Regional Monorail 
+
+ Proposed Seattle Area Regional Monorail 
+
+ The Fleming Family home page 
+
+ Mass transit home page 
+
+ The Seattle Monorail Project 
+
+ Green Line travel times and distances 
+
+ Jump Start Blue Line (Get to Shoreline Faster) 
+
+ A table comparing light rail and monorail 
+
+ Link Monorail (not light rail) 
+
+ Arguments against monorail and my responses 
+
+ My opinions regarding priorities 
+
+ My ideas for monorail system design 
+
+ My ideas for routes 
+
+ (PRT) Personal Rapid Transit 
+
+ Vocabulary 
+
+ Frequently asked questions 
+
+ Links to other monorail sites 
+
+ Contact me 
+
+My name is Bob Fleming, and I believe strongly that the Seattle area needs 
+a good high-speed rapid transit system as the basic backbone network for a 
+more complex system of public transportation. This backbone would consist of 
+high-speed links serving the busiest transit corridors. 
+
+The characteristics of the high-speed network would be high speed and high
+capacity trains operating over fixed routes at high frequency, so that 
+during most of the day riders would have to wait no more than a few minutes 
+to catch a train.
+
+My proposed high-speed backbone network would be monorail, because of the 
+advantages of monorail over other forms of transportation in this kind of 
+service.
+
+ LOCAL GEOGRAPHY: For those unfamiliar with the geography of the area 
+around Seattle, I will give a quick description. Yes, a map would be 
+invaluable here, but so far I don't have the technical means to produce 
+maps for web pages (the few maps I have on this site were copied from other 
+sources -- I can't create my own.)
+
+The City of Seattle is located on the eastern shore of Puget Sound, a long 
+arm of the Pacific Ocean in western Washington State, in the northwestern 
+part of The United States. The part of Puget Sound near Seattle runs north 
+and south.
+
+On the east side of Seattle is Lake Washington, a fairly large lake also 
+running primarily north and south. Puget Sound and Lake Washington are only 
+a few miles apart, and Seattle fills much of the space between the two 
+bodies of water.
+
+Seattle has a population of about 550,000. About 30 miles north of Seattle 
+is Everett, with a population of about 50,000. About 30 miles south of 
+Seattle is Tacoma, with about 200,000 people. Of course there a a number of 
+smaller cities and towns in between these three cities.
+
+East of Seattle, across Lake Washington, are several other cities and towns. 
+Because this area is on the east side of Lake Washington, it is commonly 
+called &ldquo;The Eastside&rdquo;. The largest city on the Eastside is 
+Bellevue, with over 50,000 people, but Kirkland, Redmond, and Issaquah are 
+also significant.
+
+Seattle is located in King County. The next county north is Snohomish 
+County, with Everett, and the next county south is Pierce County, with 
+Tacoma.
+
+ RESPONSIBILITY FOR THE PROPOSED REGIONAL MONORAIL SYSTEM: There is 
+already an agency set up for building and operating a regional transit 
+system. Sound Transit is the common name for the agency. Sound Transit 
+already operates a fleet of express buses throughout the region and a 
+limited commuter rail service between Tacoma, Seattle, and Everett. Sound Transit also operates a short light rail line in Tacoma and is building a light rail line in Seattle.
+
+Sound Transit is the logical and appropriate organization to build and 
+operate a regional monorail system. Unfortunately, the agency is 
+committed to light rail and refuses to consider monorail in its plan. As a 
+result, the citizens of Seattle have voted to build their own monorail 
+line, and there is now a movement to build other lines between Seattle and 
+some suburbs and between some of the suburbs. There have also been other 
+proposals for monorail lines elsewhere in the region. If this trend 
+continues we are going to have several different agencies operating monorail 
+lines.
+
+In order for everything to work together efficiently, I think eventually we 
+need to consolidate all monorail and other regional transit systems into 
+one agency, and Sound Transit is the logical agency to do the job. But 
+first there needs to be a change in its leadership to accept monorail as a
+viable alternative to light rail.
+
+ PRIMARY ROUTES: Primary routes would form the main backbone network, 
+and would serve the highest volume routes.
+
+The most important regional route would run north and 
+south through Everett, Seattle, and Tacoma. From Downtown Seattle, it would 
+go north mostly along Aurora Avenue North through Seattle and Shoreline, and 
+in Snohomish County would follow Highway 99 through Edmonds and Lynnwood, and 
+would continue on through Everett to Marysville. Going south from Downtown 
+Seattle, it would follow Highway 99 to SeaTac Airport, and continue on along 
+Highway 99 through Federal Way, Fife, Tacoma, and beyond. The Seattle 
+Monorail Project&rsquo;s Blue Line would probably be part of this route.
+
+Another primary route would follow roughly along Interstate 90 from Downtown 
+Seattle through Mercer Island, Factoria, and Issaquah.
+
+Another primary route would go from Downtown Seattle north through the 
+University District, Lake City, Lake Forest Park, Kenmore, Bothell, and 
+Woodinville.
+
+Another primary route would go southeast from Downtown Seattle through the 
+Rainier Valley district to Renton.
+
+Another primary route would go from Bothell/Woodinville through Kirkland, 
+Bellevue, and Newcastle to Renton, then west through Tukwila, including a 
+station at Southcenter Mall, to Burien.
+
+Another primary route would go from Seattle via Highway 520 through north 
+Bellevue to Redmond.
+
+ SECONDARY ROUTES: Secondary routes are important routes with lower 
+ridership than the primary routes, and generally shorter in length.
+
+Secondary routes would include the Seattle 
+Monorail Project&rsquo;s Green Line with extension, from West Seattle to 
+Downtown Seattle, then north to Ballard and Crown Hill, then east to 
+Northgate and Lake City.
+
+Another secondary route would go from Downtown Bellevue northeast along 
+Bel-Red Road to Redmond.
+
+Another secondary route would go from the southwest corner of Boeing Field 
+(connecting with the Highway 99 route) and take Interurban Avenue South to 
+Tukwila and then south roughly along the West Valley Highway through Kent, 
+Auburn, and Sumner to Puyallup, then west to Tacoma.
+
+ TERTIARY ROUTES: Tertiary routes are shorter routes, generally with 
+lower ridership, to fill in some important gaps in the system.
+
+Tertiary routes would include the Seattle Monorail Project&rsquo;s Gold Line 
+along Capitol Hill and Beacon Hill; the Purple Line running from Ballard 
+east through Fremont, Wallingford, the University District, and Laurelhurst; 
+and the Red Line from West Seattle to South Seattle.
+
+Other tertiary routes could serve areas such as Downtown Edmonds and Mill 
+Creek, and another line could branch off of the Primary line up Highway 99 
+to serve Mountlake Terrace, east Lynnwood, and Alderwood Mall.
+
+ SYSTEM SPECIFICATIONS: All of the monorail routes would be 
+interconnected to form one integrated regional system. Therefore, the 
+design of the guideways and trains must be compatible so that any train can 
+go anywhere within the system. The main exception would be the number of 
+cars in a train. Shorter trains could be used on less busy routes.
+
+However, in the interest of compatibility, even the least busy and 
+shortest routes would have to meet the minimum system specifications.
+
+Physical dimensions would include the width of the guideway, location of the 
+train wheels relative to the top of the guideway, location of the electrical 
+contacts, width and height of the cars, etc.
+
+Electrical specifications include whether the electrical supply is AC or DC 
+and the voltage.
+
+The train cars should be fairly wide and high for comfort, and fairly long 
+for adequate capacity, and should be of walk-through design, meaning that 
+passengers may freely walk through the train from one car to another. 
+Seating should be comfortable and there should be enough seats so that 
+passengers seldom need to stand except during rush hours or enroute to or 
+from special events.
+
+Although slower trains may be acceptable on shorter routes, especially if 
+stations are close together, trains should be designed so that they can be 
+easily equipped with powerful motors for high-speed travel, up to 70 mph or 
+more, for longer intercity routes.
+
+ Return to my Mass Transit home page 
+ Return to the Fleming Family home page 
+
+ Contact me 
+
+ &COPY;2003 Robert M. Fleming Jr. 
+ This page was last updated 4 October 2004.

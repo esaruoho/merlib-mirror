@@ -1,0 +1,1060 @@
+1st Focus Positions Available 
+
+ Focus Positions Available 
+
+ Please visit these sites --- Help support this service!
+
+Greetings! This is a free clearing house for positions for FOCUS programmers. To post your Positon Available or Position Wanted notice, e-mail it to wix@eskimo.com and please make FOCUS the first word in the Subject of the email! Note that I post notices in newest first order!
+ I leave notices posted for six to nine months. If you want it removed earlier or to stay longer please
+let me know.
+
+ 9107 Visitors from 21 Sept 1997 to 21 Sept 2000 
+ 32043 hits since November 8, 2001
+
+[Posted 22 May 2004]
+
+Wanted!
+
+WebFOCUS Developer
+
+I have an immediate need for a WebFOCUS developer to begin a
+contract-to-perm position in Denver, CO, working for a major
+financial institution. The candidate should have in-depth
+expertise in executing day-to-day programming activities
+under the direction of the supervisor, including WebFOCUS
+report development, testing, maintenance, deployment, and
+debugging. I need someone who has experience in full
+implementation life-cycle of application design,
+development, implementation and roll-out, as well as post
+production support.
+
+You must be able to deliver parameter driven reports,
+charts, and graphs via the Intranet. You'll need to be
+highly motivated and have skills in web development
+lifecycles, knowledge of databases, and SQL experience.
+You'll need to execute test procedures to insure the
+completeness and the quality of reports. You'll need to work
+with project managers to ensure that all business
+requirements and objectives have been met. You'll need to
+have a proven track reecord of being able to plan,
+prioritize, estimate and deliver projects.on time.
+
+ Skill Set Requirements: 
+
+* College Degree in Computer Science, Mathematics, or
+ relevant field experience
+
+* 2-3 years of WebFOCUS report development
+
+* Solid knowledge in SQL
+
+* Solid knowledge of databases
+
+* Be able to manage your time
+
+* Function within a team environment, 
+ under the direction of a supervisor
+
+* Have good written and oral communication skills, 
+ as well as PC software tools (MS Word, Excel 
+ and project apps)
+
+No third parties please. 
+We cannot sponsor H1 Visas at this time.
+
+Please forward your cover letter and resume to:
+
+Scott Weldon
+TEKsystems, 
+Denver, Colorado
+
+sweldon@teksystems.com
+
+(303) 843-3701 direct
+
+[Posted 13 May 2004]
+
+A FOCUS position in my area will be available with the next
+two weeks. This job would be in downtown Cleveland, Ohio. 
+The job is working with legacy FOCUS systems (online and
+batch) in an IBM mainframe environment. The requirements
+are strong FOCUS, MVS/TSO, CLIST, JCL, ISPF, and some DB2
+would be a plus, but not required. Strong PC (workstation)
+skills are desired, with strong Microsoft Office. Good
+documentation and verbal skills. The workplace conditions
+are great and not stressful. This position would be on a
+contract basis, either as an employee of the appropriate
+contracting firm, or 1099. Send email inquiries to Ron
+Hansard at ron.hansard@dfas.mil.
+
+[Posted 14 March 2004]
+
+WebFOCUS, Oracle - Data Warehouse Developer
+
+DESCRIPTION
+This position will support a $500+ million multinational
+manufacturing and distribution organization with over
+100,000 SKU and large customer base.
+
+DUTIES
+* Data warehouse and data model development utilizing
+Information Builders WebFOCUS suite. * Work with small team
+to build self-service applications. * Implement the defined
+management vision to increase scope, content, and
+performance of existing data warehouse. * Strengthen,
+develop, and test production environments; with the move to
+version/change/patch management.
+
+SKILLS/ABILITIES REQUIRED
+* Information Builders WebFOCUS suite of applications.
+* Experience with Information Engineering methodology.
+* Development and delivery of data models in 3rd normal
+form. * Programming experience in relational database
+management system of Oracle or SQL server (SQL queries,
+triggers, procedures, packages etc). * Experience developing
+on different platforms including Windows and UNIX. 
+
+* Experience with iWay server configuration.
+* Proficient in Developer Studio, Report caster, MRE,
+Dashboard, and OLAP. * Other knowledge and experience in
+SQL, JavaScript, HTML, Visual Source Safe, Erwin, TOAD,
+UltraEdit or other editor is highly desirable. 
+
+EDUCATION/EXPERIENCE REQUIRED
+Qualified candidates must possess a Bachelor's degree in
+Information Technology, or equivalent certifications.
+Mandatory experience of 3+ years in dedicated WebFOCUS
+development. Experience in manufacturing organization with
+large SKU and customer base desired.
+
+This is a permanent position based in Orange County, CA;
+salary offered is $90k p.a.
+
+Please contact Andrew Osler at andrew.osler@kenda.com
+
+Kenda Systems, Inc,
+1820 East First Street,
+Suite 102,
+Santa Ana, CA 92705-4026.
+
+714 560-8770
+
+[Posted 22 February 2004]
+
+DATA WAREHOUSE DEVELOPER - (WEB FOCUS)
+
+Orange, CA Corporate Headquarters
+
+Sybron Dental Specialties, Inc. and its subsidiaries are
+leading manufacturers of value-added products for the
+professional dental, orthodontics, endodontics, and
+infection-control products segments in the United States and
+abroad. We currently have an excellent opportunity for a
+Data Warehouse Developer to join our Orange, CA Corporate
+Headquarters.
+
+You will perform data warehouse and data model development,
+utilizing Information Builders WebFOCUS suite, and you will
+work with a small team to build self-service applications.
+Overall, you will implement the defined management vision to
+increase scope, content and performance of existing data
+warehouse for our $500+ million multinational manufacturing
+and distribution organization, which has 100,000+ SKUs and a
+large customer base. Additionally, you will strengthen our
+development test and product environments, with a move to
+version/change/patch management.
+
+Qualifications include:
+
+* Degree in Information Technology (or equivalent skill
+certifications with relevant Bachelor's degree) 
+
+* 3+ years' experience in dedicated WebFOCUS development 
+
+* Expertise in Information Builders WebFOCUS suite of
+applications
+
+* Experience in development/delivery of data models in 3rd
+normal form
+
+* Programming experience in relational database management
+system of Oracle or SQL server
+
+* Experience developing on different platforms including
+Windows and UNIX; IWay server configuration; Developer
+Studio; Report caster; MRE; Dashboard; and OLAP.
+
+Preferred candidates will also have experience in
+manufacturing organization with large SKU and customer base,
+as well as in SQL, JavaScript, HTML, Visual Source Safe,
+Erwin, TOAD, UltraEdit or other editor.
+
+Sybron Dental Specialties recognizes the innovation and
+energy of its employees with competitive compensation.
+Please e-mail your resume (indicating "Sybron/ Job #
+988/Data Warehouse/Orange)" in the subject line) to:
+careers@sybrondental.com or fax to (714) 516-7953. You may
+also visit our web site at www.sybrondental.com for more
+information on Sybron Dental Specialties. We are proud to be
+an EEO/AAP employer.
+
+[Posted 14 January 2004]
+
+DKS Enterprise has need for 1 Mainframe Focus programmers in
+an VM/CMS environment with at least 5 years of experience
+for our client in S.California. I have the contract for
+three but one took another position. I can go as high as
+$55/hr 1099 DOE. Also, I need 4 Cobol VSAM programmers. For
+these I can go as high as $50/hr 1099 DOE. Please send your
+current resume to David Sibert at dksibert@yahoo.com. 
+
+[Posted 19 November 2003]
+
+We are actively recruiting persons with Java/Webfocus
+skills for a client in Missouri. MUST BE US CITIZEN - LOCAL
+CANDIDATES PREFERRED.
+
+thanks
+Rama
+Ramaa.Jonnalagadda@sogeti-usa.com
+
+[Posted 19 November 2003]
+
+We require 2 web focus candidates for our client at Chennai, 
+India for a period of 3 months and we will apply H1 for the 
+same candidates and bring them here for the second phase of the
+project at our client place in the US. Please email all your
+details (Resume, expected salary in India as well in the US,
+Contact numbers, Best time to reach you etc)
+
+Thank you and looking forward to hear from you.
+
+Regards, 
+Nandhini Ramprasad
+VIVA USA INC
+3601 Algonquin Road, Ste 425
+Rolling Meadows, IL 60008
+(847) 368 0860 ext:228
+(847) 368 0864 fax
+(847) 942 1280 mobile
+www.viva-it.com
+2002 and 2003 Chicagoland Fast 50 Company
+ISO 9001:2000 Certified in the US, 
+8 (a) SDB Certified, M/WBE Certified, 
+IBM Partner, Microsoft Certified Partner,Oracle Certified
+Partner,Cognos Premier Partner, Siebel Consulting Partner
+
+[Posted 19 November 2003]
+
+HSConsultants, Inc. is looking for 2 Focus/WebFocus
+programmers for a contract in the northern California area.
+
+Please send your resume to: jobs@hsconsult.com
+
+Thank you.
+Howard Share
+President
+HSConsultants, Inc.
+650 856-8900
+
+[Posted 06 October 2003]
+
+We are in need of Webfocus developers with skills in java
+programming . This is for a project in Colorado for 6
+months.
+
+Interested consultants submit your resume in word format
+with contact details .
+
+regards,
+------------------------------------------------
+
+andrew philip
+617 773 0208
+"andrew philip" 
+
+[Posted 16 September 2003]
+
+Rate: Open 
+Location: Colorado Springs, CO 
+Duration: 6+ Months 
+Type: Contract 
+Description: Looking for candidates with Power++ skills. 
+
+If you have any questions or concerns, please feel free to
+contact me 24/7 on my cell (203) 722-3261. 
+
+If you have any questions or concerns, please feel free to
+contact me 24/7 on my cell (203) 722-3261.
+
+Thank you,
+Sashikanth Geddada
+Director - Crescent Software, Inc.
+Office: (732) 549-4119
+Cell: (203) 722-3261
+Email: sgeddada@crescentsoftwareinc.com
+Visit: www.crescentsoftwareinc.com
+
+[Posted 27 August 2003]
+
+Pepich Consulting has need for several Mainframe Focus
+programmers in an VM/CMS environment with at least 5 years
+of experience for our client in California. Please send your
+current resume to Mike Pepich at
+pepich_consulting@hotmail.com.
+
+[Posted 27 August 2003]
+
+We have a manufacturing client in Chicago looking to fill a
+permanent position requiring webFOCUS experience. 
+Experience with MAINTAIN is desired, but not required.
+
+Salary and benefits are very competitive.
+
+Qualified applicants email or fax resume to:
+
+Joe Kovats
+Selective Recruiters
+voice: (847)455-0038
+fax: (847)455-0073
+joekovats@aol.com
+
+[Posted 20 August 2003]
+
+Developer: Comrise has multiple openings for Webfocus
+developers.
+
+Locations: White Plains, NY; New York, NY; Silver Spring,
+MD; Freehold, NJ
+
+Environment: AIX, Solaris, Windows
+
+Reposibilities: Development of application portal, Web
+reports, and application presentation layer using IBI
+WebFocus Developer Studio, JAVA, Javascript, and HTML.
+
+Language/Tools: WebFocus, SQL, Javascript, HTML, Perl
+Erwin and OLAP a definite plus.
+
+Kavitha Srinivas
+Technical Recruiter
+
+Comrise Technology Inc.
+1301 Concord Center
+Highway 36
+Hazlet, NJ 07730
+
+Tel: 1-732-739-2330 ext 218
+ 1-800-862-2330 ext 218
+Fax: 1-732-739-1996
+
+Email: kavitha@comrise.com
+http://www.comrise.com
+
+[Posted 19 August 2003]
+
+Management Decisions, Inc. (MDI) currently seeks a WebFocus
+Developer for a short-term contact (immediate need for 60-90
+days) in Atlanta, GA. We are looking for someone with a
+strong development knowledge of building reports with the
+WebFocus reporting tool and the ability to use the functions
+and features of WebFocus Developer Studio. If you are
+interested in hearing more, please contact Beth Rowe at MDI
+immediately! This is a critical need! 
+
+Beth Rowe 
+Sr. Technical Recruiter 
+MDI 
+
+1-888-416-7949 (Toll Free)
+770-416-7949 ext 138 
+browe@mdicareers.com 
+www.mdicareers.com 
+
+[Posted 23 April 2003]
+
+I have 5 positions in Wellesley, MA for 6 month contract. 
+Rate is not a show stopper please forward resumes to
+egarcia@proceedtech.com and include rate, availability,
+resume and contact information.
+
+ WebFocus Consultants
+The successful candidate for this position will support the
+migration, replacement and/or consolidation of existing
+reports onto the corporate standard reporting environment,
+WebFocus. The candidate will have experience analyzing
+business needs, developing requirements, and coding reports
+as part of an effort to move from one reporting platform to
+another. The candidate must know how to utilize WebFocus and
+its sub-modules to effectively deliver the migration or
+replacement of existing reports. Leadership skills, customer
+interaction and communication skills are necessary for this
+position. The candidate must be able to work in a group or
+alone to support the business in their reporting and
+analysis needs. The candidate will optimally have worked
+with data warehouse technologies and understand the nature
+and terminology of such a system.The candidate will provide
+technical direction and input as well as guide the design
+team in specific deployment options for the WebFocus
+application and sub-modules. This effort will include
+integration and prototyping with user involvement.
+Specifically the candidate will have experience implementing
+WebFocus to support internal and external users, integration
+with the LDAP security structures, and assessing the impact
+of the client's security policies and procedures. The
+candidate must have leadership experience, excellent written
+and verbal communication skills, and be able to develop
+client rapport quickly. The candidate must be able to
+program in WebFocus and be able to guide developers in the
+appropriate use of WebFocus to solve specific business
+problems. The candidate must understand the impact of
+WebFocus on the database and be able to assess appropriate
+performance and tuning techniques, including providing input
+into database design decisions, as applicable to WebFocus
+and the Teradata database.
+
+Required Skills - WebFocus Programming, Team Lead,
+Datawarehouse/BI skills.
+
+Desired Skills - Report Conversion/Migration experience,
+Healthcare industry experience, Teradata experience
+
+Qualified candidates please submit your resume to
+resumes@proceedtech.com for immediate interview. 
+
+Edward R. Garcia 
+Proceed Technical Resources, Inc. 
+2805 N. Dallas Pkwy, Suite 640 
+Plano, TX 75093 
+(w) 972.769.0746 ext.19 (fax) 972.543.0300 
+egarcia@proceedtech.com/ www.proceedtech.com 
+HUB,8a,NCTRCA,SCTRCA, DFWMBDC CERTIFIED
+
+[Posted 27 March 2003]
+Senior Applications Consultant (FOCUS/Web Focus)
+
+Northern Trust Corporation, whose business began in 1889, is
+a multibank holding company headquartered in Chicago with a
+growing network of offices in 12 states, international
+offices in five countries and more than 9,500 employees
+worldwide. At the end of 2001, Northern Trust had assets of
+$39.7 billion. Trust assets under administration were nearly
+$1.7 trillion, including $330.1 billion under our investment
+management.
+
+Northern Trust has earned distinction as a leading provider
+of personal fiduciary, asset management, personal and
+private banking, as well as master trust/custody, global
+custody, risk and performance services, investment services,
+retirement services and treasury management services for
+corporations, institutions and organizations worldwide. A
+112-year tradition of combining high-touch service and
+expertise with industry-leading technology distinguishes
+Northern Trust in its two primary businesses, Personal
+Financial Services and Corporate and Institutional Services.
+
+Throughout its history, Northern has remained committed to
+meeting the diverse needs of its workforce and the
+communities it serves.
+
+Our Corporate Controller's Department is seeking a
+self-motivated individual to join our Financial Systems
+division. The individual must have broad-based experience
+with FOCUS including reporting, modify and dialogue manager.
+Experience with Web FOCUS, Web FOCUS Maintain, SCLM and
+Control-M are definite pluses. Knowledge of basic accounting
+is also required. Responsible for feasibility studies,
+definition, requirements and design of complex data
+processing projects. Acts as a liaison with other systems'
+areas and provides technical consulting to systems and
+business units. Works independently and/or directs a team as
+required. Develops or maintains computer programs including
+designing, coding, testing, debugging, and installation as
+needed. Minimum 5 years experience with project feasibility
+studies, definition requirement, design and implementation.
+Experience with various technical-programming languages
+required.
+
+We are seeking a self-starter who works effectively with
+minimum direction with excellent oral and written
+communication skills and experience with Mainframe and P/C.
+
+This position is located in Chicago, IL. Relocation costs
+will not be available for this position.
+
+To apply for this position, please visit our website at
+http://www.northerntrust.com/aboutus/careers/index.html and
+apply to requisition # 010644.
+
+[Posted 15 February 2003]
+
+I am looking for experience WebFOCUS consultants for a full
+time opportunity. To qualify you must have the following:
+
+2+ years of experience with WebFOCUS
+Experience with Java, XML, Javascript
+
+This is a travel position. For mor einformation please
+e-mail or call me at the numbers listed below. Thanks!
+
+Lisa K. Yensen
+Principal
+Recana
+9791 Westheimer Rd. #66
+Houston, TX. 77042
+832-754-7036 - cell
+713-974-3484 - office
+www.recana.com 
+
+[Posted 05 February 2003]
+
+Client in Massachusetts is retiring its Cognos reporting
+structure and moving to WebFOCUS (mainly because of cost of
+licenses and renewals). Looking for experienced WebFOCUS
+implementation consultants to help with this transition. 
+Reports and queries are pulling data off Oracle and
+SQL-Server.
+
+Please reply with recently updated resume and availability. 
+This is real work with a start date around mid February.
+
+Thanks,
+
+David Gracia
+Gardner Resources Consulting, LLC
+60 Kendrick Street, Ste. 204
+Needham, MA 02494-2726
+781-444-8787 x 242
+email: dgracia@grgc.com
+Website: www.grgc.com
+
+Recruiting Accounting & Finance Professionals for both
+Permanent and Temporary Placement as well as Internet &
+Software Consultants: Ranked the 15th Fastest-Growing IT
+Services Company in the U.S.
+
+[Posted 29 January 2003]
+
+Required, WEBFOCUS consultant with Javascript / HTML for
+short term contract (potential for longer term) in Ottawa,
+Ontario. Please e-mail resume to ldouglas@on.aibn.com or
+call Lynne at (613) 563-2579.
+
+[Posted 22 January 2003]
+
+ I have the following requirement here in Tallahasse,
+ Florida for a Independent Consultant. The contract is from
+ 3/3/2003 to 2/27/2004. 
+
+SCOPE OF SERVICES 
+
+I. OBJECTIVE 
+This agreement retains the position of a one full-time
+Computer Systems Programmer to work on site for the State of
+Florida located in Tallahassee, Florida. 
+
+The service to be performed will be a computer systems
+programmer with the following knowledge, skills and
+abilities: 
+
+Contract Funds Approval Process. 
+At least one year of advanced Focus Maintain programming
+experience. At least one year of advanced Web Focus
+programming experience. At least five years of advanced
+Focus programming experience. The ability to coordinate and
+manage technical projects. The ability to communicate ideas
+and concepts effectively. 
+
+Hugh E. Cunningham
+Orion Systems & Services
+1114C Thomasville Rd
+Tallahassee, Florida 32303
+hec@nettally.com
+850-222-7163
+850-222-3452 fax
+
+[Posted 28 November 2002]
+
+Bristol West Insurance has a Reporting Developer position,
+could you please post this on your website??
+Responsibilities: Responsibilities include support and
+development of Enterprise web-based reporting system
+utilizing WebFocus, Oracle, and DB/2. You will have direct
+contact with Claims, Actuarial, Product, Policy Services and
+Finance managers. You will work with our business customers
+to analyze their reporting needs and develop innovative
+solutions to provide this information. You will also provide
+Quality assurance reports for IT to balance feeds between
+systems and ensure the integrity of our data. 
+
+ > Qualifications: Qualified candidates
+ should have a
+Bachelor's degree in Computer Science or Management
+Information Systems (or other related discipline), 6 years
+of SQL reporting development experience on either UNIX
+and/or Linux, WinNT, OS/400 platforms. Experience should
+include advanced SQL skills, data modeling, data set
+creation, format manipulation, prior WebFocus & Insurance
+experience preferred; project management skills, both
+written/oral communications, task management, timeline
+deliverables, and exceptional analytical and problem solving
+skills. Candidate must be a self-starter who is capable of
+working independently and as part of a team and have the
+ability to work with customers at all levels including
+senior management.
+
+Contact info:
+Bristol West Insurance Group
+Cleveland, OH
+fax: 216-674-7032
+email: hrnz@bristolwest.com
+www.BristolWest.com
+
+[Posted 28 November 2002]
+WebFOCUS developers needed! 
+ProAlliance is currently in need WEBFOCUS developers for an
+assignment in the north/northwest suburbs of Chicago. The
+ideal candidate will have practical experience using
+WEBFOCUS and must have worked with it within the last year.
+ProAlliance is an Information Technology consulting and
+solutions provider that provides expertise in many areas of
+strategic systems planning, project management, client
+server design & development, systems design & programming,
+and training & education. We can identify and apply
+technological solutions to complex business problems in a
+timely and cost effective manner. This is done with one
+focus in mind: quality. Please send your resume to: Mike
+Maginity, ProAlliance 6133 N. River Rd., Suite 600 Rosemont,
+IL 60018 Email: Careers@ProAlliance.com
+ Visit us at
+www.proalliance.com 
+
+[Posted 24 November 2002]
+
+FOCUS Application Programmer Needed The Office of Admission
+at Smith College in Northampton, Massachusetts is currently
+in need of a FOCUS Application Programmer for approximately
+14 hours per week for the next three or four months. The
+programmer will assist the office systems coordinator in
+keeping up with weekly reporting functions while the systems
+coordinator dedicates her time to another project. The work
+would need to be done at the college in Northampton, but the
+timing is somewhat flexible. The ideal candidate will have
+recent Focus experience and should be able to read and
+modify Focus programs. We run character-based Focus in an
+Open VMS environment. Contact Chrissie Bell at
+cbell@smith.edu or call 413.585.2514. Smith College is the
+largest private liberal arts college for women in the United
+States. A highly selective institution with an
+undergraduate enrollment of over 2,500, Smith College has
+been educating women since 1875. 
+
+[Posted 26 October 2002]
+Bucher & Christian Consulting is an IT consulting firm
+specializing in e-Business, ERP (SAP & PeopleSoft), Oracle,
+and Network Support solutions. Our clients include
+PriceWaterhouseCoopers, EDS, the United States Government,
+Mays Chemical Company, Eli Lilly & Co., and Indiana
+University to name just a few.
+
+We are currently looking to fill several FOCUS programmer
+positions we have at one of our Cleveland, OH clients. We
+have obtained a copy of your resume online and you seem to
+meet several of the requirements.
+
+If this is something that interests you, please email me
+ASAP.
+
+PLEASE INCLUDE THE LATEST COPY OF YOUR RESUME IN MSWORD AS
+WELL AS SALARY REQUIREMENTS AND AVAILABILITY.
+
+If you are uninterested, please let me know as well.
+
+Please feel free to contact me anytime to discuss -
+317.423.8980.
+
+Ryan A. Bucher
+Director, Marketing & Sales
+Bucher & Christian Consulting
+22 East Washington Street, Suite 314
+Indianapolis, IN 46204
+317.423.8980 - phone
+317.423.8981 - fax
+www.bucherandchristian.com
+
+[Posted 28 August 2002]
+
+Our client in the Central Florida area has a 6-month
+opportunity for a WebFocus developer.
+
+Ideal candidate will have 2+ years WebFocus experience,
+strong SQL in an Oracle PL/SQL environment.
+
+For immediate consideration, please email your resume along
+with your inclusive rate requirements, and reference job
+code prs614wfe WebFOCUS Reports Developer.
+
+Rob Shurack
+Partner PRS
+Office: (954) 252-0149
+Fax : (954) 252-0515
+email: rob@prsgrp.com
+
+[Posted 17 August 2002]
+
+I'm contacting you from Sudney in Australia. 
+I work for an IT specialist recruitment company, who is
+trying to locate a WebFocus/ Cobol developer to work on a
+permanent basis for a financial services client.
+
+The exact skills include:
+* 5 years development experience
+* WebFocus reporting experience
+* ideally Microfocus Net Express Cobol development
+experience * Oracle RDBs and Unix Os.
+
+The skills are relatively difficult to find in Australia and
+I would be grateful if you could offer some advice as to
+whether candidates would look at relocating, or if you knew
+of similar sites/ contacts in Australia who might have the
+appropriate skills.
+
+Thank you for your help in advance
+
+Regards
+Marcus White
+
+Marcus White
+Principal Consultant
+Abraxas Technologies Asia Pacific
+Royal Exchange, Level 14, 56 Pitt Street
+Sydney, 2000
+Tel: +61 2 9256 2833
+Mob: 0438 0439 40
+Email: marcus.white@abraxas.com
+Internet: http://www.au.abraxas.com/
+
+[Posted 17 August 2002]
+
+A client in the Chicago land area is looking for 2
+consultants with Web Focus development experience. Need to
+have 2 years of experience with developing Web Focus
+application. In addition to the Webfocus experience, ideal
+candidate will also have PowerBuilder 6.4 experience. The
+old environment is a PowerBuilder client server environment.
+ Client wants to convert to a web based environment, so exp
+with both Webfocus (the future) and PowerBuilder (the past)
+is needed. Client may look at people with Focus development
+experience but web focus is highly preferred. This is a 6
+month + contract and the client prefers someone local
+(Chicago, IL) but will consider perfect candidates outside
+that area. Please call or email to discuss this position
+further.
+
+Thanks-
+
+Tracy Harkness
+Recruiter
+CDI Professional Services
+1900 E. Golf Rd., Suite L-10
+Schaumburg, IL. 60173
+847-240-6550 ph
+847-240-6560 fax
+tracy.harkness@cdicorp.com
+
+[Posted 17 August 2002]
+CONSULTING PROJECT LEAD
+Job ID: CTM-Metro
+Location: New York City, NY
+
+MANAGE LARGE SCALE APPLICATION AND SYSTEM PROJECTS 
+
+INFORMATION BUILDERS Job Openings posted on HotJobs.com
+CONSULTING PROJECT LEAD 
+The NY Metro Branch of Information Builders is looking for an experienced Consulting Project Lead who is a capable business application developer/programmer AND has demonstrated experience successfully managing technical project teams. Most projects are located in the NY/NJ/CT area, although some projects may require travel to other cities/regions. 
+The Consulting Project Lead in most cases will work on one project at a time, and will report to an Implementation Manager, who has overall responsibility for a project. While a working (and coding) member of the consulting technical team, the Consulting Team Lead is also expected to manage and review the work of other team members, ensure project milestones are met, and communicate project status and issues to the Implementation Manager. 
+Characteristics we seek: 
+1. 8+ years of post-undergraduate work experience in a high performance technically challenging environment. 
+2. Experience working closely with clients to understand, document and implement custom business applications. 
+3. Experience with Business Reporting application development, web application/portal development, and Data Warehousing. 
+4. FOCUS and/or WebFOCUS programming experience. 
+5. If no FOCUS experience, fluency and experience programming in at least 2 modern programming languages. 
+6. Experience with Java Script and HTML is a must. 
+7. Willingness and ability to quickly learn Information Builders 4GL programming language and associated dialects (FOCUS, WebFOCUS, Maintain, etc.) 
+8. Significant experience working with enterprise class platforms (UNIX, MVS, VM, NT, etc.). 
+9. Must have completed a bachelor's degree, preferably in Computer Science or a related field. 
+10. Must be a high-energy person who thinks on their feet and is capable of succeeding in a high stress environment. 
+11. Must be highly skilled in the spoken and written use of the English language as a significant portion of the job involves written communication with clients. 
+12. Must be willing to travel on a daily basis to projects in the NY metropolitan area and occasionally to projects in other cities/regions. 
+13.Must be learning agile, as the evolving nature of our industry requires constant acquisition of new skills and knowledge. 
+14. Must have personal integrity, a strong work ethic, and a strong desire to satisfy clients. 
+15. Must present and maintain a highly professional appearance and demeanor. 
+16. Must have a track record of working in a team-oriented environment. 
+We offer a competitive salary and bonus program, comprehensive benefits including company-paid medical, dental and optical for family coverage, 401(k), and a professional atmosphere with state-of-the-art technologies. Visit our website at www.informationbuilders.com 
+For immediate consideration, E-mail your resume to: ros_stafford@ibi.com or fax to 908-598-0721.
+
+[Posted 17 August 2002]
+My client located in Dallas, TX has a need for a Programmer
+Analyst for a minimum 6 month contract position. This
+candidate will support the Business Customers of Decision
+Support products by providing resolutions to all questions
+and problems that may arise in a mainframe and client server
+end-user computing environment using FOCUS, SQL, JCL, QMF
+and SAS.
+
+Requirements include
+1. Proficiency in FOCUS and SQL are a must.
+2. Strong skills set using QMF, DB2, ISPF, SDSF, JCL, VSAM,
+ MVS utilities, MS Word, MS Excel, Powerpoint, Microsoft
+ Access, as well as SAS are required. 
+3. Knowledge of UNIX environment highly desirable. 
+4. Experience with Customer Service or previous Help Desk experience desired.
+
+If you are interested, please contact me.
+
+Tim Reiter
+Recruiter
+ProTech Solutions, Inc.
+(214) 420-9305
+tim.reiter@protechsolution.com
+
+[Posted 17 August 2002]
+We are looking for a contract FOCUS programmer with the following skills:
+
+1. Proficiency in FOCUS and SQL are a must. 
+
+2. Strong skills set using QMF, DB2, ISPF, SDSF, JCL,
+VSAM, MVS utilities, MS Word, MS Excel, Powerpoint,
+Microsoft Access, as well as SAS are required.
+
+3. Knowledge of UNIX environment highly desirable.
+
+4. Experience with Customer Service or previous Help
+Desk experience desired.
+
+Location is Dallas, TX
+
+Initial contract is 6 months but most are generally extended.
+
+Dennis Osha
+Sr. Account Manager
+ProTech Solutions, Inc.
+www.protechsolution.com
+Office: 214-420-9311
+Cell: 972-898-5162
+
+[Posted 19 June 2002]
+
+Java and Web Focus Developer 
+
+We are looking for a Java/WebFocus developer for a long term
+contract opportunity in Portland, OR.
+
+Job Order Description
+Be a part of Java development efforts for large J2EE Commercial
+applications. Participate in entire software engineering phases
+including analysis, requirements specifications, use case and
+data modeling, development, testing, and implementation. Also
+assist in architectural decisions, such as which Java and J2EE
+design patterns to use for various applications.
+
+Job Order Qualifications
+Years experience range: 3 to 5
+J2EE development experience (Servlets, EJB, JSP).
+Strong hands-on Java development experience.
+Hands-on development experience with Web Focus mandatory.
+WebSphere, VisualAge for Java, SOAP a plus.
+
+If you are interested in this position, please forward your
+resume to the contact info listed below.
+
+Jenny Curtis
+Technical Recruiter
+VanderHouwen & Associates, Inc. 
+* www.vanderhouwen.com
+ http://www.vanderhouwen.com 
+5520 SW Macadam, Suite 112
+Portland, Oregon 97201 503-299-6811 
+* Toll Free 888-299-6811 
+* Fax 503-224-6181 
+mailto: jennyc@vanderhouwen.com 
+
+[Posted 17 May 2002]
+
+URGENT requirement for a WebFocus developer, with HTML, ASP, Javascript,
+in OTTAWA, CANADA for 6 - 12 month contract. Please e-mail resume to
+ ldouglas@on.aibn.com 
+
+[Posted 01 Apr 2002]
+
+ I am looking for a strong WebFocus developer to work on a 12
+ month contract . Skills Required: Advanced skill with FOCUS 4GL
+ Reporting Language, Developing webFOCUS MRE Reports with Report
+ Assist, WebFOCUS Managed Reporting Environment Planning &
+ Design, Knowledge of Relational Database Concepts, This is a 1
+ year contract to start in June 2002 and is located in Nebraska.
+ Candidates must have 2 years of WebFOCUS experience. No 3rd
+ parties please. 
+
+John Stahlnecker
+ jstahlnecker@plancetci.com 
+
+[Posted 02 Apr 2002]
+
+Develop webFOCUS reports, determine end-user training needs, develop
+curricula and provide training to end-users, provide support via telephone
+to assist users to develop reports and use webFOCUS product, provide
+assistance and expertise to staff for developing and maintaining the
+webFOCUS Managed Reporting Environment, provide knowledge transfer to
+current staff through "train the trainer" and other formalized training,
+provide written documentation of curricula, and provide recommendations for
+the further implementation, maintenance, etc. of the webFOCUS Managed
+Reporting Environment and recommendations for additional training for other
+support staff and end-users.
+Required Skills:
+Advanced skill with FOCUS 4GL Reporting Language, Developing webFOCUS MRE
+Reports with Report Assist, WebFOCUS Managed Reporting Environment Planning
+& Design, Knowledge of Relational Database Concepts, Presentation and
+Training skills
+
+This is a 1 year contract to start in April 2002 and is located in Atlanta,
+GA. Candidates must have 3 years of WebFOCUS experience. 
+No 3rd parties please.
+
+David Gabler
+ david_gabler@computerhorizons.com 
+
+[Posted 07 Mar 2002]
+
+I have a desperate need for Webfocus developers with Property
+and Casualty Insurance experience. The client is located in New
+Jersey! Please respond with your resume to Jamie Blau at
+ jblau@misicompany.com . Thank you.
+
+Jamie Blau 
+Senior Technical Recruiter 
+1 Belmont Avenue, Suite 610 
+Bala Cynwyd, PA 19004 
+610-664-8900 ext. 203
+(outside of PA)1-800-229-6474 
+ jblau@misicompany.com 
+ www.misicompany.com 
+
+[Posted 01 Mar 2002]
+
+Position: Easytrieve Plus to Focus Conversion
+Type: Contract
+Location: Toronto, ON, Canada
+Reference: AG2-EZFCONV
+
+Our client requires a strong P/A to help converting all existing Easytrieve
+Plus code into Focus. The successful candidate must have prior experience
+with both Easytrieve Plus and Focus.
+
+Please send your resumes to :
+
+Arek Godlewski
+Recruiter
+Modis, Toronto Branch
+ arek.godlewski@modisit.com 
+
+[Posted 13 Feb 2002]
+
+FOCUS/WebFOCUS developer needed!
+ MUST live in Chicago area! 
+
+ProAlliance is currently in need of a WEBFOCUS
+developer for an assignment in the north/northwest
+suburbs. The ideal candidate will have practical
+experience using WEBFOCUS and must have worked with it
+within the last year. 
+
+ProAlliance is an Information Technology consulting
+and solutions provider that provides expertise in many
+areas of strategic systems planning, project
+management, client server design & development,
+systems design & programming, and training &
+education. We can identify and apply technological
+solutions to complex business problems in a timely and
+cost effective manner. This is done with one focus in
+mind: quality.
+
+Candidates not local to the Chicago area
+will not be considered.
+
+Please send your resume to:
+
+Recruiting Team
+ProAlliance
+6133 N. River Rd., Suite 600
+Rosemont, IL 60018
+Email: Careers@ProAlliance.com 
+Fax: 847-698-9103
+
+Visit us at www.proalliance.com 
+
+[Posted 28 Jan 2002]
+
+WebFOCUS/FOCUS PROGRAMMER
+
+Prairie Packaging, a Southwest suburban Chicago manufacturer of
+disposable plastic dinnerware is undergoing tremendous growth. 
+We're looking for an experienced WebFOCUS/FOCUS programmer to be
+responsible for report writing on a company-wide basis utilizing
+WebFOCUS..
+
+The successful candidate will possess a working knowledge of
+WebFOCUS 4.3.5, to include Report Caster and DB Server; a degree
+in computer science or the equivalent experience and experience
+working in a fast-paced manufacturing company. In addition, we
+require excellent communication skills and knowledge of
+business/ manufacturing processes in order to support end-users
+with their report writing needs. Only applicants with a
+documented working knowledge of WebFOCUS will be considered. 
+
+We operate in a Windows NT 4.0 server environment with Windows
+98, Office 97/2000, Lotus 1-2-3, Lotus Notes 5.0 client side,
+and a UNIX based ORACLE ERP. 
+
+In return, we offer an excellent salary and a full complement of
+benefits including a generous 401(k), profit sharing,
+medical/dental, life insurance, etc. 
+
+For consideration send resume (only those with salary history
+will be considered) to Prairie Packaging, Inc. Attn: CR/SA 
+7200 S. Mason Avenue Bedford Park, IL 60638 Fax (708) 924-2590
+ E-mail: creinebe@prairiepack.com 
+ EOE/M/F/D/V
+
+[Posted 28 Jan 2002]
+
+We need a Lead Developer supporting the installation of WebFocus
+Tool, serve as subject matter expert on application design for
+WebFocus Self Service, Managed Reporting and Developer Tools. 
+
+They also will have to develop applications using WebFocus for
+Market Assignment and Compensation project reports. They also
+need demonstrable experience using WebFocus Self Serve, Managed
+Reporting and developer workbench and Oracle 8.1.7 PL/SQL, Net8,
+query tuning.
+
+They need to have a minimum 2 years developing Reports using
+WebFocus tools, and a demonstrated proficiency at application
+level design using WebFocus tools in an Oracle DB environment.
+
+Jack Howell
+Special Projects Manager
+CEI / CEIdirect
+
+301 North Ave., POB 308
+Wakefield, MA 01880
+781-246-4477
+ jack@computerexpress.com 
+
+ Positions Wanted 
+
+ Dennis' Home Page Stop in and visit!
+
+ Eskimo Home Page Find out why a BBS named ESKIMO North is located in Seattle, Washington! 
+
+ Page maintained by Dennis G. Wicks , . Copyright&copy; Piney Woods Research Services. Created: 11 Jun 1997: Updated: 6/19/02

@@ -1,0 +1,306 @@
+---
+title: "The Xena Comic Books Website"
+source_domain: amasci.com
+source_path: ~tegan/xena/index.html
+order: 8889
+reachable_from_entry: false
+images: 15
+internal_links: 52
+extracted: 2026-08-07T17:16:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Xena Comic Books Website
+
+*Source page: `~tegan/xena/index.html`*
+
+[<img src="pics/hera1ax.jpg" data-border="0" data-align="left" width="100" height="150" alt="Issue #1" />](xena8.html#hera1)
+
+[<img src="pics/orph1ax.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #1" />](xena5.html#orph1)
+
+# Xena Comic Books
+
+------------------------------------------------------------------------
+
+\
+
+NEWS!
+
+I will be updating this page soon, as soon as I can, with information on the new Xena series from Dark Horse. In the meantime, please check out Dark Horse's website: <http://www.dhorse.com/> for up-to-date information!
+
+------------------------------------------------------------------------
+
+Site Index
+
+- [Introduction](#intro) - Why I made this page!
+- [Disclaimer](#discl) - Legal stuff
+- [Checklist of Xena Comic Books](#chklst) - Complete list of all Xena comics
+- [Xena Comic Cover Gallery](gallery.html) - With links to reviews of those comics!
+- [Xena Comic Book News](#news) - What's the latest?
+- [Where to Buy Xena Comic Books](xenastores.html) - How to get Xena comics!
+- [Links to Related Pages](#links)
+- [Site Awards](#awards)
+
+<span id="intro"></span>
+
+------------------------------------------------------------------------
+
+## Introduction
+
+------------------------------------------------------------------------
+
+### Or, Why I Made This Page
+
+Xena is a very popular show right now, which means that it has given us a few spin-offs. One place Xena has spun into is the comic books.
+
+[<img src="pics/orph2ax.jpg" data-border="0" data-align="left" width="100" height="150" alt="Issue #2" />](xena5.html#orph2)
+
+For those not in the know, comic books are a form of storytelling that combine words with art. They are halfway between your average book and your average TV show. Their advantage over other media is that they are very portable, can be read repeatably, and sometimes they turn into collector's items...
+
+Xena comics, naturally, jumped to the top of comic collectables. Fortunately, Topps Publishing, who was putting them out, also kept in mind the comic book reader, and the stories turned out were pretty darned good.
+
+Unfortunately, Topps also bowed to the collecting market, putting out the same comic books with multiple variations of covers. Complicating things was the fact that Topps was often late in putting out their books. Readers never knew when the books will come out. This made it difficult to track the comics, and the massive confusion which resulted led to me creating this page.\
+
+------------------------------------------------------------------------
+
+### Xena Comic Books Overview
+
+#### Topps Comics
+
+The Topps Xena comic book series was actually made up of a series of mini-series.
+
+[<img src="pics/herc3px.jpg" data-border="0" data-align="right" width="100" height="150" alt="Hercules #3" />](herc2.html#herc3)
+
+- The first series is called simply *Xena: Warrior Princess* and consisted of three issues: 1, 2, and 0. Issues 1 and 2 had a two part main story, issue 0 was a stand-alone story, and a backup story ran through all three issues. All three issues had multiple covers; issue one had three. The entire series was reprinted in the second Xena Trade Paperback.
+- The second series is called *Joxer: Warrior Prince* and had three issues: 1-3. It focused on Joxer. All three issues had multiple covers, one art and one photo.
+- The third series is called *Xena and the Dragon's Teeth* and had three issues: 1-3. All three issues will have multiple covers, one art and one photo.
+- The fourth series is called *Callisto* and had three issues with multiple covers. The first issue had three covers.
+- The fifth series is called *Orpheus* and had three issues with multiple covers.
+- The sixth series is called *Bloodlines* and had two issues with multiple covers.
+- The seventh series is called *The Original Olympics* and had three issues with multiple covers.
+- A one-shot special called *The Wedding of Xena and Hercules* came out in August 1998. The art cover is by well-known comic book painter Alex Ross.
+- The eighth series is called *The Wrath of Hera* and had two issues with multiple covers.
+
+In addition, the Topps comic book version of Xena has shown up in:
+
+- *Hercules: The Legendary Journeys \#3-5*, which was reprinted in the first Xena Trade Paperback (*Xena: Warrior Princess 1st Appearance Collection*).
+- Two TV Guide special mini-comics (one promoting Hercules, the other promoting Xena). The Hercules mini-comic was reprinted in the first Xena Trade Paperback. The Xena mini-comic was reprinted in the second Xena Trade Paperback.
+- *Xena: Warrior Princess: Year One*, an exclusive comic available through American Entertainment (and promoted via TV Guide).
+- *The Official Xena Magazine*, issues 1, 2 and 4 all had short Xena Comics. Issue \#2 features the first comics appearance of Callisto.
+- *The Official Hercules and Xena Yearbook* had a short Xena comic, sequel to the Xena appearance in the original Hercules comic book.
+
+#### Dark Horse Comics
+
+Dark Horse produced its first Xena story for the 1999 Dark Horse Presents Annual. A second short story appeared in Dark Horse Presents \#148. Another short was serialized in Dark Horse Extra (in strip format) \#18-20. The regular series, woven into the shows continuity, started in September.
+
+[](#chklst)
+
+#### Checklist of Official Xena Comic Books
+
+#### Battle On
+
+Last but not least, there is one more Xena comic item of note. [Battle On](http://www.xenafan.com/battleon/) is an on-line, weekly comic strip based on Xena. This truly twisted strip pokes gentle fun at the show from the perspective of a true fan. Drawn by artist Jeanette Atwood and archived for your pleasure, these are a must-see for the Xena comic fan.
+
+<span id="discl"></span>
+
+------------------------------------------------------------------------
+
+## Disclaimer
+
+------------------------------------------------------------------------
+
+This website, its contents, and the code used to produce them are copyright © 1998 by Laura Gjovaag. All rights reserved. Eskimo North is my service provider, and has no responsibility or jurisdiction whatsoever over this site except for the terms of our service agreement, nor do I speak for or represent Eskimo North in any manner.
+
+No material from this website may be reproduced, in whole or in part, by electronic, mechanical, or other means, without permission of Laura Gjovaag, with the exception of cache files on your own, individual machine for ease in using and enjoying this site.
+
+Many graphics on this site are from Topps Comics and Topps Comics retains the full copyright and all other related rights with regards to such graphics. All attempts have been made to keep the use of copyrighted works within fair use parameters. I will not provide additional/larger graphics, so please do not ask. Any non-Topps graphics are copyright © 1998 by Laura Gjovaag unless otherwise indicated.
+
+All characters, related names and indicia are trademarks of Topps Publishing and/or MCA Television. This site and its maintainer are in no way affiliated with Topps Publishing and/or MCA Television.
+
+[<img src="pics/xena1cx.jpg" data-border="0" data-align="left" width="100" height="150" alt="Issue #1" />](xena1.html#xena1)
+
+The goals of this page:
+
+- To list all Xena comic books, including cover variations.
+- To give quick overviews and reviews of each comic story, listing all credits.
+- To display and critique samples of the art on and in Xena comics.
+- To act as a source of information for future, past, and current Xena comics.
+
+\
+<span id="chklst"></span>
+
+------------------------------------------------------------------------
+
+## Checklist of Xena (*and a little bit of Herc*) comic books
+
+------------------------------------------------------------------------
+
+This list was compiled by Laura Gjovaag.
+
+### Click on the title for more information, including an overview and review of the story,\
+cover scans of all variant covers, and art samples from all stories
+
+Xena Comics by Topps:
+
+- [<img src="pics/xena2ax.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #2" />](xena1.html#xena2)
+- [TV Guide - Hercules: The Legendary Journeys](herc1.html#guide1) June 15, 1996
+- [Hercules: The Legendary Journeys \#1](herc1.html#herc1) June 1996 (*Xena is not in this issue*)
+- [Hercules: The Legendary Journeys \#2](herc1.html#herc2) July 1996 (*Xena is not in this issue*)
+- [Hercules: The Legendary Journeys \#3](herc2.html#herc3) August 1996 (Two covers: art and photo)
+- [Hercules: The Legendary Journeys \#4](herc2.html#herc4) September 1996
+- [Hercules: The Legendary Journeys \#5](herc2.html#herc5) October 1996
+- [Xena: Warrior Princess 1st Appearance Collection](herc2.html#tpb1) November 1997 - (reprints Hercules \#3-5 and the Hercules TV Guide mini-comic)
+- [TV Guide - Xena: Warrior Princess](xena0.html#guide2) August 9, 1997
+- [Xena: Warrior Princess: Year One \#1](xena0.html#xenay1) August 1997 (Two covers: art and photo) *aka The TV Guide Special* [<img src="pics/joxr1ax.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #1" />](xena2.html#joxr1)
+- [Xena: Warrior Princess \#1](xena1.html#xena1) (of 2) August 1997 (Three covers: art and 2 photo)
+- [Xena: Warrior Princess \#2](xena1.html#xena2) (of 2) September 1997 (Two covers: art and photo)
+- [Xena: Warrior Princess \#0](xena1.html#xena0) October 1997 (Two covers: art and photo) *contains part three of the backup story in issues \#1 and \#2*
+- [Xena: Warrior Princess Trade Paperback](xena1.html#tpb2) February 1998 - (reprints Xena \#1, 2, and 0 and the Xena TV Guide mini-comic) (May not have shipped)
+- [Joxer: Warrior Prince \#1](xena2.html#joxr1) (of 3) November 1997 (Two covers: art and photo)
+- [Joxer: Warrior Prince \#2](xena2.html#joxr2) (of 3) December 1997 - (Two covers: art and photo)
+- [Joxer: Warrior Prince \#3](xena2.html#joxr3) (of 3) January 1998 - (Two covers: art and photo)
+- [Xena and the Dragon's Teeth \#1](xena3.html#teeth1) (of 3) December 1997 - (Two covers: art and photo)
+- [Xena and the Dragon's Teeth \#2](xena3.html#teeth2) (of 3) January 1998 - (Two covers: art and photo)
+- [Xena and the Dragon's Teeth \#3](xena3.html#teeth3) (of 3) February 1998 - (Two covers: art and photo) [<img src="pics/cali2ax.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #2" />](xena4.html#cali2)
+- [Callisto \#1](xena4.html#cali1) (of 3) February 1998 - (Three covers: art and 2 photo)
+- [Callisto \#2](xena4.html#cali2) (of 3) March 1998 - (Two covers: art and photo)
+- [Callisto \#3](xena4.html#cali3) (of 3) April 1998 - (Two covers: art and photo)
+- [Orpheus \#1](xena5.html#orph1) (of 3) March 1998 - (Two covers: art and photo)
+- [Orpheus \#2](xena5.html#orph2) (of 3) April 1998 - (Two covers: art and photo)
+- [Orpheus \#3](xena5.html#orph3) (of 3) May 1998 - (Two covers: art and photo)
+- [Bloodlines \#1](xena6.html#blood1) (of 1) May 1998 - (Two covers: art and photo)
+- [Bloodlines \#2](xena6.html#blood2) (of 2) June 1998 - (Two covers: art and photo)
+- [The Original Olympics \#1](xena7.html#oly1) (of 3) June 1998 - (Two covers: art and photo)
+- [The Original Olympics \#2](xena7.html#oly2) (of 3) July 1998 - (Two covers: art and photo)
+- [The Original Olympics \#3](xena7.html#oly3) (of 3) August 1998 - (Two covers: art and photo) [<img src="pics/hera2ax.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #2" />](xena8.html#hera2)
+- [The Wedding of Xena and Hercules](xena0.html#wedding) August 1998 (Two covers: art and photo)
+- [The Wrath of Hera \#1](xena8.html#hera1) (of 2) August 1998 - (Two covers: art and photo)
+- [The Wrath of Hera \#2](xena8.html#hera2) (of 2) September 1998 - (Two covers: art and photo)
+- [Xena: Warrior Princess Magazine \#1](xenamag.html#xm1) Fall 1997 *Quarterly* (Includes a comic story)
+- [Xena: Warrior Princess Magazine \#2](xenamag.html#xm2) Winter 1998 *Quarterly* (Includes a comic story)
+- [Xena: Warrior Princess Magazine \#3](xenamag.html#xm3) Spring 1998 *Quarterly* (No comic story)
+- [Xena: Warrior Princess Magazine \#4](xenamag.html#xm4) Summer 1998 *Quarterly* (Includes a comic story)
+- [The Official Hercules and Xena Yearbook](xenamag.html#yb1) Fall 1998 (Includes a comic story)
+
+Xena Comics by Dark Horse:
+
+- 
+- Dark Horse Presents Annual: DHP Jr. August 1999 (features a Xena Story)
+- Xena Warrior Princess \#1 September 1999 - (Two covers: art and photo)
+- Xena Warrior Princess \#2 October 1999 - (Two covers: art and photo)
+- Xena Warrior Princess \#3 November 1999 - (Two covers: art and photo)
+- Dark Horse Presents \#148 November 1999 - (one story in an anthology)
+- Xena Warrior Princess \#4 December 1999 - (Two covers: art and photo)
+- Xena Warrior Princess \#5 January 2000 - (Two covers: art and photo)
+
+[Xena Comic Book Cover Gallery](gallery.html)
+
+Upcoming Xena Comics:
+
+- Xena: Warrior Princess \#6 23 Feb 2000
+- Xena: Warrior Princess \#7 29 Mar 2000
+- Xena: Warrior Princess \#8 26 Apr 2000
+- Xena: Warrior Princess \#9 31 May 2000
+- Xena: Warrior Princess - The Way of Death TPB 14 Jun 2000
+
+### Visit [Dark Horse Comics](http://www.dhorse.com/) and do a search on Xena for more detailed previews (including cover art!).
+
+------------------------------------------------------------------------
+
+[Early Hercules Comics](herc1.html) --- [Hercules #3-5](herc2.html) --- [Xena Specials](xena0.html) --- [First Xena Mini](xena1.html) --- [Second Xena Mini (Joxer)](xena2.html) --- [Third Xena Mini (Dragon's Teeth)](xena3.html) --- [Fourth Xena Mini (Callisto)](xena4.html) --- [Fifth Xena Mini (Orpheus)](xena5.html) --- [Sixth Xena Mini (Bloodlines)](xena6.html) --- [Seventh Xena Mini (Olympics)](xena7.html) --- [Eighth Xena Mini (Hera)](xena8.html)
+
+[Xena Magazine](xenamag.html) --- [Xena Comic Cover Gallery](gallery.html)
+
+<span id="news"></span>
+
+------------------------------------------------------------------------
+
+## Xena Comic Book News
+
+------------------------------------------------------------------------
+
+**10 Aug 1999** - Check your stores for the Xena story in the Dark Horse Annual starting tomorrow!
+
+**12 May 1999** - The Dark Horse Presents Annual will feature a Xena story. The book is due out in August.
+
+**22 Feb 1999** - DC is still interested in doing a Wonder Woman/Xena crossover, and are apparently in negotiations with Dark Horse.
+
+**4 Dec 1998** - Rumor has been confirmed! Dark Horse will indeed by putting out the official Xena comic book sometime later this year. Please visit the [Dark Horse Comics](http://www.dhorse.com/) website for more up-to-date information. Dark Horse is home of the award winning *Concrete* series, and has also put out such gems as *Fax From Sarajevo* and *Harlan Ellison's Dream Corridor*. They also publish the wildly popular *Star Wars* comic books, and lately have started publishing *Buffy the Vampire Slayer*. All things considered, I can't think of a better home for Xena.
+
+#### If you know of any Xena comic story I've missed, or know some tidbit of Xena comic news, e-mail me at [realtegan@excite.com (Laura Gjovaag)](mailto:realtegan@excite.com?subject=Xena) and let me know.
+
+<span id="links"></span>
+
+------------------------------------------------------------------------
+
+## Links
+
+------------------------------------------------------------------------
+
+\
+[The Official Xena Site](http://www.universalstudios.com/tv/xena/) would be a good place to start.\
+--- --- ---\
+[Dark Horse Comics](http://www.dhorse.com/) will be publishing Xena in the near future.\
+If you want up-to-date information, bookmark and check out this page.\
+--- --- ---\
+[New Comics Release List](http://www.jacksonville.net/~ncrl/)\
+Check here to see when the latest Xena book is out. Upcoming comics list usually goes a couple weeks into the future.\
+--- --- ---\
+[Xena Action Figure Scrapbook](http://members.xoom.com/shebley/shebley/)\
+A fan who has done with the many Xena action figures what I've been trying to do with the comic books. Worth a long look or two.\
+--- --- ---\
+[Gabrielle's Place](http://jnorman.simplenet.com) has comics information.\
+Check out the [Gabby Goods section](http://jnorman.simplenet.com/gabgoods.html) for information on and pictures of the comics and action figures.\
+--- --- ---\
+[The Offical Renee O'Connor Fan Club](http://rampages.onramp.net/~rocweb/)\
+I'm a member, of course. Gabrielle is the reason I'm a fan.\
+--- --- ---\
+[Gabbygab and Mariner's Look at Xena](http://gab.simplenet.com/xena/)\
+A great, if crowded, site with lots of information...\
+--- --- ---\
+[Aida's Xena:Warrior Princess Page.](http://www.xenawp.com)\
+An informative site, with links and awards. Check it out!\
+--- --- ---\
+[Tom's Comprehensive Xena Page](http://www.xenafan.com/)\
+There's no need to link to anyone else, because [Tom's Links Page](http://www.xenafan.com/links.shtml) has got them all...\
+Also the home of the [Battle On Comic Strip](http://www.xenafan.com/battleon/).\
+--- --- ---
+
+<a href="http://www.comicsites.com" data-;="" onmouseover="window.status=&#39;Comic Sites Alliance&#39;; return true" onmouseout="window.status=&#39;&#39;; return true" target="_top"><img src="../pics/csabanner.gif" data-border="0" width="400" height="40" alt="Comic Sites Alliance" /></a>\
+Member of the Comic Sites Alliance
+
+\
+--- --- ---\
+[<img src="http://www.eskimo.com/~tegan/aqua/pics/cbldf.gif" data-border="0" width="104" height="149" alt="Comic Book Legal Defense Fund" />](http://www.cbldf.org/)\
+--- --- ---\
+
+|  |
+|----|
+| <img src="pics/ringpic.jpg" data-align="BOTTOM" data-border="0" usemap="#xenaring" ismap="" width="350" height="110" /> |
+| Would you like to see your page on the tour of the Xenaverse? <a href="http://www.webring.org/cgi-bin/webring?home&amp;ring=xenaring" onmouseover="window.status=&#39;Go to the Xena Web Ring Homepage&#39;; return
+    true"><strong>Visit our Homepage.</strong></a> |
+
+<span id="awards"></span>
+
+------------------------------------------------------------------------
+
+## Awards
+
+------------------------------------------------------------------------
+
+This section is for the many awards we get! ...Ok. For the one we've gotten so far.
+
+[<img src="pics/award1.jpg" data-border="0" width="135" height="187" alt="Great Xena Site Award October 1997" />](http://www.xenawp.com)
+
+------------------------------------------------------------------------
+
+[<img src="pics/blood1ax.jpg" data-border="0" data-align="left" width="100" height="150" alt="Issue #1" />](xena6.html#blood1)
+
+[<img src="pics/orph1px.jpg" data-border="0" data-align="right" width="100" height="150" alt="Issue #1" />](xena5.html#orph1)
+
+Any further questions, comments, suggestions, or insults should be directed to [realtegan@excite.com (Laura Gjovaag)](mailto:realtegan@excite.com?subject=Xena).\
+This page is owned and updated by Laura Gjovaag, who thinks Gabrielle kicks booty.\
+This page was first created 3 Oct 1997. Go Dark Horse Comics!\
+No comics were harmed in the making of this website.\
+
+------------------------------------------------------------------------

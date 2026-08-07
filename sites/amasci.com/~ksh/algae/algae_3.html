@@ -1,0 +1,291 @@
+<HTML>
+<HEAD>
+<!-- This HTML file has been created by texi2html 1.54
+     from algae.texinfo on 4 May 1998 -->
+
+<TITLE>Algae - Example Programs</TITLE>
+<link href="algae_4.html" rel=Next>
+<link href="algae_2.html" rel=Previous>
+<link href="algae_toc.html" rel=ToC>
+
+</HEAD>
+<BODY>
+<p>Go to the <A HREF="algae_1.html">first</A>, <A HREF="algae_2.html">previous</A>, <A HREF="algae_4.html">next</A>, <A HREF="algae_11.html">last</A> section, <A HREF="algae_toc.html">table of contents</A>.
+<P><HR><P>
+
+
+<h1><img src="icon.gif" alt=""> <A NAME="SEC3" HREF="algae_toc.html#TOC3">Example Programs</A></H1>
+
+<P>
+Following are several examples designed to show off Algae's capabilities
+as well as to give you a feel for how it is used.  The <TT>`examples'</TT>
+directory in the source distribution of <CODE>algae</CODE> contains some
+additional code for perusal.
+</P>
+
+
+
+<H2><A NAME="SEC4" HREF="algae_toc.html#TOC4">Temperature Conversion</A></H2>
+<P>
+<A NAME="IDX103"><img src="invisible.xbm"></A>
+<A NAME="IDX104"><img src="invisible.xbm"></A>
+
+</P>
+<P>
+This Algae program prints a table of Fahrenheit temperatures and their
+Celsius equivalents:
+
+</P>
+
+<PRE>
+# Print temperature conversions
+fahr = sort (0:300:20, 32, 212);
+celsius = (5/9)*(fahr-32);
+[fahr;celsius]'?
+</PRE>
+
+<P>
+Its output looks like this:
+
+</P>
+
+<PRE>
+[         0.000       -17.78 ]
+[         20.00       -6.667 ]
+[         32.00        0.000 ]
+[         40.00        4.444 ]
+[         60.00        15.56 ]
+[         80.00        26.67 ]
+[         100.0        37.78 ]
+[         120.0        48.89 ]
+[         140.0        60.00 ]
+[         160.0        71.11 ]
+[         180.0        82.22 ]
+[         200.0        93.33 ]
+[         212.0        100.0 ]
+[         220.0        104.4 ]
+[         240.0        115.6 ]
+[         260.0        126.7 ]
+[         280.0        137.8 ]
+[         300.0        148.9 ]
+</PRE>
+
+<P>
+This program does quite a bit in only four lines.  The entire first line
+is a <STRONG>comment</STRONG> (because it starts with <CODE>#</CODE>) and is ignored by
+Algae.
+</P>
+<P>
+In the second line we define the Fahrenheit temperatures for our table.
+The expression <CODE>0:300:20</CODE> gives a vector that goes from 0 to 300 in
+steps of 20.  We add two more elements, 32 and 212, to that vector by
+using the comma operator.  Then we use the <CODE>sort</CODE> function to sort
+it in increasing order.  Finally, our vector of Fahrenheit temperatures
+is assigned to the variable <CODE>fahr</CODE>.  Nothing is printed by this
+statement, since it ends with a semicolon.
+</P>
+<P>
+The third line computes the Celsius equivalents using the familiar
+conversion formula.  First 32 is subtracted from each element of
+<CODE>fahr</CODE>.  Then each element is multiplied by 5/9.  The result is
+assigned to the variable <CODE>celsius</CODE>.  Here, again, nothing is
+printed.
+</P>
+<P>
+Even though all of the terms so far have been integers, <CODE>celsius</CODE>
+is a real-valued vector.  Unlike some programming languages, integer
+division in Algae does not result in truncation--the expression
+<CODE>5/9</CODE> returns a real value that is approximately 0.556.
+</P>
+<P>
+The last line prints the temperatures out as a matrix, with the
+Fahrenheit temperatures in the first column and their Celsius
+equivalents in the second column.  We do that by using brackets to form
+a matrix with <CODE>fahr</CODE> in the first row and <CODE>celsius</CODE> in the
+second row and then transposing the matrix with the <CODE>'</CODE> operator.
+The question mark on the end is not necessary, since the matrix would
+also be printed without it, but it does call attention to the line as
+one that prints.
+</P>
+
+
+<H2><A NAME="SEC5" HREF="algae_toc.html#TOC5">Reading and Summing Numbers</A></H2>
+<P>
+<A NAME="IDX105"><img src="invisible.xbm"></A>
+<A NAME="IDX106"><img src="invisible.xbm"></A>
+
+</P>
+<P>
+This Algae program reads a bunch of numbers, adds them up, and prints the
+result:
+
+</P>
+
+<PRE>
+# Read and sum some numbers
+sum = 0;
+$read = 1;
+while ($read) { sum += readnum(); }
+sum?
+</PRE>
+
+<P>
+The program reads numbers one at a time and adds them to <CODE>sum</CODE>, so
+in the first line <CODE>sum</CODE> is initialized to zero.  The <CODE>readnum</CODE>
+function is used to read the numbers.  This function is one of the few
+standard functions that has a side effect:  it assigns to the variable
+<CODE>$read</CODE> the number of values that it read.  It will be less than
+the number you asked for if <CODE>readnum</CODE> runs out of data.
+</P>
+<P>
+The <CODE>while</CODE> loop executes its statements repeatedly until its
+condition tests true.  We set <CODE>$read</CODE> to 1 (true) first, so we know
+that the <CODE>while</CODE> loop will execute at least once.  After that, the
+<CODE>while</CODE> loop continues until <CODE>$read</CODE> is eventually set to 0 by
+the <CODE>readnum</CODE> function.  When the <CODE>while</CODE> loop is done, the last
+line prints <CODE>sum</CODE>.
+</P>
+<P>
+Usually, we give the <CODE>readnum</CODE> function two arguments: a "shape"
+vector and a file name.  The "shape" vector describes the number of
+values to read and in what form (vector, matrix, etc.) they should be
+returned.  The values are read from the named file.  Since the program
+above gives neither argument, <CODE>readnum</CODE> simply reads one value from
+the standard input device.
+</P>
+<P>
+The <CODE>+=</CODE> operator adds the value on the right to the variable on
+the left; the expression <CODE>sum+=readnum()</CODE> does the same thing as
+<CODE>sum=sum+readnum()</CODE>.  Every time the <CODE>while</CODE> loop repeats,
+<CODE>sum</CODE> is increased by the value returned by <CODE>readnum</CODE>.  When
+<CODE>readnum</CODE> runs out of data, it returns 0 (so <CODE>sum</CODE> isn't changed)
+and sets <CODE>$read</CODE> to 0 (so the <CODE>while</CODE> loop quits
+looping).
+</P>
+<P>
+<A NAME="IDX107"><img src="invisible.xbm"></A>
+Unless you redirect standard input, this program will quietly read what
+you type until you signal an end-of-file (<KBD>C-d</KBD> on UNIX systems and
+<KBD>C-z</KBD> on VMS).
+</P>
+
+
+<H2><A NAME="SEC6" HREF="algae_toc.html#TOC6">Integer Powers</A></H2>
+<P>
+<A NAME="IDX108"><img src="invisible.xbm"></A>
+<A NAME="IDX109"><img src="invisible.xbm"></A>
+
+</P>
+<P>
+This program illustrates the use of a function.  In it, we define the
+function <CODE>power</CODE> that computes integer powers of its argument.  We
+also show some Algae code that calls <CODE>power</CODE>.
+</P>
+
+<PRE>
+# power:  raise `x' to the `n'-th power
+power = function (x; n)
+{
+  local (y);
+  y = x;
+  while (n &#62; 1)
+  {
+    y = y * x;
+    n -= 1;
+  }
+  return y;
+};
+
+power (2; 8)?
+power ([ 1, 2; 2, 3 ]; 4)?
+</PRE>
+
+<P>
+The first line of this program is an ordinary assignment statement,
+which assigns the function on its right side to the variable
+<CODE>power</CODE>.  The function's arguments are defined in the parentheses
+that follow the <CODE>function</CODE> keyword.  In this case, there are two
+arguments:  <CODE>x</CODE> and <CODE>n</CODE>.
+</P>
+<P>
+In Algae, all function arguments are called "by value".  When a
+function is called, it gets copies of what the calling program gave as
+arguments and can modify them without changing the values retained by
+the calling program.  In the <CODE>power</CODE> function we decrement
+<CODE>n</CODE> each time through the <CODE>while</CODE> loop, but this has no effect
+on the calling program.
+</P>
+<P>
+The <CODE>local</CODE> statement defines its argument, the variable <CODE>y</CODE>,
+as having local scope.  This means that <CODE>power</CODE> has its own
+temporary variable called <CODE>y</CODE> that is defined only within that
+function.  This <CODE>y</CODE> is first given the value of <CODE>x</CODE> and then,
+inside the <CODE>while</CODE> loop, repeatedly multiplied by <CODE>x</CODE> until
+<CODE>n</CODE> is no longer greater than 1.
+</P>
+<P>
+The value that <CODE>power</CODE> computes is returned to its caller by the
+<CODE>return</CODE> statement.  Any expression may follow <CODE>return</CODE>, and
+any number of <CODE>return</CODE> statements may appear in a function.  If the
+function has no return statement, it returns NULL to its caller.
+</P>
+<P>
+The first time we call <CODE>power</CODE>, it returns (and the calling program
+prints) the value 256.  In this case <CODE>power</CODE> is really not very
+useful, since we could have obtained the same result with the expression
+<CODE>2^8</CODE> using Algae's exponentiation operator.
+</P>
+<P>
+The <CODE>power</CODE> function does have a use, though, as the second call to
+it shows.  Algae's exponentiation operator performs in an
+element-by-element sense, so <CODE>[1,2;2,3]^4</CODE> returns
+</P>
+
+<PRE>
+[           1         16 ]
+[          16         81 ]
+</PRE>
+
+<P>
+In contrast, <CODE>power</CODE> performs in a matrix sense.  In the program
+above, it returns
+</P>
+
+<PRE>
+[          89        144 ]
+[         144        233 ]
+</PRE>
+
+<P>
+The algorithm used in the <CODE>power</CODE> function above can be improved
+upon by using successive squaring:
+
+</P>
+
+<PRE>
+power = function (x; n)
+{
+  if (n == 1)
+  {
+    return x;
+  elseif (n%2)
+    return x * self (x; n-1);
+  else
+    x = self (x; n/2);
+    return x * x;
+  }
+};
+</PRE>
+
+<P>
+This <CODE>power</CODE> function might be useful, but it's certainly not ready
+for prime-time.  Notice that it gives wrong answers if <CODE>n</CODE> is 0 or
+a negative integer.  What happens for the expression
+<CODE>power(4;1/2)</CODE>, in which <CODE>n</CODE> is not an integer?  To make
+<CODE>power</CODE> more robust you'd probably want to add some <CODE>if</CODE>
+statements to check for illegal arguments.
+</P>
+<P><HR><P>
+<p>Go to the <A HREF="algae_1.html">first</A>, <A HREF="algae_2.html">previous</A>, <A HREF="algae_4.html">next</A>, <A HREF="algae_11.html">last</A> section, <A HREF="algae_toc.html">table of contents</A>.
+</BODY>
+</HTML>

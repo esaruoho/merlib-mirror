@@ -1,0 +1,229 @@
+Pull 134 -- March Madness
+ -- Day 1 
+
+ March Madness 
+Missoula, Montana 
+
+ Pull: 134 
+ Organizer(s): Ingrid Rosenquist 
+ Wheels on Carpet
+ Region: 3 
+
+ Track: 
+ Good 
+ Date: 
+Sat
+ 2 
+Mar
+ 2002 
+
+ Weather: 
+ N/A -- the pull was indoors. 
+
+ Day 1 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Teressa Keenan 
+
+ 40 # Class 
+
+Judged by 
+Teressa Keenan
+
+ 120 # Start weight, 
+ 40 # Increment, 
+Cart weighs 
+ 65 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jar Jar Binks 
+ 2 
+ 880
+
+ 68.06 
+ 37 
+ 23.78 
+ 6.0 
+ Marlana Ashlie
+ Morgan Star
+
+ Australian Cattle Dog 
+
+ Cassie 
+ 2 
+ 640
+
+ 17.34 
+ 29 
+ 22.07 
+ 3.0 
+ Marlana Ashlie
+
+ Cattle Dog 
+
+ 60 # Class 
+
+Judged by 
+Teressa Keenan
+
+ 200 # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Sasha 
+ 3 
+ 1160
+
+ 53.23 
+ 50 
+ 23.20 
+ 7.0 
+ Jeanine Blaner
+
+ Collie 
+
+ Poe 
+ 3 
+ 600
+
+ 5.57 
+ 59 
+ 10.17 
+ 4.0 
+ Ingrid Rosenquist
+
+ Australian Cattle Dog 
+
+ Tessa 
+ 3 
+ 600
+
+ 7.65 
+ 47 
+ 12.77 
+ 1.0 
+ Ingrid Rosenquist
+
+ Australian Cattle Dog 
+
+ 80 # Class 
+
+Judged by 
+Marielle Schmidt
+
+ 200 # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Aky 
+ 3 
+ 1560
+
+ 14.97 
+ 73 
+ 21.37 
+ 6.0 
+ Teressa Keenan
+
+ German Shepherd 
+
+ Dakota 
+ 3 
+ 1560
+
+ 32.95 
+ 67 
+ 23.28 
+ 3.0 
+ Bobbie Masters
+
+ Husky Mix 
+
+ 100 # Class 
+
+Judged by 
+Teressa Keenan
+
+ 200 # Start weight, 
+ 80 # Increment, 
+Cart weighs 
+ 200 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Hank 
+ 3 
+ 1560
+
+ 49.43 
+ 84 
+ 18.57 
+ 5.0 
+ Marielle Schmidt
+
+ Labrador Retriever 
+
+ Last Updated: 07:18:38 on 03-23-2002 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

@@ -1,0 +1,201 @@
+Food quantity grams cals protein fat carbs fiber sugars Fast foods, biscuit, with egg biscuit 136 372.64 11.60 22.07 31.91 0.82
+ Fast foods, biscuit, with egg and bacon biscuit 150 457.50 17.00 31.09 28.59 0.75 1.32
+ Fast foods, biscuit, with egg and ham biscuit 192 441.60 20.43 27.03 30.32 0.77 1.59
+ Breakfast items, biscuit with egg and sausage biscuit 180 581.40 19.15 38.70 41.15 0.90 1.26
+ Breakfast items, biscuit with egg and steak biscuit 148 409.96 17.94 28.43 21.27
+ Fast foods, biscuit, with egg, cheese, and bacon biscuit 144 476.64 16.26 31.39 33.42
+ Fast foods, biscuit, with ham biscuit 113 386.46 13.39 18.42 43.79 0.79 0.92
+ Fast foods, biscuit, with sausage biscuit 124 484.84 12.11 31.78 40.04 1.36 0.83
+ Fast foods, croissant, with egg and cheese croissant 127 368.30 12.79 24.70 24.31
+ Fast foods, croissant, with egg, cheese, and bacon croissant 129 412.80 16.23 28.35 23.65
+ Fast foods, croissant, with egg, cheese, and ham croissant 152 474.24 18.92 33.58 24.20
+ Fast foods, croissant, with egg, cheese, and sausage croissant 160 523.20 20.30 38.16 24.72
+ Fast foods, danish pastry, cheese pastry 91 353.08 5.83 24.62 28.69
+ Fast foods, danish pastry, cinnamon pastry 88 349.36 4.80 16.72 46.85
+ Fast foods, danish pastry, fruit pastry 94 334.64 4.76 15.93 45.06
+ Fast foods, egg, scrambled eggs 94 199.28 13.01 15.21 1.96 0.00 1.43
+ Fast foods, english muffin, with butter muffin 63 189.00 4.87 5.76 30.36
+ Fast foods, english muffin, with cheese and sausage muffin 115 393.30 15.34 24.27 29.16 1.49 1.22
+ Fast foods, english muffin, with egg, cheese, and canadian bacon sandwich 137 289.07 16.69 12.59 26.74 1.51 2.75
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, english muffin, with egg, cheese, and sausage muffin 165 486.75 21.66 30.85 30.97
+ Breakfast items, french toast with butter slices 135 356.40 10.34 18.77 36.05
+ Fast foods, french toast sticks pieces 141 513.24 8.28 29.05 57.85 2.68 26.40
+ Fast foods, pancakes with butter and syrup cakes 232 519.68 8.26 13.99 90.90
+ Fast foods, potatoes, hashed brown cup 72 151.20 1.94 9.22 16.15
+ Fast foods, brownie brownie (2" square) 60 243.00 2.74 10.10 38.97
+ Fast foods, ice milk, vanilla, soft-serve, with cone cone 103 163.77 3.89 6.12 24.11 0.10 17.95
+ Fast foods, cookies, animal crackers box 67 298.82 4.14 9.00 50.47
+ Fast foods, cookies, chocolate chip box 55 232.65 2.89 12.14 36.22
+ Fast foods, sundae, caramel sundae 155 303.80 7.30 9.27 49.31 0.00
+ Fast foods, sundae, hot fudge sundae 158 284.40 5.64 8.63 47.67 0.00
+ Fast foods, sundae, strawberry sundae 153 267.75 6.26 7.85 44.65 0.00
+ Fast foods, chicken, breaded and fried, dark meat (drumstick or thigh) pieces 148 430.68 30.07 26.70 15.70
+ Fast foods, chicken, breaded and fried, light meat (breast or wing) pieces 163 493.89 35.71 29.52 19.58
+ Fast foods, chicken, breaded and fried, boneless pieces, plain piece 18 54.18 3.06 3.50 2.59 0.00 0.00
+ Fast foods, chicken, breaded and fried, boneless pieces, plain pieces 106 319.06 18.02 20.61 15.27 0.00 0.00
+ Fast foods, chicken, breaded and fried, boneless pieces, with barb. sauce pieces 130 330.20 17.15 17.97 25.03
+ Fast foods, chicken, breaded and fried, boneless pieces, with honey pieces 115 328.90 16.77 17.54 26.88
+ Fast foods, chicken, breaded and fried, boneless pieces, with mustard sauce pieces 130 322.40 17.42 18.94 20.85
+ Fast foods, chicken, breaded and fried, boneless pieces, with sweet and sour pieces 130 345.80 16.95 17.95 28.95
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, chili con carne cup (8 fl oz) 253 255.53 24.62 8.27 21.94
+ Fast foods, clams, breaded and fried cup 115 450.80 12.82 26.40 38.81
+ Entrees, crab cake cake 60 159.60 11.25 10.35 5.11 0.24
+ Entrees, fish fillet, battered or breaded, and fried fillet 91 211.12 13.34 11.18 15.44 0.46
+ Fast foods, oysters, battered or breaded, and fried pieces 139 368.35 12.54 17.93 39.88
+ Entrees, pizza with cheese pizza (12" dia) 503 1121.69 61.32 25.65 163.68
+ Entrees, pizza with cheese slice 63 140.49 7.68 3.21 20.50
+ Entrees, pizza with cheese, meat, and vegetables pizza (12" dia) 631 1470.23 103.93 42.84 170.05
+ Entrees, pizza with cheese, meat, and vegetables slice 79 184.07 13.01 5.36 21.29
+ Entrees, pizza with pepperoni pizza (12" dia) 567 1445.85 80.85 55.57 158.65
+ Entrees, pizza with pepperoni slice 71 181.05 10.12 6.96 19.87
+ Fast foods, salad, vegetable, tossed, without dressing cup 207 33.12 2.59 0.14 6.67
+ Fast foods, salad, vegetable, tossed, without dressing cup 104 16.64 1.30 0.07 3.35
+ Fast foods, salad, vegetable, tossed, without dressing, with cheese and egg cup 217 101.99 8.77 5.79 4.75
+ Fast foods, salad, vegetable, tossed, without dressing, with chicken cup 218 104.64 17.44 2.18 3.73
+ Fast foods, salad, vegetable, tossed, without dressing, with pasta and seafood cup 417 379.47 16.43 20.85 31.98
+ Fast foods, salad, vegetable, tossed, without dressing, with shrimp cup 236 106.20 14.51 2.48 6.61
+ Fast foods, salad, vegetables tossed, without dressing, with turkey, ham and cheese cup 326 267.32 26.01 16.07 4.73
+ Fast foods, scallops, breaded and fried pieces 144 385.92 15.75 19.40 38.49
+ Fast foods, shrimp, breaded and fried 6-8 shrimp 164 454.28 18.88 24.90 40.00
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, burrito, with beans pieces 217 447.02 14.06 13.50 71.44
+ Fast foods, burrito, with beans and cheese pieces 186 377.58 15.07 11.70 54.96
+ Fast foods, burrito, with beans and chili peppers pieces 204 412.08 16.38 14.67 58.08
+ Fast foods, burrito, with beans and meat pieces 231 508.20 22.48 17.81 66.02
+ Fast foods, burrito, with beans, cheese, and beef pieces 203 330.89 14.58 13.30 39.69
+ Fast foods, burrito, with beans, cheese, and chili peppers pieces 336 661.92 33.30 22.98 85.18
+ Fast foods, burrito, with beef pieces 220 523.60 26.60 20.81 58.52
+ Fast foods, burrito, with beef and chili peppers pieces 201 426.12 21.51 16.54 49.45
+ Fast foods, burrito, with beef, cheese, and chili peppers pieces 304 632.32 40.92 24.78 63.72
+ Fast foods, burrito, with fruit (apple or cherry) burrito, large 155 483.60 5.24 19.95 73.27
+ Fast foods, burrito, with fruit (apple or cherry) burrito, small 74 230.88 2.50 9.52 34.98
+ Fast foods, chimichanga, with beef chimichanga 174 424.56 19.61 19.68 42.80
+ Fast foods, chimichanga, with beef and cheese chimichanga 183 442.86 20.06 23.44 39.33
+ Fast foods, chimichanga, with beef and red chili peppers chimichanga 190 423.70 18.11 19.13 45.77
+ Fast foods, chimichanga, with beef, cheese, and red chili peppers chimichanga 180 363.60 14.67 17.55 38.27
+ Fast foods, enchilada, with cheese enchilada 163 319.48 9.63 18.84 28.54
+ Fast foods, enchilada, with cheese and beef enchilada 192 322.56 11.92 17.64 30.47
+ Fast foods, enchirito, with cheese, beef, and beans enchirito 193 343.54 17.89 16.08 33.79
+ Fast foods, frijoles with cheese cup 167 225.45 11.37 7.78 28.71
+ Fast foods, nachos, with cheese portion (6-8 nachos) 113 345.78 9.10 18.95 36.33
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, nachos, with cheese and jalapeno peppers portion (6-8 nachos) 204 607.92 16.81 34.15 60.08
+ Fast foods, nachos, with cheese, beans, ground beef, and peppers portion (6-8 nachos) 255 568.65 19.79 30.70 55.82
+ Fast foods, nachos, with cinnamon and sugar portion (6-8 nachos) 109 591.87 7.19 35.98 63.39
+ Fast foods, taco large 263 568.08 31.77 31.61 41.11
+ Fast foods, taco small 171 369.36 20.66 20.55 26.73
+ Fast foods, taco salad cup 198 279.18 13.23 14.77 23.58
+ Fast foods, taco salad with chili con carne cup 261 289.71 17.41 13.13 26.57
+ Fast foods, tostada, with beans and cheese piece 144 223.20 9.60 9.86 26.52
+ Fast foods, tostada, with beans, beef, and cheese piece 225 333.00 16.09 16.94 29.66
+ Fast foods, tostada, with beef and cheese piece 163 314.59 18.99 16.35 22.77
+ Tostada with guacamole pieces 261 360.18 12.48 23.26 32.02
+ Sandwiches and burgers, cheeseburger, regular, single meat patty, plain sandwich 102 319.26 14.77 15.15 31.75
+ Fast foods, cheeseburger, regular, single patty, with condiments sandwich 113 294.93 15.96 14.15 26.53
+ Fast foods, cheeseburger, regular, single patty, with condiments and vegetables sandwich 154 358.82 17.83 19.79 28.14
+ Fast foods, cheeseburger, regular, double patty, plain sandwich 155 457.25 27.67 28.47 22.06
+ Fast foods, cheeseburger, regular, double patty, with condiments and vegetables sandwich 166 416.66 21.25 21.08 35.19
+ Fast foods, cheeseburger, regular, double patty and bun, plain sandwich 160 460.80 22.13 21.62 44.26
+ Fast foods, cheeseburger, regular, double patty and bun, with condiments and vegetables sandwich 228 649.80 29.73 35.27 53.12
+ Sandwiches and burgers, cheeseburger, large, single meat patty, plain sandwich 185 608.65 30.14 32.99 47.42
+ Sandwiches and burgers, cheeseburger, large, single meat patty, with bacon and condiments sandwich 195 608.40 32.00 36.76 37.13
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, cheeseburger, large, single patty, with condiments and vegetables sandwich 219 562.83 28.19 32.94 38.39
+ Fast foods, cheeseburger, large, single patty, with ham, condiments and vegetables sandwich 254 744.22 39.50 48.18 37.67
+ Fast foods, cheeseburger, large, double patty, with condiments and vegetables sandwich 258 704.34 37.98 43.65 39.65
+ Fast foods, cheeseburger, triple patty, plain sandwich 304 796.48 56.06 50.95 26.69
+ Fast foods, chicken fillet sandwich, plain sandwich 182 515.06 24.12 29.45 38.69
+ Fast foods, chicken fillet sandwich, with cheese sandwich 228 631.56 29.41 38.76 41.59
+ Fast foods, egg and cheese sandwich sandwich 146 340.18 15.61 19.42 25.93
+ Fast foods, fish sandwich, with tartar sauce sandwich 158 431.34 16.94 22.77 41.02
+ Fast foods, fish sandwich, with tartar sauce and cheese sandwich 183 523.38 20.61 28.60 47.63
+ Fast foods, hamburger, regular, single patty, plain sandwich 90 274.50 12.32 11.82 30.51
+ Fast foods, hamburger, regular, single patty, with condiments sandwich 106 272.42 12.32 9.77 34.25 2.33 6.70
+ Fast foods, hamburger, regular, single patty, with condiments and vegetables sandwich 110 279.40 12.91 13.48 27.29
+ Fast foods, hamburger, regular, double patty, plain sandwich 176 543.84 29.92 27.90 42.93
+ Fast foods, hamburger, regular, double patty, with condiments sandwich 215 576.20 31.82 32.46 38.74
+ Sandwiches and burgers, hamburger, large, single meat patty, plain sandwich 137 426.07 22.62 22.92 31.73
+ Sandwiches and burgers, hamburger, large, single meat patty, with condiments and vegetables sandwich 218 512.30 25.83 27.36 40.00
+ Fast foods, hamburger, large, double patty, with condiments and vegetables sandwich 226 540.14 34.28 26.55 40.27
+ Fast foods, hamburger, large, triple patty, with condiments sandwich 259 691.53 49.99 41.47 28.59
+ Fast foods, ham and cheese sandwich sandwich 146 351.86 20.69 15.48 33.35
+ Fast foods, ham, egg, and cheese sandwich sandwich 143 347.49 19.25 16.30 30.95
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, hotdog, plain sandwich 98 242.06 10.39 14.54 18.03
+ Fast foods, hotdog, with chili sandwich 114 296.40 13.51 13.44 31.29
+ Fast foods, hotdog, with corn flour coating (corndog) sandwich 175 460.25 16.80 18.90 55.79
+ Fast foods, roast beef sandwich, plain sandwich 139 346.11 21.50 13.76 33.44
+ Sandwiches and burgers, roast beef sandwich with cheese sandwich 176 473.44 32.23 18.00 45.37
+ Sandwiches and burgers, steak sandwich sandwich 204 459.00 30.33 14.08 51.96
+ Fast foods, submarine sandwich, with cold cuts submarine 228 456.00 21.84 18.63 51.05
+ Fast foods, submarine sandwich, with roast beef submarine 216 410.40 28.64 12.96 44.30
+ Fast foods, submarine sandwich, with tuna salad submarine 256 583.68 29.70 27.98 55.37
+ Fast foods, coleslaw cup 99 146.52 1.46 10.97 12.75
+ Fast foods, corn on the cob with butter ear 146 154.76 4.47 3.43 31.94
+ Fast foods, hush puppies pieces 78 256.62 4.88 11.59 34.90
+ Fast foods, onion rings, breaded and fried portion (8-9 onion rings) 83 275.56 3.70 15.51 31.32
+ Fast foods, potato, baked and topped with cheese sauce piece 296 473.60 14.62 28.74 46.50
+ Fast foods, potato, baked and topped with cheese sauce and bacon piece 299 451.49 18.42 25.89 44.43
+ Fast foods, potato, baked and topped with cheese sauce and broccoli piece 339 403.41 13.66 21.42 46.58
+ Fast foods, potato, baked and topped with cheese sauce and chili piece 395 481.90 23.23 21.84 55.85
+ Fast foods, potato, baked and topped with sour cream and chives piece 302 392.60 6.67 22.32 50.01
+ Fast foods, potato, french fried in vegetable oil large 169 577.98 7.27 31.15 67.28 5.92 0.00
+ Fast foods, potato, french fried in vegetable oil medium 134 458.28 5.76 24.70 53.35 4.69 0.00
+ Food quantity grams cals protein fat carbs fiber sugars Fast foods, potato, french fried in vegetable oil small 85 290.70 3.65 15.67 33.84 2.98 0.00
+ Fast foods, potato, mashed cup 80 66.40 1.85 0.97 12.90
+ Side dishes, potato salad cup 95 108.30 1.45 5.73 12.85
+ Fast foods, hamburger, large, single patty, with condiments sandwich 172 426.56 23.10 21.00 36.83 2.06 8.32
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Hamburger, frozen package yields 212 576.64 23.32 24.38 65.93
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Hamburger, frozen serving 85 231.20 9.35 9.78 26.44
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Sausage, frozen package yields 212 527.88 21.20 22.47 60.42 4.24
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Sausage, frozen serving 141 351.09 14.10 14.95 40.18 2.82
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Pepperoni. frozen package yields 212 578.76 21.62 28.41 59.36 3.39
+ TOTINO'S PIZZA ROLLS Pizza Snacks, Pepperoni. frozen serving 141 384.93 14.38 18.89 39.48 2.26
+ HOT POCKETS Pepperoni Pizza Stuffed Sandwich, frozen package yields 256 734.72 27.14 35.33 77.31
+ HOT POCKETS Pepperoni Pizza Stuffed Sandwich, frozen serving 128 367.36 13.57 17.66 38.66
+ CELESTE Deluxe Pizza with Sausage, Green & Red Peppers & Mushrooms, frozen package yields 666 1538.46 66.60 82.58 132.53
+ CELESTE Deluxe Pizza with Sausage, Green & Red Peppers & Mushrooms, frozen serving 167 385.77 16.70 20.71 33.23
+ JACK'S GREAT COMBINATIONS Sausage & Pepperoni Pizza, frozen package yields 547 1389.38 69.47 70.02 120.34
+ JACK'S GREAT COMBINATIONS Sausage & Pepperoni Pizza, frozen serving 137 347.98 17.40 17.54 30.14
+ JACK'S ORIGINAL Pepperoni Pizza, frozen package yields 486 1287.90 59.78 64.15 117.61
+ JACK'S ORIGINAL Pepperoni Pizza, frozen serving 122 323.30 15.01 16.10 29.52
+ JENO'S CRISP 'N TASTY Combination Pizza, Sausage & Pepperoni, frozen package yields 198 491.04 16.83 24.16 51.68 2.77
+ JENO'S CRISP 'N TASTY Combination Pizza, Sausage & Pepperoni, frozen serving 198 491.04 16.83 24.16 51.68 2.77
+ Food quantity grams cals protein fat carbs fiber sugars JENO'S CRISP 'N TASTY Pepperoni Pizza, frozen package yields 192 516.48 18.62 28.80 45.89 3.07
+ JENO'S CRISP 'N TASTY Pepperoni Pizza, frozen serving 192 516.48 18.62 28.80 45.89 3.07
+ PAPPALO'S FOR ONE, Deep Dish Pepperoni Pizza, frozen package yields 199 525.36 22.69 19.50 64.67 3.18
+ PAPPALO'S FOR ONE, Deep Dish Pepperoni Pizza, frozen serving 199 525.36 22.69 19.50 64.67 3.18
+ RED BARON Pepperoni Pizza, frozen package yields 623 1788.01 72.89 101.55 145.78
+ RED BARON Pepperoni Pizza, frozen serving 154 441.98 18.02 25.10 36.04
+ RED BARON Special Deluxe Pizza, Two Cheeses, Sausage, Pepperoni & Onions, frozen package yields 669 1746.09 62.22 92.32 165.91
+ RED BARON Special Deluxe Pizza, Two Cheeses, Sausage, Pepperoni & Onions, frozen serving 129 336.69 12.00 17.80 31.99
+ RED BARON Premium Deep Dish Singles, Pepperoni Pizza, frozen package yields 336 960.96 31.92 50.06 95.76
+ RED BARON Premium Deep Dish Singles, Pepperoni Pizza, frozen serving 168 480.48 15.96 25.03 47.88
+ STOUFFER'S French Bread Pizza with Sausage & Pepperoni, frozen package yields 354 895.62 35.40 44.96 87.08 4.96
+ STOUFFER'S French Bread Pizza with Sausage & Pepperoni, frozen serving 177 447.81 17.70 22.48 43.54 2.48
+ STOUFFER'S Deluxe French Bread Pizza with Sausage, Pepperoni & Mushroom, frozen package yields 350 857.50 32.20 41.30 88.90 7.00
+ STOUFFER'S Deluxe French Bread Pizza with Sausage, Pepperoni & Mushroom, frozen serving 175 428.75 16.10 20.65 44.45 3.50
+ TOMBSTONE Original Pepperoni Pizza, frozen, 9 inch package yields 610 1659.20 71.37 83.57 154.94
+ TOMBSTONE Original Pepperoni Pizza, frozen, 9 inch serving 152 413.44 17.78 20.82 38.61
+ TOMBSTONE Original Pepperoni Pizza, frozen, 12 inch package yields 340 938.40 43.52 47.26 85.00
+ TOMBSTONE Original Pepperoni Pizza, frozen, 12 inch serving 113 311.88 14.46 15.71 28.25
+ TOMBSTONE Original Sausage & Mushroom Pizza, frozen package yields 645 1496.40 70.31 67.08 152.22
+ TOMBSTONE Original Sausage & Mushroom Pizza, frozen serving 132 306.24 14.39 13.73 31.15
+ Food quantity grams cals protein fat carbs fiber sugars TOMBSTONE Original Sausage & Pepperoni Pizza, frozen package yields 624 1634.88 71.76 81.74 152.88 10.61
+ TOMBSTONE Original Sausage & Pepperoni Pizza, frozen serving 125 327.50 14.38 16.38 30.62 2.12
+ TOMBSTONE Original Pepperoni & Sausage Pizza, frozen package yields 354 952.26 40.00 51.68 81.77 4.96
+ TOMBSTONE Original Pepperoni & Sausage Pizza, frozen serving 118 317.42 13.33 17.23 27.26 1.65
+ TONY'S Supreme Pizza, Italian Style Pastry Crust, Sausage, Pepperoni, Mushrooms, Green Peppers, Red Peppers, Onions, frozen package yields 470 1212.60 47.94 60.63 118.44
+ TONY'S Supreme Pizza, Italian Style Pastry Crust, Sausage, Pepperoni, Mushrooms, Green Peppers, Red Peppers, Onions, frozen serving 155 399.90 15.81 20.00 39.06
+ TONY'S Pepperoni Pizza with Italian Style Pastry Crust, frozen package yields 419 1231.86 45.25 67.88 110.20
+ TONY'S Pepperoni Pizza with Italian Style Pastry Crust, frozen serving 138 405.72 14.90 22.36 36.29
+ TONY'S Sausage & Pepperoni Pizza with Italian Style Pastry Crust, frozen package yields 447 1318.65 45.59 70.18 126.05
+ TONY'S Sausage & Pepperoni Pizza with Italian Style Pastry Crust, frozen serving 147 433.65 14.99 23.08 41.45
+ TONY'S Taco Style Pizza, Mexican Style Sausage & Tangy Taco Sauce on a Corn Style Crust, frozen package yields 467 1326.28 43.43 70.52 129.83
+ TONY'S Taco Style Pizza, Mexican Style Sausage & Tangy Taco Sauce on a Corn Style Crust, frozen serving 154 437.36 14.32 23.25 42.81
+ TONY'S D'PRIMO Deep Dish Sausage Pizza, frozen package yields 569 1576.13 50.07 80.23 163.87
+ TONY'S D'PRIMO Deep Dish Sausage Pizza, frozen serving 141 390.57 12.41 19.88 40.61
+ TOTINO'S PARTY PIZZA Crisp Crust Combination Sausage and Pepperoni Pizza, frozen package yields 304 769.12 28.27 40.74 72.05
+ TOTINO'S PARTY PIZZA Crisp Crust Combination Sausage and Pepperoni Pizza, frozen serving 152 384.56 14.14 20.37 36.02
+ TOTINO'S PARTY PIZZA Crisp Crust Pepperoni, frozen package yields 290 727.90 25.52 38.86 69.02
+ TOTINO'S PARTY PIZZA Crisp Crust Pepperoni, frozen serving 145 363.95 12.76 19.43 34.51
+ RED BARON Supreme Pizza, Sausage, Mushrooms, Pepperoni, frozen package yields 686 1735.58 68.60 91.24 160.52
+ RED BARON Supreme Pizza, Sausage, Mushrooms, Pepperoni, frozen serving 136 344.08 13.60 18.09 31.82
+ Food quantity grams cals protein fat carbs fiber sugars Sausage and pepperoni pizza, frozen serving 146 385.44 15.77 19.70 36.18 2.34
+ Pepperoni pizza, frozen serving 146 400.04 16.19 21.11 36.21 2.34

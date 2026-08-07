@@ -1,0 +1,57 @@
+Question 18.10 
+
+ Question 18.10 
+ What's a good book for learning C?
+
+ There are far too many
+books on C
+to list here;
+it's impossible to rate them all.
+Many people believe that the best
+one
+was also the first:
+ The C Programming Language ,
+by
+Kernighan and
+Ritchie
+(``K&R,''
+now in its second edition).
+Opinions vary on
+K&R's suitability as an initial programming text:
+many of us did learn C from it, and learned it well;
+some, however,
+feel that it is a bit too clinical
+as a
+first
+
+tutorial 
+for those
+without much programming background.
+ An excellent reference manual is
+ C: A Reference Manual ,
+by Samuel P. Harbison and Guy L. Steele,
+now in its fourth edition.
+ Though not suitable for learning C from scratch,
+this FAQ list has been published in book form;
+see the Bibliography.
+ Mitch Wright maintains
+an annotated bibliography of C and
+Unix
+books;
+it is available for anonymous ftp
+from ftp.rahul.net in directory pub/mitch/YABL/.
+
+ This FAQ list's editor maintains
+a collection of previous answers to this question,
+which is available upon request.
+See also question 18.9 .
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

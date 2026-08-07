@@ -1,0 +1,2546 @@
+Pure Mac: Text Editors & Word Processors - Software for Macintosh 
+
+ Text Editors & Word Processors 
+
+ Web 
+
+ Pure-Mac.com 
+
+ Bibliography 
+ OCR 
+ Spell Checkers 
+ TeX 
+ Text Editors 
+ Text Utilities 
+ Viewers 
+ Word Processors 
+
+ BibDesk 
+ Bookends 
+ EndNote 
+ Reference Miner 
+ Sente 
+ Creative Writing 
+ Avenir 
+ CopyWrite 
+ Final Draft 
+ Final Draft AV 
+ Jer's Novel Writer 
+ Montage 
+ Scrivener 
+ SuperNotecard 
+ Ulysses 
+ WriteRoom 
+
+ Acrobat 
+ DEVONthink Pro Office 
+ Readiris Pro 
+ PDF 
+ Acrobat 
+ Combine PDFs 
+ Formulate 
+ PDFClerk 
+ PDFKey Pro 
+ PDFLab 
+ PDFpen 
+ pdf-Recover 
+ PDF Shrink 
+ PDF Studio 
+ PDF2Office 
+ PrintToPDF 
+ PStill 
+ Trapeze 
+
+ cocoAspell 
+ Excalibur 
+ Flesh 
+ Grammarian 
+ Grammatica 
+ Nisus Thesaurus 
+ Spell Catcher 
+ Spelling Corrector 
+ SpellMe 
+
+ CMacTeX 
+ Equation Service 
+ i-Installer 
+ iTeXMac 
+ LaTeX Equation Editor 
+ LaTeXiT 
+ LyX 
+ OzTeX 
+ TeX FoG 
+ TeXMaker 
+ TeXShop 
+
+ Aquamacs 
+ BBEdit 
+ Carbon Emacs 
+ Jedit X 
+ MacVim 
+ skEdit 
+ Smultron 
+ SubEthaEdit 
+ Tex-Edit Plus 
+ TextMate 
+ TextWrangler 
+ VIM 
+
+ Cyclone 
+ LineBreak 
+ SimpleText Color Menu 
+ SmartWrap 
+ textSOAP 
+ TypeIt4Me 
+ UnicodeChecker 
+ Unicode Converter 
+ WordService 
+
+ Adobe Reader 
+ Chamonix 
+ Chmox 
+ eReader 
+ iChm 
+ icWord 
+ MacGhostView 
+ Skim 
+ Tofu 
+ Tubby 
+ xCHM 
+
+ AbiWord 
+ AppleWorks 
+ Bean 
+ Letter Star 
+ LightWayText 
+ Mariner Write 
+ Mellel 
+ Microsoft Word 
+ NeoOffice 
+ Nisus Writer 
+ OpenOffice 
+ Pages 
+ Papyrus 
+ Publicon 
+ Ragtime 
+
+ The Comprehensive TeX Archive Network 
+ Mac OS X TeX/LaTeX Web Site 
+ TeX on Mac OS X 
+
+ Pure Mac 
+ Games 
+
+ Action 
+ Arcade 
+ Board 
+ Card 
+ Emulators 
+ Flight Sims 
+ Frivolous 
+ Game Utilities 
+ MMOG 
+ Puzzle 
+ RPG 
+ Sports & Racing 
+ Strategy 
+ Word 
+
+ Home 
+
+ Astronomy 
+ Calculators & Math 
+ Charts & Graphs 
+ Collections 
+ Health 
+ Hobbies & Crafts 
+ Kid Stuff 
+ Language 
+ Parental Control 
+ Recipes 
+ Science 
+ Teaching Aids 
+ Typing 
+ Weather 
+
+ Internet 
+
+ Collaboration 
+ Distributed Computing 
+ Download Managers 
+ Email 
+ FTP 
+ Internet Utilities 
+ iPhone 
+ IRC & IM 
+ Online Games 
+ Peer-to-Peer 
+ Radio 
+ Remote Access 
+ Usenet 
+ Video Conferencing 
+ VoIP 
+
+ Multimedia 
+
+ Audio 
+ CAD 
+ Comics 
+ DTP 
+ eBook 
+ Font Utilities 
+ Graphics 
+ iTunes & MP3 
+ Media Center 
+ Music 
+ Photoshop Plug-ins 
+ Presentation 
+ 3D & Animation 
+ Screen Capture 
+ Video 
+
+ System 
+
+ Alternative OS 
+ Classic OS Updates 
+ Command Line 
+ Contextual Menus 
+ Cross-Platform 
+ CSMs 
+ Drivers 
+ Face-Lift 
+ Launchers 
+ Olden 
+ Screen Savers 
+ Security 
+ System Enhancements 
+ Virus 
+ Widgets 
+ X11 
+
+ Utilities 
+
+ Backup 
+ Business 
+ Compression 
+ Database 
+ Diagnostics 
+ Disk & File 
+ Finance 
+ Handhelds 
+ Network 
+ PIMs 
+ Programming 
+ Spreadsheets 
+ Stocks 
+ Telephony 
+ Text Editors 
+ Time 
+
+ WWW 
+
+ Auctions 
+ Browsers 
+ Browser Add-ons 
+ The Cloud & SSBs 
+ HTML Editors 
+ Page Rippers 
+ RSS & Podcasting 
+ Site Tweaking 
+ Social Networking 
+ Web Cams 
+ Web Graphics 
+ Web Server 
+
+ Extension Key 
+ Pure Picks 
+ Software Index 
+
+ AbiWord 2.4.5 
+
+What use is a Word Processor when you can't share your documents with
+your friends? AbiWord is able to read and write all industry standard
+document types, such as OpenOffice.org documents, Microsoft Word
+documents, WordPerfect documents, Rich Text Format documents, HTML web
+pages and many more.
+AbiWord is a free word processing program similar to Microsoft Word. It
+is suitable for typing papers, letters, reports, memos, and so forth.
+AbiWord is unique among word processors in its drive to become a fully
+cross-platform word processor. Our source code is carefully written so
+that AbiWord will run on virtually any operating system with a minimum
+of time spent on porting. This combined with our support for
+internationalization (the ability to run AbiWord in many languages)
+gives AbiWord a massive potential user-base.
+
+ License : Freeware
+ Author/Publisher : AbiSource Community
+ Modification Date : August 10, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 9.0 MB
+
+ Home Page 
+
+ Acrobat Pro 8.1.3 
+
+The Adobe Acrobat family of products provides the power to deliver
+documents that give business, creative, and technical professionals an
+intelligent way to get the job done. Create and exchange documents,
+collect and compare comments, and tailor the security of a file in order
+to distribute reliable and polished Adobe PDF documents.
+
+ License : Pro $449 - No Standard Edition for Macs Available
+ Author/Publisher : Adobe
+ Modification Date : November 5, 2008
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 32.0 MB - Pro Update 8.1.3
+
+ Updates 
+
+ Home Page 
+
+ Adobe Reader 9.1 
+
+Adobe Acrobat Reader is free software that lets you view and print Adobe
+Portable Document Format (PDF) files.
+
+ License : Freeware
+ Author/Publisher : Adobe
+ Modification Date : February 27, 2009
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 44.1 MB - Version 9.1 for Intel
+
+ Download 
+File Size: 47.8 MB - Version 9.1 for PPC
+
+ Download 
+File Size: 21.8 MB - Version 8.1.2 for Intel
+
+ Download 
+File Size: 23.7 MB - Version 8.1.2 for PPC
+
+ Download 
+File Size: 33.4 MB - Version 7.1 - April 23, 2008 - Reads DRMed Ebooks
+
+ Download 
+File Size: 21.0 MB - Version 6.0 - October 31, 2003 - Reads DRMed Ebooks
+
+ Download 
+File Size: 55.5 MB - Version 5.0.5 - December 20, 2001
+
+ Download 
+File Size: 4.9 MB - Version 4.0.5 - November 15, 1999
+
+ Download 
+File Size: 7.1 MB - Version 3.0.2 - released October 2, 1998
+
+ Home Page 
+
+ AppleWorks 6.2.9 
+
+The latest version of AppleWorks - the most popular program on the Mac - is
+really several applications in one. It gives you six core capabilities (and a
+number of combinations thereof): word processing, spreadsheet, database,
+presentation, drawing and painting.
+
+ License : Free Updates, Purchase for $80
+ Author/Publisher : Apple
+ Modification Date : January 14, 2004
+ Requirements : Mac OS X
+
+ Download 
+File Size: 15.8 MB - 6.2.9 updater
+
+ Download 
+File Size: 4411 Kb - 6.04 updater - May 30, 2000
+
+ Download 
+File Size: 1311 Kb - 5.04 updater - October 26, 1999
+
+ Home Page 
+
+ Aquamacs Emacs 1.7 
+
+Aquamacs is an easy-to-use, Mac-style Emacs for OS X
+
+An Editor for Text, HTML, LaTeX, C++, Java, Python, Perl and more...
+
+Aquamacs is an Aqua-native build of the powerful Emacs text editor. By
+"Aqua-native," we mean more than just the fact that this version of
+Emacs runs as a standard OS X application. Aquamacs features extensive
+customization that enables it to conform better with Apple's standard
+Human Interface Guidelines (HIG) than standard versions of the editor
+do.
+
+Emacs is a text editor of legendary power and configurability, but it
+also has an enormously complex user interface. One advantage of it is:
+no matter what operating system you run Emacs on, you'll always get the
+same interface. The big problem: if you use a number of applications on
+your Mac, one of them is Emacs, you'll have to switch gears when you
+switch to Emacs.
+
+Aquamacs is better. We support the standard Mac user interface that
+you've come to love. For instance, in addition to traditional Emacs
+shortcuts like C-x C-f (open a new file), Aquamacs understands Apple-O.
+Aquamacs behaves like a modern application on Mac (or Windows) when it
+comes to selecting, copying, pasting texts within Aquamacs or in between
+applications. Aquamacs offers nice, smooth fonts. Asian input methods
+work. It's easy to install and runs out-of-the box with no
+configuration. And all is built on GNU Emacs, so you can use your
+favorite Emacs packages!
+
+ License : Freeware
+ Author/Publisher : David Reitter et al.
+ Modification Date : February 17, 2009
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 40.4 MB
+
+ Home Page 
+
+ Avenir 2.3.6 
+
+Avenir is a new kind of software for writers. Part word processor, part
+database, completely focused on the creative process. Whether you are
+brainstorming for your first short story or putting the finishing
+touches on your latest best-seller Avenir provides you the tools you
+need to manage the creative process from inception to publication.
+
+ License : Shareware, $30
+ Author/Publisher : Todd Ransom
+ Modification Date : August 13, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.8 MB
+
+ Home Page 
+
+ BBEdit 9.2.1 
+
+BBEdit is a high-performance text and HTML editor for the Macintosh. 
+BBEdit is designed for the editing, searching, transformation,
+and manipulation of text. It provides an array of
+general-purpose features which are useful for many tasks, and
+includes many features which have been specifically developed
+in response to the needs of HTML authors and software
+developers.
+
+ License : Demo, $125
+ Author/Publisher : Bare Bones Software
+ Modification Date : June 19, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 15.4 MB - 9.2.1 Demo
+
+ Download 
+File Size: 15.4 MB - 9.2.1 Updater
+
+ Home Page 
+
+ Bean 2.1 
+
+Bean is a small, simple word processor (or more precisely, a rich text
+editor), with many niceties added to make writing convenient, efficient
+and comfortable. Bean is powered by the same text engine as Apple's Text
+Edit, but it adds live word count and the ability to adjust printed
+margins. Lots of other features too. MS Word, OpenOffice,
+etc. try to be all things to all people. But sometimes you just want the
+right tool for the job. That is Bean's niche.
+
+Bean is not a replacement for MS Word. It does not do footnotes or
+hierarchical styles. Further, it is only partially compatible with MS
+Word's .doc format.
+
+ License : Freeware
+ Author/Publisher : James Hoover
+ Modification Date : January 26, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.9 MB
+
+ Home Page 
+
+ BibDesk 1.3.20 
+
+BibDesk is a graphical BibTeX-bibliography manager for Mac OS X. BibDesk
+is designed to help organize and use bibliographic databases in BibTeX
+.bib format. In addition to manual typing, BibDesk lets you drag & drop
+or cut & paste .bib files into the bibliographic database and
+automatically opens files downloaded from PubMed. BibDesk also keeps
+track of electronic copies of literature on your computer and allows for
+searching your database through several keys.
+
+BibDesk integrates well with TeX for creating citations and
+bibliographies. This integration includes a Citation search completion
+service, and drag & drop (cut & paste) support for adding citations to
+TeX files.
+
+ License : Freeware
+ Author/Publisher : Michael O. McCracken
+ Modification Date : February 17, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.6 MB
+
+ Home Page 
+
+ Bookends 10.5.1 
+
+Bookends is a full-featured and cost-effective bibliography, reference,
+and information management system for students and professionals.
+
+With Bookends you can directly search for and import references from
+many online sources, including the Library of Congress, PubMed, Amazon,
+and hundreds of libraries from around the world.
+
+Search PubMed automatically in the background and have Bookends discover
+and notify you of publications of interest as soon as they appear.
+
+Import references from EndNote, Papyrus, Reference Manager, and ProCite
+databases.
+
+ License : Demo, $99
+ Author/Publisher : Sonny Software
+ Modification Date : March 30, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 29.4 MB
+
+ Home Page 
+
+ Carbon Emacs 20081101 
+
+A Carbon/OSX distribution of GNU Emacs, based on the CVS source code. In
+order to install, drag the Emacs icon into the Applications folder or
+anywhere else you would like.
+
+ License : Freeware
+ Author/Publisher : MacEmacs JP project
+ Modification Date : November 1, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 37.5 MB - version 20080718 for Leopard
+
+ Download 
+File Size: 40.9 MB - version 20080418 for Tiger
+
+ Home Page 
+
+ Chamonix 1.1a 
+
+Chamonix is a CHM viewer for Mac OS X 10.4. It is an Objective-C app
+that uses CHM lib, Cocoa and WebKit. It supports ToC, Indexing, Search
+and Favourites and multiple CHM documents.
+
+ License : Freeware
+ Author/Publisher : James Weatherly
+ Modification Date : March 21, 2006
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 152 Kb
+
+ Home Page 
+
+ Chmox 0.3 
+
+Read your CHM documents on your Mac.
+
+ License : Freeware
+ Author/Publisher : Stephane Boisson
+ Modification Date : February 5, 2005
+ Requirements : Mac OS X 10.3.4 or higher
+
+ Download 
+File Size: 251 Kb - version 0.3
+
+ Download 
+File Size: 324 Kb - version 0.4beta - September 23, 2006
+
+ Home Page 
+
+ CMacTeX 4.3 
+
+CMacTeX is an integrated suite of programs for implementing TeX on the
+Macintosh. These Carbon programs require at least Mac OS 8.6 and
+CarbonLib 1.4 and run natively on Mac OS X. CMacTeX can be configured to
+work in an integrated fashion with either of the popular Macintosh
+editors BBEdit or Alpha. It is compatible with the version of TeX found
+on most Unix systems and can even interpret any Unix directory paths
+that may be embedded in documents originally written on a Unix system.
+
+ License : Shareware, $35
+ Author/Publisher : Thomas Kiffe
+ Modification Date : May 8, 2004
+ Requirements : Mac OS X or Mac OS 8.6 or higher
+
+ Download 
+
+ Home Page 
+
+ Combine PDFs 4.1 
+
+Drop some PDF or picture files on the application or the main window.
+Reorder or remove pages as you want. Enter some meta information like
+the Title and save the new PDF. Analysing and processing of PDFs may
+take a while.
+
+ License : Freeware
+ Author/Publisher : Monkeybread Software
+ Modification Date : November 18, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 4.1 MB
+
+ Home Page 
+
+ cocoAspell 2.0.4 
+
+cocoAspell is Mac OS X implementation of Aspell -- A more intelligent
+Ispell -- that is being developed by Kevin Atkinson. Here is a brief
+snippet of how Kevin describes Aspell on his web site: Aspell is an Open
+Source spell checker designed to eventually replace Ispell. Its main
+feature is that it does a much better job of coming up with possible
+suggestions than Ispell does. In fact recent tests shows that it even
+does better than Microsoft Word 97's spell checker or just about any
+other spell checker I have seen. It also has support for checking
+(La)TeX and HTML files, and run time support for other non English
+languages.
+
+By default the cocoAspell package comes only with the English dictionary
+that contains American, British, and Canadian variations. To spell check
+a document in another language you may have to download, compile, and
+install the corresponding spelling dictionary.
+
+ License : Freeware
+ Author/Publisher : Anton Leuski
+ Modification Date : April 13, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Download 
+File Size: 3.7 MB
+
+ Dictionaries 
+
+ Home Page 
+
+ CopyWrite 2.2.9 
+
+CopyWrite is a project manager for writers of all kinds. Rather than
+focus on formatting and layout, CopyWrite stands apart in its
+project-oriented approach. Word processors and page layout tools are
+good at what they do - formatting and layout - but they offer no help at
+all to a writer during the creative process. In fact, the 'gee-whiz'
+features crammed into these tools do more to hinder writers, getting in
+the way of their work flow. Put simply, these tools constipate writers;
+CopyWrite is like a tasty bran muffin ... with extra bran.
+
+ License : Shareware, $30
+ Author/Publisher : Bartas Technologies
+ Modification Date : March 13, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ Cyclone 1.6b1 
+
+Cyclone is a text converting utility application for the Macintosh that uses Apple Text Encoding Converter.
+ Highlights include:
+ Macintosh, Unicode, ISO, DOS, Windows, and other encodings
+ unlimited size of converted files
+ multiple file conversions
+ clipboard conversion
+ nice speed (thanks to Apple TEC)
+ IT IS FREE!
+
+ License : Freeware
+ Author/Publisher : Thomasz Kukielka
+ Modification Date : November 3, 2003
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 368 Kb
+
+ Download 
+File Size: 321 Kb
+
+ Home Page 
+
+ DEVONthink Pro 1.5.4 
+
+Make the dream of the paperless office come true with DEVONthink and keep all your
+ text and RTF files,
+ scanned documents,
+ notes,
+ e-mails,
+ images,
+ chat logs,
+ bookmarks and
+ multimedia files
+ together in one simple to use database. Integrate both local documents
+and live content from the Internet to keep all project-related
+information together.
+ Pro office has scanner support and OCR
+
+ License : Demo, Pro Office $150, Pro $80, Personal Edition $40
+ Author/Publisher : DEVONtechnologies
+ Modification Date : September 23, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 80.5 MB - Pro Office version 1.5.4 (has OCR)
+
+ Download 
+File Size: 11.0 MB - Pro version 1.5.4
+
+ Download 
+File Size: 7.0 MB - Personal version 1.9.16
+
+ Home Page 
+
+ EndNote X2.0.1 
+
+Millions of researchers, scholarly writers, students, and librarians use
+EndNote (patent pending) to search online bibliographic databases,
+organize their references and images, and create bibliographies and
+figure lists instantly. Instead of spending hours typing bibliographies,
+or using index cards to organize their references, they do it the easy
+way - by using EndNote! EndNote for Windows and Macintosh is a valuable
+all-in-one tool that integrates the following tasks into one program:
+ Search bibliographic databases on the Internet
+ Organize references and images in a database
+ Construct your paper with built-in manuscript templates
+ Watch the bibliography and figure list appear as you write!
+ With EndNote 9, you can work faster with increased performance, connect
+to more data sources worldwide, and share customized libraries with
+colleagues easily.
+
+ License : Demo, $300
+ Author/Publisher : Thomson ResearchSoft
+ Modification Date : October 14, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 70.7 MB - 2.0 Demo
+
+ Download 
+File Size: 29.3 MB - 2.0.1 Updater
+
+ Download Page 
+
+ Home Page 
+
+ Equation Service 1.0 
+
+Equation Service is a program that uses pdflatex to produce small PDF
+files containing equations and other text. You can either do the input
+and typesetting in the main Equation Service window and then drag and
+drop the resulting PDF into your application, or highlight text in the
+other application and run Equation Service on it by typing command-/.
+
+ License : Freeware
+ Author/Publisher : Doug Rowland
+ Modification Date : April 6, 2003
+ Requirements : Mac OS X and pdflatex
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ eReader 2.6.1 
+
+eReader for Macintosh is an award-winning application used to read
+eReader eBooks on your Macintosh computer. There is no charge to
+download and use the eReader. There is an upgrade called eReader Pro. For
+the first 15 days of using eReader, you will have trial access to those
+features.
+
+ License : Freeware, Pro version $10
+ Author/Publisher : Palm Digital Media
+ Modification Date : March 8, 2005
+ Requirements : Mac OS X 10.1 or higher and Mac OS 8.6 or higher
+
+ Download 
+File Size: 5.5 MB
+
+ Home Page 
+
+ Excalibur 4.0.6 
+
+Excalibur is a Macintosh spelling checker for LaTeX documents. You can
+optionally turn off LaTeX parsing, so Excalibur is a good plain text
+spelling checker too.
+
+ License : Freeware
+ Author/Publisher : Rob Gottshall and Rick Zaccone
+ Modification Date : October 28, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 1.1 MB - version 4.0.6
+
+ Download 
+File Size: 1.0 MB - version 4.0
+
+ Dictionary Directory
+
+ Home Page 
+
+ Final Draft 7.1.3 
+
+Use your creative energy to focus on the content; let Final Draft take
+care of the style. Final Draft is the number-one selling word processor
+specifically designed for writing movie scripts, television episodics
+and stage plays. It combines powerful word processing with professional
+script formatting in one self-contained, easy-to-use package. There is
+no need to learn about script formatting rules - Final Draft
+automatically paginates and formats your script to industry standards as
+you write.
+
+ License : Free Update, $200
+ Author/Publisher : Final Draft, Inc.
+ Modification Date : November 8, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 5.3 MB - 7.1.3 Updater
+
+ Home Page 
+
+ Final Draft AV 2.5.2 
+
+Final Draft AV is the only dedicated full-featured scriptwriting
+software specifically designed for the professional writers of
+commercials, corporate and training videos, documentaries and
+presentations. Unlike standard word processors, Final Draft AV keeps the
+audio and video columns automatically aligned when text is added, edited
+or deleted. There are no complicated commands to learn and no need to
+worry about style or placement of text; Final Draft AV creates a
+professionally formatted Audio-Visual script in no time.
+
+ License : Demo, $199
+ Author/Publisher : Final Draft, Inc.
+ Modification Date : June 22, 2006
+ Requirements : Mac OS X 10.2.8 or higher
+
+ Download 
+File Size: 11.9 MB - Demo
+
+ Home Page 
+
+ Flesh 2.0 
+
+Flesh is a cross-platform, open source Java application designed to
+quickly analyze a document and display the difficulty associated with
+comprehending it. It is available for all platforms that support Java.
+
+After processing a document, Flesh produces two scores: the
+Flesch-Kincaid Grade Level and the Flesch Reading Ease Score. Each of
+these scores is calculated after determining the number of sentences,
+words and syllables a document contains. Using those numbers, the
+Flesch-Kincaid Grade Level and Flesch Reading Ease Score can then be
+calculated.
+
+ License : Freeware
+ Author/Publisher : Jack Frink
+ Modification Date : May 3, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 4.7 MB
+
+ Home Page 
+
+ Formulate Pro 0.0.4 
+
+FormulatePro helps you open and write on PDF documents. You can fill out
+any PDF form document, drop in graphics, scribble with the mouse or a
+tablet, save and print.
+
+ License : Freeware
+ Author/Publisher : Andrew de los Reyes
+ Modification Date : January 20, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 315 Kb
+
+ Home Page 
+
+ Grammarian Pro X 1.8.3 
+
+Grammarian PRO X, the writer's toolkit, is an arsenal of professional
+writing tools to combat those embarrassing writing errors that everyone
+tends to make, a universal interactive grammar checking, spelling
+checking, dictionary, thesaurus, autocorrect, and autotype tool that
+works with virtually every program on your computer. We streamlined the
+proofreading process with Grammarian PRO X; therefore, Grammarian PRO X
+doesn't overload you with hundreds of confusing buttons.You concentrate
+on your work. Grammarian PRO X will save you time and make you a more
+effective writer!
+
+ License : Demo, $40
+ Author/Publisher : Linquisoft
+ Modification Date : October 14, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 13.3 MB
+
+ Home Page 
+
+ Grammatica 7.0.2 
+
+Top-flight grammar and spell-checking software of industrial strength,
+including interaction with other applications.
+
+ License : Demo, $30
+ Author/Publisher : Ultralingua Software
+ Modification Date : February 20, 2008
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 6.7 MB
+
+ Home Page 
+
+ iCHM 1.4 
+
+iChm is a chm file reader for Mac OS X.
+ Features
+ - Fully built with Cocoa.
+ - Tab browsing
+ - Search. Result sorted by relevance.
+ - Text encoding switching
+ - Find in the page
+ - Back/Forward
+ - Text zoom
+ - Locate current document in table of content
+
+ License : Freeware
+ Author/Publisher : Robin Lu
+ Modification Date : November 11, 2008
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 926 Kb
+
+ Home Page 
+
+ icWord 4.0 
+
+The Microsoft Word viewer for the Mac. Admit it. There are times when you
+need to be Microsoft Word compatible. It gets frustrating trying to open
+those ".doc" files. Now you can - with icWord!
+ icWord is for any Mac user who wants to:
+ Gain access to Microsoft Word files (PC or Mac created) Download Word
+files from the Internet Open email attachments from PC-centric friends and
+colleagues Save time lost to reformatting converted files View on screen
+and print Word docs with their original formatting preserved
+
+ License : Shareware, $20
+ Author/Publisher : Panergy
+ Modification Date : September 19, 2005
+ Requirements : Mac OS X 10.2 or higher and Mac OS 9 or higher
+
+ Download 
+File Size: 3.6 MB
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ i-Installer 2.88 
+
+This volume contains a program (i-Installer.app) which is an installer
+program. It needs to be installed (copied to) in /Applications/Utilities
+(preferably).
+
+After starting the application, go to the "Known Packages" menu item (in
+the File Menu). This will open a window. You'll find a default set of
+packages there (if you are connected to the internet, that is). When you
+open a package through an URL, it will be stored in the
+~/Documents/i-Packages directory (the actual directory can be set in
+Preferences).
+
+i-Installer is a network-aware
+installer application for Mac OS X 10.2 or higher. It installs
+i-Packages which are directories with a name ending on .ii2 and which
+contain a set of files.
+ * TeX-related:
+ TeX (based on TeX Live and teTeX). This include optional installs of TeX4ht, Latin Modern fonts (scalable fonts for PostScript/PDF), XMLTeX and JadeTeX. As a special bonus, if you have PfaEdit installed and you install the Latin Modern Fonts, they will be converted for use in Mac OS X GUI applications like drawing programs, so you can use the same font in drawings and text (Computer/Latin Modern).
+ CM Super for TeX (PostScript/PDF vector versions of TeX fonts). This provides support for vector versions of TeX fonts so you can make scalable PDF documents that look good at any resolution, including screen resolution. This package is not required. It is roughly 60MB in size.
+ Gerd Neugebauer's BibTool. Command line bibliography file (.bib) manipulation.
+ LaTeX to RTF Converter
+ RTF 2 LaTeX2e
+ * Ghostscript the free PostScript interpreter. You need this for TeX if you want to use PS-dependent TeX tricks, old projects, etc.
+ * Support for various graphic formats and coversions.
+ * Support for font conversions.
+ * System utilities and libraries
+ * Applications
+ Ghostview PostScript viewer (needs an X11-installation)
+ XFig drawing program (needs an X11-installation)
+
+ License : Freeware
+ Author/Publisher : Gerben Wierda
+ Modification Date : January 18, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.7 MB
+
+ Home Page 
+
+ iTeXMac 2.763 
+
+ teTeX front end
+ text editor dedicated to TeX
+ PDF viewer
+
+ License : Freeware
+ Author/Publisher : Laurens'Tribune
+ Modification Date : September 29, 2007
+ Requirements : Mac OS X 10.4 or higher and a a teTeX distribution
+
+ Download 
+File Size: 22.4 MB
+
+ Downloads 
+You can find links to teTeX distributions here
+
+ Home Page 
+
+ Jedit X 2.15 
+
+Jedit has been around for more than 10 years, and it is continually
+being updated and improved.
+
+Jedit is one of the most popular text editors in Japan. The first
+version of Jedit was released in 1995 for Japanese Mac users. Jedit has
+won numerous awards in Japan.
+
+Unicode-Based Multilanguage Support Jedit X is based on Unicode, which
+allows the same document to contain multiple character sets, including
+right-to-left languages like Arabic. This also provides an excellent
+environment for editing Unicode based documents such as XML or XHTML.
+
+Supports a Wide Array of Document Types Jedit X can read Plain Text,
+Rich Text Format (RTF), Rich Text Format Directory (RTFD), MS Word,
+Jedit 4, and SimpleText documents. It can also write Plain Text, RTF,
+RTFD, and MS Word documents
+
+And many other features.
+
+ License : Shareware, $28
+ Author/Publisher : Satoshi Matsumoto
+ Modification Date : April 17, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 30.2 MB
+
+ Home Page 
+
+ Jer's Novel Writer 1.1.7 
+
+Jer's Novel Writer is a relatively simple word processor with extra
+features to support large creative writing projects.
+
+I wrote this program to fit the way I write. More specifically, I wrote
+it to help overcome my shortcomings. It would be terribly presumptuous
+to think that anyone else out there faces the same obstacles I do when I
+write, but it would also be presumptuous to think that I was the only
+one in the world with these problems. So I offer what I created to make
+me a better writer, hoping that it will help others too.
+
+This program is all about momentum, and reducing the number of things
+that break the flow when I am writing. Jer's Novel Writer is designed to
+help me keep writing when the creative juices are flowing, and then find
+all the things I need to go over again when I am more in a nitty-gritty
+mood.
+
+ License : Shareware, $30
+ Author/Publisher : The Hut
+ Modification Date : March 5, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.4 MB
+
+ Home Page 
+
+ LaTeX Equation Editor 1.3 
+
+Double-click the Equation Editor icon to launch the program. Once it has
+launched, enter the following into the main text box:
+ \sum_{i=0}^{n} {n \choose i} = 2^n
+ Click the "LaTeX" button to typeset the equation. If all has gone well,
+a graphic should appear in the blank area above the main text box.
+ To insert the equation into Keynote, just drag it. To save the equation
+as a PDF file, either drag the graphic to the Desktop (or some other
+folder), or click on "Export..." under the File menu. Dragging the
+equation to the Desktop or a folder will create a PDF file named
+"image-NNN.pdf" where NNN is replaced by a numeric index. If you would
+like something a bit more descriptive, rename the file or use Export...,
+as that allows you to specify a different name for the file.
+
+ License : Freeware
+ Author/Publisher : J. McKenzie Alexander
+ Modification Date : May 1, 2003
+ Requirements : Mac OS X 10.2 or higher and a working LaTeX installation
+
+ Download 
+File Size: 1.5 MB
+
+ Home Page 
+
+ The Comprehensive TeX Archive Network - The authoritative collection of materials related to the TeX typesetting system
+
+ LaTeXiT 1.16.1 
+
+LaTeXiT is a small utility that allows you to quickly typeset LaTeX
+equation, without bothering with file creation, preambles, and so on.
+The PDF image obtained can then be exported by drag'n drop to any
+application supporting it.
+
+ License : Freeware
+ Author/Publisher : Pierre Chatelier
+ Modification Date : January 31, 2009
+ Requirements : Mac OS X 10.4 or higher and a working LaTeX installation with at least pdflatex and GhostScript (e.g. i-Installer )
+
+ Download 
+File Size: 6.1 MB
+
+ Home Page 
+
+ Letter Star 1.7.2 
+
+Write letters and focus on content while layout, formatting and default
+text are determined by predefined stationery with PDF letter heads! Save
+time and automate the process of filling in the receiver's address and
+set personalized greetings!
+
+ License : Shareware, $59
+ Author/Publisher : Objectpark Software
+ Modification Date : January 16, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 1.2 MB
+
+ Home Page 
+
+ LightWayText 4.1.7 
+
+LightWayText is an extremely popular Japanese text editor with a lot of
+nice features and high stability, and this is the English version for
+Macs. We have pleasure in releasing LightWayText E, and hope many of you
+will try it.
+
+ License : Shareware, $25
+ Author/Publisher : Michiaki Yamashita
+ Modification Date : August 2, 2008
+ Requirements : Mac OS X 10.1 or higher and System 7.1 or higher
+
+ Download 
+File Size: 2.1 MB
+
+ Download 
+File Size: 3.0 MB
+
+ Home Page 
+
+ LineBreak 2.8 
+
+LineBreak is a simple utility for Mac OS X that converts line breaks in
+text documents. It can convert to Mac, UNIX, and Windows/DOS formats.
+It is written entirely in Cocoa and supports drag and drop from the
+Finder. LineBreak is a Universal Binary (works great on PPC and Intel
+Macs).
+
+ License : Freeware
+ Author/Publisher : Trance Software
+ Modification Date : February 22, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 226 Kb
+
+ Home Page 
+
+ LyX 1.6.2.1 
+
+LyX is for people that write and want their writing to look great, right
+out of the box. No more endless tinkering with formatting details,
+'finger painting' font attributes or futzing around with page
+boundaries. You just write. In the background, Prof. Knuth's legendary
+TeX typesetting engine makes you look good.
+
+LyX is designed for scientists by scientists, and it shows, in
+world-class support for math and structured document creation. Such
+staples of scientific authoring as reference list and index creation
+come standard. But you don't have to be a scientist: with LyX you create
+just as easily a letter or a novel or a theatre play or film script. A
+broad array of ready, well designed document layouts and style
+modification and feature support packages are built in.
+
+ License : Freeware
+ Author/Publisher : lyx.org
+ Modification Date : March 15, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 24.8 MB
+
+ Home Page 
+
+ MacGhostView 4.5 
+
+MacGhostView is a general purpose Postscript and PDF previewer for the
+Macintosh and is based on ghostscript 7.05. If a Postscript document
+conforms to Adobe's Document Structuring Conventions, the pages of the
+document can be displayed in any order.
+
+ License : Shareware, $20
+ Author/Publisher : Thomas Kiffe
+ Modification Date : February 16, 2008
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 15.9 Kb - for Intel
+
+ Download 
+File Size: 15.8 Kb - for PPC
+
+ Home Page 
+
+ MacVim 7.2 stable 1.2 
+
+MacVim is a port of the text editor Vim to Mac OS X that is meant to
+look better and integrate more seamlessly with the Mac than the existing
+Carbon port of Vim. It has support for:
+ - Safari style tabs
+ - Multiple windows: use "Application windows Expose" and Cmd- to switch between windows
+ - Client/server (+clientserver): use the --remote switch and friends to open files; script the server with remote_send() et al.
+ - GUI Dialogs: with keyboard shortcuts, no need to use the mouse anymore!
+ - Toolbar
+ - Font panel: access to all of your fonts, proportional fonts render with fixed advancement
+ - Multibyte: with automatic font substitution for wide characters (or set your own with 'gfw')
+ - Input methods: use Mac OS X input methods to input non-English languages
+ - Transparent backgrounds
+ - Full screen editing
+ - ODB Editor protocol support
+ - and more...
+
+ License : Freeware
+ Author/Publisher : Bjorn Winckler
+ Modification Date : August 21, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.6 MB
+
+ Home Page 
+
+ Mariner Write 3.8 
+
+Mariner Write is a powerful yet streamlined Mac word processing
+application. Boasting an elegant and easy-to-use interface, Mariner
+Write can run on only 2MB of RAM. And that's no typo; only 38 MB less
+than Word.
+
+ License : Shareware, $50
+ Author/Publisher : Mariner Software
+ Modification Date : May 14, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 12.9 MB
+
+ Home Page 
+
+ Mellel 2.6 
+
+Mellel is an advanced, multilingual word processor built for Mac OS X.
+Designed for scholars and writers, it offers innovative page, paragraph,
+and character styles, outline, tables, headers and footers, citations
+and bibliography, tabs, and much more.
+
+ License : Shareware, $49
+ Author/Publisher : RedleX
+ Modification Date : January 19, 2009
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 33.3 MB
+
+ Home Page 
+
+ Microsoft Office 2008 12.1.5 
+
+Word Processor (Word), Email (Entourage), Spreadsheet (Excel) and
+Presentation (PowerPoint) combination.
+
+ License : Purchase Microsoft Office for $399 - Student/Teacher edition $149
+ Author/Publisher : Microsoft
+ Modification Date : December 3, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 104 MB - Office 2008 12.1.5 Updater - December 3, 2008
+
+ Download 
+File Size: 16.0 MB - Office 2008 12.1.4 Updater - October 28, 2008
+
+ Download 
+File Size: 154 MB - Office 2008 12.1.3 Updater - October 7, 2008
+
+ Download 
+File Size: 160 MB - Office 2008 12.1.2 Updater - August 7, 2008
+
+ Download 
+File Size: 153 MB - Office 2008 12.1.1 Updater - June 17, 2008
+
+ Download 
+File Size: 180 MB - Office 2008 12.1 Updater - May 7, 2008
+
+ Download 
+File Size: 114 MB - Office 2008 12.0.1 Updater - March 10, 2008
+
+ Download 
+File Size: 1.5 MB - Office AutoUpdate 2.1.1 for Office 2008 - February 29, 2008
+
+ Download 
+File Size: 44.8 MB - Open XML Converter 1.0.2 - December 4, 2008
+
+ Download 
+File Size: 15.1 MB - Office 2004 11.5.3 Updater - November 20, 2008
+
+ Download 
+File Size: 13.3 MB - Office 2004 11.5.2 Updater - September 30, 2008
+
+ Download 
+File Size: 14.5 MB - Office 2004 11.5.1 Updater - August 4, 2008
+
+ Download 
+File Size: 59.2 MB - Office 2004 11.5 Updater - June 9, 2008
+
+ Download 
+File Size: 9.1 MB - Office 2004 11.4.2 Updater - April 30, 2008
+
+ Download 
+File Size: 13.2 MB - Office 2004 11.4.1 Updater
+
+ Download 
+File Size: 12.3 MB - Office 2004 11.4.0 Updater
+
+ Download 
+File Size: 2.5 MB - Office 2004 11.3.9 Updater
+
+ Download 
+File Size: 9.1 MB - Office 2004 11.3.8 Updater
+
+ Download 
+File Size: 8.6 MB - Office 2004 11.3.7 Updater
+
+ Download 
+File Size: 15.2 MB - Office 2004 11.3.6 Updater
+
+ Download 
+File Size: 58.8 MB - Office 2004 11.3.5 Updater
+
+ Download 
+File Size: 12.5 MB - Office 2004 11.3.4 Updater
+
+ Download 
+File Size: 57.6 MB - Office 2004 11.3.3 Updater
+
+ Download 
+File Size: 6.5 MB - Office 2004 11.2.1 Updater
+
+ Download 
+File Size: 3.3 MB - Office 10.1.9 Updater - December 19, 2006
+
+ Updates Page 
+
+ Home Page 
+
+ Montage 1.5.1 
+
+The only screenwriting software exclusively developed for Mac OS X.
+Melding the theory that a simple user interface, combined with powerful
+and intuitive features, provide the best writing experience, Montage
+makes it easy to create, edit, and manage screenplays on your Macintosh.
+From the ability to import Final Draft documents, to using custom,
+pre-formatted templates for film, TV, and theater, Montage guides both
+the first time screenwriter or the seasoned veteran, from start to
+finish.
+
+ License : Demo, $140
+ Author/Publisher : Mariner Software
+ Modification Date : June 12, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 26.3 MB
+
+ Home Page 
+
+ NeoOffice 3.0p2 
+
+NeoOffice is a fully-featured set of office applications (including word processing,
+spreadsheet, presentation, and drawing programs) for Mac OS X. Based on the OpenOffice.org
+office suite, NeoOffice has integrated dozens of native Mac features and can import, edit,
+and exchange files with other popular office programs such as Microsoft Office.
+
+ License : Freeware
+ Author/Publisher : Patrick Luby
+ Modification Date : April 30s, 2009
+ Requirements : Mac OS X 10.4.11 or higher
+
+ Download 
+File Size: 160.0 MB - version 3.0 - Intel - March 28, 2009
+
+ Download 
+File Size: 162.0 MB - version 3.0 - PPC - March 28, 2009
+
+ Download 
+File Size: 15.7 MB - version 3.0 - Patch 2 for Intel - April 30, 2009
+
+ Download 
+File Size: 15.7 MB - version 3.0 - Patch 2 for PPC - April 30, 2009
+ s
+ Home Page 
+
+ Nisus Thesaurus 1.0.5 
+
+Mac OS X comes with built-in spell checking for many applications, but
+why stop there? Now you can have an integrated thesaurus as well. With
+Nisus Thesaurus you get a fast electronic thesaurus that automatically
+integrates with any service aware application including Nisus Writer
+Express, Mail, TextEdit, Safari, and more.
+
+ License : Freeware
+ Author/Publisher : Nisus Software
+ Modification Date : February 6, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 8.8 MB
+
+ Home Page 
+
+ Nisus Writer Pro 1.2 
+
+Introducing the latest member of the Nisus family: Nisus Writer Pro.
+Built from the same core as Nisus Writer Express, Nisus Writer Pro adds
+new features while keeping the familiar look and feel that has won
+praise from users and the press alike. Advanced, But Easy to Use Nisus
+Writer Pro brings new features such as Table of Contents, Indexing,
+Bookmarks, Widow and Orphan control, Cross References, Line Numbering,
+and Text Wrap around images. Familiar Classic features are also on
+board, like attribute sensitive Find and Replace, an upgraded Nisus
+Macro Language, and Glossaries.
+
+ License : Demo, Pro $79 - Express $45
+ Author/Publisher : Nisus Software
+ Modification Date : November 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 122 MB - Nisus Writer Pro 1.2
+
+ Download 
+File Size: 47.2 MB - Nisus Writer Express 3.1 - July 31, 2008
+
+ Home Page 
+
+ OpenOffice 3.0 Aqua 
+
+OpenOffice.org the product is a multi-platform office productivity
+suite. It includes the key desktop applications, such as a word
+processor, spreadsheet, presentation manager, and drawing program, with
+a user interface and feature set similar to other office suites.
+Sophisticated and flexible, OpenOffice.org also works transparently with
+a variety of file formats, including those of Microsoft Office, and the
+vendor-neutral OpenDocument standard from OASIS.
+
+ License : Freeware
+ Author/Publisher : openoffice.org
+ Modification Date : October 6, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 163 MB - version 3.0 for Intel
+
+ Download 
+File Size: 170 MB - version 3.0rc4 for PPC
+
+ Home Page 
+
+ OzTeX 5.2 
+
+OzTeX is a Mac implementation of Donald Knuth's TeX typesetting system.
+TeX is mainly used in the academic community for the production of
+theses, papers and books, or wherever high-quality output is desired. It
+is particularly good at typesetting mathematics.
+
+OzTeX includes all the popular formats and macro packages. Plain TeX,
+LaTeX, AMS-TeX, AMS-LaTeX and REVTeX are all installed and ready to run.
+
+ License : Shareware, $30
+ Author/Publisher : Andrew Trevorrow
+ Modification Date : August 9, 2004
+ Requirements : Mac OS X and Mac OS 8.6 or higher
+
+ Download 
+File Size: 13.2 MB
+
+ Home Page 
+
+ Pages 4.0 
+
+Stationery, newsletters, resumes, brochures, reports, proposals,
+business cards - whatever you write, Pages '08 offers an intuitive way to
+create beautiful, media-rich documents using impressive features you
+know how to use right away.
+
+ License : $79 for iWork '08
+ Author/Publisher : Apple
+ Modification Date : January 5, 2009
+ Requirements : Mac OS X 10.4.11 or 10.5.6 or higher
+
+ Download 
+File Size: 451 MB - iWork '09 Demo (includes Pages 4.0, Keynote 5.0 and Numbers 2.0)
+
+ Download 
+File Size: 42.7 MB - iWork 9.0.1 Updater - March 26, 2009
+
+ Download 
+File Size: 27.3 MB - Pages 3.0.3 Update - February 2, 2009
+
+ Download 
+File Size: 56.1 MB - Updater 2.0.2 - September 28, 2006
+
+ Download 
+File Size: 28 MB - Updater 1.0.2 - May 25, 2005
+
+ Home Page 
+
+ Papyrus 12.56 
+
+The Office suite that works the way software should,
+ ... allowing you to work on your documents, without having to worry about your software.
+ Papyrus is extremely fast, reliable, and secure. In one single program of unmatched efficiency, you will find:
+ Word-processing with everything you need,
+ Desktop publishing suitable for professional applications,
+ Embedded spreadsheets with over 100 calculation functions,
+ Relational databases with a powerful search engine, suitable for a complete range from simple address databases, to multimedia applications, or complex inventory systems.
+ You can even install (or copy) Papyrus onto a USB-Stick (or other memory card), for mobile use on visiting computers.
+
+ License : Demo, $99
+ Author/Publisher : R.O.M. Logicware GmbH
+ Modification Date : February 22, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ PDF Browser Plugin 2.2.3 
+
+PDF Browser Plugin turns your web browser into the best PDF viewer
+available. With the help of PDF Browser Plugin you can view PDF
+documents directly in your web browser, print them, and save them to
+disk if you'd like to keep them.
+
+ License : Freeware for Private or educational use
+ Author/Publisher : Manfred Schubert
+ Modification Date : November 22, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 269 Kb
+
+ Home Page 
+
+ PDFClerk 3.5.1 
+
+Using PDFClerk as your personal assistant allows you to, among other things, join multiple
+PDF documents together, rearrange the page order, delete individual pages, impose multiple
+pages onto a sheet of paper and rotate pages on imposed sheets with ease and flexibility.
+Print registration, bleed and crop marks and color and gray-tint bars on imposed pages for
+proofing and trimming. Add text and graphics to blank and/or existing PDF pages. Fill out
+forms with your choice of fonts and styles.
+
+ License : Shareware, $32
+ Author/Publisher : SintraWorks
+ Modification Date : February 18, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 7.3 MB
+
+ Home Page 
+
+ PDFKey Pro 3.7.6 
+
+ - Recover Documents: Unlock PDF documents protected for printing and copying when you've forgotten your password.
+ - Unlock PDFs: Unlock, with your password, PDF documents that cannot otherwise be viewed.
+ - Lock PDFs: Lock PDF document with a password, restrict usage permissions on your documents.
+ - Automate: Batch-process multiple PDF files or folders without additional input.
+
+ License : Shareware, $20
+ Author/Publisher : Michele Balistreri
+ Modification Date : November 16, 2008
+ Requirements : Mac OS X 10.4.6 or higher
+
+ Download 
+File Size: 1.7 MB
+
+ Home Page 
+
+ PDFLab 2.0.3r2 
+
+PDFLab lets you split and join PDF documents as well as insert images
+and blank pages. You will also be able to easily create PDF documents
+out of several images.
+
+Its usage is really simple. You add your files in a list, select the
+pages you wish to include, order them the way you want and create a new
+PDF document.
+
+ License : Freeware
+ Author/Publisher : Fabien Conus
+ Modification Date : January 5, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ PDFpen 4.1.2 
+
+Fill out PDF forms and edit PDFs easily with PDFpen! Split, combine,
+reorder, sign and augment PDFs with text, image overlays & watermarks.
+
+ License : Demo, $50 - Pro $95
+ Author/Publisher : SmileOnMyMac
+ Modification Date : April 6, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 12.2 MB
+
+ Download 
+File Size: 12.4 MB - Pro Version
+
+ Home Page 
+
+ pdf-Recover Professional 4.0.1 
+
+pdf-Recover Professional is the leading software solution to disable
+restricted operations on PDF files instantly. It decrypts protected
+Adobe Acrobat PDF forms & files, which have "master" password set and
+removes the security settings with one click. If you can't remember your
+PDF passwords, pdf-Recover Professional will allow to reset encrypted
+files.
+
+ License : Demo, $52
+ Author/Publisher : Universe Software
+ Modification Date : January 17, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 2.2 MB
+
+ Home Page 
+
+ PDF Shrink 4.5 
+
+PDFshrink reduces the size of PDF files created by Mac OS X, Adobe
+Acrobat Distiller and other applications. PDFshrink compresses images
+within the PDF file but PDFshrink doesn't stop there like some competing
+software products. We also remove unused elements such as metadata and
+thumbnails, eliminate duplicate images, compress non-image parts of a
+PDF file and optimize the resolution of the images.
+
+ License : Demo (10-day), $35
+ Author/Publisher : Apago, Inc.
+ Modification Date : January 7, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 5.2 MB
+
+ Home Page 
+
+ PDF Studio 5.51 
+
+PDF Studio is an easy to use, yet powerful program to work with PDF documents within your workflow.
+ - View & Print
+ - Sticky Notes
+ - Scan to PDF
+ - PDF Interactive Forms
+ - Audio Comment
+ - Extract Text
+ - Add hyperlinks to your pdf documents
+ - Append, merge or split documents
+ - Rubber Stamps
+ - Passwords and Permissions
+ - Batch functions
+ - PDF To Images
+ - Add titles, watermarks, page numbers and more... 
+ - Import/Export: Import and Export comments and form data in FDF, XFDF or XDP format. 
+
+ License : Demo, $60
+ Author/Publisher : Qoppa Software
+ Modification Date : March 4, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.1 MB
+
+ Home Page 
+
+ PDF2Office 4.0 
+
+PDF2Office is a comprehensive PDF document conversion and data
+extraction tool.
+
+PDF2Office converts PDF documents into fully editable Microsoft Word,
+Microsoft PowerPoint, RTF, AppleWorks, HTML and other files recreating
+the original construction and layout of the document.
+
+PDF2Office forms paragraphs; applies styles; regroups independent
+graphics elements; extracts images; creates tables; processes
+headers/footers; endnotes/footnotes and columns/sections, all
+automatically - without any intervention.
+
+ License : Demo, $129
+ Author/Publisher : Recosoft Corporation
+ Modification Date : February 6, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 22.0 MB
+
+ Home Page 
+
+ PrintToPDF 2.4.4 
+
+PrintToPDF is a shareware Macintosh printer driver that creates PDF (Adobe
+Acrobat) files. You do not need to have the full Acrobat package (as opposed to
+the Reader) installed for PrintToPDF to work. You can create PDF bookmarks to
+your section and subsection headings, and URLs will become hot links. PrintToPDF
+is not as powerful as Acrobat, but it creates simple PDFs for a much lower price.
+
+ License : Shareware, $20
+ Author/Publisher : James W. Walker
+ Modification Date : September 23, 2002
+ Requirements : 680x0 or PPC, System 7 or higher
+
+ Download 
+File Size: 700 Kb
+
+ Home Page 
+
+ PStill 5.7.5 
+
+PStill is a user friendly PostScript to PDF convertor with many options
+and features. You convert eps, ps, any image format to PDF with drag &
+drop. Repurpose PDF directly from any application using PStill. Shrink
+PDF, combine files to make one PDF, make posters, automated print work
+flow and hot folders.
+
+ License : Demo, $69
+ Author/Publisher : Stone Design
+ Modification Date : August 8, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 6.6 MB
+
+ Home Page 
+
+ Publicon 1.0.1 
+
+Wolfram Research is transforming the way the world publishes technical
+documents with Wolfram Publicon--an integrated solution for composing
+documents in XML and other structured data formats.
+
+Publicon provides an easy-to-use graphical interface for creating
+publication-quality technical documents that integrate text, searchable
+typeset equations, graphics, hyperlinks, endnotes, and references.
+Built-in palettes, templates, and style sheets simplify the creation of
+documents that conform to established formats but also allow for
+complete customization.
+
+Designed for engineers, physicists, chemists, bioscientists, and anyone
+else who needs to create or publish technical documents, Publicon allows
+files to be exported to HTML, XML, or LaTeX, or saved in Wolfram
+Research's platform-independent notebook file format. With Publicon,
+technical authors have a complete system in which to write, while
+publishers have the convenience of editing submissions in whatever
+format is best for them.
+
+Publicon's combined ease of use and cutting-edge technology makes it the
+first choice for composing structured technical documents for electronic
+or print publication.
+
+ License : Demo, $149
+ Author/Publisher : Wolfram Research
+ Modification Date : March 15, 2005
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 40.8 MB
+
+ Home Page 
+
+ Ragtime 6.0.1 
+
+RagTime is a Desktop Publishing program with an Office Suite included!
+ Word processing, spreadsheet, graphs, slide shows, pictures, drawing, movies, pictures & sound.
+ Use it for newsletters, reports, DTP, school yearbooks and newspapers.
+ Interactive tutorial built with RagTime
+ RagTime Solo is a non-commercial version of RagTime.
+ Same as commercial version except single user only and only one copy will open on a network.
+ There is a dialog when you start RagTime Solo that asks to acknowledge it is for non-commercial use.
+
+ License : Solo Version is Freeware, Full Version $695
+ Author/Publisher : RagTime GmbH
+ Modification Date : November 3, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 155 MB - Version 6.0.1
+
+ Download 
+File Size: 42.7 MB - Solo Version 5.6.4
+
+ Home Page 
+
+ Readiris Pro 11.0.3 
+
+Readiris Pro 11, the most advanced OCR software for Mac, quickly and
+easily transforms your paper documents into electronic files you can
+edit into your favorite application.
+
+You will save time and effort with Readiris Pro 11 which not only
+retypes the text but also reproduces the layout of your original
+documents until perfection. Columns of text, titles, fonts, bullets,
+tables, graphics, etc ... are perfectly recreated.
+
+The PDF capabilities of Readiris Pro 11 will astonish you: you will be
+able to transform the information locked in PDF files into editable text
+and also turn your documents into PDF files, offering an optimized file
+size. Archiving and sharing information become easier than ever!
+
+ License : Demo, $130
+ Author/Publisher : I.R.I.S
+ Modification Date : October 27, 2005 - Universal Updates are available through support as of July 2006
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 27.1 MB - Demo
+
+ Download 
+File Size: 3.6 MB - 11.0.3 updater
+
+ Home Page 
+
+ Reference Miner 3.1 
+
+Reference Miner searches the Internet to find and display reference
+information from PubMed, Amazon (US, UK, Germany, France, Canada, and
+Japan), the Library of Congress, and Google Scholar. Special features
+include a built-in web browser (reference surfing), drag and drop
+download of pdfs (requires institutional access privileges) and web
+pages from PubMed, Amazon, and Google Scholar, the display of book cover
+art (Amazon), and the ability to easily perform complex searches.
+
+ License : Freeware
+ Author/Publisher : Sonny Software
+ Modification Date : June 9, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.7 MB
+
+ Home Page 
+
+ Scrivener 1.11 
+
+Scrivener is software for Mac OS X aimed at writers of all kinds - novelists, short-story
+writers, journalists, academics - who need to gather disparate items of research together
+and who are working towards creating and organising a (possibly very long and) difficult
+piece of text.
+
+ License : Shareware, $35
+ Author/Publisher : Keith Blount/LIterature & Latte
+ Modification Date : December 8, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 10.0 MB
+
+ Home Page 
+
+ Sente 5.7.3 
+
+Imagine having the citation and abstract for every paper in each of your
+current research areas, organized in an iTunes-like interface for rapid
+access, and updated automatically every day -- all on your own computer.
+Sente can do this for you.
+
+Sente makes it easy to research new areas by providing an intuitive
+interface for complex searches of a variety of data sources. Instead of
+the search results disappearing when you close your web browser, Sente
+stores the results on your computer for as long as you need them. And,
+exploring these references is easier than it has ever been before,
+thanks to Sente's advanced browsing and filtering features.
+
+Having the search results on your computer gives you options you have
+never had before: reviewing the papers at any time, even without an
+Internet connection; quickly sifting through the collection by keyword,
+author or journal; or searching for one or more terms and having them
+immediately highlighted in the text as you flip through each abstract.
+
+If you have access to the full-text of an article as a PDF, just drop it
+into Sente. Double-clicking on the reference will then automatically
+open up the article in your favorite viewer.
+
+ License : Demo, $100
+ Author/Publisher : Third Street Software
+ Modification Date : January 21, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 28.3 MB
+
+ Home Page 
+
+ SimpleText Color Menu 3.4 
+
+Add color and a goodies menu including search functions to SimpleText.
+
+ License : Freeware
+ Author/Publisher : Alessandro Levi Montalcini
+ Modification Date : April 20, 1997
+ Requirements : 680x0 or PPC, SimpleText
+
+ Download 
+File Size: 161 Kb
+
+ Home Page 
+
+ skEdit 4.1.2 
+
+skEdit features customizable syntax highlighting for HTML, ColdFusion,
+CSS, PHP, JavaScript, ASP, Perl, and Python. You can change colors, add
+new keywords, etc. Keywords can be defined using regular expressions, or
+just as plain-text keywords.
+
+As you type HTML, ColdFusion, MovableType tags, or CSS, skEdit will
+present possible completions in a menu. Pressing return inserts the
+completion.
+
+skEdit's integrated SFTP (Secure File Transfer Protocol) support allows
+you to both transfer and edit files on a remote server that supports
+SFTP.
+ And many more features.
+
+ License : Shareware, $25
+ Author/Publisher : Sean Kelly
+ Modification Date : October 5, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 8.1 MB
+
+ Home Page 
+
+ Skim 1.2.7 
+
+Skim is a PDF reader and note-taker for OS X. It is designed to help you
+read and annotate scientific papers in PDF, but is also great for
+viewing any PDF file.
+
+ License : Freeware
+ Author/Publisher : Michael O. McCracken
+ Modification Date : September 3, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 3.2 MB
+
+ Home Page 
+
+ SmartWrap 2.7.6 
+
+SmartWrap analyzes your text, detects paragraphs and lists within your
+text, and rewraps your text so it wraps naturally within your document
+or message. SmartWrap comes in lots of varieties so it's always
+available where you need it most.
+ Features:
+ Analyzes and re-wraps your text.
+ Works well with International or Unicode text.
+ Removes all quote marks (">") from the beginnings of lines.
+ Works curiously well on text copied and from Web sites and PDFs!
+ Removes unwanted line breaks from within paragraphs.
+ Allows you to paste text from e-mails perfectly into your word processor!
+ SmartWrap numbered and lettered lists.
+ And most importantly, Save You Time!
+ Works great with sparse messages! (Messages that have lots of white space.)
+ Set loads of preferences within the SmartWrap Preferences program. These preference affect all SmartWrap modules.
+
+ License : Shareware, $18
+ Author/Publisher : Sanford H. Selznick
+ Modification Date : December 26, 2007
+ Requirements : Mac OS X 10.3.9 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ Smultron 3.5.1 
+
+Smultron is an open-source text editor written in Cocoa for Mac OS X
+Panther with many of the features that you might need. It features easy
+selection of the opened documents, line numbers, support for syntax
+colouring for many different languages, support for text encodings, code
+snippets, a toolbar, a status bar, HTML preview, multi-document find and
+replace with regular expressions, possibility to show invisible
+characters, authenticated saves, command-line utility, .Mac
+synchronisation of preferences and many more features.
+
+ License : Freeware
+ Author/Publisher : Peter Borg
+ Modification Date : January 31, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 5.1 MB - version 3.5.1 for Leopard
+
+ Download 
+File Size: 4.1 MB - version 3.1.2 for Tiger
+
+ Home Page 
+
+ Spell Catcher X 10.3.2 
+
+Spell Catcher is the ultimate spell checking and writing tool. Use it as
+a spell checker in e-mails, letters or documents, instant messages, and
+more! Perform a spelling check whenever and wherever you want! Use it to
+watch for mistakes as you type, auto-correct words you misspell
+frequently, or expand typing shorthands into much longer phrases that
+you already type too often. With its comprehensive dictionaries and
+thesaurus, Spell Catcher works in just about any Mac or Windows
+application you can type into, so you'll no longer need different
+dictionaries for all your applications.
+
+ License : Demo, $40
+ Author/Publisher : Rainmaker Research Inc.
+ Modification Date : December 18, 2008
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 14.8 MB
+
+ Download 
+File Size: 3.3 MB
+
+ Home Page 
+
+ Spelling Corrector 2.4 
+
+You need a spelling corrector to check the spelling of the words you use
+in your documents? You want to perform instantaneous spelling checking
+in Danish, Dutch, English, French, German, Italian, Japanese, Norwegian,
+Portuguese, Spanish, Swedish and many other laguages? Then Spelling
+Corrector is what you need.
+
+ License : Shareware, $20
+ Author/Publisher : AlphaOmega Software
+ Modification Date : September 16, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 3.4 MB
+
+ Home Page 
+
+ SpellMe 1.0 
+
+I have started to use a couple of apps on OS X that don't have built in
+support for spell checking (FireFox, TextMate). So, I decided to put
+together a simple spell check application, named SpellMe.
+
+ License : Freeware
+ Author/Publisher : Mike Chambers
+ Modification Date : November 20, 2004
+ Requirements : Mac OS X 10.3.5 or higher
+
+ Download 
+File Size: 21 Kb
+
+ Home Page 
+
+ SubEthaEdit 3.2.1 
+
+SubEthaEdit is a powerful and lean text editor. And it's the only
+collaborative one you can actually use. By combining the ease of
+Bonjour with the world's best text collaboration engine, it makes
+working together not only possible but even fun.
+
+ License : Shareware, $35
+ Author/Publisher : TheCodingMonkeys
+ Modification Date : December 11, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.8 MB
+
+ Home Page 
+
+ SuperNotecard 2.8 
+
+SuperNotecard is a writing application that uses virtual notecards to
+capture and organize content. This approach focuses on the basic parts
+of the composition while keeping the structure flexible so that it can
+change easily. SuperNotecard presents several ways to view and organize
+notecards. The program makes it simple to find and revisit them. An
+intuitive color-coding system enables writers to link content to plots,
+categories, characters or references and these relationships can be
+reviewed from several perspectives.
+
+For decades, screen, television, and theater writers have used notecards
+to hone their craft. SuperNotecard for Scriptwriting offers distinct
+advantages over traditional script editing programs.
+
+ License : Shareware, $29, Screenwriting Edition $34
+ Author/Publisher : Mindola Software
+ Modification Date : November 4, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.5 MB - SuperNotecard 2.6
+
+ Download 
+File Size: 2.7 MB - SuperNotecard for Scriptwriting 1.8
+
+ Home Page 
+
+ TeX FoG 1.2.4 
+
+TeX FoG (that stands for TeX Formula Graphic user interface) is a tool
+that helps TeX and LaTeX users type equations without the need to
+remember all the commands.
+
+ License : Freeware
+ Author/Publisher : Marco Coisson
+ Modification Date : August 1, 2006
+ Requirements : Mac OS X 10.3 or higher and a working LaTeX installation
+
+ Download 
+File Size: 1.6 MB
+
+ Home Page 
+
+ Tofu 2.0.1 
+
+Tofu is... different. It is a novel application to address the common
+problem that people don't like reading text on the screen. Why is that
+anyway? I believe there are two main reasons: line width and visual
+instability. Text is usually very wide on the screen, which makes going
+from the end of one line to the beginning of the next difficult. That's
+why newspapers have narrow columns: It makes them faster to read. So why
+not just take a normal window and make it narrower, scrolling down as
+you need? Well, there are usually a lot of lines in a text, and all look
+more or less the same, so if they move past your eyes vertically, they
+are difficult to keep track of. The text doesn't feel stable, and you
+get lost easily. In Tofu, text is arranged in columns, and each column
+is only as high as your window. So lines are nice and narrow, they don't
+move about vertically, plus your text is now in easy-to-digest chunks.
+You just scroll from column to column horizontally, and feel more in
+control. Tofu also includes some other useful features to make reading
+easier for you. You can jump to any point in your text by simply typing
+some letters near it (without choosing any command first). There's a
+system-wide Service so you can, for example, grab some text from a web
+page. And it lets you use your voice to navigate text, so you can
+literally sit back and read.
+
+ License : Freeware
+ Author/Publisher : Amar Sagoo
+ Modification Date : September 9, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 501 Kb
+
+ Home Page 
+
+ Tex-Edit Plus 4.9.8 
+
+Tex-Edit Plus is a styled text editor that fills the gap between Apple's
+bare-bones SimpleText and a full-featured word processor. It's fast,
+efficient, and has a clean, uncluttered interface. It's also great for
+cleaning up text which is transmitted over the internet.
+Plus, the Text to Speech feature is great for the visually impaired.
+
+ License : Shareware, $15
+ Author/Publisher : Tom Bender
+ Modification Date : July 30, 2007
+ Requirements : Mac OS X 10.1 or higher
+
+ Download 
+File Size: 3.8 MB - version 4.9.8
+
+ Download 
+File Size: 1.4 MB - version 4.1.3
+
+ Home Page 
+
+ Texmaker 1.8 
+
+Texmaker is a program, that integrates many tools needed to develop
+documents with LaTeX, in just one application.
+
+ License : Freeware
+ Author/Publisher : Pascal Brachet
+ Modification Date : November 4, 2008
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 10.7 MB
+
+ Home Page 
+
+ TeXShop 2.18 
+
+TeXShop is a TeX previewer for Mac OS X, written in Cocoa. Since pdf is
+a native file format on OS X, TeXShop uses "pdftex" and "pdflatex"
+rather than "tex" and "latex" to typeset; these programs in the standard
+teTeX distribution of TeX produce pdf output instead of dvi output.
+
+TeXShop uses TeXLive and teTeX, standard distributions of Tex programs
+for Unix machines. The distributions include tex, latex, dvips, tex
+fonts, cyrillic fonts, and virtually all other programs and supporting
+files commonly used in the TeX world. These distributions are maintained
+for the Mac by Gerben Wierda, and are available below.
+
+ License : Freeware
+ Author/Publisher : Richard Koch and Dirk Olmes
+ Modification Date : August 28, 2008
+ Requirements : Mac OS X 10.4.3 or higher
+
+ Download 
+File Size: 33.9 MB - TeXShop - You'll also need the i-Installer Package below or just the huge Mactex package
+ 9
+ Download 
+File Size: 2.7 MB - i-Installer 2.88
+
+ Download 
+File Size: 744 MB - Mactex-20080814 - includes TexShop and everything you need
+
+ MacTeX Mirrors In /systems/mac/mactex/
+
+ Obtaining TeXShop and TeXLive-teTeX 
+
+ Home Page 
+
+ TextMate 1.5.8 
+
+TextMate attempts to bring Apple's approach to operating systems into
+the world of text editors. By bridging UNIX underpinnings and GUI,
+TextMate cherry-picks the best of both worlds to the benefit of expert
+scripters and novice users alike. With a wealth of exclusive features
+like tabs, foldings, and macros, TextMate is well ahead of other native,
+graphical editors on OS X - and you don't have to sell your bones to
+afford it.
+
+ License : Shareware, $50
+ Author/Publisher : MacroMates
+ Modification Date : February 11, 2009
+ Requirements : Mac OS X 10.4.2 or higher
+
+ Download 
+File Size: 10.5 MB
+
+ Home Page 
+
+ textSOAP 6.1 
+
+TextSoap is a utility that makes it easy to clean out the annoying
+forwarding marks, invisible characters, and formatting that you often
+find in email and long documents.
+
+From cleaning text snippets in email messages, to scrubbing long
+documents, TextSoap makes it easy for all users of text-based software
+to quickly and effectively reuse information. TextSoap provides the
+clean, familiar user interface you've come to expect from MacOS X
+software and integrates with a variety of applications.
+
+ License : Shareware, $40
+ Author/Publisher : Mark Munz
+ Modification Date : March 10, 2009
+ Requirements : Mac OS X 10.5 or higher
+
+ Download 
+File Size: 4.6 MB
+
+ Home Page 
+
+ TextWrangler 3.0 
+
+TextWrangler 2 is the powerful general purpose text editor, and Unix and
+server administrator's tool.
+ What is a text editor? At its most basic, a text editor is a tool
+for simply editing text. You can use a text editor for a wide variety of
+tasks from cleaning up data, to editing configuration files on your Mac
+or server, to writing HTML or coding.
+
+ License : Freeware
+ Author/Publisher : Bare Bones Software
+ Modification Date : August 22, 2009
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 11.9 MB
+
+ Home Page 
+
+ Trapeze 1.3.1 
+
+Trapeze is a drag-and-drop text extraction utility that converts PDF
+files to editable HTML, RTF, ASCII or plain text.
+
+Trapeze puts you in control over the conversion process, with options
+for white space stripping, paragraph rewrapping and page break marking.
+Additional features include advanced text encoding, targeted RTF
+optimization (TextEdit or Microsoft Word), and support for encrypted
+(password protected) PDF.
+
+Trapeze's powerful reformatting engine is capable of standard HTML
+conversion, high quality RTF rendering and faithful plain text
+reproduction; a must for users interested in PDF web publishing,
+content data mining or repurposing.
+
+ License : Demo, $30
+ Author/Publisher : Mesa Dynamics, LLC
+ Modification Date : September 1, 2005
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 624 Kb
+
+ Home Page 
+
+ Tubby 0.6.3 
+
+Tubby is a CHM file expander. It opens Combined HTML Help files and 
+outputs their contents in a folder of the same name.
+
+ License : Freeware
+ Author/Publisher : Mike Bultrowicz
+ Modification Date : November 21, 2006
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 335 Kb
+
+ Home Page 
+
+ TypeIt4Me 4.0.4 
+
+Anytime you enter text in your Mac by typing it at the keyboard, TypeIt4Me can help you do it
+faster and more accurately.
+First you define a number of abbreviations and the full text entries that they represent, then you
+watch the Mac expand them on the fly even as you continue typing!
+
+ License : Shareware, $27
+ Author/Publisher : Riccardo Ettore
+ Modification Date : June 8, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.6 MB - version 4.0.4
+
+ Download 
+File Size: 511 Kb - version 4.8.2
+
+ Home Page 
+
+ Ulysses 1.6r2 
+
+Introducing: The text editor for creative writers. Where "Word" and 
+"Style" are not defined through buttons and palettes.
+
+ License : $100
+ Author/Publisher : The Blue Technologies Group
+ Modification Date : July 10, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 9.5 MB
+
+ Home Page 
+
+ UnicodeChecker 1.13 
+
+UnicodeChecker is an application for Mac OS X that displays information
+for every code point from the Unicode Standard 4.0.1. For a given
+number, UnicodeChecker will display that character along with its UTF-8,
+UTF-16 and UTF-32 encodings, XHTML entity, Unicode Name, mapping 
+information and much more.
+
+UnicodeChecker features string utilities for converting strings to the
+four Unicode Normalization Forms or converting from or to 
+Internationalized Domain Names (IDN) as specified in RFC 3490
+"Internationalizing Domain Names in Applications (IDNA)".
+
+There are also several text conversion functions available to all 
+applications from the "Services" menu. So you can convert text to all
+four Unicode Normalization Forms as well as to and from HTML character
+entities (very useful for HTML authors) from within any application
+supporting OS X Services.
+
+ License : Freeware
+ Author/Publisher : Earthlingsoft
+ Modification Date : August 27, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.0 MB
+
+ Home Page 
+
+ Unicode Converter 1.0.1 
+
+Unicode Converter is a simple utility to help provide a way of
+converting between a displayable character and it's unicode value. You
+can convert in any direction, either from a character representation to
+its unicode value, or from the unicode value to its character
+representation.
+
+ License : Freeware
+ Author/Publisher : Single Brain Cell Software
+ Modification Date : September 23, 2002
+ Requirements : Mac OS X
+
+ Download 
+File Size: 37 Kb
+
+ Vim 7.0.224 
+
+Vim is a highly configurable text editor, freely available for many
+different platforms. For general information, advocacy, and the latest
+news on Vim in general, visit the Vim Home Page .
+Vim is an advanced text editor that seeks to provide the power of the
+de-facto Unix editor 'Vi', with a more complete feature set
+This is a Mac specific version of Vim.
+
+ License : Freeware
+ Author/Publisher : Vim was written by Bram Moolenaar and others. The port to Mac OS
+(including Mac OS X) was done mostly by Dany St-Amant. This version was
+compiled and packaged by Benji Fisher
+ Modification Date : March 30, 2007
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 6.1 MB
+
+ Home Page 
+
+ WordService 2.7 
+
+This service provides functions to convert, format or speak the
+currently selected text, to insert data or to show statistics of the
+selection within all Cocoa applications (for example TextEdit, Mail,
+Stickies, Notes, Fire, OmniWeb, ProjectBuilder or TeXShop) and Carbon
+applications supporting services.
+
+Features: Reformat, Remove line endings/multiple spaces/quotes, Trim
+line beginnings/line endings/lines, Sort lines ascending/descending,
+Shift left/light, Initial caps of words/sentences, All caps & lowercase,
+Mac/Windows/Unix line endings, Rotate 13, Straight/Smart Quotes,
+Encode/Decode tabs, Insert date/date & time/time/contents of path, Speak
+native/german text, Statistics.
+
+ License : Freeware
+ Author/Publisher : Devon Technologies
+ Modification Date : September 5, 2007
+ Requirements : Mac OS X 10.2 or higher
+
+ Download 
+File Size: 221 Kb
+
+ Home Page 
+
+ WriteRoom 2.3.7 
+
+For Mac users who enjoy the simplicity of a typewriter, but live in the digital world.
+WriteRoom is a full-screen, distraction-free writing environment. Unlike the cluttered
+word processors you're used to, WriteRoom is just about you and your text.
+
+ License : Shareware, $25
+ Author/Publisher : HogBay Software
+ Modification Date : February 4, 2008
+ Requirements : Mac OS X 10.4 or higher
+
+ Download 
+File Size: 849 Kb
+
+ Home Page 
+
+ xCHM 1.13 
+
+This is a quicky port of the xCHM Windows Compiled HTML viewer, which
+was originally written for Linux and GTK.
+
+ License : Freeware
+ Author/Publisher : Chanler White
+ Modification Date : April 11, 2007
+ Requirements : Mac OS X 10.3 or higher
+
+ Download 
+File Size: 2.5 MB
+
+ Home Page 
+
+ Denotes Mac OS X Intel Native 
+ Denotes Mac OS X Intel & PPC Native 
+ Denotes Mac OS X PPC Native 
+ Denotes Mac OS 8/9 PPC Native 
+ Denotes Mac OS 680x0 Native 
+ Denotes Non-OS Specific Code 
+
+ Back to the Main Page of Pure Mac

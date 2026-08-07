@@ -1,0 +1,53 @@
+From: tange@daimi.aau.dk (Ole Tange)
+Newsgroups: rec.games.chess
+Subject: ICS: Rhode - Scratchy
+Date: 4 Aug 1993 00:05:52 GMT
+Organization: DAIMI, Computer Science Dept. at Aarhus University
+Lines: 40
+Message-ID: <23muh0$ppi@belfort.daimi.aau.dk>
+NNTP-Posting-Host: beryl.daimi.aau.dk
+
+
+GMRohde (2337) vs. scratchy (2869) --- Tue Aug 03, 08:07 PM EDT, 1993
+Unrated blitz match, initial time: 8 minutes, increment: 0 seconds.
+
+Move     GMRohde                scratchy
+----     --------------         --------------
+   1     P/d2-d4 (0:05)         N/g8-f6 (0:04)
+   2     P/c2-c4 (0:04)         P/e7-e6 (0:02)
+   3     N/g1-f3 (0:03)         P/c7-c5 (0:03)
+   4     P/d4-d5 (0:03)         P/e6-d5 (0:03)
+   5     P/c4-d5 (0:05)         P/d7-d6 (0:02)
+   6     P/g2-g3 (0:15)         B/f8-e7 (0:19)
+   7     B/f1-g2 (0:10)         P/b7-b5 (0:14)
+   8     o-o (0:04)             o-o (0:08)
+   9     P/a2-a4 (0:06)         P/b5-b4 (0:17)
+  10     N/b1-d2 (0:16)         B/c8-b7 (0:15)
+  11     P/e2-e4 (0:05)         B/b7-a6 (0:10)
+  12     R/f1-e1 (0:03)         N/b8-d7 (0:07)
+  13     P/b2-b3 (0:07)         N/f6-g4 (0:15)
+  14     B/c1-b2 (0:09)         B/e7-f6 (0:14)
+  15     B/b2-f6 (0:22)         Q/d8-f6 (0:02)
+  16     N/d2-c4 (0:09)         B/a6-c4 (0:12)
+  17     P/b3-c4 (0:03)         R/a8-b8 (0:06)
+  18     P/h2-h3 (0:14)         N/g4-e5 (0:02)
+  19     N/f3-d2 (0:03)         N/e5-d3 (0:12)
+  20     R/e1-f1 (0:03)         Q/f6-d4 (0:15)
+  21     R/a1-b1 (0:18)         N/d7-e5 (0:10)
+  22     Q/d1-c2 (0:17)         R/b8-e8 (0:15)
+  23     R/b1-b3 (0:04)         P/g7-g6 (0:02)
+  24     Q/c2-d1 (0:21)         N/d3-b2 (0:08)
+  25     Q/d1-e2 (0:12)         N/b2-a4 (0:08)
+  26     K/g1-h2 (0:06)         N/a4-c3 (0:08)
+  27     Q/e2-e1 (0:06)         N/e5-c4 (0:08)
+  28     N/d2-f3 (0:07)         Q/d4-e4 (0:09)
+  29     Q/e1-a1 (0:09)         Q/e4-c2 (0:08)
+  30     W resigns
+
+
+--
+--
+Der er altid tandpasta til een dag mere   tange@daimi.aau.dk
+
+
+

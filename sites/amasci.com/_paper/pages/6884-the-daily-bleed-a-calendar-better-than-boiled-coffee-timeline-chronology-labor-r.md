@@ -1,0 +1,398 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0508.htm
+order: 6884
+reachable_from_entry: false
+images: 16
+internal_links: 0
+extracted: 2026-08-07T17:14:22Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0508.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" /><img src="http://www.eskimo.com/~recall/logo2.gif" data-lowsrc="http://www.eskimo.com/~recall/images/logo2_t.gif" data-align="TOP" width="250" height="100" alt="Recollection Used Books Logo" />
+> >
+> > <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> > **Our Daily Bleed...**
+> >
+> > **-- MAY 8 -- *EADWEARD MUYBRIDGE*   Photographic pioneer, theorist of motion & memory.**
+> >
+> > > > 
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > **England: FURRY DAY. A day of mischief, revels, entering houses by windows, Morris dances & the Furry Dance.**\
+> > > > ***Bands of rogues prevent anyone from going to work or to school.***
+> > > >
+> > > > ** Sweden: AKE NAME DAY**
+> > > >
+> > > > ------------------------------------------------------------------------
+> > > >
+> > > > \
+> > > >  \
+> > > >  
+> > >
+> > > \
+> > >  
+> > >
+> > > **1429 -- Joan of Arc raised the Siege of Orleans.**\
+> > >  
+> > >
+> > > **1737 -- Stand By Me?: Very large historian Edward Gibbon lives (1737-1794). Revered for his command of historical perspective & literary style rather than his conclusions. His personal habits were peculiar &, according to some contemporary comment, he was so filthy that one could not stand close to him.**
+> > >
+> > > > **Gibbon was smitten with Lady Elizabeth Foster, the Duke of Devonshire's mistress. He dropped, one day, to his knees with a proposal of marriage. When she bids him rise, the corpulent author, after a brief struggle, is obliged to admit that he can do no such thing.**
+> > > >
+> > > > ** Religious reformer Hannah More writes: *"How many souls have his writings polluted! Lord preserve others from their contagion!"***
+> > > >
+> > > > ** <http://www.his.com/~z/gibbon.html>**\
+> > > > **<http://www.alumni.caltech.edu/~zimm/gibho1.html>**\
+> > > > **<http://www.english.upenn.edu/~jlynch/Frank/People/gibbon.html>**\
+> > > > **<http://www.kirjasto.sci.fi/egibbon.htm>**
+> > >
+> > > **1781 -- Maple Leaf Rag?: American colonel Ethan Allen & his brothers, desperate to secure Vermont's independence from New York, opened private negotiations with the British, allegedly aimed at making the area between the Connecticut & Hudson Rivers a province of Canada.**\
+> > >  
+> > >
+> > > **1784 -- First recorded deaths from hail in the US occurs, Winnsborough, North Carolina, where hailstones up to 9 inches in diameter kill several men & numerous farm animals.**\
+> > >  
+> > >
+> > > <img src="http://www.dispatchnews.com/issues/resources/mt3.jpg" data-hspace="10" data-vspace="10" data-border="1" width="648" height="211" alt="Mt. (F)red" />
+> > >
+> > > **1792 -- British Captain George Vancouver sights, renames, Mt Rainier (Washington State). The Indian name was (truthfully!), Mt. Fred.**\
+> > > **<http://www.halcyon.com/rdpayne/mrnp-geology.html>**\
+> > >  \
+> > >  
+> > >
+> > > **1824 -- Beloved & Respected Comrade Leader William Walker filibuster, American president of Nicaragua, lives.**\
+> > >  
+> > >
+> > > **1828 -- U.S. Peace Society founded.**\
+> > >  
+> > >
+> > > **1838 -- Chartist movement for British workers' rights.**\
+> > >  
+> > >
+> > > <img src="http://www.seacoastnh.com/poems/res/train3.jpeg" data-hspace="10" data-vspace="10" data-border="1" data-align="LEFT" width="273" height="176" alt="?" />\
+> > > **1853 -- First Major Train Wreck: near Bellevue, France, a locomotive axle breaks on a train returning from a celebration of the King's birthday; the passenger cars telescope into each other & catch fire, killing 53.**\
+> > > **<http://www.seacoastnh.com/poems/wrecks.html>**\
+> > >  
+> > >
+> > > **1863 -- International Red Cross founded.**\
+> > >  
+> > >
+> > > **1876 -- Peter Maurin, co-founder of Catholic Worker movement, lives.**
+> > >
+> > > > **...But this is a good time to reflect on how dusty,**\
+> > > > **scarred by worn sandals, dirty between the toes, grime**\
+> > > > **on the calloused soles, the apostles' feet would have been.**\
+> > > > **And mind moves on to worse: old winos stumbling along,**\
+> > > > **unwashed, their long nails thick as horn, shoes wrong-sized, broken.**\
+> > > > **And not just winos anyone homeless, who has to keep moving all day**\
+> > > > **with no place to go, even if shelter at night**\
+> > > > **gives them a chance to bathe their blisters, must know**\
+> > > > **week by week an accretion of weariness, once-good shoes**\
+> > > > **grown thin...**
+> > > >
+> > > > **---from *Feet* by Denise Levertov**
+> > > >
+> > > > ** <http://www.catholicworker.org/>**
+> > >
+> > > **1877 -- Mary Marcy, libertarian socialist, lives.**\
+> > >  
+> > >
+> > > <img src="http://www.littleleague.org/news/images/photo.jpg" data-hspace="10" data-vspace="10" data-border="1" data-align="LEFT" width="156" height="200" alt="?" />\
+> > > **1878 -- First unassisted triple play in organized baseball, by Paul Hines. Hmmm. Thought we did this yesterday.**\
+> > > **<http://www.littleleague.org/>**\
+> > >  
+> > >
+> > > **1880 -- French writer Gustave Flaubert dies.**\
+> > >  
+> > >
+> > > **1884 -- Beloved & Respected Comrade Leader Harry S. Truman Missouri, 33rd US President, lives.**
+> > >
+> > > > **"I fired MacArthur because he wouldn't respect the authority of the President. I didn't fire him because he was a dumb son of a bitch, although he was, but that's not against the law for generals. If it was, half to three-quarters of them would be in jail."**\
+> > > >  
+> > >
+> > > \
+> > >  
+> > >
+> > > **1885 -- Novelist Thomas B. Costain (*The Silver Chalice*) lives, Brantford, Ontario.**\
+> > >  
+> > >
+> > > <img src="http://members.aol.com/dstultz214/spincoke.gif" data-hspace="10" data-vspace="10" data-border="1" data-align="LEFT" width="22" height="43" alt="?" />\
+> > > **1886 -- Syrup for Coca Cola perfected. Dentists rejoice! <http://members.aol.com/Cokemix/index.cokesite.html>**\
+> > >  
+> > >
+> > > **1891 -- Theosophical kingpin Madame Helena Blavatsky dies.**\
+> > >  
+> > >
+> > > **1895 -- Edmund Wilson, journalist, critic, poet, novelist, lives, Red Bank, N.J. e. e. cummings, characterizes him as "the man in the iron necktie." Wrote the banned *Memoirs of Hecate County* & *To the Finland Station* .**\
+> > >  \
+> > >  
+> > >
+> > > <img src="http://www.mdle.com/ClassicFilms/PhotoGallery5/keystne3.jpg" data-hspace="10" data-vspace="10" data-border="0" data-align="RIGHT" width="260" height="186" alt="?" />\
+> > > **1899 -- Kultured Kops?: Irish Literary Theatre is inaugurated in Dublin with W. B. Yeats's *The Countess Cathleen* . . . with cops present to protect the players.**
+> > >
+> > > > **Billy "Bud" Yeats was in love, hopelessly in love with Maud Gonne, for most of his life.**
+> > > >
+> > > > ** Maud married Major John McBride in 1901, their son was Sean McBride, co-founder of Amnesty International, and winner of the Nobel Peace prize.**
+> > > >
+> > > > ** John McBride was executed by the British for his involvement in the Easter Rising, 1916.**
+> > > >
+> > > > ** <http://www.robotwisdom.com/jaj/irishlit.html>**
+> > >
+> > > **1902 -- Mt. Pele, on the island of Martinique, erupted, killing over 30,000, the largest number of people ever directly wiped out by a volcanic eruption.**\
+> > >  
+> > >
+> > > **1903 -- Drop-out painter Paul Gauguin dies.**\
+> > >  
+> > >
+> > > <img src="http://www.ediblebrain.com/pics/148-i.gif" data-hspace="10" data-vspace="10" data-border="0" data-align="LEFT" width="150" height="128" alt="?" />\
+> > > **1904 -- Photographer Eadweard Muybridge dies, Kingston upon Thames, England. <http://www.ediblebrain.com/muybridge.htm>**\
+> > >  \
+> > >  
+> > >
+> > > **1911 -- Mexico: Tijuana is captured by the anarchist Magonistes of the Mexican Liberal Party. Lower California is now almost entirely in their hands. The Magonistes encouraged the people to take collective possession of the lands, to create co-operatives & refuse the establishment of any new government.**\
+> > > **<http://flag.blackened.net/revolt/mexico/history/anarchism_1910.html>**\
+> > > **In Espanol, <http://spin.com.mx/~hvelarde/Mexico/ricardo.flores.magon/home.html>**\
+> > > **<http://www.pitzer.edu/~dward/Anarchist_Archives/worldwidemovements/mexicobiblio.html>**\
+> > > **<http://www.pitzer.edu/%7Edward/Anarchist_Archives/bright/magon/home.html>**
+> > >
+> > > <img src="http://www.ecn.org/freedom/wood.gif" data-hspace="10" data-vspace="10" data-border="0" width="162" height="172" alt="?" />\
+> > > **1912 -- George Woodcock lives, Winnipeg, Canada. Active in anarchist politics in the 1930s when his family returned to England from Canada to escape poverty. Editor of the periodical "Canadian Literature". Published a considerable number of books, articles, fiction, & poetry & two well known books on anarchism.**
+> > >
+> > > >  \
+> > > > **"Unconsciously, the generation of the 1960s, as well as that of the 1970s, picked up the longstanding libertarian dynamic that Arendt, Bookchin, Paul Goodman, George Woodcock & others had detected in the historical upheavals of the past."**
+> > > >
+> > > > See the Anarchist Encyclopedia page, <http://recollectionbooks.com/bleed/Encyclopedia/WoodcockGeorge.htm>\
+> > > >  
+> > >
+> > > **1913 -- Saima Harmaja (1913-1937) lives. Finnish poet, published her central works from 1932 to 1937. Her poems, after her death at the age of 22, gained cult status among young female readers. <http://www.kirjasto.sci.fi/harmaja.htm>**\
+> > >  
+> > >
+> > > **1914 -- Romain Gary lives (1914-1980). Also wrote as Émile Ajar. Lithuanian-born French writer. Samuel Fuller's film *White Dog* was based on one of his books, as was *The Roots of Heaven* by John Huston .**\
+> > > **<http://www.france3.fr/fr3/ecrivain/gary.html>**\
+> > > **<http://www.kirjasto.sci.fi/rgary.htm>**
+> > >
+> > > **1915 -- Milton Meltzer lives. Author of books on social justice themes.**\
+> > >  
+> > >
+> > > <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-hspace="10" data-vspace="10" data-border="0" data-align="LEFT" width="35" height="22" alt="?" />\
+> > > **1916 -- US: Dr. Ben Reitman convicted & sentenced to sixty days in Queens County Jail.**
+> > >
+> > > **anarchist**
+> > >
+> > > \
+> > > \
+> > > \
+> > >
+> > > **1919 -- First successful transatlantic airplane flight begins. U.S. Navy Seaplane left Rockaway, New York, reached Lisbon, Portugal (with stops in Newfoundland & the Azores) 27 May.**\
+> > > **<http://www.paperparadise.com/>**\
+> > >  \
+> > >  
+> > >
+> > > <img src="http://perso.club-internet.fr/ytak/images/zazoulitch_low.gif" data-hspace="10" data-vspace="10" data-border="1" data-align="LEFT" width="71" height="103" alt="?" />\
+> > > **1919 -- Vera Zassoulitch (1849-1919) dies. Russian anarchist, then a Menshevik. Left a family of nobility for revolutionary activities.**
+> > >
+> > > > **Arrested May 1869, for her correspondence with the nihilist Netchaiev & imprisoned at the Peter & Paul fortress until March 1871. In 1878 she shot & wounded General Trepov, who was responsible for torturing the radical A.S Emelianov (Bogolioubov). A jury refused to convict her, dismissing the charges, & the secret police, without success, attempted to prevent her from leaving the country. Zassoulitch went to Switzerland, then returned & joined an anarchist group. By 1883, however, she moved away from anarchism, increasingly adopting Marxist positions, & eventually joined the Mensheviks.**
+> > > >
+> > > > > **"As to Vera Zassoulitch, who also was acquitted by the jury, the Government ordered her re-arrest at the very doors of the court, & re-arrested she would have been if her comrades had not rescued her, leaving one dead in the riot which ensued."**
+> > > > >
+> > > > > ** ---Peter Kropotkin, *[In Russian & French Prisons](http://dwardmac.pitzer.edu/Anarchist_Archives/kropotkin/prisons/chap2.html)***
+> > > >
+> > > > **<http://www.terravista.pt/IlhadoMel/1188/a_ideologia_marxista_na_r%C3%BAssia.htm>**
+> > > >
+> > > > **<http://www.revue-experts.com/html/articles/article39a.html>**
+> > > >
+> > > > **<http://perso.club-internet.fr/ytak/mai2.html>**
+> > >
+> > > **1921 -- Nathalie Lemel (1827-1921) dies, blind & miserable in an old people's home in Ivry. French revolutionist & feminist. Founded a bookshop in Quimper, then moved to Paris & became a bookbinder.**
+> > >
+> > > > **Lemel joined the International in 1866 & also helped Eugene Varlin ("La marmite"; also a book binder) establish a food co-operative. During the Paris Commune, they provided food & meals for hundreds of the most destitute & she & the Russian noble/socialist Elisabeth Dmitrieff (Dmitrieva), organized "L'union des femmes pour la Défense de Paris et les soins aux blessés" (Women's Union for the Defence of Paris).**
+> > > >
+> > > > **Lemel was found too, with red flag in hand, on the barricades of the place Pigalle before she was arrested June 21, 1871. Despondent over the failure of the Commune, she attempted suicide (by drinking wormwood). Friends intervened to get charges against her dropped, but she wrote the police, rejecting all such efforts in her behalf. Thus she was then sent to prison in New Caledonia (on August 24) with the anarchist Louise Michel.**
+> > > >
+> > > > **Pardoned in 1879, she returned to Paris, working with "the intransigent". Nathalie Lemel eventually went blind & died in miserable conditions.**
+> > > >
+> > > > ** <http://perso.club-internet.fr/ytak/mai2.html#8>**\
+> > > > **<http://www.library.northwestern.edu/spec/siege/docs/PAR00649.html>**\
+> > > > **<http://w1.xrefer.com/entry/360162>**\
+> > > > **<http://www.leksikon.org/html/dk/lemel_nathalie.htm>**\
+> > > > **<http://perso.club-internet.fr/lacomune/pages/ph15.html>**\
+> > > > **<http://www.antjeschrupp.de/pariser_kommune.htm>**
+> > >
+> > > <img src="http://wwwenglish.ucdavis.edu/spark/v1n1/mttam/hands.jpg" data-hspace="10" data-vspace="10" data-border="1" width="415" height="80" alt="Gary&#39;s on Drums" />\
+> > > **1930 -- One of the earliest of the Beat Poets, Zen anarchist Gary Snyder, lives in San Francisco, California.**\
+> > > **<http://www.bluesforpeace.com/beat-generation.htm>**\
+> > > **<http://www.poetryflash.org/archive.snyder.html>**
+> > >
+> > > **1933 -- Gandhi begins 31-day fast in jail, India.**\
+> > >  \
+> > >  
+> > >
+> > > **1937 -- Reclusive American novelist Thomas Pynchon lives, Glen Cove, New York. Wrote *V*, *The Crying of Lot 49* & *Gravity's Rainbow*.**
+> > >
+> > > > **She could, at this stage of things, recognize signals like that, as the epileptic is said to- an odor, color, pure piercing grace note announcing his seizure. Afterward it is only this signal, really dross, this secular announcement, and never what is revealed during the attack, that he remembers. Oedipa wondered whether, at the end of this (if it were supposed to end), she too might not be left with only compiled memories of clues, announcements, intimations, but never the central truth itself, which must somehow each time be too bright for her memory to hold; which must always blaze out, destroying its own message irreversibly, leaving an overexposed blank when the ordinary world came back.**
+> > > >
+> > > > ** ---From *The Crying of Lot 49***
+> > >
+> > > **<http://www.hyperarts.com/pynchon/>**\
+> > >  
+> > >
+> > > **1937 -- Spain: (Saturday): Barricades are dismantled, except for the PSUC barricades, which persist into June. The Friends of Durruti distribute a manifesto reviewing the events of May. In that manifesto there is talk of "treachery" by the CNT leadership.**
+> > >
+> > > **Anarchist chronology, Friends of Durruti Group 1937-39, Agustin Guillamon**
+> > >
+> > > \
+> > > \
+> > > \
+> > >
+> > > <img src="http://www.historyplace.com/worldwar2/ww2-pix/dachau4.jpg" data-hspace="10" data-vspace="10" data-border="1" data-align="LEFT" width="227" height="150" alt="Happy People" />\
+> > > **1945 -- Germany surrenders, ending World War II in Europe. <http://www.suite101.com/welcome.cfm/world_war_2>**\
+> > >  
+> > >
+> > > > **1954 -- First shot-put over 60 feet -- Parry O'Brien, Los Angeles.**\
+> > > >  
+> > > >
+> > > > **1958 -- Everybody Must Get Stoned? Beloved & Respected Comrade Leader VP Nixon was shoved stoned booed & spat upon by protesters in Peru. The war on Peruvian Marching Power begins.**\
+> > > >  
+> > > >
+> > > > **1958 -- Vice-President Richard Nixon is spat on and stoned during his official visit to Peru.**\
+> > > > **Source: 'Calendar Riots'**\
+> > > >  
+> > > >
+> > > > **1962 -- An estimated 9,000,000 people participate in a ten-minute work stoppage to protest nuclear weapons, Belgium.**\
+> > > >  
+> > > >
+> > > > **1963 -- South Vietnam: Buddhist uprisings against Diem start in Hue.**\
+> > > >  
+> > > >
+> > > > **1965 -- Well Put? First shot put over 70' (Randy Matson 70' 7") .**\
+> > > >  
+> > > >
+> > > > **1967 -- A federal grand jury indicts heavyweight boxing champion Muhammed Ali for refusing to be inducted into the U.S. armed forces.**\
+> > > >  
+> > > >
+> > > > **1968 -- Paris 1968. Things are not what they were.**
+> > > >
+> > > > > **Wednesday Strong police forces still occupied the Sorbonne & the student union delivers an ultimatum to the Government. If the demands were not met they would 'liberate' the Sorbonne. Mon general changed his tune & said: 'The Government is ready to take the steps necessary for the adaptation of education to the modern world'. M. Pierre Sudreau, of the Party of Modern Democracy, said in the French Assembly that extremists had been trained in street fighting at two anarchist camps.**\
+> > > > >  \
+> > > > >  \
+> > > > >
+> > > > > ***<u>8 mai 68 </u> Fermeture des lycées les uns après les autres.***
+> > > > >
+> > > > > **<http://www.ecn.org/freedom/1968/week.html>**
+> > > >
+> > > > <img src="http://www.rockument.com/hagifs/Janis.GIF" data-hspace="10" data-vspace="10" data-border="0" width="100" height="140" alt="?" />\
+> > > > **1968 -- US: Benefit for poster artist, one of the founders of the Family Dog, Alton Kelley at the Carousel Ballroom in Frisco.**\
+> > > > **<http://www.rockument.com/kelley.html>**\
+> > > > **<http://www.sixties.com/html/art.html>**
+> > > >
+> > > > **1970 -- NY "hardhats" turn on a crowd of student antiwar protesters & beat them up. Dick M Nixon & White House applaud.**\
+> > > >  
+> > > >
+> > > > **1970 -- Born To Quit?: Beloved & Respected Comrade Leader Dick M Nixon fires Gen. Lewis Hershey as director of the Selective Service (SS) & agrees to withdraw all U.S. troops from Cambodia within 30 days.**\
+> > > >  
+> > > >
+> > > > **1972 -- U.S. institutes "Operation Linebacker" -- the mining of North Vietnam's Haiphong Harbor; bombing of Hanoi.**\
+> > > >  
+> > > >
+> > > > **1972 -- University of Michigan protest against ROTC & protests on dozens of US campuses against the renewed bombing of North Vietnam (eg, Columbia University).**\
+> > > >  
+> > > >
+> > > > **1972 -- Quite Odd?: California starts odd-even license gas distribution . . . no one shows up on even days.**\
+> > > >  
+> > > >
+> > > > **1973 -- Indians holding South Dakota hamlet of Wounded Knee for 10 weeks, surrender.**\
+> > > >  
+> > > >
+> > > > **1974 -- Papa May I?: John Papa blew 140 smoke rings on one lungful of cigarette smoke.**\
+> > > >  
+> > > >
+> > > > **1977 -- David Berkowitz pleads guilty in "Son of Sam" 44-caliber shootings. Said he was "dog tired."**\
+> > > >  
+> > > >
+> > > > **1979 -- Salvadoran police kill 23 people & wound 70 outside the municipal cathedral of San Salvador. The victims were members of the Popular Revolutionary Bloc, a coalition of anti-government students, teachers, peasants & workers.**\
+> > > >  
+> > > >
+> > > > **1983 -- USSR: This evening in Georgia 20 demonstrators are killed.**\
+> > > >  
+> > > >
+> > > > **1988 -- Time Enough? Science fiction author Robert Heinlein dies. Avid supporter of the Vietnam War (along with Anne McCaffrey, Keith Laumer, et al). See Michael Moorcock's *Starship Stormtroopers* on SciFi Fascists, <http://www.geocities.com/CapitolHill/Lobby/3998/Moorcock.html>**\
+> > > > **<http://www.geocities.com/NapaValley/1872/rah.htm>**\
+> > > >  \
+> > > >  
+> > > >
+> > > > **1990 --**
+> > > >
+> > > > |  |
+> > > > |----|
+> > > > | <img src="http://www.prollos.com/tomwaits/new_start.jpg" data-hspace="10" data-vspace="20" data-border="0" width="530" height="542" /> |
+> > > >
+> > > > **Tom Waits wins \$2.5 million when a Los Angeles court rules that Frito-Lay unlawfully used a Waits sound alike in its Doritos ads.**
+> > > >
+> > > > **<http://www.tomwaits.com/about.html>**\
+> > > > **<http://www.front.net/gtausch/waits.html>**\
+> > > > **<http://www.prollos.com/tomwaits/list.html>**
+> > > >
+> > > > **1999 -- First annual New England Anarchist Bookfair, Boston, Massachusetts.**\
+> > > >  \
+> > > >  
+> > > >
+> > > > > **Speakers: Michael Albert (of Z Magazine), Noel Ignatiev (of Race Traitor), Maria Rodriguez Gil (former member of the post-Franco Spanish CNT), Patrick Borden (Atlantic Anarchist Circle) Alexis Buss (Philadelphia I.W.W.), Jon Bekken (former editor of the I.W.W.'s newspaper "Industrial Worker"), Monty Neill (Midnight Notes collective & the Boston Encuentro group).**\
+> > > > > **Movies: "Land & Freedom" (film adaptation of Orwell's "Homage to Catalonia"), "Anarchism in America" (documentry from the '80's), "Free Spirit of Labor: The Jewish Anarchists" (on the Jewish anarchist movement in the US), "Resistance, Sabotage & Music" (Earth First!, Judi Bari, TCHKUNG!), & "All Our Lives" (on the Free Women of Spain), "All Power To The People" (Black Panthers, AIM, Young Lords, etc.), & more...(Radical queer films, Mumia, Zapatistas, Biotic Baking Brigade, political prsioners, etc.)**\
+> > > > > **Booktables -- provided by infoshops, distributors, & collectors from around the New England area (Lucy Parsons Center / Boston, Firecracker / Worcester, Perennial - A-Distribution / Montague, Anarchist Archives Project / Cambridge)**
+> > > >
+> > > > **<http://www.indymedia.org/display.php3?article_id=5653>**\
+> > > > **<http://aspin.asu.edu/hpn/archives/May99/0141.html>**
+> > > >
+> > > > **1999 -- Andre Dupont (aka Aguigui Mouna) dies, Paris, France. Agitator, propagandist pacifist, philosophical & individualistic libertarian.**
+> > > >
+> > > > > **Mixes pacifism & anarchist individualism, dating from 1951. He went bankrupt in Paris, which left him in the streets, where he develops his talent as agitator:**
+> > > > >
+> > > > > **alt., André DUPONT**
+> > > > >
+> > > > > **"It is while speaking that one becomes a loudspeaker".**
+> > > > >
+> > > > > ** Demonstrating alone, he harrangues passersby in the streets of Paris. An early anti-nuke protestor, he started his own newspaper, "Mouna Frères". Seeking opportunities to be heard, Dupont, on several occasions ran in presidential elections as a "Non-Candidate". Bernard Baissat devoted a film to this anti-conformist & Anne Gallois wrote the biography, *"Gueule ou crève"*.**
+> > > > >
+> > > > > ** <http://perso.club-internet.fr/ytak/octobre.html#mouna>**
+> > > >
+> > > > **3000 --**
+> > > >
+> > > > > > ***"A friend is someone you know about, someone you can trust.***
+> > > > > >
+> > > > > > ***A brand's a bit like that. You meet this friend through advertising....***
+> > > > > >
+> > > > > > ***Without advertising, how would you recognize your friends?"***
+> > > > > >
+> > > > > > **--- International Association of Advertisers**
+> > > > > >
+> > > > > > \
+> > > > > > \
+> > > > > > \
+> > > > > > \
+> > > > > >
+> > > > > > ------------------------------------------------------------------------
+> > > > > >
+> > > > > > **anti-CopyRite 2000-3000, more or less**\
+> > > > > > **Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),**\
+> > > > > > **or send questions, suggestions, additions, corrections to:**\
+> > > > > > **[BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)**
+> > > > > >
+> > > > > > **Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)**
+> > > > > >
+> > > > > > **The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)**
+> > > > > >
+> > > > > > ** anarchist books, labor books, radical books**
+> > > > > >
+> > > > > > **See also: Anarchist Encyclopedia**\
+> > > > > > **http://recollectionbooks.com/bleed/gallery/galleryindex.htm**\
+> > > > > > **Stan Iverson Memorial Library**\
+> > > > > > **http://recollectionbooks.com/siml/**\
+> > > > > >  \
+> > > > > >

@@ -1,0 +1,180 @@
+Resume for Robert "Ert" Dredge 
+
+ Resume 
+
+ Robert David (Ert) Dredge Email: No recruiters! Thank you. 
+
+ | Education | Skills | Experience | Activities | Publications | 
+
+ Education 
+
+ University of Houston - Clear
+Lake (Houston, TX)
+ 1996 - 1998
+
+ M.S. in Software Engineering, specialization in Information Management.
+
+ Massachusetts Institute of Technology (Cambridge, MA)
+ 1988 - 1993
+
+ B.S. in Biology, minor in Economics. 
+
+ Baylor College of Medicine (Houston, TX)
+ 1995 - 1996
+
+ Completed two semesters in Baylor's Ph.D. program in Structural and Computational Biology and Molecular Biophysics . 
+
+ Skills 
+
+Perl, Java, Smalltalk, C/C++, ColdFusion, BASIC, Lisp/Scheme,
+PostScript, HTML, CGI scripting, software life cycle process, TCP/IP,
+UNIX system administration, DBMS schema design, SQL; Oracle,
+postgreSQL, mSQL. Training in standardized software system design
+techniques including UML, Fusion, and formal mathematical
+specification. Basic knowledge of French.
+
+ Experience 
+
+ Art Technology Group (San Francisco, CA)
+ Global Services Software Engineer 
+
+2000 - Present
+
+I am currently a Software Engineer for ATG.
+
+ Online Partners.com (San Francisco, CA)
+ Managing Software Engineer (Application Development) 
+
+1998 - 2000
+
+ I was hired in 1998 when Online Partners had only 3 full-time
+I.T. staff members to develop and maintain the back-end of their Gay.com website and chat service. As a
+software engineer in such a small organization my duties ranged widely
+from system design to coding to Oracle database and Unix system
+administration. An over 60-person organization hosting a website
+with over 100 million page views per month when I left, I managed Online Partners'
+application development group in the development of new site features
+and the site backend migration from ColdFusion to the Dynamo
+Application Server. 
+
+ Whitehead Institute for Biomedical Research (Cambridge, MA)
+ Software Engineer 
+
+1992 - 1995
+
+ Collected and analyzed laboratory data to construct a dense simple-sequence length repeat genetic map of the mouse. Published interactive genetic maps on the World Wide Web. Authored software to create genetic maps using Perl, Smalltalk and Microsoft Excel's scripting language. Translated end-user requirements into specifications for data management software. 
+
+ UHCL 's Research Institute for
+Computing and Information Systems (Houston, TX)
+ Research Assistant 
+
+1996 - 1997
+
+ Researched competing freeware database systems. Collaborated on design for an agent-based information locating system.
+
+ Broadbent and Brown Consulting (Burlington, ON)
+ Software Engineer 
+
+February 1987 - August 1987
+
+ Created software using dBASE to poll electronic cash registers for sales data and generate reports based on this data. 
+
+ Shadow Play (Burlington, ON)
+ Sole Proprietor 
+
+May 1988 - August 1990
+
+ Founded Shadow Play to facilitate networking among the 2,000 alumni of the Shad Valley summer program . Published a national newsletter. Organized and publicized reunions.
+
+ Tundra Software (Burlington, ON)
+ Computer Programmer, Telemarketer 
+
+June - August 1989
+
+ Created a demonstration version of Tundra's main software product and contacted potential clients. 
+
+ Massachusetts Institute of Technology (Cambridge, MA)
+ Laboratory Technician 
+
+1991 - 1992
+
+ Planned and performed phage library screens, DNA sequencing, and site-directed mutagenesis .
+
+ McMaster University (Hamilton, ON)
+ Laboratory Technician 
+
+May - August 1990
+
+ Investigated the toxic properties of an arthritis drug using ultraviolet and infra-red spectroscopy and nuclear magnetic resonance analysis.
+
+ University of Waterloo (Waterloo, ON)
+ Laboratory Technician 
+
+July - August 1988
+
+ Created protected amino acids for polypeptide synthesis . Familiarized myself with an Evans and Sutherland molecular modeling system. 
+
+ Activities 
+
+ WMBR-FM Radio (Cambridge, MA)
+ General Manager, Program Director 
+
+1988 - 1996
+
+ Managed a staff of over 100 volunteers. Created WMBR's World Wide Web site in early 1994. Delegated management tasks to a team of five department directors. Ensured station compliance with FCC regulations. Decided station expenditures. Annual budget $50,000. Oversaw expansion of physical facility by 50%. Accumulated hundreds of hours on-air broadcast time. Scheduled on-air time for radio show producers and critiqued their programming styles.
+
+ We The People (Oakland, CA)
+ Software Engineer, Audio Content Publisher 
+ 1996 - 1997
+
+Created software and World Wide Web pages to allow the online broadcast of the We The People radio show, hosted by former California governor Jerry Brown .
+
+ Polyamory.org (San Francisco, CA)
+ Software Engineer, Webmaster, Mailing list admin 
+ 1997 - Present
+
+I wrote and administrate polyamory.org's mSQL-based personal ads
+service as well as administrate two listserv mailing lists.
+
+ Canadian Centre for Creative Technology (Waterloo, ON)
+ Member of the Board of Directors 
+ 1990 - 1994
+
+ Planned and approved goals and budgets for the CCCT (now Shad International ), a national award-winning nonprofit corporation, in its goal of improving interactions between technological industries and secondary education. Annual budget $2,000,000. 
+
+ MIT - Committee on Curricula (Cambridge, MA)
+ Committee member 
+
+1990 - 1991
+
+ Approved requirements for awarding of MIT degrees. Added a requirement that all graduating students must have completed a Biology course.
+
+ Publications 
+
+Dietrich, W.F., et. al. (1996). "A comprehensive genetic map of the
+mouse genome" Nature 380:149-152.
+Available as a Summary 
+to those with a free Nature online account.
+
+Eicher, E., et. al. (1996). "Sex-Determining Genes on Mouse
+Autosomes Identified by Linkage Analysis of C57BL/6J-Y POS Sex Reversal." Nature Genetics 14:206-209 ( Abstract )
+
+DeSanctus, G.T., et. al. (1995). "Quantitative locus analysis of airway hyperresponsiveness in A/J and C57BL/6J mice" Nature Genetics 11:150-154
+
+Dietrich, W.F., et. al. (1994). "A Genetic Map of the Mouse with 4006 Simple Sequence Length Polymorphisms" Nature Genetics 7:220-245
+
+ Page, D.C., et. al. (1994).
+"Constructing Maps of the Human Y Chromosome." From the 1994 Y
+Chromosome Workshop . ( Abstract )
+
+ Stein, L., et. al. (1994). "Splicing UNIX into a genome mapping
+laboratory." From the USENIX Summer
+1994 Technical Conference , pages 221-229. ( Compressed PostScript text
+ ),
+( Flat file text ), ( abstract ).
+
+Copeland, N.G., et. al. (1993). "Genome Maps IV" Science 262:67
+
+ *This page intentionally not dependent on recent HTML extentions to allow compatibility with older browsers.
+
+ Return to Ert Dredge's home page

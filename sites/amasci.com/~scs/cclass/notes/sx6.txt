@@ -1,0 +1,24 @@
+Chapter 6: Basic I/O 
+
+ Chapter 6: Basic I/O 
+
+ So far, we've been using printf to do output,
+and we haven't had a way of doing any input.
+In this chapter, we'll learn a bit more about printf ,
+and we'll begin learning about
+character-based
+input and output.
+ 6.1 printf 
+ 6.2 Character Input and Output 
+ 6.3 Reading Lines 
+ 6.4 Reading Numbers 
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995-1997
+// mail feedback

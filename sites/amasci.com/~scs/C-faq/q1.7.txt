@@ -1,0 +1,103 @@
+Question 1.7 
+
+ Question 1.7 
+ What's the best way to declare and define global variables?
+
+ First, though there can be many
+ declarations 
+(and in many translation units)
+of a single ``global''
+
+(strictly speaking, ``external'')
+variable
+or function,
+there must be exactly one
+ definition .
+(The
+definition is the declaration that actually allocates space,
+and provides an initialization value, if any.)
+The best arrangement
+is to
+place each
+definition in some relevant
+.c file,
+with
+an external declaration in a
+header
+(``.h'')
+file,
+which is
+ #include d
+wherever the declaration is needed.
+The .c file containing the definition should also #include the
+same header file,
+so that the compiler can check
+that the definition matches the declarations.
+ This rule promotes a high degree of portability:
+
+it
+is consistent with the requirements of the ANSI C Standard,
+and is also consistent with most pre-ANSI compilers and linkers.
+(Unix
+compilers and linkers typically use a ``common model''
+which allows multiple definitions,
+as long as at most one is initialized;
+this
+behavior is mentioned as a ``common extension'' by
+the ANSI Standard,
+no pun intended.
+A few
+very odd
+systems may require an explicit initializer to
+distinguish a definition from an external declaration.)
+ It is possible to use preprocessor tricks
+to arrange that
+a line like
+ DEFINE(int, i);
+ need only be entered once in one header file,
+
+and turned into a definition or a declaration
+depending on the setting of some macro,
+but it's not clear if
+this is
+worth the trouble.
+ It's
+especially important
+to put global declarations in header files
+if you want the compiler
+to
+catch inconsistent declarations for you.
+In particular,
+never place a prototype for an external function
+in a .c file:
+it wouldn't generally be checked for consistency with the definition,
+and an incompatible
+prototype is worse than useless.
+ See also
+questions 10.6 and 18.8 .
+
+ References:
+
+K&R1 Sec. 4.5 pp. 76-7
+
+K&R2 Sec. 4.4 pp. 80-1
+
+ANSI Sec. 3.1.2.2, Sec. 3.7, Sec. 3.7.2, Sec. F.5.11
+
+ISO Sec. 6.1.2.2, Sec. 6.7, Sec. 6.7.2, Sec. G.5.11
+
+Rationale Sec. 3.1.2.2
+
+H&S Sec. 4.8 pp. 101-104, Sec. 9.2.3 p. 267
+
+CT&P Sec. 4.2 pp. 54-56
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

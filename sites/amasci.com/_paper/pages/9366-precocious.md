@@ -1,0 +1,1141 @@
+---
+title: "Precocious"
+source_domain: amasci.com
+source_path: ~vecna/amber.html
+order: 9366
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Precocious
+
+*Source page: `~vecna/amber.html`*
+
+# Precocious
+
+## [Christine Morgan](mailto:vecna@eskimo.com)
+
+------------------------------------------------------------------------
+
+Authors Note: the characters of Gargoyles are the property of Disney and are used here without their creators knowledge or consent. Some strong language. 
+
+------------------------------------------------------------------------
+
+\
+ 
+
+    For how long, did you say? Goliath said, as if hoping that he hadnt heard correctly the first time. He\
+rubbed his thumb against the pad of his forefinger, where two tiny puncture wounds oozed. There were no\
+matching ones on the top, but only because the teeth had dug into the hard spur of his claw instead.\
+     Ten days, Kurt Masters repeated. Well, ten nights. Whichever. Three times a night for ten nights. Have\
+to follow the full course of antibiotics.\
+     Blug! Amber Maza announced in disgust. A dribble of pink liquid stained the corners of her mouth, and\
+more had soaked into the hand-crocheted sweater that had been a gift from Elisas great-aunt Agnes.\
+     Does it come in a pill? Elisa asked with tired desperation.\
+     Sorry, nope. Given her unique biochemistry, this is the only stuff that seems like itll help knock out that\
+infection. But I can give you a plastic syringe to squirt it into her mouth, maybe spare you a few bites.\
+     Goliath rumbled deep in his chest. Hudson said that holding her mouth closed would force her to swallow.\
+     That only works on Cagney, Elisa pointed out, and Hudson got bit too.\
+     If all else fails, try mixing it with applesauce, Kurt suggested, handing them a dismayingly tall bottle. And\
+dont worry. She should be feeling better in a few nights. Poor kid. The ear infections bad enough, but I also\
+think shes getting a few more teeth.\
+     Just what she needs, Goliath muttered.\
+     With a faintly malicious grin, Kurt added a tube to the bottle and syringe. This is a topical analgesic that\
+you can rub on her gums.\
+     Goliath only looked at him.\
+     The joys of parenthood, Elisa said, taking a few tissues from the box on Kurts cluttered desk and wiping\
+Ambers chin. She regarded the stained sweater, sighed, and unbuttoned it.\
+     It came off, and Amber immediately unfolded her wings and flapped them lazily back and forth, fanning herself.\
+     Thats another thing, Kurt said. Shes running a little bit of a fever. I know its winter, but as long as\
+youre inside, she doesnt need to be that bundled up.\
+     As if she understood him, Amber pulled the matching cap off of her unruly dark hair and threw it on the floor.\
+     Seven and a half months old, she was twice the size of a human infant of the same age, but still much less\
+developed than a gargoyle hatchling would have been. She was nearly as much of a climber as her cousins Tom\
+and Dee, but the twins had been a lot more cautious about jumping off of shelves and furniture.\
+     She crouched on the examining table and made to leap, but Goliath intercepted her.\
+     Up, Daga! Up!\
+     The injury to his finger apparently forgotten, the proud papa swung her high in the air and she squealed with\
+delight.\
+     At least shes feeling better, Elisa sighed. I was getting worried.\
+     Its normal for kids to be cranky when theyre sick, Kurt said, and chuckled. Count your blessings -- at\
+least you know shell sleep through once the sun comes up!
+
+   \*  \*
+
+     Captain, youve got to be kidding, Matt Bluestone protested. Why us?\
+     Because youve dealt with Dracon before, Maria Chavez said. You know his tricks. And *he* knows\
+you cant be bribed.\
+     He also hates our guts, Matt said. If you think Pal Joeys going to cooperate ...\
+     I dont care if he cooperates. All you need to do is keep him alive until Monday. Hell testify, well have\
+what we need to nail Dracon. Again. Then, if the rest of Dracons toadies decide to pay Pal Joey back for\
+ratting on the boss, well, well get them too. In the meantime, Joey gets his suspended sentence, we get Dracon --\
+     And Elisa and I get stuck babysitting the weasel all weekend.\
+     If we dont keep him out of the way, Dracons going to *put* him out of the way. Permanently. And\
+speaking of Elisa, where is --\
+     Three quick raps, and the door opened. Hi, Captain, hi, Matt, sorry Im late. Heard you wanted to see me.\
+     Partner, youre not going to *believe* what shit detail we pulled! Matt began.\
+     Trouble, Maza? Maria Chavez asked. You look worn out.\
+     Amber, Elisa explained. Shes got an ear infection, so she was driving us nuts all night. Crying, fussing\
+... terrible to admit it, but I was glad to get out of there for a while.\
+     Well, good news, Chavez said with a sharklike smile. Youre out of there all weekend. Im assigning\
+you two to keep an eye on Pal Joey.\
+     What?!?\
+     Told you it was a shit detail, Matt grumbled. Whatd we do, Captain?\
+     Chavez rolled her eyes. You didnt *do* anything, Bluestone. Youre the best Ive got, and this is a big\
+case. We need that slimy creeps testimony to tie the knot in Dracons noose.\
+     Starting when? Elisa asked.\
+     Starting now. I told Hanson and Strick that youd be there to relieve them by six-thirty, and its quarter\
+past now. So get going. She gave Matt a slip of paper. Address of the safe house.\
+     Elisa and Matt shared a look. Tenacious, they may have been, but they knew when there was no further\
+point in arguing.\
+     Nothing like a weekend of playing cribbage with a rat, Matt remarked as they headed out.\
+     Hey, Maza! Officer Morgan greeted her cheerily. Hows Batgirl?\
+     Jeez, Morgan, keep it down! Elisa glanced worriedly around, but the only person close enough to hear\
+was Albert, the sweet but somewhat thick-witted janitor.\
+     You ought to bring her by again, Morgan said. We all got a real kick out of seeing her.\
+     I bet, Elisa groaned, remembering.\
+     Three months ago, after having run out of excuses for her fellow officers, shed agreed to bring Amber by\
+the precinct. Wrapped up nice and snug in a blanket, her arched three-toed feet concealed in booties, she was\
+as darling and innocuous a baby as any of them had ever seen. Only the little bumps at the outside edges of her\
+eyebrows, which were hard to notice unless you were specifically looking for them, marked her as anything\
+but normal.\
+     Until shed sneezed.\
+     It had been a scene straight out of Dumbo. Everyone gathered around, oohing and aahing, and then\
+*ker-choo!* Off had come the blanket, out had popped the wings, and silence so thick it could have been cut\
+with a machete fell over the room.\
+     Uh ... Elisa had said.\
+     But then, to her overwhelming surprise, theyd all burst out laughing. Shee-it, Maza, someone had\
+hooted, you must think were *really* stupid! Half of us are *detectives*, for crying out loud!\
+     The rest of us arent such slouches either, Morgan had chimed in. Give us a little credit, huh?\
+     Theyd known. All this time, theyd known. Or at least guessed well enough that it hadnt come as a\
+whopper of a shock. She remembered throwing a startled look at Rick Alvarez, the hunk of the 23rd, whod\
+been letting everybody josh him for months about having a secret fling with her, and all hed done was flash\
+her his pearly whites and wink.\
+     So theyd known, and if they minded they werent getting in her face about it, and the worst she had to\
+endure was her daughter earning the nickname Batgirl. She could live with that, as long as word didnt get\
+around to the wrong ears.\
+     In a way, it was really a relief. Just as it had been a relief when her familyd found out that her relationship\
+with Goliath was a lot more than friends. Amazing what people would accept.\
+     She told Morgan all was well, and then she and Matt swapped kid woes on the way down to her car. His\
+son Orpheus was eleven months older than Amber, talking amazingly well for a toddler, and it was unsettling\
+how often he got his way.\
+     I think ... I think hes a little ... *unusual*, Matt confessed.\
+     Small wonder, Elisa said. His moms a figure from Greek mythology, youre a nutcase conspiracy\
+freak, and his godfather is the head of the Illuminati. Itd be weirder if he was normal.\
+     Yeah, good point. Sometimes I think you, me, and Xanatos should start a special preschool for freaky kids.\
+     Ill tell you this for nothing, Elisa said wryly, Id rather be in your shoes or mine than Xanatos. Amber\
+has wings, Orph is going to grow up to be the con man of the century, but at least they dont upend the whole\
+house when their magic lessons go wonky.\
+     What, has Aiden been giving Alex lessons?\
+     No, I think that smartass Puck gets his jollies by staging accidents to liven things up.\
+     Like what, dare I ask?\
+     She ticked off some of the more recent ones on her fingers. Transforming Hudsons clothes so that he\
+was in drag ... Matt choked. ... reversing Bronxs gravity so he was stuck to the ceiling ... making every\
+faucet in the place run with root beer ...\
+     Okay, okay, I get the picture, he laughed. Basically, were all screwed.\
+     That about sums it up. She started the car, and with Matt watching for a tail in case Dracon figured\
+on having them followed to the safe house, off they went in the chilly dark of a Manhattan morning.
+
+  \*  \*
+
+     Jericho prowled his sanctuary, his rooftop dark Avalon, restlessly. As if all of the energy Demona was\
+lacking had been somehow transferred to him. While she slumped, listless, on the couch in the secret room\
+behind her office, he paced and paced until he thought he might wear a path in the stone.\
+     He didnt know what to do.\
+     He knew *why*, of course.\
+     Shed been getting better, and over the summer had been almost back to her usual self. But as the nights\
+lengthened and grew cold, as the anniversary drew near, shed begun sliding back into the deep depression\
+that had enveloped her in the terrible months following the loss of their child.\
+     Nothing he could say or do would bring a smile to her face. Something in her had been destroyed. Shed\
+been able to throw herself into her work for a while, try to put the tragedy behind her, but it would never be\
+forgotten.\
+     How overjoyed hed been to learn they were going to have a child! But his delight had been nothing compared\
+to hers, just as his grief was nothing compared to hers. For long centuries, shed lived alone and loveless.\
+     Then fate had conspired to bring her new hope, but nearly every time, that hope had turned against her,\
+leaving her worse off than she would have been if shed never known it at all.\
+     First her clan, restored. Who became her enemies.\
+     Then Thailog. Who betrayed her.\
+     Then the discovery of Angela. Who had turned from her.\
+     Of all those hopes, of all those new beginnings, only he had remained steadfast, and true. They had each\
+other, mother and son, lovers and mates, standing together against the world.\
+     And just when it seemed theyd been blessed beyond belief, with an egg of their own, a future for their\
+clan ... disaster.\
+     That blow a harsher one than any of the others, for the egg hadnt even had a chance. The same magic that\
+allowed her to move among the hated humans and better plot her vengeance against them had delivered the\
+fatal blow to the unborn.\
+     Jericho would have given anything to make it better. But what could he do? As long as she was under the\
+transformative spell, they could never have another.  Theyd not even dare try, for to go through the same\
+thing again would much more than double their pain.\
+     He had nowhere to go for advice. Hed even become so desperate that hed tried asking Gustav Sevarius,\
+but of course Herr Doktor had a better-living-through-chemistry answer and offered to whip up some\
+concoction that would ease or erase her anguish. That, Jericho knew, would be an abhorrent solution.\
+     Nowhere else to go. Unless Hudson might have some insight ... but things were tense as ever between\
+the Nightstone and Wyvern clans, although theyd managed to keep out of each others way for most of the\
+year. An uneasy truce brought on solely by the fact that none of Demonas plots had intersected with Xanatos.\
+     Hed briefly considered, and just as quickly rejected, suggesting she seek the support of other women\
+who had undergone miscarriages. His beloved Demona was not about to go weeping and wailing to counseling,\
+and still spoke in vehement terms about the woman who had visited her in the hospital. Besides, they were all\
+only humans. What would they know of her pain?\
+     No, she had only him. And in time, she would move through her consuming darkness. Time. She had an\
+eternity of it. And he was young, utterly hers, able to wait as long as she needed. To wait and be with her, to\
+love her with the singular obsessive devotion that only he could give.\
+     An image of her suddenly filled his mind, drowning him with overpowering yearning. Though shed pleaded\
+weariness and asked to be alone, he had to be with her. Had to hold her.\
+     He hurried through the unlit and silent corridors, letting himself into her office. The secret door was partially\
+ajar, and he could hear melancholy music, from one of those operas in which everyone dies in agony, issuing\
+from the speakers.\
+     She was as hed last seen her, huddled on the couch, wrapped around her misery. Tears tracked in streams\
+down her cheeks.\
+     His heart twisted within him, and at the same time rage boiled in his blood at the unfairness of it all.\
+     Wordlessly, he went to her and knelt before her. She stared past him, through him, at the floor-to-ceiling\
+window that looked out on a spitting flurry of sleet dashing itself against the glass like flocks of suicidal moths.\
+     He folded her hands in his, then bent so that the side of his face rested atop them. Closed his eyes.\
+     They sat like that as the sky went from black to a dark blue-grey. Then he felt her slipping one of her hands\
+free. But rather than push him away, she used it to stroke his hair where it spilled across her lap.\
+     She sighed shakily. My Jericho, she murmured.\
+     Always, he promised. Always.
+
+  \*  \*
+
+     We cant stay underground forever, Harry the Hammer complained. Shes out there. *Its* out there.\
+Born by now. Growing in evil every day!\
+     Jon Castaway nodded and let Harrys words roll over him. Same speech, different day. Or night. Or ...\
+hell, what time was it, anyway? He checked his watch. Almost dawn. Thank God. Daybreak came so damned\
+*late* in the winter! The nights were so *long*!\
+     And Harry was right about one thing. They were out there. The gargoyles.\
+     Mocking him.\
+     But, dammit, Harry, what do you want me to do? he snapped irritably. Yes, weve been keeping a\
+low profile. I *know* youre disappointed. But until we come up with a better plan ... until we come up\
+with *any* plan at all, Im not going to stick my neck out and get it chopped off!\
+     Harry, who hadnt expected any reply let alone this sort of outburst, rocked back a little in his chair\
+and stared at Castaway. Well ... um ...\
+     Well, um, Castaway sneered. Thats a brilliant plan, Harry, why didnt I think of it before?\
+     Im just trying to help.\
+     Help! Castaway shoved away from the desk and stood up. Is *that* what youre trying to do? And\
+here I thought you were nagging me. If I wanted that, Id get married!\
+     Its just ... people are starting to talk.\
+     Starting to talk? Never shutting up, seems more like to me! Im trying to juggle a thousand different things\
+here, Harry, do you understand that? Ive had to completely redesign our computer and communications\
+systems thanks to that happy asshole David Xanatos, this corporation is on shakier footing than a newborn foal,\
+our contributions have dropped off like lemmings, we lost sixty of our best men to that warehouse fire, and to\
+top it all off, my dimbulb brood mares father has tracked me down and wants to sue for custody of my son!\
+These creatures have been around for hundreds of years, so can I just have a few weeks to get my shit\
+together without every one-track grunt like you mouthing off at me?\
+     Hey! Harry was just stupid enough to take the offensive instead of beating a meek retreat, and likewise\
+stood. Dont take it out on me if you cant cut it! We laid low for most of *last* year because you kept\
+promising us that New Years would be big, the biggest! Look how that turned out! We was routed! I nearly\
+got my butt kicked by that blue devil! And we didnt even scratch a window at the Aerie Building before we\
+got soaked to the skin! I caught pneumonia! Damn near died! All for nothing! And instead of *doing* something\
+about it, you want to sit back and let those sons of bitches walk all over us! Jesus! Maybe Nickie was right!\
+     Nick was an idiot and youre no better!\
+     Weve got to *do* something! Its worse than ever, dont you get it? Once we dropped out of sight, there\
+wasnt anybody to keep people thinking right! Now most people dont care. Far as theyre concerned, those\
+monsters are just another buncha illegal aliens and nobody gives a damn! Nobody cares theyre *evil*\
+except us, and were sitting here with our thumbs up our butts!\
+     We are not! Castaway shouted. He hated losing control like this, God, how he hated it, but when even\
+his own most loyal, fanatic bulldog bit the hand that fed him, it was just all a little much to bear.\
+     You *know* whats going on out there, Harry said, abandoning his yelling for a low, urgent tone. That\
+woman. The Dark Madonna. You said shed be exposed. When, when? That devil-spawn brat of hers has\
+gotta be destroyed. You said it would all come out.\
+     What would you have me do, go to the press? He laughed bitterly. Im sort of discredited nowadays,\
+you know. Without proof, all it would be worth was a squib in the Daily Tattler.\
+     What kind of proof do we need? Pictures?\
+     Photos would be a start, he admitted. But really, Harry, do you think Mazas going to take her whelp\
+to Sears to take advantage of their holiday portrait special?\
+     Bull-headed to the last, Harry persisted. If we can get some proof, will you take action?\
+     Oh, fine, Castaway said just to be rid of him. You do that. But Harry?\
+     Yeah?\
+     Make sure you leave a contact number for next of kin with my secretary, would you?
+
+  \*  \*
+
+     Steady on, lad. Hudson raised his voice to be heard. Itll be dawn soon.\
+     Good, Goliath replied fervently.\
+     The rest of the clan sat around helplessly, looking at Elektra, who was seated cross-legged on the rug trying\
+in vain to distract Amber with some of her favorite toys. But the child would have none of it, and alternated\
+between gabbling fits of what sounded like babyish swearing and sustained wails that made them marvel her tiny\
+lungs could hold so much air.\
+     The antibiotics might be doing the trick, but the gum-ointment apparently wasnt, although when Goliath had\
+applied it -- needing the help of both Brooklyn and Broadway to hold Amber down while he gently pried her\
+jaws open -- it had numbed his fingers sufficiently that he hadnt felt it when all four of her little fangs sank in.\
+     Shouldnt that baby Tylenol be kicking in? Lex cried over the ruckus.\
+     I hope so! Angela was on her knees, digging frantically through Ambers toybox. Try this! She tossed a\
+hard rubber mailman at Elektra.\
+     Thats Bronxs! Aiden protested.\
+     Well, look what she did to hers! Angela held up the sad deflated remains of a teething ring. Unless youve\
+got any bright ideas, Ms. Wizard!\
+     Please, Goliath? Lex begged.\
+     No magic on my daughter! Goliath insisted.\
+     Bronx didnt object as Amber seized his chew toy and chomped down, because of all the clan, only Bronx\
+had the good sense to make himself scarce. Everyone else felt too guilty, so they stayed and suffered along with\
+Goliath.\
+     The dayll make the wee lass feel better, Hudson said. A good stone sleep will settle her.\
+     Yeah, until she wakes up, Brooklyn muttered.\
+     Elisas lucky she had to work, Broadway said, earning a dirty look from Goliath.\
+     Were we this much of a pain in the tail? Lex wondered.\
+     Hudson just snorted. Multiply it by two dozen.\
+     But we were hatched more mature, Broadway argued. Werent we?\
+     Amber had quieted some, enough to be coaxed into Elektras lap. Tis partly that, Ill warrant. Shes all in\
+conflict.\
+     Goliath nodded. Dr. Masters expects it to be a year or more until her body has caught up with itself.\
+     Another year of this? Angela moaned.\
+     Aw, give her a break, shes teething, Lex said. And her systems must all be messed up. No wonder\
+shes frustrated.\
+     We should get to our perches, Hudson said with a significant look at the greying sky.\
+     Daga! Amber demanded around a mouthful of chew toy as Goliath rose. She held her arms up.\
+     Wont it be fun when all the eggs hatch? Brooklyn commented to nobody in particular.\
+     Well, *Im* still looking forward to it, Angela said archly.\
+     Goliath tucked Amber in the corner of his arm and carried her upstairs, bringing his wing around to shelter\
+her from the sleet. Her playpen, as Alex called it, was in the shelter of a place where the battlements came\
+together. He set her inside.\
+     Amber screamed indignantly and pulled herself upright. Goliath winced guiltily but turned away and went\
+to take his place on the wall. The rest joined him, and it was clear from their expressions that there had\
+seldom been days when theyd more welcomed the dawn.\
+     Though they couldnt see the sun through the heavy pall of clouds, they felt the old familiar tightening of flesh\
+and knew it was time. Stone claimed them, with Ambers yells still ringing in their ears.
+
+  \*  \*
+
+     Oh, this is great, Elisa said, wrinkling her nose.\
+     Hey, its the maids day off, Pal Joey retorted.\
+     The squealer, once one of Tony Dracons most trusted associates and now willing to tell all in order to save\
+his own skin, was tipped back in a chair with his feet up, watching an infomercial on home food dehydrators,\
+and munching on a cold slice of pizza.\
+     Class all the way, eh, Joey? Matt took off his tan trenchcoat and hung it on the back of the door, then\
+swept a pile of newspapers and empty pop cans off of the couch so he could sit down.\
+     The safe house wasnt really a house at all, but a furnished studio apartment two steps up from a fleabag.\
+Hot and cold running roaches, a radiator that rattled and clanked like the Tin Man confronting the Great and\
+Powerful Oz, a window with a view across a four-foot alley of a soot-stained brick wall, and a fold-down bed\
+that was currently folded up and looked to Elisa like it had been sealed in place with mildew for a good ten years.\
+     I see the department budget is still strained, she observed to Matt.\
+     The other two officers had gone, so it was just the three of them. Stocked up with all the necessities -- a few\
+decks of cards, a Scrabble game, a stack of videos with nothing more recent than 1985, a case of ramen noodles,\
+and a whole box of back issues of the Readers Digest.\
+     Laughter, the Best Medicine, Matt said.\
+     Yeah, yeah, Im watching TV here, Pal Joey said.\
+     Heaven forbid you should miss a word of the thousand and one uses for dried fruit. Matt grimaced at Elisa. I\
+asked the captain, and now Im asking you. What did we *do*?\
+     I havent taken her parking place lately, and Im sure shes forgotten all about the time you called the FBI in\
+to interview that hooker who swore shed been abducted by saucer people.\
+     They werent FBI.\
+     What?\
+     Never mind. So what are we gonna do?\
+     Wait it out. Elisa moved as far from Pal Joeys shoeless feet as the small room would allow, and sank into\
+one of the chairs. Tubular metal and split vinyl padding. Comfy.\
+     Outside, the dingy alley lightened a bit, and Elisas internal clock told her it was dawn. But as she tried to get\
+into the Drama in Real Life tale of a guy caught in a threshing machine, she suddenly got the weirdest feeling that\
+something was wrong.\
+     Something was very, very wrong.
+
+  \*  \*
+
+     The intercom buzzed, and David Xanatos frowned as he leaned over to push the button.\
+     Xanatos here, he said, by tone alone trying to remind whoever was on the other end that hed just made\
+it clear he was not to be interrupted.\
+     This is Breckenridge, sir, at the front desk?\
+     Yes, Breckenridge, what is it? Werent you told I --\
+     I know, sir. Im sorry to interrupt, but something strange just happened down here in the lobby.\
+     Strange how? he asked, interest overcoming annoyance.\
+     Well ... is anyone up there missing a baby?\
+     What? What are you talking about?\
+     A baby ... the private elevator from the castle level came down a few minutes ago, and a baby came out.\
+     Thats impossible, Xanatos said flatly. Mr. Burnett drove my wife and son upstate to look at a private\
+school this morning; they left half an hour ago.\
+     It wasnt your son, Mr. Xanatos. A smaller kid, maybe one, two years old. Dark hair. Wearing a purple\
+coat or something.\
+     Just a second ... With an unpleasant suspicion growing in his gut, Xanatos punched up the monitors fed\
+by the castle security cameras. Breckenridge?\
+     Here, sir.\
+     Where is she?\
+     Got into one of the other elevators. She could be anywhere in the building.\
+     Find her. Now.\
+ But, sir --\
+ Just find her! He clicked off the intercom, drummed his fingers fitfully on the desk for a few seconds, then\
+left his office in a hurry.
+
+  \*  \*
+
+     Photos would be a start.\
+     Fair enough. If that was what was needed, thats what he would get. Somehow. Then, maybe, it would spur\
+or shame Castaway into action.\
+     Harry regretted his angry outbursts, but someone had to light a fire under that man. Couldnt run away from\
+the world, couldnt hide from ones responsibilities. It was no use hoping that God would take away the cup He\
+had set before you, no matter how sour its contents. Drink it down, that was the ticket. Drink it down, do your\
+duty, for the glory of God and the grace of mankind.\
+     Castaway was faltering, that was all. Stumbling in his faith. Lost some of his hope. Lost some of his purpose,\
+his drive.\
+     Well, Harry was going to give it back to him.\
+     Sure, photos. That might just do it. Once Castaway got an eyeful of the hellspawn born to the Dark Madonna,\
+hed remember his calling.\
+     Yeah, and then everything would get back on track. The fire, the ... the *charisma* that had seemingly abandoned\
+Castaway over the past months would come flooding back. The members who had started second-guessing their\
+place in the world would lose all their doubts. The hammers would shine, brilliant in their divine strength.\
+     And all would be well.\
+     All thanks to Harry. The only one who had never lost faith. Never lost sight of Gods righteous plan. Surely\
+this was what God *wanted* him to do. To steer Castaway back onto the right path. To get rid of the demons\
+before it was too late, before the world was thrown into a thousand years of torment.\
+     He looked at the skyscraper. Up and up. Closer to it now than hed been in almost a year. Ever since that\
+midnight fiasco, when hed been at his moment of greatest glee, leading a small army against the stronghold of\
+Hell, only to be struck from above by gallons and gallons of water, such force that it had knocked him flat into\
+the gutter.\
+     This time, hed be much more cautious.\
+     Playing tourist, bundled and unrecognizable in his overcoat and scarf, he goggled at the worlds tallest\
+building and then fiddled with his camera, pretending to take pictures.\
+     The hellspawn child was there. He could sense it. God was shining a light in his head. It was just like the\
+Pope had said. The medication hadnt been able to take that shining light away from that main man of God,\
+and fear of demons wasnt going to take it away from Harry. Not when hed *met* the Pope, spent long\
+hours in the dayroom listening to him, touched his hand, eaten at the same table.\
+     Evil was strong, and God worked in mysterious ways. Harry knew that. Why, otherwise, God would just\
+open up a crevice in the earth and send that whole building plummeting back into Hell where it belonged, or\
+strike down the demon child with a bolt of lightning. But that wouldnt give Gods faithful the chance to prove\
+themselves. Earned salvation was lots better.\
+     He crossed at the corner, acting like he was admiring the building from that different angle. He wasnt the\
+only one. Despite the foul weather, lots of people paused to peer upward. Even native New Yorkers were\
+awed and dwarfed by it. Or maybe they could sense the malevolent power radiating from every stone and girder.\
+     Harry sure could.\
+     But how was he gonna get *in* there? Place was guarded to the dogs and back. Literally. Harry normally\
+didnt mind dogs, but these were big thick-chested beasts that were probably Hellhounds masquerading as\
+regular dogs. Theyd sniff the power of God on him in no time, and be all over him with their sulphury breath.\
+     Plus, the security systems were top of the line and the guards were packing stun-lasers and sidearms, and\
+for all he knew, were themselves minor devils sent up to safeguard the child.\
+     He didnt linger too long by the garage doors, which gave onto an underground parking structure. Just kept\
+ambling by, hunching his face into his collar as if to keep it out of the worst of the wind and rain, taking little\
+sip-glances instead of long drink-looks.\
+     How was he gonna get in?\
+     God, gimme a little nudge here, he pleaded.\
+     His watch beeped, and Harry about jumped out of his galoshes thinking it was a sign from God. Then he\
+realized it was eight oclock, or almost -- his watch was set seven minutes ahead sos he would never be late.\
+Harry Standard Time, he called it.\
+     Eight oclock.\
+     And a long line of cars waiting their turn in front of those garage doors. Employees. Maybe evil themselves,\
+maybe unknowing pawns of the dark powers. Showing up for work. Even on the weekend. No rest for the wicked.\
+     He strolled down the street, past the line of cars. Fancy stuff. Yeah, that figured -- the good went without,\
+while the evil drove Jaguars.\
+     If he could somehow get into one of the cars unnoticed ... thatd be a good trick, though. Not like he could just\
+jump in, put a gun to the drivers head, force him to drive inside. No way.\
+     Fuming, aware that he was rapidly running out of time that he could keep meandering along without someone\
+getting suspicious, he jaywalked over to a newsstand and pretended to check out the headlines on the daily paper.\
+Thinking, thinking, his brain running fast and furious as a hyped-up hamster on a wheel.\
+     This isnt a lending library, buster, the old fart tending the stand snapped after less than thirty seconds.\
+     Harry shot him a glower, but the old fart wasnt looking at him anymore. Was looking *past* him with his\
+seamed forehead even more wrinkled up.\
+     What the bejesus, is that a kid on the back of that truck? he said as if he was sure he was seeing things.\
+     Half-thinking it was a variation on the your-flys-open trick and the old fart would then clobber him one, Harry\
+played along anyway and turned. Then his chin came all unhinged as he saw the kid, clinging to a metal ladder on\
+the back of a black truck with the red XE logo.\
+     The guards didnt even glance that way, being more concerned with checking up on who was coming *in*\
+rather than going \_out\_.\
+     A kid, all right, and maybe the old fart thought said kid was wearing a purple superhero cape, but Harry\
+knew demon wings when he saw them.\
+     He stood there, the paper in his hand, so stunned at his good fortune that it didnt immediately register on\
+his brain that the truck was driving off down the street.\
+     Hey! he blurted belatedly. He broke into a run, camera jouncing on its strap. Behind him, the old fart set\
+up a ruckus as if Harry had just taken off with the Crown Jewels instead of the Saturday edition. Not even looking\
+back, Harry threw the paper over his shoulder and kept on running.\
+     God had, indeed, provided.\
+     All he had to do was catch up.
+
+  \*  \*
+
+     Kurt Masters was a night owl.\
+     In med school, hed gone into the OB-GYN field thinking it would be a good way to meet women, then\
+found out he enjoyed delivering babies even more than seeing women naked -- and also found out that the\
+majority of women coming into the office werent much like centerfolds or the stuff of fantasy.\
+     From there, hed gotten interested in genetics, and gone back to school to get his degree in that, primarily\
+curious about genetic conditions that could be detected and treated prenatally. And reproductive technologies\
+that could overcome some of the bloopers of heredity.\
+     Anthropology had been a hobby that had become a degree when he realized hed taken almost enough\
+elective courses to qualify. Hed always been fascinated by the idea of ancient, primitive, or foreign cultures.\
+     All of that meant that lucking into a job with Xanatos Enterprises was the best thing that could have happened\
+to him. He would have done it for free, once he found out that he would be the first person on the planet to be\
+studying not only gargoyle physiology and reproduction, but interbreeding as well.\
+     But just because he *would* have done it for free didnt mean he was stupid enough to turn down the salary.\
+Which was princely to say the least. He even got room and board as part of the deal, not just a dorm room but\
+a suite that was damn near palatial.\
+     He also got the boss knocking at his door just three hours after hed bid farewell and good night to Elisa and\
+Goliath.\
+     Blinking at David Xanatos, he ran both palms up the sides of his face, fluffing his beard, and from there into\
+his untidy auburn hair. Say that again? Can Amber what?\
+     Stay flesh by day, Xanatos repeated.\
+     Im sure shell eventually get the knack. Elektra can, though she says its not easy. Why?\
+     Because shes gone.\
+     What do you mean, gone? He was wide awake now, and followed Xanatos into the hall without caring\
+that he was wearing just a pair of sweat pants and the boss was, as usual, decked out in a three-piece suit that,\
+despite the aforementioned princeliness of his salary, Kurt *still* couldnt have afforded. She cant be *gone*.\
+     Xanatos told him what Breckenridge from Security had said. They stopped at one of the ops rooms and\
+there, on the monitor, Kurt could see with his own eyes that Ambers playpen was empty.\
+     Maybe shes in their -- he began, but Xanatos, anticipating it, pressed a button to switch to the camera\
+that showed the interior of the clans suite.\
+     Nothing, Xanatos said. And theres no way anyone could have removed her from the castle without us\
+knowing. The motion detectors on the outer perimeter are calibrated for anything larger than a pigeon, the\
+electronic sensors can pick up a pocket calculator, Aidens wards will register hostile intent --\
+     Okay, okay, spare me the technobabble, I get the picture!\
+     The point is, Xanatos said, and for the first time Kurt realized the boss was close to panic, that Amber left\
+under her own power. And weve got to find her. Before sunset.\
+     Ohhhh, Jesus. It sank in. Goliath is going to ...\
+     Kill someone? Xanatos lip curled away from his teeth in a pained grin. Probably. Any ideas who hell\
+start with? Its you or me, doctor, and Im guessing itll be you. He paused, exhaled gustily, and added, Then\
+me.
+
+  \*  \*
+
+     The feeling wouldnt go away.\
+     Elisa looked at the clock. Five after eight.\
+     She didnt want to be here.\
+     Not just because Matt was right about this being a shit detail, not just because he and Pal Joey were driving\
+her crazy with their arguments over what to watch, not just because she had always preferred action to waiting\
+and thus was always edgy and bored on a stakeout.\
+     No, something was wrong.\
+     Was it Dracon? Was that it?\
+     Ever since he and Brode had teamed up and broken out of jail, her old buddy Tony had been busting his\
+buns to rebuild the Dracon hold on Manhattan. Trouble was, there had been plenty of other scumbags eager\
+to move in, so hed had to fight for every scrap. If hed turned that energy to *honest* work ... but no point\
+worrying about that; Tony Dracon was one leopard who wasnt ever going to change his spots.\
+     Hed finally gotten things put back together, and now Pal Joey was about to bring it all crashing down. No\
+way Tony would allow that. Not if he could help it.\
+     So did he know where they were? Was Glasses or the thug-of-the-week currently moving into position? Was\
+that why her nerves were jangling?\
+     She glanced over at Matt, who had commandeered the remote control. He wasnt showing any signs of\
+edginess, and usually he had the best danger sense on the force.\
+     Cop instinct.\
+     But it didnt *feel* like cop instinct. Not this time.\
+     What the hell was it, then?
+
+  \*  \*
+
+     Harry the Hammer charged down the sidewalk, shouldering through the morning crowds, for once\
+wishing it was Monday so the traffic would have been at a near-standstill. As it was, the hour was right\
+for the streets to be fairly well jammed, and he had no problem keeping the truck in sight.\
+     So far, nobody had paid any attention to the kid, who had climbed the rest of the way up the ladder\
+and was now holding on to the roof with those devil wings blowing in the breeze. Not because this was\
+New York and nobody got involved -- Harry knew that wasnt always true, just as it wasnt always true\
+that everyone in California was a heathen drug addict sex fiend -- but simply because few people looked\
+up. They stared at the pavement, window-shopped, averted their eyes from each other or turned to openly\
+ogle, but rarely looked up. That was one of the reasons why those gargoyle-demons had been able to live\
+among them for so long. Why, one of them could be perched above him right now ...\
+     Harry smothered a fearful yelp and scanned the ledges. True, it was day, but if the devil-child could be\
+out and about, then why not the others? Their power was gaining in strength all the time.\
+     Nothing. No ghastly faces leering down at him.\
+     His heart rate dropping back to a more normal level, he went after the truck. But just when he was\
+getting close enough, just when he might have been able to make a grab for that ladder and swing himself\
+up, the hellspawn jumped.\
+     Wings spread wide, it swooped across and landed on top of a bus in the other lane.\
+     Harry cussed a blue streak as he plunged into traffic. Horns blared all around him, closed fists and\
+upthrust fingers popped out of windows, and a moron on a ten-speed missed him by a hair. The bus was\
+picking up speed.\
+     Hey, buddy, what the fuck are you doing? the cyclist yelled at Harry.\
+     He answered with a fast elbow to the face, dumping the moron to the asphalt, and swung a leg over the\
+bike. Some bystanders started hollering, and one would-be hero tried to grab Harry by the collar of his\
+overcoat, but Harry whirled his camera like a bolas and the hero backed off before he got his dental work\
+rearranged.\
+     Harry knew he was making a scene, and knew he must look like a prime idiot wobbling and weaving\
+through traffic with his coat billowing and his galoshes pumping the pedals. But this was his chance, his big\
+chance, and if he could pull it off, it would all be worthwhile.\
+     Photos would be a start ... yeah, great, but when he brought the hellspawn itself, alive and kicking and\
+squirming, *that* would be the ultimate.
+
+  \*  \*
+
+     Okay, heres the tape. Xanatos put it in, and he and Masters watched together as Goliath deposited\
+the very upset Amber in her playpen. Shes pitching quite a fit.\
+     Those arent pain-cries. Shes not tugging on her ear anymore, either. Shes mad.\
+     There they go. Xanatos leaned closer as the tape showed the gargoyles freezing in place, one after\
+the other.\
+     Amber paused in her carryings-on long enough to yawn, but then her little face screwed up into a defiant\
+snarl and she slammed her tiny fists on the confining walls of her playpen. Then the most amazing look of\
+surprise replaced her anger as she gaped at the motionless clan.\
+     I know shes ahead of her age in physical development, Xanatos said. What about intellectual?\
+     Kurt shrugged, not removing his eyes from the screen. Shes bright, I know that much, but other than that\
+I really couldnt say.\
+     And shes not turning to stone. Explanation?\
+     From everything Ive been able to determine, shes not a fifty-fifty hybrid. Most of her genetic makeup is\
+human. Just as most of Elektras is gargoyle. Im fairly sure it depends on the race of the mother. Elektra is a\
+gargoyle who can pass for human, Amber is the opposite.\
+     Except for her wings, Xanatos noted.\
+     Which are a tremendous advantage, if we look at it from a natural selection viewpoint. The feet, too ... a\
+flying creature needs to have good grasping feet and strong calf muscles for takeoffs and landings.\
+     Up until now, she turned to stone every morning just like the others. Could the antibiotic have caused this?\
+     I doubt it. Shes mad. Shes totally pissed off, pardon my French. The times Elektras done it, its taken a\
+lot of willpower and determination on her part.\
+     If theres anything Id expect from the daughter of Goliath and Elisa, Xanatos said dryly, its willpower\
+and determination. She inherited a full measure of temper from *both* of them.\
+     Plus, unlike Elektra, Amber is closer genetically to humanity, and shes also a lot younger. Elektra didnt\
+know she was part human until she was already full grown. It had never occurred to her to try to resist, so shes\
+stuck by force of habit. But the younger you are, the more adaptable you are. Some of the psychologists say\
+that childhood can be just as much a period of forgetting as learning -- look at the wide range of vocal sounds\
+a baby can make, which they lose as they get older and learn one language.\
+     Fascinating as this is, Doctor, what do we do now?\
+     On the tape, Amber had abandoned her verbal protests, evidently realizing that it wouldnt do any good\
+as no one was able to hear. Instead, a very familiar expression replaced the surprise.\
+     Look at that, Xanatos marveled. Ive seen that look before. Every time Goliath used to decide he had\
+to thwart whatever evil plan I was cooking up next.\
+     Determination and willpower, Masters said. And I think shes probably a lot smarter than I was giving\
+her credit for.\
+     Just what we need, another child prodigy around the place.\
+     Amber tried to dig her fingernails into the wall, but she lacked strong gargoyle claws and couldnt get a\
+good enough grip. The observers could almost hear the wheels turning in her little head.\
+     Holding onto the top with both hands, she hopped up and down experimentally. The hops became jumps,\
+and she flapped her wings vigorously.\
+     Thats another thing, Masters said. Her body is a lot lighter than a gargoyles would be. Id bet that\
+shell eventually be able to fly, not just glide.\
+     The lift provided by the wings was enough to let her bound out of her playpen and land sprawling. Cooing\
+to herself with pride, she got up and toddled out of the cameras sight, a small figure in red corduroy overalls,\
+clunky leather-soled shoe-things that Fox called mukluks, and a T-shirt that had been a gag gift from Brooklyn,\
+with Chip off the Old Block on it.\
+     The T-shirt had holes in the back, and of course Brooklyn had also given Goliath a gigantic matching one\
+that read Old Block. But, to the extent of Xanatos knowledge, Goliath had never put it on. A shame; that\
+was something he would have loved to see.\
+     So, from here, she evidently made her way to the elevator and down to the lobby. Where would she\
+have gone from there? Breckenridge saw her getting into another elevator, but so far, security hasnt come\
+up with anything.\
+     Well, she could probably only reach the bottom few buttons, Masters suggested. But the only things\
+under the lobby are some of the labs, right? And the --\
+     And the parking garage, Xanatos finished, feeling himself turn pale.
+
+  \*  \*
+
+     Either it was the longest stoplight in the history of the city, or something was going on.\
+     Dominique Destine tilted her head against the window, but couldnt see what might be blocking the\
+road. She pressed the button that lowered the shield of dark glass between herself and her driver.\
+     Whats going on, Carl? Is there an accident?\
+     I cant tell, Ms. Destine, he replied. Everybodys stopped, but I dont see any police or ambulances.\
+Looks like theres a crowd gathering on the other side of the street, though.\
+     She slid across the seat. True enough, a large number of humans were ignoring the morning drizzle to\
+crane their necks upward.\
+     Must be a leaper, she said, trying to hide the satisfaction she always felt when one wretched human\
+did her a favor and took his own life.\
+     Carl was one of Nightstones loyal drones, kept content with his lot in life by Sevarius drugs, but he\
+still had his share of morbid curiosity. Despite the cold, he rolled down his window and called to a man\
+hustling through the sea of cars. Hey, whats the deal?\
+     Theres a baby crawled out on a ledge, the man replied excitedly. Some guys up there trying to\
+save it.\
+     Resigned to the fact that the limo wasnt going anyplace until this matter had been resolved, Dominique\
+pulled on her stylish fur-trimmed coat and got out. Carl promptly opened an umbrella to protect her\
+impeccably-bunned scarlet tresses from the damp, but she pushed it aside because it blocked her view of\
+the goings-on above.\
+     Halfway up the building, on about the sixth floor, a brawny man who struck Dominique as passingly\
+familiar was inching his way along a foot-wide ledge, toward a child who sat, feet dangling, apparently\
+laughing and waving at the terrified (yet ghoulishly interested) people below.\
+     Wanting a better look at the man, Dominique pushed her way closer. She could see his face now, which\
+wore an odd mix of exaltation, dread, and embarrassment. As if he wished everybody would quit staring at\
+him and go away. A camera swung from a strap around his thick bull neck. The wind riffled through brown\
+hair only a touch longer than a crew-cut.\
+     Then she placed him. He was listed on the Anvil Corporation staff roster as Harold Hammerton the\
+Second, aka Harry the Hammer, one of Jon Castaways lunatics. Quarryman dirtbag. But evidently\
+civic-minded enough to try and save a child in trouble.\
+     He got within arms reach and made a grab. Missed, and the child -- it was a girl, Dominique saw,\
+wearing red overalls and a purple jacket -- scrambled away from him. They were directly over the crowd\
+now, but nobody moved, either confident in his ability to make the rescue, or suffering from the common\
+affliction of cant-happen-to-me.\
+     Dominique didnt move either, though she had more reason to be convinced of her own invulnerability\
+than did those around her. For her, death was a spectator sport. Though the prospect of seeing that child\
+fall, seeing its brains leak from its smashed skull, didnt fill her with the usual grim joy she took in human\
+tragedy. An aching knot pulled tight in her belly.\
+     The man grabbed again, caught the child by the arm. As he pulled her into his grasp, the crowd raised\
+their voices in a cheer.\
+     But that cheer turned to a collective horrified gasp as the little girl bit her rescuers hand, then squirmed\
+free. And fell.\
+     Then, just before disaster, what Dominique had mistaken for a jacket opened into light purple wings,\
+and the child glided over the upturned, amazed faces.\
+     Some old lady yelled and swiped at the child with a cane, missing but scaring her. The child faltered\
+and would have crashed, but Dominique got there first.\
+     The small body collided with hers, rocking her back on her heels.\
+     No! Shes *mine*! Harry the Hammer roared from on high -- now Dominique realized what hed *really*\
+been about up there. He drew a gun that looked big as a cannon even six stories up, and the first thunderous\
+boom blew a mailbox into confetti.\
+     Their eyes locked, and she saw him recognize her. According to Castaways propaganda, she was a\
+gargoyle sympathizer; he didnt want to risk panicking his followers further with the news that evil might\
+walk among them by day.\
+     The black hole of the gunbarrel lined up with her head.\
+     Ms. Destine, get *down*! Carl tackled her just as Harry fired again. She held on to the terrified,\
+shrieking girl as they were knocked to the pavement. The shot made a crater between Carls splayed feet.\
+     Humans stampeded to the four winds. Dominique got up and ran, hunching her body around the child.\
+Rather that trying to get away, she raced toward the building, into the recessed doorway, out of Harrys\
+line of sight.
+
+  \*  \*
+
+     A search of the garage had turned up nothing, and Xanatos was really beginning to sweat.\
+     Maybe we should call her mother? Kurt ventured.\
+     Heres my phone.\
+     Wouldnt *you* rather --\
+     Do I look crazy to you?\
+     She cant have gotten out of the building.\
+     Weve got to assume the worst.\
+     You mean, were dead meat.\
+     Basically, Xanatos said. That my quest for immortality should not only fail, but end like this ... life\
+really sucks, Dr. Masters. He began dialing.\
+     What are you doing?\
+     Calling Elisa. Might as well get it over with.
+
+  \*  \*
+
+     Rick Alvarez and Marty Arnes were first on the scene. The info had been sketchy at first, so they\
+expected to find a suicide attempt in progress (though it had been Ricks experience that few people who\
+really wanted to die would go out on a ledge and wait for the cops to show up; they wanted talking down,\
+they wanted attention; the ones who *really* meant to kill themselves would do it without fanfare and assorted\
+dicking around).\
+     Instead, they found abandoned cars slewed every which way, evidence of gunplay, and assertions by\
+panicked bystanders that some maniac had opened up on them after the kid hed been trying to nab\
+sprouted wings and flew away. Of the maniac, there was no sign, and a boy of about eleven insisted hed\
+gone back through a window.\
+     Marty Arnes was newly transferred to the 23rd Precinct, this was his first week on the job, and he scoffed\
+loudly. Oh, come on, kids with wings? Gimme a break!\
+     Rick didnt join in the scoffing because he knew just such a kid, though it was way past her bedtime. Of\
+course, the kid had cousins who *also* had wings -- the Maza family photo album was a wild ride to say the\
+least -- but the Labyrinth was a good forty blocks from here.\
+     In the meantime, they had a situation on their hands.\
+     Im going to get us some backup, Rick said. Cop instinct told him the boy was right, their perp had\
+already made himself scarce. But just in case he wasnt ... The headcase might still be around here, and if\
+whatever sort of popgun hes got can do *that* to a mailbox, I dont want to put money on our vests. You\
+get these lookie-loos out of here before someone winds up ventilated.\
+     Marty grabbed the bullhorn and from a reasonably covered spot between two cars, started telling\
+people to get off the street.\
+     Rick called in and got Officer Whitman, who was Morgans brother-in-law. Whitman agreed to dispatch\
+more units right away.\
+     Yo, Rick, one more thing -- I just fielded a call for Elisa ... do you know whos looking after her\
+daughter?\
+     Why? he asked, iciness coalescing in his stomach.\
+     This mystery man, wouldnt leave his name, says her daughters missing. I figure its a hoax, I mean, its\
+the middle of the morning, but --\
+     Oh, hell.\
+     You mean its legit? Or a kidnap threat, maybe?\
+     Listen, Whit, Im up to my neck here already. Send the backup. But then see if you can get in touch with\
+Elisa. Chavez knows where she is. Dont waste any time, okay?\
+     You got it, Rick.
+
+  \*  \*
+
+     Harry the Hammer had, as Rick guessed, made himself scarce.\
+     Hed blown it. God was *not* happy with him. Bad enough that hed followed the hellspawn up the building,\
+drawing the attention of half of Manhattan, but then hed *lost* her! And when hed tried to shoot the devils\
+handmaiden who had appeared out of nowhere to rescue her, hed missed!\
+     His hand throbbed and stung, and he could feel her vile poison working in him. Burning like fire, creeping\
+through his veins.\
+     Had to do something. Had to do something quick, before it killed him.\
+     If hed had a knife or an axe, he might have stopped right then and lopped off his torn, tainted flesh. But\
+he didnt. Only other choice was to put his faith in God and hope the Almighty was going to give him another\
+chance.\
+     With his tooth-marked extremity hidden in one coat pocket and his gun in the other, he reeled up the\
+steps of St. Bernadette's. He wouldnt have been surprised if the doorhandles seared him when he took hold,\
+but he wasnt that unclean. Not yet.\
+     A service was going on, the pews about one-third full. Harry only went as far as the fonts of holy water at\
+the rear of the church.\
+     He withdrew his hand from his pocket, stared at it for a moment as a small whimper escaped his clenched\
+jaw, then immersed it to the wrist.
+
+  \*  \*
+
+     The first vacant building Dominique came to was Varduccis House of Pasta, which had closed following\
+a gangland-style shooting six months ago. The door and windows were boarded over, but one of the boards\
+was loose enough for her to easily pry it out and slip through the opening.\
+     Once inside, she finally let herself exhale and relax. No one had followed her. She was safe.\
+     *They* were safe.\
+     She held the child away from her and looked closely at it for the first time.\
+     Dark hair. Dark eyes. Toffee-colored skin. Lavendar wings.\
+     You ... youre ... who *are* you? she demanded, though she knew the truth, shaking the little girl.\
+     Ammer, the child said, her eyes wide in the gloom of the unlit restaurant. She must have seen something\
+terrible in Dominiques expression, because she began to cry.\
+     Conflicting emotions stormed inside her. She wanted to hurl the child to the dusty floor and stomp her\
+lifeless, she wanted to cradle her close and reassure her, she wanted to see Goliath and his human slut suffer\
+as she and Jericho had suffered, she wanted to rid the world of this foul hybrid, she wanted to keep her to\
+raise as her own.\
+     Ambers tears splashed on her hands. Dominique could feel her trembling. This fearless hatchling, who\
+glided by day and laughed as she perched high above the humans ... was trembling ... crying ... all because\
+of her ...\
+     A single ragged sob burst from Dominique, and she hugged Amber against her. Shh, shh now, little one.\
+Its all right. Im not going to hurt you.\
+     Amber laid her head on Dominiques shoulder with a soft sigh. Dominique closed her eyes in mixed\
+heartwrenching pain and joy as she felt small arms creep around her neck.\
+     She lost herself in the soft weight in her arms, the scent of the child, the folded butterfly-leather velvet wings\
+as she stroked them soothingly.\
+     Lost herself, yes, so lost that she didnt pay any attention to the creak of hinges, the approaching footsteps,\
+the stink of gunmetal. Lost, until she heard a voice.\
+     Well, well. An uninvited guest.\
+     Dominique gasped and opened her eyes to the sight of two men. One bespectacled and black, covering\
+her with a pistol. The other slim and smug, the dim light gleaming on the white streak in his lush dark hair.\
+     I dont believe weve met, he said. The names Dracon.
+
+  \*  \*
+
+     The phone rang, and all three of them jumped as if in anticipation of a blow.\
+     But Elisa didnt just jump, she barked a short, explosive, Oh! that was very close to being a shout of\
+alarm, and almost pulled her gun. Her pulse was racing, and a sudden clammy sweat had broken out on her\
+forehead.\
+     It rang again.\
+     She was closest to it, and Matt hoisted a reddish eyebrow as if to ask, Well?\
+     She put her hand on the phone.\
+     This was it. Whatever had hit the fan, this was it.\
+     Let it ring, a whispery but compelling voice spoke up in her head. Just let it ring, its bad news, you dont\
+want to hear it.\
+     Third ring. She drew her hand away.\
+     Je-sus Christ, Pal Joey said in exasperation. Ill get it.\
+     No! Elisa stopped herself, swallowed, and picked up the phone. Hello?\
+     Elisa? Maria Chavez asked.\
+     What is it? Whats happened? Is it my folks?\
+     Elisa, Im sending a car over. Goldbergs going to take over for you. Just stay calm, okay?\
+     Is it Dad?\
+     No, its not your father. After a heavy pause, she said, Its Amber.
+
+  \*  \*
+
+     Oh, dammit ... David Xanatos groaned.\
+     The new tape, from one of the parking garage cameras, clearly showed a little girl clambering onto the back\
+of a truck just before it departed.\
+     He typed the trucks number into the computer. A shipment of computer disks and VR headsets,\
+Xantasia II -- Dragon Crusade, ConSPYracy, and Ghoul World. Three games in one, magic in the making.\
+     Okay, that was something, at least; it wasnt a load of weapons.\
+     He checked the trucks destination and groaned again, trying to imagine what hed say to Goliath and Elisa\
+if their daughter wound up on a flight to Tokyo.\
+     Put me in touch with the drivers *now*, he ordered. They couldnt be at the airport yet, just couldnt.
+
+  \*  \*
+
+     The holy water didnt heal the devil-bite.\
+     When Harry took his hand out of the font, which was now pinkish from his blood, the wounds were still\
+seeping. But the poison was gone. He was sure of that.\
+     Feeling better already, cleaner, more uplifted, Harry tied a handkerchief around it and quickly crossed\
+himself before heading back outside.\
+     The drizzle was done, and it even looked like the clouds were parting. Bits of blue showing through. An\
+omen. God was still with him.\
+     He hurried back the way hed come, wanting to jog but not wanting to attract any more attention.
+
+  \*  \*
+
+     What do you know, Tony Dracon said. A baby gargoyle.\
+     They were in the back room of Varduccis, which theyd converted to use as a hideout after the restaurant\
+had closed down.\
+     And wasnt it his good fortune that on the very day he was trying to figure out what lever he could use\
+against Maza and Bluestone, a baby gargoyle should just fall into his hands? Someone up there liked him.\
+     Something the matter, honey? he asked the redhead, whose glare was a killer. Look, I got nothing\
+against you personally. Im a businessman.\
+     Wan my Daga, wan my Zaza, the kid sniffled, holding onto Red for dear life.\
+     Glasses had tried to pry them apart, but wasnt about to make *that* mistake again. At the moment, he\
+was leaning half-bent over and spraddle-legged against the wall, barely coherent but still keeping a machine\
+gun trained on Red.\
+     The rest of his diminished gang had her covered too, and kept a discreet distance, alternately wincing\
+and smirking when they recalled the kick shed given Glasses. If thosed been spiked heels, talk about body\
+piercing! Ouch! She was limping, favoring that foot, and no wonder.\
+     I got nothing against you personally, Tony repeated. Leave the kid with us, and you can go. Deal?\
+     She told him what he could do with his deal, and Tony blinked.\
+     Nice language, he said. Okay, so what *do* you want? You look familiar; did you nab the kid or\
+something? Ransom, is that whats on your mind? Or are you one of those Quarrymen?\
+     She was out of her chair in a flash, supporting the child with one arm and going for his throat with the\
+other. Her fingernails were painted vermillion and sharp as needles.\
+     Tony reeled back as his gang moved in. Dont hurt the kid! he shouted.\
+     The butt of a shotgun slammed into the back of the redheads skull. Gino Monatella snatched the little\
+girl out of her grasp as she went down.\
+     You want we should finish her, Tony?\
+     He touched his neck and looked, incredulous, at the spots of blood. The bitch tagged me! They were\
+no bigger than shaving nicks, but still! Do it.\
+     Sal Clemenza spun a silencer onto the barrel of his gun. Gino brought the kid to Tony, who was still\
+messing with his neck. She was squirming and fighting like a wet cat, darting her head at Gino, hoping to\
+plant those little fangs in his arm. And screaming to raise the roof. None of them dared try to cover her mouth,\
+for fear of losing a finger.\
+     Tony looked at the redhead, recognized her. Sal!\
+     Too late. Sal pulled the trigger. Her body jumped. Tony clapped a hand across his face and swore fluidly\
+in Italian.\
+     You said to get rid of her, Sal argued worriedly.\
+     Do you know who that was? You just wasted Dominique Destine!\
+     How was I supposed to know?\
+     Dont you read magazines? She was the CEO of Nightstone Unlimited! We couldve gotten good\
+money out of her!\
+     You told me to do it!\
+     Come on! Gino urged, struggling with his captive. Lets just get the fuck outta here, what do you say?
+
+  \*  \*
+
+     The chattering roar of the descending helicopter threw Elisas hair around her head in a dark tornado, but\
+she didnt bother to look.\
+     Rick Alvarez did. Xanatos. Whats he doing here?\
+     Coming up with one hell of a good reason why I shouldnt stuff his balls up his nose, Elisa said in the\
+hardest voice Rick had ever heard. He actually took two steps back.\
+     Theyd cleared the street after searching all of the cars and questioning all of the people, but nobody\
+remembered anything between seeing Amber swoop through the air and the gunfire starting. Nobody wanted\
+to become a statistic, so theyd fled in all directions, and no one had paid any mind to where one little girl might\
+have wound up.\
+     It was Amber. Elisa had no doubts. Even before shed spoken to Kurt Masters on the car phone on her way\
+over here and heard his explanations and theories as to just why Amber was wide awake and moving around in\
+the daytime, she knew.\
+     Cop instinct?\
+     No. *Maternal* instinct.\
+     Harry the Hammer chasing after her daughter. Now she knew how Goliath had felt last New Years, upon\
+hearing that shed been carried off by Jericho.\
+     Shes alive, Elisa said.\
+     Rick glanced worriedly at her. Elisa ...\
+     She is. Id know if she wasnt.\
+     He knew better than to debate. We did a quick sweep of the area, got someone who matched Harrys\
+description coming out of St. Bernadettes. Havent come up with anything since.\
+     Xanatos emerged from the helicopter, his grey trenchcoat blowing around his legs and exposing the dull\
+gleam of body armor.\
+     Youll need it, Elisa growled, looking pointedly at him.\
+     Im here to help, he said. I imagine youve got a lot of yelling to do, and Ill hear you out, every word,\
+but first, lets find Amber.\
+     She came within an inch of letting him have it anyway, but something in his eyes stopped her. They were the\
+eyes of a man whod had his own child stolen away more than once, eyes that knew how she was feeling.\
+     She took a deep breath and let it out slowly. Fair enough.
+
+  \*  \*
+
+     Two cop cars wailed past, and Harry faded into an alley until they were gone. He wondered if he should\
+contact Castaway, get some help out here.\
+     No. This was something he had to do alone.\
+     This was something he *wanted* to do alone.\
+     But he was back at square one. The devils handmaiden hadnt gone back to her car; her driver had left\
+without her. Harryd seen him go.\
+     So she had to be nearby. Hiding out.\
+     Close.\
+     Someplace where she could wait out the day, especially now that the sun was coming out. Didnt the\
+sun turn them to stone? Yeah, like at the rally when theyd smashed one of the monsters to gravel. Sunlight\
+was their enemy. All those creatures of the night couldnt go out in sunlight.\
+     Hiding ... but where?\
+     A dark place ... where nobody might find them ...\
+     His gaze happened upon the abandoned restaurant, and it was as if a great starburst went on in his head.\
+That was the place.\
+     He let himself in through the loose board across the doorway, and paused while his vision adjusted to the\
+dimness. There was another door standing ajar at the rear of the room, and when he peered inside, he saw a\
+bundle of rags on the floor ...\
+     No, it was a body!\
+     Harry rushed to it, took hold of a shoulder, and rolled it onto its back.\
+     The woman! The devils handmaiden!\
+     He looked around. No hellspawn child, but signs of a scuffle. An expended shell casing. An overturned\
+chair. Lots of footprints in the dust, leading to a back alleyway.\
+     The sound of a car engine.\
+     Without thinking of his own hide, Harry plunged outside. An expensive black car, surely the Lexus of Satan\
+Himself, was driving away.\
+     Enraged, he almost gave chase, almost opened fire on the car, but made himself stop. Bullets wouldnt be\
+any good against *that*. He had to think of another plan, quick.\
+     He retreated into the restaurant before the servants of evil saw him in their rearview mirror. He stood\
+uncertainly by the corpse, trying to clear his mind and think.\
+     Help me out, here, God! Thy will be done, You bet Your halo, but I need to know what to do. I need\
+a sign.\
+     At his feet, the dead woman sucked in a breath.
+
+  \*  \*\
+ \
+     Just when they thought things couldnt get worse, the press showed up.\
+     And, of course, seeing Xanatos right in the thick of things, the reporters had a field day.\
+     Elisa wanted to grab them, slam them up against the nearest wall, and screech in their faces that this\
+was her *daughter* they were talking about, not some urban legend brought to life, not some genetic experiment\
+gone awry, her *daughter*. But that, she knew, would only get her name and picture plastered on front\
+pages all over the country. And it wouldnt help find Amber.\
+     Rick Alvarez finally turned up a lead. An old woman, one Mabel Jenks from Nebraska, who had been\
+knocked down and out in the panicked exodus.\
+     But shed regained consciousness, dismissed the paramedics in a crotchety manner, and told Rick that\
+she had tried to swat that critter clean out of the air with her cane. Then some tart in a fancy fur coat had\
+grabbed the winged child and run off with her.\
+     What did this ... tart ... look like? Elisa asked urgently.\
+     Hooker, Mrs. Jenks declared. Hair dyed just as red as a whores porch light, fur coat, high heels. I\
+knew she was a tramp just looking at her.\
+     Rick and Elisa exchanged a dubious shrug. A hooker? Rick mouthed.\
+     Which way did she go?\
+     How should I know? Right about then, half the city trampled over me and damn near broke my hip\
+again! She brandished her cane as if she might try to swat Elisa too, then stomped off.\
+     It always warms my heart to see a kind, grandmotherly figure like that, Xanatos remarked.\
+     I thought you were here to *help*, Elisa reminded him, scowling.\
+     But ... Elisa ... Rick said hesitantly, Its not looking like theres much more we can do.\
+     Except wait, Xanatos said.\
+     I am not giving up!\
+     Without some more leads, theres no way were going to be able to find one kid in a city this size! Rick\
+gestured around. You know everybody on the force is going to be doing their damndest, but --\
+     But nothing! Elisa sliced the air with both hands in a vicious negative motion.\
+     She could be asleep, Xanatos said. Remember Elektra? Kurt thinks that as soon as Amber gets tired,\
+shes going to turn to stone.\
+     I will go over every building on this island one inch at a time if thats what it takes, she vowed, curling her fists.\
+     Okay. Xanatos began fiddling with a remote control, and a radar dish on the back of his helicopter began\
+silently spinning. But Ill handle that part, what do you say?\
+     She frowned blankly at him, until six Steel Clan robots zoomed into view. Then she understood. Youre\
+going to have them scan all the exteriors?\
+     He nodded. Ive programmed them with surveillance tape images of Amber, both awake and asleep. If\
+shes on a ledge, well find her. He fetched his own helmet from the helicopter, shed his trenchcoat, and\
+extended his red metallic wings.\
+     I keep forgetting youre not such a bad guy after all, Elisa said with a weak smile.\
+     Xanatos grinned, then lifted off.\
+ \
+  \*  \*
+
+     Dominique opened her eyes.\
+     She *hated* getting killed.\
+     There was a dwindling bump on her head, and a tender spot on her chest. Oh, yes, and a lump of misshapen\
+metal trapped inside her blouse. The wretched humans had *shot* her, and the healing processes had forced the\
+bullet back out.\
+     She sat up, her bloodsoaked clothes sticking to her mended skin, and saw Harry the Hammer gaping at her.\
+But at least it didnt seem she was about to get shot again, because his hands were hanging slack at his sides.\
+     You ... youre alive, he said. Is it the devils work or the Lords? I asked God for a sign, and there you\
+are, but was it Him that resurrected you, or not?\
+     Oh, keep your God, she snapped, getting to her feet. What was she doing here, anyway? How had she\
+gotten into this mess?\
+     Then she remembered -- Amber! Tony Dracon and his murdering thugs must have taken her.\
+     Without another word for Harry, she burst into the alley.\
+     Nothing. Nobody. Just fresh tire tracks.\
+     Her arms ached with the bittersweet memory of holding the child. She pealed a desolate shriek to the\
+uncaring sky.
+
+  \*  \*
+
+     After an hour of not finding a single thing, Elisa was about to lose her mind. She kept telling herself that\
+Amber was all right, but the certainty with which shed said it to Rick was being eroded by doubt.\
+     When it was clear there was nothing more that could be done at the scene, she let Rick talk her into\
+going to the station house, where she could coordinate with the search units. But when they got there, Rick\
+himself did most of that, while Elisa wandered the halls, breath stopping every time a phone rang.\
+     Finally, when she was ready to start screaming, she went out front and looked up, hoping against hope\
+to spot a small shape on a ledge.\
+     Hello ... sugar.\
+     Oh, hell, Elisa sighed. Not now, Tony, okay? I know you want Pal Joey, and I really dont give a\
+damn. Ive got other things on my mind.\
+     He leaned against the wall, oh-so full of himself. Bold as brass. Right there at the foot of the station stairs,\
+and the cops couldnt touch him because all they had was suspicion. At least until Monday, when Pal Joey\
+spilled the beans. There was a black Lexus waiting at the curb, with Sal Clemenza behind the wheel.\
+     But Elisa wasnt kidding ... she really didnt give a damn.\
+     I think youll hear what I have to say. Ive got a message for you to give to your gargoyle friends. I found\
+something of theirs.\
+     She had already turned away, preparing to ignore him, but now she froze. What did you say?\
+     Tony smirked, enjoying himself hugely. Werent you listening, *sugar*? You tell your gargoyle friends that\
+Ive got their brat. Shes fine, and Ill be happy to hand her over ... if ...\
+     Elisa descended the steps like someone in a dream. Tony ...\
+     I mean, its all up to you. I want Joey. Weve got some things to settle, me and him. But if you cant do\
+that, I understand. His grin widened. *I* understand, but I dont know if your gargoyle friends will.\
+     No, you *dont* understand.\
+     Hey, I know Im putting you in a spot here. Youre a cop. I respect that. But --\
+     She moved. Fast.\
+     The barrel of her gun was mashed against Tonys lips before he even realized she was moving.\
+     Youre not dealing with Elisa Maza the cop, she said, voice both low and fierce. Youre dealing with Elisa\
+Maza the *mother*, and if I dont get my daughter back in the next five seconds Im going to blow your teeth\
+out the back of your goddam head! Do you understand *that*, Tony?\
+     His eyes were big and round and filled with consternation and what might have been chagrin. He eased his\
+head back far enough to speak. Hey, Elisa, take it easy, okay?\
+     My daughter, Tony. Now.\
+     You dont think I would have brought her --\
+     Five.\
+     I need more time!\
+     Four.\
+     Ill get her, I swear!\
+     Three.\
+     Come on, Elisa, give me a chance!\
+     She stopped the countdown, but pressed the gun hard against his teeth. And your scumbags better\
+understand something too. If they try anything stupid, Ill kill you on the spot, and then Im going after them.\
+Me and my clan. Until every single one of them is dead.\
+     Sal, Tony called, the stink of fear coming off of him in sickly fumes. Go get the kid! Hurry!\
+     Oh, no you dont, Elisa said. Were going down there. Both of us. Youre going to take me to my\
+daughter, and then youre going to let us go. Dont cross me, Tony.\
+     Wouldnt dream of it, he assured her.\
+     She eased off a little, knowing that one great truth about Tony Dracon was that he was a coward at heart.\
+Not that it would have mattered. Police procedure and her own safety werent foremost in her mind.\
+     Shifting the gun to the back of his head, she nudged him down the steps toward the Lexus. One of her fellow\
+officers could come out at any minute, Travis Marshall could show up, but none of it mattered.\
+     Boss ... Sal began.\
+     Just cooperate with the lady, Sal, Tony said as he slid across the back seat and Elisa climbed in after him.\
+     The interior of the car still held a whiff of her daughters scent. It almost brought her to anxious tears but she\
+held on grimly to self control.\
+     Lets go, she ordered.
+
+  \*  \*
+
+     Its the Hand of God at work! Harry the Hammer insisted, following awestruck after her. Youve been\
+given a second chance! I asked for a sign, and He answered by reaching down His Hand and bringing you\
+back to life! Dont you see? Theres still time for you to repent your evil ways! God *wants* you to!\
+     Oh, shut *up*! Dominique yelled, stamping her foot. It was the same one shed used to kick Glasses, but\
+thanks to her recuperative powers, the ankle no longer ached.\
+     If only the wounds to her soul could be so easily healed.\
+     She went to the end of the alley, but there was no sign of Dracon. He would be long gone by now, with his\
+baby gargoyle hostage.\
+     And here she was, saddled with this idiot human ...\
+     Pray with me! he exclaimed, near-overcome with rapture. He grabbed her arm and tried to drag her to\
+her knees.\
+     Enough! She disarmed him, assessed the gun, thumbed off the safety, and pointed it at his face.\
+     Ponderous comprehension crawled across his features like a lizard navigating a difficult rock. She waited\
+for the moment ... ah, there it was! The blossoming realization of terror.\
+     So much for your God, she mocked, and pulled the trigger.\
+     Missed!\
+     Less than three feet from him and she missed!\
+     The explosion was colossal and loud in the alley, startling flocks of pigeons. A trashcan beside Harry burst\
+into flame and overturned.\
+     In that moment, Harry and Dominique wore the same stunned and disbelieving expressions. Then, before\
+she could fire again, he was bolting through the reeking-charnal burning sludge, skidding and slipping but never\
+quite losing his footing.\
+     Her second shot was centered squarely on his back, she could already see his guts spraying out in front of\
+him, but at that very instant, a dirty grey cloud dropped between them and was blown apart in a shower of blood\
+and feathers.\
+     Pigeons.\
+     Shed slaughtered a bunch of pigeons.\
+     Harry reached the end of the alley and kept on going, not looking back once.\
+     Incredulous and highly pissed, Dominique stared after him until a foul pall of greasy smoke, stinking of burnt\
+garbage and smoldering pigeon-feet, gusted toward her.\
+     She flung the gun into the mess, not worried about prints because the ones that Ms. Destine officially had on\
+file bore no resemblance to the ones that actually tipped her fingers. Before someone decided to investigate the\
+noise, she retreated into the restaurant and from there made her way toward home.
+
+  \*  \*
+
+     A warehouse on the waterfront. One-time chop shop, if Elisa recalled correctly.\
+     She looked at Tony, a flat and deadly look that brought a simpering, worried grin to his lips.\
+     Out, she said, gesturing. You too, Sal.\
+     The three of them got out of the car and stood in the warehouses shadow. Now Elisas cop instinct was\
+buzzing like crazy, but it was still overpowered by that unstoppable maternal force.\
+     Keys, Elisa said to Sal. He glance-checked with Tony, got the nod, and handed them over.\
+     Stay cool, Elisa, Tony said. You want the car? Hell, keep it!\
+     Youll get your mean machine back, Tony. Right now, get your goons to bring me my daughter.\
+     Go on, Sal, he urged. Tell Gino to bring the kid.\
+     Elisa waited, tense, gun still pressed to Tonys side to remind him not to try anything cute. Sal vanished into\
+the warehouse and they heard voices from within.\
+     Aw, come on, dammit! Come down! That would be Gino Monatella, Elisa knew.\
+     How the hell did she get up there? Sal demanded.\
+     She climbed. Like a frigging monkey.\
+     Well get her down, the boss is waiting.\
+     Who do I look like, one of the Amazing Wallendas? Im not going up there!\
+     Elisa prodded Tony with the gun. Tell them to quit dicking around. Im running out of patience.\
+     Hurry it up in there, wouldja? He was perspiring freely, but there was that old familiar shiftiness in his\
+eyes again that Elisa didnt like.\
+     Hey, kid, look, I got a lolly! Gino tried desperately.\
+     Amber! Elisa called, raising her voice. Amber!\
+     From within: Zaza? Zaza! followed by a swoop, a thump, and Sals remark, Nice catch, dickhead, and\
+Ginos groan of discomfort.\
+     A small figure appeared in the doorway, and Elisa nearly laughed with relief. When Amber saw her, the little\
+girl broke into a huge beaming smile and toddled toward her as fast as she could, arms outstretched and wings\
+half-flared behind her.\
+     Zaza! Zaza!\
+     Elisa crouched and scooped Amber into her arms, an embrace never more welcome. Amber clung to her,\
+babbling excitedly, presumably telling Zaza all about her busy morning.\
+     No injuries, not even a scratch. A little bit dusty and grubby, that was all.\
+     Tony had edged away, and all of a sudden Elisas cop instinct came raving up full-force. She shifted Amber\
+to one arm and raised her gun.\
+     Too late, *sugar*, Tony said, shaking his head and smirking.\
+     Six guys popped out from behind dumpsters and cars, the warehouse door rolled up with a rattling clatter to\
+reveal four more, and all of them were armed.\
+     Tony, you bastard.\
+     Hey, you got your kid back. Now its time for business. Lets talk about Pal Joey.\
+     She looked around for an escape route, but the goons, led by a gingerly-walking Glasses, closed in and\
+ringed her.\
+     No deal, Tony.\
+     Youre not in a position to argue, sugar. No gargoyles around but that little one. And it sure would be a\
+shame if she got caught in a crossfire. But, you know, regrettable things like that happen sometimes.\
+     Amber had ceased her babbling and was now tense in Elisas grasp, watching Tony warily.\
+     So, you see, Tony continued, having flipflopped back to confidence instead of cowardice now that the\
+odds were comfortably stacked in his favor, your only way out of here is to cooperate. No bottom-of-the-ninth\
+miracles to get you out of this one.\
+     A mechanical, amplified, sardonic chuckle drifted down to them. Are you sure about that?\
+     An army of Steel Clan robots descended on jet-heated downgusts, landing in a larger circle around Dracons\
+men. Precise lasers made short work of the machine guns and more conventional weapons, and in seconds the\
+goons were routed and running.\
+     Dracon himself ran for the Lexus and was actually behind the wheel when he remembered the keys were in\
+Elisas possession. He went all the way across and out the passenger-side door just as a particularly impressive\
+pyrotechnic from the forearm-mounted blaster of a red and black gargoylian battlesuit turned the car into a heap\
+of slag. Tony kept on going, down the dock with his coattails flying, and didnt slow even when he came to the edge.\
+     Splash.\
+     Then silence, but for the low steady hum of the robots, and the click and whoosh of Xanatos removing his helmet.\
+     Xatos! Amber cried delightedly, and began to laugh high and shrill.\
+     Elisa felt along the collar of her jacket and pinched off a small lump of metal. Old habits?\
+     He nodded. Old habits.\
+     For once, she said, handing it to him, Im glad.
+
+  \*  \*
+
+The End.\
+
+------------------------------------------------------------------------
+
+\
+*1999 Christine Morgan \*\* <vecna@eskimo.com> \*\* <http://www.eskimo.com/~vecna>*

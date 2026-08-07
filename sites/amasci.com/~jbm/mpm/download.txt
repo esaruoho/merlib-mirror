@@ -1,0 +1,90 @@
+JBM - MPM - Download
+
+ [Bibliography] 
+ [Calculations] 
+ [Downloads] 
+ [Equations] 
+ [FAQ] 
+ [JBM] 
+ [Links] 
+ [MPM] 
+ [PM] 
+ [Personal] 
+ [Software] 
+
+ JBM - MPM - Download
+
+ To get your copy of MPM, click on the link below to the version/format
+ you want. There are Windows and Linux (x86) executables available. 
+ The Linux executable is built using Fedora Core 1. There is also a
+ statically linked executable for those who want/need it. The Windows (Win32) 
+ version is in a "Zip" compatible format and only needs to be unzipped 
+ in a directory of your choice. Similarly, the Linux file is a gzipped 
+ Tar file, and will untar into the correct directory (e.g mpm-0.9.31/). 
+ MPM is still in beta testing and the current version is 0.9.31. [NOTE: 
+ you may have to hold the shift key down while clicking so that you can 
+ save the file to your hard drive.]
+
+ Platform
+ Archive
+ Size (bytes)
+
+ Linux (dynamic link)
+
+ mpm-0.9.31.tgz 
+
+ 70177
+
+ Linux (static link)
+
+ mpm-static-0.9.31.tgz 
+
+ 270828
+
+ Windows
+
+ mpm-0.9.31.zip 
+
+ 81771
+
+ Bullet Files 
+
+ File 
+ Description 
+
+ 300mk.blt 
+
+ Sierra's .338 caliber, 300 grain MatchKing. I guessed at some
+ of the values since Sierra won't tell me what they really are!
+
+ 168int.blt 
+
+ Sierra's .308 caliber, 168 grain International. Source of data 
+ was an article by Robert L. McCoy, published in Precision Shooting.
+
+ m33.blt 
+
+ Military's M33, 647 grain 50 BMG. Source of data was "The 
+ Aerodynamic Characteristics of .50 Ball M33, AP, M8 and APIT, 
+ M20 Ammunition", Robert L. McCoy, BRL, Aberdeen Proving 
+ Ground, MD, January 1990.
+
+ m8.blt 
+
+ Military's M8, 605 grain AP 50 BMG. Source of data is the
+ same as the M33.
+
+ berger_30_168_ltb.blt 
+
+ Berger's 
+ .30 caliber 168 grain bullet. Provided by Andreas Gartner.
+
+ berger_30_185_vld.blt 
+
+ Berger's 
+ .30 caliber 185 very low drag (VLD) grain bullet. Provided by 
+ Andreas Gartner.
+
+ Last update 26 January 2005, Copyright &copy; 1996-2005
+ JBM 
+ [V]

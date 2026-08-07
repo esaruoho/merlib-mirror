@@ -1,0 +1,409 @@
+<html>
+<head>
+<title>int main() vs. void main()</title>
+<body>
+<p>
+[This article was originally posted on August 23, 1996,
+and again with annotations on January 14, 1997 and March 20, 1998.
+I have edited the text further for this web page.]
+<p>
+[A few of the points I make in this article are becoming dated.
+It is
+becoming less and less kosher to assume that a function declared
+without an explicit return type will be implicitly declared as
+returning <TT>int</TT>; or to fail to return a value from a non-<TT>void</TT>
+function.
+In fact, the new revision of the ANSI/ISO C Standard
+("C99") actively disallows the first of these, and at least
+partially the second.]
+<p>
+Newsgroups: comp.lang.c
+<br>
+From: scs@eskimo.com (Steve Summit)
+<br>
+Subject: Re: <TT>int main()</TT>  ???? wrong?
+<br>
+Message-ID: &lt;DwLyC9.5w5@eskimo.com&gt;
+<!-- also &lt;6eu92u$902$1@eskinews.eskimo.com&gt; -->
+<br>
+References: &lt;321b9857.75314178@news2.microserve.net&gt; &lt;321cc6d4.152763064@news2.microserve.net&gt;
+<br>
+Date: Fri, 23 Aug 1996 20:31:21 GMT
+<p>
+In article &lt;321b9857.75314178@news2.microserve.net&gt;,
+sidlip@lip.microserve.com writes:
+<br>
+&gt; I see alot of reference to <TT>int main ()</TT> being incorrect syntax..
+<br>
+&gt; Ive gotten into the habit of doing it and would like to know what
+<br>
+&gt; errors could pop up in my code from not voiding <TT>main</TT>.
+<p>
+I assume you mean, "what errors could pop up from not declaring
+<TT>main</TT> correctly."  Speaking generally, the same sorts of errors
+could pop up as occur any time a global variable or function is
+misdeclared.
+<p>
+Turning for a moment from <TT>main()</TT> and <TT>void</TT> to <TT>int</TT>s and <TT>double</TT>s,
+let's consider the (incorrect) code
+<p>
+<pre>
+	#include &lt;stdio.h&gt;
+	extern int sqrt();
+	main()
+	{
+	printf("%d\n", sqrt(144.));
+	return 0;
+	}
+</pre>
+<p>
+This code is clearly trying to compute and print the square root
+of 144, but it almost as clearly will not work.  It declares
+that the library function <TT>sqrt()</TT> returns an <TT>int</TT>, and it tries to
+print <TT>sqrt</TT>'s return value using <TT>%d</TT> which expects an <TT>int</TT>.  Yet,
+in actuality, <TT>sqrt()</TT> of course returns a <TT>double</TT>.  The fact that
+<TT>sqrt()</TT> returns a <TT>double</TT>, while the caller acts as if it returns
+an <TT>int</tt>, will almost certainly prevent the program from working.
+<p>
+Why won't it work, exactly?  It depends on the details of the
+particular machine's function call and return mechanisms.  We
+haven't said which machine we're using, and we shouldn't have to
+know the details of these mechanisms (they're the compiler's
+worry, and to worry about them for us is one of the reasons we're
+using a higher-level language like C in the first place), so we
+can speak only in general terms.  Perhaps the machine has one
+general-purpose register which is designated as the location
+where functions return values of integer types, and one
+floating-point register which is designated as the location where
+functions return values of floating-point types.  If so, <TT>sqrt()</TT>
+will write its return value to the floating-point return
+register, and the calling code will read a garbage <TT>int</TT> value from
+the general-purpose return register.  Or, perhaps integer and
+floating-point returns use the same locations.  <TT>sqrt()</TT> will write
+a floating-point value to the location, but the calling code will
+incorrectly interpret it as an integer value.  You'd then get
+approximately the same result as you'd get from executing
+<p>
+<pre>
+	double d = 12.;
+	int *ip = (int *)&amp;d;
+	printf("%d\n", *ip);
+</pre>
+<p>
+In both cases, the <em>bit pattern</em> of the floating-point number is
+interpreted as if it were an integer.  Since the bit-level
+representations of integer and floating-point data are invariably
+different, confusing and inaccurate answers result.  (Note that
+in neither case -- the incorrect declaration of <TT>sqrt()</TT>, nor the
+<TT>int</TT>/<TT>double</TT> pointer game -- does the compiler emit any code to do
+<TT>double</TT>-to-<TT>int</TT> conversion.  Any such conversions have been
+effectively circumvented by the peculiarities of these two code
+fragments.  In the case of calling <TT>sqrt()</TT>, you'd get a proper
+<TT>double</TT>-to-<TT>int</TT> conversion only if <TT>sqrt()</TT> were properly declared
+as returning <TT>double</TT>, and the return value were assigned or cast
+to an <TT>int</TT>.)  Finally, suppose that values are returned on the
+stack, but that <TT>sizeof(double)</TT> is greater than <TT>sizeof(int)</TT>
+(as is usually the case).  <TT>sqrt()</TT> will push a <TT>double</TT>-sized result
+on the stack, but the caller will pop an <TT>int</TT>-sized one.  Not only
+will the caller print a garbage answer (interpreting those bits
+it did pop as if they represented an <TT>int</TT>), but the shards of the
+<TT>double</TT> remaining on the stack could screw later uses of the stack
+up enough that the program could crash.
+<p>
+In the preceding example, the calling code was incorrect, because
+it misdeclared the return value of the <TT>sqrt()</TT> function.  We're
+not allowed to choose what we want the return value of <TT>sqrt()</TT> to
+be, because neither the defined return type of <TT>sqrt()</TT> (as fixed
+by the Standard and long practice) nor the actual return type of
+<TT>sqrt()</TT> (as implemented in the library provided with our compiler)
+are under our control.  Issuing an external declaration for
+<TT>sqrt()</TT> declaring that it returns an <TT>int</TT> does not <em>make</em> it return
+an <TT>int</TT>.  (Nor does the misdeclaration instruct the compiler to
+convert <TT>sqrt</TT>'s return value from <TT>double</TT> to <TT>int</TT>; if the
+declaration is wrong, how could the compiler even know that the
+type to be converted from was <TT>double</TT>?)  Abraham Lincoln used to
+ask, "If we call a tail a leg, how many legs does a dog have?"
+His answer was "Four -- calling it a leg doesn't make it one."
+<p>
+When we write an implementation of <TT>main()</TT> with a return type of
+<TT>void</TT>, the situation is similar, but the roles are reversed.
+Now, it is the caller that is fixed and beyond our control, and
+that caller is assuming that <TT>main()</TT> returns an <TT>int</TT>.  You may
+imagine that somewhere (it's actually in the compiler vendor's
+source for the C run-time library) there is some code which
+looks something like this:
+<p>
+<pre>
+	extern int main(int, char *[]);
+	int argc;
+	char *argv[MAXARGS];
+	int status;
+	...
+	status = main(argc, argv);
+	exit(status);
+</pre>
+<p>
+If the caller declares <TT>main()</TT> as returning <TT>int</TT>, and you define
+<TT>main()</TT> as returning <TT>void</TT>, the declarations are mismatched,
+just as the declarations of <TT>sqrt()</TT> were in the previous example.
+In theory, the resulting program can fail in just the same sorts
+of ways.  But, to reiterate, here we can't fix the problem by
+fixing the caller (because the caller is, er, fixed).  Instead,
+we have to fix <TT>main's</TT> declaration, which <em>is</em> under our control,
+to match the caller's expectation.
+<p>
+Even if the program with the misdeclared <TT>main()</TT> "works" (that is,
+compiles without error, and runs without crashing), it does
+result in a garbage (random) exit status being returned to the
+calling environment.  You or your command invocation environment
+may not be noticing that particular glitch right now, but it is a
+glitch, and it may bite you later.
+<p>
+At one time, I had not gotten into the habit of making sure that
+<TT>main()</TT> called <TT>exit()</TT> or returned an explicit value.  (I wasn't
+declaring <TT>main()</TT> as <TT>void</TT>, but I was getting the same sorts of
+random exit status values.)  Whenever I wrote a little program
+(usually a special-purpose preprocessor) to automate some step in
+the building of a large program, and stuck the program into one
+of the productions in a Makefile, <TT>make</TT> would randomly abort the
+build, saying that there had been an error, whenever the random
+status returned by the little program was nonzero (i.e. not
+<TT>EXIT_SUCCESS</TT>).  Eventually, fixing enough of those drove home to
+me the importance of always exiting with an appropriate, explicit
+status, even in seemingly trivial programs.
+<p>
+Another place you'll notice the effect of a random exit status
+is if you run a program with one in the background using a
+job-control shell under Unix; when it finishes, you'll get a
+message like "Done(1)" or "Exit 1" which, if you've gotten used
+to the presence of the number indicating the presence of an
+error, will mislead you into thinking that the command failed.
+<p>
+Yet other ways to see the results of particular exit statuses
+(that is, to depend on their being deterministic) are when using
+errorlevel in DOS batch files, or when using DCL in VMS.
+<p>
+&gt; several books use <TT>int main()</TT> as examples  and others use <TT>void main(void)</TT>
+<p>
+Indeed.
+<p>
+&gt; <TT>main</TT> returns an <TT>int</TT> i assume?
+<p>
+Yes.  More precisely, <TT>main</TT> is <em>supposed</em> to return an <TT>int</TT>; what
+it actually returns is what you declare it to return (and what
+your <TT>return</TT> statement(s), if any, say it returns).  But if you
+implement <TT>main</TT> as returning something other than what its caller
+expects it to return, you run the risk of its not working
+correctly.
+<p>
+In article &lt;321cc6d4.152763064@news2.microserve.net&gt;,
+sidlip@lip.microserve.com goes on:
+<br>
+&gt; Im curious   why do i see <TT>void main(void)</TT> so much?
+<p>
+I honestly don't know.
+<p>
+The first few times I ever saw <TT>void main()</TT>, it was clear that
+the programmer was trying to avoid warnings.  The program
+<p>
+<pre>
+	int main()
+	{
+	printf("Hello, world!\n");
+	exit(0);
+	}
+</pre>
+<p>
+does not return a value from <TT>main()</TT>, but it doesn't matter,
+because control flow never falls off the end of <TT>main()</TT>, because
+<TT>exit()</TT> never returns.  But the compiler usually doesn't know
+that <TT>exit()</TT> doesn't return, and may warn that "control reaches
+end of <TT>int</TT>-valued function without returning a value."  In the
+program
+<p>
+<pre>
+	int main()
+	{
+	printf("Hello, world!\n");
+	}
+</pre>
+<p>
+the compiler is likely to issue the same warning, and here it's
+perfectly appropriate, but the programmer may not care, if the
+program isn't ever to be executed in an environment where the
+exit status matters.  In either case, declaring <TT>main()</TT> as <TT>void</TT>
+effectively shuts off that particular warning message, but at the
+cost of making the program incorrect.  (Indeed, some compilers
+will issue other warnings when <TT>main()</TT> is misdeclared.)
+<p>
+It's because of this particular argument that the question
+currently known as 11.12 in the FAQ list is worded the way it is,
+but this line of reasoning is not sufficient to explain <TT>void
+main()</TT>'s unaccountable popularity today.  It's become some kind
+of a meme plague: the "popular" textbooks all use it, so hordes
+of unsuspecting C programmers learn it, and some of them go on to
+teach classes or write more books which then spread the virus.
+In fact, my initial supposition (outlined above) of why people
+might write <TT>void main()</TT> is now not only insufficient, it's almost
+completely forgotten!  Today, when people who use <TT>void main()</TT> are
+asked why they do, none of them ever mention shutting off
+warnings about <TT>main()</TT> not returning a value.  They all mumble
+something like "but everyone else uses it" or "but it works on my
+compiler" or (particularly in the case of misguided teachers and
+textbook authors) "that way we don't have to introduce the full
+complexity of return types right at first."  (This last
+justification is particularly specious, as we'll see.)
+<p>
+&gt; what exactly is it saying? and why does it work ?
+<p>
+It tends to work (even though it doesn't have to and is not
+guaranteed to) for a combination of three reasons:
+<p>
+<ul>
+<p>
+<li>
+1.
+Once upon a time, C did not have the <TT>void</TT> type.
+Functions which did not return values were declared
+(usually implicitly) as returning <TT>int</TT>, but did not
+actually return values, and their callers did not use
+the (nonexistent) return values.  That's why, even today,
+the ANSI Standard does not flatly prohibit falling off
+the end of a non-<TT>void</TT> function without executing a <TT>return</TT>
+statement, or issuing an expressionless return statement
+within such a function.  (The behavior is undefined only
+if the caller tries to use the value, and never requires
+a diagnostic.  Good compilers will emit warnings.)
+In the old days, it was up to the programmer to remember
+which functions returned values and which didn't,
+although this was of course one of the things which <TT>lint</TT>
+checked (and, for those few who use it, still checks).
+<p>
+<li>
+2.
+Partly because of #1, the actual low-level calling
+mechanisms for <TT>void</TT>-valued and <TT>int</TT>-valued functions are
+usually not different.  A <TT>void</TT>-valued function simply
+omits to place a value in the designated return value
+location, and the caller doesn't try to fetch a value
+from that location.  In these cases, the worst thing
+that happens when a function is incorrectly declared as
+<TT>void</TT> is that the caller gets a garbage return value.
+Misdeclaring <TT>main</TT> (or any function) as <TT>void</TT> will
+typically only result in catastrophic failures if values
+are returned on the stack: if the caller pops a value but
+the caller didn't push one, the caller may instead have
+popped something vital from the stack, such as a frame
+pointer or return address, such that when the caller
+later returns, chaos results.
+<p>
+<li>
+3.
+Since so much code (including the examples in some compiler
+manuals!) does misdeclare <TT>main()</TT> as <TT>void</TT>, compiler
+vendors pretty much have to arrange that it works.
+(Alas, this strategy is an "enabling" one; it allows the
+users of <TT>void main()</TT> to perpetuate their rationalizations.)
+Posters to comp.lang.c can arrogantly state that "Your
+code is broken.  Fix it.", but compiler vendors who
+believe that "the customer is always right" cannot
+(particularly if the vendor's offerings to date have
+permitted <TT>void main()</TT>).
+</ul>
+<p>
+(As an aside, these three reasons conspire to require
+nonstandard "<TT>pascal</TT>" keywords in compilers for environments where
+code written in C must call libraries written in Pascal, or vice
+versa.  I gather that many Pascal compilers <em>do</em> use different
+calling conventions for procedures and functions.  If C
+compilers didn't have to coddle broken code by making <TT>void</TT>-valued
+and <TT>int</TT>-valued functions compatible, they could arrange that
+<TT>void</TT>-valued functions were completely compatible with Pascal
+procedures.  Instead, a C program that calls a Pascal procedure
+must typically declare it as
+<p>
+<pre>
+	extern pascal void f();
+</pre>
+<p>
+or some such.  Similar arguments apply to "<TT>fortran</TT>" and "<TT>basic</TT>"
+keywords, and to fixed versus variable-length argument lists.)
+<p>
+&gt; also  if type <TT>int</TT> is implied and <TT>()</TT> is implied as an empty delaration (in ANSI)
+<br>
+&gt; why not    <TT>main()</TT>   (although ive never seen it)...
+<p>
+"Plain" <TT>main()</TT> is in fact pretty common.  When I taught
+introductory C programming, I used to leave the return type off
+of <TT>main()</TT> in examples, because was a distraction to have to
+explain what a function's return type is at all at first,
+particularly in a function like <TT>main()</TT> where it isn't obvious who
+the caller is or what would happen to the return value.  (Alas,
+a certain amount of handwaving is still required if the <TT>main()</TT>
+function includes an explicit <TT>return</TT> statement, as it must to
+keep all compilers quiet.)
+<p>
+We can see, then, that an instructor or textbook author who
+doesn't want to "introduce the full complexity of return types
+right at first" could and should demonstrate <TT>main()</TT> without an
+explicit return type, and that using <TT>void</TT> instead is doubly
+counterproductive.
+<p>
+The situation is completely different, by the way, with respect
+to a function's declared parameters.  The declaration
+<p>
+<pre>
+	extern main();
+</pre>
+<p>
+is an old-style declaration saying that <TT>main</TT> is a function taking
+unspecified (but fixed) arguments.  The <em>definition</em>
+<p>
+<pre>
+	main()
+	{
+	}
+</pre>
+<p>
+, on the other hand, is an old-style definition saying that <TT>main</TT>
+takes zero arguments.  Since the caller (as we saw earlier) is
+going to be passing two arguments to <TT>main()</TT>, how can we get away
+with this misdeclaration?
+<p>
+The answer is that <TT>main's</TT> parameter list is a very definite wart
+in Standard C.  Anywhere else, if a function is called with a
+number of arguments not matching its definition (and if the
+function does not accept a variable-length argument list), the
+behavior is undefined.  In this one case, however, <TT>main()</TT> is
+allowed to be defined as accepting either zero arguments or two,
+of type <TT>int</TT> and <TT>char **</TT>.  The reason for the wart is of course to
+support old code, but a wart it is, and it may require some
+compilers to treat a function named <TT>main</TT> specially.
+<p>
+&gt; is   <TT>return;</TT>    implied <TT>return 0;</TT>   ?
+<p>
+No.  A <TT>return</TT> statement without an expression returns no defined
+value, and is valid only in <TT>void</TT>-valued functions or in
+functions where the caller doesn't use the return value.
+<p>
+<address>
+<a href="http://www.eskimo.com/~scs/">Steve Summit</a>
+<br>
+<a href="mailto:scs@eskimo.com">scs@eskimo.com</a>
+</address>
+<p>
+<hr>
+<p>
+[
+Addendum:
+Despite the length of this article, it only barely gets around to
+explaining how, precisely, declaring <TT>main()</TT> as <TT>void</TT> could fail.
+Besides the problems of a garbage exit status being received by
+the calling environment, a more serious failure could occur if
+the compiler used different calling conventions for <TT>void</TT>- and
+<TT>int</TT>-valued functions.  If so, then for <TT>main()</TT> to push no return
+value on the stack, and for the caller to pop an <TT>int</TT> value that
+<TT>main()</TT> hadn't pushed, could conceivably "screw later uses of the
+stack up enough that the program could crash."]
+</body>
+</html>

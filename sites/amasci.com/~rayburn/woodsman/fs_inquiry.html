@@ -1,0 +1,90 @@
+<HTML>
+<HEAD>
+  <TITLE>Email Items Wanted</TITLE>
+ <SCRIPT>
+<!-- Hide from older browsers
+function StartForm() {
+   document.SELLME.FirstName.focus();
+}
+function CheckData(){
+	var email=document.SELLME.mailfrom.value;
+	if (email!="") {
+      alert("Form submitted successfully");
+      return true;
+   	} else {
+      	alert("Email address is a required field.");
+		document.SELLME.mailfrom.focus();
+  	    return false;
+   	}
+}
+//Stop hiding -->
+</SCRIPT>
+ 
+</HEAD>
+
+<BODY onload="StartForm();" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+
+<H3>Item Wanted</H3>
+<BR>
+Please indicate which of the listed items you are interested in purchasing. 
+<P>
+If nothing listed here is what you are looking for, feel free to inquire about availability. I often have offers to sell, and will be glad to put buyers and sellers together when there is a match. 
+
+<FORM NAME=SELLME onSubmit="return CheckData();" ACTION="http://cgi.eskimo.com/cgi-bin/mailback" METHOD="POST" ENCTYPE="application/x-www-form-urlencoded">
+<INPUT TYPE="HIDDEN" NAME="mailitto" SIZE="-1" VALUE="rayburn@eskimo.com">
+<INPUT TYPE="HIDDEN" NAME="subject" SIZE="-1" VALUE="item for sale">
+<!INPUT TYPE="HIDDEN" NAME="namefrom" SIZE="-1" VALUE="lastname">
+
+
+<!following two lines added>
+<INPUT TYPE="HIDDEN" NAME="namefrom" SIZE="-1" VALUE="">
+<INPUT TYPE="HIDDEN" NAME="emailaddr" SIZE="-1" VALUE="">
+
+
+
+<TABLE BORDER=0>
+<TR>
+	<TD WIDTH=10%><B>First Name:</B>
+	</TD>
+	<TD COLSPAN=3><INPUT NAME=FirstName SIZE=15> 
+       <B>Last Name:</B> <INPUT NAME=Lastname SIZE=15 VALUE="" onChange="this.form.namefrom.value=this.value;">
+	</TD>
+</TR>
+<TR>
+   	<TD VALIGN=TOP><B>Comments:</B>
+	</TD>
+   	<TD COLSPAN=3>
+	<TEXTAREA ROWS=14 COLS=70 NAME=Comments WRAP=VIRTUAL></TEXTAREA>
+	</TD>
+</TR>
+<TR>
+	<TD><B>E-mail Address:</B>	</TD>
+	<TD COLSPAN=3 ><INPUT TYPE="TEXT" NAME="mailfrom" SIZE="40" MAXLENGTH="255" VALUE="" onBlur="this.form.emailaddr.value=this.value;"><FONT COLOR=RED>(REQUIRED)</FONT>
+
+	</TD>
+</TR>
+
+<TR>
+   	<TD COLSPAN=4><HR></TD>
+</TR>
+<TR>
+<TD COLSPAN=2>Add me to the Woodsman email list:</TD>
+<TD><INPUT type="radio" name="MLIST" value="Yes" checked>Yes<BR>
+<TD><INPUT type="radio" name="MLIST" >No<BR>
+<TD>
+</TR>
+<TR>
+   <TD COLSPAN=4 ALIGN=CENTER>
+   <INPUT TYPE=SUBMIT VALUE="Click to send mail">
+   <INPUT TYPE=RESET VALUE="Click to cancel or reset">
+   </TD>
+</TR> 
+</TABLE></CENTER>
+</FORM>
+
+
+
+<HR>
+<P><SMALL>Created on ... July 19, 2000</SMALL></P>
+</BODY>
+</HTML>

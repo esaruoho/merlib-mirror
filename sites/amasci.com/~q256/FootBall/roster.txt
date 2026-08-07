@@ -1,0 +1,688 @@
+FFL Roster 
+
+ Last Updated on 
+Sat Dec 14 14:11:51 2002
+
+ Annotations: IR - Injured Reserve, INACT - Inactive Player, FRAN - Franchise Player 
+
+ Rainbow Warriors 
+
+ Qb 
+ Maddox, Tommy (QB-Pit) 
+
+ Couch, Tim (QB-Cle) 
+
+ Wr 
+ Dugans, Ron (WR-Cin) 
+
+ Ismail, Qadry (WR-Ind) 
+
+ Smith, Rod (WR-Den) 
+
+ Conway, Curtis (WR-SD) 
+
+ Lelie, Ashley (WR-Den) 
+
+ Jurevicius, Joe (WR-TB) 
+
+ Rb 
+ Gordon, Lamar (RB-StL) 
+
+ Faulk, Marshall (RB-StL) 
+
+ Mack, Stacey (RB-Jac) 
+
+ Portis, Clinton (RB-Den) 
+
+ Te 
+ Bruener, Mark (TE-Pit) 
+
+ Becht, Anthony (TE-NYJ) 
+
+ K 
+ Nedney, Joe (K-Ten) 
+
+ Peterson, Todd (K-Pit) 
+
+ Def 
+ Kansas City (DEF-KC) 
+
+ San Diego (DEF-SD) 
+
+ FRAN 
+ Brees, Drew (QB-SD) 
+
+ IR 
+ Holcomb, Kelly (QB-Cle) 
+
+ Young Guns IV 
+
+ Qb 
+ Bulger, Marc (QB-StL) 
+
+ Harrington, Joey (QB-Det) 
+
+ Wr 
+ Bruce, Isaac (WR-StL) 
+
+ Driver, Donald (WR-GB) 
+
+ Holt, Torry (WR-StL) 
+
+ Taylor, Travis (WR-Bal) 
+
+ Gardner, Rod (WR-Was) 
+
+ Rb 
+ Taylor, Fred (RB-Jac) 
+
+ Williams, Ricky (RB-Ind) 
+
+ Lewis, Jamal (RB-Bal) 
+
+ Pittman, Michael (RB-TB) 
+
+ Dayne, Ron (RB-NYG) 
+
+ Te 
+ Dilger, Ken (TE-TB) 
+
+ Conwell, Ernie (TE-StL) 
+
+ K 
+ Carney, John (K-NO) 
+
+ Bryant, Matt (K-NYG) 
+
+ Def 
+ Baltimore (DEF-Bal) 
+
+ New Orleans (DEF-NO) 
+
+ IR 
+ Warner, Kurt (QB-StL) 
+
+ INACT 
+ Morris, Maurice (RB-Sea) 
+
+ Killer Coyotes 
+
+ Qb 
+ Gannon, Rich (QB-Oak) 
+
+ Kitna, Jon (QB-Cin) 
+
+ Wr 
+ Rice, Jerry (WR-Oak) 
+
+ Porter, Jerry (WR-Oak) 
+
+ Finneran, Brian (WR-Atl) 
+
+ Galloway, Joey (WR-Dal) 
+
+ Stokes, J.J. (WR-SF) 
+
+ Horn, Joe (WR-NO) 
+
+ Rb 
+ George, Eddie (RB-Ten) 
+
+ Anderson, Mike (RB-Den) 
+
+ Green, Ahman (RB-GB) 
+
+ Faulk, Kevin (RB-NE) 
+
+ Te 
+ Jolley, Doug (TE-Oak) 
+
+ Johnson, Eric (TE-SF) 
+
+ K 
+ Vanderjagt, Mike (K-Ind) 
+
+ Edinger, Paul (K-Chi) 
+
+ Def 
+ Atlanta (DEF-Atl) 
+
+ Jacksonville (DEF-Jac) 
+
+ FRAN 
+ Stewart, Kordell (QB-Pit) 
+
+ IR 
+ McNabb, Donovan (QB-Phi) 
+
+ The Wrack 
+
+ Qb 
+ Manning, Peyton (QB-Ind) 
+
+ Testaverde, Vinny (QB-NYJ) 
+
+ Wr 
+ Patten, David (WR-NE) 
+
+ Pinkston, Todd (WR-Phi) 
+
+ Jenkins, MarTay (WR-Ari) 
+
+ Schroeder, Bill (WR-Det) 
+
+ Proehl, Ricky (WR-StL) 
+
+ Westbrook, Michael (WR-Cin) 
+
+ Rb 
+ Hearst, Garrison (RB-SF) 
+
+ White, Jamel (RB-Cle) 
+
+ Smith, Lamar (RB-Car) 
+
+ Canidate, Trung (RB-StL) 
+
+ Te 
+ Carswell, Dwayne (TE-Den) 
+
+ Pollard, Marcus (TE-Ind) 
+
+ K 
+ Cortez, Jose (K-Was) 
+
+ Rackers, Neil (K-Cin) 
+
+ Def 
+ Chicago (DEF-Chi) 
+
+ Carolina (DEF-Car) 
+
+ Old Dust 
+
+ Qb 
+ Griese, Brian (QB-Den) 
+
+ Hasselbeck, Matt (QB-Sea) 
+
+ Wr 
+ Carter, Cris (WR-Mia) 
+
+ Thompson, Derrius (WR-Was) 
+
+ Chambers, Chris (WR-Mia) 
+
+ McCardell, Keenan (WR-TB) 
+
+ Randle El, Antwaan (WR-Pit) 
+
+ Walker, Javon (WR-GB) 
+
+ Rb 
+ Smith, Antowain (RB-NE) 
+
+ Zereoue, Amos (RB-Pit) 
+
+ Watson, Kenny (RB-Was) 
+
+ Alexander, Shaun (RB-Sea) 
+
+ Te 
+ McGee, Tony (TE-Dal) 
+
+ Wycheck, Frank (TE-Ten) 
+
+ K 
+ Feely, Jay (K-Atl) 
+
+ Hollis, Mike (K-Buf) 
+
+ Def 
+ Tennessee (DEF-Ten) 
+
+ Oakland (DEF-Oak) 
+
+ FRAN 
+ Miller, Jim (QB-Chi) 
+
+ IR 
+ Dyson, Kevin (WR-Ten) 
+
+ Terrell, David (WR-Chi) 
+
+ Team Wheel 
+
+ Qb 
+ Bledsoe, Drew (QB-Buf) 
+
+ Collins, Kerry (QB-NYG) 
+
+ Wr 
+ Johnson, Keyshawn (WR-TB) 
+
+ Johnson, Chad (WR-Cin) 
+
+ Owens, Terrell (WR-SF) 
+
+ Stokley, Brandon (WR-Bal) 
+
+ Reed, Josh (WR-Buf) 
+
+ Davis, Andre' (WR-Cle) 
+
+ Rb 
+ Shipp, Marcel (RB-Ari) 
+
+ Schlesinger, Cory (RB-Det) 
+
+ Green, William (RB-Cle) 
+
+ Jones, Thomas (RB-Ari) 
+
+ Te 
+ Shockey, Jeremy (TE-NYG) 
+
+ Mili, Itula (TE-Sea) 
+
+ K 
+ Lindell, Rian (K-Sea) 
+
+ Christie, Steve (K-SD) 
+
+ Def 
+ Pittsburgh (DEF-Pit) 
+
+ San Francisco (DEF-SF) 
+
+ IR 
+ Boston, David (WR-Ari) 
+
+ INACT 
+ Centers, Larry (RB-Buf) 
+
+ Annihilators 
+
+ Qb 
+ Martin, Jamie (QB-StL) 
+
+ McNair, Steve (QB-Ten) 
+
+ Wr 
+ Harrison, Marvin (WR-Ind) 
+
+ Booker, Marty (WR-Chi) 
+
+ Coles, Laveranues (WR-NYJ) 
+
+ Hilliard, Ike (WR-NYG) 
+
+ Morgan, Quincy (WR-Cle) 
+
+ Wayne, Reggie (WR-Ind) 
+
+ Rb 
+ Martin, Curtis (RB-NYJ) 
+
+ Allen, James (RB-Hou) 
+
+ Smith, Emmitt (RB-Dal) 
+
+ Barber, Tiki (RB-NYG) 
+
+ Te 
+ Sharpe, Shannon (TE-Den) 
+
+ Alexander, Stephen (TE-SD) 
+
+ K 
+ Andersen, Morten (K-KC) 
+
+ Hall, John (K-NYJ) 
+
+ Def 
+ Denver (DEF-Den) 
+
+ Washington (DEF-Was) 
+
+ FRAN 
+ Feeley, A.J. (QB-Phi) 
+
+ INACT 
+ Jordan, LaMont (RB-NYJ) 
+
+ Crusaders 
+
+ Qb 
+ Lucas, Ray (QB-Mia) 
+
+ Johnson, Brad (QB-TB) 
+
+ Wr 
+ Johnson, Kevin (WR-Cle) 
+
+ Thrash, James (WR-Phi) 
+
+ Toomer, Amani (WR-NYG) 
+
+ Stallworth, Donte' (WR-NO) 
+
+ Johnson, Patrick (WR-Jac) 
+
+ Hayes, Donald (WR-NE) 
+
+ Rb 
+ Mungro, James (RB-Ind) 
+
+ Barlow, Kevan (RB-SF) 
+
+ Foster, DeShaun (RB-Car) 
+
+ Williams, Ricky (RB-Mia) 
+
+ Te 
+ Dudley, Rickey (TE-TB) 
+
+ Sloan, David (TE-NO) 
+
+ K 
+ Wilkins, Jeff (K-StL) 
+
+ Anderson, Gary (K-Min) 
+
+ Def 
+ New York (DEF-NYG) 
+
+ New York (DEF-NYJ) 
+
+ FRAN 
+ Fiedler, Jay (QB-Mia) 
+
+ INACT 
+ Kasay, John (K-Car) 
+
+ Turboprops 
+
+ Qb 
+ Garcia, Jeff (QB-SF) 
+
+ Pennington, Chad (QB-NYJ) 
+
+ Wr 
+ Jackson, Darrell (WR-Sea) 
+
+ Chrebet, Wayne (WR-NYJ) 
+
+ McCaffrey, Ed (WR-Den) 
+
+ Bennett, Drew (WR-Ten) 
+
+ Brown, Tim (WR-Oak) 
+
+ Gaffney, Jabar (WR-Hou) 
+
+ Rb 
+ Garner, Charlie (RB-Oak) 
+
+ Dillon, Corey (RB-Cin) 
+
+ Hambrick, Troy (RB-Dal) 
+
+ Levens, Dorsey (RB-Phi) 
+
+ James, Edgerrin (RB-Ind) 
+
+ Te 
+ Crumpler, Alge (TE-Atl) 
+
+ Jones, Freddie (TE-Ari) 
+
+ K 
+ Vinatieri, Adam (K-NE) 
+
+ Longwell, Ryan (K-GB) 
+
+ Def 
+ Cleveland (DEF-Cle) 
+
+ Arizona (DEF-Ari) 
+
+ INACT 
+ Shaw, Bobby (WR-Jac) 
+
+ Namean Lions 
+
+ Qb 
+ Brady, Tom (QB-NE) 
+
+ Green, Trent (QB-KC) 
+
+ Wr 
+ Streets, Tai (WR-SF) 
+
+ Mason, Derrick (WR-Ten) 
+
+ Ward, Hines (WR-Pit) 
+
+ Alexander, Derrick (WR-Min) 
+
+ Engram, Bobby (WR-Sea) 
+
+ Price, Peerless (WR-Buf) 
+
+ Rb 
+ Tomlinson, LaDainian (RB-SD) 
+
+ Johnson, Leon (RB-Chi) 
+
+ Stewart, James (RB-Det) 
+
+ Fisher, Tony (RB-GB) 
+
+ Te 
+ Miller, Billy (TE-Hou) 
+
+ Gonzalez, Tony (TE-KC) 
+
+ K 
+ Gramatica, Martin (K-TB) 
+
+ Gramatica, Bill (K-Ari) 
+
+ Def 
+ Tampa Bay (DEF-TB) 
+
+ Houston (DEF-Hou) 
+
+ Drunken Bastards 
+
+ Qb 
+ Brunell, Mark (QB-Jac) 
+
+ Matthews, Shane (QB-Was) 
+
+ Wr 
+ Muhammad, Muhsin (WR-Car) 
+
+ Moss, Randy (WR-Min) 
+
+ Gadsden, Oronde (WR-Mia) 
+
+ Smith, Jimmy (WR-Jac) 
+
+ Foster, Larry (WR-Det) 
+
+ Anderson, Scotty (WR-Det) 
+
+ Rb 
+ Davis, Stephen (RB-Was) 
+
+ Cloud, Mike (RB-KC) 
+
+ Wells, Jonathan (RB-Hou) 
+
+ Staley, Duce (RB-Phi) 
+
+ Te 
+ Walls, Wesley (TE-Car) 
+
+ Lewis, Chad (TE-Phi) 
+
+ K 
+ Mare, Olindo (K-Mia) 
+
+ Seder, Tim (K-Jac) 
+
+ Def 
+ Dallas (DEF-Dal) 
+
+ Green Bay (DEF-GB) 
+
+ Gofaking Packers 
+
+ Qb 
+ Favre, Brett (QB-GB) 
+
+ Vick, Michael (QB-Atl) 
+
+ Wr 
+ Bryant, Antonio (WR-Dal) 
+
+ Robinson, Koren (WR-Sea) 
+
+ Northcutt, Dennis (WR-Cle) 
+
+ Boerigter, Marc (WR-KC) 
+
+ Glenn, Terry (WR-GB) 
+
+ Burress, Plaxico (WR-Pit) 
+
+ Rb 
+ McAllister, Deuce (RB-NO) 
+
+ Alstott, Mike (RB-TB) 
+
+ Keaton, Curtis (RB-NO) 
+
+ Williams, Moe (RB-Min) 
+
+ Te 
+ Brady, Kyle (TE-Jac) 
+
+ Franks, Bubba (TE-GB) 
+
+ K 
+ Akers, David (K-Phi) 
+
+ Stover, Matt (K-Bal) 
+
+ Def 
+ St. Louis (DEF-StL) 
+
+ Buffalo (DEF-Buf) 
+
+ FRAN 
+ Chamberlain, Byron (TE-Min) 
+
+ IR 
+ Davenport, Najeh (RB-GB) 
+
+ INACT 
+ Ferguson, Robert (WR-GB) 
+
+ The Sluts 
+
+ Qb 
+ Culpepper, Daunte (QB-Min) 
+
+ Peete, Rodney (QB-Car) 
+
+ Wr 
+ Bates, D'Wayne (WR-Min) 
+
+ Branch, Deion (WR-NE) 
+
+ Kennison, Eddie (WR-KC) 
+
+ Smith, Steve (WR-Car) 
+
+ White, Dez (WR-Chi) 
+
+ Brown, Troy (WR-NE) 
+
+ Rb 
+ Bennett, Michael (RB-Min) 
+
+ Brown, Dee (RB-Car) 
+
+ Bettis, Jerome (RB-Pit) 
+
+ Henry, Travis (RB-Buf) 
+
+ Te 
+ McMichael, Randy (TE-Mia) 
+
+ Ricks, Mikhael (TE-Det) 
+
+ K 
+ Elam, Jason (K-Den) 
+
+ Hanson, Jason (K-Det) 
+
+ Def 
+ Philadelphia (DEF-Phi) 
+
+ Indianapolis (DEF-Ind) 
+
+ FRAN 
+ Redman, Chris (QB-Bal) 
+
+ INACT 
+ Robinson, Marcus (WR-Chi) 
+
+ Hold Outs 
+
+ Qb 
+ Carr, David (QB-Hou) 
+
+ Brooks, Aaron (QB-NO) 
+
+ Wr 
+ Bradford, Corey (WR-Hou) 
+
+ Pathon, Jerome (WR-NO) 
+
+ Moulds, Eric (WR-Buf) 
+
+ Hakim, Az-Zahir (WR-Det) 
+
+ Morton, Johnnie (WR-KC) 
+
+ Green, Jacquez (WR-Det) 
+
+ Rb 
+ Duckett, T.J. (RB-Atl) 
+
+ Betts, Ladell (RB-Was) 
+
+ Dunn, Warrick (RB-Atl) 
+
+ Holmes, Priest (RB-KC) 
+
+ Te 
+ Owens, John (TE-Det) 
+
+ Heap, Todd (TE-Bal) 
+
+ K 
+ Dawson, Phil (K-Cle) 
+
+ Janikowski, Sebastian (K-Oak) 
+
+ Def 
+ Miami (DEF-Mia) 
+
+ New England (DEF-NE) 
+
+ roster.txt This is a text version of this roster

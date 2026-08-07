@@ -1,0 +1,278 @@
+---
+title: "APAS Anonymous Remailer Use [FAQ 7/8]: Nyms"
+source_domain: amasci.com
+source_path: ~turing/remailer/FAQ/faq.7.html
+order: 9144
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:17:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# APAS Anonymous Remailer Use [FAQ 7/8]: Nyms
+
+*Source page: `~turing/remailer/FAQ/faq.7.html`*
+
+[Up: APAS Anonymous Remailer Use \[FAQ\]](./)\
+[Next: APAS Anonymous Remailer Use \[FAQ 8/8\]: Troubleshooting](./faq.8.html)\
+[Previous: APAS Anonymous Remailer Use \[FAQ 6/8\]: Software](./faq.6.html)
+
+------------------------------------------------------------------------
+
+# APAS Anonymous Remailer Use \[FAQ 7/8\]: Nyms
+
+- [Introduction](#0)
+- [\[FAQ 7.1\] How is a nym different from anon. posting?](#1)
+- [\[FAQ 7.2\] How do I get a particular nym server's key?](#2)
+- [\[FAQ 7.3\] Why do alt.anonymous.messages subjects look random?](#3)
+- [\[FAQ 7.4\] Why are nyms such a bitch to set up?](#4)
+- [\[FAQ 7.5\] How can I ensure nym creation goes smoothly?](#5)
+
+<span id="0"></span>
+
+------------------------------------------------------------------------
+
+    Subject: APAS Anonymous Remailer Use [FAQ 7/8]: Nyms
+
+    This is the seventh of eight parts of a list of frequently-asked
+    questions and their answers regarding anonymous remailer use.  This
+    part introduces nyms.
+
+    This FAQ is provided "as is" without any express or implied
+    warranties.  While every effort has been taken to ensure the accuracy
+    of the information contained in these message digests, the maintainer
+    assumes no responsibility for errors or omissions, or for damages
+    resulting from the use of the information contained herein.  This FAQ
+    is provided for information only; reference to a Web page does not
+    constitute endorsement of that page's content.
+
+<span id="1"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 7.1] How is a nym different from anon. posting?
+
+    A nym account is like a forwarding email address except that it offers
+    the additional feature of anonymity. Not even the nym server operator
+    knows who you are! You set up an account with one of the three nym
+    servers (see #3.2 and #7.2) by sending a config message. In it you
+    provide a newly created PGP public key for your chosen nym (say,
+    boozehound@redneck.gacracker.org), some configuration options (like
+    +signsend, -fingerkey, +nobcc, etc...) and finally a reply block so
+    the nym server can send any replies back to you through a chain of
+    remailers of your own choosing, or if you prefer, to a newsgroup like
+    alt.anonymous.messages or alt.anonymous.
+
+    Nyms are different than just sending through anonymous remailers. When
+    posting through a simple remailer or chain of remailers there is no
+    way for anyone to reply to your message via e-mail unless you include
+    a repliable address such as a Hotmail account in the body of the
+    message, or signature. Additionally, most remailers do not allow any
+    type of From: header to be posted, so your message will appear to come
+    from 'Anonymous', 'Anonymous Sender' or similar. When posting through
+    a nym account, the reply-able nym address remains intact in the
+    message headers. Reply-able AND anonymous!
+
+    Setting up a nym can be done manually (with PGP and a text editor) or
+    through software like JBN or Private Idaho. Either way you should read
+    up on the process before trying your hand at it. Here are some very
+    good tutorials about nym creation:
+
+    Nym creation and use for mere mortals
+    <http://www.stack.nl/~galactus/remailers/nym.html>
+
+    Using JBN:
+    <http://www.skuz.net/potatoware/jbn2/JBNH-en.htm#NymBookCreate>
+
+    Also:
+    <http://mixmaster.shinn.net/nym/index.html>
+    <http://anon.xg.nu/nym_doc.html>
+
+<span id="2"></span>
+
+------------------------------------------------------------------------
+
+    Date: 21 Mar 2001 06:21:16 GMT
+    From: turing+apas-user-faq@eskimo.com (Computer Cryptology)
+    Subject: [FAQ 7.2] How do I get a particular nym server's key?
+    Message-ID: <999h8s$b99$1@eskinews.eskimo.com>
+    Summary: Nym servers have separate addresses for keys.
+
+    [This text is the original FAQ entry updated with a summary of the
+    thread with "Subject: Re: ... keys for <config@nym.xganon.com> ...?",
+    particularly the post with Message-ID above.]
+
+    The method used for remailers--sending an email message to the
+    remailer address with "Subject: remailer-key"--won't work with the
+    config and send addresses of nym servers.  These addresses (e.g.,
+    <config@nym.xganon.com> or <config@mail.xganon.org>) will reject any
+    plaintext message or any encrypted message that does not begin with
+    "Config:" (cf <http://anon.xg.nu/nym_doc.html>).  Each of the nym
+    servers has a separate email address that responds to remailer-key
+    requests.  Send a blank email message to an address like this:
+
+        <remailer-key@your.favorite.nymserver>
+
+    The addresses used to check the keys on the CC site are as follows on
+    the date of this FAQ:
+
+        nym <remailer-key@nym.alias.net>
+        redneck <remailer-key@redneck.gacracker.org>
+        xgnym2  <remailer-key@nym.xganon.com>
+
+    (Check <http://www.eskimo.com/~turing/remailer/keys/nym-key.lis> for
+    changes.)
+
+    Consider when choosing a nym server:
+
+    <NYM.ALIAS.NET> hasn't changed it's nym key since 1996!  Draw your own
+    conclusions about whether this key might have been compromised since
+    that time.
+
+    <REDNECK.GACRACKER.ORG> uses it's own <remailer@gacracker.org> to send
+    outgoing nym mail and that remailer is middle.
+
+    N.A.N and <NYM.XGANON.COM> send through their respective local
+    remailers, and both these are NOT middle.
+
+<span id="3"></span>
+
+------------------------------------------------------------------------
+
+    Date: Tue, 10 Apr 2001 18:58:46 GMT
+    From: hung@plainmail.com (Saddle)
+    Subject: [FAQ 7.3] Why do alt.anonymous.messages subjects look random?
+    Message-ID: <td6lu4dv2oi0e6@corp.supernews.com>
+    Summary: Some subjects are encrypted MD5 hashes of the real subject.
+
+    [The text below is a summary of posts by "Ahab", Saddle
+    <hung@plainmail.com> and Doc.Cypher from the thread "RANDOM STRINGS"
+    containing the "Message-ID:" above.]
+
+    On Mon, 9 Apr 2001, "Public <Anonymous_Account>" <remailer@xganon.com>
+    wrote:
+    > Most of the messages in <alt.anonymous.messages> are PGP encrypted
+    > but what are the random strings of numbers and letters which appear
+    > in the subject line?
+
+    Some people configure their nym accounts to have incoming email
+    messages delivered to newsgroup <alt.anonymous.messages> (AAM) instead
+    of to an email address.  To find their messages among the many in AAM
+    without disclosing their identity, the "Subject:" line contains
+    information encrypted to a key only they know.
+
+    This process is automated if you use Jack B Nymble (JBN).  A freeware
+    DLL (PSESUB32.DLL) called the Esub plugin adds encrypted subject
+    scanning support to JBN versions 2.1.d and later, and Esub support to
+    Reliable versions 1.0.1 and later:
+
+        <http://www.skuz.net/potatoware/esubplug.html>
+
+    RProcess included the Esub plugin with JBN2.1.4.
+
+    An more detailed explanation is in the Reliable User's Manual:
+
+    <http://www.theinternet.cc/potatoware/jbn2/JBNR-en.htm#dirEncryptSubject>
+
+    According to the Reliable User's Manual, the "random" strings of
+    numbers and letters which appear in the "Subject:" line are encrypted
+    MD5 hashes of the final "Subject:" line.  That is, the remailer client
+    calculates an MD5 hash from the "Subject:" line(which might be, e.g.,
+    "ATTN: Dave") in the final or hash headers (below the "##").  This MD5
+    hash that results from this calculation is likely to be unique to that
+    particular "Subject:" line.  The remailer client then encrypts the MD5
+    hash using conventional (symmetric) encryption, specifically IDEA.
+    The encryption and decryption key is the passphrase given for the
+    "Encrypt-Subject:" directive.
+
+<span id="4"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 7.4] Why are nyms such a bitch to set up? 
+
+    Actually they aren't a bitch to set up. The difficulties usually begin
+    when automatic client software is being used with dead remailers,
+    stale remailer keys, remailer chains that are broken, or other factors
+    that could be determined in advance by the user if he took the time to
+    verify that these things were not going to be problems before trying
+    to start setting up a nym. That is to say:
+
+    + If you use stale remailer keys, the remailers will not be able to
+    process your message.
+
+    + If you use dead remailers, either when sending to nym, or in your
+    reply block chain, then your nym will not be setup at all, or even
+    worse, it will appear in the list as created but not work and not
+    return any clues as to why not.
+
+    + If you test your reply block before trying to use it with a nym, and
+    it does not work for you, there is no way it will work for the
+    nymserver either. But since you didn't bother to create it by hand and
+    test it yourself you have no way of knowing whether it works or not.
+    Now you can see you have a list of possible problems that may be
+    working alone or in combination against you. But since you didn't
+    verify each one to be non-problematic in and of itself, you have no
+    way to know why your nym isn't established or not working. This is the
+    "bitch" and it is of your own creating.
+
+    Of course, automatic nym creation software knows nothing about the
+    current state of the remailer network, which remailers have changed
+    keys recently, which remailers have problems chaining to other
+    remailers, etc. So by using it without independently verifying what it
+    is doing for you, you place yourself at its mercy. Don't blame the
+    software since it rarely if ever makes technical errors when creating
+    nyms.
+
+<span id="5"></span>
+
+------------------------------------------------------------------------
+
+    Subject: [FAQ 7.5] How can I ensure nym creation goes smoothly?
+
+    Here is a list of things you should do before attempting to assemble a
+    nym creation message, whether by hand or using creation client
+    software:
+
+    + Verify that each remailer you intend to use is working. Check the
+    stats pages to see how they are doing.
+
+    + Look at the broken chains reports. Don't use remailer chains that
+    are known to be broken.
+
+    + Make sure you have the current remailer keys.
+
+    + Send yourself at least one message through each remailer you intend
+    to use. If you don't get them back find out why and fix the problem.
+
+    + Once you are sure each remailer you intend to use is working
+    individually, decide on which ones you will use in your chain to send
+    your nym creation message into the nym server. Construct a chained
+    remailer message using these remailers with your own address as the
+    recipient and send it off. If it comes back, that chain is verified to
+    be working for you. If not, find out why or select another chain and
+    test again.
+
+    + Repeat the above for the remailers you will be using for your reply
+    block chain. If they are the same as the ones you use above, you are
+    done testing.
+
+    NOW you can create your nym using automatic client software and at
+    least you'll know that if the nym doesn't work the problem lies
+    between the nym server and the first remailer in your reply block
+    chain, or some enhanced nym feature you selected to use is tripping
+    the process up somehow. Avoid using these at first until you get a
+    working nym, even if it is only a throwaway test nym. Then move on to
+    the more complex configurations.
+
+------------------------------------------------------------------------
+
+[Up: APAS Anonymous Remailer Use \[FAQ\]](./)\
+[Next: APAS Anonymous Remailer Use \[FAQ 8/8\]: Troubleshooting](./faq.8.html)\
+[Previous: APAS Anonymous Remailer Use \[FAQ 6/8\]: Software](./faq.6.html)
+
+------------------------------------------------------------------------
+
+Computer Cryptology \<<turing@eskimo.com>\>\
+Generated by [digest2html.pl](http://www-viz.tamu.edu/~sgi-faq/tools/), 2001-12-02

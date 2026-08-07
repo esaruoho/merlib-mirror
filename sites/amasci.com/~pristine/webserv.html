@@ -1,0 +1,1644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="puremac.css">
+<link rel="shortcut icon" href="http://www.pure-mac.com/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pure-mac.com/puremac.xml">
+<title>Pure Mac: Web Server - Software for Macintosh</title>
+</head>  
+<a href="http://www.pure-mac.com/"><img src="images/puremacsm.gif" align=right width="88" height="20" border="0" alt="Pure Mac"></a>
+<center>
+<table style="text-align: left; width: 80%;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+//2007-02-15: Web Development 300x250 ATF
+google_ad_channel = "1954227270";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+<td>
+<center><h1>Web Server</h1>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 90;
+google_ad_format = "160x90_0ads_al";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "008000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table border="0" bgcolor="#ffffff">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+</td>
+<td nowrap="nowrap">
+<input type="hidden" name="domains" value="Pure-mac.com">
+<input type="text" name="q" size="20" maxlength="255" value="">
+<input type="submit" name="sa" value="Google Search">
+</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="">
+<font size="-1" color="#000000">Web</font>
+</td>
+<td>
+<input type="radio" name="sitesearch" value="Pure-mac.com" checked="checked">
+<font size="-1" color="#000000">Pure-Mac.com</font>
+</td>
+</tr>
+</table>
+<input type="hidden" name="client" value="pub-9373990431833662">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:184;L:http://www.pure-mac.com/puremac.gif;S:http://;FORID:1">
+<input type="hidden" name="hl" value="en">
+</td></tr></table>
+</form>
+<!-- SiteSearch Google -->
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<hr>
+<center>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr>
+<td valign=middle align=center><b>Dynamic DNS</b></td>
+<td valign=middle align=center><b>Databases</b></td>
+<td valign=middle align=center><b>eCommerce</b></td>
+<td valign=middle align=center><b>Log Analyzers</b></td>
+<td valign=middle align=center><b>Servers</b></td>
+</tr>
+<tr>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#dnsupdate">DNSUpdate</a></td></tr>
+<tr><td valign=top align=left><a href="#dyndnsupdater">DynDNS Updater</a></td></tr>
+<tr><td valign=top align=left><a href="#mnoip">No-IP</a></td></tr>
+<tr><td valign=top align=left><a href="#staticcharge">StaticCharge</a></td></tr>
+<tr><td valign=top align=left><center><b>Search Engines</b></center></td></tr>
+<tr><td valign=top align=left><a href="#amberfish">Amberfish</a></td></tr>
+<tr><td valign=top align=left><a href="#booleansearch">Boolean Search</a></td></tr>
+<tr><td valign=top align=left><a href="#homepagesearchengine">HomepageSearchEngine</a></td></tr>
+<tr><td valign=top align=left><a href="#htdig">ht://Dig</a></td></tr>
+<tr><td valign=top align=left><a href="#mnogosearch">mnoGoSearch</a></td></tr>
+<tr><td valign=top align=left><a href="#swishe">Swish-e</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#4d">4th Dimension</a></td></tr>
+<tr><td valign=top align=left><a href="#filemaker">Filemaker</a></td></tr>
+<tr><td valign=top align=left><a href="#mysql">MySQL</a></td></tr>
+<tr><td valign=top align=left><a href="#openbase">OpenBase</a></td></tr>
+<tr><td valign=top align=left><a href="#postresql">PostgreSQL</a></td></tr>
+<tr><td valign=top align=left><center><b>Web Programming</b></center></td></tr>
+<tr><td valign=top align=left><a href="#basaone">BasaOne</a></td></tr>
+<tr><td valign=top align=left><a href="#coldfusion">ColdFusion</a></td></tr>
+<tr><td valign=top align=left><a href="#lasso">Lasso</a></td></tr>
+<tr><td valign=top align=left><a href="#php">PHP</a></td></tr>
+<tr><td valign=top align=left><a href="#ruby">Ruby</a></td></tr>
+<tr><td valign=top align=left><a href="#rubyonrails">Ruby on Rails</a></td></tr>
+<tr><td valign=top align=left><a href="#webobjects">WebObjects</a></td></tr>
+<tr><td valign=top align=left><a href="#zendstudio">Zend Studio</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#4dbusinesskit">4D Business Kit</a></td></tr>
+<tr><td valign=top align=left><a href="#oscommerce">osCommerce</a></td></tr>
+<tr><td valign=top align=left><center><b>Forums</b></center></td></tr>
+<tr><td valign=top align=left><a href="#phpbb">phpBB</a></td></tr>
+<tr><td valign=top align=left><a href="#simpleforum">SimpleForum</a></td></tr>
+<tr><td valign=top align=left><a href="#smf">Simple Machines Forum</a></td></tr>
+<tr><td valign=top align=left><center><b>Miscellaneous</b></center></td></tr>
+<tr><td valign=top align=left><a href="#acgidispatcher">acgi dispatcher</a></td></tr>
+<tr><td valign=top align=left><a href="#tomcat">Apache TomCat</a></td></tr>
+<tr><td valign=top align=left><a href="#gallery">Gallery</a></td></tr>
+<tr><td valign=top align=left><a href="#mediawiki">MediaWiki</a></td></tr>
+<tr><td valign=top align=left><a href="#slooze">Slooze</a></td></tr>
+<tr><td valign=top align=left><a href="#weblock">Weblock</a></td></tr>
+<tr><td valign=top align=left><a href="#wordpress">WordPress</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#analog">Analog</a></td></tr>
+<tr><td valign=top align=left><a href="#funnelweb">Funnel Web</a></td></tr>
+<tr><td valign=top align=left><a href="#sawmill">Sawmill</a></td></tr>
+<tr><td valign=top align=left><a href="#summary">Summary</a></td></tr>
+<tr><td valign=top align=left><a href="#trafficreport">Traffic Report</a></td></tr>
+<tr><td valign=top align=left><a href="#webalizer">Webalizer</a></td></tr>
+<tr><td valign=top align=left><center><b>Monitors</b></center></td></tr>
+<tr><td valign=top align=left><a href="#dejalsimon">Dejal Simon</a></td></tr>
+<tr><td valign=top align=left><a href="#netcheck">NetCheck</a></td></tr>
+<tr><td valign=top align=left><a href="#intermapper">Intermapper</a></td></tr>
+<tr><td valign=top align=left><a href="#websitestatus">WebsiteStatus</a></td></tr>
+<tr><td valign=top align=left><center><b>Proxy</b></center></td></tr>
+<tr><td valign=top align=left><a href="#squidman">SquidMan</a></td></tr>
+</table>
+</td>
+<td valign=top align=left>
+<table border=0 cellspacing=1 cellpadding=1>
+<tr><td valign=top align=left><a href="#abyssws">Abyss Web Server</a></td></tr>
+<tr><td valign=top align=left><a href="#apache">Apache</a></td></tr>
+<tr><td valign=top align=left><a href="#lighttpd">LightTPD</a></td></tr>
+<tr><td valign=top align=left><a href="#machttp">MacHTTP</a></td></tr>
+<tr><td valign=top align=left><a href="#mamp">MAMP</a></td></tr>
+<tr><td valign=top align=left><a href="#mampstack">MAMPStack</a></td></tr>
+<tr><td valign=top align=left><a href="#roxenwebserver">Roxen WebServer</a></td></tr>
+<tr><td valign=top align=left><a href="#webserver4d">Web Server 4D</a></td></tr>
+<tr><td valign=top align=left><a href="#webstar">WebSTAR</a></td></tr>
+</table>
+</td>
+</table>
+</center>
+<br>
+
+<hr>
+<a href="http://www.macdevcenter.com/pub/a/mac/collections/webserving.html">MacDevCenter.com: Apache and Web Serving</a>
+<hr>
+<table style="text-align: left;" border="0" cellpadding="4" cellspacing="2">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<hr>
+<h3><a href="http://www.pure-mac.com/">Pure Mac</a></h3>
+<b><a href="http://www.pure-mac.com/education.html"><font color="#000000">Education</font></a></b><br>
+<font size=-1><a href="access.html">Accessibility</a><br>
+<a href="astronomy.html">Astronomy</a><br>
+<a href="calcmath.html">Calculators &amp; Math</a><br>
+<a href="collect.html">Collections</a><br>
+<a href="health.html">Health</a><br>
+<a href="hobbies.html">Hobbies &amp; Crafts</a><br>
+<a href="kids.html">Kid Stuff</a><br>
+<a href="language.html">Language</a><br>
+<a href="censor.html">Parental Control</a><br>
+<a href="recipes.html">Recipes</a><br>
+<a href="science.html">Science</a><br>
+<a href="teach.html">Teaching Aids</a><br>
+<a href="typing.html">Typing</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/games.html"><font color="#000000">Games</font></a></b><br>
+<font size=-1><a href="action.html">Action</a><br>
+<a href="arcade.html">Arcade</a><br>
+<a href="board.html">Board</a><br>
+<a href="card.html">Card</a><br>
+<a href="emu.html">Emulators</a><br>
+<a href="flight.html">Flight Sims</a><br>
+<a href="friv.html">Frivolous</a><br>
+<a href="gameutils.html">Game Utilities</a><br>
+<a href="mmog.html">MMOG</a><br>
+<a href="puzzle.html">Puzzle</a><br>
+<a href="adventure.html">RPG</a><br>
+<a href="sports.html">Sports &amp; Racing</a><br>
+<a href="strategy.html">Strategy</a><br>
+<a href="word.html">Word</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/internet.html"><font color="#000000">Internet</font></a></b><br>
+<font size=-1><a href="bbs.html">Collaboration</a><br>
+<a href="distributed.html">Distributed Computing</a><br>
+<a href="dlm.html">Download Managers</a><br>
+<a href="email.html">Email</a><br>
+<a href="ftp.html">FTP</a><br>
+<a href="intutils.html">Internet Utilities</a><br>
+<a href="iphone.html">iPhone</a><br>
+<a href="irc.html">IRC &amp; IM</a><br>
+<a href="intgames.html">Online Games</a><br>
+<a href="p2p.html">Peer-to-Peer</a><br>
+<a href="remote.html">Remote Access</a><br>
+<a href="usenet.html">Usenet</a><br>
+<a href="vidconf.html">Video Conferencing</a><br>
+<a href="voip.html">VoIP</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/multimedia.html"><font color="#000000">Multimedia</font></a></b><br>
+<font size=-1><a href="audio.html">Audio</a><br>
+<a href="cad.html">CAD</a><br>
+<a href="charts.html">Charts</a><br>
+<a href="dtp.html">DTP</a><br>
+<a href="ebook.html">Ebook</a><br>
+<a href="font.html">Font Utilities</a><br>
+<a href="graphics.html">Graphics</a><br>
+<a href="mp3.html">iTunes &amp; MP3</a><br>
+<a href="mediacenter.html">Media Center</a><br>
+<a href="music.html">Music</a><br>
+<a href="photoplug.html">Photoshop Plug-ins</a><br>
+<a href="presentation.html">Presentation</a><br>
+<a href="3d.html">3D &amp; Animation</a><br>
+<a href="screen.html">Screen Capture</a><br>
+<a href="video.html">Video</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/system.html"><font color="#000000">System</font></a></b><br>
+<font size=-1><a href="unix.html">Alternative OS</a><br>
+<a href="appud.html">Classic Updates</a><br>
+<a href="cli.html">Command Line</a><br>
+<a href="cmm.html">Contextual Menus</a><br>
+<a href="csm.html">CSMs</a><br>
+<a href="hard.html">Drivers</a><br>
+<a href="facelift.html">Face-Lift</a><br>
+<a href="launchers.html">Launchers</a><br>
+<a href="olden.html">Olden</a><br>
+<a href="screensaver.html">Screen Savers</a><br>
+<a href="security.html">Security</a><br>
+<a href="sys.html">System Enhancements</a><br>
+<a href="virus.html">Virus</a><br>
+<a href="widgets.html">Widgets</a><br>
+<a href="x11.html">X11</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/utilities.html"><font color="#000000">Utilities</font></a></b><br>
+<font size=-1><a href="backup.html">Backup</a><br>
+<a href="compen.html">Compression</a><br>
+<a href="cross.html">Cross-Platform</a><br>
+<a href="database.html">Database</a><br>
+<a href="diag.html">Diagnostics</a><br>
+<a href="diskfile.html">Disk &amp; File</a><br>
+<a href="finance.html">Finance</a><br>
+<a href="handhelds.html">Handhelds</a><br>
+<a href="network.html">Network</a><br>
+<a href="pims.html">PIMs</a><br>
+<a href="prog.html">Programming</a><br>
+<a href="spreadsheet.html">Spreadsheets</a><br>
+<a href="telephony.html">Telephony</a><br>
+<a href="textword.html">Text Editors</a><br>
+<a href="time.html">Time</a><br>
+<br></font>
+<b><a href="http://www.pure-mac.com/www.html"><font color="#000000">WWW</font></a></b><br>
+<font size=-1><a href="auctions.html">Auctions</a><br>
+<a href="webb.html">Browsers</a><br>
+<a href="neten.html">Browser Enhancements</a><br>
+<a href="offline.html">Page Rippers</a><br>
+<a href="rss.html">RSS &amp; Podcasting</a><br>
+<a href="webmaint.html">Site Management</a><br>
+<a href="ticker.html">Stock Tickers</a><br>
+<a href="weather.html">Weather</a><br>
+<a href="webcam.html">Web Cams</a><br>
+<a href="webed.html">Web Editors</a><br>
+<a href="gifanim.html">Web Graphics</a><br>
+<a href="netsearch.html">Web Search</a><br>
+<a href="webserv.html">Web Server</a><br>
+<a href="services.html">Web Services</a><br>
+<a href="web20.html">Web 2.0</a><br>
+</font><br>
+<a href="http://www.pure-mac.com/extkey.html"><b>Extension Key</b></a><br>
+<a href="http://www.pure-mac.com/purepicks.html"><b>Pure Picks</b></a><br>
+<a href="http://www.pure-mac.com/softindex.html"><b>Software Index</b></a>
+<hr>
+</td>
+<td style="vertical-align: top;">
+<a name = "abyssws"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/abyssws.png"> <b>Abyss Web Server 2.4</b>
+<br><br>
+Abyss Web Server is a compact web server available for Windows, MacOS X,
+Linux, and FreeBSD operating systems. Despite its small footprint, it
+supports HTTP/1.1, dynamic content generation through CGI/1.1 scripts,
+ISAPI extensions, Server Side Includes (SSI), custom error pages,
+password protection, IP address control, anti-leeching, and bandwidth
+throttling. It features also an automatic antihacking system as well as
+a multilingual remote web management interface that makes its
+configuration as easy as browsing a web site.
+<br>
+X2 = X1 + Virtual hosting + Advanced features + Extra services 
+<br>
+<ul>
+<li><b>License</b>: Personal Edition (X1) is Freeware - Professional Edition (X2) $60
+<li><b>Author/Publisher</b>: Aprelium Technologies
+<li><b>Modification Date</b>: January 10, 2007
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.aprelium.com/data/abwsx1.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 807 Kb - Freeware Personal Edition
+<br>
+<a href="http://www.aprelium.com/abyssws/">Home Page</a>
+<hr><a name = "acgidispatcher"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/acgidispatcher.png"> <b>acgi dispatcher </b>
+<br><br>
+On MacOS versions 9 and earlier you could write apps that ran as cgi
+programs in apple script or in other languages that could handle apple
+events. Under OS X, Apache doesn't know how to send apple events so
+you're out of luck.
+<br>
+acgi dispatcher allows you to use traditional apple scripts or other
+programs that ran as acgi programs under OS9 on OSX with apache.
+<br>
+Dispatcher will happily send events to applications running in the
+classic environment as well as OSX native scripts and applets.
+<br>
+In addition to providing legacy support to the existing acgi handlers in
+Apple Script, dispatcher extends the event and sends you a list of all
+form elements already separated into apple script lists and url decoded,
+getting you past some of the slowest and most tedious parts of writing
+cgi scripts in AppleScript.
+<br>
+acgi dispatcher also supports pre-processor applications via the "Launch
+at suffix" suffix mapping, as well as full support for the send partial
+event.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $15 home or educational, $35 for commercial use
+<li><b>Author/Publisher</b>: James Sentman
+<li><b>Modification Date</b>: September 18, 2005
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.sentman.com/acgi/acgidispatcher.dmg">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.9 MB
+<br>
+<a href="http://www.sentman.com/acgi/">Home Page</a>
+<hr><a name = "amberfish"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Amberfish 1.5.10</b>
+<br><br>
+Amberfish is general purpose text retrieval software, developed at
+Etymon by Nassib Nassar and distributed as open source software under
+the terms of version 2 of the GNU General Public License (GPL). Its
+distinguishing features are indexing/search of semi-structured text
+(i.e. both free text and multiply nested fields), built-in support for
+XML documents using the Xerces library, structured queries allowing
+generalized field/tag paths, hierarchical result sets (XML only),
+automatic searching across multiple databases (allowing modular
+indexing), TREC format results, efficient indexing, and relatively low
+memory requirements during indexing (and the ability to index documents
+larger than available memory). Z39.50 support is available. Other
+features include Boolean queries, right truncation, phrase searching,
+relevance ranking, support for multiple documents per file, incremental
+indexing, and easy integration with other UNIX tools. The architecture
+is also designed to permit proximity queries; however, they are not
+fully implemented at present.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Amberfish Project
+<li><b>Modification Date</b>: September 9, 2004
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://downloads.sourceforge.net/amberfish/amberfish-1.5.10.tar.gz?download">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 123 Kb
+<br>
+<a href="http://www.etymon.com/tr.html">Home Page</a>
+<hr><a name = "analog"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/analog.gif"> <b>Analog 6.0</b>
+<br><br>
+A port of Stephen Turner's log analysis program, Analog. Analog is a WWW logfile analysis program. It has the following
+advantages over other similar programs.
+<br>It's very flexible. The default output will be satisfactory for
+most people, but there are over 180 options producing 17
+different reports for those who want to do things differently.
+<br>It can output in 7 different languages, and 3 output formats. 
+<br>It produces attractive output that complies with the HTML
+spec (and so can be read on any browser). 
+<br>It understands MacHTTP, WebSTAR, Quid Pro Quo, and NetPresenz log
+formats as well as the common log file format, NCSA old-style
+format and the NCSA/Apache auxilary and combined log files.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Jason T. Linhart
+<li><b>Modification Date</b>: December 19, 2004
+<li><b>Requirements</b>: Mac OS X and Mac OS 8.6 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/analogdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.6 MB
+<br>
+<a href="http://summary.net/soft/analog.html">Home Page</a>
+<hr><a name = "apache"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Apache 2.2.6</b>
+<br><br>
+The Apache HTTP Server Project is an effort to develop and maintain an
+open-source HTTP server for modern operating systems including UNIX and
+Windows NT. The goal of this project is to provide a secure, efficient
+and extensible server that provides HTTP services in sync with the
+current HTTP standards.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: The Apache Software Foundation
+<li><b>Modification Date</b>: September 6, 2007
+<li><b>Requirements</b>: Mac OS X - compile your own - most people should be happy with Mac OS X's preinstalled version of Apache
+</ul>
+<a href="http://www.pure-mac.com/downloads/apachedl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.7 MB
+<br>
+<a href="http://www.apache.org/">Home Page</a>
+<hr><a name = "tomcat"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/jar.gif"> <b>Apache Tomcat 5.5.12</b>
+<br><br>
+Apache Tomcat is the servlet container that is used in the official
+Reference Implementation for the Java Servlet and JavaServer Pages
+technologies. The Java Servlet and JavaServer Pages specifications are
+developed by Sun under the Java Community Process.
+<br>
+Apache Tomcat is developed in an open and participatory environment and
+released under the Apache Software License. Apache Tomcat is intended to
+be a collaboration of the best-of-breed developers from around the
+world.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: The Apache Software Foundation
+<li><b>Modification Date</b>: November 29, 2005
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://tomcat.apache.org/download-55.cgi">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.6 MB
+<br>
+<a href="http://tomcat.apache.org/index.html">Home Page</a>
+<hr><a name = "basaone"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/basaone.png"> <b>BasaOne 2.0.1</b>
+<br><br>
+BasaOne is a Graphical Web Application Development tool. You design an
+application and BasaOne will generate all the necessary HTML, CSS,
+JavaScript, MySQL and PHP. Quicktime is also supported.
+<br>It allows you to create Web Applications with powerful database access
+with ease, without requiring a knowledge of different programming
+languages, server platforms and databases.
+<br>Starting with BasaOne 2.0 yiu can also develop Dashboard Widgets.
+<br>
+<ul>
+<li><b>License</b>: Demo, $120
+<li><b>Author/Publisher</b>: Basasoft, S.L.
+<li><b>Modification Date</b>: July 8, 2005
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.basasoft.com/download/BasaOne.zip">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.1 MB
+<br>
+<a href="http://www.basasoft.com/basaone.php">Home Page</a>
+<hr><a name = "booleansearch"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/booleansearch.png"> <b>Boolean Search 3.3.4</b>
+<br><br>
+Quickly and easily add very flexible and robust search facilities to
+your website or any HTML document library. As a standalone file server
+Boolean Search can serve its search results independently of any web
+server making it perfect for users who want to
+<br>
+search their own personal collections of files
+<br>
+provide enhanced website search features not offered by Internet search
+engines,
+<br>
+provide search over small intranets, such as for a small business
+office, library or classroom.
+<br>
+As its name suggests Boolean Search supports content queries that use
+boolean and regular expressions, as well as phrase and proximity
+searches, fuzzy and partial word searches and similarity search.
+Optional spell checking on queries provides a "Did you mean?"
+functionality.
+<br>
+Boolean Search can extract an expansive variety of file information for
+the search results page including various kinds of summaries, icons,
+meta tag information and standard file attributes. A novel feature of
+Boolean Search is its "Site Index" generator which serves up a linked
+index of all the words a site contains. Boolean Search also generates
+documents with search terms highlighted to help a user determine their
+relevancy. Paging and sorting mechanisms are available to manage
+browsing the collection of found files.
+<br>
+<ul>
+<li><b>License</b>: Demo, $55
+<li><b>Author/Publisher</b>: Limit Point Software
+<li><b>Modification Date</b>: October 7, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/booleansearchdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.4 MB
+<br>
+<a href="http://www.limit-point.com/BooleanSearchServer/BSS.html">Home Page</a>
+<hr><a name = "coldfusion"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/coldfusion.png"> <b>ColdFusion MX 7.0.2</b>
+<br><br>
+Still the fastest way to build and deploy powerful Internet
+applications, ColdFusion MX 7 introduces powerful new application
+services including rich Flash forms generation, structured reports, and
+dynamic generation of printable documents. It opens up a new world of
+applications beyond the browser.
+<br>
+<ul>
+<li><b>License</b>: Demo, $1,299
+<li><b>Author/Publisher</b>: Macromedia
+<li><b>Modification Date</b>: June 21, 2006
+<li><b>Requirements</b>: Mac OS X 10.3.9 and Mac OS X 10.4.2 or higher
+</ul>
+<a href="http://www.adobe.com/cfusion/tdrc/index.cfm?product=coldfusion">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 180.1 MB - Demo
+<br>
+<a href="http://www.adobe.com/cfusion/tdrc/index.cfm?product=coldfusion">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 180.1 MB - Demo
+<br>
+<a href="http://www.macromedia.com/software/coldfusion/">Home Page</a>
+<hr><a name = "dejalsimon"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/dejalsimon.png"> <b>Dejal Simon 2.3.5</b>
+<br><br>
+Dejal Simon is the essential site monitoring tool for Mac OS X. It
+checks servers for changes or failures, and notifies you via e-mail,
+sound, speech, or other means. You can use it to track updated sites,
+and to alert you when an important server goes down or recovers.
+Developed in Cocoa, it is a native Mac OS X application with an
+intuitive and attractive interface.
+<br>
+Simon is very versatile. It can be used to monitor your own website and
+servers, track posts and new comments on your or friends' blogs, check
+for web mail, get notifications of updates to favorite news and
+entertainment websites, keep an eye on auctions, and many other uses.
+<br>
+<ul>
+<li><b>License</b>: Shareware, Basic $30, Standard $60, Enterprise $195
+<li><b>Author/Publisher</b>: Dejal Systems, LLC
+<li><b>Modification Date</b>: November 26, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/simondl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 9.5 MB
+<br>
+<a href="http://www.dejal.com/simon/">Home Page</a>
+<hr><a name = "dnsupdate"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/dnsupdate.png"> <b>DNSUpdate 2.8</b>
+<br><br>
+Client for the DNS hosting service provided by DynDNS.org
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Julien Jalon
+<li><b>Modification Date</b>: April 21, 2006
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://ju.jalon.free.fr/DNSUpdateProject/DNSUpdate-2.8.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.0 MB
+<br>
+<a href="http://www.dnsupdate.org/">Home Page</a>
+<hr><a name = "dyndnsupdater"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/dnydnsupdater.png"> <b>DynDNS Updater 2.0</b>
+<br><br>
+Client for the DNS hosting service provided by DynDNS.org
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Dynamic Network Services
+<li><b>Modification Date</b>: November 5, 2007
+<li><b>Requirements</b>: Mac OS 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/dyndnsupdaterdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 7.0 MB
+<br>
+<a href="http://www.dyndns.com/support/clients/mac.html">Home Page</a>
+<hr><a name = "filemaker"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/filemaker.png"> <b>FileMaker Pro 9.0v3</b>
+<br><br>
+FileMaker Pro is the #1, easy-to-use database software that helps you
+manage, customize, and securely share your information on a network or
+across the web.
+<br>
+<ul>
+<li><b>License</b>: Demo, $299
+<li><b>Author/Publisher</b>: FileMaker, Inc
+<li><b>Modification Date</b>: December 4, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/filemakerupdatedl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 326 MB - 9.0v3 Updater
+<br>
+<a href="http://www.pure-mac.com/downloads/filemakerdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 272 MB - Demo version 9.0
+<br>
+<a href="http://www.filemaker.com/support/updaters.html">Updates Page</a>
+<br>
+<a href="http://www.filemaker.com/">Home Page</a>
+<hr><a name = "4dbusinesskit"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/4dbusinesskit.png"> <b>4D Business Kit 2.2.7</b>
+<br><br>
+4D Business Kit is a complete, user friendly, yet professional
+e-commerce solution, which allows you to develop and quickly deploy
+shops or catalogues.
+<br>
+4D Business Kit is easy to use and flexible at the same time: just a few
+mouse clicks and your shop or catalogue is online. Beyond that, there
+are no limits to your imagination and skills. You can adapt the design
+and function of your site at any time according to your ideas, or the
+wishes of your customers.
+<br>
+A powerful database, a complete HTML Tag language, fully developed
+administration and back-office features, immediately usable templates
+and complete documentation leave little room for additional wishes.
+<br>
+<ul>
+<li><b>License</b>: Demo, $499
+<li><b>Author/Publisher</b>: 4D, Inc.
+<li><b>Modification Date</b>: July 27, 2005
+<li><b>Requirements</b>: Mac OS X 10.2.8 or higher
+</ul>
+<a href="ftp://ftp.4dbk.com/product/mac/4DBK_Mac_2.2.7_398_full.zip">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 72.9 MB
+<br>
+<a href="http://www.4dbk.com/4444_Site/WebPagesUS/default.html">Home Page</a>
+<hr><a name = "4d"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/4d.gif"> <b>4th Dimension 2004.7</b>
+<br><br>
+The 4th Dimension product line offers a full range of Mac OS and Windows
+products that can be used individually as components, or together as a
+fully integrated, Web and Web service enabled database development
+solutions. From the enterprise/IT world to custom development to
+end-user solutions, the 4th Dimension family of tools addresses the
+specific needs of any business or organization.
+<br>
+<ul>
+<li><b>License</b>: Demo, Standard Edition $349
+<li><b>Author/Publisher</b>: 4D, Inc.
+<li><b>Modification Date</b>: December 6, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/4dupdatedl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 219 MB - 4th Dimension 2004.7 update
+<br>
+<a href="http://www.pure-mac.com/downloads/4ddemodl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 178 MB - 4th Dimension 2004.6 Demo
+<br>
+<a href="http://www.4d.com/products/4thdimension.html">Home Page</a>
+<hr><a name = "funnelweb"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Funnel Web 5.0</b>
+<br><br>
+Every person who visits your company's Web site leaves a trail behind.
+Your Web server logs their every action and you can use this information
+to help improve your business. Funnel Web Analyzer provides essential
+Web site visitor and traffic analysis. It measures everything from
+server load and referrals to visitor demographics and marketing ROI.
+Funnel Web Analyzer helps you optimize your web site by allowing you to
+analyze how users interact with your site and helps you make informed
+decisions about what changes you can make to improve their experience.<br><br>
+Although you need to use the terminal, it's relatively easy to set up and it gives great reports.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Quest Software
+<li><b>Modification Date</b>: July 28, 2003
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.quest.com/funnel_web/payload/fwa5free.pkg.sit">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 6.9 MB
+<br>
+<a href="http://www.quest.com/funnel_web_analyzer/">Home Page</a>
+<hr><a name = "gallery"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>Gallery 2.1.2</b>
+<br><br>
+Great for Apple's Personal Web Sharing.
+Gallery is a web based software product that lets you manage your photos
+on your own website. You must have your own website with PHP support in
+order to install and use it. With Gallery you can easily create and
+maintain albums of photos via an intuitive interface. Photo management
+includes automatic thumbnail creation, image resizing, rotation,
+ordering, captioning, searching and more. Albums can have read, write
+and caption permissions per individual authenticated user for an
+additional level of privacy. Give accounts to your friends and family
+and let them upload and manage their own photos on your website.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Bharat Mediratta
+<li><b>Modification Date</b>: August 16, 2006
+<li><b>Requirements</b>: Apache 1.x, 2.x or Zeus web server, PHP 4, and NetPBM or ImageMagick
+</ul>
+<a href="http://codex.gallery2.org/index.php/Gallery2:Download">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.9 MB
+<br>
+<a href="http://gallery.menalto.com/">Home Page</a>
+<hr><a name = "homepagesearchengine"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>HomepageSearchEngine 3.6</b>
+<br><br>
+Add a professional, Google-like full-text search engine system to your
+own homepage! HomepageSearchEngine can search all text files of your or
+any other website, both static and dynamically generated ones. Nice
+looking, user-friendly and fully customizable results pages with
+highlighted matches.
+<br>
+<ul>
+<li><b>License</b>: Demo, Site License $132, Host Licence $1430 etc.
+<li><b>Author/Publisher</b>: ANET.at
+<li><b>Modification Date</b>: April 14, 2005
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.homepagesearchengine.com/_download/MacOSX/">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.2 MB
+<br>
+<a href="http://www.homepagesearchengine.com/index.phtml">Home Page</a>
+<hr><a name = "htdig"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>ht://Dig 3.2.0b6</b>
+<br><br>
+The ht://Dig system is a complete world wide web indexing and searching
+system for a domain or intranet. This system is not meant to replace the
+need for powerful internet-wide search systems like Lycos, Infoseek,
+Google and AltaVista. Instead it is meant to cover the search needs for
+a single company, campus, or even a particular sub section of a web
+site. As opposed to some WAIS-based or web-server based search engines,
+ht://Dig can easily span several web servers. The type of these
+different web servers doesn't matter as long as they understand common
+protocols like HTTP.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: The ht://Dig Group
+<li><b>Modification Date</b>: June 14, 2004
+<li><b>Requirements</b>: Mac OS X (using gcc/g++)
+</ul>
+<a href="http://www.htdig.org/where.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 3.0 MB
+<br>
+<a href="http://www.htdig.org/">Home Page</a>
+<hr><a name = "intermapper"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/intermapper.gif"> <b>InterMapper 4.5.5</b>
+<br><br>
+InterMapper's active maps give a visual, real-time view of traffic flows
+through and between critical network devices and links. It also queries
+your servers to let you know when you have problems - even before your
+customers call. InterMapper uses SNMP to provide utilization statistics
+to help you optimize performance, as well displaying traffic, error, and
+outage information so you can be aware of trouble spots.
+<br>
+<ul>
+<li><b>License</b>: Demo, $495.00
+<li><b>Author/Publisher</b>: Dartware LLC
+<li><b>Modification Date</b>: February 14, 2007
+<li><b>Requirements</b>: Mac OS X 10.2.8 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/intermapperdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 13.1 MB  - Intermapper 4.5.5
+<br>
+<a href="http://www.pure-mac.com/downloads/intermapperremotedl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.6 MB - Intermapper Remote 4.5.5
+<br>
+<a href="http://www.intermapper.com/">Home Page</a>
+<hr><a name = "lasso"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/lasso.gif"> <b>Lasso Professional Server 8.5.4</b>
+<br><br>
+Lasso Professional Server offers a "build once, deploy anywhere"
+approach for developers who demand an easy-to-use, yet powerful
+development environment. Quickly and securely develop applications with
+any database on virtually any platform - without a degree in programming
+- and with far less code than ASP, PHP, JSP and ColdFusion.
+<br>
+<ul>
+<li><b>License</b>: Demo, $649
+<li><b>Author/Publisher</b>: OmniPilot Software
+<li><b>Modification Date</b>: August 24, 2007
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/lassodl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 67.3 MB
+<br>
+<a href="http://www.omnipilot.com/index.html?section=Products%2fLasso">Home Page</a>
+<hr><a name = "lighttpd"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>LightTPD 1.4.9</b>
+<br><br>
+Security, speed, compliance, and flexibility--all of these describe
+LightTPD which is rapidly redefining efficiency of a webserver; as it is
+designed and optimized for high performance environments. With a small
+memory footprint compared to other web-servers, effective management of
+the cpu-load, and advanced feature set (FastCGI, CGI, Auth,
+Output-Compression, URL-Rewriting and many more) LightTPD is the perfect
+solution for every server that is suffering load problems. And best of
+all it's Open Source licensed under the revised BSD license.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Jan Kneschke et al
+<li><b>Modification Date</b>: January 14, 2006
+<li><b>Requirements</b>: Mac OS X and PCRE Library
+</ul>
+<a href="http://lighttpd.net/download/lighttpd-1.4.9.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 757 Kb - LightTPD 1.4.9
+<br>
+<a href="http://lighttpd.net/download/lighttpd-1.4.8.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 751 Kb - LightTPD 1.4.8
+<br>
+<a href="ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-6.4.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 801 Kb - PCRE Library 6.4
+<br>
+<a href="http://lighttpd.net/">Home Page</a>
+<hr><a name = "machttp"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/machttp.gif"> <b>MacHTTP 2.6</b>
+<br><br>
+MacHTTP is the original Web server created for Macintosh.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: MacHTTP Project
+<li><b>Modification Date</b>: June 10, 2003
+<li><b>Requirements</b>: 680x0 or PPC
+</ul>
+<a href="http://downloads.sourceforge.net/machttp/MacHTTP26.sea.hqx?download">Download</a><img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 612 Kb
+<br>
+<a href="http://sourceforge.net/projects/machttp/">Home Page</a>
+<hr><a name = "mamp"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/mamp.png"> <b>MAMP 1.7.1</b>
+<br><br>
+The abbreviation MAMP stands for: Macintosh, Apache, Mysql and PHP.
+<br>
+With just a few mouse-clicks, you can install Apache, PHP and MySQL for
+Mac OS X!
+<br>
+Often sought-after and now available from webEdition Software,  MAMP
+installs a local server enviroment in a matter of seconds on your Mac OS
+X computer, be it PowerBook or iMac. Like similar packages from the
+Windows- and Linux-world, MAMP comes free of charge.
+<br>
+MAMP is installed in the typical Mac fashion: very easily. MAMP will not
+compromise any existing Apache installation already running with your OS
+X.  You can install Apache, PHP and MySQL without starting a script or
+having to change any configuration files!
+<br>
+What's more, if MAMP is no longer needed, it is sufficient to delete the
+MAMP folder and everything returns to its original status (i.e. MAMP
+does not modify any of the "normal" OS X).
+<br>
+<ul>
+<li><b>License</b>: Freeware, MAMP Pro $45
+<li><b>Author/Publisher</b>: living-e AG
+<li><b>Modification Date</b>: December 3, 2007
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/mampdl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 127 MB
+<br>
+<a href="http://www.mamp.info/en/index.php">Home Page</a>
+<hr><a name = "mampstack"></a>
+<img align=top width="32" height="32" alt="icon" src="images/mampstack.png"> <b>MAMPStack 5.5</b>
+<br><br>
+BitRock MAMPStack is an easy to install distribution of Apache, MySQL,
+PHP, Python, and supporting libraries for Mac OS X. MAMPStack 5.5 allows
+users to have a complete web development environment up and running in
+just minutes.
+<br>
+MAMPStack is licensed under the terms of the Apache License 2.0, and is
+free for download and use from www.bitrock.com. It allows users to take
+advantage of the stability, low cost and high performance of the AMP web
+development platform (Linux, Apache, MySQL, and PHP/Python) without the
+hassle of integrating, configuring, and supporting their own build.
+MAMPStack 5.5 provides an integrated package that can be used by both
+commercial and open source projects for rapid, consistent deployments in
+both development and production environments.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: BitRock
+<li><b>Modification Date</b>: August 25, 2006
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.bitrock.com/mampstack-5.5-osx-installer.app.zip">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 85.8 MB
+<br>
+<hr><a name = "mediawiki"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>MediaWiki 1.11.0</b>
+<br><br>
+MediaWiki is a free Wiki software package licensed under the GNU General
+Public License (GPL). It is used to run Wikipedia and other projects of
+the non-profit Wikimedia Foundation, as well as many other wikis.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: MediaWiki.org
+<li><b>Modification Date</b>: September 10, 2007
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.pure-mac.com/downloads/mediawikidl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.7 MB
+<br>
+<a href="http://www.mediawiki.org/wiki/MediaWiki">Home Page</a>
+<hr><a name = "mnogosearch"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>mnoGoSearch 3.2.34</b>
+<br><br>
+mnoGoSearch for UNIX is a free software covered by the GNU General
+Public License. It consists of a command line indexer and a search
+program which can be run under Apache Web Server, or any other HTTP
+server supporting CGI interface. mnoGoSearch for Unix is distributed in
+sources and can be compiled with a number of databases, depending on
+user's choice. It is known to work on a wide variety of the modern Unix
+operating systems including Linux, FreeBSD, Mac OSX, Solaris and others.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Lavtech.Com Corp Project
+<li><b>Modification Date</b>: September 22, 2005
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://mnogosearch.org/Download/mnogosearch-3.2.34.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 3.2 MB
+<br>
+<a href="http://mnogosearch.org/">Home Page</a>
+<hr><a name = "mysql"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>MySQL 5.0.45</b>
+<br><br>
+The software available in MySQL Network and the MySQL Community Edition
+is available under the "dual licensing" model. Under this model, users
+may choose to use MySQL products under the free software/open source GNU
+General Public License (commonly known as the "GPL") or under a
+commercial license. ISVs and Resellers, who are embedding and reselling
+the MySQL database server as part of their own commercial solutions, can
+purchase a MySQL commercial license.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: MySQL AB
+<li><b>Modification Date</b>: July 4, 2007
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/mysqldl.html">Download</a><img alt="OSP X PC" src="osxppc.gif" border=0 hspace=3 width=12 height=12><img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12>
+File Size: 60.1 MB
+<br>
+<a href="http://dev.mysql.com/downloads/mysql/5.0.html">Home Page</a>
+<hr><a name = "netcheck"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/netcheck.png"> <b>NetCheck 1.4</b>
+<br><br>
+NetCheck is an OSX native application that provides an array of network
+monitoring, email alerts, logging, and reporting features.
+NetCheck not only provides immediate customized alerts, but also
+provides the historical outage information that we need to work with our
+business partners on quality service issues using historical patterns
+seen in our NetCheck logging and reporting. This enables us to identify
+problems and work issues that otherwise would go unnoticed.
+<br>
+The main focus of this application is uptime monitoring of critical
+devices and applications, along with the features which provide this --
+email alerts, logging, and reporting. You can create an EMAIL group for
+each special interest group and site, then create an ICMP/Port
+Monitoring entry that associate all devices and applications being
+monitored with that email group created for the site. This application
+was written natively in Objective C to be a native OSX application.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $50
+<li><b>Author/Publisher</b>: Script Software
+<li><b>Modification Date</b>: August 14, 2006
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.scriptsoftware.com/netcheck/netcheck.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.9 MB
+<br>
+<a href="http://www.scriptsoftware.com/netcheck/">Home Page</a>
+<hr><a name = "mnoip"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/mnoip.gif"> <b>No-IP 3.1.2a</b>
+<br><br>
+No-IP.com is a leading dynamic DNS service provider. We offer a wide
+range of services pertaining to your internet presence, from that pesky
+dynamic IP problem to getting around ISPs who block port 25. All of our
+services take advantage of our global network of redundant DNS and mail
+servers peered with tier-1 data centers.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: no-ip.com
+<li><b>Modification Date</b>: October 30, 2007
+<li><b>Requirements</b>: Mac OS 10.2 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/noipdl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 2.0 MB
+<br>
+<a href="http://www.no-ip.com/">Home Page</a>
+<hr><a name = "openbase"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/openbase.png"> <b>OpenBase SQL 10.0.3</b>
+<br><br>
+OpenBase SQL relational database servers deliver the scalable
+performance and fault-tolerant data protection e-business demands.
+Proven in realworld applications since 1991, OpenBase SQL has become the
+database of choice for innovative, business-critical applications on Mac
+OS X and other popular computing platforms. In addition to database
+performance and integrity, OpenBase SQL solutions come with
+industry-leading features that are simply unavailable -- or cost much
+more -- on other databases. These include built-in, server-based support
+for Java stored procedures and e-commerce functions, such as credit card
+payment processing and automated email correspondence.
+<br>
+<ul>
+<li><b>License</b>: Demo, $699 and up
+<li><b>Author/Publisher</b>: Mac OS X
+<li><b>Modification Date</b>: December 21, 2006
+<li><b>Requirements</b>: Mac OS X 10.3.9 or higher
+</ul>
+<a href="http://www.openbase.com/released/OpenBase10.0.3_MacOSX.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 92.2 MB
+<br>
+<a href="http://store.openbase.com/downloads.html">Download Page</a>
+<br>
+<a href="http://store.openbase.com/index.html">Home Page</a>
+<hr><a name = "oscommerce"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>osCommerce 2.2ms2</b>
+<br><br>
+osCommerce is an online shop e-commerce solution that offers a wide
+range of out-of-the-box features that allows online stores to be setup
+fairly quickly with ease, and is available for free as an Open Source
+based solution released under the GNU General Public License. osCommerce
+utilizes Open Source solutions to provide a free and open e-commerce
+platform, which includes the powerful PHP web scripting language, the
+stable Apache web server, and the fast MySQL database server.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: osCommerce
+<li><b>Modification Date</b>: July 12, 2003
+<li><b>Requirements</b>: Mac OS X and a PHP 4.1+ enabled web server
+</ul>
+<a href="http://tep.sourceforge.net/releases/oscommerce-2.2ms2.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 871 Kb
+<br>
+<a href="http://www.oscommerce.com/">Home Page</a>
+<hr><a name = "php"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>PHP 5.2.3</b>
+<br><br>
+PHP is a widely-used general-purpose scripting language that is
+especially suited for Web development and can be embedded into HTML.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: The PHP Group
+<li><b>Modification Date</b>: June 1, 2007
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.pure-mac.com/downloads/phpdl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 8.9 MB - Source Code
+<br>
+<a href="http://www.php.net/">PHP Home Page</a>
+<hr><a name = "phpbb"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>phpBB 2.0.22</b>
+<br><br>
+phpBB is a high powered, fully scalable, and highly customizable Open
+Source bulletin board package. phpBB has a user-friendly interface,
+simple and straightforward administration panel, and helpful FAQ. Based
+on the powerful PHP server language and your choice of MySQL, MS-SQL,
+PostgreSQL or Access/ODBC database servers, phpBB is the ideal free
+community solution for all web sites.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: phpBB Group
+<li><b>Modification Date</b>: December 23, 2006
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://downloads.sourceforge.net/phpbb/phpBB-2.0.22.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 531 Kb
+<br>
+<a href="http://www.phpbb.com/">Home Page</a>
+<hr><a name = "postresql"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>PostgreSQL 8.2.5</b>
+<br><br>
+PostgreSQL is a powerful, open source relational database system. It has
+more than 15 years of active development and a proven architecture that
+has earned it a strong reputation for reliability, data integrity, and
+correctness. It runs on all major operating systems, including Linux,
+UNIX (AIX, BSD, HP-UX, SGI IRIX, Mac OS X, Solaris, SunOS, Tru64), BeOS,
+and Windows. It is fully ACID compliant, has full support for foreign
+keys, joins, views, triggers, and stored procedures (in multiple
+languages). It includes most SQL92 and SQL99 data types, including
+INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP.
+It also supports storage of binary large objects, including pictures,
+sounds, or video. It has native programming interfaces for C/C++, Java,
+Perl, Python, Ruby, Tcl, ODBC, among others, and exceptional
+documentation.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: PostgreSQL Global Development Group
+<li><b>Modification Date</b>: October 11, 2007
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.postgresql.org/ftp/source/v8.2.5/">8.2.5 Directory</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+<br>
+<a href="http://www.postgresql.org/download/">Downloads</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+<br>
+<a href="http://www.postgresql.org/">Home Page</a>
+<hr><a name = "roxenwebserver"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Roxen WebServer 4.5.146r3</b>
+<br><br>
+Roxen WebServer is a full-featured open-source web server distributed
+under the GPL license. It runs on a number of different operating
+systems including Windows, Linux, Solaris and Mac OS X.
+<br>Some of the strong points of this server is:
+<br>Open source code.
+<br>A web-based interface for easy configuration and administration.
+<br>The highly regarded Roxen graphics support which can be used for dynamic generation of e.g. headers, images and charts.
+<br>Integrated MySQL database.
+<br>Server-side programming via RXML, Java, Perl, PHP, CGI scripts and more.
+<br>Strong encryption.
+<br>Modular architecture where server extensions can be loaded without shutting down the server process.
+<br>Platform-independent architecture makes custom modules portable with no extra effort.
+<br>Download the appropriate file for your operating system.
+<br>Run the binary using the "sh" command like this:
+<br>sh roxen-3.x.xxx-....sh
+<br>Please note:
+<br>The installation script needs to write a few temporary files in the current working directory when invoked (they are removed automatically).
+<br>The installation script will not write any files outside the paths you specify except for the temporary files in the current working directory.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Roxen
+<li><b>Modification Date</b>: January 29, 2007
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://download.roxen.com/4.5/">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 27.7 MB
+<br>
+<a href="http://www.roxen.com/products/webserver/">Home Page</a>
+<hr><a name = "ruby"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Ruby 1.8.6</b>
+<br><br>
+Ruby is the interpreted scripting language for quick and easy
+object-oriented programming. It has many features to process text files
+and to do system management tasks (as in Perl). It is simple,
+straight-forward, extensible, and portable.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: ruby-lang.org
+<li><b>Modification Date</b>: March 12, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/rubydl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 3.8 MB
+<br>
+<a href="http://www.ruby-lang.org/en/">Home Page</a>
+<hr><a name = "rubyonrails"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Ruby on Rails 1.2</b>
+<br><br>
+Ruby on Rails is an open-source web framework that's optimized for programmer happiness
+and sustainable productivity. It lets you write beautiful code by favoring convention over
+configuration.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: rubyonrails.org
+<li><b>Modification Date</b>: March 14, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.rubyonrails.org/down">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+<br>
+<a href="http://www.rubyonrails.org/">Home Page</a>
+<hr><a name = "sawmill"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/sawmill.png"> <b>Sawmill 7.2.9</b>
+<br><br>
+Sawmill is a powerful, hierarchical log analysis tool that unlocks the
+secrets of your web site! If you are in business to make money, you can
+not afford to be without Sawmill.
+<br>
+<ul>
+<li><b>License</b>: Demo, Lite $99, Pro $399, Enterprise $1700
+<li><b>Author/Publisher</b>: Flowerfire
+<li><b>Modification Date</b>: February 9, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.sawmill.net/cgi-bin/download.pl?sawmill">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 17.3
+<br>
+<a href="http://www.flowerfire.com/sawmill/">Home Page</a>
+<hr><a name = "simpleforum"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/blank.gif"> <b>SimpleForum Pro 4.6.1</b>
+<br><br>
+What is SimpleForum? SimpleForum Pro/Lite is a forum that is made to
+work on all HTTP servers supporting CGI. The idea was to make a powerful
+forum, with all the necessary features, and yet keep it simple to
+install, configure and maintain. Power and simplicity is what
+SimpleForum stands for.
+<br>
+What the difference between SimpleForum Pro and SimpleForum Lite? In
+August 2003 SimpleForum was divided into two different scripts:
+SimpleForum Pro and SimpleForum Lite. Lite is still a free download,
+available from the Download page. SimpleForum Pro is SimpleForum Lite's
+big brother and contains a lot more features.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $20
+<li><b>Author/Publisher</b>: www.simpleforum.net
+<li><b>Modification Date</b>: August 15, 2006
+<li><b>Requirements</b>: Mac OS X and a CGI enabled webserver
+</ul>
+<a href="http://simpleforum.net/index.cgi?page=download">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 91 Kb - Lite Version 3.9 is freeware
+<br>
+<a href="http://simpleforum.net/">Home Page</a>
+<hr><a name = "smf"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>Simple Machines Forum 1.1.2</b>
+<br><br>
+Elegant, powerful, easy, and free.
+<br>Simple Machines Forum is all of the above. SMF is the next-generation
+community forum software package that is jam-packed with features, while
+at the same time having a minimal impact on resources.
+
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Simple Machines
+<li><b>Modification Date</b>: February 12, 2007
+<li><b>Requirements</b>: Mac OS X, Any webserver that properly supports PHP, such as Apache, PHP 4.1.0 or higher, MySQL 3.23.4 or higher
+</ul>
+<a href="http://www.simplemachines.org/download/index.php?thanks;filename=smf_1-1-2_install.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.5
+<br>
+<a href="http://www.simplemachines.org/">Home Page</a>
+<hr><a name = "slooze"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>Slooze 0.2.5</b>
+<br><br>
+A web-based photo album for the display of photos and other pictures on
+web sites in an organised, catalogued, searchable manner. Slooze is
+simple to set up and use, yet well-structured and extensible enough to
+support large, complex image archives.
+<br>
+Data may be stored in simple text files, or in a relational database
+such as MySQL. Slooze is written in PHP.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Slooze Project
+<li><b>Modification Date</b>: November 13, 2005
+<li><b>Requirements</b>: Mac OS X, PHP, MySQL
+</ul>
+<a href="http://downloads.sourceforge.net/slooze/slooze-0.2.5.tar.gz?download">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 26 Kb
+<br>
+<a href="http://www.slooze.com/">Home Page</a>
+<hr><a name = "squidman"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/squidman.png"> <b>SquidMan 2.0</b>
+<br><br>
+SquidMan is a MacOS X graphical installer and manager for the Squid
+proxy cache. It is designed to operate as a "personal" proxy server.
+<br>When you run Squid on a MacOS X computer, it can:
+<br>* cache downloaded content, reducing network traffic and improving browsing performance on slow links
+<br>* act as a proxy server for other computers on your subnet
+<br>* restore the operation of some MacOS X 10.2 system services that normally fail through authenticated proxy servers, such as Software Update
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Tony Gray
+<li><b>Modification Date</b>: November 22, 2007
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/squidmandl.html">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 3.2 MB
+<br>
+<a href="http://homepage.mac.com/adg/SquidMan/index.html">Home Page</a>
+<hr><a name = "staticcharge"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/staticcharge.gif"> <b>StaticCharge 0.7</b>
+<br><br>
+Client for the Dynamic DNS service, StatiCling.org
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: StaticCling.org
+<li><b>Modification Date</b>: October 16, 2002
+<li><b>Requirements</b>: Mac OS X 10.1 or higher
+</ul>
+<a href="http://www.staticcling.org/clients/ChargeOSX-0.7.dmg.gz">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.8 MB
+<br>
+<a href="http://www.staticcling.org/clients/ChargeMac-0.7.sit">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.1 MB
+<br>
+<a href="http://www.staticcling.org/">Home Page</a>
+<hr><a name = "summary"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/summary.gif"> <b>Summary 3.0.7</b>
+<br><br>
+Summary is the web server log analysis tool that
+tells you more. With over sixty reports, you can find out more about your visitors, connection bandwidth,
+referrers, and all aspects of your website, than with any other tool.
+Many unique reports including: search words used to find your site in major search engines,
+periods when the server was down, most commonly used entry points into your site,
+visitors connection (modem) speed.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $59
+<li><b>Author/Publisher</b>: Jason T. Linhart
+<li><b>Modification Date</b>: November 5, 2007
+<li><b>Requirements</b>: Mac OS X 10.2.6 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/summarydl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 5.6 - version 3.0.7
+<br>
+<a href="http://www.pure-mac.com/downloads/summaryclassicdl.html">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 4.5 - version 2.5.5
+<br>
+<a href="http://summary.net/summary.html">Home Page</a>
+<hr><a name = "swishe"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Swish-e 2.4.3</b>
+<br><br>
+Swish-e is a fast, flexible, and free open source system for indexing
+collections of Web pages or other files. Swish-e is ideally suited for
+collections of a million documents or smaller. Using the GNOME libxml2
+parser and a collection of filters, Swish-e can index plain text,
+e-mail, PDF, HTML, XML, Microsoft&reg; Word/PowerPoint/Excel and just about
+any file that can be converted to XML or HTML text. Swish-e is also
+often used to supplement databases like the MySQL&reg; DBMS for very fast
+full-text searching.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Sswish-e.org
+<li><b>Modification Date</b>: December 17, 2004
+<li><b>Requirements</b>: Mac OS X 10.3 or higher
+</ul>
+<a href="http://www.swish-e.org/distribution/latest.tar.gz">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.5 MB
+<br>
+<a href="http://www.swish-e.org/download/index.html">Download Page</a>
+<br>
+<a href="http://www.swish-e.org/">Home Page</a>
+<hr><a name = "trafficreport"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/trafficreport.gif"> <b>Traffic Report 1.2.1</b>
+<br><br>
+Traffic Report software, a web log analysis application for the Mac OS.
+For almost two years, we've been working diligently on developing a
+user-friendly tool for webmasters who want quick, accurate analysis of
+traffic to their Web sites. Using the extensive, easy-to-use
+customization features, you can gather statistics and insight on almost
+every aspect of your Web site activity. From visitors to hits to
+downloads to errors, Traffic Report is the one, affordable tool you'll
+find is the most versatile on the market today. We've worked with top
+Webmasters, marketing pros and analysts to determine what features and
+functionality would make our product complete. We think we found the
+answer.
+<br>
+<ul>
+<li><b>License</b>: Demo, $150
+<li><b>Author/Publisher</b>: Seacloak Software
+<li><b>Modification Date</b>: December 17, 2002
+<li><b>Requirements</b>: Mac OS X and Mac OS 8.6 or higher
+</ul>
+<a href="http://www.seacloak.com/downloads/TR_OSX.sit.bin">Download</a><img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 498 Kb
+<br>
+<a href="http://www.seacloak.com/">Home Page</a>
+<hr><a name = "webalizer"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/cli.gif"> <b>Webalizer 2.01-10</b>
+<br><br>
+The Webalizer is a fast, free web server log file analysis program. It
+produces highly detailed, easily configurable usage reports in HTML
+format, for viewing with a standard web browser.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Bradford L. Barrett
+<li><b>Modification Date</b>: September 5, 2003
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="ftp://ftp.mrunix.net/pub/webalizer/webalizer-2.01-10-macosx-bin.tar.gz">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 416 Kb
+<br>
+<a href="http://www.seacloak.com/">Home Page</a>
+<hr><a name = "weblock"></a>
+<img align=top width="32" height="32" alt="icon" src="images/weblock.png"> <b>Weblock 1.6.3</b>
+<br><br>
+Weblock provides a simple user interface for configuring user, group, and IP-based access
+restrictions for Mac OS X's built-in webserver.
+<br>
+With it, you can instantly configure any folder shared via your website to require a
+password, or require the visitor to be coming from a specific web location, or both.
+Weblock even supports location ranges and grouped users!
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: Digital Cow Software
+<li><b>Modification Date</b>: December 19, 2006
+<li><b>Requirements</b>: Mac OS X 10.2.8 or higher
+</ul>
+<a href="http://www.digicowsoftware.com/downloads/Weblock1.6.3.dmg">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 589 Kb
+<br>
+<a href="http://www.digicowsoftware.com/detail?_app=Weblock">Home Page</a>
+<hr><a name = "webobjects"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/webobjects.png"> <b>WebObjects 5.2.4</b>
+<br><br>
+A rapid application development environment with web services, data
+access and page generation capabilities, WebObjects extends your reach
+by ensuring flexible, maintainable design. It's the ideal way to
+develop, deploy and extend powerful web services.
+<br>
+Makes it easy to quickly develop and deploy your Java server
+applications. WebObjects 5.2.4 is for users who plan to develop their
+WebObjects applications on Mac OS X 10.4 or who use the Xcode
+development tool suite or plan to deploy their WO 5.2 applications on
+Mac OS X Server 10.4, Windows, or Solaris should also install this
+update.
+<br>
+<ul>
+<li><b>License</b>: Updates - WebObjects development tools Comes with Tiger - WebObjects deployment tools comes with Mac OS X Server 10.4
+<li><b>Author/Publisher</b>: Apple
+<li><b>Modification Date</b>: May 2, 2005
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://www.apple.com/support/downloads/webobjectsupdate524for104.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 60.4 MB - WebObjects Update 5.2.4 for 10.4
+<br>
+<a href="http://www.apple.com/support/downloads/webobjects531formacosxserver104.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 27.4 MB - WebObjects 5.3.1 Update for Mac OS X Server 10.4 - Posted November 10, 2005
+<br>
+<a href="http://docs.info.apple.com/article.html?artnum=70037">WebObjects: Current Patch List</a>
+<br>
+<a href="http://www.apple.com/webobjects/">Home Page</a>
+<hr><a name = "webserver4d"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/webserver4d.png"> <b>Web Server 4D 4.0r13</b>
+<br><br>
+The ultimate web/database server (since 1995)
+<br>Full featured Web Server
+<br>awesome tracking!
+<br>Runs alone or with your existing web server
+<br>Forget Perl, ASP, CGI's, Java, Plugins... everything's built in!
+<br>Publish Unlimited Databases (nothing else to buy!)
+<br>Guestbooks and site search
+<br>Virus Protection, Graphing and Notification
+<br>Optional Modules: WS4D/eCommerce, WS4D/Email-Search, WS4D/Banners, WS4D/SSL
+<br>
+<ul>
+<li><b>License</b>: Demo, $295 - eCommerce version $895
+<li><b>Author/Publisher</b>: MDG
+<li><b>Modification Date</b>: November 2, 2004
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="ftp://ftp.mdgcs.com/demos/WS4D/Mac/WS4D_X_4.0r13_Full.sitx">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 34.3 MB
+<br>
+<a href="http://www.mdgcs.com/">Home Page</a>
+<hr><a name = "websitestatus"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/websitestatus.png"> <b>WebsiteStatus 1.0.3</b>
+<br><br>
+WebsiteStatus is perfect for anyone that has a website. It monitors a
+list of websites every ten minutes, by default, to let you know when
+your website goes down. If one or more websites are down, it will notify
+you in the dock, in the log file, by beeping, or via email.
+<br>
+Installation is simple since WebsiteStatus is a simple application. Just
+copy WebsiteStatus to your hard drive and double click it.
+<br>
+Using WebsiteStatus is just as easy! Enter your list of websites that
+you need to monitor and set the refresh interval to your liking. Below
+you can see how it check our site and two invalid sites. Notice how the
+dock icon shows the number of sites that are down. In addition, you can
+have WebsiteStatus beep or send you an email. It also records any site
+downtime in the log file. If you expand the window, you can see the
+number of bytes transferred, number of seconds to transfer, the
+bytes/second, the last checked date and time, and the html. Double
+clicking on the row will display part of the downloaded html.
+<br>
+<ul>
+<li><b>License</b>: Shareware, $10
+<li><b>Author/Publisher</b>: Camp Software
+<li><b>Modification Date</b>: October 7, 2004
+<li><b>Requirements</b>: Mac OS X
+</ul>
+<a href="http://www.campsoftware.com/download/WebsiteStatus103MacOSX.hqx">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 1.3 MB
+<br>
+<a href="http://www.campsoftware.com/websitestatus.htm">Home Page</a>
+<hr><a name = "webstar"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/webstar.gif"> <b>WebSTAR X 5.4.2</b>
+<br><br>
+The Kerio WebSTAR 5 is a web server for the Mac OS X. Acquired in
+January 2006 from 4D, Kerio WebSTAR 5 (formerly known as 4D WebSTAR
+Server Suite) helps small and medium companies run Internet and intranet
+websites and integrate them with databases.
+<br>
+In terms of functionality Kerio WebSTAR 5 is equal to 4D WebSTAR Server
+Suite minus 4D Mail. 4D Mail has been end-of-lifed and replaced by Kerio
+MailServer.
+<br>
+In terms of functionality Kerio WebSTAR 5 is equal to 4D WebSTAR Server
+Suite minus 4D Mail. 4D Mail has been end-of-lifed and replaced by Kerio
+MailServer.
+<br><br>
+File sharing plug-ins include:
+<br>4D WebSTAR Directory Indexer and File Upload Plugins - These 4D WebSTAR V plug-ins provide browser-based file sharing services, and you can use them separately or together.
+<br>4D WebSTAR FTP Plugin - This 4D WebSTAR V plug-in provides FTP-based file sharing services.
+<br>4D WebSTAR WebDAV Plugin - This 4D WebSTAR V plug-in provides WebDAV file sharing services over HTTP, and works with many clients including OS X's "Connect to Server" feature, Macromedia Dreamweaver, Adobe Golive, and many more.
+<br>
+<ul>
+<li><b>License</b>: Demo, $299
+<li><b>Author/Publisher</b>: Kerio
+<li><b>Modification Date</b>: June 4, 2006
+<li><b>Requirements</b>: Mac OS X 10.2 or higher
+</ul>
+<a href="http://www.pure-mac.com/downloads/webstardl.html">Download</a><img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 37.4 MB
+<br>
+<a href="http://www.kerio.com/webstar_home.html">Home Page</a>
+<hr><a name = "wordpress"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/php.png"> <b>WordPress 2.2.1</b>
+<br><br>
+WordPress was born out of a desire for an elegant, well-architectured
+personal publishing system built on PHP and MySQL and licensed under the
+GPL. It is the official successor of b2/cafelog. WordPress is fresh
+software, but its roots and development go back to 2001. It is a mature
+and stable product.
+<br>
+<ul>
+<li><b>License</b>: Freeware
+<li><b>Author/Publisher</b>: wordpress.org
+<li><b>Modification Date</b>: June 20, 2007
+<li><b>Requirements</b>: Mac OS X - PHP 4.1 or greater, MySQL 3.23.23 or greater, The mod_rewrite Apache module
+</ul>
+<a href="http://www.pure-mac.com/downloads/wordpressdl.html">Download</a><img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12>
+File Size: 803 Kb
+<br>
+<a href="http://wordpress.org/about/">Home Page</a>
+<hr><a name = "zendstudio"></a>
+<img align=top width="32" height="32" alt="Icon" src="images/zendstudio.png"> <b>Zend Studio 5.5</b>
+<br><br>
+Zend Studio is the only Integrated Development Environment (IDE)
+available for professional developers that encompasses all the
+development components necessary for the full PHP application lifecycle.
+Through a comprehensive set of editing, debugging, analysis,
+optimization and database tools, Zend Studio speeds development cycles
+and simplifies complex projects.
+<br>
+<ul>
+<li><b>License</b>: Demo, Enterprise - $499 - Professional $299 - Standard $99
+<li><b>Author/Publisher</b>: Zend Technologies Ltd.
+<li><b>Modification Date</b>: December 5, 2006
+<li><b>Requirements</b>: Mac OS X 10.4 or higher
+</ul>
+<a href="http://downloads.zend.com/studio/5.5.0/ZendStudio-5_5_0-Mac_OS_X.zip">Download</a><img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12>
+File Size: 44.6 MB - Demo
+<br>
+<a href="https://www.zend.com/login/form">Download Page</a>
+<br>
+<a href="http://www.zend.com/store/products/zend-studio/">Home Page</a>
+</td>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9373990431833662";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br>
+<table border=0>
+<tr>
+<td width=250 height=60 align=left valign=top>
+<img alt="Intel" src="intel.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel Native</font><br>
+<img alt="Universal Binary" src="ub.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X Intel &amp; PPC Native</font><br>
+<img alt="OS X PPC" src="osxppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS X PPC Native</font><br>
+<img alt="Classic PPC" src="ppc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 8/9 PPC Native</font><br>
+<img alt="680x0" src="680x0.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Mac OS 680x0 Native</font><br>
+<img alt="Non-Specific Code" src="nsc.gif" border=0 hspace=3 width=12 height=12> <font size=-1>Denotes Non-OS Specific Code</font><br>
+</td>
+<td width=60 height=60 align=right valign=top>
+<img align=left width="32" height="32" alt="blank" src="images/blank.gif">
+</td>
+<td width=270 height=60 align=center valign=top>
+<center><a href="http://www.pure-mac.com/"><b>Back to the Main Page of Pure Mac</b></a></center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</td>
+</tr>
+</table>
+</body>
+</html>

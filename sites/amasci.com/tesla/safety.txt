@@ -1,0 +1,91 @@
+General Safety Guidelines when working on line powered equipment including:
+	TVs, monitors, and microwave ovens.
+
+These guidelines are to protect you from potentially deadly electrical shock
+hazards as well as the equipment from accidental damage.
+
+Note that the danger to you is not only in your body providing a conducting
+path, particularly through your heart.  Any involuntary muscle contractions
+caused by a shock, while perhaps harmless in themselves, may cause collateral
+damage - there are many sharp edges inside this type of equipment as well as
+other electrically live parts you may contact accidentally.
+
+The purpose of this set of guidelines is not to frighten you but rather to
+make you aware of the appropriate precautions.  Repair of TVs, monitors,
+microwave ovens, and other consumer and industrial equipment can be both
+rewarding and economical.  Just be sure that it is also safe!
+
+* Don't work alone - in the event of an emergency another person's presence
+  may be essential.
+
+* Always keep one hand in your pocket when anywhere around a powered
+  line-connected or high voltage system.
+
+* Wear rubber bottom shoes or sneakers.
+
+* Don't wear any jewelry or other articles that could accidentally contact
+  circuitry and conduct current, or get caught in moving parts.
+
+* Set up your work area away from possible grounds that you may accidentally
+  contact.
+
+* Know your equipment: TVs and monitors may use parts of the metal chassis
+  as ground return yet the chassis may be electrically live with respect to the
+  earth ground of the AC line.  Microwave ovens use the chassis as ground
+  return for the high voltage.  In addition, do not assume that the chassis
+  is a suitable ground for your test equipment!
+
+* If circuit boards need to be removed from their mountings, put insulating
+  material between the boards and anything they may short to.  Hold them in
+  place with string or electrical tape.  Prop them up with insulation sticks -
+  plastic or wood.
+
+* If you need to probe, solder, or otherwise touch circuits with power off,
+  discharge (across) large power supply filter capacitors with a 2 W or greater
+  resistor of 100-500 ohms/V approximate value (e.g., for a 200 V capacitor,
+  use a 20K-100K ohm resistor).  Monitor while discharging and/or verify that
+  there is no residual charge with a suitable voltmeter.  In a TV or monitor,
+  if you are removing the high voltage connection to the CRT (to replace the
+  flyback transformer for example) first discharge the CRT contact (under the
+  insulating cup at the end of the fat red wire).  Use a 1M-10M ohm 1W or
+  greater wattage resistor on the end of an insulating stick or the probe
+  of a high voltage meter.  Discharge to the metal frame which is connected
+  to the outside of the CRT.
+
+* For TVs and monitors in particular, there is the additional danger of
+  CRT implosion - take care not to bang the CRT envelope with your tools.
+  An implosion will scatter shards of glass at high velocity in every
+  direction.  There is several tons of force attempting to crush the typical
+  CRT.  Always wear eye protection.
+
+* Connect/disconnect any test leads with the equipment unpowered and
+  unplugged. Use clip leads or solder temporary wires to reach cramped
+  locations or difficult to access locations.
+
+* If you must probe live, put electrical tape over all but the last 1/16"
+  of the test probes to avoid the possibility of an accidental short which
+  could cause damage to various components.  Clip the reference end of the
+  meter or scope to the appropriate ground return so that you need to only
+  probe with one hand.
+
+* Perform as many tests as possible with power off and the equipment unplugged.
+  For example, the semiconductors in the power supply section of a TV or
+  monitor can be tested for short circuits with an ohmmeter.
+
+* Use an isolation transformer if there is any chance of contacting line
+  connected circuits.  A Variac(tm) is not an isolation transformer!
+  The use of GFCI (Ground Fault Circuit Interrupter) protected outlet is a
+  good idea but will not protect you from shock from many points in a line
+  connected TV or monitor, or the high voltage side of a microwave oven, for
+  example.  A circuit breaker is too slow and insensitive to provide any
+  protection for you or in many cases, your equipment.  These devices may
+  save your scope probe ground should you accidently connect it to a live
+  chassis, however.
+
+* Don't attempt repair work when you are tired.  Not only will you be more
+  careless, but your primary diagnostic tool - deductive reasoning - will
+  not be operating at full capacity.
+
+* Finally, never assume anything without checking it out for yourself!
+  Don't take shortcuts!
+

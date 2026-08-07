@@ -1,0 +1,128 @@
+Border-Top-Width - Cascading Style Sheets Properties 
+
+ border-top-width 
+ Support Key: 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Other Border-Width Properties 
+
+ border-width 
+ border-right-width 
+ border-bottom-width 
+ border-left-width 
+
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ medium 
+ Applicable Elements: 
+ ALL 
+ Inherit From Parent: 
+ No 
+ Applicable Media: 
+ Visual 
+ HTML Equivalent: 
+ < img 
+ BORDER > | < table 
+ BORDER > 
+
+ What is it? 
+ This property controls the thickness (width) of the top border of an
+ element's rendering box. Negative values are not allowed.
+
+ Allowed Values 
+ inherit 
+ [ CSS2 ] [ N6 | O7 ] 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ thin | medium |
+ thick 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Calculated 
+ Description: 
+ Renders a "thin", "medium" or "thick" border
+ on the top side of the element's rendering box. The actual thickness of
+ these border values is not specified, but "thin" should have a
+ smaller thickness than "medium", which should have a smaller
+ thickness than "thick". 
+
+ [length] 
+ [ CSS1 | CSS2 ] 
+ [ IE4B2 | N4B3 | O3.5 ] 
+ Type: Explicit 
+ Description: 
+ Sets the width of the border on the top side of the element's rendering box
+ to an explicit measurement. 
+
+ Example 
+ Ext/Doc: strong {
+ border-top-width: thin } 
+ In-Line:&#160; < strong 
+ STYLE =" border-top-width: 
+ thin">this is a beautiful test</ strong > 
+
+ Browser Peculiarities 
+
+ Internet Explorer 
+
+ 4.0: 
+ - This property does not apply to input TYPE=checkbox/radio fields
+ - Applying border properties to list items skews the normal placement of the marker
+ 4.0+: 
+ - The default 'border-style' for form fields and tables/table cells
+ is not "none."
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+ 4.0-5.0: 
+ - This property does not apply to inline elements.
+ 5.0: 
+ - A static size is given to input TYPE=checkbox/radio fields.
+ Borders are rendered within this. Depending on the border-width,
+ this can possibly obscure part or all of the field.
+ 5.5+: 
+ - Beginning in 5.5 Beta 1, this property now applies to inline elements.
+
+ Netscape 
+
+ 4.0: 
+ - Inline elements are turned into block elements when Border properties
+ are applied.
+ - Border properties have no effect on tables and table cells
+ - Border properties applied to form fields and images: creates a linefeed
+ after the element followed by a small box carrying the border property/value.
+ - Border properties applied to list items (LI) and DT/DD:
+ creates a small box carrying the border property/value, followed by
+ a linefeed, followed by the list item content.
+ - Border properties applied to list structures (OL/UL): causes the list
+ markers to be shown as small bullets, regardless of the 'list-style-type' applied.
+ - The default value for 'border-style' is "solid", not "none". The
+ default value for 'border-width' is "0", not "medium."
+ - Border properties applied to hyperlinks make the hyperlink unusable!
+ - Border styles applied to unclosed P element, nested inside a floating
+ element: all content after opening P element disappears.
+ - Reported elsewhere: Crash when border applied to unclosed P element
+ in table cell, while another table is nested in the cell (verified in
+ 4.0x, NT but appears ok in 4.5x, 98)
+ - Even if the 'border-style' is set to "none", an element is rendered
+ with space allowance for any indicated 'border-width' value.
+ - Reported elsewhere: Assigning border properties to elements with
+ 'width' set to "100%" can cause unnecessary linefeeds when printing.
+
+ Opera 
+
+ 3.5: 
+ - Borders have no effect on images, tables, table cells and form fields.
+ - Using a 'border-style' of "double" with 'border-width' set to "thin"
+ produces a solid, thin border, not a double border.
+
+ Boring Copyright Stuff....

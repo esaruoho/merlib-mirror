@@ -1,0 +1,470 @@
+SMALLnet post281 
+
+ SMALLnet Posting post281
+
+Date: Wed, 19 Jan 2000 02:12:37 -0600
+
+ SMALLnet's Web Site address is:
+ < http://www.eskimo.com/~smallnet >.
+
+...Gang, it's Travel Time for me again. Tomorrow I'm off on another
+2300-mile drive to Los Angeles. I'll probably be gone around 20
+days. But I MAY be able to keep SMALLnet going -- if I can
+mooch some computer time from my friends as I did last Fall.
+
+Still, it would help to keep your SMALLnet contributions concise,
+because I'll have a LOT of back-and-forth driving to do out West,
+and that freeway traffic takes a bit out of a guy... [JW]
+
+Dave Larkin < > responds to Posting # 280:
+
+I'm sure the MVVS .09 and .12 were made by Modela for MVVS,
+not the other way around.
+
+By the way, Paul, I have a slightly used Cox Queen Bee for you if
+you send me a postal address. It doesn't have a Cox head but has 
+a normal glowplug fitted. I must check whether that is standard.
+
+Regarding ED parts, I have an idea that they are still in business,
+in a small way. John Goodall of Barton Model Products who produces
+Model Engine News would know for sure. Don't know if they have any
+spares for the older engines, but the ED 246 was in production until
+comparatively recently, although it had been much modified.
+
+I recently brought in a Schlosser 1cc (0.06 cu in) R/C for a
+customer, getting it from David Owen in Australia (excellent
+service). It was very expensive, about 2 1/2 times the cost of
+the PAW, but is a delight, and apparently started instantly for
+the owner, who is very pleased.
+
+VA have just produced an R/C version of the 049 glow with a nice
+muffler and a good looking if simple carb. I have one but haven't
+run it yet. It's cold outside and I've done my share of outside
+engine tinkering getting my snow blower to run. (Next spring I will
+remember to drain the tank!)
+
+As Joe says, Andy, lots of people have made little engines
+originally designed as diesels, and certainly PAW have. The
+PAW 049 idles at a much lower rpm than the Cox TD 05 R/C, 
+though the throttle action isn't quite as linear or smooth.
+
+One engine which might be worth a second look is the Australian
+Philtech 09 diesel, which looks like a natural for the Lazy Bee.
+It is a solid looking engine with a minipipe muffler and now
+comes with a red enamelled crankcase (the glow version is 
+orange). There have been a variety of other crankcase colours - 
+mine is black. This is an early Philtech, but I have misplaced 
+the R/C carb for it.
+
+In any case the early R/C carb was rather primitive, it just varied
+the mixture. I will look into getting another R/C carb and see
+what it is like. I brought in two batches of Philtechs, and they
+went very quickly, but mostly to collectors. The non-R/C version
+engine was tested in AeroModeller and got a good write-up.
+
+Best wishes for 2000, Dave
+
+Rich Border < > contributed:
+
+Sandy Frank is "seeking the power of an .049 with the silence 
+of electric, but without the wing loading of electric!!!"
+
+My friend Charlie had an .049 in a Ranger 42 that sounded like a
+sewing machine. The muffler he used was a Tatone. This was in
+the mid 70's, so I'm not sure of availability now.
+
+I have OS .15FPs that I want to run APC 8x4 and 5s on. My problem
+is the hole in the APC is bigger than the shaft of the .15, and the
+prop hub is too thick to run the washer and nut. So far I've put
+electrical tape, about two turns, on the shaft to keep it centered
+and am using just the OS safety prop nut to hold the prop on.
+
+Does anyone make a sleeve for the shaft? Can I thin the hub of the
+props safely? I would think the best way to mate these two would be
+a kind of safety nut shaft sleeve extension, but it's too much to
+ask for one to be available.
+
+Rich Border
+
+....Rich, we used to have problems of this sort 50 years ago with 
+control-line Team Racers, and solved them by making a "hollow 
+bolt" to retain the propeller. 
+
+Briefly, you take a suitable-size mild steel hex-head bolt long 
+enough to have an unthreaded section adjacent to the head. 
+Cut the bolt off to a suitable length (approximately the thickness 
+of the thinnest prop you plan to use), and drill & tap it to fit your 
+engine's shaft.
+
+Concentricity is the major criterion, which means that doing this
+job in a drill press won't be easy. A metal-cutting lathe is THE
+way to go here...
+
+It may be necessary to open up the APC propeller's central hole 
+to fit the new "hollow bolt". If so, DON'T try to drill out the prop
+with any kind of power drill!!! The bit will "hog" into the plastic, 
+jam, and that sharp-edged propeller whirling around on
+the drill can make a guy mighty sorry.
+
+Enlarge plastic propeller hub holes ONLY with a hand drill. [JW]
+
+Mike Kerry < > reports:
+
+Flew my own design electric model on Sunday; temperature was 
+just above 0 degrees (degrees C, that is). Must have had nearly 
+an hour's worth of flying on 7 800 mAH cells (rescued from nearly 
+two mobile 'phone batteries from ex-equipment units).
+
+Details: span, 60 inch. Chord, 8 inch. Area, 480 squinches (3.33
+sqft). Weight, a fraction over 20 oz (well, 20.2 actually).
+Wing loading, say 6.1 oz per sqft. Powered by a Speed 400 6V 
+with Mini-Olympus gearbox and a 9x5 folder. When trimmed for 
+best glide it is really slow. People even suggested flying it at one 
+of our indoor meets (!).
+
+Full throttle climb angle about 30 degrees. I am impressed.
+
+The wing is geodetic with ribs varying in thickness from 1/16,
+1 millimeter, to 1/32. Leading edge is formed 1/32 sheet (1 1/2
+inches wide). Covered in 5 micron mylar, and the weight is
+1.75 ounces. The rest of the model is made from 1/16" and 
+1/8" sheet balsa.
+
+The electronics are two HS101's, a 20 Amp speed controller 
+with BEC, and a 4-channel Futaba Receiver.
+
+Two ways to go now: lighten the fuselage and tailplane (guess-
+timate losing 2 1/2 ounces), fit a well geared 280, 110 mAH cells, 
+and go Slow Fly. Or, increase the wing loading by fitting 7 2 AH 
+cells, thus increasing glide speed, and go for a really boring 
+afternoon's flying. I think I'll try the second. Colonial Mike
+
+Tony Shepherd < > says:
+
+Being a fairly new convert to the pleasures of electric free flight,
+I am still at the stage of delving around to see what's available.
+Over here in UK we can readily get hold of Knight and Pridham's
+KP00, 01 and 02 and the Graupner and MFA ranges, but having 
+trawled through Dick Miller's motor data pages, it would seem that 
+you guys in the US have a fair bit more to choose from than us 
+over here.
+
+So does anyone know of someone in the UK that imports some of 
+the other manufacturers' stuff? I'm sure there must be someone over 
+here with a supply of VL equipment. If not, who is a good mail order
+source in the US, preferably someone with a website...?
+
+Tony Shepherd
+
+....Tony, have you tried George Wallbridge at SAMS Models? By the
+way, VL is a one-man operation -- and its owner-operator had severe
+health problems last year, requiring major heart surgery. The last
+I heard, he was making a good but slow recovery. [JW]
+
+Phil Plumbo < > wonders:
+
+I am returning to the hobby after leaving it in 1995. At that time
+John Bell was selling nicely-drawn plans for rubber-powered models.
+I heard that he sold his business. Does anyone know where I can
+find these plans now?
+
+Thanks, Phil Plumbo St. Paul, Minnesota USA
+
+Tom Anderson < > asserts:
+
+There was so much good stuff on #280 I find myself coming out
+of 'lurk' mode for a few comments.
+
+Dr. Mike Hawkins echoed the private E-mail I sent to the guy with
+the HP21 problems. I wonder if we can get that individual to tell
+us if his problem is solved.
+
+The Hobbylab SR-71 described by Tony Turley sounds suspiciously 
+like one that SMALLsters Tom Blakeney and/or Paul Willenborg 
+designed for a (I think) short-lived outfit in Texas. Perhaps we can 
+get one of them to emerge from 'lurk' long enough to comment.
+
+Steve Vincent mentions woes with cold weather operation, and 
+Joe gave him excellent expert advice -- but I wonder if it could be
+something so simple as a bit of moisture in his fuel. Here in
+north-central Arkansas, the summer weather is so humid that 
+fuel stored in plastic seems to suck water thru the pores.
+
+Andy Woitowicz must have read the message I sent to Dr. Sandy
+Frank tho' it's far more likely that I have actually learned some-
+thing from corresponding with Andy. In any case, for those who
+were at the Maumelle SMALL meet in '99, Steve Staples had a
+Pietenpol Aircamper with the MP Jet in it. When in the air with
+other planes, the MP could not be heard unless it passed very 
+near in a low, slow fly-by.
+
+IMHO, the MP Jet in diesel form is the nearest thing we have at 
+this time to the perfect Small IC engine. It is quite powerful, swings 
+a variety of props and throttles impeccably. An ungeared electric 
+is quieter, tho' not by much, and I've heard many geared electrics
+which were actually louder than the Jet. What's not to like?
+
+For Boris, who enquired about foamboard. Try a home supply 
+center that carries vinyl siding. Ask to see the 'fan-fold' insulation
+used as an insulating layer under the vinyl. It is in a 4'x 4'
+sheet (AFIK) with a crease at the 2' point. All brands with which
+I am familiar are 1/4" thick and weigh very close to 1 ounce/
+square foot. This is the nearest thing to 'Depron' I have been 
+able to find at an affordable price. BTW, if you find it thinner 
+than a quarter inch, please let the rest of us know.
+
+The idea of soldering the PAW throttle arm/spraybar is a real
+forehead slapper. I've cursed that spraybar numerous times 
+while trying to get it to line up properly. As you know, just as 
+you have it all in line and try to tighten it in place, something
+always seems to slip and you have to start over.
+
+FWIW, after Eric Clutton told us to check the spraybar position,
+I looked at a dozen PAWs that George Smith and I own. One, yes
+ONE, was in the right place. All the rest had to be repositioned.
+
+Each engine was then test-run, and all starting and idling problems
+had magically disappeared. Years of flipping, sweating and cursing
+were eliminated almost completely. Thanks for the solder method,
+that should cure the last PAW curse.
+
+Recently the Eiffel 400 and the RAF 32 airfoils were mentioned as
+being good low-speed, high-lift sections. My question is: just
+how slowly is it possible to sustain level flight, and what are
+the parameters to achieve minimal airspeed?
+
+Back to 'lurk' mode. Cheers, Tom @ Buzzard Bluff
+
+....Tom, I haven't been soldering the throttle arm to the spraybar,
+because the retaining nut is at that end! Instead, I clean and
+"tin" the "inner" surface of the throttle arm and the mating end
+surface of the carb barrel. I made up a wooden "fixture" to hold
+these two parts together in their proper angular relationship while
+I "sweat solder" the arm to the barrel.
+
+Modifying the PAW's carb in this way eliminates the tendency of
+the throttle actuation and/or vibration to loosen the retainer
+nut. (For extreme permanence you could lock the retainer nut to
+the spraybar with blue or purple Loctite.) [JW]
+
+Mike Woodhouse < > is a source for Depron:
+
+ Source: Foam, DEPRON 
+
+WHITE DEPRON FOAM
+
+Lightweight plastic foam for indoor models. Easy to cut and mould.
+6mm x 300 x 210 (A4) 55p per sheet, 500 x 250 110p per sheet.
+3mm x 300 x 210 (A4) 45p per sheet, 500 x 250 85p per sheet.
+Plus 38p postage for A4 size, large sheets available on the field
+only.
+
+Michael J Woodhouse
+Free Flight (we now take credit cards) Supplies -- for all your
+free flight needs and more! A Happy New Year from FFS.
+< http://members.aol.com/mjwffs > 
+[New web site: < http://www.freeflightsupplies.co.uk > - Bill Lee]
+
+The Wormwood Scrubster < > returns, with:
+
+I have just completed a 4-channel overwing trainer of my own design.
+It is powered by a Cox .020. It has a 28 inch wing span; radio gear
+is a Jeti micro receiver, 4 very small 6 gram servos, and a small
+battery pack. It weighs 8 3/4 ounces and it looks like a trainer,
+with steerable tail wheel, windows and all.
+
+The bonus part is it flies rather nicely too. We took it to the
+De Havilland Factory (now British Aerospace) where there is a
+1-mile runway; just about enough room for a little .020 trainer.
+
+In the event we had some touch and go's and a full stop very nice,
+as I am used to flying off the Wormwood Scrubs soccer pitch. Not
+content with this, a 20-inch TD .010 powered 2-channel CAP 21 has
+also been completed. It was another scratch build, and again, it
+flies.
+
+My question is can you direct me as where to get plans for aircraft
+of the sub 20 inch wing span variety? I like scratch building but
+I would also like to try some miniature scale. Any ideas?
+
+Happy flying, Wormwood Scrubsters
+
+Walt Buskey < > wrote:
+
+For Steve Vincent -- Although I don't do it as much now, I used to
+fly a well-used OS FP .20 year round. I found that Red Max will,
+upon request, provide a fuel mix for cold weather use. I believe
+the extra ingredient is propylene oxide. That fuel seemed to work
+quite well for me, even in temperatures near zero F.
+
+On another note, the new wing I created for the Ace Whizard
+(slightly longer wingspan & chord, much less dihedral and a
+thicker section) didn't work out quite as well as I had hoped.
+
+Though it got airborne quickly, there was apparently a warp in the
+wing which forced me to add stick to a max-right trim setting,
+though the model had flown well with neutral settings on the
+"original" (built-up) wing. The plane was also a bit tail heavy,
+due to the wider wing's LE being at the same point as the original.
+
+Oh well, back to the drawing board! On the positive side, the
+larger wing did slow the model down as was intended.
+
+Stay warm! Walt Buskey, Etna, New Hampshire
+(currently -10 degrees F.!!)
+
+Howard Metcalfe < > relates:
+
+I've been quiet for a long while now, so will blurt out a lump!
+First, I wanted to thank all of you who wrote so concisely on how
+to start diesel engines; getting my memory glands all stirred up.
+
+My first diesel was a Mills .75 I bought from Bert Pearce's model
+shop in Slough Covered Market in the early 50's when I was in my
+equally early teens. Bert was a lovely bloke and let me pay for it
+at the rate of two and sixpence a week (about 20 cents then) from my
+pocket money. I eventually picked it up and in the evening when my
+parents went out I set to at starting it by clamping the engine in my
+fist and forcing my hand onto the edge of the gas stove as firmly
+as I could. Don't do this at home, folks!
+
+It didn't help that knowing nothing about such matters I removed
+the compression screw stop and immediately lost the settings
+(impetuous youth -- I know). I flicked away all evening and finally
+got it running, still in my hand and with very sore flicking finger.
+
+Fortunately the Mills is a little gem and repays such abuse with
+pure charm. When it did start I got the fright of my life and soon
+was hoping it would stop. Luckily it did, as I only put a tiny
+drop of fuel in it at a time. No harm done, and I bet plenty
+of others have done the same.
+
+When my parents got in a bit later they had a few quaint words 
+to say about the smell in the room, but I got away with it.
+
+Later I built a more respectable test mount and ran it in the 
+garden. Strangely all of Dad's goldfish died. I wonder why 
+goldfish can't survive with an oil slick on the surface of their 
+pond? Dad never said a word, bless him.
+
+What I'm try to get round to saying is that I learnt the hard way
+with no one to turn to for help, and so learnt it instinctively.
+If someone asked me then exactly how it was done I would 
+have been hard pressed to reply better than 'I just start them'.
+
+In truth there is an art to starting all model engines (diesel or
+glow). It hinges on getting them to exactly the right state of
+'juiciness'; well, that's how I think of it. I usually (not always)
+know when an engine is about to start by how it feels: not too 
+dry and not too wet; it has to be just right.
+
+With larger engines you can almost adopt a fixed routine, but the
+tiddlers need a little more understanding and sometimes a lot of
+patience, just like kids really.
+
+Once fuelled and primed, it should become second nature to
+occasionally check for hydraulic locking by turning the engine 
+over with the propeller gripped firmly in the hand (not trying to flip 
+or flick it). If the engine only goes over stiffly or not at all then
+there is probably too much fuel in it. On small motors with open
+ports, lowering the piston and blowing hard through the ports 
+easily rectifies this. Repeat until it feels OK.
+
+If it has a silencer, tip the engine on its side and rotate the prop
+backwards and forwards several times. After a while rotate the 
+whole engine (and model) so that the excess fuel can drain from 
+the silencer. Repeat until the 'lock' disappears. It will most likely
+start straight away now.
+
+Sometimes you can start a diesel with too much fuel in it, but it
+runs rather strangely just sitting there with the prop oscillating
+and not rotating, shaking like mad. If you are quick you can lower
+the compression about half a turn (sometimes a lot more if it is
+really flooded) and the engine will then break into proper running.
+
+Speed is again needed to increase the compression to a more normal
+setting or the engine will stop. You have to be careful doing this,
+as with the engine shaking and the fingers slippery with fuel, your
+digits can easily end up in the prop! Ouch.
+
+In my half size Moonraker for free flight called Half Moon (sorry:
+before you ask, it is not published) I have a .5cc Dart diesel
+(another gem). This is side mounted and completely cowled in with
+no access to finger choke it.
+
+To start from dry I squirt fuel into the carb letting most of it run
+out and turn the prop over a few times until it feels like it's
+going to co-operate (nice and free). The externally mounted FF tank
+is then filled to about half way, and a tiny squirt of fuel is aimed
+into the ports. The compression screw is backed off about a quarter
+of a turn and the needle valve opened about half a turn. A couple of
+flicks and it's running.
+
+If I'm lucky the fuel is now drawn up the fuel tube to the carb and
+it keeps on running. As it warms up, the settings can be adjusted
+for flight. A hot or warm start is much the same except the carb
+prime can be left out.
+
+Now must get on with my Su27 all 2mm foam rubber powered pusher 
+for the next indoor meet.
+
+Sorry to ramble on. Have fun, Howard
+< http://www.metcalfehmm.freeserve.co.uk >
+
+David Williams < > pleads:
+
+Help please!!! I am thinking of building a lightweight 36-inch span
+glider to be flown off a mini-bungee. I intend to fit a Jeti 9 gram
+receiver, two 9 gram servos, and a 110 mAH pack. Can anyone give
+any useful tips? (Apart from, "Don't bother!") David
+
+Mark Garvey < > contributed:
+
+My Buddy Steve from Iowa City is the proud owner of the largest
+SMALL eligible model I know of. A .25 powered Big Lazy Bee.
+Last conversation we had, he said he could probably land it on a
+field of raw eggs and not break any! This is an improvement over
+a couple of years ago when a broken airplane was his usual landing!
+( ;-> Steve!)
+
+On the other hand, I have a couple of things. Another friend who
+cleans my engines in his ultrasonic cleaner (he is an amateur
+machinist and a professional jeweler) has taken apart my .21 and
+my .49 HP engines. Are they EVER cool inside! Very ingenious and
+full of "fiddily bits". They needed cleaning too.
+
+Current "wild hair idea" is my "Lazy Flea" a "Bee version" of the
+Pou du Ciel. Can anyone tell me how you would SAY Lazy Flea in
+French! This begs the question, do I have too many irons in the
+fire? The answer is Of course!
+
+But the Electric Bee is well under way, the fuselage at present weighs
+about 2 ounces. Wing should come in at 3.5-4 ounces; RTF fuselage
+at about 5, which gives me about 14-16 ounces total (I hope!)
+
+My only non-concession to weight is the Trexler Wheels. They are
+the ultimate "Bee signature!" Well, off to my workshop, Igor!
+
+Mark
+
+....Mark, in French, "Lazy Flea" would be something like "La Puce
+Paresseuse". ("Le Pou du Ciel" means "Louse of the Sky", or
+even "Louse of Heaven".) [JW]
+
+Jeff Connor < > requests:
+
+Tell us more about the two-tank CO2 motor. I've been thinking
+about long-duration runs in P-30 type airframes, where tank
+orientation within the airframe is a problem, and an expansion
+tank might be the answer. TIA, Jeff Connor
+
+....Jeff, while I'm in California I think I'll buy one of those
+motors. That way I can provide a personal report about it to
+SMALLsters -- and also use the information in my Model 
+Aviation engine column. Stay tuned! [JW]
+
+ * * * * * * E N D * * * * * *
+
+ Back to the SMALLnet home page
+ Back to the Posting index
+ Back to the Source index

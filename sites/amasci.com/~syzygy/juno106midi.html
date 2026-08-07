@@ -1,0 +1,836 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Juno-106 MIDI Implementation</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (Win95; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P><LINK rev="made" href="mailto:syzygy@eskimo.com"></P>
+
+<H1>Juno-106 MIDI Implementation</H1>
+
+<P>This information is taken from the Juno-106 Owner's Manual. Corrections
+can be mailed to Chad Beeder at <A HREF="mailto:syzygy@eskimo.com">syzygy@eskimo.com</A>.</P>
+
+<P>
+<HR></P>
+
+<H2>Transmitted Data</H2>
+
+<H3>When MIDI Function is 1.</H3>
+
+<P>Note events, Hold on/off, and Channel Mode messages are sent.</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TH>Status</TH>
+
+<TH>Second</TH>
+
+<TH>Third</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD><TT>1001 nnnn</TT></TD>
+
+<TD><TT>0kkk kkkk</TT></TD>
+
+<TD><TT>0100 0000</TT></TD>
+
+<TD>Note On</TD>
+</TR>
+
+<TR>
+<TD><TT>1001 nnnn</TT></TD>
+
+<TD><TT>0kkk kkkk</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Note Off</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0100 0000</TT></TD>
+
+<TD><TT>0111 1111</TT></TD>
+
+<TD>Hold On (from rear panel jack)</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0100 0000</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Hold Off</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1011</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>All Notes Off*</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1100</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Omni Off**</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1111</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Poly On**</TD>
+</TR>
+</TABLE>
+
+<H5>Notes:</H5>
+
+<P>nnnn: MIDI channel number-1. (If chan=1, nnnn=0000) <BR>
+kkkkkkk: 24-108 <BR>
+* When all notes turn off <BR>
+** When power up or MIDI channel number is set <BR>
+</P>
+
+<H3>When MIDI Function is 2.</H3>
+
+<P>All messages in Function 1, plus Program Change, Bender, and LFO Modulation
+are sent.</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TH>Status</TH>
+
+<TH>Second</TH>
+
+<TH>Third</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD><TT>1100 nnnn</TT></TD>
+
+<TD><TT>0ppp pppp</TT></TD>
+
+<TD></TD>
+
+<TD>Program Change (0-127)</TD>
+</TR>
+
+<TR>
+<TD><TT>1110 nnnn</TT></TD>
+
+<TD><TT>0bb0 0000 <BR>
+(LSB)</TT></TD>
+
+<TD><TT>0bbb bbbb <BR>
+(MSB)</TT></TD>
+
+<TD>Pitch Bender <BR>
+MAX (high): MSB=127, LSB=96 <BR>
+CENTER: MSB=64, LSB=0 <BR>
+MIN (low): MSB=0, LSB=0 </TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0000 0001</TT></TD>
+
+<TD><TT>0111 1111</TT></TD>
+
+<TD>LFO Modulation On</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0000 0001</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>LFO Modulation Off</TD>
+</TR>
+</TABLE>
+
+<H3>When MIDI Function is 3.</H3>
+
+<P>All messages in Function 1, plus Bender, LFO Modulation and System Exclusive
+messages are sent.</P>
+
+<P>
+<HR></P>
+
+<H2>Recognized Receive Data</H2>
+
+<H3>When MIDI Function is 1.</H3>
+
+<P>When power is first applied, receiver's mode is Omni On, Poly mode.
+Note events, Hold on/off and Channel Mode messages are recognized.</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TH>Status</TH>
+
+<TH>Second</TH>
+
+<TH>Third</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD><TT>1000 nnnn</TT></TD>
+
+<TD><TT>0kkk kkkk</TT></TD>
+
+<TD><TT>0vvv vvvv</TT></TD>
+
+<TD>Note Off, velocity ignored</TD>
+</TR>
+
+<TR>
+<TD><TT>1001 nnnn</TT></TD>
+
+<TD><TT>0kkk kkkk</TT></TD>
+
+<TD><TT>0000 0000</TT></TD>
+
+<TD>Note Off <BR>
+kkkkkkk=0-127 (24-108)</TD>
+</TR>
+
+<TR>
+<TD><TT>1001 nnnn</TT></TD>
+
+<TD><TT>0kkk kkkk</TT></TD>
+
+<TD><TT>0vvv vvvv</TT></TD>
+
+<TD>Note On <BR>
+kkkkkkk=0-127 (24-108) <BR>
+vvvvvvv=1-127, velocity ignored</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0100 0000</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Hold Off</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0100 0000</TT></TD>
+
+<TD><TT>0vvv vvvv</TT></TD>
+
+<TD>Hold On <BR>
+vvvvvvv=1-127</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1011</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>All Notes Off</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1100</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Omni Off</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1101</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Omni On</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1110</TT></TD>
+
+<TD><TT>0mmm mmmm</TT></TD>
+
+<TD>Mono On</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0111 1111</TT></TD>
+
+<TD><TT>0</TT></TD>
+
+<TD>Poly On</TD>
+</TR>
+</TABLE>
+
+<H5>Notes:</H5>
+
+<P>Mode messages (123-127) are also recognized as All Notes Off. <BR>
+The Juno-106 does not respond to Mono On messages.</P>
+
+<P>Mode messages are recognized as follows:</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TD></TD>
+
+<TH>Poly On</TH>
+
+<TH>Mono On <BR>
+mmmmmmm=1</TH>
+
+<TH>Mono On <BR>
+mmmmmmm&lt;&gt;1</TH>
+</TR>
+
+<TR>
+<TH>Omni Off ($7C)</TH>
+
+<TD>Omni=Off, Poly</TD>
+
+<TD>Omni=Off, Poly</TD>
+
+<TD>Omni=On, Poly</TD>
+</TR>
+
+<TR>
+<TH>Omni On ($7D)</TH>
+
+<TD>Omni=On, Poly</TD>
+
+<TD>Omni=On, Poly</TD>
+
+<TD>Omni=On, Poly</TD>
+</TR>
+</TABLE>
+
+<P>Recognized channels are as follows:</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TH>Mode</TH>
+
+<TH>Voice Messages</TH>
+
+<TH>Mode Messages</TH>
+</TR>
+
+<TR>
+<TH>Omni Off mode</TH>
+
+<TD>Basic channel only</TD>
+
+<TD>Basic channel only</TD>
+</TR>
+
+<TR>
+<TH>Omni On mode</TH>
+
+<TD>All channels</TD>
+
+<TD>Basic channel only</TD>
+</TR>
+</TABLE>
+
+<H3>When MIDI Function is 2.</H3>
+
+<P>All messages in Function 1, plus Program Change, Bender, and LFO Modulation
+are recognized.</P>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TH>Status</TH>
+
+<TH>Second</TH>
+
+<TH>Third</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD><TT>1100 nnnn</TT></TD>
+
+<TD><TT>0ppp pppp</TT></TD>
+
+<TD></TD>
+
+<TD>Program Change (0-63: Bank A, 64-127: Bank B)</TD>
+</TR>
+
+<TR>
+<TD><TT>1110 nnnn</TT></TD>
+
+<TD><TT>0b00 0000</TT></TD>
+
+<TD><TT>0bbb bbbb</TT></TD>
+
+<TD>Pitch Bender (Least significant 6 bits are ignored)</TD>
+</TR>
+
+<TR>
+<TD><TT>1011 nnnn</TT></TD>
+
+<TD><TT>0000 0001</TT></TD>
+
+<TD><TT>0vvv vvvv</TT></TD>
+
+<TD>LFO Modulation (v=0-127)</TD>
+</TR>
+</TABLE>
+
+<H5>Notes:</H5>
+
+<P>Sensitivity of the pitch bender and modulation can be adjusted by receiver.
+</P>
+
+<H3>When MIDI Function is 3.</H3>
+
+<P>All messages in Function 2, plus System Exclusive messages are recognized.</P>
+
+<P>
+<HR></P>
+
+<H2>Exclusive Messages</H2>
+
+<H3>When Group, Bank, or Patch Number is changed.</H3>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TD></TD>
+
+<TH>Byte</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD>a</TD>
+
+<TD><TT>1111 0000 ($F0)</TT></TD>
+
+<TD>Exclusive</TD>
+</TR>
+
+<TR>
+<TD>b</TD>
+
+<TD><TT>0100 0001 ($41)</TT></TD>
+
+<TD>Roland ID#</TD>
+</TR>
+
+<TR>
+<TD>c</TD>
+
+<TD><TT>0011 0000 ($30)</TT></TD>
+
+<TD>Function Type</TD>
+</TR>
+
+<TR>
+<TD>d</TD>
+
+<TD><TT>0000 nnnn ($0N)</TT></TD>
+
+<TD>N+1=MIDI channel (N=0-15)</TD>
+</TR>
+
+<TR>
+<TD>e</TD>
+
+<TD><TT>0xxx xxxx</TT></TD>
+
+<TD>Program Number (0-127)</TD>
+</TR>
+
+<TR>
+<TD>f</TD>
+
+<TD><TT>0zzz zzzz</TT></TD>
+
+<TD>Value (0-127) <BR>
+(18 bytes total for values)</TD>
+</TR>
+
+<TR>
+<TD>g</TD>
+
+<TD><TT>1111 0111 ($F7)</TT></TD>
+
+<TD>EOX (End of Exclusive)</TD>
+</TR>
+</TABLE>
+
+<H5>Example:</H5>
+
+<PRE>   a  b  c  d  e   f  f  f  f  f  f  f  f  f
+   F0 41 30 00 00  39 2D 00 37 00 55 00 00 00
+
+   f  f  f  f  f  f  f  f  f   g
+   19 34 3B 20 56 28 00 1A 18  F7
+</PRE>
+
+<H3>When Manual button is pressed.</H3>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TD></TD>
+
+<TH>Byte</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD>a</TD>
+
+<TD><TT>1111 0000 ($F0)</TT></TD>
+
+<TD>Exclusive</TD>
+</TR>
+
+<TR>
+<TD>b</TD>
+
+<TD><TT>0100 0001 ($41)</TT></TD>
+
+<TD>Roland ID#</TD>
+</TR>
+
+<TR>
+<TD>c</TD>
+
+<TD><TT>0011 0001 ($31)</TT></TD>
+
+<TD>Function Type</TD>
+</TR>
+
+<TR>
+<TD>d</TD>
+
+<TD><TT>0000 nnnn ($0N)</TT></TD>
+
+<TD>N+1=MIDI channel (N=0-15)</TD>
+</TR>
+
+<TR>
+<TD>e</TD>
+
+<TD><TT>0000 0000 ($00)</TT></TD>
+
+<TD>Number indicates &quot;Manual&quot;</TD>
+</TR>
+
+<TR>
+<TD>f</TD>
+
+<TD><TT>0zzz zzzz</TT></TD>
+
+<TD>Value (0-127) <BR>
+(18 bytes total for values)</TD>
+</TR>
+
+<TR>
+<TD>g</TD>
+
+<TD><TT>1111 0111 ($F7)</TT></TD>
+
+<TD>EOX (End of Exclusive)</TD>
+</TR>
+</TABLE>
+
+<H5>Example:</H5>
+
+<PRE>   a  b  c  d  e   f  f  f  f  f  f  f  f  f
+   F0 41 31 00 00  03 00 00 00 00 3F 3C 00 00
+
+   f  f  f  f  f  f  f  f  f   g
+   7F 45 00 00 7F 00 00 2A 19  F7
+</PRE>
+
+<H3>When sliders are adjusted or switches are changed.</H3>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<TR>
+<TD></TD>
+
+<TH>Byte</TH>
+
+<TH>Description</TH>
+</TR>
+
+<TR>
+<TD>a</TD>
+
+<TD><TT>1111 0000 ($F0)</TT></TD>
+
+<TD>Exclusive</TD>
+</TR>
+
+<TR>
+<TD>b</TD>
+
+<TD><TT>0100 0001 ($41)</TT></TD>
+
+<TD>Roland ID#</TD>
+</TR>
+
+<TR>
+<TD>c</TD>
+
+<TD><TT>0011 0010 ($32)</TT></TD>
+
+<TD>Function Type</TD>
+</TR>
+
+<TR>
+<TD>d</TD>
+
+<TD><TT>0000 nnnn ($0N)</TT></TD>
+
+<TD>N+1=MIDI channel (N=0-15)</TD>
+</TR>
+
+<TR>
+<TD>e</TD>
+
+<TD><TT>0yyy yyyy</TT></TD>
+
+<TD>Parameter number (0-17) (See below)</TD>
+</TR>
+
+<TR>
+<TD>f</TD>
+
+<TD><TT>0zzz zzzz</TT></TD>
+
+<TD>Value (0-127)</TD>
+</TR>
+
+<TR>
+<TD>g</TD>
+
+<TD><TT>1111 0111 ($F7)</TT></TD>
+
+<TD>EOX (End of Exclusive)</TD>
+</TR>
+</TABLE>
+
+<H5>Example:</H5>
+
+<PRE>   a  b  c  d  e   f   g
+   F0 41 32 00 03  04  F7
+</PRE>
+
+<H3>Parameter number table </H3>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<CAPTION>
+<P><B>For sliders:</B></P>
+</CAPTION>
+
+<TR>
+<TD>$00</TD>
+
+<TD>LFO rate</TD>
+</TR>
+
+<TR>
+<TD>$01</TD>
+
+<TD>LFO delay</TD>
+</TR>
+
+<TR>
+<TD>$02</TD>
+
+<TD>DCO LFO modulation level</TD>
+</TR>
+
+<TR>
+<TD>$03</TD>
+
+<TD>DCO PWM modulation level</TD>
+</TR>
+
+<TR>
+<TD>$04</TD>
+
+<TD>Noise level</TD>
+</TR>
+
+<TR>
+<TD>$05</TD>
+
+<TD>VCF cutoff level</TD>
+</TR>
+
+<TR>
+<TD>$06</TD>
+
+<TD>VCF resonance level</TD>
+</TR>
+
+<TR>
+<TD>$07</TD>
+
+<TD>VCF ENV level</TD>
+</TR>
+
+<TR>
+<TD>$08</TD>
+
+<TD>VCF LFO modulation level</TD>
+</TR>
+
+<TR>
+<TD>$09</TD>
+
+<TD>VCF KYBD modulation level</TD>
+</TR>
+
+<TR>
+<TD>$0A</TD>
+
+<TD>VCA level</TD>
+</TR>
+
+<TR>
+<TD>$0B</TD>
+
+<TD>ENV attack rate</TD>
+</TR>
+
+<TR>
+<TD>$0C</TD>
+
+<TD>ENV decay rate</TD>
+</TR>
+
+<TR>
+<TD>$0D</TD>
+
+<TD>ENV sustain level</TD>
+</TR>
+
+<TR>
+<TD>$0E</TD>
+
+<TD>ENV release rate</TD>
+</TR>
+
+<TR>
+<TD>$0F</TD>
+
+<TD>Sub level</TD>
+</TR>
+</TABLE>
+
+<TABLE BORDER=1 CELLPADDING=2 >
+<CAPTION>
+<P><B>For buttons/switches:</B></P>
+</CAPTION>
+
+<TR>
+<TD>bit:</TD>
+
+<TD>6</TD>
+
+<TD>5</TD>
+
+<TD>4</TD>
+
+<TD>3</TD>
+
+<TD>2</TD>
+
+<TD>1</TD>
+
+<TD>0</TD>
+</TR>
+
+<TR>
+<TD>$10</TD>
+
+<TD>Chorus Level <BR>
+1: I, 0: II</TD>
+
+<TD>Chorus <BR>
+1: Off, 0: On</TD>
+
+<TD>Sawtooth <BR>
+1: On, 0: Off</TD>
+
+<TD>Pulse <BR>
+1: On, 0: Off</TD>
+
+<TD colspan=3>Range <BR>
+100: 4', 010: 8', 001: 16'</TD>
+</TR>
+
+<TR>
+<TD>$11</TD>
+
+<TD>0</TD>
+
+<TD>0</TD>
+
+<TD colspan=2>High Pass Filter <BR>
+11: Off, 10: 1, 01: 2, 00: 3</TD>
+
+<TD>VCA <BR>
+1: gate, 0: ENV</TD>
+
+<TD>ENV <BR>
+1: -, 0: +</TD>
+
+<TD>PWM <BR>
+1: Manual, 0: LFO</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

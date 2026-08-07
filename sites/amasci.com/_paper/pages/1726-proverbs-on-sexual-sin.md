@@ -1,0 +1,110 @@
+---
+title: "Proverbs on sexual sin"
+source_domain: amasci.com
+source_path: ~bradkir/bible/home/subjects/marriagesex/sinfulsex.html
+order: 1726
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:08:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Proverbs on sexual sin
+
+*Source page: `~bradkir/bible/home/subjects/marriagesex/sinfulsex.html`*
+
+Proverbs...on sexual sin:
+
+    Pr.2:16-19:
+
+    16 It will save you also from the adulteress, from the wayward wife with
+    her seductive words, 17 who has left the partner of her youth and ignored
+    the covenant she made before God. [a] 18 For her house leads down to death
+    and her paths to the spirits of the dead. 19 None who go to her return or
+    attain the paths of life. (NIV)
+
+    Pr.5:1-23
+
+    1 My son, pay attention to my wisdom, listen well to my words of insight,
+    2 that you may maintain discretion and your lips may preserve knowledge.
+    3 For the lips of an adulteress drip honey, and her speech is smoother than
+    oil; 4 but in the end she is bitter as gall, sharp as a double-edged sword.
+    5 Her feet go down to death; her steps lead straight to the grave. [a] 6
+    She gives no thought to the way of life; her paths are crooked, but she
+    knows it not. 7 Now then, my sons, listen to me; do not turn aside from
+    what I say. 8 Keep to a path far from her, do not go near the door of her
+    house, 9 lest you give your best strength to others and your years to one
+    who is cruel, 10 lest strangers feast on your wealth and your toil enrich
+    another man's house. 11 At the end of your life you will groan, when your
+    flesh and body are spent. 12 You will say, "How I hated discipline!
+    How my heart spurned correction! 13 I would not obey my teachers or listen
+    to my instructors. 14 I have come to the brink of utter ruin in the midst
+    of the whole assembly." 15 Drink water from your own cistern, running
+    water from your own well. 16 Should your springs overflow in the streets,
+    your streams of water in the public squares? 17 Let them be yours alone,
+    never to be shared with strangers. 18 May your fountain be blessed, and
+    may you rejoice in the wife of your youth. 19 A loving doe, a graceful deer--
+    may her breasts satisfy you always, may you ever be captivated by her love.
+    20 Why be captivated, my son, by an adulteress? Why embrace the bosom of
+    another man's wife? 21 For a man's ways are in full view of the LORD, and
+    he examines all his paths. 22 The evil deeds of a wicked man ensnare him;
+    the cords of his sin hold him fast. 23 He will die for lack of discipline,
+    led astray by his own great folly. (NIV)
+
+    Pr.6:20-35:
+
+    20 My son, keep your father's commands and do not forsake your mother's
+    teaching. 21 Bind them upon your heart forever; fasten them around your
+    neck. 22 When you walk, they will guide you; when you sleep, they will watch
+    over you; when you awake, they will speak to you. 23 For these commands
+    are a lamp, this teaching is a light, and the corrections of discipline
+    are the way to life, 24 keeping you from the immoral woman, from the smooth
+    tongue of the wayward wife. 25 Do not lust in your heart after her beauty
+    or let her captivate you with her eyes, 26 for the prostitute reduces you
+    to a loaf of bread, and the adulteress preys upon your very life. 27 Can
+    a man scoop fire into his lap without his clothes being burned? 28 Can a
+    man walk on hot coals without his feet being scorched? 29 So is he who sleeps
+    with another man's wife; no one who touches her will go unpunished. 30 Men
+    do not despise a thief if he steals to satisfy his hunger when he is starving.
+    31 Yet if he is caught, he must pay sevenfold, though it costs him all the
+    wealth of his house. 32 But a man who commits adultery lacks judgment; whoever
+    does so destroys himself. 33 Blows and disgrace are his lot, and his shame
+    will never be wiped away; 34 for jealousy arouses a husband's fury, and
+    he will show no mercy when he takes revenge. 35 He will not accept any compensation;
+    he will refuse the bribe, however great it is. (NIV)
+
+    Pr.7:6-27:
+
+    6 At the window of my house I looked out through the lattice. 7 I saw among
+    the simple, I noticed among the young men, a youth who lacked judgment.
+    8 He was going down the street near her corner, walking along in the direction
+    of her house 9 at twilight, as the day was fading, as the dark of night
+    set in. 10 Then out came a woman to meet him, dressed like a prostitute
+    and with crafty intent. 11 (She is loud and defiant, her feet never stay
+    at home; 12 now in the street, now in the squares, at every corner she lurks.)
+    13 She took hold of him and kissed him and with a brazen face she said:
+    14 I have fellowship offerings [a] at home; today I fulfilled my vows. 15
+    So I came out to meet you; I looked for you and have found you! 16 I have
+    covered my bed with colored linens from Egypt. 17 I have perfumed my bed
+    with myrrh, aloes and cinnamon. 18 Come, let's drink deep of love till morning;
+    let's enjoy ourselves with love! 19 My husband is not at home; he has gone
+    on a long journey. 20 He took his purse filled with money and will not be
+    home till full moon." 21 With persuasive words she led him astray;
+    she seduced him with her smooth talk. 22 All at once he followed her like
+    an ox going to the slaughter, like a deer [b] stepping into a noose [c]
+    23 till an arrow pierces his liver, like a bird darting into a snare, little
+    knowing it will cost him his life. 24 Now then, my sons, listen to me; pay
+    attention to what I say. 25 Do not let your heart turn to her ways or stray
+    into her paths. 26 Many are the victims she has brought down; her slain
+    are a mighty throng. 27 Her house is a highway to the grave, [d] leading
+    down to the chambers of death. (NIV)
+
+    Pr.23:26-28:
+
+    26 My son, give me your heart and let your eyes keep to my ways, 27 for
+    a prostitute is a deep pit and a wayward wife is a narrow well. 28 Like
+    a bandit she lies in wait, and multiplies the unfaithful among men. (NIV)
+
+    Click here to return to the Proverbs
+    main subject listings.

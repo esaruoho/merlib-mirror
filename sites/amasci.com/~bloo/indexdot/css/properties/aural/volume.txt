@@ -1,0 +1,111 @@
+Volume - Cascading Style Sheets Properties 
+
+ volume 
+ Support Key: 
+ CSS2 
+ Other Aural Properties 
+
+ stress 
+ richness 
+ azimuth 
+ elevation 
+ voice-family 
+ speak 
+ speak-punctuation 
+ speak-numeral 
+ pitch 
+ pitch-range 
+ speech-rate 
+ play-during 
+ pause 
+ pause-before 
+ pause-after 
+ cue 
+ cue-before 
+ cue-after 
+
+ = Index DOT Css by Brian Wilson
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ &#160;&#160;&#160;Quick Statistics&#160;&#160;&#160; 
+
+ Default Value: 
+ medium 
+ Applicable Elements: 
+ All 
+ Inherit From Parent: 
+ Yes 
+ Applicable Media: 
+ Aural 
+ HTML Equivalent: 
+ NA 
+
+ What is it? 
+ This property refers to the median volume of the current voice. Pitch and
+ inflection variations may vary well above and below this value. The default
+ minimum and maximum values (0/100) should be controllable by the user.
+
+ Allowed Values 
+ inherit 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ Explicitly sets the value of this property to that of the parent. 
+
+ silent 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ No sound at all. The time time that would have been taken to aurally
+ render the element is still taken, but no sound is made. Any specified
+ 'pause' properties before/after the element are also rendered. This
+ behavior is different than the 'speak' property being set to none. 
+
+ x-soft|soft|medium|loud|x-loud 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ x-soft: Same as '0' 
+ soft: Same as '25' 
+ medium: Same as '50' 
+ loud: Same as '75' 
+ x-loud: Same as '100' 
+
+ [number] 
+ CSS2 
+ Type: Explicit 
+ Description: 
+ A number between '0' and '100'. '0' represents the minimum audible
+ volume level (not the same effect as "silent") and 100
+ corresponds to the maximum comfortable volume level. 
+
+ [percentage] 
+ CSS2 
+ Type: Calculated 
+ Description: 
+ This measure is relative to the inherited value for the Volume property,
+ and is clipped to the range '0' to '100'. 
+
+ Example 
+ Ext/Doc: body {
+ volume: soft } 
+ In-Line:&#160; < body 
+ STYLE =" volume: 
+ soft">text</ body > 
+
+ Notes 
+
+ Before its inclusion in CSS2, this property was first proposed in the W3C
+ Working Draft "Aural Cascading Style Sheets (ACSS)" (1/7/97,
+ http://www.w3.org/Style/css/Speech/NOTE-ACSS )
+
+ Browser Peculiarities 
+
+ Nothing to report.
+
+ Boring Copyright Stuff....

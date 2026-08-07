@@ -1,0 +1,92 @@
+About Border Properties 
+
+ About Border Properties 
+ = Index DOT Css by Brian Wilson = 
+
+ &#160;&#160; Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Border Properties 
+ border |
+ border-top |
+ border-right |
+ border-bottom |
+ border-left 
+
+ border-width |
+ border-top-width |
+ border-right-width |
+ border-bottom-width |
+ border-left-width 
+
+ border-style |
+ border-top-style |
+ border-right-style |
+ border-bottom-style |
+ border-left-style 
+
+ border-color |
+ border-top-color |
+ border-right-color |
+ border-bottom-color |
+ border-left-color 
+
+ What Do They Do? 
+ In CSS, the fundamental visual rendering model places all components of the
+ document tree in physical and virtual rectangular boxes, each having a specific
+ height and width. An element's rendering box consists of an element's content
+ at the center (text, images, etc.) Surrounding the element's content (moving
+ outward in rectangular layers/strips) are optional padding, surrounded by any
+ optional border effects, surrounded in turn by any optional margin values that
+ may be specified.
+
+ The border properties allow an author to specify the width, color, and style
+ of the border area (between any specified padding and margins) of an element's
+ rendering box. While the capability to create simple line effects has been
+ available in HTML via tables, the CSS border properties give authors much more
+ power in creating such effects and allows them to be applied to any element.
+
+ Each side of the border dimensions (top, right, bottom and left) can be
+ addressed and controlled independently using separate properties, or a
+ convenient shorthand notation may be used that controls multiple sides
+ at once.
+
+ Related Sites 
+ Official Reference: CSS Level 1, Section 5.5.11-22 
+ 5.5.22: ' border ' 
+ 5.5.18: ' border-top ' 
+ 5.5.19: ' border-right ' 
+ 5.5.20: ' border-bottom ' 
+ 5.5.21: ' border-left ' 
+ 5.5.15: ' border-width ' 
+ 5.5.11: ' border-top-width ' 
+ 5.5.12: ' border-right-width ' 
+ 5.5.13: ' border-bottom-width ' 
+ 5.5.14: ' border-left-width ' 
+ 5.5.17: ' border-style ' 
+ 5.5.16: ' border-color '
+ Official Reference: CSS Level 2, Section 8.5.1-4 
+ 8.5.4: ' border ' 
+ 8.5.4: ' border-top ' 
+ 8.5.4: ' border-right ' 
+ 8.5.4: ' border-bottom ' 
+ 8.5.4: ' border-left ' 
+ 8.5.1: ' border-width ' 
+ 8.5.1: ' border-top-width ' 
+ 8.5.1: ' border-right-width ' 
+ 8.5.1: ' border-bottom-width ' 
+ 8.5.1: ' border-left-width ' 
+ 8.5.3: ' border-style ' 
+ 8.5.3: ' border-top-style ' 
+ 8.5.3: ' border-right-style ' 
+ 8.5.3: ' border-bottom-style ' 
+ 8.5.3: ' border-left-style ' 
+ 8.5.2: ' border-color ' 
+ 8.5.2: ' border-top-color ' 
+ 8.5.2: ' border-right-color ' 
+ 8.5.2: ' border-bottom-color ' 
+ 8.5.2: ' border-left-color ' 
+
+ Boring Copyright Stuff....

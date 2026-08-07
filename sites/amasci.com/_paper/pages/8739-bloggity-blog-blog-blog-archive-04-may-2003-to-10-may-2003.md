@@ -1,0 +1,504 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 04 May 2003 to 10 May 2003"
+source_domain: amasci.com
+source_path: ~tegan/blog/20030504-20030510.html
+order: 8739
+reachable_from_entry: false
+images: 38
+internal_links: 9
+extracted: 2026-08-07T17:16:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 04 May 2003 to 10 May 2003
+
+*Source page: `~tegan/blog/20030504-20030510.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive XXIX<br />
+The Hole of Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="70%"><br />
+<br />
+Saturday, May 10, 2003 <span id="94126972"> </span>
+<strong>Rapid Reviews - 7 May 2003 - Part I</strong>
+<br />
+&#10;<p><strong>League of Extraordinary Gentlemen II #5</strong>: eeeeuuuuuwwww!!!! GROSS! ARGH, YUCK!!!! oooohhhh, sick... oh please spare us.... yuckyuckyuckyuckyuck! No more! No, Moore! <em>*shudder*</em>. No child should be allowed within 20 feet of this book, and no adult without a strong stomach should even think about reading it. This is definitely a case of horrid fascination... I'm just reading to find out how it ends. I really need to go bleach my eyeballs now. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/2_5_starfish.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+</p>
+<p><strong>JSA: All Stars #1</strong>: I thought this was going to focus on individual JSA characters. I didn't really feel any need to read yet another JSA series. I hope this improves. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+</p>
+<p><strong>Green Arrow #25</strong>: Finally, the thing that's been hinted at from practically the first appearance of the supporting character has happened. It's about time! This whole crossover so far could have been cut down to half the size and not lost anything. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+</p>
+<p>Still to review: Batman Nevermore #2, Justice League Adventures #19 and Way of the Rat #13.<br />
+</p>
+<p>If you were sent to my blog by <a href="http://forums.toonzone.net/showthread.php?threadid=74897&amp;mode=linear&amp;perpage=20&amp;pagenumber=3">Dan Slott on the Tonezone board</a> to read my review of Batman Adventures #1 (Free Comic Book Day Edition), please <a href="http://www.eskimo.com/~tegan/blog/20030504-20030510.html#93752826">click here</a>. If you'd like to read my other reviews, a full index (which I try to update frequently with the latest reviews) is <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html">available here</a>.</p>
+posted by Tegan | <a href="#94126972">6:15 PM</a>
+<hr />
+<p><strong>Comments (1)</strong></p>
+<p>A word on <em>JSA All Stars</em>: From what I understand, it will indeed focus on the individual members -- starting next issue. The whole series is set up like an old Golden Age <em>All-Star Comics</em> story, where we see the whole team at the beginning and end (issus 1 and 8 of this series), but the chapters in between deal with what individual members are doing through the adventure after they split up at the end of the introduction.</p>
+<p>Hubby | Email | Homepage | 05.11.03 - 6:33 am</p>
+<hr />
+<span id="94126078"> </span>
+<strong>A Nice Day</strong>
+<br />
+&#10;<p>It's been a good day today. A morning at work, followed by a couple of hours at the Pug House Of Horror (the pugs were actually quite pleasant this time), then some critical shopping (yes, I <em>really</em> needed to replace my pair of shoes). Now it's time for a relaxing evening with my hubby-Eric.<br />
+</p>
+<p>Hope everyone else had as nice a day.</p>
+posted by Tegan | <a href="#94126078">5:46 PM</a>
+<hr />
+<span id="94107219"> </span>
+<strong>Scattered Nonsense</strong>
+<br />
+&#10;<p>Dirk Deppey has a <a href="http://www.tcj.com/journalista/zarch200305A.html#afa">interesting piece</a> on people who don't let facts get in the way of a good witch hunt. By the way, if I were giving french kisses at a comicon, considering the kind of folks you get at one, I'd charge a heckuva lot more than $5.<br />
+</p>
+<p>From Mark Evanier I got a link to an essay about <a href="http://www.cooperativeresearch.org/timeline/main/essayaninterestingday.html">Bush's Interesting Day</a>. Just what did Bush do on September 11th? Not much, if the many reports from the mainstream media are to be believed. This essay is frightening to read, because it implies one of two conclusions: Either Bush was intentionally ignoring the events of the day even though he'd been warned in advance about their possibility, or someone was keeping Bush ignorant of the actual severity of the events. Even worse is how incredibly vulnerable Bush was while the attacks were going on. He wasn't evacuated for over 30 minutes, and no fighters were in the air to protect him or the school he was at from a possible attack. With everything else about September 11th under such a close microscope, I'm wondering why Bush's actions of the day are being virtually ignored by everyone? Is it really not that big a deal?<br />
+</p>
+<p>While the secret service couldn't do much to protect Bush, they sure know how to <a href="http://www.kron.com/Global/story.asp?s=%20%201268949">scare High School Students</a> who try to speak their minds. Tom Tomorrow (This Modern World) provided the link to this particularly frightening story. Freedom of speech in Oakland? No way!</p>
+posted by Tegan | <a href="#94107219">8:38 AM</a>
+<hr />
+<p><strong>Comments (5)</strong></p>
+<p>I went to your link on the Oakland students. This IS so scary! WHAT could students have possibly said that made the teacher call in anarchy! Why are we not hearing about discipline (or FBI questioning) for the teacher, and for the principal who let this happen without the parents knowledge!</p>
+<p>And, sadly, it is not just those two students who will hesitate forever on to say anything...anyone in that class, or in the school who hears the events (because they will be embellished, though they don't need to be to be awful!) will be suspicious and more unwilling to contribute. That leads to all kinds of horrid potential for dictatorship, for 'Big Brotherism' for indifference.</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.11.03 - 8:07 am</p>
+<p>I'm really shocked that any teacher would "call the secret service" on two high school kids. It just doesn't make any sense to me. What on Earth did they say to scare a teacher so badly??? Why couldn't the teacher handle it herself, maybe tell the principal if she was so concerned? Why call in the professionals?</p>
+<p>While the experience with the Secret Service is disgraceful, it's only what could be expected once they were brought in. I'm far more concerned that a teacher is apparently reporting her students to the secret service instead of allowing them free speech or encouraging useful discussion.</p>
+<p>I'm really curious as to what those kids said.</p>
+<p>Tegan | 05.11.03 - 4:54 pm</p>
+<p>Do you wonder, at this point, if we will ever really know what they said? I have this feeling that a teacher will be trying to cover her backside, and will disagree with whatever the kids say!</p>
+<p>And, yes, there are SOOO many 'steps' available to a school district before the federals needed to be contacted!</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.11.03 - 6:57 pm</p>
+<p>I don't think we'll ever learn exactly what they said that set the teacher off like that. I've been wondering, though, what kind of teacher would have a phone number for the secret service. There is definitely something fishy about this story. There's something being left out.</p>
+<p>Tegan | 05.12.03 - 1:51 pm</p>
+<p>Hmm, you're right! I don't know that I would know how to contact the FBI. I could figure it out, but by then, the kids would have gone home! Why did she know? My first thought would have been the principal, but perhaps that goes back to my own school days, where that office was the ULTIMATE authority!</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.12.03 - 9:12 pm</p>
+<hr />
+<br />
+<br />
+Friday, May 09, 2003 <span id="94092215"> </span>
+<strong>Rapid Reviews - Smallville</strong>
+<br />
+&#10;<p><strong>Smallville: Accelerate</strong>: I can just imagine it. Somebody said, "How can we do a good old-fashioned ghost story on Smallville?" and they somehow pulled it off. It was remarkably creepy through the first part of the show. While it sort of faded out from there, it was still a pretty good episode, and a perfect one to snuggle up to hubby-Eric and watch together. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+</p>
+<p>As always with Smallville, I urge you to check out the <a href="http://www2.warnerbros.com/web/smallville/ledger/index.jsp">Smallville Ledger</a>, the <a href="http://www2.warnerbros.com/web/smallville/torch/index.jsp">Smallville Torch</a>, and now the <a href="http://www.thewb.com/Shows/WithFeedback/0,9310,111513,00.html">Chloe Chronicles</a> to get a much more fulfilling picture of the whole Smallville Universe.<br />
+</p>
+<p>Also, check out the BBC's re-recording of Shada, episode two now up, at <a href="http://www.bbc.co.uk/doctorwho">the BBC's Doctor Who site</a>. This was a story written by the great Douglas Adams for the Fourth Doctor (Tom Baker) and Romana, and it's been redone as an audio drama with Paul McGann (the Eighth Doctor) and Lalla Ward (Romana). There is an animated version available using flash animation.<br />
+</p>
+<a href="http://www.bbc.co.uk/cult/doctorwho/shada/index.shtml"><img src="http://www.eskimo.com/~tegan/blog/blogpics/shadawebcast.jpg" data-border="0" width="460" height="52" /></a>
+posted by Tegan | <a href="#94092215">10:18 PM</a>
+<hr />
+<span id="94088369"> </span>
+<strong>A Little Close To Home</strong>
+<br />
+&#10;<p>On Wednesday I went to work a bit late, after picking up comics. It was sometime between 1 and 1:30 in the afternoon when I pulled off of Lake City Way and headed up the hill on Northgate. Coming around a bend I saw a police car and an ambulance in the other lane. There were no other vehicles. The ambulance was being loaded by grim-faced paramedics, and there were a number of people standing talking with the police. Everyone looked angry. I wasn't sure what to think.<br />
+</p>
+<p>Yesterday I saw <a href="http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=webhitnrun08&amp;date=20030508">this article</a> in the newspaper and understood. It was a hit and run. An 84 year old man had been pulling weeds from the sidewalk when a truck jumped the curb and hit him. When I drove by today I looked closely at the place. The elderly gentleman had been half-done with his task.<br />
+</p>
+<p>What kind of creature would drive up onto a curb to hit someone then drive away? What kind of scum could care so little about the life of a fellow human that he would do such a thing?<br />
+</p>
+<p>We may find out. Tips led to the arrest of <a href="http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=dige09m&amp;date=20030509">the probable hit &amp; run driver</a>. The elderly gentleman is in serious condition but recovering. My faith in humanity isn't recovering nearly as fast.</p>
+posted by Tegan | <a href="#94088369">8:40 PM</a>
+<hr />
+<p><strong>Comments (4)</strong></p>
+<p>The driver was on a cellphone! That should be added to charges, and be as serious as driving under the influence.</p>
+<p>Are the neighbors pulling the rest of the weeds?</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.11.03 - 8:10 am</p>
+<p>I don't disagree with you. If you get in an accident while on a cellphone, you should punished for driving while distracted.</p>
+<p>Neighbors haven't pulled the weeds, yet. I have wanted to get some flowers and stop by, but I haven't got the nerve nor the cash.</p>
+<p>Tegan | 05.11.03 - 4:45 pm</p>
+<p>My first assumption was that the driver was distracted by drugs or drink. But a cellphone! That means he should have been aware enough to stop! Unless, of course, the conversation was far more important than breaking the law! I find it hard to believe that he was not aware that he had hit SOMETHING!</p>
+<p>Could you send a note to the hospital?</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.11.03 - 7:00 pm</p>
+<p>Someone has finished pulling the weeds, and the sidewalk has also been cleaned.</p>
+<p>I suspect I'll see flowers showing up there when Ray gets home from the hospital.</p>
+<p>Tegan | 05.13.03 - 5:20 pm</p>
+<hr />
+<span id="94060017"> </span>
+<strong>What a Beautiful Day!</strong>
+<br />
+&#10;<p>Sunny day... sweepin' the clouds away! On my way to...<br />
+</p>
+<p>Oh right. Work.<br />
+</p>
+<p>See y'all later.</p>
+posted by Tegan | <a href="#94060017">9:35 AM</a>
+<hr />
+<br />
+<br />
+Thursday, May 08, 2003 <span id="94034050"> </span>
+<strong>Flying The Friendly Skies</strong>
+<br />
+&#10;<p>If you've got flash installed, go view and listen to <a href="http://www.whoohoo.net/pilot/index.htm">this</a>. Then sit back and enjoy the flight.</p>
+posted by Tegan | <a href="#94034050">9:52 PM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>I keep waiting for that troll to pop up from "Twilight Zone: The Movie"...</p>
+<p>Frank | <a href="http://www.blurty.com/~fcarrera3">Homepage</a> | 05.11.03 - 12:28 pm</p>
+<p>I figured if it appeared, the co-pilot would just blow it away...</p>
+<p>Tegan | 05.11.03 - 4:44 pm</p>
+<hr />
+<span id="94025237"> </span>
+<strong>No Pop-Ups Here</strong>
+<br />
+&#10;<p>I think I may have mentioned once or twice that I use a friendly browser by the name of <a href="http://www.mozilla.org/">Mozilla</a>. Mozilla's advantage over Internet Exploder is that you have an option to turn off pop-up ads without turning off other functions. Since I've been using Mozilla, I only have to deal with pop-up ads when I run across one of those really badly designed websites that <em>only</em> can handle Microsoft's garbage browser, and I have to switch browsers.<br />
+</p>
+<a href="http://www.mozilla.org/"><img src="http://www.eskimo.com/~tegan/aqua/pics/mozilla.gif" data-border="0" width="116" height="100" /></a>
+<br />
+&#10;<p>Despite that minor problem, I highly recommend Mozilla to anyone who browses a lot. It's got a lot of neat features that Netscape users will be familiar with, too. It's the open source browser that Netscape is based on.<br />
+</p>
+<p>Anyway, if I fail to mention that a linked page has lots of pop-ups, it's because I don't see them. And I'll generally not link to any page that Mozilla can't handle, either.</p>
+posted by Tegan | <a href="#94025237">6:43 PM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>Art is trying to convince me that Opera is the preferred browser. He and I do not surf the same way, so I'm not as impressed with Opera as he is. Will Mozilla be better than Opera?</p>
+<p>Maggie | <a href="mailto:maggiesown@sisna.com">Email</a> | 05.11.03 - 8:12 am</p>
+<p>I have never been able to get Opera to work quickly on my machine. It's slower than MS Exploder or Netscrape. I prefer Mozilla because there's a whole section where I can just turn off stuff I don't use. It's more configurable. Which is nice.</p>
+<p>Tegan | 05.11.03 - 4:36 pm</p>
+<hr />
+<span id="94005698"> </span>
+<strong>Scattered Thoughts</strong>
+<br />
+&#10;<p>The Detroit Tigers are on a four-game winning streak. Not bad for a team that started with 3 wins and 25 losses. When they were playing the Mariners, I noticed that Detroit isn't a bad team. It's just a young team. I was actually surprised that they were doing so badly, because they have what it takes to be a great team. They just hadn't pulled it all together. Maybe this winning streak will help the players get their confidence back. It would be interesting to see them turn into a powerhouse after their lousy start.<br />
+</p>
+<p>The Mariners lost to the Yankees last night. The first game of the series, which the Mariners won, was very sloppy. I like sharp, well-played baseball. So far neither team has really provided it in this series. Maybe they'll play better today.<br />
+</p>
+<p>There was an article in the Seattle Times yesterday about <a href="http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=plastic06&amp;date=20030506">plastics made from corn</a> that are biodegradable in under two months instead of a few centuries like petroleum-based plastics. Not only are they more environmentally friendly, but they also have a renewable source. Not bad! If it all turns out to be true, this is very good news.<br />
+</p>
+<p>Gary Hart has updated <a href="http://www.garyhartnews.com/hart/blog/">his blog</a> with the official word that he's not running for president, and he's returning all contributions (with a suggestion to the people who donated to him to send the money to his favorite charities instead).<br />
+</p>
+<p>I suppose I should make mention of President Bush's use of an aircraft carrier to get some flight time in. Lots of Demos are complaining about the waste of money and time, and saying he should have just flown over in a helicopter like most Presidents did. Sorry, folks. Hate to disappoint you, but I think this one is a non-issue. Lots of Presidents make themselves look good at any opportunity, and this was just another one of those chances. Just roll your eyes at the ever-so-patriotic images of Bush in a flightsuit and get over it.<br />
+</p>
+<p>Here's an interesting <a href="http://www.msnbc.com/news/910122.asp?0dm=C12RO">article on rebuilding Iraq</a> at MSNBC.com. Got the link from <a href="http://www.instapundit.com/">InstaPundit.com</a>, which I'm going to have to link to. What's the deal with all these intelligent libertarians? I use to think they were all loons, but apparently I was only seeing the most extremist of them.<br />
+</p>
+<p>I was going to try to find out some information on all the presidential candidates so far, but I'm too lazy to hunt down info on all the Demos right now. Bush is re-running with Cheney as his co-pilot. A bunch of Demos have declared. I'm not sure about any other political party yet. I'll get around to hunting the information down. The election isn't for a while yet...<br />
+</p>
+<p>Anyone else notice that the blogspot ad at the top of this main page tends to change depending on what I'm talking about in my blog? When I mentioned my headaches, there was headache medicine listed. When I get really political it goes to politics ads. As of this writing, it's listing comic books (hrm, I wonder why?). I wonder what kind of key words trigger what sort of ads? I could have fun with this.</p>
+posted by Tegan | <a href="#94005698">12:02 PM</a>
+<hr />
+<p><strong>Comments (1)</strong></p>
+<p>Your 9 main Democratic candidates at the moment are:</p>
+<p>Former Gov. Howard Dean (D-VT)<br />
+Rev. Al Sharpton<br />
+Rep. Dick Gephardt (D-MO)<br />
+Sen. Joe Lieberman (D-CT)<br />
+Sen. John Edwards (D-NC)<br />
+Sen. John Kerry (D-MA)<br />
+Former Sen. Carol Mosley-Braun (D-IL)<br />
+Rep. Dennis Kucinich (D-OH)<br />
+Sen. Bob Graham (D-FL)</p>
+<p>They all debated together last weekend, you may be able to catch reruns on C-SPAN or through abcnews.com (George Stephanopolous moderated).</p>
+<p>Jason | <a href="http://fenrikjmu.blogspot.com/">Homepage</a> | 05.08.03 - 10:19 pm</p>
+<hr />
+<br />
+<br />
+Wednesday, May 07, 2003 <span id="93970403"> </span>
+<strong>Slow Day</strong>
+<br />
+&#10;<p>It's been a remarkably pleasant day for once. Mostly sunny up here in the great northwest. Got some more comic books, don't have a lot of desire to read them right now... I'm a little comic'ed out, I guess. And I'm relieved that '<a href="http://dear_raed.blogspot.com/">Salam Pax</a>' is safe and blogging again. If you haven't read it yet, it's worth reading. I think seeing the fresh words on that blog this morning gave me a bit of a lift. Anyhow...<br />
+</p>
+<p>I still think the music of an ice cream truck heard in the distance is very creepy.</p>
+posted by Tegan | <a href="#93970403">9:14 PM</a>
+<hr />
+<span id="93937603"> </span>
+<strong>Rapid Reviews - Free Comic Book Day 2003 - Part VI</strong>
+<br />
+&#10;<p><strong>Metallix #1</strong>: Good art, standard story. Kind of super-hero-ey, but solid. The main story gives off a good odor. The back-ups are ok, too. Overall, not bad. I would definitely consider getting Metallix: the only problem with it is that it seems so generic. Ah well, the book is a neat package. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p><strong>Walt Disney's Donald Duck Adventures</strong>: A classic Carl Barks tale with a classic Carl Barks back-up story... this is <em>wonderful</em>. I started reading comics with Carl Barks Donald Duck stories, so this just takes me back. Now I wish I could afford to get the new books. Heck, and all the reprints of all the Carl Barks. That would be a collection worth collecting. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a> This book is for All-Ages.<br />
+</p>
+<p><strong>Best of Dork Storm #1</strong>: I saved this book for last because I knew for a fact that I would like the PS238 story. And, while the others were good also, I was definitely right about the PS238 story. I don't read Nodwick or Dork Towers, so I don't know if they were re-runs, but the Snapdragons story I had seen before. Overall, pretty good. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p>Whew! Done!!! All nineteen free comics that I got!<br />
+</p>
+<p>I got these free comic books on <a href="http://www.freecomicbookday.com/">Free Comic Book Day 2003</a> from my local retailer <a href="http://www.cornercomics.com/">Corner Comics</a>.<br />
+</p>
+<p>Ok, now some late thoughts on the whole <a href="http://www.freecomicbookday.com/">Free Comic Book Day</a> concept. First off, the books are technically for people new to comics, not for people like me who get comic books anyway. But they can certainly be used by retailers to bring in the fans. Some of the best reactions about FCBD on various message boards was from people whose retailers held a sale on FCBD. So people came in to get free comics, and ended up buying tons of other stuff on sale too. Most stores didn't allow fans to get every 'free' comic (which is why I must thank <a href="http://www.cornercomics.com/">Paige</a> yet again for letting me have one of each). Overall, the stores that worked to make it something got the most return from it.<br />
+</p>
+<p>Ah well. Maybe we can make even more of it next year, if they decide to hold it again.</p>
+posted by Tegan | <a href="#93937603">10:20 AM</a>
+<hr />
+<p><strong>Comments (1)</strong></p>
+<p>Enjoyed your overview of the free books: neither Landis nor Keenspot were available at the store I frequent, but the rest were. At this point, I've only through a few of 'em myself (Acme Comics seemed to have no qualms about giving stuff out to regulars), so I'm impressed with the speed with which you did this. . .</p>
+<p>Bill Sherman | <a href="mailto:oakhausdsn@earthlink.net">Email</a> | <a href="http://oakhaus.blogspot.com/">Homepage</a> | 05.07.03 - 11:23 am</p>
+<hr />
+<span id="93929597"> </span>
+<strong>Salam Pax is back!</strong>
+<br />
+&#10;<p>A <a href="http://dear_raed.blogspot.com/">huge post</a>, covering the dates he missed posting from March 24th until now. It was posted by someone else. I haven't read it yet, so I don't know what sort of revelations are in it. Still, it's back.<br />
+</p>
+<p>UPDATE: I just finished reading it. If "Salam Pax" isn't a real Baghdad resident, then he needs to be a fiction writer, because it sure sounds very real to me. Definitely an interesting viewpoint. I like the bit at the beginning where he argues with cab drivers over the current state of things.</p>
+posted by Tegan | <a href="#93929597">7:51 AM</a>
+<hr />
+<p><strong>Comments (4)</strong></p>
+<p>The Salam Pax update is very interesting. I had heard of this blog but had never read it before. I got about a third of the way through before I realized I was reading it backwards. If anyone reads it they should scroll all the way to the bottom first, and work their way up. I agree with Laura about the "cab driver" conversation, too.</p>
+<p>farsider | <a href="mailto:rduncan1@falcon1.net">Email</a> | 05.07.03 - 1:27 pm</p>
+<p>*thump*</p>
+<p>(Laura falls over with a heart attack)</p>
+<p>Rich actually agrees with me on something that isn't Aquaman...</p>
+<p>Tegan | 05.07.03 - 7:50 pm</p>
+<p>Ha. If I ever become an anti-war, Ashcroft-hater, you'd be a goner, for sure. Next time I agree with you I'll warn you to take your heart medicine first.</p>
+<p>Actually, as much as it kills me, I've decided to TRY to keep my political comments to myself. I enjoy following your websites and I don't want to be in a constant debate mode.</p>
+<p>Rich</p>
+<p>farsider | <a href="mailto:rduncan1@falcon1.net">Email</a> | 05.08.03 - 6:05 am</p>
+<p>I noticed, and I thank you for it. I've been trying to keep my political junk to the minimum also. I didn't think I had strong political beliefs, apparently I do. I'm still trying to sort out what they are, though.</p>
+<p>Washington State doesn't require people to put down a political party when they vote, so I've always looked at the people running and voted for the one that seemed to most closely mirror my beliefs, regardless of party affiliation. While I seem to have voted mostly Democrat, I also have voted for Republicans and third party members. I vividly recall a teacher pointing out to us kids way back in elementary school that we are allowed to vote for a different Vice President than President under our system. And I put that to use in the last election: I didn't vote for Joe Lieberman for Vice President because I can't stand the guy's policies. I hope Lieberman doesn't get the Demo nod for presidential run, because I'm not sure I can vote for him.</p>
+<p>Anyway. I'll try to keep it calm. I'm obnoxious in a debate, and I know it. I'll be good.</p>
+<p>Tegan | 05.08.03 - 11:54 am</p>
+<hr />
+<br />
+<br />
+Tuesday, May 06, 2003 <span id="93912869"> </span>
+<strong>Deep Thought</strong>
+<br />
+&#10;<p>Does anyone besides me find the distant sound of an ice cream truck to be vaguely sinister?</p>
+posted by Tegan | <a href="#93912869">11:42 PM</a>
+<hr />
+<span id="93871664"> </span>
+<strong>Rapid Reviews - Free Comic Book Day 2003 - Part V</strong>
+<br />
+&#10;<p><strong>Archie #1</strong>: Leave it to Archie Comics to provide a solid free book that pokes gentle fun at their own books while at the same time introducing all the major players. For sheer value of introduction, this is probably the best book of the bunch. Story and art are about Archie average... which is slightly better than the norm. Overall, a good contribution to FCBD. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a> This book is for All-Ages.<br />
+</p>
+<p><strong>Landis #0</strong>: Hmmm, it's like Highlander with a quest. I'm not sure about this one. The art's ok, but the story seems a wee bit derivative. The second book advertised has quite an interesting theme, but might be a little gross. Not bad, but not for me, either. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p><strong>Keenspot Spotlight 2003</strong>: This has a wide variety of stories, most one page long. Some of them are much better than others. I'm extremely impressed at how well most of the artists managed to convey the feel of their strips in only one page. I don't know that I'll be racing over to Keenspot to check out their strips/books, but it was a decent sampler. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a> This book is for Adults (18+).<br />
+</p>
+<p>Whew. Into the final stretch. 16 down, three to go. Again, I got these free comic books on <a href="http://www.cornercomics.com/">Free Comic Book Day 2003</a> from my local retailer <a href="http://www.cornercomics.com/">Corner Comics</a>. Thanks again, Paige!</p>
+posted by Tegan | <a href="#93871664">9:51 AM</a>
+<hr />
+<span id="93865336"> </span>
+<strong>Scattershot Thoughts</strong>
+<br />
+&#10;<p>I got an e-mail from Rick Veitch yesterday about a production problem with Aquaman #6:<br />
+</p>
+<pre><code>
+Laura,
+    Just got my comp box of #6 and a serious production error leaves the
+last page unintelligable. I&#39;ve written up a little article about it,
+including what the characters SHOULD have been saying according to the
+written script. You can find it at http://www.comicon.com/veitch
+    I&#39;m hoping you can pass the word along to any fans who might be
+scratching their heads. Feel free to post it to any message boards etc
+(although a link back to my page is appreciated).
+Rick</code></pre>
+<br />
+So consider this my official passing along of the word. The error involves the dropping out of a couple of crucial sentences, so DC probably won't go to the expense of fixing it.<br />
+&#10;<p>Yet another interesting link from Mark Evanier, this one to <a href="http://www.mrbreakfast.com">Mr Breakfast.com</a>. What a wonderfully odd site.<br />
+</p>
+<p>Evanier also explains <a href="http://www.newsfromme.com/archives/2003_05_06.html#000161">why it's not a good idea to try and make a living in comics right now</a>. This is no surprise to most of us fans.<br />
+</p>
+<p>Here's a link from Neil Gaiman: <a href="http://www.courier.co.uk/displayNode.jsp?nodeId=82705&amp;amp;amp;command=displayContent&amp;amp;amp;sourceNode=82257&amp;amp;amp;contentPK=5416929">Mystery of the Man in the Brown Mask</a>.<br />
+</p>
+<p>Great song by Carla Ulbrich, <a href="http://artists.mp3s.com/artist_song/977/977787.html">Boy Wonder</a>. Free download at MP3.com. Based on a true story, very folkish. And it has nothing to do with Batman or Robin (or any superhero).<br />
+</p>
+<p>I was going to say something about gambling and Bill Bennett, but I think it's all been said.<br />
+</p>
+<p>There is no <a href="http://www.rini.org/error2.php">error here</a>.</p>
+posted by Tegan | <a href="#93865336">7:57 AM</a>
+<hr />
+<p><strong>Comments (2)</strong></p>
+<p>I assume we should wait until we have #6 in hand before we check out the link. I mean, does it contain spoilers?</p>
+<p>Just curious. Have you read #6 yet?</p>
+<p>farsider | <a href="mailto:rduncan1@falcon1.net">Email</a> | 05.06.03 - 10:13 am</p>
+<p>Yes, it contains spoilers. I read it to find out what kind of error it was. No, I don't have issue #6 in hand. Bummer. I thought about waiting until tomorrow to see if it came in the sneak peek package.</p>
+<p>Anyway, the spoilers are minor-ish, but if I had my druthers, I would not have looked until after reading the issue.</p>
+<p>Tegan | 05.06.03 - 10:29 am</p>
+<hr />
+<br />
+<br />
+Monday, May 05, 2003 <span id="93834930"> </span>
+<strong>Rapid Reviews - Free Comic Book Day 2003 - Part IV</strong>
+<br />
+&#10;<p><strong>Peanutbutter &amp; Jeremy #4</strong>: Cute. Very cute. It's got possibilities. And it's cute. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a> This book is for All-Ages.<br />
+</p>
+<p><strong>Alternative Comics #1</strong>: Why are so many "alternative" comic stories so depressing and pretentious? I get really tired of it. That said, most of this is considerably less depressing than most I've read. There is some good stuff in here, some incomprehensible stuff, and a few boring items. Again, the anthology format is good, and gave a nice taste of what's available. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a> This book is for Adults (18+).<br />
+</p>
+<p><strong>Rocket Comics: Ignite #1</strong> Three stories in this one, all of ok quality. None of the stories were jump-out-at-you fantastic, but the post-apocalyptic western is amusing. The last story was similar to Young Justice/Impulse in feel. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p>I really wanted to like the <a href="http://www.americanelf.com/">James Kolchalka</a> book more. He's a nice guy who hangs out on the <a href="http://www.comicon.com/panels/">Comicon Message Boards</a> a bit. But the book didn't grab me like I expected it to. Still, it was better than the other two. So, 13 free comics are read, and there are still six left to go. Thank you <a href="http://www.cornercomics.com/">Paige</a>! I'm definitely thinking about ordering Leave it to Chance now... let's see... Image... Vol I Shaman's Rain is $14.95 and a hardcover... STAR16641... Yeah, gonna have to get it... Hey hubby-Eric, can I order it?</p>
+posted by Tegan | <a href="#93834930">6:16 PM</a>
+<hr />
+<p><strong>Comments (1)</strong></p>
+<p><em>Leave It to Chance</em> is the name of the book, not how we're going to pay for it! Figure out a way to raise the money, and we shall see...</p>
+<p>Hubby | <a href="mailto:tiktok@eskimo.com">Email</a> | <a href="http://thewizardofoz.info/">Homepage</a> | 05.05.03 - 9:42 pm</p>
+<hr />
+<span id="93828809"> </span>
+<strong>No Demento...</strong>
+<br />
+&#10;<p>There is no Dr Demento available on the radio in the Seattle area. People with a demented taste in music would be completely out of luck if not for "Music With Moskowitz", a similar (slightly Western-music tilted) show that airs on <a href="http://www.kser.org/">KSER</a> (90.7 FM) at noon on Saturday and KYCW (1090 AM) at 7 pm on Sunday nights. Hubby-Eric and I can listen to the Sunday night broadcast, and have the last two Sundays. I've ever called in a couple of requests. In fact, I requested a song for my mother on Mother's day. If it is played, and she's listening, she'll know how much I "wuv" her.<br />
+</p>
+<p>Anyway, while listening last night, <em>Frank's 2000" TV</em> by "Weird Al" Yankovic came on, and hubby-Eric went into math teacher mode, trying to figure out how tall and wide the screen would be. So, assuming that the ratio of the TV is like most American TVs, how tall is it? Let's assume it's NOT high definition. We're also assuming that the 2000" is being used in the standard way, to refer to the diagonal of the TV screen.<br />
+</p>
+<p>It's a fairly simple problem, but not one I would have thought of, or had thought of any of the many other times I've heard that song.</p>
+posted by Tegan | <a href="#93828809">4:12 PM</a>
+<hr />
+<p><strong>Comments (1)</strong></p>
+<p>Let's not forget, I also figured out how tall each of the scan lines would be! Can I be a saddo at times, or what? What amazes me is that I've heard that song many, many times before -- I think it's almost ten years old now -- but never thought to figure out the dimensions of Frank's TV before!</p>
+<p>Hubby | <a href="mailto:tiktok@eskimo.com">Email</a> | <a href="http://thewizardofoz.info/">Homepage</a> | 05.05.03 - 9:44 pm</p>
+<hr />
+<span id="93806181"> </span>
+<strong>Rapid Reviews - Free Comic Book Day 2003 - Part III</strong>
+<br />
+&#10;<p><strong>Christa Shermot's 100% Guaranteed How-To Manual for Getting Anyone to Read Comic Books!!!</strong>: There is one serious problem with this "manual". It's really hard to read. I don't mean that the words have too many syllables or something, I mean that it's poorly designed and the word balloons are hard to follow. You can't convince someone that comics are fun to read if the method you are using to convince them is itself too difficult to read. Other than that, it's ok. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_0_starfish.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p><strong>Avatar Graphic Novel Sampler</strong>: I should've know when I saw the names "Warren Ellis" and "Garth Ennis" that this wouldn't be my cuppa. Still, the format is very good, with enough pages for the featured graphic novels to get a good feel for them combined with a useful text overview. None of them interested me, though. Not even the Alan Moore and Steven Grant stuff. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/2_5_starfish.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a> This book is for Adults (18+).<br />
+</p>
+<p><strong>Leave It To Chance</strong>: Wow. I had heard good things about this book, now I know why. I'm afraid that this one would be on the pull list a moment after I read this free comic if I had the money to add it. As it is, those collections sound mighty tempting. $15 hardcovers reprinting four issues each? Heck yeah! <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_5_starfish.jpg" data-border="0" width="75" height="15" alt="4 1/2 starfish" /></a> This book is All-Ages.<br />
+</p>
+<p>Crud, now I gotta go out and get Leave it to Chance. Grrr. Free Comic Book Day has a hidden cost... *ahem* Three more books read and reviewed makes 10 down and 9 to go. Think I'll finish by Wednesday? Again, another thank you to <a href="http://www.cornercomics.com/">Corner Comics owner Paige</a> for allowing me to pick up every free comic.</p>
+posted by Tegan | <a href="#93806181">9:01 AM</a>
+<hr />
+<br />
+<br />
+Sunday, May 04, 2003 <span id="93770701"> </span>
+<strong>Some Blog Updates</strong>
+<br />
+&#10;<p>Some of you have no doubt already noticed recent additions to the sidebar of this blog. In addition to adding a few new blogs, I've put up a current terror alert level graphic, courtesy of <a href="http://www.geekandproud.net/terror/">Geek and Proud</a>. I've also put up a more permanent banner to the <a href="http://www.freecomicbookday.com/">Free Comic Book Day</a> website. I'll change the date as soon as the 2004 date is announced, assuming they'll go for a third day. I hope they do.<br />
+</p>
+Current Terror Alert Level<br />
+<a href="http://www.geekandproud.net/terror/"><embed src="http://www.geekandproud.net/terror/terror.php" data-border="0" /></a>
+<br />
+&#10;<p>Anyway, welcome to my newest linked fellow-bloggers: <a href="http://fenrikjmu.blogspot.com/">The Jason Continuum</a>, <a href="http://www.theagathaexperience.com">The Agatha Experience</a>, <a href="http://motokoburke.blogspot.com/">The 42nd Kingdom</a>, <a href="http://www.blurty.com/~fcarrera3">The Ongoing Autobiography of Frank Carrera</a>, <a href="http://www.thismodernworld.com/">This Modern World</a>, <a href="http://highclearing.com/">Unqualified Offerings</a>, <a href="http://www.mikhaela.net/weblog/blogger.html">Makhaela Reid</a>, <a href="http://www.nowarblog.org/">Stand Down</a>, <a href="http://coldfury.com/reason/weblog.php">The Light of Reason</a>, <a href="http://www.wilwheaton.net/">Wil Wheaton</a>, and <a href="http://www.garyhartnews.com/hart/blog/">Gary Hart</a>. Most of these blogs I'll be checking about three times a week, sometimes every day when I'm bored.<br />
+</p>
+<p>By the way, if anyone hears about any other blogs set-up by presidential hopefuls, no matter what party, please let me know. I'm very interested to see how blogging might work to help candidates actually reach the people. I can't believe that Gary Hart is the only one. There must be more out there.</p>
+posted by Tegan | <a href="#93770701">5:50 PM</a>
+<hr />
+<p><strong>Comments (3)</strong></p>
+<p>Hey Laura!</p>
+<p>Thanks for the shout out. And to be in the same sentence as WIL WHEATON, no less! Too cool...</p>
+<p>Again, thanks.</p>
+<p>Great blog!</p>
+<p>Frank | <a href="http://www.blurty.com/~fcarrera3">Homepage</a> | 05.05.03 - 5:10 pm</p>
+<p>Howard Dean has a blog too, Laura; it's on my blogroll right underneath Hart's.</p>
+<p>Elayne Riggs | <a href="mailto:elayneriggs@yahoo.com">Email</a> | <a href="http://elayneriggs.blogspot.com/">Homepage</a> | 05.06.03 - 12:13 pm</p>
+<p>Two problems with Howard Dean's blog (I've linked to it anyway). First problem is that it's not written by Dean himself, but by Dean boosters, which makes it sound like a Rah-rah-rah soundbite wannabe. Second problem is that I can't see any way to respond to a particular entry, or ask questions through the blog. If Dean wants to impress me, he needs to take a few minutes every couple of weeks and post something himself.</p>
+<p>Tegan | 05.07.03 - 9:34 am</p>
+<hr />
+<span id="93752826"> </span>
+<strong>Rapid Reviews - Free Comic Book Day 2003 - Part II</strong>
+<br />
+&#10;<p><strong>Batman Adventures #1</strong>: A good start to another series based on the animated version of Batman. I prefer the animated version, but one reason I prefer it is because it has less of a back-story than the main Batman books. That's rapidly becoming less true. On the other hand, certain characters have developed in entirely different ways than their regular DCU counterparts, which really has made following this series, both the cartoons and comics, worth it. And this is definitely a good start to the latest incarnation. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_0_starfish.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a> This book is All-Ages.<br />
+</p>
+<p><strong>Ultimate X-Men #1</strong>: Ug. I know what I like in superheroes, and this doesn't even come close. It's a re-imagining of the X-Men, but it's in fast-forward. Not for me. Not at all. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/2_5_starfish.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a> This book is for Older Readers (13+).<br />
+</p>
+<p><strong>Slave Labor Stories</strong>: For a sampler, this is good. The format was excellent, although I really wished for another page or two per feature. Still, they had to jam lots of stuff into a very little space. Quality-wise, I wasn't as impressed. The overuse of profanity got boring very quickly in some of the stories, only about half of them were of interest to me. Halo and Sprocket was amusing, Private Beach was odd but well-drawn, Ghost with Black Fingers was strangely compelling, Pandora's Lunchbox and Lenore were cute, and Comic Book Heaven Sampler was fun. The rest I could have lived without ever reading. <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3_5_starfish.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a> This book is for Adults (18+).<br />
+</p>
+<p>Ok, that's it for the moment. Three more makes seven down and 12 to go. Wow, this is a plethora of comics. I'm drowning in them. Thank you, <a href="http://www.cornercomics.com/">Paige</a>!</p>
+posted by Tegan | <a href="#93752826">10:38 AM</a>
+<hr />
+<span id="93747504"> </span>
+<strong>Holes</strong>
+<br />
+&#10;<p>Got to see a movie yesterday, courtesy of my kid sister. No, it wasn't X-Men 2, I'll wait awhile before seeing that. It was Holes.<br />
+</p>
+<p>I want to state, for the record, that I had never read the book (by Louis Sachar) and didn't know a <em>thing</em> about the story when I went in to see this movie. I seriously had no idea going in what it would be about, just my sister's word (and word-of-mouth from other sources) that it was good. And I have to say, this is one of the best movies I've seen in a long time. I won't give anything away, I think the best way to see this is to see it cold, but trust me, it's worth it. Indeed, I plan on getting the DVD as soon as it's available.<br />
+</p>
+<p>As for the book, I'm going to <a href="http://www.amazon.com/exec/obidos/ASIN/0440414806/theaquamanwebsit">order it via Amazon.com</a> as soon as I've got some credit again (it's already made my <a href="http://www.amazon.com/o/registry/1LQ0LSAUK0S6I">Wish List</a>). If you want to help me build up the credit, you could just buy a copy for yourself right now... just <a href="http://www.amazon.com/exec/obidos/ASIN/0440414806/theaquamanwebsit">follow the link</a>.<br />
+</p>
+<p>This one gets a solid 4 1/2 starfish: <a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/4_5_starfish.jpg" data-border="0" width="75" height="15" alt="4 1/2 starfish" /></a></p>
+posted by Tegan | <a href="#93747504">8:31 AM</a>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20030427-20030503.html">04/27/2003 - 05/03/2003</a><br />
+05/04/2003 - 05/10/2003<br />
+<a href="20030511-20030517.html">05/11/2003 - 05/17/2003</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

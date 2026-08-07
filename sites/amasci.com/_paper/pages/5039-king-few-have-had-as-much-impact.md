@@ -1,0 +1,60 @@
+---
+title: "King, few have had as much impact"
+source_domain: amasci.com
+source_path: ~mighetto/lsking.htm
+order: 5039
+reachable_from_entry: false
+images: 1
+internal_links: 6
+extracted: 2026-08-07T17:12:00Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# King, few have had as much impact
+
+*Source page: `~mighetto/lsking.htm`*
+
+# King, few have had as much impact
+
+------------------------------------------------------------------------
+
+[<img src="king_ma1.jpg" data-hspace="5" data-align="left" width="140" height="140" alt="next link" />](lskhan.htm) "FEW HAVE HAD AS MUCH IMPACT upon the American consciousness as Dr. Martin Luther King Jr. A Baptist minister and passionate fighter for civil rights through non-violent action, he was the closest this country has come to producing a leader with the moral stature of [Mohandas Gandhi](http://www.pathfinder.com/time/time100/leaders/profile/gandhi.html). When King was assassinated in 1968, citizens in many major cities reacted violently --- while others held vigils and peaceful gatherings. And Americans, black and white, wondered what would happen to his dream."
+
+From *[Seattle Times Internet Edition](http://www.seattletimes.com/mlk/)* January 20, 1997.\
+King argued for and organized militant non-violent mass action as a substitute for, and a complement to, the slow and plodding legal [system](lssys.htm). With his 1964 Nobel Peace Prize as justification, King attacked the war in Vietnam. His methods likely contributed to the end of US involvement. According to Clarance Page of the Chicago Tribune, King was a "prince of peace". In the 15 January 1998 issue of the [Seattle Post-Intelligencer](http://www.seattle-pi.com/), Page made King relevant to the day. King would have celibrated his 69th birthday on that day and Seattle was concerned about his legacy given an [initiative 200](http://www.eskimo.com/~mighetto/i200.htm) which would put and end to many of the affirmative actions programs. Many are familiar with Dr. Martin Luther King, Jr's dream that individuals "be judged not by the color of their skin, but by the content of their character." While not as widely known, he also had another strong belief - that a person should be measured by what he or she does to improve the lives of others. It is the establishment of systems that compels followers and defines leadership.
+
+For recent information see <http://www.cnn.com/US/9708/28/affirm.action/index.html>
+
+For more see <http://cgi.pathfinder.com/time/time100/leaders/profile/king.html>
+
+------------------------------------------------------------------------
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+\[[Home](http://www.eskimo.com/~mighetto/)\] \[[Decision Tree](lstree.htm)\] \[[Deep Knowledge](lsknow.htm)\] \[[Acknowledgements](acknow.htm)\] \[[Map](lswebmap.htm)\]
+
+***Mighetto & Associates*** - 1260 NE 69th St. Seattle, WA 98115 - (206) 525-1458 voice and fax
+
+<mighetto@eskimo.com> - Internet email address
+
+[mighetto@compuserve.com](mailto:72154.3467@compuserve.com) - Internet email address or 72154,3467 from within Compuserve
+
+http://www.eskimo.com/~mighetto/lsking.htm - last update August 15, 2000

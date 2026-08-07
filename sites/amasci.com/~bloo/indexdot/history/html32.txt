@@ -1,0 +1,59 @@
+HTML 3.2 
+
+ HTML 3.2 
+ = Index DOT Html/Css by Brian Wilson = 
+
+ Index DOT Html: 
+ Main Index | Element Tree |
+ Element Index | HTML Support
+ History 
+ Index DOT Css: Main Index |
+ Property Index |
+ CSS Support History |
+ Browser History 
+
+ Statistics 
+
+ Author: Dave Raggett
+ Specifications: 
+ DTD - http://www.w3.org/MarkUp/Wilbur/HTML32.dtd 
+ Documentation - http://www.w3.org/TR/REC-html32.html 
+ Timeline: 
+ - Draft specification published - May 5, 1996
+ - Becomes W3C recommendation - January 14, 1997
+
+ About HTML 3.2 
+
+Several months had passed since HTML 2.0 had been ratified and HTML 3.0
+expired. Both before and after the demise of the HTML 3.0 draft the creation of new
+elements and attributes had been proliferating in several browsers. The
+ W3C decided to form an
+ Editorial Review Board to consider
+the many extensions being made to HTML for official inclusion into a new
+specification. This board committed itself to creating a comprehensive
+set of HTML specifications that integrated this new work into the official
+body of the HTML language.
+
+At the beginning of May, 1996 at the World Wide Web conference in Paris,
+France, the review board announced
+ HTML 3.2 
+(code named "Wilbur") which was an amalgamation of HTML 2.0 features,
+a set of features from HTML 3.0 that survived the experimental deployment
+period, plus select extensions created and implemented by browser vendors.
+It also had as its goal, like HTML 2.0, to capture the common HTML capabilities
+in current browsers at the time of its creation (circa May, 1996.)
+
+There are some common browser extensions and important features that are
+noticeable by their absence in HTML 3.2. They include Style Sheets, Frames,
+Scripting, Math and Internationalization. It has been stated that these
+features WILL appear in future HTML proposals in some form.
+
+ Why it is important 
+
+With the demise of HTML 3.0, Many users and browser creators alike have wanted
+some standard to replace HTML 2.0 as the content on the web has grown
+increasingly more complex. Since its introduction in May 1996, HTML 3.2
+quickly became THE de-facto replacement to HTML 2.0 - both for HTML authors
+ and browser creators - even before it was a recommendation.
+
+ Boring Copyright Stuff...

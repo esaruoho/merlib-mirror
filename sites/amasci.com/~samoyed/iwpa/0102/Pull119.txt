@@ -1,0 +1,588 @@
+Pull 119 -- Manson Snow Pull
+ -- Day 1 
+
+ Manson Snow Pull 
+Manson, Washington 
+
+ Pull: 119 
+ Organizer(s): Jeff Parsons 
+ Snow on Grainy snow
+ Region: 2 
+
+ Track: 
+ Grainy and a little sand mixed in with the snow. 
+ Date: 
+Sat
+ 23 
+Feb
+ 2002 
+
+ Weather: 
+ 40F and partly cloudy with a little wind, 10 MPH 
+
+ Day 1 of 2 
+
+ Color Codes 
+ % -- Working Dog (WD) Leg Eligibility 
+ WD 
+ WD Excellent 
+ WD Superior 
+
+ Handler -- Owner / Handler relationship 
+ Owner 
+ Family Member 
+ Other Membership 
+
+ Chief Judge: Ryan Wood 
+
+ 40 # Class 
+
+Judged by 
+Ryan Wood
+
+ 140 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Jar Jar Bink 
+ 2 
+ No Pull
+/140
+
+ 34 
+ . 
+ 0.0 
+ Morgan Star
+
+ Australian Cattle Dog 
+
+ Failed starting weight. 
+ 60 # Class 
+
+Judged by 
+Ryan Wood
+
+ 140 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Roxy 
+ 2 
+ 860
+
+ 8.90 
+ 58 
+ 14.83 
+ 5.0 
+ Ronald Overgaard
+
+ Am. Staffordshire Terrier 
+
+ 80 # Class 
+
+Judged by 
+Jeff Parsons
+
+ 140 # Start weight, 
+ 80 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Pepperhaus Teajae 
+ 2 
+ 940
+
+ 8.62 
+ 76 
+ 12.37 
+ 12.0 
+ Ronald Overgaard
+ Karen Whitfield
+
+ Rottweiler 
+
+ Nuka Tu 
+ 2 
+ 780
+
+ 8.09 
+ 77 
+ 10.13 
+ 9.0 
+ Bob Daymude
+ Donna Daymude
+
+ Alaskan Malamute 
+
+ Timber 
+ 2 
+ 460
+
+ 14.61 
+ 71 
+ 6.48 
+ 6.0 
+ Judith McCauley
+
+ Siberian Husky 
+
+ Rocky 
+ 2 
+ 300
+
+ 4.65 
+ 70 
+ 4.29 
+ 4.0 
+ Victoria Wood
+
+ Boxer/Pitbull mix 
+
+ Kianna 
+ 2 
+ 220
+
+ 5.43 
+ 69 
+ 3.19 
+ 3.0 
+ Ramona Locke
+
+ Alaskan Husky 
+
+ Sierra 
+ 2 
+ 140
+
+ 3.83 
+ 64 
+ 2.19 
+ 2.0 
+ Steven Duren
+
+ Alaskan Malamute 
+
+ Spike 
+ 2 
+ 140
+
+ 4.26 
+ 67 
+ 2.09 
+ 1.0 
+ Lacy Wood
+
+ Boxer/Pitbull mix 
+
+ Kady 
+ 2 
+ No Pull
+/140
+
+ 74 
+ . 
+ 0.0 
+ Jaci Rodgers
+
+ Labrador Retriever 
+
+ Failed starting weight. 
+ 100 # Class 
+
+Judged by 
+Nathan Sellers
+
+ 220 # Start weight, 
+ 120 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Pepperhaus "T" 
+ 2 
+ 1060
+
+ 6.22 
+ 97 
+ 10.93 
+ 13.0 
+ Kent Stuart
+
+ Rottweiler 
+
+ Pepperhaus Truman 
+ 2 
+ 940
+
+ 4.90 
+ 95 
+ 9.89 
+ 10.0 
+ Ronald Overgaard
+
+ Rottweiler 
+
+ Jazz 
+ 2 
+ 580
+
+ 7.56 
+ 93 
+ 6.24 
+ 7.0 
+ Ryan Wood
+
+ Alaskan Malamute 
+
+ Sequoia 
+ 2 
+ 460
+
+ 4.51 
+ 89 
+ 5.17 
+ 5.0 
+ Carole Parsons
+
+ Alaskan Malamute 
+
+ Cheyanne 
+ 2 
+ 340
+
+ 5.22 
+ 84 
+ 4.05 
+ 4.0 
+ Jeff Parsons
+ Carole Parsons
+
+ Alaskan Malamute 
+
+ Boomerang 
+ 2 
+ 340
+
+ 15.79 
+ 87 
+ 3.91 
+ 3.0 
+ Devin Crouch
+
+ Alaskan Malamute 
+
+ Drifter 
+ 2 
+ 220
+
+ 50.44 
+ 84 
+ 2.62 
+ 2.0 
+ Steven Duren
+
+ Alaskan Malamute 
+
+ Jackie 
+ 2 
+ No Pull
+
+ 84 
+ . 
+ 0.0 
+ Carole Parsons
+ Jeff Parsons
+
+ Alaskan Malamute 
+
+ Sadie 
+ P 
+ No Pull
+/220
+
+ 84 
+ . 
+ . 
+ Todd Jackson
+
+ Unknown 
+
+ Failed at 220#, the starting weight. 
+ 125 # Class 
+
+Judged by 
+Jeff Parsons
+
+ 260 # Start weight, 
+ 120 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Pepperhaus Samson 
+ 2 
+ 980
+
+ 6.18 
+ 101 
+ 9.70 
+ 10.0 
+ Ronald Overgaard
+ Kent Stuart
+
+ Rottweiler 
+
+ Kenai 
+ 2 
+ 860
+
+ 5.85 
+ 101 
+ 8.51 
+ 7.0 
+ Craig Hohnbaum
+
+ Alaskan Malamute 
+
+ Thumper 
+ 2 
+ 740
+
+ 6.06 
+ 119 
+ 6.22 
+ 4.0 
+ Rhonda Wood
+
+ Alaskan Malamute 
+
+ Koluk 
+ 2 
+ 740
+
+ 6.49 
+ 101 
+ 7.33 
+ 2.0 
+ Devin Crouch
+
+ Alaskan Malamute 
+
+ Tacoma 
+ 10 
+ No Pull
+/260
+
+ 120 
+ . 
+ 0.0 
+ James Galli
+
+ Alaskan Malamute 
+
+ Failed starting weight. 
+ Kona 
+ P 
+ No Pull
+/260
+
+ 109 
+ . 
+ . 
+ Todd Jackson
+
+ Alaskan Malamute 
+
+ Failed starting weight. 
+ 150 # Class 
+
+Judged by 
+Jeff Parsons
+
+ 260 # Start weight, 
+ 120 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Rebel 
+ 2 
+ 860
+
+ 4.26 
+ 140 
+ 6.14 
+ 8.0 
+ Ryan Wood
+
+ Alaskan Malamute 
+
+ Gus 
+ 2 
+ 860
+
+ 4.69 
+ 142 
+ 6.06 
+ 5.0 
+ Ronald Overgaard
+
+ Mastiff 
+
+ Storm 
+ 2 
+ 620
+
+ 7.28 
+ 127 
+ 4.88 
+ 2.0 
+ Tim Broere
+
+ Alaskan Malamute 
+
+ Chevy 
+ 2 
+ 620
+
+ 33.98 
+ 130 
+ 4.77 
+ 0.5 
+ Lissi Dunsdon
+
+ Alaskan Malamute 
+
+ Unlimited Class 
+
+Judged by 
+Jeff Parsons
+
+ 260 # Start weight, 
+ 120 # Increment, 
+Sled weighs 
+ 100 #
+
+ Dog 
+ Reg 
+ Pulled 
+
+Fcode /Fwt 
+ Time 
+ Wt. 
+ % 
+ Score 
+ Handler Owner 
+ Breed 
+ Moses 
+ 2 
+ 1700
+
+ 6.48 
+ 196 
+ 8.67 
+ 7.0 
+ Ronald Overgaard
+
+ English Mastiff 
+
+ Chunka 
+ 2 
+ 860
+
+ 5.24 
+ 156 
+ 5.51 
+ 4.0 
+ Nathan Sellers
+
+ Alaskan Malamute 
+
+ Lewis 
+ 2 
+ 380
+
+ 50.48 
+ 174 
+ 2.18 
+ 1.0 
+ Ron Rodgers
+
+ Newfoundland 
+
+ Last Updated: 15:28:18 on 03-19-2002 
+
+ Pull Index 
+ Previous Pull # 
+ Next Pull # 
+ IWPA Home Page 
+
+ Standings ==> 
+ Wheels 
+ Snow 
+ Upcoming Pulls

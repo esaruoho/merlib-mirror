@@ -1,0 +1,43 @@
+---
+title: "Pruning Rhododendrons"
+source_domain: amasci.com
+source_path: ~enumclaw/Tips/pruning.html
+order: 2930
+reachable_from_entry: false
+images: 2
+internal_links: 4
+extracted: 2026-08-07T17:09:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pruning Rhododendrons
+
+*Source page: `~enumclaw/Tips/pruning.html`*
+
+Pruning Rhododendrons
+
+ 
+
+One of the most frequent questions of people new to rhododendrons is whether they should be pruned, and if so, when? The answer to both is, "It depends." When Bob Anderson collected boxcars full of native rhododendrons from the hills of Virginia and North Carolina in the late 1940s, many of the best (after a few years) specimens had been broken or chewed to the ground by ranging cows. They renewed themselves into lush plants in his [New Jersey nursery](../summ.html), eventually finding their way to the New Jersey Turnpike and Garden State Parkway landscaping. Their recovery illustrates how well some leggy rhododendrons respond to pruning. However, there are easier and better ways to prune in your garden.
+
+<img src="../Resources/image326.gif" data-align="MIDDLE" data-border="0" data-naturalsizeflag="3" width="258" height="361" />
+
+*r. rigidum*
+
+Some rhododendrons, such as *[fastigiatum](../Specimens/fastigiatum.html)*, rarely if ever need to be pruned. Others, such as *rigidum* and [Sappho](../Specimens/sappho.html), can begin looking leggy within a year. The most basic rule is to prune a rhododedron to improve its appearance, whether to make it more dense or to remove dead or dying parts. You might also want to alter the shape of a plant, particularly if it was moved from a crowded location or from a slope.
+
+When you buy a young rhododendron, ask the salesperson about the plant's growth habit and try to see a mature specimen of the same kind. You can also check out the pictures in the SPECIMENS section of this website. This will give you a clue to how much early pruning will be necessary.
+
+A good way to promote denser growth in a young rhododendron with leggy tendencies is to pinch terminal leaf buds. Often these plants will send out long new shoots with no branching. The terminal leaf bud produces a hormone that retards development of dormant buds around its base. Pinching this bud forces the dormant buds grow, producing multiple branches. Be sure not to pinch the fatter flower buds, because, of course, you want the flowers, and also because they do not produce the inhibiting hormone.
+
+If the plant is older, pinching is usually not sufficient. Move further down the branch and just above an older leaf rosette. Since most rhododendrons keep their leaves for more than one year, it is a simple matter to find these clusters of latent buds. But even where older leaves are gone, latent buds lie under the bark where the branch once ended. Look for a ring of bumps and cut just beyond them. Multiple new shoots should appear from the new branch terminus.
+
+I remove many of the lower branches of larger rhododendrons within the beds where sunlight is scarce. These branches have few leaves and add little to the appearance of the plant. Eliminating them helps to train the big rhododendrons into more of a tree form and makes it easier to blanket the bed with [mulch](mulch.html).
+
+If your rhododendron needs massive pruning, I would spread it out over two or three years to avoid shock. That way, the new base can become established before it must sustain the entire plant.
+
+The best time to prune is in the spring, just after flowering but before new growth begins, or early in bloom if you want trusses for indoor display. However, what is ideal is not always practical, especially if you have a large number of rhododendrons. I prune throughout the year because I can't keep up with 3,000 plants in a month or two. If you live in a region with harsher winters than our Puget Sound region, such as the northeastern United States, I wouldn't prune in the late summer or fall. Late pruning promotes late new growth that is susceptible to winter injury.
+
+There are a few kind of rhododendrons, such as thomsonii , that do not respond well to pruning. You can remove branches, but new growth from latent buds will likely not occur. Too much pruning can kill the plant.
+
+Good pruning improves the appearance of many rhododendrons. It is not difficult, and less is usually better than more. Most often the gardener can do a better job than the cows.

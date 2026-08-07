@@ -1,0 +1,44 @@
+Scott Ludwig's Pilot Software 
+
+ Palm
+ games 
+
+ Home 
+ Palm games 
+ Windows CE 
+ EPOC 
+ daVinci games 
+ Windows Software 
+ Comments 
+
+ Welcome! This
+ is my page for software I've written for Palm and Palm compatible Handhelds. 
+ Comments? You can send me comments and feedback at scottlu@eskimo.com . 
+
+ PocketChess v2.5 
+
+ Released: 
+ 07/16/2001 
+
+ Size: 
+ 260K 
+
+ PocketChess v2.5 is an exciting, major upgrade to the award winning
+ program PocketChess v1.x, as well as an update of the popular PocketChess
+ v2.0. This new update adds over 3300+ famous master games and chess
+ problems. PocketChess v2.5 was created by Tinyware,
+ Inc. and licensed to Pocket
+ Express, Inc. To learn more, please visit: http://www.tinyware.com http://www.pocketexpress.com 
+
+ Railroad v1.1 b Released
+ 7/8/2001, Size 21K 
+
+ Railroad is a form of solitaire also known as Russian
+ Solitaire. This is one of the most demanding and challenging types of solitaire! The
+ object is to increase your score over time. Every time you deal, your score goes down 52
+ points. Every time you move a card to the foundation stacks, your score increases by 10.
+ All cards must be stacked by suit. It's challenging and addictive! 
+ This software is freeware and supports both B&W
+ and color devices. Enjoy it. 
+ Download Railroad here . 
+ Enjoy Railroad!!

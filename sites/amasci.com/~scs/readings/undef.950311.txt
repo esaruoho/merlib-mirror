@@ -1,0 +1,135 @@
+undefined behavior 
+
+[This article was originally posted on March 11, 1995, in the 
+midst of a thread on undefined behavior. I am indebted to 
+Michael Hodous for having saved a copy of this article, and 
+locating it and forwarding it to me over a year later, after
+I'd lost mine.]
+
+Newsgroups: comp.lang.c
+From: scs@eskimo.com (Steve Summit)
+Subject: undefined behavior and Doubting Thomases (was: Quick C test...)
+Message-ID: <D5Aqno.II8@eskimo.com>
+References: <danpop.794784912@rscernix> <3jq1mn$63g@news.sas.ab.ca> <danpop.794862450@rscernix>
+Date: Sat, 11 Mar 1995 22:04:35 GMT
+Lines: 114
+
+In article <danpop.794862450@rscernix>, Dan Pop
+(danpop@cernapo.cern.ch) writes:
+ > In <3jq1mn$63g@news.sas.ab.ca> dmartin@freenet.edmonton.ab.ca () writes:
+>> You can say "THE STANDARD SAYS IT'S UNDEFINED BEHAVIOUR!!!" until your
+>> keyboard wears out and you still won't have answered the basic question of
+>> WHY?
+>
+> I did, because this is the right answer. Your "answer" doesn't explain
+> why the standard chose "undefined behaviour" instead of "unspecified
+> behaviour" or "implementation defined behaviour". It won't convince
+> anybody who can think for himself.
+
+Actually, Douglas and Dan are both right.
+
+Posters to comp.lang.c do assert, over and over and over again,
+that certain behavior is undefined. It doesn't help. Other
+posters keep asking "Why?" or saying "Oh, but if I don't care
+which outcome I get, I'm okay."
+
+Posters to comp.lang.c do assert, over and over and over again,
+that "No, it's UNDEFINED! Undefined behavior means that ANYTHING
+can happen! If you write i=i++ , your computer can teleport
+itself to 16th century Wittenberg and change Western history by
+nailing sections 1.6 and 3.3 of ANSI X3.159 to the church door!".
+It still doesn't help. Hyperbolic scenarios like that are fun to
+construct, but if someone has heard but not accepted one sober
+definition of undefined behavior, and persists in their dogged
+belief that i=i++ is meaningful to them and their compiler, those
+increasingly fantastic explanations don't usually penetrate,
+either.
+
+If we want to educate, if we want people to stop believing that
+they can write i=i++ or predict what it should do, we can't just
+keep repeating "It's undefined". We can't say anything that
+sounds like "It's undefined because we and the Standard say it
+is, so just accept it." If it sounds like that, if it can
+possibly be construed to sound like that, then people with a
+hyperactive (but perhaps beneficial, in other situations)
+skepticism gland will construe it like that, and will cross
+their arms, state that they're from Missouri, and demand that we
+show them why. We can't say "because the Standard says so" for
+the nth time -- they remain unconvinced. We can't emulate an
+inane beer commercial and say "Why ask why?" -- their arms remain
+crossed. We have to give them a reason, in language they can
+understand, and if we think that the best reason really is 
+"because the Standard says so," or that it's not really sensible
+to ask why or meaningful to explain why, then we had better --
+again, if we're interested in educating and in keeping the noise
+level down -- keep those opinions to ourselves.
+
+I keep trying to find ways of saying these things that really
+work. (Two other FAQ list issues that seem to defy being put to
+rest are whether arrays are pointers, and whether it's possible
+to write a generic swap macro.) You may think that the current
+FAQ list wording is adequate (if so, thank you! :-) ), and that
+people, having read it, shouldn't keep wondering why things are
+the way they are, but FAQ lists are by their very nature
+pragmatic: if people manage not to understand them, then they
+(the lists) are not doing their job. If an FAQ list which merely
+stated the facts were adequate, if it were a reader's fault for
+misunderstanding it, then we wouldn't need FAQ lists at all;
+there are already plenty of documents out there which merely
+state the facts, and which readers manage to misunderstand.
+
+Roger Miller came up with a very nice explanation of how behavior
+which the pedants claim is undefined can seem to work "correctly"
+on the skeptic's computer:
+
+Somebody once told me that in basketball you can't hold
+the ball and run. I got a basketball and tried it and it
+worked just fine. He obviously didn't understand basketball.
+
+(This observation can also be used to make Dan's point: about the
+only answer to the question "Why can't you hold the ball and run
+in basketball?" is "because it's against the rules" or "because
+that's not the way the game is played.")
+
+At one time I was toying with statements of the form
+
+Undefined means that, notwithstanding question 8.2,
+the code
+
+ printf("%d", j++ <= j);
+
+can print 42, or "forty-two".
+
+(For those who don't have a copy of the
+ FAQ list in front of you,
+ question 8.2 
+is the one that says that boolean operators like <= 
+always return 0 or 1. I confess that by mentioning the number
+42, I've started down the road towards hyperbole.) I think I
+even once posted here something along the lines of
+
+Boolean operators like <= always return 0 or 1.
+
+The code
+
+ printf("%d", j++ <= j);
+
+can print 42, or "forty-two".
+
+If you can hold these two thoughts simultaneously,
+you will have achieved Enlightenment.
+
+These arguments do have a certain subtle appeal, but when you're
+trying to pierce those curtains of skepticism, it seems that
+neither subtlety nor hit-em-over-the-head, nasal demons arguments
+are sufficient.
+
+The massive FAQ list revision 
+I'm currently immersed in (and
+which I shouldn't even be taking time out from to post this
+article) has a bunch more to say about undefined behavior;
+we'll see if any of it helps.
+
+ Steve Summit 
+
+ scs@eskimo.com

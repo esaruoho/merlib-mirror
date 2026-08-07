@@ -1,0 +1,95 @@
+---
+title: "What's up with me?"
+source_domain: amasci.com
+source_path: ~ables/whatsup.html
+order: 1027
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T17:07:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# What's up with me?
+
+*Source page: `~ables/whatsup.html`*
+
+What's up with me?
+
+<img src="img/wtcribbon.gif" data-align="right" data-border="0" />
+
+**What I'm reading**
+
+- *London* by Edward Rutherfurd -- it's like
+  Michener's Centennial but about the London area.
+
+- *The Road Less Traveled* by M. Scott Peck -- several
+
+  friends have recently recommended it as I grapple with some big questions about life ("... the universe and everything").
+
+  **... and recently finished**
+
+  - *Timeline* by Michael Crichton -- I heard this is a
+    great time travel story. I was kinda disappointed. It was interesting in its view of France in the Middle Ages, but the explanation for the time travel was pretty lame.
+  - *Case Closed* by Gearld Posner -- finally getting
+    around to what is supposed to be the definitive volume on the JFK assassination. I've been coming to the conclusion that if there was a conspiracy someone would have cracked by now, but Posner blows holes in every conspiracy theory I've ever heard one by one. Sure, it's still an unlikely scenario for Oswald, but it's not nearly as unlikely as most of the conspiracies.
+  - *The Brethren* by John Grisham -- another intriguing story.
+    I really like Grisham's style.
+  - *Harry Potter and the Sorcerer's Stone* by J. K. Rowling --
+    I had to see what the fuss was all about. It's a good, fun read. It reminds me of *Charlie and the Chocolate Factory* (I guess I mean that was my off-the-wall, fantasy book from when I was "the right age").
+  - *Harry Potter and the Chamber of Secrets* by J. K. Rowling --
+    my good friends Kathy and Bill gave me the complete CD set of the 2nd Harry Potter book so I can listen to it on my one hour commute to work! I was going to wait to read the rest, but since it's so easy, OK!
+  - *Harry Potter and the Prisoner of Azkaban* by J. K. Rowling --
+    So after reading two, I figured I may as well keep going. Listening to them in the car on my drive to and from work is a real deal. So I found the third one used at [BooksOnTape.com](http://www.booksontape.com) and enjoyed it just as much, maybe a little more. But people are right, they get darker as you go.
+  - *Harry Potter and the Goblet of Fire* by J. K. Rowling --
+    The 4th, and by far the darkest, of the series. The guy who does the audio books, Jim Dale, is perfect. He has a different voice for every characters and he really brings them all to life. I understand why kids are going crazy over these books.
+  - *Who Moved My Cheese* by Spencer Johnson -- the author of
+    *The Mythical Man-Month* is back. I read this over dinner one night, and while I don't think it's quite as revolutionary as some seem to, it does crystalize some things that I think I knew subconsciously. The quick read (even for me) is definitely worth it, check it out!
+  - *Eat Right For Your Type* by Dr. Peter J. D'Adamo --
+    puts forth an interesting idea that your blood type determines how your digestive and immune system is built and what types of foods fuel it best. I don't know that I buy into it, but after being on this diet for 3 months my cholesterol went down 30+ points, so something had an effect somewhere. Now I get to try to figure out which part!
+
+**What I'm listening to**
+
+- The Look Of Love / Diana Krall - Her newest and every bit as
+  good as all the rest.
+- Tapestry / Carol King - Dug this out to listen to "Where You Lead"
+  which is the theme to the TV show Gilmore Girls (see below) and to pick it out on the sax (it's pretty easy actually). But I was reminded what a great album this was and just kept listening.
+- Presumed Innocent / Marcia Ball - This may be her best!
+  I saw her live in Fort Collins (see below) where she did nearly every song from this CD. It's a good thing this isn't an album, I would have worn it out by now!
+- My Romance / An Evening with Jim Brickman - this guy is a fabulous
+  pianist, a dear friend gave me this CD and I had never heard of the guy. Highly recommended!
+- Les Miserables / The Complete Symphonic Recording - I just had
+  the bug to hear this show again (and again and again).
+
+**What I'm watching**
+
+- Gilmore Girls (Tue WB) -- smartly written (and yeah, Lauren
+  Graham is a babe).
+- Ed (Wed NBC) -- *Northern Exposure* in the lower 48
+  with a bowling alley.
+- The West Wing (Wed NBC) -- Sorkin is still a genius (Sportsnight
+  was a great show, too, I don't understand why it never found an audience).
+- Charmed (Thu WB) -- you probably think you know why I watch it, but
+  if you tried it, you might be surprised.
+
+**Done anything fun lately?**
+
+- September 1 -
+  [Hiked Mt. Falcon](hikebike/mtfalcon.html) and saw James Taylor at Red Rocks. We could see Red Rocks from the Mt. Falcon trail the trail in the morning and were there that evening seeing James Taylor. There's nothing like seeing JT sing *Fire and Rain* under a full moon.
+- August 18 - Rode in the
+  [Moonlight Classic](http://www.moonlight-classic.com/) midnight bike ride in Denver. It's 20 miles through downtown starting at midnight and finishing through Larimer Square to the state capital just as the bars are closing and the drunks are coming out (and boy are they confused!).
+- August 17 - Saw
+  [Marcia Ball](http://www.marciaball.com/) again (she's from Austin but I've seen her much more since I've lived in Colorado than I did in Austin!). She was playing in Old Town Fort Collins at New West Fest and I got her latest CD and got her to autograph it! A fabulous evening all around.
+- June 23 - My sister got married in San Antonio and the party
+  went on most of the night. I was glad to find out I could still keep up with the young kids! ;-)
+- June 2 - Saw "I Love You, You're Perfect, Now Change" at
+  the Denver Center For The Performing Arts -- a great show about relationships and the silly things men and women do to try to attract each other.
+- April 25 - Saw the Rockies lose to the Cubs. :-(
+- April 9 - Saw Elton John and Billy Joel play together in Denver.
+  I'd seen Billy before in Austin, but never seen Elton before and together they're even better. Elton played the best almost-ragtime instrumental in the middle of Rocket Man that I've ever heard, I wish he'd record it. They didn't play together as much as I expected, but that's part of why the show could go on for 4 hours!
+- April 7 - Saw Rob Becker's Defending The Caveman in Denver.
+  This looks like a stand-up comedy show but deep down there's a lot of real wisdom about the nature of relationships between men and women. There are a few nuggets of really useful ideas in this show, just like in John Gray's *Men Are From Mars, Women Are From Venus*. Check it out at: [http://www.cavemania.com.](http://www.cavemania.com)
+
+------------------------------------------------------------------------
+
+Sunday, October 21, 2001

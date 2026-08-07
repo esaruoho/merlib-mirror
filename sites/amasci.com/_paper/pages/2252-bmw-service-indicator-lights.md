@@ -1,0 +1,324 @@
+---
+title: "BMW Service indicator lights"
+source_domain: amasci.com
+source_path: ~dalus/bmw/repair_faqs/sil.html
+order: 2252
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T17:08:43Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# BMW Service indicator lights
+
+*Source page: `~dalus/bmw/repair_faqs/sil.html`*
+
+This page was originally hosted here: <http://cbsgi1.bu.edu/bmw/bmw_new.html>. But that site has gone down so I'm hosting these pages here.
+
+------------------------------------------------------------------------
+
+<span id="contents"></span>
+
+# BMW Service indicator lights FAQ.
+
+------------------------------------------------------------------------
+
+Contents:
+
+- [Resetting the Service Indicator Lights.](sil.html#reset)
+- [The Dummy Plug.](sil.html#dummy)
+- [Replacing the NiCad batteries.](sil.html#bat) Updated 8/3/96
+- Also check the <a href="ftp://ftp.wizvax.net/pub/personal/rwelty/Autos/bmw/FAQ.7" target="_top">Electrical FAQ</a>
+
+------------------------------------------------------------------------
+
+<span id="reset"></span>
+
+### The Service Indicator Lights
+
+The BMW service indicator lights are considered by many to be totally useless for indicating when you should service the car. The cheapest, ugliest solution for turning off the service light is to cover them up with black tape. If you want to be more adventurous, you can remove the instrument cluster and cut the wire going to the lights. True motorheads will read on though.
+
+The service indicator lights are reset through a pin in the diagnostic connector located in the engine compartment. There are 2 types of diagnostic connectors used on BMWs. One is a 15 pin connector used on 1987 and earlier cars, the other is a 20 pin connector used on 1987-on cars. In what follows the 15 pin connector is referred to as the early type and the 20 pin as the late type. Resetting the service indicator lights is described below. The most common problem with resetting the service lights is bad NiCad batteries in the instrument cluster. The batteries seem to fail pretty consistently after 4 years. The symptoms of this are:
+
+1\. The inspection light comes on.
+
+2\. Resetting the light according to the instructions below either doesn't work or works for a short period of time and then the inspection light comes back on.
+
+The fix for this is to replace the batteries as described below.
+
+## Relevant Roundel references:
+
+The Roundel is the monthly publication of the BMW Car Club of America [BMW CCA](http://www.bmwcca.org/l2pages/current.htm).
+
+Jan 1992, Nov 1991, Dec 1989, May 1988 -- Resetting the service indicator lights
+
+Nov 1991 -- Replacing the Nicads.
+
+## Resetting the service indicator lights.
+
+Late type connector:
+
+The service indicator lights are reset by connecting pin 7 to pin 19(ground). The proper way to do this is to have the ignition off and place a jumper wire between pins 7 and 19 (make sure you get the right pins!). Then turn the ignition switch to position 2 (run, NOT start), when the service light goes out, turn the ignition off. This should take a few seconds for an oil reset, 8-10 seconds for an inspection reset. All green lights should come on when the service light goes out. The difference between resetting the oil service light and the inspection light is in the length of time you have the jumper in place with the ignition on. This means that if you are resetting the oil service light, you should turn off the ignition immediately after the light goes out. If you leave the jumper in too long with the ignition on, you will perform an inspection reset as well and the next service indicator will come up as an oil service rather than an inspection.
+
+The service light reset tools that I have seen connect to 3 pins of the diagnostic connector: pin 7,14 and 19. The connection to 14 is to power the tool. The less sophisticated tool has only one switch that connects pin 7 to 19. While those pins are tied together a red LED blinks to measure time. You count blinks and manually turn off the tool after the appropriate number of counts for oil or inspection reset. The more sophisticated tool has two switches, one for oil reset, one for inspection. It must have a built in timer that jumps pin 7 to 19 for the correct time.
+
+**Notes on the latest model cars (93 on?):**
+
+(can someone please verify this?) It is claimed that the above procedure doesnt quite work on the most recent model year cars. Instead of waiting for the lights to go out, you have to disconnect the jumper between 7 and 19 while the ignition is still on.
+
+- To reset OIL SERVICE, maintain the connection for approximately 3 seconds.
+- To reset INSPECTION, maintain the connection for approximately 12 seconds.
+
+------------------------------------------------------------------------
+
+Early type connector:
+
+The procedure is the same as above, but you jumper pin 7 (the service indicator pin) to pin 1 (the ground pin).
+
+The early type connector:
+
+\*\*\*\*\*\*\* \*\*\*\* \*\*\*\* \*\*\* (10) \*\*\* \*\* (9) (11) \*\*\* \* \* \* (2) \* \* (8) (3) \* \* \* \* (7) \* \* (1) \* \* (4) \* \* \* \* (6) \* \* (15) (5) \* \* \* \*\* (14) (12) \*\*\* \*\*\* (13) \*\*\* \*\*\*\* \*\*\*\* \*\*\*\*\*\*\*
+
+Diagnosis plug connections: No. Terminal Designation 1 31 Ground 2 - - 3 - - 4 FT Temperature gauge 5 L Engin M10B18 Interfrator output for CO adjustment Engin M30B34 Oxygen Sensor signal 6 A Diagnosis lead for SRS 7 SI Service indicator 8 P+ Position sender 9 S Shielding 10 P- Position sender 11 50 Starting pulse for starter 12 61 Alternator charge indicator 13 1 Ignition signal 14 30 battery + 15 15 Power supply for ignition
+
+The late type connector: \*\* \*\*\* \*\*\*\* \*\*\*\*\* \*\*\*\* \*\*\* (1) \*\*\* \*\* (12) (2) \*\*\* \* \* \* (11) (20) (13) (3) \* \* \* \* (10) (19) (14) (4) \* \* \* \* (15) \* \* (9) (18) (5) \* \* (16) \* \* (17) \* \*\* (8) (6) \*\* \*\* \*\*\* \*\*\* (7) \*\*\* \*\*\*\* \*\*\*\* \*\*\*\*\*\*\*
+
+From the BMW NA 1989 Electrical Troubleshooting Manual for the 325i/iS:
+
+Pin
+
+Wire Size
+
+Wire Color
+
+Circuit and Component Connected
+
+1
+
+1
+
+BK
+
+Ignition Coil, Motronic Control Unit
+
+6
+
+0.5
+
+WT/BK
+
+SRS Connector (Not Used)
+
+7
+
+0.5
+
+WT/GN
+
+Service Interval Indicator, Service Interval Processor(Reset).
+
+11
+
+2.5
+
+BK/YL
+
+Starter, Start Signal(50)
+
+12
+
+0.75
+
+BU
+
+Charge, Alternator(D+)
+
+14
+
+2.5
+
+RD
+
+Battery
+
+15
+
+0.5
+
+WT/YL
+
+Motronic Control Unit(RXD)
+
+16
+
+1.5
+
+GN/WT
+
+Oxygen Sensor
+
+18
+
+0.5
+
+GN/BU
+
+Motronic Control Unit(Programming Voltage)
+
+19
+
+1.5BR
+
+BR
+
+Ground Distribution(G103)
+
+20
+
+0.5
+
+WT/VI
+
+Motronic Control Unit(TXD)
+
+------------------------------------------------------------------------
+
+[(return to contents)](sil.html#contents) <span id="dummy"></span>
+
+## The Dummy plug.
+
+Late models:
+
+The cap on the diagnostic connector is actually an electrical connector that shorts together the following pins:
+
+--pins 18 and 20 to pin 19.
+
+--pin 14 to 15.
+
+## Other things you can do with the diagnostic connector.
+
+(I've never tried any of these!!!:)
+
+Remote Starter: Connecting a remote starter switch to pins 11 and 14 will allow you to start the engine or "bump" it into position for valve adjusting.
+
+Read O2 sensor: ???
+
+Motronic faults: ???
+
+------------------------------------------------------------------------
+
+[(return to contents)](sil.html#contents) <span id="bat"></span>
+
+## Replacing the NiCad batteries which power the service indicator circuit:
+
+Update 11/30/93): BMWNA is now stocking a replacement SI board with lithium batteries which should last much longer. They are available for about \$160.00 US. If the old batteries are lithium, you should replace them with lithium batteries.
+
+Here's a copy of Rick Kjeldsen's instructions on how to replace the Nicad batteries. You might want to just run 3 wires from the instrument cluster to a convenient location to mount the batteries so in 4 years when it happens again you can easily replace the batteries. You need to use 3 wires because the center tap of the 2 batteries is used on the SI board as well as the 2 ends.
+
+**Note: The SI board also feeds the tach and "fuel economy" gauge. Trouble with those 2 gauges are often related to screwed-up SI boards.**
+
+Date: Thu, 27 Aug 92 12:56:41 EDT From: "Rick Kjeldsen" To: bmw@balltown.cma.com Subject: Changing service indicator light batteries - LONG
+
+I've gotten a bunch of requests for this, so I'll post it.
+
+This a quick summary of how to change the batteries for the service interval processor on E30 325's. I don't know how much is different with the 5/7 series, but I have a feeling is basically the same. You can also find an article on this is the November '91 Roundel, but what follows is from my experience.
+
+The processor is on a board mounted in the instrument cluster. The batteries are soldered to the board, and a dealer wants ~\$200 because he replaces the whole thing.
+
+To replace the batteries, first remove the instrument cluster from the dash. On the E30, that means first removing the plastic trim below the cluster (at the bottom of the dash just above the steering column) That exposes the bottom screws for a trim piece that wraps around the cluster (couple of screws on the bottom, couple up under the "eyelid") That, in turn, exposes the screws for the cluster itself. There are two (I think) on the bottom, and two on black tabs that stick forward from the top of the cluster. Remove them and pull the cluster forward and out. Take a good look before you unplug the wiring, there are 4 or 5 plugs you have to take out. Once you've seen it, you won't have trouble getting it back correctly, they are color and shape coded pretty well.
+
+Now set the cluster face down on a table (careful not to scratch the plastic face!) On the back, there are several (about 8-10) screws, most around the edge, with one or two in the middle. Take them out, and the whole back will come off, and you will be able to see the board (It's the only board in there, along the bottom and goes most of the way from one end to the other). Remove the board.. to do that, you have to remove two things. One is the engine code plug which plugs in to the board from the opposite side (the outside of the instrument cluster). It is a plastic rectangle about 1"x1"x.5". You have to press a tab to unclip it and pull it out. The other thing holding the board is a plastic piece that is held in by one screw. Take the board out, and you will see the batteries in the middle.
+
+Mine were two NiCad AA cells with something like "Varta 500 RST" on them. These are top of the line NiCads. You can replace them with standard replacements (e.g. Radio Shack AA NiCads), or if you have a good electronics store nearby, order them from Varta. Either one will have the same voltage, so work the same, but the Varta's will have more capacity, so last longer when you pull out the car battery, and perhaps not die as soon either. (The Varta's have 600 mAmp hours capacity vs 450 for the Radio Shack AAs. Both are 1.2V).
+
+A possible source of the nicads is E.H. Yost & Company 7344 Tetiva Road Sauk City, Wisconsin 53583 (608) 643-3194
+
+The old batteries are held on by tabs that are welded to the battery on one side, and soldered to the board on the other. Remove the solder with a solder-sucker or solder wick (again, see Radio Shack), straighten the pins and remove the batteries. Be sure to remember the polarity of the batteries for when you reinstall them. The original batteries are marked +/-, but the board isn't.
+
+You have to rig up a way to solder the new batteries to the board. You can take the old mounting tabs off the old batteries, and remount them to the new ones, but that is tough. You can buy batteries with mounting tabs, the Varta's may come with them, I'm not sure. The Radio Shack tabs won't mount directly to the board, I cut them to fit. You could also rig up a wire to go from the tab to the board. Anyway, take a look at it. It's pretty easy to figure something out.
+
+One warning, on my board the tabs were soldered to the board at one point on one end of each battery, and at two on the other end. It turns out that on the end with two connections, one of them is just for strength and has no electrical properties. I just soldered to the one, but if you aren't sure which is which by looking at the board, You can solder a small wire between the two holes and just mount the battery to one. My batteries originally had a small amount of glue holding them to the board. When I replaced them, I replaced it with some silicone gasket material to help keep the batteries from vibrating loose.
+
+All that sounds complicated, but it's really not if you have a little soldering experience. The only things you have to be careful of are to not crack the board while you are playing with it (not a big deal, it is pretty rugged) and when you solder, don't create any bridges (shorts) between leads on the board. That's easy if you just don't use too much solder. It's probably a good idea to charge up the batteries before you install them if you can.
+
+Then just reverse the steps to reassemble the cluster and reinstall it in the dash. Don't forget to put back in the engine code plug! You will have to reset the service interval indicator after you are done, of course.
+
+Good luck, if you have any questions about it, send me a note.
+
+rick
+
+Use CHARGED NiCads ... some boards will NOT charge up a completely dead NiCd battery, and you'll think you need a new board ..
+
+PS: I found this out when the local dealer was starting to change the batteries v. the board .. they told me my instructions didn't work .. so I came down and found out that \*some\* SIS bards will NOT work unless the NiCd batts. are charged \*before\* install And \*yes\* they will now change the batteries, saving their customers mucho \$\$\$ .. over changing an SIS board
+
+## Updates
+
+From: prreitz@amp.com (Paul R. Reitz)\
+Date: Wed, 11 Oct 1995 08:59:20 -0400\
+Subject: Resetting the E30 SI indicator
+
+\>Soo does anyone know what the electronics around all those pins looks like,\
+\>or has anyone ever done any measurements? I'm guessing (again) that in a\
+\>harsh automotive environment the input resistance to any electronics could\
+\>range anywhere from 1k to 50k ohms in order to protect the inputs from\
+\>zaps etc.\
+\>\
+\>For those of us who like to live dangerously (but but refuse to jump\
+\>in first), any Takers?!! who can resist the Resistor?!!\
+Frank et al,\
+I don't know what the electronics look like, but agree that it's safer to use a series resistor when "shorting" the SI reset pins. The electronics probably vary from one model to another (ours is a '91 E30), but based on the test I ran, I'd suggest 1 k ohm series resistance.
+
+After reading the faq and consulting the ETM for this car, I used a handy-dandy (unusual and expensive) 4 decade ganged pushbutton variable resistor in series with the wire from the reset pin to ground. Obviously, any good variable resistor would have worked, but I wanted to get a better idea of exactly what kind of resistance to ground was required. The resistor was set to \> 100k ohms at first, and was incrementally reduced after turning on the ignition. It was down to about 1 k ohm when the lights turned green. However, one important caveat is that I didn't count to 3 or 8 or 20 or whatever, so maybe it would have still reset at a higher resistance if I waited longer.
+
+It makes sense that electronic I/O would be at relatively low impedance to avoid stray pickup from other pulsed electronics in the engine compartment. Anyone with specific knowledge of these electronics willing to step up to the plate?
+
+\- --Paul Reitz\
+BMW CCA \#1167
+
+------------------------------------------------------------------------
+
+From: JonLindsay@aol.com\
+Date: Thu, 8 Feb 1996 06:48:58 -0500\
+Subject: 528e s i batteries\
+
+Here is the routine for replacing the SI Board batteries (and remotely locating them) on a 633, there are differences on the 5 series because of the location of the check light panel, but that is a relatively minor difference.
+
+Here goes (first check to see if any of the instrumentation lights are burned out, now will be the time to note which ones to replace):
+
+1.  Remove the four screws which hold the kick panel under the dash. Either let it hang out of the way, or a) disconnect the connectors to the electric window circuit breaker, and b) disconnect the vacuum hose to the interior temp sensor and put the kick panel in the trunk.
+2.  Remove the three screws which hold the lower plastic cover on the steering column. This exposes a) the door open/key in ignition noise maker which you may want to disable or in my case put a switch in series with it, and b) two bolts which hold the column to the subframe of the dash panel.
+3.  release and pull the steering wheel to its fully extended position, and retighten the steering column adjustor and remove the two bolts. In this position the instrument cluster can be removed without removing the steering wheel. Put a towel on the top of the steering column to protect the cluster when you are manipulating it out of the dash.
+4.  Remove the Check Panel light cover locate to the left of the instrument cluster by lifting the cover at the bottom and popping it out.
+5.  Remove the three screws which hold in the check panel.
+6.  Carefully remove the small (3/4" x 5") plastic cover on the right side of the instrument cluster by prying it out with a thin sharp knife. All four of the screws which hold the cluster in place are now exposed, two on each side. On the right side, don't confuse the two screws with the two which are part of the eight which hold in the right side dash panel-but that is a different story.
+7.  Unscrew the four screws and pull out the entire cluster about 6".
+8.  Disconnect the side mount connector to the headlight switch and the pull out the small headlight indicator light.
+9.  Continue to pull out the cluster as you remove the remaining connectors from the back of the cluster. Two small ones slide down and the others have a black insert that must be pulled out to free the connector and allow it to be removed. All the connectors and their locations are color coded.
+10. Manipulate the cluster out of the space in the dash and remove to kitchen table or workbench. I put down a terry towel.
+11. On the back of the cluster are seven or so screws around the outside which hold the whole thing together. If the unit has never been apart, several will have factory installed plastic clips which tell the shop that the unit is still a virgin (oops, sorry).
+12. Carefully remove the screws (slotted hex) and remove the cover from the instrumentation.
+13. Do not lay the instrumentation face down on the dials. The two side clusters (tach unit & speedometer) are removed by pulling them off their connector posts, manipulating them out and up and setting them aside.
+14. Next separate the main PC board (called the back plane) from the plastic back by carefully sliding a plastic knife in around the edge. This exposes the SI Board which is connected in three places to the main shell; two ribbon cables and a ground. A very small screw driver is helpful here to disconnect the two ribbon cables at the SI board (there is not much room to work).
+15. three small screws hold the SI board in place, one by the batteries is sort of hidden.
+16. Note the solder points for the two batteries, do a drawing of your remote wiring, and have your radio shack battery holder set up. Remove the old batteries (three point support) and remember the polarity. The original batteries were also caulked to the board to reduce stress. Be careful not to touch the CMOS chip, it is very static sensitive. Solder in the new wires and run through a hole you will have to drill in the plastic shell. Go to work with a magnifying glass and check the rest of the solder points on the back of the board, but principally the post connections, they tend to crack the easiest.
+17. Reassemble in reverse order, put charged batteries in holder. I located my new battery holder in the glove box recess next to the flashlight, reset the SI board and the OBC and drive down the coast for a well earned glass of wine.
+
+<!-- -->
+
+1.  Common Problems:
+2.  You may have to remove a bulb or two to get the side clusters out. 2) The ribbon connectors are hard to disconnect.
+3.  Separating the mainboard from the shell may be difficult, go slowly so you don't inadvertently crack the board.
+4.  Your soldering technique is lacking or you use the wrong type of iron. 5) Remove only those screws on the cluster which need to be removed and if there is resistance, you probably overlooked one.
+
+Let me know if all works okay or if you need extra, more specific advice.\
+Jon Nelson\
+'84 633CSi\
+
+------------------------------------------------------------------------
+
+Some generic marketing-speak about the Service Interval Indicator <a href="http://www.bmwusa.com/driving/whatisbmw/durable.html#sii" target="_top">SII</a> can be found at the BMWNA site.
+
+------------------------------------------------------------------------
+
+[(return to contents)](sil.html#contents)

@@ -1,0 +1,33 @@
+Question 10.19 
+
+ Question 10.19 
+ How can I list all of the pre #define d identifiers?
+
+ There's no standard way, although it is a common need.
+If the compiler documentation is unhelpful,
+
+the
+most expedient way is probably to extract
+printable strings
+from the compiler or preprocessor executable
+with something like the
+Unix
+
+ strings utility.
+Beware that many traditional
+system-specific
+pre #define d identifiers
+(e.g. `` unix '')
+are non-Standard
+(because they clash with the user's namespace)
+and are being removed or renamed.
+
+Read sequentially:
+ prev 
+ next 
+ up 
+ top 
+
+This page by Steve Summit 
+// Copyright 1995
+// mail feedback

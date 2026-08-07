@@ -1,0 +1,34 @@
+IEEE-695 
+
+ IEEE 695 File Format information! 
+
+ You'll find the HP Documents here . The spec is in UNIX Compressed, PostScript format, so you'll want either a PostScript printer, or GhostScript to print it out.
+
+ Alternate FTP site here .
+
+ You may want to browse comp.compilers to find out more information about manipulating object files.
+
+ You may also want to browse comp.arch.embedded to find out more information on IEEE 695.
+
+ Also, the GNU Binutils BFD have a IEEE 695 Parser written in C which you can download and use for free.
+ Or www.delorie.com or a simtel mirror -->
+ Also see the BinUtils BFD module of GNU sourcecode for the file ieee.c 
+ http://sources.redhat.com/cgi-bin/cvsweb.cgi/src/binutils/ieee.c?cvsroot=src 
+
+ www.wotsit.org 
+
+ Outline of actual IEEE 695 spec, this is not that useful in practice as the HP/Microtec implementation is the defacto standard.
+
+ I used the information on the IEEE-695 spec to write a reader/writer to repair defective IEEE-695 files produced by a Microtec linker. The defects were caused by errors in the input, not the linker itself! The Alsys Ada compiler produced object files with errors. The three I fixed were,
+
+ local symbols set as globals, reset them to local type
+ creating unique names for nested packages, so you could reference them with the debugger, did this by adding a unique number on the end
+ adding end-of-function labels, that the compiler optimized away any label at the end of a function/procedure, these are essential to white-box testing!
+
+ How to debug an IEEE695 file using prnieee.
+
+ A Dr Dobbs Journal article on IEEE695.
+
+ If you have questions about the IEEE-695 spec, email me, Dale Beuning, I may be able to help out.
+
+email: dalus at eskimo.com, replace ' at ' with '@'

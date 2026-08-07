@@ -1,0 +1,79 @@
+HORSY : A System to meet a Central Banks Statutory Reporting Requirements 
+
+ In India, RBI chooses two of the four Fridays in a month 
+ as reporting Fridays when banks have to maintain prescribed reserve ratios. 
+ Banks which do not maintain these ratios have to pay considerable penalties 
+ and, in order to avoid such penalties banks tend to maintain excess reserves. 
+ This is largely due to banks not being able to obtain timely data from their 
+ branches. This results in blocking of resources into non-lucrative cash 
+ and government securities rather than being profitably deployed as loans 
+ or call money. 
+ HORSY is a unique tool used to manage resources effectively and efficiently 
+ using cost effective and simple technology. 
+
+ Key 
+ Features : 
+
+ India 
+ Oriented 
+ HORSY 
+ has been specifically designed for Indian conditions. 
+
+ Cost 
+ Effective 
+ HORSY 
+ operates on a low end, stand alone PC and dial-up modems making it a very 
+ cost effective system. 
+ Fast 
+ HORSY 
+ sends data electronically which reaches the head office in seconds. 
+ Currency 
+ independent 
+ HORSY 
+ allows multiple currencies enabling effective reporting of FCNR deposits 
+ and treatment of NRE / NRO funds as independent currencies. 
+ Branch 
+ Templates 
+ Head 
+ Office can create multiple reporting templates for different branches. 
+
+ Immediate 
+ Consolidation 
+ HORSY 
+ sends reports as structured messages hence data from thousands of branches 
+ can be consolidated in minutes. 
+
+ System 
+ Features : 
+
+ Structured 
+ Report Formats 
+ Reports 
+ are presented in a structured format allowing an interface to the Head 
+ Office baseline system. 
+ Multiple 
+ Report Capabilities 
+ HORSY 
+ allows branches to create any number of reports allowing Head Office to 
+ make multiple investment decisions. Head office can also use HORSY for 
+ weekly DTL reporting. 
+ Microsoft 
+ Excel Interface 
+ HORSY 
+ interfaces to Microsoft Excel allowing Head Office to conduct ad-hoc data 
+ analysis. 
+ Security 
+ HORSY 
+ uses Server Passwords, Testkeys, Symmetrical Encryption, Public Key Infrastructure 
+ (PKI) based Asymmetrical Encryption and Hardware tokens making it a highly 
+ secure system. 
+ User 
+ Friendly 
+ HORSY 
+ is a Windows based product having a graphical interface allowing officers 
+ with little or no computer exposure to easily use the system. 
+ Profit 
+ Center 
+ Unlike 
+ most systems which are cost centers,HORSY allows a bank to generate profits 
+ by effective money market operations.

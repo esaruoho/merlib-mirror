@@ -1,0 +1,343 @@
+/* Stylesheet for eskimo.com website */
+/* C.M. Connelly <c@eskimo.com>      */
+/* $Id: new.css,v 1.10 2002/04/20 01:37:25 claire Exp $ */
+
+/* GhostWhite      = #f8f8ff  */
+/* MidnightBlue    = #191970  */
+/* MediumSlateBlue = #7b68ee  */
+/* MistyRose       = #ffe4e1  */
+/* SlateBlue       = #836fff  */
+/* a shiny blue    = #3300cc; */
+
+body {
+   font: 12px/1.25em Verdana, Arial, Helvetica, sans-serif;
+   background: #66c;
+   color: #191970;
+   padding: 0;
+}
+
+/* -------------------- Set Headers -------------------- */
+h1   {
+   font-size:   2em;
+}
+h2   {
+   font-size:   1.75em;
+}
+h3   {
+   font-size:   1.5em;
+}
+h4, h5   {
+   font-size:   1.25em;
+}
+   
+h1, h2, h3, h4, h5, h6   {
+/*   margin:   1.25em 0 0 0; */
+   font-family: arial, verdana, sans-serif;
+}
+
+
+/* -------------------- Other elements -------------------- */
+
+p {   /* primitive version for css-1 agents */
+   margin:   .5em 0;
+}
+
+code, tt, pre   {
+   font-family:   monaco, "andale mono", courier, "courier new", monospace;
+/*   color:   #000000; */
+   background-color: transparent;
+}
+
+.debauthor {
+   float: right;
+   padding-right: 10px;
+}
+
+.arrow {
+   font: 9px Verdana, Arial, sans-serif;
+   text-align: right;
+}
+
+.error {
+       color: white;
+       background: red;
+       padding: 3px;
+}
+
+.center {
+   text-align: center;
+}
+
+.index {
+   font-size: smaller;
+   font-weight: bold;
+   margin-top: -.3em;
+}
+
+h3.index {
+   font-weight: bold;
+   font-size: medium;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+/* -------------------- Links -------------------- */
+a   {
+   text-decoration: none;
+   font-weight: bold;
+}
+a:link   {
+   color:   #3300cc;
+   background-color: transparent;
+}
+a:visited   {
+   color: #330099;
+   background-color: transparent;
+}
+a:active   {
+   color:   #ff33ff;
+   background-color: transparent;
+}
+a:hover   {
+   background-color: transparent;
+   text-decoration: underline;
+}
+
+
+/* -------------------- Major <div>s -------------------- */
+
+/* -------------------- #header -------------------- */
+
+#header {
+   vertical-align: top;
+   color: white;
+   background: transparent;
+   margin-bottom: 65px;
+}
+
+#header h1 {
+   text-align: right;
+   padding-top: 10px;
+} 
+#header img {
+   position: absolute;
+   top: 10px;
+   left: 10px;
+}
+#header a:link {
+   font-style: italic;
+   background: inherit;
+   color: white;
+}
+
+#header a:hover {
+   text-decoration: none;
+}
+
+/* -------------------- #content -------------------- */
+
+#content {
+   background: #ccccff;
+   color: inherit;
+   border: 1px ridge white;
+   padding: 20px 5% 5% 10px;
+}
+
+#content p+p   {   /* sophisticated alternative for css-2 agents */
+   margin-top:   -.5em;
+   text-indent:   5%
+}
+
+/* -------------------- #footer -------------------- */
+
+#footer {
+   clear: both;
+   font: 10px/1 Verdana,Arial,Helvetica,sans-serif;
+   border: ridge 2px white;
+   padding: 10px; 
+   margin: 0 10px 0 0;
+}
+#footer p+p {
+   margin-top: -.5em;
+   text-indent: 0;
+}
+#footer img {
+   float: right;
+}
+
+
+/* -------------------- #navbar -------------------- */
+
+#navbar {
+   margin-top: -20px;
+   text-align: right;
+   color: white;
+   background: transparent;
+}
+#navbar a:link {
+   color: #ccccff;
+   background-color: transparent;
+   padding: 2px; 
+   font-size: 12px;
+   font-family: Verdana, Arial, sans-serif;
+   font-weight: bold;
+}
+#navbar a:visited   {
+   color: #ccccff;
+   background-color: transparent;
+}
+#navbar a:hover   {
+   background-color: #ccccff;
+   color: #3300cc;
+   text-decoration: none;
+}
+#navbar a:active   {
+   color:   #ff33ff;
+   background-color: transparent;
+}
+
+.secnavlinks {
+   padding: 3px;
+   font: 10px Verdana, Arial, sans-serif;
+} 
+
+#navbar .thispagelink {
+   color: #3300cc;
+   border: 2px dotted yellow;
+   background: #ccccff; 
+   padding: 1px;
+   font: 12px bold Helvetica, Verdana, Arial, sans-serif;
+}
+
+/* -------------------- blog-specific -------------------- */
+
+#wrapper {
+   width: 67%;
+   float: right;
+}
+
+/* -------------------- #blogentries -------------------- */
+
+#blogentries {
+   padding: 0 10% 0 10%;
+}
+
+div.entry  {
+   clear: both;
+}
+
+div.day H2 {
+   color: #3300cc;
+   background-color: white;
+   padding: 5px 0 5px 6px;
+   margin-left: -1em;
+   margin-right: -1em;
+/*   border: groove silver 2px; */
+}
+
+#blogentries img {
+   vertical-align: middle;
+}
+
+#blogentries li {
+   clear: both;
+}
+
+img.permalink {
+   vertical-align: top;
+   float: left;
+}
+
+.blogcred {
+     color: white;
+     background: transparent;
+     float: right;
+     font: 10px/1 Verdana,Arial,Helvetica,sans-serif;
+}
+
+.oldentries {
+   clear: both;
+   border: dotted 1px black;
+   color: inherit;
+   background-color: #cccccc;
+   text-align: center;
+}
+/* -------------------- #sidebar -------------------- */
+
+#sidebar {
+   width: 30%; 
+   padding: 0 10px;
+   font: 10px/12px Verdana,Arial,Helvetica,sans-serif;
+}
+
+#sidebar h2 {
+   color: #3300cc;
+   padding: 3px 3px 3px 10px;
+   background-color: white;
+   font-style: italic;
+}
+
+/* -------------------- #sitesearch -------------------- */
+
+#sitesearch form {
+       font: 9px Helvetica, Verdana, Arial, sans-serif;
+       margin-bottom: 5px;
+}
+
+#sitesearch .query {
+       background: white;
+       color: #191970;
+       margin: 0 0 2px 0;
+}
+
+#sitesearch button {
+       background: #ccccff;
+       color: #191970;
+/*       float: left;     */
+}
+
+/* -------------------- Badges -------------------- */
+
+#badgearray {
+   text-align: center;
+   margin: 10px;
+}
+
+#badgearray img {
+   vertical-align: middle;
+}
+
+
+/* -------------------- Miscellaneous -------------------- */
+
+#pageindex {
+   border-bottom: 1px white ridge;
+   padding: 5px;
+}
+
+#pageindex h2 {
+   font-size: 1em;
+   margin: 0;
+}
+
+#status {
+   float: left;
+   padding: 1em;
+   margin: 2em;
+}
+
+#licenses {
+   float: left;
+   padding: 1em;
+   margin: 2em;
+}
+
+#Details {
+   margin: 0 20% 0 10%;
+   clear: both;
+   text-align: left;
+}
+
+#calendar td {
+   text-align: right;
+}

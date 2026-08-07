@@ -1,0 +1,9 @@
+Index of /~roger/files/portage 
+
+ Index of /~roger/files/portage 
+ Name Last modified Size Description 
+
+ Parent Directory 19-Jan-2005 17:13 - 
+ dev-lang/ 09-Dec-2004 04:58 - 
+ dev-libs/ 09-Dec-2004 04:58 - 
+ media-plugins/ 09-Dec-2004 04:58 -

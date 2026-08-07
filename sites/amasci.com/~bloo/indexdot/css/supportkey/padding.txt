@@ -1,0 +1,175 @@
+CSS specification/browser support page: Padding Properties 
+
+ CSS Support History 
+ = Index DOT Css by Brian Wilson 
+[ indexdot@blooberry.com ] = 
+
+ &#160;&#160; Main Index | 
+ Property Index | 
+ CSS Support History |
+ Browser History &#160;&#160; 
+
+ Syntax | Units | 
+ Fonts | Text |
+ Colors/Backgrounds | Scrollbars |
+ Outlines | Lists 
+
+ &#160;&#160;&#160; Tables | Classification |
+ Dimensions | Positioning |
+ Margins | Padding |
+ Borders &#160;&#160;&#160; 
+
+ Dynamic Content | Generated Content |
+ International | Printing |
+ Aural | Extensions 
+
+ Property 
+ Value 
+ 1.0 
+ 2.0 
+ &#160; 
+ Internet Explorer 
+ Netscape 
+ Opera 
+
+ padding 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Length shorthand] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ [Percentage shorthand] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ padding-top 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Length] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ padding-right 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Length] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ padding-bottom 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Length] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ padding-left 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ inherit 
+ -- 
+ X 
+ -- 
+ 6.0 
+ -- 
+
+ [Length] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B2 
+ 3.5 
+
+ [Percentage] 
+ X 
+ X 
+ 4.0B2 
+ 4.0B3 
+ 3.5 
+
+ Boring Copyright Stuff...

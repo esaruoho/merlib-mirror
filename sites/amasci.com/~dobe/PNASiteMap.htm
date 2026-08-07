@@ -1,0 +1,476 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- New format for Dobe's Punny Name Archive on 12-24-2001 -->
+<!-- Hand-written XHTML, XML, XSLT, CSS and JS suite -->
+	 <!-- filename: PNASiteMap.htm -->
+<!-- 
+		Dobe Doinat's Punny Name Archive
+		MegaloMedia Copyright December 24, 2001
+		John W. Hartman (Dobe Doinat)
+		http://www.eskimo.com/~dobe/
+		mailto://dobe@eskimo.com
+		IDE of choice: XMLWriter, Wattle Software
+		ISP of choice: eskimo.com, Bob is Everywhere! 
+-->
+			
+<html xmlns="http://www.w3.org/1999/xhtml">
+	 <head>
+	  <title >Dobe Doinat's Punny Name Archive Site Map</title>
+	  <meta name="Keywords" content="Puns,Punny,Fun,Funny,PNA,XHTML,CSS,XML,XSL,XSLT,JavaScript,tutorial,authoring,programming,learning,reference,examples,samples,source code,demos,tips,links,FAQ,forms,frames,XHTMLGuide" />
+	  <meta name="Description" content="Dobe Doinat's Punny Name Archive displayed as Example Data Access Using Markup Languages in a Networked Environment targeted for MSIE5+" />
+	  <meta http-equiv="Content-Type" content="text/html" />
+	<!--*/  /*  --> 
+										<!--  *********Insert call to external CSS file here********* -->
+	<link rel="stylesheet" href="dobeDefaultEN.css" />
+	
+	<!--*/ HERE'S THE 'selectURLLink' FUNCTION USED IN THE IFRAME URL EXCHANGER! /*  --> 
+	<script language="JavaScript" type="text/javascript">
+	<!-- //Hide from older Browsers
+	
+		initIt()
+
+	  function initIt(){
+	    var defaultURL = "index.htm";
+	    //var defaultTEXT = "<DOC><node>TEXT</node></DOC>";
+	    
+	  		tempColl = document.all.tags("iFrame");
+		  		//for (i=0; i<tempColl.length; i++) {
+		  		//	if (tempColl(i).id == "dobeVBiFrame01") {
+		  		//		iFrameEl = tempColl(i); 
+		  		//		iFrameEl.src = defaultURL;
+		  		//	}
+		  		//}
+		  //See ~line 205 //Didn't work for me...
+	  		//if (XMLsource.value == "") { 
+	  		//	XMLsource.value = defaultTEXT;
+	  		//	}
+	  }
+
+  function selectURLLink(argURL) {
+     //alert('\n selectURLLink now begins');
+    newLoc=argURL.options[argURL.selectedIndex].value
+  		tmpColl = document.all.tags("iFrame");
+		if (tmpColl(0).id == "dobeiFrame01") tmpColl(0).src =(newLoc);
+  }
+
+  function viewSource()
+   {
+   alert("\nRelax!!  Dobe's only loading the following URL:  file:///C|/ \n Notice that it's a display only! It's not as if I can write to your hard disk!");
+  	window.open('file:///C|/');
+   }
+
+ //Unhide from older Browsers -->
+
+</script>
+
+
+<SCRIPT LANGUAGE="JScript">
+//This adds the current mouse location to the browser status line!
+function reportMove() {
+    window.status = "X=" + window.event.x + " Y=" + window.event.y;
+}
+</SCRIPT>
+  </head>
+	
+<body onmousemove="reportMove()">
+
+<!-- Setting up a named anchor to start of document-->
+   <div id="PNASiteMap_Start"></div>
+
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_MenuLinks_EN.js">
+	<!-- You don't need comments if there's nothing inside the &lt;script&gt; tags
+	 // -->
+	</script>
+	
+<!--  // -->
+
+	<table border="0" width="90%"><tr>
+		<td class="specialBROWN150" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='170%';" onMouseout="this.style.color='brown'; this.style.fontSize='160%';">
+		Dobe Doinat's PNA <b>IFrame Viewer</b> SiteMap 
+		</td>
+	</tr></table>
+	<br /><br />
+
+ <table border="0" width="100%" rows="1" cols="1" title="There's many files more if you scroll down!">
+  <tr>
+    <td width="100%" valign="top" align="center">
+
+     <form>
+<!-- See line ~197 to change default IFrame page... -->
+	  <select width="100%" size="5" name="dropdown01" onChange="selectURLLink(this.form.dropdown01)">
+	   <option value="./_dobeTutAllCommon/tug.jpg">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/TUG.JPG &nbsp;&nbsp;&nbsp; The Snohomish Wheelhouse </option>  
+	   <option value="JohnWHartman_Resume.xml">&nbsp;&nbsp;&nbsp;JohnWHartman_Resume.xml &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="JohnWHartman_Resume.xsl">&nbsp;&nbsp;&nbsp;JohnWHartman_Resume.xsl &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA.xml">&nbsp;&nbsp;&nbsp;PNA.xml &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA.xsl">&nbsp;&nbsp;&nbsp;PNA.xsl &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XHTML.HTM">&nbsp;&nbsp;&nbsp;PNA500_XHTML.HTM &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XML.XML">&nbsp;&nbsp;&nbsp;PNA500_XML.XML &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XSLT.XML">&nbsp;&nbsp;&nbsp;PNA500_XSLT.XML &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XSLT.XSL">&nbsp;&nbsp;&nbsp;PNA500_XSLT.XSL &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNADataIsland.htm">&nbsp;&nbsp;&nbsp;PNADataIsland.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNAReadme.txt">&nbsp;&nbsp;&nbsp;PNAReadme.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNAdobeWebTut.htm">&nbsp;&nbsp;&nbsp;PNAdobeWebTut.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="dobeContextMenu.htm">&nbsp;&nbsp;&nbsp;dobeContextMenu.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="dobeDefaultEN_css.txt">&nbsp;&nbsp;&nbsp;dobeDefaultEN_css.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="index.html">&nbsp;&nbsp;&nbsp;index.html &nbsp;&nbsp;&nbsp;</option> 	    
+	   <option value="write_Copyright_EN_js.txt">&nbsp;&nbsp;&nbsp;write_Copyright_EN_js.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="write_MenuLinks_EN_js.txt">&nbsp;&nbsp;&nbsp;write_MenuLinks_EN_js.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="---">&nbsp;&nbsp;&nbsp;-------------------------------------------&nbsp;&nbsp;&nbsp;</option>  
+	   <option value="JohnWHartman_Resume_xml.TXT">&nbsp;&nbsp;&nbsp;JohnWHartman_Resume_xml.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="JohnWHartman_Resume_XSL.TXT">&nbsp;&nbsp;&nbsp;JohnWHartman_Resume_XSL.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA_xml.TXT">&nbsp;&nbsp;&nbsp;PNA_xml.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA_XSL.TXT">&nbsp;&nbsp;&nbsp;PNA_XSL.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500XML_xml.TXT">&nbsp;&nbsp;&nbsp;PNA500XML_xml.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XHTML_HTM.TXT">&nbsp;&nbsp;&nbsp;PNA500_XHTML_HTM.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XML_xml.TXT">&nbsp;&nbsp;&nbsp;PNA500_XML_xml.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XSLT_xml.TXT">&nbsp;&nbsp;&nbsp;PNA500_XSLT_xml.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA500_XSLT_XSL.TXT">&nbsp;&nbsp;&nbsp;PNA500_XSLT_XSL.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNADataIsland_HTM.TXT">&nbsp;&nbsp;&nbsp;PNADataIsland_HTM.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNAReadme.txt">&nbsp;&nbsp;&nbsp;PNAReadme.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNAdobeWebTut_HTM.TXT">&nbsp;&nbsp;&nbsp;PNAdobeWebTut_HTM.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="dobeContextMenu_HTM.TXT">&nbsp;&nbsp;&nbsp;dobeContextMenu_HTM.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="dobeDefaultEN_css.txt">&nbsp;&nbsp;&nbsp;dobeDefaultEN_css.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="dobeFamilyTree_HTM.TXT">&nbsp;&nbsp;&nbsp;dobeFamilyTree_HTM.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="index_HTM.TXT">&nbsp;&nbsp;&nbsp;index_HTM.TXT &nbsp;&nbsp;&nbsp;</option> 	    
+	   <option value="write_Copyright_EN_js.txt">&nbsp;&nbsp;&nbsp;write_Copyright_EN_js.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="write_MenuLinks_EN_js.txt">&nbsp;&nbsp;&nbsp;write_MenuLinks_EN_js.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="PNA_dir_htm.TXT">&nbsp;&nbsp;&nbsp;PNA_dir_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="---">&nbsp;&nbsp;&nbsp;-------------------------------------------&nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/DnArrow.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/DnArrow.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/UpArrow.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/UpArrow.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/citylite.jpg">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/citylite.jpg &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/dobeDefault.txt">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/dobeDefault.txt &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/jumpbutton.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/jumpbutton.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/new_site.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/new_site.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/no.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/no.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/open.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/open.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/rainbow1.jpg">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/rainbow1.jpg &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/search_on.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/search_on.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/spacer.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/spacer.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/sun2plutoVertical.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/sun2plutoVertical.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/tools.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/tools.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/tug.jpg">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/tug.jpg &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/twinkle.gif	">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/twinkle.gif	 &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/xml.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/xml.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeTutAllCommon/yes.gif">&nbsp;&nbsp;&nbsp;./_dobeTutAllCommon/yes.gif &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="---">&nbsp;&nbsp;&nbsp;-------------------------------------------&nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll.htm	">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll.htm	 &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Blank.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Blank.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Generic.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Generic.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextBANNERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextBANNERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextCENTERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextCENTERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextFOOTERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextFOOTERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextRIGHTframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextRIGHTframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextBANNERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextBANNERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextCENTERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextCENTERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextFOOTERframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextFOOTERframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextRIGHTframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextRIGHTframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextTOCframe.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextTOCframe.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Parent.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Parent.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Self.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Self.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Top.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Top.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeIFrameTemplate.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeIFrameTemplate.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeNest1FrameTemplate.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeNest1FrameTemplate.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeNest2FrameTemplate.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeNest2FrameTemplate.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeSimpleFrameTemplate.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeSimpleFrameTemplate.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/noframes.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/noframes.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text1.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text1.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text2.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text2.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text3.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text3.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text4.htm	">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text4.htm	 &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units2.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units2.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units3.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units3.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units4.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units4.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/typical.htm">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/typical.htm &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="---">&nbsp;&nbsp;&nbsp;-------------------------------------------&nbsp;&nbsp;&nbsp;</option>  
+	   	   <option value="./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/0_TOC_Frame_Target_dobeTutAll_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll_htm.TXT	">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/0_TOC_Frames_START_dobeTutAll_htm.TXT	 &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Blank_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Blank_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Generic_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Generic_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextBANNERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextBANNERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextCENTERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextCENTERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextFOOTERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextFOOTERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/LinkedTextRIGHTframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/LinkedTextRIGHTframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextBANNERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextBANNERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextCENTERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextCENTERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextFOOTERframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextFOOTERframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextRIGHTframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextRIGHTframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/OriginaltextTOCframe_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/OriginaltextTOCframe_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Parent_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Parent_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Self_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Self_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/Top_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/Top_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeIFrameTemplate_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeIFrameTemplate_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeNest1FrameTemplate_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeNest1FrameTemplate_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeNest2FrameTemplate_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeNest2FrameTemplate_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/dobeSimpleFrameTemplate_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/dobeSimpleFrameTemplate_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/noframes_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/noframes_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text1_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text1_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text2_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text2_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text3_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text3_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/text4_htm.TXT	">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/text4_htm.TXT	 &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+	   <option value="./_dobeFrames_REF/units2_htm.TXT">&nbsp;&nbsp;&nbsp;./_dobeFrames_REF/units2_htm.TXT &nbsp;&nbsp;&nbsp;</option>  
+
+	  </select>  
+     </form>
+    </td>
+  </tr>
+ </table>
+ 
+ 	<table border="0" align="center"><tr>
+		<td class="specialBROWN80I" width="100%" title="PNA" align="left" onMouseover="this.style.color='red'; this.style.fontSize='100%';" onMouseout="this.style.color='brown'; this.style.fontSize='80%';">
+		<b>Choose a file in the selector above, view it in the IFrame below!</b>
+		</td>
+	</tr></table>
+	
+ <table border="0" width="100%" rows="1"cols="1" title="This is called an 'IFrame', which can display one page within another. It automatically adds a vertical scrollbar is the file is long enough, so scroll down on any pages you want to within the IFrame itself!">
+   <tr>
+    <td>
+	 <iFrame
+	   id="dobeiFrame01"
+	   align="center"
+	   frameborder="1"
+	   height="500"
+	   longdesc="Example Schema 01!"
+	   scrolling="true"
+	   src="./_dobeTutAllCommon/tug.jpg"
+	   width="95%">
+	 </iFrame>
+	 
+	<br />&nbsp;<br />&nbsp;
+	 
+		The (default) picture of a <b>tugboat</b> present in the IFrame, 
+		<span title="She sunk about a dozen years ago and the wheelhouse was salvaged." align="left" onMouseover="this.style.color='red'; this.style.fontSize='100%';" onMouseout="this.style.color='brown'; this.style.fontSize='80%';">
+		  <a href="./_dobeTutAllCommon/tug.jpg"><b>TUG.JPG</b> </a>
+	    </span>
+		was taken in the 1950's.<br />
+		The salvaged wheelhouse is presently a big garden ornament / guest room in my back yard.
+	
+    </td>
+   </tr>
+ </table>
+
+<hr align="center" color="darkbrown" size="3" width="65%" /><br />
+
+ 
+ 	<table border="0" width="90%" align="left"><tr>
+		<td class="specialBROWN80I" width="100%" title="(On this page)" align="left" onMouseover="this.style.color='red'; this.style.fontSize='100%';" onMouseout="this.style.color='brown'; this.style.fontSize='80%';">
+		<b>Other interesting XHTML and JavaScript</b>
+		</td>
+	</tr></table>
+	<br /><br />
+
+ 	<table border="0" width="90%" align="left">
+ 	<tr>
+ 		<td>
+			<ul class="links">
+			<li><a href="#DobeDare"><b>Dobe's Dare</b></a>&nbsp;&nbsp;&nbsp;The old "Yikes" button again!</li>
+			<li><a href="#XMLSyntax"><b>Check the XML Syntax</b></a>&nbsp;&nbsp;&nbsp;Does not validate!</li>
+			<li><a href="#InsertDynamicText"><b>Insert Dynamic Text</b></a>&nbsp;&nbsp;&nbsp;Enter text and add it to this very page!</li>
+			<li><a href="#CursorTrackingStatusLine"><b>Watch the Status Line</b></a>&nbsp;&nbsp;&nbsp;
+			See the code that causes this page to track your mouse position in the status line!</li>
+			</ul>
+		</td>
+	</tr>
+	</table>
+	
+	<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;
+	<hr align="center" color="darkbrown" size="3" width="65%" />
+
+	 
+<!--  /
+ action="DONT-WORRY-ABOUT-CGI.cgi" method="get"
+select size="3" name="dropdown01" onChange="selectionIsLink(this.form.dropdown01)"
+/ -->
+
+	<h2 title="Only tested in MSIE Browser 5.0+" id="DobeDare">Dobe's Dare!</h2>
+		<div class="small_80Lbi"><a href="#PNASiteMap_Start">Back to Start</a></div>
+<blockquote>Explore Your Own Roots!<br />
+But would you recognize them if you saw them?
+</blockquote>
+<blockquote>
+<FORM>
+<!--       Relax!!  We're only loading the following URL: " file:///C|/ "       -->
+			<INPUT TYPE="button" Value="YIKES!" onClick=" viewSource() " >
+</FORM>
+
+Check it out!! It won't byte.<br />
+</blockquote>
+
+<hr align="center" color="darkbrown" size="3" width="65%" />
+	<h2 title="Only tested in MSIE Browser 5.0+" id="XMLSyntax">Check the syntax</h2>
+		<div class="small_80Lbi"><a href="#PNASiteMap_Start">Back to Start</a></div>
+<br />
+<blockquote>XML is a highly structured language. All XML must be 'well-formed' and it may also
+be 'valid'. XML must have <b>both</b> a start tag and an end tag, 
+and use the proper syntax. <br />
+<br />Try creating an XML element with start tag, end tag, and a 
+value on a single line,<br /> 
+(Example: <b>&lt;DOC&gt;&lt;NODE&gt;VALUE&lt;/NODE&gt;&lt;/DOC&gt;</b>)<br />
+then click the 'Well-formed?' button to see if the XML is well-formed.
+</blockquote><br />
+<center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input id="XMLsource" size="50" /><br />
+<input id="wellFormed" onclick="checkIfWellFormed();" type="button" value="Well-formed?" />
+ <XML id=xmlid></XML>
+</center>
+
+<script language=JScript>
+<!--  
+function checkIfWellFormed(){
+	  if (XMLsource.value != ""){
+		xmlid.loadXML(XMLsource.value);
+		if (xmlid.parseError.reason == "")
+			alert("Your XML is well-formed.");
+		else
+		    alert("Error at position " + xmlid.parseError.linepos + ": " + xmlid.parseError.reason);
+		}
+	  else alert("Please enter an XML element.");	
+		
+		}
+//-->
+</script>
+
+
+
+
+<hr align="center" color="darkbrown" size="3" width="65%" />
+	<h2 title="Only tested in MSIE Browser 5.0+" id="InsertDynamicText">Insert Dynamic Text</h2>
+		<div class="small_80Lbi"><a href="#PNASiteMap_Start">Back to Start</a></div>
+<br />
+<blockquote>You can enter text just about anywhere you want to in a dynamic document.<br />
+For instance, type something into the box below and then press the button!<br /><br />
+</blockquote>
+<center>
+<span id="AddThisSectionLater1" style="DISPLAY: none">
+&nbsp;<span id="fillElement1"></span>&nbsp;
+</span>
+
+<span id="VisibleSection" style="DISPLAY: block">
+<input id="UserFilled" /><br />
+<input id="insertTextButton" onclick="fillXMLExample()" type="button" value="Insert Text" />
+</span>
+</center>
+
+<span id="AddThisSectionLater2" style="DISPLAY: none">
+&nbsp;<span id="fillElement2"></span>&nbsp;
+</span>
+
+
+
+<br />
+	<script>
+		function fillXMLExample(){
+			if (UserFilled.value == "")
+				alert("Enter characters into the text box!");
+			else {
+			    userString = UserFilled.value ; 
+			   	document.all.AddThisSectionLater1.style.display = 'block';
+			   	document.all.AddThisSectionLater2.style.display = 'block';
+			    document.all.fillElement1.innerHTML = "<span class='insertInnerHTMLdemo'>" + userString + "</span>";
+			    }
+			    myString = "The code looks like this:<br /><br />" ; 
+				myString = myString + "&lt;center&gt;<br />" ;
+				myString = myString + "&lt;span id='AddThisSectionLater1' style='DISPLAY: none'&gt;<br />" ;
+				myString = myString + "&nbsp;&lt;span id='fillElement1'&gt;&lt;/span&gt;&nbsp;<br />" ;
+				myString = myString + "&lt;/span&gt;<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "&lt;span id='VisibleSection' style='DISPLAY: block'&gt;<br />" ;
+				myString = myString + "&lt;input name='UserFilled' /&gt;&lt;br /&gt;<br />" ;
+				myString = myString + "&lt;input name='insertTextButton' onclick='fillXMLExample()' type='button' value='Insert Text' /&gt;<br />" ;
+				myString = myString + "&lt;/span&gt;<br />" ;
+				myString = myString + "&lt;/center&gt;<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "&lt;span id='AddThisSectionLater2' style='DISPLAY: none'&gt;<br />" ;
+				myString = myString + "&nbsp;&lt;span id='fillElement2'&gt;&lt;/span&gt;&nbsp;<br />" ;
+				myString = myString + "&lt;/span&gt;<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "&lt;br /&gt;<br />" ;
+				myString = myString + "&lt;hr align='center' color='darkbrown' size='3' width='65%' /&gt;<br />" ;
+				myString = myString + "&lt;br /&gt;<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "	&lt;script&gt;<br />" ;
+				myString = myString + "		function fillXMLExample(){<br />" ;
+				myString = myString + "			if (UserFilled.value == '')<br />" ;
+				myString = myString + "				alert('Enter characters into the text box!');<br />" ;
+				myString = myString + "			else {<br />" ;
+				myString = myString + "			    userString = UserFilled.value ; <br />" ;
+				myString = myString + "			   	document.all.AddThisSectionLater1.style.display = 'block';<br />" ;
+				myString = myString + "			   	document.all.AddThisSectionLater2.style.display = 'block';<br />" ;
+				myString = myString + "			    document.all.fillElement1.innerHTML = '&lt;span class='insertInnerHTMLdemo'&gt;' + userString + '&lt;/span&gt;';<br />" ;
+				myString = myString + "			    }<br />" ;
+				myString = myString + "			    myString = 'The code looks like this:&lt;br /&gt;' ; <br />" ;
+				myString = myString + "			    myString = myString + '&lt;br /&gt;' ; <br />" ;
+				myString = myString + "			    document.all.fillElement2.innerHTML = myString;<br />" ;
+				myString = myString + "<br />" ;
+				myString = myString + "		}<br />" ;
+				myString = myString + "	&lt;/script&gt;<br />" ;
+				myString = myString + "<br />" ;
+			    document.all.fillElement2.innerHTML = myString;
+		}
+	</script>
+	
+<hr align="center" color="darkbrown" size="3" width="65%" />
+	<h2 title="This is simple JavaScript!" id="CursorTrackingStatusLine">Watch the Status Line (while you move your cursor!)</h2>
+		<div class="small_80Lbi"><a href="#PNASiteMap_Start">Back to Start</a></div>
+<br />
+		<h3>The code that has the Status Line tracking the cursor:</h3>
+	<blockquote>
+ <table border="1" width="85%" cols="1" rows="1">
+   <tr>
+   <td>
+		<br />&nbsp;&nbsp;&nbsp;&lt;<b>head</b>&gt;<br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<b>SCRIPT</b> LANGUAGE="JScript"&gt;<br /><br />
+		&nbsp;//This adds the current mouse location to the browser status line!<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;function <b>reportMove()</b> <big>{</big><br />
+		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		    <b>window.status = "X=" + window.event.x + " Y=" + window.event.y;</b><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<big>}</big><br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<b>/SCRIPT</b>&gt;<br /><br />
+		  &nbsp;&nbsp;&nbsp;&lt;<b>/head</b>&gt;<br /><br />
+		&nbsp;//The <b>reportMove() function</b> is called from the &lt;<b>body</b>&gt; element like so:<br />
+		<br />&nbsp;&lt;<b>body</b> onmousemove="<b>reportMove()</b>"&gt;<br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other elements and attributes and content of page...]<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br /><br />
+		&nbsp;&lt;<b>/body</b>&gt;<br /><br />
+   </td>
+   </tr>
+ </table>
+	</blockquote>
+	<br />
+	
+<!-- //Footer -->
+ <table border="1" width=100% cols="2" rows="1" cellpadding="10" id="dobeXHTML_IntroPara">
+   <tr>
+   <td valign="top" align="center" width=40%>
+	<!--   The following file must be in this directory! 
+	            This site copyright 2001 
+	       by John &quot;Dobe Doinat&quot; Hartman, 
+	               All Rights Reserved.
+	-->
+							<!--  *********Insert call to external JS file here********* -->
+	<script type="text/javascript" 
+	        src="write_Copyright_EN.js">
+	</script>
+	
+   </td>
+   <td valign="top" align="left" width=60% class="small_70bi">
+   Cut-and-pasting of code permitted for non-commercial use.<br />
+   Check out my source code: <b>&lt;Right-Click&gt; | View Source</b> <br />
+   Thank you. <br />
+	<a href="#PNASiteMap_Start"><center><b>Back to the Beginning of this page</b></center></a>
+   </td>
+  </tr>
+ </table>
+ 
+</body>
+</html>
